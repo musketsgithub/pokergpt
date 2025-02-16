@@ -1,0 +1,962 @@
+﻿PokerStars Hand #254513356937:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:37:06 WET [2025/01/23 7:37:06 ET]
+Table 'Syrma IV' 6-max Seat #2 is the button
+Seat 1: DL1B ($100 in chips) is sitting out
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: fedor0f ($101.50 in chips) 
+Pippa83: posts small blind $0.50
+blistein: posts big blind $1
+DL1B: sits out 
+*** HOLE CARDS ***
+fedor0f: raises $1 to $2
+ptolejmus: folds 
+Pippa83: folds 
+blistein: calls $1
+*** FLOP *** [2c 4s 5c]
+blistein: bets $1.46
+fedor0f: calls $1.46
+*** TURN *** [2c 4s 5c] [2d]
+blistein: bets $6.56
+trueYes.3970 joins the table at seat #4 
+trueYes.3970 is disconnected 
+fedor0f: calls $6.56
+*** RIVER *** [2c 4s 5c 2d] [Jd]
+blistein: checks 
+fedor0f: bets $13.68
+blistein: folds 
+Uncalled bet ($13.68) returned to fedor0f
+fedor0f collected $19.54 from pot
+fedor0f: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.54 | Rake $1 
+Board [2c 4s 5c 2d Jd]
+Seat 1: DL1B
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 5: blistein (big blind) folded on the River
+Seat 6: fedor0f collected ($19.54)
+
+
+
+PokerStars Hand #254513371712:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:39:01 WET [2025/01/23 7:39:01 ET]
+Table 'Syrma IV' 6-max Seat #3 is the button
+Seat 1: DL1B ($100 in chips) is sitting out
+Seat 4: trueYes.3970 ($10 in chips) is sitting out
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: fedor0f ($111.02 in chips) 
+blistein: posts small blind $0.50
+fedor0f: posts big blind $1
+DL1B: sits out 
+*** HOLE CARDS ***
+ptolejmus: folds 
+Pippa83: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to fedor0f
+fedor0f collected $1 from pot
+fedor0f: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: DL1B
+Seat 4: trueYes.3970
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: Pippa83 (button) folded before Flop (didn't bet)
+Seat 5: blistein (small blind) folded before Flop
+Seat 6: fedor0f (big blind) collected ($1)
+
+
+
+PokerStars Hand #254513373126:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:39:13 WET [2025/01/23 7:39:13 ET]
+Table 'Syrma IV' 6-max Seat #5 is the button
+Seat 1: DL1B ($100 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: trueYes.3970 ($10 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: fedor0f ($111.52 in chips) 
+fedor0f: posts small blind $0.50
+DL1B: posts big blind $1
+trueYes.3970: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: raises $1 to $2
+Pippa83: folds 
+trueYes.3970: calls $1
+blistein: folds 
+fedor0f: folds 
+DL1B: folds 
+*** FLOP *** [5c As Qc]
+ptolejmus: bets $1.41
+trueYes.3970: calls $1.41
+*** TURN *** [5c As Qc] [6s]
+ptolejmus: bets $2.13
+trueYes.3970: calls $2.13
+*** RIVER *** [5c As Qc 6s] [5d]
+ptolejmus: bets $4.46 and is all-in
+trueYes.3970: folds 
+Uncalled bet ($4.46) returned to ptolejmus
+ptolejmus collected $11.95 from pot
+*** SUMMARY ***
+Total pot $12.58 | Rake $0.63 
+Board [5c As Qc 6s 5d]
+Seat 1: DL1B (big blind) folded before Flop
+Seat 2: ptolejmus collected ($11.95)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: trueYes.3970 folded on the River
+Seat 5: blistein (button) folded before Flop (didn't bet)
+Seat 6: fedor0f (small blind) folded before Flop
+
+
+
+PokerStars Hand #254513382752:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:40:27 WET [2025/01/23 7:40:27 ET]
+Table 'Syrma IV' 6-max Seat #6 is the button
+Seat 1: DL1B ($100 in chips) 
+Seat 2: ptolejmus ($16.41 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: trueYes.3970 ($4.46 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: fedor0f ($111.02 in chips) 
+DL1B: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+trueYes.3970: raises $3.46 to $4.46 and is all-in
+blistein: folds 
+fedor0f: folds 
+DL1B: folds 
+ptolejmus: folds 
+Uncalled bet ($3.46) returned to trueYes.3970
+trueYes.3970 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: DL1B (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: trueYes.3970 collected ($2.50)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: fedor0f (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513384756:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:40:43 WET [2025/01/23 7:40:43 ET]
+Table 'Syrma IV' 6-max Seat #1 is the button
+Seat 1: DL1B ($100 in chips) 
+Seat 2: ptolejmus ($15.41 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: trueYes.3970 ($5.96 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: fedor0f ($111.02 in chips) 
+ptolejmus: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: raises $4.96 to $5.96 and is all-in
+blistein: calls $5.96
+fedor0f: folds 
+DL1B: folds 
+ptolejmus: folds 
+Pippa83: folds 
+*** FLOP *** [5h Js 6d]
+*** TURN *** [5h Js 6d] [7d]
+*** RIVER *** [5h Js 6d 7d] [2d]
+*** SHOW DOWN ***
+trueYes.3970: shows [Ah Kd] (high card Ace)
+blistein: shows [Kh As] (high card Ace)
+trueYes.3970 collected $6.38 from pot
+blistein collected $6.37 from pot
+*** SUMMARY ***
+Total pot $13.42 | Rake $0.67 
+Board [5h Js 6d 7d 2d]
+Seat 1: DL1B (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) folded before Flop
+Seat 4: trueYes.3970 showed [Ah Kd] and won ($6.38) with high card Ace
+Seat 5: blistein showed [Kh As] and won ($6.37) with high card Ace
+Seat 6: fedor0f folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513388819:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:41:14 WET [2025/01/23 7:41:14 ET]
+Table 'Syrma IV' 6-max Seat #2 is the button
+Seat 1: DL1B ($100 in chips) 
+Seat 2: ptolejmus ($14.91 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: trueYes.3970 ($6.38 in chips) 
+Seat 5: blistein ($100.41 in chips) 
+Seat 6: fedor0f ($111.02 in chips) 
+Pippa83: posts small blind $0.50
+trueYes.3970: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+fedor0f: folds 
+DL1B: folds 
+ptolejmus: folds 
+Pippa83: folds 
+trueYes.3970: calls $1.20
+*** FLOP *** [2c 2s 5s]
+trueYes.3970: checks 
+blistein: bets $4.66
+trueYes.3970: calls $4.18 and is all-in
+Uncalled bet ($0.48) returned to blistein
+*** TURN *** [2c 2s 5s] [7c]
+*** RIVER *** [2c 2s 5s 7c] [9h]
+*** SHOW DOWN ***
+trueYes.3970: shows [3h Kh] (a pair of Deuces)
+blistein: shows [9c 9s] (a full house, Nines full of Deuces)
+blistein collected $12.60 from pot
+*** SUMMARY ***
+Total pot $13.26 | Rake $0.66 
+Board [2c 2s 5s 7c 9h]
+Seat 1: DL1B folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 4: trueYes.3970 (big blind) showed [3h Kh] and lost with a pair of Deuces
+Seat 5: blistein showed [9c 9s] and won ($12.60) with a full house, Nines full of Deuces
+Seat 6: fedor0f folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513392611:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:41:43 WET [2025/01/23 7:41:43 ET]
+Table 'Syrma IV' 6-max Seat #3 is the button
+Seat 4: trueYes.3970 ($0 in chips) is sitting out
+Seat 5: blistein ($106.63 in chips) is sitting out
+Seat 1: DL1B ($100 in chips) 
+Seat 2: ptolejmus ($14.91 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 6: fedor0f ($111.02 in chips) 
+fedor0f: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+blistein leaves the table
+ptolejmus: raises $1 to $2
+Pippa83: folds 
+fedor0f: folds 
+DL1B: calls $1
+*** FLOP *** [Jc Kh 6h]
+DL1B: checks 
+ptolejmus: bets $2.18
+DL1B: calls $2.18
+*** TURN *** [Jc Kh 6h] [2h]
+Pon4uk.ua joins the table at seat #5 
+DL1B: checks 
+ptolejmus: checks 
+*** RIVER *** [Jc Kh 6h 2h] [5d]
+DL1B: checks 
+trueYes.3970 leaves the table
+ptolejmus: checks 
+*** SHOW DOWN ***
+DL1B: shows [Kc 9c] (a pair of Kings)
+ptolejmus: mucks hand 
+DL1B collected $8.42 from pot
+*** SUMMARY ***
+Total pot $8.86 | Rake $0.44 
+Board [Jc Kh 6h 2h 5d]
+Seat 4: trueYes.3970
+Seat 5: blistein
+Seat 1: DL1B (big blind) showed [Kc 9c] and won ($8.42) with a pair of Kings
+Seat 2: ptolejmus mucked
+Seat 3: Pippa83 (button) folded before Flop (didn't bet)
+Seat 6: fedor0f (small blind) folded before Flop
+
+
+
+PokerStars Hand #254513401211:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:42:49 WET [2025/01/23 7:42:49 ET]
+Table 'Syrma IV' 6-max Seat #6 is the button
+Seat 5: Pon4uk.ua ($100 in chips) is sitting out
+Seat 1: DL1B ($104.24 in chips) 
+Seat 2: ptolejmus ($10.73 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 6: fedor0f ($110.52 in chips) 
+DL1B: posts small blind $0.50
+ptolejmus: posts big blind $1
+Pon4uk.ua: sits out 
+*** HOLE CARDS ***
+Pippa83: raises $1.20 to $2.20
+UnRRRReal joins the table at seat #4 
+fedor0f: folds 
+Pon4uk.ua leaves the table
+DL1B: folds 
+ptolejmus: folds 
+Uncalled bet ($1.20) returned to Pippa83
+Pippa83 collected $2.50 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: Pon4uk.ua
+Seat 1: DL1B (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: Pippa83 collected ($2.50)
+Seat 6: fedor0f (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513403648:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:43:07 WET [2025/01/23 7:43:07 ET]
+Table 'Syrma IV' 6-max Seat #1 is the button
+Seat 4: UnRRRReal ($100 in chips) is sitting out
+Seat 1: DL1B ($103.74 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: Pippa83 ($101.50 in chips) 
+Seat 6: fedor0f ($110.52 in chips) 
+ptolejmus: posts small blind $0.50
+Pippa83: posts big blind $1
+UnRRRReal: sits out 
+*** HOLE CARDS ***
+fedor0f: folds 
+DL1B: raises $1.50 to $2.50
+ptolejmus: raises $7.50 to $10 and is all-in
+Pippa83: folds 
+DL1B: calls $7.50
+*** FLOP *** [Jc 4c 7d]
+*** TURN *** [Jc 4c 7d] [4h]
+*** RIVER *** [Jc 4c 7d 4h] [9s]
+*** SHOW DOWN ***
+ptolejmus: shows [As 8c] (a pair of Fours)
+DL1B: shows [Tc Ac] (a pair of Fours - Ace+Jack+Ten kicker)
+DL1B collected $20 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1 
+Board [Jc 4c 7d 4h 9s]
+Seat 4: UnRRRReal
+Seat 1: DL1B (button) showed [Tc Ac] and won ($20) with a pair of Fours
+Seat 2: ptolejmus (small blind) showed [As 8c] and lost with a pair of Fours
+Seat 3: Pippa83 (big blind) folded before Flop
+Seat 6: fedor0f folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513406940:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:43:32 WET [2025/01/23 7:43:32 ET]
+Table 'Syrma IV' 6-max Seat #2 is the button
+Seat 1: DL1B ($113.74 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: Pippa83 ($100.50 in chips) 
+Seat 4: UnRRRReal ($100 in chips) 
+Seat 6: fedor0f ($110.52 in chips) 
+Pippa83: posts small blind $0.50
+UnRRRReal: posts big blind $1
+*** HOLE CARDS ***
+fedor0f: folds 
+DL1B: raises $1.50 to $2.50
+ptolejmus: folds 
+Pippa83: folds 
+UnRRRReal: folds 
+Uncalled bet ($1.50) returned to DL1B
+DL1B collected $2.50 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: DL1B collected ($2.50)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 4: UnRRRReal (big blind) folded before Flop
+Seat 6: fedor0f folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513468867:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:51:10 WET [2025/01/23 7:51:10 ET]
+Table 'Syrma IV' 6-max Seat #4 is the button
+Seat 2: ptolejmus ($10 in chips) 
+Seat 4: UnRRRReal ($100 in chips) 
+Seat 5: KarP93 ($100 in chips) 
+KarP93: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+UnRRRReal: folds 
+KarP93: raises $2 to $3
+ptolejmus: folds 
+Uncalled bet ($2) returned to KarP93
+KarP93 collected $2 from pot
+KarP93: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 4: UnRRRReal (button) folded before Flop (didn't bet)
+Seat 5: KarP93 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254513471502:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:51:30 WET [2025/01/23 7:51:30 ET]
+Table 'Syrma IV' 6-max Seat #5 is the button
+Seat 2: ptolejmus ($10 in chips) 
+Seat 4: UnRRRReal ($100 in chips) 
+Seat 5: KarP93 ($101 in chips) 
+ptolejmus: posts small blind $0.50
+UnRRRReal: posts big blind $1
+*** HOLE CARDS ***
+KarP93: raises $1.50 to $2.50
+ptolejmus: folds 
+UnRRRReal: folds 
+Uncalled bet ($1.50) returned to KarP93
+KarP93 collected $2.50 from pot
+KarP93: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 4: UnRRRReal (big blind) folded before Flop
+Seat 5: KarP93 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254513473207:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:51:42 WET [2025/01/23 7:51:42 ET]
+Table 'Syrma IV' 6-max Seat #2 is the button
+Seat 2: ptolejmus ($10 in chips) 
+Seat 4: UnRRRReal ($100 in chips) 
+Seat 5: KarP93 ($102.50 in chips) 
+UnRRRReal: posts small blind $0.50
+KarP93: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+ptolejmus leaves the table
+UnRRRReal: folds 
+Uncalled bet ($0.50) returned to KarP93
+KarP93 collected $1 from pot
+KarP93: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 4: UnRRRReal (small blind) folded before Flop
+Seat 5: KarP93 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254513474743:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:51:54 WET [2025/01/23 7:51:54 ET]
+Table 'Syrma IV' 6-max Seat #5 is the button
+Seat 4: UnRRRReal ($100 in chips) 
+Seat 5: KarP93 ($103 in chips) 
+KarP93: posts small blind $0.50
+UnRRRReal: posts big blind $1
+*** HOLE CARDS ***
+KarP93: raises $1.50 to $2.50
+UnRRRReal: raises $8.50 to $11
+KarP93: folds 
+Uncalled bet ($8.50) returned to UnRRRReal
+UnRRRReal collected $5 from pot
+UnRRRReal: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 4: UnRRRReal (big blind) collected ($5)
+Seat 5: KarP93 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254513710535:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:21:32 WET [2025/01/23 8:21:32 ET]
+Table 'Syrma IV' 6-max Seat #2 is the button
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 4: fugitive-Ty3 ($100 in chips) 
+erpaye: posts small blind $0.50
+fugitive-Ty3: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+erpaye: raises $1.50 to $2.50
+fugitive-Ty3: calls $1.50
+*** FLOP *** [7s 8c Kd]
+erpaye: checks 
+fugitive-Ty3: bets $1.57
+erpaye: raises $5.71 to $7.28
+fugitive-Ty3: calls $5.71
+*** TURN *** [7s 8c Kd] [9s]
+erpaye: checks 
+Tykylevits joins the table at seat #5 
+fugitive-Ty3: bets $13.94
+AlexEliseev7 joins the table at seat #1 
+erpaye: calls $13.94
+*** RIVER *** [7s 8c Kd 9s] [3h]
+erpaye: checks 
+fugitive-Ty3: bets $76.28 and is all-in
+erpaye: folds 
+Uncalled bet ($76.28) returned to fugitive-Ty3
+fugitive-Ty3 collected $46.44 from pot
+fugitive-Ty3: doesn't show hand 
+*** SUMMARY ***
+Total pot $47.44 | Rake $1 
+Board [7s 8c Kd 9s 3h]
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: erpaye (small blind) folded on the River
+Seat 4: fugitive-Ty3 (big blind) collected ($46.44)
+
+
+
+PokerStars Hand #254513727892:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:23:32 WET [2025/01/23 8:23:32 ET]
+Table 'Syrma IV' 6-max Seat #3 is the button
+Seat 1: AlexEliseev7 ($100 in chips) is sitting out
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 4: fugitive-Ty3 ($122.72 in chips) 
+Seat 5: Tykylevits ($100 in chips) 
+fugitive-Ty3: posts small blind $0.50
+Tykylevits: posts big blind $1
+AlexEliseev7: sits out 
+*** HOLE CARDS ***
+ptolejmus: raises $9 to $10 and is all-in
+erpaye: folds 
+fugitive-Ty3: folds 
+Tykylevits: folds 
+Uncalled bet ($9) returned to ptolejmus
+ptolejmus collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AlexEliseev7
+Seat 2: ptolejmus collected ($2.50)
+Seat 3: erpaye (button) folded before Flop (didn't bet)
+Seat 4: fugitive-Ty3 (small blind) folded before Flop
+Seat 5: Tykylevits (big blind) folded before Flop
+
+
+
+PokerStars Hand #254513731671:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:23:58 WET [2025/01/23 8:23:58 ET]
+Table 'Syrma IV' 6-max Seat #4 is the button
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: ptolejmus ($11.50 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 4: fugitive-Ty3 ($122.22 in chips) 
+Seat 5: Tykylevits ($100 in chips) 
+Tykylevits: posts small blind $0.50
+AlexEliseev7: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+erpaye: folds 
+fugitive-Ty3: folds 
+Tykylevits: folds 
+Uncalled bet ($0.50) returned to AlexEliseev7
+AlexEliseev7 collected $1 from pot
+AlexEliseev7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: AlexEliseev7 (big blind) collected ($1)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: erpaye folded before Flop (didn't bet)
+Seat 4: fugitive-Ty3 (button) folded before Flop (didn't bet)
+Seat 5: Tykylevits (small blind) folded before Flop
+
+
+
+PokerStars Hand #254513734004:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:24:13 WET [2025/01/23 8:24:13 ET]
+Table 'Syrma IV' 6-max Seat #5 is the button
+Seat 1: AlexEliseev7 ($100.50 in chips) 
+Seat 2: ptolejmus ($11.50 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 4: fugitive-Ty3 ($122.22 in chips) 
+Seat 5: Tykylevits ($100 in chips) 
+AlexEliseev7: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+erpaye: folds 
+fugitive-Ty3: folds 
+Tykylevits: folds 
+AlexEliseev7: folds 
+Uncalled bet ($0.50) returned to ptolejmus
+ptolejmus collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: AlexEliseev7 (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) collected ($1)
+Seat 3: erpaye folded before Flop (didn't bet)
+Seat 4: fugitive-Ty3 folded before Flop (didn't bet)
+Seat 5: Tykylevits (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513735854:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:24:26 WET [2025/01/23 8:24:26 ET]
+Table 'Syrma IV' 6-max Seat #1 is the button
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: ptolejmus ($12 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 4: fugitive-Ty3 ($122.22 in chips) 
+Seat 5: Tykylevits ($100 in chips) 
+ptolejmus: posts small blind $0.50
+erpaye: posts big blind $1
+*** HOLE CARDS ***
+fugitive-Ty3: folds 
+Tykylevits: raises $1.13 to $2.13
+AlexEliseev7: folds 
+ptolejmus: raises $9.87 to $12 and is all-in
+erpaye: folds 
+Tykylevits: folds 
+Uncalled bet ($9.87) returned to ptolejmus
+ptolejmus collected $5.26 from pot
+*** SUMMARY ***
+Total pot $5.26 | Rake $0 
+Seat 1: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) collected ($5.26)
+Seat 3: erpaye (big blind) folded before Flop
+Seat 4: fugitive-Ty3 folded before Flop (didn't bet)
+Seat 5: Tykylevits folded before Flop
+
+
+
+PokerStars Hand #254513739961:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:24:54 WET [2025/01/23 8:24:54 ET]
+Table 'Syrma IV' 6-max Seat #2 is the button
+Seat 4: fugitive-Ty3 ($122.22 in chips) is sitting out
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: ptolejmus ($15.13 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 5: Tykylevits ($100 in chips) 
+erpaye: posts small blind $0.50
+fugitive-Ty3: is sitting out 
+Tykylevits: posts big blind $1
+*** HOLE CARDS ***
+AlexEliseev7: folds 
+ptolejmus: raises $1 to $2
+erpaye: folds 
+Tykylevits: calls $1
+*** FLOP *** [8d 8h Kc]
+Tykylevits: checks 
+ptolejmus: bets $2.18
+Tykylevits: folds 
+Uncalled bet ($2.18) returned to ptolejmus
+ptolejmus collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [8d 8h Kc]
+Seat 4: fugitive-Ty3
+Seat 1: AlexEliseev7 folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) collected ($4.28)
+Seat 3: erpaye (small blind) folded before Flop
+Seat 5: Tykylevits (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254513747539:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:25:47 WET [2025/01/23 8:25:47 ET]
+Table 'Syrma IV' 6-max Seat #3 is the button
+Seat 4: fugitive-Ty3 ($122.22 in chips) is sitting out
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: ptolejmus ($17.41 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 5: Tykylevits ($100 in chips) 
+Tykylevits: posts small blind $0.50
+AlexEliseev7: posts big blind $1
+*** HOLE CARDS ***
+fugitive-Ty3 leaves the table
+ptolejmus: raises $1 to $2
+erpaye: folds 
+Tykylevits: raises $6 to $8
+AlexEliseev7: folds 
+ptolejmus: folds 
+Uncalled bet ($6) returned to Tykylevits
+Tykylevits collected $5 from pot
+Tykylevits: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 4: fugitive-Ty3
+Seat 1: AlexEliseev7 (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop
+Seat 3: erpaye (button) folded before Flop (didn't bet)
+Seat 5: Tykylevits (small blind) collected ($5)
+
+
+
+PokerStars Hand #254513751938:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:26:17 WET [2025/01/23 8:26:17 ET]
+Table 'Syrma IV' 6-max Seat #5 is the button
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: ptolejmus ($15.41 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 5: Tykylevits ($103 in chips) 
+AlexEliseev7: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+erpaye: folds 
+Tykylevits: folds 
+AlexEliseev7: folds 
+Uncalled bet ($0.50) returned to ptolejmus
+ptolejmus collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: AlexEliseev7 (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) collected ($1)
+Seat 3: erpaye folded before Flop (didn't bet)
+Seat 5: Tykylevits (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513753801:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:26:29 WET [2025/01/23 8:26:29 ET]
+Table 'Syrma IV' 6-max Seat #1 is the button
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: ptolejmus ($15.91 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 5: Tykylevits ($103 in chips) 
+ptolejmus: posts small blind $0.50
+erpaye: posts big blind $1
+*** HOLE CARDS ***
+Tykylevits: raises $1.13 to $2.13
+AlexEliseev7: folds 
+ptolejmus: folds 
+erpaye: folds 
+Uncalled bet ($1.13) returned to Tykylevits
+Tykylevits collected $2.50 from pot
+Tykylevits: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 3: erpaye (big blind) folded before Flop
+Seat 5: Tykylevits collected ($2.50)
+
+
+
+PokerStars Hand #254513757197:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:26:53 WET [2025/01/23 8:26:53 ET]
+Table 'Syrma IV' 6-max Seat #2 is the button
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: ptolejmus ($15.41 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 5: Tykylevits ($104.50 in chips) 
+erpaye: posts small blind $0.50
+Tykylevits: posts big blind $1
+*** HOLE CARDS ***
+AlexEliseev7: folds 
+ptolejmus: folds 
+erpaye: calls $0.50
+Tykylevits: raises $3 to $4
+erpaye: folds 
+Uncalled bet ($3) returned to Tykylevits
+Tykylevits collected $2 from pot
+Tykylevits: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: AlexEliseev7 folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: erpaye (small blind) folded before Flop
+Seat 5: Tykylevits (big blind) collected ($2)
+
+
+
+PokerStars Hand #254513762594:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:27:30 WET [2025/01/23 8:27:30 ET]
+Table 'Syrma IV' 6-max Seat #3 is the button
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: ptolejmus ($15.41 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 5: Tykylevits ($105.50 in chips) 
+Tykylevits: posts small blind $0.50
+AlexEliseev7: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+erpaye: folds 
+Tykylevits: raises $2 to $3
+AlexEliseev7: raises $7 to $10
+Tykylevits: folds 
+Uncalled bet ($7) returned to AlexEliseev7
+AlexEliseev7 collected $6 from pot
+AlexEliseev7: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: AlexEliseev7 (big blind) collected ($6)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: erpaye (button) folded before Flop (didn't bet)
+Seat 5: Tykylevits (small blind) folded before Flop
+
+
+
+PokerStars Hand #254513766457:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:27:56 WET [2025/01/23 8:27:56 ET]
+Table 'Syrma IV' 6-max Seat #5 is the button
+Seat 1: AlexEliseev7 ($103 in chips) 
+Seat 2: ptolejmus ($15.41 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 5: Tykylevits ($102.50 in chips) 
+franco232315 joins the table at seat #6 
+AlexEliseev7: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+erpaye: folds 
+Tykylevits: raises $1.50 to $2.50
+franco232315 leaves the table
+AlexEliseev7: folds 
+ptolejmus: folds 
+Uncalled bet ($1.50) returned to Tykylevits
+Tykylevits collected $2.50 from pot
+Tykylevits: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AlexEliseev7 (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: erpaye folded before Flop (didn't bet)
+Seat 5: Tykylevits (button) collected ($2.50)
+
+
+
+PokerStars Hand #254513769382:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:28:16 WET [2025/01/23 8:28:16 ET]
+Table 'Syrma IV' 6-max Seat #1 is the button
+Seat 1: AlexEliseev7 ($102.50 in chips) 
+Seat 2: ptolejmus ($14.41 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 5: Tykylevits ($104 in chips) 
+ptolejmus: posts small blind $0.50
+erpaye: posts big blind $1
+*** HOLE CARDS ***
+Tykylevits: folds 
+AlexEliseev7: folds 
+ptolejmus: folds 
+Uncalled bet ($0.50) returned to erpaye
+erpaye collected $1 from pot
+erpaye: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 3: erpaye (big blind) collected ($1)
+Seat 5: Tykylevits folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513771395:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:28:30 WET [2025/01/23 8:28:30 ET]
+Table 'Syrma IV' 6-max Seat #2 is the button
+Seat 1: AlexEliseev7 ($102.50 in chips) 
+Seat 2: ptolejmus ($13.91 in chips) 
+Seat 3: erpaye ($100.50 in chips) 
+Seat 5: Tykylevits ($104 in chips) 
+erpaye: posts small blind $0.50
+Tykylevits: posts big blind $1
+*** HOLE CARDS ***
+AlexEliseev7: folds 
+ptolejmus: folds 
+erpaye: folds 
+Uncalled bet ($0.50) returned to Tykylevits
+Tykylevits collected $1 from pot
+Tykylevits: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: AlexEliseev7 folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: erpaye (small blind) folded before Flop
+Seat 5: Tykylevits (big blind) collected ($1)
+
+
+
+PokerStars Hand #254513773780:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:28:47 WET [2025/01/23 8:28:47 ET]
+Table 'Syrma IV' 6-max Seat #3 is the button
+Seat 1: AlexEliseev7 ($102.50 in chips) 
+Seat 2: ptolejmus ($13.91 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 5: Tykylevits ($104.50 in chips) 
+Tykylevits: posts small blind $0.50
+AlexEliseev7: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+erpaye: folds 
+Tykylevits: raises $2 to $3
+AlexEliseev7: folds 
+Uncalled bet ($2) returned to Tykylevits
+Tykylevits collected $2 from pot
+Tykylevits: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: AlexEliseev7 (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: erpaye (button) folded before Flop (didn't bet)
+Seat 5: Tykylevits (small blind) collected ($2)
+
+
+
+PokerStars Hand #254513776497:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:29:06 WET [2025/01/23 8:29:06 ET]
+Table 'Syrma IV' 6-max Seat #5 is the button
+Seat 1: AlexEliseev7 ($101.50 in chips) 
+Seat 2: ptolejmus ($13.91 in chips) 
+Seat 3: erpaye ($100 in chips) 
+Seat 5: Tykylevits ($105.50 in chips) 
+AlexEliseev7: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+erpaye: folds 
+Tykylevits: raises $1.50 to $2.50
+AlexEliseev7: folds 
+ptolejmus: raises $11.41 to $13.91 and is all-in
+Tykylevits: calls $11.41
+*** FLOP *** [Kd 9s 4h]
+*** TURN *** [Kd 9s 4h] [4s]
+*** RIVER *** [Kd 9s 4h 4s] [5c]
+*** SHOW DOWN ***
+ptolejmus: shows [Kc Qh] (two pair, Kings and Fours)
+Tykylevits: shows [Td Jh] (a pair of Fours)
+erpaye leaves the table
+ptolejmus collected $27.32 from pot
+*** SUMMARY ***
+Total pot $28.32 | Rake $1 
+Board [Kd 9s 4h 4s 5c]
+Seat 1: AlexEliseev7 (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) showed [Kc Qh] and won ($27.32) with two pair, Kings and Fours
+Seat 3: erpaye folded before Flop (didn't bet)
+Seat 5: Tykylevits (button) showed [Td Jh] and lost with a pair of Fours
+
+
+
+PokerStars Hand #254513780403:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:29:34 WET [2025/01/23 8:29:34 ET]
+Table 'Syrma IV' 6-max Seat #1 is the button
+Seat 1: AlexEliseev7 ($101 in chips) 
+Seat 2: ptolejmus ($27.32 in chips) 
+Seat 5: Tykylevits ($100 in chips) 
+ptolejmus: posts small blind $0.50
+Tykylevits: posts big blind $1
+*** HOLE CARDS ***
+AlexEliseev7: folds 
+ptolejmus: folds 
+Uncalled bet ($0.50) returned to Tykylevits
+Tykylevits collected $1 from pot
+Tykylevits: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 5: Tykylevits (big blind) collected ($1)
+
+
+
+PokerStars Hand #254513782432:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:29:48 WET [2025/01/23 8:29:48 ET]
+Table 'Syrma IV' 6-max Seat #2 is the button
+Seat 1: AlexEliseev7 ($101 in chips) 
+Seat 2: ptolejmus ($26.82 in chips) 
+Seat 5: Tykylevits ($100.50 in chips) 
+Tykylevits: posts small blind $0.50
+AlexEliseev7: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+Tykylevits: folds 
+Uncalled bet ($0.50) returned to AlexEliseev7
+AlexEliseev7 collected $1 from pot
+AlexEliseev7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: AlexEliseev7 (big blind) collected ($1)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 5: Tykylevits (small blind) folded before Flop
+
+
+
+PokerStars Hand #254513784459:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:30:02 WET [2025/01/23 8:30:02 ET]
+Table 'Syrma IV' 6-max Seat #1 is the button
+Seat 2: ptolejmus ($26.82 in chips) is sitting out
+Seat 1: AlexEliseev7 ($101.50 in chips) 
+Seat 5: Tykylevits ($100 in chips) 
+AlexEliseev7: posts small blind $0.50
+ptolejmus: is sitting out 
+Tykylevits: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus leaves the table
+AlexEliseev7: folds 
+Uncalled bet ($0.50) returned to Tykylevits
+Tykylevits collected $1 from pot
+Tykylevits: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: ptolejmus
+Seat 1: AlexEliseev7 (button) (small blind) folded before Flop
+Seat 5: Tykylevits (big blind) collected ($1)
+
+
+
+PokerStars Hand #254513785745:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 13:30:11 WET [2025/01/23 8:30:11 ET]
+Table 'Syrma IV' 6-max Seat #5 is the button
+Seat 1: AlexEliseev7 ($101 in chips) 
+Seat 5: Tykylevits ($100.50 in chips) 
+Tykylevits: posts small blind $0.50
+AlexEliseev7: posts big blind $1
+*** HOLE CARDS ***
+Tykylevits: raises $1.50 to $2.50
+AlexEliseev7: folds 
+Uncalled bet ($1.50) returned to Tykylevits
+Tykylevits collected $2 from pot
+Tykylevits: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: AlexEliseev7 (big blind) folded before Flop
+Seat 5: Tykylevits (button) (small blind) collected ($2)
+
+
+

@@ -1,0 +1,4594 @@
+﻿PokerStars Hand #254551997659:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:08:50 WET [2025/01/25 16:08:50 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: ghc_2 ($101 in chips) 
+Seat 2: straightman77 ($87.91 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($119.84 in chips) 
+Seat 5: Maks Bavenko ($102.24 in chips) 
+Seat 6: blistein ($100 in chips) 
+Manifestorr: posts small blind $0.50
+Maks Bavenko: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+ghc_2: folds 
+straightman77: calls $1
+Trojanovich: folds 
+Manifestorr: folds 
+Maks Bavenko: checks 
+*** FLOP *** [Th Ad Ks]
+Maks Bavenko: checks 
+straightman77: checks 
+*** TURN *** [Th Ad Ks] [Js]
+Maks Bavenko: bets $1.78
+straightman77: calls $1.78
+*** RIVER *** [Th Ad Ks Js] [3d]
+Maks Bavenko: checks 
+straightman77: checks 
+*** SHOW DOWN ***
+Maks Bavenko: shows [7h 9s] (high card Ace)
+straightman77: shows [8h Jh] (a pair of Jacks)
+straightman77 collected $5.76 from pot
+*** SUMMARY ***
+Total pot $6.06 | Rake $0.30 
+Board [Th Ad Ks Js 3d]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 showed [8h Jh] and won ($5.76) with a pair of Jacks
+Seat 3: Trojanovich (button) folded before Flop (didn't bet)
+Seat 4: Manifestorr (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) showed [7h 9s] and lost with high card Ace
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552012965:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:09:41 WET [2025/01/25 16:09:41 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: ghc_2 ($101 in chips) 
+Seat 2: straightman77 ($90.89 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($119.34 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+Maks Bavenko: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: folds 
+Manifestorr: raises $1.20 to $2.20
+Maks Bavenko: folds 
+blistein: folds 
+Uncalled bet ($1.20) returned to Manifestorr
+Manifestorr collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) collected ($2.50)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254552020253:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:10:05 WET [2025/01/25 16:10:05 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: ghc_2 ($101 in chips) 
+Seat 2: straightman77 ($90.89 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($120.84 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+blistein: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+straightman77: folds 
+Trojanovich: folds 
+Manifestorr: folds 
+Maks Bavenko: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to ghc_2
+ghc_2 collected $1 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ghc_2 (big blind) collected ($1)
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254552025406:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:10:22 WET [2025/01/25 16:10:22 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: ghc_2 ($101.50 in chips) 
+Seat 2: straightman77 ($90.89 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($120.84 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+ghc_2: posts small blind $0.50
+straightman77: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+Manifestorr: folds 
+Maks Bavenko: folds 
+blistein: folds 
+ghc_2: raises $2 to $3
+straightman77: calls $2
+*** FLOP *** [9c 9s 8s]
+ghc_2: checks 
+straightman77: checks 
+*** TURN *** [9c 9s 8s] [9d]
+ghc_2: bets $3.76
+straightman77: folds 
+Uncalled bet ($3.76) returned to ghc_2
+ghc_2 collected $5.70 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [9c 9s 8s 9d]
+Seat 1: ghc_2 (small blind) collected ($5.70)
+Seat 2: straightman77 (big blind) folded on the Turn
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552037728:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:11:02 WET [2025/01/25 16:11:02 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 1: ghc_2 ($104.20 in chips) 
+Seat 2: straightman77 ($87.89 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($120.84 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+straightman77: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+Maks Bavenko: folds 
+blistein: raises $1.30 to $2.30
+ghc_2: raises $5.20 to $7.50
+straightman77: folds 
+Trojanovich: folds 
+blistein: calls $5.20
+*** FLOP *** [Kd 2s Ah]
+blistein: checks 
+ghc_2: bets $3.92
+blistein: calls $3.92
+*** TURN *** [Kd 2s Ah] [4h]
+blistein: checks 
+ghc_2: bets $17.34
+blistein: folds 
+Uncalled bet ($17.34) returned to ghc_2
+ghc_2 collected $23.12 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.34 | Rake $1.22 
+Board [Kd 2s Ah 4h]
+Seat 1: ghc_2 (button) collected ($23.12)
+Seat 2: straightman77 (small blind) folded before Flop
+Seat 3: Trojanovich (big blind) folded before Flop
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: blistein folded on the Turn
+
+
+
+PokerStars Hand #254552060270:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:12:17 WET [2025/01/25 16:12:17 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: ghc_2 ($115.90 in chips) 
+Seat 2: straightman77 ($87.39 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($120.84 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+Trojanovich: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+Maks Bavenko: folds 
+blistein: folds 
+ghc_2: folds 
+straightman77: calls $1
+Trojanovich: folds 
+Manifestorr: raises $4 to $5
+straightman77: raises $4 to $9
+Manifestorr: calls $4
+*** FLOP *** [5h Qd Ts]
+Manifestorr: checks 
+straightman77: bets $8.79
+Manifestorr: calls $8.79
+*** TURN *** [5h Qd Ts] [2h]
+Manifestorr: checks 
+straightman77: bets $17.14
+Manifestorr: raises $85.91 to $103.05 and is all-in
+straightman77: calls $52.46 and is all-in
+Uncalled bet ($33.45) returned to Manifestorr
+*** RIVER *** [5h Qd Ts 2h] [3d]
+*** SHOW DOWN ***
+Manifestorr: shows [Qc Tc] (two pair, Queens and Tens)
+straightman77: shows [Kd Jd] (high card King)
+Manifestorr collected $172.78 from pot
+straightman77 cashed out the hand for $30.78 | Cash Out Fee $0.63
+*** SUMMARY ***
+Total pot $175.28 | Rake $2.50 
+Board [5h Qd Ts 2h 3d]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 (button) showed [Kd Jd] and lost with high card King (cashed out).
+Seat 3: Trojanovich (small blind) folded before Flop
+Seat 4: Manifestorr (big blind) showed [Qc Tc] and won ($172.78) with two pair, Queens and Tens
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552080890:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:13:26 WET [2025/01/25 16:13:26 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: ghc_2 ($115.90 in chips) 
+Seat 2: straightman77 ($30.78 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($206.23 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+Manifestorr: posts small blind $0.50
+Maks Bavenko: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: folds 
+Manifestorr: folds 
+Maks Bavenko: folds 
+Uncalled bet ($1.20) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich (button) folded before Flop (didn't bet)
+Seat 4: Manifestorr (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) folded before Flop
+Seat 6: blistein collected ($2.50)
+
+
+
+PokerStars Hand #254552085670:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:13:42 WET [2025/01/25 16:13:42 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: ghc_2 ($115.90 in chips) 
+Seat 2: straightman77 ($30.78 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($205.73 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+Maks Bavenko: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: folds 
+Manifestorr: folds 
+Maks Bavenko: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: blistein (big blind) collected ($1)
+
+
+
+PokerStars Hand #254552089840:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:13:55 WET [2025/01/25 16:13:55 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: ghc_2 ($115.90 in chips) 
+Seat 2: straightman77 ($30.78 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($205.73 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: blistein ($102 in chips) 
+blistein: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+straightman77: folds 
+Trojanovich: folds 
+Manifestorr: folds 
+Maks Bavenko: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to ghc_2
+ghc_2 collected $1 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ghc_2 (big blind) collected ($1)
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254552094633:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:14:11 WET [2025/01/25 16:14:11 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: ghc_2 ($116.40 in chips) 
+Seat 2: straightman77 ($30.78 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($205.73 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+ghc_2: posts small blind $0.50
+straightman77: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: raises $1.50 to $2.50
+Manifestorr: folds 
+Maks Bavenko: folds 
+blistein: folds 
+ghc_2: raises $9 to $11.50
+straightman77: folds 
+Trojanovich: folds 
+Uncalled bet ($9) returned to ghc_2
+ghc_2 collected $6 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: ghc_2 (small blind) collected ($6)
+Seat 2: straightman77 (big blind) folded before Flop
+Seat 3: Trojanovich folded before Flop
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552102458:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:14:37 WET [2025/01/25 16:14:37 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 1: ghc_2 ($119.90 in chips) 
+Seat 2: straightman77 ($29.78 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($205.73 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+straightman77: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+Maks Bavenko: folds 
+blistein: folds 
+ghc_2: raises $1.40 to $2.40
+straightman77: folds 
+Trojanovich: calls $1.40
+*** FLOP *** [As 5h Ts]
+Trojanovich: checks 
+ghc_2: bets $2.02
+Trojanovich: folds 
+Uncalled bet ($2.02) returned to ghc_2
+ghc_2 collected $5.04 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.30 | Rake $0.26 
+Board [As 5h Ts]
+Seat 1: ghc_2 (button) collected ($5.04)
+Seat 2: straightman77 (small blind) folded before Flop
+Seat 3: Trojanovich (big blind) folded on the Flop
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552110204:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:15:02 WET [2025/01/25 16:15:02 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: ghc_2 ($122.54 in chips) 
+Seat 2: straightman77 ($29.28 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($205.73 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+Trojanovich: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+Maks Bavenko: folds 
+blistein: folds 
+ghc_2: folds 
+straightman77: calls $1
+Trojanovich: folds 
+Manifestorr: checks 
+*** FLOP *** [3h Ts 8d]
+Manifestorr: checks 
+straightman77: checks 
+*** TURN *** [3h Ts 8d] [9c]
+Manifestorr: checks 
+straightman77: bets $1.19
+Manifestorr: calls $1.19
+*** RIVER *** [3h Ts 8d 9c] [9h]
+Manifestorr: checks 
+straightman77: checks 
+*** SHOW DOWN ***
+Manifestorr: shows [5h 9s] (three of a kind, Nines)
+straightman77: mucks hand 
+Manifestorr collected $4.64 from pot
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.24 
+Board [3h Ts 8d 9c 9h]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 (button) mucked
+Seat 3: Trojanovich (small blind) folded before Flop
+Seat 4: Manifestorr (big blind) showed [5h 9s] and won ($4.64) with three of a kind, Nines
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552121675:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:15:40 WET [2025/01/25 16:15:40 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: ghc_2 ($122.54 in chips) 
+Seat 2: straightman77 ($27.09 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($208.18 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+Manifestorr: posts small blind $0.50
+Maks Bavenko: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+ghc_2: folds 
+straightman77: raises $24.89 to $27.09 and is all-in
+Trojanovich: folds 
+Manifestorr: folds 
+Maks Bavenko: folds 
+blistein: folds 
+Uncalled bet ($24.89) returned to straightman77
+straightman77 collected $5.90 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 collected ($5.90)
+Seat 3: Trojanovich (button) folded before Flop (didn't bet)
+Seat 4: Manifestorr (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) folded before Flop
+Seat 6: blistein folded before Flop
+
+
+
+PokerStars Hand #254552128287:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:16:02 WET [2025/01/25 16:16:02 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: ghc_2 ($122.54 in chips) 
+Seat 2: straightman77 ($30.79 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($207.68 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Maks Bavenko: posts small blind $0.50
+blistein: is sitting out 
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+straightman77: calls $1
+Trojanovich: folds 
+blistein leaves the table
+Manifestorr: folds 
+AlexPinsk1 joins the table at seat #6 
+Maks Bavenko: folds 
+ghc_2: checks 
+*** FLOP *** [5s 2d Qh]
+ghc_2: checks 
+straightman77: checks 
+*** TURN *** [5s 2d Qh] [As]
+ghc_2: checks 
+straightman77: bets $1.19
+ghc_2: folds 
+Uncalled bet ($1.19) returned to straightman77
+straightman77 collected $2.38 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [5s 2d Qh As]
+Seat 6: blistein
+Seat 1: ghc_2 (big blind) folded on the Turn
+Seat 2: straightman77 collected ($2.38)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254552141639:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:16:46 WET [2025/01/25 16:16:46 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 6: AlexPinsk1 ($100 in chips) is sitting out
+Seat 1: ghc_2 ($121.54 in chips) 
+Seat 2: straightman77 ($32.17 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($207.68 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+ghc_2: posts small blind $0.50
+straightman77: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+Manifestorr: raises $1.20 to $2.20
+Maks Bavenko: folds 
+ghc_2: raises $9.30 to $11.50
+straightman77: folds 
+Manifestorr: folds 
+Uncalled bet ($9.30) returned to ghc_2
+ghc_2 collected $5.40 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 6: AlexPinsk1
+Seat 1: ghc_2 (small blind) collected ($5.40)
+Seat 2: straightman77 (big blind) folded before Flop
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552147353:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:17:05 WET [2025/01/25 16:17:05 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 6: AlexPinsk1 ($100 in chips) is sitting out
+Seat 1: ghc_2 ($124.74 in chips) 
+Seat 2: straightman77 ($31.17 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($205.48 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+straightman77: posts small blind $0.50
+Trojanovich: posts big blind $1
+AlexPinsk1: sits out 
+*** HOLE CARDS ***
+Manifestorr: raises $1.20 to $2.20
+Maks Bavenko: folds 
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: folds 
+Uncalled bet ($1.20) returned to Manifestorr
+Manifestorr collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: AlexPinsk1
+Seat 1: ghc_2 (button) folded before Flop (didn't bet)
+Seat 2: straightman77 (small blind) folded before Flop
+Seat 3: Trojanovich (big blind) folded before Flop
+Seat 4: Manifestorr collected ($2.50)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552151185:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:17:17 WET [2025/01/25 16:17:17 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 6: AlexPinsk1 ($100 in chips) is sitting out
+Seat 1: ghc_2 ($124.74 in chips) 
+Seat 2: straightman77 ($30.67 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($206.98 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Trojanovich: posts small blind $0.50
+Manifestorr: posts big blind $1
+AlexPinsk1: sits out 
+*** HOLE CARDS ***
+Maks Bavenko: folds 
+ghc_2: raises $1.30 to $2.30
+straightman77: folds 
+Trojanovich: folds 
+Manifestorr: calls $1.30
+*** FLOP *** [4c Tc Kc]
+Manifestorr: checks 
+ghc_2: bets $1.21
+Manifestorr: folds 
+Uncalled bet ($1.21) returned to ghc_2
+ghc_2 collected $4.84 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.26 
+Board [4c Tc Kc]
+Seat 6: AlexPinsk1
+Seat 1: ghc_2 collected ($4.84)
+Seat 2: straightman77 (button) folded before Flop (didn't bet)
+Seat 3: Trojanovich (small blind) folded before Flop
+Seat 4: Manifestorr (big blind) folded on the Flop
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552160742:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:17:49 WET [2025/01/25 16:17:49 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 6: AlexPinsk1 ($100 in chips) is sitting out
+Seat 1: ghc_2 ($127.28 in chips) 
+Seat 2: straightman77 ($30.67 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($204.68 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Manifestorr: posts small blind $0.50
+Maks Bavenko: posts big blind $1
+AlexPinsk1: sits out 
+*** HOLE CARDS ***
+ghc_2: folds 
+straightman77: calls $1
+Trojanovich: folds 
+Manifestorr: folds 
+Maks Bavenko: checks 
+*** FLOP *** [4s 5d Kh]
+Maks Bavenko: checks 
+straightman77: bets $1.19
+Maks Bavenko: folds 
+Uncalled bet ($1.19) returned to straightman77
+straightman77 collected $2.38 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [4s 5d Kh]
+Seat 6: AlexPinsk1
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 collected ($2.38)
+Seat 3: Trojanovich (button) folded before Flop (didn't bet)
+Seat 4: Manifestorr (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254552169809:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:18:19 WET [2025/01/25 16:18:19 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: ghc_2 ($127.28 in chips) 
+Seat 2: straightman77 ($32.05 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($204.18 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+Maks Bavenko: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: folds 
+Manifestorr: folds 
+Maks Bavenko: folds 
+Uncalled bet ($0.50) returned to AlexPinsk1
+AlexPinsk1 collected $1 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: AlexPinsk1 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254552172657:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:18:28 WET [2025/01/25 16:18:28 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: ghc_2 ($127.28 in chips) 
+Seat 2: straightman77 ($32.05 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($204.18 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($100.50 in chips) 
+AlexPinsk1: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+straightman77: calls $1
+Trojanovich: folds 
+Manifestorr: folds 
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+ghc_2: checks 
+*** FLOP *** [Kd 9h Js]
+ghc_2: checks 
+straightman77: checks 
+*** TURN *** [Kd 9h Js] [5d]
+ghc_2: checks 
+straightman77: bets $1.19
+ghc_2: folds 
+Uncalled bet ($1.19) returned to straightman77
+straightman77 collected $2.38 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Kd 9h Js 5d]
+Seat 1: ghc_2 (big blind) folded on the Turn
+Seat 2: straightman77 collected ($2.38)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254552185500:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:19:11 WET [2025/01/25 16:19:11 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: ghc_2 ($126.28 in chips) 
+Seat 2: straightman77 ($33.43 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($204.18 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+ghc_2: posts small blind $0.50
+straightman77: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: raises $1.50 to $2.50
+Manifestorr: folds 
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+ghc_2: calls $2
+straightman77: raises $3.50 to $6
+Trojanovich: calls $3.50
+ghc_2: calls $3.50
+*** FLOP *** [8d 9c 9h]
+ghc_2: checks 
+straightman77: bets $27.43 and is all-in
+Trojanovich: folds 
+ghc_2: folds 
+Uncalled bet ($27.43) returned to straightman77
+straightman77 collected $17.10 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [8d 9c 9h]
+Seat 1: ghc_2 (small blind) folded on the Flop
+Seat 2: straightman77 (big blind) collected ($17.10)
+Seat 3: Trojanovich folded on the Flop
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552215816:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:20:50 WET [2025/01/25 16:20:50 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 1: ghc_2 ($120.28 in chips) 
+Seat 2: straightman77 ($44.53 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: Manifestorr ($204.18 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+straightman77: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+ghc_2: raises $1.40 to $2.40
+straightman77: folds 
+Trojanovich: folds 
+Uncalled bet ($1.40) returned to ghc_2
+ghc_2 collected $2.50 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 (button) collected ($2.50)
+Seat 2: straightman77 (small blind) folded before Flop
+Seat 3: Trojanovich (big blind) folded before Flop
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552220345:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:21:05 WET [2025/01/25 16:21:05 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 4: Manifestorr ($204.18 in chips) is sitting out
+Seat 1: ghc_2 ($121.78 in chips) 
+Seat 2: straightman77 ($44.03 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+Trojanovich: posts small blind $0.50
+Manifestorr: is sitting out 
+Maks Bavenko: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+ghc_2: raises $1.30 to $2.30
+Manifestorr leaves the table
+straightman77: raises $6.30 to $8.60
+Trojanovich: folds 
+BoyLoc0 joins the table at seat #4 
+Maks Bavenko: folds 
+ghc_2: folds 
+Uncalled bet ($6.30) returned to straightman77
+straightman77 collected $6.10 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.10 | Rake $0 
+Seat 4: Manifestorr
+Seat 1: ghc_2 folded before Flop
+Seat 2: straightman77 (button) collected ($6.10)
+Seat 3: Trojanovich (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) folded before Flop
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552227910:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:21:30 WET [2025/01/25 16:21:30 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 4: BoyLoc0 ($100 in chips) is sitting out
+Seat 1: ghc_2 ($119.48 in chips) 
+Seat 2: straightman77 ($47.83 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+Maks Bavenko: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: raises $1 to $2
+straightman77: calls $2
+Trojanovich: folds 
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+*** FLOP *** [Th 6s Js]
+ghc_2: checks 
+straightman77: checks 
+*** TURN *** [Th 6s Js] [7s]
+ghc_2: bets $2.09
+straightman77: calls $2.09
+*** RIVER *** [Th 6s Js 7s] [Ac]
+ghc_2: bets $6.90
+straightman77: calls $6.90
+*** SHOW DOWN ***
+ghc_2: shows [Kd Qd] (a straight, Ten to Ace)
+straightman77: mucks hand 
+ghc_2 collected $22.31 from pot
+*** SUMMARY ***
+Total pot $23.48 | Rake $1.17 
+Board [Th 6s Js 7s Ac]
+Seat 4: BoyLoc0
+Seat 1: ghc_2 showed [Kd Qd] and won ($22.31) with a straight, Ten to Ace
+Seat 2: straightman77 mucked
+Seat 3: Trojanovich (button) folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: AlexPinsk1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254552236933:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:22:00 WET [2025/01/25 16:22:00 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 4: BoyLoc0 ($100 in chips) is sitting out
+Seat 1: ghc_2 ($130.80 in chips) 
+Seat 2: straightman77 ($36.84 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+ghc_2: posts big blind $1
+BoyLoc0: sits out 
+*** HOLE CARDS ***
+straightman77: folds 
+Trojanovich: folds 
+Maks Bavenko: folds 
+AlexPinsk1: raises $2 to $3
+ghc_2: folds 
+Uncalled bet ($2) returned to AlexPinsk1
+AlexPinsk1 collected $2 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: BoyLoc0
+Seat 1: ghc_2 (big blind) folded before Flop
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254552243964:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:22:23 WET [2025/01/25 16:22:23 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 4: BoyLoc0 ($100 in chips) is sitting out
+Seat 1: ghc_2 ($129.80 in chips) 
+Seat 2: straightman77 ($36.84 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($101 in chips) 
+ghc_2: posts small blind $0.50
+straightman77: posts big blind $1
+BoyLoc0: sits out 
+*** HOLE CARDS ***
+Trojanovich: folds 
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+ghc_2: raises $2 to $3
+straightman77: raises $3 to $6
+ghc_2: folds 
+Uncalled bet ($3) returned to straightman77
+straightman77 collected $6 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: BoyLoc0
+Seat 1: ghc_2 (small blind) folded before Flop
+Seat 2: straightman77 (big blind) collected ($6)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552247977:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:22:36 WET [2025/01/25 16:22:36 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 4: BoyLoc0 ($100 in chips) is sitting out
+Seat 1: ghc_2 ($126.80 in chips) 
+Seat 2: straightman77 ($39.84 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($101 in chips) 
+straightman77: posts small blind $0.50
+Trojanovich: posts big blind $1
+BoyLoc0: sits out 
+*** HOLE CARDS ***
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: calls $0.50
+Trojanovich: checks 
+*** FLOP *** [4c 2h 7c]
+straightman77: checks 
+Trojanovich: checks 
+*** TURN *** [4c 2h 7c] [3c]
+straightman77: checks 
+Trojanovich: bets $1
+straightman77: folds 
+Uncalled bet ($1) returned to Trojanovich
+Trojanovich collected $1.90 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [4c 2h 7c 3c]
+Seat 4: BoyLoc0
+Seat 1: ghc_2 (button) folded before Flop (didn't bet)
+Seat 2: straightman77 (small blind) folded on the Turn
+Seat 3: Trojanovich (big blind) collected ($1.90)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552263673:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:23:29 WET [2025/01/25 16:23:29 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: ghc_2 ($126.80 in chips) 
+Seat 2: straightman77 ($38.84 in chips) 
+Seat 3: Trojanovich ($100.90 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($101 in chips) 
+Trojanovich: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+Maks Bavenko: raises $1.50 to $2.50
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: calls $2.50
+Trojanovich: folds 
+BoyLoc0: folds 
+*** FLOP *** [Js 4c 7s]
+Maks Bavenko: checks 
+straightman77: checks 
+*** TURN *** [Js 4c 7s] [8c]
+Maks Bavenko: bets $3.09
+straightman77: folds 
+Uncalled bet ($3.09) returned to Maks Bavenko
+Maks Bavenko collected $6.18 from pot
+Maks Bavenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Js 4c 7s 8c]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 (button) folded on the Turn
+Seat 3: Trojanovich (small blind) folded before Flop
+Seat 4: BoyLoc0 (big blind) folded before Flop
+Seat 5: Maks Bavenko collected ($6.18)
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552273712:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:24:02 WET [2025/01/25 16:24:02 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: ghc_2 ($126.80 in chips) 
+Seat 2: straightman77 ($36.34 in chips) 
+Seat 3: Trojanovich ($100.40 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($103.68 in chips) 
+Seat 6: AlexPinsk1 ($101 in chips) 
+BoyLoc0: posts small blind $0.50
+Maks Bavenko: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: folds 
+BoyLoc0: raises $2 to $3
+Maks Bavenko: folds 
+Uncalled bet ($2) returned to BoyLoc0
+BoyLoc0 collected $2 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich (button) folded before Flop (didn't bet)
+Seat 4: BoyLoc0 (small blind) collected ($2)
+Seat 5: Maks Bavenko (big blind) folded before Flop
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552279683:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:24:22 WET [2025/01/25 16:24:22 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: ghc_2 ($126.80 in chips) 
+Seat 2: straightman77 ($36.34 in chips) 
+Seat 3: Trojanovich ($100.40 in chips) 
+Seat 4: BoyLoc0 ($101 in chips) 
+Seat 5: Maks Bavenko ($102.68 in chips) 
+Seat 6: AlexPinsk1 ($101 in chips) 
+Maks Bavenko: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: folds 
+BoyLoc0: raises $1.50 to $2.50
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 (button) collected ($2.50)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: AlexPinsk1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254552284267:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:24:37 WET [2025/01/25 16:24:37 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: ghc_2 ($126.80 in chips) 
+Seat 2: straightman77 ($36.34 in chips) 
+Seat 3: Trojanovich ($100.40 in chips) 
+Seat 4: BoyLoc0 ($102.50 in chips) 
+Seat 5: Maks Bavenko ($102.18 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+straightman77: folds 
+Trojanovich: raises $1.50 to $2.50
+BoyLoc0: folds 
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+ghc_2: calls $1.50
+*** FLOP *** [7s 6h Ac]
+ghc_2: checks 
+Trojanovich: checks 
+*** TURN *** [7s 6h Ac] [4d]
+ghc_2: checks 
+Trojanovich: bets $1.72
+ghc_2: calls $1.72
+*** RIVER *** [7s 6h Ac 4d] [Jc]
+ghc_2: checks 
+Trojanovich: bets $12.74
+ghc_2: raises $109.84 to $122.58 and is all-in
+Trojanovich: calls $83.44 and is all-in
+Uncalled bet ($26.40) returned to ghc_2
+*** SHOW DOWN ***
+ghc_2: shows [7d Jd] (two pair, Jacks and Sevens)
+Trojanovich: shows [Ad Kd] (a pair of Aces)
+ghc_2 collected $198.80 from pot
+*** SUMMARY ***
+Total pot $201.30 | Rake $2.50 
+Board [7s 6h Ac 4d Jc]
+Seat 1: ghc_2 (big blind) showed [7d Jd] and won ($198.80) with two pair, Jacks and Sevens
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich showed [Ad Kd] and lost with a pair of Aces
+Seat 4: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254552325476:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:26:54 WET [2025/01/25 16:26:54 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: ghc_2 ($225.20 in chips) 
+Seat 2: straightman77 ($36.34 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($102.50 in chips) 
+Seat 5: Maks Bavenko ($102.18 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+ghc_2: posts small blind $0.50
+straightman77: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+BoyLoc0: raises $1.50 to $2.50
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: raises $1.50 to $4
+BoyLoc0: calls $1.50
+*** FLOP *** [4c Qh 7d]
+straightman77: checks 
+BoyLoc0: checks 
+*** TURN *** [4c Qh 7d] [5d]
+straightman77: bets $4.04
+BoyLoc0: folds 
+Uncalled bet ($4.04) returned to straightman77
+straightman77 collected $8.08 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [4c Qh 7d 5d]
+Seat 1: ghc_2 (small blind) folded before Flop
+Seat 2: straightman77 (big blind) collected ($8.08)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 folded on the Turn
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552334536:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:27:24 WET [2025/01/25 16:27:24 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 1: ghc_2 ($224.70 in chips) 
+Seat 2: straightman77 ($40.42 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($102.18 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+straightman77: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+ghc_2: raises $1.40 to $2.40
+straightman77: raises $1.40 to $3.80
+Trojanovich: folds 
+ghc_2: raises $220.90 to $224.70 and is all-in
+straightman77: calls $36.62 and is all-in
+Uncalled bet ($184.28) returned to ghc_2
+*** FLOP *** [5d Th 3d]
+*** TURN *** [5d Th 3d] [Ts]
+*** RIVER *** [5d Th 3d Ts] [6d]
+*** SHOW DOWN ***
+straightman77: shows [Jh Js] (two pair, Jacks and Tens)
+ghc_2: shows [Jc As] (a pair of Tens)
+straightman77 collected $79.34 from pot
+*** SUMMARY ***
+Total pot $81.84 | Rake $2.50 
+Board [5d Th 3d Ts 6d]
+Seat 1: ghc_2 (button) showed [Jc As] and lost with a pair of Tens
+Seat 2: straightman77 (small blind) showed [Jh Js] and won ($79.34) with two pair, Jacks and Tens
+Seat 3: Trojanovich (big blind) folded before Flop
+Seat 4: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552348563:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:28:11 WET [2025/01/25 16:28:11 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: ghc_2 ($184.28 in chips) 
+Seat 2: straightman77 ($79.34 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($102.18 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+Trojanovich: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+Maks Bavenko: raises $1.50 to $2.50
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: raises $1.50 to $4
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: calls $1.50
+*** FLOP *** [5h As Jd]
+Maks Bavenko: checks 
+straightman77: checks 
+*** TURN *** [5h As Jd] [Qh]
+Maks Bavenko: checks 
+straightman77: bets $4.51
+Maks Bavenko: calls $4.51
+*** RIVER *** [5h As Jd Qh] [Jh]
+Maks Bavenko: checks 
+straightman77: bets $8.80
+Maks Bavenko: folds 
+Uncalled bet ($8.80) returned to straightman77
+straightman77 collected $17.59 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.52 | Rake $0.93 
+Board [5h As Jd Qh Jh]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 (button) collected ($17.59)
+Seat 3: Trojanovich (small blind) folded before Flop
+Seat 4: BoyLoc0 (big blind) folded before Flop
+Seat 5: Maks Bavenko folded on the River
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552373691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:29:36 WET [2025/01/25 16:29:36 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: ghc_2 ($184.28 in chips) 
+Seat 2: straightman77 ($88.42 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+Maks Bavenko: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+ghc_2: raises $1 to $2
+straightman77: calls $2
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: folds 
+*** FLOP *** [7s 2s 4d]
+ghc_2: checks 
+straightman77: checks 
+*** TURN *** [7s 2s 4d] [Jd]
+ghc_2: bets $2.61
+straightman77: calls $2.61
+*** RIVER *** [7s 2s 4d Jd] [5d]
+ghc_2: checks 
+straightman77: bets $10.18
+ghc_2: folds 
+Uncalled bet ($10.18) returned to straightman77
+straightman77 collected $10.18 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.72 | Rake $0.54 
+Board [7s 2s 4d Jd 5d]
+Seat 1: ghc_2 folded on the River
+Seat 2: straightman77 collected ($10.18)
+Seat 3: Trojanovich (button) folded before Flop (didn't bet)
+Seat 4: BoyLoc0 (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) folded before Flop
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552392664:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:30:39 WET [2025/01/25 16:30:39 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: ghc_2 ($179.67 in chips) 
+Seat 2: straightman77 ($93.99 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+Maks Bavenko: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+straightman77: raises $2 to $3
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: folds 
+AlexPinsk1: calls $2
+*** FLOP *** [5s 8s Qh]
+AlexPinsk1: checks 
+straightman77: checks 
+*** TURN *** [5s 8s Qh] [Ac]
+AlexPinsk1: checks 
+straightman77: bets $3.09
+AlexPinsk1: folds 
+Uncalled bet ($3.09) returned to straightman77
+straightman77 collected $6.18 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [5s 8s Qh Ac]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 collected ($6.18)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: AlexPinsk1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254552404215:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:31:17 WET [2025/01/25 16:31:17 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: ghc_2 ($179.67 in chips) 
+Seat 2: straightman77 ($97.17 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+straightman77: folds 
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: folds 
+AlexPinsk1: raises $2 to $3
+ghc_2: calls $2
+*** FLOP *** [5d Js 2d]
+AlexPinsk1: checks 
+ghc_2: checks 
+*** TURN *** [5d Js 2d] [8c]
+AlexPinsk1: bets $1.88
+ghc_2: calls $1.88
+*** RIVER *** [5d Js 2d 8c] [4h]
+AlexPinsk1: bets $3.06
+ghc_2: calls $3.06
+*** SHOW DOWN ***
+AlexPinsk1: shows [9s Kd] (high card King)
+ghc_2: shows [5h 7h] (a pair of Fives)
+ghc_2 collected $15.09 from pot
+*** SUMMARY ***
+Total pot $15.88 | Rake $0.79 
+Board [5d Js 2d 8c 4h]
+Seat 1: ghc_2 (big blind) showed [5h 7h] and won ($15.09) with a pair of Fives
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (small blind) showed [9s Kd] and lost with high card King
+
+
+
+PokerStars Hand #254552426028:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:32:29 WET [2025/01/25 16:32:29 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: ghc_2 ($186.82 in chips) 
+Seat 2: straightman77 ($97.17 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+ghc_2: posts small blind $0.50
+straightman77: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+BoyLoc0: raises $1.50 to $2.50
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 (small blind) folded before Flop
+Seat 2: straightman77 (big blind) folded before Flop
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 collected ($2.50)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552433549:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:32:53 WET [2025/01/25 16:32:53 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 1: ghc_2 ($186.32 in chips) 
+Seat 2: straightman77 ($96.17 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($101.50 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+straightman77: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+Maks Bavenko: raises $1.50 to $2.50
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: calls $1.50
+*** FLOP *** [8c 6d Jc]
+Trojanovich: checks 
+Maks Bavenko: checks 
+*** TURN *** [8c 6d Jc] [3h]
+Trojanovich: checks 
+Maks Bavenko: checks 
+*** RIVER *** [8c 6d Jc 3h] [9h]
+Trojanovich: checks 
+Maks Bavenko: bets $3.92
+Trojanovich: folds 
+Uncalled bet ($3.92) returned to Maks Bavenko
+Maks Bavenko collected $5.22 from pot
+Maks Bavenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [8c 6d Jc 3h 9h]
+Seat 1: ghc_2 (button) folded before Flop (didn't bet)
+Seat 2: straightman77 (small blind) folded before Flop
+Seat 3: Trojanovich (big blind) folded on the River
+Seat 4: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: Maks Bavenko collected ($5.22)
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552458914:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:34:18 WET [2025/01/25 16:34:18 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: ghc_2 ($186.32 in chips) 
+Seat 2: straightman77 ($95.67 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($101.50 in chips) 
+Seat 5: Maks Bavenko ($102.72 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+Trojanovich: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+Maks Bavenko: raises $1.50 to $2.50
+AlexPinsk1: raises $5 to $7.50
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: calls $5
+*** FLOP *** [6s 2c 5d]
+Maks Bavenko: checks 
+AlexPinsk1: bets $5.17
+Maks Bavenko: calls $5.17
+*** TURN *** [6s 2c 5d] [As]
+Maks Bavenko: checks 
+AlexPinsk1: checks 
+*** RIVER *** [6s 2c 5d As] [7d]
+Maks Bavenko: bets $12.75
+AlexPinsk1: raises $74.58 to $87.33 and is all-in
+Maks Bavenko: calls $74.58
+*** SHOW DOWN ***
+AlexPinsk1: shows [7c 6c] (two pair, Sevens and Sixes)
+Maks Bavenko: shows [Qc Ac] (a pair of Aces)
+AlexPinsk1 collected $199 from pot
+*** SUMMARY ***
+Total pot $201.50 | Rake $2.50 
+Board [6s 2c 5d As 7d]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 (button) folded before Flop (didn't bet)
+Seat 3: Trojanovich (small blind) folded before Flop
+Seat 4: BoyLoc0 (big blind) folded before Flop
+Seat 5: Maks Bavenko showed [Qc Ac] and lost with a pair of Aces
+Seat 6: AlexPinsk1 showed [7c 6c] and won ($199) with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #254552503656:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:36:47 WET [2025/01/25 16:36:47 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: ghc_2 ($186.32 in chips) 
+Seat 2: straightman77 ($95.67 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100.50 in chips) 
+Seat 5: Maks Bavenko ($51.15 in chips) 
+Seat 6: AlexPinsk1 ($199 in chips) 
+BoyLoc0: posts small blind $0.50
+Maks Bavenko: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: raises $1.50 to $2.50
+ghc_2: folds 
+straightman77: calls $2.50
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: folds 
+*** FLOP *** [4h Qc Qd]
+AlexPinsk1: bets $2.04
+straightman77: folds 
+Uncalled bet ($2.04) returned to AlexPinsk1
+AlexPinsk1 collected $6.18 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [4h Qc Qd]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 folded on the Flop
+Seat 3: Trojanovich (button) folded before Flop (didn't bet)
+Seat 4: BoyLoc0 (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) folded before Flop
+Seat 6: AlexPinsk1 collected ($6.18)
+
+
+
+PokerStars Hand #254552516148:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:37:29 WET [2025/01/25 16:37:29 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: ghc_2 ($186.32 in chips) 
+Seat 2: straightman77 ($93.17 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($50.15 in chips) 
+Seat 6: AlexPinsk1 ($202.68 in chips) 
+Maks Bavenko: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+straightman77: calls $1
+Trojanovich: folds 
+BoyLoc0: raises $3 to $4
+Maks Bavenko: raises $10 to $14
+AlexPinsk1: folds 
+straightman77: folds 
+BoyLoc0: folds 
+Uncalled bet ($10) returned to Maks Bavenko
+Maks Bavenko collected $10 from pot
+Maks Bavenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 folded before Flop
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 (button) folded before Flop
+Seat 5: Maks Bavenko (small blind) collected ($10)
+Seat 6: AlexPinsk1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254552524443:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:37:56 WET [2025/01/25 16:37:56 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: ghc_2 ($186.32 in chips) 
+Seat 2: straightman77 ($92.17 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($56.15 in chips) 
+Seat 6: AlexPinsk1 ($201.68 in chips) 
+AlexPinsk1: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+straightman77: folds 
+Trojanovich: folds 
+BoyLoc0: raises $1.50 to $2.50
+Maks Bavenko: folds 
+AlexPinsk1: raises $7.50 to $10
+ghc_2: folds 
+BoyLoc0: calls $7.50
+*** FLOP *** [3h 3s 6c]
+AlexPinsk1: checks 
+BoyLoc0: checks 
+*** TURN *** [3h 3s 6c] [9d]
+AlexPinsk1: bets $23.50
+BoyLoc0: folds 
+Uncalled bet ($23.50) returned to AlexPinsk1
+AlexPinsk1 collected $19.95 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [3h 3s 6c 9d]
+Seat 1: ghc_2 (big blind) folded before Flop
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 folded on the Turn
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (small blind) collected ($19.95)
+
+
+
+PokerStars Hand #254552553946:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:39:34 WET [2025/01/25 16:39:34 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: ghc_2 ($185.32 in chips) 
+Seat 2: straightman77 ($92.17 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($211.63 in chips) 
+ghc_2: posts small blind $0.50
+straightman77: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: raises $1.50 to $2.50
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: calls $1.50
+*** FLOP *** [9d 9h 4c]
+straightman77: checks 
+Maks Bavenko: bets $1.57
+straightman77: folds 
+Uncalled bet ($1.57) returned to Maks Bavenko
+Maks Bavenko collected $5.22 from pot
+Maks Bavenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [9d 9h 4c]
+Seat 1: ghc_2 (small blind) folded before Flop
+Seat 2: straightman77 (big blind) folded on the Flop
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: Maks Bavenko collected ($5.22)
+Seat 6: AlexPinsk1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552562274:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:40:02 WET [2025/01/25 16:40:02 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 1: ghc_2 ($184.82 in chips) 
+Seat 2: straightman77 ($89.67 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($102.72 in chips) 
+Seat 6: AlexPinsk1 ($211.63 in chips) 
+straightman77: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+Maks Bavenko: raises $1.50 to $2.50
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: calls $2
+Trojanovich: folds 
+*** FLOP *** [4d Jc Kd]
+straightman77: checks 
+Maks Bavenko: bets $1.71
+straightman77: raises $3.71 to $5.42
+Maks Bavenko: calls $3.71
+*** TURN *** [4d Jc Kd] [Ks]
+straightman77: checks 
+Maks Bavenko: bets $8
+straightman77: raises $8 to $16
+Maks Bavenko: folds 
+Uncalled bet ($8) returned to straightman77
+straightman77 collected $31.20 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $32.84 | Rake $1.64 
+Board [4d Jc Kd Ks]
+Seat 1: ghc_2 (button) folded before Flop (didn't bet)
+Seat 2: straightman77 (small blind) collected ($31.20)
+Seat 3: Trojanovich (big blind) folded before Flop
+Seat 4: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded on the Turn
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552588196:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:41:29 WET [2025/01/25 16:41:29 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: ghc_2 ($184.82 in chips) 
+Seat 2: straightman77 ($104.95 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($211.63 in chips) 
+Trojanovich: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: raises $2 to $3
+BoyLoc0: raises $7 to $10
+Trojanovich: calls $7
+*** FLOP *** [Kh 9d Jh]
+Trojanovich: checks 
+BoyLoc0: bets $6.27
+Trojanovich: folds 
+Uncalled bet ($6.27) returned to BoyLoc0
+BoyLoc0 collected $19 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Kh 9d Jh]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 (button) folded before Flop (didn't bet)
+Seat 3: Trojanovich (small blind) folded on the Flop
+Seat 4: BoyLoc0 (big blind) collected ($19)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552602696:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:42:18 WET [2025/01/25 16:42:18 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: ghc_2 ($184.82 in chips) 
+Seat 2: straightman77 ($104.95 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($109 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($211.63 in chips) 
+BoyLoc0: posts small blind $0.50
+Maks Bavenko: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: folds 
+BoyLoc0: raises $2 to $3
+Maks Bavenko: folds 
+Uncalled bet ($2) returned to BoyLoc0
+BoyLoc0 collected $2 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich (button) folded before Flop (didn't bet)
+Seat 4: BoyLoc0 (small blind) collected ($2)
+Seat 5: Maks Bavenko (big blind) folded before Flop
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552610018:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:42:43 WET [2025/01/25 16:42:43 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: ghc_2 ($184.82 in chips) 
+Seat 2: straightman77 ($104.95 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($110 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($211.63 in chips) 
+Maks Bavenko: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+straightman77 is disconnected 
+straightman77 is connected 
+straightman77: calls $1
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: folds 
+AlexPinsk1: checks 
+*** FLOP *** [7d 3d 2s]
+AlexPinsk1: checks 
+straightman77: checks 
+*** TURN *** [7d 3d 2s] [Tc]
+AlexPinsk1: checks 
+straightman77: bets $1.19
+AlexPinsk1: folds 
+Uncalled bet ($1.19) returned to straightman77
+straightman77 collected $2.38 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [7d 3d 2s Tc]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 collected ($2.38)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: AlexPinsk1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254552630976:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:43:55 WET [2025/01/25 16:43:55 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: ghc_2 ($184.82 in chips) 
+Seat 2: straightman77 ($106.33 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($110 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($210.63 in chips) 
+AlexPinsk1: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+straightman77: calls $1
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+ghc_2: checks 
+*** FLOP *** [9d 4c 8h]
+ghc_2: checks 
+straightman77: checks 
+*** TURN *** [9d 4c 8h] [8s]
+ghc_2: bets $1.19
+straightman77: raises $1.19 to $2.38
+ghc_2: folds 
+Uncalled bet ($1.19) returned to straightman77
+straightman77 collected $4.64 from pot
+straightman77: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.24 
+Board [9d 4c 8h 8s]
+Seat 1: ghc_2 (big blind) folded on the Turn
+Seat 2: straightman77 collected ($4.64)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254552647430:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:44:51 WET [2025/01/25 16:44:51 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: ghc_2 ($182.63 in chips) 
+Seat 2: straightman77 ($108.78 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($110 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($210.13 in chips) 
+ghc_2: posts small blind $0.50
+straightman77: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+BoyLoc0: raises $1.50 to $2.50
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 (small blind) folded before Flop
+Seat 2: straightman77 (big blind) folded before Flop
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 collected ($2.50)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552651068:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:45:03 WET [2025/01/25 16:45:03 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 1: ghc_2 ($182.13 in chips) 
+Seat 2: straightman77 ($107.78 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($111.50 in chips) 
+Seat 5: Maks Bavenko ($100 in chips) 
+Seat 6: AlexPinsk1 ($210.13 in chips) 
+straightman77: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+Maks Bavenko: raises $1.50 to $2.50
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: raises $1.50 to $4
+Trojanovich: folds 
+Maks Bavenko: raises $20.50 to $24.50
+straightman77: calls $20.50
+*** FLOP *** [Tc 6d 5h]
+straightman77: bets $83.28 and is all-in
+Maks Bavenko: calls $75.50 and is all-in
+Uncalled bet ($7.78) returned to straightman77
+*** TURN *** [Tc 6d 5h] [2d]
+*** RIVER *** [Tc 6d 5h 2d] [Td]
+*** SHOW DOWN ***
+straightman77: shows [Ah Kd] (a pair of Tens)
+Maks Bavenko: shows [Qd Qc] (two pair, Queens and Tens)
+Maks Bavenko collected $198.50 from pot
+*** SUMMARY ***
+Total pot $201 | Rake $2.50 
+Board [Tc 6d 5h 2d Td]
+Seat 1: ghc_2 (button) folded before Flop (didn't bet)
+Seat 2: straightman77 (small blind) showed [Ah Kd] and lost with a pair of Tens
+Seat 3: Trojanovich (big blind) folded before Flop
+Seat 4: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: Maks Bavenko showed [Qd Qc] and won ($198.50) with two pair, Queens and Tens
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552664307:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:45:49 WET [2025/01/25 16:45:49 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: ghc_2 ($182.13 in chips) 
+Seat 2: straightman77 ($7.78 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($111.50 in chips) 
+Seat 5: Maks Bavenko ($198.50 in chips) 
+Seat 6: AlexPinsk1 ($210.13 in chips) 
+Trojanovich: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+Maks Bavenko: folds 
+AlexPinsk1: raises $1.50 to $2.50
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: folds 
+BoyLoc0: raises $9.50 to $12
+AlexPinsk1: raises $12.50 to $24.50
+BoyLoc0: calls $12.50
+*** FLOP *** [7h 8h Kc]
+BoyLoc0: checks 
+AlexPinsk1: bets $10
+BoyLoc0: folds 
+Uncalled bet ($10) returned to AlexPinsk1
+AlexPinsk1 collected $47.02 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $49.50 | Rake $2.48 
+Board [7h 8h Kc]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 (button) folded before Flop (didn't bet)
+Seat 3: Trojanovich (small blind) folded before Flop
+Seat 4: BoyLoc0 (big blind) folded on the Flop
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 collected ($47.02)
+
+
+
+PokerStars Hand #254552689651:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:47:16 WET [2025/01/25 16:47:16 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: ghc_2 ($182.13 in chips) 
+Seat 2: straightman77 ($7.78 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($198.50 in chips) 
+Seat 6: AlexPinsk1 ($232.65 in chips) 
+BoyLoc0: posts small blind $0.50
+Maks Bavenko: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: raises $1.50 to $2.50
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: folds 
+Uncalled bet ($1.50) returned to AlexPinsk1
+AlexPinsk1 collected $2.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich (button) folded before Flop (didn't bet)
+Seat 4: BoyLoc0 (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) folded before Flop
+Seat 6: AlexPinsk1 collected ($2.50)
+
+
+
+PokerStars Hand #254552693341:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:47:28 WET [2025/01/25 16:47:28 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: ghc_2 ($182.13 in chips) 
+Seat 2: straightman77 ($7.78 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($197.50 in chips) 
+Seat 6: AlexPinsk1 ($234.15 in chips) 
+Maks Bavenko: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+straightman77: raises $6.78 to $7.78 and is all-in
+Trojanovich: calls $7.78
+BoyLoc0: folds 
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+*** FLOP *** [5c 9h 4s]
+*** TURN *** [5c 9h 4s] [Td]
+*** RIVER *** [5c 9h 4s Td] [9s]
+*** SHOW DOWN ***
+straightman77: shows [Ts Ac] (two pair, Tens and Nines)
+Trojanovich: shows [As Jh] (a pair of Nines)
+straightman77 collected $16.21 from pot
+*** SUMMARY ***
+Total pot $17.06 | Rake $0.85 
+Board [5c 9h 4s Td 9s]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: straightman77 showed [Ts Ac] and won ($16.21) with two pair, Tens and Nines
+Seat 3: Trojanovich showed [As Jh] and lost with a pair of Nines
+Seat 4: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: AlexPinsk1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254552707560:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:48:17 WET [2025/01/25 16:48:17 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: ghc_2 ($182.13 in chips) 
+Seat 2: straightman77 ($16.21 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($197 in chips) 
+Seat 6: AlexPinsk1 ($233.15 in chips) 
+AlexPinsk1: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+straightman77: folds 
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: raises $1.50 to $2.50
+AlexPinsk1: folds 
+ghc_2: folds 
+Uncalled bet ($1.50) returned to Maks Bavenko
+Maks Bavenko collected $2.50 from pot
+Maks Bavenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 (big blind) folded before Flop
+Seat 2: straightman77 folded before Flop (didn't bet)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) collected ($2.50)
+Seat 6: AlexPinsk1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254552712896:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:48:34 WET [2025/01/25 16:48:34 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: ghc_2 ($181.13 in chips) 
+Seat 2: straightman77 ($16.21 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($198.50 in chips) 
+Seat 6: AlexPinsk1 ($232.65 in chips) 
+ghc_2: posts small blind $0.50
+straightman77: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: folds 
+AlexPinsk1: raises $1.50 to $2.50
+ghc_2: raises $9 to $11.50
+straightman77: raises $4.71 to $16.21 and is all-in
+AlexPinsk1: folds 
+ghc_2: calls $4.71
+*** FLOP *** [3d 3c 2c]
+*** TURN *** [3d 3c 2c] [5c]
+*** RIVER *** [3d 3c 2c 5c] [4d]
+*** SHOW DOWN ***
+ghc_2: shows [Kd As] (a straight, Ace to Five)
+straightman77: shows [Ac Qc] (a flush, Ace high)
+straightman77 collected $33.17 from pot
+*** SUMMARY ***
+Total pot $34.92 | Rake $1.75 
+Board [3d 3c 2c 5c 4d]
+Seat 1: ghc_2 (small blind) showed [Kd As] and lost with a straight, Ace to Five
+Seat 2: straightman77 (big blind) showed [Ac Qc] and won ($33.17) with a flush, Ace high
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (button) folded before Flop
+
+
+
+PokerStars Hand #254552722744:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:49:08 WET [2025/01/25 16:49:08 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 1: ghc_2 ($164.92 in chips) 
+Seat 2: straightman77 ($33.17 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($198.50 in chips) 
+Seat 6: AlexPinsk1 ($230.15 in chips) 
+straightman77: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+Maks Bavenko: raises $1.50 to $2.50
+AlexPinsk1: folds 
+ghc_2: folds 
+straightman77: folds 
+Trojanovich: folds 
+Uncalled bet ($1.50) returned to Maks Bavenko
+Maks Bavenko collected $2.50 from pot
+Maks Bavenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 (button) folded before Flop (didn't bet)
+Seat 2: straightman77 (small blind) folded before Flop
+Seat 3: Trojanovich (big blind) folded before Flop
+Seat 4: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: Maks Bavenko collected ($2.50)
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552730638:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:49:35 WET [2025/01/25 16:49:35 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: ghc_2 ($164.92 in chips) 
+Seat 2: straightman77 ($32.67 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+Seat 5: Maks Bavenko ($200 in chips) 
+Seat 6: AlexPinsk1 ($230.15 in chips) 
+Trojanovich: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+Maks Bavenko: folds 
+AlexPinsk1: folds 
+ghc_2: raises $1.30 to $2.30
+straightman77 is disconnected 
+straightman77 is connected 
+straightman77 has timed out
+straightman77: folds 
+Trojanovich: folds 
+BoyLoc0: calls $1.30
+*** FLOP *** [5d As Kc]
+BoyLoc0: checks 
+ghc_2: checks 
+*** TURN *** [5d As Kc] [3c]
+BoyLoc0: checks 
+ghc_2: checks 
+*** RIVER *** [5d As Kc 3c] [5c]
+BoyLoc0: checks 
+ghc_2: checks 
+*** SHOW DOWN ***
+BoyLoc0: shows [Ks Jd] (two pair, Kings and Fives)
+ghc_2: mucks hand 
+BoyLoc0 collected $4.84 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.26 
+Board [5d As Kc 3c 5c]
+Seat 1: ghc_2 mucked
+Seat 2: straightman77 (button) folded before Flop (didn't bet)
+Seat 3: Trojanovich (small blind) folded before Flop
+Seat 4: BoyLoc0 (big blind) showed [Ks Jd] and won ($4.84) with two pair, Kings and Fives
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552748629:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:50:38 WET [2025/01/25 16:50:38 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: ghc_2 ($162.62 in chips) 
+Seat 2: straightman77 ($32.67 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($102.54 in chips) 
+Seat 5: Maks Bavenko ($200 in chips) 
+Seat 6: AlexPinsk1 ($230.15 in chips) 
+BoyLoc0: posts small blind $0.50
+Maks Bavenko: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+ghc_2: raises $1 to $2
+straightman77: raises $1 to $3
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: folds 
+ghc_2: raises $10 to $13
+straightman77: raises $19.67 to $32.67 and is all-in
+ghc_2: calls $19.67
+*** FLOP *** [Jd 4d Kc]
+*** TURN *** [Jd 4d Kc] [4s]
+*** RIVER *** [Jd 4d Kc 4s] [Js]
+*** SHOW DOWN ***
+ghc_2: shows [Ks Kd] (a full house, Kings full of Jacks)
+straightman77: shows [7c 7s] (two pair, Jacks and Sevens)
+ghc_2 collected $64.34 from pot
+*** SUMMARY ***
+Total pot $66.84 | Rake $2.50 
+Board [Jd 4d Kc 4s Js]
+Seat 1: ghc_2 showed [Ks Kd] and won ($64.34) with a full house, Kings full of Jacks
+Seat 2: straightman77 showed [7c 7s] and lost with two pair, Jacks and Sevens
+Seat 3: Trojanovich (button) folded before Flop (didn't bet)
+Seat 4: BoyLoc0 (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) folded before Flop
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552763176:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:51:30 WET [2025/01/25 16:51:30 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 2: straightman77 ($0 in chips) is sitting out
+Seat 1: ghc_2 ($194.29 in chips) 
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($102.04 in chips) 
+Seat 5: Maks Bavenko ($199 in chips) 
+Seat 6: AlexPinsk1 ($230.15 in chips) 
+Maks Bavenko: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+straightman77 leaves the table
+ghc_2: folds 
+Trojanovich: folds 
+BoyLoc0: folds 
+Maks Bavenko: folds 
+Uncalled bet ($0.50) returned to AlexPinsk1
+AlexPinsk1 collected $1 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: straightman77
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 3: Trojanovich folded before Flop (didn't bet)
+Seat 4: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: AlexPinsk1 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254552765836:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:51:39 WET [2025/01/25 16:51:39 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: ghc_2 ($194.29 in chips) is sitting out
+Seat 3: Trojanovich ($100 in chips) 
+Seat 4: BoyLoc0 ($102.04 in chips) 
+Seat 5: Maks Bavenko ($198.50 in chips) 
+Seat 6: AlexPinsk1 ($230.65 in chips) 
+AlexPinsk1: posts small blind $0.50
+ghc_2: is sitting out 
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+BoyLoc0 leaves the table
+xxxZeka joins the table at seat #2 
+Maks Bavenko: folds 
+ghc_2 leaves the table
+xxxZeka leaves the table
+AlexPinsk1: folds 
+Uncalled bet ($0.50) returned to Trojanovich
+Trojanovich collected $1 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ghc_2
+Seat 3: Trojanovich (big blind) collected ($1)
+Seat 4: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254552781623:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:52:34 WET [2025/01/25 16:52:34 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 5: Maks Bavenko ($198.50 in chips) is sitting out
+Seat 1: mariofcd ($100 in chips) 
+Seat 3: dothmani1909 ($52.50 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 6: Trojanovich ($100.50 in chips) 
+mariofcd: posts small blind $0.50
+dothmani1909: posts big blind $1
+*** HOLE CARDS ***
+Maks Bavenko leaves the table
+z00mba: folds 
+Trojanovich: raises $1.50 to $2.50
+sskripka joins the table at seat #5 
+mariofcd: folds 
+dothmani1909: calls $1.50
+*** FLOP *** [Td Tc 4h]
+dothmani1909: checks 
+Trojanovich: bets $1.30
+dothmani1909: folds 
+Uncalled bet ($1.30) returned to Trojanovich
+Trojanovich collected $5.22 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Td Tc 4h]
+Seat 5: Maks Bavenko
+Seat 1: mariofcd (small blind) folded before Flop
+Seat 3: dothmani1909 (big blind) folded on the Flop
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 6: Trojanovich (button) collected ($5.22)
+
+
+
+PokerStars Hand #254552790875:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:53:06 WET [2025/01/25 16:53:06 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 5: sskripka ($100 in chips) is sitting out
+Seat 1: mariofcd ($100 in chips) 
+Seat 3: dothmani1909 ($50 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 6: Trojanovich ($103.22 in chips) 
+dothmani1909: posts small blind $0.50
+z00mba: posts big blind $1
+sskripka: sits out 
+*** HOLE CARDS ***
+Trojanovich: folds 
+mariofcd: folds 
+dothmani1909: calls $0.50
+z00mba: raises $3 to $4
+dothmani1909: calls $3
+*** FLOP *** [Qh 8c Qd]
+dothmani1909: checks 
+z00mba: checks 
+*** TURN *** [Qh 8c Qd] [8s]
+dothmani1909: checks 
+z00mba: checks 
+*** RIVER *** [Qh 8c Qd 8s] [Ac]
+dothmani1909: bets $5
+z00mba: calls $5
+*** SHOW DOWN ***
+dothmani1909: shows [Qs Jh] (a full house, Queens full of Eights)
+z00mba: mucks hand 
+dothmani1909 collected $16.88 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $1.12 
+Board [Qh 8c Qd 8s Ac]
+Seat 5: sskripka
+Seat 1: mariofcd (button) folded before Flop (didn't bet)
+Seat 3: dothmani1909 (small blind) showed [Qs Jh] and won ($16.88) with a full house, Queens full of Eights
+Seat 4: z00mba (big blind) mucked
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552800049:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:53:39 WET [2025/01/25 16:53:39 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: mariofcd ($100 in chips) 
+Seat 3: dothmani1909 ($57.88 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: sskripka ($100 in chips) 
+Seat 6: Trojanovich ($103.22 in chips) 
+z00mba: posts small blind $0.50
+sskripka: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: raises $1.50 to $2.50
+mariofcd: raises $5.53 to $8.03
+dothmani1909: folds 
+z00mba: folds 
+sskripka: folds 
+Trojanovich: raises $15.97 to $24
+mariofcd: folds 
+Uncalled bet ($15.97) returned to Trojanovich
+Trojanovich collected $17.56 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.56 | Rake $0 
+Seat 1: mariofcd folded before Flop
+Seat 3: dothmani1909 (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 5: sskripka (big blind) folded before Flop
+Seat 6: Trojanovich collected ($17.56)
+
+
+
+PokerStars Hand #254552808354:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:54:08 WET [2025/01/25 16:54:08 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: mariofcd ($100 in chips) 
+Seat 3: dothmani1909 ($57.88 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: sskripka ($100 in chips) 
+Seat 6: Trojanovich ($112.75 in chips) 
+sskripka: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: folds 
+mariofcd leaves the table
+dothmani1909: calls $1
+z00mba: folds 
+sskripka: folds 
+Trojanovich: checks 
+*** FLOP *** [2s 2h Td]
+Trojanovich: checks 
+dothmani1909: checks 
+*** TURN *** [2s 2h Td] [9s]
+Trojanovich: bets $3.57
+dothmani1909: folds 
+Uncalled bet ($3.57) returned to Trojanovich
+Trojanovich collected $2.38 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [2s 2h Td 9s]
+Seat 1: mariofcd folded before Flop (didn't bet)
+Seat 3: dothmani1909 folded on the Turn
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 5: sskripka (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) collected ($2.38)
+
+
+
+PokerStars Hand #254552819567:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:54:48 WET [2025/01/25 16:54:48 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 3: dothmani1909 ($56.88 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: sskripka ($100 in chips) 
+Seat 6: Trojanovich ($114.13 in chips) 
+Trojanovich: posts small blind $0.50
+dothmani1909: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+sskripka: folds 
+Trojanovich: folds 
+Uncalled bet ($0.50) returned to dothmani1909
+dothmani1909 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: dothmani1909 (big blind) collected ($1)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: sskripka (button) folded before Flop (didn't bet)
+Seat 6: Trojanovich (small blind) folded before Flop
+
+
+
+PokerStars Hand #254552823055:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:55:00 WET [2025/01/25 16:55:00 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 3: dothmani1909 ($57.38 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: sskripka ($100 in chips) 
+Seat 6: Trojanovich ($113.63 in chips) 
+dothmani1909: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+sskripka: folds 
+Trojanovich: raises $1.50 to $2.50
+sskripka leaves the table
+dothmani1909: folds 
+z00mba: calls $1.50
+*** FLOP *** [7c 7h Kh]
+z00mba: checks 
+Trojanovich: checks 
+*** TURN *** [7c 7h Kh] [5c]
+z00mba: checks 
+Trojanovich: bets $1.72
+z00mba: folds 
+Uncalled bet ($1.72) returned to Trojanovich
+Trojanovich collected $5.22 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [7c 7h Kh 5c]
+Seat 3: dothmani1909 (small blind) folded before Flop
+Seat 4: z00mba (big blind) folded on the Turn
+Seat 5: sskripka folded before Flop (didn't bet)
+Seat 6: Trojanovich (button) collected ($5.22)
+
+
+
+PokerStars Hand #254552835584:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:55:59 WET [2025/01/25 16:55:59 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 3: dothmani1909 ($56.88 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 6: Trojanovich ($116.35 in chips) 
+z00mba: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+m1lkdud joins the table at seat #5 
+m1lkdud is disconnected 
+dothmani1909: folds 
+z00mba: folds 
+Uncalled bet ($0.50) returned to Trojanovich
+Trojanovich collected $1 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: dothmani1909 (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) collected ($1)
+
+
+
+PokerStars Hand #254552838405:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:56:12 WET [2025/01/25 16:56:12 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 5: m1lkdud ($100 in chips) is sitting out
+Seat 3: dothmani1909 ($56.88 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 6: Trojanovich ($116.85 in chips) 
+Trojanovich: posts small blind $0.50
+dothmani1909: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+Trojanovich: folds 
+Uncalled bet ($0.50) returned to dothmani1909
+dothmani1909 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: m1lkdud
+Seat 3: dothmani1909 (big blind) collected ($1)
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 6: Trojanovich (small blind) folded before Flop
+
+
+
+PokerStars Hand #254552840368:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:56:22 WET [2025/01/25 16:56:22 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 5: m1lkdud ($100 in chips) is sitting out
+Seat 3: dothmani1909 ($57.38 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 6: Trojanovich ($116.35 in chips) 
+dothmani1909: posts small blind $0.50
+z00mba: posts big blind $1
+m1lkdud: sits out 
+*** HOLE CARDS ***
+Trojanovich: folds 
+dothmani1909: folds 
+Uncalled bet ($0.50) returned to z00mba
+z00mba collected $1 from pot
+z00mba: doesn't show hand 
+vadjkeee joins the table at seat #2 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: m1lkdud
+Seat 3: dothmani1909 (small blind) folded before Flop
+Seat 4: z00mba (big blind) collected ($1)
+Seat 6: Trojanovich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552841701:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:56:29 WET [2025/01/25 16:56:29 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 2: vadjkeee ($100 in chips) is sitting out
+Seat 3: dothmani1909 ($56.88 in chips) 
+Seat 4: z00mba ($100.50 in chips) 
+Seat 5: m1lkdud ($100 in chips) 
+Seat 6: Trojanovich ($116.35 in chips) 
+z00mba: posts small blind $0.50
+m1lkdud: posts big blind $1
+vadjkeee: sits out 
+*** HOLE CARDS ***
+Trojanovich: folds 
+dothmani1909: calls $1
+z00mba: folds 
+m1lkdud: checks 
+*** FLOP *** [Ac Jd Th]
+m1lkdud: checks 
+dothmani1909: checks 
+*** TURN *** [Ac Jd Th] [6c]
+m1lkdud: checks 
+dothmani1909: checks 
+*** RIVER *** [Ac Jd Th 6c] [5c]
+AlexPinsk1 joins the table at seat #1 
+m1lkdud: checks 
+dothmani1909: bets $2
+m1lkdud: folds 
+Uncalled bet ($2) returned to dothmani1909
+dothmani1909 collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [Ac Jd Th 6c 5c]
+Seat 2: vadjkeee
+Seat 3: dothmani1909 (button) collected ($2.35)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 5: m1lkdud (big blind) folded on the River
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552848895:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:57:04 WET [2025/01/25 16:57:04 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: AlexPinsk1 ($230.15 in chips) is sitting out
+Seat 2: vadjkeee ($100 in chips) is sitting out
+Seat 3: dothmani1909 ($58.23 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: m1lkdud ($99 in chips) 
+Seat 6: Trojanovich ($116.35 in chips) 
+m1lkdud: posts small blind $0.50
+Trojanovich: posts big blind $1
+AlexPinsk1: sits out 
+vadjkeee: sits out 
+*** HOLE CARDS ***
+dothmani1909: calls $1
+z00mba: folds 
+m1lkdud: folds 
+Trojanovich: checks 
+*** FLOP *** [6s 9d 9c]
+Trojanovich: checks 
+dothmani1909: checks 
+*** TURN *** [6s 9d 9c] [Qs]
+Trojanovich: checks 
+dothmani1909: checks 
+*** RIVER *** [6s 9d 9c Qs] [5h]
+Trojanovich: bets $1
+dothmani1909: calls $1
+*** SHOW DOWN ***
+Trojanovich: shows [6c Qc] (two pair, Queens and Nines)
+dothmani1909: mucks hand 
+Trojanovich collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [6s 9d 9c Qs 5h]
+Seat 1: AlexPinsk1
+Seat 2: vadjkeee
+Seat 3: dothmani1909 mucked
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 5: m1lkdud (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) showed [6c Qc] and won ($4.28) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #254552857179:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:57:44 WET [2025/01/25 16:57:44 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 2: vadjkeee ($100 in chips) is sitting out
+Seat 1: AlexPinsk1 ($230.15 in chips) 
+Seat 3: dothmani1909 ($56.23 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: m1lkdud ($98.50 in chips) 
+Seat 6: Trojanovich ($118.63 in chips) 
+Trojanovich: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+vadjkeee: sits out 
+*** HOLE CARDS ***
+dothmani1909: folds 
+z00mba: folds 
+m1lkdud: folds 
+Trojanovich: folds 
+Uncalled bet ($0.50) returned to AlexPinsk1
+AlexPinsk1 collected $1 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: vadjkeee
+Seat 1: AlexPinsk1 (big blind) collected ($1)
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: m1lkdud (button) folded before Flop (didn't bet)
+Seat 6: Trojanovich (small blind) folded before Flop
+
+
+
+PokerStars Hand #254552859045:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:57:53 WET [2025/01/25 16:57:53 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: AlexPinsk1 ($230.65 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: dothmani1909 ($56.23 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: m1lkdud ($98.50 in chips) 
+Seat 6: Trojanovich ($118.13 in chips) 
+AlexPinsk1: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+dothmani1909: calls $1
+z00mba: folds 
+m1lkdud: folds 
+Trojanovich: folds 
+AlexPinsk1: folds 
+vadjkeee: checks 
+*** FLOP *** [6d As 3d]
+vadjkeee: checks 
+dothmani1909: checks 
+*** TURN *** [6d As 3d] [Kc]
+vadjkeee: checks 
+dothmani1909: checks 
+*** RIVER *** [6d As 3d Kc] [Ad]
+vadjkeee: checks 
+dothmani1909: checks 
+*** SHOW DOWN ***
+vadjkeee: shows [3h Td] (two pair, Aces and Threes)
+dothmani1909: mucks hand 
+vadjkeee collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [6d As 3d Kc Ad]
+Seat 1: AlexPinsk1 (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) showed [3h Td] and won ($2.38) with two pair, Aces and Threes
+Seat 3: dothmani1909 mucked
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: m1lkdud folded before Flop (didn't bet)
+Seat 6: Trojanovich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552865873:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:58:26 WET [2025/01/25 16:58:26 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 1: AlexPinsk1 ($230.15 in chips) 
+Seat 2: vadjkeee ($101.38 in chips) 
+Seat 3: dothmani1909 ($55.23 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: m1lkdud ($98.50 in chips) 
+Seat 6: Trojanovich ($118.13 in chips) 
+vadjkeee: posts small blind $0.50
+dothmani1909: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+m1lkdud: folds 
+Trojanovich: folds 
+AlexPinsk1: folds 
+vadjkeee: folds 
+Uncalled bet ($0.50) returned to dothmani1909
+dothmani1909 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 3: dothmani1909 (big blind) collected ($1)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: m1lkdud folded before Flop (didn't bet)
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552868706:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:58:39 WET [2025/01/25 16:58:39 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: AlexPinsk1 ($230.15 in chips) 
+Seat 2: vadjkeee ($100.88 in chips) 
+Seat 3: dothmani1909 ($55.73 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: m1lkdud ($98.50 in chips) 
+Seat 6: Trojanovich ($118.13 in chips) 
+dothmani1909: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+m1lkdud: raises $2.50 to $3.50
+Trojanovich: folds 
+AlexPinsk1: folds 
+vadjkeee: folds 
+dothmani1909: folds 
+z00mba: calls $2.50
+*** FLOP *** [9h 7c Ad]
+z00mba: checks 
+m1lkdud: bets $3.56
+z00mba: folds 
+Uncalled bet ($3.56) returned to m1lkdud
+m1lkdud collected $7.12 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [9h 7c Ad]
+Seat 1: AlexPinsk1 folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: dothmani1909 (small blind) folded before Flop
+Seat 4: z00mba (big blind) folded on the Flop
+Seat 5: m1lkdud collected ($7.12)
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254552880057:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 21:59:33 WET [2025/01/25 16:59:33 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: AlexPinsk1 ($230.15 in chips) 
+Seat 2: vadjkeee ($100.88 in chips) 
+Seat 3: dothmani1909 ($55.23 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: m1lkdud ($102.12 in chips) 
+Seat 6: Trojanovich ($118.13 in chips) 
+z00mba: posts small blind $0.50
+m1lkdud: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+AlexPinsk1: folds 
+vadjkeee: folds 
+dothmani1909: folds 
+z00mba: raises $2 to $3
+m1lkdud: folds 
+Uncalled bet ($2) returned to z00mba
+z00mba collected $2 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: AlexPinsk1 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: dothmani1909 (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) collected ($2)
+Seat 5: m1lkdud (big blind) folded before Flop
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553054252:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:10:05 WET [2025/01/25 17:10:05 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 2: pr0tecto ($100 in chips) is sitting out
+Seat 1: AschabAv ($82.75 in chips) 
+Seat 3: dothmani1909 ($55.69 in chips) 
+Seat 4: z00mba ($103.10 in chips) 
+Seat 5: xxxZeka ($100.72 in chips) 
+Seat 6: Trojanovich ($106.22 in chips) 
+xxxZeka: posts small blind $0.50
+Trojanovich: posts big blind $1
+pr0tecto: sits out 
+*** HOLE CARDS ***
+AschabAv: calls $1
+dothmani1909: folds 
+z00mba: folds 
+xxxZeka: folds 
+Trojanovich: checks 
+*** FLOP *** [Jc 7s Qs]
+Trojanovich: checks 
+AschabAv: checks 
+*** TURN *** [Jc 7s Qs] [Js]
+Trojanovich: checks 
+AschabAv: checks 
+*** RIVER *** [Jc 7s Qs Js] [3d]
+Trojanovich: bets $1.19
+AschabAv: folds 
+Uncalled bet ($1.19) returned to Trojanovich
+Trojanovich collected $2.38 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Jc 7s Qs Js 3d]
+Seat 2: pr0tecto
+Seat 1: AschabAv folded on the River
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 5: xxxZeka (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) collected ($2.38)
+
+
+
+PokerStars Hand #254553067375:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:10:51 WET [2025/01/25 17:10:51 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 2: pr0tecto ($100 in chips) is sitting out
+Seat 1: AschabAv ($81.75 in chips) 
+Seat 3: dothmani1909 ($55.69 in chips) 
+Seat 4: z00mba ($103.10 in chips) 
+Seat 5: xxxZeka ($100.22 in chips) 
+Seat 6: Trojanovich ($107.60 in chips) 
+Trojanovich: posts small blind $0.50
+AschabAv: posts big blind $1
+pr0tecto: sits out 
+*** HOLE CARDS ***
+dothmani1909: folds 
+z00mba: folds 
+xxxZeka: folds 
+Trojanovich: raises $2 to $3
+AschabAv: calls $2
+*** FLOP *** [9d 6h 3c]
+Trojanovich: bets $1.88
+AschabAv is connected 
+AschabAv: calls $1.88
+*** TURN *** [9d 6h 3c] [Js]
+Trojanovich: checks 
+AschabAv: checks 
+*** RIVER *** [9d 6h 3c Js] [Kh]
+Trojanovich: bets $1
+AschabAv has timed out
+AschabAv: folds 
+Uncalled bet ($1) returned to Trojanovich
+Trojanovich collected $9.27 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [9d 6h 3c Js Kh]
+Seat 2: pr0tecto
+Seat 1: AschabAv (big blind) folded on the River
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: xxxZeka (button) folded before Flop (didn't bet)
+Seat 6: Trojanovich (small blind) collected ($9.27)
+
+
+
+PokerStars Hand #254553094628:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:12:27 WET [2025/01/25 17:12:27 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: AschabAv ($76.87 in chips) is sitting out
+Seat 2: pr0tecto ($100 in chips) is sitting out
+Seat 3: dothmani1909 ($55.69 in chips) 
+Seat 4: z00mba ($103.10 in chips) 
+Seat 5: xxxZeka ($100.22 in chips) 
+Seat 6: Trojanovich ($111.99 in chips) 
+dothmani1909: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+xxxZeka: folds 
+Trojanovich: folds 
+dothmani1909: folds 
+Uncalled bet ($0.50) returned to z00mba
+z00mba collected $1 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: AschabAv
+Seat 2: pr0tecto
+Seat 3: dothmani1909 (small blind) folded before Flop
+Seat 4: z00mba (big blind) collected ($1)
+Seat 5: xxxZeka folded before Flop (didn't bet)
+Seat 6: Trojanovich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553097709:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:12:37 WET [2025/01/25 17:12:37 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: AschabAv ($76.87 in chips) is sitting out
+Seat 2: pr0tecto ($100 in chips) is sitting out
+Seat 5: xxxZeka ($100.22 in chips) is sitting out
+Seat 3: dothmani1909 ($55.19 in chips) 
+Seat 4: z00mba ($103.60 in chips) 
+Seat 6: Trojanovich ($111.99 in chips) 
+z00mba: posts small blind $0.50
+xxxZeka: is sitting out 
+Trojanovich: posts big blind $1
+AschabAv: sits out 
+pr0tecto: sits out 
+*** HOLE CARDS ***
+xxxZeka leaves the table
+dothmani1909: folds 
+z00mba: folds 
+Uncalled bet ($0.50) returned to Trojanovich
+Trojanovich collected $1 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: AschabAv
+Seat 2: pr0tecto
+Seat 5: xxxZeka
+Seat 3: dothmani1909 (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) collected ($1)
+
+
+
+PokerStars Hand #254553100984:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:12:49 WET [2025/01/25 17:12:49 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 2: pr0tecto ($100 in chips) is sitting out
+Seat 1: AschabAv ($76.87 in chips) 
+Seat 3: dothmani1909 ($55.19 in chips) 
+Seat 4: z00mba ($103.10 in chips) 
+Seat 6: Trojanovich ($112.49 in chips) 
+Trojanovich: posts small blind $0.50
+vadjkeee joins the table at seat #5 
+AschabAv: posts big blind $1
+pr0tecto: sits out 
+*** HOLE CARDS ***
+dothmani1909: folds 
+z00mba: raises $1.50 to $2.50
+Trojanovich: folds 
+AschabAv: folds 
+Uncalled bet ($1.50) returned to z00mba
+z00mba collected $2.50 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: pr0tecto
+Seat 1: AschabAv (big blind) folded before Flop
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba (button) collected ($2.50)
+Seat 6: Trojanovich (small blind) folded before Flop
+
+
+
+PokerStars Hand #254553107348:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:13:11 WET [2025/01/25 17:13:11 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: AschabAv ($75.87 in chips) is sitting out
+Seat 2: pr0tecto ($100 in chips) is sitting out
+Seat 5: vadjkeee ($103 in chips) is sitting out
+Seat 3: dothmani1909 ($55.19 in chips) 
+Seat 4: z00mba ($104.60 in chips) 
+Seat 6: Trojanovich ($111.99 in chips) 
+AschabAv has timed out
+AschabAv: is sitting out 
+dothmani1909: posts small blind $0.50
+z00mba: posts big blind $1
+vadjkeee: sits out 
+*** HOLE CARDS ***
+Trojanovich: folds 
+dothmani1909: folds 
+Uncalled bet ($0.50) returned to z00mba
+z00mba collected $1 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: AschabAv
+Seat 2: pr0tecto
+Seat 5: vadjkeee
+Seat 3: dothmani1909 (small blind) folded before Flop
+Seat 4: z00mba (big blind) collected ($1)
+Seat 6: Trojanovich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553115290:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:13:39 WET [2025/01/25 17:13:39 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: AschabAv ($75.87 in chips) is sitting out
+Seat 2: pr0tecto ($100 in chips) is sitting out
+Seat 3: dothmani1909 ($54.69 in chips) 
+Seat 4: z00mba ($105.10 in chips) 
+Seat 5: vadjkeee ($103 in chips) 
+Seat 6: Trojanovich ($111.99 in chips) 
+z00mba: posts small blind $0.50
+vadjkeee: posts big blind $1
+pr0tecto: sits out 
+*** HOLE CARDS ***
+Trojanovich: folds 
+AschabAv is disconnected 
+dothmani1909: calls $1
+z00mba: calls $0.50
+vadjkeee: checks 
+*** FLOP *** [6d 5d 2h]
+z00mba: checks 
+vadjkeee: checks 
+dothmani1909: checks 
+*** TURN *** [6d 5d 2h] [Jc]
+z00mba: checks 
+vadjkeee: checks 
+dothmani1909: checks 
+*** RIVER *** [6d 5d 2h Jc] [4d]
+z00mba: checks 
+vadjkeee: checks 
+dothmani1909: bets $3
+z00mba: folds 
+vadjkeee: folds 
+Uncalled bet ($3) returned to dothmani1909
+dothmani1909 collected $2.81 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.19 
+Board [6d 5d 2h Jc 4d]
+Seat 1: AschabAv
+Seat 2: pr0tecto
+Seat 3: dothmani1909 (button) collected ($2.81)
+Seat 4: z00mba (small blind) folded on the River
+Seat 5: vadjkeee (big blind) folded on the River
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553133426:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:14:42 WET [2025/01/25 17:14:42 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 2: pr0tecto ($100 in chips) is sitting out
+Seat 1: AschabAv ($75.87 in chips) 
+Seat 3: dothmani1909 ($56.50 in chips) 
+Seat 4: z00mba ($104.10 in chips) 
+Seat 5: vadjkeee ($102 in chips) 
+Seat 6: Trojanovich ($111.99 in chips) 
+vadjkeee: posts small blind $0.50
+Trojanovich: posts big blind $1
+AschabAv: posts small blind $0.50
+pr0tecto: sits out 
+*** HOLE CARDS ***
+AschabAv: calls $1
+dothmani1909: raises $1 to $2
+z00mba: folds 
+vadjkeee: folds 
+Trojanovich: calls $1
+AschabAv: calls $1
+*** FLOP *** [5d 2s Th]
+Trojanovich: checks 
+AschabAv: bets $3
+dothmani1909: calls $3
+Trojanovich: raises $6 to $9
+AschabAv: folds 
+dothmani1909: folds 
+Uncalled bet ($6) returned to Trojanovich
+Trojanovich collected $15.20 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [5d 2s Th]
+Seat 2: pr0tecto
+Seat 1: AschabAv folded on the Flop
+Seat 3: dothmani1909 folded on the Flop
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 5: vadjkeee (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) collected ($15.20)
+
+
+
+PokerStars Hand #254553146744:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:15:28 WET [2025/01/25 17:15:28 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 2: pr0tecto ($100 in chips) is sitting out
+Seat 1: AschabAv ($70.37 in chips) 
+Seat 3: dothmani1909 ($51.50 in chips) 
+Seat 4: z00mba ($104.10 in chips) 
+Seat 5: vadjkeee ($101.50 in chips) 
+Seat 6: Trojanovich ($122.19 in chips) 
+Trojanovich: posts small blind $0.50
+AschabAv: posts big blind $1
+pr0tecto: sits out 
+*** HOLE CARDS ***
+dothmani1909: folds 
+z00mba: folds 
+vadjkeee: folds 
+Trojanovich: raises $2 to $3
+AschabAv: calls $2
+*** FLOP *** [5d 7c 5h]
+Trojanovich: checks 
+AschabAv: checks 
+*** TURN *** [5d 7c 5h] [8h]
+Trojanovich: checks 
+AschabAv: checks 
+*** RIVER *** [5d 7c 5h 8h] [6d]
+Trojanovich: checks 
+AschabAv: checks 
+*** SHOW DOWN ***
+Trojanovich: shows [As Qs] (a pair of Fives)
+AschabAv: mucks hand 
+Trojanovich collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [5d 7c 5h 8h 6d]
+Seat 2: pr0tecto
+Seat 1: AschabAv (big blind) mucked
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: vadjkeee (button) folded before Flop (didn't bet)
+Seat 6: Trojanovich (small blind) showed [As Qs] and won ($5.70) with a pair of Fives
+
+
+
+PokerStars Hand #254553160457:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:16:16 WET [2025/01/25 17:16:16 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: AschabAv ($67.37 in chips) 
+Seat 2: pr0tecto ($100 in chips) 
+Seat 3: dothmani1909 ($51.50 in chips) 
+Seat 4: z00mba ($104.10 in chips) 
+Seat 5: vadjkeee ($101.50 in chips) 
+Seat 6: Trojanovich ($124.89 in chips) 
+AschabAv: posts small blind $0.50
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+dothmani1909: folds 
+z00mba: folds 
+vadjkeee: raises $2 to $3
+Trojanovich: raises $6 to $9
+AschabAv: folds 
+pr0tecto: folds 
+vadjkeee: folds 
+Uncalled bet ($6) returned to Trojanovich
+Trojanovich collected $7.50 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: AschabAv (small blind) folded before Flop
+Seat 2: pr0tecto (big blind) folded before Flop
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: vadjkeee folded before Flop
+Seat 6: Trojanovich (button) collected ($7.50)
+
+
+
+PokerStars Hand #254553166447:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:16:37 WET [2025/01/25 17:16:37 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 1: AschabAv ($66.87 in chips) 
+Seat 2: pr0tecto ($99 in chips) 
+Seat 3: dothmani1909 ($51.50 in chips) 
+Seat 4: z00mba ($104.10 in chips) 
+Seat 5: vadjkeee ($100 in chips) 
+Seat 6: Trojanovich ($129.39 in chips) 
+pr0tecto: posts small blind $0.50
+dothmani1909: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+vadjkeee: folds 
+Trojanovich: folds 
+AschabAv: folds 
+pr0tecto: raises $1.24 to $2.24
+dothmani1909: calls $1.24
+*** FLOP *** [3h Jh 2d]
+pr0tecto: checks 
+dothmani1909: checks 
+*** TURN *** [3h Jh 2d] [7c]
+pr0tecto: bets $3.20
+dothmani1909: folds 
+Uncalled bet ($3.20) returned to pr0tecto
+pr0tecto collected $4.26 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.48 | Rake $0.22 
+Board [3h Jh 2d 7c]
+Seat 1: AschabAv (button) folded before Flop (didn't bet)
+Seat 2: pr0tecto (small blind) collected ($4.26)
+Seat 3: dothmani1909 (big blind) folded on the Turn
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: vadjkeee folded before Flop (didn't bet)
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553175114:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:17:07 WET [2025/01/25 17:17:07 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: AschabAv ($66.87 in chips) 
+Seat 2: pr0tecto ($101.02 in chips) 
+Seat 3: dothmani1909 ($49.26 in chips) 
+Seat 4: z00mba ($104.10 in chips) 
+Seat 5: vadjkeee ($100 in chips) 
+Seat 6: Trojanovich ($129.39 in chips) 
+dothmani1909: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+Trojanovich: raises $1.50 to $2.50
+AschabAv: folds 
+pr0tecto: folds 
+dothmani1909: folds 
+z00mba: calls $1.50
+*** FLOP *** [Kd 5d 5c]
+z00mba: checks 
+Trojanovich: bets $1.30
+z00mba: calls $1.30
+*** TURN *** [Kd 5d 5c] [Qh]
+z00mba: checks 
+Trojanovich: bets $5.78
+z00mba: calls $5.78
+*** RIVER *** [Kd 5d 5c Qh] [Jd]
+z00mba: checks 
+Trojanovich: checks 
+*** SHOW DOWN ***
+z00mba: shows [9d Td] (a flush, King high)
+Trojanovich: mucks hand 
+z00mba collected $18.68 from pot
+*** SUMMARY ***
+Total pot $19.66 | Rake $0.98 
+Board [Kd 5d 5c Qh Jd]
+Seat 1: AschabAv folded before Flop (didn't bet)
+Seat 2: pr0tecto (button) folded before Flop (didn't bet)
+Seat 3: dothmani1909 (small blind) folded before Flop
+Seat 4: z00mba (big blind) showed [9d Td] and won ($18.68) with a flush, King high
+Seat 5: vadjkeee folded before Flop (didn't bet)
+Seat 6: Trojanovich mucked
+
+
+
+PokerStars Hand #254553198372:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:18:27 WET [2025/01/25 17:18:27 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: AschabAv ($66.87 in chips) 
+Seat 2: pr0tecto ($101.02 in chips) 
+Seat 3: dothmani1909 ($48.76 in chips) 
+Seat 4: z00mba ($113.20 in chips) 
+Seat 5: vadjkeee ($100 in chips) 
+Seat 6: Trojanovich ($119.81 in chips) 
+z00mba: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+AschabAv: folds 
+pr0tecto: folds 
+dothmani1909: folds 
+z00mba: raises $2 to $3
+vadjkeee: calls $2
+*** FLOP *** [4d 5s 4s]
+z00mba: checks 
+vadjkeee: checks 
+*** TURN *** [4d 5s 4s] [Th]
+z00mba: checks 
+vadjkeee: bets $5.42
+z00mba: folds 
+Uncalled bet ($5.42) returned to vadjkeee
+vadjkeee collected $5.70 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4d 5s 4s Th]
+Seat 1: AschabAv folded before Flop (didn't bet)
+Seat 2: pr0tecto folded before Flop (didn't bet)
+Seat 3: dothmani1909 (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) folded on the Turn
+Seat 5: vadjkeee (big blind) collected ($5.70)
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553213846:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:19:21 WET [2025/01/25 17:19:21 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: AschabAv ($66.87 in chips) 
+Seat 2: pr0tecto ($101.02 in chips) 
+Seat 3: dothmani1909 ($48.76 in chips) 
+Seat 4: z00mba ($110.20 in chips) 
+Seat 5: vadjkeee ($102.70 in chips) 
+Seat 6: Trojanovich ($119.81 in chips) 
+vadjkeee: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+AschabAv: folds 
+pr0tecto: folds 
+dothmani1909: folds 
+z00mba: raises $1.50 to $2.50
+vadjkeee: folds 
+Trojanovich: calls $1.50
+*** FLOP *** [Qh Th 8c]
+Trojanovich: checks 
+z00mba: bets $1.67
+Trojanovich: calls $1.67
+*** TURN *** [Qh Th 8c] [Ts]
+Trojanovich: checks 
+z00mba: bets $6.38
+Trojanovich: folds 
+Uncalled bet ($6.38) returned to z00mba
+z00mba collected $8.40 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.84 | Rake $0.44 
+Board [Qh Th 8c Ts]
+Seat 1: AschabAv folded before Flop (didn't bet)
+Seat 2: pr0tecto folded before Flop (didn't bet)
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba (button) collected ($8.40)
+Seat 5: vadjkeee (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254553230449:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:20:19 WET [2025/01/25 17:20:19 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: AschabAv ($66.87 in chips) 
+Seat 2: pr0tecto ($101.02 in chips) 
+Seat 3: dothmani1909 ($48.76 in chips) 
+Seat 4: z00mba ($114.43 in chips) 
+Seat 5: vadjkeee ($102.20 in chips) 
+Seat 6: Trojanovich ($115.64 in chips) 
+Trojanovich: posts small blind $0.50
+AschabAv: posts big blind $1
+*** HOLE CARDS ***
+pr0tecto: folds 
+dothmani1909: folds 
+z00mba: folds 
+vadjkeee: raises $2 to $3
+Trojanovich: folds 
+AschabAv: calls $2
+*** FLOP *** [7c 5h Tc]
+AschabAv: checks 
+vadjkeee: bets $4.63
+AschabAv: calls $4.63
+*** TURN *** [7c 5h Tc] [9h]
+AschabAv: checks 
+vadjkeee: checks 
+*** RIVER *** [7c 5h Tc 9h] [2h]
+AschabAv: checks 
+vadjkeee: bets $94.57 and is all-in
+AschabAv is disconnected 
+AschabAv is connected 
+AschabAv: folds 
+Uncalled bet ($94.57) returned to vadjkeee
+vadjkeee collected $14.97 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.76 | Rake $0.79 
+Board [7c 5h Tc 9h 2h]
+Seat 1: AschabAv (big blind) folded on the River
+Seat 2: pr0tecto folded before Flop (didn't bet)
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: vadjkeee (button) collected ($14.97)
+Seat 6: Trojanovich (small blind) folded before Flop
+
+
+
+PokerStars Hand #254553254606:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:21:44 WET [2025/01/25 17:21:44 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: AschabAv ($59.24 in chips) 
+Seat 2: pr0tecto ($101.02 in chips) 
+Seat 3: dothmani1909 ($48.76 in chips) 
+Seat 4: z00mba ($114.43 in chips) 
+Seat 5: vadjkeee ($109.54 in chips) 
+Seat 6: Trojanovich ($115.14 in chips) 
+AschabAv: posts small blind $0.50
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+dothmani1909: folds 
+z00mba: folds 
+vadjkeee: folds 
+Trojanovich: raises $1.50 to $2.50
+AschabAv: calls $2
+pr0tecto: folds 
+*** FLOP *** [Jc 3c 7s]
+AschabAv: checks 
+Trojanovich: checks 
+*** TURN *** [Jc 3c 7s] [9h]
+AschabAv: bets $1
+Trojanovich: raises $3 to $4
+AschabAv: folds 
+Uncalled bet ($3) returned to Trojanovich
+Trojanovich collected $7.60 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Jc 3c 7s 9h]
+Seat 1: AschabAv (small blind) folded on the Turn
+Seat 2: pr0tecto (big blind) folded before Flop
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: vadjkeee folded before Flop (didn't bet)
+Seat 6: Trojanovich (button) collected ($7.60)
+
+
+
+PokerStars Hand #254553264912:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:22:21 WET [2025/01/25 17:22:21 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 1: AschabAv ($55.74 in chips) 
+Seat 2: pr0tecto ($100.02 in chips) 
+Seat 3: dothmani1909 ($48.76 in chips) 
+Seat 4: z00mba ($114.43 in chips) 
+Seat 5: vadjkeee ($109.54 in chips) 
+Seat 6: Trojanovich ($119.24 in chips) 
+pr0tecto: posts small blind $0.50
+dothmani1909: posts big blind $1
+*** HOLE CARDS ***
+z00mba: raises $1.50 to $2.50
+vadjkeee: folds 
+Trojanovich: folds 
+AschabAv: calls $2.50
+pr0tecto: folds 
+dothmani1909: folds 
+*** FLOP *** [3h 4s 6d]
+z00mba: checks 
+AschabAv: checks 
+*** TURN *** [3h 4s 6d] [7h]
+z00mba: checks 
+AschabAv: checks 
+*** RIVER *** [3h 4s 6d 7h] [Qh]
+z00mba: checks 
+AschabAv: checks 
+*** SHOW DOWN ***
+z00mba: shows [Jh Ad] (high card Ace)
+AschabAv: mucks hand 
+z00mba collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [3h 4s 6d 7h Qh]
+Seat 1: AschabAv (button) mucked
+Seat 2: pr0tecto (small blind) folded before Flop
+Seat 3: dothmani1909 (big blind) folded before Flop
+Seat 4: z00mba showed [Jh Ad] and won ($6.18) with high card Ace
+Seat 5: vadjkeee folded before Flop (didn't bet)
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553273718:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:22:52 WET [2025/01/25 17:22:52 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: AschabAv ($53.24 in chips) 
+Seat 2: pr0tecto ($99.52 in chips) 
+Seat 3: dothmani1909 ($47.76 in chips) 
+Seat 4: z00mba ($118.11 in chips) 
+Seat 5: vadjkeee ($109.54 in chips) 
+Seat 6: Trojanovich ($119.24 in chips) 
+dothmani1909: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+Trojanovich: folds 
+AschabAv: calls $1
+pr0tecto: folds 
+dothmani1909: calls $0.50
+z00mba: checks 
+*** FLOP *** [7d Td Tc]
+dothmani1909: checks 
+z00mba: checks 
+AschabAv: checks 
+*** TURN *** [7d Td Tc] [Kd]
+dothmani1909: checks 
+z00mba: checks 
+AschabAv: checks 
+*** RIVER *** [7d Td Tc Kd] [6c]
+dothmani1909: checks 
+z00mba: checks 
+AschabAv: checks 
+*** SHOW DOWN ***
+dothmani1909: shows [Qs 8d] (a pair of Tens)
+z00mba: mucks hand 
+AschabAv: shows [4h Ac] (a pair of Tens - Ace kicker)
+AschabAv collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [7d Td Tc Kd 6c]
+Seat 1: AschabAv showed [4h Ac] and won ($2.85) with a pair of Tens
+Seat 2: pr0tecto (button) folded before Flop (didn't bet)
+Seat 3: dothmani1909 (small blind) showed [Qs 8d] and lost with a pair of Tens
+Seat 4: z00mba (big blind) mucked
+Seat 5: vadjkeee folded before Flop (didn't bet)
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553288809:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:23:46 WET [2025/01/25 17:23:46 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: AschabAv ($55.09 in chips) 
+Seat 2: pr0tecto ($99.52 in chips) 
+Seat 3: dothmani1909 ($46.76 in chips) 
+Seat 4: z00mba ($117.11 in chips) 
+Seat 5: vadjkeee ($109.54 in chips) 
+Seat 6: Trojanovich ($119.24 in chips) 
+z00mba: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+AschabAv: calls $1
+pr0tecto: raises $3.50 to $4.50
+dothmani1909: folds 
+z00mba: folds 
+vadjkeee: folds 
+AschabAv: calls $3.50
+*** FLOP *** [6s Ks 9s]
+AschabAv: checks 
+pr0tecto: checks 
+*** TURN *** [6s Ks 9s] [5h]
+AschabAv: checks 
+pr0tecto: bets $6.59
+AschabAv: calls $6.59
+*** RIVER *** [6s Ks 9s 5h] [Kd]
+AschabAv: bets $33
+pr0tecto: calls $33
+*** SHOW DOWN ***
+AschabAv: shows [5d 5c] (a full house, Fives full of Kings)
+pr0tecto: mucks hand 
+AschabAv collected $87.18 from pot
+*** SUMMARY ***
+Total pot $89.68 | Rake $2.50 
+Board [6s Ks 9s 5h Kd]
+Seat 1: AschabAv showed [5d 5c] and won ($87.18) with a full house, Fives full of Kings
+Seat 2: pr0tecto mucked
+Seat 3: dothmani1909 (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 5: vadjkeee (big blind) folded before Flop
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553303221:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:24:38 WET [2025/01/25 17:24:38 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: AschabAv ($98.18 in chips) 
+Seat 2: pr0tecto ($100 in chips) 
+Seat 3: dothmani1909 ($46.76 in chips) 
+Seat 4: z00mba ($116.61 in chips) 
+Seat 5: vadjkeee ($108.54 in chips) 
+Seat 6: Trojanovich ($119.24 in chips) 
+vadjkeee: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+AschabAv: calls $1
+pr0tecto: folds 
+dothmani1909: folds 
+z00mba: folds 
+vadjkeee: folds 
+Trojanovich: raises $4 to $5
+AschabAv: folds 
+Uncalled bet ($4) returned to Trojanovich
+Trojanovich collected $2.50 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AschabAv folded before Flop
+Seat 2: pr0tecto folded before Flop (didn't bet)
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 5: vadjkeee (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) collected ($2.50)
+
+
+
+PokerStars Hand #254553310871:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:25:06 WET [2025/01/25 17:25:06 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: AschabAv ($97.18 in chips) is sitting out
+Seat 2: pr0tecto ($100 in chips) 
+Seat 3: dothmani1909 ($46.76 in chips) 
+Seat 4: z00mba ($116.61 in chips) 
+Seat 5: vadjkeee ($108.04 in chips) 
+Seat 6: Trojanovich ($120.74 in chips) 
+Trojanovich: posts small blind $0.50
+AschabAv has timed out
+AschabAv: is sitting out 
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+dothmani1909: folds 
+z00mba: folds 
+vadjkeee: raises $1.50 to $2.50
+Trojanovich: folds 
+pr0tecto: folds 
+Uncalled bet ($1.50) returned to vadjkeee
+vadjkeee collected $2.50 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AschabAv
+Seat 2: pr0tecto (big blind) folded before Flop
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: vadjkeee (button) collected ($2.50)
+Seat 6: Trojanovich (small blind) folded before Flop
+
+
+
+PokerStars Hand #254553317058:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:25:28 WET [2025/01/25 17:25:28 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: AschabAv ($97.18 in chips) is sitting out
+Seat 2: pr0tecto ($99 in chips) 
+Seat 3: dothmani1909 ($46.76 in chips) 
+Seat 4: z00mba ($116.61 in chips) 
+Seat 5: vadjkeee ($109.54 in chips) 
+Seat 6: Trojanovich ($120.24 in chips) 
+pr0tecto: posts small blind $0.50
+dothmani1909: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+vadjkeee: folds 
+Trojanovich: folds 
+pr0tecto: folds 
+Uncalled bet ($0.50) returned to dothmani1909
+dothmani1909 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: AschabAv
+Seat 2: pr0tecto (small blind) folded before Flop
+Seat 3: dothmani1909 (big blind) collected ($1)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: vadjkeee folded before Flop (didn't bet)
+Seat 6: Trojanovich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553320278:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:25:39 WET [2025/01/25 17:25:39 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: AschabAv ($97.18 in chips) 
+Seat 2: pr0tecto ($100 in chips) 
+Seat 3: dothmani1909 ($47.26 in chips) 
+Seat 4: z00mba ($116.61 in chips) 
+Seat 5: vadjkeee ($109.54 in chips) 
+Seat 6: Trojanovich ($120.24 in chips) 
+dothmani1909: posts small blind $0.50
+z00mba: posts big blind $1
+AschabAv: posts small & big blinds $1.50
+*** HOLE CARDS ***
+vadjkeee: raises $3 to $4
+Trojanovich: folds 
+AschabAv: calls $3
+pr0tecto: folds 
+dothmani1909: folds 
+z00mba: folds 
+*** FLOP *** [Qs Jc 5d]
+vadjkeee: bets $2.50
+AschabAv: calls $2.50
+*** TURN *** [Qs Jc 5d] [Jh]
+vadjkeee: checks 
+AschabAv: checks 
+*** RIVER *** [Qs Jc 5d Jh] [Th]
+vadjkeee: checks 
+AschabAv: bets $4
+vadjkeee: calls $4
+*** SHOW DOWN ***
+AschabAv: shows [7s 7h] (two pair, Jacks and Sevens)
+vadjkeee: shows [8c 8s] (two pair, Jacks and Eights)
+vadjkeee collected $21.85 from pot
+*** SUMMARY ***
+Total pot $23 | Rake $1.15 
+Board [Qs Jc 5d Jh Th]
+Seat 1: AschabAv showed [7s 7h] and lost with two pair, Jacks and Sevens
+Seat 2: pr0tecto (button) folded before Flop (didn't bet)
+Seat 3: dothmani1909 (small blind) folded before Flop
+Seat 4: z00mba (big blind) folded before Flop
+Seat 5: vadjkeee showed [8c 8s] and won ($21.85) with two pair, Jacks and Eights
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553333212:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:26:25 WET [2025/01/25 17:26:25 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 5: vadjkeee ($120.89 in chips) is sitting out
+Seat 1: AschabAv ($86.18 in chips) 
+Seat 2: pr0tecto ($100 in chips) 
+Seat 3: dothmani1909 ($46.76 in chips) 
+Seat 4: z00mba ($115.61 in chips) 
+Seat 6: Trojanovich ($120.24 in chips) 
+z00mba: posts small blind $0.50
+vadjkeee: is sitting out 
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee leaves the table
+AschabAv: raises $1 to $2
+pr0tecto: folds 
+dothmani1909: folds 
+z00mba: folds 
+Trojanovich: calls $1
+*** FLOP *** [Qh 6d 5s]
+Trojanovich: checks 
+AschabAv: checks 
+*** TURN *** [Qh 6d 5s] [3h]
+Trojanovich: checks 
+AschabAv: checks 
+*** RIVER *** [Qh 6d 5s 3h] [As]
+Unipoker11 joins the table at seat #5 
+Trojanovich: checks 
+AschabAv: checks 
+*** SHOW DOWN ***
+Trojanovich: shows [Js Ad] (a pair of Aces)
+AschabAv: mucks hand 
+Trojanovich collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Qh 6d 5s 3h As]
+Seat 5: vadjkeee
+Seat 1: AschabAv mucked
+Seat 2: pr0tecto folded before Flop (didn't bet)
+Seat 3: dothmani1909 (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) showed [Js Ad] and won ($4.28) with a pair of Aces
+
+
+
+PokerStars Hand #254553343296:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:27:02 WET [2025/01/25 17:27:02 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 5: Unipoker11 ($100 in chips) is sitting out
+Seat 1: AschabAv ($84.18 in chips) 
+Seat 2: pr0tecto ($100 in chips) 
+Seat 3: dothmani1909 ($46.76 in chips) 
+Seat 4: z00mba ($115.11 in chips) 
+Seat 6: Trojanovich ($122.52 in chips) 
+Trojanovich: posts small blind $0.50
+AschabAv: posts big blind $1
+*** HOLE CARDS ***
+pr0tecto: raises $1.10 to $2.10
+dothmani1909: folds 
+z00mba: folds 
+Trojanovich: folds 
+AschabAv: folds 
+Uncalled bet ($1.10) returned to pr0tecto
+pr0tecto collected $2.50 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: Unipoker11
+Seat 1: AschabAv (big blind) folded before Flop
+Seat 2: pr0tecto collected ($2.50)
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 6: Trojanovich (small blind) folded before Flop
+
+
+
+PokerStars Hand #254553351228:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:27:31 WET [2025/01/25 17:27:31 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 5: Unipoker11 ($100 in chips) is sitting out
+Seat 1: AschabAv ($83.18 in chips) 
+Seat 2: pr0tecto ($101.50 in chips) 
+Seat 3: dothmani1909 ($46.76 in chips) 
+Seat 4: z00mba ($115.11 in chips) 
+Seat 6: Trojanovich ($122.02 in chips) 
+AschabAv: posts small blind $0.50
+pr0tecto: posts big blind $1
+Unipoker11: sits out 
+*** HOLE CARDS ***
+dothmani1909: folds 
+z00mba: folds 
+Trojanovich: folds 
+AschabAv: calls $0.50
+pr0tecto: raises $3.50 to $4.50
+AschabAv: folds 
+Uncalled bet ($3.50) returned to pr0tecto
+pr0tecto collected $2 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: Unipoker11
+Seat 1: AschabAv (small blind) folded before Flop
+Seat 2: pr0tecto (big blind) collected ($2)
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 6: Trojanovich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553356513:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:27:50 WET [2025/01/25 17:27:50 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 5: Unipoker11 ($100 in chips) is sitting out
+Seat 1: AschabAv ($82.18 in chips) 
+Seat 2: pr0tecto ($102.50 in chips) 
+Seat 3: dothmani1909 ($46.76 in chips) 
+Seat 4: z00mba ($115.11 in chips) 
+Seat 6: Trojanovich ($122.02 in chips) 
+pr0tecto: posts small blind $0.50
+dothmani1909: posts big blind $1
+Unipoker11: sits out 
+*** HOLE CARDS ***
+z00mba: folds 
+Trojanovich: raises $1.50 to $2.50
+AschabAv: folds 
+pr0tecto: raises $7.50 to $10
+dothmani1909: folds 
+Trojanovich: calls $7.50
+*** FLOP *** [Ah 6s 2d]
+pr0tecto: bets $6.58
+Trojanovich: raises $10.30 to $16.88
+pr0tecto: calls $10.30
+*** TURN *** [Ah 6s 2d] [Ks]
+pr0tecto: bets $22
+Trojanovich: calls $22
+*** RIVER *** [Ah 6s 2d Ks] [Jc]
+pr0tecto: bets $53.62 and is all-in
+Trojanovich: folds 
+Uncalled bet ($53.62) returned to pr0tecto
+pr0tecto collected $96.26 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $98.76 | Rake $2.50 
+Board [Ah 6s 2d Ks Jc]
+Seat 5: Unipoker11
+Seat 1: AschabAv (button) folded before Flop (didn't bet)
+Seat 2: pr0tecto (small blind) collected ($96.26)
+Seat 3: dothmani1909 (big blind) folded before Flop
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 6: Trojanovich folded on the River
+
+
+
+PokerStars Hand #254553394772:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:30:09 WET [2025/01/25 17:30:09 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 5: Unipoker11 ($100 in chips) is sitting out
+Seat 1: AschabAv ($82.18 in chips) 
+Seat 2: pr0tecto ($149.88 in chips) 
+Seat 3: dothmani1909 ($45.76 in chips) 
+Seat 4: z00mba ($115.11 in chips) 
+Seat 6: Trojanovich ($100 in chips) 
+dothmani1909: posts small blind $0.50
+z00mba: posts big blind $1
+Unipoker11: sits out 
+*** HOLE CARDS ***
+Trojanovich: folds 
+AschabAv: raises $1 to $2
+pr0tecto: folds 
+dothmani1909: calls $1.50
+z00mba: calls $1
+*** FLOP *** [9c Jd 8d]
+dothmani1909: checks 
+z00mba: checks 
+AschabAv: bets $5
+dothmani1909: calls $5
+z00mba: folds 
+*** TURN *** [9c Jd 8d] [6h]
+dothmani1909: checks 
+AschabAv: checks 
+*** RIVER *** [9c Jd 8d 6h] [2h]
+dothmani1909: bets $7
+AschabAv: calls $7
+*** SHOW DOWN ***
+dothmani1909: shows [Qh Ts] (a straight, Eight to Queen)
+AschabAv: mucks hand 
+dothmani1909 collected $28.12 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $1.88 
+Board [9c Jd 8d 6h 2h]
+Seat 5: Unipoker11
+Seat 1: AschabAv mucked
+Seat 2: pr0tecto (button) folded before Flop (didn't bet)
+Seat 3: dothmani1909 (small blind) showed [Qh Ts] and won ($28.12) with a straight, Eight to Queen
+Seat 4: z00mba (big blind) folded on the Flop
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553414710:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:31:20 WET [2025/01/25 17:31:20 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: AschabAv ($68.18 in chips) 
+Seat 2: pr0tecto ($149.88 in chips) 
+Seat 3: dothmani1909 ($59.88 in chips) 
+Seat 4: z00mba ($113.11 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($100 in chips) 
+z00mba: posts small blind $0.50
+Unipoker11: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+AschabAv: calls $1
+pr0tecto: raises $3.50 to $4.50
+dothmani1909: folds 
+z00mba: folds 
+Unipoker11: calls $3.50
+AschabAv: calls $3.50
+*** FLOP *** [9d 6c Td]
+Unipoker11: checks 
+AschabAv: bets $1
+pr0tecto: calls $1
+Unipoker11: calls $1
+*** TURN *** [9d 6c Td] [8s]
+Unipoker11: checks 
+AschabAv: bets $3
+pr0tecto: calls $3
+Unipoker11: calls $3
+*** RIVER *** [9d 6c Td 8s] [2c]
+Unipoker11: checks 
+AschabAv: bets $5
+pr0tecto: folds 
+Unipoker11: folds 
+Uncalled bet ($5) returned to AschabAv
+AschabAv collected $24.70 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $1.30 
+Board [9d 6c Td 8s 2c]
+Seat 1: AschabAv collected ($24.70)
+Seat 2: pr0tecto folded on the River
+Seat 3: dothmani1909 (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 5: Unipoker11 (big blind) folded on the River
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553440894:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:32:55 WET [2025/01/25 17:32:55 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: AschabAv ($84.38 in chips) 
+Seat 2: pr0tecto ($141.38 in chips) 
+Seat 3: dothmani1909 ($59.88 in chips) 
+Seat 4: z00mba ($112.61 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($100 in chips) 
+Unipoker11: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+AschabAv: raises $2 to $3
+pr0tecto: folds 
+dothmani1909: folds 
+z00mba: folds 
+Unipoker11: folds 
+Trojanovich: calls $2
+*** FLOP *** [3d As 2d]
+Trojanovich: checks 
+AschabAv is disconnected 
+AschabAv is connected 
+AschabAv: bets $1
+Trojanovich: calls $1
+*** TURN *** [3d As 2d] [6s]
+Trojanovich: checks 
+AschabAv: checks 
+*** RIVER *** [3d As 2d 6s] [7s]
+Trojanovich: checks 
+AschabAv: checks 
+*** SHOW DOWN ***
+Trojanovich: shows [Ks Qd] (high card Ace)
+AschabAv: mucks hand 
+Trojanovich collected $8.08 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [3d As 2d 6s 7s]
+Seat 1: AschabAv mucked
+Seat 2: pr0tecto folded before Flop (didn't bet)
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 5: Unipoker11 (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) showed [Ks Qd] and won ($8.08) with high card Ace
+
+
+
+PokerStars Hand #254553461725:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:34:11 WET [2025/01/25 17:34:11 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: AschabAv ($80.38 in chips) 
+Seat 2: pr0tecto ($141.38 in chips) 
+Seat 3: dothmani1909 ($59.88 in chips) 
+Seat 4: z00mba ($112.61 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($104.08 in chips) 
+Trojanovich: posts small blind $0.50
+AschabAv: posts big blind $1
+*** HOLE CARDS ***
+pr0tecto: folds 
+dothmani1909: folds 
+z00mba: folds 
+Unipoker11: folds 
+Trojanovich: raises $2 to $3
+AschabAv: calls $2
+*** FLOP *** [Qh 9c 6c]
+Trojanovich: bets $1.88
+AschabAv: raises $1.88 to $3.76
+Trojanovich: calls $1.88
+*** TURN *** [Qh 9c 6c] [5c]
+Trojanovich: checks 
+AschabAv: bets $1
+Trojanovich: calls $1
+*** RIVER *** [Qh 9c 6c 5c] [7s]
+Trojanovich: bets $11.06
+AschabAv: calls $11.06
+*** SHOW DOWN ***
+Trojanovich: shows [8h Td] (a straight, Six to Ten)
+AschabAv: mucks hand 
+Trojanovich collected $35.76 from pot
+*** SUMMARY ***
+Total pot $37.64 | Rake $1.88 
+Board [Qh 9c 6c 5c 7s]
+Seat 1: AschabAv (big blind) mucked
+Seat 2: pr0tecto folded before Flop (didn't bet)
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: Unipoker11 (button) folded before Flop (didn't bet)
+Seat 6: Trojanovich (small blind) showed [8h Td] and won ($35.76) with a straight, Six to Ten
+
+
+
+PokerStars Hand #254553485893:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:35:38 WET [2025/01/25 17:35:38 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: AschabAv ($61.56 in chips) 
+Seat 2: pr0tecto ($141.38 in chips) 
+Seat 3: dothmani1909 ($59.88 in chips) 
+Seat 4: z00mba ($112.61 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($121.02 in chips) 
+AschabAv: posts small blind $0.50
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+dothmani1909: folds 
+z00mba: folds 
+Unipoker11: folds 
+Trojanovich: folds 
+AschabAv: calls $0.50
+pr0tecto: raises $3.50 to $4.50
+AschabAv: folds 
+Uncalled bet ($3.50) returned to pr0tecto
+pr0tecto collected $2 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: AschabAv (small blind) folded before Flop
+Seat 2: pr0tecto (big blind) collected ($2)
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: Unipoker11 folded before Flop (didn't bet)
+Seat 6: Trojanovich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553491950:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:36:00 WET [2025/01/25 17:36:00 ET]
+Table 'Janus V' 6-max Seat #1 is the button
+Seat 1: AschabAv ($60.56 in chips) 
+Seat 2: pr0tecto ($142.38 in chips) 
+Seat 3: dothmani1909 ($59.88 in chips) 
+Seat 4: z00mba ($112.61 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($121.02 in chips) 
+pr0tecto: posts small blind $0.50
+dothmani1909: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+Unipoker11: folds 
+Trojanovich: raises $1.50 to $2.50
+AschabAv: folds 
+pr0tecto: folds 
+dothmani1909: folds 
+Uncalled bet ($1.50) returned to Trojanovich
+Trojanovich collected $2.50 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AschabAv (button) folded before Flop (didn't bet)
+Seat 2: pr0tecto (small blind) folded before Flop
+Seat 3: dothmani1909 (big blind) folded before Flop
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: Unipoker11 folded before Flop (didn't bet)
+Seat 6: Trojanovich collected ($2.50)
+
+
+
+PokerStars Hand #254553498932:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:36:26 WET [2025/01/25 17:36:26 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: AschabAv ($60.56 in chips) 
+Seat 2: pr0tecto ($141.88 in chips) 
+Seat 3: dothmani1909 ($58.88 in chips) 
+Seat 4: z00mba ($112.61 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($122.52 in chips) 
+dothmani1909: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+Unipoker11: raises $1 to $2
+Trojanovich: folds 
+AschabAv: folds 
+pr0tecto: raises $5.50 to $7.50
+dothmani1909: folds 
+z00mba: folds 
+Unipoker11: folds 
+Uncalled bet ($5.50) returned to pr0tecto
+pr0tecto collected $5.50 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: AschabAv folded before Flop (didn't bet)
+Seat 2: pr0tecto (button) collected ($5.50)
+Seat 3: dothmani1909 (small blind) folded before Flop
+Seat 4: z00mba (big blind) folded before Flop
+Seat 5: Unipoker11 folded before Flop
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553511805:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:37:13 WET [2025/01/25 17:37:13 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: AschabAv ($60.56 in chips) 
+Seat 2: pr0tecto ($145.38 in chips) 
+Seat 3: dothmani1909 ($58.38 in chips) 
+Seat 4: z00mba ($111.61 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($122.52 in chips) 
+z00mba: posts small blind $0.50
+Unipoker11: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+AschabAv: folds 
+pr0tecto: folds 
+dothmani1909: calls $1
+z00mba: folds 
+Unipoker11: checks 
+*** FLOP *** [3h 7c Js]
+Unipoker11: checks 
+dothmani1909: bets $1
+Unipoker11: folds 
+Uncalled bet ($1) returned to dothmani1909
+dothmani1909 collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [3h 7c Js]
+Seat 1: AschabAv folded before Flop (didn't bet)
+Seat 2: pr0tecto folded before Flop (didn't bet)
+Seat 3: dothmani1909 (button) collected ($2.35)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 5: Unipoker11 (big blind) folded on the Flop
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553519756:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:37:43 WET [2025/01/25 17:37:43 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: AschabAv ($60.56 in chips) 
+Seat 2: pr0tecto ($145.38 in chips) 
+Seat 3: dothmani1909 ($59.73 in chips) 
+Seat 4: z00mba ($111.11 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($122.52 in chips) 
+Unipoker11: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+AschabAv: folds 
+pr0tecto: folds 
+dothmani1909: calls $1
+z00mba: folds 
+Unipoker11: calls $0.50
+Trojanovich: raises $5 to $6
+dothmani1909: calls $5
+Unipoker11: folds 
+*** FLOP *** [3d Tc Ah]
+Trojanovich: bets $3.10
+dothmani1909: calls $3.10
+*** TURN *** [3d Tc Ah] [8s]
+Trojanovich: bets $13.68
+dothmani1909: raises $36.95 to $50.63 and is all-in
+Trojanovich: folds 
+Uncalled bet ($36.95) returned to dothmani1909
+dothmani1909 collected $43.65 from pot
+*** SUMMARY ***
+Total pot $46.56 | Rake $2.91 
+Board [3d Tc Ah 8s]
+Seat 1: AschabAv folded before Flop (didn't bet)
+Seat 2: pr0tecto folded before Flop (didn't bet)
+Seat 3: dothmani1909 collected ($43.65)
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 5: Unipoker11 (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254553534341:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:38:37 WET [2025/01/25 17:38:37 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: AschabAv ($60.56 in chips) is sitting out
+Seat 2: pr0tecto ($145.38 in chips) 
+Seat 3: dothmani1909 ($80.60 in chips) 
+Seat 4: z00mba ($111.11 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($100 in chips) 
+Trojanovich: posts small blind $0.50
+AschabAv has timed out
+AschabAv: is sitting out 
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+AschabAv is disconnected 
+dothmani1909: calls $1
+z00mba: folds 
+Unipoker11: folds 
+Trojanovich: calls $0.50
+pr0tecto: raises $3.50 to $4.50
+dothmani1909: calls $3.50
+Trojanovich: folds 
+*** FLOP *** [7d 6s Ts]
+pr0tecto: checks 
+dothmani1909: checks 
+*** TURN *** [7d 6s Ts] [Ks]
+pr0tecto: checks 
+dothmani1909: checks 
+*** RIVER *** [7d 6s Ts Ks] [3h]
+pr0tecto: checks 
+dothmani1909: checks 
+*** SHOW DOWN ***
+pr0tecto: shows [9s Ac] (high card Ace)
+dothmani1909: mucks hand 
+pr0tecto collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [7d 6s Ts Ks 3h]
+Seat 1: AschabAv
+Seat 2: pr0tecto (big blind) showed [9s Ac] and won ($9.50) with high card Ace
+Seat 3: dothmani1909 mucked
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: Unipoker11 (button) folded before Flop (didn't bet)
+Seat 6: Trojanovich (small blind) folded before Flop
+
+
+
+PokerStars Hand #254553551668:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:39:41 WET [2025/01/25 17:39:41 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: AschabAv ($60.56 in chips) is sitting out
+Seat 2: pr0tecto ($150.38 in chips) 
+Seat 3: dothmani1909 ($76.10 in chips) 
+Seat 4: z00mba ($111.11 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($100 in chips) 
+pr0tecto: posts small blind $0.50
+dothmani1909: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+Unipoker11: folds 
+Trojanovich: folds 
+pr0tecto: raises $1.24 to $2.24
+dothmani1909: folds 
+Uncalled bet ($1.24) returned to pr0tecto
+pr0tecto collected $2 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: AschabAv
+Seat 2: pr0tecto (small blind) collected ($2)
+Seat 3: dothmani1909 (big blind) folded before Flop
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: Unipoker11 folded before Flop (didn't bet)
+Seat 6: Trojanovich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553555238:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:39:54 WET [2025/01/25 17:39:54 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 1: AschabAv ($60.56 in chips) 
+Seat 2: pr0tecto ($151.38 in chips) 
+Seat 3: dothmani1909 ($75.10 in chips) 
+Seat 4: z00mba ($111.11 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($100 in chips) 
+dothmani1909: posts small blind $0.50
+z00mba: posts big blind $1
+AschabAv: posts small & big blinds $1.50
+*** HOLE CARDS ***
+Unipoker11: folds 
+Trojanovich: folds 
+AschabAv is disconnected 
+AschabAv is connected 
+AschabAv has timed out
+AschabAv: checks 
+pr0tecto: folds 
+dothmani1909: folds 
+z00mba: checks 
+*** FLOP *** [Jc 2s Ks]
+z00mba: checks 
+AschabAv: bets $2
+z00mba: folds 
+Uncalled bet ($2) returned to AschabAv
+AschabAv collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Jc 2s Ks]
+Seat 1: AschabAv collected ($2.85)
+Seat 2: pr0tecto (button) folded before Flop (didn't bet)
+Seat 3: dothmani1909 (small blind) folded before Flop
+Seat 4: z00mba (big blind) folded on the Flop
+Seat 5: Unipoker11 folded before Flop (didn't bet)
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553570672:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:40:51 WET [2025/01/25 17:40:51 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 1: AschabAv ($61.91 in chips) 
+Seat 2: pr0tecto ($151.38 in chips) 
+Seat 3: dothmani1909 ($74.60 in chips) 
+Seat 4: z00mba ($110.11 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($100 in chips) 
+z00mba: posts small blind $0.50
+Unipoker11: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+AschabAv: calls $1
+pr0tecto: folds 
+dothmani1909: folds 
+z00mba: calls $0.50
+Unipoker11: checks 
+*** FLOP *** [3s Ac 9c]
+z00mba: checks 
+Unipoker11: checks 
+AschabAv: checks 
+*** TURN *** [3s Ac 9c] [Qs]
+z00mba: checks 
+Unipoker11: checks 
+AschabAv: bets $2
+z00mba: folds 
+Unipoker11: folds 
+Uncalled bet ($2) returned to AschabAv
+AschabAv collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [3s Ac 9c Qs]
+Seat 1: AschabAv collected ($2.85)
+Seat 2: pr0tecto folded before Flop (didn't bet)
+Seat 3: dothmani1909 (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) folded on the Turn
+Seat 5: Unipoker11 (big blind) folded on the Turn
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553583890:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:41:40 WET [2025/01/25 17:41:40 ET]
+Table 'Janus V' 6-max Seat #4 is the button
+Seat 1: AschabAv ($63.76 in chips) 
+Seat 2: pr0tecto ($151.38 in chips) 
+Seat 3: dothmani1909 ($74.60 in chips) 
+Seat 4: z00mba ($109.11 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($100 in chips) 
+Unipoker11: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+AschabAv: folds 
+pr0tecto: folds 
+dothmani1909: calls $1
+z00mba: raises $2.50 to $3.50
+Unipoker11: folds 
+Trojanovich: calls $2.50
+dothmani1909: calls $2.50
+*** FLOP *** [Ad 3c 2c]
+Trojanovich: checks 
+dothmani1909: checks 
+z00mba: bets $3.34
+Trojanovich: calls $3.34
+dothmani1909: folds 
+*** TURN *** [Ad 3c 2c] [6h]
+Trojanovich: checks 
+z00mba: checks 
+*** RIVER *** [Ad 3c 2c 6h] [4c]
+Trojanovich: bets $12.60
+z00mba: calls $12.60
+*** SHOW DOWN ***
+Trojanovich: shows [5s 5d] (a straight, Deuce to Six)
+z00mba: shows [Jc Qc] (a flush, Queen high)
+z00mba collected $40.74 from pot
+*** SUMMARY ***
+Total pot $42.88 | Rake $2.14 
+Board [Ad 3c 2c 6h 4c]
+Seat 1: AschabAv folded before Flop (didn't bet)
+Seat 2: pr0tecto folded before Flop (didn't bet)
+Seat 3: dothmani1909 folded on the Flop
+Seat 4: z00mba (button) showed [Jc Qc] and won ($40.74) with a flush, Queen high
+Seat 5: Unipoker11 (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) showed [5s 5d] and lost with a straight, Deuce to Six
+
+
+
+PokerStars Hand #254553607069:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:43:05 WET [2025/01/25 17:43:05 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 1: AschabAv ($63.76 in chips) 
+Seat 2: pr0tecto ($151.38 in chips) 
+Seat 3: dothmani1909 ($71.10 in chips) 
+Seat 4: z00mba ($130.41 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($100 in chips) 
+Trojanovich: posts small blind $0.50
+AschabAv: posts big blind $1
+*** HOLE CARDS ***
+pr0tecto: folds 
+dothmani1909: folds 
+z00mba: folds 
+Unipoker11: folds 
+Trojanovich: raises $2 to $3
+AschabAv: folds 
+Uncalled bet ($2) returned to Trojanovich
+Trojanovich collected $2 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: AschabAv (big blind) folded before Flop
+Seat 2: pr0tecto folded before Flop (didn't bet)
+Seat 3: dothmani1909 folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: Unipoker11 (button) folded before Flop (didn't bet)
+Seat 6: Trojanovich (small blind) collected ($2)
+
+
+
+PokerStars Hand #254553616590:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:43:39 WET [2025/01/25 17:43:39 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 1: AschabAv ($62.76 in chips) is sitting out
+Seat 2: pr0tecto ($151.38 in chips) 
+Seat 3: dothmani1909 ($71.10 in chips) 
+Seat 4: z00mba ($130.41 in chips) 
+Seat 5: Unipoker11 ($100 in chips) 
+Seat 6: Trojanovich ($101 in chips) 
+AschabAv has timed out
+AschabAv: is sitting out 
+pr0tecto: posts small blind $0.50
+AschabAv is disconnected 
+dothmani1909: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+Unipoker11: folds 
+Trojanovich: raises $1.50 to $2.50
+pr0tecto: folds 
+dothmani1909: folds 
+Uncalled bet ($1.50) returned to Trojanovich
+Trojanovich collected $2.50 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AschabAv
+Seat 2: pr0tecto (small blind) folded before Flop
+Seat 3: dothmani1909 (big blind) folded before Flop
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: Unipoker11 folded before Flop (didn't bet)
+Seat 6: Trojanovich (button) collected ($2.50)
+
+
+
+PokerStars Hand #254553784328:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:53:59 WET [2025/01/25 17:53:59 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 2: pr0tecto ($126.99 in chips) 
+Seat 3: Seavus10 ($103.60 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: Unipoker11 ($118.57 in chips) 
+Seat 6: Trojanovich ($118.25 in chips) 
+pr0tecto: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+XneferX leaves the table
+Unipoker11: raises $1.30 to $2.30
+Trojanovich: raises $5.20 to $7.50
+pr0tecto: folds 
+Seavus10: folds 
+Unipoker11: folds 
+Uncalled bet ($5.20) returned to Trojanovich
+Trojanovich collected $6.10 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.10 | Rake $0 
+Seat 2: pr0tecto (small blind) folded before Flop
+Seat 3: Seavus10 (big blind) folded before Flop
+Seat 4: XneferX folded before Flop (didn't bet)
+Seat 5: Unipoker11 folded before Flop
+Seat 6: Trojanovich (button) collected ($6.10)
+
+
+
+PokerStars Hand #254553792863:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:54:32 WET [2025/01/25 17:54:32 ET]
+Table 'Janus V' 6-max Seat #2 is the button
+Seat 2: pr0tecto ($126.49 in chips) 
+Seat 3: Seavus10 ($102.60 in chips) 
+Seat 5: Unipoker11 ($116.27 in chips) 
+Seat 6: Trojanovich ($122.05 in chips) 
+Seavus10: posts small blind $0.50
+Unipoker11: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+pr0tecto: folds 
+Seavus10: raises $2 to $3
+Unipoker11: folds 
+Uncalled bet ($2) returned to Seavus10
+Seavus10 collected $2 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: pr0tecto (button) folded before Flop (didn't bet)
+Seat 3: Seavus10 (small blind) collected ($2)
+Seat 5: Unipoker11 (big blind) folded before Flop
+Seat 6: Trojanovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254553797377:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:54:49 WET [2025/01/25 17:54:49 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 2: pr0tecto ($126.49 in chips) 
+Seat 3: Seavus10 ($103.60 in chips) 
+Seat 5: Unipoker11 ($115.27 in chips) 
+Seat 6: Trojanovich ($122.05 in chips) 
+Unipoker11: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+pr0tecto: folds 
+Seavus10: raises $1.50 to $2.50
+Unipoker11: folds 
+Trojanovich: folds 
+Uncalled bet ($1.50) returned to Seavus10
+Seavus10 collected $2.50 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: pr0tecto folded before Flop (didn't bet)
+Seat 3: Seavus10 (button) collected ($2.50)
+Seat 5: Unipoker11 (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) folded before Flop
+
+
+
+PokerStars Hand #254553800656:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:55:01 WET [2025/01/25 17:55:01 ET]
+Table 'Janus V' 6-max Seat #5 is the button
+Seat 2: pr0tecto ($126.49 in chips) is sitting out
+Seat 3: Seavus10 ($105.10 in chips) 
+Seat 5: Unipoker11 ($114.77 in chips) 
+Seat 6: Trojanovich ($121.05 in chips) 
+Trojanovich: posts small blind $0.50
+pr0tecto: is sitting out 
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+Unipoker11: folds 
+Trojanovich: raises $2 to $3
+Seavus10: calls $2
+*** FLOP *** [Jc Ah 9c]
+pr0tecto leaves the table
+Trojanovich: bets $1.22
+Seavus10: folds 
+Uncalled bet ($1.22) returned to Trojanovich
+Trojanovich collected $5.70 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Jc Ah 9c]
+Seat 2: pr0tecto
+Seat 3: Seavus10 (big blind) folded on the Flop
+Seat 5: Unipoker11 (button) folded before Flop (didn't bet)
+Seat 6: Trojanovich (small blind) collected ($5.70)
+
+
+
+PokerStars Hand #254553804987:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:55:19 WET [2025/01/25 17:55:19 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 5: Unipoker11 ($114.77 in chips) is sitting out
+Seat 3: Seavus10 ($102.10 in chips) 
+Seat 6: Trojanovich ($123.75 in chips) 
+Seavus10: posts small blind $0.50
+Unipoker11: is sitting out 
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+Unipoker11 leaves the table
+Seavus10: raises $1.50 to $2.50
+Trojanovich: folds 
+Uncalled bet ($1.50) returned to Seavus10
+Seavus10 collected $2 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: Unipoker11
+Seat 3: Seavus10 (button) (small blind) collected ($2)
+Seat 6: Trojanovich (big blind) folded before Flop
+
+
+
+PokerStars Hand #254553806911:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:55:29 WET [2025/01/25 17:55:29 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 3: Seavus10 ($103.10 in chips) 
+Seat 6: Trojanovich ($122.75 in chips) 
+Trojanovich: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: raises $1.50 to $2.50
+Seavus10: folds 
+Uncalled bet ($1.50) returned to Trojanovich
+Trojanovich collected $2 from pot
+Trojanovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: Seavus10 (big blind) folded before Flop
+Seat 6: Trojanovich (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254553808226:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:55:35 WET [2025/01/25 17:55:35 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 3: Seavus10 ($102.10 in chips) 
+Seat 6: Trojanovich ($123.75 in chips) 
+Seavus10: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: raises $1.50 to $2.50
+Trojanovich: calls $1.50
+*** FLOP *** [6h 4c 2s]
+Trojanovich: checks 
+Seavus10: checks 
+*** TURN *** [6h 4c 2s] [3h]
+Trojanovich: checks 
+Seavus10: checks 
+*** RIVER *** [6h 4c 2s 3h] [Ac]
+Trojanovich: bets $1.57
+Seavus10: calls $1.57
+*** SHOW DOWN ***
+Trojanovich: shows [As 7d] (a pair of Aces)
+Seavus10: shows [Ad 7c] (a pair of Aces)
+Trojanovich collected $3.87 from pot
+Seavus10 collected $3.86 from pot
+*** SUMMARY ***
+Total pot $8.14 | Rake $0.41 
+Board [6h 4c 2s 3h Ac]
+Seat 3: Seavus10 (button) (small blind) showed [Ad 7c] and won ($3.86) with a pair of Aces
+Seat 6: Trojanovich (big blind) showed [As 7d] and won ($3.87) with a pair of Aces
+
+
+
+PokerStars Hand #254553822196:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:56:45 WET [2025/01/25 17:56:45 ET]
+Table 'Janus V' 6-max Seat #6 is the button
+Seat 3: Seavus10 ($101.89 in chips) 
+Seat 6: Trojanovich ($123.55 in chips) 
+Trojanovich: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+Trojanovich: folds 
+Uncalled bet ($0.50) returned to Seavus10
+Seavus10 collected $1 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Seavus10 (big blind) collected ($1)
+Seat 6: Trojanovich (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254553823268:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 22:56:50 WET [2025/01/25 17:56:50 ET]
+Table 'Janus V' 6-max Seat #3 is the button
+Seat 3: Seavus10 ($102.39 in chips) 
+Seat 6: Trojanovich ($123.05 in chips) 
+Seavus10: posts small blind $0.50
+Trojanovich: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: raises $1.50 to $2.50
+Trojanovich: raises $8.50 to $11
+Seavus10: folds 
+Uncalled bet ($8.50) returned to Trojanovich
+Trojanovich collected $5 from pot
+Trojanovich: doesn't show hand 
+Seavus10 leaves the table
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 3: Seavus10 (button) (small blind) folded before Flop
+Seat 6: Trojanovich (big blind) collected ($5)
+
+
+

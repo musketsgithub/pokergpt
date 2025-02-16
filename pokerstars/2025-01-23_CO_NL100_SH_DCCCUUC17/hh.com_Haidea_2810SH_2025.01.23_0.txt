@@ -1,0 +1,54 @@
+﻿PokerStars Hand #254524232481:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 3:05:22 WET [2025/01/23 22:05:22 ET]
+Table 'Haidea IV' 6-max Seat #2 is the button
+Seat 6: Melenya ($100 in chips) is sitting out
+Seat 2: BumHuntKing ($100 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+BumHuntKing: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: raises $1.50 to $2.50
+BoyLoc0: calls $1.50
+*** FLOP *** [5d 2d Td]
+BoyLoc0: checks 
+BumHuntKing: checks 
+*** TURN *** [5d 2d Td] [Kd]
+BoyLoc0: checks 
+BumHuntKing: bets $1.57
+BoyLoc0: calls $1.57
+*** RIVER *** [5d 2d Td Kd] [Kc]
+Melenya leaves the table
+BoyLoc0: checks 
+BumHuntKing: checks 
+*** SHOW DOWN ***
+BoyLoc0: shows [8c Th] (two pair, Kings and Tens)
+BumHuntKing: shows [6d Ah] (a flush, King high)
+BumHuntKing collected $7.73 from pot
+*** SUMMARY ***
+Total pot $8.14 | Rake $0.41 
+Board [5d 2d Td Kd Kc]
+Seat 6: Melenya
+Seat 2: BumHuntKing (button) (small blind) showed [6d Ah] and won ($7.73) with a flush, King high
+Seat 4: BoyLoc0 (big blind) showed [8c Th] and lost with two pair, Kings and Tens
+
+
+
+PokerStars Hand #254524238490:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 3:06:05 WET [2025/01/23 22:06:05 ET]
+Table 'Haidea IV' 6-max Seat #4 is the button
+Seat 2: BumHuntKing ($103.66 in chips) 
+Seat 4: BoyLoc0 ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+BumHuntKing: raises $10 to $12.50
+BoyLoc0: folds 
+Uncalled bet ($10) returned to BumHuntKing
+BumHuntKing collected $5 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 2: BumHuntKing (big blind) collected ($5)
+Seat 4: BoyLoc0 (button) (small blind) folded before Flop
+
+
+

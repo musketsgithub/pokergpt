@@ -1,0 +1,936 @@
+﻿PokerStars Hand #254645492325:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:05:22 WET [2025/01/31 19:05:22 ET]
+Table 'Kolga' 6-max Seat #6 is the button
+Seat 3: mariofcd ($100 in chips) is sitting out
+Seat 1: Tweanks ($55.81 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 4: equilibrium_tv ($11 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($102.68 in chips) 
+Tweanks: posts small blind $0.50
+nastja336: posts big blind $1
+mariofcd: sits out 
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+B1GBankroll: folds 
+S3MPR3IGUAL: folds 
+Tweanks: calls $0.50
+nastja336: checks 
+*** FLOP *** [As 4h Js]
+Tweanks: bets $1
+nastja336: folds 
+Uncalled bet ($1) returned to Tweanks
+Tweanks collected $1.88 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.12 
+Board [As 4h Js]
+Seat 3: mariofcd
+Seat 1: Tweanks (small blind) collected ($1.88)
+Seat 2: nastja336 (big blind) folded on the Flop
+Seat 4: equilibrium_tv folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254645499487:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:05:52 WET [2025/01/31 19:05:52 ET]
+Table 'Kolga' 6-max Seat #1 is the button
+Seat 1: Tweanks ($56.69 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: mariofcd ($100 in chips) 
+Seat 4: equilibrium_tv ($11 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($102.68 in chips) 
+nastja336: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+B1GBankroll: folds 
+S3MPR3IGUAL: folds 
+Tweanks: calls $1
+nastja336: folds 
+mariofcd: checks 
+*** FLOP *** [8h Ad Jd]
+mariofcd: checks 
+Tweanks: checks 
+*** TURN *** [8h Ad Jd] [8c]
+mariofcd: checks 
+Tweanks: checks 
+*** RIVER *** [8h Ad Jd 8c] [Qd]
+mariofcd: checks 
+Tweanks: checks 
+*** SHOW DOWN ***
+mariofcd: shows [9c 3h] (a pair of Eights)
+Tweanks: shows [5s 3s] (a pair of Eights)
+mariofcd collected $1.19 from pot
+Tweanks collected $1.17 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.14 
+Board [8h Ad Jd 8c Qd]
+Seat 1: Tweanks (button) showed [5s 3s] and won ($1.17) with a pair of Eights
+Seat 2: nastja336 (small blind) folded before Flop
+Seat 3: mariofcd (big blind) showed [9c 3h] and won ($1.19) with a pair of Eights
+Seat 4: equilibrium_tv folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254645512810:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:06:48 WET [2025/01/31 19:06:48 ET]
+Table 'Kolga' 6-max Seat #2 is the button
+Seat 1: Tweanks ($56.86 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: mariofcd ($100.19 in chips) 
+Seat 4: equilibrium_tv ($11 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($102.68 in chips) 
+mariofcd: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+S3MPR3IGUAL: raises $1.20 to $2.20
+Tweanks: folds 
+nastja336: folds 
+mariofcd: folds 
+equilibrium_tv: calls $1.20
+*** FLOP *** [Ts 2s 6h]
+equilibrium_tv: checks 
+S3MPR3IGUAL: bets $4.66
+equilibrium_tv: raises $4.14 to $8.80 and is all-in
+S3MPR3IGUAL: calls $4.14
+*** TURN *** [Ts 2s 6h] [9h]
+*** RIVER *** [Ts 2s 6h 9h] [7s]
+*** SHOW DOWN ***
+equilibrium_tv: shows [Qd Td] (a pair of Tens)
+S3MPR3IGUAL: shows [Ks Kc] (a pair of Kings)
+S3MPR3IGUAL collected $21.38 from pot
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.12 
+Board [Ts 2s 6h 9h 7s]
+Seat 1: Tweanks folded before Flop (didn't bet)
+Seat 2: nastja336 (button) folded before Flop (didn't bet)
+Seat 3: mariofcd (small blind) folded before Flop
+Seat 4: equilibrium_tv (big blind) showed [Qd Td] and lost with a pair of Tens
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL showed [Ks Kc] and won ($21.38) with a pair of Kings
+
+
+
+PokerStars Hand #254645521467:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:07:24 WET [2025/01/31 19:07:24 ET]
+Table 'Kolga' 6-max Seat #3 is the button
+Seat 1: Tweanks ($56.86 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: mariofcd ($100 in chips) 
+Seat 4: equilibrium_tv ($10 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($113.06 in chips) 
+equilibrium_tv: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+Tweanks: folds 
+nastja336: raises $1.50 to $2.50
+mariofcd: calls $2.50
+equilibrium_tv: folds 
+B1GBankroll: folds 
+*** FLOP *** [Ts 7h 2h]
+nastja336: checks 
+mariofcd: bets $1.85
+nastja336: calls $1.85
+*** TURN *** [Ts 7h 2h] [Qs]
+nastja336: checks 
+mariofcd: bets $10.85
+nastja336: folds 
+Uncalled bet ($10.85) returned to mariofcd
+mariofcd collected $9.69 from pot
+mariofcd: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.20 | Rake $0.51 
+Board [Ts 7h 2h Qs]
+Seat 1: Tweanks folded before Flop (didn't bet)
+Seat 2: nastja336 folded on the Turn
+Seat 3: mariofcd (button) collected ($9.69)
+Seat 4: equilibrium_tv (small blind) folded before Flop
+Seat 5: B1GBankroll (big blind) folded before Flop
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254645531583:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:08:07 WET [2025/01/31 19:08:07 ET]
+Table 'Kolga' 6-max Seat #4 is the button
+Seat 1: Tweanks ($56.86 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: mariofcd ($105.34 in chips) 
+Seat 4: equilibrium_tv ($9.50 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($113.06 in chips) 
+B1GBankroll: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+Tweanks: folds 
+nastja336: folds 
+mariofcd: folds 
+equilibrium_tv: folds 
+B1GBankroll: folds 
+Uncalled bet ($0.50) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $1 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Tweanks folded before Flop (didn't bet)
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 3: mariofcd folded before Flop (didn't bet)
+Seat 4: equilibrium_tv (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) folded before Flop
+Seat 6: S3MPR3IGUAL (big blind) collected ($1)
+
+
+
+PokerStars Hand #254645564007:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:10:24 WET [2025/01/31 19:10:24 ET]
+Table 'Kolga' 6-max Seat #2 is the button
+Seat 1: Tweanks ($47.06 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: mariofcd ($121.47 in chips) 
+Seat 4: equilibrium_tv ($9.50 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($110.20 in chips) 
+mariofcd: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+S3MPR3IGUAL: raises $1.20 to $2.20
+Tweanks: folds 
+nastja336: folds 
+mariofcd: raises $8.80 to $11
+equilibrium_tv: folds 
+S3MPR3IGUAL: raises $13.20 to $24.20
+mariofcd: folds 
+Uncalled bet ($13.20) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $23 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $0 
+Seat 1: Tweanks folded before Flop (didn't bet)
+Seat 2: nastja336 (button) folded before Flop (didn't bet)
+Seat 3: mariofcd (small blind) folded before Flop
+Seat 4: equilibrium_tv (big blind) folded before Flop
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL collected ($23)
+
+
+
+PokerStars Hand #254645569254:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:10:46 WET [2025/01/31 19:10:46 ET]
+Table 'Kolga' 6-max Seat #3 is the button
+Seat 1: Tweanks ($47.06 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: mariofcd ($110.47 in chips) 
+Seat 4: equilibrium_tv ($8.50 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($122.20 in chips) 
+equilibrium_tv: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+Tweanks: calls $1
+nastja336: raises $4 to $5
+mariofcd: folds 
+equilibrium_tv: folds 
+B1GBankroll: folds 
+Tweanks: calls $4
+*** FLOP *** [9d Qc 5c]
+Tweanks: checks 
+nastja336: bets $5.46
+Tweanks: calls $5.46
+*** TURN *** [9d Qc 5c] [Ts]
+Tweanks: checks 
+nastja336: bets $37.50
+Tweanks: calls $36.60 and is all-in
+Uncalled bet ($0.90) returned to nastja336
+*** RIVER *** [9d Qc 5c Ts] [Kd]
+*** SHOW DOWN ***
+Tweanks: shows [Kc 7c] (a pair of Kings)
+nastja336: shows [Qh Qd] (three of a kind, Queens)
+nastja336 collected $93.12 from pot
+*** SUMMARY ***
+Total pot $95.62 | Rake $2.50 
+Board [9d Qc 5c Ts Kd]
+Seat 1: Tweanks showed [Kc 7c] and lost with a pair of Kings
+Seat 2: nastja336 showed [Qh Qd] and won ($93.12) with three of a kind, Queens
+Seat 3: mariofcd (button) folded before Flop (didn't bet)
+Seat 4: equilibrium_tv (small blind) folded before Flop
+Seat 5: B1GBankroll (big blind) folded before Flop
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254645584492:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:11:51 WET [2025/01/31 19:11:51 ET]
+Table 'Kolga' 6-max Seat #4 is the button
+Seat 1: Tweanks ($0 in chips) is sitting out
+Seat 2: nastja336 ($146.06 in chips) 
+Seat 3: mariofcd ($110.47 in chips) 
+Seat 4: equilibrium_tv ($8 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($122.20 in chips) 
+B1GBankroll: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+Tweanks leaves the table
+mariofcd: folds 
+nastja336 leaves the table
+equilibrium_tv: folds 
+B1GBankroll: folds 
+Uncalled bet ($0.50) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $1 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Tweanks
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 3: mariofcd folded before Flop (didn't bet)
+Seat 4: equilibrium_tv (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) folded before Flop
+Seat 6: S3MPR3IGUAL (big blind) collected ($1)
+
+
+
+PokerStars Hand #254645591225:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:12:20 WET [2025/01/31 19:12:20 ET]
+Table 'Kolga' 6-max Seat #6 is the button
+Seat 3: mariofcd ($110.47 in chips) is sitting out
+Seat 4: equilibrium_tv ($8 in chips) is sitting out
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($122.70 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+mariofcd: is sitting out 
+equilibrium_tv: is sitting out 
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+Uncalled bet ($0.50) returned to B1GBankroll
+equilibrium_tv leaves the table
+B1GBankroll collected $1 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: mariofcd
+Seat 4: equilibrium_tv
+Seat 5: B1GBankroll (big blind) collected ($1)
+Seat 6: S3MPR3IGUAL (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254645601222:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:13:02 WET [2025/01/31 19:13:02 ET]
+Table 'Kolga' 6-max Seat #2 is the button
+Seat 2: alkingst ($21.80 in chips) 
+Seat 5: B1GBankroll ($100.50 in chips) 
+alkingst: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+alkingst: calls $0.50
+B1GBankroll: checks 
+*** FLOP *** [9h 9s 3c]
+B1GBankroll: bets $1
+alkingst: calls $1
+*** TURN *** [9h 9s 3c] [7c]
+B1GBankroll: bets $2.81
+alkingst: folds 
+Uncalled bet ($2.81) returned to B1GBankroll
+B1GBankroll collected $3.80 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [9h 9s 3c 7c]
+Seat 2: alkingst (button) (small blind) folded on the Turn
+Seat 5: B1GBankroll (big blind) collected ($3.80)
+
+
+
+PokerStars Hand #254645607362:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:13:28 WET [2025/01/31 19:13:28 ET]
+Table 'Kolga' 6-max Seat #5 is the button
+Seat 2: alkingst ($19.80 in chips) 
+Seat 5: B1GBankroll ($102.30 in chips) 
+B1GBankroll: posts small blind $0.50
+alkingst: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: raises $1.50 to $2.50
+alkingst: calls $1.50
+*** FLOP *** [Ks 4h Ad]
+alkingst: checks 
+B1GBankroll: bets $2.33
+alkingst: calls $2.33
+*** TURN *** [Ks 4h Ad] [5c]
+alkingst: checks 
+B1GBankroll: checks 
+*** RIVER *** [Ks 4h Ad 5c] [4s]
+alkingst: bets $3
+Mpfs1234 joins the table at seat #4 
+Mpfs1234 is disconnected 
+B1GBankroll: folds 
+Uncalled bet ($3) returned to alkingst
+alkingst collected $9.18 from pot
+*** SUMMARY ***
+Total pot $9.66 | Rake $0.48 
+Board [Ks 4h Ad 5c 4s]
+Seat 2: alkingst (big blind) collected ($9.18)
+Seat 5: B1GBankroll (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #254645614411:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:13:58 WET [2025/01/31 19:13:58 ET]
+Table 'Kolga' 6-max Seat #5 is the button
+Seat 2: alkingst ($24.15 in chips) 
+Seat 4: Mpfs1234 ($10 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+alkingst: posts small blind $0.50
+Mpfs1234: posts big blind $1
+*** HOLE CARDS ***
+XneferX joins the table at seat #6 
+B1GBankroll: raises $1.50 to $2.50
+alkingst: calls $2
+Mpfs1234: raises $7.50 to $10 and is all-in
+equilibrium_tv joins the table at seat #1 
+B1GBankroll: folds 
+alkingst: calls $7.50
+*** FLOP *** [Ah Ts 2c]
+*** TURN *** [Ah Ts 2c] [2d]
+*** RIVER *** [Ah Ts 2c 2d] [9s]
+*** SHOW DOWN ***
+alkingst: shows [Qc 7c] (a pair of Deuces)
+Mpfs1234: shows [7h 8h] (a pair of Deuces - lower kicker)
+alkingst collected $21.50 from pot
+*** SUMMARY ***
+Total pot $22.50 | Rake $1 
+Board [Ah Ts 2c 2d 9s]
+Seat 2: alkingst (small blind) showed [Qc 7c] and won ($21.50) with a pair of Deuces
+Seat 4: Mpfs1234 (big blind) showed [7h 8h] and lost with a pair of Deuces
+Seat 5: B1GBankroll (button) folded before Flop
+
+
+
+PokerStars Hand #254645621183:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:14:27 WET [2025/01/31 19:14:27 ET]
+Table 'Kolga' 6-max Seat #2 is the button
+Seat 1: equilibrium_tv ($10 in chips) is sitting out
+Seat 4: Mpfs1234 ($0 in chips) is sitting out
+Seat 2: alkingst ($35.65 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: XneferX ($100 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: posts big blind $1
+equilibrium_tv: sits out 
+*** HOLE CARDS ***
+alkingst: folds 
+B1GBankroll: folds 
+Uncalled bet ($0.50) returned to XneferX
+BMOGS7 joins the table at seat #3 
+BMOGS7 is disconnected 
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: equilibrium_tv
+Seat 4: Mpfs1234
+Seat 2: alkingst (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) folded before Flop
+Seat 6: XneferX (big blind) collected ($1)
+
+
+
+PokerStars Hand #254645623646:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:14:38 WET [2025/01/31 19:14:38 ET]
+Table 'Kolga' 6-max Seat #5 is the button
+Seat 4: Mpfs1234 ($0 in chips) is sitting out
+Seat 1: equilibrium_tv ($10 in chips) 
+Seat 2: alkingst ($35.65 in chips) 
+Seat 3: BMOGS7 ($50.12 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: XneferX ($100.50 in chips) 
+XneferX: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+BMOGS7: posts big blind $1
+*** HOLE CARDS ***
+alkingst: folds 
+BMOGS7: checks 
+Mpfs1234 leaves the table
+B1GBankroll: raises $3 to $4
+mariofcd joins the table at seat #4 
+XneferX: folds 
+equilibrium_tv: folds 
+BMOGS7: calls $3
+*** FLOP *** [Ts 8d Kh]
+BMOGS7: bets $4.51
+B1GBankroll: raises $8.84 to $13.35
+BMOGS7: calls $8.84
+*** TURN *** [Ts 8d Kh] [7d]
+BMOGS7: checks 
+B1GBankroll: bets $34
+BMOGS7: calls $32.77 and is all-in
+Uncalled bet ($1.23) returned to B1GBankroll
+*** RIVER *** [Ts 8d Kh 7d] [9s]
+*** SHOW DOWN ***
+BMOGS7: shows [7c Tc] (two pair, Tens and Sevens)
+B1GBankroll: shows [Kd Qs] (a pair of Kings)
+BMOGS7 collected $99.24 from pot
+*** SUMMARY ***
+Total pot $101.74 | Rake $2.50 
+Board [Ts 8d Kh 7d 9s]
+Seat 4: Mpfs1234
+Seat 1: equilibrium_tv (big blind) folded before Flop
+Seat 2: alkingst folded before Flop (didn't bet)
+Seat 3: BMOGS7 showed [7c Tc] and won ($99.24) with two pair, Tens and Sevens
+Seat 5: B1GBankroll (button) showed [Kd Qs] and lost with a pair of Kings
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254645635968:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:15:30 WET [2025/01/31 19:15:30 ET]
+Table 'Kolga' 6-max Seat #6 is the button
+Seat 1: equilibrium_tv ($49 in chips) 
+Seat 2: alkingst ($35.65 in chips) 
+Seat 3: BMOGS7 ($99.24 in chips) 
+Seat 4: mariofcd ($110.47 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: XneferX ($100 in chips) 
+equilibrium_tv: posts small blind $0.50
+alkingst: posts big blind $1
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+BMOGS7: folds 
+mariofcd: raises $1.20 to $2.20
+B1GBankroll: folds 
+XneferX: folds 
+equilibrium_tv: folds 
+alkingst: folds 
+Uncalled bet ($1.20) returned to mariofcd
+mariofcd collected $2.50 from pot
+mariofcd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: equilibrium_tv (small blind) folded before Flop
+Seat 2: alkingst (big blind) folded before Flop
+Seat 3: BMOGS7 folded before Flop (didn't bet)
+Seat 4: mariofcd collected ($2.50)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254645642500:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:15:59 WET [2025/01/31 19:15:59 ET]
+Table 'Kolga' 6-max Seat #1 is the button
+Seat 1: equilibrium_tv ($100 in chips) 
+Seat 2: alkingst ($34.65 in chips) 
+Seat 3: BMOGS7 ($99.24 in chips) 
+Seat 4: mariofcd ($111.97 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: XneferX ($100 in chips) 
+alkingst: posts small blind $0.50
+BMOGS7: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: raises $1 to $2
+B1GBankroll: folds 
+XneferX: raises $4 to $6
+equilibrium_tv: folds 
+alkingst: folds 
+BMOGS7: folds 
+mariofcd: calls $4
+*** FLOP *** [As 5h 3h]
+mariofcd: checks 
+XneferX: bets $4.36
+mariofcd: calls $4.36
+*** TURN *** [As 5h 3h] [Tc]
+mariofcd: checks 
+XneferX: checks 
+*** RIVER *** [As 5h 3h Tc] [7h]
+mariofcd: bets $17.52
+XneferX: calls $17.52
+*** SHOW DOWN ***
+mariofcd: shows [4d 4s] (a pair of Fours)
+XneferX: shows [Qc Ac] (a pair of Aces)
+XneferX collected $54.76 from pot
+*** SUMMARY ***
+Total pot $57.26 | Rake $2.50 
+Board [As 5h 3h Tc 7h]
+Seat 1: equilibrium_tv (button) folded before Flop (didn't bet)
+Seat 2: alkingst (small blind) folded before Flop
+Seat 3: BMOGS7 (big blind) folded before Flop
+Seat 4: mariofcd showed [4d 4s] and lost with a pair of Fours
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX showed [Qc Ac] and won ($54.76) with a pair of Aces
+
+
+
+PokerStars Hand #254645671685:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:18:04 WET [2025/01/31 19:18:04 ET]
+Table 'Kolga' 6-max Seat #2 is the button
+Seat 1: equilibrium_tv ($100 in chips) 
+Seat 2: alkingst ($34.15 in chips) 
+Seat 3: BMOGS7 ($98.24 in chips) 
+Seat 4: mariofcd ($100 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: XneferX ($126.88 in chips) 
+BMOGS7: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+XneferX: raises $1.10 to $2.10
+equilibrium_tv: folds 
+alkingst: folds 
+BMOGS7: calls $1.60
+mariofcd: calls $1.10
+*** FLOP *** [Ks As 4s]
+BMOGS7: checks 
+mariofcd: checks 
+XneferX: checks 
+*** TURN *** [Ks As 4s] [Ah]
+BMOGS7: bets $1
+mariofcd: raises $5.99 to $6.99
+XneferX: folds 
+BMOGS7: folds 
+Uncalled bet ($5.99) returned to mariofcd
+mariofcd collected $7.88 from pot
+mariofcd: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.30 | Rake $0.42 
+Board [Ks As 4s Ah]
+Seat 1: equilibrium_tv folded before Flop (didn't bet)
+Seat 2: alkingst (button) folded before Flop (didn't bet)
+Seat 3: BMOGS7 (small blind) folded on the Turn
+Seat 4: mariofcd (big blind) collected ($7.88)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded on the Turn
+
+
+
+PokerStars Hand #254645682447:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:18:51 WET [2025/01/31 19:18:51 ET]
+Table 'Kolga' 6-max Seat #3 is the button
+Seat 1: equilibrium_tv ($100 in chips) 
+Seat 2: alkingst ($34.15 in chips) 
+Seat 3: BMOGS7 ($95.14 in chips) 
+Seat 4: mariofcd ($104.78 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: XneferX ($124.78 in chips) 
+mariofcd: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+equilibrium_tv: raises $2 to $3
+alkingst: folds 
+BMOGS7: folds 
+mariofcd: folds 
+B1GBankroll: calls $2
+*** FLOP *** [Js Jh 8h]
+B1GBankroll: checks 
+equilibrium_tv: bets $2.04
+B1GBankroll: calls $2.04
+*** TURN *** [Js Jh 8h] [3c]
+B1GBankroll: checks 
+equilibrium_tv: bets $7.54
+B1GBankroll: folds 
+Uncalled bet ($7.54) returned to equilibrium_tv
+equilibrium_tv collected $10.05 from pot
+*** SUMMARY ***
+Total pot $10.58 | Rake $0.53 
+Board [Js Jh 8h 3c]
+Seat 1: equilibrium_tv collected ($10.05)
+Seat 2: alkingst folded before Flop (didn't bet)
+Seat 3: BMOGS7 (button) folded before Flop (didn't bet)
+Seat 4: mariofcd (small blind) folded before Flop
+Seat 5: B1GBankroll (big blind) folded on the Turn
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254645694128:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:19:42 WET [2025/01/31 19:19:42 ET]
+Table 'Kolga' 6-max Seat #4 is the button
+Seat 1: equilibrium_tv ($105.01 in chips) 
+Seat 2: alkingst ($34.15 in chips) 
+Seat 3: BMOGS7 ($95.14 in chips) 
+Seat 4: mariofcd ($104.28 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: XneferX ($124.78 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: raises $2 to $3
+alkingst: calls $3
+BMOGS7: folds 
+mariofcd: folds 
+B1GBankroll: raises $11.50 to $14.50
+XneferX: folds 
+equilibrium_tv: calls $11.50
+alkingst: folds 
+*** FLOP *** [9h 8c 3d]
+B1GBankroll: bets $15.36
+equilibrium_tv: folds 
+Uncalled bet ($15.36) returned to B1GBankroll
+B1GBankroll collected $31.35 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $1.65 
+Board [9h 8c 3d]
+Seat 1: equilibrium_tv folded on the Flop
+Seat 2: alkingst folded before Flop
+Seat 3: BMOGS7 folded before Flop (didn't bet)
+Seat 4: mariofcd (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) collected ($31.35)
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254645709522:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:20:49 WET [2025/01/31 19:20:49 ET]
+Table 'Kolga' 6-max Seat #5 is the button
+Seat 1: equilibrium_tv ($100 in chips) 
+Seat 2: alkingst ($31.15 in chips) 
+Seat 3: BMOGS7 ($95.14 in chips) 
+Seat 4: mariofcd ($104.28 in chips) 
+Seat 5: B1GBankroll ($116.85 in chips) 
+Seat 6: XneferX ($123.78 in chips) 
+XneferX: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+alkingst: calls $1
+BMOGS7: folds 
+mariofcd: folds 
+B1GBankroll: folds 
+XneferX: folds 
+equilibrium_tv: checks 
+*** FLOP *** [Ts 5s Ah]
+equilibrium_tv: checks 
+alkingst: checks 
+*** TURN *** [Ts 5s Ah] [Ac]
+equilibrium_tv: checks 
+alkingst: bets $1
+equilibrium_tv: folds 
+Uncalled bet ($1) returned to alkingst
+alkingst collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Ts 5s Ah Ac]
+Seat 1: equilibrium_tv (big blind) folded on the Turn
+Seat 2: alkingst collected ($2.38)
+Seat 3: BMOGS7 folded before Flop (didn't bet)
+Seat 4: mariofcd folded before Flop (didn't bet)
+Seat 5: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254645719162:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:21:31 WET [2025/01/31 19:21:31 ET]
+Table 'Kolga' 6-max Seat #6 is the button
+Seat 1: equilibrium_tv ($99 in chips) 
+Seat 2: alkingst ($32.53 in chips) 
+Seat 3: BMOGS7 ($95.14 in chips) 
+Seat 4: mariofcd ($104.28 in chips) 
+Seat 5: B1GBankroll ($116.85 in chips) 
+Seat 6: XneferX ($123.28 in chips) 
+equilibrium_tv: posts small blind $0.50
+alkingst: posts big blind $1
+*** HOLE CARDS ***
+BMOGS7: folds 
+mariofcd: folds 
+B1GBankroll: folds 
+XneferX: raises $1.77 to $2.77
+equilibrium_tv: raises $8.73 to $11.50
+alkingst: folds 
+XneferX: raises $12.50 to $24
+equilibrium_tv: folds 
+Uncalled bet ($12.50) returned to XneferX
+XneferX collected $24 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: equilibrium_tv (small blind) folded before Flop
+Seat 2: alkingst (big blind) folded before Flop
+Seat 3: BMOGS7 folded before Flop (didn't bet)
+Seat 4: mariofcd folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX (button) collected ($24)
+
+
+
+PokerStars Hand #254645730474:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:22:22 WET [2025/01/31 19:22:22 ET]
+Table 'Kolga' 6-max Seat #1 is the button
+Seat 1: equilibrium_tv ($87.50 in chips) 
+Seat 2: alkingst ($31.53 in chips) 
+Seat 3: BMOGS7 ($95.14 in chips) 
+Seat 4: mariofcd ($104.28 in chips) 
+Seat 5: B1GBankroll ($116.85 in chips) 
+Seat 6: XneferX ($135.78 in chips) 
+alkingst: posts small blind $0.50
+BMOGS7: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: folds 
+B1GBankroll: folds 
+XneferX: folds 
+equilibrium_tv: raises $2 to $3
+alkingst: folds 
+BMOGS7: calls $2
+*** FLOP *** [Jd 3h Qc]
+BMOGS7: checks 
+equilibrium_tv: bets $2.04
+BMOGS7: raises $2.04 to $4.08
+equilibrium_tv: calls $2.04
+*** TURN *** [Jd 3h Qc] [Qh]
+BMOGS7: checks 
+equilibrium_tv: checks 
+*** RIVER *** [Jd 3h Qc Qh] [6s]
+BMOGS7: bets $13.93
+equilibrium_tv: folds 
+Uncalled bet ($13.93) returned to BMOGS7
+BMOGS7 collected $13.93 from pot
+*** SUMMARY ***
+Total pot $14.66 | Rake $0.73 
+Board [Jd 3h Qc Qh 6s]
+Seat 1: equilibrium_tv (button) folded on the River
+Seat 2: alkingst (small blind) folded before Flop
+Seat 3: BMOGS7 (big blind) collected ($13.93)
+Seat 4: mariofcd folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254645743026:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:23:18 WET [2025/01/31 19:23:18 ET]
+Table 'Kolga' 6-max Seat #2 is the button
+Seat 1: equilibrium_tv ($80.42 in chips) 
+Seat 2: alkingst ($31.03 in chips) 
+Seat 3: BMOGS7 ($101.99 in chips) 
+Seat 4: mariofcd ($104.28 in chips) 
+Seat 5: B1GBankroll ($116.85 in chips) 
+Seat 6: XneferX ($135.78 in chips) 
+BMOGS7: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+XneferX: folds 
+equilibrium_tv: raises $2 to $3
+alkingst: folds 
+BMOGS7: folds 
+mariofcd: calls $2
+*** FLOP *** [Qd Jd 7d]
+mariofcd: checks 
+equilibrium_tv: checks 
+*** TURN *** [Qd Jd 7d] [9d]
+mariofcd: checks 
+equilibrium_tv: checks 
+*** RIVER *** [Qd Jd 7d 9d] [8d]
+mariofcd: checks 
+equilibrium_tv: checks 
+*** SHOW DOWN ***
+mariofcd: shows [5d 4d] (a flush, Queen high)
+equilibrium_tv: shows [As 9c] (a flush, Queen high)
+mariofcd collected $3.09 from pot
+equilibrium_tv collected $3.09 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Qd Jd 7d 9d 8d]
+Seat 1: equilibrium_tv showed [As 9c] and won ($3.09) with a flush, Queen high
+Seat 2: alkingst (button) folded before Flop (didn't bet)
+Seat 3: BMOGS7 (small blind) folded before Flop
+Seat 4: mariofcd (big blind) showed [5d 4d] and won ($3.09) with a flush, Queen high
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254645761331:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:24:41 WET [2025/01/31 19:24:41 ET]
+Table 'Kolga' 6-max Seat #3 is the button
+Seat 1: equilibrium_tv ($100 in chips) 
+Seat 2: alkingst ($31.03 in chips) 
+Seat 3: BMOGS7 ($101.49 in chips) 
+Seat 4: mariofcd ($104.37 in chips) 
+Seat 5: B1GBankroll ($116.85 in chips) 
+Seat 6: XneferX ($135.78 in chips) 
+mariofcd: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+equilibrium_tv: folds 
+alkingst: calls $1
+BMOGS7: calls $1
+mariofcd: folds 
+B1GBankroll: checks 
+*** FLOP *** [Td 3h 6h]
+B1GBankroll: checks 
+alkingst: checks 
+BMOGS7: checks 
+*** TURN *** [Td 3h 6h] [Ad]
+B1GBankroll: checks 
+alkingst: checks 
+BMOGS7: checks 
+*** RIVER *** [Td 3h 6h Ad] [2s]
+B1GBankroll: checks 
+alkingst: checks 
+BMOGS7: checks 
+*** SHOW DOWN ***
+B1GBankroll: shows [6d 7h] (a pair of Sixes)
+alkingst: mucks hand 
+BMOGS7: mucks hand 
+B1GBankroll collected $3.32 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [Td 3h 6h Ad 2s]
+Seat 1: equilibrium_tv folded before Flop (didn't bet)
+Seat 2: alkingst mucked
+Seat 3: BMOGS7 (button) mucked
+Seat 4: mariofcd (small blind) folded before Flop
+Seat 5: B1GBankroll (big blind) showed [6d 7h] and won ($3.32) with a pair of Sixes
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254645775396:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:25:44 WET [2025/01/31 19:25:44 ET]
+Table 'Kolga' 6-max Seat #4 is the button
+Seat 1: equilibrium_tv ($100 in chips) 
+Seat 2: alkingst ($30.03 in chips) 
+Seat 3: BMOGS7 ($100.49 in chips) 
+Seat 4: mariofcd ($103.87 in chips) 
+Seat 5: B1GBankroll ($119.17 in chips) 
+Seat 6: XneferX ($135.78 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+alkingst: folds 
+BMOGS7: folds 
+BMOGS7 leaves the table
+mariofcd is connected 
+mariofcd: folds 
+equilibrium_tv leaves the table
+B1GBankroll: raises $2 to $3
+XneferX: folds 
+Uncalled bet ($2) returned to B1GBankroll
+B1GBankroll collected $2 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: equilibrium_tv folded before Flop (didn't bet)
+Seat 2: alkingst folded before Flop (didn't bet)
+Seat 3: BMOGS7 folded before Flop (didn't bet)
+Seat 4: mariofcd (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) collected ($2)
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254645780938:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:26:09 WET [2025/01/31 19:26:09 ET]
+Table 'Kolga' 6-max Seat #5 is the button
+Seat 4: mariofcd ($103.87 in chips) is sitting out
+Seat 2: alkingst ($30.03 in chips) 
+Seat 5: B1GBankroll ($120.17 in chips) 
+Seat 6: XneferX ($134.78 in chips) 
+XneferX: posts small blind $0.50
+alkingst: posts big blind $1
+*** HOLE CARDS ***
+mariofcd leaves the table
+B1GBankroll: folds 
+XneferX: raises $2 to $3
+alkingst: folds 
+Uncalled bet ($2) returned to XneferX
+XneferX collected $2 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: mariofcd
+Seat 2: alkingst (big blind) folded before Flop
+Seat 5: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) collected ($2)
+
+
+

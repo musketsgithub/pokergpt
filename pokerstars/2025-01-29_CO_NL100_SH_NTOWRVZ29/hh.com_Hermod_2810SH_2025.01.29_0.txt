@@ -1,0 +1,94 @@
+﻿PokerStars Hand #254613034504:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 21:45:37 WET [2025/01/29 16:45:37 ET]
+Table 'Hermod' 6-max Seat #4 is the button
+Seat 3: CichiChanMarian ($100 in chips) is sitting out
+Seat 1: nikalas22 ($101 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 4: XneferX ($102.68 in chips) 
+nikalas22: posts small blind $0.50
+nastja336: posts big blind $1
+CichiChanMarian: sits out 
+*** HOLE CARDS ***
+XneferX: folds 
+nikalas22: raises $2 to $3
+nastja336: calls $2
+*** FLOP *** [Tc 8c Kc]
+nikalas22: bets $1.71
+nastja336: calls $1.71
+*** TURN *** [Tc 8c Kc] [2h]
+nikalas22: bets $6.71
+nastja336: folds 
+Uncalled bet ($6.71) returned to nikalas22
+nikalas22 collected $8.95 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.42 | Rake $0.47 
+Board [Tc 8c Kc 2h]
+Seat 3: CichiChanMarian
+Seat 1: nikalas22 (small blind) collected ($8.95)
+Seat 2: nastja336 (big blind) folded on the Turn
+Seat 4: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254613041664:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 21:46:02 WET [2025/01/29 16:46:02 ET]
+Table 'Hermod' 6-max Seat #1 is the button
+Seat 1: nikalas22 ($105.24 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: CichiChanMarian ($100 in chips) 
+Seat 4: XneferX ($102.68 in chips) 
+nastja336: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+XneferX: raises $1.30 to $2.30
+nikalas22: folds 
+nastja336: folds 
+CichiChanMarian: folds 
+Uncalled bet ($1.30) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nikalas22 (button) folded before Flop (didn't bet)
+Seat 2: nastja336 (small blind) folded before Flop
+Seat 3: CichiChanMarian (big blind) folded before Flop
+Seat 4: XneferX collected ($2.50)
+
+
+
+PokerStars Hand #254613045221:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 21:46:15 WET [2025/01/29 16:46:15 ET]
+Table 'Hermod' 6-max Seat #2 is the button
+Seat 4: XneferX ($104.18 in chips) is sitting out
+Seat 1: nikalas22 ($105.24 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: CichiChanMarian ($100 in chips) 
+CichiChanMarian: posts small blind $0.50
+XneferX: is sitting out 
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+nastja336: raises $1.50 to $2.50
+CichiChanMarian: folds 
+XneferX leaves the table
+nikalas22: calls $1.50
+*** FLOP *** [Tc 5c 2s]
+nikalas22: checks 
+nastja336: checks 
+*** TURN *** [Tc 5c 2s] [Td]
+nikalas22: checks 
+nastja336: checks 
+*** RIVER *** [Tc 5c 2s Td] [Ts]
+nikalas22: checks 
+nastja336: checks 
+*** SHOW DOWN ***
+nikalas22: shows [Kc 9h] (three of a kind, Tens)
+nastja336: shows [Kd Jd] (three of a kind, Tens - King+Jack kicker)
+nastja336 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Tc 5c 2s Td Ts]
+Seat 4: XneferX
+Seat 1: nikalas22 (big blind) showed [Kc 9h] and lost with three of a kind, Tens
+Seat 2: nastja336 (button) showed [Kd Jd] and won ($5.22) with three of a kind, Tens
+Seat 3: CichiChanMarian (small blind) folded before Flop
+
+
+

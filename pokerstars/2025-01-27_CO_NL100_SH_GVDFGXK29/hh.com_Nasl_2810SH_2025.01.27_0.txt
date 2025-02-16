@@ -1,0 +1,686 @@
+﻿PokerStars Hand #254574894720:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 3:27:34 WET [2025/01/26 22:27:34 ET]
+Table 'Nasl IV' 6-max Seat #3 is the button
+Seat 3: lommer93 ($21.31 in chips) 
+Seat 4: Manifestorr ($119.31 in chips) 
+lommer93: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+lommer93: calls $0.50
+Manifestorr: raises $3.50 to $4.50
+lommer93: calls $3.50
+*** FLOP *** [5c 2s Qc]
+Manifestorr: bets $4.28
+lommer93: folds 
+Uncalled bet ($4.28) returned to Manifestorr
+Manifestorr collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [5c 2s Qc]
+Seat 3: lommer93 (button) (small blind) folded on the Flop
+Seat 4: Manifestorr (big blind) collected ($8.55)
+
+
+
+PokerStars Hand #254586524002:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:35:42 WET [2025/01/27 17:35:42 ET]
+Table 'Nasl IV' 6-max Seat #6 is the button
+Seat 2: M1k_DP ($100 in chips) is sitting out
+Seat 4: VahTang_89 ($100 in chips) 
+Seat 5: blackclan7 ($100 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+VahTang_89: posts small blind $0.50
+blackclan7: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+deanmillingt joins the table at seat #1 
+deanmillingt is disconnected 
+VahTang_89: folds 
+Uncalled bet ($0.50) returned to blackclan7
+blackclan7 collected $1 from pot
+blackclan7: doesn't show hand 
+easy_sarcasm joins the table at seat #3 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: M1k_DP
+Seat 4: VahTang_89 (small blind) folded before Flop
+Seat 5: blackclan7 (big blind) collected ($1)
+Seat 6: Manifestorr (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254586525976:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:35:49 WET [2025/01/27 17:35:49 ET]
+Table 'Nasl IV' 6-max Seat #4 is the button
+Seat 2: M1k_DP ($100 in chips) is sitting out
+Seat 3: easy_sarcasm ($100 in chips) is sitting out
+Seat 1: deanmillingt ($60.71 in chips) 
+Seat 4: VahTang_89 ($100 in chips) 
+Seat 5: blackclan7 ($100.50 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+blackclan7: posts small blind $0.50
+Manifestorr: posts big blind $1
+deanmillingt: posts big blind $1
+easy_sarcasm: sits out 
+*** HOLE CARDS ***
+deanmillingt: checks 
+VahTang_89: raises $3.50 to $4.50
+blackclan7: folds 
+Manifestorr: folds 
+deanmillingt: calls $3.50
+*** FLOP *** [Jh 8d Jd]
+deanmillingt: checks 
+VahTang_89: bets $3.29
+deanmillingt: raises $3.29 to $6.58
+VahTang_89: calls $3.29
+*** TURN *** [Jh 8d Jd] [4h]
+deanmillingt: bets $11.33
+VahTang_89: calls $11.33
+*** RIVER *** [Jh 8d Jd 4h] [8s]
+deanmillingt: checks 
+VahTang_89: checks 
+*** SHOW DOWN ***
+deanmillingt: shows [Js Ah] (a full house, Jacks full of Eights)
+VahTang_89: mucks hand 
+deanmillingt collected $45.32 from pot
+*** SUMMARY ***
+Total pot $46.32 | Rake $1 
+Board [Jh 8d Jd 4h 8s]
+Seat 2: M1k_DP
+Seat 3: easy_sarcasm
+Seat 1: deanmillingt showed [Js Ah] and won ($45.32) with a full house, Jacks full of Eights
+Seat 4: VahTang_89 (button) mucked
+Seat 5: blackclan7 (small blind) folded before Flop
+Seat 6: Manifestorr (big blind) folded before Flop
+
+
+
+PokerStars Hand #254586537984:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:36:31 WET [2025/01/27 17:36:31 ET]
+Table 'Nasl IV' 6-max Seat #5 is the button
+Seat 2: M1k_DP ($100 in chips) is sitting out
+Seat 3: easy_sarcasm ($100 in chips) is sitting out
+Seat 1: deanmillingt ($83.62 in chips) 
+Seat 4: VahTang_89 ($100 in chips) 
+Seat 5: blackclan7 ($100 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+Manifestorr: posts small blind $0.50
+deanmillingt: posts big blind $1
+easy_sarcasm: sits out 
+*** HOLE CARDS ***
+VahTang_89: raises $1.20 to $2.20
+blackclan7: folds 
+Manifestorr: folds 
+deanmillingt: calls $1.20
+*** FLOP *** [9s Kd 4h]
+deanmillingt: checks 
+VahTang_89: bets $1.54
+deanmillingt: calls $1.54
+*** TURN *** [9s Kd 4h] [5d]
+deanmillingt: checks 
+VahTang_89: checks 
+*** RIVER *** [9s Kd 4h 5d] [Jh]
+deanmillingt: checks 
+VahTang_89: checks 
+*** SHOW DOWN ***
+deanmillingt: shows [4s Ac] (a pair of Fours)
+VahTang_89: shows [6s 6d] (a pair of Sixes)
+VahTang_89 collected $7.58 from pot
+*** SUMMARY ***
+Total pot $7.98 | Rake $0.40 
+Board [9s Kd 4h 5d Jh]
+Seat 2: M1k_DP
+Seat 3: easy_sarcasm
+Seat 1: deanmillingt (big blind) showed [4s Ac] and lost with a pair of Fours
+Seat 4: VahTang_89 showed [6s 6d] and won ($7.58) with a pair of Sixes
+Seat 5: blackclan7 (button) folded before Flop (didn't bet)
+Seat 6: Manifestorr (small blind) folded before Flop
+
+
+
+PokerStars Hand #254586543944:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:36:52 WET [2025/01/27 17:36:52 ET]
+Table 'Nasl IV' 6-max Seat #6 is the button
+Seat 2: M1k_DP ($100 in chips) is sitting out
+Seat 1: deanmillingt ($79.88 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: VahTang_89 ($103.84 in chips) 
+Seat 5: blackclan7 ($100 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+deanmillingt: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: folds 
+blackclan7: folds 
+Manifestorr: raises $1.20 to $2.20
+deanmillingt: calls $1.70
+easy_sarcasm: folds 
+*** FLOP *** [Qh 3s 9c]
+deanmillingt: checks 
+Manifestorr: bets $3.85
+deanmillingt: folds 
+Uncalled bet ($3.85) returned to Manifestorr
+Manifestorr collected $5.13 from pot
+*** SUMMARY ***
+Total pot $5.40 | Rake $0.27 
+Board [Qh 3s 9c]
+Seat 2: M1k_DP
+Seat 1: deanmillingt (small blind) folded on the Flop
+Seat 3: easy_sarcasm (big blind) folded before Flop
+Seat 4: VahTang_89 folded before Flop (didn't bet)
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: Manifestorr (button) collected ($5.13)
+
+
+
+PokerStars Hand #254586551845:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:37:20 WET [2025/01/27 17:37:20 ET]
+Table 'Nasl IV' 6-max Seat #1 is the button
+Seat 2: M1k_DP ($100 in chips) is sitting out
+Seat 1: deanmillingt ($77.68 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: VahTang_89 ($103.84 in chips) 
+Seat 5: blackclan7 ($100 in chips) 
+Seat 6: Manifestorr ($102.93 in chips) 
+easy_sarcasm: posts small blind $0.50
+VahTang_89: posts big blind $1
+*** HOLE CARDS ***
+blackclan7: folds 
+Manifestorr: raises $1.20 to $2.20
+deanmillingt: folds 
+easy_sarcasm: folds 
+VahTang_89: folds 
+Uncalled bet ($1.20) returned to Manifestorr
+Manifestorr collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: M1k_DP
+Seat 1: deanmillingt (button) folded before Flop (didn't bet)
+Seat 3: easy_sarcasm (small blind) folded before Flop
+Seat 4: VahTang_89 (big blind) folded before Flop
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: Manifestorr collected ($2.50)
+
+
+
+PokerStars Hand #254586558046:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:37:41 WET [2025/01/27 17:37:41 ET]
+Table 'Nasl IV' 6-max Seat #3 is the button
+Seat 2: M1k_DP ($100 in chips) is sitting out
+Seat 1: deanmillingt ($77.68 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: VahTang_89 ($102.84 in chips) 
+Seat 5: blackclan7 ($100 in chips) 
+Seat 6: Manifestorr ($104.43 in chips) 
+VahTang_89: posts small blind $0.50
+blackclan7: posts big blind $1
+M1k_DP: sits out 
+*** HOLE CARDS ***
+Manifestorr: raises $1.20 to $2.20
+deanmillingt: calls $2.20
+easy_sarcasm: folds 
+VahTang_89: folds 
+blackclan7: calls $1.20
+*** FLOP *** [6c 5d Kh]
+blackclan7: checks 
+Manifestorr: checks 
+deanmillingt: checks 
+*** TURN *** [6c 5d Kh] [2s]
+blackclan7: bets $2.22
+Manifestorr: folds 
+deanmillingt: calls $2.22
+*** RIVER *** [6c 5d Kh 2s] [7c]
+blackclan7: checks 
+deanmillingt: checks 
+*** SHOW DOWN ***
+blackclan7: shows [9d 8h] (a straight, Five to Nine)
+deanmillingt: mucks hand 
+blackclan7 collected $10.96 from pot
+*** SUMMARY ***
+Total pot $11.54 | Rake $0.58 
+Board [6c 5d Kh 2s 7c]
+Seat 2: M1k_DP
+Seat 1: deanmillingt mucked
+Seat 3: easy_sarcasm (button) folded before Flop (didn't bet)
+Seat 4: VahTang_89 (small blind) folded before Flop
+Seat 5: blackclan7 (big blind) showed [9d 8h] and won ($10.96) with a straight, Five to Nine
+Seat 6: Manifestorr folded on the Turn
+
+
+
+PokerStars Hand #254586573941:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:38:37 WET [2025/01/27 17:38:37 ET]
+Table 'Nasl IV' 6-max Seat #4 is the button
+Seat 2: M1k_DP ($100 in chips) is sitting out
+Seat 1: deanmillingt ($73.26 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: VahTang_89 ($102.34 in chips) 
+Seat 5: blackclan7 ($106.54 in chips) 
+Seat 6: Manifestorr ($102.23 in chips) 
+blackclan7: posts small blind $0.50
+Manifestorr: posts big blind $1
+M1k_DP: sits out 
+*** HOLE CARDS ***
+deanmillingt: folds 
+easy_sarcasm: folds 
+VahTang_89: folds 
+deanmillingt leaves the table
+blackclan7: raises $2 to $3
+M1k_DP leaves the table
+Manifestorr: raises $6 to $9
+kel3vr4_23 joins the table at seat #1 
+kel3vr4_23 is disconnected 
+blackclan7: raises $13.50 to $22.50
+Manifestorr: folds 
+Uncalled bet ($13.50) returned to blackclan7
+blackclan7 collected $18 from pot
+blackclan7: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0 
+Seat 2: M1k_DP
+Seat 1: deanmillingt folded before Flop (didn't bet)
+Seat 3: easy_sarcasm folded before Flop (didn't bet)
+Seat 4: VahTang_89 (button) folded before Flop (didn't bet)
+Seat 5: blackclan7 (small blind) collected ($18)
+Seat 6: Manifestorr (big blind) folded before Flop
+
+
+
+PokerStars Hand #254586582246:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:39:06 WET [2025/01/27 17:39:06 ET]
+Table 'Nasl IV' 6-max Seat #5 is the button
+Seat 1: kel3vr4_23 ($10 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: VahTang_89 ($102.34 in chips) 
+Seat 5: blackclan7 ($115.54 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+Manifestorr: posts small blind $0.50
+kel3vr4_23: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+VahTang_89: folds 
+blackclan7: folds 
+Manifestorr: raises $2 to $3
+kel3vr4_23: calls $2
+*** FLOP *** [5s 8d Js]
+Manifestorr: checks 
+kel3vr4_23: bets $2
+LeaveItYeah joins the table at seat #2 
+Manifestorr: calls $2
+*** TURN *** [5s 8d Js] [5d]
+Manifestorr: checks 
+kel3vr4_23: bets $4.75
+Manifestorr: calls $4.75
+*** RIVER *** [5s 8d Js 5d] [Th]
+Manifestorr: checks 
+kel3vr4_23: checks 
+*** SHOW DOWN ***
+Manifestorr: shows [Kc 8h] (two pair, Eights and Fives)
+kel3vr4_23: shows [9s Ts] (two pair, Tens and Fives)
+kel3vr4_23 collected $18.52 from pot
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [5s 8d Js 5d Th]
+Seat 1: kel3vr4_23 (big blind) showed [9s Ts] and won ($18.52) with two pair, Tens and Fives
+Seat 3: easy_sarcasm folded before Flop (didn't bet)
+Seat 4: VahTang_89 folded before Flop (didn't bet)
+Seat 5: blackclan7 (button) folded before Flop (didn't bet)
+Seat 6: Manifestorr (small blind) showed [Kc 8h] and lost with two pair, Eights and Fives
+
+
+
+PokerStars Hand #254586592755:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:39:43 WET [2025/01/27 17:39:43 ET]
+Table 'Nasl IV' 6-max Seat #6 is the button
+Seat 1: kel3vr4_23 ($18.77 in chips) 
+Seat 2: LeaveItYeah ($100 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: VahTang_89 ($102.34 in chips) 
+Seat 5: blackclan7 ($115.54 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+kel3vr4_23: posts small blind $0.50
+LeaveItYeah: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+VahTang_89: folds 
+blackclan7: folds 
+Manifestorr: folds 
+kel3vr4_23: folds 
+Uncalled bet ($0.50) returned to LeaveItYeah
+LeaveItYeah collected $1 from pot
+LeaveItYeah: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kel3vr4_23 (small blind) folded before Flop
+Seat 2: LeaveItYeah (big blind) collected ($1)
+Seat 3: easy_sarcasm folded before Flop (didn't bet)
+Seat 4: VahTang_89 folded before Flop (didn't bet)
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: Manifestorr (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254586595753:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:39:54 WET [2025/01/27 17:39:54 ET]
+Table 'Nasl IV' 6-max Seat #1 is the button
+Seat 1: kel3vr4_23 ($18.27 in chips) 
+Seat 2: LeaveItYeah ($100.50 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: VahTang_89 ($102.34 in chips) 
+Seat 5: blackclan7 ($115.54 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+LeaveItYeah: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: folds 
+blackclan7: folds 
+Manifestorr: raises $1.20 to $2.20
+kel3vr4_23: calls $2.20
+LeaveItYeah: folds 
+easy_sarcasm: folds 
+*** FLOP *** [Ac Qd Qs]
+Manifestorr: checks 
+kel3vr4_23: checks 
+*** TURN *** [Ac Qd Qs] [8d]
+Manifestorr: bets $1.85
+kel3vr4_23: calls $1.85
+*** RIVER *** [Ac Qd Qs 8d] [Td]
+Manifestorr: bets $13.31
+kel3vr4_23: folds 
+Uncalled bet ($13.31) returned to Manifestorr
+Manifestorr collected $9.12 from pot
+*** SUMMARY ***
+Total pot $9.60 | Rake $0.48 
+Board [Ac Qd Qs 8d Td]
+Seat 1: kel3vr4_23 (button) folded on the River
+Seat 2: LeaveItYeah (small blind) folded before Flop
+Seat 3: easy_sarcasm (big blind) folded before Flop
+Seat 4: VahTang_89 folded before Flop (didn't bet)
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: Manifestorr collected ($9.12)
+
+
+
+PokerStars Hand #254586604783:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:40:25 WET [2025/01/27 17:40:25 ET]
+Table 'Nasl IV' 6-max Seat #2 is the button
+Seat 4: VahTang_89 ($102.34 in chips) is sitting out
+Seat 5: blackclan7 ($115.54 in chips) is sitting out
+Seat 6: Manifestorr ($105.07 in chips) is sitting out
+Seat 1: kel3vr4_23 ($14.22 in chips) 
+Seat 2: LeaveItYeah ($100 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+easy_sarcasm: posts small blind $0.50
+VahTang_89: is sitting out 
+blackclan7: is sitting out 
+Manifestorr: is sitting out 
+kel3vr4_23: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89 leaves the table
+LeaveItYeah: folds 
+Manifestorr leaves the table
+easy_sarcasm: calls $0.50
+kel3vr4_23: checks 
+*** FLOP *** [8d Th 4c]
+easy_sarcasm: bets $1
+kel3vr4_23: calls $1
+*** TURN *** [8d Th 4c] [2c]
+blackclan7 leaves the table
+easy_sarcasm: bets $1.90
+kel3vr4_23: calls $1.90
+*** RIVER *** [8d Th 4c 2c] [7s]
+easy_sarcasm: checks 
+kel3vr4_23: checks 
+*** SHOW DOWN ***
+easy_sarcasm: shows [Qs Kh] (high card King)
+kel3vr4_23: shows [5c Td] (a pair of Tens)
+kel3vr4_23 collected $7.41 from pot
+*** SUMMARY ***
+Total pot $7.80 | Rake $0.39 
+Board [8d Th 4c 2c 7s]
+Seat 4: VahTang_89
+Seat 5: blackclan7
+Seat 6: Manifestorr
+Seat 1: kel3vr4_23 (big blind) showed [5c Td] and won ($7.41) with a pair of Tens
+Seat 2: LeaveItYeah (button) folded before Flop (didn't bet)
+Seat 3: easy_sarcasm (small blind) showed [Qs Kh] and lost with high card King
+
+
+
+PokerStars Hand #254586611458:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:40:49 WET [2025/01/27 17:40:49 ET]
+Table 'Nasl IV' 6-max Seat #3 is the button
+Seat 1: kel3vr4_23 ($17.73 in chips) 
+Seat 2: LeaveItYeah ($100 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+kel3vr4_23: posts small blind $0.50
+LeaveItYeah: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+kel3vr4_23: raises $1 to $2
+LeaveItYeah: folds 
+Uncalled bet ($1) returned to kel3vr4_23
+kel3vr4_23 collected $2 from pot
+easy_sarcasm leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: kel3vr4_23 (small blind) collected ($2)
+Seat 2: LeaveItYeah (big blind) folded before Flop
+Seat 3: easy_sarcasm (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254586615614:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:41:04 WET [2025/01/27 17:41:04 ET]
+Table 'Nasl IV' 6-max Seat #2 is the button
+Seat 1: kel3vr4_23 ($18.73 in chips) 
+Seat 2: LeaveItYeah ($100 in chips) 
+LeaveItYeah: posts small blind $0.50
+kel3vr4_23: posts big blind $1
+*** HOLE CARDS ***
+LeaveItYeah: folds 
+Uncalled bet ($0.50) returned to kel3vr4_23
+kel3vr4_23 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kel3vr4_23 (big blind) collected ($1)
+Seat 2: LeaveItYeah (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254586617433:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:41:10 WET [2025/01/27 17:41:10 ET]
+Table 'Nasl IV' 6-max Seat #1 is the button
+Seat 1: kel3vr4_23 ($19.23 in chips) 
+Seat 2: LeaveItYeah ($100 in chips) 
+kel3vr4_23: posts small blind $0.50
+LeaveItYeah: posts big blind $1
+*** HOLE CARDS ***
+kel3vr4_23: raises $1 to $2
+LeaveItYeah: calls $1
+*** FLOP *** [Ac 6d 5d]
+LeaveItYeah: checks 
+kel3vr4_23: checks 
+*** TURN *** [Ac 6d 5d] [7s]
+LeaveItYeah: checks 
+kel3vr4_23: bets $1
+LeaveItYeah: calls $1
+*** RIVER *** [Ac 6d 5d 7s] [Qd]
+LeaveItYeah: checks 
+kel3vr4_23: checks 
+*** SHOW DOWN ***
+LeaveItYeah: shows [Kh 4h] (high card Ace)
+kel3vr4_23: shows [7h Th] (a pair of Sevens)
+kel3vr4_23 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ac 6d 5d 7s Qd]
+Seat 1: kel3vr4_23 (button) (small blind) showed [7h Th] and won ($5.70) with a pair of Sevens
+Seat 2: LeaveItYeah (big blind) showed [Kh 4h] and lost with high card Ace
+
+
+
+PokerStars Hand #254586626514:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:41:42 WET [2025/01/27 17:41:42 ET]
+Table 'Nasl IV' 6-max Seat #2 is the button
+Seat 1: kel3vr4_23 ($21.93 in chips) 
+Seat 2: LeaveItYeah ($100 in chips) 
+LeaveItYeah: posts small blind $0.50
+kel3vr4_23: posts big blind $1
+*** HOLE CARDS ***
+LeaveItYeah: raises $1 to $2
+kel3vr4_23: calls $1
+*** FLOP *** [Qc Ah Qh]
+kel3vr4_23: checks 
+LeaveItYeah: bets $1
+kel3vr4_23: folds 
+Uncalled bet ($1) returned to LeaveItYeah
+LeaveItYeah collected $3.80 from pot
+LeaveItYeah: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Qc Ah Qh]
+Seat 1: kel3vr4_23 (big blind) folded on the Flop
+Seat 2: LeaveItYeah (button) (small blind) collected ($3.80)
+
+
+
+PokerStars Hand #254586632588:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:42:04 WET [2025/01/27 17:42:04 ET]
+Table 'Nasl IV' 6-max Seat #1 is the button
+Seat 1: kel3vr4_23 ($19.93 in chips) 
+Seat 2: LeaveItYeah ($101.80 in chips) 
+kel3vr4_23: posts small blind $0.50
+LeaveItYeah: posts big blind $1
+*** HOLE CARDS ***
+kel3vr4_23: folds 
+Uncalled bet ($0.50) returned to LeaveItYeah
+LeaveItYeah collected $1 from pot
+LeaveItYeah: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kel3vr4_23 (button) (small blind) folded before Flop
+Seat 2: LeaveItYeah (big blind) collected ($1)
+
+
+
+PokerStars Hand #254586634392:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:42:10 WET [2025/01/27 17:42:10 ET]
+Table 'Nasl IV' 6-max Seat #2 is the button
+Seat 1: kel3vr4_23 ($19.43 in chips) 
+Seat 2: LeaveItYeah ($102.30 in chips) 
+LeaveItYeah: posts small blind $0.50
+kel3vr4_23: posts big blind $1
+*** HOLE CARDS ***
+LeaveItYeah: folds 
+Uncalled bet ($0.50) returned to kel3vr4_23
+kel3vr4_23 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kel3vr4_23 (big blind) collected ($1)
+Seat 2: LeaveItYeah (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254586636311:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:42:17 WET [2025/01/27 17:42:17 ET]
+Table 'Nasl IV' 6-max Seat #1 is the button
+Seat 1: kel3vr4_23 ($19.93 in chips) 
+Seat 2: LeaveItYeah ($101.80 in chips) 
+kel3vr4_23: posts small blind $0.50
+LeaveItYeah: posts big blind $1
+*** HOLE CARDS ***
+kel3vr4_23: folds 
+Uncalled bet ($0.50) returned to LeaveItYeah
+LeaveItYeah collected $1 from pot
+LeaveItYeah: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kel3vr4_23 (button) (small blind) folded before Flop
+Seat 2: LeaveItYeah (big blind) collected ($1)
+
+
+
+PokerStars Hand #254586638029:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:42:24 WET [2025/01/27 17:42:24 ET]
+Table 'Nasl IV' 6-max Seat #2 is the button
+Seat 1: kel3vr4_23 ($19.43 in chips) 
+Seat 2: LeaveItYeah ($102.30 in chips) 
+LeaveItYeah: posts small blind $0.50
+kel3vr4_23: posts big blind $1
+*** HOLE CARDS ***
+LeaveItYeah: folds 
+Uncalled bet ($0.50) returned to kel3vr4_23
+kel3vr4_23 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kel3vr4_23 (big blind) collected ($1)
+Seat 2: LeaveItYeah (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254586641258:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:42:35 WET [2025/01/27 17:42:35 ET]
+Table 'Nasl IV' 6-max Seat #1 is the button
+Seat 1: kel3vr4_23 ($19.93 in chips) 
+Seat 2: LeaveItYeah ($101.80 in chips) 
+kel3vr4_23: posts small blind $0.50
+LeaveItYeah: posts big blind $1
+*** HOLE CARDS ***
+kel3vr4_23: folds 
+Uncalled bet ($0.50) returned to LeaveItYeah
+LeaveItYeah collected $1 from pot
+LeaveItYeah: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kel3vr4_23 (button) (small blind) folded before Flop
+Seat 2: LeaveItYeah (big blind) collected ($1)
+
+
+
+PokerStars Hand #254586643021:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:42:41 WET [2025/01/27 17:42:41 ET]
+Table 'Nasl IV' 6-max Seat #2 is the button
+Seat 1: kel3vr4_23 ($19.43 in chips) 
+Seat 2: LeaveItYeah ($102.30 in chips) 
+LeaveItYeah: posts small blind $0.50
+kel3vr4_23: posts big blind $1
+*** HOLE CARDS ***
+LeaveItYeah: raises $1 to $2
+kel3vr4_23: folds 
+Uncalled bet ($1) returned to LeaveItYeah
+LeaveItYeah collected $2 from pot
+LeaveItYeah: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: kel3vr4_23 (big blind) folded before Flop
+Seat 2: LeaveItYeah (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254586645532:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:42:50 WET [2025/01/27 17:42:50 ET]
+Table 'Nasl IV' 6-max Seat #1 is the button
+Seat 1: kel3vr4_23 ($18.43 in chips) 
+Seat 2: LeaveItYeah ($103.30 in chips) 
+kel3vr4_23: posts small blind $0.50
+LeaveItYeah: posts big blind $1
+*** HOLE CARDS ***
+kel3vr4_23: raises $1 to $2
+LeaveItYeah: calls $1
+*** FLOP *** [7s 9h Qc]
+LeaveItYeah: checks 
+kel3vr4_23: bets $2
+LeaveItYeah: calls $2
+*** TURN *** [7s 9h Qc] [9s]
+LeaveItYeah: checks 
+kel3vr4_23: checks 
+*** RIVER *** [7s 9h Qc 9s] [Kh]
+LeaveItYeah: checks 
+kel3vr4_23: checks 
+*** SHOW DOWN ***
+LeaveItYeah: shows [Ts Ks] (two pair, Kings and Nines)
+kel3vr4_23: mucks hand 
+LeaveItYeah collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [7s 9h Qc 9s Kh]
+Seat 1: kel3vr4_23 (button) (small blind) mucked
+Seat 2: LeaveItYeah (big blind) showed [Ts Ks] and won ($7.60) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #254586657474:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:43:33 WET [2025/01/27 17:43:33 ET]
+Table 'Nasl IV' 6-max Seat #2 is the button
+Seat 1: kel3vr4_23 ($14.43 in chips) 
+Seat 2: LeaveItYeah ($106.90 in chips) 
+LeaveItYeah: posts small blind $0.50
+kel3vr4_23: posts big blind $1
+*** HOLE CARDS ***
+LeaveItYeah: folds 
+Uncalled bet ($0.50) returned to kel3vr4_23
+kel3vr4_23 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kel3vr4_23 (big blind) collected ($1)
+Seat 2: LeaveItYeah (button) (small blind) folded before Flop
+
+
+

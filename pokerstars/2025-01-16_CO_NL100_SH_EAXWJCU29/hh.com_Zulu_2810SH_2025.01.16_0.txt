@@ -1,0 +1,5236 @@
+﻿PokerStars Hand #254409045622:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:46:47 WET [2025/01/16 20:46:47 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($57.26 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Rysiff: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+xucruti0116: calls $1.50
+*** FLOP *** [2c 9d 8d]
+xucruti0116: checks 
+vpetriu joins the table at seat #2 
+Tibibacsi joins the table at seat #3 
+Rysiff: bets $5
+xucruti0116: calls $5
+*** TURN *** [2c 9d 8d] [4d]
+xucruti0116: checks 
+Rysiff: bets $11.40
+xucruti0116: calls $11.40
+*** RIVER *** [2c 9d 8d 4d] [5h]
+xucruti0116: checks 
+Rysiff: bets $40
+xucruti0116: folds 
+Uncalled bet ($40) returned to Rysiff
+Rysiff collected $36.80 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $37.80 | Rake $1 
+Board [2c 9d 8d 4d 5h]
+Seat 1: xucruti0116 (big blind) folded on the River
+Seat 5: Rysiff (button) (small blind) collected ($36.80)
+
+
+
+PokerStars Hand #254409055229:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:47:43 WET [2025/01/16 20:47:43 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 3: Tibibacsi ($100 in chips) is sitting out
+Seat 1: xucruti0116 ($38.36 in chips) 
+Seat 2: vpetriu ($100 in chips) 
+Seat 5: Rysiff ($117.90 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+Tibibacsi: sits out 
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+xucruti0116: calls $2
+vpetriu: folds 
+*** FLOP *** [Ah 5h As]
+xucruti0116: checks 
+Rysiff: bets $1.88
+xucruti0116: folds 
+Uncalled bet ($1.88) returned to Rysiff
+Rysiff collected $5.70 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ah 5h As]
+Seat 3: Tibibacsi
+Seat 1: xucruti0116 (small blind) folded on the Flop
+Seat 2: vpetriu (big blind) folded before Flop
+Seat 5: Rysiff (button) collected ($5.70)
+
+
+
+PokerStars Hand #254409059416:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:48:07 WET [2025/01/16 20:48:07 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($35.86 in chips) 
+Seat 2: vpetriu ($100 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 5: Rysiff ($121.10 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: calls $2.50
+*** FLOP *** [6d As 9s]
+Tibibacsi: checks 
+xucruti0116: bets $3.56
+Tibibacsi: calls $3.56
+*** TURN *** [6d As 9s] [Ks]
+Tibibacsi: checks 
+xucruti0116: checks 
+*** RIVER *** [6d As 9s Ks] [Tc]
+Tibibacsi: bets $9.50
+xucruti0116: folds 
+Uncalled bet ($9.50) returned to Tibibacsi
+Tibibacsi collected $13.89 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.62 | Rake $0.73 
+Board [6d As 9s Ks Tc]
+Seat 1: xucruti0116 (button) folded on the River
+Seat 2: vpetriu (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) collected ($13.89)
+Seat 5: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409068544:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:49:02 WET [2025/01/16 20:49:02 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($28.80 in chips) 
+Seat 2: vpetriu ($100 in chips) 
+Seat 3: Tibibacsi ($106.83 in chips) 
+Seat 5: Rysiff ($121.10 in chips) 
+Tibibacsi: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: folds 
+vpetriu: raises $1.50 to $2.50
+Tibibacsi: folds 
+Rysiff: calls $1.50
+*** FLOP *** [As 7d 3c]
+Rysiff: checks 
+vpetriu: checks 
+*** TURN *** [As 7d 3c] [Ah]
+Rysiff: checks 
+vpetriu: bets $3.92
+Rysiff: calls $3.92
+*** RIVER *** [As 7d 3c Ah] [Tc]
+Rysiff: checks 
+vpetriu: bets $9.53
+ceeuentee joins the table at seat #6 
+Rysiff: calls $9.53
+*** SHOW DOWN ***
+vpetriu: shows [Kh Kc] (two pair, Aces and Kings)
+Rysiff: mucks hand 
+vpetriu collected $31.40 from pot
+*** SUMMARY ***
+Total pot $32.40 | Rake $1 
+Board [As 7d 3c Ah Tc]
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu (button) showed [Kh Kc] and won ($31.40) with two pair, Aces and Kings
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 5: Rysiff (big blind) mucked
+
+
+
+PokerStars Hand #254409078274:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:49:59 WET [2025/01/16 20:49:59 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($28.80 in chips) 
+Seat 2: vpetriu ($115.45 in chips) 
+Seat 3: Tibibacsi ($106.33 in chips) 
+Seat 5: Rysiff ($105.15 in chips) 
+Seat 6: ceeuentee ($80 in chips) 
+Rysiff: posts small blind $0.50
+ceeuentee: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+Rysiff: folds 
+ceeuentee: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 collected ($2.50)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: ceeuentee (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409081628:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:50:19 WET [2025/01/16 20:50:19 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($30.30 in chips) 
+Seat 2: vpetriu ($115.45 in chips) 
+Seat 3: Tibibacsi ($106.33 in chips) 
+Seat 5: Rysiff ($104.65 in chips) 
+Seat 6: ceeuentee ($79 in chips) 
+ceeuentee: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: folds 
+Rysiff: folds 
+ceeuentee: raises $2 to $3
+xucruti0116: folds 
+Uncalled bet ($2) returned to ceeuentee
+ceeuentee collected $2 from pot
+ceeuentee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: xucruti0116 (big blind) folded before Flop
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: ceeuentee (small blind) collected ($2)
+
+
+
+PokerStars Hand #254409084579:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:50:37 WET [2025/01/16 20:50:37 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($29.30 in chips) 
+Seat 2: vpetriu ($115.45 in chips) 
+Seat 3: Tibibacsi ($106.33 in chips) 
+Seat 5: Rysiff ($104.65 in chips) 
+Seat 6: ceeuentee ($80 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+Rysiff: folds 
+ceeuentee: folds 
+xucruti0116: raises $2 to $3
+vpetriu: calls $2
+*** FLOP *** [8h 6d 7s]
+xucruti0116: bets $2.85
+vpetriu: calls $2.85
+*** TURN *** [8h 6d 7s] [6h]
+xucruti0116: bets $5.56
+vpetriu: calls $5.56
+*** RIVER *** [8h 6d 7s 6h] [Ah]
+xucruti0116: bets $17.89 and is all-in
+vpetriu: folds 
+Uncalled bet ($17.89) returned to xucruti0116
+xucruti0116 collected $21.68 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.82 | Rake $1.14 
+Board [8h 6d 7s 6h Ah]
+Seat 1: xucruti0116 (small blind) collected ($21.68)
+Seat 2: vpetriu (big blind) folded on the River
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: ceeuentee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409092379:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:51:23 WET [2025/01/16 20:51:23 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($39.57 in chips) 
+Seat 2: vpetriu ($104.04 in chips) 
+Seat 3: Tibibacsi ($106.33 in chips) 
+Seat 5: Rysiff ($104.65 in chips) 
+Seat 6: ceeuentee ($80 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ joins the table at seat #4 
+Rysiff: raises $1.50 to $2.50
+ceeuentee: calls $2.50
+xucruti0116: calls $2.50
+vpetriu: raises $9.50 to $12
+Tibibacsi: folds 
+Rysiff: raises $13 to $25
+ceeuentee: folds 
+xucruti0116: folds 
+vpetriu: raises $79.04 to $104.04 and is all-in
+Rysiff: folds 
+Uncalled bet ($79.04) returned to vpetriu
+vpetriu collected $56 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $56 | Rake $0 
+Seat 1: xucruti0116 (button) folded before Flop
+Seat 2: vpetriu (small blind) collected ($56)
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 5: Rysiff folded before Flop
+Seat 6: ceeuentee folded before Flop
+
+
+
+PokerStars Hand #254409102022:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:52:20 WET [2025/01/16 20:52:20 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($37.07 in chips) 
+Seat 2: vpetriu ($135.04 in chips) 
+Seat 3: Tibibacsi ($105.33 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($77.50 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+ceeuentee: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff collected ($2.50)
+Seat 6: ceeuentee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409104322:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:52:34 WET [2025/01/16 20:52:34 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($37.07 in chips) 
+Seat 2: vpetriu ($135.04 in chips) 
+Seat 3: Tibibacsi ($104.83 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($101.50 in chips) 
+Seat 6: ceeuentee ($77.50 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+ceeuentee: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: calls $2.50
+*** FLOP *** [9s Jh Ah]
+Rysiff: checks 
+xucruti0116: bets $3.56
+Rysiff: folds 
+Uncalled bet ($3.56) returned to xucruti0116
+xucruti0116 collected $7.12 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [9s Jh Ah]
+Seat 1: xucruti0116 collected ($7.12)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded on the Flop
+Seat 6: ceeuentee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409109196:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:53:03 WET [2025/01/16 20:53:03 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($40.69 in chips) 
+Seat 2: vpetriu ($135.04 in chips) 
+Seat 3: Tibibacsi ($104.83 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($77.50 in chips) 
+Rysiff: posts small blind $0.50
+ceeuentee: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+ceeuentee: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 collected ($2.50)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: ceeuentee (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409111856:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:53:19 WET [2025/01/16 20:53:19 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($42.19 in chips) 
+Seat 2: vpetriu ($135.04 in chips) 
+Seat 3: Tibibacsi ($104.83 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($76.50 in chips) 
+ceeuentee: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+ceeuentee: raises $1 to $2
+xucruti0116: calls $1
+*** FLOP *** [6c Js 8h]
+ceeuentee: bets $2.90
+xucruti0116: folds 
+Uncalled bet ($2.90) returned to ceeuentee
+ceeuentee collected $3.80 from pot
+ceeuentee: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [6c Js 8h]
+Seat 1: xucruti0116 (big blind) folded on the Flop
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: ceeuentee (small blind) collected ($3.80)
+
+
+
+PokerStars Hand #254409116928:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:53:50 WET [2025/01/16 20:53:50 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($40.19 in chips) 
+Seat 2: vpetriu ($135.04 in chips) 
+Seat 3: Tibibacsi ($104.83 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($78.30 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: raises $1.50 to $2.50
+ceeuentee: folds 
+xucruti0116: calls $2
+vpetriu: calls $1.50
+*** FLOP *** [5s Ad 3h]
+xucruti0116: checks 
+vpetriu: checks 
+Rysiff: checks 
+*** TURN *** [5s Ad 3h] [4c]
+xucruti0116: checks 
+vpetriu: bets $2.35
+Rysiff: folds 
+xucruti0116: calls $2.35
+*** RIVER *** [5s Ad 3h 4c] [2c]
+xucruti0116: bets $35.34 and is all-in
+vpetriu: folds 
+Uncalled bet ($35.34) returned to xucruti0116
+xucruti0116 collected $11.59 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.20 | Rake $0.61 
+Board [5s Ad 3h 4c 2c]
+Seat 1: xucruti0116 (small blind) collected ($11.59)
+Seat 2: vpetriu (big blind) folded on the River
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded on the Turn
+Seat 6: ceeuentee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409126515:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:54:47 WET [2025/01/16 20:54:47 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($46.93 in chips) 
+Seat 2: vpetriu ($130.19 in chips) 
+Seat 3: Tibibacsi ($104.83 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($78.30 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+ceeuentee: folds 
+xucruti0116: folds 
+vpetriu: raises $2 to $3
+Tibibacsi: folds 
+Uncalled bet ($2) returned to vpetriu
+vpetriu collected $2 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: xucruti0116 (button) folded before Flop (didn't bet)
+Seat 2: vpetriu (small blind) collected ($2)
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: ceeuentee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409129798:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:55:07 WET [2025/01/16 20:55:07 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($46.93 in chips) 
+Seat 2: vpetriu ($131.19 in chips) 
+Seat 3: Tibibacsi ($103.83 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($78.30 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+ceeuentee: raises $2 to $3
+xucruti0116: calls $3
+vpetriu: calls $3
+Tibibacsi: folds 
+GlebanuZZ: folds 
+*** FLOP *** [4d Ah Jd]
+ceeuentee: bets $3.99
+xucruti0116: calls $3.99
+vpetriu: folds 
+*** TURN *** [4d Ah Jd] [3d]
+ceeuentee: bets $7.78
+xucruti0116: folds 
+Uncalled bet ($7.78) returned to ceeuentee
+ceeuentee collected $17.56 from pot
+ceeuentee: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.48 | Rake $0.92 
+Board [4d Ah Jd 3d]
+Seat 1: xucruti0116 folded on the Turn
+Seat 2: vpetriu (button) folded on the Flop
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: ceeuentee collected ($17.56)
+
+
+
+PokerStars Hand #254409137962:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:56:08 WET [2025/01/16 20:56:08 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($39.94 in chips) 
+Seat 2: vpetriu ($128.19 in chips) 
+Seat 3: Tibibacsi ($103.33 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($88.87 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+ceeuentee: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 collected ($2.50)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: ceeuentee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409140458:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:56:27 WET [2025/01/16 20:56:27 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($41.44 in chips) 
+Seat 2: vpetriu ($128.19 in chips) 
+Seat 3: Tibibacsi ($103.33 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($88.87 in chips) 
+Rysiff: posts small blind $0.50
+ceeuentee: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: raises $6.50 to $10
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+ceeuentee: folds 
+xucruti0116: calls $6.50
+*** FLOP *** [Qh 3s 8d]
+xucruti0116: bets $10.21
+vpetriu: raises $39.57 to $49.78
+xucruti0116: calls $21.23 and is all-in
+Uncalled bet ($18.34) returned to vpetriu
+*** TURN *** [Qh 3s 8d] [Ah]
+*** RIVER *** [Qh 3s 8d Ah] [7d]
+*** SHOW DOWN ***
+xucruti0116: shows [Qd Ad] (two pair, Aces and Queens)
+vpetriu: shows [Td Tc] (a pair of Tens)
+xucruti0116 cashed out the hand for $71.98 | Cash Out Fee $1.47
+*** SUMMARY ***
+Total pot $84.38 | Rake $2.50 
+Board [Qh 3s 8d Ah 7d]
+Seat 1: xucruti0116 showed [Qd Ad] and won ($81.88) with two pair, Aces and Queens (pot not awarded as player cashed out)
+Seat 2: vpetriu showed [Td Tc] and lost with a pair of Tens
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: ceeuentee (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409146334:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:57:12 WET [2025/01/16 20:57:12 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($71.98 in chips) 
+Seat 2: vpetriu ($100 in chips) 
+Seat 3: Tibibacsi ($103.33 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($87.87 in chips) 
+ceeuentee: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+ceeuentee: raises $1 to $2
+xucruti0116: calls $1
+*** FLOP *** [As 7s 7d]
+ceeuentee: checks 
+xucruti0116: checks 
+*** TURN *** [As 7s 7d] [Ts]
+ceeuentee: bets $1
+xucruti0116: folds 
+Uncalled bet ($1) returned to ceeuentee
+ceeuentee collected $3.80 from pot
+ceeuentee: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [As 7s 7d Ts]
+Seat 1: xucruti0116 (big blind) folded on the Turn
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: ceeuentee (small blind) collected ($3.80)
+
+
+
+PokerStars Hand #254409149385:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:57:35 WET [2025/01/16 20:57:35 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($69.98 in chips) 
+Seat 2: vpetriu ($100 in chips) 
+Seat 3: Tibibacsi ($103.33 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($89.67 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+ceeuentee: folds 
+xucruti0116: raises $2 to $3
+vpetriu: folds 
+Uncalled bet ($2) returned to xucruti0116
+xucruti0116 collected $2 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: xucruti0116 (small blind) collected ($2)
+Seat 2: vpetriu (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: ceeuentee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409151871:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:57:54 WET [2025/01/16 20:57:54 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($70.98 in chips) 
+Seat 2: vpetriu ($100 in chips) 
+Seat 3: Tibibacsi ($103.33 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($89.67 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+ceeuentee: raises $2 to $3
+xucruti0116: calls $3
+vpetriu: raises $11 to $14
+Tibibacsi: folds 
+ceeuentee: folds 
+xucruti0116: folds 
+Uncalled bet ($11) returned to vpetriu
+vpetriu collected $10 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: xucruti0116 (button) folded before Flop
+Seat 2: vpetriu (small blind) collected ($10)
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: ceeuentee folded before Flop
+
+
+
+PokerStars Hand #254409156901:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:58:32 WET [2025/01/16 20:58:32 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($67.98 in chips) 
+Seat 2: vpetriu ($107 in chips) 
+Seat 3: Tibibacsi ($102.33 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($86.67 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+ceeuentee: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: calls $3
+GlebanuZZ: folds 
+*** FLOP *** [6s Jc 4s]
+Tibibacsi: checks 
+xucruti0116: bets $3.80
+Tibibacsi: raises $66.70 to $70.50
+xucruti0116: folds 
+Uncalled bet ($66.70) returned to Tibibacsi
+Tibibacsi collected $14.82 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.60 | Rake $0.78 
+Board [6s Jc 4s]
+Seat 1: xucruti0116 folded on the Flop
+Seat 2: vpetriu (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) collected ($14.82)
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: ceeuentee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409161856:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:59:10 WET [2025/01/16 20:59:10 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($60.68 in chips) 
+Seat 2: vpetriu ($107 in chips) 
+Seat 3: Tibibacsi ($109.85 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($86.67 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+ceeuentee: raises $2 to $3
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: raises $5 to $8
+GlebanuZZ: folds 
+Rysiff: folds 
+ceeuentee: folds 
+Uncalled bet ($5) returned to Tibibacsi
+Tibibacsi collected $7.50 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) collected ($7.50)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: ceeuentee folded before Flop
+
+
+
+PokerStars Hand #254409164186:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 1:59:28 WET [2025/01/16 20:59:28 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($60.68 in chips) 
+Seat 2: vpetriu ($107 in chips) 
+Seat 3: Tibibacsi ($114.35 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($83.67 in chips) 
+Rysiff: posts small blind $0.50
+ceeuentee: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: folds 
+vpetriu: raises $1 to $2
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+ceeuentee: calls $1
+*** FLOP *** [3d Qc As]
+ceeuentee: checks 
+vpetriu: bets $1.41
+ceeuentee: folds 
+Uncalled bet ($1.41) returned to vpetriu
+vpetriu collected $4.28 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [3d Qc As]
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu collected ($4.28)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: ceeuentee (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254409169878:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:00:10 WET [2025/01/16 21:00:10 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($60.68 in chips) 
+Seat 2: vpetriu ($109.28 in chips) 
+Seat 3: Tibibacsi ($114.35 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($81.67 in chips) 
+ceeuentee: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+ceeuentee: folds 
+Uncalled bet ($0.50) returned to xucruti0116
+xucruti0116 collected $1 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: xucruti0116 (big blind) collected ($1)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: ceeuentee (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409171664:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:00:23 WET [2025/01/16 21:00:23 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($61.18 in chips) 
+Seat 2: vpetriu ($109.28 in chips) 
+Seat 3: Tibibacsi ($114.35 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($81.17 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+ceeuentee: raises $2 to $3
+xucruti0116: folds 
+vpetriu: folds 
+Uncalled bet ($2) returned to ceeuentee
+ceeuentee collected $2.50 from pot
+ceeuentee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 (small blind) folded before Flop
+Seat 2: vpetriu (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: ceeuentee (button) collected ($2.50)
+
+
+
+PokerStars Hand #254409173727:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:00:37 WET [2025/01/16 21:00:37 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($60.68 in chips) 
+Seat 2: vpetriu ($108.28 in chips) 
+Seat 3: Tibibacsi ($114.35 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($82.67 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: raises $1.50 to $2.50
+ceeuentee: folds 
+xucruti0116: calls $2.50
+vpetriu: raises $10.50 to $13
+Tibibacsi: folds 
+Rysiff: folds 
+xucruti0116: folds 
+Uncalled bet ($10.50) returned to vpetriu
+vpetriu collected $8.50 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0 
+Seat 1: xucruti0116 (button) folded before Flop
+Seat 2: vpetriu (small blind) collected ($8.50)
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop
+Seat 6: ceeuentee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409177070:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:00:58 WET [2025/01/16 21:00:58 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($58.18 in chips) 
+Seat 2: vpetriu ($114.28 in chips) 
+Seat 3: Tibibacsi ($113.35 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($82.67 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+ceeuentee: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 collected ($2.50)
+Seat 2: vpetriu (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: ceeuentee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409179380:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:01:13 WET [2025/01/16 21:01:13 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($59.68 in chips) 
+Seat 2: vpetriu ($114.28 in chips) 
+Seat 3: Tibibacsi ($112.85 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($82.67 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+ceeuentee: raises $2 to $3
+xucruti0116: calls $3
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+*** FLOP *** [Qh 9d Ah]
+ceeuentee: checks 
+xucruti0116: checks 
+*** TURN *** [Qh 9d Ah] [Jd]
+ceeuentee: checks 
+xucruti0116: checks 
+*** RIVER *** [Qh 9d Ah Jd] [7s]
+ceeuentee: bets $5.56
+xucruti0116: calls $5.56
+*** SHOW DOWN ***
+ceeuentee: shows [7d 6d] (a pair of Sevens)
+xucruti0116: shows [4s As] (a pair of Aces)
+xucruti0116 collected $17.69 from pot
+*** SUMMARY ***
+Total pot $18.62 | Rake $0.93 
+Board [Qh 9d Ah Jd 7s]
+Seat 1: xucruti0116 showed [4s As] and won ($17.69) with a pair of Aces
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: ceeuentee showed [7d 6d] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #254409186851:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:01:58 WET [2025/01/16 21:01:58 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($68.81 in chips) 
+Seat 2: vpetriu ($114.28 in chips) 
+Seat 3: Tibibacsi ($112.85 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($74.11 in chips) 
+Rysiff: posts small blind $0.50
+ceeuentee: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+ceeuentee: calls $2.50
+*** FLOP *** [3h 3s Ah]
+ceeuentee: checks 
+xucruti0116: checks 
+*** TURN *** [3h 3s Ah] [8d]
+ceeuentee: checks 
+xucruti0116: checks 
+*** RIVER *** [3h 3s Ah 8d] [9d]
+ceeuentee: checks 
+xucruti0116: bets $3.56
+ceeuentee: calls $3.56
+*** SHOW DOWN ***
+xucruti0116: shows [Js Jc] (two pair, Jacks and Threes)
+ceeuentee: mucks hand 
+xucruti0116 collected $13.89 from pot
+*** SUMMARY ***
+Total pot $14.62 | Rake $0.73 
+Board [3h 3s Ah 8d 9d]
+Seat 1: xucruti0116 showed [Js Jc] and won ($13.89) with two pair, Jacks and Threes
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: ceeuentee (big blind) mucked
+
+
+
+PokerStars Hand #254409192415:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:02:33 WET [2025/01/16 21:02:33 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($75.64 in chips) 
+Seat 2: vpetriu ($114.28 in chips) 
+Seat 3: Tibibacsi ($112.85 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($67.05 in chips) 
+ceeuentee: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: raises $1.50 to $2.50
+ceeuentee: folds 
+xucruti0116: calls $1.50
+*** FLOP *** [6d 9s Kc]
+xucruti0116: bets $5.22
+Rysiff: folds 
+Uncalled bet ($5.22) returned to xucruti0116
+xucruti0116 collected $5.22 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [6d 9s Kc]
+Seat 1: xucruti0116 (big blind) collected ($5.22)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded on the Flop
+Seat 6: ceeuentee (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409197142:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:03:01 WET [2025/01/16 21:03:01 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($78.36 in chips) 
+Seat 2: vpetriu ($114.28 in chips) 
+Seat 3: Tibibacsi ($112.85 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($66.55 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: raises $2 to $3
+Rysiff: folds 
+ceeuentee: folds 
+xucruti0116: calls $2.50
+vpetriu: folds 
+*** FLOP *** [8c Ks Qh]
+xucruti0116: checks 
+GlebanuZZ: bets $4.99
+xucruti0116: folds 
+Uncalled bet ($4.99) returned to GlebanuZZ
+GlebanuZZ collected $6.65 from pot
+GlebanuZZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [8c Ks Qh]
+Seat 1: xucruti0116 (small blind) folded on the Flop
+Seat 2: vpetriu (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ collected ($6.65)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: ceeuentee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409201708:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:03:30 WET [2025/01/16 21:03:30 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($75.36 in chips) 
+Seat 2: vpetriu ($113.28 in chips) 
+Seat 3: Tibibacsi ($112.85 in chips) 
+Seat 4: GlebanuZZ ($103.65 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($66.55 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+ceeuentee: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 (button) collected ($2.50)
+Seat 2: vpetriu (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: ceeuentee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409205842:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:03:56 WET [2025/01/16 21:03:56 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($76.86 in chips) 
+Seat 2: vpetriu ($112.78 in chips) 
+Seat 3: Tibibacsi ($111.85 in chips) 
+Seat 4: GlebanuZZ ($103.65 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($66.55 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+ceeuentee: raises $2 to $3
+xucruti0116: calls $3
+vpetriu: calls $3
+Tibibacsi: folds 
+GlebanuZZ: folds 
+*** FLOP *** [Th 9h Kc]
+ceeuentee: bets $4.99
+xucruti0116: raises $9.98 to $14.97
+vpetriu: folds 
+ceeuentee: raises $48.58 to $63.55 and is all-in
+xucruti0116: calls $48.58
+*** TURN *** [Th 9h Kc] [Qd]
+*** RIVER *** [Th 9h Kc Qd] [6d]
+*** SHOW DOWN ***
+ceeuentee: shows [As Ac] (a pair of Aces)
+xucruti0116: shows [Tc 9s] (two pair, Tens and Nines)
+xucruti0116 cashed out the hand for $96.55 | Cash Out Fee $1.97
+ceeuentee cashed out the hand for $35.85 | Cash Out Fee $0.73
+*** SUMMARY ***
+Total pot $137.60 | Rake $2.50 
+Board [Th 9h Kc Qd 6d]
+Seat 1: xucruti0116 showed [Tc 9s] and won ($135.10) with two pair, Tens and Nines (pot not awarded as player cashed out)
+Seat 2: vpetriu (button) folded on the Flop
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: ceeuentee showed [As Ac] and lost with a pair of Aces (cashed out).
+
+
+
+PokerStars Hand #254409214160:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:04:47 WET [2025/01/16 21:04:47 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($106.86 in chips) 
+Seat 2: vpetriu ($109.78 in chips) 
+Seat 3: Tibibacsi ($111.35 in chips) 
+Seat 4: GlebanuZZ ($102.65 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: ceeuentee ($35.85 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+ceeuentee: raises $34.85 to $35.85 and is all-in
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+Uncalled bet ($34.85) returned to ceeuentee
+ceeuentee collected $2.50 from pot
+ceeuentee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: ceeuentee collected ($2.50)
+
+
+
+PokerStars Hand #254409216917:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:05:04 WET [2025/01/16 21:05:04 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 6: ceeuentee ($37.35 in chips) is sitting out
+Seat 1: xucruti0116 ($106.86 in chips) 
+Seat 2: vpetriu ($109.78 in chips) 
+Seat 3: Tibibacsi ($111.35 in chips) 
+Seat 4: GlebanuZZ ($102.15 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Rysiff: posts small blind $0.50
+ceeuentee: is sitting out 
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: folds 
+ceeuentee leaves the table
+GlebanuZZ: raises $2 to $3
+Rysiff: folds 
+MaRKiToScoK joins the table at seat #6 
+xucruti0116: calls $2
+*** FLOP *** [8c Jh Tc]
+xucruti0116: bets $6.18
+GlebanuZZ: folds 
+Uncalled bet ($6.18) returned to xucruti0116
+xucruti0116 collected $6.18 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [8c Jh Tc]
+Seat 6: ceeuentee
+Seat 1: xucruti0116 (big blind) collected ($6.18)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded on the Flop
+Seat 5: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409221588:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:05:32 WET [2025/01/16 21:05:32 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 6: MaRKiToScoK ($100 in chips) is sitting out
+Seat 1: xucruti0116 ($110.04 in chips) 
+Seat 2: vpetriu ($109.78 in chips) 
+Seat 3: Tibibacsi ($111.35 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+xucruti0116: folds 
+Uncalled bet ($0.50) returned to vpetriu
+vpetriu collected $1 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 (small blind) folded before Flop
+Seat 2: vpetriu (big blind) collected ($1)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409223002:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:05:41 WET [2025/01/16 21:05:41 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 6: MaRKiToScoK ($100 in chips) is sitting out
+Seat 1: xucruti0116 ($109.54 in chips) 
+Seat 2: vpetriu ($110.28 in chips) 
+Seat 3: Tibibacsi ($111.35 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+MaRKiToScoK: sits out 
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Uncalled bet ($0.50) returned to Tibibacsi
+Tibibacsi collected $1 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 (button) folded before Flop (didn't bet)
+Seat 2: vpetriu (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) collected ($1)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409225523:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:05:57 WET [2025/01/16 21:05:57 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 6: MaRKiToScoK ($100 in chips) is sitting out
+Seat 1: xucruti0116 ($109.54 in chips) 
+Seat 2: vpetriu ($109.78 in chips) 
+Seat 3: Tibibacsi ($111.85 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+MaRKiToScoK: sits out 
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff collected ($2.50)
+
+
+
+PokerStars Hand #254409228613:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:06:16 WET [2025/01/16 21:06:16 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 6: MaRKiToScoK ($100 in chips) is sitting out
+Seat 1: xucruti0116 ($109.54 in chips) 
+Seat 2: vpetriu ($109.78 in chips) 
+Seat 3: Tibibacsi ($111.35 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($101.50 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+MaRKiToScoK: sits out 
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: calls $2.50
+*** FLOP *** [Td 8s 9c]
+Rysiff: checks 
+xucruti0116: bets $7.12
+Rysiff: folds 
+Uncalled bet ($7.12) returned to xucruti0116
+xucruti0116 collected $7.12 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [Td 8s 9c]
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 collected ($7.12)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254409233358:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:06:45 WET [2025/01/16 21:06:45 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($113.16 in chips) 
+Seat 2: vpetriu ($109.78 in chips) 
+Seat 3: Tibibacsi ($111.35 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: raises $8.50 to $12
+MaRKiToScoK: folds 
+xucruti0116: calls $8.50
+*** FLOP *** [7h Ad 4d]
+Rysiff: bets $7.84
+xucruti0116: folds 
+Uncalled bet ($7.84) returned to Rysiff
+Rysiff collected $23.75 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [7h Ad 4d]
+Seat 1: xucruti0116 folded on the Flop
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) collected ($23.75)
+Seat 6: MaRKiToScoK (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409239596:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:07:24 WET [2025/01/16 21:07:24 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($101.16 in chips) 
+Seat 2: vpetriu ($109.78 in chips) 
+Seat 3: Tibibacsi ($111.35 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($111.75 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: raises $1 to $2
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: folds 
+Uncalled bet ($1) returned to vpetriu
+vpetriu collected $2.50 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 (big blind) folded before Flop
+Seat 2: vpetriu collected ($2.50)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409242531:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:07:43 WET [2025/01/16 21:07:43 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($100.16 in chips) 
+Seat 2: vpetriu ($111.28 in chips) 
+Seat 3: Tibibacsi ($111.35 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($111.75 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $2 to $3
+vpetriu: calls $2
+*** FLOP *** [Js Qs Jc]
+xucruti0116: bets $5.70
+vpetriu: folds 
+Uncalled bet ($5.70) returned to xucruti0116
+xucruti0116 collected $5.70 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Js Qs Jc]
+Seat 1: xucruti0116 (small blind) collected ($5.70)
+Seat 2: vpetriu (big blind) folded on the Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409248317:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:08:19 WET [2025/01/16 21:08:19 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($102.86 in chips) 
+Seat 2: vpetriu ($108.28 in chips) 
+Seat 3: Tibibacsi ($111.35 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($111.75 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $1.25 to $2.25
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: calls $1.25
+*** FLOP *** [7h Ac Qs]
+Tibibacsi: checks 
+MaRKiToScoK: checks 
+*** TURN *** [7h Ac Qs] [8d]
+Tibibacsi: checks 
+MaRKiToScoK: checks 
+*** RIVER *** [7h Ac Qs 8d] [2h]
+Tibibacsi: checks 
+MaRKiToScoK: bets $1.57
+Tibibacsi: folds 
+Uncalled bet ($1.57) returned to MaRKiToScoK
+MaRKiToScoK collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [7h Ac Qs 8d 2h]
+Seat 1: xucruti0116 (button) folded before Flop (didn't bet)
+Seat 2: vpetriu (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded on the River
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK collected ($4.75)
+
+
+
+PokerStars Hand #254409257447:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:09:17 WET [2025/01/16 21:09:17 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($102.86 in chips) 
+Seat 2: vpetriu ($107.78 in chips) 
+Seat 3: Tibibacsi ($109.10 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($111.75 in chips) 
+Seat 6: MaRKiToScoK ($102.50 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 collected ($2.50)
+Seat 2: vpetriu (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409259708:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:09:32 WET [2025/01/16 21:09:32 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($104.36 in chips) 
+Seat 2: vpetriu ($107.78 in chips) 
+Seat 3: Tibibacsi ($108.60 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($111.75 in chips) 
+Seat 6: MaRKiToScoK ($102.50 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) collected ($1)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409261382:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:09:42 WET [2025/01/16 21:09:42 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($104.36 in chips) 
+Seat 2: vpetriu ($107.78 in chips) 
+Seat 3: Tibibacsi ($108.60 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($112.25 in chips) 
+Seat 6: MaRKiToScoK ($102.50 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 collected ($2.50)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409265179:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:10:06 WET [2025/01/16 21:10:06 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($105.86 in chips) 
+Seat 2: vpetriu ($107.78 in chips) 
+Seat 3: Tibibacsi ($108.60 in chips) 
+Seat 4: GlebanuZZ ($100 in chips) 
+Seat 5: Rysiff ($111.75 in chips) 
+Seat 6: MaRKiToScoK ($101.50 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: raises $2 to $3
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: calls $2
+*** FLOP *** [Ts Th Td]
+xucruti0116: checks 
+GlebanuZZ: bets $2.04
+xucruti0116: folds 
+Uncalled bet ($2.04) returned to GlebanuZZ
+GlebanuZZ collected $6.18 from pot
+GlebanuZZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Ts Th Td]
+Seat 1: xucruti0116 (big blind) folded on the Flop
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ collected ($6.18)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409269950:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:10:36 WET [2025/01/16 21:10:36 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($102.86 in chips) 
+Seat 2: vpetriu ($107.78 in chips) 
+Seat 3: Tibibacsi ($108.60 in chips) 
+Seat 4: GlebanuZZ ($103.18 in chips) 
+Seat 5: Rysiff ($111.75 in chips) 
+Seat 6: MaRKiToScoK ($101 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: raises $2 to $3
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: calls $2.50
+vpetriu: folds 
+*** FLOP *** [9h Ts 7d]
+xucruti0116: checks 
+GlebanuZZ: bets $5
+xucruti0116: calls $5
+*** TURN *** [9h Ts 7d] [4s]
+xucruti0116: checks 
+GlebanuZZ: bets $12.15
+xucruti0116: calls $12.15
+*** RIVER *** [9h Ts 7d 4s] [6d]
+xucruti0116: checks 
+GlebanuZZ: checks 
+*** SHOW DOWN ***
+xucruti0116: shows [9s Ah] (a pair of Nines)
+GlebanuZZ: shows [7h 7c] (three of a kind, Sevens)
+GlebanuZZ collected $39.24 from pot
+*** SUMMARY ***
+Total pot $41.30 | Rake $2.06 
+Board [9h Ts 7d 4s 6d]
+Seat 1: xucruti0116 (small blind) showed [9s Ah] and lost with a pair of Nines
+Seat 2: vpetriu (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ showed [7h 7c] and won ($39.24) with three of a kind, Sevens
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409279113:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:11:34 WET [2025/01/16 21:11:34 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($82.71 in chips) 
+Seat 2: vpetriu ($106.78 in chips) 
+Seat 3: Tibibacsi ($108.60 in chips) 
+Seat 4: GlebanuZZ ($122.27 in chips) 
+Seat 5: Rysiff ($111.75 in chips) 
+Seat 6: MaRKiToScoK ($101 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: raises $1.50 to $2.50
+MaRKiToScoK: folds 
+xucruti0116: calls $2.50
+vpetriu: folds 
+Tibibacsi: calls $1.50
+*** FLOP *** [5d 4s Ad]
+Tibibacsi: checks 
+Rysiff: checks 
+xucruti0116: bets $3.80
+Tibibacsi: calls $3.80
+Rysiff: folds 
+*** TURN *** [5d 4s Ad] [5h]
+Tibibacsi: checks 
+xucruti0116: bets $7.41
+Tibibacsi: calls $7.41
+*** RIVER *** [5d 4s Ad 5h] [Kd]
+Tibibacsi: checks 
+xucruti0116: checks 
+*** SHOW DOWN ***
+Tibibacsi: shows [4c Ac] (two pair, Aces and Fives)
+xucruti0116: mucks hand 
+Tibibacsi collected $28.90 from pot
+*** SUMMARY ***
+Total pot $30.42 | Rake $1.52 
+Board [5d 4s Ad 5h Kd]
+Seat 1: xucruti0116 (button) mucked
+Seat 2: vpetriu (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) showed [4c Ac] and won ($28.90) with two pair, Aces and Fives
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded on the Flop
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409291392:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:12:51 WET [2025/01/16 21:12:51 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($69 in chips) 
+Seat 2: vpetriu ($106.28 in chips) 
+Seat 3: Tibibacsi ($123.79 in chips) 
+Seat 4: GlebanuZZ ($122.27 in chips) 
+Seat 5: Rysiff ($109.25 in chips) 
+Seat 6: MaRKiToScoK ($101 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff collected ($2.50)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409295820:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:13:19 WET [2025/01/16 21:13:19 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($69 in chips) 
+Seat 2: vpetriu ($106.28 in chips) 
+Seat 3: Tibibacsi ($123.29 in chips) 
+Seat 4: GlebanuZZ ($121.27 in chips) 
+Seat 5: Rysiff ($110.75 in chips) 
+Seat 6: MaRKiToScoK ($101 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 collected ($2.50)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409298295:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:13:34 WET [2025/01/16 21:13:34 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($70.50 in chips) 
+Seat 2: vpetriu ($106.28 in chips) 
+Seat 3: Tibibacsi ($123.29 in chips) 
+Seat 4: GlebanuZZ ($120.77 in chips) 
+Seat 5: Rysiff ($109.75 in chips) 
+Seat 6: MaRKiToScoK ($101 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 collected ($2.50)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409301543:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:13:55 WET [2025/01/16 21:13:55 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($72 in chips) 
+Seat 2: vpetriu ($106.28 in chips) 
+Seat 3: Tibibacsi ($123.29 in chips) 
+Seat 4: GlebanuZZ ($120.77 in chips) 
+Seat 5: Rysiff ($109.25 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: raises $2 to $3
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $6.50 to $9.50
+GlebanuZZ: folds 
+Uncalled bet ($6.50) returned to xucruti0116
+xucruti0116 collected $6.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: xucruti0116 (big blind) collected ($6.50)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409305668:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:14:21 WET [2025/01/16 21:14:21 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($75.50 in chips) 
+Seat 2: vpetriu ($106.28 in chips) 
+Seat 3: Tibibacsi ($123.29 in chips) 
+Seat 4: GlebanuZZ ($117.77 in chips) 
+Seat 5: Rysiff ($109.25 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $1.50 to $2.50
+xucruti0116: calls $2
+vpetriu: calls $1.50
+*** FLOP *** [5h 2c 9s]
+xucruti0116: checks 
+vpetriu: checks 
+MaRKiToScoK: bets $2.35
+xucruti0116: calls $2.35
+vpetriu: calls $2.35
+*** TURN *** [5h 2c 9s] [4h]
+xucruti0116: checks 
+vpetriu: checks 
+MaRKiToScoK: checks 
+*** RIVER *** [5h 2c 9s 4h] [5s]
+xucruti0116: bets $13.82
+vpetriu: folds 
+MaRKiToScoK: folds 
+Uncalled bet ($13.82) returned to xucruti0116
+xucruti0116 collected $13.82 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.55 | Rake $0.73 
+Board [5h 2c 9s 4h 5s]
+Seat 1: xucruti0116 (small blind) collected ($13.82)
+Seat 2: vpetriu (big blind) folded on the River
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) folded on the River
+
+
+
+PokerStars Hand #254409316049:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:15:27 WET [2025/01/16 21:15:27 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($84.47 in chips) 
+Seat 2: vpetriu ($101.43 in chips) 
+Seat 3: Tibibacsi ($123.29 in chips) 
+Seat 4: GlebanuZZ ($117.77 in chips) 
+Seat 5: Rysiff ($109.25 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 (button) collected ($2.50)
+Seat 2: vpetriu (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409319827:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:15:51 WET [2025/01/16 21:15:51 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($85.97 in chips) 
+Seat 2: vpetriu ($100.93 in chips) 
+Seat 3: Tibibacsi ($122.29 in chips) 
+Seat 4: GlebanuZZ ($117.77 in chips) 
+Seat 5: Rysiff ($109.25 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff collected ($2.50)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409323596:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:16:16 WET [2025/01/16 21:16:16 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($85.97 in chips) 
+Seat 2: vpetriu ($100.93 in chips) 
+Seat 3: Tibibacsi ($121.79 in chips) 
+Seat 4: GlebanuZZ ($116.77 in chips) 
+Seat 5: Rysiff ($110.75 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: raises $7 to $10.50
+GlebanuZZ: folds 
+Rysiff: folds 
+xucruti0116: folds 
+Uncalled bet ($7) returned to Tibibacsi
+Tibibacsi collected $8.50 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) collected ($8.50)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409328724:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:16:49 WET [2025/01/16 21:16:49 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($82.47 in chips) 
+Seat 2: vpetriu ($100.93 in chips) 
+Seat 3: Tibibacsi ($126.79 in chips) 
+Seat 4: GlebanuZZ ($116.27 in chips) 
+Seat 5: Rysiff ($109.75 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+Uncalled bet ($0.50) returned to MaRKiToScoK
+MaRKiToScoK collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) collected ($1)
+
+
+
+PokerStars Hand #254409331370:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:17:06 WET [2025/01/16 21:17:06 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($82.47 in chips) 
+Seat 2: vpetriu ($100.93 in chips) 
+Seat 3: Tibibacsi ($126.79 in chips) 
+Seat 4: GlebanuZZ ($116.27 in chips) 
+Seat 5: Rysiff ($109.25 in chips) 
+Seat 6: MaRKiToScoK ($100.50 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $2 to $3
+xucruti0116: calls $2
+*** FLOP *** [As 4d Js]
+MaRKiToScoK: bets $1.88
+xucruti0116: raises $4.73 to $6.61
+MaRKiToScoK: calls $4.73
+*** TURN *** [As 4d Js] [6c]
+MaRKiToScoK: checks 
+xucruti0116: checks 
+*** RIVER *** [As 4d Js 6c] [3c]
+MaRKiToScoK: checks 
+xucruti0116: bets $18.26
+MaRKiToScoK: calls $18.26
+*** SHOW DOWN ***
+xucruti0116: shows [8d Kc] (high card Ace)
+MaRKiToScoK: shows [4h Jh] (two pair, Jacks and Fours)
+MaRKiToScoK collected $53.24 from pot
+*** SUMMARY ***
+Total pot $55.74 | Rake $2.50 
+Board [As 4d Js 6c 3c]
+Seat 1: xucruti0116 (big blind) showed [8d Kc] and lost with high card Ace
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (small blind) showed [4h Jh] and won ($53.24) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #254409339325:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:17:58 WET [2025/01/16 21:17:58 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($54.60 in chips) 
+Seat 2: vpetriu ($100.93 in chips) 
+Seat 3: Tibibacsi ($126.79 in chips) 
+Seat 4: GlebanuZZ ($116.27 in chips) 
+Seat 5: Rysiff ($109.25 in chips) 
+Seat 6: MaRKiToScoK ($125.87 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $2 to $3
+vpetriu: folds 
+Uncalled bet ($2) returned to xucruti0116
+xucruti0116 collected $2 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: xucruti0116 (small blind) collected ($2)
+Seat 2: vpetriu (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409342382:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:18:18 WET [2025/01/16 21:18:18 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($55.60 in chips) 
+Seat 2: vpetriu ($100 in chips) 
+Seat 3: Tibibacsi ($126.79 in chips) 
+Seat 4: GlebanuZZ ($116.27 in chips) 
+Seat 5: Rysiff ($109.25 in chips) 
+Seat 6: MaRKiToScoK ($125.87 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: raises $10.50 to $14
+Tibibacsi: folds 
+xucruti0116: folds 
+Uncalled bet ($10.50) returned to vpetriu
+vpetriu collected $8 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: xucruti0116 (button) folded before Flop
+Seat 2: vpetriu (small blind) collected ($8)
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409345065:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:18:35 WET [2025/01/16 21:18:35 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($52.10 in chips) 
+Seat 2: vpetriu ($104.50 in chips) 
+Seat 3: Tibibacsi ($125.79 in chips) 
+Seat 4: GlebanuZZ ($116.27 in chips) 
+Seat 5: Rysiff ($109.25 in chips) 
+Seat 6: MaRKiToScoK ($125.87 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: raises $1 to $2
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Uncalled bet ($1) returned to MaRKiToScoK
+MaRKiToScoK collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK collected ($2.50)
+
+
+
+PokerStars Hand #254409348806:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:19:00 WET [2025/01/16 21:19:00 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($52.10 in chips) 
+Seat 2: vpetriu ($104.50 in chips) 
+Seat 3: Tibibacsi ($125.29 in chips) 
+Seat 4: GlebanuZZ ($115.27 in chips) 
+Seat 5: Rysiff ($109.25 in chips) 
+Seat 6: MaRKiToScoK ($127.37 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: raises $1.30 to $2.30
+Tibibacsi: raises $4.70 to $7
+GlebanuZZ: folds 
+Rysiff: folds 
+vpetriu: raises $12 to $19
+Tibibacsi: folds 
+Uncalled bet ($12) returned to vpetriu
+vpetriu collected $15.50 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu collected ($15.50)
+Seat 3: Tibibacsi (button) folded before Flop
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409355939:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:19:47 WET [2025/01/16 21:19:47 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($52.10 in chips) 
+Seat 2: vpetriu ($113 in chips) 
+Seat 3: Tibibacsi ($118.29 in chips) 
+Seat 4: GlebanuZZ ($114.77 in chips) 
+Seat 5: Rysiff ($108.25 in chips) 
+Seat 6: MaRKiToScoK ($127.37 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 collected ($2.50)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409359637:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:20:12 WET [2025/01/16 21:20:12 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($53.60 in chips) 
+Seat 2: vpetriu ($113 in chips) 
+Seat 3: Tibibacsi ($118.29 in chips) 
+Seat 4: GlebanuZZ ($114.77 in chips) 
+Seat 5: Rysiff ($107.75 in chips) 
+Seat 6: MaRKiToScoK ($126.37 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: raises $1.50 to $2.50
+MaRKiToScoK: calls $2
+xucruti0116: calls $1.50
+*** FLOP *** [8h Ad 6s]
+MaRKiToScoK: checks 
+xucruti0116: checks 
+Rysiff: bets $2.35
+MaRKiToScoK: folds 
+xucruti0116: folds 
+Uncalled bet ($2.35) returned to Rysiff
+Rysiff collected $7.12 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [8h Ad 6s]
+Seat 1: xucruti0116 (big blind) folded on the Flop
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) collected ($7.12)
+Seat 6: MaRKiToScoK (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254409366189:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:20:55 WET [2025/01/16 21:20:55 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($51.10 in chips) 
+Seat 2: vpetriu ($113 in chips) 
+Seat 3: Tibibacsi ($118.29 in chips) 
+Seat 4: GlebanuZZ ($114.77 in chips) 
+Seat 5: Rysiff ($112.37 in chips) 
+Seat 6: MaRKiToScoK ($123.87 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: raises $1 to $2
+GlebanuZZ: raises $5 to $7
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+Uncalled bet ($5) returned to GlebanuZZ
+GlebanuZZ collected $5.50 from pot
+GlebanuZZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: xucruti0116 (small blind) folded before Flop
+Seat 2: vpetriu (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop
+Seat 4: GlebanuZZ collected ($5.50)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409369497:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:21:17 WET [2025/01/16 21:21:17 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($50.60 in chips) 
+Seat 2: vpetriu ($112 in chips) 
+Seat 3: Tibibacsi ($116.29 in chips) 
+Seat 4: GlebanuZZ ($118.27 in chips) 
+Seat 5: Rysiff ($112.37 in chips) 
+Seat 6: MaRKiToScoK ($123.87 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: raises $15 to $18.50
+xucruti0116: folds 
+Uncalled bet ($15) returned to Tibibacsi
+Tibibacsi collected $7.50 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: xucruti0116 (button) folded before Flop
+Seat 2: vpetriu (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) collected ($7.50)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409375143:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:21:55 WET [2025/01/16 21:21:55 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($47.10 in chips) 
+Seat 2: vpetriu ($111.50 in chips) 
+Seat 3: Tibibacsi ($120.29 in chips) 
+Seat 4: GlebanuZZ ($118.27 in chips) 
+Seat 5: Rysiff ($112.37 in chips) 
+Seat 6: MaRKiToScoK ($123.87 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+Uncalled bet ($0.50) returned to GlebanuZZ
+GlebanuZZ collected $1 from pot
+GlebanuZZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) collected ($1)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409377634:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:22:11 WET [2025/01/16 21:22:11 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($47.10 in chips) 
+Seat 2: vpetriu ($111.50 in chips) 
+Seat 3: Tibibacsi ($119.79 in chips) 
+Seat 4: GlebanuZZ ($118.77 in chips) 
+Seat 5: Rysiff ($112.37 in chips) 
+Seat 6: MaRKiToScoK ($123.87 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: raises $1.30 to $2.30
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+Uncalled bet ($1.30) returned to vpetriu
+vpetriu collected $2.50 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu collected ($2.50)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409383362:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:22:49 WET [2025/01/16 21:22:49 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($47.10 in chips) 
+Seat 2: vpetriu ($113 in chips) 
+Seat 3: Tibibacsi ($119.79 in chips) 
+Seat 4: GlebanuZZ ($118.27 in chips) 
+Seat 5: Rysiff ($111.37 in chips) 
+Seat 6: MaRKiToScoK ($123.87 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: calls $2.50
+*** FLOP *** [7d 4s 8d]
+MaRKiToScoK: checks 
+xucruti0116: bets $3.56
+MaRKiToScoK: folds 
+Uncalled bet ($3.56) returned to xucruti0116
+xucruti0116 collected $7.12 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [7d 4s 8d]
+Seat 1: xucruti0116 collected ($7.12)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254409387432:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:23:17 WET [2025/01/16 21:23:17 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($50.72 in chips) 
+Seat 2: vpetriu ($113 in chips) 
+Seat 3: Tibibacsi ($119.79 in chips) 
+Seat 4: GlebanuZZ ($118.27 in chips) 
+Seat 5: Rysiff ($110.87 in chips) 
+Seat 6: MaRKiToScoK ($120.37 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: raises $2 to $3
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: calls $2
+*** FLOP *** [Qc Jh Qs]
+xucruti0116: checks 
+GlebanuZZ: bets $2.04
+xucruti0116: folds 
+Uncalled bet ($2.04) returned to GlebanuZZ
+GlebanuZZ collected $6.18 from pot
+GlebanuZZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Qc Jh Qs]
+Seat 1: xucruti0116 (big blind) folded on the Flop
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ collected ($6.18)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409392759:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:23:52 WET [2025/01/16 21:23:52 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($47.72 in chips) 
+Seat 2: vpetriu ($113 in chips) 
+Seat 3: Tibibacsi ($119.79 in chips) 
+Seat 4: GlebanuZZ ($121.45 in chips) 
+Seat 5: Rysiff ($110.87 in chips) 
+Seat 6: MaRKiToScoK ($119.87 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $1.50 to $2.50
+xucruti0116: folds 
+vpetriu: folds 
+Uncalled bet ($1.50) returned to MaRKiToScoK
+MaRKiToScoK collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 (small blind) folded before Flop
+Seat 2: vpetriu (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) collected ($2.50)
+
+
+
+PokerStars Hand #254409395241:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:24:09 WET [2025/01/16 21:24:09 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($47.22 in chips) 
+Seat 2: vpetriu ($112 in chips) 
+Seat 3: Tibibacsi ($119.79 in chips) 
+Seat 4: GlebanuZZ ($121.45 in chips) 
+Seat 5: Rysiff ($110.87 in chips) 
+Seat 6: MaRKiToScoK ($121.37 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $1.25 to $2.25
+xucruti0116: calls $2.25
+vpetriu: folds 
+Tibibacsi: folds 
+*** FLOP *** [4s 3h Qd]
+MaRKiToScoK: bets $1.88
+xucruti0116: calls $1.88
+*** TURN *** [4s 3h Qd] [2s]
+MaRKiToScoK: bets $6.95
+xucruti0116: calls $6.95
+*** RIVER *** [4s 3h Qd 2s] [8c]
+MaRKiToScoK: checks 
+xucruti0116: checks 
+*** SHOW DOWN ***
+MaRKiToScoK: shows [As Ts] (high card Ace)
+xucruti0116: mucks hand 
+MaRKiToScoK collected $22.48 from pot
+*** SUMMARY ***
+Total pot $23.66 | Rake $1.18 
+Board [4s 3h Qd 2s 8c]
+Seat 1: xucruti0116 (button) mucked
+Seat 2: vpetriu (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK showed [As Ts] and won ($22.48) with high card Ace
+
+
+
+PokerStars Hand #254409400293:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:24:43 WET [2025/01/16 21:24:43 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($36.14 in chips) 
+Seat 2: vpetriu ($111.50 in chips) 
+Seat 3: Tibibacsi ($118.79 in chips) 
+Seat 4: GlebanuZZ ($121.45 in chips) 
+Seat 5: Rysiff ($110.87 in chips) 
+Seat 6: MaRKiToScoK ($132.77 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: raises $2 to $3
+GlebanuZZ: folds 
+Uncalled bet ($2) returned to Tibibacsi
+Tibibacsi collected $2 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) collected ($2)
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409403149:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:25:03 WET [2025/01/16 21:25:03 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($36.14 in chips) 
+Seat 2: vpetriu ($111.50 in chips) 
+Seat 3: Tibibacsi ($119.79 in chips) 
+Seat 4: GlebanuZZ ($120.45 in chips) 
+Seat 5: Rysiff ($110.87 in chips) 
+Seat 6: MaRKiToScoK ($132.77 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: raises $1 to $2
+xucruti0116: calls $2
+vpetriu: raises $6 to $8
+Tibibacsi: calls $8
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: folds 
+*** FLOP *** [Kd 3s 6d]
+vpetriu: bets $6.73
+Tibibacsi: calls $6.73
+*** TURN *** [Kd 3s 6d] [9d]
+vpetriu: checks 
+Tibibacsi: bets $8.30
+vpetriu: calls $8.30
+*** RIVER *** [Kd 3s 6d 9d] [7h]
+vpetriu: checks 
+Tibibacsi: checks 
+*** SHOW DOWN ***
+vpetriu: shows [Qs Ks] (a pair of Kings)
+Tibibacsi: mucks hand 
+vpetriu collected $49.06 from pot
+*** SUMMARY ***
+Total pot $51.56 | Rake $2.50 
+Board [Kd 3s 6d 9d 7h]
+Seat 1: xucruti0116 folded before Flop
+Seat 2: vpetriu showed [Qs Ks] and won ($49.06) with a pair of Kings
+Seat 3: Tibibacsi (button) mucked
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK folded before Flop
+
+
+
+PokerStars Hand #254409413891:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:26:16 WET [2025/01/16 21:26:16 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($34.14 in chips) 
+Seat 2: vpetriu ($137.53 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($119.95 in chips) 
+Seat 5: Rysiff ($109.87 in chips) 
+Seat 6: MaRKiToScoK ($130.77 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: raises $2 to $3
+Rysiff: raises $9 to $12
+MaRKiToScoK: raises $118.77 to $130.77 and is all-in
+GlebanuZZ: folds 
+Rysiff: folds 
+Uncalled bet ($118.77) returned to MaRKiToScoK
+MaRKiToScoK collected $27 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) collected ($27)
+
+
+
+PokerStars Hand #254409418326:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:26:47 WET [2025/01/16 21:26:47 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($34.14 in chips) 
+Seat 2: vpetriu ($137.53 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($116.95 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($145.77 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: raises $1 to $2
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: calls $1.50
+xucruti0116: calls $1
+*** FLOP *** [6d 9c 3h]
+MaRKiToScoK: checks 
+xucruti0116: checks 
+Tibibacsi: checks 
+*** TURN *** [6d 9c 3h] [8s]
+MaRKiToScoK: checks 
+xucruti0116: bets $5.70
+Tibibacsi: folds 
+MaRKiToScoK: folds 
+Uncalled bet ($5.70) returned to xucruti0116
+xucruti0116 collected $5.70 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6d 9c 3h 8s]
+Seat 1: xucruti0116 (big blind) collected ($5.70)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded on the Turn
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254409425609:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:27:38 WET [2025/01/16 21:27:38 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($37.84 in chips) 
+Seat 2: vpetriu ($137.53 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($116.95 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($143.77 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: raises $1.50 to $2.50
+MaRKiToScoK: calls $2.50
+xucruti0116: raises $8.50 to $11
+vpetriu: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $132.77 to $143.77 and is all-in
+xucruti0116: calls $26.84 and is all-in
+Uncalled bet ($105.93) returned to MaRKiToScoK
+*** FLOP *** [2d 7c 4s]
+*** TURN *** [2d 7c 4s] [7d]
+*** RIVER *** [2d 7c 4s 7d] [Qs]
+*** SHOW DOWN ***
+xucruti0116: shows [Ac As] (two pair, Aces and Sevens)
+MaRKiToScoK: shows [Qd Ad] (two pair, Queens and Sevens)
+xucruti0116 cashed out the hand for $65.73 | Cash Out Fee $1.34
+*** SUMMARY ***
+Total pot $79.18 | Rake $2.50 
+Board [2d 7c 4s 7d Qs]
+Seat 1: xucruti0116 (small blind) showed [Ac As] and won ($76.68) with two pair, Aces and Sevens (pot not awarded as player cashed out)
+Seat 2: vpetriu (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop
+Seat 6: MaRKiToScoK (button) showed [Qd Ad] and lost with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #254409435731:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:28:46 WET [2025/01/16 21:28:46 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($65.73 in chips) 
+Seat 2: vpetriu ($136.53 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($116.95 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($105.93 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 (button) collected ($2.50)
+Seat 2: vpetriu (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409438589:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:29:06 WET [2025/01/16 21:29:06 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($67.23 in chips) 
+Seat 2: vpetriu ($136.03 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($116.95 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($105.93 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: raises $1.50 to $2.50
+Tibibacsi: folds 
+GlebanuZZ: calls $1.50
+*** FLOP *** [7s Qh 4s]
+GlebanuZZ: checks 
+vpetriu: bets $1.72
+GlebanuZZ: calls $1.72
+*** TURN *** [7s Qh 4s] [Kd]
+GlebanuZZ: checks 
+vpetriu: bets $12.74
+GlebanuZZ: folds 
+Uncalled bet ($12.74) returned to vpetriu
+vpetriu collected $8.49 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [7s Qh 4s Kd]
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu (button) collected ($8.49)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded on the Turn
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409445320:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:29:52 WET [2025/01/16 21:29:52 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($67.23 in chips) 
+Seat 2: vpetriu ($140.30 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($112.73 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($105.93 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: raises $4.50 to $8
+GlebanuZZ: folds 
+Rysiff: folds 
+xucruti0116: calls $4.50
+*** FLOP *** [3s 6d 5d]
+xucruti0116: checks 
+Tibibacsi: checks 
+*** TURN *** [3s 6d 5d] [Ac]
+xucruti0116: checks 
+Tibibacsi: checks 
+*** RIVER *** [3s 6d 5d Ac] [4s]
+xucruti0116: bets $16.62
+Tibibacsi: folds 
+Uncalled bet ($16.62) returned to xucruti0116
+xucruti0116 collected $16.62 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.88 
+Board [3s 6d 5d Ac 4s]
+Seat 1: xucruti0116 collected ($16.62)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded on the River
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409454683:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:30:55 WET [2025/01/16 21:30:55 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 6: MaRKiToScoK ($105.93 in chips) is sitting out
+Seat 1: xucruti0116 ($75.85 in chips) 
+Seat 2: vpetriu ($140.30 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($112.23 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: is sitting out 
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: raises $1.50 to $2.50
+GlebanuZZ: folds 
+Rysiff: folds 
+xucruti0116: calls $1.50
+*** FLOP *** [As 5d 6h]
+xucruti0116: checks 
+Tibibacsi: bets $1.31
+xucruti0116: folds 
+Uncalled bet ($1.31) returned to Tibibacsi
+Tibibacsi collected $5.22 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [As 5d 6h]
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 (big blind) folded on the Flop
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi collected ($5.22)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409459386:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:31:26 WET [2025/01/16 21:31:26 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 6: MaRKiToScoK ($105.93 in chips) is sitting out
+Seat 1: xucruti0116 ($73.35 in chips) 
+Seat 2: vpetriu ($140.30 in chips) 
+Seat 3: Tibibacsi ($102.72 in chips) 
+Seat 4: GlebanuZZ ($112.23 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: raises $1.50 to $2.50
+xucruti0116: raises $6 to $8.50
+vpetriu: folds 
+Rysiff: calls $6
+*** FLOP *** [2s Th 7c]
+xucruti0116: checks 
+Rysiff: checks 
+*** TURN *** [2s Th 7c] [8c]
+xucruti0116: bets $17.10
+Rysiff: folds 
+Uncalled bet ($17.10) returned to xucruti0116
+xucruti0116 collected $17.10 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [2s Th 7c 8c]
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 (small blind) collected ($17.10)
+Seat 2: vpetriu (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded on the Turn
+
+
+
+PokerStars Hand #254409466241:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:32:13 WET [2025/01/16 21:32:13 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 6: MaRKiToScoK ($105.93 in chips) is sitting out
+Seat 1: xucruti0116 ($81.95 in chips) 
+Seat 2: vpetriu ($139.30 in chips) 
+Seat 3: Tibibacsi ($102.72 in chips) 
+Seat 4: GlebanuZZ ($112.23 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Uncalled bet ($0.50) returned to Tibibacsi
+Tibibacsi collected $1 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 (button) folded before Flop (didn't bet)
+Seat 2: vpetriu (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) collected ($1)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409468773:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:32:30 WET [2025/01/16 21:32:30 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 6: MaRKiToScoK ($105.93 in chips) is sitting out
+Seat 1: xucruti0116 ($81.95 in chips) 
+Seat 2: vpetriu ($138.80 in chips) 
+Seat 3: Tibibacsi ($103.22 in chips) 
+Seat 4: GlebanuZZ ($112.23 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: raises $11.50 to $15
+xucruti0116: calls $11.50
+*** FLOP *** [As 3c Td]
+GlebanuZZ: bets $9.57
+xucruti0116: folds 
+Uncalled bet ($9.57) returned to GlebanuZZ
+GlebanuZZ collected $28.98 from pot
+GlebanuZZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.50 | Rake $1.52 
+Board [As 3c Td]
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 folded on the Flop
+Seat 2: vpetriu (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) collected ($28.98)
+Seat 5: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409473376:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:33:01 WET [2025/01/16 21:33:01 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 6: MaRKiToScoK ($105.93 in chips) is sitting out
+Seat 1: xucruti0116 ($66.95 in chips) 
+Seat 2: vpetriu ($138.80 in chips) 
+Seat 3: Tibibacsi ($102.72 in chips) 
+Seat 4: GlebanuZZ ($126.21 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 collected ($2.50)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409475378:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:33:14 WET [2025/01/16 21:33:14 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 6: MaRKiToScoK ($105.93 in chips) is sitting out
+Seat 1: xucruti0116 ($68.45 in chips) 
+Seat 2: vpetriu ($138.80 in chips) 
+Seat 3: Tibibacsi ($102.72 in chips) 
+Seat 4: GlebanuZZ ($125.71 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Rysiff: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: raises $1.50 to $2.50
+GlebanuZZ: folds 
+Rysiff: folds 
+xucruti0116: calls $1.50
+*** FLOP *** [Jc Qh 7h]
+xucruti0116: checks 
+Tibibacsi: bets $1.72
+xucruti0116: calls $1.72
+*** TURN *** [Jc Qh 7h] [Qd]
+xucruti0116: bets $8.49
+Tibibacsi: folds 
+Uncalled bet ($8.49) returned to xucruti0116
+xucruti0116 collected $8.49 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [Jc Qh 7h Qd]
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 (big blind) collected ($8.49)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded on the Turn
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409482083:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:34:00 WET [2025/01/16 21:34:00 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 6: MaRKiToScoK ($105.93 in chips) is sitting out
+Seat 1: xucruti0116 ($72.72 in chips) 
+Seat 2: vpetriu ($138.80 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($125.71 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+xucruti0116: raises $2 to $3
+vpetriu: calls $2
+*** FLOP *** [2d Td Jh]
+xucruti0116: bets $5.70
+vpetriu: calls $5.70
+*** TURN *** [2d Td Jh] [2c]
+xucruti0116: bets $8.27
+vpetriu: calls $8.27
+*** RIVER *** [2d Td Jh 2c] [8s]
+xucruti0116: bets $32.24
+vpetriu: folds 
+Uncalled bet ($32.24) returned to xucruti0116
+xucruti0116 collected $32.24 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $33.94 | Rake $1.70 
+Board [2d Td Jh 2c 8s]
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 (small blind) collected ($32.24)
+Seat 2: vpetriu (big blind) folded on the River
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409488512:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:34:43 WET [2025/01/16 21:34:43 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 6: MaRKiToScoK ($105.93 in chips) is sitting out
+Seat 1: xucruti0116 ($87.99 in chips) 
+Seat 2: vpetriu ($121.83 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($125.71 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: raises $2 to $3
+Rysiff: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+Uncalled bet ($2) returned to GlebanuZZ
+GlebanuZZ collected $2.50 from pot
+GlebanuZZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 (button) folded before Flop (didn't bet)
+Seat 2: vpetriu (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ collected ($2.50)
+Seat 5: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409491067:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:35:01 WET [2025/01/16 21:35:01 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 6: MaRKiToScoK ($105.93 in chips) is sitting out
+Seat 1: xucruti0116 ($87.99 in chips) 
+Seat 2: vpetriu ($121.33 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($127.21 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+xucruti0116: folds 
+vpetriu: raises $1.50 to $2.50
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Uncalled bet ($1.50) returned to vpetriu
+vpetriu collected $2.50 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu (button) collected ($2.50)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409492708:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:35:12 WET [2025/01/16 21:35:12 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 6: MaRKiToScoK ($105.93 in chips) is sitting out
+Seat 1: xucruti0116 ($87.99 in chips) 
+Seat 2: vpetriu ($122.83 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($126.21 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+MaRKiToScoK: sits out 
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: calls $2.50
+*** FLOP *** [3c Ts 2d]
+Rysiff: checks 
+xucruti0116: bets $7.12
+Rysiff: calls $7.12
+*** TURN *** [3c Ts 2d] [As]
+Rysiff: checks 
+xucruti0116: bets $20.65
+Rysiff: calls $20.65
+*** RIVER *** [3c Ts 2d As] [6h]
+Rysiff: checks 
+xucruti0116: bets $56.72 and is all-in
+Rysiff: calls $56.72
+*** SHOW DOWN ***
+xucruti0116: shows [Ah Th] (two pair, Aces and Tens)
+Rysiff: shows [Tc Jc] (a pair of Tens)
+xucruti0116 collected $173.98 from pot
+*** SUMMARY ***
+Total pot $176.48 | Rake $2.50 
+Board [3c Ts 2d As 6h]
+Seat 6: MaRKiToScoK
+Seat 1: xucruti0116 showed [Ah Th] and won ($173.98) with two pair, Aces and Tens
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) showed [Tc Jc] and lost with a pair of Tens
+
+
+
+PokerStars Hand #254409501270:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:36:10 WET [2025/01/16 21:36:10 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($173.98 in chips) 
+Seat 2: vpetriu ($122.83 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($125.71 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($105.93 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: raises $9.50 to $13
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: calls $9.50
+*** FLOP *** [Qh 4h 6d]
+xucruti0116: checks 
+GlebanuZZ: bets $8.61
+xucruti0116: calls $8.61
+*** TURN *** [Qh 4h 6d] [Ad]
+xucruti0116: checks 
+GlebanuZZ: checks 
+*** RIVER *** [Qh 4h 6d Ad] [2c]
+xucruti0116: bets $42.48
+GlebanuZZ: calls $42.48
+*** SHOW DOWN ***
+xucruti0116: shows [6h 5c] (a pair of Sixes)
+GlebanuZZ: shows [Kh As] (a pair of Aces)
+GlebanuZZ collected $127.18 from pot
+*** SUMMARY ***
+Total pot $129.68 | Rake $2.50 
+Board [Qh 4h 6d Ad 2c]
+Seat 1: xucruti0116 showed [6h 5c] and lost with a pair of Sixes
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) showed [Kh As] and won ($127.18) with a pair of Aces
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409510444:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:37:13 WET [2025/01/16 21:37:13 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($109.89 in chips) 
+Seat 2: vpetriu ($122.83 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($188.80 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($104.93 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: raises $1 to $2
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: calls $1
+*** FLOP *** [5h Ac 2s]
+xucruti0116: checks 
+vpetriu: bets $1.41
+xucruti0116: calls $1.41
+*** TURN *** [5h Ac 2s] [6c]
+xucruti0116: checks 
+vpetriu: checks 
+*** RIVER *** [5h Ac 2s 6c] [8c]
+xucruti0116: bets $6.95
+vpetriu: raises $15.64 to $22.59
+xucruti0116: calls $15.64
+*** SHOW DOWN ***
+vpetriu: shows [8s As] (two pair, Aces and Eights)
+xucruti0116: shows [4d 7c] (a straight, Four to Eight)
+xucruti0116 collected $50 from pot
+*** SUMMARY ***
+Total pot $52.50 | Rake $2.50 
+Board [5h Ac 2s 6c 8c]
+Seat 1: xucruti0116 (big blind) showed [4d 7c] and won ($50) with a straight, Four to Eight
+Seat 2: vpetriu showed [8s As] and lost with two pair, Aces and Eights
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409515753:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:37:49 WET [2025/01/16 21:37:49 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($133.89 in chips) 
+Seat 2: vpetriu ($100 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($188.80 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($104.43 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $1.50 to $2.50
+xucruti0116: calls $2
+vpetriu: folds 
+*** FLOP *** [Qs 3h Qc]
+xucruti0116: checks 
+MaRKiToScoK: checks 
+*** TURN *** [Qs 3h Qc] [Kd]
+xucruti0116: bets $5.70
+MaRKiToScoK: calls $5.70
+*** RIVER *** [Qs 3h Qc Kd] [3s]
+xucruti0116: bets $16.53
+MaRKiToScoK: raises $79.70 to $96.23 and is all-in
+xucruti0116: folds 
+Uncalled bet ($79.70) returned to MaRKiToScoK
+MaRKiToScoK collected $47.96 from pot
+*** SUMMARY ***
+Total pot $50.46 | Rake $2.50 
+Board [Qs 3h Qc Kd 3s]
+Seat 1: xucruti0116 (small blind) folded on the River
+Seat 2: vpetriu (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) collected ($47.96)
+
+
+
+PokerStars Hand #254409521774:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:38:30 WET [2025/01/16 21:38:30 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($109.16 in chips) 
+Seat 2: vpetriu ($100 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($188.80 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($127.66 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $1.25 to $2.25
+xucruti0116: calls $2.25
+vpetriu: raises $8.75 to $11
+Tibibacsi: folds 
+MaRKiToScoK: folds 
+xucruti0116: folds 
+Uncalled bet ($8.75) returned to vpetriu
+vpetriu collected $7.75 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.75 | Rake $0 
+Seat 1: xucruti0116 (button) folded before Flop
+Seat 2: vpetriu (small blind) collected ($7.75)
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop
+
+
+
+PokerStars Hand #254409524466:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:38:48 WET [2025/01/16 21:38:48 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($106.91 in chips) 
+Seat 2: vpetriu ($105.50 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($188.80 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($125.41 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+Uncalled bet ($0.50) returned to GlebanuZZ
+GlebanuZZ collected $1 from pot
+GlebanuZZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) collected ($1)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409528122:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:39:13 WET [2025/01/16 21:39:13 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($106.91 in chips) 
+Seat 2: vpetriu ($105.50 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($189.30 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($125.41 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: raises $1 to $2
+xucruti0116: raises $5.50 to $7.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: calls $5.50
+*** FLOP *** [6d 4s Th]
+MaRKiToScoK: checks 
+xucruti0116: bets $7.84
+MaRKiToScoK: calls $7.84
+*** TURN *** [6d 4s Th] [5h]
+MaRKiToScoK: checks 
+xucruti0116: bets $15.29
+MaRKiToScoK: calls $15.29
+*** RIVER *** [6d 4s Th 5h] [Qs]
+MaRKiToScoK: checks 
+xucruti0116: checks 
+*** SHOW DOWN ***
+MaRKiToScoK: shows [8s Ts] (a pair of Tens)
+xucruti0116: mucks hand 
+MaRKiToScoK collected $60.26 from pot
+*** SUMMARY ***
+Total pot $62.76 | Rake $2.50 
+Board [6d 4s Th 5h Qs]
+Seat 1: xucruti0116 mucked
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK showed [8s Ts] and won ($60.26) with a pair of Tens
+
+
+
+PokerStars Hand #254409534772:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:39:57 WET [2025/01/16 21:39:57 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($76.28 in chips) 
+Seat 2: vpetriu ($105.50 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($188.80 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($155.04 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: raises $5.50 to $9
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: calls $5.50
+*** FLOP *** [Td 4s As]
+xucruti0116: checks 
+vpetriu: checks 
+*** TURN *** [Td 4s As] [2h]
+xucruti0116: bets $18.52
+vpetriu: calls $18.52
+*** RIVER *** [Td 4s As 2h] [Qd]
+xucruti0116: bets $48.76 and is all-in
+vpetriu: folds 
+Uncalled bet ($48.76) returned to xucruti0116
+xucruti0116 collected $54.04 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $56.54 | Rake $2.50 
+Board [Td 4s As 2h Qd]
+Seat 1: xucruti0116 collected ($54.04)
+Seat 2: vpetriu folded on the River
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409540730:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:40:39 WET [2025/01/16 21:40:39 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($102.80 in chips) 
+Seat 2: vpetriu ($100 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($188.80 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($154.04 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: raises $1.50 to $2.50
+MaRKiToScoK: folds 
+xucruti0116: calls $1.50
+*** FLOP *** [4c 7s 8s]
+xucruti0116: checks 
+Rysiff: checks 
+*** TURN *** [4c 7s 8s] [Tc]
+xucruti0116: bets $5.22
+Rysiff: calls $5.22
+*** RIVER *** [4c 7s 8s Tc] [7c]
+xucruti0116: bets $15.14
+Rysiff: calls $15.14
+*** SHOW DOWN ***
+xucruti0116: shows [Td 4h] (two pair, Tens and Sevens)
+Rysiff: mucks hand 
+xucruti0116 collected $43.91 from pot
+*** SUMMARY ***
+Total pot $46.22 | Rake $2.31 
+Board [4c 7s 8s Tc 7c]
+Seat 1: xucruti0116 (big blind) showed [Td 4h] and won ($43.91) with two pair, Tens and Sevens
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) mucked
+Seat 6: MaRKiToScoK (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409546341:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:41:18 WET [2025/01/16 21:41:18 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($123.85 in chips) 
+Seat 2: vpetriu ($100 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($188.80 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($153.54 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $1.50 to $2.50
+xucruti0116: folds 
+vpetriu: raises $9.50 to $12
+MaRKiToScoK: folds 
+Uncalled bet ($9.50) returned to vpetriu
+vpetriu collected $5.50 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: xucruti0116 (small blind) folded before Flop
+Seat 2: vpetriu (big blind) collected ($5.50)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) folded before Flop
+
+
+
+PokerStars Hand #254409549061:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:41:36 WET [2025/01/16 21:41:36 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($123.35 in chips) 
+Seat 2: vpetriu ($103 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($188.80 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($151.04 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: calls $2.50
+*** FLOP *** [4c 9d 6c]
+Tibibacsi: checks 
+xucruti0116: bets $7.12
+Tibibacsi: folds 
+Uncalled bet ($7.12) returned to xucruti0116
+xucruti0116 collected $7.12 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [4c 9d 6c]
+Seat 1: xucruti0116 (button) collected ($7.12)
+Seat 2: vpetriu (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded on the Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409553702:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:42:07 WET [2025/01/16 21:42:07 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($126.97 in chips) 
+Seat 2: vpetriu ($102.50 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($188.80 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($151.04 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: raises $1.50 to $2.50
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Uncalled bet ($1.50) returned to vpetriu
+vpetriu collected $2.50 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu (button) collected ($2.50)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409556448:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:42:25 WET [2025/01/16 21:42:25 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($126.97 in chips) 
+Seat 2: vpetriu ($104 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($187.80 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($151.04 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: raises $2 to $3
+Rysiff: folds 
+Uncalled bet ($2) returned to GlebanuZZ
+GlebanuZZ collected $2 from pot
+GlebanuZZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) collected ($2)
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409560274:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:42:51 WET [2025/01/16 21:42:51 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($126.97 in chips) 
+Seat 2: vpetriu ($104 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($188.80 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($151.04 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: raises $5.50 to $9
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: calls $5.50
+*** FLOP *** [9h As 8c]
+xucruti0116: checks 
+vpetriu: checks 
+*** TURN *** [9h As 8c] [Th]
+xucruti0116: checks 
+vpetriu: bets $13.88
+xucruti0116: calls $13.88
+*** RIVER *** [9h As 8c Th] [4s]
+xucruti0116: checks 
+vpetriu: bets $33.68
+xucruti0116: folds 
+Uncalled bet ($33.68) returned to vpetriu
+vpetriu collected $44.90 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $47.26 | Rake $2.36 
+Board [9h As 8c Th 4s]
+Seat 1: xucruti0116 folded on the River
+Seat 2: vpetriu collected ($44.90)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409566563:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:43:34 WET [2025/01/16 21:43:34 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($104.09 in chips) 
+Seat 2: vpetriu ($126.02 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($188.80 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($150.04 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: raises $1 to $2
+Tibibacsi: folds 
+GlebanuZZ: raises $5 to $7
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Uncalled bet ($5) returned to GlebanuZZ
+GlebanuZZ collected $5.50 from pot
+GlebanuZZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: xucruti0116 (big blind) folded before Flop
+Seat 2: vpetriu folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ collected ($5.50)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409569233:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:43:52 WET [2025/01/16 21:43:52 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($103.09 in chips) 
+Seat 2: vpetriu ($124.02 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($192.30 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($149.54 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: raises $1 to $2
+GlebanuZZ: folds 
+Rysiff: raises $5 to $7
+MaRKiToScoK: folds 
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: folds 
+Uncalled bet ($5) returned to Rysiff
+Rysiff collected $5.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: xucruti0116 (small blind) folded before Flop
+Seat 2: vpetriu (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff collected ($5.50)
+Seat 6: MaRKiToScoK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409572900:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:44:18 WET [2025/01/16 21:44:18 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($102.59 in chips) 
+Seat 2: vpetriu ($123.02 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($192.30 in chips) 
+Seat 5: Rysiff ($103.50 in chips) 
+Seat 6: MaRKiToScoK ($149.54 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: raises $8.50 to $12
+Tibibacsi: folds 
+xucruti0116: folds 
+Uncalled bet ($8.50) returned to vpetriu
+vpetriu collected $8 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: xucruti0116 (button) folded before Flop
+Seat 2: vpetriu (small blind) collected ($8)
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409576086:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:44:40 WET [2025/01/16 21:44:40 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($99.09 in chips) 
+Seat 2: vpetriu ($127.52 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($192.30 in chips) 
+Seat 5: Rysiff ($103.50 in chips) 
+Seat 6: MaRKiToScoK ($149.54 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: calls $3.50
+Tibibacsi: raises $10.50 to $14
+GlebanuZZ: folds 
+xucruti0116: calls $10.50
+vpetriu: calls $10.50
+*** FLOP *** [Ad Ts As]
+Tibibacsi: bets $4.50
+xucruti0116: folds 
+vpetriu: calls $4.50
+*** TURN *** [Ad Ts As] [9c]
+Tibibacsi: bets $10
+vpetriu: calls $10
+*** RIVER *** [Ad Ts As 9c] [2s]
+Tibibacsi: checks 
+vpetriu: bets $99.02 and is all-in
+Tibibacsi: folds 
+Uncalled bet ($99.02) returned to vpetriu
+vpetriu collected $69.50 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $72 | Rake $2.50 
+Board [Ad Ts As 9c 2s]
+Seat 1: xucruti0116 folded on the Flop
+Seat 2: vpetriu (button) collected ($69.50)
+Seat 3: Tibibacsi (small blind) folded on the River
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409592438:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:46:33 WET [2025/01/16 21:46:33 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($85.09 in chips) 
+Seat 2: vpetriu ($168.52 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($191.30 in chips) 
+Seat 5: Rysiff ($103.50 in chips) 
+Seat 6: MaRKiToScoK ($149.54 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 collected ($2.50)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409595360:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:46:53 WET [2025/01/16 21:46:53 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($86.59 in chips) 
+Seat 2: vpetriu ($168.52 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($190.80 in chips) 
+Seat 5: Rysiff ($102.50 in chips) 
+Seat 6: MaRKiToScoK ($149.54 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+vpetriu: raises $5.50 to $9
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: calls $8
+xucruti0116: calls $5.50
+*** FLOP *** [8h 7d 9h]
+MaRKiToScoK: checks 
+xucruti0116: checks 
+vpetriu: checks 
+*** TURN *** [8h 7d 9h] [3d]
+MaRKiToScoK: bets $19.59
+xucruti0116: calls $19.59
+vpetriu: folds 
+*** RIVER *** [8h 7d 9h 3d] [5h]
+MaRKiToScoK: checks 
+xucruti0116: bets $32.09
+MaRKiToScoK: calls $32.09
+*** SHOW DOWN ***
+xucruti0116: shows [6s 3s] (a straight, Five to Nine)
+MaRKiToScoK: mucks hand 
+xucruti0116 collected $128.36 from pot
+*** SUMMARY ***
+Total pot $130.86 | Rake $2.50 
+Board [8h 7d 9h 3d 5h]
+Seat 1: xucruti0116 showed [6s 3s] and won ($128.36) with a straight, Five to Nine
+Seat 2: vpetriu folded on the Turn
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) mucked
+
+
+
+PokerStars Hand #254409604735:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:47:58 WET [2025/01/16 21:47:58 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($154.27 in chips) 
+Seat 2: vpetriu ($159.52 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($190.80 in chips) 
+Seat 5: Rysiff ($102 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: raises $1 to $2
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $4.50 to $6.50
+vpetriu: calls $4.50
+*** FLOP *** [Kd 6d 2c]
+xucruti0116: bets $12.82
+vpetriu: folds 
+Uncalled bet ($12.82) returned to xucruti0116
+xucruti0116 collected $12.82 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.68 
+Board [Kd 6d 2c]
+Seat 1: xucruti0116 (big blind) collected ($12.82)
+Seat 2: vpetriu folded on the Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409607983:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:48:20 WET [2025/01/16 21:48:20 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($160.59 in chips) 
+Seat 2: vpetriu ($153.02 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($190.80 in chips) 
+Seat 5: Rysiff ($102 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $1.50 to $2.50
+xucruti0116: calls $2
+vpetriu: calls $1.50
+*** FLOP *** [3c 4h 2d]
+xucruti0116: bets $7.12
+vpetriu: calls $7.12
+MaRKiToScoK: folds 
+*** TURN *** [3c 4h 2d] [Td]
+xucruti0116: checks 
+vpetriu: checks 
+*** RIVER *** [3c 4h 2d Td] [Qc]
+xucruti0116: checks 
+vpetriu: checks 
+*** SHOW DOWN ***
+xucruti0116: shows [2c 5c] (a pair of Deuces)
+vpetriu: shows [3d Ah] (a pair of Threes)
+vpetriu collected $20.65 from pot
+*** SUMMARY ***
+Total pot $21.74 | Rake $1.09 
+Board [3c 4h 2d Td Qc]
+Seat 1: xucruti0116 (small blind) showed [2c 5c] and lost with a pair of Deuces
+Seat 2: vpetriu (big blind) showed [3d Ah] and won ($20.65) with a pair of Threes
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) folded on the Flop
+
+
+
+PokerStars Hand #254409612414:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:48:51 WET [2025/01/16 21:48:51 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($150.97 in chips) 
+Seat 2: vpetriu ($164.05 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: GlebanuZZ ($190.80 in chips) 
+Seat 5: Rysiff ($102 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+vpetriu: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: raises $1.50 to $2.50
+MaRKiToScoK: folds 
+xucruti0116: raises $6.50 to $9
+vpetriu: folds 
+Tibibacsi: folds 
+Rysiff: calls $6.50
+*** FLOP *** [7h 5h Ad]
+Rysiff: checks 
+xucruti0116: bets $9.26
+Rysiff: folds 
+Uncalled bet ($9.26) returned to xucruti0116
+xucruti0116 collected $18.52 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [7h 5h Ad]
+Seat 1: xucruti0116 (button) collected ($18.52)
+Seat 2: vpetriu (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded on the Flop
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409615943:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:49:15 WET [2025/01/16 21:49:15 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 4: GlebanuZZ ($190.80 in chips) is sitting out
+Seat 1: xucruti0116 ($160.49 in chips) 
+Seat 2: vpetriu ($163.55 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: is sitting out 
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+vpetriu: folds 
+Tibibacsi: raises $8.50 to $12
+Rysiff: folds 
+xucruti0116: calls $8.50
+*** FLOP *** [9c 9d 8d]
+Tibibacsi: bets $5.94
+xucruti0116: calls $5.94
+*** TURN *** [9c 9d 8d] [Td]
+Tibibacsi: checks 
+xucruti0116: checks 
+*** RIVER *** [9c 9d 8d Td] [Js]
+Tibibacsi: checks 
+xucruti0116: checks 
+*** SHOW DOWN ***
+Tibibacsi: shows [Ks Ac] (a pair of Nines)
+xucruti0116: shows [Jh As] (two pair, Jacks and Nines)
+xucruti0116 collected $35.04 from pot
+*** SUMMARY ***
+Total pot $36.88 | Rake $1.84 
+Board [9c 9d 8d Td Js]
+Seat 4: GlebanuZZ
+Seat 1: xucruti0116 showed [Jh As] and won ($35.04) with two pair, Jacks and Nines
+Seat 2: vpetriu (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) showed [Ks Ac] and lost with a pair of Nines
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409624896:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:50:17 WET [2025/01/16 21:50:17 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 4: GlebanuZZ ($190.80 in chips) is sitting out
+Seat 1: xucruti0116 ($177.59 in chips) 
+Seat 2: vpetriu ($163.55 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: folds 
+vpetriu: folds 
+Tibibacsi: raises $1.50 to $2.50
+Rysiff: folds 
+MaRKiToScoK: folds 
+Uncalled bet ($1.50) returned to Tibibacsi
+Tibibacsi collected $2.50 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: GlebanuZZ
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: vpetriu folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) collected ($2.50)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409627923:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:50:38 WET [2025/01/16 21:50:38 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 4: GlebanuZZ ($190.80 in chips) is sitting out
+Seat 1: xucruti0116 ($177.59 in chips) 
+Seat 2: vpetriu ($163.55 in chips) 
+Seat 3: Tibibacsi ($101.50 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: raises $1 to $2
+Tibibacsi: folds 
+Rysiff: calls $2
+MaRKiToScoK: folds 
+xucruti0116: calls $1
+*** FLOP *** [2s Jh 5d]
+xucruti0116: checks 
+vpetriu: bets $1.55
+Rysiff: calls $1.55
+xucruti0116: folds 
+*** TURN *** [2s Jh 5d] [6c]
+vpetriu: checks 
+Rysiff: bets $3.01
+vpetriu: calls $3.01
+*** RIVER *** [2s Jh 5d 6c] [9d]
+vpetriu: checks 
+Rysiff: bets $20
+vpetriu: calls $20
+*** SHOW DOWN ***
+Rysiff: shows [5s 5c] (three of a kind, Fives)
+vpetriu: mucks hand 
+Rysiff collected $53.12 from pot
+*** SUMMARY ***
+Total pot $55.62 | Rake $2.50 
+Board [2s Jh 5d 6c 9d]
+Seat 4: GlebanuZZ
+Seat 1: xucruti0116 (big blind) folded on the Flop
+Seat 2: vpetriu mucked
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 5: Rysiff (button) showed [5s 5c] and won ($53.12) with three of a kind, Fives
+Seat 6: MaRKiToScoK (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409636297:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:51:37 WET [2025/01/16 21:51:37 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 2: vpetriu ($136.99 in chips) is sitting out
+Seat 4: GlebanuZZ ($190.80 in chips) is sitting out
+Seat 1: xucruti0116 ($175.59 in chips) 
+Seat 3: Tibibacsi ($101.50 in chips) 
+Seat 5: Rysiff ($126.56 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+xucruti0116: posts small blind $0.50
+vpetriu: is sitting out 
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: folds 
+vpetriu leaves the table
+xucruti0116: raises $2 to $3
+Tibibacsi: calls $2
+*** FLOP *** [6s 8c 5h]
+xucruti0116: bets $2.85
+Overmyrange joins the table at seat #2 
+Tibibacsi: raises $5.15 to $8
+xucruti0116: calls $5.15
+*** TURN *** [6s 8c 5h] [3c]
+xucruti0116: checks 
+Tibibacsi: checks 
+*** RIVER *** [6s 8c 5h 3c] [2h]
+xucruti0116: checks 
+Tibibacsi: checks 
+*** SHOW DOWN ***
+xucruti0116: shows [Ad 9h] (high card Ace)
+Tibibacsi: mucks hand 
+xucruti0116 collected $21 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $1 
+Board [6s 8c 5h 3c 2h]
+Seat 2: vpetriu
+Seat 4: GlebanuZZ
+Seat 1: xucruti0116 (small blind) showed [Ad 9h] and won ($21) with high card Ace
+Seat 3: Tibibacsi (big blind) mucked
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409644827:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:52:37 WET [2025/01/16 21:52:37 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 2: Overmyrange ($100 in chips) is sitting out
+Seat 4: GlebanuZZ ($190.80 in chips) is sitting out
+Seat 1: xucruti0116 ($185.59 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 5: Rysiff ($126.56 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+Tibibacsi: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+Tibibacsi: raises $8.50 to $12
+Rysiff: folds 
+xucruti0116: folds 
+Uncalled bet ($8.50) returned to Tibibacsi
+Tibibacsi collected $8 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 2: Overmyrange
+Seat 4: GlebanuZZ
+Seat 1: xucruti0116 (button) folded before Flop
+Seat 3: Tibibacsi (small blind) collected ($8)
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409647582:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:52:56 WET [2025/01/16 21:52:56 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 2: Overmyrange ($100 in chips) is sitting out
+Seat 4: GlebanuZZ ($190.80 in chips) is sitting out
+Seat 1: xucruti0116 ($182.09 in chips) 
+Seat 3: Tibibacsi ($104.50 in chips) 
+Seat 5: Rysiff ($125.56 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+Overmyrange: sits out 
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+Tibibacsi: folds 
+Rysiff: folds 
+MaRKiToScoK: calls $2.50
+*** FLOP *** [3h 2h 7c]
+MaRKiToScoK: checks 
+xucruti0116: bets $7.12
+MaRKiToScoK: calls $7.12
+*** TURN *** [3h 2h 7c] [Qd]
+MaRKiToScoK: checks 
+xucruti0116: bets $20.74
+MaRKiToScoK: calls $20.74
+*** RIVER *** [3h 2h 7c Qd] [5d]
+MaRKiToScoK: checks 
+xucruti0116: bets $62.22
+MaRKiToScoK: folds 
+Uncalled bet ($62.22) returned to xucruti0116
+xucruti0116 collected $62.22 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $63.22 | Rake $1 
+Board [3h 2h 7c Qd 5d]
+Seat 2: Overmyrange
+Seat 4: GlebanuZZ
+Seat 1: xucruti0116 collected ($62.22)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) folded on the River
+
+
+
+PokerStars Hand #254409658492:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:54:15 WET [2025/01/16 21:54:15 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 2: Overmyrange ($100 in chips) is sitting out
+Seat 4: GlebanuZZ ($190.80 in chips) is sitting out
+Seat 1: xucruti0116 ($212.95 in chips) 
+Seat 3: Tibibacsi ($104.50 in chips) 
+Seat 5: Rysiff ($125.06 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+Overmyrange: sits out 
+GlebanuZZ: sits out 
+*** HOLE CARDS ***
+Tibibacsi: raises $1.50 to $2.50
+Rysiff: folds 
+MaRKiToScoK: calls $2
+xucruti0116: calls $1.50
+*** FLOP *** [3d 7c 8c]
+MaRKiToScoK: checks 
+xucruti0116: checks 
+Tibibacsi: bets $3.56
+MaRKiToScoK: calls $3.56
+xucruti0116: calls $3.56
+*** TURN *** [3d 7c 8c] [As]
+MaRKiToScoK: checks 
+xucruti0116: bets $17.27
+Tibibacsi: raises $81.17 to $98.44 and is all-in
+MaRKiToScoK: calls $93.94 and is all-in
+xucruti0116: calls $81.17
+*** RIVER *** [3d 7c 8c As] [Kc]
+*** SHOW DOWN ***
+xucruti0116: shows [Ad 8h] (two pair, Aces and Eights)
+Tibibacsi: shows [7d 7s] (three of a kind, Sevens)
+Tibibacsi collected $9 from side pot
+MaRKiToScoK: shows [3h 3s] (three of a kind, Threes)
+Tibibacsi collected $299 from main pot
+*** SUMMARY ***
+Total pot $309 Main pot $299. Side pot $9. | Rake $1 
+Board [3d 7c 8c As Kc]
+Seat 2: Overmyrange
+Seat 4: GlebanuZZ
+Seat 1: xucruti0116 (big blind) showed [Ad 8h] and lost with two pair, Aces and Eights
+Seat 3: Tibibacsi showed [7d 7s] and won ($308) with three of a kind, Sevens
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (small blind) showed [3h 3s] and lost with three of a kind, Threes
+
+
+
+PokerStars Hand #254409669064:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:55:35 WET [2025/01/16 21:55:35 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 4: GlebanuZZ ($190.80 in chips) is sitting out
+Seat 1: xucruti0116 ($108.45 in chips) 
+Seat 2: Overmyrange ($100 in chips) 
+Seat 3: Tibibacsi ($308 in chips) 
+Seat 5: Rysiff ($125.06 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+xucruti0116: posts small blind $0.50
+Overmyrange: posts big blind $1
+GlebanuZZ: sits out 
+*** HOLE CARDS ***
+Tibibacsi: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $1.50 to $2.50
+xucruti0116: raises $6 to $8.50
+Overmyrange: folds 
+MaRKiToScoK: folds 
+Uncalled bet ($6) returned to xucruti0116
+xucruti0116 collected $6 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: GlebanuZZ
+Seat 1: xucruti0116 (small blind) collected ($6)
+Seat 2: Overmyrange (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) folded before Flop
+
+
+
+PokerStars Hand #254409672218:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:56:03 WET [2025/01/16 21:56:03 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 4: GlebanuZZ ($190.80 in chips) is sitting out
+Seat 1: xucruti0116 ($111.95 in chips) 
+Seat 2: Overmyrange ($100 in chips) 
+Seat 3: Tibibacsi ($308 in chips) 
+Seat 5: Rysiff ($125.06 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+Overmyrange: posts small blind $0.50
+Tibibacsi: posts big blind $1
+GlebanuZZ: sits out 
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+MaRKiToScoK: calls $2.50
+xucruti0116: calls $2.50
+Overmyrange: folds 
+Tibibacsi: raises $13.50 to $16
+Rysiff: folds 
+MaRKiToScoK: calls $13.50
+xucruti0116: calls $13.50
+*** FLOP *** [4c 6s 5h]
+Tibibacsi: bets $292 and is all-in
+MaRKiToScoK: folds 
+xucruti0116: folds 
+Uncalled bet ($292) returned to Tibibacsi
+Tibibacsi collected $48.50 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $51 | Rake $2.50 
+Board [4c 6s 5h]
+Seat 4: GlebanuZZ
+Seat 1: xucruti0116 (button) folded on the Flop
+Seat 2: Overmyrange (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) collected ($48.50)
+Seat 5: Rysiff folded before Flop
+Seat 6: MaRKiToScoK folded on the Flop
+
+
+
+PokerStars Hand #254409679919:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:57:12 WET [2025/01/16 21:57:12 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($95.95 in chips) 
+Seat 2: Overmyrange ($100 in chips) 
+Seat 3: Tibibacsi ($340.50 in chips) 
+Seat 4: GlebanuZZ ($190.80 in chips) 
+Seat 5: Rysiff ($122.56 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: raises $1 to $2
+xucruti0116: folds 
+Overmyrange: folds 
+Tibibacsi: folds 
+GlebanuZZ: calls $1
+*** FLOP *** [Ks 7s 8d]
+GlebanuZZ: checks 
+MaRKiToScoK: bets $3.21
+GlebanuZZ: folds 
+Uncalled bet ($3.21) returned to MaRKiToScoK
+MaRKiToScoK collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ks 7s 8d]
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: Overmyrange (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded on the Flop
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK collected ($4.28)
+
+
+
+PokerStars Hand #254409682957:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:57:40 WET [2025/01/16 21:57:40 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($95.95 in chips) 
+Seat 2: Overmyrange ($100 in chips) 
+Seat 3: Tibibacsi ($340 in chips) 
+Seat 4: GlebanuZZ ($188.80 in chips) 
+Seat 5: Rysiff ($122.56 in chips) 
+Seat 6: MaRKiToScoK ($102.28 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+Overmyrange: raises $6.50 to $10
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+xucruti0116: calls $6.50
+*** FLOP *** [2c 4h 7h]
+xucruti0116: checks 
+Overmyrange: bets $10.41
+xucruti0116: calls $10.41
+*** TURN *** [2c 4h 7h] [Ac]
+xucruti0116: checks 
+Overmyrange: bets $20.50
+xucruti0116: folds 
+Uncalled bet ($20.50) returned to Overmyrange
+Overmyrange collected $40.20 from pot
+Overmyrange: doesn't show hand 
+*** SUMMARY ***
+Total pot $42.32 | Rake $2.12 
+Board [2c 4h 7h Ac]
+Seat 1: xucruti0116 folded on the Turn
+Seat 2: Overmyrange collected ($40.20)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409691020:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:58:52 WET [2025/01/16 21:58:52 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($75.54 in chips) 
+Seat 2: Overmyrange ($119.79 in chips) 
+Seat 3: Tibibacsi ($340 in chips) 
+Seat 4: GlebanuZZ ($188.30 in chips) 
+Seat 5: Rysiff ($121.56 in chips) 
+Seat 6: MaRKiToScoK ($102.28 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+Overmyrange: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: calls $3
+MaRKiToScoK: calls $2.50
+*** FLOP *** [9s 2d 2c]
+Rysiff: checks 
+MaRKiToScoK: bets $3.29
+xucruti0116: folds 
+Rysiff: calls $3.29
+*** TURN *** [9s 2d 2c] [4c]
+Rysiff: checks 
+MaRKiToScoK: checks 
+*** RIVER *** [9s 2d 2c 4c] [5h]
+Rysiff: bets $3.25
+MaRKiToScoK: folds 
+Uncalled bet ($3.25) returned to Rysiff
+Rysiff collected $16.23 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.08 | Rake $0.85 
+Board [9s 2d 2c 4c 5h]
+Seat 1: xucruti0116 folded on the Flop
+Seat 2: Overmyrange folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) collected ($16.23)
+Seat 6: MaRKiToScoK (big blind) folded on the River
+
+
+
+PokerStars Hand #254409698102:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:59:56 WET [2025/01/16 21:59:56 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($72.04 in chips) 
+Seat 2: Overmyrange ($119.79 in chips) 
+Seat 3: Tibibacsi ($340 in chips) 
+Seat 4: GlebanuZZ ($188.30 in chips) 
+Seat 5: Rysiff ($131 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+Overmyrange: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: raises $1.50 to $2.50
+MaRKiToScoK: calls $2
+xucruti0116: calls $1.50
+*** FLOP *** [Th Ah 7s]
+MaRKiToScoK: checks 
+xucruti0116: checks 
+Rysiff: checks 
+*** TURN *** [Th Ah 7s] [Qc]
+MaRKiToScoK: checks 
+xucruti0116: bets $7.12
+Rysiff: folds 
+MaRKiToScoK: folds 
+Uncalled bet ($7.12) returned to xucruti0116
+xucruti0116 collected $7.12 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [Th Ah 7s Qc]
+Seat 1: xucruti0116 (big blind) collected ($7.12)
+Seat 2: Overmyrange folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded on the Turn
+Seat 6: MaRKiToScoK (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254409703234:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:00:39 WET [2025/01/16 22:00:39 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($76.66 in chips) 
+Seat 2: Overmyrange ($119.79 in chips) 
+Seat 3: Tibibacsi ($340 in chips) 
+Seat 4: GlebanuZZ ($188.30 in chips) 
+Seat 5: Rysiff ($128.50 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+xucruti0116: posts small blind $0.50
+Overmyrange: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $1.50 to $2.50
+xucruti0116: calls $2
+Overmyrange: calls $1.50
+*** FLOP *** [Tc Jc 9c]
+xucruti0116: checks 
+Overmyrange: checks 
+MaRKiToScoK: checks 
+*** TURN *** [Tc Jc 9c] [9s]
+xucruti0116: bets $7.12
+Overmyrange: folds 
+MaRKiToScoK: calls $7.12
+*** RIVER *** [Tc Jc 9c 9s] [Kd]
+xucruti0116: bets $20.65
+MaRKiToScoK: calls $20.65
+*** SHOW DOWN ***
+xucruti0116: shows [4s 6c] (a pair of Nines)
+MaRKiToScoK: shows [Kc 7d] (two pair, Kings and Nines)
+MaRKiToScoK collected $60.54 from pot
+*** SUMMARY ***
+Total pot $63.04 | Rake $2.50 
+Board [Tc Jc 9c 9s Kd]
+Seat 1: xucruti0116 (small blind) showed [4s 6c] and lost with a pair of Nines
+Seat 2: Overmyrange (big blind) folded on the Turn
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) showed [Kc 7d] and won ($60.54) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #254409708544:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:01:19 WET [2025/01/16 22:01:19 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($46.39 in chips) 
+Seat 2: Overmyrange ($117.29 in chips) 
+Seat 3: Tibibacsi ($340 in chips) 
+Seat 4: GlebanuZZ ($188.30 in chips) 
+Seat 5: Rysiff ($128.50 in chips) 
+Seat 6: MaRKiToScoK ($130.27 in chips) 
+Overmyrange: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+Overmyrange: folds 
+Tibibacsi: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 (button) collected ($2.50)
+Seat 2: Overmyrange (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409710088:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:01:30 WET [2025/01/16 22:01:30 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($47.89 in chips) 
+Seat 2: Overmyrange ($116.79 in chips) 
+Seat 3: Tibibacsi ($339 in chips) 
+Seat 4: GlebanuZZ ($188.30 in chips) 
+Seat 5: Rysiff ($128.50 in chips) 
+Seat 6: MaRKiToScoK ($130.27 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: folds 
+Overmyrange: raises $2 to $3
+Tibibacsi: folds 
+GlebanuZZ: raises $10 to $13
+Overmyrange: folds 
+Uncalled bet ($10) returned to GlebanuZZ
+GlebanuZZ collected $6.50 from pot
+GlebanuZZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: Overmyrange (button) folded before Flop
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) collected ($6.50)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409713167:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:01:53 WET [2025/01/16 22:01:53 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($47.89 in chips) 
+Seat 2: Overmyrange ($113.79 in chips) 
+Seat 3: Tibibacsi ($338.50 in chips) 
+Seat 4: GlebanuZZ ($191.80 in chips) 
+Seat 5: Rysiff ($128.50 in chips) 
+Seat 6: MaRKiToScoK ($130.27 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+xucruti0116: folds 
+Overmyrange: folds 
+Tibibacsi: raises $1.50 to $2.50
+GlebanuZZ: folds 
+Rysiff: folds 
+Uncalled bet ($1.50) returned to Tibibacsi
+Tibibacsi collected $2.50 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: Overmyrange folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) collected ($2.50)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409714760:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:02:05 WET [2025/01/16 22:02:05 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($47.89 in chips) 
+Seat 2: Overmyrange ($113.79 in chips) 
+Seat 3: Tibibacsi ($340 in chips) 
+Seat 4: GlebanuZZ ($191.30 in chips) 
+Seat 5: Rysiff ($127.50 in chips) 
+Seat 6: MaRKiToScoK ($130.27 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+Overmyrange: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: raises $8.50 to $12
+MaRKiToScoK: folds 
+xucruti0116: calls $8.50
+*** FLOP *** [5c 3s 3d]
+Rysiff: checks 
+xucruti0116: checks 
+*** TURN *** [5c 3s 3d] [5d]
+Rysiff: checks 
+xucruti0116: bets $9
+Rysiff: calls $9
+*** RIVER *** [5c 3s 3d 5d] [9c]
+Rysiff: checks 
+xucruti0116: bets $26.89 and is all-in
+Rysiff: calls $26.89
+*** SHOW DOWN ***
+xucruti0116: shows [Qs 9d] (two pair, Nines and Fives)
+Rysiff: shows [Ah Th] (two pair, Fives and Threes)
+xucruti0116 collected $94.28 from pot
+*** SUMMARY ***
+Total pot $96.78 | Rake $2.50 
+Board [5c 3s 3d 5d 9c]
+Seat 1: xucruti0116 showed [Qs 9d] and won ($94.28) with two pair, Nines and Fives
+Seat 2: Overmyrange folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) showed [Ah Th] and lost with two pair, Fives and Threes
+Seat 6: MaRKiToScoK (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409723943:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:03:12 WET [2025/01/16 22:03:12 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($94.28 in chips) 
+Seat 2: Overmyrange ($113.79 in chips) 
+Seat 3: Tibibacsi ($340 in chips) 
+Seat 4: GlebanuZZ ($191.30 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($129.27 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+Overmyrange: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $2 to $3
+xucruti0116: calls $2
+*** FLOP *** [Qh 7c 5h]
+MaRKiToScoK: checks 
+xucruti0116: bets $5.70
+MaRKiToScoK: calls $5.70
+*** TURN *** [Qh 7c 5h] [Kh]
+MaRKiToScoK: checks 
+xucruti0116: bets $16.53
+MaRKiToScoK: calls $16.53
+*** RIVER *** [Qh 7c 5h Kh] [8s]
+MaRKiToScoK: checks 
+xucruti0116: bets $69.05 and is all-in
+MaRKiToScoK: calls $69.05
+*** SHOW DOWN ***
+xucruti0116: shows [6h Th] (a flush, King high)
+MaRKiToScoK: shows [Ks 7s] (two pair, Kings and Sevens)
+xucruti0116 collected $186.06 from pot
+*** SUMMARY ***
+Total pot $188.56 | Rake $2.50 
+Board [Qh 7c 5h Kh 8s]
+Seat 1: xucruti0116 (big blind) showed [6h Th] and won ($186.06) with a flush, King high
+Seat 2: Overmyrange folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (small blind) showed [Ks 7s] and lost with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #254409728544:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:03:45 WET [2025/01/16 22:03:45 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($186.06 in chips) 
+Seat 2: Overmyrange ($113.79 in chips) 
+Seat 3: Tibibacsi ($340 in chips) 
+Seat 4: GlebanuZZ ($191.30 in chips) 
+Seat 5: Rysiff ($100 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+xucruti0116: posts small blind $0.50
+Overmyrange: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: raises $1.50 to $2.50
+MaRKiToScoK: calls $2.50
+xucruti0116: calls $2
+Overmyrange: folds 
+*** FLOP *** [3h 4c 5s]
+xucruti0116: checks 
+Rysiff: checks 
+MaRKiToScoK: checks 
+*** TURN *** [3h 4c 5s] [Ts]
+xucruti0116: bets $8.08
+Rysiff: calls $8.08
+MaRKiToScoK: folds 
+*** RIVER *** [3h 4c 5s Ts] [4d]
+xucruti0116: checks 
+Rysiff: bets $18.74
+xucruti0116: folds 
+Uncalled bet ($18.74) returned to Rysiff
+Rysiff collected $23.43 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.66 | Rake $1.23 
+Board [3h 4c 5s Ts 4d]
+Seat 1: xucruti0116 (small blind) folded on the River
+Seat 2: Overmyrange (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff collected ($23.43)
+Seat 6: MaRKiToScoK (button) folded on the Turn
+
+
+
+PokerStars Hand #254409739065:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:05:01 WET [2025/01/16 22:05:01 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($175.48 in chips) 
+Seat 2: Overmyrange ($112.79 in chips) 
+Seat 3: Tibibacsi ($340 in chips) 
+Seat 4: GlebanuZZ ($191.30 in chips) 
+Seat 5: Rysiff ($112.85 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+Overmyrange: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+Overmyrange: folds 
+Tibibacsi: folds 
+Uncalled bet ($2.50) returned to xucruti0116
+xucruti0116 collected $2.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 (button) collected ($2.50)
+Seat 2: Overmyrange (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409742105:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:05:23 WET [2025/01/16 22:05:23 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($176.98 in chips) 
+Seat 2: Overmyrange ($112.29 in chips) 
+Seat 3: Tibibacsi ($339 in chips) 
+Seat 4: GlebanuZZ ($191.30 in chips) 
+Seat 5: Rysiff ($112.85 in chips) 
+Seat 6: MaRKiToScoK ($100 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: raises $2 to $3
+xucruti0116: folds 
+Overmyrange: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Uncalled bet ($2) returned to MaRKiToScoK
+MaRKiToScoK collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: Overmyrange (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: GlebanuZZ (big blind) folded before Flop
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK collected ($2.50)
+
+
+
+PokerStars Hand #254409744043:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:05:38 WET [2025/01/16 22:05:38 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 1: xucruti0116 ($176.98 in chips) 
+Seat 2: Overmyrange ($112.29 in chips) 
+Seat 3: Tibibacsi ($338.50 in chips) 
+Seat 4: GlebanuZZ ($190.30 in chips) 
+Seat 5: Rysiff ($112.85 in chips) 
+Seat 6: MaRKiToScoK ($101.50 in chips) 
+GlebanuZZ: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+xucruti0116: raises $2.50 to $3.50
+Overmyrange: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: calls $2.50
+*** FLOP *** [7s 3c 2h]
+Rysiff: checks 
+xucruti0116: bets $7.12
+Rysiff: raises $11.88 to $19
+xucruti0116: folds 
+Uncalled bet ($11.88) returned to Rysiff
+Rysiff collected $20.65 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.74 | Rake $1.09 
+Board [7s 3c 2h]
+Seat 1: xucruti0116 folded on the Flop
+Seat 2: Overmyrange folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (small blind) folded before Flop
+Seat 5: Rysiff (big blind) collected ($20.65)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409748965:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:06:14 WET [2025/01/16 22:06:14 ET]
+Table 'Zulu II' 6-max Seat #4 is the button
+Seat 1: xucruti0116 ($166.36 in chips) 
+Seat 2: Overmyrange ($112.29 in chips) 
+Seat 3: Tibibacsi ($338.50 in chips) 
+Seat 4: GlebanuZZ ($189.80 in chips) 
+Seat 5: Rysiff ($122.88 in chips) 
+Seat 6: MaRKiToScoK ($101.50 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+Overmyrange: folds 
+Tibibacsi: folds 
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: calls $2.50
+*** FLOP *** [Ah Th 4h]
+MaRKiToScoK: checks 
+xucruti0116: checks 
+*** TURN *** [Ah Th 4h] [4s]
+MaRKiToScoK: bets $1.50
+xucruti0116: calls $1.50
+*** RIVER *** [Ah Th 4h 4s] [Kh]
+MaRKiToScoK: checks 
+xucruti0116: checks 
+*** SHOW DOWN ***
+MaRKiToScoK: shows [8s Kc] (two pair, Kings and Fours)
+xucruti0116: mucks hand 
+MaRKiToScoK collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [Ah Th 4h 4s Kh]
+Seat 1: xucruti0116 mucked
+Seat 2: Overmyrange folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) showed [8s Kc] and won ($9.98) with two pair, Kings and Fours
+
+
+
+PokerStars Hand #254409752472:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:06:40 WET [2025/01/16 22:06:40 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 1: xucruti0116 ($161.36 in chips) 
+Seat 2: Overmyrange ($112.29 in chips) 
+Seat 3: Tibibacsi ($338.50 in chips) 
+Seat 4: GlebanuZZ ($189.80 in chips) 
+Seat 5: Rysiff ($122.38 in chips) 
+Seat 6: MaRKiToScoK ($106.48 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+Overmyrange: folds 
+Tibibacsi: folds 
+GlebanuZZ: raises $2 to $3
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: calls $2
+*** FLOP *** [Kc 3s 7c]
+xucruti0116: checks 
+GlebanuZZ: bets $2.04
+xucruti0116: folds 
+Uncalled bet ($2.04) returned to GlebanuZZ
+GlebanuZZ collected $6.18 from pot
+GlebanuZZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Kc 3s 7c]
+Seat 1: xucruti0116 (big blind) folded on the Flop
+Seat 2: Overmyrange folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: GlebanuZZ collected ($6.18)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409756319:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:07:08 WET [2025/01/16 22:07:08 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 1: xucruti0116 ($158.36 in chips) 
+Seat 2: Overmyrange ($112.29 in chips) 
+Seat 3: Tibibacsi ($338.50 in chips) 
+Seat 4: GlebanuZZ ($192.98 in chips) 
+Seat 5: Rysiff ($122.38 in chips) 
+Seat 6: MaRKiToScoK ($105.98 in chips) 
+xucruti0116: posts small blind $0.50
+Overmyrange: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: raises $1.50 to $2.50
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: calls $2.50
+xucruti0116: calls $2
+Overmyrange: folds 
+*** FLOP *** [4s 8c 4h]
+xucruti0116: checks 
+Tibibacsi: checks 
+MaRKiToScoK: checks 
+*** TURN *** [4s 8c 4h] [Ks]
+xucruti0116: checks 
+Tibibacsi: checks 
+MaRKiToScoK: checks 
+*** RIVER *** [4s 8c 4h Ks] [9c]
+xucruti0116: checks 
+Tibibacsi: checks 
+MaRKiToScoK: bets $12.12
+xucruti0116: folds 
+Tibibacsi: folds 
+Uncalled bet ($12.12) returned to MaRKiToScoK
+MaRKiToScoK collected $8.08 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [4s 8c 4h Ks 9c]
+Seat 1: xucruti0116 (small blind) folded on the River
+Seat 2: Overmyrange (big blind) folded before Flop
+Seat 3: Tibibacsi folded on the River
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) collected ($8.08)
+
+
+
+PokerStars Hand #254409762989:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:07:57 WET [2025/01/16 22:07:57 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 1: xucruti0116 ($155.86 in chips) 
+Seat 2: Overmyrange ($111.29 in chips) 
+Seat 3: Tibibacsi ($336 in chips) 
+Seat 4: GlebanuZZ ($192.98 in chips) 
+Seat 5: Rysiff ($122.38 in chips) 
+Seat 6: MaRKiToScoK ($111.56 in chips) 
+Overmyrange: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+GlebanuZZ: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $2.50 to $3.50
+xucruti0116: calls $3.50
+Overmyrange: folds 
+Tibibacsi: raises $12 to $15.50
+MaRKiToScoK: calls $12
+xucruti0116: folds 
+*** FLOP *** [Js 2h 6s]
+Tibibacsi: bets $10.97
+MaRKiToScoK: calls $10.97
+*** TURN *** [Js 2h 6s] [9h]
+Tibibacsi: checks 
+MaRKiToScoK: bets $17.97
+Tibibacsi: folds 
+Uncalled bet ($17.97) returned to MaRKiToScoK
+MaRKiToScoK collected $54.44 from pot
+*** SUMMARY ***
+Total pot $56.94 | Rake $2.50 
+Board [Js 2h 6s 9h]
+Seat 1: xucruti0116 (button) folded before Flop
+Seat 2: Overmyrange (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded on the Turn
+Seat 4: GlebanuZZ folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK collected ($54.44)
+
+
+
+PokerStars Hand #254409772572:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:09:09 WET [2025/01/16 22:09:09 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 4: GlebanuZZ ($192.98 in chips) is sitting out
+Seat 1: xucruti0116 ($152.36 in chips) 
+Seat 2: Overmyrange ($110.79 in chips) 
+Seat 3: Tibibacsi ($309.53 in chips) 
+Seat 5: Rysiff ($122.38 in chips) 
+Seat 6: MaRKiToScoK ($139.53 in chips) 
+Tibibacsi: posts small blind $0.50
+GlebanuZZ: is sitting out 
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: raises $1 to $2
+xucruti0116: folds 
+Overmyrange: folds 
+Tibibacsi: folds 
+Rysiff: folds 
+Uncalled bet ($1) returned to MaRKiToScoK
+MaRKiToScoK collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: GlebanuZZ
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: Overmyrange (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: MaRKiToScoK collected ($2.50)
+
+
+
+PokerStars Hand #254409774837:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:09:26 WET [2025/01/16 22:09:26 ET]
+Table 'Zulu II' 6-max Seat #3 is the button
+Seat 4: GlebanuZZ ($192.98 in chips) is sitting out
+Seat 1: xucruti0116 ($152.36 in chips) 
+Seat 2: Overmyrange ($110.79 in chips) 
+Seat 3: Tibibacsi ($309.03 in chips) 
+Seat 5: Rysiff ($121.38 in chips) 
+Seat 6: MaRKiToScoK ($141.03 in chips) 
+Rysiff: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+xucruti0116: raises $2.50 to $3.50
+Overmyrange: folds 
+Tibibacsi: raises $7 to $10.50
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: raises $22.50 to $33
+Tibibacsi: folds 
+Uncalled bet ($22.50) returned to xucruti0116
+xucruti0116 collected $22.50 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.50 | Rake $0 
+Seat 4: GlebanuZZ
+Seat 1: xucruti0116 collected ($22.50)
+Seat 2: Overmyrange folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: MaRKiToScoK (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409781594:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:10:16 WET [2025/01/16 22:10:16 ET]
+Table 'Zulu II' 6-max Seat #5 is the button
+Seat 4: GlebanuZZ ($192.98 in chips) is sitting out
+Seat 1: xucruti0116 ($164.36 in chips) 
+Seat 2: Overmyrange ($110.79 in chips) 
+Seat 3: Tibibacsi ($298.53 in chips) 
+Seat 5: Rysiff ($120.88 in chips) 
+Seat 6: MaRKiToScoK ($140.03 in chips) 
+MaRKiToScoK: posts small blind $0.50
+xucruti0116: posts big blind $1
+*** HOLE CARDS ***
+Overmyrange: raises $1.20 to $2.20
+Tibibacsi: folds 
+Rysiff: folds 
+MaRKiToScoK: calls $1.70
+xucruti0116: calls $1.20
+*** FLOP *** [Ts 4s 9c]
+MaRKiToScoK: checks 
+xucruti0116: bets $6.27
+Overmyrange: folds 
+MaRKiToScoK: folds 
+Uncalled bet ($6.27) returned to xucruti0116
+xucruti0116 collected $6.27 from pot
+xucruti0116: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.33 
+Board [Ts 4s 9c]
+Seat 4: GlebanuZZ
+Seat 1: xucruti0116 (big blind) collected ($6.27)
+Seat 2: Overmyrange folded on the Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 5: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254409787915:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:11:04 WET [2025/01/16 22:11:04 ET]
+Table 'Zulu II' 6-max Seat #6 is the button
+Seat 4: GlebanuZZ ($192.98 in chips) is sitting out
+Seat 1: xucruti0116 ($168.43 in chips) 
+Seat 2: Overmyrange ($108.59 in chips) 
+Seat 3: Tibibacsi ($298.53 in chips) 
+Seat 5: Rysiff ($120.88 in chips) 
+Seat 6: MaRKiToScoK ($137.83 in chips) 
+xucruti0116: posts small blind $0.50
+Overmyrange: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+Rysiff: folds 
+MaRKiToScoK: raises $4 to $5
+xucruti0116: folds 
+Overmyrange: calls $4
+*** FLOP *** [Td 3s 5s]
+GlebanuZZ leaves the table
+Overmyrange: checks 
+MaRKiToScoK: bets $7.49
+CashfishT joins the table at seat #4 
+Overmyrange: calls $7.49
+*** TURN *** [Td 3s 5s] [Kc]
+Overmyrange: checks 
+MaRKiToScoK: bets $18.16
+Overmyrange: calls $18.16
+*** RIVER *** [Td 3s 5s Kc] [Qh]
+Overmyrange: checks 
+MaRKiToScoK: bets $107.18 and is all-in
+Overmyrange: folds 
+Uncalled bet ($107.18) returned to MaRKiToScoK
+MaRKiToScoK collected $59.30 from pot
+*** SUMMARY ***
+Total pot $61.80 | Rake $2.50 
+Board [Td 3s 5s Kc Qh]
+Seat 4: GlebanuZZ
+Seat 1: xucruti0116 (small blind) folded before Flop
+Seat 2: Overmyrange (big blind) folded on the River
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK (button) collected ($59.30)
+
+
+
+PokerStars Hand #254409803009:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:12:57 WET [2025/01/16 22:12:57 ET]
+Table 'Zulu II' 6-max Seat #1 is the button
+Seat 4: CashfishT ($100 in chips) is sitting out
+Seat 1: xucruti0116 ($167.93 in chips) 
+Seat 2: Overmyrange ($100 in chips) 
+Seat 3: Tibibacsi ($298.53 in chips) 
+Seat 5: Rysiff ($120.88 in chips) 
+Seat 6: MaRKiToScoK ($166.48 in chips) 
+Overmyrange: posts small blind $0.50
+Tibibacsi: posts big blind $1
+CashfishT: sits out 
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: folds 
+Overmyrange: folds 
+Uncalled bet ($0.50) returned to Tibibacsi
+Tibibacsi collected $1 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: CashfishT
+Seat 1: xucruti0116 (button) folded before Flop (didn't bet)
+Seat 2: Overmyrange (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) collected ($1)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409805495:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:13:16 WET [2025/01/16 22:13:16 ET]
+Table 'Zulu II' 6-max Seat #2 is the button
+Seat 1: xucruti0116 ($167.93 in chips) 
+Seat 2: Overmyrange ($100 in chips) 
+Seat 3: Tibibacsi ($299.03 in chips) 
+Seat 4: CashfishT ($100 in chips) 
+Seat 5: Rysiff ($120.88 in chips) 
+Seat 6: MaRKiToScoK ($166.48 in chips) 
+Tibibacsi: posts small blind $0.50
+CashfishT: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+MaRKiToScoK: folds 
+xucruti0116: folds 
+Overmyrange: raises $2 to $3
+Tibibacsi: folds 
+CashfishT: folds 
+Uncalled bet ($2) returned to Overmyrange
+Overmyrange collected $2.50 from pot
+Overmyrange: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xucruti0116 folded before Flop (didn't bet)
+Seat 2: Overmyrange (button) collected ($2.50)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: CashfishT (big blind) folded before Flop
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: MaRKiToScoK folded before Flop (didn't bet)
+
+
+

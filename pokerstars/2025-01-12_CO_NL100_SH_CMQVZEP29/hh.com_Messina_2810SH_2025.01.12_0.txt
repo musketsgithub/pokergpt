@@ -1,0 +1,111 @@
+﻿PokerStars Hand #254329603775:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 12:36:38 WET [2025/01/12 7:36:38 ET]
+Table 'Messina II' 6-max Seat #2 is the button
+Seat 1: MikeMcDermot ($63.66 in chips) 
+Seat 2: 3EPH ($100 in chips) 
+Seat 3: An1an1 ($100.50 in chips) 
+Seat 4: Rysiff ($100 in chips) 
+Seat 5: equilibrium_tv ($45.88 in chips) 
+Seat 6: KarP93 ($100 in chips) 
+An1an1: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+KarP93: folds 
+MikeMcDermot: folds 
+3EPH: folds 
+An1an1: raises $1.50 to $2.50
+Rysiff: calls $1.50
+*** FLOP *** [7h 7d 8h]
+An1an1: bets $1.14
+Rysiff: calls $1.14
+*** TURN *** [7h 7d 8h] [8c]
+An1an1: checks 
+Rysiff: bets $5.54
+An1an1: calls $5.54
+*** RIVER *** [7h 7d 8h 8c] [Kd]
+An1an1: checks 
+Rysiff: checks 
+*** SHOW DOWN ***
+An1an1: shows [8d 8s] (four of a kind, Eights)
+Rysiff: mucks hand 
+An1an1 collected $17.44 from pot
+*** SUMMARY ***
+Total pot $18.36 | Rake $0.92 
+Board [7h 7d 8h 8c Kd]
+Seat 1: MikeMcDermot folded before Flop (didn't bet)
+Seat 2: 3EPH (button) folded before Flop (didn't bet)
+Seat 3: An1an1 (small blind) showed [8d 8s] and won ($17.44) with four of a kind, Eights
+Seat 4: Rysiff (big blind) mucked
+Seat 5: equilibrium_tv folded before Flop (didn't bet)
+Seat 6: KarP93 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254329614400:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 12:37:43 WET [2025/01/12 7:37:43 ET]
+Table 'Messina II' 6-max Seat #3 is the button
+Seat 5: equilibrium_tv ($45.88 in chips) is sitting out
+Seat 6: KarP93 ($100 in chips) is sitting out
+Seat 1: MikeMcDermot ($63.66 in chips) 
+Seat 2: 3EPH ($100 in chips) 
+Seat 3: An1an1 ($108.76 in chips) 
+Seat 4: Rysiff ($100 in chips) 
+Rysiff: posts small blind $0.50
+equilibrium_tv: is sitting out 
+KarP93: is sitting out 
+MikeMcDermot: posts big blind $1
+*** HOLE CARDS ***
+3EPH: folds 
+An1an1: raises $1.50 to $2.50
+Rysiff: folds 
+equilibrium_tv leaves the table
+MikeMcDermot: calls $1.50
+*** FLOP *** [9c 5d 8d]
+MikeMcDermot: checks 
+An1an1: checks 
+*** TURN *** [9c 5d 8d] [6c]
+MikeMcDermot: bets $2.61
+An1an1: folds 
+Uncalled bet ($2.61) returned to MikeMcDermot
+MikeMcDermot collected $5.22 from pot
+MikeMcDermot: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [9c 5d 8d 6c]
+Seat 5: equilibrium_tv
+Seat 6: KarP93
+Seat 1: MikeMcDermot (big blind) collected ($5.22)
+Seat 2: 3EPH folded before Flop (didn't bet)
+Seat 3: An1an1 (button) folded on the Turn
+Seat 4: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254329619981:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 12:38:17 WET [2025/01/12 7:38:17 ET]
+Table 'Messina II' 6-max Seat #1 is the button
+Seat 2: 3EPH ($100 in chips) is sitting out
+Seat 3: An1an1 ($106.26 in chips) is sitting out
+Seat 6: KarP93 ($100 in chips) is sitting out
+Seat 1: MikeMcDermot ($66.38 in chips) 
+Seat 4: Rysiff ($100 in chips) 
+MikeMcDermot: posts small blind $0.50
+3EPH: is sitting out 
+An1an1: is sitting out 
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+An1an1 leaves the table
+3EPH leaves the table
+MikeMcDermot: folds 
+Uncalled bet ($0.50) returned to Rysiff
+KarP93 leaves the table
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: 3EPH
+Seat 3: An1an1
+Seat 6: KarP93
+Seat 1: MikeMcDermot (button) (small blind) folded before Flop
+Seat 4: Rysiff (big blind) collected ($1)
+
+
+

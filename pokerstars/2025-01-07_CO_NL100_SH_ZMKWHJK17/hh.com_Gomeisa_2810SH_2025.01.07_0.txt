@@ -1,0 +1,424 @@
+﻿PokerStars Hand #254252485673:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 21:58:15 WET [2025/01/07 16:58:15 ET]
+Table 'Gomeisa II' 6-max Seat #1 is the button
+Seat 2: Nazareno1999 ($100 in chips) is sitting out
+Seat 6: Shiva_110374 ($8.50 in chips) is sitting out
+Seat 1: Manifestorr ($102.72 in chips) 
+Seat 3: stojanac26 ($54.40 in chips) 
+Seat 4: YeeesMan ($100 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+stojanac26: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+Shiva_110374 leaves the table
+Manifestorr: raises $1.20 to $2.20
+stojanac26: calls $1.70
+YeeesMan: calls $1.20
+*** FLOP *** [Th Qs 9h]
+stojanac26: checks 
+YeeesMan: checks 
+blistein joins the table at seat #6 
+Manifestorr: checks 
+*** TURN *** [Th Qs 9h] [5c]
+stojanac26: checks 
+YeeesMan: checks 
+Manifestorr: checks 
+*** RIVER *** [Th Qs 9h 5c] [Qc]
+stojanac26: checks 
+YeeesMan: checks 
+Manifestorr: checks 
+*** SHOW DOWN ***
+stojanac26: shows [6h 7s] (a pair of Queens)
+YeeesMan: shows [9c Ac] (two pair, Queens and Nines)
+Manifestorr: mucks hand 
+YeeesMan collected $6.27 from pot
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.33 
+Board [Th Qs 9h 5c Qc]
+Seat 2: Nazareno1999
+Seat 6: Shiva_110374
+Seat 1: Manifestorr (button) mucked
+Seat 3: stojanac26 (small blind) showed [6h 7s] and lost with a pair of Queens
+Seat 4: YeeesMan (big blind) showed [9c Ac] and won ($6.27) with two pair, Queens and Nines
+Seat 5: ptolejmus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254252501611:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 21:59:22 WET [2025/01/07 16:59:22 ET]
+Table 'Gomeisa II' 6-max Seat #3 is the button
+Seat 2: Nazareno1999 ($100 in chips) is sitting out
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: Manifestorr ($100.52 in chips) 
+Seat 3: stojanac26 ($52.20 in chips) 
+Seat 4: YeeesMan ($104.07 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+YeeesMan: posts small blind $0.50
+ptolejmus: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+Manifestorr: folds 
+stojanac26: raises $1 to $2
+YeeesMan: folds 
+ptolejmus: calls $1
+*** FLOP *** [9s 4c Jh]
+ptolejmus: checks 
+stojanac26: checks 
+*** TURN *** [9s 4c Jh] [3c]
+ptolejmus: bets $3.21
+stojanac26: calls $3.21
+*** RIVER *** [9s 4c Jh 3c] [6c]
+ptolejmus: checks 
+stojanac26: checks 
+*** SHOW DOWN ***
+ptolejmus: shows [Qh Ts] (high card Queen)
+stojanac26: shows [2h Ah] (high card Ace)
+stojanac26 collected $10.37 from pot
+*** SUMMARY ***
+Total pot $10.92 | Rake $0.55 
+Board [9s 4c Jh 3c 6c]
+Seat 2: Nazareno1999
+Seat 6: blistein
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 3: stojanac26 (button) showed [2h Ah] and won ($10.37) with high card Ace
+Seat 4: YeeesMan (small blind) folded before Flop
+Seat 5: ptolejmus (big blind) showed [Qh Ts] and lost with high card Queen
+
+
+
+PokerStars Hand #254252512777:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 22:00:10 WET [2025/01/07 17:00:10 ET]
+Table 'Gomeisa II' 6-max Seat #4 is the button
+Seat 2: Nazareno1999 ($100 in chips) is sitting out
+Seat 1: Manifestorr ($100.52 in chips) 
+Seat 3: stojanac26 ($57.36 in chips) 
+Seat 4: YeeesMan ($103.57 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+Seat 6: blistein ($100 in chips) 
+ptolejmus: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+stojanac26: raises $1 to $2
+YeeesMan: folds 
+ptolejmus: folds 
+blistein: raises $6 to $8
+stojanac26: calls $6
+*** FLOP *** [4s Jc 9c]
+blistein: bets $7.84
+stojanac26: calls $7.84
+*** TURN *** [4s Jc 9c] [8h]
+blistein: bets $46.50
+stojanac26: calls $41.52 and is all-in
+Uncalled bet ($4.98) returned to blistein
+*** FIRST RIVER *** [4s Jc 9c 8h] [2s]
+*** SECOND RIVER *** [4s Jc 9c 8h] [4c]
+*** FIRST SHOW DOWN ***
+blistein: shows [Kc Ks] (a pair of Kings)
+stojanac26: shows [Qs Kh] (high card King)
+blistein collected $56.36 from pot
+*** SECOND SHOW DOWN ***
+blistein: shows [Kc Ks] (two pair, Kings and Fours)
+stojanac26: shows [Qs Kh] (a pair of Fours)
+blistein collected $56.36 from pot
+*** SUMMARY ***
+Total pot $115.22 | Rake $2.50 
+Hand was run twice
+FIRST Board [4s Jc 9c 8h 2s]
+SECOND Board [4s Jc 9c 8h 4c]
+Seat 2: Nazareno1999
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 3: stojanac26 showed [Qs Kh] and lost with high card King, and lost with a pair of Fours
+Seat 4: YeeesMan (button) folded before Flop (didn't bet)
+Seat 5: ptolejmus (small blind) folded before Flop
+Seat 6: blistein (big blind) showed [Kc Ks] and won ($56.36) with a pair of Kings, and won ($56.36) with two pair, Kings and Fours
+
+
+
+PokerStars Hand #254252530404:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 22:01:18 WET [2025/01/07 17:01:18 ET]
+Table 'Gomeisa II' 6-max Seat #5 is the button
+Seat 2: Nazareno1999 ($100 in chips) is sitting out
+Seat 3: stojanac26 ($0 in chips) is sitting out
+Seat 1: Manifestorr ($100.52 in chips) 
+Seat 4: YeeesMan ($103.57 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+Seat 6: blistein ($155.36 in chips) 
+blistein: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: raises $1.50 to $2.50
+ptolejmus: folds 
+blistein: folds 
+Manifestorr: calls $1.50
+*** FLOP *** [Qs 2c Tc]
+Manifestorr: checks 
+YeeesMan: bets $3.92
+Manifestorr: folds 
+Uncalled bet ($3.92) returned to YeeesMan
+YeeesMan collected $5.22 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Qs 2c Tc]
+Seat 2: Nazareno1999
+Seat 3: stojanac26
+Seat 1: Manifestorr (big blind) folded on the Flop
+Seat 4: YeeesMan collected ($5.22)
+Seat 5: ptolejmus (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254252545020:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 22:02:06 WET [2025/01/07 17:02:06 ET]
+Table 'Gomeisa II' 6-max Seat #6 is the button
+Seat 2: Nazareno1999 ($100 in chips) is sitting out
+Seat 3: stojanac26 ($0 in chips) is sitting out
+Seat 1: Manifestorr ($100 in chips) 
+Seat 4: YeeesMan ($106.29 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+Seat 6: blistein ($154.86 in chips) 
+Manifestorr: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+blistein: raises $1.50 to $2.50
+Manifestorr: folds 
+YeeesMan: calls $1.50
+*** FLOP *** [2d Qs Js]
+YeeesMan: checks 
+blistein: checks 
+*** TURN *** [2d Qs Js] [5s]
+YeeesMan: checks 
+blistein: checks 
+*** RIVER *** [2d Qs Js 5s] [As]
+YeeesMan: bets $15.66
+blistein: folds 
+Uncalled bet ($15.66) returned to YeeesMan
+YeeesMan collected $5.22 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [2d Qs Js 5s As]
+Seat 2: Nazareno1999
+Seat 3: stojanac26
+Seat 1: Manifestorr (small blind) folded before Flop
+Seat 4: YeeesMan (big blind) collected ($5.22)
+Seat 5: ptolejmus folded before Flop (didn't bet)
+Seat 6: blistein (button) folded on the River
+
+
+
+PokerStars Hand #254252573445:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 22:03:34 WET [2025/01/07 17:03:34 ET]
+Table 'Gomeisa II' 6-max Seat #1 is the button
+Seat 2: Nazareno1999 ($100 in chips) is sitting out
+Seat 3: stojanac26 ($29.89 in chips) is sitting out
+Seat 5: ptolejmus ($10 in chips) is sitting out
+Seat 1: Manifestorr ($100 in chips) 
+Seat 4: YeeesMan ($109.01 in chips) 
+Seat 6: blistein ($152.36 in chips) 
+YeeesMan: posts small blind $0.50
+ptolejmus: is sitting out 
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+YeeesMan: raises $2 to $3
+blistein: folds 
+Uncalled bet ($2) returned to YeeesMan
+YeeesMan collected $2 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: Nazareno1999
+Seat 3: stojanac26
+Seat 5: ptolejmus
+Seat 1: Manifestorr (button) folded before Flop (didn't bet)
+Seat 4: YeeesMan (small blind) collected ($2)
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254252580222:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 22:03:55 WET [2025/01/07 17:03:55 ET]
+Table 'Gomeisa II' 6-max Seat #4 is the button
+Seat 2: Nazareno1999 ($100 in chips) is sitting out
+Seat 5: ptolejmus ($10 in chips) is sitting out
+Seat 1: Manifestorr ($100 in chips) 
+Seat 3: stojanac26 ($29.89 in chips) 
+Seat 4: YeeesMan ($110.01 in chips) 
+Seat 6: blistein ($151.36 in chips) 
+blistein: posts small blind $0.50
+Manifestorr: posts big blind $1
+stojanac26: posts small & big blinds $1.50
+*** HOLE CARDS ***
+stojanac26: raises $1 to $2
+YeeesMan: folds 
+blistein: folds 
+Manifestorr: calls $1
+*** FLOP *** [5h 5c Ks]
+Manifestorr: checks 
+stojanac26: bets $3
+Manifestorr: calls $3
+*** TURN *** [5h 5c Ks] [3d]
+Manifestorr: checks 
+stojanac26: bets $24.39 and is all-in
+Manifestorr: calls $24.39
+*** FIRST RIVER *** [5h 5c Ks 3d] [3h]
+*** SECOND RIVER *** [5h 5c Ks 3d] [6d]
+*** FIRST SHOW DOWN ***
+Manifestorr: shows [8h Kh] (two pair, Kings and Fives)
+stojanac26: shows [Th Td] (two pair, Tens and Fives)
+Manifestorr collected $29.39 from pot
+*** SECOND SHOW DOWN ***
+Manifestorr: shows [8h Kh] (two pair, Kings and Fives)
+stojanac26: shows [Th Td] (two pair, Tens and Fives)
+Manifestorr collected $29.39 from pot
+*** SUMMARY ***
+Total pot $59.78 | Rake $1 
+Hand was run twice
+FIRST Board [5h 5c Ks 3d 3h]
+SECOND Board [5h 5c Ks 3d 6d]
+Seat 2: Nazareno1999
+Seat 5: ptolejmus
+Seat 1: Manifestorr (big blind) showed [8h Kh] and won ($29.39) with two pair, Kings and Fives, and won ($29.39) with two pair, Kings and Fives
+Seat 3: stojanac26 showed [Th Td] and lost with two pair, Tens and Fives, and lost with two pair, Tens and Fives
+Seat 4: YeeesMan (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254252591751:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 22:04:30 WET [2025/01/07 17:04:30 ET]
+Table 'Gomeisa II' 6-max Seat #6 is the button
+Seat 3: stojanac26 ($0 in chips) is sitting out
+Seat 5: ptolejmus ($10 in chips) is sitting out
+Seat 1: Manifestorr ($129.39 in chips) 
+Seat 2: Nazareno1999 ($100 in chips) 
+Seat 4: YeeesMan ($110.01 in chips) 
+Seat 6: blistein ($150.86 in chips) 
+Manifestorr: posts small blind $0.50
+Nazareno1999: posts big blind $1
+ptolejmus: sits out 
+*** HOLE CARDS ***
+stojanac26 is disconnected 
+YeeesMan: raises $1.50 to $2.50
+blistein: folds 
+Manifestorr: folds 
+Nazareno1999: calls $1.50
+*** FLOP *** [Qh 7c 2s]
+Nazareno1999: checks 
+YeeesMan: bets $3.92
+Nazareno1999: calls $3.92
+*** TURN *** [Qh 7c 2s] [5h]
+Nazareno1999: checks 
+YeeesMan: bets $19
+Nazareno1999: folds 
+Uncalled bet ($19) returned to YeeesMan
+YeeesMan collected $12.67 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [Qh 7c 2s 5h]
+Seat 3: stojanac26
+Seat 5: ptolejmus
+Seat 1: Manifestorr (small blind) folded before Flop
+Seat 2: Nazareno1999 (big blind) folded on the Turn
+Seat 4: YeeesMan collected ($12.67)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254252615251:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 22:05:41 WET [2025/01/07 17:05:41 ET]
+Table 'Gomeisa II' 6-max Seat #1 is the button
+Seat 3: stojanac26 ($0 in chips) is sitting out
+Seat 5: ptolejmus ($10 in chips) is sitting out
+Seat 1: Manifestorr ($128.89 in chips) 
+Seat 2: Nazareno1999 ($100 in chips) 
+Seat 4: YeeesMan ($116.26 in chips) 
+Seat 6: blistein ($150.86 in chips) 
+Nazareno1999: posts small blind $0.50
+YeeesMan: posts big blind $1
+ptolejmus: sits out 
+*** HOLE CARDS ***
+blistein: folds 
+Manifestorr: raises $1.20 to $2.20
+Nazareno1999: raises $8.30 to $10.50
+YeeesMan: folds 
+Manifestorr: calls $8.30
+*** FLOP *** [2c 8c 8h]
+Nazareno1999: bets $10.50
+Manifestorr: calls $10.50
+*** TURN *** [2c 8c 8h] [4s]
+Nazareno1999: bets $13.86
+Manifestorr: folds 
+Uncalled bet ($13.86) returned to Nazareno1999
+Nazareno1999 collected $42 from pot
+Nazareno1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $43 | Rake $1 
+Board [2c 8c 8h 4s]
+Seat 3: stojanac26
+Seat 5: ptolejmus
+Seat 1: Manifestorr (button) folded on the Turn
+Seat 2: Nazareno1999 (small blind) collected ($42)
+Seat 4: YeeesMan (big blind) folded before Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254252634828:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 22:06:40 WET [2025/01/07 17:06:40 ET]
+Table 'Gomeisa II' 6-max Seat #2 is the button
+Seat 3: stojanac26 ($0 in chips) is sitting out
+Seat 1: Manifestorr ($107.89 in chips) 
+Seat 2: Nazareno1999 ($121 in chips) 
+Seat 4: YeeesMan ($115.26 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+Seat 6: blistein ($150.86 in chips) 
+YeeesMan: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Manifestorr: folds 
+Nazareno1999: folds 
+YeeesMan: folds 
+Uncalled bet ($0.50) returned to ptolejmus
+ptolejmus collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: stojanac26
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 2: Nazareno1999 (button) folded before Flop (didn't bet)
+Seat 4: YeeesMan (small blind) folded before Flop
+Seat 5: ptolejmus (big blind) collected ($1)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254252638975:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 22:06:53 WET [2025/01/07 17:06:53 ET]
+Table 'Gomeisa II' 6-max Seat #4 is the button
+Seat 1: Manifestorr ($107.89 in chips) is sitting out
+Seat 3: stojanac26 ($0 in chips) is sitting out
+Seat 6: blistein ($150.86 in chips) is sitting out
+Seat 2: Nazareno1999 ($121 in chips) 
+Seat 4: YeeesMan ($114.76 in chips) 
+Seat 5: ptolejmus ($10.50 in chips) 
+ptolejmus: posts small blind $0.50
+blistein: is sitting out 
+Manifestorr: is sitting out 
+Nazareno1999: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr leaves the table
+blistein leaves the table
+michasia joins the table at seat #1 
+YeeesMan: raises $1.50 to $2.50
+ptolejmus: folds 
+Nazareno1999: folds 
+Uncalled bet ($1.50) returned to YeeesMan
+YeeesMan collected $2.50 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Manifestorr
+Seat 3: stojanac26
+Seat 6: blistein
+Seat 2: Nazareno1999 (big blind) folded before Flop
+Seat 4: YeeesMan (button) collected ($2.50)
+Seat 5: ptolejmus (small blind) folded before Flop
+
+
+

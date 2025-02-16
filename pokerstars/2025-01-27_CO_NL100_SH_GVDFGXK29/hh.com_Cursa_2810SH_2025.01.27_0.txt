@@ -1,0 +1,124 @@
+﻿PokerStars Hand #254586765119:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:49:58 WET [2025/01/27 17:49:58 ET]
+Table 'Cursa IV' 6-max Seat #2 is the button
+Seat 1: z00mba ($102 in chips) 
+Seat 2: BOSCOBOT ($100 in chips) 
+Seat 3: IREQO ($100 in chips) 
+Seat 4: JUANS2 ($100 in chips) 
+Seat 6: MrVern9177 ($101.75 in chips) 
+IREQO: posts small blind $0.50
+JUANS2: posts big blind $1
+*** HOLE CARDS ***
+MrVern9177: calls $1
+z00mba: folds 
+BOSCOBOT: raises $1.69 to $2.69
+IREQO: folds 
+JUANS2: calls $1.69
+MrVern9177: calls $1.69
+*** FLOP *** [5s 6s 5c]
+JUANS2: checks 
+MrVern9177: checks 
+BOSCOBOT: checks 
+*** TURN *** [5s 6s 5c] [2d]
+JUANS2: bets $7.50
+MrVern9177: folds 
+BOSCOBOT: folds 
+Uncalled bet ($7.50) returned to JUANS2
+JUANS2 collected $8.14 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.57 | Rake $0.43 
+Board [5s 6s 5c 2d]
+Seat 1: z00mba folded before Flop (didn't bet)
+Seat 2: BOSCOBOT (button) folded on the Turn
+Seat 3: IREQO (small blind) folded before Flop
+Seat 4: JUANS2 (big blind) collected ($8.14)
+Seat 6: MrVern9177 folded on the Turn
+
+
+
+PokerStars Hand #254586775560:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:50:36 WET [2025/01/27 17:50:36 ET]
+Table 'Cursa IV' 6-max Seat #3 is the button
+Seat 1: z00mba ($102 in chips) 
+Seat 2: BOSCOBOT ($100 in chips) 
+Seat 3: IREQO ($100 in chips) 
+Seat 4: JUANS2 ($105.45 in chips) 
+Seat 6: MrVern9177 ($99.06 in chips) 
+JUANS2: posts small blind $0.50
+MrVern9177: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+BOSCOBOT: folds 
+IREQO: folds 
+JUANS2: raises $2 to $3
+inflowers joins the table at seat #5 
+MrVern9177: raises $2 to $5
+JUANS2: calls $2
+*** FLOP *** [Jc 3s 6h]
+JUANS2: checks 
+MrVern9177: bets $3
+JUANS2: calls $3
+*** TURN *** [Jc 3s 6h] [Js]
+JUANS2: checks 
+MrVern9177: bets $5
+JUANS2: calls $5
+*** RIVER *** [Jc 3s 6h Js] [5s]
+JUANS2: checks 
+MrVern9177: bets $86.06 and is all-in
+JUANS2: calls $86.06
+*** SHOW DOWN ***
+MrVern9177: shows [Ks Jh] (three of a kind, Jacks)
+JUANS2: shows [5d 5h] (a full house, Fives full of Jacks)
+JUANS2 collected $195.62 from pot
+inflowers leaves the table
+*** SUMMARY ***
+Total pot $198.12 | Rake $2.50 
+Board [Jc 3s 6h Js 5s]
+Seat 1: z00mba folded before Flop (didn't bet)
+Seat 2: BOSCOBOT folded before Flop (didn't bet)
+Seat 3: IREQO (button) folded before Flop (didn't bet)
+Seat 4: JUANS2 (small blind) showed [5d 5h] and won ($195.62) with a full house, Fives full of Jacks
+Seat 6: MrVern9177 (big blind) showed [Ks Jh] and lost with three of a kind, Jacks
+
+
+
+PokerStars Hand #254586793072:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 22:51:38 WET [2025/01/27 17:51:38 ET]
+Table 'Cursa IV' 6-max Seat #4 is the button
+Seat 6: MrVern9177 ($0 in chips) is sitting out
+Seat 1: z00mba ($102 in chips) 
+Seat 2: BOSCOBOT ($100 in chips) 
+Seat 3: IREQO ($100 in chips) 
+Seat 4: JUANS2 ($202.01 in chips) 
+z00mba: posts small blind $0.50
+BOSCOBOT: posts big blind $1
+*** HOLE CARDS ***
+IREQO: raises $1.50 to $2.50
+MrVern9177 leaves the table
+JUANS2: folds 
+z00mba: folds 
+BOSCOBOT: calls $1.50
+*** FLOP *** [2h 8c Jh]
+BOSCOBOT: checks 
+IREQO: bets $3
+BOSCOBOT: calls $3
+*** TURN *** [2h 8c Jh] [7h]
+BOSCOBOT: checks 
+IREQO: bets $6
+BOSCOBOT: calls $6
+*** RIVER *** [2h 8c Jh 7h] [Ks]
+BOSCOBOT: checks 
+IREQO: checks 
+*** SHOW DOWN ***
+BOSCOBOT: shows [9h 9d] (a pair of Nines)
+IREQO: shows [Ah Ac] (a pair of Aces)
+IREQO collected $22.50 from pot
+*** SUMMARY ***
+Total pot $23.50 | Rake $1 
+Board [2h 8c Jh 7h Ks]
+Seat 6: MrVern9177
+Seat 1: z00mba (small blind) folded before Flop
+Seat 2: BOSCOBOT (big blind) showed [9h 9d] and lost with a pair of Nines
+Seat 3: IREQO showed [Ah Ac] and won ($22.50) with a pair of Aces
+Seat 4: JUANS2 (button) folded before Flop (didn't bet)
+
+
+

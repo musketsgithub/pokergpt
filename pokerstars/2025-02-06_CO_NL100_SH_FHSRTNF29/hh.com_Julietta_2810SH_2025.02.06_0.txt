@@ -1,0 +1,120 @@
+﻿PokerStars Hand #254741852489:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 23:27:00 WET [2025/02/06 18:27:00 ET]
+Table 'Julietta' 6-max Seat #1 is the button
+Seat 4: laloo246 ($100 in chips) is sitting out
+Seat 1: ghc_2 ($100 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+ghc_2: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+Uncalled bet ($0.50) returned to coeeeelho
+coeeeelho collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: laloo246
+Seat 1: ghc_2 (button) (small blind) folded before Flop
+Seat 5: coeeeelho (big blind) collected ($1)
+
+
+
+PokerStars Hand #254741854428:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 23:27:08 WET [2025/02/06 18:27:08 ET]
+Table 'Julietta' 6-max Seat #5 is the button
+Seat 4: laloo246 ($100 in chips) is sitting out
+Seat 1: ghc_2 ($100 in chips) 
+Seat 5: coeeeelho ($100.50 in chips) 
+coeeeelho: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: raises $1.50 to $2.50
+ghc_2: calls $1.50
+*** FLOP *** [Jc 3c 4c]
+ghc_2: checks 
+coeeeelho: bets $1
+ghc_2: calls $1
+*** TURN *** [Jc 3c 4c] [3d]
+ghc_2: checks 
+coeeeelho: checks 
+*** RIVER *** [Jc 3c 4c 3d] [Kd]
+ghc_2: checks 
+coeeeelho: bets $4
+ghc_2: raises $21.98 to $25.98
+coeeeelho: folds 
+Uncalled bet ($21.98) returned to ghc_2
+ghc_2 collected $14.25 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [Jc 3c 4c 3d Kd]
+Seat 4: laloo246
+Seat 1: ghc_2 (big blind) collected ($14.25)
+Seat 5: coeeeelho (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #254741950133:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 23:33:28 WET [2025/02/06 18:33:28 ET]
+Table 'Julietta' 6-max Seat #1 is the button
+Seat 1: ghc_2 ($106.75 in chips) 
+Seat 2: S.Ovronnaz ($100 in chips) 
+ghc_2: posts small blind $0.50
+S.Ovronnaz: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+Uncalled bet ($0.50) returned to S.Ovronnaz
+S.Ovronnaz collected $1 from pot
+S.Ovronnaz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ghc_2 (button) (small blind) folded before Flop
+Seat 2: S.Ovronnaz (big blind) collected ($1)
+
+
+
+PokerStars Hand #254741962537:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 23:34:18 WET [2025/02/06 18:34:18 ET]
+Table 'Julietta' 6-max Seat #2 is the button
+Seat 1: ghc_2 ($106.25 in chips) 
+Seat 2: S.Ovronnaz ($100.50 in chips) 
+S.Ovronnaz: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+S.Ovronnaz: folds 
+Uncalled bet ($0.50) returned to ghc_2
+ghc_2 collected $1 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ghc_2 (big blind) collected ($1)
+Seat 2: S.Ovronnaz (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254741963856:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 23:34:24 WET [2025/02/06 18:34:24 ET]
+Table 'Julietta' 6-max Seat #1 is the button
+Seat 1: ghc_2 ($106.75 in chips) 
+Seat 2: S.Ovronnaz ($100 in chips) 
+ghc_2: posts small blind $0.50
+S.Ovronnaz: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: raises $1.40 to $2.40
+S.Ovronnaz: raises $8.60 to $11
+ghc_2: calls $8.60
+*** FLOP *** [8c 5s 7s]
+S.Ovronnaz: bets $8.40
+ghc_2: calls $8.40
+*** TURN *** [8c 5s 7s] [9s]
+S.Ovronnaz: checks 
+ghc_2: checks 
+*** RIVER *** [8c 5s 7s 9s] [Ts]
+S.Ovronnaz: checks 
+ghc_2: checks 
+*** SHOW DOWN ***
+S.Ovronnaz: shows [Ad 5d] (a pair of Fives)
+ghc_2: shows [9c Kc] (a pair of Nines)
+ghc_2 collected $37.80 from pot
+*** SUMMARY ***
+Total pot $38.80 | Rake $1 
+Board [8c 5s 7s 9s Ts]
+Seat 1: ghc_2 (button) (small blind) showed [9c Kc] and won ($37.80) with a pair of Nines
+Seat 2: S.Ovronnaz (big blind) showed [Ad 5d] and lost with a pair of Fives
+
+
+

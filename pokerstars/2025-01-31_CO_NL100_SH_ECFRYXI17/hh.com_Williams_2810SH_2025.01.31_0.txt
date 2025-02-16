@@ -1,0 +1,85 @@
+﻿PokerStars Hand #254645556174:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:09:51 WET [2025/01/31 19:09:51 ET]
+Table 'Williams' 6-max Seat #6 is the button
+Seat 3: alkingst ($6.41 in chips) 
+Seat 4: m0nTTu ($17.21 in chips) 
+Seat 6: equilibrium_tv ($9.36 in chips) 
+alkingst: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+alkingst: raises $1 to $2
+m0nTTu: folds 
+Uncalled bet ($1) returned to alkingst
+alkingst collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: alkingst (small blind) collected ($2)
+Seat 4: m0nTTu (big blind) folded before Flop
+Seat 6: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254645559109:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:10:03 WET [2025/01/31 19:10:03 ET]
+Table 'Williams' 6-max Seat #4 is the button
+Seat 6: equilibrium_tv ($9.36 in chips) is sitting out
+Seat 3: alkingst ($7.41 in chips) 
+Seat 4: m0nTTu ($16.21 in chips) 
+m0nTTu: posts small blind $0.50
+equilibrium_tv: is sitting out 
+alkingst: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Uncalled bet ($0.50) returned to alkingst
+alkingst collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: equilibrium_tv
+Seat 3: alkingst (big blind) collected ($1)
+Seat 4: m0nTTu (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254645561044:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:10:11 WET [2025/01/31 19:10:11 ET]
+Table 'Williams' 6-max Seat #3 is the button
+Seat 3: alkingst ($7.91 in chips) 
+Seat 4: m0nTTu ($15.71 in chips) 
+equilibrium_tv leaves the table
+alkingst: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+alkingst: raises $1 to $2
+m0nTTu: folds 
+Uncalled bet ($1) returned to alkingst
+alkingst collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: alkingst (button) (small blind) collected ($2)
+Seat 4: m0nTTu (big blind) folded before Flop
+
+
+
+PokerStars Hand #254645563714:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:10:23 WET [2025/01/31 19:10:23 ET]
+Table 'Williams' 6-max Seat #4 is the button
+Seat 3: alkingst ($8.91 in chips) 
+Seat 4: m0nTTu ($14.71 in chips) 
+m0nTTu: posts small blind $0.50
+alkingst: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: raises $13.71 to $14.71 and is all-in
+alkingst: calls $7.91 and is all-in
+Uncalled bet ($5.80) returned to m0nTTu
+*** FLOP *** [2h Ts 4s]
+*** TURN *** [2h Ts 4s] [2s]
+*** RIVER *** [2h Ts 4s 2s] [9s]
+*** SHOW DOWN ***
+alkingst: shows [Qd Td] (two pair, Tens and Deuces)
+m0nTTu: shows [Tc Kc] (two pair, Tens and Deuces - King kicker)
+m0nTTu collected $16.93 from pot
+*** SUMMARY ***
+Total pot $17.82 | Rake $0.89 
+Board [2h Ts 4s 2s 9s]
+Seat 3: alkingst (big blind) showed [Qd Td] and lost with two pair, Tens and Deuces
+Seat 4: m0nTTu (button) (small blind) showed [Tc Kc] and won ($16.93) with two pair, Tens and Deuces
+
+
+

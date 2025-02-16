@@ -1,0 +1,792 @@
+﻿PokerStars Hand #254545318516:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:15:59 WET [2025/01/25 9:15:59 ET]
+Table 'Sova IV' 6-max Seat #4 is the button
+Seat 1: steepfell ($100 in chips) 
+Seat 2: whlzor ($100 in chips) 
+Seat 3: RAidakCo ($100 in chips) 
+Seat 4: lwowo ($40 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($100 in chips) 
+Gfoer: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+whlzor: folds 
+RAidakCo: folds 
+lwowo: calls $1
+Gfoer: folds 
+fedor0f: checks 
+*** FLOP *** [7h 3h 9c]
+fedor0f: checks 
+lwowo: bets $1
+fedor0f: folds 
+Uncalled bet ($1) returned to lwowo
+lwowo collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [7h 3h 9c]
+Seat 1: steepfell folded before Flop (didn't bet)
+Seat 2: whlzor folded before Flop (didn't bet)
+Seat 3: RAidakCo folded before Flop (didn't bet)
+Seat 4: lwowo (button) collected ($2.38)
+Seat 5: Gfoer (small blind) folded before Flop
+Seat 6: fedor0f (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254545323739:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:16:26 WET [2025/01/25 9:16:26 ET]
+Table 'Sova IV' 6-max Seat #5 is the button
+Seat 1: steepfell ($100 in chips) 
+Seat 2: whlzor ($100 in chips) 
+Seat 3: RAidakCo ($100 in chips) 
+Seat 4: lwowo ($41.38 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($100 in chips) 
+fedor0f: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+whlzor: raises $1.50 to $2.50
+RAidakCo: folds 
+lwowo: folds 
+Gfoer: folds 
+fedor0f: folds 
+steepfell: folds 
+Uncalled bet ($1.50) returned to whlzor
+whlzor collected $2.50 from pot
+whlzor: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steepfell (big blind) folded before Flop
+Seat 2: whlzor collected ($2.50)
+Seat 3: RAidakCo folded before Flop (didn't bet)
+Seat 4: lwowo folded before Flop (didn't bet)
+Seat 5: Gfoer (button) folded before Flop (didn't bet)
+Seat 6: fedor0f (small blind) folded before Flop
+
+
+
+PokerStars Hand #254545326206:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:16:38 WET [2025/01/25 9:16:38 ET]
+Table 'Sova IV' 6-max Seat #6 is the button
+Seat 1: steepfell ($100 in chips) 
+Seat 2: whlzor ($101.50 in chips) 
+Seat 3: RAidakCo ($100 in chips) 
+Seat 4: lwowo ($41.38 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($100 in chips) 
+steepfell: posts small blind $0.50
+whlzor: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: folds 
+lwowo: calls $1
+Gfoer: folds 
+fedor0f: calls $1
+steepfell: folds 
+whlzor: checks 
+*** FLOP *** [5c 3h 2s]
+whlzor: checks 
+lwowo: bets $1
+fedor0f: calls $1
+whlzor: folds 
+*** TURN *** [5c 3h 2s] [As]
+lwowo: bets $1
+fedor0f: calls $1
+*** RIVER *** [5c 3h 2s As] [4h]
+lwowo: bets $7.12
+fedor0f: folds 
+Uncalled bet ($7.12) returned to lwowo
+lwowo collected $7.12 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [5c 3h 2s As 4h]
+Seat 1: steepfell (small blind) folded before Flop
+Seat 2: whlzor (big blind) folded on the Flop
+Seat 3: RAidakCo folded before Flop (didn't bet)
+Seat 4: lwowo collected ($7.12)
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: fedor0f (button) folded on the River
+
+
+
+PokerStars Hand #254545339687:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:17:48 WET [2025/01/25 9:17:48 ET]
+Table 'Sova IV' 6-max Seat #1 is the button
+Seat 1: steepfell ($100 in chips) 
+Seat 2: whlzor ($100.50 in chips) 
+Seat 3: RAidakCo ($100 in chips) 
+Seat 4: lwowo ($45.50 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($100 in chips) 
+whlzor: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+lwowo: folds 
+Gfoer: folds 
+fedor0f: folds 
+steepfell: raises $1.50 to $2.50
+whlzor: folds 
+RAidakCo: calls $1.50
+*** FLOP *** [Jh 3d 2d]
+RAidakCo: checks 
+steepfell: bets $2.61
+RAidakCo: calls $2.61
+*** TURN *** [Jh 3d 2d] [Ah]
+RAidakCo: checks 
+steepfell: bets $7.64
+RAidakCo: calls $7.64
+*** RIVER *** [Jh 3d 2d Ah] [5c]
+RAidakCo: checks 
+steepfell: bets $18.53
+RAidakCo: folds 
+Uncalled bet ($18.53) returned to steepfell
+steepfell collected $24.70 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $26 | Rake $1.30 
+Board [Jh 3d 2d Ah 5c]
+Seat 1: steepfell (button) collected ($24.70)
+Seat 2: whlzor (small blind) folded before Flop
+Seat 3: RAidakCo (big blind) folded on the River
+Seat 4: lwowo folded before Flop (didn't bet)
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: fedor0f folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254545349580:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:18:39 WET [2025/01/25 9:18:39 ET]
+Table 'Sova IV' 6-max Seat #2 is the button
+Seat 1: steepfell ($111.95 in chips) 
+Seat 2: whlzor ($100 in chips) 
+Seat 3: RAidakCo ($100 in chips) 
+Seat 4: lwowo ($45.50 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($100 in chips) 
+RAidakCo: posts small blind $0.50
+lwowo: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+fedor0f: folds 
+steepfell: folds 
+whlzor: folds 
+RAidakCo: raises $2 to $3
+lwowo: folds 
+Uncalled bet ($2) returned to RAidakCo
+RAidakCo collected $2 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: steepfell folded before Flop (didn't bet)
+Seat 2: whlzor (button) folded before Flop (didn't bet)
+Seat 3: RAidakCo (small blind) collected ($2)
+Seat 4: lwowo (big blind) folded before Flop
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: fedor0f folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254545352665:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:18:55 WET [2025/01/25 9:18:55 ET]
+Table 'Sova IV' 6-max Seat #3 is the button
+Seat 1: steepfell ($111.95 in chips) 
+Seat 2: whlzor ($100 in chips) 
+Seat 3: RAidakCo ($101 in chips) 
+Seat 4: lwowo ($44.50 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($100 in chips) 
+lwowo: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+fedor0f: folds 
+steepfell: folds 
+whlzor: raises $2 to $3
+RAidakCo: folds 
+lwowo: folds 
+Gfoer: folds 
+Uncalled bet ($2) returned to whlzor
+whlzor collected $2.50 from pot
+whlzor: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steepfell folded before Flop (didn't bet)
+Seat 2: whlzor collected ($2.50)
+Seat 3: RAidakCo (button) folded before Flop (didn't bet)
+Seat 4: lwowo (small blind) folded before Flop
+Seat 5: Gfoer (big blind) folded before Flop
+Seat 6: fedor0f folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254545355782:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:19:11 WET [2025/01/25 9:19:11 ET]
+Table 'Sova IV' 6-max Seat #4 is the button
+Seat 1: steepfell ($111.95 in chips) 
+Seat 2: whlzor ($101.50 in chips) 
+Seat 3: RAidakCo ($101 in chips) 
+Seat 4: lwowo ($44 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($100 in chips) 
+Gfoer: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+whlzor: folds 
+RAidakCo: raises $1.20 to $2.20
+lwowo: folds 
+Gfoer: folds 
+fedor0f: folds 
+Uncalled bet ($1.20) returned to RAidakCo
+RAidakCo collected $2.50 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steepfell folded before Flop (didn't bet)
+Seat 2: whlzor folded before Flop (didn't bet)
+Seat 3: RAidakCo collected ($2.50)
+Seat 4: lwowo (button) folded before Flop (didn't bet)
+Seat 5: Gfoer (small blind) folded before Flop
+Seat 6: fedor0f (big blind) folded before Flop
+
+
+
+PokerStars Hand #254545359416:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:19:29 WET [2025/01/25 9:19:29 ET]
+Table 'Sova IV' 6-max Seat #5 is the button
+Seat 1: steepfell ($111.95 in chips) 
+Seat 2: whlzor ($101.50 in chips) 
+Seat 3: RAidakCo ($102.50 in chips) 
+Seat 4: lwowo ($44 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($100 in chips) 
+fedor0f: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+whlzor: folds 
+RAidakCo: folds 
+lwowo: folds 
+Gfoer: folds 
+fedor0f: folds 
+Uncalled bet ($0.50) returned to steepfell
+steepfell collected $1 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: steepfell (big blind) collected ($1)
+Seat 2: whlzor folded before Flop (didn't bet)
+Seat 3: RAidakCo folded before Flop (didn't bet)
+Seat 4: lwowo folded before Flop (didn't bet)
+Seat 5: Gfoer (button) folded before Flop (didn't bet)
+Seat 6: fedor0f (small blind) folded before Flop
+
+
+
+PokerStars Hand #254545362460:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:19:44 WET [2025/01/25 9:19:44 ET]
+Table 'Sova IV' 6-max Seat #6 is the button
+Seat 1: steepfell ($112.45 in chips) 
+Seat 2: whlzor ($101.50 in chips) 
+Seat 3: RAidakCo ($102.50 in chips) 
+Seat 4: lwowo ($44 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($100 in chips) 
+steepfell: posts small blind $0.50
+whlzor: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: folds 
+lwowo: folds 
+Gfoer: folds 
+fedor0f: raises $1.20 to $2.20
+steepfell: folds 
+whlzor: folds 
+Uncalled bet ($1.20) returned to fedor0f
+fedor0f collected $2.50 from pot
+fedor0f: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steepfell (small blind) folded before Flop
+Seat 2: whlzor (big blind) folded before Flop
+Seat 3: RAidakCo folded before Flop (didn't bet)
+Seat 4: lwowo folded before Flop (didn't bet)
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: fedor0f (button) collected ($2.50)
+
+
+
+PokerStars Hand #254545364879:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:19:57 WET [2025/01/25 9:19:57 ET]
+Table 'Sova IV' 6-max Seat #1 is the button
+Seat 1: steepfell ($111.95 in chips) 
+Seat 2: whlzor ($100.50 in chips) 
+Seat 3: RAidakCo ($102.50 in chips) 
+Seat 4: lwowo ($44 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($101.50 in chips) 
+whlzor: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+lwowo: calls $1
+Gfoer: folds 
+fedor0f: folds 
+steepfell: raises $3 to $4
+whlzor: folds 
+RAidakCo: folds 
+lwowo: calls $3
+*** FLOP *** [3s 5h 5c]
+lwowo: checks 
+steepfell: bets $2.98
+lwowo: calls $2.98
+*** TURN *** [3s 5h 5c] [4d]
+lwowo: checks 
+steepfell: checks 
+*** RIVER *** [3s 5h 5c 4d] [Jh]
+lwowo: bets $7.35
+steepfell: calls $7.35
+*** SHOW DOWN ***
+lwowo: shows [6d 6c] (two pair, Sixes and Fives)
+steepfell: shows [Jd Qc] (two pair, Jacks and Fives)
+steepfell collected $28.65 from pot
+*** SUMMARY ***
+Total pot $30.16 | Rake $1.51 
+Board [3s 5h 5c 4d Jh]
+Seat 1: steepfell (button) showed [Jd Qc] and won ($28.65) with two pair, Jacks and Fives
+Seat 2: whlzor (small blind) folded before Flop
+Seat 3: RAidakCo (big blind) folded before Flop
+Seat 4: lwowo showed [6d 6c] and lost with two pair, Sixes and Fives
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: fedor0f folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254545372599:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:20:37 WET [2025/01/25 9:20:37 ET]
+Table 'Sova IV' 6-max Seat #2 is the button
+Seat 1: steepfell ($126.27 in chips) 
+Seat 2: whlzor ($100 in chips) 
+Seat 3: RAidakCo ($101.50 in chips) 
+Seat 4: lwowo ($29.67 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($101.50 in chips) 
+RAidakCo: posts small blind $0.50
+lwowo: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: raises $1.20 to $2.20
+fedor0f: folds 
+steepfell: folds 
+whlzor: raises $6.30 to $8.50
+RAidakCo: folds 
+lwowo: folds 
+Gfoer: folds 
+Uncalled bet ($6.30) returned to whlzor
+whlzor collected $5.90 from pot
+whlzor: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: steepfell folded before Flop (didn't bet)
+Seat 2: whlzor (button) collected ($5.90)
+Seat 3: RAidakCo (small blind) folded before Flop
+Seat 4: lwowo (big blind) folded before Flop
+Seat 5: Gfoer folded before Flop
+Seat 6: fedor0f folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254545376514:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:20:57 WET [2025/01/25 9:20:57 ET]
+Table 'Sova IV' 6-max Seat #3 is the button
+Seat 1: steepfell ($126.27 in chips) 
+Seat 2: whlzor ($103.70 in chips) 
+Seat 3: RAidakCo ($101 in chips) 
+Seat 4: lwowo ($28.67 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($101.50 in chips) 
+lwowo: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+fedor0f: raises $1 to $2
+steepfell: folds 
+whlzor: folds 
+RAidakCo: folds 
+lwowo: calls $1.50
+Gfoer: folds 
+*** FLOP *** [2c Qs Tc]
+lwowo: checks 
+fedor0f: bets $1.57
+lwowo: calls $1.57
+*** TURN *** [2c Qs Tc] [Ad]
+lwowo: checks 
+fedor0f: bets $5.41
+lwowo: folds 
+Uncalled bet ($5.41) returned to fedor0f
+fedor0f collected $7.73 from pot
+fedor0f: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.14 | Rake $0.41 
+Board [2c Qs Tc Ad]
+Seat 1: steepfell folded before Flop (didn't bet)
+Seat 2: whlzor folded before Flop (didn't bet)
+Seat 3: RAidakCo (button) folded before Flop (didn't bet)
+Seat 4: lwowo (small blind) folded on the Turn
+Seat 5: Gfoer (big blind) folded before Flop
+Seat 6: fedor0f collected ($7.73)
+
+
+
+PokerStars Hand #254545386275:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:21:47 WET [2025/01/25 9:21:47 ET]
+Table 'Sova IV' 6-max Seat #4 is the button
+Seat 1: steepfell ($126.27 in chips) 
+Seat 2: whlzor ($103.70 in chips) 
+Seat 3: RAidakCo ($101 in chips) 
+Seat 4: lwowo ($25.10 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($105.66 in chips) 
+Gfoer: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+whlzor: folds 
+RAidakCo: folds 
+lwowo: folds 
+Gfoer: raises $1.50 to $2.50
+fedor0f: raises $5 to $7.50
+Gfoer: folds 
+Uncalled bet ($5) returned to fedor0f
+fedor0f collected $5 from pot
+fedor0f: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: steepfell folded before Flop (didn't bet)
+Seat 2: whlzor folded before Flop (didn't bet)
+Seat 3: RAidakCo folded before Flop (didn't bet)
+Seat 4: lwowo (button) folded before Flop (didn't bet)
+Seat 5: Gfoer (small blind) folded before Flop
+Seat 6: fedor0f (big blind) collected ($5)
+
+
+
+PokerStars Hand #254545391562:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:22:14 WET [2025/01/25 9:22:14 ET]
+Table 'Sova IV' 6-max Seat #5 is the button
+Seat 1: steepfell ($126.27 in chips) 
+Seat 2: whlzor ($103.70 in chips) 
+Seat 3: RAidakCo ($101 in chips) 
+Seat 4: lwowo ($25.10 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($108.16 in chips) 
+fedor0f: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+whlzor: raises $1.50 to $2.50
+RAidakCo: folds 
+lwowo: calls $2.50
+Gfoer: folds 
+fedor0f: folds 
+steepfell: folds 
+*** FLOP *** [8d Jh 4s]
+whlzor: checks 
+lwowo: checks 
+*** TURN *** [8d Jh 4s] [3d]
+whlzor: checks 
+lwowo: bets $2
+whlzor: calls $2
+*** RIVER *** [8d Jh 4s 3d] [8s]
+whlzor: checks 
+lwowo: bets $4.99
+whlzor: folds 
+Uncalled bet ($4.99) returned to lwowo
+lwowo collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [8d Jh 4s 3d 8s]
+Seat 1: steepfell (big blind) folded before Flop
+Seat 2: whlzor folded on the River
+Seat 3: RAidakCo folded before Flop (didn't bet)
+Seat 4: lwowo collected ($9.98)
+Seat 5: Gfoer (button) folded before Flop (didn't bet)
+Seat 6: fedor0f (small blind) folded before Flop
+
+
+
+PokerStars Hand #254545403216:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:23:14 WET [2025/01/25 9:23:14 ET]
+Table 'Sova IV' 6-max Seat #6 is the button
+Seat 2: whlzor ($100 in chips) is sitting out
+Seat 1: steepfell ($125.27 in chips) 
+Seat 3: RAidakCo ($101 in chips) 
+Seat 4: lwowo ($30.58 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: fedor0f ($107.66 in chips) 
+steepfell: posts small blind $0.50
+whlzor: is sitting out 
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+whlzor leaves the table
+lwowo: calls $1
+Gfoer: raises $4 to $5
+fedor0f: folds 
+steepfell: folds 
+RAidakCo: folds 
+joaquin612 joins the table at seat #2 
+lwowo: calls $4
+*** FLOP *** [2s Td 6c]
+lwowo: checks 
+Gfoer: bets $8.69
+lwowo: calls $8.69
+*** TURN *** [2s Td 6c] [4d]
+lwowo: checks 
+Gfoer: bets $20.58
+lwowo: folds 
+Uncalled bet ($20.58) returned to Gfoer
+Gfoer collected $27.44 from pot
+Gfoer: doesn't show hand 
+*** SUMMARY ***
+Total pot $28.88 | Rake $1.44 
+Board [2s Td 6c 4d]
+Seat 2: whlzor
+Seat 1: steepfell (small blind) folded before Flop
+Seat 3: RAidakCo (big blind) folded before Flop
+Seat 4: lwowo folded on the Turn
+Seat 5: Gfoer collected ($27.44)
+Seat 6: fedor0f (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254545410588:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:23:52 WET [2025/01/25 9:23:52 ET]
+Table 'Sova IV' 6-max Seat #1 is the button
+Seat 2: joaquin612 ($100 in chips) is sitting out
+Seat 1: steepfell ($124.77 in chips) 
+Seat 3: RAidakCo ($100 in chips) 
+Seat 4: lwowo ($16.89 in chips) 
+Seat 5: Gfoer ($113.75 in chips) 
+Seat 6: fedor0f ($107.66 in chips) 
+RAidakCo: posts small blind $0.50
+lwowo: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+fedor0f: folds 
+steepfell: folds 
+RAidakCo: folds 
+Uncalled bet ($0.50) returned to lwowo
+lwowo collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: joaquin612
+Seat 1: steepfell (button) folded before Flop (didn't bet)
+Seat 3: RAidakCo (small blind) folded before Flop
+Seat 4: lwowo (big blind) collected ($1)
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: fedor0f folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254545413669:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:24:08 WET [2025/01/25 9:24:08 ET]
+Table 'Sova IV' 6-max Seat #3 is the button
+Seat 2: joaquin612 ($100 in chips) is sitting out
+Seat 1: steepfell ($124.77 in chips) 
+Seat 3: RAidakCo ($100 in chips) 
+Seat 4: lwowo ($17.39 in chips) 
+Seat 5: Gfoer ($113.75 in chips) 
+Seat 6: fedor0f ($107.66 in chips) 
+lwowo: posts small blind $0.50
+Gfoer: posts big blind $1
+joaquin612: sits out 
+*** HOLE CARDS ***
+fedor0f: folds 
+steepfell: folds 
+RAidakCo: folds 
+lwowo: folds 
+Uncalled bet ($0.50) returned to Gfoer
+Gfoer collected $1 from pot
+Gfoer: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: joaquin612
+Seat 1: steepfell folded before Flop (didn't bet)
+Seat 3: RAidakCo (button) folded before Flop (didn't bet)
+Seat 4: lwowo (small blind) folded before Flop
+Seat 5: Gfoer (big blind) collected ($1)
+Seat 6: fedor0f folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254545417162:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:24:26 WET [2025/01/25 9:24:26 ET]
+Table 'Sova IV' 6-max Seat #4 is the button
+Seat 2: joaquin612 ($100 in chips) is sitting out
+Seat 1: steepfell ($124.77 in chips) 
+Seat 3: RAidakCo ($100 in chips) 
+Seat 4: lwowo ($16.89 in chips) 
+Seat 5: Gfoer ($114.25 in chips) 
+Seat 6: fedor0f ($107.66 in chips) 
+Gfoer: posts small blind $0.50
+fedor0f: posts big blind $1
+joaquin612: sits out 
+*** HOLE CARDS ***
+steepfell: folds 
+RAidakCo: folds 
+lwowo: calls $1
+Gfoer: raises $4 to $5
+fedor0f: calls $4
+lwowo: calls $4
+*** FLOP *** [Jh Jc 2h]
+Gfoer: checks 
+fedor0f: bets $4.70
+lwowo: folds 
+Gfoer: calls $4.70
+*** TURN *** [Jh Jc 2h] [3c]
+Gfoer: checks 
+fedor0f: checks 
+*** RIVER *** [Jh Jc 2h 3c] [5c]
+Gfoer: bets $12.09
+fedor0f: folds 
+Uncalled bet ($12.09) returned to Gfoer
+Gfoer collected $23.18 from pot
+Gfoer: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.40 | Rake $1.22 
+Board [Jh Jc 2h 3c 5c]
+Seat 2: joaquin612
+Seat 1: steepfell folded before Flop (didn't bet)
+Seat 3: RAidakCo folded before Flop (didn't bet)
+Seat 4: lwowo (button) folded on the Flop
+Seat 5: Gfoer (small blind) collected ($23.18)
+Seat 6: fedor0f (big blind) folded on the River
+
+
+
+PokerStars Hand #254545434638:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:25:54 WET [2025/01/25 9:25:54 ET]
+Table 'Sova IV' 6-max Seat #5 is the button
+Seat 2: joaquin612 ($100 in chips) is sitting out
+Seat 1: steepfell ($124.77 in chips) 
+Seat 3: RAidakCo ($100 in chips) 
+Seat 4: lwowo ($11.89 in chips) 
+Seat 5: Gfoer ($127.73 in chips) 
+Seat 6: fedor0f ($100 in chips) 
+fedor0f: posts small blind $0.50
+steepfell: posts big blind $1
+joaquin612: sits out 
+*** HOLE CARDS ***
+RAidakCo: folds 
+lwowo: folds 
+Gfoer: folds 
+fedor0f: folds 
+Uncalled bet ($0.50) returned to steepfell
+steepfell collected $1 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: joaquin612
+Seat 1: steepfell (big blind) collected ($1)
+Seat 3: RAidakCo folded before Flop (didn't bet)
+Seat 4: lwowo folded before Flop (didn't bet)
+Seat 5: Gfoer (button) folded before Flop (didn't bet)
+Seat 6: fedor0f (small blind) folded before Flop
+
+
+
+PokerStars Hand #254545436491:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:26:04 WET [2025/01/25 9:26:04 ET]
+Table 'Sova IV' 6-max Seat #6 is the button
+Seat 1: steepfell ($125.27 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: RAidakCo ($100 in chips) 
+Seat 4: lwowo ($11.89 in chips) 
+Seat 5: Gfoer ($127.73 in chips) 
+Seat 6: fedor0f ($100 in chips) 
+steepfell: posts small blind $0.50
+joaquin612: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: raises $1 to $2
+lwowo: calls $2
+Gfoer: folds 
+fedor0f: folds 
+steepfell: folds 
+joaquin612: folds 
+*** FLOP *** [9h 9d Jh]
+RAidakCo: checks 
+lwowo: bets $1
+RAidakCo: raises $10.83 to $11.83
+lwowo: calls $8.89 and is all-in
+Uncalled bet ($1.94) returned to RAidakCo
+*** TURN *** [9h 9d Jh] [Ks]
+*** RIVER *** [9h 9d Jh Ks] [Kd]
+*** SHOW DOWN ***
+RAidakCo: shows [Ah As] (two pair, Aces and Kings)
+lwowo: shows [7d 7s] (two pair, Kings and Nines)
+RAidakCo collected $24.02 from pot
+*** SUMMARY ***
+Total pot $25.28 | Rake $1.26 
+Board [9h 9d Jh Ks Kd]
+Seat 1: steepfell (small blind) folded before Flop
+Seat 2: joaquin612 (big blind) folded before Flop
+Seat 3: RAidakCo showed [Ah As] and won ($24.02) with two pair, Aces and Kings
+Seat 4: lwowo showed [7d 7s] and lost with two pair, Kings and Nines
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: fedor0f (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254545445124:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:26:47 WET [2025/01/25 9:26:47 ET]
+Table 'Sova IV' 6-max Seat #1 is the button
+Seat 4: lwowo ($0 in chips) is sitting out
+Seat 1: steepfell ($124.77 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: RAidakCo ($112.13 in chips) 
+Seat 5: Gfoer ($127.73 in chips) 
+Seat 6: fedor0f ($100 in chips) 
+joaquin612: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+fedor0f: raises $1.20 to $2.20
+steepfell: folds 
+lwowo leaves the table
+joaquin612: folds 
+RAidakCo: folds 
+Uncalled bet ($1.20) returned to fedor0f
+fedor0f collected $2.50 from pot
+fedor0f: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: lwowo
+Seat 1: steepfell (button) folded before Flop (didn't bet)
+Seat 2: joaquin612 (small blind) folded before Flop
+Seat 3: RAidakCo (big blind) folded before Flop
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: fedor0f collected ($2.50)
+
+
+
+PokerStars Hand #254545448413:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:27:04 WET [2025/01/25 9:27:04 ET]
+Table 'Sova IV' 6-max Seat #3 is the button
+Seat 1: steepfell ($124.77 in chips) is sitting out
+Seat 5: Gfoer ($127.73 in chips) is sitting out
+Seat 6: fedor0f ($101.50 in chips) is sitting out
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: RAidakCo ($111.13 in chips) 
+RAidakCo: posts small blind $0.50
+Gfoer: is sitting out 
+fedor0f: is sitting out 
+steepfell: is sitting out 
+joaquin612: posts big blind $1
+*** HOLE CARDS ***
+steepfell leaves the table
+RAidakCo: folds 
+Uncalled bet ($0.50) returned to joaquin612
+fedor0f leaves the table
+joaquin612 collected $1 from pot
+Gfoer leaves the table
+joaquin612: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: steepfell
+Seat 5: Gfoer
+Seat 6: fedor0f
+Seat 2: joaquin612 (big blind) collected ($1)
+Seat 3: RAidakCo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254545449925:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 14:27:12 WET [2025/01/25 9:27:12 ET]
+Table 'Sova IV' 6-max Seat #2 is the button
+Seat 2: joaquin612 ($100.50 in chips) 
+Seat 3: RAidakCo ($110.63 in chips) 
+joaquin612: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+joaquin612: folds 
+Uncalled bet ($0.50) returned to RAidakCo
+RAidakCo collected $1 from pot
+joaquin612 leaves the table
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: joaquin612 (button) (small blind) folded before Flop
+Seat 3: RAidakCo (big blind) collected ($1)
+
+
+

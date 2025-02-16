@@ -1,0 +1,2536 @@
+﻿PokerStars Hand #254409427719:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:27:52 WET [2025/01/16 21:27:52 ET]
+Table 'Haltia III' 6-max Seat #4 is the button
+Seat 1: steelNike ($51.48 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($103.18 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($104 in chips) 
+Seat 6: steepfell ($100 in chips) 
+lukazs2: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+steelNike: raises $1 to $2
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: calls $1.50
+steepfell: raises $10 to $12
+steelNike: raises $39.48 to $51.48 and is all-in
+lukazs2: folds 
+steepfell: calls $39.48
+*** FIRST FLOP *** [5c 8h 5s]
+*** FIRST TURN *** [5c 8h 5s] [Td]
+*** FIRST RIVER *** [5c 8h 5s Td] [Qs]
+*** SECOND FLOP *** [Kd 4c 3c]
+*** SECOND TURN *** [Kd 4c 3c] [5d]
+*** SECOND RIVER *** [Kd 4c 3c 5d] [2d]
+*** FIRST SHOW DOWN ***
+steepfell: shows [9d 9s] (two pair, Nines and Fives)
+steelNike: shows [Ah Kc] (a pair of Fives)
+steepfell collected $51.23 from pot
+*** SECOND SHOW DOWN ***
+steepfell: shows [9d 9s] (a pair of Nines)
+steelNike: shows [Ah Kc] (a straight, Ace to Five)
+steelNike collected $51.23 from pot
+*** SUMMARY ***
+Total pot $104.96 | Rake $2.50 
+Hand was run twice
+FIRST Board [5c 8h 5s Td Qs]
+SECOND Board [Kd 4c 3c 5d 2d]
+Seat 1: steelNike showed [Ah Kc] and lost with a pair of Fives, and won ($51.23) with a straight, Ace to Five
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) folded before Flop
+Seat 6: steepfell (big blind) showed [9d 9s] and won ($51.23) with two pair, Nines and Fives, and lost with a pair of Nines
+
+
+
+PokerStars Hand #254409436963:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:28:55 WET [2025/01/16 21:28:55 ET]
+Table 'Haltia III' 6-max Seat #5 is the button
+Seat 1: steelNike ($51.23 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($103.18 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($102 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steepfell: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: calls $1
+steepfell: folds 
+steelNike: checks 
+*** FLOP *** [7h Kc 4c]
+steelNike: checks 
+lukazs2: bets $1.19
+steelNike: folds 
+Uncalled bet ($1.19) returned to lukazs2
+lukazs2 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [7h Kc 4c]
+Seat 1: steelNike (big blind) folded on the Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) collected ($2.38)
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409440789:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:29:21 WET [2025/01/16 21:29:21 ET]
+Table 'Haltia III' 6-max Seat #6 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($103.18 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($103.38 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steelNike: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: raises $5.50 to $6.50
+steepfell: raises $16 to $22.50
+steelNike: folds 
+Rysiff: folds 
+lukazs2: raises $80.88 to $103.38 and is all-in
+steepfell: calls $77.50 and is all-in
+Uncalled bet ($3.38) returned to lukazs2
+*** FLOP *** [7s Ac 6c]
+*** TURN *** [7s Ac 6c] [Kh]
+*** RIVER *** [7s Ac 6c Kh] [2c]
+*** SHOW DOWN ***
+lukazs2: shows [Kd As] (two pair, Aces and Kings)
+steepfell: shows [Jd Jc] (a pair of Jacks)
+lukazs2 collected $199 from pot
+*** SUMMARY ***
+Total pot $201.50 | Rake $2.50 
+Board [7s Ac 6c Kh 2c]
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 showed [Kd As] and won ($199) with two pair, Aces and Kings
+Seat 6: steepfell (button) showed [Jd Jc] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254409445990:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:29:57 WET [2025/01/16 21:29:57 ET]
+Table 'Haltia III' 6-max Seat #1 is the button
+Seat 1: steelNike ($99.50 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($103.18 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($202.38 in chips) 
+Seat 6: steepfell ($100 in chips) 
+Rysiff: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+lukazs2: raises $4 to $5
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Uncalled bet ($4) returned to lukazs2
+lukazs2 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: mironchikvld (big blind) folded before Flop
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($2.50)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409449399:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:30:19 WET [2025/01/16 21:30:19 ET]
+Table 'Haltia III' 6-max Seat #2 is the button
+Seat 1: steelNike ($99.50 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($102.18 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($203.88 in chips) 
+Seat 6: steepfell ($100 in chips) 
+mironchikvld: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: raises $5.50 to $6.50
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+Uncalled bet ($5.50) returned to lukazs2
+lukazs2 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: mironchikvld (small blind) folded before Flop
+Seat 4: Manifestorr (big blind) folded before Flop
+Seat 5: lukazs2 collected ($2.50)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409451782:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:30:35 WET [2025/01/16 21:30:35 ET]
+Table 'Haltia III' 6-max Seat #3 is the button
+Seat 1: steelNike ($99.50 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($101.68 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($205.38 in chips) 
+Seat 6: steepfell ($100 in chips) 
+Manifestorr: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: raises $2 to $3
+Manifestorr: folds 
+lukazs2: calls $2
+*** FLOP *** [8d Ks Js]
+lukazs2: checks 
+mironchikvld: bets $2.04
+lukazs2: raises $5.13 to $7.17
+mironchikvld: calls $5.13
+*** TURN *** [8d Ks Js] [Kd]
+lukazs2: checks 
+mironchikvld: checks 
+*** RIVER *** [8d Ks Js Kd] [6h]
+lukazs2: checks 
+mironchikvld: bets $13.07
+lukazs2: folds 
+Uncalled bet ($13.07) returned to mironchikvld
+mironchikvld collected $19.80 from pot
+mironchikvld: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.84 | Rake $1.04 
+Board [8d Ks Js Kd 6h]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld (button) collected ($19.80)
+Seat 4: Manifestorr (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) folded on the River
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409463784:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:31:56 WET [2025/01/16 21:31:56 ET]
+Table 'Haltia III' 6-max Seat #4 is the button
+Seat 1: steelNike ($99.50 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($111.31 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($195.21 in chips) 
+Seat 6: steepfell ($100 in chips) 
+lukazs2: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rysiff: raises $1.50 to $2.50
+mironchikvld has timed out
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: raises $2.50 to $5
+steepfell: folds 
+Rysiff: calls $2.50
+*** FLOP *** [2h 7h 4s]
+lukazs2: checks 
+Rysiff: checks 
+*** TURN *** [2h 7h 4s] [7c]
+lukazs2: checks 
+Rysiff: checks 
+*** RIVER *** [2h 7h 4s 7c] [6s]
+lukazs2: checks 
+Rysiff: checks 
+*** SHOW DOWN ***
+lukazs2: shows [Js Tc] (a pair of Sevens)
+Rysiff: shows [Ks Qd] (a pair of Sevens - King kicker)
+Rysiff collected $10.45 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [2h 7h 4s 7c 6s]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff showed [Ks Qd] and won ($10.45) with a pair of Sevens
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) showed [Js Tc] and lost with a pair of Sevens
+Seat 6: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409471218:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:32:46 WET [2025/01/16 21:32:46 ET]
+Table 'Haltia III' 6-max Seat #5 is the button
+Seat 1: steelNike ($99.50 in chips) 
+Seat 2: Rysiff ($105.45 in chips) 
+Seat 3: mironchikvld ($111.31 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($190.21 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steepfell: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: folds 
+steepfell: folds 
+Uncalled bet ($0.50) returned to steelNike
+steelNike collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: steelNike (big blind) collected ($1)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded before Flop (didn't bet)
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409473586:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:33:02 WET [2025/01/16 21:33:02 ET]
+Table 'Haltia III' 6-max Seat #6 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($105.45 in chips) 
+Seat 3: mironchikvld ($111.31 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($190.21 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steelNike: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: calls $1
+steepfell: folds 
+steelNike: raises $6 to $7
+Rysiff: folds 
+lukazs2: calls $6
+*** FLOP *** [6d Ah Tc]
+steelNike: checks 
+lukazs2: bets $9.13
+steelNike: folds 
+Uncalled bet ($9.13) returned to lukazs2
+lukazs2 collected $14.25 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [6d Ah Tc]
+Seat 1: steelNike (small blind) folded on the Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($14.25)
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409481969:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:33:59 WET [2025/01/16 21:33:59 ET]
+Table 'Haltia III' 6-max Seat #1 is the button
+Seat 1: steelNike ($93 in chips) 
+Seat 2: Rysiff ($104.45 in chips) 
+Seat 3: mironchikvld ($111.31 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($197.46 in chips) 
+Seat 6: steepfell ($100 in chips) 
+Rysiff: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+lukazs2: calls $1
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: checks 
+*** FLOP *** [8c Ts Ac]
+mironchikvld: checks 
+lukazs2: bets $2.38
+mironchikvld: folds 
+Uncalled bet ($2.38) returned to lukazs2
+lukazs2 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [8c Ts Ac]
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: mironchikvld (big blind) folded on the Flop
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($2.38)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409486286:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:34:29 WET [2025/01/16 21:34:29 ET]
+Table 'Haltia III' 6-max Seat #2 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($103.95 in chips) 
+Seat 3: mironchikvld ($110.31 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($198.84 in chips) 
+Seat 6: steepfell ($100 in chips) 
+mironchikvld: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: folds 
+steepfell: folds 
+steelNike: folds 
+Rysiff: raises $1.50 to $2.50
+mironchikvld: folds 
+Manifestorr: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff (button) collected ($2.50)
+Seat 3: mironchikvld (small blind) folded before Flop
+Seat 4: Manifestorr (big blind) folded before Flop
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409489774:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:34:52 WET [2025/01/16 21:34:52 ET]
+Table 'Haltia III' 6-max Seat #3 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($105.45 in chips) 
+Seat 3: mironchikvld ($109.81 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($198.84 in chips) 
+Seat 6: steepfell ($100 in chips) 
+Manifestorr: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: raises $2 to $3
+Manifestorr: folds 
+lukazs2: calls $2
+*** FLOP *** [Jd 5h 8c]
+lukazs2: checks 
+mironchikvld: bets $2.04
+lukazs2: folds 
+Uncalled bet ($2.04) returned to mironchikvld
+mironchikvld collected $6.18 from pot
+mironchikvld: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Jd 5h 8c]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld (button) collected ($6.18)
+Seat 4: Manifestorr (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) folded on the Flop
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409494118:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:35:21 WET [2025/01/16 21:35:21 ET]
+Table 'Haltia III' 6-max Seat #4 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($105.45 in chips) 
+Seat 3: mironchikvld ($112.99 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($195.84 in chips) 
+Seat 6: steepfell ($100 in chips) 
+lukazs2: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: calls $1.70
+steepfell: folds 
+*** FLOP *** [8c 5h 8h]
+lukazs2: checks 
+Manifestorr: bets $1.69
+lukazs2: calls $1.69
+*** TURN *** [8c 5h 8h] [5d]
+lukazs2: checks 
+Manifestorr: checks 
+*** RIVER *** [8c 5h 8h 5d] [6d]
+lukazs2: bets $1
+Manifestorr: calls $1
+*** SHOW DOWN ***
+lukazs2: shows [6c 9c] (two pair, Eights and Sixes)
+Manifestorr: mucks hand 
+lukazs2 collected $10.24 from pot
+*** SUMMARY ***
+Total pot $10.78 | Rake $0.54 
+Board [8c 5h 8h 5d 6d]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) mucked
+Seat 5: lukazs2 (small blind) showed [6c 9c] and won ($10.24) with two pair, Eights and Sixes
+Seat 6: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409500252:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:36:03 WET [2025/01/16 21:36:03 ET]
+Table 'Haltia III' 6-max Seat #5 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($105.45 in chips) 
+Seat 3: mironchikvld ($112.99 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($201.19 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steepfell: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: folds 
+steepfell: folds 
+Uncalled bet ($0.50) returned to steelNike
+steelNike collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: steelNike (big blind) collected ($1)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded before Flop (didn't bet)
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409501696:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:36:12 WET [2025/01/16 21:36:12 ET]
+Table 'Haltia III' 6-max Seat #6 is the button
+Seat 1: steelNike ($100.50 in chips) 
+Seat 2: Rysiff ($105.45 in chips) 
+Seat 3: mironchikvld ($112.99 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($201.19 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steelNike: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: raises $3 to $4
+steepfell: raises $8 to $12
+steelNike: folds 
+Rysiff: folds 
+lukazs2: calls $8
+*** FLOP *** [Ah 7s Ks]
+lukazs2: checks 
+steepfell: bets $12.11
+lukazs2: calls $12.11
+*** TURN *** [Ah 7s Ks] [9d]
+lukazs2: checks 
+steepfell: bets $23.62
+lukazs2: folds 
+Uncalled bet ($23.62) returned to steepfell
+steepfell collected $47.23 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $49.72 | Rake $2.49 
+Board [Ah 7s Ks 9d]
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 folded on the Turn
+Seat 6: steepfell (button) collected ($47.23)
+
+
+
+PokerStars Hand #254409513269:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:37:32 WET [2025/01/16 21:37:32 ET]
+Table 'Haltia III' 6-max Seat #1 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($104.45 in chips) 
+Seat 3: mironchikvld ($112.99 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($177.08 in chips) 
+Seat 6: steepfell ($123.12 in chips) 
+Rysiff: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+lukazs2: calls $1
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: checks 
+*** FLOP *** [Ac 6d 8d]
+mironchikvld: checks 
+lukazs2: bets $2.38
+mironchikvld: calls $2.38
+*** TURN *** [Ac 6d 8d] [3d]
+mironchikvld: checks 
+lukazs2: bets $3.45
+mironchikvld: folds 
+Uncalled bet ($3.45) returned to lukazs2
+lukazs2 collected $6.90 from pot
+*** SUMMARY ***
+Total pot $7.26 | Rake $0.36 
+Board [Ac 6d 8d 3d]
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: mironchikvld (big blind) folded on the Turn
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($6.90)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409522365:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:38:34 WET [2025/01/16 21:38:34 ET]
+Table 'Haltia III' 6-max Seat #2 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($103.95 in chips) 
+Seat 3: mironchikvld ($109.61 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($180.60 in chips) 
+Seat 6: steepfell ($123.12 in chips) 
+mironchikvld: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: raises $2.50 to $3.50
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+Uncalled bet ($2.50) returned to lukazs2
+lukazs2 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: mironchikvld (small blind) folded before Flop
+Seat 4: Manifestorr (big blind) folded before Flop
+Seat 5: lukazs2 collected ($2.50)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409525276:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:38:53 WET [2025/01/16 21:38:53 ET]
+Table 'Haltia III' 6-max Seat #3 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($103.95 in chips) 
+Seat 3: mironchikvld ($109.11 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($182.10 in chips) 
+Seat 6: steepfell ($123.12 in chips) 
+Manifestorr: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: raises $2 to $3
+lukazs2: calls $2
+*** FLOP *** [Ah 2h Ac]
+Manifestorr: checks 
+lukazs2: bets $1
+Manifestorr: raises $3 to $4
+lukazs2: raises $3 to $7
+Manifestorr: raises $18 to $25
+lukazs2: raises $18 to $43
+Manifestorr: folds 
+Uncalled bet ($18) returned to lukazs2
+lukazs2 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $56 | Rake $2.50 
+Board [Ah 2h Ac]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld (button) folded before Flop (didn't bet)
+Seat 4: Manifestorr (small blind) folded on the Flop
+Seat 5: lukazs2 (big blind) collected ($53.50)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409532429:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:39:42 WET [2025/01/16 21:39:42 ET]
+Table 'Haltia III' 6-max Seat #4 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($103.95 in chips) 
+Seat 3: mironchikvld ($109.11 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($207.60 in chips) 
+Seat 6: steepfell ($123.12 in chips) 
+lukazs2: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+steelNike: raises $1 to $2
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: raises $1 to $3
+steepfell: calls $2
+steelNike: calls $1
+*** FLOP *** [8d 6s Ah]
+lukazs2: checks 
+steepfell: checks 
+steelNike: checks 
+*** TURN *** [8d 6s Ah] [As]
+lukazs2: checks 
+steepfell: checks 
+steelNike: checks 
+*** RIVER *** [8d 6s Ah As] [6h]
+lukazs2: bets $8.55
+steepfell: folds 
+steelNike: folds 
+Uncalled bet ($8.55) returned to lukazs2
+lukazs2 collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [8d 6s Ah As 6h]
+Seat 1: steelNike folded on the River
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) collected ($8.55)
+Seat 6: steepfell (big blind) folded on the River
+
+
+
+PokerStars Hand #254409540386:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:40:36 WET [2025/01/16 21:40:36 ET]
+Table 'Haltia III' 6-max Seat #5 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($103.95 in chips) 
+Seat 3: mironchikvld ($109.11 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($213.15 in chips) 
+Seat 6: steepfell ($120.12 in chips) 
+steepfell: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mironchikvld has timed out
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: raises $4.20 to $6.40
+steepfell: folds 
+steelNike: folds 
+Manifestorr: raises $18.60 to $25
+lukazs2: folds 
+Uncalled bet ($18.60) returned to Manifestorr
+Manifestorr collected $14.30 from pot
+*** SUMMARY ***
+Total pot $14.30 | Rake $0 
+Seat 1: steelNike (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr collected ($14.30)
+Seat 5: lukazs2 (button) folded before Flop
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409547465:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:41:25 WET [2025/01/16 21:41:25 ET]
+Table 'Haltia III' 6-max Seat #6 is the button
+Seat 1: steelNike ($99 in chips) 
+Seat 2: Rysiff ($103.95 in chips) 
+Seat 3: mironchikvld ($109.11 in chips) 
+Seat 4: Manifestorr ($107.90 in chips) 
+Seat 5: lukazs2 ($206.75 in chips) 
+Seat 6: steepfell ($119.62 in chips) 
+steelNike: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: raises $2 to $3
+Manifestorr: folds 
+lukazs2: calls $3
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+*** FLOP *** [9d 2c 5h]
+mironchikvld: checks 
+lukazs2: bets $7.12
+mironchikvld: folds 
+Uncalled bet ($7.12) returned to lukazs2
+lukazs2 collected $7.12 from pot
+lukazs2: shows [9s Qd] (a pair of Nines)
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [9d 2c 5h]
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: mironchikvld folded on the Flop
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($7.12)
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409551967:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:41:55 WET [2025/01/16 21:41:55 ET]
+Table 'Haltia III' 6-max Seat #1 is the button
+Seat 1: steelNike ($98.50 in chips) 
+Seat 2: Rysiff ($102.95 in chips) 
+Seat 3: mironchikvld ($106.11 in chips) 
+Seat 4: Manifestorr ($107.90 in chips) 
+Seat 5: lukazs2 ($210.87 in chips) 
+Seat 6: steepfell ($119.62 in chips) 
+Rysiff: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+lukazs2: raises $2 to $3
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Uncalled bet ($2) returned to lukazs2
+lukazs2 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: mironchikvld (big blind) folded before Flop
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($2.50)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409554482:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:42:12 WET [2025/01/16 21:42:12 ET]
+Table 'Haltia III' 6-max Seat #2 is the button
+Seat 1: steelNike ($98.50 in chips) 
+Seat 2: Rysiff ($102.45 in chips) 
+Seat 3: mironchikvld ($105.11 in chips) 
+Seat 4: Manifestorr ($107.90 in chips) 
+Seat 5: lukazs2 ($212.37 in chips) 
+Seat 6: steepfell ($119.62 in chips) 
+mironchikvld: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: calls $1
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: raises $3 to $4
+Manifestorr: folds 
+lukazs2: calls $3
+*** FLOP *** [9h 4s 7d]
+mironchikvld: bets $2
+lukazs2: calls $2
+*** TURN *** [9h 4s 7d] [Qd]
+mironchikvld: checks 
+lukazs2: checks 
+*** RIVER *** [9h 4s 7d Qd] [5h]
+mironchikvld: bets $8.15
+lukazs2: folds 
+Uncalled bet ($8.15) returned to mironchikvld
+mironchikvld collected $12.35 from pot
+mironchikvld: doesn't show hand 
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [9h 4s 7d Qd 5h]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: mironchikvld (small blind) collected ($12.35)
+Seat 4: Manifestorr (big blind) folded before Flop
+Seat 5: lukazs2 folded on the River
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409563646:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:43:14 WET [2025/01/16 21:43:14 ET]
+Table 'Haltia III' 6-max Seat #3 is the button
+Seat 1: steelNike ($98.50 in chips) 
+Seat 2: Rysiff ($102.45 in chips) 
+Seat 3: mironchikvld ($111.46 in chips) 
+Seat 4: Manifestorr ($106.90 in chips) 
+Seat 5: lukazs2 ($206.37 in chips) 
+Seat 6: steepfell ($119.62 in chips) 
+Manifestorr: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: raises $2 to $3
+Manifestorr: folds 
+lukazs2: calls $2
+*** FLOP *** [3s Ah 9c]
+lukazs2: checks 
+mironchikvld: bets $2.04
+lukazs2: folds [Qs]
+Uncalled bet ($2.04) returned to mironchikvld
+mironchikvld collected $6.18 from pot
+mironchikvld: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [3s Ah 9c]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld (button) collected ($6.18)
+Seat 4: Manifestorr (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) folded on the Flop
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409571204:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:44:06 WET [2025/01/16 21:44:06 ET]
+Table 'Haltia III' 6-max Seat #4 is the button
+Seat 1: steelNike ($98.50 in chips) 
+Seat 2: Rysiff ($102.45 in chips) 
+Seat 3: mironchikvld ($114.64 in chips) 
+Seat 4: Manifestorr ($106.40 in chips) 
+Seat 5: lukazs2 ($203.37 in chips) 
+Seat 6: steepfell ($119.62 in chips) 
+lukazs2: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: calls $1.70
+steepfell: folds 
+*** FLOP *** [3d 4s 4h]
+lukazs2: checks 
+Manifestorr: checks 
+*** TURN *** [3d 4s 4h] [3h]
+lukazs2: checks 
+Manifestorr: checks 
+*** RIVER *** [3d 4s 4h 3h] [8s]
+lukazs2: checks 
+Manifestorr: checks 
+*** SHOW DOWN ***
+lukazs2: shows [8h Qc] (two pair, Eights and Fours)
+Manifestorr: mucks hand 
+lukazs2 collected $5.13 from pot
+*** SUMMARY ***
+Total pot $5.40 | Rake $0.27 
+Board [3d 4s 4h 3h 8s]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) mucked
+Seat 5: lukazs2 (small blind) showed [8h Qc] and won ($5.13) with two pair, Eights and Fours
+Seat 6: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409575950:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:44:39 WET [2025/01/16 21:44:39 ET]
+Table 'Haltia III' 6-max Seat #5 is the button
+Seat 1: steelNike ($98.50 in chips) 
+Seat 2: Rysiff ($102.45 in chips) 
+Seat 3: mironchikvld ($114.64 in chips) 
+Seat 4: Manifestorr ($104.20 in chips) 
+Seat 5: lukazs2 ($206.30 in chips) 
+Seat 6: steepfell ($118.62 in chips) 
+steepfell: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: folds 
+steepfell: folds 
+steelNike: folds 
+Uncalled bet ($1.20) returned to Manifestorr
+Manifestorr collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr collected ($2.50)
+Seat 5: lukazs2 (button) folded before Flop (didn't bet)
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409579838:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:45:07 WET [2025/01/16 21:45:07 ET]
+Table 'Haltia III' 6-max Seat #6 is the button
+Seat 1: steelNike ($97.50 in chips) 
+Seat 2: Rysiff ($102.45 in chips) 
+Seat 3: mironchikvld ($114.64 in chips) 
+Seat 4: Manifestorr ($105.70 in chips) 
+Seat 5: lukazs2 ($206.30 in chips) 
+Seat 6: steepfell ($118.12 in chips) 
+steelNike: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: calls $2.20
+steepfell: folds 
+steelNike: calls $1.70
+Rysiff: calls $1.20
+*** FLOP *** [2s Ad 8c]
+steelNike: checks 
+Rysiff: checks 
+Manifestorr: checks 
+lukazs2: checks 
+*** TURN *** [2s Ad 8c] [5h]
+steelNike: checks 
+Rysiff: checks 
+Manifestorr: checks 
+lukazs2: bets $8.36
+steelNike: folds 
+Rysiff: folds 
+Manifestorr: folds 
+Uncalled bet ($8.36) returned to lukazs2
+lukazs2 collected $8.36 from pot
+lukazs2: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.80 | Rake $0.44 
+Board [2s Ad 8c 5h]
+Seat 1: steelNike (small blind) folded on the Turn
+Seat 2: Rysiff (big blind) folded on the Turn
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr folded on the Turn
+Seat 5: lukazs2 collected ($8.36)
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409588835:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:46:08 WET [2025/01/16 21:46:08 ET]
+Table 'Haltia III' 6-max Seat #1 is the button
+Seat 1: steelNike ($95.30 in chips) 
+Seat 2: Rysiff ($100.25 in chips) 
+Seat 3: mironchikvld ($114.64 in chips) 
+Seat 4: Manifestorr ($103.50 in chips) 
+Seat 5: lukazs2 ($212.46 in chips) 
+Seat 6: steepfell ($118.12 in chips) 
+Rysiff: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+lukazs2: folds 
+steepfell: raises $1.50 to $2.50
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Uncalled bet ($1.50) returned to steepfell
+steepfell collected $2.50 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: mironchikvld (big blind) folded before Flop
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: steepfell collected ($2.50)
+
+
+
+PokerStars Hand #254409592013:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:46:30 WET [2025/01/16 21:46:30 ET]
+Table 'Haltia III' 6-max Seat #2 is the button
+Seat 1: steelNike ($95.30 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($113.64 in chips) 
+Seat 4: Manifestorr ($103.50 in chips) 
+Seat 5: lukazs2 ($212.46 in chips) 
+Seat 6: steepfell ($119.62 in chips) 
+mironchikvld: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: calls $1
+steepfell: raises $3 to $4
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: raises $9 to $13
+Manifestorr: folds 
+lukazs2: folds 
+steepfell: folds 
+Uncalled bet ($9) returned to mironchikvld
+mironchikvld collected $10 from pot
+mironchikvld: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: mironchikvld (small blind) collected ($10)
+Seat 4: Manifestorr (big blind) folded before Flop
+Seat 5: lukazs2 folded before Flop
+Seat 6: steepfell folded before Flop
+
+
+
+PokerStars Hand #254409596451:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:47:01 WET [2025/01/16 21:47:01 ET]
+Table 'Haltia III' 6-max Seat #3 is the button
+Seat 1: steelNike ($95.30 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($119.64 in chips) 
+Seat 4: Manifestorr ($102.50 in chips) 
+Seat 5: lukazs2 ($211.46 in chips) 
+Seat 6: steepfell ($115.62 in chips) 
+Manifestorr: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: raises $2 to $3
+lukazs2: calls $2
+*** FLOP *** [Ks 4d 5s]
+Manifestorr: checks 
+lukazs2: bets $5.70
+Manifestorr: folds 
+Uncalled bet ($5.70) returned to lukazs2
+lukazs2 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ks 4d 5s]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld (button) folded before Flop (didn't bet)
+Seat 4: Manifestorr (small blind) folded on the Flop
+Seat 5: lukazs2 (big blind) collected ($5.70)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409599794:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:47:24 WET [2025/01/16 21:47:24 ET]
+Table 'Haltia III' 6-max Seat #4 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($119.64 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($214.16 in chips) 
+Seat 6: steepfell ($115.62 in chips) 
+lukazs2: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: raises $2 to $3
+Manifestorr: raises $6 to $9
+lukazs2: folds 
+steepfell: folds 
+mironchikvld: raises $13 to $22
+Manifestorr: calls $13
+*** FLOP *** [Qs Td Ah]
+mironchikvld: bets $10
+Manifestorr: calls $10
+*** TURN *** [Qs Td Ah] [Kd]
+mironchikvld: checks 
+Manifestorr: checks 
+*** RIVER *** [Qs Td Ah Kd] [Ac]
+mironchikvld: bets $20.79
+Manifestorr: folds 
+Uncalled bet ($20.79) returned to mironchikvld
+mironchikvld collected $63 from pot
+mironchikvld: doesn't show hand 
+*** SUMMARY ***
+Total pot $65.50 | Rake $2.50 
+Board [Qs Td Ah Kd Ac]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld collected ($63)
+Seat 4: Manifestorr (button) folded on the River
+Seat 5: lukazs2 (small blind) folded before Flop
+Seat 6: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409612870:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:48:54 WET [2025/01/16 21:48:54 ET]
+Table 'Haltia III' 6-max Seat #5 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($150.64 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($213.66 in chips) 
+Seat 6: steepfell ($114.62 in chips) 
+steepfell: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: folds 
+steepfell: folds 
+Uncalled bet ($0.50) returned to steelNike
+steelNike collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: steelNike (big blind) collected ($1)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded before Flop (didn't bet)
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409614631:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:49:06 WET [2025/01/16 21:49:06 ET]
+Table 'Haltia III' 6-max Seat #6 is the button
+Seat 1: steelNike ($100.50 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($150.64 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($213.66 in chips) 
+Seat 6: steepfell ($114.12 in chips) 
+steelNike: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: calls $2.20
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+*** FLOP *** [5c 8d 5h]
+Manifestorr: checks 
+lukazs2: bets $5.80
+Manifestorr: calls $5.80
+*** TURN *** [5c 8d 5h] [2d]
+Manifestorr: checks 
+lukazs2: checks 
+*** RIVER *** [5c 8d 5h 2d] [5d]
+Manifestorr: checks 
+lukazs2: checks 
+*** SHOW DOWN ***
+Manifestorr: shows [As Qs] (three of a kind, Fives)
+lukazs2: mucks hand 
+Manifestorr collected $16.62 from pot
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.88 
+Board [5c 8d 5h 2d 5d]
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr showed [As Qs] and won ($16.62) with three of a kind, Fives
+Seat 5: lukazs2 mucked
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409618648:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:49:33 WET [2025/01/16 21:49:33 ET]
+Table 'Haltia III' 6-max Seat #1 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($150.64 in chips) 
+Seat 4: Manifestorr ($108.62 in chips) 
+Seat 5: lukazs2 ($205.66 in chips) 
+Seat 6: steepfell ($114.12 in chips) 
+Rysiff: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: raises $1.20 to $2.20
+lukazs2: raises $3.20 to $5.40
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: calls $3.20
+*** FLOP *** [Qh 6c 7c]
+Manifestorr: checks 
+lukazs2: bets $5.84
+Manifestorr: raises $17.16 to $23
+lukazs2: folds 
+Uncalled bet ($17.16) returned to Manifestorr
+Manifestorr collected $22.78 from pot
+*** SUMMARY ***
+Total pot $23.98 | Rake $1.20 
+Board [Qh 6c 7c]
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: mironchikvld (big blind) folded before Flop
+Seat 4: Manifestorr collected ($22.78)
+Seat 5: lukazs2 folded on the Flop
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409625530:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:50:21 WET [2025/01/16 21:50:21 ET]
+Table 'Haltia III' 6-max Seat #2 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($149.64 in chips) 
+Seat 4: Manifestorr ($120.16 in chips) 
+Seat 5: lukazs2 ($194.42 in chips) 
+Seat 6: steepfell ($114.12 in chips) 
+mironchikvld: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: raises $7 to $8
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+Uncalled bet ($7) returned to lukazs2
+lukazs2 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: mironchikvld (small blind) folded before Flop
+Seat 4: Manifestorr (big blind) folded before Flop
+Seat 5: lukazs2 collected ($2.50)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409627469:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:50:35 WET [2025/01/16 21:50:35 ET]
+Table 'Haltia III' 6-max Seat #3 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($149.14 in chips) 
+Seat 4: Manifestorr ($119.16 in chips) 
+Seat 5: lukazs2 ($195.92 in chips) 
+Seat 6: steepfell ($114.12 in chips) 
+Manifestorr: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+steelNike: raises $1 to $2
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: calls $1
+*** FLOP *** [3h Kh 4h]
+lukazs2: checks 
+steelNike: bets $2.14
+lukazs2: folds 
+Uncalled bet ($2.14) returned to steelNike
+steelNike collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [3h Kh 4h]
+Seat 1: steelNike collected ($4.28)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld (button) folded before Flop (didn't bet)
+Seat 4: Manifestorr (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) folded on the Flop
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409633906:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:51:20 WET [2025/01/16 21:51:20 ET]
+Table 'Haltia III' 6-max Seat #4 is the button
+Seat 1: steelNike ($102.28 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($149.14 in chips) 
+Seat 4: Manifestorr ($118.66 in chips) 
+Seat 5: lukazs2 ($193.92 in chips) 
+Seat 6: steepfell ($114.12 in chips) 
+lukazs2: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: raises $4 to $5
+steepfell: folds 
+Uncalled bet ($4) returned to lukazs2
+lukazs2 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) collected ($2)
+Seat 6: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409636618:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:51:39 WET [2025/01/16 21:51:39 ET]
+Table 'Haltia III' 6-max Seat #5 is the button
+Seat 1: steelNike ($102.28 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($149.14 in chips) 
+Seat 4: Manifestorr ($118.66 in chips) 
+Seat 5: lukazs2 ($194.92 in chips) 
+Seat 6: steepfell ($113.12 in chips) 
+steepfell: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: calls $2.20
+steepfell: folds 
+steelNike: folds 
+*** FLOP *** [Kd 5h Js]
+Manifestorr: bets $2.80
+lukazs2: folds 
+Uncalled bet ($2.80) returned to Manifestorr
+Manifestorr collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [Kd 5h Js]
+Seat 1: steelNike (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr collected ($5.60)
+Seat 5: lukazs2 (button) folded on the Flop
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409640756:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:52:08 WET [2025/01/16 21:52:08 ET]
+Table 'Haltia III' 6-max Seat #6 is the button
+Seat 1: steelNike ($101.28 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($149.14 in chips) 
+Seat 4: Manifestorr ($122.06 in chips) 
+Seat 5: lukazs2 ($192.72 in chips) 
+Seat 6: steepfell ($112.62 in chips) 
+steelNike: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: calls $2.20
+steepfell: folds 
+steelNike: folds 
+Rysiff: calls $1.20
+*** FLOP *** [Kd 2d 4c]
+Rysiff: checks 
+Manifestorr: bets $3.37
+lukazs2: folds 
+Rysiff: folds 
+Uncalled bet ($3.37) returned to Manifestorr
+Manifestorr collected $6.74 from pot
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.36 
+Board [Kd 2d 4c]
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded on the Flop
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr collected ($6.74)
+Seat 5: lukazs2 folded on the Flop
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409644568:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:52:35 WET [2025/01/16 21:52:35 ET]
+Table 'Haltia III' 6-max Seat #1 is the button
+Seat 1: steelNike ($100.78 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($149.14 in chips) 
+Seat 4: Manifestorr ($126.60 in chips) 
+Seat 5: lukazs2 ($190.52 in chips) 
+Seat 6: steepfell ($112.62 in chips) 
+Rysiff: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+lukazs2: raises $5 to $6
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Uncalled bet ($5) returned to lukazs2
+lukazs2 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: mironchikvld (big blind) folded before Flop
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($2.50)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409646921:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:52:52 WET [2025/01/16 21:52:52 ET]
+Table 'Haltia III' 6-max Seat #2 is the button
+Seat 1: steelNike ($100.78 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($148.14 in chips) 
+Seat 4: Manifestorr ($126.60 in chips) 
+Seat 5: lukazs2 ($192.02 in chips) 
+Seat 6: steepfell ($112.62 in chips) 
+mironchikvld: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: folds 
+steepfell: raises $1.50 to $2.50
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: calls $1.50
+*** FLOP *** [4d Td Kd]
+Manifestorr: checks 
+steepfell: bets $2.61
+Manifestorr: calls $2.61
+*** TURN *** [4d Td Kd] [2d]
+Manifestorr: checks 
+steepfell: checks 
+*** RIVER *** [4d Td Kd 2d] [7c]
+Manifestorr: checks 
+steepfell: checks 
+*** SHOW DOWN ***
+Manifestorr: shows [6d 3d] (a flush, King high)
+steepfell: mucks hand 
+Manifestorr collected $10.18 from pot
+*** SUMMARY ***
+Total pot $10.72 | Rake $0.54 
+Board [4d Td Kd 2d 7c]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: mironchikvld (small blind) folded before Flop
+Seat 4: Manifestorr (big blind) showed [6d 3d] and won ($10.18) with a flush, King high
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: steepfell mucked
+
+
+
+PokerStars Hand #254409652688:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:53:34 WET [2025/01/16 21:53:34 ET]
+Table 'Haltia III' 6-max Seat #3 is the button
+Seat 1: steelNike ($100.78 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($147.64 in chips) 
+Seat 4: Manifestorr ($131.67 in chips) 
+Seat 5: lukazs2 ($192.02 in chips) 
+Seat 6: steepfell ($107.51 in chips) 
+Manifestorr: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+steelNike: raises $1 to $2
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: raises $8 to $10
+lukazs2: calls $9
+steelNike: calls $8
+*** FLOP *** [9d Th 2s]
+Manifestorr: checks 
+lukazs2: checks 
+steelNike: checks 
+*** TURN *** [9d Th 2s] [Kc]
+Manifestorr: bets $9.41
+lukazs2: folds 
+steelNike: folds 
+Uncalled bet ($9.41) returned to Manifestorr
+Manifestorr collected $28.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $1.50 
+Board [9d Th 2s Kc]
+Seat 1: steelNike folded on the Turn
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld (button) folded before Flop (didn't bet)
+Seat 4: Manifestorr (small blind) collected ($28.50)
+Seat 5: lukazs2 (big blind) folded on the Turn
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409664294:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:54:56 WET [2025/01/16 21:54:56 ET]
+Table 'Haltia III' 6-max Seat #4 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($147.64 in chips) 
+Seat 4: Manifestorr ($150.17 in chips) 
+Seat 5: lukazs2 ($182.02 in chips) 
+Seat 6: steepfell ($107.51 in chips) 
+lukazs2: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: raises $1.50 to $2.50
+Manifestorr: raises $5.50 to $8
+lukazs2: folds 
+steepfell: folds 
+mironchikvld: calls $5.50
+*** FLOP *** [Qs Ks Ts]
+mironchikvld: checks 
+Manifestorr: bets $5.48
+mironchikvld: folds 
+Uncalled bet ($5.48) returned to Manifestorr
+Manifestorr collected $16.62 from pot
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.88 
+Board [Qs Ks Ts]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded on the Flop
+Seat 4: Manifestorr (button) collected ($16.62)
+Seat 5: lukazs2 (small blind) folded before Flop
+Seat 6: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409669277:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:55:37 WET [2025/01/16 21:55:37 ET]
+Table 'Haltia III' 6-max Seat #5 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($139.64 in chips) 
+Seat 4: Manifestorr ($158.79 in chips) 
+Seat 5: lukazs2 ($181.52 in chips) 
+Seat 6: steepfell ($106.51 in chips) 
+steepfell: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: calls $2.50
+steepfell: folds 
+steelNike: folds 
+*** FLOP *** [7h 2s 6h]
+Rysiff: bets $6
+lukazs2: calls $6
+*** TURN *** [7h 2s 6h] [4d]
+Rysiff: bets $14.06
+lukazs2: raises $17.06 to $31.12
+Rysiff: calls $17.06
+*** RIVER *** [7h 2s 6h 4d] [3d]
+Rysiff: checks 
+lukazs2: checks 
+*** SHOW DOWN ***
+Rysiff: shows [8h 8d] (a pair of Eights)
+lukazs2: shows [7d 6d] (two pair, Sevens and Sixes)
+lukazs2 collected $78.24 from pot
+*** SUMMARY ***
+Total pot $80.74 | Rake $2.50 
+Board [7h 2s 6h 4d 3d]
+Seat 1: steelNike (big blind) folded before Flop
+Seat 2: Rysiff showed [8h 8d] and lost with a pair of Eights
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) showed [7d 6d] and won ($78.24) with two pair, Sevens and Sixes
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409676233:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:56:39 WET [2025/01/16 21:56:39 ET]
+Table 'Haltia III' 6-max Seat #6 is the button
+Seat 1: steelNike ($99 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($139.64 in chips) 
+Seat 4: Manifestorr ($158.79 in chips) 
+Seat 5: lukazs2 ($220.14 in chips) 
+Seat 6: steepfell ($106.01 in chips) 
+steelNike: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: calls $1
+steepfell: folds 
+steelNike: folds 
+Rysiff: checks 
+*** FLOP *** [Ks 5s Jh]
+Rysiff: checks 
+lukazs2: bets $2.38
+Rysiff: folds 
+Uncalled bet ($2.38) returned to lukazs2
+lukazs2 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Ks 5s Jh]
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded on the Flop
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($2.38)
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409681037:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:57:22 WET [2025/01/16 21:57:22 ET]
+Table 'Haltia III' 6-max Seat #1 is the button
+Seat 1: steelNike ($98.50 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($139.64 in chips) 
+Seat 4: Manifestorr ($158.79 in chips) 
+Seat 5: lukazs2 ($221.52 in chips) 
+Seat 6: steepfell ($106.01 in chips) 
+Rysiff: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+lukazs2: calls $1
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: checks 
+*** FLOP *** [Th Ks 4h]
+mironchikvld: checks 
+lukazs2: bets $1
+mironchikvld: folds 
+Uncalled bet ($1) returned to lukazs2
+lukazs2 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Th Ks 4h]
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: mironchikvld (big blind) folded on the Flop
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($2.38)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409684609:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:57:55 WET [2025/01/16 21:57:55 ET]
+Table 'Haltia III' 6-max Seat #2 is the button
+Seat 1: steelNike ($98.50 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($138.64 in chips) 
+Seat 4: Manifestorr ($158.79 in chips) 
+Seat 5: lukazs2 ($222.90 in chips) 
+Seat 6: steepfell ($106.01 in chips) 
+mironchikvld: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: folds 
+steepfell: folds 
+steelNike: folds 
+Rysiff: raises $1.50 to $2.50
+mironchikvld: folds 
+Manifestorr: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff (button) collected ($2.50)
+Seat 3: mironchikvld (small blind) folded before Flop
+Seat 4: Manifestorr (big blind) folded before Flop
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409687566:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:58:21 WET [2025/01/16 21:58:21 ET]
+Table 'Haltia III' 6-max Seat #3 is the button
+Seat 1: steelNike ($98.50 in chips) 
+Seat 2: Rysiff ($101.50 in chips) 
+Seat 3: mironchikvld ($138.14 in chips) 
+Seat 4: Manifestorr ($157.79 in chips) 
+Seat 5: lukazs2 ($222.90 in chips) 
+Seat 6: steepfell ($106.01 in chips) 
+Manifestorr: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+steelNike: raises $1 to $2
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: raises $8 to $10
+lukazs2: calls $9
+steelNike: calls $8
+*** FLOP *** [2s 5s 6d]
+Manifestorr: bets $9.91
+lukazs2: calls $9.91
+steelNike: folds 
+*** TURN *** [2s 5s 6d] [Td]
+Manifestorr: checks 
+lukazs2: bets $23.67
+Manifestorr: raises $114.21 to $137.88 and is all-in
+lukazs2: calls $114.21
+*** RIVER *** [2s 5s 6d Td] [6s]
+*** SHOW DOWN ***
+Manifestorr: shows [4s As] (a flush, Ace high)
+lukazs2: shows [2d 2c] (a full house, Deuces full of Sixes)
+lukazs2 collected $323.08 from pot
+*** SUMMARY ***
+Total pot $325.58 | Rake $2.50 
+Board [2s 5s 6d Td 6s]
+Seat 1: steelNike folded on the Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld (button) folded before Flop (didn't bet)
+Seat 4: Manifestorr (small blind) showed [4s As] and lost with a flush, Ace high
+Seat 5: lukazs2 (big blind) showed [2d 2c] and won ($323.08) with a full house, Deuces full of Sixes
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409694855:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 2:59:27 WET [2025/01/16 21:59:27 ET]
+Table 'Haltia III' 6-max Seat #4 is the button
+Seat 1: steelNike ($88.50 in chips) 
+Seat 2: Rysiff ($101.50 in chips) 
+Seat 3: mironchikvld ($138.14 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($388.19 in chips) 
+Seat 6: steepfell ($106.01 in chips) 
+lukazs2: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: calls $1.70
+steepfell: calls $1.20
+*** FLOP *** [As 2h 5d]
+lukazs2: checks 
+steepfell: checks 
+Manifestorr: checks 
+*** TURN *** [As 2h 5d] [Qc]
+lukazs2: bets $6.27
+steepfell: folds 
+Manifestorr: calls $6.27
+*** RIVER *** [As 2h 5d Qc] [6c]
+lukazs2: bets $17.18
+Manifestorr: calls $17.18
+*** SHOW DOWN ***
+lukazs2: shows [3s 4d] (a straight, Deuce to Six)
+Manifestorr: mucks hand 
+lukazs2 collected $51 from pot
+*** SUMMARY ***
+Total pot $53.50 | Rake $2.50 
+Board [As 2h 5d Qc 6c]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) mucked
+Seat 5: lukazs2 (small blind) showed [3s 4d] and won ($51) with a straight, Deuce to Six
+Seat 6: steepfell (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254409700775:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:00:19 WET [2025/01/16 22:00:19 ET]
+Table 'Haltia III' 6-max Seat #5 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($101.50 in chips) 
+Seat 3: mironchikvld ($138.14 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($413.54 in chips) 
+Seat 6: steepfell ($103.81 in chips) 
+steepfell: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mironchikvld: raises $2 to $3
+Manifestorr: folds 
+lukazs2: folds 
+steepfell: folds 
+steelNike: folds 
+Uncalled bet ($2) returned to mironchikvld
+mironchikvld collected $2.50 from pot
+mironchikvld: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld collected ($2.50)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded before Flop (didn't bet)
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409704093:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:00:46 WET [2025/01/16 22:00:46 ET]
+Table 'Haltia III' 6-max Seat #6 is the button
+Seat 1: steelNike ($99 in chips) 
+Seat 2: Rysiff ($101.50 in chips) 
+Seat 3: mironchikvld ($139.64 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($413.54 in chips) 
+Seat 6: steepfell ($103.31 in chips) 
+steelNike: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: calls $2.20
+steepfell: folds 
+steelNike: calls $1.70
+Rysiff: folds 
+*** FLOP *** [Qd Qs 8d]
+steelNike: checks 
+Manifestorr: checks 
+lukazs2: checks 
+*** TURN *** [Qd Qs 8d] [9h]
+steelNike: checks 
+Manifestorr: checks 
+lukazs2: checks 
+*** RIVER *** [Qd Qs 8d 9h] [4h]
+steelNike: checks 
+Manifestorr: checks 
+lukazs2: bets $1
+steelNike: folds 
+Manifestorr: calls $1
+*** SHOW DOWN ***
+lukazs2: shows [7d 4s] (two pair, Queens and Fours)
+Manifestorr: mucks hand 
+lukazs2 collected $9.12 from pot
+*** SUMMARY ***
+Total pot $9.60 | Rake $0.48 
+Board [Qd Qs 8d 9h 4h]
+Seat 1: steelNike (small blind) folded on the River
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr mucked
+Seat 5: lukazs2 showed [7d 4s] and won ($9.12) with two pair, Queens and Fours
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409713911:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:01:58 WET [2025/01/16 22:01:58 ET]
+Table 'Haltia III' 6-max Seat #1 is the button
+Seat 1: steelNike ($96.80 in chips) 
+Seat 2: Rysiff ($100.50 in chips) 
+Seat 3: mironchikvld ($139.64 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($419.46 in chips) 
+Seat 6: steepfell ($103.31 in chips) 
+Rysiff: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: raises $1.20 to $2.20
+lukazs2: calls $2.20
+steepfell: folds 
+steelNike: folds 
+Rysiff: calls $1.70
+mironchikvld: folds 
+*** FLOP *** [6d Jc Kc]
+Rysiff: checks 
+Manifestorr: checks 
+lukazs2: checks 
+*** TURN *** [6d Jc Kc] [2h]
+Rysiff: checks 
+Manifestorr: bets $2.38
+lukazs2: calls $2.38
+Rysiff: folds 
+*** RIVER *** [6d Jc Kc 2h] [4s]
+Manifestorr: checks 
+lukazs2: checks 
+*** SHOW DOWN ***
+Manifestorr: shows [Ts Ac] (high card Ace)
+lukazs2: shows [6c 3s] (a pair of Sixes)
+lukazs2 collected $11.74 from pot
+*** SUMMARY ***
+Total pot $12.36 | Rake $0.62 
+Board [6d Jc Kc 2h 4s]
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded on the Turn
+Seat 3: mironchikvld (big blind) folded before Flop
+Seat 4: Manifestorr showed [Ts Ac] and lost with high card Ace
+Seat 5: lukazs2 showed [6c 3s] and won ($11.74) with a pair of Sixes
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409720213:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:02:45 WET [2025/01/16 22:02:45 ET]
+Table 'Haltia III' 6-max Seat #2 is the button
+Seat 1: steelNike ($96.80 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($138.64 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: lukazs2 ($426.62 in chips) 
+Seat 6: steepfell ($103.31 in chips) 
+mironchikvld: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: folds 
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: raises $2 to $3
+Manifestorr: raises $6 to $9
+mironchikvld: folds 
+Uncalled bet ($6) returned to Manifestorr
+Manifestorr collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: mironchikvld (small blind) folded before Flop
+Seat 4: Manifestorr (big blind) collected ($6)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409723940:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:03:12 WET [2025/01/16 22:03:12 ET]
+Table 'Haltia III' 6-max Seat #3 is the button
+Seat 1: steelNike ($96.80 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($135.64 in chips) 
+Seat 4: Manifestorr ($103 in chips) 
+Seat 5: lukazs2 ($426.62 in chips) 
+Seat 6: steepfell ($103.31 in chips) 
+Manifestorr: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+Uncalled bet ($0.50) returned to lukazs2
+lukazs2 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld (button) folded before Flop (didn't bet)
+Seat 4: Manifestorr (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) collected ($1)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409725897:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:03:26 WET [2025/01/16 22:03:26 ET]
+Table 'Haltia III' 6-max Seat #4 is the button
+Seat 1: steelNike ($96.80 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($135.64 in chips) 
+Seat 4: Manifestorr ($102.50 in chips) 
+Seat 5: lukazs2 ($427.12 in chips) 
+Seat 6: steepfell ($103.31 in chips) 
+lukazs2: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: raises $2 to $3
+Manifestorr: folds 
+lukazs2: calls $2.50
+steepfell: folds 
+*** FLOP *** [7s 9c 4d]
+lukazs2: checks 
+mironchikvld: checks 
+*** TURN *** [7s 9c 4d] [Jh]
+lukazs2: checks 
+mironchikvld: checks 
+*** RIVER *** [7s 9c 4d Jh] [2s]
+lukazs2: checks 
+mironchikvld: checks 
+*** SHOW DOWN ***
+lukazs2: shows [4h Ac] (a pair of Fours)
+mironchikvld: mucks hand 
+lukazs2 collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [7s 9c 4d Jh 2s]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld mucked
+Seat 4: Manifestorr (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) showed [4h Ac] and won ($6.65) with a pair of Fours
+Seat 6: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409731310:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:04:05 WET [2025/01/16 22:04:05 ET]
+Table 'Haltia III' 6-max Seat #5 is the button
+Seat 1: steelNike ($96.80 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($132.64 in chips) 
+Seat 4: Manifestorr ($102.50 in chips) 
+Seat 5: lukazs2 ($430.77 in chips) 
+Seat 6: steepfell ($102.31 in chips) 
+steepfell: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: raises $5.20 to $7.40
+steepfell: folds 
+steelNike: folds 
+Manifestorr: folds 
+Uncalled bet ($5.20) returned to lukazs2
+lukazs2 collected $5.90 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: steelNike (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop
+Seat 5: lukazs2 (button) collected ($5.90)
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409734475:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:04:28 WET [2025/01/16 22:04:28 ET]
+Table 'Haltia III' 6-max Seat #6 is the button
+Seat 1: steelNike ($95.80 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: mironchikvld ($132.64 in chips) 
+Seat 4: Manifestorr ($100.30 in chips) 
+Seat 5: lukazs2 ($434.47 in chips) 
+Seat 6: steepfell ($101.81 in chips) 
+steelNike: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: calls $1
+steepfell: folds 
+steelNike: folds 
+Rysiff: checks 
+*** FLOP *** [Qh 9d 4h]
+Rysiff: checks 
+lukazs2: checks 
+*** TURN *** [Qh 9d 4h] [5s]
+Rysiff: checks 
+lukazs2: checks 
+*** RIVER *** [Qh 9d 4h 5s] [2c]
+Rysiff: checks 
+lukazs2: bets $1
+Rysiff: calls $1
+*** SHOW DOWN ***
+lukazs2: shows [6h 8s] (high card Queen)
+Rysiff: shows [Kh 2d] (a pair of Deuces)
+Rysiff collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Qh 9d 4h 5s 2c]
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Rysiff (big blind) showed [Kh 2d] and won ($4.28) with a pair of Deuces
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 showed [6h 8s] and lost with high card Queen
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409741585:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:05:20 WET [2025/01/16 22:05:20 ET]
+Table 'Haltia III' 6-max Seat #1 is the button
+Seat 1: steelNike ($95.30 in chips) 
+Seat 2: Rysiff ($102.28 in chips) 
+Seat 3: mironchikvld ($132.64 in chips) 
+Seat 4: Manifestorr ($100.30 in chips) 
+Seat 5: lukazs2 ($432.47 in chips) 
+Seat 6: steepfell ($101.81 in chips) 
+Rysiff: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+lukazs2: folds 
+steepfell: folds 
+steelNike: folds 
+Rysiff: raises $2 to $3
+mironchikvld: calls $2
+*** FLOP *** [Th 4d 4s]
+Rysiff: bets $1.88
+mironchikvld: calls $1.88
+*** TURN *** [Th 4d 4s] [8h]
+Rysiff: bets $7.42
+mironchikvld: folds 
+Uncalled bet ($7.42) returned to Rysiff
+Rysiff collected $9.27 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [Th 4d 4s 8h]
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) collected ($9.27)
+Seat 3: mironchikvld (big blind) folded on the Turn
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409749941:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:06:21 WET [2025/01/16 22:06:21 ET]
+Table 'Haltia III' 6-max Seat #2 is the button
+Seat 1: steelNike ($95.30 in chips) 
+Seat 2: Rysiff ($106.67 in chips) 
+Seat 3: mironchikvld ($127.76 in chips) 
+Seat 4: Manifestorr ($100.30 in chips) 
+Seat 5: lukazs2 ($432.47 in chips) 
+Seat 6: steepfell ($101.81 in chips) 
+mironchikvld: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: calls $1
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: raises $2 to $3
+Manifestorr: raises $12 to $15
+lukazs2: folds 
+mironchikvld: folds 
+Uncalled bet ($12) returned to Manifestorr
+Manifestorr collected $7 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: mironchikvld (small blind) folded before Flop
+Seat 4: Manifestorr (big blind) collected ($7)
+Seat 5: lukazs2 folded before Flop
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409756253:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:07:08 WET [2025/01/16 22:07:08 ET]
+Table 'Haltia III' 6-max Seat #3 is the button
+Seat 1: steelNike ($95.30 in chips) 
+Seat 2: Rysiff ($106.67 in chips) 
+Seat 3: mironchikvld ($124.76 in chips) 
+Seat 4: Manifestorr ($104.30 in chips) 
+Seat 5: lukazs2 ($431.47 in chips) 
+Seat 6: steepfell ($101.81 in chips) 
+Manifestorr: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+steepfell: raises $1.50 to $2.50
+steelNike: folds 
+Rysiff: calls $2.50
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: calls $1.50
+*** FLOP *** [8h Js 7h]
+lukazs2: checks 
+steepfell: checks 
+Rysiff: checks 
+*** TURN *** [8h Js 7h] [6d]
+lukazs2: checks 
+steepfell: checks 
+Rysiff: checks 
+*** RIVER *** [8h Js 7h 6d] [Kc]
+lukazs2: checks 
+steepfell: checks 
+Rysiff: checks 
+*** SHOW DOWN ***
+lukazs2: shows [3d Td] (high card King)
+steepfell: shows [Ts Ah] (high card Ace)
+Rysiff: shows [Ad Qc] (high card Ace - King+Queen kicker)
+Rysiff collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [8h Js 7h 6d Kc]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff showed [Ad Qc] and won ($7.60) with high card Ace
+Seat 3: mironchikvld (button) folded before Flop (didn't bet)
+Seat 4: Manifestorr (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) showed [3d Td] and lost with high card King
+Seat 6: steepfell showed [Ts Ah] and lost with high card Ace
+
+
+
+PokerStars Hand #254409762808:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:07:56 WET [2025/01/16 22:07:56 ET]
+Table 'Haltia III' 6-max Seat #4 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($111.77 in chips) 
+Seat 3: mironchikvld ($124.76 in chips) 
+Seat 4: Manifestorr ($103.80 in chips) 
+Seat 5: lukazs2 ($428.97 in chips) 
+Seat 6: steepfell ($100 in chips) 
+lukazs2: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: calls $1.70
+steepfell: folds 
+*** FLOP *** [Js 8d Qs]
+lukazs2: checks 
+Manifestorr: checks 
+*** TURN *** [Js 8d Qs] [4h]
+lukazs2: checks 
+Manifestorr: checks 
+*** RIVER *** [Js 8d Qs 4h] [2s]
+lukazs2: checks 
+Manifestorr: checks 
+*** SHOW DOWN ***
+lukazs2: shows [3s Kc] (high card King)
+Manifestorr: shows [Ah 5c] (high card Ace)
+Manifestorr collected $5.13 from pot
+*** SUMMARY ***
+Total pot $5.40 | Rake $0.27 
+Board [Js 8d Qs 4h 2s]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) showed [Ah 5c] and won ($5.13) with high card Ace
+Seat 5: lukazs2 (small blind) showed [3s Kc] and lost with high card King
+Seat 6: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254409769116:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:08:43 WET [2025/01/16 22:08:43 ET]
+Table 'Haltia III' 6-max Seat #5 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Rysiff ($111.77 in chips) 
+Seat 3: mironchikvld ($124.76 in chips) 
+Seat 4: Manifestorr ($106.73 in chips) 
+Seat 5: lukazs2 ($426.77 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steepfell: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: calls $2.20
+steepfell: folds 
+steelNike: folds 
+*** FLOP *** [Ts 7c 9d]
+Manifestorr: checks 
+lukazs2: checks 
+*** TURN *** [Ts 7c 9d] [3d]
+Manifestorr: bets $1.85
+lukazs2: folds 
+Uncalled bet ($1.85) returned to Manifestorr
+Manifestorr collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [Ts 7c 9d 3d]
+Seat 1: steelNike (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr collected ($5.60)
+Seat 5: lukazs2 (button) folded on the Turn
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409773893:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:09:19 WET [2025/01/16 22:09:19 ET]
+Table 'Haltia III' 6-max Seat #6 is the button
+Seat 1: steelNike ($99 in chips) 
+Seat 2: Rysiff ($111.77 in chips) 
+Seat 3: mironchikvld ($124.76 in chips) 
+Seat 4: Manifestorr ($110.13 in chips) 
+Seat 5: lukazs2 ($424.57 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steelNike: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: folds 
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+Uncalled bet ($1.20) returned to Manifestorr
+Manifestorr collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr collected ($2.50)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409776975:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:09:42 WET [2025/01/16 22:09:42 ET]
+Table 'Haltia III' 6-max Seat #1 is the button
+Seat 1: steelNike ($98.50 in chips) 
+Seat 2: Rysiff ($110.77 in chips) 
+Seat 3: mironchikvld ($124.76 in chips) 
+Seat 4: Manifestorr ($111.63 in chips) 
+Seat 5: lukazs2 ($424.57 in chips) 
+Seat 6: steepfell ($100 in chips) 
+Rysiff: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: raises $1.20 to $2.20
+lukazs2: raises $4.20 to $6.40
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: calls $4.20
+*** FLOP *** [Qh Qs Ah]
+Manifestorr: checks 
+lukazs2: checks 
+*** TURN *** [Qh Qs Ah] [As]
+Manifestorr: checks 
+lukazs2: checks 
+*** RIVER *** [Qh Qs Ah As] [2h]
+Manifestorr: bets $6.79
+lukazs2: calls $6.79
+*** SHOW DOWN ***
+Manifestorr: shows [Tc Qc] (a full house, Queens full of Aces)
+lukazs2: mucks hand 
+Manifestorr collected $26.49 from pot
+*** SUMMARY ***
+Total pot $27.88 | Rake $1.39 
+Board [Qh Qs Ah As 2h]
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: mironchikvld (big blind) folded before Flop
+Seat 4: Manifestorr showed [Tc Qc] and won ($26.49) with a full house, Queens full of Aces
+Seat 5: lukazs2 mucked
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409783426:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:10:30 WET [2025/01/16 22:10:30 ET]
+Table 'Haltia III' 6-max Seat #2 is the button
+Seat 1: steelNike ($98.50 in chips) 
+Seat 2: Rysiff ($110.27 in chips) 
+Seat 3: mironchikvld ($123.76 in chips) 
+Seat 4: Manifestorr ($124.93 in chips) 
+Seat 5: lukazs2 ($411.38 in chips) 
+Seat 6: steepfell ($100 in chips) 
+mironchikvld: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: raises $4.50 to $5.50
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+Uncalled bet ($4.50) returned to lukazs2
+lukazs2 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: mironchikvld (small blind) folded before Flop
+Seat 4: Manifestorr (big blind) folded before Flop
+Seat 5: lukazs2 collected ($2.50)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409786978:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:10:57 WET [2025/01/16 22:10:57 ET]
+Table 'Haltia III' 6-max Seat #3 is the button
+Seat 1: steelNike ($98.50 in chips) 
+Seat 2: Rysiff ($110.27 in chips) 
+Seat 3: mironchikvld ($123.26 in chips) 
+Seat 4: Manifestorr ($123.93 in chips) 
+Seat 5: lukazs2 ($412.88 in chips) 
+Seat 6: steepfell ($100 in chips) 
+Manifestorr: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: raises $2 to $3
+Manifestorr: folds 
+lukazs2: calls $2
+*** FLOP *** [As 2h 6c]
+lukazs2: checks 
+mironchikvld: bets $2.04
+lukazs2: folds 
+Uncalled bet ($2.04) returned to mironchikvld
+mironchikvld collected $6.18 from pot
+mironchikvld: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [As 2h 6c]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld (button) collected ($6.18)
+Seat 4: Manifestorr (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) folded on the Flop
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254409790873:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:11:25 WET [2025/01/16 22:11:25 ET]
+Table 'Haltia III' 6-max Seat #4 is the button
+Seat 1: steelNike ($98.50 in chips) 
+Seat 2: Rysiff ($110.27 in chips) 
+Seat 3: mironchikvld ($126.44 in chips) 
+Seat 4: Manifestorr ($123.43 in chips) 
+Seat 5: lukazs2 ($409.88 in chips) 
+Seat 6: steepfell ($100 in chips) 
+lukazs2: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: calls $1.70
+steepfell: calls $1.20
+*** FLOP *** [Kh Kd 7c]
+lukazs2: checks 
+steepfell: checks 
+Manifestorr: checks 
+*** TURN *** [Kh Kd 7c] [3s]
+lukazs2: checks 
+steepfell: bets $2.07
+Manifestorr: folds 
+lukazs2: folds 
+Uncalled bet ($2.07) returned to steepfell
+steepfell collected $6.27 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.33 
+Board [Kh Kd 7c 3s]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) folded on the Turn
+Seat 5: lukazs2 (small blind) folded on the Turn
+Seat 6: steepfell (big blind) collected ($6.27)
+
+
+
+PokerStars Hand #254409797836:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:12:18 WET [2025/01/16 22:12:18 ET]
+Table 'Haltia III' 6-max Seat #5 is the button
+Seat 1: steelNike ($98.50 in chips) 
+Seat 2: Rysiff ($110.27 in chips) 
+Seat 3: mironchikvld ($126.44 in chips) 
+Seat 4: Manifestorr ($121.23 in chips) 
+Seat 5: lukazs2 ($407.68 in chips) 
+Seat 6: steepfell ($104.07 in chips) 
+steepfell: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mironchikvld: folds 
+Manifestorr: folds 
+lukazs2: calls $1
+steepfell: folds 
+steelNike: checks 
+*** FLOP *** [2s 4d Jd]
+steelNike: checks 
+lukazs2: bets $2.38
+steelNike: folds 
+Uncalled bet ($2.38) returned to lukazs2
+lukazs2 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [2s 4d Jd]
+Seat 1: steelNike (big blind) folded on the Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) collected ($2.38)
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254409803940:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 3:13:04 WET [2025/01/16 22:13:04 ET]
+Table 'Haltia III' 6-max Seat #6 is the button
+Seat 1: steelNike ($97.50 in chips) 
+Seat 2: Rysiff ($110.27 in chips) 
+Seat 3: mironchikvld ($126.44 in chips) 
+Seat 4: Manifestorr ($121.23 in chips) 
+Seat 5: lukazs2 ($409.06 in chips) 
+Seat 6: steepfell ($103.57 in chips) 
+steelNike: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: folds 
+Manifestorr: raises $1.20 to $2.20
+lukazs2: calls $2.20
+steepfell: folds 
+steelNike: folds 
+Rysiff: folds 
+*** FLOP *** [4c As Td]
+Manifestorr: bets $4.20
+lukazs2: folds 
+Uncalled bet ($4.20) returned to Manifestorr
+Manifestorr collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [4c As Td]
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: Manifestorr collected ($5.60)
+Seat 5: lukazs2 folded on the Flop
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,187 @@
+﻿PokerStars Hand #254410121590:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 3:56:10 WET [2025/01/16 22:56:10 ET]
+Table 'Oppolzer III' 6-max Seat #5 is the button
+Seat 1: tukeiron ($100 in chips) is sitting out
+Seat 2: Rysiff ($100 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: Xenicide ($100 in chips) 
+Seat 6: bep888 ($62 in chips) 
+bep888: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+fobot21 joins the table at seat #3 
+Xenicide: folds 
+bep888: raises $1 to $2
+Rysiff: calls $1
+*** FLOP *** [9c 6d 7d]
+bep888: bets $2
+Rysiff: raises $6.24 to $8.24
+bep888: calls $6.24
+*** TURN *** [9c 6d 7d] [Ad]
+bep888: checks 
+Rysiff: bets $6.43
+bep888: calls $6.43
+*** RIVER *** [9c 6d 7d Ad] [3d]
+bep888: bets $20
+Rysiff: calls $20
+*** SHOW DOWN ***
+bep888: shows [9s Jc] (a pair of Nines)
+Rysiff: shows [Ks 9d] (a flush, Ace high)
+Rysiff collected $72.34 from pot
+*** SUMMARY ***
+Total pot $73.34 | Rake $1 
+Board [9c 6d 7d Ad 3d]
+Seat 1: tukeiron
+Seat 2: Rysiff (big blind) showed [Ks 9d] and won ($72.34) with a flush, Ace high
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: Xenicide (button) folded before Flop (didn't bet)
+Seat 6: bep888 (small blind) showed [9s Jc] and lost with a pair of Nines
+
+
+
+PokerStars Hand #254410128874:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 3:57:28 WET [2025/01/16 22:57:28 ET]
+Table 'Oppolzer III' 6-max Seat #6 is the button
+Seat 1: tukeiron ($100 in chips) is sitting out
+Seat 2: Rysiff ($135.67 in chips) 
+Seat 3: fobot21 ($100 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: Xenicide ($100 in chips) 
+Seat 6: bep888 ($25.33 in chips) 
+Rysiff: posts small blind $0.50
+fobot21: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+Xenicide: folds 
+bep888: folds 
+Rysiff: raises $2 to $3
+fobot21: raises $7 to $10
+Rysiff: folds 
+Uncalled bet ($7) returned to fobot21
+fobot21 collected $6 from pot
+fobot21: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: tukeiron
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: fobot21 (big blind) collected ($6)
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: Xenicide folded before Flop (didn't bet)
+Seat 6: bep888 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254410131358:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 3:57:55 WET [2025/01/16 22:57:55 ET]
+Table 'Oppolzer III' 6-max Seat #2 is the button
+Seat 1: tukeiron ($100 in chips) is sitting out
+Seat 2: Rysiff ($132.67 in chips) 
+Seat 3: fobot21 ($103 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: Xenicide ($100 in chips) 
+Seat 6: bep888 ($25.33 in chips) 
+fobot21: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+bep888: raises $1 to $2
+Rysiff: folds 
+fobot21: folds 
+ptolejmus: folds 
+Uncalled bet ($1) returned to bep888
+bep888 collected $2.50 from pot
+bep888: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tukeiron
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: fobot21 (small blind) folded before Flop
+Seat 4: ptolejmus (big blind) folded before Flop
+Seat 5: Xenicide folded before Flop (didn't bet)
+Seat 6: bep888 collected ($2.50)
+
+
+
+PokerStars Hand #254410133529:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 3:58:19 WET [2025/01/16 22:58:19 ET]
+Table 'Oppolzer III' 6-max Seat #3 is the button
+Seat 1: tukeiron ($100 in chips) is sitting out
+Seat 2: Rysiff ($132.67 in chips) 
+Seat 3: fobot21 ($102.50 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: Xenicide ($100 in chips) 
+Seat 6: bep888 ($26.83 in chips) 
+ptolejmus: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+bep888: folds 
+Rysiff: folds 
+fobot21: folds 
+Rysiff leaves the table
+ptolejmus: folds 
+Uncalled bet ($0.50) returned to Xenicide
+Xenicide collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tukeiron
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: fobot21 (button) folded before Flop (didn't bet)
+Seat 4: ptolejmus (small blind) folded before Flop
+Seat 5: Xenicide (big blind) collected ($1)
+Seat 6: bep888 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254410153417:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 4:01:43 WET [2025/01/16 23:01:43 ET]
+Table 'Oppolzer III' 6-max Seat #4 is the button
+Seat 1: tukeiron ($100 in chips) is sitting out
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: rostickkin ($103 in chips) 
+Seat 4: ptolejmus ($16.34 in chips) 
+Seat 5: Xenicide ($100 in chips) 
+Xenicide: posts small blind $0.50
+vezis3: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: folds 
+ptolejmus: folds 
+Xenicide: folds 
+Uncalled bet ($0.50) returned to vezis3
+vezis3 collected $1 from pot
+vezis3: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tukeiron
+Seat 2: vezis3 (big blind) collected ($1)
+Seat 3: rostickkin folded before Flop (didn't bet)
+Seat 4: ptolejmus (button) folded before Flop (didn't bet)
+Seat 5: Xenicide (small blind) folded before Flop
+
+
+
+PokerStars Hand #254410154681:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 4:01:55 WET [2025/01/16 23:01:55 ET]
+Table 'Oppolzer III' 6-max Seat #2 is the button
+Seat 1: tukeiron ($100 in chips) is sitting out
+Seat 3: rostickkin ($103 in chips) is sitting out
+Seat 4: ptolejmus ($16.34 in chips) is sitting out
+Seat 2: vezis3 ($100.50 in chips) 
+Seat 5: Xenicide ($100 in chips) 
+vezis3: posts small blind $0.50
+rostickkin: is sitting out 
+ptolejmus: is sitting out 
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+vezis3: raises $2 to $3
+rostickkin leaves the table
+ptolejmus leaves the table
+Xenicide: folds 
+Uncalled bet ($2) returned to vezis3
+vezis3 collected $2 from pot
+tukeiron leaves the table
+vezis3: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: tukeiron
+Seat 3: rostickkin
+Seat 4: ptolejmus
+Seat 2: vezis3 (button) (small blind) collected ($2)
+Seat 5: Xenicide (big blind) folded before Flop
+
+
+

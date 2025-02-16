@@ -1,0 +1,214 @@
+﻿PokerStars Hand #254543348382:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 10:36:12 WET [2025/01/25 5:36:12 ET]
+Table 'Friederike IV' 6-max Seat #6 is the button
+Seat 3: gig.gyty ($100 in chips) is sitting out
+Seat 5: Emily_GetMan ($100 in chips) is sitting out
+Seat 1: blistein ($101 in chips) 
+Seat 2: Supermegopro ($101 in chips) 
+Seat 6: CaJJueLL ($27.33 in chips) 
+blistein: posts small blind $0.50
+Supermegopro: posts big blind $1
+gig.gyty: sits out 
+Emily_GetMan: sits out 
+*** HOLE CARDS ***
+CaJJueLL: folds 
+blistein: raises $2 to $3
+chenconhaste joins the table at seat #4 
+Supermegopro: folds 
+Uncalled bet ($2) returned to blistein
+blistein collected $2 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: gig.gyty
+Seat 5: Emily_GetMan
+Seat 1: blistein (small blind) collected ($2)
+Seat 2: Supermegopro (big blind) folded before Flop
+Seat 6: CaJJueLL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254543350060:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 10:36:26 WET [2025/01/25 5:36:26 ET]
+Table 'Friederike IV' 6-max Seat #1 is the button
+Seat 4: chenconhaste ($100 in chips) is sitting out
+Seat 5: Emily_GetMan ($100 in chips) is sitting out
+Seat 1: blistein ($102 in chips) 
+Seat 2: Supermegopro ($100 in chips) 
+Seat 3: gig.gyty ($100 in chips) 
+Seat 6: CaJJueLL ($27.33 in chips) 
+Supermegopro: posts small blind $0.50
+gig.gyty: posts big blind $1
+chenconhaste: sits out 
+Emily_GetMan: sits out 
+*** HOLE CARDS ***
+CaJJueLL: calls $1
+blistein: folds 
+Supermegopro: folds 
+gig.gyty: checks 
+*** FLOP *** [Ks 6c 3c]
+gig.gyty: bets $1.19
+CaJJueLL: raises $1.19 to $2.38
+gig.gyty: calls $1.19
+*** TURN *** [Ks 6c 3c] [7h]
+gig.gyty: checks 
+CaJJueLL: bets $2
+gig.gyty: calls $2
+*** RIVER *** [Ks 6c 3c 7h] [4h]
+gig.gyty: bets $8.24
+CaJJueLL: calls $8.24
+*** SHOW DOWN ***
+gig.gyty: shows [7d 4c] (two pair, Sevens and Fours)
+CaJJueLL: mucks hand 
+gig.gyty collected $26.74 from pot
+*** SUMMARY ***
+Total pot $27.74 | Rake $1 
+Board [Ks 6c 3c 7h 4h]
+Seat 4: chenconhaste
+Seat 5: Emily_GetMan
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: Supermegopro (small blind) folded before Flop
+Seat 3: gig.gyty (big blind) showed [7d 4c] and won ($26.74) with two pair, Sevens and Fours
+Seat 6: CaJJueLL mucked
+
+
+
+PokerStars Hand #254543355333:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 10:37:10 WET [2025/01/25 5:37:10 ET]
+Table 'Friederike IV' 6-max Seat #2 is the button
+Seat 5: Emily_GetMan ($100 in chips) is sitting out
+Seat 1: blistein ($102 in chips) 
+Seat 2: Supermegopro ($100 in chips) 
+Seat 3: gig.gyty ($113.12 in chips) 
+Seat 4: chenconhaste ($100 in chips) 
+Seat 6: CaJJueLL ($13.71 in chips) 
+gig.gyty: posts small blind $0.50
+chenconhaste: posts big blind $1
+Emily_GetMan: sits out 
+*** HOLE CARDS ***
+CaJJueLL: raises $1 to $2
+blistein: folds 
+Supermegopro: folds 
+gig.gyty: folds 
+chenconhaste: folds 
+Uncalled bet ($1) returned to CaJJueLL
+CaJJueLL collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: Emily_GetMan
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: Supermegopro (button) folded before Flop (didn't bet)
+Seat 3: gig.gyty (small blind) folded before Flop
+Seat 4: chenconhaste (big blind) folded before Flop
+Seat 6: CaJJueLL collected ($2.50)
+
+
+
+PokerStars Hand #254543357010:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 10:37:24 WET [2025/01/25 5:37:24 ET]
+Table 'Friederike IV' 6-max Seat #3 is the button
+Seat 1: blistein ($102 in chips) 
+Seat 2: Supermegopro ($100 in chips) 
+Seat 3: gig.gyty ($112.62 in chips) 
+Seat 4: chenconhaste ($100 in chips) 
+Seat 5: Emily_GetMan ($100 in chips) 
+Seat 6: CaJJueLL ($15.21 in chips) 
+chenconhaste: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+CaJJueLL: folds 
+blistein: folds 
+Supermegopro: folds 
+gig.gyty: raises $1.50 to $2.50
+chenconhaste: folds 
+Emily_GetMan: calls $1.50
+*** FLOP *** [Ad 5s Tc]
+Emily_GetMan: checks 
+gig.gyty: bets $1.72
+Emily_GetMan: folds 
+Uncalled bet ($1.72) returned to gig.gyty
+gig.gyty collected $5.22 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Ad 5s Tc]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: Supermegopro folded before Flop (didn't bet)
+Seat 3: gig.gyty (button) collected ($5.22)
+Seat 4: chenconhaste (small blind) folded before Flop
+Seat 5: Emily_GetMan (big blind) folded on the Flop
+Seat 6: CaJJueLL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254543360121:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 10:37:50 WET [2025/01/25 5:37:50 ET]
+Table 'Friederike IV' 6-max Seat #4 is the button
+Seat 1: blistein ($102 in chips) 
+Seat 2: Supermegopro ($100 in chips) 
+Seat 3: gig.gyty ($115.34 in chips) 
+Seat 4: chenconhaste ($100 in chips) 
+Seat 5: Emily_GetMan ($100 in chips) 
+Seat 6: CaJJueLL ($15.21 in chips) 
+Emily_GetMan: posts small blind $0.50
+CaJJueLL: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Supermegopro: folds 
+gig.gyty: folds 
+chenconhaste: folds 
+Emily_GetMan: raises $2 to $3
+CaJJueLL: calls $2
+*** FLOP *** [Tc Jd As]
+Emily_GetMan: checks 
+CaJJueLL: bets $2
+Emily_GetMan: calls $2
+*** TURN *** [Tc Jd As] [4c]
+Emily_GetMan: checks 
+CaJJueLL: bets $2
+Emily_GetMan: calls $2
+*** RIVER *** [Tc Jd As 4c] [Jh]
+Emily_GetMan: checks 
+CaJJueLL: bets $8.21 and is all-in
+Emily_GetMan: calls $8.21
+*** SHOW DOWN ***
+CaJJueLL: shows [7d Ad] (two pair, Aces and Jacks)
+Emily_GetMan: shows [6c Jc] (three of a kind, Jacks)
+Emily_GetMan collected $28.90 from pot
+*** SUMMARY ***
+Total pot $30.42 | Rake $1.52 
+Board [Tc Jd As 4c Jh]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: Supermegopro folded before Flop (didn't bet)
+Seat 3: gig.gyty folded before Flop (didn't bet)
+Seat 4: chenconhaste (button) folded before Flop (didn't bet)
+Seat 5: Emily_GetMan (small blind) showed [6c Jc] and won ($28.90) with three of a kind, Jacks
+Seat 6: CaJJueLL (big blind) showed [7d Ad] and lost with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #254543365506:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 10:38:35 WET [2025/01/25 5:38:35 ET]
+Table 'Friederike IV' 6-max Seat #5 is the button
+Seat 6: CaJJueLL ($0 in chips) is sitting out
+Seat 1: blistein ($102 in chips) 
+Seat 2: Supermegopro ($100 in chips) 
+Seat 3: gig.gyty ($115.34 in chips) 
+Seat 4: chenconhaste ($100 in chips) 
+Seat 5: Emily_GetMan ($113.69 in chips) 
+blistein: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+chenconhaste: raises $1.50 to $2.50
+Emily_GetMan: folds 
+CaJJueLL leaves the table
+blistein: folds 
+Supermegopro: folds 
+Uncalled bet ($1.50) returned to chenconhaste
+chenconhaste collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: CaJJueLL
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: Supermegopro (big blind) folded before Flop
+Seat 3: gig.gyty folded before Flop (didn't bet)
+Seat 4: chenconhaste collected ($2.50)
+Seat 5: Emily_GetMan (button) folded before Flop (didn't bet)
+
+
+

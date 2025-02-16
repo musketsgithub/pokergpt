@@ -1,0 +1,934 @@
+﻿PokerStars Hand #254318191244:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:34:57 WET [2025/01/11 14:34:57 ET]
+Table 'Aisakos II' 6-max Seat #1 is the button
+Seat 1: ka100pka527 ($103.37 in chips) 
+Seat 5: BGS013 ($100 in chips) 
+ka100pka527: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+ka100pka527: raises $1.50 to $2.50
+BGS013: calls $1.50
+*** FLOP *** [As 6s 3d]
+BGS013: checks 
+ka100pka527: checks 
+*** TURN *** [As 6s 3d] [2c]
+BGS013: checks 
+ka100pka527: checks 
+*** RIVER *** [As 6s 3d 2c] [5d]
+BGS013: bets $6.03
+ka100pka527: folds 
+Uncalled bet ($6.03) returned to BGS013
+BGS013 collected $4.75 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [As 6s 3d 2c 5d]
+Seat 1: ka100pka527 (button) (small blind) folded on the River
+Seat 5: BGS013 (big blind) collected ($4.75)
+
+
+
+PokerStars Hand #254318345152:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:42:46 WET [2025/01/11 14:42:46 ET]
+Table 'Aisakos II' 6-max Seat #2 is the button
+Seat 1: ka100pka527 ($100.87 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 3: MAO_DZEDYN_S ($100 in chips) 
+Seat 6: Vollheiko2 ($10 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+Vollheiko2: posts big blind $1
+*** HOLE CARDS ***
+ka100pka527: folds 
+AIien Hand joins the table at seat #4 
+v.sting: folds 
+MAO_DZEDYN_S: calls $0.50
+Vollheiko2: checks 
+*** FLOP *** [9d 5h Kd]
+MAO_DZEDYN_S: bets $1
+Vollheiko2: raises $8 to $9 and is all-in
+MAO_DZEDYN_S: calls $8
+Ryantoland25 joins the table at seat #5 
+Ryantoland25 is disconnected 
+*** TURN *** [9d 5h Kd] [7c]
+*** RIVER *** [9d 5h Kd 7c] [2h]
+*** SHOW DOWN ***
+MAO_DZEDYN_S: shows [9c Jh] (a pair of Nines)
+Vollheiko2: shows [Td Qd] (high card King)
+MAO_DZEDYN_S collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [9d 5h Kd 7c 2h]
+Seat 1: ka100pka527 folded before Flop (didn't bet)
+Seat 2: v.sting (button) folded before Flop (didn't bet)
+Seat 3: MAO_DZEDYN_S (small blind) showed [9c Jh] and won ($19) with a pair of Nines
+Seat 6: Vollheiko2 (big blind) showed [Td Qd] and lost with high card King
+
+
+
+PokerStars Hand #254318365143:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:43:46 WET [2025/01/11 14:43:46 ET]
+Table 'Aisakos II' 6-max Seat #3 is the button
+Seat 4: AIien Hand ($100 in chips) is sitting out
+Seat 5: Ryantoland25 ($12.21 in chips) is sitting out
+Seat 6: Vollheiko2 ($0 in chips) is sitting out
+Seat 1: ka100pka527 ($100.87 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 3: MAO_DZEDYN_S ($109 in chips) 
+ka100pka527: posts small blind $0.50
+v.sting: posts big blind $1
+*** HOLE CARDS ***
+Vollheiko2 leaves the table
+MAO_DZEDYN_S: folds 
+ka100pka527: raises $1.50 to $2.50
+v.sting: folds 
+Uncalled bet ($1.50) returned to ka100pka527
+ka100pka527 collected $2 from pot
+ka100pka527: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: AIien Hand
+Seat 5: Ryantoland25
+Seat 6: Vollheiko2
+Seat 1: ka100pka527 (small blind) collected ($2)
+Seat 2: v.sting (big blind) folded before Flop
+Seat 3: MAO_DZEDYN_S (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254318370517:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:44:02 WET [2025/01/11 14:44:02 ET]
+Table 'Aisakos II' 6-max Seat #1 is the button
+Seat 4: AIien Hand ($100 in chips) is sitting out
+Seat 1: ka100pka527 ($101.87 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 3: MAO_DZEDYN_S ($109 in chips) 
+Seat 5: Ryantoland25 ($12.21 in chips) 
+v.sting: posts small blind $0.50
+MAO_DZEDYN_S: posts big blind $1
+AIien Hand: sits out 
+Ryantoland25: posts big blind $1
+*** HOLE CARDS ***
+Ryantoland25: checks 
+ka100pka527: folds 
+v.sting: raises $4.25 to $5.25
+MAO_DZEDYN_S: folds 
+Ryantoland25: folds 
+Uncalled bet ($4.25) returned to v.sting
+v.sting collected $3 from pot
+v.sting: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 4: AIien Hand
+Seat 1: ka100pka527 (button) folded before Flop (didn't bet)
+Seat 2: v.sting (small blind) collected ($3)
+Seat 3: MAO_DZEDYN_S (big blind) folded before Flop
+Seat 5: Ryantoland25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254318376024:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:44:19 WET [2025/01/11 14:44:19 ET]
+Table 'Aisakos II' 6-max Seat #2 is the button
+Seat 1: ka100pka527 ($101.87 in chips) 
+Seat 2: v.sting ($102 in chips) 
+Seat 3: MAO_DZEDYN_S ($108 in chips) 
+Seat 4: AIien Hand ($100 in chips) 
+Seat 5: Ryantoland25 ($11.21 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+AIien Hand: posts big blind $1
+*** HOLE CARDS ***
+Ryantoland25: folds 
+ka100pka527: raises $1.50 to $2.50
+v.sting: folds 
+Pippa83 joins the table at seat #6 
+MAO_DZEDYN_S: raises $8.50 to $11
+AIien Hand: folds 
+ka100pka527: folds 
+Uncalled bet ($8.50) returned to MAO_DZEDYN_S
+MAO_DZEDYN_S collected $6 from pot
+MAO_DZEDYN_S: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: ka100pka527 folded before Flop
+Seat 2: v.sting (button) folded before Flop (didn't bet)
+Seat 3: MAO_DZEDYN_S (small blind) collected ($6)
+Seat 4: AIien Hand (big blind) folded before Flop
+Seat 5: Ryantoland25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254318392059:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:45:08 WET [2025/01/11 14:45:08 ET]
+Table 'Aisakos II' 6-max Seat #3 is the button
+Seat 6: Pippa83 ($100 in chips) is sitting out
+Seat 1: ka100pka527 ($100 in chips) 
+Seat 2: v.sting ($102 in chips) 
+Seat 3: MAO_DZEDYN_S ($111.50 in chips) 
+Seat 4: AIien Hand ($100 in chips) 
+Seat 5: Ryantoland25 ($11.21 in chips) 
+AIien Hand: posts small blind $0.50
+Ryantoland25: posts big blind $1
+Pippa83: sits out 
+*** HOLE CARDS ***
+ka100pka527: folds 
+v.sting: folds 
+MAO_DZEDYN_S: raises $1.50 to $2.50
+AIien Hand: folds 
+Ryantoland25: calls $1.50
+*** FLOP *** [8c Qh Kh]
+Ryantoland25: checks 
+MAO_DZEDYN_S: checks 
+*** TURN *** [8c Qh Kh] [Qc]
+Ryantoland25: bets $3.61
+MAO_DZEDYN_S: folds 
+Uncalled bet ($3.61) returned to Ryantoland25
+Ryantoland25 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [8c Qh Kh Qc]
+Seat 6: Pippa83
+Seat 1: ka100pka527 folded before Flop (didn't bet)
+Seat 2: v.sting folded before Flop (didn't bet)
+Seat 3: MAO_DZEDYN_S (button) folded on the Turn
+Seat 4: AIien Hand (small blind) folded before Flop
+Seat 5: Ryantoland25 (big blind) collected ($5.22)
+
+
+
+PokerStars Hand #254318404092:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:45:44 WET [2025/01/11 14:45:44 ET]
+Table 'Aisakos II' 6-max Seat #4 is the button
+Seat 1: ka100pka527 ($100 in chips) 
+Seat 2: v.sting ($102 in chips) 
+Seat 3: MAO_DZEDYN_S ($109 in chips) 
+Seat 4: AIien Hand ($100 in chips) 
+Seat 5: Ryantoland25 ($13.93 in chips) 
+Seat 6: Pippa83 ($100 in chips) 
+Ryantoland25: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+ka100pka527: folds 
+v.sting: folds 
+MAO_DZEDYN_S: folds 
+AIien Hand: folds 
+Ryantoland25: raises $1 to $2
+Pippa83: folds 
+Uncalled bet ($1) returned to Ryantoland25
+Ryantoland25 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: ka100pka527 folded before Flop (didn't bet)
+Seat 2: v.sting folded before Flop (didn't bet)
+Seat 3: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 4: AIien Hand (button) folded before Flop (didn't bet)
+Seat 5: Ryantoland25 (small blind) collected ($2)
+Seat 6: Pippa83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254318412001:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:46:08 WET [2025/01/11 14:46:08 ET]
+Table 'Aisakos II' 6-max Seat #5 is the button
+Seat 1: ka100pka527 ($100 in chips) is sitting out
+Seat 2: v.sting ($102 in chips) is sitting out
+Seat 3: MAO_DZEDYN_S ($109 in chips) 
+Seat 4: AIien Hand ($100 in chips) 
+Seat 5: Ryantoland25 ($14.93 in chips) 
+Seat 6: Pippa83 ($100 in chips) 
+Pippa83: posts small blind $0.50
+ka100pka527: is sitting out 
+v.sting: is sitting out 
+MAO_DZEDYN_S: posts big blind $1
+*** HOLE CARDS ***
+v.sting leaves the table
+AIien Hand: raises $1 to $2
+Ryantoland25: folds 
+Pippa83: folds 
+MAO_DZEDYN_S: folds 
+Uncalled bet ($1) returned to AIien Hand
+value_ftw joins the table at seat #2 
+AIien Hand collected $2.50 from pot
+AIien Hand: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ka100pka527
+Seat 2: v.sting
+Seat 3: MAO_DZEDYN_S (big blind) folded before Flop
+Seat 4: AIien Hand collected ($2.50)
+Seat 5: Ryantoland25 (button) folded before Flop (didn't bet)
+Seat 6: Pippa83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254318416123:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:46:21 WET [2025/01/11 14:46:21 ET]
+Table 'Aisakos II' 6-max Seat #6 is the button
+Seat 1: ka100pka527 ($100 in chips) is sitting out
+Seat 2: value_ftw ($100 in chips) is sitting out
+Seat 3: MAO_DZEDYN_S ($108 in chips) 
+Seat 4: AIien Hand ($101.50 in chips) 
+Seat 5: Ryantoland25 ($14.93 in chips) 
+Seat 6: Pippa83 ($100 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+AIien Hand: posts big blind $1
+*** HOLE CARDS ***
+Ryantoland25: raises $1 to $2
+ka100pka527 leaves the table
+Pippa83: folds 
+MAO_DZEDYN_S: folds 
+AIien Hand: folds 
+Uncalled bet ($1) returned to Ryantoland25
+Ryantoland25 collected $2.50 from pot
+yzuk joins the table at seat #1 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ka100pka527
+Seat 2: value_ftw
+Seat 3: MAO_DZEDYN_S (small blind) folded before Flop
+Seat 4: AIien Hand (big blind) folded before Flop
+Seat 5: Ryantoland25 collected ($2.50)
+Seat 6: Pippa83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254318424347:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:46:46 WET [2025/01/11 14:46:46 ET]
+Table 'Aisakos II' 6-max Seat #3 is the button
+Seat 1: yzuk ($100 in chips) is sitting out
+Seat 2: value_ftw ($100 in chips) is sitting out
+Seat 3: MAO_DZEDYN_S ($107.50 in chips) 
+Seat 4: AIien Hand ($100.50 in chips) 
+Seat 5: Ryantoland25 ($16.43 in chips) 
+Seat 6: Pippa83 ($100 in chips) 
+AIien Hand: posts small blind $0.50
+Ryantoland25: posts big blind $1
+yzuk: sits out 
+value_ftw: sits out 
+*** HOLE CARDS ***
+Pippa83: folds 
+MAO_DZEDYN_S: raises $1 to $2
+AIien Hand: folds 
+Ryantoland25: calls $1
+*** FLOP *** [Jd Qd 8d]
+Ryantoland25: checks 
+MAO_DZEDYN_S: checks 
+*** TURN *** [Jd Qd 8d] [6c]
+Ryantoland25: checks 
+MAO_DZEDYN_S: checks 
+*** RIVER *** [Jd Qd 8d 6c] [2h]
+Ryantoland25: checks 
+MAO_DZEDYN_S: checks 
+*** SHOW DOWN ***
+Ryantoland25: shows [Kh 8c] (a pair of Eights)
+MAO_DZEDYN_S: mucks hand 
+Ryantoland25 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Jd Qd 8d 6c 2h]
+Seat 1: yzuk
+Seat 2: value_ftw
+Seat 3: MAO_DZEDYN_S (button) mucked
+Seat 4: AIien Hand (small blind) folded before Flop
+Seat 5: Ryantoland25 (big blind) showed [Kh 8c] and won ($4.28) with a pair of Eights
+Seat 6: Pippa83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254318442718:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:47:42 WET [2025/01/11 14:47:42 ET]
+Table 'Aisakos II' 6-max Seat #4 is the button
+Seat 1: yzuk ($100 in chips) is sitting out
+Seat 2: value_ftw ($100 in chips) is sitting out
+Seat 3: MAO_DZEDYN_S ($105.50 in chips) 
+Seat 4: AIien Hand ($100 in chips) 
+Seat 5: Ryantoland25 ($18.71 in chips) 
+Seat 6: Pippa83 ($100 in chips) 
+Ryantoland25: posts small blind $0.50
+Pippa83: posts big blind $1
+yzuk: sits out 
+value_ftw: sits out 
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+AIien Hand: folds 
+Ryantoland25: folds 
+Uncalled bet ($0.50) returned to Pippa83
+Pippa83 collected $1 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: yzuk
+Seat 2: value_ftw
+Seat 3: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 4: AIien Hand (button) folded before Flop (didn't bet)
+Seat 5: Ryantoland25 (small blind) folded before Flop
+Seat 6: Pippa83 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254318447026:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:47:55 WET [2025/01/11 14:47:55 ET]
+Table 'Aisakos II' 6-max Seat #5 is the button
+Seat 2: value_ftw ($100 in chips) is sitting out
+Seat 1: yzuk ($100 in chips) 
+Seat 3: MAO_DZEDYN_S ($105.50 in chips) 
+Seat 4: AIien Hand ($100 in chips) 
+Seat 5: Ryantoland25 ($18.21 in chips) 
+Seat 6: Pippa83 ($100.50 in chips) 
+Pippa83: posts small blind $0.50
+yzuk: posts big blind $1
+value_ftw: sits out 
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+AIien Hand: raises $1 to $2
+Ryantoland25: calls $2
+Pippa83: calls $1.50
+yzuk: folds 
+*** FLOP *** [Js Qh 6d]
+Pippa83: checks 
+AIien Hand: bets $2.66
+Ryantoland25: calls $2.66
+Pippa83: raises $8.84 to $11.50
+AIien Hand: folds 
+Ryantoland25: folds 
+Uncalled bet ($8.84) returned to Pippa83
+Pippa83 collected $14.23 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.98 | Rake $0.75 
+Board [Js Qh 6d]
+Seat 2: value_ftw
+Seat 1: yzuk (big blind) folded before Flop
+Seat 3: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 4: AIien Hand folded on the Flop
+Seat 5: Ryantoland25 (button) folded on the Flop
+Seat 6: Pippa83 (small blind) collected ($14.23)
+
+
+
+PokerStars Hand #254318460652:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:48:36 WET [2025/01/11 14:48:36 ET]
+Table 'Aisakos II' 6-max Seat #6 is the button
+Seat 1: yzuk ($100 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: MAO_DZEDYN_S ($105.50 in chips) 
+Seat 4: AIien Hand ($100 in chips) 
+Seat 5: Ryantoland25 ($13.55 in chips) 
+Seat 6: Pippa83 ($110.07 in chips) 
+yzuk: posts small blind $0.50
+value_ftw: posts big blind $1
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+AIien Hand: raises $1 to $2
+Ryantoland25: folds 
+Pippa83: folds 
+Pippa83 leaves the table
+yzuk: folds 
+value_ftw: calls $1
+*** FLOP *** [Qs Qc Ts]
+value_ftw: checks 
+AIien Hand: checks 
+*** TURN *** [Qs Qc Ts] [6d]
+value_ftw: bets $3.21
+AIien Hand: calls $3.21
+*** RIVER *** [Qs Qc Ts 6d] [9s]
+value_ftw: checks 
+AIien Hand: bets $5.72
+value_ftw: calls $5.72
+*** SHOW DOWN ***
+AIien Hand: shows [Kc Tc] (two pair, Queens and Tens)
+value_ftw: mucks hand 
+AIien Hand collected $21.24 from pot
+*** SUMMARY ***
+Total pot $22.36 | Rake $1.12 
+Board [Qs Qc Ts 6d 9s]
+Seat 1: yzuk (small blind) folded before Flop
+Seat 2: value_ftw (big blind) mucked
+Seat 3: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 4: AIien Hand showed [Kc Tc] and won ($21.24) with two pair, Queens and Tens
+Seat 5: Ryantoland25 folded before Flop (didn't bet)
+Seat 6: Pippa83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254318495410:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:50:22 WET [2025/01/11 14:50:22 ET]
+Table 'Aisakos II' 6-max Seat #1 is the button
+Seat 1: yzuk ($100 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: MAO_DZEDYN_S ($105.50 in chips) 
+Seat 4: AIien Hand ($110.31 in chips) 
+Seat 5: Ryantoland25 ($13.55 in chips) 
+value_ftw: posts small blind $0.50
+MAO_DZEDYN_S: posts big blind $1
+*** HOLE CARDS ***
+AIien Hand: folds 
+Ryantoland25: raises $1 to $2
+yzuk: folds 
+value_ftw: folds 
+MAO_DZEDYN_S: raises $10.50 to $12.50
+Ryantoland25: folds 
+Uncalled bet ($10.50) returned to MAO_DZEDYN_S
+MAO_DZEDYN_S collected $4.50 from pot
+MAO_DZEDYN_S: doesn't show hand 
+Sadyhov V.V. joins the table at seat #6 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 1: yzuk (button) folded before Flop (didn't bet)
+Seat 2: value_ftw (small blind) folded before Flop
+Seat 3: MAO_DZEDYN_S (big blind) collected ($4.50)
+Seat 4: AIien Hand folded before Flop (didn't bet)
+Seat 5: Ryantoland25 folded before Flop
+
+
+
+PokerStars Hand #254318503249:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:50:47 WET [2025/01/11 14:50:47 ET]
+Table 'Aisakos II' 6-max Seat #2 is the button
+Seat 1: yzuk ($100 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: MAO_DZEDYN_S ($108 in chips) 
+Seat 4: AIien Hand ($110.31 in chips) 
+Seat 5: Ryantoland25 ($11.55 in chips) 
+Seat 6: Sadyhov V.V. ($100 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+AIien Hand: posts big blind $1
+Sadyhov V.V. is connected 
+Sadyhov V.V.: posts big blind $1
+*** HOLE CARDS ***
+Ryantoland25: folds 
+Sadyhov V.V.: checks 
+yzuk: folds 
+value_ftw: folds 
+MAO_DZEDYN_S: raises $3.50 to $4.50
+AIien Hand: folds 
+Sadyhov V.V.: folds 
+Uncalled bet ($3.50) returned to MAO_DZEDYN_S
+MAO_DZEDYN_S collected $3 from pot
+MAO_DZEDYN_S: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: yzuk folded before Flop (didn't bet)
+Seat 2: value_ftw (button) folded before Flop (didn't bet)
+Seat 3: MAO_DZEDYN_S (small blind) collected ($3)
+Seat 4: AIien Hand (big blind) folded before Flop
+Seat 5: Ryantoland25 folded before Flop (didn't bet)
+Seat 6: Sadyhov V.V. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254318517556:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:51:31 WET [2025/01/11 14:51:31 ET]
+Table 'Aisakos II' 6-max Seat #3 is the button
+Seat 1: yzuk ($100 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: MAO_DZEDYN_S ($110 in chips) 
+Seat 4: AIien Hand ($109.31 in chips) 
+Seat 5: Ryantoland25 ($11.55 in chips) 
+Seat 6: Sadyhov V.V. ($100 in chips) 
+AIien Hand: posts small blind $0.50
+Ryantoland25: posts big blind $1
+*** HOLE CARDS ***
+Sadyhov V.V.: folds 
+yzuk: folds 
+value_ftw: raises $1.20 to $2.20
+MAO_DZEDYN_S: folds 
+AIien Hand: folds 
+Ryantoland25: calls $1.20
+*** FLOP *** [5s Js 9d]
+Ryantoland25: bets $2.33
+Sadyhov V.V. leaves the table
+value_ftw: raises $95.47 to $97.80 and is all-in
+Ryantoland25: folds 
+Uncalled bet ($95.47) returned to value_ftw
+value_ftw collected $9.08 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.56 | Rake $0.48 
+Board [5s Js 9d]
+Seat 1: yzuk folded before Flop (didn't bet)
+Seat 2: value_ftw collected ($9.08)
+Seat 3: MAO_DZEDYN_S (button) folded before Flop (didn't bet)
+Seat 4: AIien Hand (small blind) folded before Flop
+Seat 5: Ryantoland25 (big blind) folded on the Flop
+Seat 6: Sadyhov V.V. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254318527038:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:52:00 WET [2025/01/11 14:52:00 ET]
+Table 'Aisakos II' 6-max Seat #4 is the button
+Seat 1: yzuk ($100 in chips) is sitting out
+Seat 2: value_ftw ($104.55 in chips) 
+Seat 3: MAO_DZEDYN_S ($110 in chips) 
+Seat 4: AIien Hand ($108.81 in chips) 
+Seat 5: Ryantoland25 ($7.02 in chips) 
+Ryantoland25: posts small blind $0.50
+yzuk: is sitting out 
+value_ftw: posts big blind $1
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+yzuk leaves the table
+MAO_DZEDYN_S leaves the table
+AIien Hand: raises $1.20 to $2.20
+Ryantoland25: raises $4.82 to $7.02 and is all-in
+value_ftw: folds 
+AIien Hand: calls $4.82
+*** FLOP *** [Jh 5d 8c]
+*** TURN *** [Jh 5d 8c] [7s]
+*** RIVER *** [Jh 5d 8c 7s] [5h]
+*** SHOW DOWN ***
+Ryantoland25: shows [Ah 2d] (a pair of Fives)
+AIien Hand: shows [Td Ac] (a pair of Fives - Ace+Jack+Ten kicker)
+Zvst joins the table at seat #6 
+AIien Hand collected $14.29 from pot
+*** SUMMARY ***
+Total pot $15.04 | Rake $0.75 
+Board [Jh 5d 8c 7s 5h]
+Seat 1: yzuk
+Seat 2: value_ftw (big blind) folded before Flop
+Seat 3: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 4: AIien Hand (button) showed [Td Ac] and won ($14.29) with a pair of Fives
+Seat 5: Ryantoland25 (small blind) showed [Ah 2d] and lost with a pair of Fives
+
+
+
+PokerStars Hand #254318537241:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:52:31 WET [2025/01/11 14:52:31 ET]
+Table 'Aisakos II' 6-max Seat #2 is the button
+Seat 5: Ryantoland25 ($0 in chips) is sitting out
+Seat 2: value_ftw ($103.55 in chips) 
+Seat 4: AIien Hand ($116.08 in chips) 
+Seat 6: Zvst ($100 in chips) 
+AIien Hand: posts small blind $0.50
+Zvst: posts big blind $1
+*** HOLE CARDS ***
+UnRRRReal joins the table at seat #1 
+Pippa83 joins the table at seat #3 
+value_ftw: folds 
+AIien Hand: raises $1.50 to $2.50
+Zvst: folds 
+Uncalled bet ($1.50) returned to AIien Hand
+AIien Hand collected $2 from pot
+AIien Hand: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: Ryantoland25
+Seat 2: value_ftw (button) folded before Flop (didn't bet)
+Seat 4: AIien Hand (small blind) collected ($2)
+Seat 6: Zvst (big blind) folded before Flop
+
+
+
+PokerStars Hand #254318542738:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:52:48 WET [2025/01/11 14:52:48 ET]
+Table 'Aisakos II' 6-max Seat #4 is the button
+Seat 3: Pippa83 ($110.07 in chips) is sitting out
+Seat 5: Ryantoland25 ($0 in chips) is sitting out
+Seat 1: UnRRRReal ($100 in chips) 
+Seat 2: value_ftw ($103.55 in chips) 
+Seat 4: AIien Hand ($117.08 in chips) 
+Seat 6: Zvst ($100 in chips) 
+Zvst: posts small blind $0.50
+UnRRRReal: posts big blind $1
+Pippa83: sits out 
+*** HOLE CARDS ***
+value_ftw: raises $1.20 to $2.20
+AIien Hand: folds 
+Zvst: folds 
+UnRRRReal: folds 
+Uncalled bet ($1.20) returned to value_ftw
+value_ftw collected $2.50 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Pippa83
+Seat 5: Ryantoland25
+Seat 1: UnRRRReal (big blind) folded before Flop
+Seat 2: value_ftw collected ($2.50)
+Seat 4: AIien Hand (button) folded before Flop (didn't bet)
+Seat 6: Zvst (small blind) folded before Flop
+
+
+
+PokerStars Hand #254318547386:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:53:02 WET [2025/01/11 14:53:02 ET]
+Table 'Aisakos II' 6-max Seat #6 is the button
+Seat 3: Pippa83 ($110.07 in chips) is sitting out
+Seat 5: Ryantoland25 ($0 in chips) is sitting out
+Seat 1: UnRRRReal ($100 in chips) 
+Seat 2: value_ftw ($105.05 in chips) 
+Seat 4: AIien Hand ($117.08 in chips) 
+Seat 6: Zvst ($100 in chips) 
+UnRRRReal: posts small blind $0.50
+value_ftw: posts big blind $1
+Pippa83: sits out 
+*** HOLE CARDS ***
+AIien Hand: folds 
+Zvst: raises $1.50 to $2.50
+UnRRRReal: folds 
+value_ftw: folds 
+Uncalled bet ($1.50) returned to Zvst
+Zvst collected $2.50 from pot
+Zvst: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Pippa83
+Seat 5: Ryantoland25
+Seat 1: UnRRRReal (small blind) folded before Flop
+Seat 2: value_ftw (big blind) folded before Flop
+Seat 4: AIien Hand folded before Flop (didn't bet)
+Seat 6: Zvst (button) collected ($2.50)
+
+
+
+PokerStars Hand #254318550489:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:53:12 WET [2025/01/11 14:53:12 ET]
+Table 'Aisakos II' 6-max Seat #1 is the button
+Seat 1: UnRRRReal ($100 in chips) 
+Seat 2: value_ftw ($104.05 in chips) 
+Seat 3: Pippa83 ($110.07 in chips) 
+Seat 4: AIien Hand ($117.08 in chips) 
+Seat 5: Ryantoland25 ($12.21 in chips) 
+Seat 6: Zvst ($101.50 in chips) 
+value_ftw: posts small blind $0.50
+Pippa83: posts big blind $1
+Ryantoland25: posts small & big blinds $1.50
+*** HOLE CARDS ***
+AIien Hand: folds 
+Ryantoland25: checks 
+Zvst: folds 
+UnRRRReal: folds 
+value_ftw: folds 
+Pippa83: checks 
+*** FLOP *** [Js 3c 7h]
+Pippa83: checks 
+Ryantoland25: bets $2
+Pippa83: calls $2
+*** TURN *** [Js 3c 7h] [4d]
+Pippa83: checks 
+Ryantoland25: checks 
+*** RIVER *** [Js 3c 7h 4d] [Qs]
+Pippa83: checks 
+Ryantoland25: checks 
+*** SHOW DOWN ***
+Pippa83: shows [2h Jc] (a pair of Jacks)
+Ryantoland25: mucks hand 
+Pippa83 collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Js 3c 7h 4d Qs]
+Seat 1: UnRRRReal (button) folded before Flop (didn't bet)
+Seat 2: value_ftw (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) showed [2h Jc] and won ($6.65) with a pair of Jacks
+Seat 4: AIien Hand folded before Flop (didn't bet)
+Seat 5: Ryantoland25 mucked
+Seat 6: Zvst folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254318563201:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:53:50 WET [2025/01/11 14:53:50 ET]
+Table 'Aisakos II' 6-max Seat #2 is the button
+Seat 1: UnRRRReal ($100 in chips) 
+Seat 2: value_ftw ($103.55 in chips) 
+Seat 3: Pippa83 ($113.72 in chips) 
+Seat 4: AIien Hand ($117.08 in chips) 
+Seat 5: Ryantoland25 ($8.71 in chips) 
+Seat 6: Zvst ($101.50 in chips) 
+Pippa83: posts small blind $0.50
+AIien Hand: posts big blind $1
+*** HOLE CARDS ***
+Ryantoland25: folds 
+Zvst: folds 
+UnRRRReal: raises $1.50 to $2.50
+value_ftw: folds 
+Pippa83: folds 
+AIien Hand: folds 
+Uncalled bet ($1.50) returned to UnRRRReal
+UnRRRReal collected $2.50 from pot
+UnRRRReal: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: UnRRRReal collected ($2.50)
+Seat 2: value_ftw (button) folded before Flop (didn't bet)
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 4: AIien Hand (big blind) folded before Flop
+Seat 5: Ryantoland25 folded before Flop (didn't bet)
+Seat 6: Zvst folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254318569622:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:54:10 WET [2025/01/11 14:54:10 ET]
+Table 'Aisakos II' 6-max Seat #3 is the button
+Seat 1: UnRRRReal ($101.50 in chips) 
+Seat 2: value_ftw ($103.55 in chips) 
+Seat 3: Pippa83 ($113.22 in chips) 
+Seat 4: AIien Hand ($116.08 in chips) 
+Seat 5: Ryantoland25 ($8.71 in chips) 
+Seat 6: Zvst ($101.50 in chips) 
+AIien Hand: posts small blind $0.50
+Ryantoland25: posts big blind $1
+*** HOLE CARDS ***
+Zvst: folds 
+UnRRRReal: folds 
+value_ftw: folds 
+Pippa83: folds 
+Pippa83 leaves the table
+AIien Hand: raises $115.08 to $116.08 and is all-in
+Ryantoland25: calls $7.71 and is all-in
+Uncalled bet ($107.37) returned to AIien Hand
+*** FLOP *** [8d 2c 9h]
+*** TURN *** [8d 2c 9h] [5d]
+*** RIVER *** [8d 2c 9h 5d] [6h]
+*** SHOW DOWN ***
+AIien Hand: shows [Js 9s] (a pair of Nines)
+Ryantoland25: shows [3h Ac] (high card Ace)
+AIien Hand collected $16.55 from pot
+*** SUMMARY ***
+Total pot $17.42 | Rake $0.87 
+Board [8d 2c 9h 5d 6h]
+Seat 1: UnRRRReal folded before Flop (didn't bet)
+Seat 2: value_ftw folded before Flop (didn't bet)
+Seat 3: Pippa83 (button) folded before Flop (didn't bet)
+Seat 4: AIien Hand (small blind) showed [Js 9s] and won ($16.55) with a pair of Nines
+Seat 5: Ryantoland25 (big blind) showed [3h Ac] and lost with high card Ace
+Seat 6: Zvst folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254318577491:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:54:34 WET [2025/01/11 14:54:34 ET]
+Table 'Aisakos II' 6-max Seat #4 is the button
+Seat 5: Ryantoland25 ($0 in chips) is sitting out
+Seat 1: UnRRRReal ($101.50 in chips) 
+Seat 2: value_ftw ($103.55 in chips) 
+Seat 4: AIien Hand ($123.92 in chips) 
+Seat 6: Zvst ($101.50 in chips) 
+Ryantoland25 is disconnected 
+Zvst: posts small blind $0.50
+UnRRRReal: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: folds 
+AIien Hand: folds 
+Zvst: folds 
+Uncalled bet ($0.50) returned to UnRRRReal
+UnRRRReal collected $1 from pot
+UnRRRReal: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: Ryantoland25
+Seat 1: UnRRRReal (big blind) collected ($1)
+Seat 2: value_ftw folded before Flop (didn't bet)
+Seat 4: AIien Hand (button) folded before Flop (didn't bet)
+Seat 6: Zvst (small blind) folded before Flop
+
+
+
+PokerStars Hand #254318585523:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:54:59 WET [2025/01/11 14:54:59 ET]
+Table 'Aisakos II' 6-max Seat #6 is the button
+Seat 5: Ryantoland25 ($0 in chips) is sitting out
+Seat 1: UnRRRReal ($102 in chips) 
+Seat 2: value_ftw ($103.55 in chips) 
+Seat 4: AIien Hand ($123.92 in chips) 
+Seat 6: Zvst ($101 in chips) 
+UnRRRReal: posts small blind $0.50
+value_ftw: posts big blind $1
+*** HOLE CARDS ***
+AIien Hand: raises $1.20 to $2.20
+Zvst: folds 
+UnRRRReal: folds 
+value_ftw: folds 
+Uncalled bet ($1.20) returned to AIien Hand
+AIien Hand collected $2.50 from pot
+AIien Hand: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: Ryantoland25
+Seat 1: UnRRRReal (small blind) folded before Flop
+Seat 2: value_ftw (big blind) folded before Flop
+Seat 4: AIien Hand collected ($2.50)
+Seat 6: Zvst (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254318588495:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:55:11 WET [2025/01/11 14:55:11 ET]
+Table 'Aisakos II' 6-max Seat #1 is the button
+Seat 5: Ryantoland25 ($0 in chips) is sitting out
+Seat 1: UnRRRReal ($101.50 in chips) 
+Seat 2: value_ftw ($102.55 in chips) 
+Seat 4: AIien Hand ($125.42 in chips) 
+Seat 6: Zvst ($101 in chips) 
+value_ftw: posts small blind $0.50
+AIien Hand: posts big blind $1
+*** HOLE CARDS ***
+Zvst: folds 
+UnRRRReal: folds 
+value_ftw: raises $2 to $3
+AIien Hand: raises $6 to $9
+value_ftw: folds 
+Uncalled bet ($6) returned to AIien Hand
+AIien Hand collected $6 from pot
+AIien Hand: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 5: Ryantoland25
+Seat 1: UnRRRReal (button) folded before Flop (didn't bet)
+Seat 2: value_ftw (small blind) folded before Flop
+Seat 4: AIien Hand (big blind) collected ($6)
+Seat 6: Zvst folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254318594263:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:55:39 WET [2025/01/11 14:55:39 ET]
+Table 'Aisakos II' 6-max Seat #2 is the button
+Seat 5: Ryantoland25 ($0 in chips) is sitting out
+Seat 6: Zvst ($101 in chips) is sitting out
+Seat 1: UnRRRReal ($101.50 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 4: AIien Hand ($128.42 in chips) 
+AIien Hand: posts small blind $0.50
+Zvst: is sitting out 
+UnRRRReal: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: raises $1.50 to $2.50
+AIien Hand: folds 
+UnRRRReal: raises $10.50 to $13
+Zvst leaves the table
+value_ftw: folds 
+Uncalled bet ($10.50) returned to UnRRRReal
+UnRRRReal collected $5.50 from pot
+UnRRRReal: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 5: Ryantoland25
+Seat 6: Zvst
+Seat 1: UnRRRReal (big blind) collected ($5.50)
+Seat 2: value_ftw (button) folded before Flop
+Seat 4: AIien Hand (small blind) folded before Flop
+
+
+
+PokerStars Hand #254318598712:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:56:00 WET [2025/01/11 14:56:00 ET]
+Table 'Aisakos II' 6-max Seat #1 is the button
+Seat 2: value_ftw ($100 in chips) is sitting out
+Seat 5: Ryantoland25 ($0 in chips) is sitting out
+Seat 1: UnRRRReal ($104.50 in chips) 
+Seat 4: AIien Hand ($127.92 in chips) 
+UnRRRReal: posts small blind $0.50
+value_ftw: is sitting out 
+AIien Hand: posts big blind $1
+*** HOLE CARDS ***
+value_ftw leaves the table
+UnRRRReal: raises $1.50 to $2.50
+AIien Hand: folds 
+Uncalled bet ($1.50) returned to UnRRRReal
+UnRRRReal collected $2 from pot
+UnRRRReal: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: value_ftw
+Seat 5: Ryantoland25
+Seat 1: UnRRRReal (button) (small blind) collected ($2)
+Seat 4: AIien Hand (big blind) folded before Flop
+
+
+
+PokerStars Hand #254318601230:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 19:56:12 WET [2025/01/11 14:56:12 ET]
+Table 'Aisakos II' 6-max Seat #4 is the button
+Seat 5: Ryantoland25 ($0 in chips) is sitting out
+Seat 1: UnRRRReal ($105.50 in chips) 
+Seat 4: AIien Hand ($126.92 in chips) 
+AIien Hand: posts small blind $0.50
+UnRRRReal: posts big blind $1
+*** HOLE CARDS ***
+AIien Hand: raises $1.50 to $2.50
+UnRRRReal: folds 
+Uncalled bet ($1.50) returned to AIien Hand
+Ryantoland25 leaves the table
+AIien Hand collected $2 from pot
+AIien Hand: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: Ryantoland25
+Seat 1: UnRRRReal (big blind) folded before Flop
+Seat 4: AIien Hand (button) (small blind) collected ($2)
+
+
+

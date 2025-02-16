@@ -1,0 +1,5026 @@
+﻿PokerStars Hand #254231588490:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:32:40 WET [2025/01/06 13:32:40 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: Manifestorr ($123.68 in chips) is sitting out
+Seat 2: najar1985 ($40 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($58.51 in chips) 
+Seat 5: steelNike ($33.07 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+Rezzonner: posts small blind $0.50
+Manifestorr: is sitting out 
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+lecram87501: calls $1
+steelNike: folds 
+Rezzonner: calls $0.50
+Manifestorr leaves the table
+najar1985: checks 
+*** FLOP *** [2h Jc 3s]
+Rezzonner: checks 
+toplusen joins the table at seat #1 
+toplusen is disconnected 
+najar1985: bets $2.85
+lecram87501: folds 
+Rezzonner: calls $2.85
+*** TURN *** [2h Jc 3s] [5h]
+Rezzonner: checks 
+najar1985: bets $6
+Rezzonner: folds 
+Uncalled bet ($6) returned to najar1985
+najar1985 collected $8.26 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.70 | Rake $0.44 
+Board [2h Jc 3s 5h]
+Seat 1: Manifestorr
+Seat 2: najar1985 (big blind) collected ($8.26)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 folded on the Flop
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: Rezzonner (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254231606705:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:33:35 WET [2025/01/06 13:33:35 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: toplusen ($100 in chips) is sitting out
+Seat 2: najar1985 ($44.41 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($57.51 in chips) 
+Seat 5: steelNike ($33.07 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+najar1985: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: folds 
+steelNike: raises $1 to $2
+Rezzonner: raises $4 to $6
+najar1985: folds 
+gudrozd: folds 
+steelNike: raises $27.07 to $33.07 and is all-in
+Rezzonner: calls $27.07
+*** FIRST FLOP *** [5h 8s Qd]
+*** FIRST TURN *** [5h 8s Qd] [Qs]
+*** FIRST RIVER *** [5h 8s Qd Qs] [3s]
+*** SECOND FLOP *** [5c Qc 9h]
+*** SECOND TURN *** [5c Qc 9h] [6d]
+*** SECOND RIVER *** [5c Qc 9h 6d] [2d]
+*** FIRST SHOW DOWN ***
+steelNike: shows [Kh Ks] (two pair, Kings and Queens)
+Rezzonner: shows [Tc Th] (two pair, Queens and Tens)
+steelNike collected $32.57 from pot
+*** SECOND SHOW DOWN ***
+steelNike: shows [Kh Ks] (a pair of Kings)
+Rezzonner: shows [Tc Th] (a pair of Tens)
+steelNike collected $32.57 from pot
+*** SUMMARY ***
+Total pot $67.64 | Rake $2.50 
+Hand was run twice
+FIRST Board [5h 8s Qd Qs 3s]
+SECOND Board [5c Qc 9h 6d 2d]
+Seat 1: toplusen
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: gudrozd (big blind) folded before Flop
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike showed [Kh Ks] and won ($32.57) with two pair, Kings and Queens, and won ($32.57) with a pair of Kings
+Seat 6: Rezzonner (button) showed [Tc Th] and lost with two pair, Queens and Tens, and lost with a pair of Tens
+
+
+
+PokerStars Hand #254231621971:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:34:21 WET [2025/01/06 13:34:21 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: toplusen ($100 in chips) 
+Seat 2: najar1985 ($43.91 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($57.51 in chips) 
+Seat 5: steelNike ($65.14 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+gudrozd: posts small blind $0.50
+lecram87501: posts big blind $1
+toplusen: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: folds 
+toplusen: checks 
+najar1985: folds 
+gudrozd: folds 
+lecram87501: checks 
+*** FLOP *** [6s Qh 2h]
+lecram87501: checks 
+toplusen: checks 
+*** TURN *** [6s Qh 2h] [2d]
+lecram87501: bets $1
+toplusen: calls $1
+*** RIVER *** [6s Qh 2h 2d] [Jd]
+lecram87501: checks 
+toplusen: bets $4.28
+lecram87501: folds 
+Uncalled bet ($4.28) returned to toplusen
+toplusen collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [6s Qh 2h 2d Jd]
+Seat 1: toplusen collected ($4.28)
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) folded before Flop
+Seat 4: lecram87501 (big blind) folded on the River
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254231637561:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:35:08 WET [2025/01/06 13:35:08 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: toplusen ($102.28 in chips) 
+Seat 2: najar1985 ($43.91 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($55.51 in chips) 
+Seat 5: steelNike ($65.14 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+toplusen: raises $1 to $2
+najar1985: folds 
+gudrozd: folds 
+lecram87501: folds 
+steelNike: calls $1
+*** FLOP *** [Td Jh Jc]
+steelNike: checks 
+toplusen: bets $2.14
+steelNike: folds 
+Uncalled bet ($2.14) returned to toplusen
+toplusen collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Td Jh Jc]
+Seat 1: toplusen collected ($4.28)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd (button) folded before Flop (didn't bet)
+Seat 4: lecram87501 (small blind) folded before Flop
+Seat 5: steelNike (big blind) folded on the Flop
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254231650069:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:35:45 WET [2025/01/06 13:35:45 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: toplusen ($104.56 in chips) 
+Seat 2: najar1985 ($43.91 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($55.01 in chips) 
+Seat 5: steelNike ($63.14 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+steelNike: posts small blind $0.50
+Rezzonner: posts big blind $1
+*** HOLE CARDS ***
+toplusen: raises $1 to $2
+najar1985: folds 
+gudrozd: folds 
+lecram87501: folds 
+steelNike: folds 
+Rezzonner: folds 
+Uncalled bet ($1) returned to toplusen
+toplusen collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: toplusen collected ($2.50)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: Rezzonner (big blind) folded before Flop
+
+
+
+PokerStars Hand #254231659346:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:36:13 WET [2025/01/06 13:36:13 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: toplusen ($106.06 in chips) is sitting out
+Seat 2: najar1985 ($43.91 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($55.01 in chips) 
+Seat 5: steelNike ($62.64 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+Rezzonner: posts small blind $0.50
+toplusen is disconnected 
+toplusen has timed out while disconnected
+toplusen: is sitting out 
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+lecram87501: calls $1
+steelNike: raises $6 to $7
+Rezzonner: folds 
+najar1985: folds 
+lecram87501: folds 
+Uncalled bet ($6) returned to steelNike
+steelNike collected $3.50 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: toplusen
+Seat 2: najar1985 (big blind) folded before Flop
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 folded before Flop
+Seat 5: steelNike (button) collected ($3.50)
+Seat 6: Rezzonner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254231671194:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:36:48 WET [2025/01/06 13:36:48 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: toplusen ($106.06 in chips) is sitting out
+Seat 2: najar1985 ($42.91 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($54.01 in chips) 
+Seat 5: steelNike ($65.14 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+najar1985: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: calls $1
+steelNike: folds 
+Rezzonner: folds 
+najar1985: calls $0.50
+gudrozd: checks 
+*** FLOP *** [Kc Ac Kd]
+najar1985: checks 
+gudrozd: checks 
+lecram87501: bets $2.85
+najar1985: folds 
+gudrozd: folds 
+Uncalled bet ($2.85) returned to lecram87501
+lecram87501 collected $2.81 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.19 
+Board [Kc Ac Kd]
+Seat 1: toplusen
+Seat 2: najar1985 (small blind) folded on the Flop
+Seat 3: gudrozd (big blind) folded on the Flop
+Seat 4: lecram87501 collected ($2.81)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254231683408:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:37:25 WET [2025/01/06 13:37:25 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: toplusen ($106.06 in chips) 
+Seat 2: najar1985 ($41.91 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($55.82 in chips) 
+Seat 5: steelNike ($65.14 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+gudrozd: posts small blind $0.50
+lecram87501: posts big blind $1
+toplusen: posts small & big blinds $1.50
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: raises $3.50 to $4.50
+toplusen: calls $3.50
+najar1985: folds 
+gudrozd: folds 
+lecram87501: folds 
+*** FLOP *** [4d Ah Kc]
+Rezzonner: checks 
+toplusen: bets $5.23
+Rezzonner: calls $5.23
+*** TURN *** [4d Ah Kc] [3h]
+Rezzonner: checks 
+toplusen: checks 
+*** RIVER *** [4d Ah Kc 3h] [8c]
+Rezzonner: checks 
+toplusen: checks 
+*** SHOW DOWN ***
+Rezzonner: shows [Kd 7d] (a pair of Kings)
+toplusen: mucks hand 
+Rezzonner collected $20.39 from pot
+*** SUMMARY ***
+Total pot $21.46 | Rake $1.07 
+Board [4d Ah Kc 3h 8c]
+Seat 1: toplusen mucked
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) folded before Flop
+Seat 4: lecram87501 (big blind) folded before Flop
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner showed [Kd 7d] and won ($20.39) with a pair of Kings
+
+
+
+PokerStars Hand #254231707407:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:38:36 WET [2025/01/06 13:38:36 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: toplusen ($95.83 in chips) 
+Seat 2: najar1985 ($41.91 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($54.82 in chips) 
+Seat 5: steelNike ($65.14 in chips) 
+Seat 6: Rezzonner ($110.66 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+toplusen: folds 
+najar1985: folds 
+gudrozd: raises $1.50 to $2.50
+lecram87501: folds 
+steelNike: folds 
+Uncalled bet ($1.50) returned to gudrozd
+gudrozd collected $2.50 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: toplusen folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd (button) collected ($2.50)
+Seat 4: lecram87501 (small blind) folded before Flop
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254231713962:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:38:55 WET [2025/01/06 13:38:55 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: toplusen ($95.83 in chips) 
+Seat 2: najar1985 ($41.91 in chips) 
+Seat 3: gudrozd ($101.50 in chips) 
+Seat 4: lecram87501 ($54.32 in chips) 
+Seat 5: steelNike ($64.14 in chips) 
+Seat 6: Rezzonner ($110.66 in chips) 
+steelNike: posts small blind $0.50
+Rezzonner: posts big blind $1
+*** HOLE CARDS ***
+toplusen: raises $1 to $2
+najar1985: folds 
+gudrozd: folds 
+lecram87501: calls $2
+steelNike: folds 
+Rezzonner: folds 
+*** FLOP *** [4h 3d 7h]
+toplusen: bets $2.61
+lecram87501: calls $2.61
+*** TURN *** [4h 3d 7h] [7d]
+toplusen: checks 
+lecram87501: checks 
+*** RIVER *** [4h 3d 7h 7d] [9s]
+toplusen: bets $6
+lecram87501: calls $6
+*** SHOW DOWN ***
+toplusen: shows [9d As] (two pair, Nines and Sevens)
+lecram87501: shows [Qh Qs] (two pair, Queens and Sevens)
+lecram87501 collected $21.30 from pot
+*** SUMMARY ***
+Total pot $22.72 | Rake $1.42 
+Board [4h 3d 7h 7d 9s]
+Seat 1: toplusen showed [9d As] and lost with two pair, Nines and Sevens
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 (button) showed [Qh Qs] and won ($21.30) with two pair, Queens and Sevens
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: Rezzonner (big blind) folded before Flop
+
+
+
+PokerStars Hand #254231731735:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:39:48 WET [2025/01/06 13:39:48 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: toplusen ($85.22 in chips) 
+Seat 2: najar1985 ($41.91 in chips) 
+Seat 3: gudrozd ($101.50 in chips) 
+Seat 4: lecram87501 ($65.01 in chips) 
+Seat 5: steelNike ($63.64 in chips) 
+Seat 6: Rezzonner ($109.66 in chips) 
+Rezzonner: posts small blind $0.50
+toplusen: posts big blind $1
+*** HOLE CARDS ***
+najar1985: folds 
+gudrozd: folds 
+lecram87501: calls $1
+steelNike: folds 
+Rezzonner: calls $0.50
+toplusen: checks 
+*** FLOP *** [2d Ah 2s]
+Rezzonner: bets $1
+toplusen: calls $1
+lecram87501: folds 
+*** TURN *** [2d Ah 2s] [Ac]
+Rezzonner: checks 
+toplusen: checks 
+*** RIVER *** [2d Ah 2s Ac] [Qd]
+Rezzonner: checks 
+toplusen: checks 
+*** SHOW DOWN ***
+Rezzonner: shows [7c 7d] (two pair, Aces and Sevens)
+toplusen: shows [3h 2h] (a full house, Deuces full of Aces)
+toplusen collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [2d Ah 2s Ac Qd]
+Seat 1: toplusen (big blind) showed [3h 2h] and won ($4.75) with a full house, Deuces full of Aces
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 folded on the Flop
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: Rezzonner (small blind) showed [7c 7d] and lost with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #254231753450:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:40:53 WET [2025/01/06 13:40:53 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: toplusen ($87.97 in chips) 
+Seat 2: najar1985 ($41.91 in chips) 
+Seat 3: gudrozd ($101.50 in chips) 
+Seat 4: lecram87501 ($64.01 in chips) 
+Seat 5: steelNike ($63.64 in chips) 
+Seat 6: Rezzonner ($107.66 in chips) 
+toplusen: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: raises $1.50 to $2.50
+lecram87501: folds 
+steelNike: folds 
+Rezzonner: folds 
+toplusen: calls $2
+najar1985: calls $1.50
+*** FLOP *** [9s Ad 3s]
+toplusen: checks 
+najar1985: checks 
+gudrozd: checks 
+*** TURN *** [9s Ad 3s] [6c]
+toplusen: bets $7.12
+najar1985: calls $7.12
+gudrozd: folds 
+*** RIVER *** [9s Ad 3s 6c] [Kc]
+toplusen: bets $10.33
+najar1985: calls $10.33
+*** SHOW DOWN ***
+toplusen: shows [9c Ah] (two pair, Aces and Nines)
+najar1985: mucks hand 
+toplusen collected $40.28 from pot
+*** SUMMARY ***
+Total pot $42.40 | Rake $2.12 
+Board [9s Ad 3s 6c Kc]
+Seat 1: toplusen (small blind) showed [9c Ah] and won ($40.28) with two pair, Aces and Nines
+Seat 2: najar1985 (big blind) mucked
+Seat 3: gudrozd folded on the Turn
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254231773126:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:41:52 WET [2025/01/06 13:41:52 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 1: toplusen ($108.30 in chips) 
+Seat 2: najar1985 ($21.96 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($64.01 in chips) 
+Seat 5: steelNike ($63.64 in chips) 
+Seat 6: Rezzonner ($107.66 in chips) 
+najar1985: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: calls $1
+steelNike: folds 
+Rezzonner: folds 
+toplusen: raises $1 to $2
+najar1985: folds 
+gudrozd: folds 
+lecram87501: calls $1
+*** FLOP *** [5h Ac 8c]
+lecram87501: checks 
+toplusen: checks 
+*** TURN *** [5h Ac 8c] [3s]
+lecram87501: checks 
+toplusen: checks 
+*** RIVER *** [5h Ac 8c 3s] [Ts]
+lecram87501: checks 
+toplusen: checks 
+*** SHOW DOWN ***
+lecram87501: shows [4c 5s] (a pair of Fives)
+toplusen: mucks hand 
+lecram87501 collected $5.15 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.35 
+Board [5h Ac 8c 3s Ts]
+Seat 1: toplusen (button) mucked
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: gudrozd (big blind) folded before Flop
+Seat 4: lecram87501 showed [4c 5s] and won ($5.15) with a pair of Fives
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254231792536:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:42:51 WET [2025/01/06 13:42:51 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: toplusen ($106.30 in chips) 
+Seat 2: najar1985 ($43.54 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($67.16 in chips) 
+Seat 5: steelNike ($63.64 in chips) 
+Seat 6: Rezzonner ($107.66 in chips) 
+gudrozd: posts small blind $0.50
+lecram87501: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: folds 
+toplusen: folds 
+najar1985: folds 
+gudrozd: folds 
+Uncalled bet ($0.50) returned to lecram87501
+lecram87501 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: toplusen folded before Flop (didn't bet)
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) folded before Flop
+Seat 4: lecram87501 (big blind) collected ($1)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254231795807:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:43:00 WET [2025/01/06 13:43:00 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: toplusen ($106.30 in chips) 
+Seat 2: najar1985 ($43.54 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($67.66 in chips) 
+Seat 5: steelNike ($63.64 in chips) 
+Seat 6: Rezzonner ($107.66 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+toplusen: folds 
+najar1985: folds 
+gudrozd: raises $1.50 to $2.50
+lecram87501: folds 
+steelNike: folds 
+Uncalled bet ($1.50) returned to gudrozd
+gudrozd collected $2.50 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: toplusen folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd (button) collected ($2.50)
+Seat 4: lecram87501 (small blind) folded before Flop
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254231800359:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:43:14 WET [2025/01/06 13:43:14 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: toplusen ($106.30 in chips) 
+Seat 2: najar1985 ($43.54 in chips) 
+Seat 3: gudrozd ($101.50 in chips) 
+Seat 4: lecram87501 ($67.16 in chips) 
+Seat 5: steelNike ($62.64 in chips) 
+Seat 6: Rezzonner ($107.66 in chips) 
+steelNike: posts small blind $0.50
+Rezzonner: posts big blind $1
+*** HOLE CARDS ***
+toplusen: raises $1 to $2
+najar1985: folds 
+gudrozd: folds 
+lecram87501: calls $2
+steelNike: raises $12 to $14
+Rezzonner: folds 
+toplusen: folds 
+lecram87501: folds 
+Uncalled bet ($12) returned to steelNike
+steelNike collected $7 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: toplusen folded before Flop
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 (button) folded before Flop
+Seat 5: steelNike (small blind) collected ($7)
+Seat 6: Rezzonner (big blind) folded before Flop
+
+
+
+PokerStars Hand #254231862825:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:46:20 WET [2025/01/06 13:46:20 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: toplusen ($122.98 in chips) 
+Seat 2: najar1985 ($30.03 in chips) 
+Seat 3: gudrozd ($108.50 in chips) 
+Seat 4: lecram87501 ($62.16 in chips) 
+Seat 5: steelNike ($60.64 in chips) 
+Seat 6: Rezzonner ($103.66 in chips) 
+gudrozd: posts small blind $0.50
+lecram87501: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: folds 
+toplusen: raises $1 to $2
+najar1985: folds 
+gudrozd: folds 
+lecram87501: calls $1
+*** FLOP *** [3d 5c 7h]
+lecram87501: checks 
+toplusen: checks 
+*** TURN *** [3d 5c 7h] [7d]
+lecram87501: checks 
+toplusen: checks 
+*** RIVER *** [3d 5c 7h 7d] [2c]
+lecram87501: bets $4.28
+toplusen: folds 
+Uncalled bet ($4.28) returned to lecram87501
+lecram87501 collected $4.22 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.28 
+Board [3d 5c 7h 7d 2c]
+Seat 1: toplusen folded on the River
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) folded before Flop
+Seat 4: lecram87501 (big blind) collected ($4.22)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254231879666:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:47:10 WET [2025/01/06 13:47:10 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: toplusen ($120.98 in chips) 
+Seat 2: najar1985 ($30.03 in chips) 
+Seat 3: gudrozd ($108 in chips) 
+Seat 4: lecram87501 ($64.38 in chips) 
+Seat 5: steelNike ($60.64 in chips) 
+Seat 6: Rezzonner ($103.66 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+toplusen: folds 
+najar1985: folds 
+gudrozd: folds 
+lecram87501: folds 
+Uncalled bet ($0.50) returned to steelNike
+steelNike collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: toplusen folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd (button) folded before Flop (didn't bet)
+Seat 4: lecram87501 (small blind) folded before Flop
+Seat 5: steelNike (big blind) collected ($1)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254231884647:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:47:25 WET [2025/01/06 13:47:25 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: toplusen ($120.98 in chips) 
+Seat 2: najar1985 ($30.03 in chips) 
+Seat 3: gudrozd ($108 in chips) 
+Seat 4: lecram87501 ($63.88 in chips) 
+Seat 5: steelNike ($61.14 in chips) 
+Seat 6: Rezzonner ($103.66 in chips) 
+steelNike: posts small blind $0.50
+Rezzonner: posts big blind $1
+*** HOLE CARDS ***
+toplusen: folds 
+najar1985: folds 
+gudrozd: folds 
+lecram87501: calls $1
+steelNike: calls $0.50
+Rezzonner: raises $5.50 to $6.50
+lecram87501: folds 
+steelNike: folds 
+Uncalled bet ($5.50) returned to Rezzonner
+Rezzonner collected $3 from pot
+Rezzonner: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: toplusen folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 (button) folded before Flop
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: Rezzonner (big blind) collected ($3)
+
+
+
+PokerStars Hand #254231895626:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:47:57 WET [2025/01/06 13:47:57 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: toplusen ($120.98 in chips) 
+Seat 2: najar1985 ($30.03 in chips) 
+Seat 3: gudrozd ($108 in chips) 
+Seat 4: lecram87501 ($62.88 in chips) 
+Seat 5: steelNike ($60.14 in chips) 
+Seat 6: Rezzonner ($105.66 in chips) 
+Rezzonner: posts small blind $0.50
+toplusen: posts big blind $1
+*** HOLE CARDS ***
+najar1985: calls $1
+gudrozd: raises $4 to $5
+lecram87501: folds 
+steelNike: folds 
+Rezzonner: folds 
+toplusen: folds 
+najar1985: calls $4
+*** FLOP *** [9d 5d 8h]
+najar1985: checks 
+gudrozd: bets $2.73
+najar1985: calls $2.73
+*** TURN *** [9d 5d 8h] [2s]
+najar1985: checks 
+gudrozd: checks 
+*** RIVER *** [9d 5d 8h 2s] [8d]
+najar1985: checks 
+gudrozd: checks 
+*** SHOW DOWN ***
+najar1985: shows [6h 6d] (two pair, Eights and Sixes)
+gudrozd: mucks hand 
+najar1985 collected $16.11 from pot
+*** SUMMARY ***
+Total pot $16.96 | Rake $0.85 
+Board [9d 5d 8h 2s 8d]
+Seat 1: toplusen (big blind) folded before Flop
+Seat 2: najar1985 showed [6h 6d] and won ($16.11) with two pair, Eights and Sixes
+Seat 3: gudrozd mucked
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: Rezzonner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254231916226:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:48:59 WET [2025/01/06 13:48:59 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: toplusen ($119.98 in chips) 
+Seat 2: najar1985 ($38.41 in chips) 
+Seat 3: gudrozd ($100.27 in chips) 
+Seat 4: lecram87501 ($62.88 in chips) 
+Seat 5: steelNike ($60.14 in chips) 
+Seat 6: Rezzonner ($105.16 in chips) 
+toplusen: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+lecram87501: folds 
+steelNike: folds 
+Rezzonner: raises $1.50 to $2.50
+toplusen: calls $2
+najar1985: calls $1.50
+*** FLOP *** [5d Ks Tc]
+toplusen: checks 
+najar1985: checks 
+Rezzonner: bets $2.35
+toplusen: calls $2.35
+najar1985: calls $2.35
+*** TURN *** [5d Ks Tc] [Jc]
+toplusen: checks 
+najar1985: checks 
+Rezzonner: bets $11.50
+toplusen: calls $11.50
+najar1985: folds 
+*** RIVER *** [5d Ks Tc Jc] [9d]
+toplusen: checks 
+Rezzonner: bets $21.40
+toplusen: calls $21.40
+*** SHOW DOWN ***
+Rezzonner: shows [9c Qd] (a straight, Nine to King)
+toplusen: shows [Qs Kd] (a straight, Nine to King)
+toplusen collected $38.93 from pot
+Rezzonner collected $38.92 from pot
+*** SUMMARY ***
+Total pot $80.35 | Rake $2.50 
+Board [5d Ks Tc Jc 9d]
+Seat 1: toplusen (small blind) showed [Qs Kd] and won ($38.93) with a straight, Nine to King
+Seat 2: najar1985 (big blind) folded on the Turn
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner (button) showed [9c Qd] and won ($38.92) with a straight, Nine to King
+
+
+
+PokerStars Hand #254231943375:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:50:19 WET [2025/01/06 13:50:19 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 1: toplusen ($121.16 in chips) 
+Seat 2: najar1985 ($33.56 in chips) 
+Seat 3: gudrozd ($100.27 in chips) 
+Seat 4: lecram87501 ($62.88 in chips) 
+Seat 5: steelNike ($60.14 in chips) 
+Seat 6: Rezzonner ($106.33 in chips) 
+najar1985: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: raises $1 to $2
+steelNike: folds 
+Rezzonner: folds 
+toplusen: folds 
+najar1985: folds 
+gudrozd: calls $1
+*** FLOP *** [4h 2s Qh]
+gudrozd: checks 
+lecram87501: bets $2.14
+gudrozd: folds 
+Uncalled bet ($2.14) returned to lecram87501
+lecram87501 collected $4.22 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.28 
+Board [4h 2s Qh]
+Seat 1: toplusen (button) folded before Flop (didn't bet)
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: gudrozd (big blind) folded on the Flop
+Seat 4: lecram87501 collected ($4.22)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254231951284:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:50:43 WET [2025/01/06 13:50:43 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: toplusen ($121.16 in chips) 
+Seat 2: najar1985 ($33.06 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($65.10 in chips) 
+Seat 5: steelNike ($60.14 in chips) 
+Seat 6: Rezzonner ($106.33 in chips) 
+gudrozd: posts small blind $0.50
+lecram87501: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: folds 
+toplusen: folds 
+najar1985: folds 
+gudrozd: folds 
+Uncalled bet ($0.50) returned to lecram87501
+lecram87501 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: toplusen folded before Flop (didn't bet)
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) folded before Flop
+Seat 4: lecram87501 (big blind) collected ($1)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254231957369:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:51:01 WET [2025/01/06 13:51:01 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: toplusen ($121.16 in chips) 
+Seat 2: najar1985 ($33.06 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($65.60 in chips) 
+Seat 5: steelNike ($60.14 in chips) 
+Seat 6: Rezzonner ($106.33 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+toplusen: folds 
+najar1985: folds 
+gudrozd: raises $1.50 to $2.50
+lecram87501: calls $2
+steelNike: folds 
+*** FLOP *** [2s 6s Jd]
+lecram87501: checks 
+gudrozd: bets $1.43
+lecram87501: calls $1.43
+*** TURN *** [2s 6s Jd] [8c]
+lecram87501: checks 
+gudrozd: checks 
+*** RIVER *** [2s 6s Jd 8c] [Ks]
+lecram87501: bets $4.21
+gudrozd: folds 
+Uncalled bet ($4.21) returned to lecram87501
+lecram87501 collected $8.31 from pot
+*** SUMMARY ***
+Total pot $8.86 | Rake $0.55 
+Board [2s 6s Jd 8c Ks]
+Seat 1: toplusen folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd (button) folded on the River
+Seat 4: lecram87501 (small blind) collected ($8.31)
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254231978310:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:52:03 WET [2025/01/06 13:52:03 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: toplusen ($121.16 in chips) 
+Seat 2: najar1985 ($33.06 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($69.98 in chips) 
+Seat 5: steelNike ($59.14 in chips) 
+Seat 6: Rezzonner ($106.33 in chips) 
+steelNike: posts small blind $0.50
+Rezzonner: posts big blind $1
+*** HOLE CARDS ***
+toplusen: folds 
+najar1985: folds 
+gudrozd: folds 
+lecram87501: folds 
+steelNike: folds 
+Uncalled bet ($0.50) returned to Rezzonner
+Rezzonner collected $1 from pot
+Rezzonner: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: toplusen folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: Rezzonner (big blind) collected ($1)
+
+
+
+PokerStars Hand #254231981810:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:52:14 WET [2025/01/06 13:52:14 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: toplusen ($121.16 in chips) 
+Seat 2: najar1985 ($33.06 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($69.98 in chips) 
+Seat 5: steelNike ($58.64 in chips) 
+Seat 6: Rezzonner ($106.83 in chips) 
+Rezzonner: posts small blind $0.50
+toplusen: posts big blind $1
+*** HOLE CARDS ***
+najar1985: calls $1
+gudrozd: folds 
+lecram87501: calls $1
+steelNike: folds 
+Rezzonner: folds 
+toplusen: raises $7.50 to $8.50
+najar1985: raises $24.56 to $33.06 and is all-in
+lecram87501: folds 
+toplusen: folds 
+Uncalled bet ($24.56) returned to najar1985
+najar1985 collected $18.50 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.50 | Rake $0 
+Seat 1: toplusen (big blind) folded before Flop
+Seat 2: najar1985 collected ($18.50)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 folded before Flop
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: Rezzonner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254231997365:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:53:00 WET [2025/01/06 13:53:00 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: toplusen ($112.66 in chips) 
+Seat 2: najar1985 ($43.06 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($68.98 in chips) 
+Seat 5: steelNike ($58.64 in chips) 
+Seat 6: Rezzonner ($106.33 in chips) 
+toplusen: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+lecram87501: calls $1
+steelNike: raises $6 to $7
+Rezzonner: folds 
+toplusen: folds 
+najar1985: folds 
+lecram87501: folds 
+Uncalled bet ($6) returned to steelNike
+steelNike collected $3.50 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: toplusen (small blind) folded before Flop
+Seat 2: najar1985 (big blind) folded before Flop
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 folded before Flop
+Seat 5: steelNike collected ($3.50)
+Seat 6: Rezzonner (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232007312:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:53:30 WET [2025/01/06 13:53:30 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 1: toplusen ($112.16 in chips) 
+Seat 2: najar1985 ($42.06 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($67.98 in chips) 
+Seat 5: steelNike ($61.14 in chips) 
+Seat 6: Rezzonner ($106.33 in chips) 
+najar1985: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: calls $1
+steelNike: folds 
+Rezzonner: raises $3 to $4
+toplusen: folds 
+najar1985: folds 
+gudrozd: folds 
+lecram87501: folds 
+Uncalled bet ($3) returned to Rezzonner
+Rezzonner collected $3.50 from pot
+Rezzonner: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: toplusen (button) folded before Flop (didn't bet)
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: gudrozd (big blind) folded before Flop
+Seat 4: lecram87501 folded before Flop
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner collected ($3.50)
+
+
+
+PokerStars Hand #254232018427:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:54:03 WET [2025/01/06 13:54:03 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: toplusen ($112.16 in chips) 
+Seat 2: najar1985 ($41.56 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($66.98 in chips) 
+Seat 5: steelNike ($61.14 in chips) 
+Seat 6: Rezzonner ($108.83 in chips) 
+gudrozd: posts small blind $0.50
+lecram87501: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: folds 
+toplusen: folds 
+najar1985: folds 
+gudrozd: folds 
+Uncalled bet ($0.50) returned to lecram87501
+lecram87501 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: toplusen folded before Flop (didn't bet)
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) folded before Flop
+Seat 4: lecram87501 (big blind) collected ($1)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232023312:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:54:18 WET [2025/01/06 13:54:18 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: toplusen ($112.16 in chips) 
+Seat 2: najar1985 ($41.56 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($67.48 in chips) 
+Seat 5: steelNike ($61.14 in chips) 
+Seat 6: Rezzonner ($108.83 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+toplusen: folds 
+najar1985: calls $1
+gudrozd: folds 
+lecram87501: raises $1 to $2
+steelNike: folds 
+najar1985: calls $1
+*** FLOP *** [3s As Ac]
+lecram87501: bets $2.38
+najar1985: calls $2.38
+*** TURN *** [3s As Ac] [Qh]
+lecram87501: bets $4.64
+najar1985: folds 
+Uncalled bet ($4.64) returned to lecram87501
+lecram87501 collected $9.15 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.61 
+Board [3s As Ac Qh]
+Seat 1: toplusen folded before Flop (didn't bet)
+Seat 2: najar1985 folded on the Turn
+Seat 3: gudrozd (button) folded before Flop (didn't bet)
+Seat 4: lecram87501 (small blind) collected ($9.15)
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232039462:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:55:06 WET [2025/01/06 13:55:06 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: toplusen ($112.16 in chips) 
+Seat 2: najar1985 ($37.18 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($72.25 in chips) 
+Seat 5: steelNike ($60.14 in chips) 
+Seat 6: Rezzonner ($108.83 in chips) 
+steelNike: posts small blind $0.50
+Rezzonner: posts big blind $1
+*** HOLE CARDS ***
+toplusen: raises $1 to $2
+najar1985: folds 
+gudrozd: raises $4 to $6
+lecram87501: folds 
+steelNike: folds 
+Rezzonner: folds 
+toplusen: calls $4
+*** FLOP *** [5c 6s 8h]
+toplusen: checks 
+gudrozd: checks 
+*** TURN *** [5c 6s 8h] [Kh]
+toplusen: checks 
+gudrozd: bets $6.41
+toplusen: calls $6.41
+*** RIVER *** [5c 6s 8h Kh] [Qc]
+toplusen: checks 
+gudrozd: checks 
+*** SHOW DOWN ***
+toplusen: shows [2s 2h] (a pair of Deuces)
+gudrozd: mucks hand 
+toplusen collected $25 from pot
+*** SUMMARY ***
+Total pot $26.32 | Rake $1.32 
+Board [5c 6s 8h Kh Qc]
+Seat 1: toplusen showed [2s 2h] and won ($25) with a pair of Deuces
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd mucked
+Seat 4: lecram87501 (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: Rezzonner (big blind) folded before Flop
+
+
+
+PokerStars Hand #254232050044:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:55:51 WET [2025/01/06 13:55:51 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: toplusen ($124.75 in chips) 
+Seat 2: najar1985 ($37.18 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($72.25 in chips) 
+Seat 5: steelNike ($59.64 in chips) 
+Seat 6: Rezzonner ($107.83 in chips) 
+Rezzonner: posts small blind $0.50
+toplusen: posts big blind $1
+*** HOLE CARDS ***
+najar1985: folds 
+gudrozd: folds 
+lecram87501: folds 
+steelNike: folds 
+Rezzonner: folds 
+Uncalled bet ($0.50) returned to toplusen
+toplusen collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: toplusen (big blind) collected ($1)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: Rezzonner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232054060:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:56:10 WET [2025/01/06 13:56:10 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: toplusen ($125.25 in chips) 
+Seat 2: najar1985 ($37.18 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($72.25 in chips) 
+Seat 5: steelNike ($59.64 in chips) 
+Seat 6: Rezzonner ($107.33 in chips) 
+toplusen: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+lecram87501: folds 
+steelNike: folds 
+Rezzonner: raises $1.50 to $2.50
+toplusen: calls $2
+najar1985: calls $1.50
+*** FLOP *** [3c As Qh]
+toplusen: checks 
+najar1985: checks 
+Rezzonner: bets $2.35
+toplusen: calls $2.35
+najar1985: folds 
+*** TURN *** [3c As Qh] [2c]
+toplusen: checks 
+Rezzonner: bets $8.69
+toplusen: calls $8.69
+*** RIVER *** [3c As Qh 2c] [4s]
+toplusen: checks 
+Rezzonner: checks 
+*** SHOW DOWN ***
+toplusen: shows [Jd Qs] (a pair of Queens)
+Rezzonner: mucks hand 
+toplusen collected $28.10 from pot
+*** SUMMARY ***
+Total pot $29.58 | Rake $1.48 
+Board [3c As Qh 2c 4s]
+Seat 1: toplusen (small blind) showed [Jd Qs] and won ($28.10) with a pair of Queens
+Seat 2: najar1985 (big blind) folded on the Flop
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner (button) mucked
+
+
+
+PokerStars Hand #254232066454:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:57:05 WET [2025/01/06 13:57:05 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 1: toplusen ($139.81 in chips) 
+Seat 2: najar1985 ($34.68 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($72.25 in chips) 
+Seat 5: steelNike ($59.64 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+najar1985: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: calls $1
+steelNike: folds 
+Rezzonner: folds 
+toplusen: raises $1 to $2
+najar1985: folds 
+gudrozd: calls $1
+lecram87501: calls $1
+*** FLOP *** [8c Js Kh]
+gudrozd: checks 
+lecram87501: checks 
+toplusen: bets $3.09
+gudrozd: folds 
+lecram87501: calls $3.09
+*** TURN *** [8c Js Kh] [9s]
+lecram87501: checks 
+toplusen: checks 
+*** RIVER *** [8c Js Kh 9s] [Jc]
+lecram87501: checks 
+toplusen: checks 
+*** SHOW DOWN ***
+lecram87501: shows [Ts Ks] (two pair, Kings and Jacks)
+toplusen: mucks hand 
+lecram87501 collected $11.89 from pot
+*** SUMMARY ***
+Total pot $12.68 | Rake $0.79 
+Board [8c Js Kh 9s Jc]
+Seat 1: toplusen (button) mucked
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: gudrozd (big blind) folded on the Flop
+Seat 4: lecram87501 showed [Ts Ks] and won ($11.89) with two pair, Kings and Jacks
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232081890:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:58:14 WET [2025/01/06 13:58:14 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: toplusen ($134.72 in chips) 
+Seat 2: najar1985 ($34.18 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($79.05 in chips) 
+Seat 5: steelNike ($59.64 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+gudrozd: posts small blind $0.50
+lecram87501: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: folds 
+toplusen: folds 
+najar1985: folds 
+gudrozd: folds 
+Uncalled bet ($0.50) returned to lecram87501
+lecram87501 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: toplusen folded before Flop (didn't bet)
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) folded before Flop
+Seat 4: lecram87501 (big blind) collected ($1)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232085885:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:58:31 WET [2025/01/06 13:58:31 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: toplusen ($134.72 in chips) 
+Seat 2: najar1985 ($34.18 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: lecram87501 ($79.55 in chips) 
+Seat 5: steelNike ($59.64 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+toplusen: folds 
+najar1985: folds 
+gudrozd: raises $1.50 to $2.50
+lecram87501: folds 
+steelNike: folds 
+Uncalled bet ($1.50) returned to gudrozd
+gudrozd collected $2.50 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: toplusen folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd (button) collected ($2.50)
+Seat 4: lecram87501 (small blind) folded before Flop
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232094576:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 18:59:09 WET [2025/01/06 13:59:09 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: toplusen ($134.72 in chips) 
+Seat 2: najar1985 ($34.18 in chips) 
+Seat 3: gudrozd ($101.50 in chips) 
+Seat 4: lecram87501 ($79.05 in chips) 
+Seat 5: steelNike ($58.64 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+steelNike: posts small blind $0.50
+Rezzonner: posts big blind $1
+*** HOLE CARDS ***
+toplusen has timed out
+toplusen: folds 
+najar1985: calls $1
+gudrozd: raises $4 to $5
+lecram87501: calls $5
+steelNike: folds 
+Rezzonner: folds 
+najar1985: folds 
+*** FLOP *** [Qd 2c 7c]
+gudrozd: checks 
+lecram87501: bets $5.94
+gudrozd: calls $5.94
+*** TURN *** [Qd 2c 7c] [Jh]
+gudrozd: checks 
+toplusen is disconnected 
+lecram87501: checks 
+*** RIVER *** [Qd 2c 7c Jh] [6d]
+gudrozd: bets $5
+lecram87501: calls $5
+*** SHOW DOWN ***
+gudrozd: shows [Ts Th] (a pair of Tens)
+lecram87501: mucks hand 
+gudrozd collected $32.66 from pot
+*** SUMMARY ***
+Total pot $34.38 | Rake $1.72 
+Board [Qd 2c 7c Jh 6d]
+Seat 1: toplusen folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop
+Seat 3: gudrozd showed [Ts Th] and won ($32.66) with a pair of Tens
+Seat 4: lecram87501 (button) mucked
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: Rezzonner (big blind) folded before Flop
+
+
+
+PokerStars Hand #254232115377:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:00:39 WET [2025/01/06 14:00:39 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: toplusen ($134.72 in chips) is sitting out
+Seat 2: najar1985 ($33.18 in chips) 
+Seat 3: gudrozd ($118.22 in chips) 
+Seat 4: lecram87501 ($63.11 in chips) 
+Seat 5: steelNike ($58.14 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+Rezzonner: posts small blind $0.50
+toplusen has timed out while disconnected
+toplusen: is sitting out 
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+lecram87501: calls $1
+steelNike: folds 
+Rezzonner: calls $0.50
+najar1985: checks 
+*** FLOP *** [5s 9h Tc]
+Rezzonner: checks 
+najar1985: checks 
+lecram87501: checks 
+*** TURN *** [5s 9h Tc] [4h]
+Rezzonner: checks 
+najar1985: bets $2.85
+lecram87501: calls $2.85
+Rezzonner: folds 
+*** RIVER *** [5s 9h Tc 4h] [Qc]
+najar1985: checks 
+lecram87501: checks 
+*** SHOW DOWN ***
+najar1985: shows [3d 9d] (a pair of Nines)
+lecram87501: mucks hand 
+najar1985 collected $8.26 from pot
+*** SUMMARY ***
+Total pot $8.70 | Rake $0.44 
+Board [5s 9h Tc 4h Qc]
+Seat 1: toplusen
+Seat 2: najar1985 (big blind) showed [3d 9d] and won ($8.26) with a pair of Nines
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: lecram87501 mucked
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: Rezzonner (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254232128693:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:01:30 WET [2025/01/06 14:01:30 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: toplusen ($134.72 in chips) is sitting out
+Seat 2: najar1985 ($37.59 in chips) 
+Seat 3: gudrozd ($118.22 in chips) 
+Seat 4: lecram87501 ($59.26 in chips) 
+Seat 5: steelNike ($58.14 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+najar1985: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: calls $1
+steelNike: raises $6 to $7
+Rezzonner: folds 
+najar1985: folds 
+gudrozd: folds 
+lecram87501: calls $6
+*** FLOP *** [3c 2s 7h]
+lecram87501: checks 
+steelNike: bets $3.68
+lecram87501: folds 
+Uncalled bet ($3.68) returned to steelNike
+steelNike collected $14.72 from pot
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.78 
+Board [3c 2s 7h]
+Seat 1: toplusen
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: gudrozd (big blind) folded before Flop
+Seat 4: lecram87501 folded on the Flop
+Seat 5: steelNike collected ($14.72)
+Seat 6: Rezzonner (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232139137:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:02:06 WET [2025/01/06 14:02:06 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: toplusen ($134.72 in chips) is sitting out
+Seat 2: najar1985 ($37.09 in chips) 
+Seat 3: gudrozd ($117.22 in chips) 
+Seat 4: lecram87501 ($52.26 in chips) 
+Seat 5: steelNike ($65.86 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+gudrozd: posts small blind $0.50
+lecram87501: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: folds 
+najar1985: calls $1
+gudrozd: folds 
+lecram87501: checks 
+*** FLOP *** [2h Tc 5h]
+lecram87501: checks 
+najar1985: bets $2.38
+lecram87501: folds 
+Uncalled bet ($2.38) returned to najar1985
+najar1985 collected $2.38 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [2h Tc 5h]
+Seat 1: toplusen
+Seat 2: najar1985 (button) collected ($2.38)
+Seat 3: gudrozd (small blind) folded before Flop
+Seat 4: lecram87501 (big blind) folded on the Flop
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232147110:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:02:31 WET [2025/01/06 14:02:31 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: toplusen ($134.72 in chips) is sitting out
+Seat 2: najar1985 ($38.47 in chips) 
+Seat 3: gudrozd ($116.72 in chips) 
+Seat 4: lecram87501 ($51.26 in chips) 
+Seat 5: steelNike ($65.86 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+najar1985: folds 
+gudrozd: folds 
+lecram87501: folds 
+Uncalled bet ($0.50) returned to steelNike
+steelNike collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: toplusen
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd (button) folded before Flop (didn't bet)
+Seat 4: lecram87501 (small blind) folded before Flop
+Seat 5: steelNike (big blind) collected ($1)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232149705:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:02:40 WET [2025/01/06 14:02:40 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: toplusen ($134.72 in chips) is sitting out
+Seat 4: lecram87501 ($50.76 in chips) is sitting out
+Seat 2: najar1985 ($38.47 in chips) 
+Seat 3: gudrozd ($116.72 in chips) 
+Seat 5: steelNike ($66.36 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+Rezzonner: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: raises $1.50 to $2.50
+steelNike: folds 
+Rezzonner: folds 
+najar1985: calls $1.50
+*** FLOP *** [Qc 5s 2d]
+najar1985: checks 
+gudrozd: bets $1.72
+najar1985: calls $1.72
+*** TURN *** [Qc 5s 2d] [8d]
+najar1985: checks 
+gudrozd: bets $6.37
+najar1985: folds 
+Uncalled bet ($6.37) returned to gudrozd
+gudrozd collected $8.49 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [Qc 5s 2d 8d]
+Seat 1: toplusen
+Seat 4: lecram87501
+Seat 2: najar1985 (big blind) folded on the Turn
+Seat 3: gudrozd collected ($8.49)
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: Rezzonner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232164706:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:03:26 WET [2025/01/06 14:03:26 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: toplusen ($134.72 in chips) is sitting out
+Seat 4: lecram87501 ($50.76 in chips) is sitting out
+Seat 2: najar1985 ($34.25 in chips) 
+Seat 3: gudrozd ($120.99 in chips) 
+Seat 5: steelNike ($66.36 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+najar1985: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: folds 
+najar1985: calls $0.50
+gudrozd: checks 
+*** FLOP *** [8h 2d 6h]
+najar1985: checks 
+gudrozd: bets $1.43
+najar1985: folds 
+Uncalled bet ($1.43) returned to gudrozd
+gudrozd collected $1.90 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [8h 2d 6h]
+Seat 1: toplusen
+Seat 4: lecram87501
+Seat 2: najar1985 (small blind) folded on the Flop
+Seat 3: gudrozd (big blind) collected ($1.90)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232174661:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:03:56 WET [2025/01/06 14:03:56 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: toplusen ($134.72 in chips) is sitting out
+Seat 4: lecram87501 ($50.76 in chips) is sitting out
+Seat 2: najar1985 ($33.25 in chips) 
+Seat 3: gudrozd ($121.89 in chips) 
+Seat 5: steelNike ($66.36 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+gudrozd: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+najar1985: folds 
+gudrozd: folds 
+Uncalled bet ($0.50) returned to steelNike
+steelNike collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: toplusen
+Seat 4: lecram87501
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) folded before Flop
+Seat 5: steelNike (big blind) collected ($1)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232177557:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:04:05 WET [2025/01/06 14:04:05 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: toplusen ($134.72 in chips) is sitting out
+Seat 4: lecram87501 ($50.76 in chips) is sitting out
+Seat 2: najar1985 ($33.25 in chips) 
+Seat 3: gudrozd ($121.39 in chips) 
+Seat 5: steelNike ($66.86 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+steelNike: posts small blind $0.50
+Rezzonner: posts big blind $1
+*** HOLE CARDS ***
+najar1985: raises $2.50 to $3.50
+gudrozd: folds 
+steelNike: folds 
+Rezzonner: folds 
+Uncalled bet ($2.50) returned to najar1985
+najar1985 collected $2.50 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: toplusen
+Seat 4: lecram87501
+Seat 2: najar1985 collected ($2.50)
+Seat 3: gudrozd (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: Rezzonner (big blind) folded before Flop
+
+
+
+PokerStars Hand #254232184719:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:04:27 WET [2025/01/06 14:04:27 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: toplusen ($134.72 in chips) is sitting out
+Seat 4: lecram87501 ($50.76 in chips) is sitting out
+Seat 2: najar1985 ($34.75 in chips) 
+Seat 3: gudrozd ($121.39 in chips) 
+Seat 5: steelNike ($66.36 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+Rezzonner: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+steelNike: folds 
+Rezzonner: folds 
+Uncalled bet ($0.50) returned to najar1985
+najar1985 collected $1 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: toplusen
+Seat 4: lecram87501
+Seat 2: najar1985 (big blind) collected ($1)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: Rezzonner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232188860:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:04:40 WET [2025/01/06 14:04:40 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: toplusen ($134.72 in chips) is sitting out
+Seat 4: lecram87501 ($50.76 in chips) is sitting out
+Seat 2: najar1985 ($35.25 in chips) 
+Seat 3: gudrozd ($121.39 in chips) 
+Seat 5: steelNike ($66.36 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+najar1985: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: raises $1.50 to $2.50
+najar1985: folds 
+gudrozd: folds 
+Uncalled bet ($1.50) returned to Rezzonner
+Rezzonner collected $2.50 from pot
+Rezzonner: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: toplusen
+Seat 4: lecram87501
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: gudrozd (big blind) folded before Flop
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner (button) collected ($2.50)
+
+
+
+PokerStars Hand #254232193813:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:04:55 WET [2025/01/06 14:04:55 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: toplusen ($134.72 in chips) is sitting out
+Seat 4: lecram87501 ($50.76 in chips) is sitting out
+Seat 2: najar1985 ($34.75 in chips) 
+Seat 3: gudrozd ($120.39 in chips) 
+Seat 5: steelNike ($66.36 in chips) 
+Seat 6: Rezzonner ($101.50 in chips) 
+gudrozd: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: raises $1.50 to $2.50
+najar1985: calls $2.50
+gudrozd: folds 
+steelNike: folds 
+*** FLOP *** [2h 4d 7s]
+Rezzonner: checks 
+najar1985: checks 
+*** TURN *** [2h 4d 7s] [9s]
+Rezzonner: bets $3.50
+najar1985: folds 
+Uncalled bet ($3.50) returned to Rezzonner
+Rezzonner collected $6.18 from pot
+Rezzonner: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [2h 4d 7s 9s]
+Seat 1: toplusen
+Seat 4: lecram87501
+Seat 2: najar1985 (button) folded on the Turn
+Seat 3: gudrozd (small blind) folded before Flop
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: Rezzonner collected ($6.18)
+
+
+
+PokerStars Hand #254232206912:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:05:34 WET [2025/01/06 14:05:34 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: toplusen ($134.72 in chips) is sitting out
+Seat 4: lecram87501 ($50.76 in chips) is sitting out
+Seat 2: najar1985 ($32.25 in chips) 
+Seat 3: gudrozd ($119.89 in chips) 
+Seat 5: steelNike ($65.36 in chips) 
+Seat 6: Rezzonner ($105.18 in chips) 
+steelNike: posts small blind $0.50
+Rezzonner: posts big blind $1
+*** HOLE CARDS ***
+najar1985: folds 
+gudrozd: folds 
+steelNike: folds 
+Uncalled bet ($0.50) returned to Rezzonner
+Rezzonner collected $1 from pot
+Rezzonner: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: toplusen
+Seat 4: lecram87501
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: gudrozd (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: Rezzonner (big blind) collected ($1)
+
+
+
+PokerStars Hand #254232214519:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:05:57 WET [2025/01/06 14:05:57 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: toplusen ($134.72 in chips) is sitting out
+Seat 4: lecram87501 ($50.76 in chips) is sitting out
+Seat 2: najar1985 ($32.25 in chips) 
+Seat 3: gudrozd ($119.89 in chips) 
+Seat 5: steelNike ($64.86 in chips) 
+Seat 6: Rezzonner ($105.68 in chips) 
+Rezzonner: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+steelNike: folds 
+Rezzonner: folds 
+Uncalled bet ($0.50) returned to najar1985
+najar1985 collected $1 from pot
+toplusen leaves the table
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: toplusen
+Seat 4: lecram87501
+Seat 2: najar1985 (big blind) collected ($1)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: Rezzonner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232219497:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:06:12 WET [2025/01/06 14:06:12 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 3: gudrozd ($119.89 in chips) is sitting out
+Seat 4: lecram87501 ($50.76 in chips) is sitting out
+Seat 2: najar1985 ($32.75 in chips) 
+Seat 5: steelNike ($64.86 in chips) 
+Seat 6: Rezzonner ($105.18 in chips) 
+najar1985: posts small blind $0.50
+gudrozd: is sitting out 
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: raises $1.50 to $2.50
+najar1985: folds 
+GuigaMan joins the table at seat #1 
+steelNike: calls $1.50
+*** FLOP *** [8h Kd Ad]
+steelNike: checks 
+Rezzonner: bets $1.72
+gudrozd leaves the table
+steelNike: calls $1.72
+*** TURN *** [8h Kd Ad] [6c]
+steelNike: checks 
+Rezzonner: bets $6.37
+BoyLoc0 joins the table at seat #3 
+steelNike: folds 
+Uncalled bet ($6.37) returned to Rezzonner
+Rezzonner collected $8.49 from pot
+Rezzonner: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [8h Kd Ad 6c]
+Seat 3: gudrozd
+Seat 4: lecram87501
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 5: steelNike (big blind) folded on the Turn
+Seat 6: Rezzonner (button) collected ($8.49)
+
+
+
+PokerStars Hand #254232242493:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:07:22 WET [2025/01/06 14:07:22 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: GuigaMan ($100 in chips) is sitting out
+Seat 3: BoyLoc0 ($100 in chips) is sitting out
+Seat 4: lecram87501 ($50.76 in chips) is sitting out
+Seat 2: najar1985 ($32.25 in chips) 
+Seat 5: steelNike ($60.64 in chips) 
+Seat 6: Rezzonner ($109.45 in chips) 
+steelNike: posts small blind $0.50
+Rezzonner: posts big blind $1
+GuigaMan: sits out 
+*** HOLE CARDS ***
+najar1985: calls $1
+steelNike: folds 
+Rezzonner: checks 
+*** FLOP *** [5h 8s 4d]
+Rezzonner: checks 
+najar1985: bets $2.38
+Rezzonner: folds 
+Uncalled bet ($2.38) returned to najar1985
+najar1985 collected $2.38 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [5h 8s 4d]
+Seat 1: GuigaMan
+Seat 3: BoyLoc0
+Seat 4: lecram87501
+Seat 2: najar1985 (button) collected ($2.38)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: Rezzonner (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254232642733:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:27:43 WET [2025/01/06 14:27:43 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($137.52 in chips) 
+Seat 2: najar1985 ($23.90 in chips) 
+Seat 3: BoyLoc0 ($112.05 in chips) 
+Seat 4: lecram87501 ($63.45 in chips) 
+Seat 5: steelNike ($61.43 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+steelNike: posts small blind $0.50
+ka100pka527: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+najar1985: calls $1
+BoyLoc0: folds 
+lecram87501: folds 
+steelNike: folds 
+ka100pka527: checks 
+*** FLOP *** [9c 6d Jd]
+ka100pka527: checks 
+najar1985: checks 
+*** TURN *** [9c 6d Jd] [Td]
+ka100pka527: bets $2.81
+najar1985: folds 
+Uncalled bet ($2.81) returned to ka100pka527
+ka100pka527 collected $2.38 from pot
+ka100pka527: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [9c 6d Jd Td]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 folded on the Turn
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: lecram87501 (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: ka100pka527 (big blind) collected ($2.38)
+
+
+
+PokerStars Hand #254232652102:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:28:11 WET [2025/01/06 14:28:11 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: GuigaMan ($137.52 in chips) 
+Seat 2: najar1985 ($22.90 in chips) 
+Seat 3: BoyLoc0 ($112.05 in chips) 
+Seat 4: lecram87501 ($63.45 in chips) 
+Seat 5: steelNike ($60.93 in chips) 
+Seat 6: ka100pka527 ($101.38 in chips) 
+ka100pka527: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+najar1985: folds 
+BoyLoc0: folds 
+lecram87501: calls $1
+steelNike: raises $6 to $7
+ka100pka527: folds 
+GuigaMan: folds 
+lecram87501: folds 
+Uncalled bet ($6) returned to steelNike
+steelNike collected $3.50 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: lecram87501 folded before Flop
+Seat 5: steelNike (button) collected ($3.50)
+Seat 6: ka100pka527 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232253698:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:07:56 WET [2025/01/06 14:07:56 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 3: BoyLoc0 ($100 in chips) is sitting out
+Seat 4: lecram87501 ($50.76 in chips) is sitting out
+Seat 1: GuigaMan ($100 in chips) 
+Seat 2: najar1985 ($33.63 in chips) 
+Seat 5: steelNike ($60.14 in chips) 
+Seat 6: Rezzonner ($108.45 in chips) 
+Rezzonner: posts small blind $0.50
+GuigaMan: posts big blind $1
+BoyLoc0: sits out 
+*** HOLE CARDS ***
+najar1985: calls $1
+steelNike: folds 
+Rezzonner: folds 
+GuigaMan: raises $3 to $4
+najar1985: calls $3
+*** FLOP *** [2c 5c Ad]
+GuigaMan: checks 
+najar1985: checks 
+*** TURN *** [2c 5c Ad] [8h]
+GuigaMan: checks 
+najar1985: checks 
+*** RIVER *** [2c 5c Ad 8h] [7c]
+GuigaMan: checks 
+najar1985: checks 
+*** SHOW DOWN ***
+GuigaMan: shows [Qc Td] (high card Ace)
+najar1985: shows [Ks 4s] (high card Ace - King kicker)
+najar1985 collected $8.08 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [2c 5c Ad 8h 7c]
+Seat 3: BoyLoc0
+Seat 4: lecram87501
+Seat 1: GuigaMan (big blind) showed [Qc Td] and lost with high card Ace
+Seat 2: najar1985 showed [Ks 4s] and won ($8.08) with high card Ace
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: Rezzonner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232272497:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:08:53 WET [2025/01/06 14:08:53 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 3: BoyLoc0 ($100 in chips) is sitting out
+Seat 1: GuigaMan ($100 in chips) 
+Seat 2: najar1985 ($37.71 in chips) 
+Seat 4: lecram87501 ($50.76 in chips) 
+Seat 5: steelNike ($60.14 in chips) 
+Seat 6: Rezzonner ($107.95 in chips) 
+GuigaMan: posts small blind $0.50
+najar1985: posts big blind $1
+BoyLoc0: sits out 
+lecram87501: posts small & big blinds $1.50
+*** HOLE CARDS ***
+lecram87501: checks 
+steelNike: folds 
+Rezzonner: calls $1
+GuigaMan: raises $6 to $7
+najar1985: folds 
+lecram87501: folds 
+Rezzonner: folds 
+Uncalled bet ($6) returned to GuigaMan
+GuigaMan collected $4.50 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 3: BoyLoc0
+Seat 1: GuigaMan (small blind) collected ($4.50)
+Seat 2: najar1985 (big blind) folded before Flop
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner (button) folded before Flop
+
+
+
+PokerStars Hand #254232282123:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:09:22 WET [2025/01/06 14:09:22 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($103.50 in chips) 
+Seat 2: najar1985 ($36.71 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: lecram87501 ($49.26 in chips) 
+Seat 5: steelNike ($60.14 in chips) 
+Seat 6: Rezzonner ($106.95 in chips) 
+najar1985: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: calls $1
+steelNike: folds 
+Rezzonner: folds 
+GuigaMan: folds 
+najar1985: calls $0.50
+BoyLoc0: checks 
+*** FLOP *** [5s Ah 3h]
+najar1985: bets $2.85
+BoyLoc0: folds 
+lecram87501: calls $2.85
+*** TURN *** [5s Ah 3h] [8d]
+najar1985: checks 
+lecram87501: checks 
+*** RIVER *** [5s Ah 3h 8d] [5h]
+najar1985: checks 
+lecram87501: checks 
+*** SHOW DOWN ***
+najar1985: shows [6h 5c] (three of a kind, Fives)
+lecram87501: mucks hand 
+najar1985 collected $8.26 from pot
+*** SUMMARY ***
+Total pot $8.70 | Rake $0.44 
+Board [5s Ah 3h 8d 5h]
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: najar1985 (small blind) showed [6h 5c] and won ($8.26) with three of a kind, Fives
+Seat 3: BoyLoc0 (big blind) folded on the Flop
+Seat 4: lecram87501 mucked
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232295839:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:10:04 WET [2025/01/06 14:10:04 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: GuigaMan ($103.50 in chips) 
+Seat 2: najar1985 ($41.12 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: lecram87501 ($45.41 in chips) 
+Seat 5: steelNike ($60.14 in chips) 
+Seat 6: Rezzonner ($106.95 in chips) 
+BoyLoc0: posts small blind $0.50
+lecram87501: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: folds 
+GuigaMan: raises $1.10 to $2.10
+najar1985: folds 
+BoyLoc0: folds 
+lecram87501: calls $1.10
+*** FLOP *** [6c 7c 8c]
+lecram87501: bets $2.23
+GuigaMan: calls $2.23
+*** TURN *** [6c 7c 8c] [6h]
+lecram87501: bets $4.35
+GuigaMan: calls $4.35
+*** RIVER *** [6c 7c 8c 6h] [2h]
+lecram87501: checks 
+GuigaMan: checks 
+*** SHOW DOWN ***
+lecram87501: shows [Ac Jh] (a pair of Sixes)
+GuigaMan: shows [7d Td] (two pair, Sevens and Sixes)
+GuigaMan collected $16.97 from pot
+*** SUMMARY ***
+Total pot $17.86 | Rake $0.89 
+Board [6c 7c 8c 6h 2h]
+Seat 1: GuigaMan showed [7d Td] and won ($16.97) with two pair, Sevens and Sixes
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (small blind) folded before Flop
+Seat 4: lecram87501 (big blind) showed [Ac Jh] and lost with a pair of Sixes
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232313836:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:10:59 WET [2025/01/06 14:10:59 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($111.79 in chips) 
+Seat 2: najar1985 ($41.12 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: lecram87501 ($36.73 in chips) 
+Seat 5: steelNike ($60.14 in chips) 
+Seat 6: Rezzonner ($106.95 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+GuigaMan: raises $1.10 to $2.10
+najar1985: calls $2.10
+BoyLoc0: folds 
+lecram87501: calls $1.60
+steelNike: folds 
+*** FLOP *** [Qh 4c 8d]
+lecram87501: checks 
+GuigaMan: checks 
+najar1985: bets $4
+lecram87501: folds 
+GuigaMan: folds 
+Uncalled bet ($4) returned to najar1985
+najar1985 collected $6.94 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.30 | Rake $0.36 
+Board [Qh 4c 8d]
+Seat 1: GuigaMan folded on the Flop
+Seat 2: najar1985 collected ($6.94)
+Seat 3: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 4: lecram87501 (small blind) folded on the Flop
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232326103:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:11:36 WET [2025/01/06 14:11:36 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($109.69 in chips) 
+Seat 2: najar1985 ($45.96 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: lecram87501 ($34.63 in chips) 
+Seat 5: steelNike ($59.14 in chips) 
+Seat 6: Rezzonner ($106.95 in chips) 
+steelNike: posts small blind $0.50
+Rezzonner: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: raises $1.50 to $2.50
+lecram87501: calls $2.50
+steelNike: folds 
+Rezzonner: folds 
+*** FLOP *** [Qs 9d Ac]
+BoyLoc0: checks 
+lecram87501: bets $3.09
+BoyLoc0: folds 
+Uncalled bet ($3.09) returned to lecram87501
+lecram87501 collected $6.10 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.40 
+Board [Qs 9d Ac]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: BoyLoc0 folded on the Flop
+Seat 4: lecram87501 (button) collected ($6.10)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: Rezzonner (big blind) folded before Flop
+
+
+
+PokerStars Hand #254232338090:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:12:13 WET [2025/01/06 14:12:13 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: GuigaMan ($109.69 in chips) 
+Seat 2: najar1985 ($45.96 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: lecram87501 ($38.23 in chips) 
+Seat 5: steelNike ($58.64 in chips) 
+Seat 6: Rezzonner ($105.95 in chips) 
+Rezzonner: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+najar1985: folds 
+BoyLoc0: raises $1.50 to $2.50
+lecram87501: folds 
+steelNike: folds 
+Rezzonner: folds 
+GuigaMan: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: BoyLoc0 collected ($2.50)
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: Rezzonner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232342837:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:12:27 WET [2025/01/06 14:12:27 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: GuigaMan ($108.69 in chips) 
+Seat 2: najar1985 ($45.96 in chips) 
+Seat 3: BoyLoc0 ($101.50 in chips) 
+Seat 4: lecram87501 ($38.23 in chips) 
+Seat 5: steelNike ($58.64 in chips) 
+Seat 6: Rezzonner ($105.45 in chips) 
+GuigaMan: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+lecram87501: raises $2 to $3
+steelNike: folds 
+Rezzonner: folds 
+GuigaMan: folds 
+najar1985: folds 
+Uncalled bet ($2) returned to lecram87501
+lecram87501 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: najar1985 (big blind) folded before Flop
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: lecram87501 collected ($2.50)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232348742:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:12:46 WET [2025/01/06 14:12:46 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($108.19 in chips) 
+Seat 2: najar1985 ($44.96 in chips) 
+Seat 3: BoyLoc0 ($101.50 in chips) 
+Seat 4: lecram87501 ($39.73 in chips) 
+Seat 5: steelNike ($58.64 in chips) 
+Seat 6: Rezzonner ($105.45 in chips) 
+najar1985: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: raises $1 to $2
+steelNike: folds 
+Rezzonner: folds 
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: calls $1
+*** FLOP *** [8s Qd As]
+BoyLoc0: checks 
+lecram87501: checks 
+*** TURN *** [8s Qd As] [Qh]
+BoyLoc0: bets $1.41
+lecram87501: calls $1.41
+*** RIVER *** [8s Qd As Qh] [9d]
+BoyLoc0: bets $4.48
+lecram87501: folds 
+Uncalled bet ($4.48) returned to BoyLoc0
+BoyLoc0 collected $6.95 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.32 | Rake $0.37 
+Board [8s Qd As Qh 9d]
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: BoyLoc0 (big blind) collected ($6.95)
+Seat 4: lecram87501 folded on the River
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232362385:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:13:28 WET [2025/01/06 14:13:28 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: GuigaMan ($108.19 in chips) 
+Seat 2: najar1985 ($44.46 in chips) 
+Seat 3: BoyLoc0 ($105.04 in chips) 
+Seat 4: lecram87501 ($36.32 in chips) 
+Seat 5: steelNike ($58.64 in chips) 
+Seat 6: Rezzonner ($105.45 in chips) 
+BoyLoc0: posts small blind $0.50
+lecram87501: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: folds 
+GuigaMan: raises $1.10 to $2.10
+najar1985: calls $2.10
+BoyLoc0: folds 
+lecram87501: calls $1.10
+*** FLOP *** [6c 8c 9s]
+lecram87501: checks 
+GuigaMan: checks 
+najar1985: bets $6.46
+lecram87501: folds 
+GuigaMan: calls $6.46
+*** TURN *** [6c 8c 9s] [Th]
+GuigaMan: checks 
+najar1985: checks 
+*** RIVER *** [6c 8c 9s Th] [3h]
+GuigaMan: bets $99.63 and is all-in
+najar1985: folds 
+Uncalled bet ($99.63) returned to GuigaMan
+GuigaMan collected $18.73 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.72 | Rake $0.99 
+Board [6c 8c 9s Th 3h]
+Seat 1: GuigaMan collected ($18.73)
+Seat 2: najar1985 (button) folded on the River
+Seat 3: BoyLoc0 (small blind) folded before Flop
+Seat 4: lecram87501 (big blind) folded on the Flop
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232377819:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:14:16 WET [2025/01/06 14:14:16 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($118.36 in chips) 
+Seat 2: najar1985 ($35.90 in chips) 
+Seat 3: BoyLoc0 ($104.54 in chips) 
+Seat 4: lecram87501 ($34.22 in chips) 
+Seat 5: steelNike ($58.64 in chips) 
+Seat 6: Rezzonner ($105.45 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+GuigaMan: folds 
+najar1985: calls $1
+BoyLoc0: raises $3 to $4
+lecram87501: raises $3 to $7
+steelNike: folds 
+najar1985: folds 
+BoyLoc0: calls $3
+*** FLOP *** [Kc 9s 6c]
+lecram87501: bets $7.60
+BoyLoc0: calls $7.60
+*** TURN *** [Kc 9s 6c] [3d]
+lecram87501: bets $14.82
+BoyLoc0: raises $14.82 to $29.64
+lecram87501: calls $4.80 and is all-in
+Uncalled bet ($10.02) returned to BoyLoc0
+*** RIVER *** [Kc 9s 6c 3d] [Qd]
+*** SHOW DOWN ***
+lecram87501: shows [Qc Qs] (three of a kind, Queens)
+BoyLoc0: shows [Ad 9d] (a pair of Nines)
+lecram87501 collected $67.32 from pot
+*** SUMMARY ***
+Total pot $70.44 | Rake $3.12 
+Board [Kc 9s 6c 3d Qd]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop
+Seat 3: BoyLoc0 (button) showed [Ad 9d] and lost with a pair of Nines
+Seat 4: lecram87501 (small blind) showed [Qc Qs] and won ($67.32) with three of a kind, Queens
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232398642:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:15:20 WET [2025/01/06 14:15:20 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($118.36 in chips) 
+Seat 2: najar1985 ($34.90 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: lecram87501 ($67.32 in chips) 
+Seat 5: steelNike ($57.64 in chips) 
+Seat 6: Rezzonner ($105.45 in chips) 
+steelNike: posts small blind $0.50
+Rezzonner: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+najar1985: calls $1
+BoyLoc0: folds 
+lecram87501: calls $1
+steelNike: folds 
+Rezzonner: checks 
+*** FLOP *** [Kh 5h 9c]
+Rezzonner: checks 
+najar1985: bets $3.32
+lecram87501: folds 
+Rezzonner: folds 
+Uncalled bet ($3.32) returned to najar1985
+najar1985 collected $3.32 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [Kh 5h 9c]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 collected ($3.32)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: lecram87501 (button) folded on the Flop
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: Rezzonner (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254232407084:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:15:45 WET [2025/01/06 14:15:45 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: GuigaMan ($118.36 in chips) 
+Seat 2: najar1985 ($37.22 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: lecram87501 ($66.32 in chips) 
+Seat 5: steelNike ($57.14 in chips) 
+Seat 6: Rezzonner ($104.45 in chips) 
+Rezzonner: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+najar1985: calls $1
+BoyLoc0: folds 
+lecram87501: calls $1
+steelNike: raises $6 to $7
+Rezzonner: folds 
+GuigaMan: folds 
+najar1985: folds 
+lecram87501: folds 
+Uncalled bet ($6) returned to steelNike
+steelNike collected $4.50 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 2: najar1985 folded before Flop
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: lecram87501 folded before Flop
+Seat 5: steelNike (button) collected ($4.50)
+Seat 6: Rezzonner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232414387:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:16:08 WET [2025/01/06 14:16:08 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: GuigaMan ($117.36 in chips) 
+Seat 2: najar1985 ($36.22 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: lecram87501 ($65.32 in chips) 
+Seat 5: steelNike ($60.64 in chips) 
+Seat 6: Rezzonner ($103.95 in chips) 
+GuigaMan: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+lecram87501: folds 
+steelNike: folds 
+Rezzonner: raises $1.50 to $2.50
+GuigaMan: raises $8.50 to $11
+najar1985: folds 
+Rezzonner: folds 
+Uncalled bet ($8.50) returned to GuigaMan
+GuigaMan collected $6 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: GuigaMan (small blind) collected ($6)
+Seat 2: najar1985 (big blind) folded before Flop
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner (button) folded before Flop
+
+
+
+PokerStars Hand #254232420562:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:16:26 WET [2025/01/06 14:16:26 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($120.86 in chips) 
+Seat 2: najar1985 ($35.22 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: lecram87501 ($65.32 in chips) 
+Seat 5: steelNike ($60.64 in chips) 
+Seat 6: Rezzonner ($101.45 in chips) 
+najar1985: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: calls $1
+steelNike: folds 
+Rezzonner: folds 
+GuigaMan: folds 
+najar1985: calls $0.50
+BoyLoc0: checks 
+*** FLOP *** [2c 3s 7h]
+najar1985: checks 
+BoyLoc0: checks 
+lecram87501: checks 
+*** TURN *** [2c 3s 7h] [2s]
+najar1985: bets $2.85
+BoyLoc0: folds 
+lecram87501: calls $2.85
+*** RIVER *** [2c 3s 7h 2s] [Js]
+najar1985: bets $4.13
+lecram87501: calls $4.13
+*** SHOW DOWN ***
+najar1985: shows [Kc 5h] (a pair of Deuces)
+lecram87501: shows [2d 4d] (three of a kind, Deuces)
+lecram87501 collected $15.90 from pot
+*** SUMMARY ***
+Total pot $16.96 | Rake $1.06 
+Board [2c 3s 7h 2s Js]
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: najar1985 (small blind) showed [Kc 5h] and lost with a pair of Deuces
+Seat 3: BoyLoc0 (big blind) folded on the Turn
+Seat 4: lecram87501 showed [2d 4d] and won ($15.90) with three of a kind, Deuces
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232437203:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:17:17 WET [2025/01/06 14:17:17 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: GuigaMan ($120.86 in chips) 
+Seat 2: najar1985 ($27.24 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: lecram87501 ($73.24 in chips) 
+Seat 5: steelNike ($60.64 in chips) 
+Seat 6: Rezzonner ($101.45 in chips) 
+BoyLoc0: posts small blind $0.50
+lecram87501: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: raises $1.50 to $2.50
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: raises $7.50 to $10
+lecram87501: folds 
+Rezzonner: folds 
+Uncalled bet ($7.50) returned to BoyLoc0
+BoyLoc0 collected $6 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (small blind) collected ($6)
+Seat 4: lecram87501 (big blind) folded before Flop
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop
+
+
+
+PokerStars Hand #254232445731:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:17:43 WET [2025/01/06 14:17:43 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($120.86 in chips) 
+Seat 2: najar1985 ($27.24 in chips) 
+Seat 3: BoyLoc0 ($103.50 in chips) 
+Seat 4: lecram87501 ($72.24 in chips) 
+Seat 5: steelNike ($60.64 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+GuigaMan: folds 
+najar1985: calls $1
+BoyLoc0: raises $3 to $4
+lecram87501: folds 
+steelNike: folds 
+najar1985: folds 
+Uncalled bet ($3) returned to BoyLoc0
+BoyLoc0 collected $3.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop
+Seat 3: BoyLoc0 (button) collected ($3.50)
+Seat 4: lecram87501 (small blind) folded before Flop
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232455048:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:18:11 WET [2025/01/06 14:18:11 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($120.86 in chips) 
+Seat 2: najar1985 ($26.24 in chips) 
+Seat 3: BoyLoc0 ($106 in chips) 
+Seat 4: lecram87501 ($71.74 in chips) 
+Seat 5: steelNike ($59.65 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+steelNike: posts small blind $0.50
+Rezzonner: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: folds 
+lecram87501: calls $1
+steelNike: calls $0.50
+Rezzonner: checks 
+*** FLOP *** [3c 5h Kh]
+steelNike: checks 
+Rezzonner: checks 
+lecram87501: checks 
+*** TURN *** [3c 5h Kh] [6s]
+steelNike: checks 
+Rezzonner: bets $2
+lecram87501: folds 
+steelNike: folds 
+Uncalled bet ($2) returned to Rezzonner
+Rezzonner collected $2.85 from pot
+Rezzonner: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [3c 5h Kh 6s]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: lecram87501 (button) folded on the Turn
+Seat 5: steelNike (small blind) folded on the Turn
+Seat 6: Rezzonner (big blind) collected ($2.85)
+
+
+
+PokerStars Hand #254232474455:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:19:10 WET [2025/01/06 14:19:10 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: GuigaMan ($120.86 in chips) 
+Seat 2: najar1985 ($26.24 in chips) 
+Seat 3: BoyLoc0 ($106 in chips) 
+Seat 4: lecram87501 ($70.74 in chips) 
+Seat 5: steelNike ($58.65 in chips) 
+Seat 6: Rezzonner ($101.85 in chips) 
+Rezzonner: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+najar1985: calls $1
+BoyLoc0: folds 
+lecram87501: folds 
+steelNike: folds 
+Rezzonner: folds 
+GuigaMan: checks 
+*** FLOP *** [6d Ad Jc]
+GuigaMan: checks 
+najar1985: checks 
+*** TURN *** [6d Ad Jc] [Kd]
+GuigaMan: checks 
+najar1985: bets $2.38
+GuigaMan: folds 
+Uncalled bet ($2.38) returned to najar1985
+najar1985 collected $2.38 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [6d Ad Jc Kd]
+Seat 1: GuigaMan (big blind) folded on the Turn
+Seat 2: najar1985 collected ($2.38)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: Rezzonner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232484518:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:19:40 WET [2025/01/06 14:19:40 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: GuigaMan ($119.86 in chips) 
+Seat 2: najar1985 ($27.62 in chips) 
+Seat 3: BoyLoc0 ($106 in chips) 
+Seat 4: lecram87501 ($70.74 in chips) 
+Seat 5: steelNike ($58.65 in chips) 
+Seat 6: Rezzonner ($101.35 in chips) 
+GuigaMan: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+lecram87501: calls $1
+steelNike: folds 
+Rezzonner: folds 
+GuigaMan: raises $5 to $6
+najar1985: folds 
+lecram87501: folds 
+Uncalled bet ($5) returned to GuigaMan
+GuigaMan collected $3 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: GuigaMan (small blind) collected ($3)
+Seat 2: najar1985 (big blind) folded before Flop
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: lecram87501 folded before Flop
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232494018:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:20:09 WET [2025/01/06 14:20:09 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($121.86 in chips) 
+Seat 2: najar1985 ($26.62 in chips) 
+Seat 3: BoyLoc0 ($106 in chips) 
+Seat 4: lecram87501 ($69.74 in chips) 
+Seat 5: steelNike ($58.65 in chips) 
+Seat 6: Rezzonner ($101.35 in chips) 
+najar1985: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: folds 
+steelNike: folds 
+Rezzonner: folds 
+GuigaMan: folds 
+najar1985: calls $0.50
+BoyLoc0: raises $3 to $4
+najar1985: folds 
+Uncalled bet ($3) returned to BoyLoc0
+BoyLoc0 collected $2 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: BoyLoc0 (big blind) collected ($2)
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232500773:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:20:29 WET [2025/01/06 14:20:29 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: GuigaMan ($121.86 in chips) 
+Seat 2: najar1985 ($25.62 in chips) 
+Seat 3: BoyLoc0 ($107 in chips) 
+Seat 4: lecram87501 ($69.74 in chips) 
+Seat 5: steelNike ($58.65 in chips) 
+Seat 6: Rezzonner ($101.35 in chips) 
+BoyLoc0: posts small blind $0.50
+lecram87501: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Rezzonner: raises $1.50 to $2.50
+GuigaMan: folds 
+najar1985: calls $2.50
+BoyLoc0: folds 
+lecram87501: calls $1.50
+*** FLOP *** [6c 4d 9s]
+lecram87501: checks 
+Rezzonner: checks 
+najar1985: bets $7.60
+lecram87501: folds 
+Rezzonner: folds 
+Uncalled bet ($7.60) returned to najar1985
+najar1985 collected $7.60 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [6c 4d 9s]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 (button) collected ($7.60)
+Seat 3: BoyLoc0 (small blind) folded before Flop
+Seat 4: lecram87501 (big blind) folded on the Flop
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: Rezzonner folded on the Flop
+
+
+
+PokerStars Hand #254232512361:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:21:05 WET [2025/01/06 14:21:05 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($121.86 in chips) 
+Seat 2: najar1985 ($30.72 in chips) 
+Seat 3: BoyLoc0 ($106.50 in chips) 
+Seat 4: lecram87501 ($67.24 in chips) 
+Seat 5: steelNike ($58.65 in chips) 
+Seat 6: Rezzonner ($100 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+GuigaMan: raises $1.10 to $2.10
+Rezzonner leaves the table
+najar1985: calls $2.10
+BoyLoc0: calls $2.10
+lecram87501: calls $1.60
+steelNike: folds 
+*** FLOP *** [6d 5d Tc]
+ka100pka527 joins the table at seat #6 
+lecram87501: checks 
+GuigaMan: checks 
+najar1985: checks 
+BoyLoc0: bets $2.95
+lecram87501: folds 
+GuigaMan: folds 
+najar1985: folds 
+Uncalled bet ($2.95) returned to BoyLoc0
+BoyLoc0 collected $8.93 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.40 | Rake $0.47 
+Board [6d 5d Tc]
+Seat 1: GuigaMan folded on the Flop
+Seat 2: najar1985 folded on the Flop
+Seat 3: BoyLoc0 (button) collected ($8.93)
+Seat 4: lecram87501 (small blind) folded on the Flop
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232525426:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:21:45 WET [2025/01/06 14:21:45 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($119.76 in chips) 
+Seat 2: najar1985 ($28.62 in chips) 
+Seat 3: BoyLoc0 ($113.33 in chips) 
+Seat 4: lecram87501 ($65.14 in chips) 
+Seat 5: steelNike ($57.65 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+steelNike: posts small blind $0.50
+ka100pka527: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+najar1985: raises $1 to $2
+BoyLoc0: folds 
+lecram87501: folds 
+steelNike: folds 
+ka100pka527: calls $1
+*** FLOP *** [4c Jd Qh]
+ka100pka527: checks 
+najar1985: bets $4.28
+ka100pka527: folds 
+Uncalled bet ($4.28) returned to najar1985
+najar1985 collected $4.28 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [4c Jd Qh]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 collected ($4.28)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: lecram87501 (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: ka100pka527 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254232538138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:22:24 WET [2025/01/06 14:22:24 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: GuigaMan ($119.76 in chips) 
+Seat 2: najar1985 ($30.90 in chips) 
+Seat 3: BoyLoc0 ($113.33 in chips) 
+Seat 4: lecram87501 ($65.14 in chips) 
+Seat 5: steelNike ($57.15 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+ka100pka527: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+najar1985: folds 
+BoyLoc0: folds 
+lecram87501: raises $1 to $2
+steelNike: folds 
+ka100pka527: folds 
+GuigaMan: folds 
+Uncalled bet ($1) returned to lecram87501
+lecram87501 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: lecram87501 collected ($2.50)
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: ka100pka527 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232542704:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:22:38 WET [2025/01/06 14:22:38 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: GuigaMan ($118.76 in chips) 
+Seat 2: najar1985 ($30.90 in chips) 
+Seat 3: BoyLoc0 ($113.33 in chips) 
+Seat 4: lecram87501 ($66.64 in chips) 
+Seat 5: steelNike ($57.15 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+GuigaMan: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+lecram87501: folds 
+steelNike: folds 
+ka100pka527: folds 
+GuigaMan: folds 
+najar1985: calls $1.50
+*** FLOP *** [3d Ts Js]
+najar1985: checks 
+BoyLoc0: bets $3.92
+najar1985: folds 
+Uncalled bet ($3.92) returned to BoyLoc0
+BoyLoc0 collected $5.22 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3d Ts Js]
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: najar1985 (big blind) folded on the Flop
+Seat 3: BoyLoc0 collected ($5.22)
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: ka100pka527 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232551941:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:23:06 WET [2025/01/06 14:23:06 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($118.26 in chips) 
+Seat 2: najar1985 ($28.40 in chips) 
+Seat 3: BoyLoc0 ($116.05 in chips) 
+Seat 4: lecram87501 ($66.64 in chips) 
+Seat 5: steelNike ($57.15 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+najar1985: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: calls $1
+steelNike: folds 
+ka100pka527: folds 
+GuigaMan: folds 
+najar1985: calls $0.50
+BoyLoc0: checks 
+*** FLOP *** [Qs 2d 2c]
+najar1985: checks 
+BoyLoc0: checks 
+lecram87501: bets $1
+najar1985: folds 
+BoyLoc0: folds 
+Uncalled bet ($1) returned to lecram87501
+lecram87501 collected $2.81 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.19 
+Board [Qs 2d 2c]
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: najar1985 (small blind) folded on the Flop
+Seat 3: BoyLoc0 (big blind) folded on the Flop
+Seat 4: lecram87501 collected ($2.81)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: ka100pka527 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232563114:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:23:40 WET [2025/01/06 14:23:40 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: GuigaMan ($118.26 in chips) 
+Seat 2: najar1985 ($27.40 in chips) 
+Seat 3: BoyLoc0 ($115.05 in chips) 
+Seat 4: lecram87501 ($68.45 in chips) 
+Seat 5: steelNike ($57.15 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+lecram87501: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+ka100pka527: folds 
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: raises $2 to $3
+lecram87501: folds 
+Uncalled bet ($2) returned to BoyLoc0
+BoyLoc0 collected $2 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (small blind) collected ($2)
+Seat 4: lecram87501 (big blind) folded before Flop
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: ka100pka527 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232568946:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:23:58 WET [2025/01/06 14:23:58 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($118.26 in chips) 
+Seat 2: najar1985 ($27.40 in chips) 
+Seat 3: BoyLoc0 ($116.05 in chips) 
+Seat 4: lecram87501 ($67.45 in chips) 
+Seat 5: steelNike ($57.15 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+ka100pka527: folds 
+GuigaMan: folds 
+najar1985: calls $1
+BoyLoc0: folds 
+lecram87501: calls $0.50
+steelNike: raises $10 to $11
+najar1985: folds 
+lecram87501: folds 
+Uncalled bet ($10) returned to steelNike
+steelNike collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop
+Seat 3: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 4: lecram87501 (small blind) folded before Flop
+Seat 5: steelNike (big blind) collected ($3)
+Seat 6: ka100pka527 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232577043:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:24:23 WET [2025/01/06 14:24:23 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($118.26 in chips) 
+Seat 2: najar1985 ($26.40 in chips) 
+Seat 3: BoyLoc0 ($116.05 in chips) 
+Seat 4: lecram87501 ($66.45 in chips) 
+Seat 5: steelNike ($59.15 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+steelNike: posts small blind $0.50
+ka100pka527: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: raises $1.50 to $2.50
+lecram87501: folds 
+steelNike: folds 
+ka100pka527: raises $9.50 to $12
+BoyLoc0: folds 
+Uncalled bet ($9.50) returned to ka100pka527
+ka100pka527 collected $5.50 from pot
+ka100pka527: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: BoyLoc0 folded before Flop
+Seat 4: lecram87501 (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: ka100pka527 (big blind) collected ($5.50)
+
+
+
+PokerStars Hand #254232584931:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:24:47 WET [2025/01/06 14:24:47 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 1: GuigaMan ($118.26 in chips) 
+Seat 2: najar1985 ($26.40 in chips) 
+Seat 3: BoyLoc0 ($113.55 in chips) 
+Seat 4: lecram87501 ($66.45 in chips) 
+Seat 5: steelNike ($58.65 in chips) 
+Seat 6: ka100pka527 ($103 in chips) 
+ka100pka527: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+najar1985: folds 
+BoyLoc0: folds 
+lecram87501: folds 
+steelNike: folds 
+ka100pka527: raises $1.50 to $2.50
+GuigaMan: calls $1.50
+*** FLOP *** [9c Kh 4h]
+ka100pka527: bets $4.61
+GuigaMan: calls $4.61
+*** TURN *** [9c Kh 4h] [Js]
+ka100pka527: checks 
+GuigaMan: checks 
+*** RIVER *** [9c Kh 4h Js] [8c]
+ka100pka527: bets $10.27
+GuigaMan: calls $10.27
+*** SHOW DOWN ***
+ka100pka527: shows [Ts 3s] (high card King)
+GuigaMan: shows [Ks Th] (a pair of Kings)
+GuigaMan collected $33.02 from pot
+*** SUMMARY ***
+Total pot $34.76 | Rake $1.74 
+Board [9c Kh 4h Js 8c]
+Seat 1: GuigaMan (big blind) showed [Ks Th] and won ($33.02) with a pair of Kings
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: ka100pka527 (small blind) showed [Ts 3s] and lost with high card King
+
+
+
+PokerStars Hand #254232610945:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:26:06 WET [2025/01/06 14:26:06 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: GuigaMan ($133.90 in chips) 
+Seat 2: najar1985 ($26.40 in chips) 
+Seat 3: BoyLoc0 ($113.55 in chips) 
+Seat 4: lecram87501 ($66.45 in chips) 
+Seat 5: steelNike ($58.65 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+GuigaMan: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+lecram87501: folds 
+steelNike: raises $1 to $2
+ka100pka527: folds 
+GuigaMan: folds 
+najar1985: calls $1
+*** FLOP *** [5d Js 9h]
+najar1985: checks 
+steelNike: bets $1.41
+najar1985: folds 
+Uncalled bet ($1.41) returned to steelNike
+steelNike collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [5d Js 9h]
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: najar1985 (big blind) folded on the Flop
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike collected ($4.28)
+Seat 6: ka100pka527 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232623757:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:26:45 WET [2025/01/06 14:26:45 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($133.40 in chips) 
+Seat 2: najar1985 ($24.40 in chips) 
+Seat 3: BoyLoc0 ($113.55 in chips) 
+Seat 4: lecram87501 ($66.45 in chips) 
+Seat 5: steelNike ($60.93 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+najar1985: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: calls $1
+steelNike: folds 
+ka100pka527: folds 
+GuigaMan: raises $2 to $3
+najar1985: folds 
+BoyLoc0: folds 
+lecram87501: calls $2
+*** FLOP *** [Qs 2s 6c]
+lecram87501: checks 
+GuigaMan: bets $3.84
+lecram87501: folds 
+Uncalled bet ($3.84) returned to GuigaMan
+GuigaMan collected $7.12 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [Qs 2s 6c]
+Seat 1: GuigaMan (button) collected ($7.12)
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: BoyLoc0 (big blind) folded before Flop
+Seat 4: lecram87501 folded on the Flop
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: ka100pka527 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232635274:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:27:20 WET [2025/01/06 14:27:20 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: GuigaMan ($137.52 in chips) 
+Seat 2: najar1985 ($23.90 in chips) 
+Seat 3: BoyLoc0 ($112.55 in chips) 
+Seat 4: lecram87501 ($63.45 in chips) 
+Seat 5: steelNike ($60.93 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+lecram87501: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+ka100pka527: folds 
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: folds 
+Uncalled bet ($0.50) returned to lecram87501
+lecram87501 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (small blind) folded before Flop
+Seat 4: lecram87501 (big blind) collected ($1)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: ka100pka527 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232638683:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:27:30 WET [2025/01/06 14:27:30 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($137.52 in chips) 
+Seat 2: najar1985 ($23.90 in chips) 
+Seat 3: BoyLoc0 ($112.05 in chips) 
+Seat 4: lecram87501 ($63.95 in chips) 
+Seat 5: steelNike ($60.93 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+lecram87501: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+ka100pka527: folds 
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: folds 
+lecram87501: folds 
+Uncalled bet ($0.50) returned to steelNike
+steelNike collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 4: lecram87501 (small blind) folded before Flop
+Seat 5: steelNike (big blind) collected ($1)
+Seat 6: ka100pka527 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232660114:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:28:36 WET [2025/01/06 14:28:36 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: GuigaMan ($136.52 in chips) 
+Seat 2: najar1985 ($22.90 in chips) 
+Seat 3: BoyLoc0 ($112.05 in chips) 
+Seat 4: lecram87501 ($62.45 in chips) 
+Seat 5: steelNike ($63.43 in chips) 
+Seat 6: ka100pka527 ($100.88 in chips) 
+GuigaMan: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+lecram87501: folds 
+steelNike: folds 
+ka100pka527: folds 
+GuigaMan: raises $8.50 to $11
+najar1985: folds 
+BoyLoc0: calls $8.50
+*** FLOP *** [3h Ks Tc]
+GuigaMan: bets $5
+BoyLoc0: calls $5
+*** TURN *** [3h Ks Tc] [7s]
+GuigaMan: bets $23.51
+BoyLoc0: folds 
+Uncalled bet ($23.51) returned to GuigaMan
+GuigaMan collected $31.35 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $1.65 
+Board [3h Ks Tc 7s]
+Seat 1: GuigaMan (small blind) collected ($31.35)
+Seat 2: najar1985 (big blind) folded before Flop
+Seat 3: BoyLoc0 folded on the Turn
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: ka100pka527 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232672665:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:29:14 WET [2025/01/06 14:29:14 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($151.87 in chips) 
+Seat 2: najar1985 ($21.90 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: lecram87501 ($62.45 in chips) 
+Seat 5: steelNike ($63.43 in chips) 
+Seat 6: ka100pka527 ($100.88 in chips) 
+najar1985: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+lecram87501: folds 
+steelNike: folds 
+ka100pka527: raises $1.50 to $2.50
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: folds 
+Uncalled bet ($1.50) returned to ka100pka527
+ka100pka527 collected $2.50 from pot
+ka100pka527: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: BoyLoc0 (big blind) folded before Flop
+Seat 4: lecram87501 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: ka100pka527 collected ($2.50)
+
+
+
+PokerStars Hand #254232680683:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:29:39 WET [2025/01/06 14:29:39 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($151.87 in chips) 
+Seat 2: najar1985 ($21.40 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 5: steelNike ($63.43 in chips) 
+Seat 6: ka100pka527 ($102.38 in chips) 
+BoyLoc0: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+ka100pka527: folds 
+GuigaMan: raises $1.10 to $2.10
+najar1985: folds 
+BoyLoc0: folds 
+steelNike: calls $1.10
+*** FLOP *** [7d 9c 5c]
+steelNike: checks 
+GuigaMan: bets $4
+steelNike: folds 
+Uncalled bet ($4) returned to GuigaMan
+GuigaMan collected $4.46 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.70 | Rake $0.24 
+Board [7d 9c 5c]
+Seat 4: lecram87501
+Seat 1: GuigaMan collected ($4.46)
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (small blind) folded before Flop
+Seat 5: steelNike (big blind) folded on the Flop
+Seat 6: ka100pka527 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232693429:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:30:16 WET [2025/01/06 14:30:16 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($154.23 in chips) 
+Seat 2: najar1985 ($21.40 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 5: steelNike ($61.33 in chips) 
+Seat 6: ka100pka527 ($102.38 in chips) 
+steelNike: posts small blind $0.50
+ka100pka527: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: raises $1.10 to $2.10
+najar1985: folds 
+BoyLoc0: folds 
+steelNike: folds 
+ka100pka527: calls $1.10
+*** FLOP *** [2s 8s 3d]
+ka100pka527: checks 
+GuigaMan: checks 
+*** TURN *** [2s 8s 3d] [Td]
+ka100pka527: bets $2.41
+GuigaMan: folds 
+Uncalled bet ($2.41) returned to ka100pka527
+ka100pka527 collected $4.46 from pot
+ka100pka527: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.70 | Rake $0.24 
+Board [2s 8s 3d Td]
+Seat 4: lecram87501
+Seat 1: GuigaMan folded on the Turn
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: ka100pka527 (big blind) collected ($4.46)
+
+
+
+PokerStars Hand #254232711592:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:31:10 WET [2025/01/06 14:31:10 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($152.13 in chips) 
+Seat 2: najar1985 ($21.40 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 5: steelNike ($60.83 in chips) 
+Seat 6: ka100pka527 ($104.74 in chips) 
+ka100pka527: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+najar1985: calls $1
+BoyLoc0: folds 
+steelNike: folds 
+ka100pka527: folds 
+GuigaMan: checks 
+*** FLOP *** [5h 4h 2d]
+GuigaMan: checks 
+najar1985: checks 
+*** TURN *** [5h 4h 2d] [Ad]
+GuigaMan: checks 
+najar1985: bets $2.38
+GuigaMan: folds 
+Uncalled bet ($2.38) returned to najar1985
+najar1985 collected $2.38 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [5h 4h 2d Ad]
+Seat 4: lecram87501
+Seat 1: GuigaMan (big blind) folded on the Turn
+Seat 2: najar1985 collected ($2.38)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: ka100pka527 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232725021:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:31:50 WET [2025/01/06 14:31:50 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($151.13 in chips) 
+Seat 2: najar1985 ($22.78 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 5: steelNike ($60.83 in chips) 
+Seat 6: ka100pka527 ($104.24 in chips) 
+GuigaMan: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+steelNike: folds 
+ka100pka527: folds 
+GuigaMan: folds 
+Uncalled bet ($0.50) returned to najar1985
+najar1985 collected $1 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: lecram87501
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: najar1985 (big blind) collected ($1)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: ka100pka527 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232730851:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:32:08 WET [2025/01/06 14:32:08 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($150.63 in chips) 
+Seat 2: najar1985 ($23.28 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 5: steelNike ($60.83 in chips) 
+Seat 6: ka100pka527 ($104.24 in chips) 
+najar1985: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+ka100pka527: folds 
+GuigaMan: folds 
+najar1985: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+BoyLoc0 collected $1 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: lecram87501
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: BoyLoc0 (big blind) collected ($1)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: ka100pka527 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232733640:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:32:16 WET [2025/01/06 14:32:16 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($150.63 in chips) 
+Seat 2: najar1985 ($22.78 in chips) 
+Seat 3: BoyLoc0 ($100.50 in chips) 
+Seat 5: steelNike ($60.83 in chips) 
+Seat 6: ka100pka527 ($104.24 in chips) 
+BoyLoc0: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+ka100pka527: folds 
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: folds 
+Uncalled bet ($0.50) returned to steelNike
+steelNike collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: lecram87501
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (small blind) folded before Flop
+Seat 5: steelNike (big blind) collected ($1)
+Seat 6: ka100pka527 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232737261:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:32:27 WET [2025/01/06 14:32:27 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($150.63 in chips) 
+Seat 2: najar1985 ($22.78 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 5: steelNike ($61.33 in chips) 
+Seat 6: ka100pka527 ($104.24 in chips) 
+steelNike: posts small blind $0.50
+ka100pka527: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+najar1985: calls $1
+BoyLoc0: folds 
+steelNike: calls $0.50
+ka100pka527: checks 
+*** FLOP *** [9c 3s Kc]
+steelNike: checks 
+ka100pka527: checks 
+najar1985: bets $2.85
+steelNike: folds 
+ka100pka527: folds 
+Uncalled bet ($2.85) returned to najar1985
+najar1985 collected $2.85 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [9c 3s Kc]
+Seat 4: lecram87501
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 collected ($2.85)
+Seat 3: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) folded on the Flop
+Seat 6: ka100pka527 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254232750782:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:33:07 WET [2025/01/06 14:33:07 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($150.63 in chips) 
+Seat 2: najar1985 ($24.63 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 5: steelNike ($60.33 in chips) 
+Seat 6: ka100pka527 ($103.24 in chips) 
+ka100pka527: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+najar1985: folds 
+BoyLoc0: folds 
+steelNike: folds 
+ka100pka527: raises $1.50 to $2.50
+GuigaMan: calls $1.50
+*** FLOP *** [Kh Td Jh]
+ka100pka527: bets $4.17
+GuigaMan: folds 
+Uncalled bet ($4.17) returned to ka100pka527
+ka100pka527 collected $4.75 from pot
+ka100pka527: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Kh Td Jh]
+Seat 4: lecram87501
+Seat 1: GuigaMan (big blind) folded on the Flop
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: ka100pka527 (small blind) collected ($4.75)
+
+
+
+PokerStars Hand #254232757599:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:33:28 WET [2025/01/06 14:33:28 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($148.13 in chips) 
+Seat 2: najar1985 ($24.63 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 5: steelNike ($60.33 in chips) 
+Seat 6: ka100pka527 ($105.49 in chips) 
+GuigaMan: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+steelNike: folds 
+ka100pka527: folds 
+GuigaMan: folds 
+Uncalled bet ($0.50) returned to najar1985
+najar1985 collected $1 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: lecram87501
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: najar1985 (big blind) collected ($1)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: ka100pka527 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232767540:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:33:57 WET [2025/01/06 14:33:57 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($147.63 in chips) 
+Seat 2: najar1985 ($25.13 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 5: steelNike ($60.33 in chips) 
+Seat 6: ka100pka527 ($105.49 in chips) 
+najar1985: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+steelNike: raises $1 to $2
+ka100pka527: folds 
+GuigaMan: raises $3 to $5
+najar1985: folds 
+BoyLoc0: folds 
+steelNike: folds 
+Uncalled bet ($3) returned to GuigaMan
+GuigaMan collected $5.50 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 4: lecram87501
+Seat 1: GuigaMan (button) collected ($5.50)
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: BoyLoc0 (big blind) folded before Flop
+Seat 5: steelNike folded before Flop
+Seat 6: ka100pka527 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232775295:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:34:20 WET [2025/01/06 14:34:20 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($151.13 in chips) 
+Seat 2: najar1985 ($24.63 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 5: steelNike ($58.33 in chips) 
+Seat 6: ka100pka527 ($105.49 in chips) 
+BoyLoc0: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+ka100pka527: raises $2 to $3
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: raises $9 to $12
+steelNike: folds 
+ka100pka527: folds 
+Uncalled bet ($9) returned to BoyLoc0
+BoyLoc0 collected $7 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 4: lecram87501
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (small blind) collected ($7)
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: ka100pka527 folded before Flop
+
+
+
+PokerStars Hand #254232788147:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:34:58 WET [2025/01/06 14:34:58 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($151.13 in chips) 
+Seat 2: najar1985 ($24.63 in chips) 
+Seat 3: BoyLoc0 ($104 in chips) 
+Seat 5: steelNike ($57.33 in chips) 
+Seat 6: ka100pka527 ($102.49 in chips) 
+steelNike: posts small blind $0.50
+ka100pka527: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+najar1985: raises $2.50 to $3.50
+BoyLoc0: folds 
+steelNike: folds 
+ka100pka527: folds 
+Uncalled bet ($2.50) returned to najar1985
+najar1985 collected $2.50 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: lecram87501
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 collected ($2.50)
+Seat 3: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: ka100pka527 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254232795269:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:35:19 WET [2025/01/06 14:35:19 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($151.13 in chips) 
+Seat 2: najar1985 ($26.13 in chips) 
+Seat 3: BoyLoc0 ($104 in chips) 
+Seat 5: steelNike ($56.83 in chips) 
+Seat 6: ka100pka527 ($101.49 in chips) 
+ka100pka527: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+najar1985: folds 
+BoyLoc0: folds 
+steelNike: raises $1.30 to $2.30
+ka100pka527: folds 
+GuigaMan: calls $1.30
+*** FLOP *** [Qh 9s 3d]
+GuigaMan: checks 
+steelNike: bets $1.21
+GuigaMan: folds 
+Uncalled bet ($1.21) returned to steelNike
+steelNike collected $4.84 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.26 
+Board [Qh 9s 3d]
+Seat 4: lecram87501
+Seat 1: GuigaMan (big blind) folded on the Flop
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: steelNike (button) collected ($4.84)
+Seat 6: ka100pka527 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232806773:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:35:53 WET [2025/01/06 14:35:53 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($148.83 in chips) 
+Seat 2: najar1985 ($26.13 in chips) 
+Seat 3: BoyLoc0 ($104 in chips) 
+Seat 5: steelNike ($59.37 in chips) 
+Seat 6: ka100pka527 ($100.99 in chips) 
+GuigaMan: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+steelNike: folds 
+ka100pka527: raises $1.50 to $2.50
+GuigaMan: folds 
+najar1985: calls $1.50
+*** FLOP *** [6s Jh Jc]
+najar1985: checks 
+ka100pka527: bets $1.72
+najar1985: folds 
+Uncalled bet ($1.72) returned to ka100pka527
+ka100pka527 collected $5.22 from pot
+ka100pka527: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [6s Jh Jc]
+Seat 4: lecram87501
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: najar1985 (big blind) folded on the Flop
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: ka100pka527 (button) collected ($5.22)
+
+
+
+PokerStars Hand #254232819875:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:36:32 WET [2025/01/06 14:36:32 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 1: GuigaMan ($148.33 in chips) 
+Seat 2: najar1985 ($23.63 in chips) 
+Seat 3: BoyLoc0 ($104 in chips) 
+Seat 5: steelNike ($59.37 in chips) 
+Seat 6: ka100pka527 ($103.71 in chips) 
+najar1985: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+steelNike: raises $1 to $2
+ka100pka527: folds 
+GuigaMan: folds 
+najar1985: calls $1.50
+BoyLoc0: calls $1
+*** FLOP *** [9c 9h 8c]
+najar1985: checks 
+BoyLoc0: checks 
+steelNike: checks 
+*** TURN *** [9c 9h 8c] [6c]
+najar1985: checks 
+BoyLoc0: bets $1.88
+steelNike: folds 
+najar1985: raises $1.88 to $3.76
+BoyLoc0: calls $1.88
+*** RIVER *** [9c 9h 8c 6c] [4c]
+najar1985: checks 
+BoyLoc0: checks 
+*** SHOW DOWN ***
+najar1985: shows [Tc Jc] (a flush, Jack high)
+BoyLoc0: mucks hand 
+najar1985 collected $12.84 from pot
+*** SUMMARY ***
+Total pot $13.52 | Rake $0.68 
+Board [9c 9h 8c 6c 4c]
+Seat 4: lecram87501
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: najar1985 (small blind) showed [Tc Jc] and won ($12.84) with a flush, Jack high
+Seat 3: BoyLoc0 (big blind) mucked
+Seat 5: steelNike folded on the Turn
+Seat 6: ka100pka527 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232848927:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:37:58 WET [2025/01/06 14:37:58 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 4: lecram87501 ($62.45 in chips) is sitting out
+Seat 5: steelNike ($57.37 in chips) is sitting out
+Seat 1: GuigaMan ($148.33 in chips) 
+Seat 2: najar1985 ($30.71 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 6: ka100pka527 ($103.71 in chips) 
+BoyLoc0: posts small blind $0.50
+steelNike: is sitting out 
+ka100pka527: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+steelNike leaves the table
+najar1985: folds 
+BoyLoc0: folds 
+Uncalled bet ($0.50) returned to ka100pka527
+ka100pka527 collected $1 from pot
+lecram87501 leaves the table
+ka100pka527: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: lecram87501
+Seat 5: steelNike
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (small blind) folded before Flop
+Seat 6: ka100pka527 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254232852938:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:38:10 WET [2025/01/06 14:38:10 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($148.33 in chips) 
+Seat 2: najar1985 ($30.71 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 6: ka100pka527 ($104.21 in chips) 
+ka100pka527: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+illarins joins the table at seat #4 
+najar1985: folds 
+BoyLoc0: folds 
+ka100pka527: raises $1.50 to $2.50
+GuigaMan: calls $1.50
+*** FLOP *** [Js Th Tc]
+ka100pka527: bets $4.17
+GuigaMan: calls $4.17
+*** TURN *** [Js Th Tc] [Jd]
+ka100pka527: checks 
+GuigaMan: checks 
+*** RIVER *** [Js Th Tc Jd] [6h]
+ka100pka527: checks 
+GuigaMan: bets $14.95
+YeeesMan joins the table at seat #5 
+ka100pka527: folds 
+Uncalled bet ($14.95) returned to GuigaMan
+GuigaMan collected $12.67 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [Js Th Tc Jd 6h]
+Seat 1: GuigaMan (big blind) collected ($12.67)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 6: ka100pka527 (small blind) folded on the River
+
+
+
+PokerStars Hand #254232864629:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:38:45 WET [2025/01/06 14:38:45 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 4: illarins ($100 in chips) is sitting out
+Seat 5: YeeesMan ($100 in chips) is sitting out
+Seat 1: GuigaMan ($154.33 in chips) 
+Seat 2: najar1985 ($30.71 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+GuigaMan: posts small blind $0.50
+najar1985: posts big blind $1
+illarins: sits out 
+YeeesMan: sits out 
+*** HOLE CARDS ***
+BoyLoc0: folds 
+ka100pka527: raises $1.50 to $2.50
+GuigaMan: raises $8.50 to $11
+najar1985: folds 
+ka100pka527: folds 
+Uncalled bet ($8.50) returned to GuigaMan
+GuigaMan collected $6 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: illarins
+Seat 5: YeeesMan
+Seat 1: GuigaMan (small blind) collected ($6)
+Seat 2: najar1985 (big blind) folded before Flop
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 6: ka100pka527 (button) folded before Flop
+
+
+
+PokerStars Hand #254232872548:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:39:09 WET [2025/01/06 14:39:09 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 4: illarins ($100 in chips) is sitting out
+Seat 5: YeeesMan ($100 in chips) is sitting out
+Seat 1: GuigaMan ($157.83 in chips) 
+Seat 2: najar1985 ($29.71 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 6: ka100pka527 ($100 in chips) 
+najar1985: posts small blind $0.50
+BoyLoc0: posts big blind $1
+illarins: sits out 
+YeeesMan: sits out 
+*** HOLE CARDS ***
+ka100pka527: raises $1.50 to $2.50
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: folds 
+Uncalled bet ($1.50) returned to ka100pka527
+ka100pka527 collected $2.50 from pot
+ka100pka527: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: illarins
+Seat 5: YeeesMan
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: najar1985 (small blind) folded before Flop
+Seat 3: BoyLoc0 (big blind) folded before Flop
+Seat 6: ka100pka527 collected ($2.50)
+
+
+
+PokerStars Hand #254232876904:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:39:21 WET [2025/01/06 14:39:21 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 5: YeeesMan ($100 in chips) is sitting out
+Seat 1: GuigaMan ($157.83 in chips) 
+Seat 2: najar1985 ($29.21 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($100 in chips) 
+Seat 6: ka100pka527 ($101.50 in chips) 
+BoyLoc0: posts small blind $0.50
+illarins: posts big blind $1
+YeeesMan: sits out 
+*** HOLE CARDS ***
+ka100pka527: folds 
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: raises $2 to $3
+illarins: calls $2
+*** FLOP *** [3c 8c Jd]
+BoyLoc0: checks 
+illarins: bets $1.88
+BoyLoc0: folds 
+Uncalled bet ($1.88) returned to illarins
+illarins collected $5.70 from pot
+illarins: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [3c 8c Jd]
+Seat 5: YeeesMan
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 (button) folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (small blind) folded on the Flop
+Seat 4: illarins (big blind) collected ($5.70)
+Seat 6: ka100pka527 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232887741:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:39:53 WET [2025/01/06 14:39:53 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($157.83 in chips) 
+Seat 2: najar1985 ($29.21 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($102.70 in chips) 
+Seat 5: YeeesMan ($100 in chips) 
+Seat 6: ka100pka527 ($101.50 in chips) 
+illarins: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+ka100pka527: raises $2 to $3
+GuigaMan: folds 
+najar1985: folds 
+BoyLoc0: folds 
+illarins: folds 
+YeeesMan: folds 
+Uncalled bet ($2) returned to ka100pka527
+ka100pka527 collected $2.50 from pot
+ka100pka527: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 4: illarins (small blind) folded before Flop
+Seat 5: YeeesMan (big blind) folded before Flop
+Seat 6: ka100pka527 collected ($2.50)
+
+
+
+PokerStars Hand #254232895167:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:40:16 WET [2025/01/06 14:40:16 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 6: ka100pka527 ($103 in chips) is sitting out
+Seat 1: GuigaMan ($157.83 in chips) 
+Seat 2: najar1985 ($29.21 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($102.20 in chips) 
+Seat 5: YeeesMan ($100 in chips) 
+YeeesMan: posts small blind $0.50
+ka100pka527: is sitting out 
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+ka100pka527 leaves the table
+najar1985: calls $1
+BoyLoc0: folds 
+illarins: folds 
+DEraser joins the table at seat #6 
+YeeesMan: folds 
+GuigaMan: checks 
+*** FLOP *** [2d 2h 9s]
+GuigaMan: checks 
+najar1985: bets $1.19
+GuigaMan: folds 
+Uncalled bet ($1.19) returned to najar1985
+najar1985 collected $2.38 from pot
+najar1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [2d 2h 9s]
+Seat 6: ka100pka527
+Seat 1: GuigaMan (big blind) folded on the Flop
+Seat 2: najar1985 collected ($2.38)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: illarins (button) folded before Flop (didn't bet)
+Seat 5: YeeesMan (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232905014:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:40:45 WET [2025/01/06 14:40:45 ET]
+Table 'Durrell II' 6-max Seat #5 is the button
+Seat 6: DEraser ($52 in chips) is sitting out
+Seat 1: GuigaMan ($156.83 in chips) 
+Seat 2: najar1985 ($30.59 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($102.20 in chips) 
+Seat 5: YeeesMan ($100 in chips) 
+GuigaMan: posts small blind $0.50
+najar1985: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+illarins: folds 
+YeeesMan: folds 
+GuigaMan: raises $1.50 to $2.50
+najar1985: calls $1.50
+*** FLOP *** [Kd Jd Jc]
+GuigaMan: checks 
+najar1985: checks 
+*** TURN *** [Kd Jd Jc] [6c]
+GuigaMan: checks 
+najar1985: checks 
+*** RIVER *** [Kd Jd Jc 6c] [Ks]
+GuigaMan: checks 
+najar1985: checks 
+*** SHOW DOWN ***
+GuigaMan: shows [Ad 4h] (two pair, Kings and Jacks)
+najar1985: mucks hand 
+GuigaMan collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Kd Jd Jc 6c Ks]
+Seat 6: DEraser
+Seat 1: GuigaMan (small blind) showed [Ad 4h] and won ($4.75) with two pair, Kings and Jacks
+Seat 2: najar1985 (big blind) mucked
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: illarins folded before Flop (didn't bet)
+Seat 5: YeeesMan (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232915001:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:41:15 WET [2025/01/06 14:41:15 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 6: DEraser ($52 in chips) is sitting out
+Seat 1: GuigaMan ($159.08 in chips) 
+Seat 2: najar1985 ($28.09 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($102.20 in chips) 
+Seat 5: YeeesMan ($100 in chips) 
+najar1985: posts small blind $0.50
+BoyLoc0: posts big blind $1
+DEraser: sits out 
+*** HOLE CARDS ***
+illarins: folds 
+YeeesMan: raises $1.50 to $2.50
+GuigaMan: folds 
+najar1985: calls $2
+BoyLoc0: folds 
+*** FLOP *** [Kd 5c Kc]
+najar1985: checks 
+YeeesMan: bets $1.88
+najar1985: folds 
+Uncalled bet ($1.88) returned to YeeesMan
+YeeesMan collected $5.70 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Kd 5c Kc]
+Seat 6: DEraser
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: najar1985 (small blind) folded on the Flop
+Seat 3: BoyLoc0 (big blind) folded before Flop
+Seat 4: illarins folded before Flop (didn't bet)
+Seat 5: YeeesMan collected ($5.70)
+
+
+
+PokerStars Hand #254232924589:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:41:43 WET [2025/01/06 14:41:43 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 6: DEraser ($52 in chips) is sitting out
+Seat 1: GuigaMan ($159.08 in chips) 
+Seat 2: najar1985 ($25.59 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($102.20 in chips) 
+Seat 5: YeeesMan ($103.20 in chips) 
+BoyLoc0: posts small blind $0.50
+illarins: posts big blind $1
+DEraser: sits out 
+*** HOLE CARDS ***
+YeeesMan: folds 
+GuigaMan: folds 
+najar1985: calls $1
+BoyLoc0: calls $0.50
+illarins: checks 
+*** FLOP *** [9d 6h Ah]
+BoyLoc0: bets $2.14
+illarins: folds 
+najar1985: folds 
+Uncalled bet ($2.14) returned to BoyLoc0
+BoyLoc0 collected $2.85 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [9d 6h Ah]
+Seat 6: DEraser
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: najar1985 (button) folded on the Flop
+Seat 3: BoyLoc0 (small blind) collected ($2.85)
+Seat 4: illarins (big blind) folded on the Flop
+Seat 5: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232933755:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:42:11 WET [2025/01/06 14:42:11 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 5: YeeesMan ($103.20 in chips) is sitting out
+Seat 1: GuigaMan ($159.08 in chips) 
+Seat 2: najar1985 ($24.59 in chips) 
+Seat 3: BoyLoc0 ($101.85 in chips) 
+Seat 4: illarins ($101.20 in chips) 
+Seat 6: DEraser ($52 in chips) 
+illarins: posts small blind $0.50
+YeeesMan: is sitting out 
+DEraser: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: raises $2 to $3
+najar1985: calls $3
+BoyLoc0: folds 
+illarins: folds 
+DEraser: folds 
+*** FLOP *** [Jh 7c Ts]
+GuigaMan: bets $3.84
+najar1985: calls $3.84
+*** TURN *** [Jh 7c Ts] [2d]
+GuigaMan: checks 
+YeeesMan leaves the table
+najar1985: bets $17.75 and is all-in
+GuigaMan: calls $17.75
+*** RIVER *** [Jh 7c Ts 2d] [Ac]
+*** SHOW DOWN ***
+GuigaMan: shows [Jd Qs] (a pair of Jacks)
+najar1985: shows [Qh Th] (a pair of Tens)
+GuigaMan collected $48.18 from pot
+*** SUMMARY ***
+Total pot $50.68 | Rake $2.50 
+Board [Jh 7c Ts 2d Ac]
+Seat 5: YeeesMan
+Seat 1: GuigaMan showed [Jd Qs] and won ($48.18) with a pair of Jacks
+Seat 2: najar1985 showed [Qh Th] and lost with a pair of Tens
+Seat 3: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 4: illarins (small blind) folded before Flop
+Seat 6: DEraser (big blind) folded before Flop
+
+
+
+PokerStars Hand #254232955890:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:43:17 WET [2025/01/06 14:43:17 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($182.67 in chips) 
+Seat 3: BoyLoc0 ($101.85 in chips) 
+Seat 4: illarins ($100.70 in chips) 
+Seat 6: DEraser ($51 in chips) 
+DEraser: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+illarins: folds 
+DEraser: raises $1.50 to $2.50
+GuigaMan: folds 
+Uncalled bet ($1.50) returned to DEraser
+DEraser collected $2 from pot
+DEraser: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: najar1985
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: illarins (button) folded before Flop (didn't bet)
+Seat 6: DEraser (small blind) collected ($2)
+
+
+
+PokerStars Hand #254232962906:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:43:38 WET [2025/01/06 14:43:38 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($181.67 in chips) 
+Seat 3: BoyLoc0 ($101.85 in chips) 
+Seat 4: illarins ($100.70 in chips) 
+Seat 6: DEraser ($52 in chips) 
+GuigaMan: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+illarins: raises $1.50 to $2.50
+DEraser: folds 
+GuigaMan: folds 
+BoyLoc0: folds 
+Uncalled bet ($1.50) returned to illarins
+illarins collected $2.50 from pot
+illarins: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: najar1985
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 3: BoyLoc0 (big blind) folded before Flop
+Seat 4: illarins collected ($2.50)
+Seat 6: DEraser (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232966640:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:43:49 WET [2025/01/06 14:43:49 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($181.17 in chips) 
+Seat 3: BoyLoc0 ($100.85 in chips) 
+Seat 4: illarins ($102.20 in chips) 
+Seat 6: DEraser ($52 in chips) 
+BoyLoc0: posts small blind $0.50
+illarins: posts big blind $1
+*** HOLE CARDS ***
+DEraser: raises $1.50 to $2.50
+GuigaMan: folds 
+BoyLoc0: folds 
+illarins: calls $1.50
+*** FLOP *** [Ts 6s Ks]
+illarins: checks 
+DEraser: bets $1.25
+illarins: folds 
+Uncalled bet ($1.25) returned to DEraser
+DEraser collected $5.22 from pot
+DEraser: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Ts 6s Ks]
+Seat 2: najar1985
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (small blind) folded before Flop
+Seat 4: illarins (big blind) folded on the Flop
+Seat 6: DEraser collected ($5.22)
+
+
+
+PokerStars Hand #254232979541:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:44:28 WET [2025/01/06 14:44:28 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 6: DEraser ($54.72 in chips) is sitting out
+Seat 1: GuigaMan ($181.17 in chips) 
+Seat 3: BoyLoc0 ($100.35 in chips) 
+Seat 4: illarins ($100 in chips) 
+illarins: posts small blind $0.50
+DEraser: is sitting out 
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+DEraser leaves the table
+BoyLoc0: folds 
+illarins: folds 
+Uncalled bet ($0.50) returned to GuigaMan
+GuigaMan collected $1 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: najar1985
+Seat 6: DEraser
+Seat 1: GuigaMan (big blind) collected ($1)
+Seat 3: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 4: illarins (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232983401:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:44:39 WET [2025/01/06 14:44:39 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($181.67 in chips) 
+Seat 3: BoyLoc0 ($100.35 in chips) 
+Seat 4: illarins ($100 in chips) 
+GuigaMan: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+illarins: raises $1.50 to $2.50
+GuigaMan: folds 
+BoyLoc0: folds 
+Uncalled bet ($1.50) returned to illarins
+illarins collected $2.50 from pot
+illarins: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: najar1985
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 3: BoyLoc0 (big blind) folded before Flop
+Seat 4: illarins (button) collected ($2.50)
+
+
+
+PokerStars Hand #254232987727:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:44:52 WET [2025/01/06 14:44:52 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($181.17 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($101.50 in chips) 
+BoyLoc0: posts small blind $0.50
+illarins: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+BoyLoc0: raises $2 to $3
+illarins: folds 
+Uncalled bet ($2) returned to BoyLoc0
+BoyLoc0 collected $2 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: najar1985
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (small blind) collected ($2)
+Seat 4: illarins (big blind) folded before Flop
+
+
+
+PokerStars Hand #254232990817:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:45:02 WET [2025/01/06 14:45:02 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($181.17 in chips) 
+Seat 3: BoyLoc0 ($101 in chips) 
+Seat 4: illarins ($100.50 in chips) 
+illarins: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+illarins: folds 
+GuigaMan: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: najar1985
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 3: BoyLoc0 (button) collected ($2.50)
+Seat 4: illarins (small blind) folded before Flop
+
+
+
+PokerStars Hand #254232995079:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:45:14 WET [2025/01/06 14:45:14 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($180.17 in chips) 
+Seat 3: BoyLoc0 ($102.50 in chips) 
+Seat 4: illarins ($100 in chips) 
+GuigaMan: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+illarins: folds 
+GuigaMan: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+BoyLoc0 collected $1 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: najar1985
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 3: BoyLoc0 (big blind) collected ($1)
+Seat 4: illarins (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254232997469:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:45:22 WET [2025/01/06 14:45:22 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($179.67 in chips) 
+Seat 3: BoyLoc0 ($103 in chips) 
+Seat 4: illarins ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+illarins: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+BoyLoc0: raises $2 to $3
+illarins: raises $6 to $9
+BoyLoc0: folds 
+Uncalled bet ($6) returned to illarins
+illarins collected $6 from pot
+illarins: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: najar1985
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (small blind) folded before Flop
+Seat 4: illarins (big blind) collected ($6)
+
+
+
+PokerStars Hand #254233001915:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:45:35 WET [2025/01/06 14:45:35 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($179.67 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($103 in chips) 
+illarins: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+illarins: folds 
+Uncalled bet ($0.50) returned to GuigaMan
+GuigaMan collected $1 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: najar1985
+Seat 1: GuigaMan (big blind) collected ($1)
+Seat 3: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 4: illarins (small blind) folded before Flop
+
+
+
+PokerStars Hand #254233004002:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:45:41 WET [2025/01/06 14:45:41 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($180.17 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($102.50 in chips) 
+GuigaMan: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+illarins: folds 
+GuigaMan: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+BoyLoc0 collected $1 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: najar1985
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 3: BoyLoc0 (big blind) collected ($1)
+Seat 4: illarins (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233009317:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:45:57 WET [2025/01/06 14:45:57 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($179.67 in chips) 
+Seat 3: BoyLoc0 ($100.50 in chips) 
+Seat 4: illarins ($102.50 in chips) 
+BoyLoc0: posts small blind $0.50
+illarins: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: raises $1.10 to $2.10
+BoyLoc0: folds 
+illarins: folds 
+Uncalled bet ($1.10) returned to GuigaMan
+GuigaMan collected $2.50 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: najar1985
+Seat 1: GuigaMan (button) collected ($2.50)
+Seat 3: BoyLoc0 (small blind) folded before Flop
+Seat 4: illarins (big blind) folded before Flop
+
+
+
+PokerStars Hand #254233015068:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:46:14 WET [2025/01/06 14:46:14 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($181.17 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($101.50 in chips) 
+illarins: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+illarins: folds 
+GuigaMan: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: najar1985
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 3: BoyLoc0 (button) collected ($2.50)
+Seat 4: illarins (small blind) folded before Flop
+
+
+
+PokerStars Hand #254233018590:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:46:24 WET [2025/01/06 14:46:24 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($180.17 in chips) 
+Seat 3: BoyLoc0 ($101.50 in chips) 
+Seat 4: illarins ($101 in chips) 
+GuigaMan: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+illarins: folds 
+GuigaMan: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+BoyLoc0 collected $1 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: najar1985
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 3: BoyLoc0 (big blind) collected ($1)
+Seat 4: illarins (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233020822:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:46:31 WET [2025/01/06 14:46:31 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($179.67 in chips) 
+Seat 3: BoyLoc0 ($102 in chips) 
+Seat 4: illarins ($101 in chips) 
+BoyLoc0: posts small blind $0.50
+illarins: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: raises $1.10 to $2.10
+BoyLoc0: folds 
+illarins: calls $1.10
+*** FLOP *** [6h Ts 2c]
+illarins: checks 
+GuigaMan: bets $1.34
+illarins: calls $1.34
+*** TURN *** [6h Ts 2c] [As]
+illarins: checks 
+GuigaMan: bets $8.27
+illarins: folds 
+Uncalled bet ($8.27) returned to GuigaMan
+GuigaMan collected $7.01 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.38 | Rake $0.37 
+Board [6h Ts 2c As]
+Seat 2: najar1985
+Seat 1: GuigaMan (button) collected ($7.01)
+Seat 3: BoyLoc0 (small blind) folded before Flop
+Seat 4: illarins (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254233035024:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:47:13 WET [2025/01/06 14:47:13 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($183.24 in chips) is sitting out
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 3: BoyLoc0 ($101.50 in chips) 
+Seat 4: illarins ($100 in chips) 
+illarins: posts small blind $0.50
+GuigaMan: is sitting out 
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+illarins: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+GuigaMan leaves the table
+BoyLoc0 collected $1 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: GuigaMan
+Seat 2: najar1985
+Seat 3: BoyLoc0 (big blind) collected ($1)
+Seat 4: illarins (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254233037472:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:47:20 WET [2025/01/06 14:47:20 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 3: BoyLoc0 ($102 in chips) 
+Seat 4: illarins ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+illarins: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+Uncalled bet ($0.50) returned to illarins
+illarins collected $1 from pot
+illarins: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: najar1985
+Seat 3: BoyLoc0 (button) (small blind) folded before Flop
+Seat 4: illarins (big blind) collected ($1)
+
+
+
+PokerStars Hand #254233040083:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:47:28 WET [2025/01/06 14:47:28 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 3: BoyLoc0 ($101.50 in chips) 
+Seat 4: illarins ($100.50 in chips) 
+illarins: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+illarins: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+BoyLoc0 collected $1 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: najar1985
+Seat 3: BoyLoc0 (big blind) collected ($1)
+Seat 4: illarins (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254233042165:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:47:35 WET [2025/01/06 14:47:35 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 3: BoyLoc0 ($102 in chips) 
+Seat 4: illarins ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+illarins: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+illarins: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: najar1985
+Seat 3: BoyLoc0 (button) (small blind) collected ($2)
+Seat 4: illarins (big blind) folded before Flop
+
+
+
+PokerStars Hand #254233045133:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:47:44 WET [2025/01/06 14:47:44 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 3: BoyLoc0 ($103 in chips) 
+Seat 4: illarins ($100 in chips) 
+illarins: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+illarins: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+BoyLoc0 collected $1 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: najar1985
+Seat 3: BoyLoc0 (big blind) collected ($1)
+Seat 4: illarins (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254233047171:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:47:50 WET [2025/01/06 14:47:50 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 3: BoyLoc0 ($103.50 in chips) 
+Seat 4: illarins ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+illarins: posts big blind $1
+*** HOLE CARDS ***
+MoRsCeReBruM joins the table at seat #6 
+BoyLoc0: folds 
+Uncalled bet ($0.50) returned to illarins
+illarins collected $1 from pot
+illarins: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: najar1985
+Seat 3: BoyLoc0 (button) (small blind) folded before Flop
+Seat 4: illarins (big blind) collected ($1)
+
+
+
+PokerStars Hand #254233049409:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:47:56 WET [2025/01/06 14:47:56 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 3: BoyLoc0 ($103 in chips) 
+Seat 4: illarins ($100.50 in chips) 
+Seat 6: MoRsCeReBruM ($100 in chips) 
+illarins: posts small blind $0.50
+MoRsCeReBruM: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+illarins: raises $2 to $3
+MoRsCeReBruM: folds 
+Uncalled bet ($2) returned to illarins
+illarins collected $2 from pot
+illarins: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: najar1985
+Seat 3: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 4: illarins (small blind) collected ($2)
+Seat 6: MoRsCeReBruM (big blind) folded before Flop
+
+
+
+PokerStars Hand #254233056428:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:48:17 WET [2025/01/06 14:48:17 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 3: BoyLoc0 ($103 in chips) 
+Seat 4: illarins ($101.50 in chips) 
+Seat 6: MoRsCeReBruM ($100 in chips) 
+MoRsCeReBruM: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+illarins: folds 
+MoRsCeReBruM: raises $2 to $3
+BoyLoc0: calls $2
+*** FLOP *** [2h 6d 7c]
+MoRsCeReBruM: checks 
+BoyLoc0: bets $1.88
+MoRsCeReBruM: raises $6.12 to $8
+BoyLoc0: folds 
+Uncalled bet ($6.12) returned to MoRsCeReBruM
+MoRsCeReBruM collected $9.27 from pot
+MoRsCeReBruM: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [2h 6d 7c]
+Seat 2: najar1985
+Seat 3: BoyLoc0 (big blind) folded on the Flop
+Seat 4: illarins (button) folded before Flop (didn't bet)
+Seat 6: MoRsCeReBruM (small blind) collected ($9.27)
+
+
+
+PokerStars Hand #254233066685:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:48:48 WET [2025/01/06 14:48:48 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($101.50 in chips) 
+Seat 6: MoRsCeReBruM ($104.39 in chips) 
+BoyLoc0: posts small blind $0.50
+illarins: posts big blind $1
+*** HOLE CARDS ***
+MoRsCeReBruM: raises $1.50 to $2.50
+AndreaBsAs joins the table at seat #1 
+BoyLoc0: raises $7.50 to $10
+illarins: folds 
+MoRsCeReBruM: folds 
+Uncalled bet ($7.50) returned to BoyLoc0
+BoyLoc0 collected $6 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: najar1985
+Seat 3: BoyLoc0 (small blind) collected ($6)
+Seat 4: illarins (big blind) folded before Flop
+Seat 6: MoRsCeReBruM (button) folded before Flop
+
+
+
+PokerStars Hand #254233073385:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:49:08 WET [2025/01/06 14:49:08 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 6: MoRsCeReBruM ($101.89 in chips) is sitting out
+Seat 1: AndreaBsAs ($100 in chips) 
+Seat 3: BoyLoc0 ($103.50 in chips) 
+Seat 4: illarins ($100.50 in chips) 
+illarins: posts small blind $0.50
+MoRsCeReBruM: is sitting out 
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+illarins: folds 
+AndreaBsAs: calls $1.50
+*** FLOP *** [Qd 2s 3c]
+AndreaBsAs: checks 
+BoyLoc0: bets $1.72
+AndreaBsAs: calls $1.72
+*** TURN *** [Qd 2s 3c] [3s]
+AndreaBsAs: checks 
+BoyLoc0: bets $6.37
+lianos54 joins the table at seat #5 
+lianos54 is disconnected 
+AndreaBsAs: raises $13.39 to $19.76
+BoyLoc0: folds 
+Uncalled bet ($13.39) returned to AndreaBsAs
+AndreaBsAs collected $20.68 from pot
+*** SUMMARY ***
+Total pot $21.68 | Rake $1 
+Board [Qd 2s 3c 3s]
+Seat 2: najar1985
+Seat 6: MoRsCeReBruM
+Seat 1: AndreaBsAs (big blind) collected ($20.68)
+Seat 3: BoyLoc0 (button) folded on the Turn
+Seat 4: illarins (small blind) folded before Flop
+
+
+
+PokerStars Hand #254233095398:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:50:14 WET [2025/01/06 14:50:14 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 2: najar1985 ($0 in chips) is sitting out
+Seat 5: lianos54 ($40 in chips) is sitting out
+Seat 6: MoRsCeReBruM ($101.89 in chips) is sitting out
+Seat 1: AndreaBsAs ($110.09 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($100 in chips) 
+AndreaBsAs: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+illarins: folds 
+AndreaBsAs: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+BoyLoc0 collected $1 from pot
+najar1985 leaves the table
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: najar1985
+Seat 5: lianos54
+Seat 6: MoRsCeReBruM
+Seat 1: AndreaBsAs (small blind) folded before Flop
+Seat 3: BoyLoc0 (big blind) collected ($1)
+Seat 4: illarins (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233098494:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:50:24 WET [2025/01/06 14:50:24 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 5: lianos54 ($40 in chips) is sitting out
+Seat 6: MoRsCeReBruM ($101.89 in chips) is sitting out
+Seat 1: AndreaBsAs ($109.59 in chips) 
+Seat 3: BoyLoc0 ($100.50 in chips) 
+Seat 4: illarins ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+illarins: posts big blind $1
+lianos54: sits out 
+MoRsCeReBruM: sits out 
+*** HOLE CARDS ***
+dreimis190 joins the table at seat #2 
+AndreaBsAs: raises $1.50 to $2.50
+BoyLoc0: folds 
+illarins: raises $9.50 to $12
+AndreaBsAs: folds 
+Uncalled bet ($9.50) returned to illarins
+illarins collected $5.50 from pot
+illarins: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 5: lianos54
+Seat 6: MoRsCeReBruM
+Seat 1: AndreaBsAs (button) folded before Flop
+Seat 3: BoyLoc0 (small blind) folded before Flop
+Seat 4: illarins (big blind) collected ($5.50)
+
+
+
+PokerStars Hand #254233107926:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:50:52 WET [2025/01/06 14:50:52 ET]
+Table 'Durrell II' 6-max Seat #3 is the button
+Seat 2: dreimis190 ($100 in chips) is sitting out
+Seat 6: MoRsCeReBruM ($101.89 in chips) is sitting out
+Seat 1: AndreaBsAs ($107.09 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($103 in chips) 
+Seat 5: lianos54 ($40 in chips) 
+illarins: posts small blind $0.50
+lianos54: posts big blind $1
+MoRsCeReBruM: sits out 
+dreimis190: sits out 
+*** HOLE CARDS ***
+AndreaBsAs: folds 
+BoyLoc0: folds 
+illarins: raises $2 to $3
+lianos54: folds 
+Uncalled bet ($2) returned to illarins
+illarins collected $2 from pot
+illarins: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: dreimis190
+Seat 6: MoRsCeReBruM
+Seat 1: AndreaBsAs folded before Flop (didn't bet)
+Seat 3: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 4: illarins (small blind) collected ($2)
+Seat 5: lianos54 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254233112676:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:51:06 WET [2025/01/06 14:51:06 ET]
+Table 'Durrell II' 6-max Seat #4 is the button
+Seat 2: dreimis190 ($100 in chips) is sitting out
+Seat 1: AndreaBsAs ($107.09 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($104 in chips) 
+Seat 5: lianos54 ($39 in chips) 
+Seat 6: MoRsCeReBruM ($101.89 in chips) 
+lianos54: posts small blind $0.50
+MoRsCeReBruM: posts big blind $1
+dreimis190: sits out 
+*** HOLE CARDS ***
+AndreaBsAs: raises $1.20 to $2.20
+BoyLoc0: folds 
+illarins: raises $4.80 to $7
+lianos54: calls $6.50
+MoRsCeReBruM: folds 
+AndreaBsAs: calls $4.80
+*** FLOP *** [7h 4c 2c]
+lianos54: checks 
+AndreaBsAs: checks 
+illarins: bets $5.23
+lianos54: raises $6.23 to $11.46
+AndreaBsAs: raises $26.13 to $37.59
+illarins: folds 
+lianos54: calls $20.54 and is all-in
+Uncalled bet ($5.59) returned to AndreaBsAs
+*** TURN *** [7h 4c 2c] [Jh]
+*** RIVER *** [7h 4c 2c Jh] [4s]
+*** SHOW DOWN ***
+lianos54: shows [Kd Ah] (a pair of Fours)
+AndreaBsAs: shows [7c 7d] (a full house, Sevens full of Fours)
+AndreaBsAs collected $88.73 from pot
+*** SUMMARY ***
+Total pot $91.23 | Rake $2.50 
+Board [7h 4c 2c Jh 4s]
+Seat 2: dreimis190
+Seat 1: AndreaBsAs showed [7c 7d] and won ($88.73) with a full house, Sevens full of Fours
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: illarins (button) folded on the Flop
+Seat 5: lianos54 (small blind) showed [Kd Ah] and lost with a pair of Fours
+Seat 6: MoRsCeReBruM (big blind) folded before Flop
+
+
+
+PokerStars Hand #254233140065:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:52:29 WET [2025/01/06 14:52:29 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 5: lianos54 ($0 in chips) is sitting out
+Seat 1: AndreaBsAs ($156.82 in chips) 
+Seat 2: dreimis190 ($100 in chips) 
+Seat 3: BoyLoc0 ($100 in chips) 
+Seat 4: illarins ($100 in chips) 
+Seat 6: MoRsCeReBruM ($100.89 in chips) 
+AndreaBsAs: posts small blind $0.50
+dreimis190: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+illarins: folds 
+BoyLoc0 leaves the table
+MoRsCeReBruM: folds 
+AndreaBsAs: folds 
+Uncalled bet ($0.50) returned to dreimis190
+dreimis190 collected $1 from pot
+dreimis190: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: lianos54
+Seat 1: AndreaBsAs (small blind) folded before Flop
+Seat 2: dreimis190 (big blind) collected ($1)
+Seat 3: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: illarins folded before Flop (didn't bet)
+Seat 6: MoRsCeReBruM (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233143802:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:52:41 WET [2025/01/06 14:52:41 ET]
+Table 'Durrell II' 6-max Seat #1 is the button
+Seat 4: illarins ($100 in chips) is sitting out
+Seat 5: lianos54 ($0 in chips) is sitting out
+Seat 1: AndreaBsAs ($156.32 in chips) 
+Seat 2: dreimis190 ($100.50 in chips) 
+Seat 6: MoRsCeReBruM ($100.89 in chips) 
+dreimis190: posts small blind $0.50
+illarins: is sitting out 
+MoRsCeReBruM: posts big blind $1
+*** HOLE CARDS ***
+AndreaBsAs: raises $1.50 to $2.50
+lianos54 leaves the table
+dreimis190: folds 
+MoRsCeReBruM: folds 
+Uncalled bet ($1.50) returned to AndreaBsAs
+AndreaBsAs collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: illarins
+Seat 5: lianos54
+Seat 1: AndreaBsAs (button) collected ($2.50)
+Seat 2: dreimis190 (small blind) folded before Flop
+Seat 6: MoRsCeReBruM (big blind) folded before Flop
+
+
+
+PokerStars Hand #254233151722:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:53:04 WET [2025/01/06 14:53:04 ET]
+Table 'Durrell II' 6-max Seat #6 is the button
+Seat 1: AndreaBsAs ($157.82 in chips) is sitting out
+Seat 4: illarins ($100 in chips) is sitting out
+Seat 2: dreimis190 ($100 in chips) 
+Seat 6: MoRsCeReBruM ($100 in chips) 
+MoRsCeReBruM: posts small blind $0.50
+AndreaBsAs: is sitting out 
+dreimis190: posts big blind $1
+*** HOLE CARDS ***
+MoRsCeReBruM: folds 
+Uncalled bet ($0.50) returned to dreimis190
+illarins leaves the table
+dreimis190 collected $1 from pot
+dreimis190: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: AndreaBsAs
+Seat 4: illarins
+Seat 2: dreimis190 (big blind) collected ($1)
+Seat 6: MoRsCeReBruM (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254233154892:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 19:53:14 WET [2025/01/06 14:53:14 ET]
+Table 'Durrell II' 6-max Seat #2 is the button
+Seat 1: AndreaBsAs ($157.82 in chips) is sitting out
+Seat 2: dreimis190 ($100.50 in chips) 
+Seat 6: MoRsCeReBruM ($100 in chips) 
+dreimis190: posts small blind $0.50
+MoRsCeReBruM: posts big blind $1
+*** HOLE CARDS ***
+dreimis190: raises $1.50 to $2.50
+AndreaBsAs leaves the table
+MoRsCeReBruM: folds 
+Uncalled bet ($1.50) returned to dreimis190
+dreimis190 collected $2 from pot
+dreimis190: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: AndreaBsAs
+Seat 2: dreimis190 (button) (small blind) collected ($2)
+Seat 6: MoRsCeReBruM (big blind) folded before Flop
+
+
+

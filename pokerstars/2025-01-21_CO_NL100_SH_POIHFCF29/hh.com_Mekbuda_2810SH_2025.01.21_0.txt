@@ -1,0 +1,320 @@
+﻿PokerStars Hand #254486964229:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 18:20:40 WET [2025/01/21 13:20:40 ET]
+Table 'Mekbuda III' 6-max Seat #6 is the button
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: createyouracc ($10 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Eredar5 ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+sta$igk: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+createyouracc: calls $1
+Gfoer: folds 
+Eredar5: folds 
+MAO_DZEDYN_S: folds 
+sta$igk: folds 
+ptolejmus: raises $9 to $10 and is all-in
+createyouracc: calls $9 and is all-in
+*** FLOP *** [Qd 5h 2h]
+*** TURN *** [Qd 5h 2h] [Th]
+*** RIVER *** [Qd 5h 2h Th] [Ts]
+*** SHOW DOWN ***
+ptolejmus: shows [As 8s] (a pair of Tens)
+createyouracc: shows [4c 6c] (a pair of Tens - lower kicker)
+ptolejmus collected $19.48 from pot
+*** SUMMARY ***
+Total pot $20.50 | Rake $1.02 
+Board [Qd 5h 2h Th Ts]
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) showed [As 8s] and won ($19.48) with a pair of Tens
+Seat 3: createyouracc showed [4c 6c] and lost with a pair of Tens
+Seat 4: Gfoer folded before Flop (didn't bet)
+Seat 5: Eredar5 folded before Flop (didn't bet)
+Seat 6: MAO_DZEDYN_S (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254486971612:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 18:21:07 WET [2025/01/21 13:21:07 ET]
+Table 'Mekbuda III' 6-max Seat #1 is the button
+Seat 3: createyouracc ($0 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: ptolejmus ($19.48 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Eredar5 ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+ptolejmus: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+Eredar5: folds 
+MAO_DZEDYN_S: folds 
+sta$igk: folds 
+ptolejmus: raises $1 to $2
+Gfoer: calls $1
+*** FLOP *** [Tc Qh 8s]
+ptolejmus: checks 
+Gfoer: bets $1.27
+ptolejmus: folds 
+Uncalled bet ($1.27) returned to Gfoer
+Gfoer collected $3.80 from pot
+Gfoer: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Tc Qh 8s]
+Seat 3: createyouracc
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) folded on the Flop
+Seat 4: Gfoer (big blind) collected ($3.80)
+Seat 5: Eredar5 folded before Flop (didn't bet)
+Seat 6: MAO_DZEDYN_S folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254486984501:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 18:21:53 WET [2025/01/21 13:21:53 ET]
+Table 'Mekbuda III' 6-max Seat #2 is the button
+Seat 3: createyouracc ($10 in chips) is sitting out
+Seat 5: Eredar5 ($100 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: ptolejmus ($17.48 in chips) 
+Seat 4: Gfoer ($101.80 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+Gfoer: posts small blind $0.50
+Eredar5: is sitting out 
+MAO_DZEDYN_S: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+Eredar5 leaves the table
+ptolejmus: raises $1 to $2
+Gfoer: folds 
+MaRKiToScoK joins the table at seat #5 
+MAO_DZEDYN_S: folds 
+Uncalled bet ($1) returned to ptolejmus
+ptolejmus collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: createyouracc
+Seat 5: Eredar5
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) collected ($2.50)
+Seat 4: Gfoer (small blind) folded before Flop
+Seat 6: MAO_DZEDYN_S (big blind) folded before Flop
+
+
+
+PokerStars Hand #254486991434:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 18:22:17 WET [2025/01/21 13:22:17 ET]
+Table 'Mekbuda III' 6-max Seat #4 is the button
+Seat 5: MaRKiToScoK ($100 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: ptolejmus ($18.98 in chips) 
+Seat 3: createyouracc ($10 in chips) 
+Seat 4: Gfoer ($101.30 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+sta$igk: posts big blind $1
+createyouracc: posts small & big blinds $1.50
+*** HOLE CARDS ***
+ptolejmus: folds 
+createyouracc: raises $3 to $4
+Gfoer: folds 
+MAO_DZEDYN_S: raises $3 to $7
+sta$igk: folds 
+createyouracc: raises $2.50 to $9.50 and is all-in
+MAO_DZEDYN_S: calls $2.50
+*** FLOP *** [3s Qh Td]
+*** TURN *** [3s Qh Td] [Kc]
+*** RIVER *** [3s Qh Td Kc] [8c]
+*** SHOW DOWN ***
+MAO_DZEDYN_S: shows [Tc Ks] (two pair, Kings and Tens)
+createyouracc: shows [Qs Kh] (two pair, Kings and Queens)
+createyouracc collected $19.48 from pot
+*** SUMMARY ***
+Total pot $20.50 | Rake $1.02 
+Board [3s Qh Td Kc 8c]
+Seat 5: MaRKiToScoK
+Seat 1: sta$igk (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: createyouracc showed [Qs Kh] and won ($19.48) with two pair, Kings and Queens
+Seat 4: Gfoer (button) folded before Flop (didn't bet)
+Seat 6: MAO_DZEDYN_S (small blind) showed [Tc Ks] and lost with two pair, Kings and Tens
+
+
+
+PokerStars Hand #254487001244:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 18:22:53 WET [2025/01/21 13:22:53 ET]
+Table 'Mekbuda III' 6-max Seat #6 is the button
+Seat 2: ptolejmus ($18.98 in chips) is sitting out
+Seat 5: MaRKiToScoK ($100 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 3: createyouracc ($19.48 in chips) 
+Seat 4: Gfoer ($101.30 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+sta$igk: posts small blind $0.50
+ptolejmus: is sitting out 
+createyouracc: posts big blind $1
+MaRKiToScoK: sits out 
+*** HOLE CARDS ***
+Gfoer: folds 
+ptolejmus leaves the table
+MAO_DZEDYN_S: raises $1 to $2
+sta$igk: folds 
+createyouracc: calls $1
+*** FLOP *** [Td Ks Ad]
+NoonTime1991 joins the table at seat #2 
+createyouracc: checks 
+MAO_DZEDYN_S: checks 
+*** TURN *** [Td Ks Ad] [4s]
+createyouracc: bets $4.28
+MAO_DZEDYN_S: folds 
+Uncalled bet ($4.28) returned to createyouracc
+createyouracc collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Td Ks Ad 4s]
+Seat 2: ptolejmus
+Seat 5: MaRKiToScoK
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 3: createyouracc (big blind) collected ($4.28)
+Seat 4: Gfoer folded before Flop (didn't bet)
+Seat 6: MAO_DZEDYN_S (button) folded on the Turn
+
+
+
+PokerStars Hand #254487015350:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 18:23:43 WET [2025/01/21 13:23:43 ET]
+Table 'Mekbuda III' 6-max Seat #1 is the button
+Seat 2: NoonTime1991 ($100 in chips) is sitting out
+Seat 5: MaRKiToScoK ($100 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 3: createyouracc ($21.76 in chips) 
+Seat 4: Gfoer ($101.30 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+createyouracc: posts small blind $0.50
+Gfoer: posts big blind $1
+MaRKiToScoK: sits out 
+*** HOLE CARDS ***
+MAO_DZEDYN_S: raises $1.25 to $2.25
+sta$igk: folds 
+createyouracc: folds 
+Gfoer: folds 
+Uncalled bet ($1.25) returned to MAO_DZEDYN_S
+MAO_DZEDYN_S collected $2.50 from pot
+MAO_DZEDYN_S: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: NoonTime1991
+Seat 5: MaRKiToScoK
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 3: createyouracc (small blind) folded before Flop
+Seat 4: Gfoer (big blind) folded before Flop
+Seat 6: MAO_DZEDYN_S collected ($2.50)
+
+
+
+PokerStars Hand #254487018654:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 18:23:55 WET [2025/01/21 13:23:55 ET]
+Table 'Mekbuda III' 6-max Seat #3 is the button
+Seat 2: NoonTime1991 ($100 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 3: createyouracc ($21.26 in chips) 
+Seat 4: Gfoer ($100.30 in chips) 
+Seat 5: MaRKiToScoK ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($101.50 in chips) 
+Gfoer: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+NoonTime1991: sits out 
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+sta$igk: raises $1 to $2
+createyouracc: calls $2
+Gfoer: folds 
+MaRKiToScoK: calls $1
+*** FLOP *** [Ac 6c Kd]
+MaRKiToScoK: checks 
+sta$igk: checks 
+createyouracc: checks 
+*** TURN *** [Ac 6c Kd] [6h]
+MaRKiToScoK: checks 
+sta$igk: bets $3.09
+createyouracc: calls $3.09
+MaRKiToScoK: raises $11.59 to $14.68
+sta$igk: calls $11.59
+createyouracc: folds 
+*** RIVER *** [Ac 6c Kd 6h] [8s]
+MaRKiToScoK: bets $27.75
+sta$igk: folds 
+Uncalled bet ($27.75) returned to MaRKiToScoK
+MaRKiToScoK collected $37 from pot
+*** SUMMARY ***
+Total pot $38.95 | Rake $1.95 
+Board [Ac 6c Kd 6h 8s]
+Seat 2: NoonTime1991
+Seat 1: sta$igk folded on the River
+Seat 3: createyouracc (button) folded on the Turn
+Seat 4: Gfoer (small blind) folded before Flop
+Seat 5: MaRKiToScoK (big blind) collected ($37)
+Seat 6: MAO_DZEDYN_S folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254487053202:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 18:25:59 WET [2025/01/21 13:25:59 ET]
+Table 'Mekbuda III' 6-max Seat #4 is the button
+Seat 2: NoonTime1991 ($100 in chips) is sitting out
+Seat 6: MAO_DZEDYN_S ($101.50 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 3: createyouracc ($16.17 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: MaRKiToScoK ($120.32 in chips) 
+MaRKiToScoK: posts small blind $0.50
+MAO_DZEDYN_S: is sitting out 
+sta$igk: posts big blind $1
+NoonTime1991: sits out 
+*** HOLE CARDS ***
+createyouracc: folds 
+Gfoer: folds 
+MAO_DZEDYN_S leaves the table
+MaRKiToScoK: raises $2 to $3
+sta$igk: calls $2
+*** FLOP *** [4h 2s 2h]
+MaRKiToScoK: checks 
+sta$igk: bets $2.85
+MaRKiToScoK: folds 
+Uncalled bet ($2.85) returned to sta$igk
+sta$igk collected $5.70 from pot
+sta$igk: doesn't show hand 
+createyouracc leaves the table
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4h 2s 2h]
+Seat 2: NoonTime1991
+Seat 6: MAO_DZEDYN_S
+Seat 1: sta$igk (big blind) collected ($5.70)
+Seat 3: createyouracc folded before Flop (didn't bet)
+Seat 4: Gfoer (button) folded before Flop (didn't bet)
+Seat 5: MaRKiToScoK (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254487067021:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 18:26:48 WET [2025/01/21 13:26:48 ET]
+Table 'Mekbuda III' 6-max Seat #5 is the button
+Seat 1: sta$igk ($102.70 in chips) 
+Seat 2: NoonTime1991 ($100 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: MaRKiToScoK ($117.32 in chips) 
+sta$igk: posts small blind $0.50
+NoonTime1991: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: raises $1.20 to $2.20
+MaRKiToScoK: raises $5.30 to $7.50
+sta$igk: folds 
+BoyLoc0 joins the table at seat #3 
+BoyLoc0 leaves the table
+NoonTime1991: folds 
+Gfoer: folds 
+Uncalled bet ($5.30) returned to MaRKiToScoK
+MaRKiToScoK collected $5.90 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: NoonTime1991 (big blind) folded before Flop
+Seat 4: Gfoer folded before Flop
+Seat 5: MaRKiToScoK (button) collected ($5.90)
+
+
+

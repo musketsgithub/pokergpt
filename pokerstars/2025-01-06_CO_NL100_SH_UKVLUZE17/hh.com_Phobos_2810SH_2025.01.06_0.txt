@@ -1,0 +1,2515 @@
+﻿PokerStars Hand #254224898922:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:33:10 WET [2025/01/06 3:33:10 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 5: steelNike ($10 in chips) is sitting out
+Seat 1: valmble ($10.90 in chips) 
+Seat 2: elcutez ($63.53 in chips) 
+Seat 3: Emily_GetMan ($100 in chips) 
+Seat 4: HugoJugo775 ($20.67 in chips) 
+elcutez: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+HugoJugo775: posts big blind $1
+steelNike: sits out 
+*** HOLE CARDS ***
+HugoJugo775: checks 
+zizizib joins the table at seat #6 
+valmble: folds 
+elcutez: folds 
+Emily_GetMan: checks 
+*** FLOP *** [3s 7d Qh]
+Emily_GetMan: bets $1
+HugoJugo775: calls $1
+*** TURN *** [3s 7d Qh] [5h]
+Emily_GetMan: checks 
+HugoJugo775: checks 
+*** RIVER *** [3s 7d Qh 5h] [Kh]
+Emily_GetMan: checks 
+HugoJugo775: checks 
+*** SHOW DOWN ***
+Emily_GetMan: shows [4c 5d] (a pair of Fives)
+HugoJugo775: mucks hand 
+Emily_GetMan collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [3s 7d Qh 5h Kh]
+Seat 5: steelNike
+Seat 1: valmble (button) folded before Flop (didn't bet)
+Seat 2: elcutez (small blind) folded before Flop
+Seat 3: Emily_GetMan (big blind) showed [4c 5d] and won ($4.28) with a pair of Fives
+Seat 4: HugoJugo775 mucked
+
+
+
+PokerStars Hand #254224901709:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:33:46 WET [2025/01/06 3:33:46 ET]
+Table 'Phobos II' 6-max Seat #2 is the button
+Seat 5: steelNike ($10 in chips) is sitting out
+Seat 6: zizizib ($100 in chips) is sitting out
+Seat 1: valmble ($10.90 in chips) 
+Seat 2: elcutez ($63.03 in chips) 
+Seat 3: Emily_GetMan ($102.28 in chips) 
+Seat 4: HugoJugo775 ($18.67 in chips) 
+Emily_GetMan: posts small blind $0.50
+HugoJugo775: posts big blind $1
+steelNike: sits out 
+zizizib: sits out 
+*** HOLE CARDS ***
+valmble: folds 
+elcutez: folds 
+Emily_GetMan: folds 
+Uncalled bet ($0.50) returned to HugoJugo775
+HugoJugo775 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: steelNike
+Seat 6: zizizib
+Seat 1: valmble folded before Flop (didn't bet)
+Seat 2: elcutez (button) folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (small blind) folded before Flop
+Seat 4: HugoJugo775 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254224902684:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:33:57 WET [2025/01/06 3:33:57 ET]
+Table 'Phobos II' 6-max Seat #3 is the button
+Seat 6: zizizib ($100 in chips) is sitting out
+Seat 1: valmble ($10.90 in chips) 
+Seat 2: elcutez ($63.03 in chips) 
+Seat 3: Emily_GetMan ($101.78 in chips) 
+Seat 4: HugoJugo775 ($19.17 in chips) 
+Seat 5: steelNike ($10 in chips) 
+HugoJugo775: posts small blind $0.50
+steelNike: posts big blind $1
+zizizib: sits out 
+*** HOLE CARDS ***
+valmble: folds 
+elcutez: folds 
+Emily_GetMan: folds 
+HugoJugo775: folds 
+Uncalled bet ($0.50) returned to steelNike
+steelNike collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: zizizib
+Seat 1: valmble folded before Flop (didn't bet)
+Seat 2: elcutez folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 4: HugoJugo775 (small blind) folded before Flop
+Seat 5: steelNike (big blind) collected ($1)
+
+
+
+PokerStars Hand #254224903686:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:34:11 WET [2025/01/06 3:34:11 ET]
+Table 'Phobos II' 6-max Seat #4 is the button
+Seat 1: valmble ($10.90 in chips) 
+Seat 2: elcutez ($63.03 in chips) 
+Seat 3: Emily_GetMan ($101.78 in chips) 
+Seat 4: HugoJugo775 ($18.67 in chips) 
+Seat 5: steelNike ($10.50 in chips) 
+Seat 6: zizizib ($100 in chips) 
+steelNike: posts small blind $0.50
+zizizib: posts big blind $1
+*** HOLE CARDS ***
+valmble: folds 
+elcutez: folds 
+Emily_GetMan: folds 
+HugoJugo775: calls $1
+steelNike: folds 
+zizizib: checks 
+*** FLOP *** [3h Td Ac]
+zizizib: checks 
+HugoJugo775: checks 
+*** TURN *** [3h Td Ac] [7c]
+zizizib: checks 
+HugoJugo775: checks 
+*** RIVER *** [3h Td Ac 7c] [7d]
+zizizib: bets $1.50
+HugoJugo775: folds 
+Uncalled bet ($1.50) returned to zizizib
+zizizib collected $2.38 from pot
+zizizib: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [3h Td Ac 7c 7d]
+Seat 1: valmble folded before Flop (didn't bet)
+Seat 2: elcutez folded before Flop (didn't bet)
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 4: HugoJugo775 (button) folded on the River
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: zizizib (big blind) collected ($2.38)
+
+
+
+PokerStars Hand #254224907348:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:34:57 WET [2025/01/06 3:34:57 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 1: valmble ($10.90 in chips) is sitting out
+Seat 2: elcutez ($63.03 in chips) 
+Seat 3: Emily_GetMan ($101.78 in chips) 
+Seat 4: HugoJugo775 ($17.67 in chips) 
+Seat 5: steelNike ($20 in chips) 
+Seat 6: zizizib ($101.38 in chips) 
+zizizib: posts small blind $0.50
+valmble: is sitting out 
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+valmble leaves the table
+Emily_GetMan: folds 
+HugoJugo775: calls $1
+steelNike: calls $1
+zizizib: folds 
+elcutez: checks 
+*** FLOP *** [4d Ac Ks]
+elcutez: checks 
+HugoJugo775: bets $1
+steelNike: calls $1
+elcutez: folds 
+*** TURN *** [4d Ac Ks] [Qd]
+HugoJugo775: checks 
+steelNike: bets $3.92
+HugoJugo775: calls $3.92
+*** RIVER *** [4d Ac Ks Qd] [3c]
+HugoJugo775: checks 
+steelNike: bets $4.18
+HugoJugo775: calls $4.18
+*** SHOW DOWN ***
+steelNike: shows [2s As] (a pair of Aces)
+HugoJugo775: mucks hand 
+radu10101 joins the table at seat #1 
+radu10101 is disconnected 
+steelNike collected $20.62 from pot
+*** SUMMARY ***
+Total pot $21.70 | Rake $1.08 
+Board [4d Ac Ks Qd 3c]
+Seat 1: valmble
+Seat 2: elcutez (big blind) folded on the Flop
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 4: HugoJugo775 mucked
+Seat 5: steelNike (button) showed [2s As] and won ($20.62) with a pair of Aces
+Seat 6: zizizib (small blind) folded before Flop
+
+
+
+PokerStars Hand #254224912187:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:35:56 WET [2025/01/06 3:35:56 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 1: radu10101 ($44.60 in chips) is sitting out
+Seat 2: elcutez ($62.03 in chips) 
+Seat 3: Emily_GetMan ($101.78 in chips) 
+Seat 4: HugoJugo775 ($7.57 in chips) 
+Seat 5: steelNike ($30.52 in chips) 
+Seat 6: zizizib ($100.88 in chips) 
+elcutez: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+HugoJugo775: calls $1
+steelNike: raises $1 to $2
+zizizib: calls $2
+elcutez: folds 
+Emily_GetMan: folds 
+HugoJugo775: calls $1
+*** FLOP *** [4d Qc Js]
+HugoJugo775: bets $1
+steelNike: folds 
+zizizib: folds 
+Uncalled bet ($1) returned to HugoJugo775
+HugoJugo775 collected $7.02 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.48 
+Board [4d Qc Js]
+Seat 1: radu10101
+Seat 2: elcutez (small blind) folded before Flop
+Seat 3: Emily_GetMan (big blind) folded before Flop
+Seat 4: HugoJugo775 collected ($7.02)
+Seat 5: steelNike folded on the Flop
+Seat 6: zizizib (button) folded on the Flop
+
+
+
+PokerStars Hand #254224914944:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:36:30 WET [2025/01/06 3:36:30 ET]
+Table 'Phobos II' 6-max Seat #2 is the button
+Seat 1: radu10101 ($44.60 in chips) 
+Seat 2: elcutez ($61.53 in chips) 
+Seat 3: Emily_GetMan ($100.78 in chips) 
+Seat 4: HugoJugo775 ($12.59 in chips) 
+Seat 5: steelNike ($28.52 in chips) 
+Seat 6: zizizib ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+HugoJugo775: posts big blind $1
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+zizizib: folds 
+radu10101: checks 
+elcutez: raises $2 to $3
+Emily_GetMan: folds 
+HugoJugo775: calls $2
+radu10101: folds 
+*** FLOP *** [8c 6c Tc]
+HugoJugo775: checks 
+elcutez: checks 
+*** TURN *** [8c 6c Tc] [8h]
+HugoJugo775: checks 
+elcutez: checks 
+*** RIVER *** [8c 6c Tc 8h] [Ah]
+HugoJugo775: bets $3.56
+elcutez: folds 
+Uncalled bet ($3.56) returned to HugoJugo775
+HugoJugo775 collected $7.02 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.48 
+Board [8c 6c Tc 8h Ah]
+Seat 1: radu10101 folded before Flop (didn't bet)
+Seat 2: elcutez (button) folded on the River
+Seat 3: Emily_GetMan (small blind) folded before Flop
+Seat 4: HugoJugo775 (big blind) collected ($7.02)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: zizizib folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224917691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:37:04 WET [2025/01/06 3:37:04 ET]
+Table 'Phobos II' 6-max Seat #3 is the button
+Seat 1: radu10101 ($43.60 in chips) 
+Seat 2: elcutez ($58.53 in chips) 
+Seat 3: Emily_GetMan ($100.28 in chips) 
+Seat 4: HugoJugo775 ($16.61 in chips) 
+Seat 5: steelNike ($28.52 in chips) 
+Seat 6: zizizib ($100 in chips) 
+HugoJugo775: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+zizizib: folds 
+radu10101: folds 
+elcutez: raises $2 to $3
+Emily_GetMan: folds 
+HugoJugo775: folds 
+steelNike: folds 
+Uncalled bet ($2) returned to elcutez
+elcutez collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: radu10101 folded before Flop (didn't bet)
+Seat 2: elcutez collected ($2.50)
+Seat 3: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 4: HugoJugo775 (small blind) folded before Flop
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: zizizib folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224919578:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:37:26 WET [2025/01/06 3:37:26 ET]
+Table 'Phobos II' 6-max Seat #4 is the button
+Seat 6: zizizib ($100 in chips) is sitting out
+Seat 1: radu10101 ($43.60 in chips) 
+Seat 2: elcutez ($60.03 in chips) 
+Seat 3: Emily_GetMan ($100.28 in chips) 
+Seat 4: HugoJugo775 ($16.11 in chips) 
+Seat 5: steelNike ($27.52 in chips) 
+steelNike: posts small blind $0.50
+zizizib: is sitting out 
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+elcutez: folds 
+zizizib leaves the table
+Emily_GetMan: raises $1 to $2
+MauriFierro27 joins the table at seat #6 
+HugoJugo775: folds 
+steelNike: folds 
+radu10101: calls $1
+*** FLOP *** [Jh Ac Td]
+radu10101: checks 
+Emily_GetMan: bets $1.41
+radu10101: calls $1.41
+*** TURN *** [Jh Ac Td] [3c]
+radu10101: checks 
+Emily_GetMan: bets $2.29
+radu10101: calls $2.29
+*** RIVER *** [Jh Ac Td 3c] [Ad]
+radu10101: checks 
+Emily_GetMan: bets $5
+radu10101: folds 
+Uncalled bet ($5) returned to Emily_GetMan
+Emily_GetMan collected $11.30 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.90 | Rake $0.60 
+Board [Jh Ac Td 3c Ad]
+Seat 6: zizizib
+Seat 1: radu10101 (big blind) folded on the River
+Seat 2: elcutez folded before Flop (didn't bet)
+Seat 3: Emily_GetMan collected ($11.30)
+Seat 4: HugoJugo775 (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) folded before Flop
+
+
+
+PokerStars Hand #254224923716:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:38:15 WET [2025/01/06 3:38:15 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 6: MauriFierro27 ($100 in chips) is sitting out
+Seat 1: radu10101 ($37.90 in chips) 
+Seat 2: elcutez ($60.03 in chips) 
+Seat 3: Emily_GetMan ($105.88 in chips) 
+Seat 4: HugoJugo775 ($16.11 in chips) 
+Seat 5: steelNike ($27.02 in chips) 
+radu10101: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: raises $1 to $2
+HugoJugo775: folds 
+steelNike: raises $3 to $5
+radu10101: folds 
+elcutez: folds 
+Emily_GetMan: folds 
+Uncalled bet ($3) returned to steelNike
+steelNike collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 6: MauriFierro27
+Seat 1: radu10101 (small blind) folded before Flop
+Seat 2: elcutez (big blind) folded before Flop
+Seat 3: Emily_GetMan folded before Flop
+Seat 4: HugoJugo775 folded before Flop (didn't bet)
+Seat 5: steelNike (button) collected ($5.50)
+
+
+
+PokerStars Hand #254224927020:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:38:55 WET [2025/01/06 3:38:55 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 6: MauriFierro27 ($100 in chips) is sitting out
+Seat 1: radu10101 ($37.40 in chips) 
+Seat 2: elcutez ($59.03 in chips) 
+Seat 3: Emily_GetMan ($103.88 in chips) 
+Seat 4: HugoJugo775 ($16.11 in chips) 
+Seat 5: steelNike ($30.52 in chips) 
+elcutez: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+MauriFierro27: sits out 
+*** HOLE CARDS ***
+HugoJugo775: folds 
+steelNike: folds 
+radu10101: folds 
+elcutez: raises $3 to $4
+Emily_GetMan: calls $3
+*** FLOP *** [7s Tc Jh]
+elcutez: bets $7.60
+Emily_GetMan: calls $7.60
+*** TURN *** [7s Tc Jh] [5h]
+elcutez: bets $22
+Emily_GetMan: folds 
+Uncalled bet ($22) returned to elcutez
+elcutez collected $22.04 from pot
+*** SUMMARY ***
+Total pot $23.20 | Rake $1.16 
+Board [7s Tc Jh 5h]
+Seat 6: MauriFierro27
+Seat 1: radu10101 (button) folded before Flop (didn't bet)
+Seat 2: elcutez (small blind) collected ($22.04)
+Seat 3: Emily_GetMan (big blind) folded on the Turn
+Seat 4: HugoJugo775 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224929572:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:39:26 WET [2025/01/06 3:39:26 ET]
+Table 'Phobos II' 6-max Seat #2 is the button
+Seat 6: MauriFierro27 ($100 in chips) is sitting out
+Seat 1: radu10101 ($37.40 in chips) 
+Seat 2: elcutez ($69.47 in chips) 
+Seat 3: Emily_GetMan ($100 in chips) 
+Seat 4: HugoJugo775 ($16.11 in chips) 
+Seat 5: steelNike ($30.52 in chips) 
+Emily_GetMan: posts small blind $0.50
+HugoJugo775: posts big blind $1
+MauriFierro27: sits out 
+*** HOLE CARDS ***
+steelNike: folds 
+radu10101: folds 
+elcutez: raises $2 to $3
+Emily_GetMan: folds 
+HugoJugo775: calls $2
+*** FLOP *** [7d 4s Ah]
+HugoJugo775: bets $1
+elcutez: raises $65.47 to $66.47 and is all-in
+HugoJugo775: calls $12.11 and is all-in
+Uncalled bet ($53.36) returned to elcutez
+*** TURN *** [7d 4s Ah] [Th]
+*** RIVER *** [7d 4s Ah Th] [Jh]
+*** SHOW DOWN ***
+HugoJugo775: shows [5c 5d] (a pair of Fives)
+elcutez: shows [7h 6d] (a pair of Sevens)
+elcutez collected $31.08 from pot
+*** SUMMARY ***
+Total pot $32.72 | Rake $1.64 
+Board [7d 4s Ah Th Jh]
+Seat 6: MauriFierro27
+Seat 1: radu10101 folded before Flop (didn't bet)
+Seat 2: elcutez (button) showed [7h 6d] and won ($31.08) with a pair of Sevens
+Seat 3: Emily_GetMan (small blind) folded before Flop
+Seat 4: HugoJugo775 (big blind) showed [5c 5d] and lost with a pair of Fives
+Seat 5: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224933206:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:40:10 WET [2025/01/06 3:40:10 ET]
+Table 'Phobos II' 6-max Seat #3 is the button
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($37.40 in chips) 
+Seat 2: elcutez ($84.44 in chips) 
+Seat 3: Emily_GetMan ($100 in chips) 
+Seat 5: steelNike ($30.52 in chips) 
+Seat 6: MauriFierro27 ($100 in chips) 
+steelNike: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+radu10101: calls $1
+elcutez: folds 
+Emily_GetMan: folds 
+steelNike: folds 
+MauriFierro27: raises $5 to $6
+radu10101: folds 
+Uncalled bet ($5) returned to MauriFierro27
+MauriFierro27 collected $2.50 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: HugoJugo775
+Seat 1: radu10101 folded before Flop
+Seat 2: elcutez folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: MauriFierro27 (big blind) collected ($2.50)
+
+
+
+PokerStars Hand #254224935148:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:40:34 WET [2025/01/06 3:40:34 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($36.40 in chips) 
+Seat 2: elcutez ($84.44 in chips) 
+Seat 3: Emily_GetMan ($100 in chips) 
+Seat 5: steelNike ($30.02 in chips) 
+Seat 6: MauriFierro27 ($101.50 in chips) 
+MauriFierro27: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+elcutez: folds 
+Emily_GetMan: folds 
+steelNike: raises $1.30 to $2.30
+MauriFierro27: raises $9.20 to $11.50
+radu10101: folds 
+steelNike: folds 
+Uncalled bet ($9.20) returned to MauriFierro27
+MauriFierro27 collected $5.60 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0 
+Seat 4: HugoJugo775
+Seat 1: radu10101 (big blind) folded before Flop
+Seat 2: elcutez folded before Flop (didn't bet)
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: steelNike (button) folded before Flop
+Seat 6: MauriFierro27 (small blind) collected ($5.60)
+
+
+
+PokerStars Hand #254224937383:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:41:01 WET [2025/01/06 3:41:01 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($35.40 in chips) 
+Seat 2: elcutez ($84.44 in chips) 
+Seat 3: Emily_GetMan ($100 in chips) 
+Seat 5: steelNike ($27.72 in chips) 
+Seat 6: MauriFierro27 ($104.80 in chips) 
+radu10101: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+steelNike: folds 
+MauriFierro27: raises $1.20 to $2.20
+radu10101: folds 
+elcutez: raises $4.90 to $7.10
+MauriFierro27: folds 
+Uncalled bet ($4.90) returned to elcutez
+elcutez collected $4.90 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0 
+Seat 4: HugoJugo775
+Seat 1: radu10101 (small blind) folded before Flop
+Seat 2: elcutez (big blind) collected ($4.90)
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (button) folded before Flop
+
+
+
+PokerStars Hand #254224939294:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:41:24 WET [2025/01/06 3:41:24 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 1: radu10101 ($34.90 in chips) 
+Seat 2: elcutez ($87.14 in chips) 
+Seat 3: Emily_GetMan ($100 in chips) 
+Seat 4: HugoJugo775 ($20.67 in chips) 
+Seat 5: steelNike ($27.72 in chips) 
+Seat 6: MauriFierro27 ($102.60 in chips) 
+elcutez: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+HugoJugo775: posts small blind $0.50
+*** HOLE CARDS ***
+HugoJugo775: folds 
+steelNike: folds 
+MauriFierro27: folds 
+radu10101: folds 
+elcutez: raises $2.50 to $3.50
+Emily_GetMan: folds 
+Uncalled bet ($2.50) returned to elcutez
+elcutez collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: radu10101 (button) folded before Flop (didn't bet)
+Seat 2: elcutez (small blind) collected ($2.50)
+Seat 3: Emily_GetMan (big blind) folded before Flop
+Seat 4: HugoJugo775 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224940864:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:41:43 WET [2025/01/06 3:41:43 ET]
+Table 'Phobos II' 6-max Seat #2 is the button
+Seat 1: radu10101 ($34.90 in chips) 
+Seat 2: elcutez ($88.64 in chips) 
+Seat 3: Emily_GetMan ($100 in chips) 
+Seat 4: HugoJugo775 ($20.17 in chips) 
+Seat 5: steelNike ($27.72 in chips) 
+Seat 6: MauriFierro27 ($102.60 in chips) 
+Emily_GetMan: posts small blind $0.50
+HugoJugo775: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+MauriFierro27: folds 
+radu10101: calls $1
+elcutez: raises $3.50 to $4.50
+Emily_GetMan: calls $4
+HugoJugo775: calls $3.50
+radu10101: calls $3.50
+*** FLOP *** [4c Js 2c]
+Emily_GetMan: checks 
+HugoJugo775: checks 
+radu10101: checks 
+elcutez: bets $17.10
+Emily_GetMan: folds 
+HugoJugo775: calls $15.67 and is all-in
+radu10101: folds 
+Uncalled bet ($1.43) returned to elcutez
+*** TURN *** [4c Js 2c] [Ad]
+*** RIVER *** [4c Js 2c Ad] [6c]
+*** SHOW DOWN ***
+HugoJugo775: shows [6s 6h] (three of a kind, Sixes)
+elcutez: shows [As Ac] (three of a kind, Aces)
+elcutez collected $46.87 from pot
+*** SUMMARY ***
+Total pot $49.34 | Rake $2.47 
+Board [4c Js 2c Ad 6c]
+Seat 1: radu10101 folded on the Flop
+Seat 2: elcutez (button) showed [As Ac] and won ($46.87) with three of a kind, Aces
+Seat 3: Emily_GetMan (small blind) folded on the Flop
+Seat 4: HugoJugo775 (big blind) showed [6s 6h] and lost with three of a kind, Sixes
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224944270:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:42:24 WET [2025/01/06 3:42:24 ET]
+Table 'Phobos II' 6-max Seat #3 is the button
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($30.40 in chips) 
+Seat 2: elcutez ($115.34 in chips) 
+Seat 3: Emily_GetMan ($100 in chips) 
+Seat 5: steelNike ($27.72 in chips) 
+Seat 6: MauriFierro27 ($102.60 in chips) 
+steelNike: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+radu10101: folds 
+elcutez: raises $2.50 to $3.50
+Emily_GetMan: raises $6 to $9.50
+steelNike: folds 
+MauriFierro27: folds 
+elcutez: calls $6
+*** FLOP *** [Ks 4h 8h]
+elcutez: checks 
+Emily_GetMan: bets $6.43
+elcutez: calls $6.43
+*** TURN *** [Ks 4h 8h] [4c]
+elcutez: checks 
+Emily_GetMan: bets $20.92
+elcutez: folds 
+Uncalled bet ($20.92) returned to Emily_GetMan
+Emily_GetMan collected $31.69 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $33.36 | Rake $1.67 
+Board [Ks 4h 8h 4c]
+Seat 4: HugoJugo775
+Seat 1: radu10101 folded before Flop (didn't bet)
+Seat 2: elcutez folded on the Turn
+Seat 3: Emily_GetMan (button) collected ($31.69)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: MauriFierro27 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254224947332:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:43:02 WET [2025/01/06 3:43:02 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($30.40 in chips) 
+Seat 2: elcutez ($99.41 in chips) 
+Seat 3: Emily_GetMan ($115.76 in chips) 
+Seat 5: steelNike ($27.22 in chips) 
+Seat 6: MauriFierro27 ($101.60 in chips) 
+MauriFierro27: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+elcutez: folds 
+Emily_GetMan: folds 
+steelNike: folds 
+MauriFierro27: raises $1.50 to $2.50
+radu10101: calls $1.50
+*** FLOP *** [7s Kh 8h]
+MauriFierro27: checks 
+radu10101: checks 
+*** TURN *** [7s Kh 8h] [Qs]
+MauriFierro27: checks 
+radu10101: checks 
+*** RIVER *** [7s Kh 8h Qs] [8d]
+MauriFierro27: checks 
+radu10101: checks 
+*** SHOW DOWN ***
+MauriFierro27: shows [2d 2s] (two pair, Eights and Deuces)
+radu10101: mucks hand 
+MauriFierro27 collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [7s Kh 8h Qs 8d]
+Seat 4: HugoJugo775
+Seat 1: radu10101 (big blind) mucked
+Seat 2: elcutez folded before Flop (didn't bet)
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (small blind) showed [2d 2s] and won ($4.75) with two pair, Eights and Deuces
+
+
+
+PokerStars Hand #254224950175:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:43:36 WET [2025/01/06 3:43:36 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 1: radu10101 ($27.90 in chips) 
+Seat 2: elcutez ($99.41 in chips) 
+Seat 3: Emily_GetMan ($115.76 in chips) 
+Seat 4: HugoJugo775 ($20.67 in chips) 
+Seat 5: steelNike ($27.22 in chips) 
+Seat 6: MauriFierro27 ($103.85 in chips) 
+radu10101: posts small blind $0.50
+elcutez: posts big blind $1
+HugoJugo775: posts small blind $0.50
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+HugoJugo775: folds 
+steelNike: folds 
+MauriFierro27: raises $1.50 to $2.50
+radu10101: folds 
+elcutez: folds 
+Uncalled bet ($1.50) returned to MauriFierro27
+MauriFierro27 collected $3 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: radu10101 (small blind) folded before Flop
+Seat 2: elcutez (big blind) folded before Flop
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 4: HugoJugo775 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (button) collected ($3)
+
+
+
+PokerStars Hand #254224951753:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:43:56 WET [2025/01/06 3:43:56 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 1: radu10101 ($27.40 in chips) 
+Seat 2: elcutez ($98.41 in chips) 
+Seat 3: Emily_GetMan ($115.76 in chips) 
+Seat 4: HugoJugo775 ($20.17 in chips) 
+Seat 5: steelNike ($27.22 in chips) 
+Seat 6: MauriFierro27 ($105.85 in chips) 
+elcutez: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+HugoJugo775: folds 
+steelNike: folds 
+MauriFierro27: folds 
+radu10101: calls $1
+elcutez: calls $0.50
+Emily_GetMan: checks 
+*** FLOP *** [4c 5d Jc]
+elcutez: checks 
+Emily_GetMan: bets $1
+radu10101: calls $1
+elcutez: folds 
+*** TURN *** [4c 5d Jc] [2h]
+Emily_GetMan: checks 
+radu10101: bets $2
+Emily_GetMan: calls $2
+*** RIVER *** [4c 5d Jc 2h] [Jh]
+Emily_GetMan: checks 
+radu10101: bets $4
+Emily_GetMan: calls $4
+*** SHOW DOWN ***
+radu10101: shows [Qs Ac] (a pair of Jacks)
+Emily_GetMan: shows [4h As] (two pair, Jacks and Fours)
+Emily_GetMan collected $16.15 from pot
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [4c 5d Jc 2h Jh]
+Seat 1: radu10101 (button) showed [Qs Ac] and lost with a pair of Jacks
+Seat 2: elcutez (small blind) folded on the Flop
+Seat 3: Emily_GetMan (big blind) showed [4h As] and won ($16.15) with two pair, Jacks and Fours
+Seat 4: HugoJugo775 folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224954445:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:44:29 WET [2025/01/06 3:44:29 ET]
+Table 'Phobos II' 6-max Seat #2 is the button
+Seat 1: radu10101 ($19.40 in chips) 
+Seat 2: elcutez ($97.41 in chips) 
+Seat 3: Emily_GetMan ($123.91 in chips) 
+Seat 4: HugoJugo775 ($20.17 in chips) 
+Seat 5: steelNike ($27.22 in chips) 
+Seat 6: MauriFierro27 ($105.85 in chips) 
+Emily_GetMan: posts small blind $0.50
+HugoJugo775: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+MauriFierro27: folds 
+radu10101: calls $1
+elcutez: calls $1
+Emily_GetMan: folds 
+HugoJugo775: checks 
+*** FLOP *** [5h Th 6h]
+HugoJugo775: bets $1
+radu10101: calls $1
+elcutez: folds 
+*** TURN *** [5h Th 6h] [Ac]
+HugoJugo775: checks 
+radu10101: bets $2
+HugoJugo775: calls $2
+*** RIVER *** [5h Th 6h Ac] [7h]
+HugoJugo775: checks 
+radu10101: checks 
+*** SHOW DOWN ***
+HugoJugo775: shows [Ts Jc] (a pair of Tens)
+radu10101: shows [9h Td] (a flush, Ten high)
+radu10101 collected $9.02 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [5h Th 6h Ac 7h]
+Seat 1: radu10101 showed [9h Td] and won ($9.02) with a flush, Ten high
+Seat 2: elcutez (button) folded on the Flop
+Seat 3: Emily_GetMan (small blind) folded before Flop
+Seat 4: HugoJugo775 (big blind) showed [Ts Jc] and lost with a pair of Tens
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224957495:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:45:06 WET [2025/01/06 3:45:06 ET]
+Table 'Phobos II' 6-max Seat #3 is the button
+Seat 1: radu10101 ($24.42 in chips) 
+Seat 2: elcutez ($96.41 in chips) 
+Seat 3: Emily_GetMan ($123.41 in chips) 
+Seat 4: HugoJugo775 ($16.17 in chips) 
+Seat 5: steelNike ($27.22 in chips) 
+Seat 6: MauriFierro27 ($105.85 in chips) 
+HugoJugo775: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+radu10101: folds 
+elcutez: folds 
+Emily_GetMan: raises $1.50 to $2.50
+HugoJugo775: folds 
+steelNike: folds 
+Uncalled bet ($1.50) returned to Emily_GetMan
+Emily_GetMan collected $2.50 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: radu10101 folded before Flop (didn't bet)
+Seat 2: elcutez folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (button) collected ($2.50)
+Seat 4: HugoJugo775 (small blind) folded before Flop
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224958703:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:45:20 WET [2025/01/06 3:45:20 ET]
+Table 'Phobos II' 6-max Seat #4 is the button
+Seat 1: radu10101 ($24.42 in chips) 
+Seat 2: elcutez ($96.41 in chips) 
+Seat 3: Emily_GetMan ($124.91 in chips) 
+Seat 4: HugoJugo775 ($15.67 in chips) 
+Seat 5: steelNike ($26.22 in chips) 
+Seat 6: MauriFierro27 ($105.85 in chips) 
+steelNike: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+radu10101: folds 
+elcutez: folds 
+Emily_GetMan: folds 
+HugoJugo775: folds 
+steelNike: raises $1 to $2
+MauriFierro27: calls $1
+*** FLOP *** [Td 2c As]
+steelNike: bets $1
+MauriFierro27: folds 
+Uncalled bet ($1) returned to steelNike
+steelNike collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Td 2c As]
+Seat 1: radu10101 folded before Flop (didn't bet)
+Seat 2: elcutez folded before Flop (didn't bet)
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 4: HugoJugo775 (button) folded before Flop (didn't bet)
+Seat 5: steelNike (small blind) collected ($3.80)
+Seat 6: MauriFierro27 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254224961882:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:45:58 WET [2025/01/06 3:45:58 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 1: radu10101 ($24.42 in chips) 
+Seat 2: elcutez ($96.41 in chips) 
+Seat 3: Emily_GetMan ($124.91 in chips) 
+Seat 4: HugoJugo775 ($15.67 in chips) 
+Seat 5: steelNike ($28.02 in chips) 
+Seat 6: MauriFierro27 ($103.85 in chips) 
+MauriFierro27: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+elcutez: folds 
+Emily_GetMan: folds 
+HugoJugo775: calls $1
+steelNike: folds 
+MauriFierro27: folds 
+radu10101: checks 
+*** FLOP *** [3s Qd 9d]
+radu10101: bets $1
+HugoJugo775: folds 
+Uncalled bet ($1) returned to radu10101
+radu10101 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [3s Qd 9d]
+Seat 1: radu10101 (big blind) collected ($2.38)
+Seat 2: elcutez folded before Flop (didn't bet)
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 4: HugoJugo775 folded on the Flop
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254224964151:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:46:27 WET [2025/01/06 3:46:27 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 2: elcutez ($96.41 in chips) is sitting out
+Seat 1: radu10101 ($25.80 in chips) 
+Seat 3: Emily_GetMan ($124.91 in chips) 
+Seat 4: HugoJugo775 ($14.67 in chips) 
+Seat 5: steelNike ($28.02 in chips) 
+Seat 6: MauriFierro27 ($103.35 in chips) 
+radu10101: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+HugoJugo775: calls $1
+steelNike: folds 
+MauriFierro27: raises $2.50 to $3.50
+radu10101: folds 
+Emily_GetMan: raises $11.50 to $15
+HugoJugo775: folds 
+MauriFierro27: folds 
+Uncalled bet ($11.50) returned to Emily_GetMan
+Emily_GetMan collected $8.50 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0 
+Seat 2: elcutez
+Seat 1: radu10101 (small blind) folded before Flop
+Seat 3: Emily_GetMan (big blind) collected ($8.50)
+Seat 4: HugoJugo775 folded before Flop
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (button) folded before Flop
+
+
+
+PokerStars Hand #254224965714:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:46:45 WET [2025/01/06 3:46:45 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 2: elcutez ($96.41 in chips) is sitting out
+Seat 1: radu10101 ($25.30 in chips) 
+Seat 3: Emily_GetMan ($129.91 in chips) 
+Seat 4: HugoJugo775 ($13.67 in chips) 
+Seat 5: steelNike ($28.02 in chips) 
+Seat 6: MauriFierro27 ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+HugoJugo775: posts big blind $1
+*** HOLE CARDS ***
+elcutez is disconnected 
+steelNike: folds 
+MauriFierro27: raises $1.20 to $2.20
+radu10101: folds 
+Emily_GetMan: folds 
+HugoJugo775: folds 
+Uncalled bet ($1.20) returned to MauriFierro27
+MauriFierro27 collected $2.50 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: elcutez
+Seat 1: radu10101 (button) folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (small blind) folded before Flop
+Seat 4: HugoJugo775 (big blind) folded before Flop
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: MauriFierro27 collected ($2.50)
+
+
+
+PokerStars Hand #254224966830:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:46:59 WET [2025/01/06 3:46:59 ET]
+Table 'Phobos II' 6-max Seat #3 is the button
+Seat 2: elcutez ($96.41 in chips) is sitting out
+Seat 1: radu10101 ($25.30 in chips) 
+Seat 3: Emily_GetMan ($129.41 in chips) 
+Seat 4: HugoJugo775 ($12.67 in chips) 
+Seat 5: steelNike ($28.02 in chips) 
+Seat 6: MauriFierro27 ($101.50 in chips) 
+HugoJugo775: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+radu10101: folds 
+Emily_GetMan: raises $1.50 to $2.50
+HugoJugo775: calls $2
+steelNike: folds 
+*** FLOP *** [7c As Ts]
+HugoJugo775: checks 
+Emily_GetMan: bets $3.76
+HugoJugo775: calls $3.76
+*** TURN *** [7c As Ts] [Jh]
+HugoJugo775: checks 
+Emily_GetMan: bets $8.47
+HugoJugo775: calls $6.41 and is all-in
+Uncalled bet ($2.06) returned to Emily_GetMan
+*** RIVER *** [7c As Ts Jh] [2s]
+*** SHOW DOWN ***
+HugoJugo775: shows [8s 8d] (a pair of Eights)
+Emily_GetMan: shows [Kc Ad] (a pair of Aces)
+Emily_GetMan collected $25.02 from pot
+*** SUMMARY ***
+Total pot $26.34 | Rake $1.32 
+Board [7c As Ts Jh 2s]
+Seat 2: elcutez
+Seat 1: radu10101 folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (button) showed [Kc Ad] and won ($25.02) with a pair of Aces
+Seat 4: HugoJugo775 (small blind) showed [8s 8d] and lost with a pair of Eights
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224969397:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:47:30 WET [2025/01/06 3:47:30 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 2: elcutez ($96.41 in chips) is sitting out
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($25.30 in chips) 
+Seat 3: Emily_GetMan ($141.76 in chips) 
+Seat 5: steelNike ($27.02 in chips) 
+Seat 6: MauriFierro27 ($101.50 in chips) 
+MauriFierro27: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+HugoJugo775 is disconnected 
+Emily_GetMan: folds 
+steelNike: raises $1 to $2
+MauriFierro27: folds 
+radu10101: calls $1
+*** FLOP *** [Kh 8c Th]
+radu10101: checks 
+steelNike: bets $3.21
+radu10101: folds 
+Uncalled bet ($3.21) returned to steelNike
+steelNike collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Kh 8c Th]
+Seat 2: elcutez
+Seat 4: HugoJugo775
+Seat 1: radu10101 (big blind) folded on the Flop
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: steelNike (button) collected ($4.28)
+Seat 6: MauriFierro27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254224972847:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:48:11 WET [2025/01/06 3:48:11 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 2: elcutez ($96.41 in chips) is sitting out
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($23.30 in chips) 
+Seat 3: Emily_GetMan ($141.76 in chips) 
+Seat 5: steelNike ($29.30 in chips) 
+Seat 6: MauriFierro27 ($101 in chips) 
+radu10101: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+MauriFierro27: folds 
+radu10101: calls $0.50
+Emily_GetMan: raises $2.50 to $3.50
+radu10101: folds 
+Uncalled bet ($2.50) returned to Emily_GetMan
+Emily_GetMan collected $2 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: elcutez
+Seat 4: HugoJugo775
+Seat 1: radu10101 (small blind) folded before Flop
+Seat 3: Emily_GetMan (big blind) collected ($2)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224974028:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:48:26 WET [2025/01/06 3:48:26 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 2: elcutez ($96.41 in chips) is sitting out
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 5: steelNike ($29.30 in chips) is sitting out
+Seat 1: radu10101 ($22.30 in chips) 
+Seat 3: Emily_GetMan ($142.76 in chips) 
+Seat 6: MauriFierro27 ($101 in chips) 
+Emily_GetMan: posts small blind $0.50
+steelNike: is sitting out 
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+radu10101: folds 
+Emily_GetMan: raises $2 to $3
+steelNike leaves the table
+b2k-Snick joins the table at seat #5 
+MauriFierro27: raises $6 to $9
+Emily_GetMan: folds 
+Uncalled bet ($6) returned to MauriFierro27
+MauriFierro27 collected $6 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: elcutez
+Seat 4: HugoJugo775
+Seat 5: steelNike
+Seat 1: radu10101 (button) folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (small blind) folded before Flop
+Seat 6: MauriFierro27 (big blind) collected ($6)
+
+
+
+PokerStars Hand #254224975765:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:48:47 WET [2025/01/06 3:48:47 ET]
+Table 'Phobos II' 6-max Seat #3 is the button
+Seat 2: elcutez ($96.41 in chips) is sitting out
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 5: b2k-Snick ($100 in chips) is sitting out
+Seat 1: radu10101 ($22.30 in chips) 
+Seat 3: Emily_GetMan ($139.76 in chips) 
+Seat 6: MauriFierro27 ($104 in chips) 
+MauriFierro27: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: raises $1.50 to $2.50
+MauriFierro27: folds 
+radu10101: calls $1.50
+*** FLOP *** [4c Ac 3h]
+radu10101: checks 
+Emily_GetMan: bets $1.72
+radu10101: folds 
+Uncalled bet ($1.72) returned to Emily_GetMan
+Emily_GetMan collected $5.22 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [4c Ac 3h]
+Seat 2: elcutez
+Seat 4: HugoJugo775
+Seat 5: b2k-Snick
+Seat 1: radu10101 (big blind) folded on the Flop
+Seat 3: Emily_GetMan (button) collected ($5.22)
+Seat 6: MauriFierro27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254224977944:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:49:13 WET [2025/01/06 3:49:13 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 2: elcutez ($96.41 in chips) is sitting out
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 5: b2k-Snick ($100 in chips) is sitting out
+Seat 1: radu10101 ($19.80 in chips) 
+Seat 3: Emily_GetMan ($142.48 in chips) 
+Seat 6: MauriFierro27 ($103.50 in chips) 
+radu10101: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+b2k-Snick: sits out 
+*** HOLE CARDS ***
+MauriFierro27: raises $1.20 to $2.20
+radu10101: folds 
+Emily_GetMan: raises $10.30 to $12.50
+MauriFierro27: folds 
+Uncalled bet ($10.30) returned to Emily_GetMan
+Emily_GetMan collected $4.90 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0 
+Seat 2: elcutez
+Seat 4: HugoJugo775
+Seat 5: b2k-Snick
+Seat 1: radu10101 (small blind) folded before Flop
+Seat 3: Emily_GetMan (big blind) collected ($4.90)
+Seat 6: MauriFierro27 (button) folded before Flop
+
+
+
+PokerStars Hand #254224979828:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:49:35 WET [2025/01/06 3:49:35 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 2: elcutez ($96.41 in chips) is sitting out
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($19.30 in chips) 
+Seat 3: Emily_GetMan ($145.18 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($101.30 in chips) 
+Emily_GetMan: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+radu10101: folds 
+Emily_GetMan: folds 
+Uncalled bet ($0.50) returned to b2k-Snick
+b2k-Snick collected $1 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: elcutez
+Seat 4: HugoJugo775
+Seat 1: radu10101 (button) folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (small blind) folded before Flop
+Seat 5: b2k-Snick (big blind) collected ($1)
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224980342:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:49:42 WET [2025/01/06 3:49:42 ET]
+Table 'Phobos II' 6-max Seat #3 is the button
+Seat 2: elcutez ($96.41 in chips) is sitting out
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($19.30 in chips) 
+Seat 3: Emily_GetMan ($144.68 in chips) 
+Seat 5: b2k-Snick ($100.50 in chips) 
+Seat 6: MauriFierro27 ($101.30 in chips) 
+b2k-Snick: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+radu10101: folds 
+Emily_GetMan: folds 
+b2k-Snick: folds 
+Uncalled bet ($0.50) returned to MauriFierro27
+MauriFierro27 collected $1 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: elcutez
+Seat 4: HugoJugo775
+Seat 1: radu10101 folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 5: b2k-Snick (small blind) folded before Flop
+Seat 6: MauriFierro27 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254224981528:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:49:56 WET [2025/01/06 3:49:56 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 2: elcutez ($96.41 in chips) is sitting out
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($19.30 in chips) 
+Seat 3: Emily_GetMan ($144.68 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($101.80 in chips) 
+MauriFierro27: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan has timed out
+Emily_GetMan: folds 
+b2k-Snick: folds 
+MauriFierro27: folds 
+Uncalled bet ($0.50) returned to radu10101
+radu10101 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: elcutez
+Seat 4: HugoJugo775
+Seat 1: radu10101 (big blind) collected ($1)
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254224982957:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:50:14 WET [2025/01/06 3:50:14 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 2: elcutez ($96.41 in chips) is sitting out
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($19.80 in chips) 
+Seat 3: Emily_GetMan ($144.68 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($101.30 in chips) 
+radu10101: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+MauriFierro27: raises $1.20 to $2.20
+radu10101: calls $1.70
+Emily_GetMan: folds 
+*** FLOP *** [As Js 3h]
+radu10101: checks 
+MauriFierro27: bets $1.69
+radu10101: folds 
+Uncalled bet ($1.69) returned to MauriFierro27
+MauriFierro27 collected $5.13 from pot
+elcutez leaves the table
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0.27 
+Board [As Js 3h]
+Seat 2: elcutez
+Seat 4: HugoJugo775
+Seat 1: radu10101 (small blind) folded on the Flop
+Seat 3: Emily_GetMan (big blind) folded before Flop
+Seat 5: b2k-Snick folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (button) collected ($5.13)
+
+
+
+PokerStars Hand #254224985789:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:50:48 WET [2025/01/06 3:50:48 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($17.60 in chips) 
+Seat 3: Emily_GetMan ($143.68 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($104.23 in chips) 
+Emily_GetMan: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+radu10101: folds 
+Emily_GetMan: folds 
+Uncalled bet ($0.50) returned to b2k-Snick
+b2k-Snick collected $1 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: HugoJugo775
+Seat 1: radu10101 (button) folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (small blind) folded before Flop
+Seat 5: b2k-Snick (big blind) collected ($1)
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224986518:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:50:56 WET [2025/01/06 3:50:56 ET]
+Table 'Phobos II' 6-max Seat #3 is the button
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($17.60 in chips) 
+Seat 3: Emily_GetMan ($143.18 in chips) 
+Seat 5: b2k-Snick ($100.50 in chips) 
+Seat 6: MauriFierro27 ($104.23 in chips) 
+b2k-Snick: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+radu10101: calls $1
+Emily_GetMan: folds 
+b2k-Snick: folds 
+MauriFierro27: raises $4.50 to $5.50
+radu10101: folds 
+Uncalled bet ($4.50) returned to MauriFierro27
+MauriFierro27 collected $2.50 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: HugoJugo775
+Seat 1: radu10101 folded before Flop
+Seat 3: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 5: b2k-Snick (small blind) folded before Flop
+Seat 6: MauriFierro27 (big blind) collected ($2.50)
+
+
+
+PokerStars Hand #254224989531:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:51:33 WET [2025/01/06 3:51:33 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($16.60 in chips) 
+Seat 3: Emily_GetMan ($143.18 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($105.73 in chips) 
+MauriFierro27: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+b2k-Snick: raises $1.50 to $2.50
+MauriFierro27: folds 
+radu10101: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2.50 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: HugoJugo775
+Seat 1: radu10101 (big blind) folded before Flop
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: b2k-Snick (button) collected ($2.50)
+Seat 6: MauriFierro27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254224990504:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:51:45 WET [2025/01/06 3:51:45 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($15.60 in chips) 
+Seat 3: Emily_GetMan ($143.18 in chips) 
+Seat 5: b2k-Snick ($101.50 in chips) 
+Seat 6: MauriFierro27 ($105.23 in chips) 
+radu10101: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+MauriFierro27: folds 
+radu10101: calls $0.50
+Emily_GetMan: checks 
+*** FLOP *** [Ac 3d Qd]
+radu10101: checks 
+Emily_GetMan: checks 
+*** TURN *** [Ac 3d Qd] [Ks]
+radu10101: checks 
+Emily_GetMan: checks 
+*** RIVER *** [Ac 3d Qd Ks] [Ad]
+radu10101: checks 
+Emily_GetMan: checks 
+*** SHOW DOWN ***
+radu10101: shows [8c 9h] (a pair of Aces)
+Emily_GetMan: mucks hand 
+rao999 joins the table at seat #2 
+radu10101 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Ac 3d Qd Ks Ad]
+Seat 4: HugoJugo775
+Seat 1: radu10101 (small blind) showed [8c 9h] and won ($1.90) with a pair of Aces
+Seat 3: Emily_GetMan (big blind) mucked
+Seat 5: b2k-Snick folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224993910:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:52:27 WET [2025/01/06 3:52:27 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 2: rao999 ($100 in chips) is sitting out
+Seat 4: HugoJugo775 ($0 in chips) is sitting out
+Seat 1: radu10101 ($16.50 in chips) 
+Seat 3: Emily_GetMan ($142.18 in chips) 
+Seat 5: b2k-Snick ($101.50 in chips) 
+Seat 6: MauriFierro27 ($105.23 in chips) 
+Emily_GetMan: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+radu10101: folds 
+Emily_GetMan: raises $2 to $3
+b2k-Snick: calls $2
+*** FLOP *** [4c Qs Th]
+Emily_GetMan: checks 
+b2k-Snick: checks 
+*** TURN *** [4c Qs Th] [6s]
+Emily_GetMan: bets $3.76
+b2k-Snick: folds 
+Uncalled bet ($3.76) returned to Emily_GetMan
+Emily_GetMan collected $5.70 from pot
+HugoJugo775 leaves the table
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4c Qs Th 6s]
+Seat 2: rao999
+Seat 4: HugoJugo775
+Seat 1: radu10101 (button) folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (small blind) collected ($5.70)
+Seat 5: b2k-Snick (big blind) folded on the Turn
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224996899:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:53:04 WET [2025/01/06 3:53:04 ET]
+Table 'Phobos II' 6-max Seat #3 is the button
+Seat 2: rao999 ($100 in chips) is sitting out
+Seat 1: radu10101 ($16.50 in chips) 
+Seat 3: Emily_GetMan ($144.88 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($105.23 in chips) 
+b2k-Snick: posts small blind $0.50
+MauriFierro27: posts big blind $1
+rao999: sits out 
+*** HOLE CARDS ***
+radu10101: folds 
+Emily_GetMan: folds 
+b2k-Snick: raises $2 to $3
+MauriFierro27: folds 
+Uncalled bet ($2) returned to b2k-Snick
+b2k-Snick collected $2 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: rao999
+Seat 1: radu10101 folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 5: b2k-Snick (small blind) collected ($2)
+Seat 6: MauriFierro27 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254224998730:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:53:26 WET [2025/01/06 3:53:26 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 2: rao999 ($100 in chips) is sitting out
+Seat 1: radu10101 ($16.50 in chips) 
+Seat 3: Emily_GetMan ($144.88 in chips) 
+Seat 5: b2k-Snick ($101 in chips) 
+Seat 6: MauriFierro27 ($104.23 in chips) 
+MauriFierro27: posts small blind $0.50
+radu10101: posts big blind $1
+rao999: sits out 
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+b2k-Snick: raises $1.50 to $2.50
+MauriFierro27: folds 
+radu10101: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2.50 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: rao999
+Seat 1: radu10101 (big blind) folded before Flop
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: b2k-Snick (button) collected ($2.50)
+Seat 6: MauriFierro27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254224999592:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:53:36 WET [2025/01/06 3:53:36 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 1: radu10101 ($15.50 in chips) 
+Seat 2: rao999 ($100 in chips) 
+Seat 3: Emily_GetMan ($144.88 in chips) 
+Seat 5: b2k-Snick ($102.50 in chips) 
+Seat 6: MauriFierro27 ($103.73 in chips) 
+radu10101: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+b2k-Snick: raises $1.50 to $2.50
+MauriFierro27: folds 
+radu10101: folds 
+rao999: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2.50 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: radu10101 (small blind) folded before Flop
+Seat 2: rao999 (big blind) folded before Flop
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: b2k-Snick collected ($2.50)
+Seat 6: MauriFierro27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225000593:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:53:48 WET [2025/01/06 3:53:48 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 1: radu10101 ($15 in chips) 
+Seat 2: rao999 ($100 in chips) 
+Seat 3: Emily_GetMan ($144.88 in chips) 
+Seat 5: b2k-Snick ($104 in chips) 
+Seat 6: MauriFierro27 ($103.73 in chips) 
+rao999: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.10 to $2.10
+MauriFierro27: folds 
+radu10101: calls $2.10
+rao999: folds 
+Emily_GetMan: calls $1.10
+*** FLOP *** [Kc 4s 8d]
+Emily_GetMan: checks 
+b2k-Snick: checks 
+radu10101: checks 
+*** TURN *** [Kc 4s 8d] [Ts]
+Emily_GetMan: checks 
+b2k-Snick: checks 
+radu10101: bets $3
+Emily_GetMan: folds 
+b2k-Snick: calls $3
+*** RIVER *** [Kc 4s 8d Ts] [Kh]
+b2k-Snick: checks 
+radu10101: checks 
+*** SHOW DOWN ***
+b2k-Snick: shows [Ac Qh] (a pair of Kings)
+radu10101: shows [8s 7s] (two pair, Kings and Eights)
+radu10101 collected $12.16 from pot
+*** SUMMARY ***
+Total pot $12.80 | Rake $0.64 
+Board [Kc 4s 8d Ts Kh]
+Seat 1: radu10101 (button) showed [8s 7s] and won ($12.16) with two pair, Kings and Eights
+Seat 2: rao999 (small blind) folded before Flop
+Seat 3: Emily_GetMan (big blind) folded on the Turn
+Seat 5: b2k-Snick showed [Ac Qh] and lost with a pair of Kings
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225004362:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:54:34 WET [2025/01/06 3:54:34 ET]
+Table 'Phobos II' 6-max Seat #2 is the button
+Seat 1: radu10101 ($22.06 in chips) 
+Seat 2: rao999 ($100 in chips) 
+Seat 3: Emily_GetMan ($142.78 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($103.73 in chips) 
+Emily_GetMan: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+radu10101: folds 
+rao999: raises $1.50 to $2.50
+Emily_GetMan: folds 
+b2k-Snick: calls $1.50
+*** FLOP *** [4s 3c Tc]
+b2k-Snick: checks 
+rao999: bets $1.72
+b2k-Snick: calls $1.72
+*** TURN *** [4s 3c Tc] [3s]
+b2k-Snick: bets $2.80
+rao999: calls $2.80
+*** RIVER *** [4s 3c Tc 3s] [Kh]
+b2k-Snick: checks 
+rao999: bets $9.11
+b2k-Snick: folds 
+Uncalled bet ($9.11) returned to rao999
+rao999 collected $13.81 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.54 | Rake $0.73 
+Board [4s 3c Tc 3s Kh]
+Seat 1: radu10101 folded before Flop (didn't bet)
+Seat 2: rao999 (button) collected ($13.81)
+Seat 3: Emily_GetMan (small blind) folded before Flop
+Seat 5: b2k-Snick (big blind) folded on the River
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225009728:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:55:42 WET [2025/01/06 3:55:42 ET]
+Table 'Phobos II' 6-max Seat #3 is the button
+Seat 1: radu10101 ($22.06 in chips) 
+Seat 2: rao999 ($106.79 in chips) 
+Seat 3: Emily_GetMan ($142.28 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($103.73 in chips) 
+b2k-Snick: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+radu10101: calls $1
+rao999: folds 
+Emily_GetMan: raises $3 to $4
+b2k-Snick: folds 
+MauriFierro27: folds 
+radu10101: calls $3
+*** FLOP *** [9s 7h Qd]
+radu10101: checks 
+Emily_GetMan: checks 
+*** TURN *** [9s 7h Qd] [Kd]
+radu10101: bets $3
+Emily_GetMan: calls $3
+*** RIVER *** [9s 7h Qd Kd] [6h]
+radu10101: bets $5
+Emily_GetMan: raises $16.32 to $21.32
+radu10101: folds 
+Uncalled bet ($16.32) returned to Emily_GetMan
+Emily_GetMan collected $24.22 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $25.50 | Rake $1.28 
+Board [9s 7h Qd Kd 6h]
+Seat 1: radu10101 folded on the River
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (button) collected ($24.22)
+Seat 5: b2k-Snick (small blind) folded before Flop
+Seat 6: MauriFierro27 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225012410:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:56:17 WET [2025/01/06 3:56:17 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 1: radu10101 ($10.06 in chips) 
+Seat 2: rao999 ($106.79 in chips) 
+Seat 3: Emily_GetMan ($154.50 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($102.73 in chips) 
+MauriFierro27: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+Emily_GetMan: folds 
+b2k-Snick: folds 
+MauriFierro27: folds 
+Uncalled bet ($0.50) returned to radu10101
+radu10101 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: radu10101 (big blind) collected ($1)
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225013129:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:56:27 WET [2025/01/06 3:56:27 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 1: radu10101 ($10.56 in chips) 
+Seat 2: rao999 ($106.79 in chips) 
+Seat 3: Emily_GetMan ($154.50 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($102.23 in chips) 
+radu10101: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+b2k-Snick: folds 
+MauriFierro27: raises $1.20 to $2.20
+radu10101: folds 
+rao999: folds 
+Uncalled bet ($1.20) returned to MauriFierro27
+MauriFierro27 collected $2.50 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: radu10101 (small blind) folded before Flop
+Seat 2: rao999 (big blind) folded before Flop
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: b2k-Snick folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254225013860:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:56:37 WET [2025/01/06 3:56:37 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 1: radu10101 ($10.06 in chips) 
+Seat 2: rao999 ($105.79 in chips) 
+Seat 3: Emily_GetMan ($154.50 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($103.73 in chips) 
+rao999: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+MauriFierro27: folds 
+radu10101: folds 
+rao999: raises $2 to $3
+Emily_GetMan: folds 
+Uncalled bet ($2) returned to rao999
+rao999 collected $2 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: radu10101 (button) folded before Flop (didn't bet)
+Seat 2: rao999 (small blind) collected ($2)
+Seat 3: Emily_GetMan (big blind) folded before Flop
+Seat 5: b2k-Snick folded before Flop (didn't bet)
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225015238:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:56:55 WET [2025/01/06 3:56:55 ET]
+Table 'Phobos II' 6-max Seat #2 is the button
+Seat 1: radu10101 ($10.06 in chips) 
+Seat 2: rao999 ($106.79 in chips) 
+Seat 3: Emily_GetMan ($153.50 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($103.73 in chips) 
+Emily_GetMan: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: raises $1.20 to $2.20
+radu10101: folds 
+rao999: folds 
+Emily_GetMan: folds 
+b2k-Snick: folds 
+Uncalled bet ($1.20) returned to MauriFierro27
+MauriFierro27 collected $2.50 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: radu10101 folded before Flop (didn't bet)
+Seat 2: rao999 (button) folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (small blind) folded before Flop
+Seat 5: b2k-Snick (big blind) folded before Flop
+Seat 6: MauriFierro27 collected ($2.50)
+
+
+
+PokerStars Hand #254225016528:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:57:12 WET [2025/01/06 3:57:12 ET]
+Table 'Phobos II' 6-max Seat #3 is the button
+Seat 1: radu10101 ($10.06 in chips) 
+Seat 2: rao999 ($106.79 in chips) 
+Seat 3: Emily_GetMan ($153 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($105.23 in chips) 
+b2k-Snick: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+radu10101: folds 
+rao999: raises $1.50 to $2.50
+Emily_GetMan: raises $5 to $7.50
+b2k-Snick: folds 
+MauriFierro27: folds 
+rao999: raises $13.50 to $21
+Emily_GetMan: folds 
+Uncalled bet ($13.50) returned to rao999
+rao999 collected $16.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0 
+Seat 1: radu10101 folded before Flop (didn't bet)
+Seat 2: rao999 collected ($16.50)
+Seat 3: Emily_GetMan (button) folded before Flop
+Seat 5: b2k-Snick (small blind) folded before Flop
+Seat 6: MauriFierro27 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225019121:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:57:47 WET [2025/01/06 3:57:47 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 1: radu10101 ($10.06 in chips) 
+Seat 2: rao999 ($115.79 in chips) 
+Seat 3: Emily_GetMan ($145.50 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($104.23 in chips) 
+MauriFierro27: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+Emily_GetMan: raises $1 to $2
+b2k-Snick: folds 
+MauriFierro27: folds 
+radu10101: calls $1
+*** FLOP *** [4d 6s Th]
+radu10101: bets $2
+Emily_GetMan: folds 
+Uncalled bet ($2) returned to radu10101
+radu10101 collected $4.28 from pot
+4ikkiBamBoni joins the table at seat #4 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [4d 6s Th]
+Seat 1: radu10101 (big blind) collected ($4.28)
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: Emily_GetMan folded on the Flop
+Seat 5: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225021333:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:58:15 WET [2025/01/06 3:58:15 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 4: 4ikkiBamBoni ($95 in chips) is sitting out
+Seat 1: radu10101 ($12.34 in chips) 
+Seat 2: rao999 ($115.79 in chips) 
+Seat 3: Emily_GetMan ($143.50 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($103.73 in chips) 
+radu10101: posts small blind $0.50
+rao999: posts big blind $1
+4ikkiBamBoni: sits out 
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+b2k-Snick: folds 
+MauriFierro27: folds 
+radu10101: folds 
+Uncalled bet ($0.50) returned to rao999
+rao999 collected $1 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: 4ikkiBamBoni
+Seat 1: radu10101 (small blind) folded before Flop
+Seat 2: rao999 (big blind) collected ($1)
+Seat 3: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: b2k-Snick folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225022055:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:58:25 WET [2025/01/06 3:58:25 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 4: 4ikkiBamBoni ($100 in chips) is sitting out
+Seat 1: radu10101 ($11.84 in chips) 
+Seat 2: rao999 ($116.29 in chips) 
+Seat 3: Emily_GetMan ($143.50 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($103.73 in chips) 
+rao999: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+4ikkiBamBoni: sits out 
+*** HOLE CARDS ***
+b2k-Snick: folds 
+MauriFierro27: folds 
+radu10101: folds 
+rao999: raises $2 to $3
+Emily_GetMan: folds 
+Uncalled bet ($2) returned to rao999
+rao999 collected $2 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: 4ikkiBamBoni
+Seat 1: radu10101 (button) folded before Flop (didn't bet)
+Seat 2: rao999 (small blind) collected ($2)
+Seat 3: Emily_GetMan (big blind) folded before Flop
+Seat 5: b2k-Snick folded before Flop (didn't bet)
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225023043:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:58:38 WET [2025/01/06 3:58:38 ET]
+Table 'Phobos II' 6-max Seat #2 is the button
+Seat 1: radu10101 ($11.84 in chips) 
+Seat 2: rao999 ($117.29 in chips) 
+Seat 3: Emily_GetMan ($142.50 in chips) 
+Seat 4: 4ikkiBamBoni ($100 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($103.73 in chips) 
+Emily_GetMan: posts small blind $0.50
+4ikkiBamBoni: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+MauriFierro27: raises $1.20 to $2.20
+radu10101: folds 
+rao999: folds 
+Emily_GetMan: folds 
+4ikkiBamBoni: folds 
+Uncalled bet ($1.20) returned to MauriFierro27
+MauriFierro27 collected $2.50 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: radu10101 folded before Flop (didn't bet)
+Seat 2: rao999 (button) folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (small blind) folded before Flop
+Seat 4: 4ikkiBamBoni (big blind) folded before Flop
+Seat 5: b2k-Snick folded before Flop (didn't bet)
+Seat 6: MauriFierro27 collected ($2.50)
+
+
+
+PokerStars Hand #254225024015:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:58:51 WET [2025/01/06 3:58:51 ET]
+Table 'Phobos II' 6-max Seat #3 is the button
+Seat 1: radu10101 ($11.84 in chips) 
+Seat 2: rao999 ($117.29 in chips) 
+Seat 3: Emily_GetMan ($142 in chips) 
+Seat 4: 4ikkiBamBoni ($100 in chips) 
+Seat 5: b2k-Snick ($100 in chips) 
+Seat 6: MauriFierro27 ($105.23 in chips) 
+4ikkiBamBoni: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+radu10101: calls $1
+rao999: folds 
+Emily_GetMan: folds 
+4ikkiBamBoni: folds 
+b2k-Snick: checks 
+*** FLOP *** [7c 5s 2s]
+b2k-Snick: checks 
+radu10101: bets $2
+b2k-Snick: calls $2
+*** TURN *** [7c 5s 2s] [3h]
+b2k-Snick: bets $4.50
+radu10101: raises $4.34 to $8.84 and is all-in
+b2k-Snick: calls $4.34
+*** RIVER *** [7c 5s 2s 3h] [5h]
+*** SHOW DOWN ***
+b2k-Snick: shows [5d 8h] (three of a kind, Fives)
+radu10101: shows [Kh Ks] (two pair, Kings and Fives)
+b2k-Snick collected $22.97 from pot
+*** SUMMARY ***
+Total pot $24.18 | Rake $1.21 
+Board [7c 5s 2s 3h 5h]
+Seat 1: radu10101 showed [Kh Ks] and lost with two pair, Kings and Fives
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 4: 4ikkiBamBoni (small blind) folded before Flop
+Seat 5: b2k-Snick (big blind) showed [5d 8h] and won ($22.97) with three of a kind, Fives
+Seat 6: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225028001:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 8:59:43 WET [2025/01/06 3:59:43 ET]
+Table 'Phobos II' 6-max Seat #4 is the button
+Seat 1: radu10101 ($0 in chips) is sitting out
+Seat 2: rao999 ($117.29 in chips) 
+Seat 3: Emily_GetMan ($142 in chips) 
+Seat 4: 4ikkiBamBoni ($100 in chips) 
+Seat 5: b2k-Snick ($111.13 in chips) 
+Seat 6: MauriFierro27 ($105.23 in chips) 
+b2k-Snick: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+Emily_GetMan: raises $1 to $2
+4ikkiBamBoni: folds 
+radu10101 leaves the table
+b2k-Snick: raises $8 to $10
+MauriFierro27: folds 
+Emily_GetMan: folds 
+Uncalled bet ($8) returned to b2k-Snick
+b2k-Snick collected $5 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: radu10101
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: Emily_GetMan folded before Flop
+Seat 4: 4ikkiBamBoni (button) folded before Flop (didn't bet)
+Seat 5: b2k-Snick (small blind) collected ($5)
+Seat 6: MauriFierro27 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225030809:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:00:19 WET [2025/01/06 4:00:19 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 2: rao999 ($117.29 in chips) is sitting out
+Seat 3: Emily_GetMan ($140 in chips) 
+Seat 4: 4ikkiBamBoni ($100 in chips) 
+Seat 5: b2k-Snick ($114.13 in chips) 
+Seat 6: MauriFierro27 ($104.23 in chips) 
+MauriFierro27: posts small blind $0.50
+rao999: is sitting out 
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+4ikkiBamBoni: raises $1.45 to $2.45
+b2k-Snick: folds 
+MauriFierro27: raises $9.05 to $11.50
+Emily_GetMan: folds 
+4ikkiBamBoni: calls $9.05
+*** FLOP *** [Ks 5h Jc]
+MauriFierro27: bets $7.59
+4ikkiBamBoni: folds 
+Uncalled bet ($7.59) returned to MauriFierro27
+MauriFierro27 collected $23 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1 
+Board [Ks 5h Jc]
+Seat 2: rao999
+Seat 3: Emily_GetMan (big blind) folded before Flop
+Seat 4: 4ikkiBamBoni folded on the Flop
+Seat 5: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 6: MauriFierro27 (small blind) collected ($23)
+
+
+
+PokerStars Hand #254225033845:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:00:56 WET [2025/01/06 4:00:56 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 2: rao999 ($117.29 in chips) is sitting out
+Seat 3: Emily_GetMan ($139 in chips) 
+Seat 4: 4ikkiBamBoni ($100 in chips) 
+Seat 5: b2k-Snick ($114.13 in chips) 
+Seat 6: MauriFierro27 ($115.73 in chips) 
+Emily_GetMan: posts small blind $0.50
+4ikkiBamBoni: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+MauriFierro27: folds 
+Emily_GetMan: folds 
+4ikkiBamBoni: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2.50 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: rao999
+Seat 3: Emily_GetMan (small blind) folded before Flop
+Seat 4: 4ikkiBamBoni (big blind) folded before Flop
+Seat 5: b2k-Snick collected ($2.50)
+Seat 6: MauriFierro27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225081994:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:10:09 WET [2025/01/06 4:10:09 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 1: MaRKiToScoK ($100 in chips) 
+Seat 5: Tommy3131990 ($10 in chips) 
+Seat 6: Poker9803 ($100 in chips) 
+Tommy3131990: posts small blind $0.50
+Poker9803: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+Tommy3131990: folds 
+Uncalled bet ($0.50) returned to Poker9803
+Poker9803 collected $1 from pot
+Poker9803: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: MaRKiToScoK (button) folded before Flop (didn't bet)
+Seat 5: Tommy3131990 (small blind) folded before Flop
+Seat 6: Poker9803 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254225083057:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:10:20 WET [2025/01/06 4:10:20 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 1: MaRKiToScoK ($100 in chips) 
+Seat 5: Tommy3131990 ($9.50 in chips) 
+Seat 6: Poker9803 ($100.50 in chips) 
+Poker9803: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+Tommy3131990: folds 
+Poker9803: raises $2.50 to $3.50
+MaRKiToScoK: raises $7 to $10.50
+Poker9803: raises $12.60 to $23.10
+MaRKiToScoK: folds 
+Uncalled bet ($12.60) returned to Poker9803
+Poker9803 collected $21 from pot
+Poker9803: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $0 
+Seat 1: MaRKiToScoK (big blind) folded before Flop
+Seat 5: Tommy3131990 (button) folded before Flop (didn't bet)
+Seat 6: Poker9803 (small blind) collected ($21)
+
+
+
+PokerStars Hand #254225086106:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:10:54 WET [2025/01/06 4:10:54 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 1: MaRKiToScoK ($100 in chips) 
+Seat 5: Tommy3131990 ($9.50 in chips) 
+Seat 6: Poker9803 ($111 in chips) 
+MaRKiToScoK: posts small blind $0.50
+Tommy3131990: posts big blind $1
+*** HOLE CARDS ***
+Poker9803: folds 
+MaRKiToScoK: raises $12.50 to $13.50
+Tommy3131990: folds 
+Uncalled bet ($12.50) returned to MaRKiToScoK
+MaRKiToScoK collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: MaRKiToScoK (small blind) collected ($2)
+Seat 5: Tommy3131990 (big blind) folded before Flop
+Seat 6: Poker9803 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225087233:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:11:07 WET [2025/01/06 4:11:07 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 1: MaRKiToScoK ($101 in chips) 
+Seat 5: Tommy3131990 ($8.50 in chips) 
+Seat 6: Poker9803 ($111 in chips) 
+Tommy3131990: posts small blind $0.50
+Poker9803: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+Tommy3131990: raises $1 to $2
+Poker9803: folds 
+Uncalled bet ($1) returned to Tommy3131990
+Tommy3131990 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: MaRKiToScoK (button) folded before Flop (didn't bet)
+Seat 5: Tommy3131990 (small blind) collected ($2)
+Seat 6: Poker9803 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225088192:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:11:18 WET [2025/01/06 4:11:18 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 1: MaRKiToScoK ($101 in chips) 
+Seat 5: Tommy3131990 ($9.50 in chips) 
+Seat 6: Poker9803 ($110 in chips) 
+Poker9803: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+Tommy3131990: calls $1
+Poker9803: folds 
+MaRKiToScoK: checks 
+*** FLOP *** [7c 6c 5c]
+MaRKiToScoK: checks 
+Tommy3131990: bets $1
+MaRKiToScoK: folds 
+Uncalled bet ($1) returned to Tommy3131990
+Tommy3131990 collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [7c 6c 5c]
+Seat 1: MaRKiToScoK (big blind) folded on the Flop
+Seat 5: Tommy3131990 (button) collected ($2.35)
+Seat 6: Poker9803 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225090758:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:11:46 WET [2025/01/06 4:11:46 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 1: MaRKiToScoK ($100 in chips) 
+Seat 5: Tommy3131990 ($10.85 in chips) 
+Seat 6: Poker9803 ($109.50 in chips) 
+MaRKiToScoK: posts small blind $0.50
+Tommy3131990: posts big blind $1
+*** HOLE CARDS ***
+Poker9803: folds 
+MaRKiToScoK: raises $12.50 to $13.50
+Tommy3131990: folds 
+Uncalled bet ($12.50) returned to MaRKiToScoK
+MaRKiToScoK collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: MaRKiToScoK (small blind) collected ($2)
+Seat 5: Tommy3131990 (big blind) folded before Flop
+Seat 6: Poker9803 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225091809:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:11:58 WET [2025/01/06 4:11:58 ET]
+Table 'Phobos II' 6-max Seat #1 is the button
+Seat 1: MaRKiToScoK ($101 in chips) 
+Seat 5: Tommy3131990 ($9.85 in chips) 
+Seat 6: Poker9803 ($109.50 in chips) 
+Tommy3131990: posts small blind $0.50
+Poker9803: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+MaRKiToScoK leaves the table
+Tommy3131990: raises $1 to $2
+Poker9803: folds 
+Uncalled bet ($1) returned to Tommy3131990
+Emily_GetMan joins the table at seat #4 
+Tommy3131990 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: MaRKiToScoK (button) folded before Flop (didn't bet)
+Seat 5: Tommy3131990 (small blind) collected ($2)
+Seat 6: Poker9803 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225092815:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:12:09 WET [2025/01/06 4:12:09 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 4: Emily_GetMan ($138.50 in chips) 
+Seat 5: Tommy3131990 ($10.85 in chips) 
+Seat 6: Poker9803 ($108.50 in chips) 
+Poker9803: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+Tommy3131990: calls $1
+Poker9803: folds 
+Emily_GetMan: checks 
+*** FLOP *** [Ah Qh 7s]
+Emily_GetMan: checks 
+Tommy3131990: checks 
+*** TURN *** [Ah Qh 7s] [3s]
+Emily_GetMan: bets $2
+Tommy3131990: calls $2
+*** RIVER *** [Ah Qh 7s 3s] [Qd]
+Emily_GetMan: checks 
+Tommy3131990: bets $7.85 and is all-in
+Emily_GetMan: folds 
+Uncalled bet ($7.85) returned to Tommy3131990
+Tommy3131990 collected $6.10 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.40 
+Board [Ah Qh 7s 3s Qd]
+Seat 4: Emily_GetMan (big blind) folded on the River
+Seat 5: Tommy3131990 (button) collected ($6.10)
+Seat 6: Poker9803 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225095440:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:12:37 WET [2025/01/06 4:12:37 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 4: Emily_GetMan ($135.50 in chips) 
+Seat 5: Tommy3131990 ($13.95 in chips) 
+Seat 6: Poker9803 ($108 in chips) 
+Emily_GetMan: posts small blind $0.50
+Tommy3131990: posts big blind $1
+*** HOLE CARDS ***
+Poker9803: folds 
+Emily_GetMan: folds 
+Uncalled bet ($0.50) returned to Tommy3131990
+Tommy3131990 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: Emily_GetMan (small blind) folded before Flop
+Seat 5: Tommy3131990 (big blind) collected ($1)
+Seat 6: Poker9803 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225095963:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:12:43 WET [2025/01/06 4:12:43 ET]
+Table 'Phobos II' 6-max Seat #4 is the button
+Seat 4: Emily_GetMan ($135 in chips) 
+Seat 5: Tommy3131990 ($14.45 in chips) 
+Seat 6: Poker9803 ($108 in chips) 
+Tommy3131990: posts small blind $0.50
+Poker9803: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+Tommy3131990: calls $0.50
+Poker9803: checks 
+*** FLOP *** [5c 2d 3d]
+Tommy3131990: checks 
+Poker9803: bets $1
+Tommy3131990: folds 
+Uncalled bet ($1) returned to Poker9803
+Poker9803 collected $1.90 from pot
+Poker9803: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [5c 2d 3d]
+Seat 4: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 5: Tommy3131990 (small blind) folded on the Flop
+Seat 6: Poker9803 (big blind) collected ($1.90)
+
+
+
+PokerStars Hand #254225097218:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:12:57 WET [2025/01/06 4:12:57 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 4: Emily_GetMan ($135 in chips) 
+Seat 5: Tommy3131990 ($13.45 in chips) 
+Seat 6: Poker9803 ($108.90 in chips) 
+Poker9803: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+Tommy3131990: folds 
+Poker9803: folds 
+Uncalled bet ($0.50) returned to Emily_GetMan
+Emily_GetMan collected $1 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: Emily_GetMan (big blind) collected ($1)
+Seat 5: Tommy3131990 (button) folded before Flop (didn't bet)
+Seat 6: Poker9803 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225097786:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:13:03 WET [2025/01/06 4:13:03 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 4: Emily_GetMan ($135.50 in chips) 
+Seat 5: Tommy3131990 ($13.45 in chips) 
+Seat 6: Poker9803 ($108.40 in chips) 
+Emily_GetMan: posts small blind $0.50
+Tommy3131990: posts big blind $1
+*** HOLE CARDS ***
+Poker9803: folds 
+Emily_GetMan: raises $2 to $3
+Tommy3131990: folds 
+Uncalled bet ($2) returned to Emily_GetMan
+Emily_GetMan collected $2 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: Emily_GetMan (small blind) collected ($2)
+Seat 5: Tommy3131990 (big blind) folded before Flop
+Seat 6: Poker9803 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225098578:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:13:12 WET [2025/01/06 4:13:12 ET]
+Table 'Phobos II' 6-max Seat #4 is the button
+Seat 4: Emily_GetMan ($136.50 in chips) 
+Seat 5: Tommy3131990 ($12.45 in chips) 
+Seat 6: Poker9803 ($108.40 in chips) 
+Tommy3131990: posts small blind $0.50
+Poker9803: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+Tommy3131990: folds 
+Uncalled bet ($0.50) returned to Poker9803
+Poker9803 collected $1 from pot
+Poker9803: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 5: Tommy3131990 (small blind) folded before Flop
+Seat 6: Poker9803 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254225099181:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:13:19 WET [2025/01/06 4:13:19 ET]
+Table 'Phobos II' 6-max Seat #5 is the button
+Seat 4: Emily_GetMan ($136.50 in chips) 
+Seat 5: Tommy3131990 ($11.95 in chips) 
+Seat 6: Poker9803 ($108.90 in chips) 
+Poker9803: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+Tommy3131990: folds 
+Poker9803: raises $2.50 to $3.50
+Emily_GetMan: folds 
+Uncalled bet ($2.50) returned to Poker9803
+Poker9803 collected $2 from pot
+Poker9803: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: Emily_GetMan (big blind) folded before Flop
+Seat 5: Tommy3131990 (button) folded before Flop (didn't bet)
+Seat 6: Poker9803 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254225100418:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:13:32 WET [2025/01/06 4:13:32 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 4: Emily_GetMan ($135.50 in chips) 
+Seat 5: Tommy3131990 ($11.95 in chips) 
+Seat 6: Poker9803 ($109.90 in chips) 
+Emily_GetMan: posts small blind $0.50
+Tommy3131990: posts big blind $1
+*** HOLE CARDS ***
+Poker9803: folds 
+Emily_GetMan: raises $2 to $3
+Tommy3131990: raises $8.95 to $11.95 and is all-in
+Emily_GetMan: calls $8.95
+*** FLOP *** [Jc 6s Qs]
+*** TURN *** [Jc 6s Qs] [Ks]
+*** RIVER *** [Jc 6s Qs Ks] [Tc]
+*** SHOW DOWN ***
+Emily_GetMan: shows [As 8s] (a flush, Ace high)
+Tommy3131990: shows [9h 6h] (a straight, Nine to King)
+Emily_GetMan collected $22.90 from pot
+*** SUMMARY ***
+Total pot $23.90 | Rake $1 
+Board [Jc 6s Qs Ks Tc]
+Seat 4: Emily_GetMan (small blind) showed [As 8s] and won ($22.90) with a flush, Ace high
+Seat 5: Tommy3131990 (big blind) showed [9h 6h] and lost with a straight, Nine to King
+Seat 6: Poker9803 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225102738:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:13:58 WET [2025/01/06 4:13:58 ET]
+Table 'Phobos II' 6-max Seat #4 is the button
+Seat 5: Tommy3131990 ($0 in chips) is sitting out
+Seat 4: Emily_GetMan ($146.45 in chips) 
+Seat 6: Poker9803 ($109.90 in chips) 
+Emily_GetMan: posts small blind $0.50
+Poker9803: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+Uncalled bet ($0.50) returned to Poker9803
+Poker9803 collected $1 from pot
+Poker9803: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: Tommy3131990
+Seat 4: Emily_GetMan (button) (small blind) folded before Flop
+Seat 6: Poker9803 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254225103188:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:14:02 WET [2025/01/06 4:14:02 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 5: Tommy3131990 ($0 in chips) is sitting out
+Seat 4: Emily_GetMan ($145.95 in chips) 
+Seat 6: Poker9803 ($110.40 in chips) 
+Poker9803: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+Tommy3131990 leaves the table
+Poker9803: raises $2.50 to $3.50
+Emily_GetMan: raises $6.50 to $10
+Poker9803: calls $6.50
+*** FLOP *** [Qc Kd 8c]
+Emily_GetMan: checks 
+Poker9803: bets $6.27
+Emily_GetMan: calls $6.27
+*** TURN *** [Qc Kd 8c] [3c]
+MaRKiToScoK joins the table at seat #1 
+nastja336 joins the table at seat #2 
+Emily_GetMan: checks 
+Poker9803: checks 
+*** RIVER *** [Qc Kd 8c 3c] [4h]
+MaRKiToScoK leaves the table
+Emily_GetMan: bets $15.50
+Poker9803: calls $15.50
+*** SHOW DOWN ***
+Emily_GetMan: shows [Jh Kh] (a pair of Kings)
+Poker9803: shows [8d 8s] (three of a kind, Eights)
+Poker9803 collected $62.54 from pot
+*** SUMMARY ***
+Total pot $63.54 | Rake $1 
+Board [Qc Kd 8c 3c 4h]
+Seat 5: Tommy3131990
+Seat 4: Emily_GetMan (big blind) showed [Jh Kh] and lost with a pair of Kings
+Seat 6: Poker9803 (button) (small blind) showed [8d 8s] and won ($62.54) with three of a kind, Eights
+
+
+
+PokerStars Hand #254225109967:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:15:17 WET [2025/01/06 4:15:17 ET]
+Table 'Phobos II' 6-max Seat #4 is the button
+Seat 2: nastja336 ($100 in chips) 
+Seat 4: Emily_GetMan ($114.18 in chips) 
+Seat 6: Poker9803 ($141.17 in chips) 
+Poker9803: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: raises $1.50 to $2.50
+Poker9803: folds 
+nastja336: folds 
+Uncalled bet ($1.50) returned to Emily_GetMan
+Emily_GetMan collected $2.50 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: nastja336 (big blind) folded before Flop
+Seat 4: Emily_GetMan (button) collected ($2.50)
+Seat 6: Poker9803 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225110833:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:15:26 WET [2025/01/06 4:15:26 ET]
+Table 'Phobos II' 6-max Seat #6 is the button
+Seat 2: nastja336 ($100 in chips) 
+Seat 4: Emily_GetMan ($115.68 in chips) 
+Seat 6: Poker9803 ($140.67 in chips) 
+nastja336: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+Poker9803: folds 
+nastja336: folds 
+Uncalled bet ($0.50) returned to Emily_GetMan
+Emily_GetMan collected $1 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: nastja336 (small blind) folded before Flop
+Seat 4: Emily_GetMan (big blind) collected ($1)
+Seat 6: Poker9803 (button) folded before Flop (didn't bet)
+
+
+

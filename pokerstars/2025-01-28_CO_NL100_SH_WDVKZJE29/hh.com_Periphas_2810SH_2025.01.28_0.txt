@@ -1,0 +1,1564 @@
+﻿PokerStars Hand #254593250965:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:38:59 WET [2025/01/28 13:38:59 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 1: laloo246 ($206.18 in chips) 
+Seat 2: lymo1951 ($63.37 in chips) 
+Seat 3: rao999 ($112.48 in chips) 
+Seat 4: worker0k ($113.78 in chips) 
+Seat 5: poker_soul11 ($102.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+iTrustU21: posts small blind $0.50
+laloo246: posts big blind $1
+*** HOLE CARDS ***
+lymo1951: raises $2.50 to $3.50
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: raises $25.50 to $29
+laloo246: folds 
+lymo1951: calls $25.50
+*** FLOP *** [Ah 4h Qs]
+iTrustU21: checks 
+lymo1951: checks 
+*** TURN *** [Ah 4h Qs] [4c]
+iTrustU21: checks 
+lymo1951: checks 
+*** RIVER *** [Ah 4h Qs 4c] [As]
+iTrustU21: bets $7.50
+lymo1951: calls $7.50
+*** SHOW DOWN ***
+iTrustU21: shows [Ac Js] (a full house, Aces full of Fours)
+lymo1951: mucks hand 
+iTrustU21 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $74 | Rake $2.50 
+Board [Ah 4h Qs 4c As]
+Seat 1: laloo246 (big blind) folded before Flop
+Seat 2: lymo1951 mucked
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 6: iTrustU21 (small blind) showed [Ac Js] and won ($71.50) with a full house, Aces full of Fours
+
+
+
+PokerStars Hand #254593274411:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:40:14 WET [2025/01/28 13:40:14 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 1: laloo246 ($205.18 in chips) 
+Seat 2: lymo1951 ($26.87 in chips) 
+Seat 3: rao999 ($112.48 in chips) 
+Seat 4: worker0k ($113.78 in chips) 
+Seat 5: poker_soul11 ($102.50 in chips) 
+Seat 6: iTrustU21 ($135 in chips) 
+laloo246: posts small blind $0.50
+lymo1951: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+worker0k: folds 
+poker_soul11: raises $1.20 to $2.20
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: calls $1.20
+*** FLOP *** [5d Jc 7s]
+lymo1951: checks 
+poker_soul11: checks 
+*** TURN *** [5d Jc 7s] [Tc]
+lymo1951: bets $24.67 and is all-in
+poker_soul11: folds 
+Uncalled bet ($24.67) returned to lymo1951
+lymo1951 collected $4.66 from pot
+lymo1951: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [5d Jc 7s Tc]
+Seat 1: laloo246 (small blind) folded before Flop
+Seat 2: lymo1951 (big blind) collected ($4.66)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded on the Turn
+Seat 6: iTrustU21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593290448:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:41:06 WET [2025/01/28 13:41:06 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 1: laloo246 ($204.68 in chips) 
+Seat 2: lymo1951 ($29.33 in chips) 
+Seat 3: rao999 ($112.48 in chips) 
+Seat 4: worker0k ($113.78 in chips) 
+Seat 5: poker_soul11 ($100.30 in chips) 
+Seat 6: iTrustU21 ($135 in chips) 
+lymo1951: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: calls $0.50
+rao999: checks 
+*** FLOP *** [Qd Jh 4h]
+lymo1951: bets $4
+rao999: raises $6 to $10
+lymo1951: calls $6
+*** TURN *** [Qd Jh 4h] [Ks]
+lymo1951: bets $18.33 and is all-in
+rao999: calls $18.33
+*** RIVER *** [Qd Jh 4h Ks] [Kd]
+*** SHOW DOWN ***
+lymo1951: shows [9d Ts] (a straight, Nine to King)
+rao999: shows [Qh 4d] (two pair, Kings and Queens)
+lymo1951 collected $56.16 from pot
+*** SUMMARY ***
+Total pot $58.66 | Rake $2.50 
+Board [Qd Jh 4h Ks Kd]
+Seat 1: laloo246 (button) folded before Flop (didn't bet)
+Seat 2: lymo1951 (small blind) showed [9d Ts] and won ($56.16) with a straight, Nine to King
+Seat 3: rao999 (big blind) showed [Qh 4d] and lost with two pair, Kings and Queens
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593306795:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:41:59 WET [2025/01/28 13:41:59 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 1: laloo246 ($204.68 in chips) 
+Seat 2: lymo1951 ($56.16 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($113.78 in chips) 
+Seat 5: poker_soul11 ($100.30 in chips) 
+Seat 6: iTrustU21 ($135 in chips) 
+rao999: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: raises $2.50 to $3.50
+rao999: folds 
+worker0k: folds 
+Uncalled bet ($2.50) returned to lymo1951
+lymo1951 collected $2.50 from pot
+lymo1951: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 (button) collected ($2.50)
+Seat 3: rao999 (small blind) folded before Flop
+Seat 4: worker0k (big blind) folded before Flop
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593312198:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:42:16 WET [2025/01/28 13:42:16 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 1: laloo246 ($204.68 in chips) 
+Seat 2: lymo1951 ($57.66 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($112.78 in chips) 
+Seat 5: poker_soul11 ($100.30 in chips) 
+Seat 6: iTrustU21 ($135 in chips) 
+worker0k: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: raises $1.20 to $2.20
+laloo246: folds 
+lymo1951: calls $2.20
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+*** FLOP *** [6s Ad Ks]
+iTrustU21: bets $2.50
+lymo1951: raises $2.50 to $5
+iTrustU21: folds 
+Uncalled bet ($2.50) returned to lymo1951
+lymo1951 collected $10.36 from pot
+lymo1951: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.90 | Rake $0.54 
+Board [6s Ad Ks]
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 collected ($10.36)
+Seat 3: rao999 (button) folded before Flop (didn't bet)
+Seat 4: worker0k (small blind) folded before Flop
+Seat 5: poker_soul11 (big blind) folded before Flop
+Seat 6: iTrustU21 folded on the Flop
+
+
+
+PokerStars Hand #254593323001:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:42:50 WET [2025/01/28 13:42:50 ET]
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 1: laloo246 ($204.68 in chips) 
+Seat 2: lymo1951 ($63.32 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($112.28 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+Seat 6: iTrustU21 ($130.30 in chips) 
+poker_soul11: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+laloo246: folds 
+lymo1951: calls $1
+rao999: folds 
+worker0k: raises $3 to $4
+poker_soul11: calls $3.50
+iTrustU21: folds 
+lymo1951: calls $3
+*** FLOP *** [5c Ad Ah]
+poker_soul11: checks 
+lymo1951: checks 
+worker0k: bets $3.09
+poker_soul11: calls $3.09
+lymo1951: folds 
+*** TURN *** [5c Ad Ah] [Ks]
+poker_soul11: checks 
+worker0k: checks 
+*** RIVER *** [5c Ad Ah Ks] [Ac]
+poker_soul11: checks 
+worker0k: checks 
+*** SHOW DOWN ***
+poker_soul11: shows [8c 8d] (a full house, Aces full of Eights)
+worker0k: shows [Jc Js] (a full house, Aces full of Jacks)
+worker0k collected $18.22 from pot
+*** SUMMARY ***
+Total pot $19.18 | Rake $0.96 
+Board [5c Ad Ah Ks Ac]
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 folded on the Flop
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k (button) showed [Jc Js] and won ($18.22) with a full house, Aces full of Jacks
+Seat 5: poker_soul11 (small blind) showed [8c 8d] and lost with a full house, Aces full of Eights
+Seat 6: iTrustU21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254593349203:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:44:13 WET [2025/01/28 13:44:13 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 1: laloo246 ($204.68 in chips) 
+Seat 2: lymo1951 ($59.32 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($123.41 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+Seat 6: iTrustU21 ($129.30 in chips) 
+iTrustU21: posts small blind $0.50
+laloo246: posts big blind $1
+*** HOLE CARDS ***
+lymo1951: raises $2.50 to $3.50
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+Uncalled bet ($2.50) returned to lymo1951
+lymo1951 collected $2.50 from pot
+lymo1951: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 (big blind) folded before Flop
+Seat 2: lymo1951 collected ($2.50)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 6: iTrustU21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254593355038:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:44:32 WET [2025/01/28 13:44:32 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 1: laloo246 ($203.68 in chips) 
+Seat 2: lymo1951 ($60.82 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($123.41 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+Seat 6: iTrustU21 ($128.80 in chips) 
+laloo246: posts small blind $0.50
+lymo1951: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+Uncalled bet ($0.50) returned to lymo1951
+lymo1951 collected $1 from pot
+lymo1951: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: laloo246 (small blind) folded before Flop
+Seat 2: lymo1951 (big blind) collected ($1)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593359344:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:44:45 WET [2025/01/28 13:44:45 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 1: laloo246 ($203.18 in chips) 
+Seat 2: lymo1951 ($61.32 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($123.41 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+Seat 6: iTrustU21 ($128.80 in chips) 
+lymo1951: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: raises $1.50 to $2.50
+lymo1951: calls $2
+rao999: calls $1.50
+*** FLOP *** [Ah 3h 7s]
+lymo1951: checks 
+rao999: checks 
+laloo246: bets $2.35
+lymo1951: folds 
+rao999: raises $7.15 to $9.50
+laloo246: calls $7.15
+*** TURN *** [Ah 3h 7s] [2c]
+rao999: bets $16.62
+laloo246: calls $16.62
+*** RIVER *** [Ah 3h 7s 2c] [3s]
+rao999: checks 
+laloo246: checks 
+*** SHOW DOWN ***
+rao999: shows [6h 8h] (a pair of Threes)
+laloo246: shows [Ad 8c] (two pair, Aces and Threes)
+laloo246 collected $57.24 from pot
+*** SUMMARY ***
+Total pot $59.74 | Rake $2.50 
+Board [Ah 3h 7s 2c 3s]
+Seat 1: laloo246 (button) showed [Ad 8c] and won ($57.24) with two pair, Aces and Threes
+Seat 2: lymo1951 (small blind) folded on the Flop
+Seat 3: rao999 (big blind) showed [6h 8h] and lost with a pair of Threes
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593388520:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:46:19 WET [2025/01/28 13:46:19 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 1: laloo246 ($231.80 in chips) 
+Seat 2: lymo1951 ($58.82 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($123.41 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+Seat 6: iTrustU21 ($128.80 in chips) 
+rao999: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+iTrustU21: raises $1.50 to $2.50
+laloo246: folds 
+lymo1951: folds 
+rao999: raises $9.50 to $12
+worker0k: folds 
+iTrustU21: folds 
+Uncalled bet ($9.50) returned to rao999
+rao999 collected $6 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 (button) folded before Flop (didn't bet)
+Seat 3: rao999 (small blind) collected ($6)
+Seat 4: worker0k (big blind) folded before Flop
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 folded before Flop
+
+
+
+PokerStars Hand #254593396784:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:46:45 WET [2025/01/28 13:46:45 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 1: laloo246 ($231.80 in chips) 
+Seat 2: lymo1951 ($58.82 in chips) 
+Seat 3: rao999 ($103.50 in chips) 
+Seat 4: worker0k ($122.41 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+Seat 6: iTrustU21 ($126.30 in chips) 
+worker0k: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: folds 
+rao999: raises $1.50 to $2.50
+worker0k: folds 
+poker_soul11: raises $9.50 to $12
+rao999: folds 
+Uncalled bet ($9.50) returned to poker_soul11
+poker_soul11 collected $5.50 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 folded before Flop (didn't bet)
+Seat 3: rao999 (button) folded before Flop
+Seat 4: worker0k (small blind) folded before Flop
+Seat 5: poker_soul11 (big blind) collected ($5.50)
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593414524:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:47:42 WET [2025/01/28 13:47:42 ET]
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 1: laloo246 ($231.80 in chips) 
+Seat 2: lymo1951 ($58.82 in chips) 
+Seat 3: rao999 ($101 in chips) 
+Seat 4: worker0k ($121.91 in chips) 
+Seat 5: poker_soul11 ($103 in chips) 
+Seat 6: iTrustU21 ($126.30 in chips) 
+poker_soul11: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+laloo246: folds 
+lymo1951: raises $2.50 to $3.50
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+Uncalled bet ($2.50) returned to lymo1951
+lymo1951 collected $2.50 from pot
+lymo1951: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 collected ($2.50)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k (button) folded before Flop (didn't bet)
+Seat 5: poker_soul11 (small blind) folded before Flop
+Seat 6: iTrustU21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254593419710:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:47:59 WET [2025/01/28 13:47:59 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 1: laloo246 ($231.80 in chips) 
+Seat 2: lymo1951 ($60.32 in chips) 
+Seat 3: rao999 ($101 in chips) 
+Seat 4: worker0k ($121.91 in chips) 
+Seat 5: poker_soul11 ($102.50 in chips) 
+Seat 6: iTrustU21 ($125.30 in chips) 
+iTrustU21: posts small blind $0.50
+laloo246: posts big blind $1
+*** HOLE CARDS ***
+lymo1951: raises $2 to $3
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: raises $12 to $15
+lymo1951: folds 
+Uncalled bet ($12) returned to laloo246
+laloo246 collected $6.50 from pot
+laloo246: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: laloo246 (big blind) collected ($6.50)
+Seat 2: lymo1951 folded before Flop
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 6: iTrustU21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254593432576:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:48:40 WET [2025/01/28 13:48:40 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 1: laloo246 ($235.30 in chips) 
+Seat 2: lymo1951 ($57.32 in chips) 
+Seat 3: rao999 ($101 in chips) 
+Seat 4: worker0k ($121.91 in chips) 
+Seat 5: poker_soul11 ($102.50 in chips) 
+Seat 6: iTrustU21 ($124.80 in chips) 
+laloo246: posts small blind $0.50
+lymo1951: posts big blind $1
+*** HOLE CARDS ***
+rao999: raises $1.50 to $2.50
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: calls $1.50
+*** FLOP *** [Jd 4s 3h]
+lymo1951: checks 
+rao999: bets $3.45
+lymo1951: calls $3.45
+*** TURN *** [Jd 4s 3h] [Js]
+lymo1951: checks 
+rao999: bets $7.77
+lymo1951: calls $7.77
+*** RIVER *** [Jd 4s 3h Js] [4h]
+lymo1951: checks 
+rao999: bets $19.91
+lymo1951: raises $23.69 to $43.60 and is all-in
+rao999: calls $23.69
+*** SHOW DOWN ***
+lymo1951: shows [Kd 3s] (two pair, Jacks and Fours)
+rao999: shows [Jc Kc] (a full house, Jacks full of Fours)
+rao999 collected $112.64 from pot
+*** SUMMARY ***
+Total pot $115.14 | Rake $2.50 
+Board [Jd 4s 3h Js 4h]
+Seat 1: laloo246 (small blind) folded before Flop
+Seat 2: lymo1951 (big blind) showed [Kd 3s] and lost with two pair, Jacks and Fours
+Seat 3: rao999 showed [Jc Kc] and won ($112.64) with a full house, Jacks full of Fours
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593451184:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:49:41 WET [2025/01/28 13:49:41 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 2: lymo1951 ($0 in chips) is sitting out
+Seat 1: laloo246 ($234.80 in chips) 
+Seat 3: rao999 ($156.32 in chips) 
+Seat 4: worker0k ($121.91 in chips) 
+Seat 5: poker_soul11 ($102.50 in chips) 
+Seat 6: iTrustU21 ($124.80 in chips) 
+rao999: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+lymo1951 leaves the table
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+rao999: raises $2 to $3
+worker0k: folds 
+Uncalled bet ($2) returned to rao999
+rao999 collected $2 from pot
+rao999: doesn't show hand 
+worker0k leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: lymo1951
+Seat 1: laloo246 (button) folded before Flop (didn't bet)
+Seat 3: rao999 (small blind) collected ($2)
+Seat 4: worker0k (big blind) folded before Flop
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593457942:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:50:02 WET [2025/01/28 13:50:02 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 1: laloo246 ($234.80 in chips) 
+Seat 3: rao999 ($157.32 in chips) 
+Seat 5: poker_soul11 ($102.50 in chips) 
+Seat 6: iTrustU21 ($124.80 in chips) 
+poker_soul11: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+laloo246: raises $1.20 to $2.20
+rao999: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+Uncalled bet ($1.20) returned to laloo246
+laloo246 collected $2.50 from pot
+laloo246: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 collected ($2.50)
+Seat 3: rao999 (button) folded before Flop (didn't bet)
+Seat 5: poker_soul11 (small blind) folded before Flop
+Seat 6: iTrustU21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254593466844:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:50:31 WET [2025/01/28 13:50:31 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 1: laloo246 ($236.30 in chips) is sitting out
+Seat 3: rao999 ($157.32 in chips) is sitting out
+Seat 5: poker_soul11 ($102 in chips) 
+Seat 6: iTrustU21 ($123.80 in chips) 
+iTrustU21: posts small blind $0.50
+laloo246: is sitting out 
+rao999: is sitting out 
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: raises $1.50 to $2.50
+poker_soul11: folds 
+Uncalled bet ($1.50) returned to iTrustU21
+iTrustU21 collected $2 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: laloo246
+Seat 3: rao999
+Seat 5: poker_soul11 (big blind) folded before Flop
+Seat 6: iTrustU21 (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254592949129:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:22:35 WET [2025/01/28 13:22:35 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 1: laloo246 ($100 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+poker_soul11: posts small blind $0.50
+laloo246: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+poker_soul11: folds 
+Uncalled bet ($0.50) returned to laloo246
+laloo246 collected $1 from pot
+laloo246: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: laloo246 (big blind) collected ($1)
+Seat 3: rao999 (button) folded before Flop (didn't bet)
+Seat 5: poker_soul11 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254592954773:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:22:54 WET [2025/01/28 13:22:54 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 1: laloo246 ($100.50 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+laloo246: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+worker0k joins the table at seat #4 
+poker_soul11: raises $1.20 to $2.20
+lymo1951 joins the table at seat #2 
+iTrustU21 joins the table at seat #6 
+laloo246: folds 
+rao999: folds 
+Uncalled bet ($1.20) returned to poker_soul11
+poker_soul11 collected $2.50 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 (small blind) folded before Flop
+Seat 3: rao999 (big blind) folded before Flop
+Seat 5: poker_soul11 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254592961342:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:23:16 WET [2025/01/28 13:23:16 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 2: lymo1951 ($100 in chips) is sitting out
+Seat 6: iTrustU21 ($100 in chips) is sitting out
+Seat 1: laloo246 ($100 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($100 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+rao999: posts small blind $0.50
+worker0k: posts big blind $1
+iTrustU21: sits out 
+*** HOLE CARDS ***
+poker_soul11: raises $1.20 to $2.20
+laloo246: folds 
+rao999: folds 
+worker0k: folds 
+Uncalled bet ($1.20) returned to poker_soul11
+poker_soul11 collected $2.50 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: lymo1951
+Seat 6: iTrustU21
+Seat 1: laloo246 (button) folded before Flop (didn't bet)
+Seat 3: rao999 (small blind) folded before Flop
+Seat 4: worker0k (big blind) folded before Flop
+Seat 5: poker_soul11 collected ($2.50)
+
+
+
+PokerStars Hand #254592965190:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:23:29 WET [2025/01/28 13:23:29 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 6: iTrustU21 ($100 in chips) is sitting out
+Seat 1: laloo246 ($100 in chips) 
+Seat 2: lymo1951 ($100 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($100 in chips) 
+Seat 5: poker_soul11 ($103 in chips) 
+worker0k: posts small blind $0.50
+poker_soul11: posts big blind $1
+iTrustU21: sits out 
+lymo1951: posts big blind $1
+*** HOLE CARDS ***
+laloo246: raises $3.50 to $4.50
+lymo1951: calls $3.50
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+*** FLOP *** [6h 2h Qd]
+laloo246: bets $3.29
+lymo1951: raises $6.71 to $10
+laloo246: calls $6.71
+*** TURN *** [6h 2h Qd] [2d]
+laloo246: checks 
+lymo1951: bets $19
+laloo246: calls $19
+*** RIVER *** [6h 2h Qd 2d] [8s]
+laloo246: checks 
+lymo1951: bets $66.50 and is all-in
+laloo246: calls $66.50 and is all-in
+*** SHOW DOWN ***
+lymo1951: shows [Jd 9c] (a pair of Deuces)
+laloo246: shows [Qc Jh] (two pair, Queens and Deuces)
+laloo246 collected $199 from pot
+*** SUMMARY ***
+Total pot $201.50 | Rake $2.50 
+Board [6h 2h Qd 2d 8s]
+Seat 6: iTrustU21
+Seat 1: laloo246 showed [Qc Jh] and won ($199) with two pair, Queens and Deuces
+Seat 2: lymo1951 showed [Jd 9c] and lost with a pair of Deuces
+Seat 3: rao999 (button) folded before Flop (didn't bet)
+Seat 4: worker0k (small blind) folded before Flop
+Seat 5: poker_soul11 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254593002849:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:25:35 WET [2025/01/28 13:25:35 ET]
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 2: lymo1951 ($0 in chips) is sitting out
+Seat 1: laloo246 ($199 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($100 in chips) 
+Seat 5: poker_soul11 ($102 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+poker_soul11: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+laloo246: raises $1.20 to $2.20
+rao999: folds 
+worker0k: raises $5.30 to $7.50
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+Uncalled bet ($5.30) returned to worker0k
+worker0k collected $5.90 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 2: lymo1951
+Seat 1: laloo246 folded before Flop
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k (button) collected ($5.90)
+Seat 5: poker_soul11 (small blind) folded before Flop
+Seat 6: iTrustU21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254593015104:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:26:15 WET [2025/01/28 13:26:15 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 1: laloo246 ($196.80 in chips) 
+Seat 2: lymo1951 ($84.03 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($103.70 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+iTrustU21: posts small blind $0.50
+laloo246: posts big blind $1
+*** HOLE CARDS ***
+lymo1951: raises $2.50 to $3.50
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+Uncalled bet ($2.50) returned to lymo1951
+lymo1951 collected $2.50 from pot
+lymo1951: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 (big blind) folded before Flop
+Seat 2: lymo1951 collected ($2.50)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 6: iTrustU21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254593026830:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:26:54 WET [2025/01/28 13:26:54 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 1: laloo246 ($195.80 in chips) 
+Seat 2: lymo1951 ($85.53 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($103.70 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+laloo246: posts small blind $0.50
+lymo1951: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: raises $1.50 to $2.50
+lymo1951: folds 
+Uncalled bet ($1.50) returned to laloo246
+laloo246 collected $2 from pot
+laloo246: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: laloo246 (small blind) collected ($2)
+Seat 2: lymo1951 (big blind) folded before Flop
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593033075:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:27:14 WET [2025/01/28 13:27:14 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 1: laloo246 ($196.80 in chips) 
+Seat 2: lymo1951 ($84.53 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($103.70 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+lymo1951: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: raises $1.50 to $2.50
+lymo1951: folds 
+rao999: folds 
+Uncalled bet ($1.50) returned to laloo246
+laloo246 collected $2.50 from pot
+laloo246: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 (button) collected ($2.50)
+Seat 2: lymo1951 (small blind) folded before Flop
+Seat 3: rao999 (big blind) folded before Flop
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593040022:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:27:38 WET [2025/01/28 13:27:38 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 1: laloo246 ($198.30 in chips) 
+Seat 2: lymo1951 ($84.03 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($103.70 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+rao999: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: raises $2 to $3
+rao999: folds 
+worker0k: folds 
+Uncalled bet ($2) returned to lymo1951
+lymo1951 collected $2.50 from pot
+lymo1951: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 (button) collected ($2.50)
+Seat 3: rao999 (small blind) folded before Flop
+Seat 4: worker0k (big blind) folded before Flop
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593044550:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:27:53 WET [2025/01/28 13:27:53 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 1: laloo246 ($198.30 in chips) 
+Seat 2: lymo1951 ($85.53 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($102.70 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+worker0k: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+laloo246: raises $1.20 to $2.20
+lymo1951: calls $2.20
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+*** FLOP *** [Qc 9d 7s]
+laloo246: bets $1.85
+lymo1951: calls $1.85
+*** TURN *** [Qc 9d 7s] [8d]
+laloo246: bets $6.84
+lymo1951: folds 
+Uncalled bet ($6.84) returned to laloo246
+laloo246 collected $9.12 from pot
+laloo246: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.60 | Rake $0.48 
+Board [Qc 9d 7s 8d]
+Seat 1: laloo246 collected ($9.12)
+Seat 2: lymo1951 folded on the Turn
+Seat 3: rao999 (button) folded before Flop (didn't bet)
+Seat 4: worker0k (small blind) folded before Flop
+Seat 5: poker_soul11 (big blind) folded before Flop
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593060022:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:28:44 WET [2025/01/28 13:28:44 ET]
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 1: laloo246 ($203.37 in chips) 
+Seat 2: lymo1951 ($81.48 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($102.20 in chips) 
+Seat 5: poker_soul11 ($100.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+poker_soul11: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+laloo246: folds 
+lymo1951: folds 
+rao999: folds 
+worker0k: folds 
+poker_soul11: raises $2 to $3
+iTrustU21: calls $2
+*** FLOP *** [Jd 4h 2h]
+poker_soul11: checks 
+iTrustU21: bets $1.88
+poker_soul11: folds 
+Uncalled bet ($1.88) returned to iTrustU21
+iTrustU21 collected $5.70 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Jd 4h 2h]
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 folded before Flop (didn't bet)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k (button) folded before Flop (didn't bet)
+Seat 5: poker_soul11 (small blind) folded on the Flop
+Seat 6: iTrustU21 (big blind) collected ($5.70)
+
+
+
+PokerStars Hand #254593076975:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:29:40 WET [2025/01/28 13:29:40 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 1: laloo246 ($203.37 in chips) 
+Seat 2: lymo1951 ($81.48 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($102.20 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+Seat 6: iTrustU21 ($102.70 in chips) 
+iTrustU21: posts small blind $0.50
+laloo246: posts big blind $1
+*** HOLE CARDS ***
+lymo1951: folds 
+rao999: folds 
+worker0k: folds 
+poker_soul11: raises $1.20 to $2.20
+iTrustU21: folds 
+laloo246: folds 
+Uncalled bet ($1.20) returned to poker_soul11
+poker_soul11 collected $2.50 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 (big blind) folded before Flop
+Seat 2: lymo1951 folded before Flop (didn't bet)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 (button) collected ($2.50)
+Seat 6: iTrustU21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254593083230:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:30:00 WET [2025/01/28 13:30:00 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 1: laloo246 ($202.37 in chips) 
+Seat 2: lymo1951 ($81.48 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($102.20 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+Seat 6: iTrustU21 ($102.20 in chips) 
+laloo246: posts small blind $0.50
+lymo1951: posts big blind $1
+*** HOLE CARDS ***
+rao999: raises $1.50 to $2.50
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: folds 
+Uncalled bet ($1.50) returned to rao999
+rao999 collected $2.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 (small blind) folded before Flop
+Seat 2: lymo1951 (big blind) folded before Flop
+Seat 3: rao999 collected ($2.50)
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593088220:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:30:16 WET [2025/01/28 13:30:16 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 1: laloo246 ($201.87 in chips) 
+Seat 2: lymo1951 ($80.48 in chips) 
+Seat 3: rao999 ($101.50 in chips) 
+Seat 4: worker0k ($102.20 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+Seat 6: iTrustU21 ($102.20 in chips) 
+lymo1951: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+worker0k: raises $1.30 to $2.30
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: folds 
+rao999: folds 
+Uncalled bet ($1.30) returned to worker0k
+worker0k collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 (button) folded before Flop (didn't bet)
+Seat 2: lymo1951 (small blind) folded before Flop
+Seat 3: rao999 (big blind) folded before Flop
+Seat 4: worker0k collected ($2.50)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593096555:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:30:43 WET [2025/01/28 13:30:43 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 1: laloo246 ($201.87 in chips) 
+Seat 2: lymo1951 ($79.98 in chips) 
+Seat 3: rao999 ($100.50 in chips) 
+Seat 4: worker0k ($103.70 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+Seat 6: iTrustU21 ($102.20 in chips) 
+rao999: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+iTrustU21: raises $1.50 to $2.50
+laloo246: folds 
+lymo1951: raises $7.50 to $10
+rao999: folds 
+worker0k: folds 
+iTrustU21: folds 
+Uncalled bet ($7.50) returned to lymo1951
+lymo1951 collected $6.50 from pot
+lymo1951: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 (button) collected ($6.50)
+Seat 3: rao999 (small blind) folded before Flop
+Seat 4: worker0k (big blind) folded before Flop
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 folded before Flop
+
+
+
+PokerStars Hand #254593106148:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:31:14 WET [2025/01/28 13:31:14 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 1: laloo246 ($201.87 in chips) 
+Seat 2: lymo1951 ($83.98 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($102.70 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+worker0k: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: calls $1
+rao999: folds 
+worker0k: folds 
+poker_soul11: checks 
+*** FLOP *** [8c Qh Th]
+poker_soul11: checks 
+lymo1951: bets $4
+poker_soul11: folds 
+Uncalled bet ($4) returned to lymo1951
+lymo1951 collected $2.38 from pot
+lymo1951: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [8c Qh Th]
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 collected ($2.38)
+Seat 3: rao999 (button) folded before Flop (didn't bet)
+Seat 4: worker0k (small blind) folded before Flop
+Seat 5: poker_soul11 (big blind) folded on the Flop
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593117734:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:31:52 WET [2025/01/28 13:31:52 ET]
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 1: laloo246 ($201.87 in chips) 
+Seat 2: lymo1951 ($85.36 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($102.20 in chips) 
+Seat 5: poker_soul11 ($100.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+poker_soul11: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+laloo246: folds 
+lymo1951: raises $2 to $3
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+Uncalled bet ($2) returned to lymo1951
+lymo1951 collected $2.50 from pot
+lymo1951: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 collected ($2.50)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k (button) folded before Flop (didn't bet)
+Seat 5: poker_soul11 (small blind) folded before Flop
+Seat 6: iTrustU21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254593126903:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:32:22 WET [2025/01/28 13:32:22 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 1: laloo246 ($201.87 in chips) 
+Seat 2: lymo1951 ($86.86 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($102.20 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+iTrustU21: posts small blind $0.50
+laloo246: posts big blind $1
+*** HOLE CARDS ***
+lymo1951: folds 
+rao999: folds 
+worker0k: folds 
+poker_soul11: raises $1.20 to $2.20
+iTrustU21: folds 
+laloo246: folds 
+Uncalled bet ($1.20) returned to poker_soul11
+poker_soul11 collected $2.50 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 (big blind) folded before Flop
+Seat 2: lymo1951 folded before Flop (didn't bet)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 (button) collected ($2.50)
+Seat 6: iTrustU21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254593133411:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:32:43 WET [2025/01/28 13:32:43 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 1: laloo246 ($200.87 in chips) 
+Seat 2: lymo1951 ($86.86 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($102.20 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+laloo246: posts small blind $0.50
+lymo1951: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: raises $1.20 to $2.20
+laloo246: folds 
+lymo1951: raises $5.80 to $8
+iTrustU21: folds 
+Uncalled bet ($5.80) returned to lymo1951
+lymo1951 collected $4.90 from pot
+lymo1951: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0 
+Seat 1: laloo246 (small blind) folded before Flop
+Seat 2: lymo1951 (big blind) collected ($4.90)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 (button) folded before Flop
+
+
+
+PokerStars Hand #254593141350:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:33:08 WET [2025/01/28 13:33:08 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 1: laloo246 ($200.37 in chips) 
+Seat 2: lymo1951 ($89.56 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($102.20 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+lymo1951: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: raises $2 to $3
+rao999: calls $2
+*** FLOP *** [7h 3c 4d]
+lymo1951: bets $5.70
+rao999: folds 
+Uncalled bet ($5.70) returned to lymo1951
+lymo1951 collected $5.70 from pot
+lymo1951: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [7h 3c 4d]
+Seat 1: laloo246 (button) folded before Flop (didn't bet)
+Seat 2: lymo1951 (small blind) collected ($5.70)
+Seat 3: rao999 (big blind) folded on the Flop
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593152447:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:33:44 WET [2025/01/28 13:33:44 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 1: laloo246 ($200.37 in chips) 
+Seat 2: lymo1951 ($92.26 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($102.20 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+rao999: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: calls $1
+rao999: folds 
+worker0k: checks 
+*** FLOP *** [8d 8h Kd]
+worker0k: checks 
+lymo1951: checks 
+*** TURN *** [8d 8h Kd] [Js]
+worker0k: bets $1.50
+lymo1951: calls $1.50
+*** RIVER *** [8d 8h Kd Js] [Qd]
+worker0k: bets $3.39
+lymo1951: calls $3.39
+*** SHOW DOWN ***
+worker0k: shows [4d 3d] (a flush, King high)
+lymo1951: mucks hand 
+worker0k collected $11.67 from pot
+*** SUMMARY ***
+Total pot $12.28 | Rake $0.61 
+Board [8d 8h Kd Js Qd]
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 (button) mucked
+Seat 3: rao999 (small blind) folded before Flop
+Seat 4: worker0k (big blind) showed [4d 3d] and won ($11.67) with a flush, King high
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593161290:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:34:12 WET [2025/01/28 13:34:12 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 1: laloo246 ($200.37 in chips) 
+Seat 2: lymo1951 ($86.37 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($107.98 in chips) 
+Seat 5: poker_soul11 ($101.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+worker0k: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+laloo246: raises $1.20 to $2.20
+lymo1951: folds 
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+Uncalled bet ($1.20) returned to laloo246
+laloo246 collected $2.50 from pot
+laloo246: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 collected ($2.50)
+Seat 2: lymo1951 folded before Flop (didn't bet)
+Seat 3: rao999 (button) folded before Flop (didn't bet)
+Seat 4: worker0k (small blind) folded before Flop
+Seat 5: poker_soul11 (big blind) folded before Flop
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593167800:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:34:33 WET [2025/01/28 13:34:33 ET]
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 1: laloo246 ($201.87 in chips) 
+Seat 2: lymo1951 ($86.37 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($107.48 in chips) 
+Seat 5: poker_soul11 ($100.50 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+poker_soul11: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+laloo246: raises $1.20 to $2.20
+lymo1951: folds 
+rao999: folds 
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+Uncalled bet ($1.20) returned to laloo246
+laloo246 collected $2.50 from pot
+laloo246: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: laloo246 collected ($2.50)
+Seat 2: lymo1951 folded before Flop (didn't bet)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k (button) folded before Flop (didn't bet)
+Seat 5: poker_soul11 (small blind) folded before Flop
+Seat 6: iTrustU21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254593172472:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:34:48 WET [2025/01/28 13:34:48 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 1: laloo246 ($203.37 in chips) 
+Seat 2: lymo1951 ($86.37 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($107.48 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+iTrustU21: posts small blind $0.50
+laloo246: posts big blind $1
+*** HOLE CARDS ***
+lymo1951: folds 
+rao999: folds 
+worker0k: raises $1.30 to $2.30
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: calls $1.30
+*** FLOP *** [2d 7h 8c]
+laloo246: checks 
+worker0k: checks 
+*** TURN *** [2d 7h 8c] [4h]
+laloo246: bets $3.63
+worker0k: calls $3.63
+*** RIVER *** [2d 7h 8c 4h] [5c]
+laloo246: bets $4.37
+worker0k: folds 
+Uncalled bet ($4.37) returned to laloo246
+laloo246 collected $11.74 from pot
+laloo246: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.36 | Rake $0.62 
+Board [2d 7h 8c 4h 5c]
+Seat 1: laloo246 (big blind) collected ($11.74)
+Seat 2: lymo1951 folded before Flop (didn't bet)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: worker0k folded on the River
+Seat 5: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 6: iTrustU21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254593201670:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:36:22 WET [2025/01/28 13:36:22 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 1: laloo246 ($209.18 in chips) 
+Seat 2: lymo1951 ($86.37 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($101.55 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+laloo246: posts small blind $0.50
+lymo1951: posts big blind $1
+*** HOLE CARDS ***
+rao999: raises $1.50 to $2.50
+worker0k: folds 
+poker_soul11: raises $5 to $7.50
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: folds 
+rao999: folds 
+Uncalled bet ($5) returned to poker_soul11
+poker_soul11 collected $6.50 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: laloo246 (small blind) folded before Flop
+Seat 2: lymo1951 (big blind) folded before Flop
+Seat 3: rao999 folded before Flop
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 collected ($6.50)
+Seat 6: iTrustU21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593208641:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:36:45 WET [2025/01/28 13:36:45 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 1: laloo246 ($208.68 in chips) 
+Seat 2: lymo1951 ($85.37 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: worker0k ($101.55 in chips) 
+Seat 5: poker_soul11 ($104 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+lymo1951: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: raises $1.50 to $2.50
+lymo1951: folds 
+rao999: raises $10.50 to $13
+laloo246: folds 
+Uncalled bet ($10.50) returned to rao999
+rao999 collected $5.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: laloo246 (button) folded before Flop
+Seat 2: lymo1951 (small blind) folded before Flop
+Seat 3: rao999 (big blind) collected ($5.50)
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593216691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:37:10 WET [2025/01/28 13:37:10 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 1: laloo246 ($206.18 in chips) 
+Seat 2: lymo1951 ($84.87 in chips) 
+Seat 3: rao999 ($103 in chips) 
+Seat 4: worker0k ($101.55 in chips) 
+Seat 5: poker_soul11 ($104 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+rao999: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: raises $2 to $3
+rao999: folds 
+worker0k: calls $2
+*** FLOP *** [Qc Tc 9h]
+worker0k: checks 
+lymo1951: bets $5
+worker0k: calls $5
+*** TURN *** [Qc Tc 9h] [Td]
+worker0k: checks 
+lymo1951: checks 
+*** RIVER *** [Qc Tc 9h Td] [Ah]
+worker0k: checks 
+lymo1951: checks 
+*** SHOW DOWN ***
+worker0k: shows [6c Ac] (two pair, Aces and Tens)
+lymo1951: mucks hand 
+worker0k collected $15.68 from pot
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.82 
+Board [Qc Tc 9h Td Ah]
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 (button) mucked
+Seat 3: rao999 (small blind) folded before Flop
+Seat 4: worker0k (big blind) showed [6c Ac] and won ($15.68) with two pair, Aces and Tens
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593231560:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:37:58 WET [2025/01/28 13:37:58 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 1: laloo246 ($206.18 in chips) 
+Seat 2: lymo1951 ($76.87 in chips) 
+Seat 3: rao999 ($102.50 in chips) 
+Seat 4: worker0k ($109.23 in chips) 
+Seat 5: poker_soul11 ($104 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+worker0k: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+laloo246: folds 
+lymo1951: calls $1
+rao999: folds 
+worker0k: raises $3 to $4
+poker_soul11: folds 
+lymo1951: calls $3
+*** FLOP *** [6c 4s 2c]
+worker0k: checks 
+lymo1951: checks 
+*** TURN *** [6c 4s 2c] [As]
+worker0k: bets $5.56
+lymo1951: folds 
+Uncalled bet ($5.56) returned to worker0k
+worker0k collected $8.55 from pot
+worker0k: shows [Kc]
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [6c 4s 2c As]
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 folded on the Turn
+Seat 3: rao999 (button) folded before Flop (didn't bet)
+Seat 4: worker0k (small blind) collected ($8.55)
+Seat 5: poker_soul11 (big blind) folded before Flop
+Seat 6: iTrustU21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254593240010:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:38:25 WET [2025/01/28 13:38:25 ET]
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 1: laloo246 ($206.18 in chips) 
+Seat 2: lymo1951 ($72.87 in chips) 
+Seat 3: rao999 ($102.50 in chips) 
+Seat 4: worker0k ($113.78 in chips) 
+Seat 5: poker_soul11 ($103 in chips) 
+Seat 6: iTrustU21 ($100 in chips) 
+poker_soul11: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+laloo246: folds 
+lymo1951: raises $2.50 to $3.50
+rao999: raises $6 to $9.50
+worker0k: folds 
+poker_soul11: folds 
+iTrustU21: folds 
+lymo1951: calls $6
+*** FLOP *** [4c 8c 7d]
+lymo1951: checks 
+rao999: bets $14.61
+lymo1951: folds 
+Uncalled bet ($14.61) returned to rao999
+rao999 collected $19.48 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.50 | Rake $1.02 
+Board [4c 8c 7d]
+Seat 1: laloo246 folded before Flop (didn't bet)
+Seat 2: lymo1951 folded on the Flop
+Seat 3: rao999 collected ($19.48)
+Seat 4: worker0k (button) folded before Flop (didn't bet)
+Seat 5: poker_soul11 (small blind) folded before Flop
+Seat 6: iTrustU21 (big blind) folded before Flop
+
+
+

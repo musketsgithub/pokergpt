@@ -1,0 +1,1568 @@
+﻿PokerStars Hand #254279373640:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:25:11 WET [2025/01/09 11:25:11 ET]
+Table 'Vindobona III' 6-max Seat #4 is the button
+Seat 1: dindanio10 ($15.60 in chips) 
+Seat 2: Bessie0009 ($38.22 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($118.67 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: b1z88 ($38.36 in chips) 
+blistein: posts small blind $0.50
+b1z88: posts big blind $1
+*** HOLE CARDS ***
+dindanio10: folds 
+Bessie0009: calls $1
+Y_19: folds 
+b2k-Snick: folds 
+blistein: raises $3 to $4
+b1z88: folds 
+Bessie0009: calls $3
+*** FLOP *** [Ts Jh 6c]
+blistein: checks 
+Bessie0009: bets $4.28
+blistein: calls $4.28
+*** TURN *** [Ts Jh 6c] [7c]
+blistein: checks 
+Bessie0009: bets $8.34
+blistein: folds 
+Uncalled bet ($8.34) returned to Bessie0009
+Bessie0009 collected $16.68 from pot
+*** SUMMARY ***
+Total pot $17.56 | Rake $0.88 
+Board [Ts Jh 6c 7c]
+Seat 1: dindanio10 folded before Flop (didn't bet)
+Seat 2: Bessie0009 collected ($16.68)
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: blistein (small blind) folded on the Turn
+Seat 6: b1z88 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254279389583:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:26:18 WET [2025/01/09 11:26:18 ET]
+Table 'Vindobona III' 6-max Seat #5 is the button
+Seat 1: dindanio10 ($15.60 in chips) 
+Seat 2: Bessie0009 ($46.62 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($118.67 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: b1z88 ($37.36 in chips) 
+b1z88: posts small blind $0.50
+dindanio10: posts big blind $1
+*** HOLE CARDS ***
+Bessie0009: calls $1
+Y_19: folds 
+b2k-Snick: folds 
+blistein: folds 
+b1z88: calls $0.50
+dindanio10: checks 
+*** FLOP *** [7d 8d 9h]
+b1z88: bets $1
+dindanio10: calls $1
+Bessie0009: calls $1
+*** TURN *** [7d 8d 9h] [6h]
+b1z88: bets $3
+dindanio10: calls $3
+Bessie0009: raises $14.70 to $17.70
+b1z88: calls $14.70
+dindanio10: calls $10.60 and is all-in
+*** RIVER *** [7d 8d 9h 6h] [6d]
+b1z88: bets $17.66 and is all-in
+Bessie0009: calls $17.66
+*** SHOW DOWN ***
+b1z88: shows [9d 5d] (a straight flush, Five to Nine)
+Bessie0009: shows [Ts 9c] (a straight, Six to Ten)
+b1z88 collected $43.36 from side pot
+dindanio10: shows [Td 7c] (a straight, Six to Ten)
+b1z88 collected $44.46 from main pot
+*** SUMMARY ***
+Total pot $90.32 Main pot $44.46. Side pot $43.36. | Rake $2.50 
+Board [7d 8d 9h 6h 6d]
+Seat 1: dindanio10 (big blind) showed [Td 7c] and lost with a straight, Six to Ten
+Seat 2: Bessie0009 showed [Ts 9c] and lost with a straight, Six to Ten
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: blistein (button) folded before Flop (didn't bet)
+Seat 6: b1z88 (small blind) showed [9d 5d] and won ($87.82) with a straight flush, Five to Nine
+
+
+
+PokerStars Hand #254279410404:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:27:47 WET [2025/01/09 11:27:47 ET]
+Table 'Vindobona III' 6-max Seat #6 is the button
+Seat 1: dindanio10 ($0 in chips) is sitting out
+Seat 2: Bessie0009 ($9.26 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($118.67 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: b1z88 ($87.82 in chips) 
+Bessie0009: posts small blind $0.50
+Y_19: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+blistein: folds 
+dindanio10 leaves the table
+b1z88: folds 
+sta$igk joins the table at seat #1 
+Bessie0009: calls $0.50
+Y_19: checks 
+*** FLOP *** [5h 5s 9d]
+Bessie0009: checks 
+Y_19: bets $1
+Bessie0009: calls $1
+*** TURN *** [5h 5s 9d] [8s]
+Bessie0009: checks 
+Y_19: checks 
+*** RIVER *** [5h 5s 9d 8s] [4c]
+Bessie0009: bets $3.80
+Y_19: folds 
+Uncalled bet ($3.80) returned to Bessie0009
+Bessie0009 collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [5h 5s 9d 8s 4c]
+Seat 1: dindanio10
+Seat 2: Bessie0009 (small blind) collected ($3.80)
+Seat 3: Y_19 (big blind) folded on the River
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: b1z88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279420690:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:28:32 WET [2025/01/09 11:28:32 ET]
+Table 'Vindobona III' 6-max Seat #2 is the button
+Seat 1: sta$igk ($100 in chips) is sitting out
+Seat 2: Bessie0009 ($11.06 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($118.67 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: b1z88 ($87.82 in chips) 
+Y_19: posts small blind $0.50
+b2k-Snick: posts big blind $1
+sta$igk: sits out 
+*** HOLE CARDS ***
+blistein: folds 
+b1z88: folds 
+Bessie0009: raises $2.50 to $3.50
+Y_19: folds 
+b2k-Snick: folds 
+Uncalled bet ($2.50) returned to Bessie0009
+Bessie0009 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: sta$igk
+Seat 2: Bessie0009 (button) collected ($2.50)
+Seat 3: Y_19 (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: b1z88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279426038:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:28:55 WET [2025/01/09 11:28:55 ET]
+Table 'Vindobona III' 6-max Seat #3 is the button
+Seat 1: sta$igk ($100 in chips) is sitting out
+Seat 2: Bessie0009 ($12.56 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($117.67 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: b1z88 ($87.82 in chips) 
+b2k-Snick: posts small blind $0.50
+blistein: posts big blind $1
+sta$igk: sits out 
+*** HOLE CARDS ***
+b1z88: calls $1
+Bessie0009: calls $1
+Y_19: folds 
+b2k-Snick: raises $6 to $7
+blistein: folds 
+b1z88: folds 
+Bessie0009: folds 
+Uncalled bet ($6) returned to b2k-Snick
+b2k-Snick collected $4 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: sta$igk
+Seat 2: Bessie0009 folded before Flop
+Seat 3: Y_19 (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) collected ($4)
+Seat 5: blistein (big blind) folded before Flop
+Seat 6: b1z88 folded before Flop
+
+
+
+PokerStars Hand #254279433415:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:29:27 WET [2025/01/09 11:29:27 ET]
+Table 'Vindobona III' 6-max Seat #4 is the button
+Seat 1: sta$igk ($100 in chips) is sitting out
+Seat 2: Bessie0009 ($11.56 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($120.67 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: b1z88 ($86.82 in chips) 
+blistein: posts small blind $0.50
+b1z88: posts big blind $1
+sta$igk: sits out 
+*** HOLE CARDS ***
+Bessie0009: calls $1
+Y_19: folds 
+b2k-Snick: raises $3 to $4
+blistein: folds 
+b1z88: calls $3
+Bessie0009: calls $3
+*** FLOP *** [8s Ks Jc]
+b1z88: checks 
+Bessie0009: checks 
+b2k-Snick: bets $6.53
+b1z88: folds 
+Bessie0009: raises $1.03 to $7.56 and is all-in
+b2k-Snick: calls $1.03
+*** TURN *** [8s Ks Jc] [6h]
+*** RIVER *** [8s Ks Jc 6h] [3s]
+*** SHOW DOWN ***
+Bessie0009: shows [Jd Qs] (a pair of Jacks)
+b2k-Snick: shows [Kd As] (a pair of Kings)
+b2k-Snick collected $26.24 from pot
+*** SUMMARY ***
+Total pot $27.62 | Rake $1.38 
+Board [8s Ks Jc 6h 3s]
+Seat 1: sta$igk
+Seat 2: Bessie0009 showed [Jd Qs] and lost with a pair of Jacks
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) showed [Kd As] and won ($26.24) with a pair of Kings
+Seat 5: blistein (small blind) folded before Flop
+Seat 6: b1z88 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254279445776:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:30:20 WET [2025/01/09 11:30:20 ET]
+Table 'Vindobona III' 6-max Seat #5 is the button
+Seat 2: Bessie0009 ($0 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($135.35 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: b1z88 ($82.82 in chips) 
+b1z88: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+Y_19: folds 
+b2k-Snick: folds 
+Bessie0009 leaves the table
+blistein: folds 
+b1z88: calls $0.50
+sta$igk: checks 
+*** FLOP *** [3d 8d 2d]
+b1z88: bets $3
+sta$igk: calls $3
+*** TURN *** [3d 8d 2d] [5d]
+yzuk joins the table at seat #2 
+b1z88: bets $7.60
+sta$igk: folds 
+Uncalled bet ($7.60) returned to b1z88
+b1z88 collected $7.60 from pot
+b1z88: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [3d 8d 2d 5d]
+Seat 2: Bessie0009
+Seat 1: sta$igk (big blind) folded on the Turn
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: blistein (button) folded before Flop (didn't bet)
+Seat 6: b1z88 (small blind) collected ($7.60)
+
+
+
+PokerStars Hand #254279453237:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:30:51 WET [2025/01/09 11:30:51 ET]
+Table 'Vindobona III' 6-max Seat #6 is the button
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($135.35 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: b1z88 ($86.42 in chips) 
+sta$igk: posts small blind $0.50
+yzuk: posts big blind $1
+*** HOLE CARDS ***
+Y_19: folds 
+b2k-Snick: folds 
+blistein: folds 
+b1z88: calls $1
+sta$igk: folds 
+yzuk: checks 
+*** FLOP *** [Ac 5d 8c]
+yzuk: checks 
+b1z88: checks 
+*** TURN *** [Ac 5d 8c] [Jc]
+yzuk: checks 
+b1z88: bets $3
+yzuk: folds 
+Uncalled bet ($3) returned to b1z88
+b1z88 collected $2.38 from pot
+b1z88: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Ac 5d 8c Jc]
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: yzuk (big blind) folded on the Turn
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: b1z88 (button) collected ($2.38)
+
+
+
+PokerStars Hand #254279466232:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:31:46 WET [2025/01/09 11:31:46 ET]
+Table 'Vindobona III' 6-max Seat #1 is the button
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($135.35 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: b1z88 ($87.80 in chips) 
+yzuk: posts small blind $0.50
+Y_19: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+blistein: folds 
+b1z88: calls $1
+sta$igk: folds 
+yzuk: folds 
+Y_19: checks 
+*** FLOP *** [4h 6s 5s]
+Y_19: checks 
+b1z88: bets $2
+Y_19: calls $2
+*** TURN *** [4h 6s 5s] [8h]
+Y_19: checks 
+b1z88: bets $6
+Y_19: calls $6
+*** RIVER *** [4h 6s 5s 8h] [Th]
+Y_19: checks 
+b1z88: bets $20
+Y_19: calls $20
+*** SHOW DOWN ***
+b1z88: shows [Js Ah] (high card Ace)
+Y_19: shows [7h 5c] (a straight, Four to Eight)
+Y_19 collected $56 from pot
+*** SUMMARY ***
+Total pot $58.50 | Rake $2.50 
+Board [4h 6s 5s 8h Th]
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: yzuk (small blind) folded before Flop
+Seat 3: Y_19 (big blind) showed [7h 5c] and won ($56) with a straight, Four to Eight
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: b1z88 showed [Js Ah] and lost with high card Ace
+
+
+
+PokerStars Hand #254279481293:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:32:50 WET [2025/01/09 11:32:50 ET]
+Table 'Vindobona III' 6-max Seat #2 is the button
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($127 in chips) 
+Seat 4: b2k-Snick ($135.35 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: b1z88 ($58.80 in chips) 
+Y_19: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b1z88: calls $1
+sta$igk: folds 
+yzuk: folds 
+Y_19: folds 
+b2k-Snick: raises $3 to $4
+b1z88: calls $3
+*** FLOP *** [Ah 5d 7s]
+b2k-Snick: bets $2.67
+b1z88: folds 
+Uncalled bet ($2.67) returned to b2k-Snick
+b2k-Snick collected $8.08 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [Ah 5d 7s]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: yzuk (button) folded before Flop (didn't bet)
+Seat 3: Y_19 (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) collected ($8.08)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: b1z88 folded on the Flop
+
+
+
+PokerStars Hand #254279488749:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:33:21 WET [2025/01/09 11:33:21 ET]
+Table 'Vindobona III' 6-max Seat #3 is the button
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($126.50 in chips) 
+Seat 4: b2k-Snick ($139.43 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: b1z88 ($54.80 in chips) 
+b2k-Snick: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b1z88: folds 
+sta$igk: folds 
+yzuk: raises $1.50 to $2.50
+Y_19: folds 
+b2k-Snick: folds 
+blistein: raises $10.50 to $13
+yzuk: calls $10.50
+*** FLOP *** [3s 4c Ts]
+blistein: bets $12.59
+yzuk: calls $12.59
+*** TURN *** [3s 4c Ts] [Js]
+blistein: checks 
+yzuk: bets $12.79
+blistein: calls $12.79
+*** RIVER *** [3s 4c Ts Js] [9h]
+blistein: checks 
+yzuk: checks 
+*** SHOW DOWN ***
+blistein: shows [Ah As] (a pair of Aces)
+yzuk: mucks hand 
+blistein collected $74.76 from pot
+*** SUMMARY ***
+Total pot $77.26 | Rake $2.50 
+Board [3s 4c Ts Js 9h]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: yzuk mucked
+Seat 3: Y_19 (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: blistein (big blind) showed [Ah As] and won ($74.76) with a pair of Aces
+Seat 6: b1z88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279516540:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:35:17 WET [2025/01/09 11:35:17 ET]
+Table 'Vindobona III' 6-max Seat #4 is the button
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($126.50 in chips) 
+Seat 4: b2k-Snick ($138.93 in chips) 
+Seat 5: blistein ($136.38 in chips) 
+Seat 6: b1z88 ($54.80 in chips) 
+blistein: posts small blind $0.50
+b1z88: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+yzuk: folds 
+Y_19: folds 
+b2k-Snick: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to b1z88
+b1z88 collected $1 from pot
+b1z88: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: yzuk folded before Flop (didn't bet)
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: blistein (small blind) folded before Flop
+Seat 6: b1z88 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254279519180:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:35:29 WET [2025/01/09 11:35:29 ET]
+Table 'Vindobona III' 6-max Seat #5 is the button
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($126.50 in chips) 
+Seat 4: b2k-Snick ($138.93 in chips) 
+Seat 5: blistein ($135.88 in chips) 
+Seat 6: b1z88 ($55.30 in chips) 
+b1z88: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+yzuk: folds 
+Y_19: folds 
+b2k-Snick: folds 
+blistein: folds 
+b1z88: calls $0.50
+sta$igk: raises $3 to $4
+b1z88: folds 
+Uncalled bet ($3) returned to sta$igk
+sta$igk collected $2 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: sta$igk (big blind) collected ($2)
+Seat 2: yzuk folded before Flop (didn't bet)
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: blistein (button) folded before Flop (didn't bet)
+Seat 6: b1z88 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254279525445:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:35:55 WET [2025/01/09 11:35:55 ET]
+Table 'Vindobona III' 6-max Seat #6 is the button
+Seat 1: sta$igk ($101 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($126.50 in chips) 
+Seat 4: b2k-Snick ($138.93 in chips) 
+Seat 5: blistein ($135.88 in chips) 
+Seat 6: b1z88 ($54.30 in chips) 
+sta$igk: posts small blind $0.50
+yzuk: posts big blind $1
+*** HOLE CARDS ***
+Y_19: folds 
+b2k-Snick: raises $1.10 to $2.10
+blistein: folds 
+b1z88: calls $2.10
+sta$igk: raises $11.90 to $14
+yzuk: folds 
+b2k-Snick: folds 
+b1z88: folds 
+Uncalled bet ($11.90) returned to sta$igk
+sta$igk collected $7.30 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.30 | Rake $0 
+Seat 1: sta$igk (small blind) collected ($7.30)
+Seat 2: yzuk (big blind) folded before Flop
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: b1z88 (button) folded before Flop
+
+
+
+PokerStars Hand #254279532018:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:36:23 WET [2025/01/09 11:36:23 ET]
+Table 'Vindobona III' 6-max Seat #1 is the button
+Seat 1: sta$igk ($106.20 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($126.50 in chips) 
+Seat 4: b2k-Snick ($136.83 in chips) 
+Seat 5: blistein ($135.88 in chips) 
+Seat 6: b1z88 ($52.20 in chips) 
+yzuk: posts small blind $0.50
+Y_19: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+blistein: folds 
+b1z88: calls $1
+sta$igk: folds 
+yzuk: raises $3 to $4
+Y_19: folds 
+b1z88: calls $3
+*** FLOP *** [Ad 9s 3h]
+yzuk: bets $2.91
+b1z88: calls $2.91
+*** TURN *** [Ad 9s 3h] [Td]
+yzuk: bets $7.18
+b1z88: calls $7.18
+*** RIVER *** [Ad 9s 3h Td] [4d]
+yzuk: checks 
+b1z88: bets $38.11 and is all-in
+yzuk: folds 
+Uncalled bet ($38.11) returned to b1z88
+b1z88 collected $27.72 from pot
+b1z88: doesn't show hand 
+*** SUMMARY ***
+Total pot $29.18 | Rake $1.46 
+Board [Ad 9s 3h Td 4d]
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: yzuk (small blind) folded on the River
+Seat 3: Y_19 (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: b1z88 collected ($27.72)
+
+
+
+PokerStars Hand #254279544875:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:37:16 WET [2025/01/09 11:37:16 ET]
+Table 'Vindobona III' 6-max Seat #2 is the button
+Seat 1: sta$igk ($106.20 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($125.50 in chips) 
+Seat 4: b2k-Snick ($136.83 in chips) 
+Seat 5: blistein ($135.88 in chips) 
+Seat 6: b1z88 ($65.83 in chips) 
+Y_19: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b1z88: folds 
+sta$igk: folds 
+yzuk: folds 
+Y_19: folds 
+Uncalled bet ($0.50) returned to b2k-Snick
+b2k-Snick collected $1 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: yzuk (button) folded before Flop (didn't bet)
+Seat 3: Y_19 (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) collected ($1)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: b1z88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279547466:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:37:26 WET [2025/01/09 11:37:26 ET]
+Table 'Vindobona III' 6-max Seat #3 is the button
+Seat 1: sta$igk ($106.20 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($125 in chips) 
+Seat 4: b2k-Snick ($137.33 in chips) 
+Seat 5: blistein ($135.88 in chips) 
+Seat 6: b1z88 ($65.83 in chips) 
+b2k-Snick: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b1z88: calls $1
+sta$igk: folds 
+yzuk: folds 
+Y_19: folds 
+b2k-Snick: folds 
+blistein: checks 
+*** FLOP *** [Jc Ks Tc]
+blistein: bets $2.21
+b1z88: calls $2.21
+*** TURN *** [Jc Ks Tc] [Td]
+blistein: bets $5.61
+b1z88: raises $5.61 to $11.22
+blistein: calls $5.61
+*** RIVER *** [Jc Ks Tc Td] [4c]
+blistein: bets $9.48
+b1z88: raises $20.52 to $30
+blistein: folds 
+Uncalled bet ($20.52) returned to b1z88
+b1z88 collected $45.90 from pot
+b1z88: doesn't show hand 
+*** SUMMARY ***
+Total pot $48.32 | Rake $2.42 
+Board [Jc Ks Tc Td 4c]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: yzuk folded before Flop (didn't bet)
+Seat 3: Y_19 (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: blistein (big blind) folded on the River
+Seat 6: b1z88 collected ($45.90)
+
+
+
+PokerStars Hand #254279568404:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:38:54 WET [2025/01/09 11:38:54 ET]
+Table 'Vindobona III' 6-max Seat #4 is the button
+Seat 1: sta$igk ($106.20 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($125 in chips) 
+Seat 4: b2k-Snick ($136.83 in chips) 
+Seat 5: blistein ($111.97 in chips) 
+Seat 6: b1z88 ($87.82 in chips) 
+blistein: posts small blind $0.50
+b1z88: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+yzuk: folds 
+Y_19: folds 
+b2k-Snick: folds 
+blistein: raises $2 to $3
+b1z88: calls $2
+*** FLOP *** [8d 3h Qs]
+blistein: bets $1.50
+b1z88: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $5.70 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [8d 3h Qs]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: yzuk folded before Flop (didn't bet)
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: blistein (small blind) collected ($5.70)
+Seat 6: b1z88 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254279576396:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:39:27 WET [2025/01/09 11:39:27 ET]
+Table 'Vindobona III' 6-max Seat #5 is the button
+Seat 1: sta$igk ($106.20 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($125 in chips) 
+Seat 4: b2k-Snick ($136.83 in chips) 
+Seat 5: blistein ($114.67 in chips) 
+Seat 6: b1z88 ($84.82 in chips) 
+b1z88: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+yzuk: folds 
+Y_19: folds 
+b2k-Snick: folds 
+blistein: raises $1.50 to $2.50
+b1z88: calls $2
+sta$igk: folds 
+*** FLOP *** [5h Qc 9d]
+b1z88: checks 
+blistein: bets $1.43
+b1z88: calls $1.43
+*** TURN *** [5h Qc 9d] [8h]
+b1z88: checks 
+blistein: bets $4.21
+b1z88: calls $4.21
+*** RIVER *** [5h Qc 9d 8h] [Ad]
+b1z88: checks 
+blistein: bets $12.32
+b1z88: calls $12.32
+*** SHOW DOWN ***
+blistein: shows [As 9h] (two pair, Aces and Nines)
+b1z88: mucks hand 
+blistein collected $39.82 from pot
+*** SUMMARY ***
+Total pot $41.92 | Rake $2.10 
+Board [5h Qc 9d 8h Ad]
+Seat 1: sta$igk (big blind) folded before Flop
+Seat 2: yzuk folded before Flop (didn't bet)
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: blistein (button) showed [As 9h] and won ($39.82) with two pair, Aces and Nines
+Seat 6: b1z88 (small blind) mucked
+
+
+
+PokerStars Hand #254279592303:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:40:33 WET [2025/01/09 11:40:33 ET]
+Table 'Vindobona III' 6-max Seat #6 is the button
+Seat 1: sta$igk ($105.20 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($125 in chips) 
+Seat 4: b2k-Snick ($136.83 in chips) 
+Seat 5: blistein ($134.03 in chips) 
+Seat 6: b1z88 ($64.36 in chips) 
+sta$igk: posts small blind $0.50
+yzuk: posts big blind $1
+*** HOLE CARDS ***
+Y_19: raises $1.23 to $2.23
+b2k-Snick: folds 
+blistein: folds 
+b1z88: calls $2.23
+sta$igk: folds 
+yzuk: folds 
+*** FLOP *** [2s 3s Td]
+Y_19: bets $1.87
+b1z88: calls $1.87
+*** TURN *** [2s 3s Td] [7s]
+Y_19: bets $6.92
+b1z88: calls $6.92
+*** RIVER *** [2s 3s Td 7s] [Ks]
+Y_19: checks 
+b1z88: bets $22.36
+Y_19: calls $22.36
+*** SHOW DOWN ***
+b1z88: shows [5s Ac] (a flush, King high)
+Y_19: shows [9s Js] (a flush, King high - Jack higher)
+Y_19 collected $65.76 from pot
+*** SUMMARY ***
+Total pot $68.26 | Rake $2.50 
+Board [2s 3s Td 7s Ks]
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: yzuk (big blind) folded before Flop
+Seat 3: Y_19 showed [9s Js] and won ($65.76) with a flush, King high
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: b1z88 (button) showed [5s Ac] and lost with a flush, King high
+
+
+
+PokerStars Hand #254279601114:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:41:09 WET [2025/01/09 11:41:09 ET]
+Table 'Vindobona III' 6-max Seat #1 is the button
+Seat 1: sta$igk ($104.70 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($157.38 in chips) 
+Seat 4: b2k-Snick ($136.83 in chips) 
+Seat 5: blistein ($134.03 in chips) 
+Seat 6: b1z88 ($30.98 in chips) 
+yzuk: posts small blind $0.50
+Y_19: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+blistein: folds 
+b1z88: folds 
+b1z88 leaves the table
+sta$igk: raises $1.50 to $2.50
+yzuk: folds 
+Y_19: calls $1.50
+*** FLOP *** [9d 9h Td]
+Y_19: checks 
+sta$igk: bets $1.72
+Y_19: calls $1.72
+*** TURN *** [9d 9h Td] [8s]
+Y_19: checks 
+sta$igk: bets $6.37
+Y_19: calls $6.37
+*** RIVER *** [9d 9h Td 8s] [8d]
+Y_19: checks 
+sta$igk: bets $20.60
+Y_19: folds 
+Uncalled bet ($20.60) returned to sta$igk
+sta$igk collected $20.60 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.68 | Rake $1.08 
+Board [9d 9h Td 8s 8d]
+Seat 1: sta$igk (button) collected ($20.60)
+Seat 2: yzuk (small blind) folded before Flop
+Seat 3: Y_19 (big blind) folded on the River
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: b1z88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279627826:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:43:01 WET [2025/01/09 11:43:01 ET]
+Table 'Vindobona III' 6-max Seat #2 is the button
+Seat 1: sta$igk ($114.71 in chips) 
+Seat 2: yzuk ($100 in chips) 
+Seat 3: Y_19 ($146.79 in chips) 
+Seat 4: b2k-Snick ($136.83 in chips) 
+Seat 5: blistein ($134.03 in chips) 
+Y_19: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+blistein leaves the table
+sta$igk: folds 
+yzuk: folds 
+Y_19: raises $2 to $3
+b2k-Snick: folds 
+Uncalled bet ($2) returned to Y_19
+Y_19 collected $2 from pot
+Y_19: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: yzuk (button) folded before Flop (didn't bet)
+Seat 3: Y_19 (small blind) collected ($2)
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279252109:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:16:30 WET [2025/01/09 11:16:30 ET]
+Table 'Vindobona III' 6-max Seat #3 is the button
+Seat 1: dindanio10 ($10.08 in chips) is sitting out
+Seat 2: Bessie0009 ($18.63 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($108.12 in chips) 
+Seat 5: machosaliba22 ($15.49 in chips) 
+b2k-Snick: posts small blind $0.50
+machosaliba22: posts big blind $1
+dindanio10: sits out 
+*** HOLE CARDS ***
+Bessie0009: calls $1
+Y_19: folds 
+b2k-Snick: calls $0.50
+machosaliba22: checks 
+*** FLOP *** [Ad 5c 9s]
+b2k-Snick: checks 
+machosaliba22: checks 
+Bessie0009: checks 
+*** TURN *** [Ad 5c 9s] [7s]
+b1z88 joins the table at seat #6 
+b2k-Snick: checks 
+machosaliba22: checks 
+Bessie0009: bets $2.85
+b2k-Snick: folds 
+machosaliba22: folds 
+Uncalled bet ($2.85) returned to Bessie0009
+Bessie0009 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Ad 5c 9s 7s]
+Seat 1: dindanio10
+Seat 2: Bessie0009 collected ($2.85)
+Seat 3: Y_19 (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded on the Turn
+Seat 5: machosaliba22 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254279258854:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:16:59 WET [2025/01/09 11:16:59 ET]
+Table 'Vindobona III' 6-max Seat #4 is the button
+Seat 1: dindanio10 ($10.08 in chips) is sitting out
+Seat 2: Bessie0009 ($20.48 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($107.12 in chips) 
+Seat 5: machosaliba22 ($14.49 in chips) 
+Seat 6: b1z88 ($10 in chips) 
+machosaliba22: posts small blind $0.50
+b1z88: posts big blind $1
+dindanio10: sits out 
+*** HOLE CARDS ***
+Bessie0009: folds 
+Y_19: folds 
+b2k-Snick: folds 
+machosaliba22: folds 
+Uncalled bet ($0.50) returned to b1z88
+b1z88 collected $1 from pot
+b1z88: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: dindanio10
+Seat 2: Bessie0009 folded before Flop (didn't bet)
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: machosaliba22 (small blind) folded before Flop
+Seat 6: b1z88 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254279262369:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:17:14 WET [2025/01/09 11:17:14 ET]
+Table 'Vindobona III' 6-max Seat #5 is the button
+Seat 1: dindanio10 ($10.08 in chips) 
+Seat 2: Bessie0009 ($20.48 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($107.12 in chips) 
+Seat 5: machosaliba22 ($13.99 in chips) 
+Seat 6: b1z88 ($10.50 in chips) 
+b1z88: posts small blind $0.50
+dindanio10: posts big blind $1
+*** HOLE CARDS ***
+Bessie0009: folds 
+Y_19: raises $1.23 to $2.23
+b2k-Snick: folds 
+machosaliba22: folds 
+b1z88: calls $1.73
+dindanio10: folds 
+*** FLOP *** [5d 7h 7c]
+b1z88: checks 
+Y_19: bets $1.71
+b1z88: calls $1.71
+*** TURN *** [5d 7h 7c] [7s]
+b1z88: checks 
+Y_19: checks 
+*** RIVER *** [5d 7h 7c 7s] [4d]
+b1z88: bets $3
+Y_19: raises $7.22 to $10.22
+b1z88: folds 
+Uncalled bet ($7.22) returned to Y_19
+Y_19 collected $14.14 from pot
+Y_19: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.88 | Rake $0.74 
+Board [5d 7h 7c 7s 4d]
+Seat 1: dindanio10 (big blind) folded before Flop
+Seat 2: Bessie0009 folded before Flop (didn't bet)
+Seat 3: Y_19 collected ($14.14)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: machosaliba22 (button) folded before Flop (didn't bet)
+Seat 6: b1z88 (small blind) folded on the River
+
+
+
+PokerStars Hand #254279277272:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:18:19 WET [2025/01/09 11:18:19 ET]
+Table 'Vindobona III' 6-max Seat #6 is the button
+Seat 1: dindanio10 ($9.08 in chips) 
+Seat 2: Bessie0009 ($20.48 in chips) 
+Seat 3: Y_19 ($107.20 in chips) 
+Seat 4: b2k-Snick ($107.12 in chips) 
+Seat 5: machosaliba22 ($13.99 in chips) 
+Seat 6: b1z88 ($3.56 in chips) 
+dindanio10: posts small blind $0.50
+Bessie0009: posts big blind $1
+*** HOLE CARDS ***
+Y_19: folds 
+b2k-Snick: raises $1.50 to $2.50
+machosaliba22: folds 
+b1z88: folds 
+dindanio10: folds 
+Bessie0009: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2.50 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: dindanio10 (small blind) folded before Flop
+Seat 2: Bessie0009 (big blind) folded before Flop
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick collected ($2.50)
+Seat 5: machosaliba22 folded before Flop (didn't bet)
+Seat 6: b1z88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279279993:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:18:31 WET [2025/01/09 11:18:31 ET]
+Table 'Vindobona III' 6-max Seat #1 is the button
+Seat 1: dindanio10 ($8.58 in chips) 
+Seat 2: Bessie0009 ($19.48 in chips) 
+Seat 3: Y_19 ($107.20 in chips) 
+Seat 4: b2k-Snick ($108.62 in chips) 
+Seat 5: machosaliba22 ($13.99 in chips) 
+Seat 6: b1z88 ($43.56 in chips) 
+Bessie0009: posts small blind $0.50
+Y_19: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+machosaliba22: calls $2.50
+b1z88: calls $2.50
+dindanio10: folds 
+Bessie0009: calls $2
+Y_19: folds 
+*** FLOP *** [Kh 9d 4s]
+Bessie0009: checks 
+b2k-Snick: checks 
+machosaliba22: checks 
+b1z88: checks 
+*** TURN *** [Kh 9d 4s] [Kc]
+Bessie0009: checks 
+b2k-Snick: checks 
+machosaliba22: bets $3
+b1z88: folds 
+Bessie0009: folds 
+b2k-Snick: folds 
+Uncalled bet ($3) returned to machosaliba22
+machosaliba22 collected $10.45 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [Kh 9d 4s Kc]
+Seat 1: dindanio10 (button) folded before Flop (didn't bet)
+Seat 2: Bessie0009 (small blind) folded on the Turn
+Seat 3: Y_19 (big blind) folded before Flop
+Seat 4: b2k-Snick folded on the Turn
+Seat 5: machosaliba22 collected ($10.45)
+Seat 6: b1z88 folded on the Turn
+
+
+
+PokerStars Hand #254279290085:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:19:14 WET [2025/01/09 11:19:14 ET]
+Table 'Vindobona III' 6-max Seat #2 is the button
+Seat 1: dindanio10 ($8.58 in chips) 
+Seat 2: Bessie0009 ($16.98 in chips) 
+Seat 3: Y_19 ($106.20 in chips) 
+Seat 4: b2k-Snick ($106.12 in chips) 
+Seat 5: machosaliba22 ($21.94 in chips) 
+Seat 6: b1z88 ($41.06 in chips) 
+Y_19: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+machosaliba22: folds 
+b1z88: calls $1
+dindanio10: folds 
+Bessie0009: raises $3.50 to $4.50
+Y_19: folds 
+b2k-Snick: folds 
+b1z88: folds 
+Uncalled bet ($3.50) returned to Bessie0009
+Bessie0009 collected $3.50 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: dindanio10 folded before Flop (didn't bet)
+Seat 2: Bessie0009 (button) collected ($3.50)
+Seat 3: Y_19 (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: machosaliba22 folded before Flop (didn't bet)
+Seat 6: b1z88 folded before Flop
+
+
+
+PokerStars Hand #254279294187:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:19:31 WET [2025/01/09 11:19:31 ET]
+Table 'Vindobona III' 6-max Seat #3 is the button
+Seat 1: dindanio10 ($8.58 in chips) 
+Seat 2: Bessie0009 ($19.48 in chips) 
+Seat 3: Y_19 ($105.70 in chips) 
+Seat 4: b2k-Snick ($105.12 in chips) 
+Seat 5: machosaliba22 ($21.94 in chips) 
+Seat 6: b1z88 ($40.06 in chips) 
+b2k-Snick: posts small blind $0.50
+machosaliba22: posts big blind $1
+*** HOLE CARDS ***
+b1z88: calls $1
+dindanio10: raises $1.50 to $2.50
+Bessie0009: folds 
+Y_19: calls $2.50
+b2k-Snick: folds 
+machosaliba22: folds 
+b1z88: calls $1.50
+*** FLOP *** [Jd 5c 4c]
+b1z88: checks 
+dindanio10: checks 
+Y_19: bets $6.41
+b1z88: folds 
+dindanio10: calls $6.08 and is all-in
+Uncalled bet ($0.33) returned to Y_19
+*** TURN *** [Jd 5c 4c] [Kc]
+*** RIVER *** [Jd 5c 4c Kc] [3s]
+*** SHOW DOWN ***
+dindanio10: shows [Ac Kh] (a pair of Kings)
+Y_19: shows [6c 6s] (a pair of Sixes)
+dindanio10 collected $20.10 from pot
+*** SUMMARY ***
+Total pot $21.16 | Rake $1.06 
+Board [Jd 5c 4c Kc 3s]
+Seat 1: dindanio10 showed [Ac Kh] and won ($20.10) with a pair of Kings
+Seat 2: Bessie0009 folded before Flop (didn't bet)
+Seat 3: Y_19 (button) showed [6c 6s] and lost with a pair of Sixes
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: machosaliba22 (big blind) folded before Flop
+Seat 6: b1z88 folded on the Flop
+
+
+
+PokerStars Hand #254279308947:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:20:34 WET [2025/01/09 11:20:34 ET]
+Table 'Vindobona III' 6-max Seat #4 is the button
+Seat 1: dindanio10 ($20.10 in chips) 
+Seat 2: Bessie0009 ($19.48 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($104.62 in chips) 
+Seat 5: machosaliba22 ($20.94 in chips) 
+Seat 6: b1z88 ($37.56 in chips) 
+machosaliba22: posts small blind $0.50
+b1z88: posts big blind $1
+*** HOLE CARDS ***
+dindanio10: folds 
+Bessie0009: calls $1
+Y_19: folds 
+b2k-Snick: folds 
+machosaliba22: calls $0.50
+b1z88: checks 
+*** FLOP *** [4c Th 7d]
+machosaliba22: checks 
+b1z88: checks 
+Bessie0009: bets $2.85
+machosaliba22: folds 
+b1z88: folds 
+Uncalled bet ($2.85) returned to Bessie0009
+Bessie0009 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [4c Th 7d]
+Seat 1: dindanio10 folded before Flop (didn't bet)
+Seat 2: Bessie0009 collected ($2.85)
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: machosaliba22 (small blind) folded on the Flop
+Seat 6: b1z88 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254279316436:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:21:06 WET [2025/01/09 11:21:06 ET]
+Table 'Vindobona III' 6-max Seat #5 is the button
+Seat 1: dindanio10 ($20.10 in chips) 
+Seat 2: Bessie0009 ($21.33 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($104.62 in chips) 
+Seat 5: machosaliba22 ($19.94 in chips) 
+Seat 6: b1z88 ($36.56 in chips) 
+b1z88: posts small blind $0.50
+dindanio10: posts big blind $1
+*** HOLE CARDS ***
+Bessie0009: calls $1
+Y_19: folds 
+b2k-Snick: folds 
+machosaliba22: calls $1
+b1z88: calls $0.50
+dindanio10: checks 
+*** FLOP *** [6c Js Ad]
+b1z88: checks 
+dindanio10: checks 
+Bessie0009: checks 
+machosaliba22: checks 
+*** TURN *** [6c Js Ad] [2s]
+b1z88: checks 
+dindanio10: checks 
+Bessie0009: checks 
+machosaliba22: checks 
+*** RIVER *** [6c Js Ad 2s] [Qc]
+b1z88: bets $3.80
+dindanio10: folds 
+Bessie0009: folds 
+machosaliba22: folds 
+Uncalled bet ($3.80) returned to b1z88
+b1z88 collected $3.80 from pot
+b1z88: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [6c Js Ad 2s Qc]
+Seat 1: dindanio10 (big blind) folded on the River
+Seat 2: Bessie0009 folded on the River
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: machosaliba22 (button) folded on the River
+Seat 6: b1z88 (small blind) collected ($3.80)
+
+
+
+PokerStars Hand #254279329667:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:22:03 WET [2025/01/09 11:22:03 ET]
+Table 'Vindobona III' 6-max Seat #6 is the button
+Seat 1: dindanio10 ($19.10 in chips) 
+Seat 2: Bessie0009 ($20.33 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($104.62 in chips) 
+Seat 5: machosaliba22 ($18.94 in chips) 
+Seat 6: b1z88 ($39.36 in chips) 
+dindanio10: posts small blind $0.50
+Bessie0009: posts big blind $1
+*** HOLE CARDS ***
+Y_19: folds 
+b2k-Snick: folds 
+machosaliba22: calls $1
+b1z88: calls $1
+dindanio10: calls $0.50
+Bessie0009: raises $4 to $5
+machosaliba22: calls $4
+b1z88: folds 
+dindanio10: folds 
+*** FLOP *** [7c 5c 5d]
+Bessie0009: checks 
+machosaliba22: checks 
+*** TURN *** [7c 5c 5d] [Qc]
+Bessie0009: bets $5.70
+machosaliba22: raises $8.24 to $13.94 and is all-in
+Bessie0009: calls $8.24
+*** RIVER *** [7c 5c 5d Qc] [8d]
+*** SHOW DOWN ***
+Bessie0009: shows [5h 5s] (four of a kind, Fives)
+machosaliba22: shows [9c 8c] (a flush, Queen high)
+Bessie0009 collected $37.89 from pot
+*** SUMMARY ***
+Total pot $39.88 | Rake $1.99 
+Board [7c 5c 5d Qc 8d]
+Seat 1: dindanio10 (small blind) folded before Flop
+Seat 2: Bessie0009 (big blind) showed [5h 5s] and won ($37.89) with four of a kind, Fives
+Seat 3: Y_19 folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: machosaliba22 showed [9c 8c] and lost with a flush, Queen high
+Seat 6: b1z88 (button) folded before Flop
+
+
+
+PokerStars Hand #254279339817:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:22:46 WET [2025/01/09 11:22:46 ET]
+Table 'Vindobona III' 6-max Seat #1 is the button
+Seat 5: machosaliba22 ($0 in chips) is sitting out
+Seat 1: dindanio10 ($18.10 in chips) 
+Seat 2: Bessie0009 ($39.28 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($104.62 in chips) 
+Seat 6: b1z88 ($38.36 in chips) 
+Bessie0009: posts small blind $0.50
+Y_19: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+machosaliba22 leaves the table
+blistein joins the table at seat #5 
+b1z88 has timed out
+b1z88: folds 
+dindanio10: folds 
+Bessie0009: calls $0.50
+Y_19: raises $3 to $4
+Bessie0009: calls $3
+*** FLOP *** [2d Qh 2h]
+Bessie0009: checks 
+Y_19: checks 
+*** TURN *** [2d Qh 2h] [4d]
+Bessie0009: bets $7.60
+Y_19: calls $7.60
+*** RIVER *** [2d Qh 2h 4d] [Td]
+Bessie0009: checks 
+Y_19: checks 
+*** SHOW DOWN ***
+Bessie0009: shows [9d Ad] (a flush, Ace high)
+Y_19: mucks hand 
+Bessie0009 collected $22.04 from pot
+*** SUMMARY ***
+Total pot $23.20 | Rake $1.16 
+Board [2d Qh 2h 4d Td]
+Seat 5: machosaliba22
+Seat 1: dindanio10 (button) folded before Flop (didn't bet)
+Seat 2: Bessie0009 (small blind) showed [9d Ad] and won ($22.04) with a flush, Ace high
+Seat 3: Y_19 (big blind) mucked
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 6: b1z88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279352064:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:23:39 WET [2025/01/09 11:23:39 ET]
+Table 'Vindobona III' 6-max Seat #2 is the button
+Seat 5: blistein ($100 in chips) is sitting out
+Seat 1: dindanio10 ($18.10 in chips) 
+Seat 2: Bessie0009 ($49.72 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($104.62 in chips) 
+Seat 6: b1z88 ($38.36 in chips) 
+Y_19: posts small blind $0.50
+b2k-Snick: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+b1z88: folds 
+dindanio10: raises $1.50 to $2.50
+Bessie0009: calls $2.50
+Y_19: folds 
+b2k-Snick: raises $10.50 to $13
+dindanio10: folds 
+Bessie0009: calls $10.50
+*** FLOP *** [3d 2c 9s]
+b2k-Snick: bets $9.09
+Bessie0009: folds 
+Uncalled bet ($9.09) returned to b2k-Snick
+b2k-Snick collected $27.55 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $29 | Rake $1.45 
+Board [3d 2c 9s]
+Seat 5: blistein
+Seat 1: dindanio10 folded before Flop
+Seat 2: Bessie0009 (button) folded on the Flop
+Seat 3: Y_19 (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) collected ($27.55)
+Seat 6: b1z88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279366178:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:24:39 WET [2025/01/09 11:24:39 ET]
+Table 'Vindobona III' 6-max Seat #3 is the button
+Seat 1: dindanio10 ($15.60 in chips) 
+Seat 2: Bessie0009 ($36.72 in chips) 
+Seat 3: Y_19 ($100 in chips) 
+Seat 4: b2k-Snick ($119.17 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: b1z88 ($38.36 in chips) 
+b2k-Snick: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b1z88 has timed out
+b1z88: folds 
+dindanio10: folds 
+Bessie0009: raises $2.50 to $3.50
+Y_19: folds 
+b2k-Snick: folds 
+blistein: folds 
+Uncalled bet ($2.50) returned to Bessie0009
+Bessie0009 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: dindanio10 folded before Flop (didn't bet)
+Seat 2: Bessie0009 collected ($2.50)
+Seat 3: Y_19 (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: blistein (big blind) folded before Flop
+Seat 6: b1z88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279914578:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 17:04:00 WET [2025/01/09 12:04:00 ET]
+Table 'Vindobona III' 6-max Seat #3 is the button
+Seat 1: YeeesMan ($100 in chips) is sitting out
+Seat 2: AIien Hand ($100 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 4: b2k-Snick ($135.83 in chips) 
+Seat 5: FAZY011 ($10 in chips) 
+Seat 6: nastja336 ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+FAZY011: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+YeeesMan leaves the table
+AIien Hand: folds 
+Unipoker11: folds 
+b2k-Snick: folds 
+Uncalled bet ($0.50) returned to FAZY011
+FAZY011 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: YeeesMan
+Seat 2: AIien Hand folded before Flop (didn't bet)
+Seat 3: Unipoker11 (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: FAZY011 (big blind) collected ($1)
+Seat 6: nastja336 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279917508:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 17:04:13 WET [2025/01/09 12:04:13 ET]
+Table 'Vindobona III' 6-max Seat #4 is the button
+Seat 2: AIien Hand ($100 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 4: b2k-Snick ($135.33 in chips) 
+Seat 5: FAZY011 ($10.50 in chips) 
+Seat 6: nastja336 ($100 in chips) 
+FAZY011: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+AIien Hand: raises $1 to $2
+Unipoker11: folds 
+b2k-Snick: raises $5.50 to $7.50
+FAZY011: folds 
+nastja336: folds 
+riky lorenzo joins the table at seat #1 
+AIien Hand: folds 
+Uncalled bet ($5.50) returned to b2k-Snick
+b2k-Snick collected $5.50 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 2: AIien Hand folded before Flop
+Seat 3: Unipoker11 folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) collected ($5.50)
+Seat 5: FAZY011 (small blind) folded before Flop
+Seat 6: nastja336 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254279926223:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 17:04:48 WET [2025/01/09 12:04:48 ET]
+Table 'Vindobona III' 6-max Seat #5 is the button
+Seat 1: riky lorenzo ($100 in chips) 
+Seat 2: AIien Hand ($100 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 4: b2k-Snick ($138.83 in chips) 
+Seat 5: FAZY011 ($10 in chips) 
+Seat 6: nastja336 ($100 in chips) 
+nastja336: posts small blind $0.50
+riky lorenzo: posts big blind $1
+*** HOLE CARDS ***
+AIien Hand: folds 
+Unipoker11: folds 
+b2k-Snick: raises $1.50 to $2.50
+FAZY011: calls $2.50
+nastja336: folds 
+riky lorenzo: folds 
+*** FLOP *** [4d 4h 6h]
+b2k-Snick: checks 
+FAZY011: bets $2
+b2k-Snick: folds 
+Uncalled bet ($2) returned to FAZY011
+FAZY011 collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [4d 4h 6h]
+Seat 1: riky lorenzo (big blind) folded before Flop
+Seat 2: AIien Hand folded before Flop (didn't bet)
+Seat 3: Unipoker11 folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded on the Flop
+Seat 5: FAZY011 (button) collected ($6.18)
+Seat 6: nastja336 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254279934244:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 17:05:21 WET [2025/01/09 12:05:21 ET]
+Table 'Vindobona III' 6-max Seat #6 is the button
+Seat 1: riky lorenzo ($99 in chips) 
+Seat 2: AIien Hand ($100 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 4: b2k-Snick ($136.33 in chips) 
+Seat 5: FAZY011 ($13.68 in chips) 
+Seat 6: nastja336 ($100 in chips) 
+riky lorenzo: posts small blind $0.50
+AIien Hand: posts big blind $1
+*** HOLE CARDS ***
+Unipoker11: folds 
+b2k-Snick: folds 
+FAZY011: folds 
+nastja336: folds 
+riky lorenzo: folds 
+Uncalled bet ($0.50) returned to AIien Hand
+AIien Hand collected $1 from pot
+AIien Hand: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: riky lorenzo (small blind) folded before Flop
+Seat 2: AIien Hand (big blind) collected ($1)
+Seat 3: Unipoker11 folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: FAZY011 folded before Flop (didn't bet)
+Seat 6: nastja336 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279936602:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 17:05:30 WET [2025/01/09 12:05:30 ET]
+Table 'Vindobona III' 6-max Seat #1 is the button
+Seat 1: riky lorenzo ($98.50 in chips) 
+Seat 2: AIien Hand ($100.50 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 4: b2k-Snick ($136.33 in chips) 
+Seat 5: FAZY011 ($13.68 in chips) 
+Seat 6: nastja336 ($100 in chips) 
+AIien Hand: posts small blind $0.50
+Unipoker11: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+FAZY011: folds 
+nastja336: folds 
+riky lorenzo: calls $1
+AIien Hand: folds 
+Unipoker11: raises $4 to $5
+riky lorenzo: calls $4
+*** FLOP *** [8s 2c 5h]
+Unipoker11: bets $3.29
+riky lorenzo: calls $3.29
+*** TURN *** [8s 2c 5h] [5s]
+Unipoker11: bets $10.87
+riky lorenzo: folds 
+Uncalled bet ($10.87) returned to Unipoker11
+Unipoker11 collected $16.23 from pot
+Unipoker11: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.08 | Rake $0.85 
+Board [8s 2c 5h 5s]
+Seat 1: riky lorenzo (button) folded on the Turn
+Seat 2: AIien Hand (small blind) folded before Flop
+Seat 3: Unipoker11 (big blind) collected ($16.23)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: FAZY011 folded before Flop (didn't bet)
+Seat 6: nastja336 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279948979:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 17:06:20 WET [2025/01/09 12:06:20 ET]
+Table 'Vindobona III' 6-max Seat #2 is the button
+Seat 1: riky lorenzo ($90.21 in chips) is sitting out
+Seat 2: AIien Hand ($100 in chips) 
+Seat 3: Unipoker11 ($107.94 in chips) 
+Seat 4: b2k-Snick ($136.33 in chips) 
+Seat 5: FAZY011 ($13.68 in chips) 
+Seat 6: nastja336 ($100 in chips) 
+Unipoker11: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+riky lorenzo leaves the table
+FAZY011: folds 
+nastja336: folds 
+AIien Hand: folds 
+FAZY011 leaves the table
+GuigaMan joins the table at seat #1 
+nastja336 leaves the table
+GuigaMan leaves the table
+Unipoker11: raises $2 to $3
+b2k-Snick: folds 
+Uncalled bet ($2) returned to Unipoker11
+Unipoker11 collected $2 from pot
+Unipoker11: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: riky lorenzo
+Seat 2: AIien Hand (button) folded before Flop (didn't bet)
+Seat 3: Unipoker11 (small blind) collected ($2)
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: FAZY011 folded before Flop (didn't bet)
+Seat 6: nastja336 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279957035:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 17:06:53 WET [2025/01/09 12:06:53 ET]
+Table 'Vindobona III' 6-max Seat #4 is the button
+Seat 2: AIien Hand ($100 in chips) is sitting out
+Seat 3: Unipoker11 ($108.94 in chips) 
+Seat 4: b2k-Snick ($135.33 in chips) 
+b2k-Snick: posts small blind $0.50
+AIien Hand: is sitting out 
+Unipoker11: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Uncalled bet ($0.50) returned to Unipoker11
+b2k-Snick leaves the table
+Unipoker11 collected $1 from pot
+Unipoker11: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: AIien Hand
+Seat 3: Unipoker11 (big blind) collected ($1)
+Seat 4: b2k-Snick (button) (small blind) folded before Flop
+
+
+

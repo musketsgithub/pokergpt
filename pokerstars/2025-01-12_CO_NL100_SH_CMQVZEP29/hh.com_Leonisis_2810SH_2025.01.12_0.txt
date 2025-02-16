@@ -1,0 +1,652 @@
+﻿PokerStars Hand #254343911711:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:02:34 WET [2025/01/12 21:02:34 ET]
+Table 'Leonisis II' 6-max Seat #1 is the button
+Seat 1: m0nTTu ($80 in chips) 
+Seat 2: ReVeu710 ($100 in chips) 
+Seat 3: Dilerchris ($84.28 in chips) 
+Seat 4: equilibrium_tv ($40 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Nicedaymybro ($100 in chips) 
+ReVeu710 is connected 
+ReVeu710: posts small blind $0.50
+Dilerchris: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+SorinS28: folds 
+Nicedaymybro: folds 
+m0nTTu: raises $1.50 to $2.50
+ReVeu710: folds 
+Dilerchris: folds 
+Uncalled bet ($1.50) returned to m0nTTu
+m0nTTu collected $2.50 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m0nTTu (button) collected ($2.50)
+Seat 2: ReVeu710 (small blind) folded before Flop
+Seat 3: Dilerchris (big blind) folded before Flop
+Seat 4: equilibrium_tv folded before Flop (didn't bet)
+Seat 5: SorinS28 folded before Flop (didn't bet)
+Seat 6: Nicedaymybro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254343915318:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:02:56 WET [2025/01/12 21:02:56 ET]
+Table 'Leonisis II' 6-max Seat #2 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: ReVeu710 ($100 in chips) 
+Seat 3: Dilerchris ($83.28 in chips) 
+Seat 4: equilibrium_tv ($40 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Nicedaymybro ($100 in chips) 
+Dilerchris: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+SorinS28: folds 
+Nicedaymybro: folds 
+m0nTTu: folds 
+ReVeu710: folds 
+Dilerchris: calls $0.50
+equilibrium_tv: checks 
+*** FLOP *** [Ac Qd 7s]
+Dilerchris: checks 
+equilibrium_tv: bets $1
+Dilerchris: folds 
+Uncalled bet ($1) returned to equilibrium_tv
+equilibrium_tv collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Ac Qd 7s]
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: ReVeu710 (button) folded before Flop (didn't bet)
+Seat 3: Dilerchris (small blind) folded on the Flop
+Seat 4: equilibrium_tv (big blind) collected ($1.90)
+Seat 5: SorinS28 folded before Flop (didn't bet)
+Seat 6: Nicedaymybro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254343924667:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:03:53 WET [2025/01/12 21:03:53 ET]
+Table 'Leonisis II' 6-max Seat #3 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: ReVeu710 ($100 in chips) 
+Seat 3: Dilerchris ($82.28 in chips) 
+Seat 4: equilibrium_tv ($40.90 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Nicedaymybro ($100 in chips) 
+equilibrium_tv: posts small blind $0.50
+SorinS28: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+m0nTTu: folds 
+ReVeu710: raises $1.30 to $2.30
+Dilerchris has timed out
+Dilerchris: folds 
+equilibrium_tv: folds 
+SorinS28: raises $10.20 to $12.50
+ReVeu710: calls $10.20
+*** FLOP *** [2h 6c 6h]
+SorinS28: bets $14.50
+ReVeu710: calls $14.50
+*** TURN *** [2h 6c 6h] [5d]
+SorinS28: bets $73 and is all-in
+ReVeu710: calls $73 and is all-in
+*** FIRST RIVER *** [2h 6c 6h 5d] [Tc]
+*** SECOND RIVER *** [2h 6c 6h 5d] [As]
+*** FIRST SHOW DOWN ***
+SorinS28: shows [5h Ah] (two pair, Sixes and Fives)
+ReVeu710: shows [6s 6d] (four of a kind, Sixes)
+ReVeu710 collected $99 from pot
+*** SECOND SHOW DOWN ***
+SorinS28: shows [5h Ah] (two pair, Aces and Sixes)
+ReVeu710: shows [6s 6d] (four of a kind, Sixes)
+ReVeu710 collected $99 from pot
+*** SUMMARY ***
+Total pot $200.50 | Rake $2.50 
+Hand was run twice
+FIRST Board [2h 6c 6h 5d Tc]
+SECOND Board [2h 6c 6h 5d As]
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: ReVeu710 showed [6s 6d] and won ($99) with four of a kind, Sixes, and won ($99) with four of a kind, Sixes
+Seat 3: Dilerchris (button) folded before Flop (didn't bet)
+Seat 4: equilibrium_tv (small blind) folded before Flop
+Seat 5: SorinS28 (big blind) showed [5h Ah] and lost with two pair, Sixes and Fives, and lost with two pair, Aces and Sixes
+Seat 6: Nicedaymybro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254343941617:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:05:37 WET [2025/01/12 21:05:37 ET]
+Table 'Leonisis II' 6-max Seat #4 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: ReVeu710 ($198 in chips) 
+Seat 3: Dilerchris ($82.28 in chips) 
+Seat 4: equilibrium_tv ($40.40 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Nicedaymybro ($100 in chips) 
+SorinS28: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+ReVeu710: raises $1 to $2
+Dilerchris: folds 
+equilibrium_tv: folds 
+SorinS28: folds 
+Nicedaymybro: folds 
+Uncalled bet ($1) returned to ReVeu710
+ReVeu710 collected $2.50 from pot
+ReVeu710: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: ReVeu710 collected ($2.50)
+Seat 3: Dilerchris folded before Flop (didn't bet)
+Seat 4: equilibrium_tv (button) folded before Flop (didn't bet)
+Seat 5: SorinS28 (small blind) folded before Flop
+Seat 6: Nicedaymybro (big blind) folded before Flop
+
+
+
+PokerStars Hand #254343946245:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:06:06 WET [2025/01/12 21:06:06 ET]
+Table 'Leonisis II' 6-max Seat #5 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: ReVeu710 ($199.50 in chips) 
+Seat 3: Dilerchris ($82.28 in chips) 
+Seat 4: equilibrium_tv ($40.40 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Nicedaymybro ($100 in chips) 
+Nicedaymybro: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+ReVeu710: folds 
+Dilerchris: raises $2 to $3
+equilibrium_tv: folds 
+SorinS28: folds 
+Nicedaymybro: folds 
+m0nTTu: folds 
+Uncalled bet ($2) returned to Dilerchris
+Dilerchris collected $2.50 from pot
+Dilerchris: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m0nTTu (big blind) folded before Flop
+Seat 2: ReVeu710 folded before Flop (didn't bet)
+Seat 3: Dilerchris collected ($2.50)
+Seat 4: equilibrium_tv folded before Flop (didn't bet)
+Seat 5: SorinS28 (button) folded before Flop (didn't bet)
+Seat 6: Nicedaymybro (small blind) folded before Flop
+
+
+
+PokerStars Hand #254343951633:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:06:38 WET [2025/01/12 21:06:38 ET]
+Table 'Leonisis II' 6-max Seat #6 is the button
+Seat 1: m0nTTu ($99 in chips) 
+Seat 2: ReVeu710 ($199.50 in chips) 
+Seat 3: Dilerchris ($83.78 in chips) 
+Seat 4: equilibrium_tv ($40.40 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Nicedaymybro ($100 in chips) 
+m0nTTu: posts small blind $0.50
+ReVeu710: posts big blind $1
+*** HOLE CARDS ***
+Dilerchris: raises $2 to $3
+equilibrium_tv: folds 
+SorinS28: raises $6 to $9
+Nicedaymybro: folds 
+m0nTTu: folds 
+ReVeu710: folds 
+Dilerchris: raises $19.50 to $28.50
+SorinS28: folds 
+Uncalled bet ($19.50) returned to Dilerchris
+Dilerchris collected $19.50 from pot
+Dilerchris: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.50 | Rake $0 
+Seat 1: m0nTTu (small blind) folded before Flop
+Seat 2: ReVeu710 (big blind) folded before Flop
+Seat 3: Dilerchris collected ($19.50)
+Seat 4: equilibrium_tv folded before Flop (didn't bet)
+Seat 5: SorinS28 folded before Flop
+Seat 6: Nicedaymybro (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254343960466:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:07:33 WET [2025/01/12 21:07:33 ET]
+Table 'Leonisis II' 6-max Seat #1 is the button
+Seat 1: m0nTTu ($98.50 in chips) 
+Seat 2: ReVeu710 ($198.50 in chips) 
+Seat 3: Dilerchris ($94.28 in chips) 
+Seat 4: equilibrium_tv ($40.40 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Nicedaymybro ($100 in chips) 
+ReVeu710: posts small blind $0.50
+Dilerchris: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+SorinS28: folds 
+Nicedaymybro: raises $1.50 to $2.50
+m0nTTu: folds 
+ReVeu710: folds 
+Dilerchris: folds 
+Uncalled bet ($1.50) returned to Nicedaymybro
+Nicedaymybro collected $2.50 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m0nTTu (button) folded before Flop (didn't bet)
+Seat 2: ReVeu710 (small blind) folded before Flop
+Seat 3: Dilerchris (big blind) folded before Flop
+Seat 4: equilibrium_tv folded before Flop (didn't bet)
+Seat 5: SorinS28 folded before Flop (didn't bet)
+Seat 6: Nicedaymybro collected ($2.50)
+
+
+
+PokerStars Hand #254343963959:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:07:55 WET [2025/01/12 21:07:55 ET]
+Table 'Leonisis II' 6-max Seat #2 is the button
+Seat 4: equilibrium_tv ($40.40 in chips) is sitting out
+Seat 1: m0nTTu ($98.50 in chips) 
+Seat 2: ReVeu710 ($198 in chips) 
+Seat 3: Dilerchris ($93.28 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Nicedaymybro ($101.50 in chips) 
+Dilerchris: posts small blind $0.50
+equilibrium_tv: is sitting out 
+SorinS28: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+m0nTTu: folds 
+ReVeu710: folds 
+Dilerchris: raises $2 to $3
+SorinS28: folds 
+Uncalled bet ($2) returned to Dilerchris
+Dilerchris collected $2 from pot
+Dilerchris: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: equilibrium_tv
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: ReVeu710 (button) folded before Flop (didn't bet)
+Seat 3: Dilerchris (small blind) collected ($2)
+Seat 5: SorinS28 (big blind) folded before Flop
+Seat 6: Nicedaymybro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254343966895:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:08:13 WET [2025/01/12 21:08:13 ET]
+Table 'Leonisis II' 6-max Seat #3 is the button
+Seat 4: equilibrium_tv ($40.40 in chips) is sitting out
+Seat 1: m0nTTu ($98.50 in chips) 
+Seat 2: ReVeu710 ($198 in chips) 
+Seat 3: Dilerchris ($94.28 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Nicedaymybro ($101.50 in chips) 
+SorinS28: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv leaves the table
+m0nTTu: folds 
+rostickkin joins the table at seat #4 
+ReVeu710: folds 
+Dilerchris: folds 
+SorinS28: folds 
+Uncalled bet ($0.50) returned to Nicedaymybro
+Nicedaymybro collected $1 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: equilibrium_tv
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: ReVeu710 folded before Flop (didn't bet)
+Seat 3: Dilerchris (button) folded before Flop (didn't bet)
+Seat 5: SorinS28 (small blind) folded before Flop
+Seat 6: Nicedaymybro (big blind) collected ($1)
+
+
+
+PokerStars Hand #254343971010:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:08:40 WET [2025/01/12 21:08:40 ET]
+Table 'Leonisis II' 6-max Seat #5 is the button
+Seat 1: m0nTTu ($98.50 in chips) is sitting out
+Seat 4: rostickkin ($100 in chips) is sitting out
+Seat 2: ReVeu710 ($198 in chips) 
+Seat 3: Dilerchris ($94.28 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Nicedaymybro ($102 in chips) 
+Nicedaymybro: posts small blind $0.50
+m0nTTu: is sitting out 
+ReVeu710: posts big blind $1
+rostickkin: sits out 
+*** HOLE CARDS ***
+m0nTTu leaves the table
+Dilerchris: folds 
+SorinS28: raises $1.50 to $2.50
+Nicedaymybro: folds 
+ReVeu710: folds 
+Uncalled bet ($1.50) returned to SorinS28
+SorinS28 collected $2.50 from pot
+SorinS28: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m0nTTu
+Seat 4: rostickkin
+Seat 2: ReVeu710 (big blind) folded before Flop
+Seat 3: Dilerchris folded before Flop (didn't bet)
+Seat 5: SorinS28 (button) collected ($2.50)
+Seat 6: Nicedaymybro (small blind) folded before Flop
+
+
+
+PokerStars Hand #254343974520:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:09:02 WET [2025/01/12 21:09:02 ET]
+Table 'Leonisis II' 6-max Seat #6 is the button
+Seat 4: rostickkin ($100 in chips) is sitting out
+Seat 2: ReVeu710 ($197 in chips) 
+Seat 3: Dilerchris ($94.28 in chips) 
+Seat 5: SorinS28 ($101.50 in chips) 
+Seat 6: Nicedaymybro ($101.50 in chips) 
+ReVeu710: posts small blind $0.50
+Dilerchris: posts big blind $1
+XneferX joins the table at seat #1 
+rostickkin: sits out 
+*** HOLE CARDS ***
+SorinS28: folds 
+Nicedaymybro: raises $1.50 to $2.50
+ReVeu710: folds 
+Dilerchris: calls $1.50
+*** FLOP *** [Ad Tc Qd]
+Dilerchris: checks 
+Nicedaymybro: checks 
+*** TURN *** [Ad Tc Qd] [5s]
+Dilerchris: checks 
+Nicedaymybro: bets $2.61
+Dilerchris: calls $2.61
+*** RIVER *** [Ad Tc Qd 5s] [Qs]
+Dilerchris: bets $7
+Nicedaymybro: folds 
+Uncalled bet ($7) returned to Dilerchris
+Dilerchris collected $10.18 from pot
+Dilerchris: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.72 | Rake $0.54 
+Board [Ad Tc Qd 5s Qs]
+Seat 4: rostickkin
+Seat 2: ReVeu710 (small blind) folded before Flop
+Seat 3: Dilerchris (big blind) collected ($10.18)
+Seat 5: SorinS28 folded before Flop (didn't bet)
+Seat 6: Nicedaymybro (button) folded on the River
+
+
+
+PokerStars Hand #254343981913:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:09:48 WET [2025/01/12 21:09:48 ET]
+Table 'Leonisis II' 6-max Seat #2 is the button
+Seat 1: XneferX ($100 in chips) is sitting out
+Seat 2: ReVeu710 ($196.50 in chips) 
+Seat 3: Dilerchris ($99.35 in chips) 
+Seat 4: rostickkin ($100 in chips) 
+Seat 5: SorinS28 ($101.50 in chips) 
+Seat 6: Nicedaymybro ($100 in chips) 
+Dilerchris: posts small blind $0.50
+rostickkin: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+SorinS28: folds 
+Nicedaymybro: folds 
+ReVeu710: raises $1.50 to $2.50
+SorinS28 leaves the table
+Dilerchris: folds 
+rostickkin: folds 
+Uncalled bet ($1.50) returned to ReVeu710
+ReVeu710 collected $2.50 from pot
+ReVeu710: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: XneferX
+Seat 2: ReVeu710 (button) collected ($2.50)
+Seat 3: Dilerchris (small blind) folded before Flop
+Seat 4: rostickkin (big blind) folded before Flop
+Seat 5: SorinS28 folded before Flop (didn't bet)
+Seat 6: Nicedaymybro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254343985314:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:10:10 WET [2025/01/12 21:10:10 ET]
+Table 'Leonisis II' 6-max Seat #3 is the button
+Seat 6: Nicedaymybro ($100 in chips) is sitting out
+Seat 1: XneferX ($100 in chips) 
+Seat 2: ReVeu710 ($198 in chips) 
+Seat 3: Dilerchris ($98.85 in chips) 
+Seat 4: rostickkin ($100 in chips) 
+rostickkin: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+ReVeu710: raises $1.30 to $2.30
+Dilerchris: calls $2.30
+rostickkin: folds 
+XneferX: folds 
+*** FLOP *** [6c Ks Th]
+ReVeu710: bets $1.45
+Dilerchris: calls $1.45
+*** TURN *** [6c Ks Th] [5d]
+ReVeu710: bets $8.64
+Dilerchris: folds 
+Uncalled bet ($8.64) returned to ReVeu710
+ReVeu710 collected $8.55 from pot
+ReVeu710: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [6c Ks Th 5d]
+Seat 6: Nicedaymybro
+Seat 1: XneferX (big blind) folded before Flop
+Seat 2: ReVeu710 collected ($8.55)
+Seat 3: Dilerchris (button) folded on the Turn
+Seat 4: rostickkin (small blind) folded before Flop
+
+
+
+PokerStars Hand #254343993967:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:11:04 WET [2025/01/12 21:11:04 ET]
+Table 'Leonisis II' 6-max Seat #4 is the button
+Seat 2: ReVeu710 ($202.80 in chips) is sitting out
+Seat 6: Nicedaymybro ($100 in chips) is sitting out
+Seat 1: XneferX ($100 in chips) 
+Seat 3: Dilerchris ($95.10 in chips) 
+Seat 4: rostickkin ($100 in chips) 
+XneferX: posts small blind $0.50
+ReVeu710: is sitting out 
+Dilerchris: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: folds 
+ReVeu710 leaves the table
+XneferX: raises $1.90 to $2.90
+Dilerchris: folds 
+Uncalled bet ($1.90) returned to XneferX
+XneferX collected $2 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: ReVeu710
+Seat 6: Nicedaymybro
+Seat 1: XneferX (small blind) collected ($2)
+Seat 3: Dilerchris (big blind) folded before Flop
+Seat 4: rostickkin (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254343998297:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:11:31 WET [2025/01/12 21:11:31 ET]
+Table 'Leonisis II' 6-max Seat #1 is the button
+Seat 6: Nicedaymybro ($100 in chips) is sitting out
+Seat 1: XneferX ($101 in chips) 
+Seat 3: Dilerchris ($94.10 in chips) 
+Seat 4: rostickkin ($100 in chips) 
+Dilerchris: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Dilerchris: folds 
+Uncalled bet ($0.50) returned to rostickkin
+rostickkin collected $1 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: Nicedaymybro
+Seat 1: XneferX (button) folded before Flop (didn't bet)
+Seat 3: Dilerchris (small blind) folded before Flop
+Seat 4: rostickkin (big blind) collected ($1)
+
+
+
+PokerStars Hand #254344000691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:11:46 WET [2025/01/12 21:11:46 ET]
+Table 'Leonisis II' 6-max Seat #3 is the button
+Seat 6: Nicedaymybro ($100 in chips) is sitting out
+Seat 1: XneferX ($101 in chips) 
+Seat 3: Dilerchris ($93.60 in chips) 
+Seat 4: rostickkin ($100.50 in chips) 
+rostickkin: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Dilerchris: folds 
+rostickkin: raises $2 to $3
+XneferX: raises $6 to $9
+rostickkin: raises $13.20 to $22.20
+XneferX: raises $78.80 to $101 and is all-in
+rostickkin: folds 
+Uncalled bet ($78.80) returned to XneferX
+XneferX collected $44.40 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $44.40 | Rake $0 
+Seat 6: Nicedaymybro
+Seat 1: XneferX (big blind) collected ($44.40)
+Seat 3: Dilerchris (button) folded before Flop (didn't bet)
+Seat 4: rostickkin (small blind) folded before Flop
+
+
+
+PokerStars Hand #254344009170:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:12:40 WET [2025/01/12 21:12:40 ET]
+Table 'Leonisis II' 6-max Seat #4 is the button
+Seat 6: Nicedaymybro ($100 in chips) is sitting out
+Seat 1: XneferX ($123.20 in chips) 
+Seat 3: Dilerchris ($93.60 in chips) 
+Seat 4: rostickkin ($100 in chips) 
+XneferX: posts small blind $0.50
+Dilerchris: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: raises $1.50 to $2.50
+XneferX: folds 
+Dilerchris: folds 
+Uncalled bet ($1.50) returned to rostickkin
+rostickkin collected $2.50 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Nicedaymybro
+Seat 1: XneferX (small blind) folded before Flop
+Seat 3: Dilerchris (big blind) folded before Flop
+Seat 4: rostickkin (button) collected ($2.50)
+
+
+
+PokerStars Hand #254344012313:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:12:59 WET [2025/01/12 21:12:59 ET]
+Table 'Leonisis II' 6-max Seat #1 is the button
+Seat 6: Nicedaymybro ($100 in chips) is sitting out
+Seat 1: XneferX ($122.70 in chips) 
+Seat 3: Dilerchris ($92.60 in chips) 
+Seat 4: rostickkin ($101.50 in chips) 
+Dilerchris: posts small blind $0.50
+rostickkin: posts big blind $1
+Nicedaymybro: sits out 
+*** HOLE CARDS ***
+XneferX: folds 
+Dilerchris: raises $2 to $3
+rostickkin: calls $2
+*** FLOP *** [6s Ts Jh]
+Dilerchris: bets $2.85
+rostickkin: folds 
+Uncalled bet ($2.85) returned to Dilerchris
+Dilerchris collected $5.70 from pot
+Dilerchris: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6s Ts Jh]
+Seat 6: Nicedaymybro
+Seat 1: XneferX (button) folded before Flop (didn't bet)
+Seat 3: Dilerchris (small blind) collected ($5.70)
+Seat 4: rostickkin (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254344016228:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:13:24 WET [2025/01/12 21:13:24 ET]
+Table 'Leonisis II' 6-max Seat #3 is the button
+Seat 1: XneferX ($122.70 in chips) 
+Seat 3: Dilerchris ($95.30 in chips) 
+Seat 4: rostickkin ($100 in chips) 
+Seat 6: Nicedaymybro ($100 in chips) 
+rostickkin: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Dilerchris: raises $2 to $3
+rostickkin: folds 
+Nicedaymybro: folds 
+Uncalled bet ($2) returned to Dilerchris
+Dilerchris collected $2.50 from pot
+Dilerchris: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 3: Dilerchris (button) collected ($2.50)
+Seat 4: rostickkin (small blind) folded before Flop
+Seat 6: Nicedaymybro (big blind) folded before Flop
+
+
+
+PokerStars Hand #254344018332:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:13:38 WET [2025/01/12 21:13:38 ET]
+Table 'Leonisis II' 6-max Seat #4 is the button
+Seat 1: XneferX ($122.70 in chips) 
+Seat 3: Dilerchris ($96.80 in chips) 
+Seat 4: rostickkin ($100 in chips) 
+Seat 6: Nicedaymybro ($100 in chips) 
+Nicedaymybro: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Dilerchris: folds 
+rostickkin: raises $1.50 to $2.50
+Nicedaymybro: folds 
+XneferX: calls $1.50
+*** FLOP *** [3s 5s 7c]
+XneferX: checks 
+rostickkin: bets $3.50
+Dilerchris leaves the table
+XneferX: raises $10.75 to $14.25
+rostickkin: folds 
+Uncalled bet ($10.75) returned to XneferX
+XneferX collected $11.88 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.50 | Rake $0.62 
+Board [3s 5s 7c]
+Seat 1: XneferX (big blind) collected ($11.88)
+Seat 3: Dilerchris folded before Flop (didn't bet)
+Seat 4: rostickkin (button) folded on the Flop
+Seat 6: Nicedaymybro (small blind) folded before Flop
+
+
+
+PokerStars Hand #254344027364:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:14:36 WET [2025/01/12 21:14:36 ET]
+Table 'Leonisis II' 6-max Seat #6 is the button
+Seat 1: XneferX ($128.58 in chips) 
+Seat 4: rostickkin ($100 in chips) 
+Seat 6: Nicedaymybro ($100 in chips) 
+XneferX: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: raises $1.50 to $2.50
+XneferX: folds 
+rostickkin: folds 
+Uncalled bet ($1.50) returned to Nicedaymybro
+Nicedaymybro collected $2.50 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: XneferX (small blind) folded before Flop
+Seat 4: rostickkin (big blind) folded before Flop
+Seat 6: Nicedaymybro (button) collected ($2.50)
+
+
+

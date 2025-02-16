@@ -1,0 +1,5889 @@
+﻿PokerStars Hand #254376138157:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:03:37 WET [2025/01/14 20:03:37 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: equilibrium_tv ($10 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 4: nikalas22 ($100 in chips) 
+Seat 5: Espada Fish ($100 in chips) 
+Seat 6: ReVeu710 ($100 in chips) 
+nikalas22: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+ReVeu710: folds 
+equilibrium_tv: folds 
+ptolejmus: folds 
+nikalas22: raises $2 to $3
+Espada Fish: folds 
+Uncalled bet ($2) returned to nikalas22
+nikalas22 collected $2 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: equilibrium_tv folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 4: nikalas22 (small blind) collected ($2)
+Seat 5: Espada Fish (big blind) folded before Flop
+Seat 6: ReVeu710 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376144347:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:04:12 WET [2025/01/14 20:04:12 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: equilibrium_tv ($10 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 4: nikalas22 ($101 in chips) 
+Seat 5: Espada Fish ($100 in chips) 
+Seat 6: ReVeu710 ($100 in chips) 
+Espada Fish: posts small blind $0.50
+ReVeu710: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+ptolejmus: raises $9 to $10 and is all-in
+nikalas22: folds 
+Espada Fish: folds 
+ReVeu710: folds 
+Uncalled bet ($9) returned to ptolejmus
+ptolejmus collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: equilibrium_tv folded before Flop (didn't bet)
+Seat 2: ptolejmus collected ($2.50)
+Seat 4: nikalas22 (button) folded before Flop (didn't bet)
+Seat 5: Espada Fish (small blind) folded before Flop
+Seat 6: ReVeu710 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254376147480:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:04:29 WET [2025/01/14 20:04:29 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: equilibrium_tv ($10 in chips) 
+Seat 2: ptolejmus ($11.50 in chips) 
+Seat 4: nikalas22 ($101 in chips) 
+Seat 5: Espada Fish ($100 in chips) 
+Seat 6: ReVeu710 ($100 in chips) 
+ReVeu710: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+nikalas22: folds 
+Espada Fish: raises $1.50 to $2.50
+ReVeu710: folds 
+equilibrium_tv: folds 
+Uncalled bet ($1.50) returned to Espada Fish
+Espada Fish collected $2.50 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: equilibrium_tv (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Espada Fish (button) collected ($2.50)
+Seat 6: ReVeu710 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376149933:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:04:43 WET [2025/01/14 20:04:43 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: equilibrium_tv ($9 in chips) 
+Seat 2: ptolejmus ($11.50 in chips) 
+Seat 4: nikalas22 ($101 in chips) 
+Seat 5: Espada Fish ($101.50 in chips) 
+Seat 6: ReVeu710 ($100 in chips) 
+equilibrium_tv: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+Espada Fish: folds 
+ReVeu710: folds 
+equilibrium_tv: raises $8 to $9 and is all-in
+ptolejmus: calls $8
+*** FIRST FLOP *** [9h 7d 6h]
+*** FIRST TURN *** [9h 7d 6h] [Ts]
+*** FIRST RIVER *** [9h 7d 6h Ts] [8h]
+*** SECOND FLOP *** [3d 5d 8c]
+*** SECOND TURN *** [3d 5d 8c] [Jd]
+*** SECOND RIVER *** [3d 5d 8c Jd] [3s]
+*** FIRST SHOW DOWN ***
+equilibrium_tv: shows [Ks Kh] (a straight, Six to Ten)
+ptolejmus: shows [Ah As] (a straight, Six to Ten)
+equilibrium_tv collected $4.28 from pot
+ptolejmus collected $4.27 from pot
+*** SECOND SHOW DOWN ***
+equilibrium_tv: shows [Ks Kh] (two pair, Kings and Threes)
+ptolejmus: shows [Ah As] (two pair, Aces and Threes)
+ptolejmus collected $8.55 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Hand was run twice
+FIRST Board [9h 7d 6h Ts 8h]
+SECOND Board [3d 5d 8c Jd 3s]
+Seat 1: equilibrium_tv (small blind) showed [Ks Kh] and won ($4.28) with a straight, Six to Ten, and lost with two pair, Kings and Threes
+Seat 2: ptolejmus (big blind) showed [Ah As] and won ($4.27) with a straight, Six to Ten, and won ($8.55) with two pair, Aces and Threes
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Espada Fish folded before Flop (didn't bet)
+Seat 6: ReVeu710 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376154922:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:05:10 WET [2025/01/14 20:05:10 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: equilibrium_tv ($4.28 in chips) 
+Seat 2: ptolejmus ($15.32 in chips) 
+Seat 4: nikalas22 ($101 in chips) 
+Seat 5: Espada Fish ($101.50 in chips) 
+Seat 6: ReVeu710 ($100 in chips) 
+ptolejmus: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur joins the table at seat #3 
+Espada Fish: folds 
+ReVeu710: raises $1.30 to $2.30
+equilibrium_tv: folds 
+ptolejmus: folds 
+nikalas22: raises $9.70 to $12
+ReVeu710: calls $9.70
+*** FLOP *** [6h 7c Ks]
+nikalas22: bets $6.98
+ReVeu710: folds 
+Uncalled bet ($6.98) returned to nikalas22
+nikalas22 collected $23.28 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.50 | Rake $1.22 
+Board [6h 7c Ks]
+Seat 1: equilibrium_tv (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 4: nikalas22 (big blind) collected ($23.28)
+Seat 5: Espada Fish folded before Flop (didn't bet)
+Seat 6: ReVeu710 folded on the Flop
+
+
+
+PokerStars Hand #254376162162:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:05:52 WET [2025/01/14 20:05:52 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 2: ptolejmus ($14.82 in chips) is sitting out
+Seat 4: nikalas22 ($112.28 in chips) is sitting out
+Seat 3: BeauParleur ($100 in chips) 
+Seat 6: DEMONGOD9 ($100 in chips) 
+BeauParleur: posts small blind $0.50
+avstero joins the table at seat #1 
+DEMONGOD9 is disconnected 
+DEMONGOD9 is connected 
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666 joins the table at seat #5 
+BeauParleur: raises $1 to $2
+DEMONGOD9: calls $1
+*** FLOP *** [Ah Js 7d]
+DEMONGOD9: checks 
+BeauParleur: bets $4.75
+DEMONGOD9: folds 
+Uncalled bet ($4.75) returned to BeauParleur
+BeauParleur collected $3.80 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Ah Js 7d]
+Seat 2: ptolejmus
+Seat 4: nikalas22
+Seat 3: BeauParleur (button) (small blind) collected ($3.80)
+Seat 6: DEMONGOD9 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254376166324:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:06:15 WET [2025/01/14 20:06:15 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: avstero ($100 in chips) is sitting out
+Seat 2: ptolejmus ($14.82 in chips) is sitting out
+Seat 5: Mr_Dick666 ($100 in chips) is sitting out
+Seat 3: BeauParleur ($101.80 in chips) 
+Seat 4: nikalas22 ($112.28 in chips) 
+Seat 6: DEMONGOD9 ($98 in chips) 
+BeauParleur: posts small blind $0.50
+nikalas22: posts big blind $1
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+BeauParleur: folds 
+Uncalled bet ($0.50) returned to nikalas22
+nikalas22 collected $1 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: avstero
+Seat 2: ptolejmus
+Seat 5: Mr_Dick666
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: nikalas22 (big blind) collected ($1)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376167910:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:06:24 WET [2025/01/14 20:06:24 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: avstero ($100 in chips) is sitting out
+Seat 2: ptolejmus ($14.82 in chips) is sitting out
+Seat 3: BeauParleur ($101.30 in chips) 
+Seat 4: nikalas22 ($112.78 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: DEMONGOD9 ($98 in chips) 
+nikalas22: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+avstero: sits out 
+ptolejmus: sits out 
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+BeauParleur: folds 
+nikalas22: folds 
+Uncalled bet ($0.50) returned to Mr_Dick666
+Mr_Dick666 collected $1 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: avstero
+Seat 2: ptolejmus
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: nikalas22 (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) collected ($1)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376171371:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:06:44 WET [2025/01/14 20:06:44 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: avstero ($100 in chips) is sitting out
+Seat 2: ptolejmus ($14.82 in chips) is sitting out
+Seat 3: BeauParleur ($101.30 in chips) 
+Seat 4: nikalas22 ($112.28 in chips) 
+Seat 5: Mr_Dick666 ($100.50 in chips) 
+Seat 6: DEMONGOD9 ($98 in chips) 
+Mr_Dick666: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+avstero: sits out 
+ptolejmus: sits out 
+*** HOLE CARDS ***
+BeauParleur: folds 
+nikalas22: raises $1.50 to $2.50
+Mr_Dick666: folds 
+DEMONGOD9: calls $1.50
+*** FLOP *** [4c 4s Kh]
+DEMONGOD9: checks 
+nikalas22: bets $1.57
+DEMONGOD9: calls $1.57
+*** TURN *** [4c 4s Kh] [5s]
+DEMONGOD9: checks 
+nikalas22: bets $12.32
+DEMONGOD9: folds 
+Uncalled bet ($12.32) returned to nikalas22
+nikalas22 collected $8.21 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.64 | Rake $0.43 
+Board [4c 4s Kh 5s]
+Seat 1: avstero
+Seat 2: ptolejmus
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 (button) collected ($8.21)
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254376178357:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:07:23 WET [2025/01/14 20:07:23 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 2: ptolejmus ($14.82 in chips) is sitting out
+Seat 1: avstero ($100 in chips) 
+Seat 3: BeauParleur ($101.30 in chips) 
+Seat 4: nikalas22 ($116.42 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: DEMONGOD9 ($93.93 in chips) 
+DEMONGOD9: posts small blind $0.50
+avstero: posts big blind $1
+ptolejmus: sits out 
+*** HOLE CARDS ***
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+Uncalled bet ($0.50) returned to avstero
+avstero collected $1 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: ptolejmus
+Seat 1: avstero (big blind) collected ($1)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376182459:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:07:45 WET [2025/01/14 20:07:45 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: avstero ($100.50 in chips) 
+Seat 2: ptolejmus ($14.82 in chips) 
+Seat 3: BeauParleur ($101.30 in chips) 
+Seat 4: nikalas22 ($116.42 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: DEMONGOD9 ($93.43 in chips) 
+avstero: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: raises $1.50 to $2.50
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+Uncalled bet ($1.50) returned to Mr_Dick666
+Mr_Dick666 collected $2.50 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 collected ($2.50)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376185271:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:08:01 WET [2025/01/14 20:08:01 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($13.82 in chips) 
+Seat 3: BeauParleur ($101.30 in chips) 
+Seat 4: nikalas22 ($116.42 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($93.43 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+Mr_Dick666: folds 
+DEMONGOD9: raises $1 to $2
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+Uncalled bet ($1) returned to DEMONGOD9
+DEMONGOD9 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 collected ($2.50)
+
+
+
+PokerStars Hand #254376188860:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:08:22 WET [2025/01/14 20:08:22 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($13.32 in chips) 
+Seat 3: BeauParleur ($100.30 in chips) 
+Seat 4: nikalas22 ($116.42 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($94.93 in chips) 
+BeauParleur: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+DEMONGOD9: raises $2 to $3
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: folds 
+Uncalled bet ($2) returned to DEMONGOD9
+DEMONGOD9 collected $2.50 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: nikalas22 (big blind) folded before Flop
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 collected ($2.50)
+
+
+
+PokerStars Hand #254376192616:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:08:43 WET [2025/01/14 20:08:43 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($13.32 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($115.42 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($96.43 in chips) 
+nikalas22: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: folds 
+Uncalled bet ($0.50) returned to Mr_Dick666
+Mr_Dick666 collected $1 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: nikalas22 (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) collected ($1)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376195673:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:09:01 WET [2025/01/14 20:09:01 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($13.32 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($114.92 in chips) 
+Seat 5: Mr_Dick666 ($102 in chips) 
+Seat 6: DEMONGOD9 ($96.43 in chips) 
+Mr_Dick666: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: folds 
+Uncalled bet ($0.50) returned to DEMONGOD9
+DEMONGOD9 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 (button) folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254376198677:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:09:18 WET [2025/01/14 20:09:18 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($13.32 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($114.92 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($96.93 in chips) 
+DEMONGOD9: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: raises $1.50 to $2.50
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+avstero: folds 
+Uncalled bet ($1.50) returned to nikalas22
+nikalas22 collected $2.50 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 collected ($2.50)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376204121:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:09:49 WET [2025/01/14 20:09:49 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: avstero ($99 in chips) 
+Seat 2: ptolejmus ($13.32 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($116.42 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($96.43 in chips) 
+avstero: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: raises $1.50 to $2.50
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+Uncalled bet ($1.50) returned to Mr_Dick666
+Mr_Dick666 collected $2.50 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 collected ($2.50)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376208722:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:10:15 WET [2025/01/14 20:10:15 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($12.32 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($116.42 in chips) 
+Seat 5: Mr_Dick666 ($103 in chips) 
+Seat 6: DEMONGOD9 ($96.43 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+Mr_Dick666: folds 
+DEMONGOD9: raises $1 to $2
+avstero: folds 
+ptolejmus: raises $10.32 to $12.32 and is all-in
+BeauParleur: folds 
+DEMONGOD9: folds 
+Uncalled bet ($10.32) returned to ptolejmus
+ptolejmus collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: avstero (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) collected ($5)
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop
+
+
+
+PokerStars Hand #254376214122:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:10:46 WET [2025/01/14 20:10:46 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($15.32 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($116.42 in chips) 
+Seat 5: Mr_Dick666 ($103 in chips) 
+Seat 6: DEMONGOD9 ($94.43 in chips) 
+BeauParleur: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+DEMONGOD9: raises $1 to $2
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: calls $1
+*** FLOP *** [Td 8d 9d]
+nikalas22: checks 
+DEMONGOD9: checks 
+*** TURN *** [Td 8d 9d] [2h]
+nikalas22: checks 
+DEMONGOD9: checks 
+*** RIVER *** [Td 8d 9d 2h] [4s]
+nikalas22: checks 
+DEMONGOD9: checks 
+*** SHOW DOWN ***
+nikalas22: shows [Kh 4h] (a pair of Fours)
+DEMONGOD9: shows [8h 6h] (a pair of Eights)
+DEMONGOD9 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Td 8d 9d 2h 4s]
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: nikalas22 (big blind) showed [Kh 4h] and lost with a pair of Fours
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 showed [8h 6h] and won ($4.28) with a pair of Eights
+
+
+
+PokerStars Hand #254376220599:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:11:23 WET [2025/01/14 20:11:23 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($15.32 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($114.42 in chips) 
+Seat 5: Mr_Dick666 ($103 in chips) 
+Seat 6: DEMONGOD9 ($96.71 in chips) 
+nikalas22: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: raises $1 to $2
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: folds 
+Uncalled bet ($1) returned to DEMONGOD9
+DEMONGOD9 collected $2.50 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: nikalas22 (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) folded before Flop
+Seat 6: DEMONGOD9 collected ($2.50)
+
+
+
+PokerStars Hand #254376224194:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:11:44 WET [2025/01/14 20:11:44 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($15.32 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($113.92 in chips) 
+Seat 5: Mr_Dick666 ($102 in chips) 
+Seat 6: DEMONGOD9 ($98.21 in chips) 
+Mr_Dick666: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+ptolejmus: raises $1 to $2
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+Uncalled bet ($1) returned to ptolejmus
+ptolejmus collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus collected ($2.50)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 (button) folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254376226935:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:12:00 WET [2025/01/14 20:12:00 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($16.82 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($113.92 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($97.21 in chips) 
+DEMONGOD9: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: raises $1 to $2
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: folds 
+DEMONGOD9: calls $1.50
+avstero: folds 
+*** FLOP *** [Qh 4c Js]
+DEMONGOD9: checks 
+ptolejmus: bets $2.42
+DEMONGOD9: calls $2.42
+*** TURN *** [Qh 4c Js] [5s]
+DEMONGOD9: checks 
+ptolejmus: bets $12.40 and is all-in
+DEMONGOD9: folds 
+Uncalled bet ($12.40) returned to ptolejmus
+ptolejmus collected $9.35 from pot
+*** SUMMARY ***
+Total pot $9.84 | Rake $0.49 
+Board [Qh 4c Js 5s]
+Seat 1: avstero (big blind) folded before Flop
+Seat 2: ptolejmus collected ($9.35)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254376238645:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:13:06 WET [2025/01/14 20:13:06 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: avstero ($99 in chips) 
+Seat 2: ptolejmus ($21.75 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($113.92 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($92.79 in chips) 
+avstero: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: folds 
+DEMONGOD9: raises $1 to $2
+avstero: folds 
+ptolejmus: calls $1
+*** FLOP *** [6d Th 3c]
+ptolejmus: checks 
+DEMONGOD9: bets $1.14
+ptolejmus: folds 
+Uncalled bet ($1.14) returned to DEMONGOD9
+DEMONGOD9 collected $4.28 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [6d Th 3c]
+Seat 1: avstero (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) folded on the Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) collected ($4.28)
+
+
+
+PokerStars Hand #254376245577:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:13:46 WET [2025/01/14 20:13:46 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($19.75 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($113.92 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($95.07 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+avstero: raises $1.20 to $2.20
+ptolejmus: raises $17.55 to $19.75 and is all-in
+BeauParleur: folds 
+avstero: calls $17.55
+*** FLOP *** [3s Ad 4d]
+*** TURN *** [3s Ad 4d] [5c]
+*** RIVER *** [3s Ad 4d 5c] [Jd]
+*** SHOW DOWN ***
+ptolejmus: shows [2d 2c] (a straight, Ace to Five)
+avstero: shows [8h 8d] (a pair of Eights)
+ptolejmus cashed out the hand for $6.93 | Cash Out Fee $0.14
+*** SUMMARY ***
+Total pot $40.50 | Rake $2.02 
+Board [3s Ad 4d 5c Jd]
+Seat 1: avstero (button) showed [8h 8d] and lost with a pair of Eights
+Seat 2: ptolejmus (small blind) showed [2d 2c] and won ($38.48) with a straight, Ace to Five (pot not awarded as player cashed out)
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376252774:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:14:28 WET [2025/01/14 20:14:28 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($113.92 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($95.07 in chips) 
+BeauParleur: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: raises $1 to $2
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: folds 
+Uncalled bet ($1) returned to Mr_Dick666
+Mr_Dick666 collected $2.50 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: nikalas22 (big blind) folded before Flop
+Seat 5: Mr_Dick666 collected ($2.50)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376257000:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:14:52 WET [2025/01/14 20:14:52 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($112.92 in chips) 
+Seat 5: Mr_Dick666 ($103 in chips) 
+Seat 6: DEMONGOD9 ($95.07 in chips) 
+nikalas22: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+avstero: raises $1.20 to $2.20
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: folds 
+Uncalled bet ($1.20) returned to avstero
+avstero collected $2.50 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero collected ($2.50)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: nikalas22 (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) folded before Flop
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376261602:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:15:18 WET [2025/01/14 20:15:18 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: avstero ($101.50 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($112.42 in chips) 
+Seat 5: Mr_Dick666 ($102 in chips) 
+Seat 6: DEMONGOD9 ($95.07 in chips) 
+Mr_Dick666: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+ptolejmus: raises $1 to $2
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: calls $1.50
+DEMONGOD9: calls $1
+*** FLOP *** [3d 2d 2h]
+Mr_Dick666: checks 
+DEMONGOD9: bets $2.85
+ptolejmus: folds 
+Mr_Dick666: folds 
+Uncalled bet ($2.85) returned to DEMONGOD9
+DEMONGOD9 collected $5.70 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [3d 2d 2h]
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded on the Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 (button) folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (small blind) folded on the Flop
+Seat 6: DEMONGOD9 (big blind) collected ($5.70)
+
+
+
+PokerStars Hand #254376270775:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:16:11 WET [2025/01/14 20:16:11 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: avstero ($101.50 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($112.42 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: DEMONGOD9 ($98.77 in chips) 
+DEMONGOD9: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: raises $1.50 to $2.50
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+avstero: calls $1.50
+*** FLOP *** [7d Jh 9d]
+avstero: checks 
+nikalas22: bets $3.92
+avstero: calls $3.92
+*** TURN *** [7d Jh 9d] [8d]
+avstero: bets $4.40
+nikalas22: calls $4.40
+*** RIVER *** [7d Jh 9d 8d] [8c]
+avstero: checks 
+nikalas22: bets $31.55
+avstero: folds 
+Uncalled bet ($31.55) returned to nikalas22
+nikalas22 collected $21.03 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.14 | Rake $1.11 
+Board [7d Jh 9d 8d 8c]
+Seat 1: avstero (big blind) folded on the River
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 collected ($21.03)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376287143:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:17:46 WET [2025/01/14 20:17:46 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($122.63 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: DEMONGOD9 ($98.27 in chips) 
+avstero: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+avstero: folds 
+Uncalled bet ($0.50) returned to ptolejmus
+ptolejmus collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: avstero (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) collected ($1)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376289460:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:17:59 WET [2025/01/14 20:17:59 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: avstero ($99.50 in chips) 
+Seat 2: ptolejmus ($10.50 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($122.63 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: DEMONGOD9 ($98.27 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: raises $1.50 to $2.50
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: raises $8 to $10.50 and is all-in
+BeauParleur: folds 
+nikalas22: calls $8
+*** FLOP *** [3c 8d 4h]
+*** TURN *** [3c 8d 4h] [Td]
+*** RIVER *** [3c 8d 4h Td] [Js]
+*** SHOW DOWN ***
+ptolejmus: shows [5h 5s] (a pair of Fives)
+nikalas22: shows [Ad Qs] (high card Ace)
+ptolejmus cashed out the hand for $11.12 | Cash Out Fee $0.23
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [3c 8d 4h Td Js]
+Seat 1: avstero (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) showed [5h 5s] and won ($20.90) with a pair of Fives (pot not awarded as player cashed out)
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: nikalas22 showed [Ad Qs] and lost with high card Ace
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376298171:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:18:49 WET [2025/01/14 20:18:49 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: avstero ($99.50 in chips) 
+Seat 2: ptolejmus ($11.12 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($112.13 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: DEMONGOD9 ($98.27 in chips) 
+BeauParleur: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: raises $10.12 to $11.12 and is all-in
+BeauParleur: folds 
+nikalas22: folds 
+Uncalled bet ($10.12) returned to ptolejmus
+ptolejmus collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) collected ($2.50)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: nikalas22 (big blind) folded before Flop
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376302137:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:19:12 WET [2025/01/14 20:19:12 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: avstero ($99.50 in chips) 
+Seat 2: ptolejmus ($12.62 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($111.13 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: DEMONGOD9 ($98.27 in chips) 
+nikalas22: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: folds 
+Uncalled bet ($0.50) returned to Mr_Dick666
+Mr_Dick666 collected $1 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: nikalas22 (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) collected ($1)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376304619:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:19:27 WET [2025/01/14 20:19:27 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: avstero ($99.50 in chips) 
+Seat 2: ptolejmus ($12.62 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($110.63 in chips) 
+Seat 5: Mr_Dick666 ($100.50 in chips) 
+Seat 6: DEMONGOD9 ($98.27 in chips) 
+Mr_Dick666: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: raises $1.50 to $2.50
+Mr_Dick666: folds 
+DEMONGOD9: raises $5.50 to $8
+nikalas22: folds 
+Uncalled bet ($5.50) returned to DEMONGOD9
+DEMONGOD9 collected $5.50 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 (button) folded before Flop
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) collected ($5.50)
+
+
+
+PokerStars Hand #254376310384:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:20:00 WET [2025/01/14 20:20:00 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: avstero ($99.50 in chips) 
+Seat 2: ptolejmus ($12.62 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($108.13 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: DEMONGOD9 ($101.27 in chips) 
+DEMONGOD9: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: raises $1.50 to $2.50
+DEMONGOD9: calls $2
+avstero: folds 
+*** FLOP *** [5c 6c Jd]
+DEMONGOD9: checks 
+Mr_Dick666: bets $3.82
+DEMONGOD9: folds 
+Uncalled bet ($3.82) returned to Mr_Dick666
+Mr_Dick666 collected $5.70 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [5c 6c Jd]
+Seat 1: avstero (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (button) collected ($5.70)
+Seat 6: DEMONGOD9 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254376317877:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:20:42 WET [2025/01/14 20:20:42 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($12.62 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($108.13 in chips) 
+Seat 5: Mr_Dick666 ($103.20 in chips) 
+Seat 6: DEMONGOD9 ($98.77 in chips) 
+avstero: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+nikalas22: raises $1.50 to $2.50
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: raises $10.12 to $12.62 and is all-in
+nikalas22: folds 
+Uncalled bet ($10.12) returned to ptolejmus
+ptolejmus collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: avstero (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) collected ($5.50)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 folded before Flop
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376324950:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:21:23 WET [2025/01/14 20:21:23 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: avstero ($99.50 in chips) 
+Seat 2: ptolejmus ($15.62 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($105.63 in chips) 
+Seat 5: Mr_Dick666 ($103.20 in chips) 
+Seat 6: DEMONGOD9 ($98.77 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+Mr_Dick666: raises $1 to $2
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: calls $1
+*** FLOP *** [5h 6d 7s]
+BeauParleur: bets $1.41
+Mr_Dick666: calls $1.41
+*** TURN *** [5h 6d 7s] [Qd]
+BeauParleur: bets $2.29
+Mr_Dick666: raises $4.58 to $6.87
+BeauParleur: raises $25.86 to $32.73
+Mr_Dick666: calls $25.86
+*** RIVER *** [5h 6d 7s Qd] [4h]
+BeauParleur: bets $7.10
+Mr_Dick666: calls $7.10
+*** SHOW DOWN ***
+BeauParleur: shows [8s 8c] (a straight, Four to Eight)
+Mr_Dick666: mucks hand 
+BeauParleur collected $84.48 from pot
+*** SUMMARY ***
+Total pot $86.98 | Rake $2.50 
+Board [5h 6d 7s Qd 4h]
+Seat 1: avstero (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) showed [8s 8c] and won ($84.48) with a straight, Four to Eight
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 mucked
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376340900:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:22:53 WET [2025/01/14 20:22:53 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: avstero ($99.50 in chips) 
+Seat 2: ptolejmus ($15.12 in chips) 
+Seat 3: BeauParleur ($141.24 in chips) 
+Seat 4: nikalas22 ($105.63 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: DEMONGOD9 ($98.77 in chips) 
+BeauParleur: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: raises $1 to $2
+BeauParleur: folds 
+nikalas22: calls $1
+*** FLOP *** [Qc 9d Tc]
+nikalas22: checks 
+ptolejmus: checks 
+*** TURN *** [Qc 9d Tc] [Jh]
+nikalas22: bets $3.21
+ptolejmus: calls $3.21
+*** RIVER *** [Qc 9d Tc Jh] [Qs]
+nikalas22: bets $10.50
+ptolejmus: folds 
+Uncalled bet ($10.50) returned to nikalas22
+nikalas22 collected $10.37 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.92 | Rake $0.55 
+Board [Qc 9d Tc Jh Qs]
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded on the River
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: nikalas22 (big blind) collected ($10.37)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376356943:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:24:24 WET [2025/01/14 20:24:24 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: avstero ($99.50 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($140.74 in chips) 
+Seat 4: nikalas22 ($110.79 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: DEMONGOD9 ($98.77 in chips) 
+nikalas22: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: raises $2 to $3
+Mr_Dick666: raises $6 to $9
+nikalas22: calls $6
+*** FLOP *** [Ks 4c 6d]
+nikalas22: checks 
+Mr_Dick666: bets $5.64
+nikalas22: calls $5.64
+*** TURN *** [Ks 4c 6d] [9d]
+nikalas22: checks 
+Mr_Dick666: bets $20.87
+nikalas22: calls $20.87
+*** RIVER *** [Ks 4c 6d 9d] [Th]
+nikalas22: checks 
+Mr_Dick666: checks 
+*** SHOW DOWN ***
+nikalas22: shows [Ac 6c] (a pair of Sixes)
+Mr_Dick666: shows [Jh Kh] (a pair of Kings)
+Mr_Dick666 collected $68.52 from pot
+*** SUMMARY ***
+Total pot $71.02 | Rake $2.50 
+Board [Ks 4c 6d 9d Th]
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: nikalas22 (small blind) showed [Ac 6c] and lost with a pair of Sixes
+Seat 5: Mr_Dick666 (big blind) showed [Jh Kh] and won ($68.52) with a pair of Kings
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376368543:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:25:30 WET [2025/01/14 20:25:30 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: avstero ($99.50 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($140.74 in chips) 
+Seat 4: nikalas22 ($100 in chips) 
+Seat 5: Mr_Dick666 ($133.01 in chips) 
+Seat 6: DEMONGOD9 ($98.77 in chips) 
+Mr_Dick666: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: raises $1.25 to $2.25
+nikalas22: folds 
+Mr_Dick666: raises $6.75 to $9
+DEMONGOD9: calls $8
+BeauParleur: raises $131.74 to $140.74 and is all-in
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+Uncalled bet ($131.74) returned to BeauParleur
+BeauParleur collected $27 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur collected ($27)
+Seat 4: nikalas22 (button) folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254376380598:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:26:37 WET [2025/01/14 20:26:37 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: avstero ($99.50 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($158.74 in chips) 
+Seat 4: nikalas22 ($100 in chips) 
+Seat 5: Mr_Dick666 ($124.01 in chips) 
+Seat 6: DEMONGOD9 ($89.77 in chips) 
+DEMONGOD9: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: raises $1.50 to $2.50
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+avstero: folds 
+Uncalled bet ($1.50) returned to nikalas22
+nikalas22 collected $2.50 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 collected ($2.50)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376382735:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:26:49 WET [2025/01/14 20:26:49 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($158.74 in chips) 
+Seat 4: nikalas22 ($101.50 in chips) 
+Seat 5: Mr_Dick666 ($124.01 in chips) 
+Seat 6: DEMONGOD9 ($89.27 in chips) 
+avstero: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: folds 
+DEMONGOD9: raises $1 to $2
+avstero: folds 
+ptolejmus: folds 
+Uncalled bet ($1) returned to DEMONGOD9
+DEMONGOD9 collected $2.50 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254376387157:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:27:14 WET [2025/01/14 20:27:14 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: avstero ($99.50 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($158.74 in chips) 
+Seat 4: nikalas22 ($101.50 in chips) 
+Seat 5: Mr_Dick666 ($124.01 in chips) 
+Seat 6: DEMONGOD9 ($90.77 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+avstero: raises $1.20 to $2.20
+ptolejmus: raises $7.80 to $10 and is all-in
+BeauParleur: folds 
+avstero: folds 
+Uncalled bet ($7.80) returned to ptolejmus
+ptolejmus collected $5.40 from pot
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 1: avstero (button) folded before Flop
+Seat 2: ptolejmus (small blind) collected ($5.40)
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376394111:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:27:53 WET [2025/01/14 20:27:53 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($13.20 in chips) 
+Seat 3: BeauParleur ($157.74 in chips) 
+Seat 4: nikalas22 ($101.50 in chips) 
+Seat 5: Mr_Dick666 ($124.01 in chips) 
+Seat 6: DEMONGOD9 ($90.77 in chips) 
+BeauParleur: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: raises $1 to $2
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: folds 
+Uncalled bet ($1) returned to Mr_Dick666
+Mr_Dick666 collected $2.50 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: nikalas22 (big blind) folded before Flop
+Seat 5: Mr_Dick666 collected ($2.50)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376399935:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:28:25 WET [2025/01/14 20:28:25 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($13.20 in chips) 
+Seat 3: BeauParleur ($157.24 in chips) 
+Seat 4: nikalas22 ($100.50 in chips) 
+Seat 5: Mr_Dick666 ($125.51 in chips) 
+Seat 6: DEMONGOD9 ($90.77 in chips) 
+nikalas22: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: raises $1 to $2
+avstero: folds 
+ptolejmus: raises $11.20 to $13.20 and is all-in
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+Uncalled bet ($11.20) returned to ptolejmus
+ptolejmus collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus collected ($5.50)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: nikalas22 (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) folded before Flop
+Seat 6: DEMONGOD9 folded before Flop
+
+
+
+PokerStars Hand #254376405697:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:28:57 WET [2025/01/14 20:28:57 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($16.70 in chips) 
+Seat 3: BeauParleur ($157.24 in chips) 
+Seat 4: nikalas22 ($100 in chips) 
+Seat 5: Mr_Dick666 ($124.51 in chips) 
+Seat 6: DEMONGOD9 ($88.77 in chips) 
+Mr_Dick666: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: raises $1.50 to $2.50
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+Uncalled bet ($1.50) returned to nikalas22
+nikalas22 collected $2.50 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 (button) collected ($2.50)
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254376408771:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:29:15 WET [2025/01/14 20:29:15 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($16.70 in chips) 
+Seat 3: BeauParleur ($157.24 in chips) 
+Seat 4: nikalas22 ($101.50 in chips) 
+Seat 5: Mr_Dick666 ($124.01 in chips) 
+Seat 6: DEMONGOD9 ($87.77 in chips) 
+DEMONGOD9: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: raises $1.50 to $2.50
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+avstero: folds 
+Uncalled bet ($1.50) returned to nikalas22
+nikalas22 collected $2.50 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 collected ($2.50)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376412271:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:29:34 WET [2025/01/14 20:29:34 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: avstero ($99 in chips) 
+Seat 2: ptolejmus ($16.70 in chips) 
+Seat 3: BeauParleur ($157.24 in chips) 
+Seat 4: nikalas22 ($103 in chips) 
+Seat 5: Mr_Dick666 ($124.01 in chips) 
+Seat 6: DEMONGOD9 ($87.27 in chips) 
+avstero: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+nikalas22: folds 
+Mr_Dick666: raises $2 to $3
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+Uncalled bet ($2) returned to Mr_Dick666
+Mr_Dick666 collected $2.50 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 collected ($2.50)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376418578:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:30:10 WET [2025/01/14 20:30:10 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: avstero ($100 in chips) 
+Seat 2: ptolejmus ($15.70 in chips) 
+Seat 3: BeauParleur ($157.24 in chips) 
+Seat 4: nikalas22 ($103 in chips) 
+Seat 5: Mr_Dick666 ($125.51 in chips) 
+Seat 6: DEMONGOD9 ($87.27 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+Mr_Dick666: folds 
+DEMONGOD9: raises $1 to $2
+avstero: raises $3 to $5
+ptolejmus: folds 
+BeauParleur: folds 
+DEMONGOD9: calls $3
+*** FLOP *** [Ah Ad 3h]
+DEMONGOD9: checks 
+avstero: bets $5.40
+DEMONGOD9: calls $5.40
+*** TURN *** [Ah Ad 3h] [6d]
+DEMONGOD9: checks 
+avstero: bets $10.90
+DEMONGOD9: calls $10.90
+*** RIVER *** [Ah Ad 3h 6d] [8s]
+DEMONGOD9: checks 
+avstero: checks 
+*** SHOW DOWN ***
+DEMONGOD9: shows [4d 4c] (two pair, Aces and Fours)
+avstero: shows [7c 7h] (two pair, Aces and Sevens)
+avstero collected $41.90 from pot
+*** SUMMARY ***
+Total pot $44.10 | Rake $2.20 
+Board [Ah Ad 3h 6d 8s]
+Seat 1: avstero (button) showed [7c 7h] and won ($41.90) with two pair, Aces and Sevens
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 showed [4d 4c] and lost with two pair, Aces and Fours
+
+
+
+PokerStars Hand #254376432120:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:31:26 WET [2025/01/14 20:31:26 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: avstero ($120.60 in chips) 
+Seat 2: ptolejmus ($15.20 in chips) 
+Seat 3: BeauParleur ($156.24 in chips) 
+Seat 4: nikalas22 ($103 in chips) 
+Seat 5: Mr_Dick666 ($125.51 in chips) 
+Seat 6: DEMONGOD9 ($65.97 in chips) 
+BeauParleur: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+DEMONGOD9: folds 
+avstero: raises $1.20 to $2.20
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: folds 
+Uncalled bet ($1.20) returned to avstero
+avstero collected $2.50 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero collected ($2.50)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: nikalas22 (big blind) folded before Flop
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376436039:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:31:48 WET [2025/01/14 20:31:48 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 5: Mr_Dick666 ($125.51 in chips) is sitting out
+Seat 1: avstero ($122.10 in chips) 
+Seat 2: ptolejmus ($15.20 in chips) 
+Seat 3: BeauParleur ($155.74 in chips) 
+Seat 4: nikalas22 ($102 in chips) 
+Seat 6: DEMONGOD9 ($65.97 in chips) 
+nikalas22: posts small blind $0.50
+Mr_Dick666: is sitting out 
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+avstero: raises $1.20 to $2.20
+Mr_Dick666 leaves the table
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: folds 
+DEMONGOD9: folds [Jd 6s]
+Uncalled bet ($1.20) returned to avstero
+avstero collected $2.50 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: Mr_Dick666
+Seat 1: avstero collected ($2.50)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: nikalas22 (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254376438716:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:32:03 WET [2025/01/14 20:32:03 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: avstero ($123.60 in chips) 
+Seat 2: ptolejmus ($15.20 in chips) 
+Seat 3: BeauParleur ($155.74 in chips) 
+Seat 4: nikalas22 ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($64.97 in chips) 
+DEMONGOD9: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+BumHuntKing joins the table at seat #5 
+BeauParleur: folds 
+nikalas22: raises $1.50 to $2.50
+DEMONGOD9: raises $5 to $7.50
+avstero: folds 
+nikalas22: folds 
+Uncalled bet ($5) returned to DEMONGOD9
+DEMONGOD9 collected $6 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: avstero (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 (button) folded before Flop
+Seat 6: DEMONGOD9 (small blind) collected ($6)
+
+
+
+PokerStars Hand #254376442777:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:32:26 WET [2025/01/14 20:32:26 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 5: BumHuntKing ($100 in chips) is sitting out
+Seat 1: avstero ($122.60 in chips) 
+Seat 2: ptolejmus ($15.20 in chips) 
+Seat 3: BeauParleur ($155.74 in chips) 
+Seat 4: nikalas22 ($100 in chips) 
+Seat 6: DEMONGOD9 ($68.47 in chips) 
+avstero: posts small blind $0.50
+ptolejmus: posts big blind $1
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+BeauParleur: folds 
+nikalas22: raises $1.50 to $2.50
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+Uncalled bet ($1.50) returned to nikalas22
+nikalas22 collected $2.50 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: BumHuntKing
+Seat 1: avstero (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 collected ($2.50)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376447471:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:32:52 WET [2025/01/14 20:32:52 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 5: BumHuntKing ($100 in chips) is sitting out
+Seat 1: avstero ($122.10 in chips) 
+Seat 2: ptolejmus ($14.20 in chips) 
+Seat 3: BeauParleur ($155.74 in chips) 
+Seat 4: nikalas22 ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($68.47 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+nikalas22: folds 
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+Uncalled bet ($0.50) returned to BeauParleur
+BeauParleur collected $1 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: BumHuntKing
+Seat 1: avstero (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) collected ($1)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376450966:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:33:12 WET [2025/01/14 20:33:12 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 5: BumHuntKing ($100 in chips) is sitting out
+Seat 1: avstero ($122.10 in chips) 
+Seat 2: ptolejmus ($13.70 in chips) 
+Seat 3: BeauParleur ($156.24 in chips) 
+Seat 4: nikalas22 ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($68.47 in chips) 
+BeauParleur: posts small blind $0.50
+nikalas22: posts big blind $1
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+DEMONGOD9: raises $1 to $2
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: calls $1
+*** FLOP *** [Kd 5d 9d]
+nikalas22: checks 
+DEMONGOD9: bets $2.14
+nikalas22: folds 
+Uncalled bet ($2.14) returned to DEMONGOD9
+DEMONGOD9 collected $4.28 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Kd 5d 9d]
+Seat 5: BumHuntKing
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: nikalas22 (big blind) folded on the Flop
+Seat 6: DEMONGOD9 collected ($4.28)
+
+
+
+PokerStars Hand #254376455174:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:33:36 WET [2025/01/14 20:33:36 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: avstero ($122.10 in chips) 
+Seat 2: ptolejmus ($13.70 in chips) 
+Seat 3: BeauParleur ($155.74 in chips) 
+Seat 4: nikalas22 ($100 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($70.75 in chips) 
+nikalas22: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: raises $2 to $3
+BumHuntKing: folds 
+Uncalled bet ($2) returned to nikalas22
+nikalas22 collected $2 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: nikalas22 (small blind) collected ($2)
+Seat 5: BumHuntKing (big blind) folded before Flop
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376457765:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:33:51 WET [2025/01/14 20:33:51 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: avstero ($122.10 in chips) 
+Seat 2: ptolejmus ($13.70 in chips) 
+Seat 3: BeauParleur ($155.74 in chips) 
+Seat 4: nikalas22 ($101 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($70.75 in chips) 
+BumHuntKing: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+ptolejmus: raises $1 to $2
+BeauParleur: folds 
+nikalas22: folds 
+BumHuntKing: folds 
+DEMONGOD9: calls $1
+*** FLOP *** [6s Ad 7h]
+DEMONGOD9: checks 
+ptolejmus: bets $1.16
+DEMONGOD9: calls $1.16
+*** TURN *** [6s Ad 7h] [6c]
+DEMONGOD9: checks 
+ptolejmus: checks 
+*** RIVER *** [6s Ad 7h 6c] [3s]
+DEMONGOD9: bets $5
+ptolejmus: folds 
+Uncalled bet ($5) returned to DEMONGOD9
+DEMONGOD9 collected $6.48 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.82 | Rake $0.34 
+Board [6s Ad 7h 6c 3s]
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded on the River
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) collected ($6.48)
+
+
+
+PokerStars Hand #254376470306:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:35:03 WET [2025/01/14 20:35:03 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: avstero ($122.10 in chips) 
+Seat 2: ptolejmus ($10.54 in chips) 
+Seat 3: BeauParleur ($155.74 in chips) 
+Seat 4: nikalas22 ($101 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($74.07 in chips) 
+DEMONGOD9: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: raises $1.50 to $2.50
+BumHuntKing: folds 
+DEMONGOD9: folds 
+avstero: folds 
+Uncalled bet ($1.50) returned to nikalas22
+nikalas22 collected $2.50 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 collected ($2.50)
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376474781:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:35:29 WET [2025/01/14 20:35:29 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: avstero ($121.10 in chips) 
+Seat 2: ptolejmus ($10.54 in chips) 
+Seat 3: BeauParleur ($155.74 in chips) 
+Seat 4: nikalas22 ($102.50 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($73.57 in chips) 
+avstero: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+nikalas22: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+avstero: raises $120.10 to $121.10 and is all-in
+ptolejmus: folds 
+Uncalled bet ($120.10) returned to avstero
+avstero collected $2 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: avstero (small blind) collected ($2)
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376478825:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:35:53 WET [2025/01/14 20:35:53 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: avstero ($122.10 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($155.74 in chips) 
+Seat 4: nikalas22 ($102.50 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($73.57 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+avstero: raises $1 to $2
+ptolejmus: folds 
+BeauParleur: calls $1
+*** FLOP *** [5c 6c Ad]
+BeauParleur: checks 
+avstero: checks 
+*** TURN *** [5c 6c Ad] [4h]
+BeauParleur: bets $9.50
+avstero: folds 
+Uncalled bet ($9.50) returned to BeauParleur
+BeauParleur collected $4.28 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [5c 6c Ad 4h]
+Seat 1: avstero (button) folded on the Turn
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) collected ($4.28)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376492391:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:37:10 WET [2025/01/14 20:37:10 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: avstero ($120.10 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($158.02 in chips) 
+Seat 4: nikalas22 ($102.50 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($73.57 in chips) 
+BeauParleur: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+DEMONGOD9: raises $1 to $2
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: raises $8 to $10
+nikalas22: folds 
+DEMONGOD9: calls $8
+*** FLOP *** [7s 3d 4s]
+BeauParleur: checks 
+DEMONGOD9: bets $5.98
+BeauParleur: raises $10.53 to $16.51
+DEMONGOD9: calls $10.53
+*** TURN *** [7s 3d 4s] [Ts]
+BeauParleur: bets $17
+DEMONGOD9: raises $30.06 to $47.06 and is all-in
+BeauParleur: calls $30.06
+*** RIVER *** [7s 3d 4s Ts] [5d]
+*** SHOW DOWN ***
+BeauParleur: shows [Ks Kd] (a pair of Kings)
+DEMONGOD9: shows [3c 6c] (a straight, Three to Seven)
+DEMONGOD9 collected $145.64 from pot
+*** SUMMARY ***
+Total pot $148.14 | Rake $2.50 
+Board [7s 3d 4s Ts 5d]
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) showed [Ks Kd] and lost with a pair of Kings
+Seat 4: nikalas22 (big blind) folded before Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 showed [3c 6c] and won ($145.64) with a straight, Three to Seven
+
+
+
+PokerStars Hand #254376509804:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:38:50 WET [2025/01/14 20:38:50 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: avstero ($120.10 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($101.50 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($145.64 in chips) 
+nikalas22: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: raises $1 to $2
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+nikalas22: folds 
+BumHuntKing: calls $1
+*** FLOP *** [Js Ts 9s]
+BumHuntKing: checks 
+DEMONGOD9: bets $2.14
+BumHuntKing: calls $2.14
+*** TURN *** [Js Ts 9s] [2h]
+BumHuntKing: checks 
+DEMONGOD9: bets $6
+BumHuntKing: calls $6
+*** RIVER *** [Js Ts 9s 2h] [4d]
+BumHuntKing: checks 
+DEMONGOD9: bets $25
+BumHuntKing: folds 
+Uncalled bet ($25) returned to DEMONGOD9
+DEMONGOD9 collected $19.74 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.78 | Rake $1.04 
+Board [Js Ts 9s 2h 4d]
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: nikalas22 (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) folded on the River
+Seat 6: DEMONGOD9 collected ($19.74)
+
+
+
+PokerStars Hand #254376525593:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:40:20 WET [2025/01/14 20:40:20 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: avstero ($120.10 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: nikalas22 ($101 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($155.24 in chips) 
+BumHuntKing: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: raises $1.25 to $2.25
+nikalas22: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+Uncalled bet ($1.25) returned to BeauParleur
+BeauParleur collected $2.50 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur collected ($2.50)
+Seat 4: nikalas22 (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254376529625:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:40:43 WET [2025/01/14 20:40:43 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: avstero ($120.10 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($101.50 in chips) 
+Seat 4: nikalas22 ($101 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($154.24 in chips) 
+DEMONGOD9: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+BeauParleur has timed out
+BeauParleur: folds 
+nikalas22: folds 
+BumHuntKing: raises $1.50 to $2.50
+DEMONGOD9: folds 
+nikalas22 leaves the table
+avstero: calls $1.50
+*** FLOP *** [Jc As 6d]
+shootingGRID joins the table at seat #4 
+avstero: checks 
+BumHuntKing: bets $1.72
+avstero: raises $8.18 to $9.90
+BumHuntKing: folds 
+Uncalled bet ($8.18) returned to avstero
+avstero collected $8.49 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [Jc As 6d]
+Seat 1: avstero (big blind) collected ($8.49)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: nikalas22 folded before Flop (didn't bet)
+Seat 5: BumHuntKing (button) folded on the Flop
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376540679:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:41:47 WET [2025/01/14 20:41:47 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 4: shootingGRID ($100 in chips) is sitting out
+Seat 1: avstero ($124.37 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($101.50 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($153.74 in chips) 
+avstero: posts small blind $0.50
+ptolejmus: posts big blind $1
+shootingGRID: sits out 
+*** HOLE CARDS ***
+BeauParleur: folds 
+BumHuntKing: folds 
+DEMONGOD9: raises $1 to $2
+avstero: folds 
+ptolejmus: folds 
+Uncalled bet ($1) returned to DEMONGOD9
+DEMONGOD9 collected $2.50 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: shootingGRID
+Seat 1: avstero (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254376543060:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:42:00 WET [2025/01/14 20:42:00 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 4: shootingGRID ($100 in chips) is sitting out
+Seat 1: avstero ($123.87 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: BeauParleur ($101.50 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($155.24 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+shootingGRID: sits out 
+*** HOLE CARDS ***
+BumHuntKing: folds 
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: raises $9 to $10 and is all-in
+BeauParleur: folds 
+Uncalled bet ($9) returned to ptolejmus
+ptolejmus collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: shootingGRID
+Seat 1: avstero (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) collected ($2)
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376546332:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:42:19 WET [2025/01/14 20:42:19 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: avstero ($123.87 in chips) 
+Seat 2: ptolejmus ($11 in chips) 
+Seat 3: BeauParleur ($100.50 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($155.24 in chips) 
+BeauParleur: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+DEMONGOD9: folds 
+avstero: raises $1.20 to $2.20
+ptolejmus: folds 
+BeauParleur: folds 
+shootingGRID: folds 
+Uncalled bet ($1.20) returned to avstero
+avstero collected $2.50 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero collected ($2.50)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: shootingGRID (big blind) folded before Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376549941:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:42:40 WET [2025/01/14 20:42:40 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: avstero ($125.37 in chips) 
+Seat 2: ptolejmus ($11 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($155.24 in chips) 
+shootingGRID: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: raises $1.50 to $2.50
+shootingGRID: folds 
+BumHuntKing: folds 
+Uncalled bet ($1.50) returned to BeauParleur
+BeauParleur collected $2.50 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) collected ($2.50)
+Seat 4: shootingGRID (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) folded before Flop
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376552311:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:42:54 WET [2025/01/14 20:42:54 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: avstero ($125.37 in chips) 
+Seat 2: ptolejmus ($11 in chips) 
+Seat 3: BeauParleur ($101.50 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($155.24 in chips) 
+BumHuntKing: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+shootingGRID: raises $1.50 to $2.50
+BumHuntKing: folds 
+DEMONGOD9: folds 
+Uncalled bet ($1.50) returned to shootingGRID
+shootingGRID collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID (button) collected ($2.50)
+Seat 5: BumHuntKing (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254376556403:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:43:18 WET [2025/01/14 20:43:18 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: avstero ($125.37 in chips) 
+Seat 2: ptolejmus ($11 in chips) 
+Seat 3: BeauParleur ($101.50 in chips) 
+Seat 4: shootingGRID ($101.50 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($154.24 in chips) 
+DEMONGOD9: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: raises $1 to $2
+BeauParleur: raises $2 to $4
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: calls $2
+*** FLOP *** [Kh 7h As]
+ptolejmus: checks 
+BeauParleur: bets $1
+ptolejmus: calls $1
+*** TURN *** [Kh 7h As] [7s]
+ptolejmus: checks 
+BeauParleur: checks 
+*** RIVER *** [Kh 7h As 7s] [8c]
+ptolejmus: checks 
+BeauParleur: checks 
+*** SHOW DOWN ***
+ptolejmus: shows [Qc Kd] (two pair, Kings and Sevens)
+BeauParleur: mucks hand 
+ptolejmus collected $10.92 from pot
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.58 
+Board [Kh 7h As 7s 8c]
+Seat 1: avstero (big blind) folded before Flop
+Seat 2: ptolejmus showed [Qc Kd] and won ($10.92) with two pair, Kings and Sevens
+Seat 3: BeauParleur mucked
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376567933:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:44:26 WET [2025/01/14 20:44:26 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: avstero ($124.37 in chips) 
+Seat 2: ptolejmus ($16.92 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: shootingGRID ($101.50 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($153.74 in chips) 
+avstero: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+avstero: folds 
+Uncalled bet ($0.50) returned to ptolejmus
+ptolejmus collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: avstero (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) collected ($1)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376571127:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:44:45 WET [2025/01/14 20:44:45 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: avstero ($123.87 in chips) 
+Seat 2: ptolejmus ($17.42 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: shootingGRID ($101.50 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($153.74 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+avstero: raises $1.20 to $2.20
+ptolejmus: folds 
+BeauParleur: raises $10.30 to $12.50
+avstero: folds 
+Uncalled bet ($10.30) returned to BeauParleur
+BeauParleur collected $4.90 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0 
+Seat 1: avstero (button) folded before Flop
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) collected ($4.90)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376575304:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:45:09 WET [2025/01/14 20:45:09 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: avstero ($121.67 in chips) 
+Seat 2: ptolejmus ($16.92 in chips) 
+Seat 3: BeauParleur ($102.70 in chips) 
+Seat 4: shootingGRID ($101.50 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($153.74 in chips) 
+BeauParleur: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+DEMONGOD9: folds 
+avstero: raises $1 to $2
+ptolejmus: folds 
+BeauParleur: folds 
+shootingGRID: folds 
+Uncalled bet ($1) returned to avstero
+avstero collected $2.50 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero collected ($2.50)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: shootingGRID (big blind) folded before Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376580539:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:45:39 WET [2025/01/14 20:45:39 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: avstero ($123.17 in chips) 
+Seat 2: ptolejmus ($16.92 in chips) 
+Seat 3: BeauParleur ($102.20 in chips) 
+Seat 4: shootingGRID ($100.50 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($153.74 in chips) 
+shootingGRID: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: raises $1 to $2
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: folds 
+Uncalled bet ($1) returned to ptolejmus
+ptolejmus collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus collected ($2.50)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: shootingGRID (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) folded before Flop
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376584452:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:46:03 WET [2025/01/14 20:46:03 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: avstero ($123.17 in chips) 
+Seat 2: ptolejmus ($18.42 in chips) 
+Seat 3: BeauParleur ($102.20 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($153.74 in chips) 
+BumHuntKing: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: raises $1.50 to $2.50
+DEMONGOD9: folds 
+Uncalled bet ($1.50) returned to BumHuntKing
+BumHuntKing collected $2 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) collected ($2)
+Seat 6: DEMONGOD9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254376586591:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:46:15 WET [2025/01/14 20:46:15 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: avstero ($123.17 in chips) 
+Seat 2: ptolejmus ($18.42 in chips) 
+Seat 3: BeauParleur ($102.20 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($101 in chips) 
+Seat 6: DEMONGOD9 ($152.74 in chips) 
+DEMONGOD9: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+BeauParleur: folds 
+shootingGRID: raises $1.25 to $2.25
+BumHuntKing: calls $2.25
+DEMONGOD9: folds 
+avstero: folds 
+*** FLOP *** [Jd 2s 5c]
+shootingGRID: checks 
+BumHuntKing: bets $1.88
+shootingGRID: calls $1.88
+*** TURN *** [Jd 2s 5c] [Ad]
+shootingGRID: checks 
+BumHuntKing: bets $9.27
+shootingGRID: folds 
+Uncalled bet ($9.27) returned to BumHuntKing
+BumHuntKing collected $9.27 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [Jd 2s 5c Ad]
+Seat 1: avstero (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID folded on the Turn
+Seat 5: BumHuntKing (button) collected ($9.27)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376594686:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:47:03 WET [2025/01/14 20:47:03 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: avstero ($122.17 in chips) 
+Seat 2: ptolejmus ($18.42 in chips) 
+Seat 3: BeauParleur ($102.20 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($106.14 in chips) 
+Seat 6: DEMONGOD9 ($152.24 in chips) 
+avstero: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: raises $2 to $3
+avstero: folds 
+ptolejmus: folds 
+Uncalled bet ($2) returned to DEMONGOD9
+DEMONGOD9 collected $2.50 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: avstero (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254376598357:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:47:25 WET [2025/01/14 20:47:25 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: avstero ($121.67 in chips) 
+Seat 2: ptolejmus ($17.42 in chips) 
+Seat 3: BeauParleur ($102.20 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($106.14 in chips) 
+Seat 6: DEMONGOD9 ($153.74 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: raises $1.25 to $2.25
+BumHuntKing: folds 
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: raises $15.17 to $17.42 and is all-in
+BeauParleur: folds 
+shootingGRID has timed out
+shootingGRID: folds 
+Uncalled bet ($15.17) returned to ptolejmus
+ptolejmus collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: avstero (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) collected ($5.50)
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: shootingGRID folded before Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376607530:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:48:19 WET [2025/01/14 20:48:19 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: avstero ($121.67 in chips) 
+Seat 2: ptolejmus ($20.67 in chips) 
+Seat 3: BeauParleur ($101.20 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($106.14 in chips) 
+Seat 6: DEMONGOD9 ($153.74 in chips) 
+BeauParleur: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: raises $2 to $3
+shootingGRID: folds 
+Uncalled bet ($2) returned to BeauParleur
+BeauParleur collected $2 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) collected ($2)
+Seat 4: shootingGRID (big blind) folded before Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376609529:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:48:31 WET [2025/01/14 20:48:31 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: avstero ($121.67 in chips) 
+Seat 2: ptolejmus ($20.67 in chips) 
+Seat 3: BeauParleur ($102.20 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($106.14 in chips) 
+Seat 6: DEMONGOD9 ($153.74 in chips) 
+shootingGRID: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+shootingGRID: folds 
+Uncalled bet ($0.50) returned to BumHuntKing
+BumHuntKing collected $1 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: shootingGRID (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) collected ($1)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376614146:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:48:59 WET [2025/01/14 20:48:59 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: avstero ($121.67 in chips) 
+Seat 2: ptolejmus ($20.67 in chips) 
+Seat 3: BeauParleur ($102.20 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($106.64 in chips) 
+Seat 6: DEMONGOD9 ($153.74 in chips) 
+BumHuntKing: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+ptolejmus: folds 
+BeauParleur: raises $1.25 to $2.25
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: raises $5.75 to $8
+BeauParleur: calls $5.75
+*** FLOP *** [2c Kd 5d]
+DEMONGOD9: checks 
+BeauParleur: bets $7.84
+DEMONGOD9: calls $7.84
+*** TURN *** [2c Kd 5d] [5h]
+DEMONGOD9: checks 
+BeauParleur: checks 
+*** RIVER *** [2c Kd 5d 5h] [4c]
+DEMONGOD9: bets $18
+BeauParleur: calls $18
+*** SHOW DOWN ***
+DEMONGOD9: shows [Ad Ah] (two pair, Aces and Fives)
+BeauParleur: mucks hand 
+DEMONGOD9 collected $65.68 from pot
+*** SUMMARY ***
+Total pot $68.18 | Rake $2.50 
+Board [2c Kd 5d 5h 4c]
+Seat 1: avstero folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur mucked
+Seat 4: shootingGRID (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) showed [Ad Ah] and won ($65.68) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #254376628984:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:50:28 WET [2025/01/14 20:50:28 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: avstero ($121.67 in chips) is sitting out
+Seat 2: ptolejmus ($20.67 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($106.14 in chips) 
+Seat 6: DEMONGOD9 ($185.58 in chips) 
+DEMONGOD9: posts small blind $0.50
+avstero: is sitting out 
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+avstero leaves the table
+shootingGRID has timed out
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: raises $1 to $2
+rostickkin joins the table at seat #1 
+ptolejmus: calls $1
+*** FLOP *** [4s 9c Jh]
+DEMONGOD9: checks 
+ptolejmus: bets $1.03
+DEMONGOD9: folds 
+Uncalled bet ($1.03) returned to ptolejmus
+ptolejmus collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [4s 9c Jh]
+Seat 1: avstero
+Seat 2: ptolejmus (big blind) collected ($3.80)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254376638972:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:51:27 WET [2025/01/14 20:51:27 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: rostickkin ($100 in chips) is sitting out
+Seat 2: ptolejmus ($22.47 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($106.14 in chips) 
+Seat 6: DEMONGOD9 ($183.58 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+BumHuntKing: raises $1.20 to $2.20
+DEMONGOD9: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+Uncalled bet ($1.20) returned to BumHuntKing
+BumHuntKing collected $2.50 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rostickkin
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing collected ($2.50)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376642548:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:51:49 WET [2025/01/14 20:51:49 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: rostickkin ($100 in chips) is sitting out
+Seat 2: ptolejmus ($21.97 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($107.64 in chips) 
+Seat 6: DEMONGOD9 ($183.58 in chips) 
+BeauParleur: posts small blind $0.50
+shootingGRID: posts big blind $1
+rostickkin: sits out 
+*** HOLE CARDS ***
+BumHuntKing: raises $1.20 to $2.20
+DEMONGOD9: folds 
+ptolejmus: raises $2.80 to $5
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: raises $21 to $26
+ptolejmus: folds 
+Uncalled bet ($21) returned to BumHuntKing
+BumHuntKing collected $11.50 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.50 | Rake $0 
+Seat 1: rostickkin
+Seat 2: ptolejmus (button) folded before Flop
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: shootingGRID (big blind) folded before Flop
+Seat 5: BumHuntKing collected ($11.50)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376649178:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:52:28 WET [2025/01/14 20:52:28 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: rostickkin ($100 in chips) is sitting out
+Seat 2: ptolejmus ($16.97 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($114.14 in chips) 
+Seat 6: DEMONGOD9 ($183.58 in chips) 
+shootingGRID: posts small blind $0.50
+BumHuntKing: posts big blind $1
+rostickkin: sits out 
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+shootingGRID: raises $2 to $3
+BumHuntKing: calls $2
+*** FLOP *** [Jh 9s Qh]
+shootingGRID: bets $1.88
+BumHuntKing: calls $1.88
+*** TURN *** [Jh 9s Qh] [Jc]
+shootingGRID: checks 
+BumHuntKing: bets $6.95
+shootingGRID: calls $6.95
+*** RIVER *** [Jh 9s Qh Jc] [Qd]
+shootingGRID: bets $14.84
+BumHuntKing: folds 
+Uncalled bet ($14.84) returned to shootingGRID
+shootingGRID collected $22.48 from pot
+*** SUMMARY ***
+Total pot $23.66 | Rake $1.18 
+Board [Jh 9s Qh Jc Qd]
+Seat 1: rostickkin
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: shootingGRID (small blind) collected ($22.48)
+Seat 5: BumHuntKing (big blind) folded on the River
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376664834:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:54:02 WET [2025/01/14 20:54:02 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: rostickkin ($100 in chips) is sitting out
+Seat 2: ptolejmus ($16.97 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: shootingGRID ($110.65 in chips) 
+Seat 5: BumHuntKing ($102.31 in chips) 
+Seat 6: DEMONGOD9 ($183.58 in chips) 
+BumHuntKing: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+rostickkin: sits out 
+*** HOLE CARDS ***
+ptolejmus: folds 
+BeauParleur: raises $1.25 to $2.25
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+Uncalled bet ($1.25) returned to BeauParleur
+BeauParleur collected $2.50 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rostickkin
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur collected ($2.50)
+Seat 4: shootingGRID (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254376667350:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:54:18 WET [2025/01/14 20:54:18 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: rostickkin ($100 in chips) 
+Seat 2: ptolejmus ($16.97 in chips) 
+Seat 3: BeauParleur ($101.50 in chips) 
+Seat 4: shootingGRID ($110.65 in chips) 
+Seat 5: BumHuntKing ($101.81 in chips) 
+Seat 6: DEMONGOD9 ($182.58 in chips) 
+DEMONGOD9: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: raises $1 to $2
+BeauParleur: raises $1 to $3
+shootingGRID: calls $3
+BumHuntKing: folds 
+DEMONGOD9: folds 
+rostickkin: folds 
+ptolejmus: raises $13.97 to $16.97 and is all-in
+BeauParleur: folds 
+shootingGRID: folds 
+Uncalled bet ($13.97) returned to ptolejmus
+ptolejmus collected $10.50 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0 
+Seat 1: rostickkin (big blind) folded before Flop
+Seat 2: ptolejmus collected ($10.50)
+Seat 3: BeauParleur folded before Flop
+Seat 4: shootingGRID folded before Flop
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376678131:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:55:27 WET [2025/01/14 20:55:27 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: rostickkin ($100 in chips) 
+Seat 2: ptolejmus ($24.47 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: shootingGRID ($107.65 in chips) 
+Seat 5: BumHuntKing ($101.81 in chips) 
+Seat 6: DEMONGOD9 ($182.08 in chips) 
+rostickkin: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+rostickkin: raises $2 to $3
+ptolejmus: folds 
+Uncalled bet ($2) returned to rostickkin
+rostickkin collected $2 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: rostickkin (small blind) collected ($2)
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376680615:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:55:46 WET [2025/01/14 20:55:46 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: rostickkin ($101 in chips) 
+Seat 2: ptolejmus ($23.47 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: shootingGRID ($107.65 in chips) 
+Seat 5: BumHuntKing ($101.81 in chips) 
+Seat 6: DEMONGOD9 ($182.08 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+BumHuntKing: raises $1.20 to $2.20
+DEMONGOD9: folds 
+rostickkin: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+Uncalled bet ($1.20) returned to BumHuntKing
+BumHuntKing collected $2.50 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rostickkin (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing collected ($2.50)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376682440:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:56:00 WET [2025/01/14 20:56:00 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: rostickkin ($101 in chips) 
+Seat 2: ptolejmus ($22.97 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: shootingGRID ($107.65 in chips) 
+Seat 5: BumHuntKing ($103.31 in chips) 
+Seat 6: DEMONGOD9 ($182.08 in chips) 
+BeauParleur: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+DEMONGOD9: folds 
+rostickkin: folds 
+ptolejmus: folds 
+BeauParleur: raises $2 to $3
+shootingGRID: calls $2
+*** FLOP *** [5c 7c 6c]
+BeauParleur: bets $1.88
+shootingGRID: calls $1.88
+*** TURN *** [5c 7c 6c] [9d]
+BeauParleur: checks 
+shootingGRID: checks 
+*** RIVER *** [5c 7c 6c 9d] [4c]
+BeauParleur: checks 
+shootingGRID: checks 
+*** SHOW DOWN ***
+BeauParleur: shows [Jd 9c] (a flush, Nine high)
+shootingGRID: mucks hand 
+BeauParleur collected $9.27 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [5c 7c 6c 9d 4c]
+Seat 1: rostickkin folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) showed [Jd 9c] and won ($9.27) with a flush, Nine high
+Seat 4: shootingGRID (big blind) mucked
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376697068:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:57:54 WET [2025/01/14 20:57:54 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: rostickkin ($101 in chips) 
+Seat 2: ptolejmus ($22.97 in chips) 
+Seat 3: BeauParleur ($104.39 in chips) 
+Seat 4: shootingGRID ($102.77 in chips) 
+Seat 5: BumHuntKing ($103.31 in chips) 
+Seat 6: DEMONGOD9 ($182.08 in chips) 
+shootingGRID: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: raises $1 to $2
+rostickkin: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: raises $10 to $12
+DEMONGOD9: calls $10
+*** FLOP *** [2s 9h 8d]
+BumHuntKing: bets $7.68
+DEMONGOD9: calls $7.68
+*** TURN *** [2s 9h 8d] [Ts]
+BumHuntKing: checks 
+DEMONGOD9: bets $10.94
+BumHuntKing: folds 
+Uncalled bet ($10.94) returned to DEMONGOD9
+DEMONGOD9 collected $37.87 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $39.86 | Rake $1.99 
+Board [2s 9h 8d Ts]
+Seat 1: rostickkin folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: shootingGRID (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) folded on the Turn
+Seat 6: DEMONGOD9 collected ($37.87)
+
+
+
+PokerStars Hand #254376704847:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:58:54 WET [2025/01/14 20:58:54 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: rostickkin ($101 in chips) 
+Seat 2: ptolejmus ($22.97 in chips) 
+Seat 3: BeauParleur ($104.39 in chips) 
+Seat 4: shootingGRID ($102.27 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($200.27 in chips) 
+BumHuntKing: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: raises $1.20 to $2.20
+ptolejmus: folds 
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+Uncalled bet ($1.20) returned to rostickkin
+rostickkin collected $2.50 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rostickkin collected ($2.50)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254376706694:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:59:09 WET [2025/01/14 20:59:09 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: rostickkin ($102.50 in chips) 
+Seat 2: ptolejmus ($22.97 in chips) 
+Seat 3: BeauParleur ($104.39 in chips) 
+Seat 4: shootingGRID ($102.27 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($199.27 in chips) 
+DEMONGOD9: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+BeauParleur: raises $1 to $2
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+rostickkin: folds 
+Uncalled bet ($1) returned to BeauParleur
+BeauParleur collected $2.50 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rostickkin (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur collected ($2.50)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376708546:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:59:23 WET [2025/01/14 20:59:23 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: rostickkin ($101.50 in chips) 
+Seat 2: ptolejmus ($22.97 in chips) 
+Seat 3: BeauParleur ($105.89 in chips) 
+Seat 4: shootingGRID ($102.27 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($198.77 in chips) 
+rostickkin: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur has timed out
+BeauParleur: folds 
+shootingGRID has timed out
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+rostickkin: folds 
+Uncalled bet ($0.50) returned to ptolejmus
+ptolejmus collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: rostickkin (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) collected ($1)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376712396:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 1:59:53 WET [2025/01/14 20:59:53 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 4: shootingGRID ($102.27 in chips) is sitting out
+Seat 1: rostickkin ($101 in chips) 
+Seat 2: ptolejmus ($23.47 in chips) 
+Seat 3: BeauParleur ($105.89 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($198.77 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+DEMONGOD9: raises $1 to $2
+rostickkin: folds 
+ptolejmus: folds 
+BeauParleur: raises $10 to $12
+DEMONGOD9: folds 
+Uncalled bet ($10) returned to BeauParleur
+BeauParleur collected $4.50 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 4: shootingGRID
+Seat 1: rostickkin (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) collected ($4.50)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop
+
+
+
+PokerStars Hand #254376716095:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:00:22 WET [2025/01/14 21:00:22 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 4: shootingGRID ($102.27 in chips) is sitting out
+Seat 1: rostickkin ($101 in chips) 
+Seat 2: ptolejmus ($22.97 in chips) 
+Seat 3: BeauParleur ($108.39 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($196.77 in chips) 
+BeauParleur: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+rostickkin: raises $1.50 to $2.50
+ptolejmus: folds 
+BeauParleur: folds 
+BumHuntKing: calls $1.50
+*** FLOP *** [6s Kd 3s]
+BumHuntKing: checks 
+rostickkin: bets $1.77
+BumHuntKing: calls $1.77
+*** TURN *** [6s Kd 3s] [9h]
+BumHuntKing: checks 
+rostickkin: checks 
+*** RIVER *** [6s Kd 3s 9h] [6c]
+BumHuntKing: checks 
+rostickkin: checks 
+*** SHOW DOWN ***
+BumHuntKing: shows [2s 2h] (two pair, Sixes and Deuces)
+rostickkin: mucks hand 
+BumHuntKing collected $8.59 from pot
+*** SUMMARY ***
+Total pot $9.04 | Rake $0.45 
+Board [6s Kd 3s 9h 6c]
+Seat 4: shootingGRID
+Seat 1: rostickkin mucked
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) showed [2s 2h] and won ($8.59) with two pair, Sixes and Deuces
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376724206:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:01:17 WET [2025/01/14 21:01:17 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 4: shootingGRID ($102.27 in chips) is sitting out
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($100 in chips) 
+Seat 2: ptolejmus ($22.97 in chips) 
+Seat 3: BeauParleur ($107.89 in chips) 
+Seat 5: BumHuntKing ($104.32 in chips) 
+BumHuntKing: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: raises $1 to $2
+BeauParleur: folds 
+BumHuntKing: folds 
+rostickkin: calls $1
+*** FLOP *** [Td Qh 4c]
+rostickkin: checks 
+ptolejmus: bets $2.18
+rostickkin: folds 
+Uncalled bet ($2.18) returned to ptolejmus
+ptolejmus collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Td Qh 4c]
+Seat 4: shootingGRID
+Seat 6: DEMONGOD9
+Seat 1: rostickkin (big blind) folded on the Flop
+Seat 2: ptolejmus collected ($4.28)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376730587:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:01:56 WET [2025/01/14 21:01:56 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 4: shootingGRID ($102.27 in chips) is sitting out
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($100 in chips) 
+Seat 2: ptolejmus ($25.25 in chips) 
+Seat 3: BeauParleur ($107.89 in chips) 
+Seat 5: BumHuntKing ($103.82 in chips) 
+rostickkin: posts small blind $0.50
+ptolejmus: posts big blind $1
+shootingGRID: sits out 
+*** HOLE CARDS ***
+BeauParleur: folds 
+BumHuntKing: folds 
+rostickkin: raises $2 to $3
+ptolejmus: raises $4.50 to $7.50
+rostickkin: folds 
+Uncalled bet ($4.50) returned to ptolejmus
+ptolejmus collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: shootingGRID
+Seat 6: DEMONGOD9
+Seat 1: rostickkin (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) collected ($6)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376735407:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:02:26 WET [2025/01/14 21:02:26 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 4: shootingGRID ($102.27 in chips) is sitting out
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($100 in chips) 
+Seat 2: ptolejmus ($28.25 in chips) 
+Seat 3: BeauParleur ($107.89 in chips) 
+Seat 5: BumHuntKing ($103.82 in chips) 
+ptolejmus: posts small blind $0.50
+BeauParleur: posts big blind $1
+shootingGRID: sits out 
+*** HOLE CARDS ***
+BumHuntKing: folds 
+rostickkin: folds 
+ptolejmus: raises $2 to $3
+BeauParleur: folds 
+Uncalled bet ($2) returned to ptolejmus
+ptolejmus collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: shootingGRID
+Seat 6: DEMONGOD9
+Seat 1: rostickkin (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) collected ($2)
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376738781:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:02:47 WET [2025/01/14 21:02:47 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($100 in chips) 
+Seat 2: ptolejmus ($29.25 in chips) 
+Seat 3: BeauParleur ($106.89 in chips) 
+Seat 4: shootingGRID ($102.27 in chips) 
+Seat 5: BumHuntKing ($103.82 in chips) 
+BeauParleur: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+rostickkin: folds 
+ptolejmus: folds 
+BeauParleur: folds 
+Uncalled bet ($0.50) returned to shootingGRID
+shootingGRID collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: DEMONGOD9
+Seat 1: rostickkin folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: shootingGRID (big blind) collected ($1)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376741000:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:03:00 WET [2025/01/14 21:03:00 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($100 in chips) 
+Seat 2: ptolejmus ($29.25 in chips) 
+Seat 3: BeauParleur ($106.39 in chips) 
+Seat 4: shootingGRID ($102.77 in chips) 
+Seat 5: BumHuntKing ($103.82 in chips) 
+shootingGRID: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: folds 
+ptolejmus: raises $1 to $2
+BeauParleur: folds 
+shootingGRID: raises $10 to $12
+BumHuntKing: folds 
+ptolejmus: folds 
+Uncalled bet ($10) returned to shootingGRID
+shootingGRID collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 6: DEMONGOD9
+Seat 1: rostickkin folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: shootingGRID (small blind) collected ($5)
+Seat 5: BumHuntKing (big blind) folded before Flop
+
+
+
+PokerStars Hand #254376746640:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:03:35 WET [2025/01/14 21:03:35 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($100 in chips) 
+Seat 2: ptolejmus ($27.25 in chips) 
+Seat 3: BeauParleur ($106.39 in chips) 
+Seat 4: shootingGRID ($105.77 in chips) 
+Seat 5: BumHuntKing ($102.82 in chips) 
+BumHuntKing: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: folds 
+Uncalled bet ($0.50) returned to rostickkin
+rostickkin collected $1 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: DEMONGOD9
+Seat 1: rostickkin (big blind) collected ($1)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376749672:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:03:54 WET [2025/01/14 21:03:54 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 2: ptolejmus ($27.25 in chips) is sitting out
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($100.50 in chips) 
+Seat 3: BeauParleur ($106.39 in chips) 
+Seat 4: shootingGRID ($105.77 in chips) 
+Seat 5: BumHuntKing ($102.32 in chips) 
+rostickkin: posts small blind $0.50
+ptolejmus: is sitting out 
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus leaves the table
+shootingGRID: folds 
+BumHuntKing: raises $1.50 to $2.50
+rostickkin: raises $9 to $11.50
+BeauParleur: folds 
+BumHuntKing: folds 
+Uncalled bet ($9) returned to rostickkin
+rostickkin collected $6 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: ptolejmus
+Seat 6: DEMONGOD9
+Seat 1: rostickkin (small blind) collected ($6)
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing (button) folded before Flop
+
+
+
+PokerStars Hand #254376753049:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:04:15 WET [2025/01/14 21:04:15 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($104 in chips) 
+Seat 3: BeauParleur ($105.39 in chips) 
+Seat 4: shootingGRID ($105.77 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+BeauParleur: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: raises $1.20 to $2.20
+rostickkin: folds 
+ffac joins the table at seat #2 
+BeauParleur: folds 
+shootingGRID: folds 
+Uncalled bet ($1.20) returned to BumHuntKing
+BumHuntKing collected $2.50 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: DEMONGOD9
+Seat 1: rostickkin (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: shootingGRID (big blind) folded before Flop
+Seat 5: BumHuntKing collected ($2.50)
+
+
+
+PokerStars Hand #254376760255:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:05:00 WET [2025/01/14 21:05:00 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 2: ffac ($100 in chips) is sitting out
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($104 in chips) 
+Seat 3: BeauParleur ($104.89 in chips) 
+Seat 4: shootingGRID ($104.77 in chips) 
+Seat 5: BumHuntKing ($101.50 in chips) 
+shootingGRID: posts small blind $0.50
+BumHuntKing: posts big blind $1
+ffac: sits out 
+*** HOLE CARDS ***
+rostickkin: raises $1.50 to $2.50
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: folds 
+Uncalled bet ($1.50) returned to rostickkin
+rostickkin collected $2.50 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: ffac
+Seat 6: DEMONGOD9
+Seat 1: rostickkin collected ($2.50)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: shootingGRID (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) folded before Flop
+
+
+
+PokerStars Hand #254376763101:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:05:18 WET [2025/01/14 21:05:18 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 2: ffac ($100 in chips) is sitting out
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($105.50 in chips) 
+Seat 3: BeauParleur ($104.89 in chips) 
+Seat 4: shootingGRID ($104.27 in chips) 
+Seat 5: BumHuntKing ($100.50 in chips) 
+BumHuntKing: posts small blind $0.50
+rostickkin: posts big blind $1
+ffac: sits out 
+*** HOLE CARDS ***
+BeauParleur has timed out
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: folds 
+Uncalled bet ($0.50) returned to rostickkin
+rostickkin collected $1 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: ffac
+Seat 6: DEMONGOD9
+Seat 1: rostickkin (big blind) collected ($1)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376767373:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:05:45 WET [2025/01/14 21:05:45 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($106 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: BeauParleur ($104.89 in chips) 
+Seat 4: shootingGRID ($104.27 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+rostickkin: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur has timed out
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: raises $1.50 to $2.50
+rostickkin: folds 
+ffac: folds 
+Uncalled bet ($1.50) returned to BumHuntKing
+BumHuntKing collected $2.50 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: DEMONGOD9
+Seat 1: rostickkin (small blind) folded before Flop
+Seat 2: ffac (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing (button) collected ($2.50)
+
+
+
+PokerStars Hand #254376771810:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:06:12 WET [2025/01/14 21:06:12 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($105.50 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: BeauParleur ($104.89 in chips) 
+Seat 4: shootingGRID ($104.27 in chips) 
+Seat 5: BumHuntKing ($101.50 in chips) 
+ffac: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+BumHuntKing: raises $1.20 to $2.20
+rostickkin: folds 
+ffac: folds 
+BeauParleur: calls $1.20
+*** FLOP *** [Kd 5s 5h]
+BeauParleur: checks 
+BumHuntKing: bets $1.50
+BeauParleur: folds 
+Uncalled bet ($1.50) returned to BumHuntKing
+BumHuntKing collected $4.66 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Kd 5s 5h]
+Seat 6: DEMONGOD9
+Seat 1: rostickkin (button) folded before Flop (didn't bet)
+Seat 2: ffac (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) folded on the Flop
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing collected ($4.66)
+
+
+
+PokerStars Hand #254376777118:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:06:46 WET [2025/01/14 21:06:46 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($105.50 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: BeauParleur ($102.69 in chips) 
+Seat 4: shootingGRID ($104.27 in chips) 
+Seat 5: BumHuntKing ($103.96 in chips) 
+BeauParleur: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+rostickkin: folds 
+ffac: raises $1.50 to $2.50
+BeauParleur: folds 
+shootingGRID: folds 
+Uncalled bet ($1.50) returned to ffac
+ffac collected $2.50 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: DEMONGOD9
+Seat 1: rostickkin folded before Flop (didn't bet)
+Seat 2: ffac (button) collected ($2.50)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: shootingGRID (big blind) folded before Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376781199:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:07:12 WET [2025/01/14 21:07:12 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($105.50 in chips) 
+Seat 2: ffac ($101.50 in chips) 
+Seat 3: BeauParleur ($102.19 in chips) 
+Seat 4: shootingGRID ($103.27 in chips) 
+Seat 5: BumHuntKing ($103.96 in chips) 
+shootingGRID: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: folds 
+ffac: folds 
+BeauParleur: folds 
+shootingGRID: folds 
+Uncalled bet ($0.50) returned to BumHuntKing
+BumHuntKing collected $1 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: DEMONGOD9
+Seat 1: rostickkin folded before Flop (didn't bet)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: shootingGRID (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) collected ($1)
+
+
+
+PokerStars Hand #254376785161:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:07:37 WET [2025/01/14 21:07:37 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($105.50 in chips) 
+Seat 2: ffac ($101.50 in chips) 
+Seat 3: BeauParleur ($102.19 in chips) 
+Seat 4: shootingGRID ($102.77 in chips) 
+Seat 5: BumHuntKing ($104.46 in chips) 
+BumHuntKing: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+ffac: folds 
+BeauParleur: folds 
+shootingGRID: raises $1.50 to $2.50
+BumHuntKing: raises $9 to $11.50
+rostickkin: folds 
+shootingGRID: folds 
+Uncalled bet ($9) returned to BumHuntKing
+BumHuntKing collected $6 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 6: DEMONGOD9
+Seat 1: rostickkin (big blind) folded before Flop
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID (button) folded before Flop
+Seat 5: BumHuntKing (small blind) collected ($6)
+
+
+
+PokerStars Hand #254376790973:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:08:14 WET [2025/01/14 21:08:14 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 6: DEMONGOD9 ($196.77 in chips) is sitting out
+Seat 1: rostickkin ($104.50 in chips) 
+Seat 2: ffac ($101.50 in chips) 
+Seat 3: BeauParleur ($102.19 in chips) 
+Seat 4: shootingGRID ($100.27 in chips) 
+Seat 5: BumHuntKing ($107.96 in chips) 
+rostickkin: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+shootingGRID has timed out
+shootingGRID: folds 
+BumHuntKing: raises $1.50 to $2.50
+rostickkin: raises $9 to $11.50
+ffac: folds 
+BumHuntKing: calls $9
+*** FLOP *** [9s Ad 7s]
+rostickkin: bets $7.75
+BumHuntKing: calls $7.75
+*** TURN *** [9s Ad 7s] [6s]
+rostickkin: checks 
+BumHuntKing: checks 
+*** RIVER *** [9s Ad 7s 6s] [6d]
+rostickkin: checks 
+BumHuntKing: checks 
+*** SHOW DOWN ***
+rostickkin: shows [As Ac] (a full house, Aces full of Sixes)
+BumHuntKing: mucks hand 
+rostickkin collected $37.52 from pot
+*** SUMMARY ***
+Total pot $39.50 | Rake $1.98 
+Board [9s Ad 7s 6s 6d]
+Seat 6: DEMONGOD9
+Seat 1: rostickkin (small blind) showed [As Ac] and won ($37.52) with a full house, Aces full of Sixes
+Seat 2: ffac (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing (button) mucked
+
+
+
+PokerStars Hand #254376802630:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:09:27 WET [2025/01/14 21:09:27 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: rostickkin ($122.77 in chips) 
+Seat 2: ffac ($100.50 in chips) 
+Seat 3: BeauParleur ($102.19 in chips) 
+Seat 4: shootingGRID ($100.27 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($196.77 in chips) 
+ffac: posts small blind $0.50
+BeauParleur: posts big blind $1
+DEMONGOD9: posts small & big blinds $1.50
+*** HOLE CARDS ***
+shootingGRID: folds 
+BumHuntKing: raises $2.50 to $3.50
+DEMONGOD9: folds 
+rostickkin: folds 
+ffac: folds 
+BeauParleur: raises $10.50 to $14
+BumHuntKing: folds 
+Uncalled bet ($10.50) returned to BeauParleur
+BeauParleur collected $9 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: rostickkin (button) folded before Flop (didn't bet)
+Seat 2: ffac (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) collected ($9)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376808840:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:10:07 WET [2025/01/14 21:10:07 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: rostickkin ($122.77 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: BeauParleur ($107.69 in chips) 
+Seat 4: shootingGRID ($100.27 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($195.27 in chips) 
+BeauParleur: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+DEMONGOD9: folds 
+rostickkin: raises $1.50 to $2.50
+ffac: calls $2.50
+BeauParleur: raises $10.50 to $13
+shootingGRID: folds 
+rostickkin: raises $14.50 to $27.50
+ffac: folds 
+BeauParleur: folds 
+Uncalled bet ($14.50) returned to rostickkin
+rostickkin collected $29.50 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $29.50 | Rake $0 
+Seat 1: rostickkin collected ($29.50)
+Seat 2: ffac (button) folded before Flop
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: shootingGRID (big blind) folded before Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376817149:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:10:59 WET [2025/01/14 21:10:59 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: rostickkin ($139.27 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($195.27 in chips) 
+shootingGRID: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: raises $1 to $2
+rostickkin: folds 
+ffac: raises $4.50 to $6.50
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: calls $4.50
+*** FLOP *** [9c 5h 3c]
+DEMONGOD9: checks 
+ffac: checks 
+*** TURN *** [9c 5h 3c] [8d]
+DEMONGOD9: bets $6.89
+ffac: folds 
+Uncalled bet ($6.89) returned to DEMONGOD9
+DEMONGOD9 collected $13.78 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.50 | Rake $0.72 
+Board [9c 5h 3c 8d]
+Seat 1: rostickkin folded before Flop (didn't bet)
+Seat 2: ffac folded on the Turn
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: shootingGRID (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) folded before Flop
+Seat 6: DEMONGOD9 collected ($13.78)
+
+
+
+PokerStars Hand #254376827607:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:12:05 WET [2025/01/14 21:12:05 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: rostickkin ($139.27 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($202.55 in chips) 
+BumHuntKing: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: raises $1.20 to $2.20
+ffac: folds 
+BeauParleur: raises $4.80 to $7
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+rostickkin: raises $15.20 to $22.20
+BeauParleur: calls $15.20
+*** FLOP *** [8s 5s Jd]
+rostickkin: checks 
+BeauParleur: bets $11
+rostickkin: folds 
+Uncalled bet ($11) returned to BeauParleur
+BeauParleur collected $43.60 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $45.90 | Rake $2.30 
+Board [8s 5s Jd]
+Seat 1: rostickkin folded on the Flop
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: BeauParleur collected ($43.60)
+Seat 4: shootingGRID (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254377058820:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:37:55 WET [2025/01/14 21:37:55 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($108.68 in chips) 
+Seat 4: Aleqseuka ($100 in chips) 
+Seat 5: sutata ($100 in chips) 
+Seat 6: DEMONGOD9 ($270.62 in chips) 
+ru_ruu_ru: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+Aleqseuka: raises $1.35 to $2.35
+sutata: folds 
+DEMONGOD9: folds 
+ru_ruu_ru: raises $9.65 to $12
+ffac: folds 
+Aleqseuka: calls $9.65
+*** FLOP *** [5s 7d Jc]
+ru_ruu_ru: bets $7.84
+Aleqseuka: calls $7.84
+*** TURN *** [5s 7d Jc] [9s]
+ru_ruu_ru: bets $25.51
+Aleqseuka: raises $54.65 to $80.16 and is all-in
+ru_ruu_ru: calls $54.65 and is all-in
+*** RIVER *** [5s 7d Jc 9s] [Qd]
+*** SHOW DOWN ***
+ru_ruu_ru: shows [Js Ad] (a pair of Jacks)
+Aleqseuka: shows [Qs Qh] (three of a kind, Queens)
+Aleqseuka collected $198.50 from pot
+*** SUMMARY ***
+Total pot $201 | Rake $2.50 
+Board [5s 7d Jc 9s Qd]
+Seat 1: ru_ruu_ru (small blind) showed [Js Ad] and lost with a pair of Jacks
+Seat 2: ffac (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: Aleqseuka showed [Qs Qh] and won ($198.50) with three of a kind, Queens
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377069216:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:39:08 WET [2025/01/14 21:39:08 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($108.68 in chips) 
+Seat 4: Aleqseuka ($198.50 in chips) 
+Seat 5: sutata ($100 in chips) 
+Seat 6: DEMONGOD9 ($270.62 in chips) 
+ffac: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+Aleqseuka: folds 
+sutata: folds 
+DEMONGOD9: raises $1 to $2
+ru_ruu_ru: raises $4 to $6
+ffac: folds 
+Tibibacsi: folds 
+DEMONGOD9: calls $4
+*** FLOP *** [2d 5c 6d]
+DEMONGOD9: checks 
+ru_ruu_ru: bets $8.46
+DEMONGOD9: folds 
+Uncalled bet ($8.46) returned to ru_ruu_ru
+ru_ruu_ru collected $12.82 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.68 
+Board [2d 5c 6d]
+Seat 1: ru_ruu_ru (button) collected ($12.82)
+Seat 2: ffac (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: Aleqseuka folded before Flop (didn't bet)
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded on the Flop
+
+
+
+PokerStars Hand #254377075036:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:39:48 WET [2025/01/14 21:39:48 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($106.82 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($107.68 in chips) 
+Seat 4: Aleqseuka ($198.50 in chips) 
+Seat 5: sutata ($100 in chips) 
+Seat 6: DEMONGOD9 ($264.62 in chips) 
+Tibibacsi: posts small blind $0.50
+Aleqseuka: posts big blind $1
+*** HOLE CARDS ***
+sutata: folds 
+DEMONGOD9: raises $1 to $2
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: folds 
+Aleqseuka: folds 
+Uncalled bet ($1) returned to DEMONGOD9
+DEMONGOD9 collected $2.50 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: Aleqseuka (big blind) folded before Flop
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 collected ($2.50)
+
+
+
+PokerStars Hand #254377077865:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:40:08 WET [2025/01/14 21:40:08 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($106.82 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($107.18 in chips) 
+Seat 4: Aleqseuka ($197.50 in chips) 
+Seat 5: sutata ($100 in chips) 
+Seat 6: DEMONGOD9 ($266.12 in chips) 
+Aleqseuka: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: folds 
+Aleqseuka: raises $2 to $3
+sutata: calls $2
+*** FLOP *** [7s 4h 9s]
+Aleqseuka: checks 
+sutata: bets $2.85
+Aleqseuka: calls $2.85
+*** TURN *** [7s 4h 9s] [5s]
+Aleqseuka: checks 
+sutata: checks 
+*** RIVER *** [7s 4h 9s 5s] [5h]
+Aleqseuka: checks 
+sutata: bets $5
+Aleqseuka: calls $5
+*** SHOW DOWN ***
+sutata: shows [9h 6h] (two pair, Nines and Fives)
+Aleqseuka: mucks hand 
+sutata collected $20.62 from pot
+*** SUMMARY ***
+Total pot $21.70 | Rake $1.08 
+Board [7s 4h 9s 5s 5h]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: Aleqseuka (small blind) mucked
+Seat 5: sutata (big blind) showed [9h 6h] and won ($20.62) with two pair, Nines and Fives
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377091161:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:41:40 WET [2025/01/14 21:41:40 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($106.82 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($107.18 in chips) 
+Seat 4: Aleqseuka ($186.65 in chips) 
+Seat 5: sutata ($109.77 in chips) 
+Seat 6: DEMONGOD9 ($266.12 in chips) 
+sutata: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: folds 
+Aleqseuka: folds 
+sutata: folds 
+Uncalled bet ($0.50) returned to DEMONGOD9
+DEMONGOD9 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: Aleqseuka (button) folded before Flop (didn't bet)
+Seat 5: sutata (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254377093383:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:41:55 WET [2025/01/14 21:41:55 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($106.82 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($107.18 in chips) 
+Seat 4: Aleqseuka ($186.65 in chips) 
+Seat 5: sutata ($109.27 in chips) 
+Seat 6: DEMONGOD9 ($266.62 in chips) 
+DEMONGOD9: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+ffac: folds 
+Tibibacsi: folds 
+Aleqseuka: raises $1.50 to $2.50
+sutata: folds 
+DEMONGOD9: folds 
+ru_ruu_ru: folds 
+Uncalled bet ($1.50) returned to Aleqseuka
+Aleqseuka collected $2.50 from pot
+Aleqseuka: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: Aleqseuka collected ($2.50)
+Seat 5: sutata (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254377095597:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:42:11 WET [2025/01/14 21:42:11 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($105.82 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($107.18 in chips) 
+Seat 4: Aleqseuka ($188.15 in chips) 
+Seat 5: sutata ($109.27 in chips) 
+Seat 6: DEMONGOD9 ($266.12 in chips) 
+ru_ruu_ru: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+Aleqseuka: folds 
+sutata: folds 
+DEMONGOD9: raises $2 to $3
+ru_ruu_ru: folds 
+ffac: folds 
+Uncalled bet ($2) returned to DEMONGOD9
+DEMONGOD9 collected $2.50 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: ffac (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: Aleqseuka folded before Flop (didn't bet)
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254377099154:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:42:36 WET [2025/01/14 21:42:36 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: ru_ruu_ru ($105.32 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($107.18 in chips) 
+Seat 4: Aleqseuka ($188.15 in chips) 
+Seat 5: sutata ($109.27 in chips) 
+Seat 6: DEMONGOD9 ($267.62 in chips) 
+ffac: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+Aleqseuka: folds 
+sutata: folds 
+DEMONGOD9: raises $1 to $2
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: calls $1
+*** FLOP *** [Qh 2c 9c]
+Tibibacsi: checks 
+DEMONGOD9: checks 
+*** TURN *** [Qh 2c 9c] [4s]
+Tibibacsi: checks 
+DEMONGOD9: checks 
+*** RIVER *** [Qh 2c 9c 4s] [2d]
+Tibibacsi: checks 
+DEMONGOD9: checks 
+*** SHOW DOWN ***
+Tibibacsi: shows [7s 5s] (a pair of Deuces)
+DEMONGOD9: shows [Jd Ah] (a pair of Deuces - Ace kicker)
+DEMONGOD9 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Qh 2c 9c 4s 2d]
+Seat 1: ru_ruu_ru (button) folded before Flop (didn't bet)
+Seat 2: ffac (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) showed [7s 5s] and lost with a pair of Deuces
+Seat 4: Aleqseuka folded before Flop (didn't bet)
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 showed [Jd Ah] and won ($4.28) with a pair of Deuces
+
+
+
+PokerStars Hand #254377104097:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:43:10 WET [2025/01/14 21:43:10 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($105.32 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($105.18 in chips) 
+Seat 4: Aleqseuka ($188.15 in chips) 
+Seat 5: sutata ($109.27 in chips) 
+Seat 6: DEMONGOD9 ($269.90 in chips) 
+Tibibacsi: posts small blind $0.50
+Aleqseuka: posts big blind $1
+*** HOLE CARDS ***
+sutata: folds 
+DEMONGOD9: raises $1 to $2
+ru_ruu_ru: folds 
+ffac: raises $5.50 to $7.50
+Tibibacsi: folds 
+Aleqseuka: folds 
+DEMONGOD9: calls $5.50
+*** FLOP *** [7c 4d 8d]
+DEMONGOD9: checks 
+ffac: bets $7.84
+DEMONGOD9: folds 
+Uncalled bet ($7.84) returned to ffac
+ffac collected $15.68 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.82 
+Board [7c 4d 8d]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac (button) collected ($15.68)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: Aleqseuka (big blind) folded before Flop
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded on the Flop
+
+
+
+PokerStars Hand #254377110361:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:43:54 WET [2025/01/14 21:43:54 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($105.32 in chips) 
+Seat 2: ffac ($108.18 in chips) 
+Seat 3: Tibibacsi ($104.68 in chips) 
+Seat 4: Aleqseuka ($187.15 in chips) 
+Seat 5: sutata ($109.27 in chips) 
+Seat 6: DEMONGOD9 ($262.40 in chips) 
+Aleqseuka: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+ru_ruu_ru: folds 
+ffac: raises $1.19 to $2.19
+Tibibacsi: folds 
+Aleqseuka: folds 
+sutata: folds 
+Uncalled bet ($1.19) returned to ffac
+ffac collected $2.50 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac collected ($2.50)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: Aleqseuka (small blind) folded before Flop
+Seat 5: sutata (big blind) folded before Flop
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377113072:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:44:13 WET [2025/01/14 21:44:13 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($105.32 in chips) 
+Seat 2: ffac ($109.68 in chips) 
+Seat 3: Tibibacsi ($104.68 in chips) 
+Seat 4: Aleqseuka ($186.65 in chips) 
+Seat 5: sutata ($108.27 in chips) 
+Seat 6: DEMONGOD9 ($262.40 in chips) 
+sutata: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: folds 
+Aleqseuka: folds 
+sutata: folds 
+Uncalled bet ($0.50) returned to DEMONGOD9
+DEMONGOD9 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: Aleqseuka (button) folded before Flop (didn't bet)
+Seat 5: sutata (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254377114545:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:44:23 WET [2025/01/14 21:44:23 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($105.32 in chips) 
+Seat 2: ffac ($109.68 in chips) 
+Seat 3: Tibibacsi ($104.68 in chips) 
+Seat 4: Aleqseuka ($186.65 in chips) 
+Seat 5: sutata ($107.77 in chips) 
+Seat 6: DEMONGOD9 ($262.90 in chips) 
+DEMONGOD9: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+ffac: raises $1.04 to $2.04
+Tibibacsi: folds 
+Aleqseuka: raises $4.46 to $6.50
+sutata: folds 
+DEMONGOD9: folds 
+ru_ruu_ru: folds 
+ffac: folds 
+Uncalled bet ($4.46) returned to Aleqseuka
+Aleqseuka collected $5.58 from pot
+Aleqseuka: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.58 | Rake $0 
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 2: ffac folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: Aleqseuka collected ($5.58)
+Seat 5: sutata (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254377118718:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:44:51 WET [2025/01/14 21:44:51 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($104.32 in chips) 
+Seat 2: ffac ($107.64 in chips) 
+Seat 3: Tibibacsi ($104.68 in chips) 
+Seat 4: Aleqseuka ($190.19 in chips) 
+Seat 5: sutata ($107.77 in chips) 
+Seat 6: DEMONGOD9 ($262.40 in chips) 
+ru_ruu_ru: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+Aleqseuka: folds 
+sutata: folds 
+DEMONGOD9: raises $1 to $2
+ru_ruu_ru: folds 
+ffac: calls $1
+*** FLOP *** [4c 2h 4s]
+ffac: checks 
+DEMONGOD9: checks 
+*** TURN *** [4c 2h 4s] [9h]
+ffac: checks 
+DEMONGOD9: checks 
+*** RIVER *** [4c 2h 4s 9h] [Kd]
+ffac: bets $1.07
+DEMONGOD9: calls $1.07
+*** SHOW DOWN ***
+ffac: shows [8c 9d] (two pair, Nines and Fours)
+DEMONGOD9: mucks hand 
+ffac collected $6.31 from pot
+*** SUMMARY ***
+Total pot $6.64 | Rake $0.33 
+Board [4c 2h 4s 9h Kd]
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: ffac (big blind) showed [8c 9d] and won ($6.31) with two pair, Nines and Fours
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: Aleqseuka folded before Flop (didn't bet)
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) mucked
+
+
+
+PokerStars Hand #254377128245:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:45:58 WET [2025/01/14 21:45:58 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: ru_ruu_ru ($103.82 in chips) 
+Seat 2: ffac ($110.88 in chips) 
+Seat 3: Tibibacsi ($104.68 in chips) 
+Seat 4: Aleqseuka ($190.19 in chips) 
+Seat 5: sutata ($107.77 in chips) 
+Seat 6: DEMONGOD9 ($259.33 in chips) 
+ffac: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+Aleqseuka: folds 
+sutata: folds 
+DEMONGOD9: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+ffac: folds 
+Tibibacsi: folds 
+Uncalled bet ($1.50) returned to ru_ruu_ru
+ru_ruu_ru collected $2.50 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru (button) collected ($2.50)
+Seat 2: ffac (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: Aleqseuka folded before Flop (didn't bet)
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377131053:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:46:18 WET [2025/01/14 21:46:18 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($105.32 in chips) 
+Seat 2: ffac ($110.38 in chips) 
+Seat 3: Tibibacsi ($103.68 in chips) 
+Seat 4: Aleqseuka ($190.19 in chips) 
+Seat 5: sutata ($107.77 in chips) 
+Seat 6: DEMONGOD9 ($259.33 in chips) 
+Tibibacsi: posts small blind $0.50
+Aleqseuka: posts big blind $1
+*** HOLE CARDS ***
+sutata: folds 
+DEMONGOD9: folds 
+ru_ruu_ru: folds 
+ffac: raises $1.50 to $2.50
+Tibibacsi: folds 
+Aleqseuka: calls $1.50
+*** FLOP *** [4c Js Ac]
+Aleqseuka: checks 
+ffac: bets $1.72
+Aleqseuka: calls $1.72
+*** TURN *** [4c Js Ac] [9s]
+Aleqseuka: checks 
+ffac: bets $12.73
+Aleqseuka: calls $12.73
+*** RIVER *** [4c Js Ac 9s] [Jc]
+Aleqseuka: checks 
+ffac: checks 
+*** SHOW DOWN ***
+Aleqseuka: shows [6d Ad] (two pair, Aces and Jacks)
+ffac: shows [Ah Kd] (two pair, Aces and Jacks - King kicker)
+ffac collected $32.68 from pot
+*** SUMMARY ***
+Total pot $34.40 | Rake $1.72 
+Board [4c Js Ac 9s Jc]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac (button) showed [Ah Kd] and won ($32.68) with two pair, Aces and Jacks
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: Aleqseuka (big blind) showed [6d Ad] and lost with two pair, Aces and Jacks
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377146640:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:48:08 WET [2025/01/14 21:48:08 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($105.32 in chips) 
+Seat 2: ffac ($126.11 in chips) 
+Seat 3: Tibibacsi ($103.18 in chips) 
+Seat 4: Aleqseuka ($173.24 in chips) 
+Seat 5: sutata ($107.77 in chips) 
+Seat 6: DEMONGOD9 ($259.33 in chips) 
+Aleqseuka: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: raises $1 to $2
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: folds 
+Aleqseuka: folds 
+sutata: folds 
+Uncalled bet ($1) returned to DEMONGOD9
+DEMONGOD9 collected $2.50 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: Aleqseuka (small blind) folded before Flop
+Seat 5: sutata (big blind) folded before Flop
+Seat 6: DEMONGOD9 collected ($2.50)
+
+
+
+PokerStars Hand #254377149432:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:48:27 WET [2025/01/14 21:48:27 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($105.32 in chips) 
+Seat 2: ffac ($126.11 in chips) 
+Seat 3: Tibibacsi ($103.18 in chips) 
+Seat 4: Aleqseuka ($172.74 in chips) 
+Seat 5: sutata ($106.77 in chips) 
+Seat 6: DEMONGOD9 ($260.83 in chips) 
+sutata: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+ffac: raises $1.04 to $2.04
+Tibibacsi: folds 
+Aleqseuka: folds 
+sutata: calls $1.54
+DEMONGOD9: calls $1.04
+*** FLOP *** [9s Ah 2d]
+sutata: checks 
+DEMONGOD9: bets $1.91
+ffac: folds 
+sutata: folds 
+Uncalled bet ($1.91) returned to DEMONGOD9
+DEMONGOD9 collected $5.81 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.12 | Rake $0.31 
+Board [9s Ah 2d]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac folded on the Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: Aleqseuka (button) folded before Flop (didn't bet)
+Seat 5: sutata (small blind) folded on the Flop
+Seat 6: DEMONGOD9 (big blind) collected ($5.81)
+
+
+
+PokerStars Hand #254377156105:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:49:15 WET [2025/01/14 21:49:15 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($105.32 in chips) 
+Seat 2: ffac ($124.07 in chips) 
+Seat 3: Tibibacsi ($103.18 in chips) 
+Seat 4: Aleqseuka ($172.74 in chips) 
+Seat 5: sutata ($104.73 in chips) 
+Seat 6: DEMONGOD9 ($264.60 in chips) 
+DEMONGOD9: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+ffac: folds 
+Tibibacsi: raises $1 to $2
+Aleqseuka: folds 
+sutata: folds 
+DEMONGOD9: folds 
+ru_ruu_ru: folds 
+Uncalled bet ($1) returned to Tibibacsi
+Tibibacsi collected $2.50 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi collected ($2.50)
+Seat 4: Aleqseuka folded before Flop (didn't bet)
+Seat 5: sutata (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254377159372:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:49:38 WET [2025/01/14 21:49:38 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($104.32 in chips) 
+Seat 2: ffac ($124.07 in chips) 
+Seat 3: Tibibacsi ($104.68 in chips) 
+Seat 4: Aleqseuka ($172.74 in chips) 
+Seat 5: sutata ($104.73 in chips) 
+Seat 6: DEMONGOD9 ($264.10 in chips) 
+ru_ruu_ru: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+Aleqseuka: folds 
+sutata: folds 
+DEMONGOD9: raises $1 to $2
+ru_ruu_ru: folds 
+ffac: calls $1
+*** FLOP *** [Ah Kc Qs]
+ffac: checks 
+DEMONGOD9: bets $2.14
+ffac: folds 
+Uncalled bet ($2.14) returned to DEMONGOD9
+DEMONGOD9 collected $4.28 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ah Kc Qs]
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: ffac (big blind) folded on the Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: Aleqseuka folded before Flop (didn't bet)
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) collected ($4.28)
+
+
+
+PokerStars Hand #254377164479:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:50:15 WET [2025/01/14 21:50:15 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: ru_ruu_ru ($103.82 in chips) 
+Seat 2: ffac ($122.07 in chips) 
+Seat 3: Tibibacsi ($104.68 in chips) 
+Seat 4: Aleqseuka ($172.74 in chips) 
+Seat 5: sutata ($104.73 in chips) 
+Seat 6: DEMONGOD9 ($266.38 in chips) 
+ffac: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+Aleqseuka: raises $1.35 to $2.35
+sutata: folds 
+DEMONGOD9: folds 
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: folds 
+Uncalled bet ($1.35) returned to Aleqseuka
+Aleqseuka collected $2.50 from pot
+Aleqseuka: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru (button) folded before Flop (didn't bet)
+Seat 2: ffac (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: Aleqseuka collected ($2.50)
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377167304:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:50:36 WET [2025/01/14 21:50:36 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 4: Aleqseuka ($174.24 in chips) is sitting out
+Seat 1: ru_ruu_ru ($103.82 in chips) 
+Seat 2: ffac ($121.57 in chips) 
+Seat 3: Tibibacsi ($103.68 in chips) 
+Seat 5: sutata ($104.73 in chips) 
+Seat 6: DEMONGOD9 ($266.38 in chips) 
+Tibibacsi: posts small blind $0.50
+Aleqseuka: is sitting out 
+sutata: posts big blind $1
+*** HOLE CARDS ***
+Aleqseuka leaves the table
+DEMONGOD9: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+ffac: raises $5.50 to $8
+XneferX joins the table at seat #4 
+Tibibacsi: folds 
+sutata: folds 
+ru_ruu_ru: folds 
+Uncalled bet ($5.50) returned to ffac
+ffac collected $6.50 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 4: Aleqseuka
+Seat 1: ru_ruu_ru folded before Flop
+Seat 2: ffac (button) collected ($6.50)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 5: sutata (big blind) folded before Flop
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377171330:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:51:05 WET [2025/01/14 21:51:05 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 4: XneferX ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($101.32 in chips) 
+Seat 2: ffac ($125.57 in chips) 
+Seat 3: Tibibacsi ($103.18 in chips) 
+Seat 5: sutata ($103.73 in chips) 
+Seat 6: DEMONGOD9 ($266.38 in chips) 
+sutata: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+ffac: raises $1.19 to $2.19
+Tibibacsi: folds 
+sutata: folds 
+DEMONGOD9: calls $1.19
+*** FLOP *** [Js 7h 2c]
+DEMONGOD9: checks 
+ffac: checks 
+*** TURN *** [Js 7h 2c] [Jh]
+DEMONGOD9: bets $1.32
+ffac: calls $1.32
+*** RIVER *** [Js 7h 2c Jh] [8d]
+DEMONGOD9: checks 
+ffac: checks 
+*** SHOW DOWN ***
+DEMONGOD9: shows [As 4h] (a pair of Jacks)
+ffac: shows [7s 5s] (two pair, Jacks and Sevens)
+ffac collected $7.14 from pot
+*** SUMMARY ***
+Total pot $7.52 | Rake $0.38 
+Board [Js 7h 2c Jh 8d]
+Seat 4: XneferX
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac showed [7s 5s] and won ($7.14) with two pair, Jacks and Sevens
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 5: sutata (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) showed [As 4h] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254377179341:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:52:03 WET [2025/01/14 21:52:03 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 4: XneferX ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($101.32 in chips) 
+Seat 2: ffac ($129.20 in chips) 
+Seat 3: Tibibacsi ($103.18 in chips) 
+Seat 5: sutata ($103.23 in chips) 
+Seat 6: DEMONGOD9 ($262.87 in chips) 
+DEMONGOD9: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+ffac: folds 
+Tibibacsi: raises $1.50 to $2.50
+sutata: folds 
+DEMONGOD9: folds 
+ru_ruu_ru: folds 
+Uncalled bet ($1.50) returned to Tibibacsi
+Tibibacsi collected $2.50 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: XneferX
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi collected ($2.50)
+Seat 5: sutata (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254377181629:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:52:20 WET [2025/01/14 21:52:20 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 4: XneferX ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($100.32 in chips) 
+Seat 2: ffac ($129.20 in chips) 
+Seat 3: Tibibacsi ($104.68 in chips) 
+Seat 5: sutata ($103.23 in chips) 
+Seat 6: DEMONGOD9 ($262.37 in chips) 
+ru_ruu_ru: posts small blind $0.50
+ffac: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+Tibibacsi: folds 
+sutata: raises $1.50 to $2.50
+DEMONGOD9: folds 
+ru_ruu_ru: folds 
+ffac: folds 
+Uncalled bet ($1.50) returned to sutata
+sutata collected $2.50 from pot
+sutata: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: XneferX
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: ffac (big blind) folded before Flop
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 5: sutata collected ($2.50)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377183973:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:52:37 WET [2025/01/14 21:52:37 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 4: XneferX ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: ffac ($128.20 in chips) 
+Seat 3: Tibibacsi ($104.68 in chips) 
+Seat 5: sutata ($104.73 in chips) 
+Seat 6: DEMONGOD9 ($262.37 in chips) 
+ffac: posts small blind $0.50
+Tibibacsi: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+sutata: folds 
+DEMONGOD9: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+ffac: folds 
+Tibibacsi: folds 
+Uncalled bet ($1.50) returned to ru_ruu_ru
+ru_ruu_ru collected $2.50 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: XneferX
+Seat 1: ru_ruu_ru (button) collected ($2.50)
+Seat 2: ffac (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377187866:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:53:05 WET [2025/01/14 21:53:05 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($101.50 in chips) 
+Seat 2: ffac ($127.70 in chips) 
+Seat 3: Tibibacsi ($103.68 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: sutata ($104.73 in chips) 
+Seat 6: DEMONGOD9 ($262.37 in chips) 
+Tibibacsi: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+sutata: folds 
+DEMONGOD9: folds 
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: XneferX (big blind) collected ($1)
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377190272:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:53:22 WET [2025/01/14 21:53:22 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($101.50 in chips) 
+Seat 2: ffac ($127.70 in chips) 
+Seat 3: Tibibacsi ($103.18 in chips) 
+Seat 4: XneferX ($100.50 in chips) 
+Seat 5: sutata ($104.73 in chips) 
+Seat 6: DEMONGOD9 ($262.37 in chips) 
+XneferX: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: raises $1 to $2
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: folds 
+XneferX: folds 
+sutata: folds 
+Uncalled bet ($1) returned to DEMONGOD9
+DEMONGOD9 collected $2.50 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: XneferX (small blind) folded before Flop
+Seat 5: sutata (big blind) folded before Flop
+Seat 6: DEMONGOD9 collected ($2.50)
+
+
+
+PokerStars Hand #254377192058:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:53:35 WET [2025/01/14 21:53:35 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($101.50 in chips) 
+Seat 2: ffac ($127.70 in chips) 
+Seat 3: Tibibacsi ($103.18 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: sutata ($103.73 in chips) 
+Seat 6: DEMONGOD9 ($263.87 in chips) 
+sutata: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: raises $2 to $3
+ffac: folds 
+Tibibacsi: folds 
+XneferX: folds 
+sutata: folds 
+DEMONGOD9: folds 
+Uncalled bet ($2) returned to ru_ruu_ru
+ru_ruu_ru collected $2.50 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru collected ($2.50)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: XneferX (button) folded before Flop (didn't bet)
+Seat 5: sutata (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254377194625:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:53:54 WET [2025/01/14 21:53:54 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($103 in chips) is sitting out
+Seat 2: ffac ($127.70 in chips) 
+Seat 3: Tibibacsi ($103.18 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: sutata ($103.23 in chips) 
+Seat 6: DEMONGOD9 ($262.87 in chips) 
+DEMONGOD9: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+XneferX: folds 
+sutata: folds 
+DEMONGOD9: folds 
+Uncalled bet ($0.50) returned to ffac
+ffac collected $1 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ru_ruu_ru
+Seat 2: ffac (big blind) collected ($1)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: XneferX folded before Flop (didn't bet)
+Seat 5: sutata (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254377197450:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:54:15 WET [2025/01/14 21:54:15 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($103 in chips) is sitting out
+Seat 2: ffac ($128.20 in chips) 
+Seat 3: Tibibacsi ($103.18 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: sutata ($103.23 in chips) 
+Seat 6: DEMONGOD9 ($262.37 in chips) 
+ffac: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+sutata: folds 
+DEMONGOD9: folds 
+ffac: folds 
+Uncalled bet ($0.50) returned to Tibibacsi
+Tibibacsi collected $1 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ru_ruu_ru
+Seat 2: ffac (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) collected ($1)
+Seat 4: XneferX folded before Flop (didn't bet)
+Seat 5: sutata folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377198934:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:54:25 WET [2025/01/14 21:54:25 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($103 in chips) is sitting out
+Seat 2: ffac ($127.70 in chips) 
+Seat 3: Tibibacsi ($103.68 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: sutata ($103.23 in chips) 
+Seat 6: DEMONGOD9 ($262.37 in chips) 
+Tibibacsi: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+sutata: raises $1.50 to $2.50
+DEMONGOD9: raises $5.50 to $8
+ffac: folds 
+Tibibacsi: folds 
+XneferX: folds 
+sutata: raises $16.30 to $24.30
+DEMONGOD9: calls $16.30
+*** FLOP *** [Td 5h 7s]
+sutata: bets $11.90
+DEMONGOD9: calls $11.90
+*** TURN *** [Td 5h 7s] [9c]
+sutata: checks 
+DEMONGOD9: bets $21.70
+sutata: raises $45.33 to $67.03 and is all-in
+DEMONGOD9: folds 
+Uncalled bet ($45.33) returned to sutata
+sutata collected $114.80 from pot
+sutata: doesn't show hand 
+*** SUMMARY ***
+Total pot $117.30 | Rake $2.50 
+Board [Td 5h 7s 9c]
+Seat 1: ru_ruu_ru
+Seat 2: ffac (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: XneferX (big blind) folded before Flop
+Seat 5: sutata collected ($114.80)
+Seat 6: DEMONGOD9 folded on the Turn
+
+
+
+PokerStars Hand #254377206887:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:55:26 WET [2025/01/14 21:55:26 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($103 in chips) is sitting out
+Seat 2: ffac ($127.70 in chips) 
+Seat 3: Tibibacsi ($103.18 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: sutata ($160.13 in chips) 
+Seat 6: DEMONGOD9 ($204.47 in chips) 
+XneferX: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+ffac: folds 
+Tibibacsi: raises $1.50 to $2.50
+DEMONGOD9 leaves the table
+XneferX: raises $9.50 to $12
+sutata: folds 
+Tibibacsi: folds 
+Uncalled bet ($9.50) returned to XneferX
+XneferX collected $6 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: ru_ruu_ru
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop
+Seat 4: XneferX (small blind) collected ($6)
+Seat 5: sutata (big blind) folded before Flop
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377209991:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:55:55 WET [2025/01/14 21:55:55 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($103 in chips) is sitting out
+Seat 2: ffac ($127.70 in chips) 
+Seat 3: Tibibacsi ($100.68 in chips) 
+Seat 4: XneferX ($103.50 in chips) 
+Seat 5: sutata ($159.13 in chips) 
+sutata: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+XneferX: folds 
+Tibibacsi leaves the table
+sutata: folds 
+Uncalled bet ($0.50) returned to ffac
+sutata leaves the table
+ffac collected $1 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ru_ruu_ru
+Seat 2: ffac (big blind) collected ($1)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: XneferX (button) folded before Flop (didn't bet)
+Seat 5: sutata (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376907566:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:20:45 WET [2025/01/14 21:20:45 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: rostickkin ($115.57 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: BeauParleur ($124.40 in chips) 
+Seat 4: shootingGRID ($107.30 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($206.59 in chips) 
+BumHuntKing: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: folds 
+ffac: folds 
+BeauParleur has timed out
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: folds 
+Uncalled bet ($0.50) returned to DEMONGOD9
+DEMONGOD9 collected $1 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: rostickkin folded before Flop (didn't bet)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254376910779:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:21:06 WET [2025/01/14 21:21:06 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: rostickkin ($115.57 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: BeauParleur ($124.40 in chips) 
+Seat 4: shootingGRID ($107.30 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($207.09 in chips) 
+DEMONGOD9: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+ffac: folds 
+BeauParleur: raises $1 to $2
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+rostickkin: calls $1
+*** FLOP *** [4c 8d 4d]
+rostickkin: checks 
+BeauParleur: bets $1.41
+rostickkin: raises $3.62 to $5.03
+BeauParleur: folds 
+Uncalled bet ($3.62) returned to rostickkin
+rostickkin collected $6.95 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.32 | Rake $0.37 
+Board [4c 8d 4d]
+Seat 1: rostickkin (big blind) collected ($6.95)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: BeauParleur folded on the Flop
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376918189:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:21:56 WET [2025/01/14 21:21:56 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: rostickkin ($119.11 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: BeauParleur ($120.99 in chips) 
+Seat 4: shootingGRID ($107.30 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($206.59 in chips) 
+rostickkin: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: raises $1.20 to $2.20
+DEMONGOD9: folds 
+rostickkin: raises $9.30 to $11.50
+ffac: folds 
+BumHuntKing: calls $9.30
+*** FLOP *** [9h Kd Td]
+rostickkin: bets $7.75
+BumHuntKing: folds 
+Uncalled bet ($7.75) returned to rostickkin
+rostickkin collected $22.80 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [9h Kd Td]
+Seat 1: rostickkin (small blind) collected ($22.80)
+Seat 2: ffac (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded on the Flop
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376925005:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:22:40 WET [2025/01/14 21:22:40 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: rostickkin ($130.41 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: BeauParleur ($120.99 in chips) 
+Seat 4: shootingGRID ($107.30 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($206.59 in chips) 
+ffac: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+rostickkin: folds 
+ffac: raises $2 to $3
+BeauParleur: folds 
+Uncalled bet ($2) returned to ffac
+ffac collected $2 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: rostickkin (button) folded before Flop (didn't bet)
+Seat 2: ffac (small blind) collected ($2)
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376927785:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:22:59 WET [2025/01/14 21:22:59 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: rostickkin ($130.41 in chips) 
+Seat 2: ffac ($101 in chips) 
+Seat 3: BeauParleur ($119.99 in chips) 
+Seat 4: shootingGRID ($107.30 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($206.59 in chips) 
+BeauParleur: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: raises $1.20 to $2.20
+DEMONGOD9: folds 
+rostickkin: folds 
+ffac: folds 
+BeauParleur: folds 
+shootingGRID: folds 
+Uncalled bet ($1.20) returned to BumHuntKing
+BumHuntKing collected $2.50 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rostickkin folded before Flop (didn't bet)
+Seat 2: ffac (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: shootingGRID (big blind) folded before Flop
+Seat 5: BumHuntKing collected ($2.50)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376929809:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:23:12 WET [2025/01/14 21:23:12 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: rostickkin ($130.41 in chips) 
+Seat 2: ffac ($101 in chips) 
+Seat 3: BeauParleur ($119.49 in chips) 
+Seat 4: shootingGRID ($106.30 in chips) 
+Seat 5: BumHuntKing ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($206.59 in chips) 
+shootingGRID: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+rostickkin: folds 
+ffac: folds 
+BeauParleur: raises $1.50 to $2.50
+shootingGRID: folds 
+BumHuntKing: folds 
+Uncalled bet ($1.50) returned to BeauParleur
+BeauParleur collected $2.50 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rostickkin folded before Flop (didn't bet)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) collected ($2.50)
+Seat 4: shootingGRID (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) folded before Flop
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376932173:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:23:28 WET [2025/01/14 21:23:28 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: rostickkin ($130.41 in chips) 
+Seat 2: ffac ($101 in chips) 
+Seat 3: BeauParleur ($120.99 in chips) 
+Seat 4: shootingGRID ($105.80 in chips) 
+Seat 5: BumHuntKing ($100.50 in chips) 
+Seat 6: DEMONGOD9 ($206.59 in chips) 
+BumHuntKing: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: folds 
+ffac: folds 
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: folds 
+Uncalled bet ($0.50) returned to DEMONGOD9
+DEMONGOD9 collected $1 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: rostickkin folded before Flop (didn't bet)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254376934609:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:23:44 WET [2025/01/14 21:23:44 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: rostickkin ($130.41 in chips) 
+Seat 2: ffac ($101 in chips) 
+Seat 3: BeauParleur ($120.99 in chips) 
+Seat 4: shootingGRID ($105.80 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($207.09 in chips) 
+DEMONGOD9: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+ffac: folds 
+BeauParleur: raises $1 to $2
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+rostickkin: folds 
+Uncalled bet ($1) returned to BeauParleur
+BeauParleur collected $2.50 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rostickkin (big blind) folded before Flop
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: BeauParleur collected ($2.50)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376938906:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:24:13 WET [2025/01/14 21:24:13 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: rostickkin ($129.41 in chips) 
+Seat 2: ffac ($101 in chips) 
+Seat 3: BeauParleur ($122.49 in chips) 
+Seat 4: shootingGRID ($105.80 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($206.59 in chips) 
+rostickkin: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: raises $1 to $2
+rostickkin: raises $10 to $12
+ffac: folds 
+DEMONGOD9: folds 
+Uncalled bet ($10) returned to rostickkin
+rostickkin collected $5 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: rostickkin (small blind) collected ($5)
+Seat 2: ffac (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) folded before Flop
+
+
+
+PokerStars Hand #254376942425:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:24:36 WET [2025/01/14 21:24:36 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: rostickkin ($132.41 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: BeauParleur ($122.49 in chips) 
+Seat 4: shootingGRID ($105.80 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($204.59 in chips) 
+ffac: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: folds 
+rostickkin: folds 
+ffac: raises $2 to $3
+BeauParleur: calls $2
+*** FLOP *** [8c Ah 7h]
+ffac: checks 
+BeauParleur: bets $7.13
+ffac: folds 
+Uncalled bet ($7.13) returned to BeauParleur
+BeauParleur collected $5.70 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [8c Ah 7h]
+Seat 1: rostickkin (button) folded before Flop (didn't bet)
+Seat 2: ffac (small blind) folded on the Flop
+Seat 3: BeauParleur (big blind) collected ($5.70)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376950701:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:25:31 WET [2025/01/14 21:25:31 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: rostickkin ($132.41 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: BeauParleur ($125.19 in chips) 
+Seat 4: shootingGRID ($105.80 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($204.59 in chips) 
+BeauParleur: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+DEMONGOD9: folds 
+rostickkin: raises $1.50 to $2.50
+ffac: folds 
+BeauParleur: folds 
+shootingGRID: folds 
+Uncalled bet ($1.50) returned to rostickkin
+rostickkin collected $2.50 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rostickkin collected ($2.50)
+Seat 2: ffac (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: shootingGRID (big blind) folded before Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376953225:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:25:49 WET [2025/01/14 21:25:49 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: rostickkin ($133.91 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: BeauParleur ($124.69 in chips) 
+Seat 4: shootingGRID ($104.80 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($204.59 in chips) 
+shootingGRID: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+rostickkin: folds 
+ffac: raises $1.19 to $2.19
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: calls $1.19
+*** FLOP *** [5s 2s Qh]
+BumHuntKing: checks 
+ffac: bets $1.53
+BumHuntKing: folds 
+Uncalled bet ($1.53) returned to ffac
+ffac collected $4.64 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.24 
+Board [5s 2s Qh]
+Seat 1: rostickkin folded before Flop (didn't bet)
+Seat 2: ffac collected ($4.64)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: shootingGRID (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) folded on the Flop
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376961598:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:26:45 WET [2025/01/14 21:26:45 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: rostickkin ($133.91 in chips) 
+Seat 2: ffac ($102.45 in chips) 
+Seat 3: BeauParleur ($124.69 in chips) 
+Seat 4: shootingGRID ($104.30 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($204.59 in chips) 
+BumHuntKing: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: folds 
+ffac: folds 
+BeauParleur: folds 
+shootingGRID: raises $1.50 to $2.50
+BumHuntKing: folds 
+DEMONGOD9: calls $1.50
+*** FLOP *** [3s Tc 5d]
+DEMONGOD9: checks 
+shootingGRID: bets $2.61
+DEMONGOD9: folds 
+Uncalled bet ($2.61) returned to shootingGRID
+shootingGRID collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3s Tc 5d]
+Seat 1: rostickkin folded before Flop (didn't bet)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID (button) collected ($5.22)
+Seat 5: BumHuntKing (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254376965941:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:27:14 WET [2025/01/14 21:27:14 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: rostickkin ($133.91 in chips) 
+Seat 2: ffac ($102.45 in chips) 
+Seat 3: BeauParleur ($124.69 in chips) 
+Seat 4: shootingGRID ($107.02 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($202.09 in chips) 
+DEMONGOD9: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+ffac: folds 
+BeauParleur: folds 
+shootingGRID: raises $1.25 to $2.25
+BumHuntKing: folds 
+DEMONGOD9: folds 
+rostickkin: calls $1.25
+*** FLOP *** [5d Ah Js]
+rostickkin: checks 
+shootingGRID: bets $5
+rostickkin: calls $5
+*** TURN *** [5d Ah Js] [Tc]
+rostickkin: checks 
+shootingGRID: checks 
+*** RIVER *** [5d Ah Js Tc] [Jd]
+rostickkin: bets $15
+shootingGRID: folds 
+Uncalled bet ($15) returned to rostickkin
+rostickkin collected $14.25 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [5d Ah Js Tc Jd]
+Seat 1: rostickkin (big blind) collected ($14.25)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID folded on the River
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254376974412:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:28:12 WET [2025/01/14 21:28:12 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: rostickkin ($140.91 in chips) 
+Seat 2: ffac ($102.45 in chips) 
+Seat 3: BeauParleur ($124.69 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($201.59 in chips) 
+rostickkin: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur has timed out
+BeauParleur: folds 
+shootingGRID: folds 
+BumHuntKing: folds 
+DEMONGOD9: raises $2 to $3
+rostickkin: folds 
+ffac: folds 
+Uncalled bet ($2) returned to DEMONGOD9
+rostickkin leaves the table
+DEMONGOD9 collected $2.50 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rostickkin (small blind) folded before Flop
+Seat 2: ffac (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254376978177:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:28:38 WET [2025/01/14 21:28:38 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 4: shootingGRID ($100 in chips) is sitting out
+Seat 2: ffac ($101.45 in chips) 
+Seat 3: BeauParleur ($124.69 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: DEMONGOD9 ($203.09 in chips) 
+BeauParleur: posts small blind $0.50
+shootingGRID: is sitting out 
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+ffac: raises $1.50 to $2.50
+shootingGRID leaves the table
+BeauParleur: folds 
+BumHuntKing: folds 
+Uncalled bet ($1.50) returned to ffac
+ffac collected $2.50 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: shootingGRID
+Seat 2: ffac (button) collected ($2.50)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) folded before Flop
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254376999402:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:31:02 WET [2025/01/14 21:31:02 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($101.50 in chips) 
+Seat 2: ffac ($102.95 in chips) 
+Seat 4: Aleqseuka ($100 in chips) 
+Seat 6: DEMONGOD9 ($200.09 in chips) 
+DEMONGOD9: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+ffac: folds 
+Aleqseuka: raises $1.50 to $2.50
+DEMONGOD9: folds 
+ru_ruu_ru: calls $1.50
+*** FLOP *** [9d Kc Td]
+ru_ruu_ru: checks 
+Aleqseuka: checks 
+*** TURN *** [9d Kc Td] [3c]
+ru_ruu_ru: bets $3.91
+Aleqseuka: folds 
+Uncalled bet ($3.91) returned to ru_ruu_ru
+ru_ruu_ru collected $5.22 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [9d Kc Td 3c]
+Seat 1: ru_ruu_ru (big blind) collected ($5.22)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 4: Aleqseuka (button) folded on the Turn
+Seat 6: DEMONGOD9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254377005963:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:31:49 WET [2025/01/14 21:31:49 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($104.22 in chips) 
+Seat 2: ffac ($102.95 in chips) 
+Seat 4: Aleqseuka ($100 in chips) 
+Seat 6: DEMONGOD9 ($199.59 in chips) 
+ru_ruu_ru: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi joins the table at seat #3 
+Aleqseuka: folds 
+DEMONGOD9: raises $1 to $2
+ru_ruu_ru: folds 
+ffac: folds 
+Uncalled bet ($1) returned to DEMONGOD9
+DEMONGOD9 collected $2.50 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: ffac (big blind) folded before Flop
+Seat 4: Aleqseuka folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254377008834:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:32:08 WET [2025/01/14 21:32:08 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 1: ru_ruu_ru ($103.72 in chips) 
+Seat 2: ffac ($101.95 in chips) 
+Seat 3: Tibibacsi ($100 in chips) 
+Seat 4: Aleqseuka ($100 in chips) 
+Seat 6: DEMONGOD9 ($201.09 in chips) 
+ffac: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+Aleqseuka: folds 
+DEMONGOD9: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+ffac: folds 
+Tibibacsi: raises $10.50 to $13
+ru_ruu_ru: folds 
+Uncalled bet ($10.50) returned to Tibibacsi
+Tibibacsi collected $5.50 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: ru_ruu_ru (button) folded before Flop
+Seat 2: ffac (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) collected ($5.50)
+Seat 4: Aleqseuka folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377015492:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:32:55 WET [2025/01/14 21:32:55 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($101.22 in chips) 
+Seat 2: ffac ($101.45 in chips) 
+Seat 3: Tibibacsi ($103 in chips) 
+Seat 4: Aleqseuka ($100 in chips) 
+Seat 6: DEMONGOD9 ($201.09 in chips) 
+Tibibacsi: posts small blind $0.50
+Aleqseuka: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: raises $1 to $2
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: folds 
+Aleqseuka: calls $1
+*** FLOP *** [Jc Kd Jd]
+Aleqseuka: checks 
+DEMONGOD9: bets $2.14
+Aleqseuka: folds 
+Uncalled bet ($2.14) returned to DEMONGOD9
+DEMONGOD9 collected $4.28 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Jc Kd Jd]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: Aleqseuka (big blind) folded on the Flop
+Seat 6: DEMONGOD9 collected ($4.28)
+
+
+
+PokerStars Hand #254377021032:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:33:33 WET [2025/01/14 21:33:33 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($101.22 in chips) 
+Seat 2: ffac ($101.45 in chips) 
+Seat 3: Tibibacsi ($102.50 in chips) 
+Seat 4: Aleqseuka ($100 in chips) 
+Seat 6: DEMONGOD9 ($203.37 in chips) 
+Aleqseuka: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+sutata joins the table at seat #5 
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: raises $1.50 to $2.50
+Aleqseuka: folds 
+DEMONGOD9: raises $5.50 to $8
+Tibibacsi: calls $5.50
+*** FLOP *** [4h 4c 2c]
+DEMONGOD9: checks 
+Tibibacsi: checks 
+*** TURN *** [4h 4c 2c] [5h]
+DEMONGOD9: checks 
+Tibibacsi: checks 
+*** RIVER *** [4h 4c 2c 5h] [2s]
+DEMONGOD9: checks 
+Tibibacsi: checks 
+*** SHOW DOWN ***
+DEMONGOD9: shows [Qs Ks] (two pair, Fours and Deuces)
+Tibibacsi: shows [As Js] (two pair, Fours and Deuces - Ace kicker)
+Tibibacsi collected $15.68 from pot
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.82 
+Board [4h 4c 2c 5h 2s]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) showed [As Js] and won ($15.68) with two pair, Fours and Deuces
+Seat 4: Aleqseuka (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) showed [Qs Ks] and lost with two pair, Fours and Deuces
+
+
+
+PokerStars Hand #254377029398:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:34:31 WET [2025/01/14 21:34:31 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 5: sutata ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($101.22 in chips) 
+Seat 2: ffac ($101.45 in chips) 
+Seat 3: Tibibacsi ($110.18 in chips) 
+Seat 4: Aleqseuka ($100 in chips) 
+Seat 6: DEMONGOD9 ($195.37 in chips) 
+DEMONGOD9: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+ffac: raises $1.04 to $2.04
+Tibibacsi: folds 
+Aleqseuka: folds 
+DEMONGOD9: raises $5.08 to $7.12
+ru_ruu_ru: folds 
+ffac: calls $5.08
+*** FLOP *** [Kc 2s 6c]
+DEMONGOD9: checks 
+ffac: bets $7.24
+DEMONGOD9: calls $7.24
+*** TURN *** [Kc 2s 6c] [2d]
+DEMONGOD9: checks 
+ffac: checks 
+*** RIVER *** [Kc 2s 6c 2d] [Kd]
+DEMONGOD9: bets $12.12
+ffac: folds 
+Uncalled bet ($12.12) returned to DEMONGOD9
+DEMONGOD9 collected $28.23 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $29.72 | Rake $1.49 
+Board [Kc 2s 6c 2d Kd]
+Seat 5: sutata
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 2: ffac folded on the River
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: Aleqseuka (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) collected ($28.23)
+
+
+
+PokerStars Hand #254377037553:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:35:28 WET [2025/01/14 21:35:28 ET]
+Table 'Lykaon III' 6-max Seat #6 is the button
+Seat 5: sutata ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($100.22 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($110.18 in chips) 
+Seat 4: Aleqseuka ($100 in chips) 
+Seat 6: DEMONGOD9 ($209.24 in chips) 
+ru_ruu_ru: posts small blind $0.50
+ffac: posts big blind $1
+sutata: sits out 
+*** HOLE CARDS ***
+Tibibacsi: folds 
+Aleqseuka: folds 
+DEMONGOD9: folds 
+ru_ruu_ru: folds 
+Uncalled bet ($0.50) returned to ffac
+ffac collected $1 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: sutata
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: ffac (big blind) collected ($1)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: Aleqseuka folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377039016:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:35:38 WET [2025/01/14 21:35:38 ET]
+Table 'Lykaon III' 6-max Seat #1 is the button
+Seat 5: sutata ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: ffac ($100.50 in chips) 
+Seat 3: Tibibacsi ($110.18 in chips) 
+Seat 4: Aleqseuka ($100 in chips) 
+Seat 6: DEMONGOD9 ($209.24 in chips) 
+ffac: posts small blind $0.50
+Tibibacsi: posts big blind $1
+sutata: sits out 
+*** HOLE CARDS ***
+Aleqseuka: raises $1.35 to $2.35
+DEMONGOD9: folds 
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: folds 
+Uncalled bet ($1.35) returned to Aleqseuka
+Aleqseuka collected $2.50 from pot
+Aleqseuka: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: sutata
+Seat 1: ru_ruu_ru (button) folded before Flop (didn't bet)
+Seat 2: ffac (small blind) folded before Flop
+Seat 3: Tibibacsi (big blind) folded before Flop
+Seat 4: Aleqseuka collected ($2.50)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377041469:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:35:55 WET [2025/01/14 21:35:55 ET]
+Table 'Lykaon III' 6-max Seat #2 is the button
+Seat 5: sutata ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($109.18 in chips) 
+Seat 4: Aleqseuka ($101.50 in chips) 
+Seat 6: DEMONGOD9 ($209.24 in chips) 
+Tibibacsi: posts small blind $0.50
+Aleqseuka: posts big blind $1
+sutata: sits out 
+*** HOLE CARDS ***
+DEMONGOD9: raises $1 to $2
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: folds 
+Aleqseuka: folds 
+Uncalled bet ($1) returned to DEMONGOD9
+DEMONGOD9 collected $2.50 from pot
+DEMONGOD9: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: sutata
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac (button) folded before Flop (didn't bet)
+Seat 3: Tibibacsi (small blind) folded before Flop
+Seat 4: Aleqseuka (big blind) folded before Flop
+Seat 6: DEMONGOD9 collected ($2.50)
+
+
+
+PokerStars Hand #254377043529:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:36:09 WET [2025/01/14 21:36:09 ET]
+Table 'Lykaon III' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($108.68 in chips) 
+Seat 4: Aleqseuka ($100.50 in chips) 
+Seat 5: sutata ($100 in chips) 
+Seat 6: DEMONGOD9 ($210.74 in chips) 
+Aleqseuka: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+DEMONGOD9: folds 
+ru_ruu_ru: folds 
+ffac: folds 
+Tibibacsi: folds 
+Aleqseuka: folds 
+Uncalled bet ($0.50) returned to sutata
+sutata collected $1 from pot
+sutata: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 4: Aleqseuka (small blind) folded before Flop
+Seat 5: sutata (big blind) collected ($1)
+Seat 6: DEMONGOD9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254377045502:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:36:23 WET [2025/01/14 21:36:23 ET]
+Table 'Lykaon III' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($108.68 in chips) 
+Seat 4: Aleqseuka ($100 in chips) 
+Seat 5: sutata ($100.50 in chips) 
+Seat 6: DEMONGOD9 ($210.74 in chips) 
+sutata: posts small blind $0.50
+DEMONGOD9: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: raises $1.20 to $2.20
+ffac: folds 
+Tibibacsi: folds 
+Aleqseuka: folds 
+sutata: folds 
+DEMONGOD9: folds 
+Uncalled bet ($1.20) returned to ru_ruu_ru
+ru_ruu_ru collected $2.50 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru collected ($2.50)
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: Aleqseuka (button) folded before Flop (didn't bet)
+Seat 5: sutata (small blind) folded before Flop
+Seat 6: DEMONGOD9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254377048411:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 2:36:42 WET [2025/01/14 21:36:42 ET]
+Table 'Lykaon III' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($101.50 in chips) 
+Seat 2: ffac ($100 in chips) 
+Seat 3: Tibibacsi ($108.68 in chips) 
+Seat 4: Aleqseuka ($100 in chips) 
+Seat 5: sutata ($100 in chips) 
+Seat 6: DEMONGOD9 ($209.74 in chips) 
+DEMONGOD9: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+ffac: folds 
+Tibibacsi: folds 
+Aleqseuka: raises $1.50 to $2.50
+sutata: folds 
+DEMONGOD9: calls $2
+ru_ruu_ru: raises $12.50 to $15
+Aleqseuka: folds 
+DEMONGOD9: calls $12.50
+*** FLOP *** [Kd Ks 4d]
+DEMONGOD9: checks 
+ru_ruu_ru: bets $15.44
+DEMONGOD9: calls $15.44
+*** TURN *** [Kd Ks 4d] [7d]
+DEMONGOD9: checks 
+ru_ruu_ru: bets $30.44
+DEMONGOD9: raises $148.86 to $179.30 and is all-in
+ru_ruu_ru: folds 
+Uncalled bet ($148.86) returned to DEMONGOD9
+DEMONGOD9 collected $121.76 from pot
+*** SUMMARY ***
+Total pot $124.26 | Rake $2.50 
+Board [Kd Ks 4d 7d]
+Seat 1: ru_ruu_ru (big blind) folded on the Turn
+Seat 2: ffac folded before Flop (didn't bet)
+Seat 3: Tibibacsi folded before Flop (didn't bet)
+Seat 4: Aleqseuka folded before Flop
+Seat 5: sutata (button) folded before Flop (didn't bet)
+Seat 6: DEMONGOD9 (small blind) collected ($121.76)
+
+
+

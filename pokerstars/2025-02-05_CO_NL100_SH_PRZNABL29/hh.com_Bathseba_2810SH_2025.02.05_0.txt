@@ -1,0 +1,3049 @@
+﻿PokerStars Hand #254721095172:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:36:00 WET [2025/02/05 12:36:00 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 4: mac101101 ($10 in chips) 
+Seat 5: paramourx ($100 in chips) 
+paramourx: posts small blind $0.50
+mac101101: posts big blind $1
+*** HOLE CARDS ***
+paramourx: raises $1 to $2
+crist_89870 joins the table at seat #1 
+mac101101: calls $1
+*** FLOP *** [7h 9s 2h]
+mac101101: checks 
+paramourx: checks 
+*** TURN *** [7h 9s 2h] [8s]
+mac101101: checks 
+paramourx: checks 
+*** RIVER *** [7h 9s 2h 8s] [2s]
+mac101101: bets $3.80
+paramourx: folds 
+Uncalled bet ($3.80) returned to mac101101
+mac101101 collected $3.75 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.25 
+Board [7h 9s 2h 8s 2s]
+Seat 4: mac101101 (big blind) collected ($3.75)
+Seat 5: paramourx (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #254721102650:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:36:29 WET [2025/02/05 12:36:29 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 1: crist_89870 ($100 in chips) 
+Seat 4: mac101101 ($11.75 in chips) 
+Seat 5: paramourx ($100 in chips) 
+paramourx: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+mac101101: calls $1
+paramourx: folds 
+crist_89870: checks 
+*** FLOP *** [2c Jc 8h]
+crist_89870: checks 
+mac101101: bets $1
+Spac396 joins the table at seat #3 
+Spac396 is disconnected 
+crist_89870: calls $1
+*** TURN *** [2c Jc 8h] [Ac]
+blistein joins the table at seat #6 
+crist_89870: checks 
+mac101101: checks 
+*** RIVER *** [2c Jc 8h Ac] [4h]
+crist_89870: checks 
+Rysiff joins the table at seat #2 
+mac101101: checks 
+*** SHOW DOWN ***
+crist_89870: shows [Qc 2s] (a pair of Deuces)
+mac101101: shows [9s Jh] (a pair of Jacks)
+mac101101 collected $4.22 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.28 
+Board [2c Jc 8h Ac 4h]
+Seat 1: crist_89870 (big blind) showed [Qc 2s] and lost with a pair of Deuces
+Seat 4: mac101101 (button) showed [9s Jh] and won ($4.22) with a pair of Jacks
+Seat 5: paramourx (small blind) folded before Flop
+
+
+
+PokerStars Hand #254721109847:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:36:57 WET [2025/02/05 12:36:57 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: crist_89870 ($100 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($54.59 in chips) 
+Seat 4: mac101101 ($13.97 in chips) 
+Seat 5: paramourx ($100 in chips) 
+crist_89870: posts small blind $0.50
+Rysiff: posts big blind $1
+Spac396: posts big blind $1
+*** HOLE CARDS ***
+Spac396: checks 
+mac101101: calls $1
+paramourx: folds 
+crist_89870: calls $0.50
+Rysiff: checks 
+*** FLOP *** [5d 2d 3s]
+crist_89870: checks 
+Rysiff: checks 
+Spac396: checks 
+mac101101: checks 
+*** TURN *** [5d 2d 3s] [Qd]
+crist_89870: bets $2.85
+Rysiff: folds 
+Spac396: calls $2.85
+mac101101: folds 
+*** RIVER *** [5d 2d 3s Qd] [9d]
+crist_89870: checks 
+Spac396: checks 
+*** SHOW DOWN ***
+crist_89870: shows [Qc 4c] (a pair of Queens)
+Spac396: mucks hand 
+crist_89870 collected $9.22 from pot
+*** SUMMARY ***
+Total pot $9.70 | Rake $0.48 
+Board [5d 2d 3s Qd 9d]
+Seat 6: blistein
+Seat 1: crist_89870 (small blind) showed [Qc 4c] and won ($9.22) with a pair of Queens
+Seat 2: Rysiff (big blind) folded on the Turn
+Seat 3: Spac396 mucked
+Seat 4: mac101101 folded on the Turn
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721125638:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:37:58 WET [2025/02/05 12:37:58 ET]
+Table 'Bathseba II' 6-max Seat #1 is the button
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: crist_89870 ($105.37 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($50.74 in chips) 
+Seat 4: mac101101 ($12.97 in chips) 
+Seat 5: paramourx ($100 in chips) 
+Rysiff: posts small blind $0.50
+Spac396: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+mac101101: calls $1
+paramourx: raises $4 to $5
+crist_89870: folds 
+Rysiff: folds 
+Spac396: folds 
+mac101101: calls $4
+*** FLOP *** [8s Kc 9s]
+mac101101: checks 
+paramourx: checks 
+*** TURN *** [8s Kc 9s] [7c]
+mac101101: checks 
+paramourx: bets $3
+mac101101: calls $3
+*** RIVER *** [8s Kc 9s 7c] [Qc]
+mac101101: checks 
+paramourx: bets $5.15
+mac101101: folds 
+Uncalled bet ($5.15) returned to paramourx
+paramourx collected $16.62 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.88 
+Board [8s Kc 9s 7c Qc]
+Seat 6: blistein
+Seat 1: crist_89870 (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: Spac396 (big blind) folded before Flop
+Seat 4: mac101101 folded on the River
+Seat 5: paramourx collected ($16.62)
+
+
+
+PokerStars Hand #254721138997:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:38:50 WET [2025/02/05 12:38:50 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: crist_89870 ($105.37 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($52.74 in chips) 
+Seat 4: mac101101 ($4.97 in chips) 
+Seat 5: paramourx ($108.62 in chips) 
+Spac396: posts small blind $0.50
+mac101101: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+paramourx: folds 
+crist_89870: raises $1.50 to $2.50
+Rysiff: folds 
+Spac396: calls $2
+mac101101: folds 
+*** FLOP *** [8h 4h 4c]
+Spac396: checks 
+crist_89870: bets $2.85
+Spac396: raises $5.15 to $8
+crist_89870: folds 
+Uncalled bet ($5.15) returned to Spac396
+Spac396 collected $11.12 from pot
+*** SUMMARY ***
+Total pot $11.70 | Rake $0.58 
+Board [8h 4h 4c]
+Seat 6: blistein
+Seat 1: crist_89870 folded on the Flop
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: Spac396 (small blind) collected ($11.12)
+Seat 4: mac101101 (big blind) folded before Flop
+Seat 5: paramourx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721146945:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:39:20 WET [2025/02/05 12:39:20 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: crist_89870 ($100.02 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($58.51 in chips) 
+Seat 4: mac101101 ($3.97 in chips) 
+Seat 5: paramourx ($108.62 in chips) 
+mac101101: posts small blind $0.50
+paramourx: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+crist_89870: folds 
+Rysiff: folds 
+Spac396: folds 
+mac101101: calls $0.50
+paramourx: raises $10.40 to $11.40
+mac101101: calls $2.97 and is all-in
+Uncalled bet ($7.43) returned to paramourx
+*** FLOP *** [Th Tc Ad]
+*** TURN *** [Th Tc Ad] [Ah]
+*** RIVER *** [Th Tc Ad Ah] [5h]
+*** SHOW DOWN ***
+mac101101: shows [Qs 9c] (two pair, Aces and Tens)
+paramourx: shows [Js Ks] (two pair, Aces and Tens - King kicker)
+paramourx collected $7.54 from pot
+*** SUMMARY ***
+Total pot $7.94 | Rake $0.40 
+Board [Th Tc Ad Ah 5h]
+Seat 6: blistein
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 (button) folded before Flop (didn't bet)
+Seat 4: mac101101 (small blind) showed [Qs 9c] and lost with two pair, Aces and Tens
+Seat 5: paramourx (big blind) showed [Js Ks] and won ($7.54) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #254721152808:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:39:43 WET [2025/02/05 12:39:43 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 4: mac101101 ($0 in chips) is sitting out
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: crist_89870 ($100.02 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($58.51 in chips) 
+Seat 5: paramourx ($112.19 in chips) 
+crist_89870: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Spac396: folds 
+paramourx: folds 
+crist_89870: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: mac101101
+Seat 6: blistein
+Seat 1: crist_89870 (small blind) folded before Flop
+Seat 2: Rysiff (big blind) collected ($1)
+Seat 3: Spac396 folded before Flop (didn't bet)
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721155133:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:39:52 WET [2025/02/05 12:39:52 ET]
+Table 'Bathseba II' 6-max Seat #1 is the button
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: crist_89870 ($100 in chips) 
+Seat 2: Rysiff ($100.50 in chips) 
+Seat 3: Spac396 ($58.51 in chips) 
+Seat 5: paramourx ($112.19 in chips) 
+Rysiff: posts small blind $0.50
+mac101101 leaves the table
+Spac396: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+paramourx: folds 
+crist_89870: raises $1.50 to $2.50
+Rysiff: folds 
+Spac396: calls $1.50
+*** FLOP *** [Ks Kc Jc]
+gudrozd joins the table at seat #4 
+Spac396: checks 
+crist_89870: bets $1.50
+Spac396: folds 
+Uncalled bet ($1.50) returned to crist_89870
+crist_89870 collected $5.22 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Ks Kc Jc]
+Seat 6: blistein
+Seat 1: crist_89870 (button) collected ($5.22)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: Spac396 (big blind) folded on the Flop
+Seat 5: paramourx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721161042:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:40:15 WET [2025/02/05 12:40:15 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: crist_89870 ($102.72 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($56.01 in chips) 
+Seat 4: gudrozd ($100 in chips) 
+Seat 5: paramourx ($112.19 in chips) 
+Spac396: posts small blind $0.50
+gudrozd: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+paramourx: folds 
+crist_89870: raises $1.50 to $2.50
+Rysiff: folds 
+Spac396: folds 
+gudrozd: calls $1.50
+*** FLOP *** [9s 2d Ks]
+gudrozd: checks 
+crist_89870: bets $2.61
+gudrozd: calls $2.61
+*** TURN *** [9s 2d Ks] [3c]
+gudrozd: checks 
+crist_89870: bets $12.22
+gudrozd: folds 
+Uncalled bet ($12.22) returned to crist_89870
+crist_89870 collected $10.18 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.72 | Rake $0.54 
+Board [9s 2d Ks 3c]
+Seat 6: blistein
+Seat 1: crist_89870 collected ($10.18)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: Spac396 (small blind) folded before Flop
+Seat 4: gudrozd (big blind) folded on the Turn
+Seat 5: paramourx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721173457:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:41:02 WET [2025/02/05 12:41:02 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: crist_89870 ($107.79 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($55.51 in chips) 
+Seat 4: gudrozd ($100 in chips) 
+Seat 5: paramourx ($112.19 in chips) 
+gudrozd: posts small blind $0.50
+paramourx: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+crist_89870: folds 
+Rysiff: folds 
+Spac396: calls $1
+gudrozd: folds 
+paramourx: checks 
+*** FLOP *** [Td 3h 7h]
+paramourx: bets $1
+Spac396: raises $1 to $2
+paramourx: calls $1
+*** TURN *** [Td 3h 7h] [Qd]
+paramourx: checks 
+Spac396: bets $2
+paramourx: folds 
+Uncalled bet ($2) returned to Spac396
+Spac396 collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Td 3h 7h Qd]
+Seat 6: blistein
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 (button) collected ($6.18)
+Seat 4: gudrozd (small blind) folded before Flop
+Seat 5: paramourx (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254721184569:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:41:45 WET [2025/02/05 12:41:45 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 1: crist_89870 ($107.79 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($58.69 in chips) 
+Seat 4: gudrozd ($100 in chips) 
+Seat 5: paramourx ($109.19 in chips) 
+Seat 6: blistein ($100 in chips) 
+paramourx: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: folds 
+Rysiff: folds 
+Spac396: folds 
+gudrozd: folds 
+paramourx: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 folded before Flop (didn't bet)
+Seat 4: gudrozd (button) folded before Flop (didn't bet)
+Seat 5: paramourx (small blind) folded before Flop
+Seat 6: blistein (big blind) collected ($1)
+
+
+
+PokerStars Hand #254721186947:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:41:54 WET [2025/02/05 12:41:54 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 1: crist_89870 ($107.79 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($58.69 in chips) 
+Seat 4: gudrozd ($100 in chips) 
+Seat 5: paramourx ($108.69 in chips) 
+Seat 6: blistein ($100.50 in chips) 
+blistein: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+Spac396: folds 
+gudrozd: folds 
+paramourx: folds 
+blistein: folds 
+crist_89870: calls $1.50
+*** FLOP *** [7d 6h Js]
+crist_89870: checks 
+Rysiff: checks 
+*** TURN *** [7d 6h Js] [4c]
+crist_89870: bets $3.92
+Rysiff: folds 
+Uncalled bet ($3.92) returned to crist_89870
+crist_89870 collected $5.22 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [7d 6h Js 4c]
+Seat 1: crist_89870 (big blind) collected ($5.22)
+Seat 2: Rysiff folded on the Turn
+Seat 3: Spac396 folded before Flop (didn't bet)
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254721197939:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:42:36 WET [2025/02/05 12:42:36 ET]
+Table 'Bathseba II' 6-max Seat #6 is the button
+Seat 1: crist_89870 ($110.51 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($58.69 in chips) 
+Seat 4: gudrozd ($100 in chips) 
+Seat 5: paramourx ($108.69 in chips) 
+Seat 6: blistein ($100 in chips) 
+crist_89870: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Spac396: calls $1
+gudrozd: folds 
+paramourx: raises $4 to $5
+blistein: folds 
+crist_89870: folds 
+Rysiff: folds 
+Spac396: raises $53.69 to $58.69 and is all-in
+paramourx: folds 
+Uncalled bet ($53.69) returned to Spac396
+Spac396 collected $11.50 from pot
+*** SUMMARY ***
+Total pot $11.50 | Rake $0 
+Seat 1: crist_89870 (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: Spac396 collected ($11.50)
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721205978:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:43:07 WET [2025/02/05 12:43:07 ET]
+Table 'Bathseba II' 6-max Seat #1 is the button
+Seat 1: crist_89870 ($110.01 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($65.19 in chips) 
+Seat 4: gudrozd ($100 in chips) 
+Seat 5: paramourx ($103.69 in chips) 
+Seat 6: blistein ($100 in chips) 
+Rysiff: posts small blind $0.50
+Spac396: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+paramourx: raises $2 to $3
+blistein: folds 
+crist_89870: folds 
+Rysiff: folds 
+Spac396: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: crist_89870 (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: Spac396 (big blind) folded before Flop
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx collected ($2.50)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721211325:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:43:27 WET [2025/02/05 12:43:27 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 1: crist_89870 ($110.01 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($64.19 in chips) 
+Seat 4: gudrozd ($100 in chips) 
+Seat 5: paramourx ($105.19 in chips) 
+Seat 6: blistein ($100 in chips) 
+Spac396: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+blistein: folds 
+crist_89870: folds 
+Rysiff: folds 
+Spac396: calls $0.50
+gudrozd: checks 
+*** FLOP *** [8d Td 4c]
+Spac396: checks 
+gudrozd: checks 
+*** TURN *** [8d Td 4c] [Kc]
+Spac396: checks 
+gudrozd: bets $2.85
+Spac396: calls $2.85
+*** RIVER *** [8d Td 4c Kc] [5c]
+Spac396: bets $5
+gudrozd: raises $20 to $25
+Spac396: calls $20
+*** SHOW DOWN ***
+gudrozd: shows [3c Qc] (a flush, King high)
+Spac396: mucks hand 
+gudrozd collected $55.20 from pot
+*** SUMMARY ***
+Total pot $57.70 | Rake $2.50 
+Board [8d Td 4c Kc 5c]
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: Spac396 (small blind) mucked
+Seat 4: gudrozd (big blind) showed [3c Qc] and won ($55.20) with a flush, King high
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721232189:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:44:47 WET [2025/02/05 12:44:47 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 1: crist_89870 ($110.01 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($35.34 in chips) 
+Seat 4: gudrozd ($126.35 in chips) 
+Seat 5: paramourx ($105.19 in chips) 
+Seat 6: blistein ($100 in chips) 
+gudrozd: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+crist_89870: folds 
+Rysiff: folds 
+Spac396: calls $1
+gudrozd: folds 
+paramourx: checks 
+*** FLOP *** [3c 6s 6h]
+paramourx: checks 
+Spac396: checks 
+*** TURN *** [3c 6s 6h] [Ts]
+paramourx: bets $1.86
+Spac396: folds 
+Uncalled bet ($1.86) returned to paramourx
+paramourx collected $2.38 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [3c 6s 6h Ts]
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 (button) folded on the Turn
+Seat 4: gudrozd (small blind) folded before Flop
+Seat 5: paramourx (big blind) collected ($2.38)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721242255:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:45:25 WET [2025/02/05 12:45:25 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 1: crist_89870 ($110.01 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($34.34 in chips) 
+Seat 4: gudrozd ($125.85 in chips) 
+Seat 5: paramourx ($106.57 in chips) 
+Seat 6: blistein ($100 in chips) 
+paramourx: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: folds 
+Rysiff: folds 
+Spac396: calls $1
+gudrozd: folds 
+paramourx: raises $2.50 to $3.50
+blistein: folds 
+Spac396: calls $2.50
+*** FLOP *** [6h Td 8h]
+paramourx: checks 
+Spac396: bets $4
+paramourx: calls $4
+*** TURN *** [6h Td 8h] [Jc]
+paramourx: checks 
+Spac396: checks 
+*** RIVER *** [6h Td 8h Jc] [2c]
+paramourx: checks 
+Spac396: bets $10
+paramourx: folds 
+Uncalled bet ($10) returned to Spac396
+Spac396 collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [6h Td 8h Jc 2c]
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 collected ($15.20)
+Seat 4: gudrozd (button) folded before Flop (didn't bet)
+Seat 5: paramourx (small blind) folded on the River
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254721262436:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:46:41 WET [2025/02/05 12:46:41 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 1: crist_89870 ($110.01 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($42.04 in chips) 
+Seat 4: gudrozd ($125.85 in chips) 
+Seat 5: paramourx ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+blistein: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+Spac396: folds 
+gudrozd: folds 
+paramourx: folds 
+blistein: raises $2 to $3
+crist_89870: folds 
+Uncalled bet ($2) returned to blistein
+blistein collected $2 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: crist_89870 (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 folded before Flop (didn't bet)
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) collected ($2)
+
+
+
+PokerStars Hand #254721266644:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:46:57 WET [2025/02/05 12:46:57 ET]
+Table 'Bathseba II' 6-max Seat #6 is the button
+Seat 1: crist_89870 ($109.01 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($42.04 in chips) 
+Seat 4: gudrozd ($125.85 in chips) 
+Seat 5: paramourx ($100 in chips) 
+Seat 6: blistein ($101 in chips) 
+crist_89870: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Spac396: calls $1
+gudrozd: raises $4 to $5
+paramourx: folds 
+blistein: folds 
+crist_89870: folds 
+Rysiff: folds 
+Spac396: calls $4
+*** FLOP *** [6d 4s Ac]
+Spac396: checks 
+gudrozd: bets $2.73
+Spac396: calls $2.73
+*** TURN *** [6d 4s Ac] [2h]
+Spac396: checks 
+gudrozd: checks 
+*** RIVER *** [6d 4s Ac 2h] [Qd]
+Spac396: bets $2
+gudrozd: folds 
+Uncalled bet ($2) returned to Spac396
+Spac396 collected $16.11 from pot
+*** SUMMARY ***
+Total pot $16.96 | Rake $0.85 
+Board [6d 4s Ac 2h Qd]
+Seat 1: crist_89870 (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: Spac396 collected ($16.11)
+Seat 4: gudrozd folded on the River
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721279902:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:47:47 WET [2025/02/05 12:47:47 ET]
+Table 'Bathseba II' 6-max Seat #1 is the button
+Seat 1: crist_89870 ($108.51 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($50.42 in chips) 
+Seat 4: gudrozd ($118.12 in chips) 
+Seat 5: paramourx ($100 in chips) 
+Seat 6: blistein ($101 in chips) 
+Rysiff: posts small blind $0.50
+Spac396: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+paramourx: raises $2 to $3
+blistein: folds 
+crist_89870: folds 
+Rysiff: folds 
+Spac396: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: crist_89870 (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: Spac396 (big blind) folded before Flop
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx collected ($2.50)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721283334:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:48:00 WET [2025/02/05 12:48:00 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 1: crist_89870 ($108.51 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($49.42 in chips) 
+Seat 4: gudrozd ($118.12 in chips) 
+Seat 5: paramourx ($101.50 in chips) 
+Seat 6: blistein ($101 in chips) 
+Spac396: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+blistein: folds 
+crist_89870: folds 
+Rysiff: folds 
+Spac396: calls $0.50
+gudrozd: checks 
+*** FLOP *** [3s 3d 9h]
+Spac396: checks 
+gudrozd: checks 
+*** TURN *** [3s 3d 9h] [6s]
+Spac396: checks 
+gudrozd: checks 
+*** RIVER *** [3s 3d 9h 6s] [Jh]
+Spac396: checks 
+gudrozd: checks 
+*** SHOW DOWN ***
+Spac396: shows [Ah 5d] (a pair of Threes)
+gudrozd: mucks hand 
+Spac396 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [3s 3d 9h 6s Jh]
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: Spac396 (small blind) showed [Ah 5d] and won ($1.90) with a pair of Threes
+Seat 4: gudrozd (big blind) mucked
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721294676:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:48:43 WET [2025/02/05 12:48:43 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 1: crist_89870 ($108.51 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($50.32 in chips) 
+Seat 4: gudrozd ($117.12 in chips) 
+Seat 5: paramourx ($101.50 in chips) 
+Seat 6: blistein ($101 in chips) 
+gudrozd: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+crist_89870: folds 
+Rysiff: folds 
+Spac396: folds 
+gudrozd: folds 
+Uncalled bet ($0.50) returned to paramourx
+paramourx collected $1 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 (button) folded before Flop (didn't bet)
+Seat 4: gudrozd (small blind) folded before Flop
+Seat 5: paramourx (big blind) collected ($1)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721298298:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:48:57 WET [2025/02/05 12:48:57 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 1: crist_89870 ($108.51 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: Spac396 ($50.32 in chips) 
+Seat 4: gudrozd ($116.62 in chips) 
+Seat 5: paramourx ($102 in chips) 
+Seat 6: blistein ($101 in chips) 
+paramourx: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: raises $1.50 to $2.50
+Rysiff: raises $4.50 to $7
+Spac396: folds 
+gudrozd: folds 
+paramourx: folds 
+blistein: folds 
+crist_89870: folds 
+Uncalled bet ($4.50) returned to Rysiff
+Rysiff collected $6.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: crist_89870 folded before Flop
+Seat 2: Rysiff collected ($6.50)
+Seat 3: Spac396 folded before Flop (didn't bet)
+Seat 4: gudrozd (button) folded before Flop (didn't bet)
+Seat 5: paramourx (small blind) folded before Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254721304789:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:49:21 WET [2025/02/05 12:49:21 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 1: crist_89870 ($106.01 in chips) 
+Seat 2: Rysiff ($104 in chips) 
+Seat 3: Spac396 ($50.32 in chips) 
+Seat 4: gudrozd ($116.62 in chips) 
+Seat 5: paramourx ($101.50 in chips) 
+Seat 6: blistein ($100 in chips) 
+blistein: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+Spac396: folds 
+gudrozd: folds 
+paramourx: folds 
+blistein: folds 
+crist_89870: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: crist_89870 (big blind) folded before Flop
+Seat 2: Rysiff collected ($2.50)
+Seat 3: Spac396 folded before Flop (didn't bet)
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254721308692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:49:36 WET [2025/02/05 12:49:36 ET]
+Table 'Bathseba II' 6-max Seat #6 is the button
+Seat 1: crist_89870 ($105.01 in chips) 
+Seat 2: Rysiff ($105.50 in chips) 
+Seat 3: Spac396 ($50.32 in chips) 
+Seat 4: gudrozd ($116.62 in chips) 
+Seat 5: paramourx ($101.50 in chips) 
+Seat 6: blistein ($100 in chips) 
+crist_89870: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Spac396: folds 
+gudrozd: folds 
+paramourx: folds 
+blistein: folds 
+crist_89870: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: crist_89870 (small blind) folded before Flop
+Seat 2: Rysiff (big blind) collected ($1)
+Seat 3: Spac396 folded before Flop (didn't bet)
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721312741:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:49:51 WET [2025/02/05 12:49:51 ET]
+Table 'Bathseba II' 6-max Seat #1 is the button
+Seat 1: crist_89870 ($104.51 in chips) 
+Seat 2: Rysiff ($106 in chips) 
+Seat 3: Spac396 ($50.32 in chips) 
+Seat 4: gudrozd ($116.62 in chips) 
+Seat 5: paramourx ($101.50 in chips) 
+Seat 6: blistein ($100 in chips) 
+Rysiff: posts small blind $0.50
+Spac396: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+paramourx: folds 
+blistein: folds 
+crist_89870: folds 
+Rysiff: raises $2 to $3
+Spac396: raises $47.32 to $50.32 and is all-in
+Rysiff: folds 
+Uncalled bet ($47.32) returned to Spac396
+Spac396 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: crist_89870 (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: Spac396 (big blind) collected ($6)
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721319554:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:50:17 WET [2025/02/05 12:50:17 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 1: crist_89870 ($104.51 in chips) 
+Seat 2: Rysiff ($103 in chips) 
+Seat 3: Spac396 ($53.32 in chips) 
+Seat 4: gudrozd ($116.62 in chips) 
+Seat 5: paramourx ($101.50 in chips) 
+Seat 6: blistein ($100 in chips) 
+Spac396: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+blistein: raises $1.20 to $2.20
+crist_89870: folds 
+Rysiff: folds 
+Spac396: calls $1.70
+gudrozd: raises $11.80 to $14
+blistein: folds 
+Spac396: raises $39.32 to $53.32 and is all-in
+gudrozd: folds 
+Uncalled bet ($39.32) returned to Spac396
+Spac396 collected $30.20 from pot
+*** SUMMARY ***
+Total pot $30.20 | Rake $0 
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: Spac396 (small blind) collected ($30.20)
+Seat 4: gudrozd (big blind) folded before Flop
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop
+
+
+
+PokerStars Hand #254721335726:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:51:18 WET [2025/02/05 12:51:18 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 1: crist_89870 ($104.51 in chips) 
+Seat 2: Rysiff ($103 in chips) 
+Seat 3: Spac396 ($69.52 in chips) 
+Seat 4: gudrozd ($102.62 in chips) 
+Seat 5: paramourx ($101.50 in chips) 
+Seat 6: blistein ($100 in chips) 
+gudrozd: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+crist_89870: folds 
+Rysiff: folds 
+Spac396: folds 
+gudrozd: raises $2 to $3
+paramourx: folds 
+Uncalled bet ($2) returned to gudrozd
+gudrozd collected $2 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 (button) folded before Flop (didn't bet)
+Seat 4: gudrozd (small blind) collected ($2)
+Seat 5: paramourx (big blind) folded before Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721339635:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:51:33 WET [2025/02/05 12:51:33 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 1: crist_89870 ($104.51 in chips) 
+Seat 2: Rysiff ($103 in chips) 
+Seat 3: Spac396 ($69.52 in chips) 
+Seat 4: gudrozd ($103.62 in chips) 
+Seat 5: paramourx ($100.50 in chips) 
+Seat 6: blistein ($100 in chips) 
+paramourx: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: raises $1.50 to $2.50
+Rysiff: folds 
+Spac396: folds 
+gudrozd: folds 
+paramourx: folds 
+blistein: folds 
+Uncalled bet ($1.50) returned to crist_89870
+crist_89870 collected $2.50 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: crist_89870 collected ($2.50)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 folded before Flop (didn't bet)
+Seat 4: gudrozd (button) folded before Flop (didn't bet)
+Seat 5: paramourx (small blind) folded before Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254721343214:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:51:46 WET [2025/02/05 12:51:46 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 1: crist_89870 ($106.01 in chips) 
+Seat 2: Rysiff ($103 in chips) 
+Seat 3: Spac396 ($69.52 in chips) 
+Seat 4: gudrozd ($103.62 in chips) 
+Seat 5: paramourx ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+blistein: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+Spac396: folds 
+gudrozd: folds 
+paramourx: raises $2 to $3
+blistein: folds 
+crist_89870: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: crist_89870 (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 folded before Flop (didn't bet)
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx (button) collected ($2.50)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254721348872:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:52:08 WET [2025/02/05 12:52:08 ET]
+Table 'Bathseba II' 6-max Seat #6 is the button
+Seat 1: crist_89870 ($105.01 in chips) 
+Seat 2: Rysiff ($103 in chips) 
+Seat 3: Spac396 ($69.52 in chips) 
+Seat 4: gudrozd ($103.62 in chips) 
+Seat 5: paramourx ($101.50 in chips) 
+Seat 6: blistein ($100 in chips) 
+crist_89870: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Spac396: calls $1
+gudrozd: folds 
+paramourx: folds 
+blistein: raises $2.50 to $3.50
+crist_89870: folds 
+Rysiff: folds 
+Spac396: calls $2.50
+*** FLOP *** [Kh 9s 4c]
+Spac396: checks 
+blistein: bets $2.75
+Spac396: calls $2.75
+*** TURN *** [Kh 9s 4c] [5s]
+Spac396: checks 
+blistein: bets $4.52
+Spac396: calls $4.52
+*** RIVER *** [Kh 9s 4c 5s] [As]
+Spac396: checks 
+blistein: bets $89.23 and is all-in
+Spac396: folds 
+Uncalled bet ($89.23) returned to blistein
+blistein collected $21.89 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.04 | Rake $1.15 
+Board [Kh 9s 4c 5s As]
+Seat 1: crist_89870 (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: Spac396 folded on the River
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein (button) collected ($21.89)
+
+
+
+PokerStars Hand #254721405976:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:56:01 WET [2025/02/05 12:56:01 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 1: crist_89870 ($107.71 in chips) 
+Seat 2: Rysiff ($109.68 in chips) 
+Seat 3: Spac396 ($43.75 in chips) 
+Seat 4: gudrozd ($102.12 in chips) 
+Seat 5: paramourx ($106.58 in chips) 
+Seat 6: blistein ($110.12 in chips) 
+blistein: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+Spac396: calls $2.50
+gudrozd: folds 
+paramourx: folds 
+blistein: folds 
+crist_89870: raises $11 to $13.50
+Rysiff: raises $13.50 to $27
+Spac396: folds 
+crist_89870: folds 
+Uncalled bet ($13.50) returned to Rysiff
+Rysiff collected $30 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: crist_89870 (big blind) folded before Flop
+Seat 2: Rysiff collected ($30)
+Seat 3: Spac396 folded before Flop
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254721412223:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:56:34 WET [2025/02/05 12:56:34 ET]
+Table 'Bathseba II' 6-max Seat #6 is the button
+Seat 1: crist_89870 ($100 in chips) 
+Seat 2: Rysiff ($126.18 in chips) 
+Seat 3: Spac396 ($41.25 in chips) 
+Seat 4: gudrozd ($102.12 in chips) 
+Seat 5: paramourx ($106.58 in chips) 
+Seat 6: blistein ($109.62 in chips) 
+crist_89870: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Spac396: folds 
+gudrozd: raises $1.50 to $2.50
+paramourx: folds 
+blistein: folds 
+crist_89870: folds 
+Rysiff: folds 
+Uncalled bet ($1.50) returned to gudrozd
+gudrozd collected $2.50 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: crist_89870 (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: Spac396 folded before Flop (didn't bet)
+Seat 4: gudrozd collected ($2.50)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721414734:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:56:47 WET [2025/02/05 12:56:47 ET]
+Table 'Bathseba II' 6-max Seat #1 is the button
+Seat 1: crist_89870 ($100 in chips) 
+Seat 2: Rysiff ($125.18 in chips) 
+Seat 3: Spac396 ($41.25 in chips) 
+Seat 4: gudrozd ($103.62 in chips) 
+Seat 5: paramourx ($106.58 in chips) 
+Seat 6: blistein ($109.62 in chips) 
+Rysiff: posts small blind $0.50
+Spac396: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+paramourx: raises $2 to $3
+blistein: folds 
+crist_89870: folds 
+Rysiff: folds 
+Spac396: calls $2
+*** FLOP *** [Qs 7c Ad]
+Spac396: checks 
+paramourx: bets $1.92
+Spac396: calls $1.92
+*** TURN *** [Qs 7c Ad] [6d]
+Spac396: checks 
+paramourx: checks 
+*** RIVER *** [Qs 7c Ad 6d] [3d]
+Spac396: bets $9
+paramourx: folds 
+Uncalled bet ($9) returned to Spac396
+Spac396 collected $9.82 from pot
+*** SUMMARY ***
+Total pot $10.34 | Rake $0.52 
+Board [Qs 7c Ad 6d 3d]
+Seat 1: crist_89870 (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: Spac396 (big blind) collected ($9.82)
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx folded on the River
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721420920:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:57:20 WET [2025/02/05 12:57:20 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 1: crist_89870 ($100 in chips) 
+Seat 2: Rysiff ($124.68 in chips) 
+Seat 3: Spac396 ($46.15 in chips) 
+Seat 4: gudrozd ($103.62 in chips) 
+Seat 5: paramourx ($101.66 in chips) 
+Seat 6: blistein ($109.62 in chips) 
+Spac396: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+blistein: folds 
+crist_89870: folds 
+Rysiff: raises $1.50 to $2.50
+Spac396: calls $2
+gudrozd: raises $9.50 to $12
+Rysiff: calls $9.50
+Spac396: folds 
+*** FLOP *** [8h 7s Qh]
+gudrozd: bets $12.59
+Rysiff: raises $12.59 to $25.18
+gudrozd: calls $12.59
+*** TURN *** [8h 7s Qh] [6h]
+gudrozd: checks 
+Rysiff: checks 
+*** RIVER *** [8h 7s Qh 6h] [Jc]
+gudrozd: bets $7
+Rysiff: raises $80.50 to $87.50 and is all-in
+gudrozd: folds 
+Uncalled bet ($80.50) returned to Rysiff
+Rysiff collected $88.36 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $90.86 | Rake $2.50 
+Board [8h 7s Qh 6h Jc]
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff (button) collected ($88.36)
+Seat 3: Spac396 (small blind) folded before Flop
+Seat 4: gudrozd (big blind) folded on the River
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721441477:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:59:07 WET [2025/02/05 12:59:07 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 1: crist_89870 ($100 in chips) 
+Seat 2: Rysiff ($168.86 in chips) 
+Seat 3: Spac396 ($43.65 in chips) 
+Seat 4: gudrozd ($100 in chips) 
+Seat 5: paramourx ($101.66 in chips) 
+Seat 6: blistein ($109.62 in chips) 
+gudrozd: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+crist_89870: folds 
+Rysiff: folds 
+Spac396: calls $1
+gudrozd: folds 
+paramourx: checks 
+*** FLOP *** [Qs 6s Th]
+paramourx: checks 
+Spac396: checks 
+*** TURN *** [Qs 6s Th] [8h]
+paramourx: checks 
+Spac396: checks 
+*** RIVER *** [Qs 6s Th 8h] [4s]
+paramourx: checks 
+Spac396: bets $4
+paramourx: folds 
+Uncalled bet ($4) returned to Spac396
+Spac396 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Qs 6s Th 8h 4s]
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 (button) collected ($2.38)
+Seat 4: gudrozd (small blind) folded before Flop
+Seat 5: paramourx (big blind) folded on the River
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721445502:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:59:28 WET [2025/02/05 12:59:28 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 1: crist_89870 ($100 in chips) 
+Seat 2: Rysiff ($168.86 in chips) 
+Seat 3: Spac396 ($45.03 in chips) 
+Seat 4: gudrozd ($100 in chips) 
+Seat 5: paramourx ($100.66 in chips) 
+Seat 6: blistein ($109.62 in chips) 
+paramourx: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: folds 
+Rysiff: folds 
+Spac396: calls $1
+gudrozd: raises $4 to $5
+paramourx: folds 
+blistein: folds 
+Spac396: calls $4
+*** FLOP *** [8h As 9s]
+Spac396: checks 
+gudrozd: bets $5.46
+Spac396: calls $5.46
+*** TURN *** [8h As 9s] [9h]
+Spac396: checks 
+gudrozd: checks 
+*** RIVER *** [8h As 9s 9h] [2s]
+Spac396: bets $34.57 and is all-in
+gudrozd: folds 
+Uncalled bet ($34.57) returned to Spac396
+Spac396 collected $21.30 from pot
+*** SUMMARY ***
+Total pot $22.42 | Rake $1.12 
+Board [8h As 9s 9h 2s]
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 collected ($21.30)
+Seat 4: gudrozd (button) folded on the River
+Seat 5: paramourx (small blind) folded before Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254721465758:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:01:07 WET [2025/02/05 13:01:07 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 1: crist_89870 ($100 in chips) 
+Seat 2: Rysiff ($168.86 in chips) 
+Seat 3: Spac396 ($55.87 in chips) 
+Seat 4: gudrozd ($100 in chips) 
+Seat 5: paramourx ($100.16 in chips) 
+Seat 6: blistein ($108.62 in chips) 
+blistein: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+Spac396: folds 
+gudrozd: folds 
+paramourx: raises $2 to $3
+blistein: folds 
+crist_89870: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: crist_89870 (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 folded before Flop (didn't bet)
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx (button) collected ($2.50)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254721468529:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:01:18 WET [2025/02/05 13:01:18 ET]
+Table 'Bathseba II' 6-max Seat #6 is the button
+Seat 1: crist_89870 ($100 in chips) 
+Seat 2: Rysiff ($168.86 in chips) 
+Seat 3: Spac396 ($55.87 in chips) 
+Seat 4: gudrozd ($100 in chips) 
+Seat 5: paramourx ($101.66 in chips) 
+Seat 6: blistein ($108.12 in chips) 
+crist_89870: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Spac396: calls $1
+gudrozd: folds 
+paramourx: folds 
+blistein: raises $2.50 to $3.50
+crist_89870: folds 
+Rysiff: folds 
+Spac396: calls $2.50
+*** FLOP *** [Ah 8s 6d]
+Spac396: checks 
+blistein: bets $4.04
+Spac396: folds 
+Uncalled bet ($4.04) returned to blistein
+blistein collected $8.08 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [Ah 8s 6d]
+Seat 1: crist_89870 (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: Spac396 folded on the Flop
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein (button) collected ($8.08)
+
+
+
+PokerStars Hand #254721476753:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:01:54 WET [2025/02/05 13:01:54 ET]
+Table 'Bathseba II' 6-max Seat #1 is the button
+Seat 1: crist_89870 ($100 in chips) 
+Seat 2: Rysiff ($167.86 in chips) 
+Seat 3: Spac396 ($52.37 in chips) 
+Seat 4: gudrozd ($100 in chips) 
+Seat 5: paramourx ($101.66 in chips) 
+Seat 6: blistein ($112.70 in chips) 
+Rysiff: posts small blind $0.50
+Spac396: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+paramourx: folds 
+blistein: folds 
+crist_89870: raises $1.50 to $2.50
+Rysiff: folds 
+Spac396: calls $1.50
+*** FLOP *** [4d Ts 9s]
+Spac396: bets $2
+crist_89870: calls $2
+*** TURN *** [4d Ts 9s] [Ad]
+Spac396: bets $2
+crist_89870: calls $2
+*** RIVER *** [4d Ts 9s Ad] [6h]
+Spac396: checks 
+crist_89870: bets $5.50
+Spac396: calls $5.50
+*** SHOW DOWN ***
+crist_89870: shows [8d Td] (a pair of Tens)
+Spac396: mucks hand 
+crist_89870 collected $23.28 from pot
+*** SUMMARY ***
+Total pot $24.50 | Rake $1.22 
+Board [4d Ts 9s Ad 6h]
+Seat 1: crist_89870 (button) showed [8d Td] and won ($23.28) with a pair of Tens
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: Spac396 (big blind) mucked
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721488359:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:02:39 WET [2025/02/05 13:02:39 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 1: crist_89870 ($111.28 in chips) 
+Seat 2: Rysiff ($167.36 in chips) 
+Seat 3: Spac396 ($40.37 in chips) 
+Seat 4: gudrozd ($100 in chips) 
+Seat 5: paramourx ($101.66 in chips) 
+Seat 6: blistein ($112.70 in chips) 
+Spac396: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+blistein: raises $1.20 to $2.20
+crist_89870: folds 
+Rysiff: folds 
+Spac396: calls $1.70
+gudrozd: calls $1.20
+*** FLOP *** [6d 9h 3d]
+Spac396: checks 
+gudrozd: checks 
+blistein: bets $2.13
+Spac396: folds 
+gudrozd: raises $5.87 to $8
+blistein: folds 
+Uncalled bet ($5.87) returned to gudrozd
+gudrozd collected $10.32 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.86 | Rake $0.54 
+Board [6d 9h 3d]
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: Spac396 (small blind) folded on the Flop
+Seat 4: gudrozd (big blind) collected ($10.32)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein folded on the Flop
+
+
+
+PokerStars Hand #254721499747:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:03:23 WET [2025/02/05 13:03:23 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 1: crist_89870 ($111.28 in chips) 
+Seat 2: Rysiff ($167.36 in chips) 
+Seat 3: Spac396 ($38.17 in chips) 
+Seat 4: gudrozd ($105.99 in chips) 
+Seat 5: paramourx ($101.66 in chips) 
+Seat 6: blistein ($108.37 in chips) 
+gudrozd: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+crist_89870: raises $4.80 to $7
+Rysiff: folds 
+Spac396: folds 
+gudrozd: folds 
+paramourx: folds 
+blistein: folds 
+Uncalled bet ($4.80) returned to crist_89870
+crist_89870 collected $5.90 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: crist_89870 collected ($5.90)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 (button) folded before Flop (didn't bet)
+Seat 4: gudrozd (small blind) folded before Flop
+Seat 5: paramourx (big blind) folded before Flop
+Seat 6: blistein folded before Flop
+
+
+
+PokerStars Hand #254721504581:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:03:41 WET [2025/02/05 13:03:41 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 1: crist_89870 ($114.98 in chips) 
+Seat 2: Rysiff ($167.36 in chips) 
+Seat 3: Spac396 ($38.17 in chips) 
+Seat 4: gudrozd ($105.49 in chips) 
+Seat 5: paramourx ($100.66 in chips) 
+Seat 6: blistein ($106.17 in chips) 
+paramourx: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: folds 
+Rysiff: folds 
+crist_89870 leaves the table
+Spac396: calls $1
+gudrozd: folds 
+paramourx: folds 
+blistein: checks 
+*** FLOP *** [8h 7s Ts]
+Burlica2013 joins the table at seat #1 
+blistein: checks 
+Spac396: checks 
+*** TURN *** [8h 7s Ts] [8s]
+blistein: bets $1
+Spac396: calls $1
+*** RIVER *** [8h 7s Ts 8s] [5c]
+blistein: bets $3
+Spac396: calls $3
+*** SHOW DOWN ***
+blistein: shows [Qh 3s] (a pair of Eights)
+Spac396: shows [3c 3d] (two pair, Eights and Threes)
+Spac396 collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [8h 7s Ts 8s 5c]
+Seat 1: crist_89870 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 showed [3c 3d] and won ($9.98) with two pair, Eights and Threes
+Seat 4: gudrozd (button) folded before Flop (didn't bet)
+Seat 5: paramourx (small blind) folded before Flop
+Seat 6: blistein (big blind) showed [Qh 3s] and lost with a pair of Eights
+
+
+
+PokerStars Hand #254721513359:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:04:15 WET [2025/02/05 13:04:15 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 1: Burlica2013 ($100 in chips) 
+Seat 2: Rysiff ($167.36 in chips) 
+Seat 3: Spac396 ($43.15 in chips) 
+Seat 4: gudrozd ($105.49 in chips) 
+Seat 5: paramourx ($100.16 in chips) 
+Seat 6: blistein ($101.17 in chips) 
+blistein: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+Spac396: calls $1
+gudrozd: folds 
+paramourx: folds 
+blistein: folds 
+Burlica2013: checks 
+*** FLOP *** [2h 5h Ks]
+Burlica2013: checks 
+Spac396: checks 
+*** TURN *** [2h 5h Ks] [7d]
+Burlica2013: bets $1.19
+Spac396: calls $1.19
+*** RIVER *** [2h 5h Ks 7d] [9s]
+Burlica2013: checks 
+Spac396: bets $3
+Burlica2013: raises $46 to $49
+Spac396: folds 
+Uncalled bet ($46) returned to Burlica2013
+Burlica2013 collected $10.34 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.88 | Rake $0.54 
+Board [2h 5h Ks 7d 9s]
+Seat 1: Burlica2013 (big blind) collected ($10.34)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 folded on the River
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254721534612:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:05:35 WET [2025/02/05 13:05:35 ET]
+Table 'Bathseba II' 6-max Seat #6 is the button
+Seat 1: Burlica2013 ($105.15 in chips) 
+Seat 2: Rysiff ($167.36 in chips) 
+Seat 3: Spac396 ($37.96 in chips) 
+Seat 4: gudrozd ($105.49 in chips) 
+Seat 5: paramourx ($100.16 in chips) 
+Seat 6: blistein ($100.67 in chips) 
+Burlica2013: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Spac396: folds 
+gudrozd: folds 
+paramourx: folds 
+blistein: folds 
+Burlica2013: raises $2 to $3
+Rysiff: folds 
+Uncalled bet ($2) returned to Burlica2013
+Burlica2013 collected $2 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Burlica2013 (small blind) collected ($2)
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: Spac396 folded before Flop (didn't bet)
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721538832:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:05:51 WET [2025/02/05 13:05:51 ET]
+Table 'Bathseba II' 6-max Seat #1 is the button
+Seat 1: Burlica2013 ($106.15 in chips) 
+Seat 2: Rysiff ($166.36 in chips) 
+Seat 3: Spac396 ($37.96 in chips) 
+Seat 4: gudrozd ($105.49 in chips) 
+Seat 5: paramourx ($100.16 in chips) 
+Seat 6: blistein ($100.67 in chips) 
+Rysiff: posts small blind $0.50
+Spac396: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+paramourx: folds 
+blistein: folds 
+Burlica2013: folds 
+Rysiff: folds 
+Uncalled bet ($0.50) returned to Spac396
+Spac396 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: Spac396 (big blind) collected ($1)
+Seat 4: gudrozd folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721541455:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:06:01 WET [2025/02/05 13:06:01 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 1: Burlica2013 ($106.15 in chips) 
+Seat 2: Rysiff ($165.86 in chips) 
+Seat 3: Spac396 ($38.46 in chips) 
+Seat 4: gudrozd ($105.49 in chips) 
+Seat 5: paramourx ($100.16 in chips) 
+Seat 6: blistein ($100.67 in chips) 
+Spac396: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+paramourx: raises $2 to $3
+blistein: folds 
+Burlica2013: raises $6 to $9
+Rysiff: folds 
+Spac396: folds 
+gudrozd: folds 
+paramourx: folds 
+Uncalled bet ($6) returned to Burlica2013
+Burlica2013 collected $7.50 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: Burlica2013 collected ($7.50)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: Spac396 (small blind) folded before Flop
+Seat 4: gudrozd (big blind) folded before Flop
+Seat 5: paramourx folded before Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721550514:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:06:35 WET [2025/02/05 13:06:35 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 1: Burlica2013 ($110.65 in chips) 
+Seat 2: Rysiff ($165.86 in chips) 
+Seat 3: Spac396 ($37.96 in chips) 
+Seat 4: gudrozd ($104.49 in chips) 
+Seat 5: paramourx ($100 in chips) 
+Seat 6: blistein ($100.67 in chips) 
+gudrozd: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+Burlica2013: folds 
+Rysiff: folds 
+Spac396: calls $2.20
+gudrozd: raises $11.80 to $14
+paramourx: folds 
+blistein: folds 
+Spac396: raises $23.96 to $37.96 and is all-in
+gudrozd: calls $23.96
+*** FLOP *** [9c 7c Kh]
+*** TURN *** [9c 7c Kh] [6c]
+*** RIVER *** [9c 7c Kh 6c] [Th]
+*** SHOW DOWN ***
+gudrozd: shows [Tc As] (a pair of Tens)
+Spac396: shows [3d 3s] (a pair of Threes)
+gudrozd collected $76.62 from pot
+*** SUMMARY ***
+Total pot $79.12 | Rake $2.50 
+Board [9c 7c Kh 6c Th]
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: Spac396 (button) showed [3d 3s] and lost with a pair of Threes
+Seat 4: gudrozd (small blind) showed [Tc As] and won ($76.62) with a pair of Tens
+Seat 5: paramourx (big blind) folded before Flop
+Seat 6: blistein folded before Flop
+
+
+
+PokerStars Hand #254721561225:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:07:15 WET [2025/02/05 13:07:15 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 3: Spac396 ($0 in chips) is sitting out
+Seat 1: Burlica2013 ($110.65 in chips) 
+Seat 2: Rysiff ($165.86 in chips) 
+Seat 4: gudrozd ($143.15 in chips) 
+Seat 5: paramourx ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+paramourx: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+Rysiff: raises $1.50 to $2.50
+gudrozd: folds 
+paramourx: folds 
+Spac396 leaves the table
+blistein: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Spac396
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: Rysiff collected ($2.50)
+Seat 4: gudrozd (button) folded before Flop (didn't bet)
+Seat 5: paramourx (small blind) folded before Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254721565722:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:07:32 WET [2025/02/05 13:07:32 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 4: gudrozd ($143.15 in chips) is sitting out
+Seat 1: Burlica2013 ($110.65 in chips) 
+Seat 2: Rysiff ($167.36 in chips) 
+Seat 5: paramourx ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+blistein: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+gudrozd leaves the table
+Rysiff: folds 
+paramourx: folds 
+Rysiff leaves the table
+michasia joins the table at seat #4 
+blistein: raises $2 to $3
+Burlica2013: calls $2
+*** FLOP *** [Kc 6d 2d]
+blistein: checks 
+Burlica2013: bets $2.85
+Karlsruhe35 joins the table at seat #2 
+Karlsruhe35 is disconnected 
+blistein: calls $2.85
+*** TURN *** [Kc 6d 2d] [9c]
+blistein: checks 
+Burlica2013: bets $15.23
+MoRsCeReBruM joins the table at seat #3 
+blistein: folds 
+Uncalled bet ($15.23) returned to Burlica2013
+Burlica2013 collected $11.12 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.70 | Rake $0.58 
+Board [Kc 6d 2d 9c]
+Seat 4: gudrozd
+Seat 1: Burlica2013 (big blind) collected ($11.12)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254721585073:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:08:45 WET [2025/02/05 13:08:45 ET]
+Table 'Bathseba II' 6-max Seat #6 is the button
+Seat 3: MoRsCeReBruM ($100 in chips) is sitting out
+Seat 4: michasia ($100 in chips) is sitting out
+Seat 1: Burlica2013 ($115.92 in chips) 
+Seat 2: Karlsruhe35 ($10 in chips) 
+Seat 5: paramourx ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+Burlica2013: posts small blind $0.50
+Karlsruhe35: posts big blind $1
+MoRsCeReBruM: sits out 
+michasia: sits out 
+*** HOLE CARDS ***
+paramourx: folds 
+blistein: raises $1.50 to $2.50
+Burlica2013: folds 
+Karlsruhe35: calls $1.50
+*** FLOP *** [4c 5d 5s]
+Karlsruhe35: checks 
+blistein: bets $1.77
+Karlsruhe35: folds 
+Uncalled bet ($1.77) returned to blistein
+blistein collected $5.22 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [4c 5d 5s]
+Seat 3: MoRsCeReBruM
+Seat 4: michasia
+Seat 1: Burlica2013 (small blind) folded before Flop
+Seat 2: Karlsruhe35 (big blind) folded on the Flop
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein (button) collected ($5.22)
+
+
+
+PokerStars Hand #254721592340:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:09:13 WET [2025/02/05 13:09:13 ET]
+Table 'Bathseba II' 6-max Seat #1 is the button
+Seat 4: michasia ($100 in chips) is sitting out
+Seat 1: Burlica2013 ($115.42 in chips) 
+Seat 2: Karlsruhe35 ($7.50 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 5: paramourx ($100 in chips) 
+Seat 6: blistein ($102.72 in chips) 
+Karlsruhe35: posts small blind $0.50
+MoRsCeReBruM: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+paramourx: folds 
+blistein: folds 
+Burlica2013: folds 
+Karlsruhe35: folds 
+Uncalled bet ($0.50) returned to MoRsCeReBruM
+MoRsCeReBruM collected $1 from pot
+MoRsCeReBruM: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: michasia
+Seat 1: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 2: Karlsruhe35 (small blind) folded before Flop
+Seat 3: MoRsCeReBruM (big blind) collected ($1)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721595565:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:09:25 WET [2025/02/05 13:09:25 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 1: Burlica2013 ($115.42 in chips) 
+Seat 2: Karlsruhe35 ($7 in chips) 
+Seat 3: MoRsCeReBruM ($100.50 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($100 in chips) 
+Seat 6: blistein ($102.72 in chips) 
+MoRsCeReBruM: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+blistein: raises $1.20 to $2.20
+Burlica2013: folds 
+Karlsruhe35: folds 
+MoRsCeReBruM: folds 
+michasia: folds 
+Uncalled bet ($1.20) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: Karlsruhe35 (button) folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (small blind) folded before Flop
+Seat 4: michasia (big blind) folded before Flop
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: blistein collected ($2.50)
+
+
+
+PokerStars Hand #254721599489:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:09:40 WET [2025/02/05 13:09:40 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 1: Burlica2013 ($115.42 in chips) 
+Seat 2: Karlsruhe35 ($7 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($100 in chips) 
+Seat 6: blistein ($104.22 in chips) 
+michasia: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Burlica2013: folds 
+Karlsruhe35: calls $1
+MoRsCeReBruM: folds 
+michasia: folds 
+blistein leaves the table
+paramourx: checks 
+*** FLOP *** [9d 8s 9s]
+paramourx: bets $1.19
+Karlsruhe35: folds 
+Uncalled bet ($1.19) returned to paramourx
+paramourx collected $2.38 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [9d 8s 9s]
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: Karlsruhe35 folded on the Flop
+Seat 3: MoRsCeReBruM (button) folded before Flop (didn't bet)
+Seat 4: michasia (small blind) folded before Flop
+Seat 5: paramourx (big blind) collected ($2.38)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721606853:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:10:07 WET [2025/02/05 13:10:07 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 1: Burlica2013 ($115.42 in chips) is sitting out
+Seat 2: Karlsruhe35 ($6 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($101.38 in chips) 
+paramourx: posts small blind $0.50
+Burlica2013: is sitting out 
+Karlsruhe35: posts big blind $1
+*** HOLE CARDS ***
+MoRsCeReBruM has timed out
+MoRsCeReBruM: folds 
+michasia: raises $1.80 to $2.80
+paramourx: folds 
+Karlsruhe35: folds 
+Uncalled bet ($1.80) returned to michasia
+michasia collected $2.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Burlica2013
+Seat 2: Karlsruhe35 (big blind) folded before Flop
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: michasia (button) collected ($2.50)
+Seat 5: paramourx (small blind) folded before Flop
+
+
+
+PokerStars Hand #254721612435:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:10:28 WET [2025/02/05 13:10:28 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 1: Burlica2013 ($115.42 in chips) is sitting out
+Seat 2: Karlsruhe35 ($5 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($101.50 in chips) 
+Seat 5: paramourx ($100.88 in chips) 
+Karlsruhe35: posts small blind $0.50
+MoRsCeReBruM: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+paramourx: raises $2 to $3
+Karlsruhe35: folds 
+MoRsCeReBruM: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Burlica2013
+Seat 2: Karlsruhe35 (small blind) folded before Flop
+Seat 3: MoRsCeReBruM (big blind) folded before Flop
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: paramourx (button) collected ($2.50)
+
+
+
+PokerStars Hand #254721615517:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:10:39 WET [2025/02/05 13:10:39 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 1: Burlica2013 ($115.42 in chips) is sitting out
+Seat 2: Karlsruhe35 ($4.50 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($101.50 in chips) 
+Seat 5: paramourx ($102.38 in chips) 
+MoRsCeReBruM: posts small blind $0.50
+michasia: posts big blind $1
+Burlica2013: sits out 
+*** HOLE CARDS ***
+paramourx: folds 
+Karlsruhe35: calls $1
+MoRsCeReBruM: folds 
+michasia: raises $4 to $5
+Karlsruhe35: calls $3.50 and is all-in
+Uncalled bet ($0.50) returned to michasia
+*** FLOP *** [Jc Qc 7h]
+*** TURN *** [Jc Qc 7h] [4d]
+*** RIVER *** [Jc Qc 7h 4d] [7d]
+*** SHOW DOWN ***
+michasia: shows [Ad 9h] (a pair of Sevens)
+Karlsruhe35: shows [4h 4c] (a full house, Fours full of Sevens)
+Karlsruhe35 collected $8.90 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.60 
+Board [Jc Qc 7h 4d 7d]
+Seat 1: Burlica2013
+Seat 2: Karlsruhe35 (button) showed [4h 4c] and won ($8.90) with a full house, Fours full of Sevens
+Seat 3: MoRsCeReBruM (small blind) folded before Flop
+Seat 4: michasia (big blind) showed [Ad 9h] and lost with a pair of Sevens
+Seat 5: paramourx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721622120:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:11:04 WET [2025/02/05 13:11:04 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 1: Burlica2013 ($115.42 in chips) is sitting out
+Seat 2: Karlsruhe35 ($8.90 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($102.38 in chips) 
+michasia: posts small blind $0.50
+paramourx: posts big blind $1
+Burlica2013: sits out 
+*** HOLE CARDS ***
+IREQO joins the table at seat #6 
+Karlsruhe35: folds 
+MoRsCeReBruM: raises $1.50 to $2.50
+michasia: folds 
+Burlica2013 leaves the table
+IREQO leaves the table
+paramourx: raises $9.50 to $12
+Quahrino joins the table at seat #6 
+MoRsCeReBruM: folds 
+Uncalled bet ($9.50) returned to paramourx
+paramourx collected $5.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: Burlica2013
+Seat 2: Karlsruhe35 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (button) folded before Flop
+Seat 4: michasia (small blind) folded before Flop
+Seat 5: paramourx (big blind) collected ($5.50)
+
+
+
+PokerStars Hand #254721636806:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:11:58 WET [2025/02/05 13:11:58 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 2: Karlsruhe35 ($8.90 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($105.38 in chips) 
+Seat 6: Quahrino ($100 in chips) 
+paramourx: posts small blind $0.50
+Quahrino: posts big blind $1
+*** HOLE CARDS ***
+Karlsruhe35: calls $1
+MoRsCeReBruM: folds 
+michasia: folds 
+paramourx: folds 
+Quahrino: checks 
+*** FLOP *** [Td 2c 5h]
+Quahrino: checks 
+Karlsruhe35: checks 
+*** TURN *** [Td 2c 5h] [Ad]
+Quahrino: checks 
+Karlsruhe35: bets $1
+Quahrino: folds 
+Uncalled bet ($1) returned to Karlsruhe35
+Karlsruhe35 collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [Td 2c 5h Ad]
+Seat 2: Karlsruhe35 collected ($2.35)
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: michasia (button) folded before Flop (didn't bet)
+Seat 5: paramourx (small blind) folded before Flop
+Seat 6: Quahrino (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254721649615:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:12:46 WET [2025/02/05 13:12:46 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 2: Karlsruhe35 ($10.25 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($104.88 in chips) 
+Seat 6: Quahrino ($100 in chips) 
+Quahrino: posts small blind $0.50
+Karlsruhe35: posts big blind $1
+*** HOLE CARDS ***
+MoRsCeReBruM: folds 
+michasia: folds 
+paramourx: folds 
+Quahrino: folds 
+Uncalled bet ($0.50) returned to Karlsruhe35
+Karlsruhe35 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Karlsruhe35 (big blind) collected ($1)
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+Seat 6: Quahrino (small blind) folded before Flop
+
+
+
+PokerStars Hand #254721651322:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:12:52 WET [2025/02/05 13:12:52 ET]
+Table 'Bathseba II' 6-max Seat #6 is the button
+Seat 2: Karlsruhe35 ($10.75 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($104.88 in chips) 
+Seat 6: Quahrino ($100 in chips) 
+Karlsruhe35: posts small blind $0.50
+MoRsCeReBruM: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+paramourx: folds 
+Quahrino: folds 
+Karlsruhe35: calls $0.50
+MoRsCeReBruM: checks 
+*** FLOP *** [2h Tc As]
+Karlsruhe35: checks 
+MoRsCeReBruM: bets $1
+Karlsruhe35: folds 
+Uncalled bet ($1) returned to MoRsCeReBruM
+MoRsCeReBruM collected $1.90 from pot
+MoRsCeReBruM: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [2h Tc As]
+Seat 2: Karlsruhe35 (small blind) folded on the Flop
+Seat 3: MoRsCeReBruM (big blind) collected ($1.90)
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: Quahrino (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721661800:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:13:31 WET [2025/02/05 13:13:31 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 2: Karlsruhe35 ($9.75 in chips) 
+Seat 3: MoRsCeReBruM ($100.90 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($104.88 in chips) 
+Seat 6: Quahrino ($100 in chips) 
+MoRsCeReBruM: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+Quahrino: raises $1.30 to $2.30
+Karlsruhe35: folds 
+MoRsCeReBruM: folds 
+michasia: folds 
+Uncalled bet ($1.30) returned to Quahrino
+Quahrino collected $2.50 from pot
+Quahrino: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Karlsruhe35 (button) folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (small blind) folded before Flop
+Seat 4: michasia (big blind) folded before Flop
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: Quahrino collected ($2.50)
+
+
+
+PokerStars Hand #254721664724:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:13:42 WET [2025/02/05 13:13:42 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 2: Karlsruhe35 ($9.75 in chips) 
+Seat 3: MoRsCeReBruM ($100.40 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($104.88 in chips) 
+Seat 6: Quahrino ($101.50 in chips) 
+michasia: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+Quahrino: raises $1 to $2
+Karlsruhe35: folds 
+MoRsCeReBruM: folds 
+michasia: folds 
+paramourx: folds 
+Uncalled bet ($1) returned to Quahrino
+Quahrino collected $2.50 from pot
+Quahrino: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Karlsruhe35 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (button) folded before Flop (didn't bet)
+Seat 4: michasia (small blind) folded before Flop
+Seat 5: paramourx (big blind) folded before Flop
+Seat 6: Quahrino collected ($2.50)
+
+
+
+PokerStars Hand #254721668165:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:13:55 WET [2025/02/05 13:13:55 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 2: Karlsruhe35 ($9.75 in chips) 
+Seat 3: MoRsCeReBruM ($100.40 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($103.88 in chips) 
+Seat 6: Quahrino ($103 in chips) 
+paramourx: posts small blind $0.50
+Quahrino: posts big blind $1
+*** HOLE CARDS ***
+Karlsruhe35: folds 
+MoRsCeReBruM: raises $1.20 to $2.20
+michasia: folds 
+paramourx: folds 
+Quahrino: calls $1.20
+*** FLOP *** [2s 4d Qh]
+Quahrino: checks 
+MoRsCeReBruM: bets $1.17
+Quahrino: folds 
+Uncalled bet ($1.17) returned to MoRsCeReBruM
+MoRsCeReBruM collected $4.66 from pot
+MoRsCeReBruM: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [2s 4d Qh]
+Seat 2: Karlsruhe35 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM collected ($4.66)
+Seat 4: michasia (button) folded before Flop (didn't bet)
+Seat 5: paramourx (small blind) folded before Flop
+Seat 6: Quahrino (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254721677586:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:14:30 WET [2025/02/05 13:14:30 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 2: Karlsruhe35 ($9.75 in chips) 
+Seat 3: MoRsCeReBruM ($102.86 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($103.38 in chips) 
+Seat 6: Quahrino ($100.80 in chips) 
+Quahrino: posts small blind $0.50
+Karlsruhe35: posts big blind $1
+*** HOLE CARDS ***
+MoRsCeReBruM has timed out
+MoRsCeReBruM: folds 
+michasia: raises $1.80 to $2.80
+paramourx: folds 
+Quahrino: folds 
+IREQO joins the table at seat #1 
+Karlsruhe35: folds 
+Uncalled bet ($1.80) returned to michasia
+michasia collected $2.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Karlsruhe35 (big blind) folded before Flop
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: michasia collected ($2.50)
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+Seat 6: Quahrino (small blind) folded before Flop
+
+
+
+PokerStars Hand #254721683069:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:14:51 WET [2025/02/05 13:14:51 ET]
+Table 'Bathseba II' 6-max Seat #6 is the button
+Seat 1: IREQO ($100 in chips) is sitting out
+Seat 2: Karlsruhe35 ($8.75 in chips) 
+Seat 3: MoRsCeReBruM ($102.86 in chips) 
+Seat 4: michasia ($101.50 in chips) 
+Seat 5: paramourx ($103.38 in chips) 
+Seat 6: Quahrino ($100.30 in chips) 
+Karlsruhe35: posts small blind $0.50
+MoRsCeReBruM: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+paramourx: folds 
+Quahrino: raises $1.50 to $2.50
+Karlsruhe35: folds 
+MoRsCeReBruM: folds 
+Uncalled bet ($1.50) returned to Quahrino
+Quahrino collected $2.50 from pot
+Quahrino: doesn't show hand 
+IREQO is disconnected 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: IREQO
+Seat 2: Karlsruhe35 (small blind) folded before Flop
+Seat 3: MoRsCeReBruM (big blind) folded before Flop
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: Quahrino (button) collected ($2.50)
+
+
+
+PokerStars Hand #254721686924:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:15:05 WET [2025/02/05 13:15:05 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 1: IREQO ($100 in chips) is sitting out
+Seat 2: Karlsruhe35 ($8.25 in chips) 
+Seat 3: MoRsCeReBruM ($101.86 in chips) 
+Seat 4: michasia ($101.50 in chips) 
+Seat 5: paramourx ($103.38 in chips) 
+Seat 6: Quahrino ($101.80 in chips) 
+MoRsCeReBruM: posts small blind $0.50
+michasia: posts big blind $1
+IREQO has timed out while disconnected
+IREQO: is sitting out 
+*** HOLE CARDS ***
+paramourx: folds 
+Quahrino: folds 
+Karlsruhe35: folds 
+MoRsCeReBruM: raises $2 to $3
+michasia: folds 
+Uncalled bet ($2) returned to MoRsCeReBruM
+MoRsCeReBruM collected $2 from pot
+MoRsCeReBruM: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: IREQO
+Seat 2: Karlsruhe35 (button) folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (small blind) collected ($2)
+Seat 4: michasia (big blind) folded before Flop
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: Quahrino folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721693374:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:15:28 WET [2025/02/05 13:15:28 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 1: IREQO ($100 in chips) is sitting out
+Seat 2: Karlsruhe35 ($8.25 in chips) 
+Seat 3: MoRsCeReBruM ($102.86 in chips) 
+Seat 4: michasia ($100.50 in chips) 
+Seat 5: paramourx ($103.38 in chips) 
+Seat 6: Quahrino ($101.80 in chips) 
+michasia: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+Quahrino: folds 
+Karlsruhe35: folds 
+MoRsCeReBruM: raises $1.50 to $2.50
+michasia: folds 
+paramourx: folds 
+Uncalled bet ($1.50) returned to MoRsCeReBruM
+MoRsCeReBruM collected $2.50 from pot
+MoRsCeReBruM: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: IREQO
+Seat 2: Karlsruhe35 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (button) collected ($2.50)
+Seat 4: michasia (small blind) folded before Flop
+Seat 5: paramourx (big blind) folded before Flop
+Seat 6: Quahrino folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721697194:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:15:42 WET [2025/02/05 13:15:42 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 1: IREQO ($100 in chips) is sitting out
+Seat 2: Karlsruhe35 ($8.25 in chips) 
+Seat 3: MoRsCeReBruM ($104.36 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($102.38 in chips) 
+Seat 6: Quahrino ($101.80 in chips) 
+paramourx: posts small blind $0.50
+Quahrino: posts big blind $1
+*** HOLE CARDS ***
+Karlsruhe35: folds 
+MoRsCeReBruM: raises $1.20 to $2.20
+michasia: folds 
+paramourx: raises $9.20 to $11.40
+Quahrino: folds 
+MoRsCeReBruM: folds 
+Uncalled bet ($9.20) returned to paramourx
+paramourx collected $5.40 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 1: IREQO
+Seat 2: Karlsruhe35 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM folded before Flop
+Seat 4: michasia (button) folded before Flop (didn't bet)
+Seat 5: paramourx (small blind) collected ($5.40)
+Seat 6: Quahrino (big blind) folded before Flop
+
+
+
+PokerStars Hand #254721705223:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:16:12 WET [2025/02/05 13:16:12 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 1: IREQO ($100 in chips) 
+Seat 2: Karlsruhe35 ($8.25 in chips) 
+Seat 3: MoRsCeReBruM ($102.16 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($105.58 in chips) 
+Seat 6: Quahrino ($100.80 in chips) 
+Quahrino: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+Karlsruhe35: folds 
+MoRsCeReBruM: folds 
+michasia: folds 
+paramourx: folds 
+Quahrino: folds 
+Uncalled bet ($0.50) returned to IREQO
+IREQO collected $1 from pot
+IREQO: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: IREQO (big blind) collected ($1)
+Seat 2: Karlsruhe35 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+Seat 6: Quahrino (small blind) folded before Flop
+
+
+
+PokerStars Hand #254721709284:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:16:27 WET [2025/02/05 13:16:27 ET]
+Table 'Bathseba II' 6-max Seat #6 is the button
+Seat 1: IREQO ($100.50 in chips) 
+Seat 2: Karlsruhe35 ($8.25 in chips) 
+Seat 3: MoRsCeReBruM ($102.16 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($105.58 in chips) 
+Seat 6: Quahrino ($100.30 in chips) 
+IREQO: posts small blind $0.50
+Karlsruhe35: posts big blind $1
+*** HOLE CARDS ***
+MoRsCeReBruM: folds 
+michasia: folds 
+paramourx: folds 
+Quahrino: folds 
+IREQO: raises $1.50 to $2.50
+Karlsruhe35: raises $1.50 to $4
+IREQO: raises $15 to $19
+Karlsruhe35: calls $4.25 and is all-in
+Uncalled bet ($10.75) returned to IREQO
+IREQO has timed out
+*** FLOP *** [6h 3s 6s]
+*** TURN *** [6h 3s 6s] [Ts]
+*** RIVER *** [6h 3s 6s Ts] [Qc]
+*** SHOW DOWN ***
+IREQO: shows [Jh Ad] (a pair of Sixes)
+Karlsruhe35: shows [Js Ks] (a flush, King high)
+Karlsruhe35 collected $15.48 from pot
+*** SUMMARY ***
+Total pot $16.50 | Rake $1.02 
+Board [6h 3s 6s Ts Qc]
+Seat 1: IREQO (small blind) showed [Jh Ad] and lost with a pair of Sixes
+Seat 2: Karlsruhe35 (big blind) showed [Js Ks] and won ($15.48) with a flush, King high
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: Quahrino (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721722824:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:17:17 WET [2025/02/05 13:17:17 ET]
+Table 'Bathseba II' 6-max Seat #1 is the button
+Seat 1: IREQO ($100 in chips) 
+Seat 2: Karlsruhe35 ($15.48 in chips) 
+Seat 3: MoRsCeReBruM ($102.16 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($105.58 in chips) 
+Seat 6: Quahrino ($100.30 in chips) 
+Karlsruhe35: posts small blind $0.50
+MoRsCeReBruM: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+paramourx: folds 
+Quahrino: folds 
+IREQO: folds 
+Karlsruhe35: calls $0.50
+MoRsCeReBruM: checks 
+*** FLOP *** [5d 3d Qd]
+Karlsruhe35: checks 
+MoRsCeReBruM: checks 
+*** TURN *** [5d 3d Qd] [9h]
+Karlsruhe35: bets $2
+MoRsCeReBruM: calls $2
+*** RIVER *** [5d 3d Qd 9h] [Tc]
+Karlsruhe35: bets $5.70
+MoRsCeReBruM: folds 
+Uncalled bet ($5.70) returned to Karlsruhe35
+Karlsruhe35 collected $5.62 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.38 
+Board [5d 3d Qd 9h Tc]
+Seat 1: IREQO (button) folded before Flop (didn't bet)
+Seat 2: Karlsruhe35 (small blind) collected ($5.62)
+Seat 3: MoRsCeReBruM (big blind) folded on the River
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: Quahrino folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721748661:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:18:53 WET [2025/02/05 13:18:53 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 1: IREQO ($100 in chips) 
+Seat 2: Karlsruhe35 ($18.10 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($105.58 in chips) 
+Seat 6: Quahrino ($100.30 in chips) 
+MoRsCeReBruM: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+Quahrino: folds 
+IREQO: folds 
+Karlsruhe35: folds 
+MoRsCeReBruM: folds 
+Uncalled bet ($0.50) returned to michasia
+michasia collected $1 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: Karlsruhe35 (button) folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (small blind) folded before Flop
+Seat 4: michasia (big blind) collected ($1)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: Quahrino folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721751682:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:19:04 WET [2025/02/05 13:19:04 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 1: IREQO ($100 in chips) 
+Seat 2: Karlsruhe35 ($18.10 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($100.50 in chips) 
+Seat 5: paramourx ($105.58 in chips) 
+Seat 6: Quahrino ($100.30 in chips) 
+michasia: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+Quahrino: folds 
+IREQO: folds 
+Karlsruhe35: folds 
+MoRsCeReBruM: raises $1.50 to $2.50
+michasia: folds 
+paramourx: folds 
+Uncalled bet ($1.50) returned to MoRsCeReBruM
+MoRsCeReBruM collected $2.50 from pot
+MoRsCeReBruM: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: Karlsruhe35 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (button) collected ($2.50)
+Seat 4: michasia (small blind) folded before Flop
+Seat 5: paramourx (big blind) folded before Flop
+Seat 6: Quahrino folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721754914:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:19:16 WET [2025/02/05 13:19:16 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 1: IREQO ($100 in chips) 
+Seat 2: Karlsruhe35 ($18.10 in chips) 
+Seat 3: MoRsCeReBruM ($101.50 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($104.58 in chips) 
+Seat 6: Quahrino ($100.30 in chips) 
+paramourx: posts small blind $0.50
+Quahrino: posts big blind $1
+*** HOLE CARDS ***
+IREQO: folds 
+Karlsruhe35: calls $1
+MoRsCeReBruM: folds 
+IREQO leaves the table
+michasia: folds 
+paramourx: folds 
+Quahrino: checks 
+*** FLOP *** [4h Qc 8h]
+Quahrino: checks 
+Karlsruhe35: checks 
+*** TURN *** [4h Qc 8h] [5c]
+Quahrino: bets $1.19
+Karlsruhe35: calls $1.19
+*** RIVER *** [4h Qc 8h 5c] [4d]
+Quahrino: bets $1.16
+Karlsruhe35: calls $1.16
+*** SHOW DOWN ***
+Quahrino: shows [Jc 8s] (two pair, Eights and Fours)
+Karlsruhe35: mucks hand 
+Quahrino collected $6.84 from pot
+Special One4444 joins the table at seat #1 
+Special One4444 is disconnected 
+*** SUMMARY ***
+Total pot $7.20 | Rake $0.36 
+Board [4h Qc 8h 5c 4d]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: Karlsruhe35 mucked
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: michasia (button) folded before Flop (didn't bet)
+Seat 5: paramourx (small blind) folded before Flop
+Seat 6: Quahrino (big blind) showed [Jc 8s] and won ($6.84) with two pair, Eights and Fours
+
+
+
+PokerStars Hand #254721768228:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:20:05 WET [2025/02/05 13:20:05 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 1: Special One4444 ($15.31 in chips) 
+Seat 2: Karlsruhe35 ($14.75 in chips) 
+Seat 3: MoRsCeReBruM ($101.50 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($104.08 in chips) 
+Seat 6: Quahrino ($103.79 in chips) 
+Quahrino: posts small blind $0.50
+Special One4444: posts big blind $1
+*** HOLE CARDS ***
+Karlsruhe35: calls $1
+MoRsCeReBruM: folds 
+michasia: folds 
+paramourx: folds 
+Quahrino: folds 
+Special One4444: checks 
+*** FLOP *** [Jc 8d Kc]
+Special One4444: checks 
+Karlsruhe35: bets $1
+Special One4444: folds 
+Uncalled bet ($1) returned to Karlsruhe35
+Karlsruhe35 collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [Jc 8d Kc]
+Seat 1: Special One4444 (big blind) folded on the Flop
+Seat 2: Karlsruhe35 collected ($2.35)
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+Seat 6: Quahrino (small blind) folded before Flop
+
+
+
+PokerStars Hand #254721773920:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:20:25 WET [2025/02/05 13:20:25 ET]
+Table 'Bathseba II' 6-max Seat #6 is the button
+Seat 1: Special One4444 ($14.31 in chips) 
+Seat 2: Karlsruhe35 ($16.10 in chips) 
+Seat 3: MoRsCeReBruM ($101.50 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($104.08 in chips) 
+Seat 6: Quahrino ($103.29 in chips) 
+Special One4444: posts small blind $0.50
+Karlsruhe35: posts big blind $1
+*** HOLE CARDS ***
+MoRsCeReBruM: folds 
+michasia: folds 
+paramourx: folds 
+Quahrino: raises $1 to $2
+Special One4444: raises $12.31 to $14.31 and is all-in
+Karlsruhe35: folds 
+Quahrino: folds 
+Uncalled bet ($12.31) returned to Special One4444
+Special One4444 collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: Special One4444 (small blind) collected ($5)
+Seat 2: Karlsruhe35 (big blind) folded before Flop
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: Quahrino (button) folded before Flop
+
+
+
+PokerStars Hand #254721779210:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:20:44 WET [2025/02/05 13:20:44 ET]
+Table 'Bathseba II' 6-max Seat #1 is the button
+Seat 1: Special One4444 ($17.31 in chips) 
+Seat 2: Karlsruhe35 ($15.10 in chips) 
+Seat 3: MoRsCeReBruM ($101.50 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($104.08 in chips) 
+Seat 6: Quahrino ($101.29 in chips) 
+Karlsruhe35: posts small blind $0.50
+MoRsCeReBruM: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+paramourx: folds 
+Quahrino: folds 
+Special One4444: folds 
+Karlsruhe35: folds 
+Uncalled bet ($0.50) returned to MoRsCeReBruM
+MoRsCeReBruM collected $1 from pot
+MoRsCeReBruM: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Special One4444 (button) folded before Flop (didn't bet)
+Seat 2: Karlsruhe35 (small blind) folded before Flop
+Seat 3: MoRsCeReBruM (big blind) collected ($1)
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: Quahrino folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721781878:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:20:54 WET [2025/02/05 13:20:54 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 1: Special One4444 ($17.31 in chips) 
+Seat 2: Karlsruhe35 ($14.60 in chips) 
+Seat 3: MoRsCeReBruM ($102 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($104.08 in chips) 
+Seat 6: Quahrino ($101.29 in chips) 
+MoRsCeReBruM: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+Quahrino: folds 
+Special One4444: folds 
+Karlsruhe35: folds 
+MoRsCeReBruM: folds 
+Uncalled bet ($0.50) returned to michasia
+michasia collected $1 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Special One4444 folded before Flop (didn't bet)
+Seat 2: Karlsruhe35 (button) folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (small blind) folded before Flop
+Seat 4: michasia (big blind) collected ($1)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: Quahrino folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721785959:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:21:09 WET [2025/02/05 13:21:09 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 1: Special One4444 ($17.31 in chips) 
+Seat 2: Karlsruhe35 ($14.60 in chips) 
+Seat 3: MoRsCeReBruM ($101.50 in chips) 
+Seat 4: michasia ($100.50 in chips) 
+Seat 5: paramourx ($104.08 in chips) 
+Seat 6: Quahrino ($101.29 in chips) 
+michasia: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+Quahrino: folds 
+Special One4444: folds 
+Karlsruhe35: folds 
+MoRsCeReBruM: raises $1.50 to $2.50
+michasia: raises $9.50 to $12
+paramourx: raises $13 to $25
+MoRsCeReBruM: folds 
+michasia: folds 
+Uncalled bet ($13) returned to paramourx
+paramourx collected $26.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.50 | Rake $0 
+Seat 1: Special One4444 folded before Flop (didn't bet)
+Seat 2: Karlsruhe35 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (button) folded before Flop
+Seat 4: michasia (small blind) folded before Flop
+Seat 5: paramourx (big blind) collected ($26.50)
+Seat 6: Quahrino folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721796903:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:21:49 WET [2025/02/05 13:21:49 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 1: Special One4444 ($17.31 in chips) 
+Seat 2: Karlsruhe35 ($14.60 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: paramourx ($118.58 in chips) 
+Seat 6: Quahrino ($101.29 in chips) 
+paramourx: posts small blind $0.50
+Quahrino: posts big blind $1
+*** HOLE CARDS ***
+Special One4444: folds 
+Karlsruhe35: folds 
+MoRsCeReBruM: folds 
+michasia: raises $1.80 to $2.80
+paramourx: folds 
+Quahrino: folds 
+Uncalled bet ($1.80) returned to michasia
+michasia collected $2.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Special One4444 folded before Flop (didn't bet)
+Seat 2: Karlsruhe35 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: michasia (button) collected ($2.50)
+Seat 5: paramourx (small blind) folded before Flop
+Seat 6: Quahrino (big blind) folded before Flop
+
+
+
+PokerStars Hand #254721800651:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:22:02 WET [2025/02/05 13:22:02 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 1: Special One4444 ($17.31 in chips) 
+Seat 2: Karlsruhe35 ($14.60 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($101.50 in chips) 
+Seat 5: paramourx ($118.08 in chips) 
+Seat 6: Quahrino ($100.29 in chips) 
+Quahrino: posts small blind $0.50
+Special One4444: posts big blind $1
+*** HOLE CARDS ***
+Karlsruhe35: folds 
+MoRsCeReBruM: folds 
+michasia: folds 
+paramourx: folds 
+Quahrino: raises $1.30 to $2.30
+Special One4444: calls $1.30
+*** FLOP *** [3d 4s 5s]
+Quahrino: checks 
+Special One4444: bets $2.19
+Quahrino: folds 
+Uncalled bet ($2.19) returned to Special One4444
+Special One4444 collected $4.37 from pot
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.23 
+Board [3d 4s 5s]
+Seat 1: Special One4444 (big blind) collected ($4.37)
+Seat 2: Karlsruhe35 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+Seat 6: Quahrino (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254721807711:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:22:28 WET [2025/02/05 13:22:28 ET]
+Table 'Bathseba II' 6-max Seat #6 is the button
+Seat 1: Special One4444 ($19.38 in chips) 
+Seat 2: Karlsruhe35 ($14.60 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($101.50 in chips) 
+Seat 5: paramourx ($118.08 in chips) 
+Seat 6: Quahrino ($100 in chips) 
+Special One4444: posts small blind $0.50
+Karlsruhe35: posts big blind $1
+*** HOLE CARDS ***
+MoRsCeReBruM: folds 
+michasia: folds 
+paramourx: raises $2 to $3
+Quahrino: raises $6 to $9
+Special One4444: folds 
+Karlsruhe35: folds 
+paramourx: folds 
+Uncalled bet ($6) returned to Quahrino
+Quahrino collected $7.50 from pot
+Quahrino: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: Special One4444 (small blind) folded before Flop
+Seat 2: Karlsruhe35 (big blind) folded before Flop
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop
+Seat 6: Quahrino (button) collected ($7.50)
+
+
+
+PokerStars Hand #254721815127:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:22:55 WET [2025/02/05 13:22:55 ET]
+Table 'Bathseba II' 6-max Seat #1 is the button
+Seat 1: Special One4444 ($18.88 in chips) 
+Seat 2: Karlsruhe35 ($13.60 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: michasia ($101.50 in chips) 
+Seat 5: paramourx ($115.08 in chips) 
+Seat 6: Quahrino ($104.50 in chips) 
+Karlsruhe35: posts small blind $0.50
+MoRsCeReBruM: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+paramourx: folds 
+Quahrino: folds 
+Special One4444: folds 
+Karlsruhe35: calls $0.50
+MoRsCeReBruM: raises $99 to $100 and is all-in
+Karlsruhe35: folds 
+Uncalled bet ($99) returned to MoRsCeReBruM
+MoRsCeReBruM collected $2 from pot
+MoRsCeReBruM: doesn't show hand 
+Quahrino leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Special One4444 (button) folded before Flop (didn't bet)
+Seat 2: Karlsruhe35 (small blind) folded before Flop
+Seat 3: MoRsCeReBruM (big blind) collected ($2)
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: paramourx folded before Flop (didn't bet)
+Seat 6: Quahrino folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721821686:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:23:19 WET [2025/02/05 13:23:19 ET]
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 1: Special One4444 ($18.88 in chips) 
+Seat 2: Karlsruhe35 ($12.60 in chips) 
+Seat 3: MoRsCeReBruM ($101 in chips) 
+Seat 4: michasia ($101.50 in chips) 
+Seat 5: paramourx ($115.08 in chips) 
+MoRsCeReBruM: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+Special One4444: folds 
+Karlsruhe35: folds 
+MoRsCeReBruM: folds 
+Uncalled bet ($0.50) returned to michasia
+michasia collected $1 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Special One4444 folded before Flop (didn't bet)
+Seat 2: Karlsruhe35 (button) folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (small blind) folded before Flop
+Seat 4: michasia (big blind) collected ($1)
+Seat 5: paramourx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721825263:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:23:32 WET [2025/02/05 13:23:32 ET]
+Table 'Bathseba II' 6-max Seat #3 is the button
+Seat 1: Special One4444 ($18.88 in chips) 
+Seat 2: Karlsruhe35 ($12.60 in chips) 
+Seat 3: MoRsCeReBruM ($100.50 in chips) 
+Seat 4: michasia ($102 in chips) 
+Seat 5: paramourx ($115.08 in chips) 
+michasia: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+Special One4444: raises $1.30 to $2.30
+Karlsruhe35: calls $2.30
+MoRsCeReBruM: folds 
+michasia: folds 
+paramourx: raises $112.78 to $115.08 and is all-in
+Special One4444: calls $16.58 and is all-in
+Karlsruhe35: calls $10.30 and is all-in
+Uncalled bet ($96.20) returned to paramourx
+*** FLOP *** [6c 3h Kc]
+*** TURN *** [6c 3h Kc] [Kh]
+*** RIVER *** [6c 3h Kc Kh] [8c]
+*** SHOW DOWN ***
+paramourx: shows [Ks As] (three of a kind, Kings)
+Special One4444: shows [Qc Qd] (two pair, Kings and Queens)
+paramourx collected $11.98 from side pot
+Karlsruhe35: shows [Jc Ah] (a pair of Kings)
+paramourx collected $36.38 from main pot
+*** SUMMARY ***
+Total pot $50.86 Main pot $36.38. Side pot $11.98. | Rake $2.50 
+Board [6c 3h Kc Kh 8c]
+Seat 1: Special One4444 showed [Qc Qd] and lost with two pair, Kings and Queens
+Seat 2: Karlsruhe35 showed [Jc Ah] and lost with a pair of Kings
+Seat 3: MoRsCeReBruM (button) folded before Flop (didn't bet)
+Seat 4: michasia (small blind) folded before Flop
+Seat 5: paramourx (big blind) showed [Ks As] and won ($48.36) with three of a kind, Kings
+
+
+
+PokerStars Hand #254721838663:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:24:21 WET [2025/02/05 13:24:21 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 1: Special One4444 ($0 in chips) is sitting out
+Seat 2: Karlsruhe35 ($0 in chips) is sitting out
+Seat 3: MoRsCeReBruM ($100.50 in chips) 
+Seat 4: michasia ($101.50 in chips) 
+Seat 5: paramourx ($144.56 in chips) 
+paramourx: posts small blind $0.50
+MoRsCeReBruM: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+paramourx: folds 
+Uncalled bet ($0.50) returned to MoRsCeReBruM
+Special One4444 leaves the table
+MoRsCeReBruM collected $1 from pot
+MoRsCeReBruM: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Special One4444
+Seat 2: Karlsruhe35
+Seat 3: MoRsCeReBruM (big blind) collected ($1)
+Seat 4: michasia (button) folded before Flop (didn't bet)
+Seat 5: paramourx (small blind) folded before Flop
+
+
+
+PokerStars Hand #254721840291:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:24:27 WET [2025/02/05 13:24:27 ET]
+Table 'Bathseba II' 6-max Seat #5 is the button
+Seat 2: Karlsruhe35 ($0 in chips) is sitting out
+Seat 3: MoRsCeReBruM ($101 in chips) 
+Seat 4: michasia ($101.50 in chips) 
+Seat 5: paramourx ($144.06 in chips) 
+MoRsCeReBruM: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+MoRsCeReBruM: raises $2 to $3
+michasia: calls $2
+*** FLOP *** [7c Jd 2s]
+Karlsruhe35 leaves the table
+MoRsCeReBruM: bets $2.28
+michasia: folds 
+Uncalled bet ($2.28) returned to MoRsCeReBruM
+MoRsCeReBruM collected $5.70 from pot
+MoRsCeReBruM: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [7c Jd 2s]
+Seat 2: Karlsruhe35
+Seat 3: MoRsCeReBruM (small blind) collected ($5.70)
+Seat 4: michasia (big blind) folded on the Flop
+Seat 5: paramourx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254721846130:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 18:24:48 WET [2025/02/05 13:24:48 ET]
+Table 'Bathseba II' 6-max Seat #4 is the button
+Seat 5: paramourx ($144.06 in chips) is sitting out
+Seat 3: MoRsCeReBruM ($103.70 in chips) 
+Seat 4: michasia ($100 in chips) 
+michasia: posts small blind $0.50
+paramourx: is sitting out 
+MoRsCeReBruM: posts big blind $1
+*** HOLE CARDS ***
+paramourx leaves the table
+michasia: folds 
+Uncalled bet ($0.50) returned to MoRsCeReBruM
+MoRsCeReBruM collected $1 from pot
+MoRsCeReBruM: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: paramourx
+Seat 3: MoRsCeReBruM (big blind) collected ($1)
+Seat 4: michasia (button) (small blind) folded before Flop
+
+
+

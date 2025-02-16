@@ -1,0 +1,2814 @@
+﻿PokerStars Hand #254262029473:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:15:00 WET [2025/01/08 10:15:00 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($100 in chips) 
+Seat 2: ligeti lajos ($40 in chips) 
+Seat 3: Burlica2013 ($100 in chips) 
+Seat 4: Espada Fish ($100 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+ligeti lajos: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+sta$igk: folds 
+poker_soul11: folds 
+ligeti lajos: calls $0.50
+Burlica2013: checks 
+*** FLOP *** [9d 7s 6c]
+ligeti lajos: checks 
+Burlica2013: bets $1
+ligeti lajos: calls $1
+*** TURN *** [9d 7s 6c] [9h]
+ligeti lajos: checks 
+blistein joins the table at seat #6 
+Burlica2013: bets $2.85
+ligeti lajos: folds 
+Uncalled bet ($2.85) returned to Burlica2013
+Burlica2013 collected $3.80 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [9d 7s 6c 9h]
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: ligeti lajos (small blind) folded on the Turn
+Seat 3: Burlica2013 (big blind) collected ($3.80)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262037443:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:15:38 WET [2025/01/08 10:15:38 ET]
+Table 'Jih II' 6-max Seat #2 is the button
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($100 in chips) 
+Seat 2: ligeti lajos ($48 in chips) 
+Seat 3: Burlica2013 ($101.80 in chips) 
+Seat 4: Espada Fish ($100 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Burlica2013: posts small blind $0.50
+Espada Fish: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+sta$igk: folds 
+poker_soul11: folds 
+ligeti lajos: calls $1
+Burlica2013: raises $3 to $4
+Espada Fish: folds 
+ligeti lajos: folds 
+Uncalled bet ($3) returned to Burlica2013
+Burlica2013 collected $3 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 6: blistein
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos (button) folded before Flop
+Seat 3: Burlica2013 (small blind) collected ($3)
+Seat 4: Espada Fish (big blind) folded before Flop
+Seat 5: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262042454:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:16:02 WET [2025/01/08 10:16:02 ET]
+Table 'Jih II' 6-max Seat #3 is the button
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($100 in chips) 
+Seat 2: ligeti lajos ($47 in chips) 
+Seat 3: Burlica2013 ($103.80 in chips) 
+Seat 4: Espada Fish ($100 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Espada Fish: posts small blind $0.50
+sta$igk: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+poker_soul11: folds 
+ligeti lajos: calls $1
+Burlica2013: folds 
+Espada Fish: raises $3 to $4
+sta$igk: raises $9.50 to $13.50
+ligeti lajos: folds 
+Espada Fish: raises $86.50 to $100 and is all-in
+sta$igk: folds 
+Uncalled bet ($86.50) returned to Espada Fish
+Espada Fish collected $28 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $28 | Rake $0 
+Seat 6: blistein
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos folded before Flop
+Seat 3: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 4: Espada Fish (small blind) collected ($28)
+Seat 5: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254262051813:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:16:48 WET [2025/01/08 10:16:48 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($100 in chips) 
+Seat 2: ligeti lajos ($46 in chips) 
+Seat 3: Burlica2013 ($103.80 in chips) 
+Seat 4: Espada Fish ($114.50 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+ligeti lajos: calls $1
+Burlica2013: folds 
+Espada Fish: folds 
+sta$igk: folds 
+blistein: checks 
+*** FLOP *** [Kh 5c Ac]
+blistein: checks 
+ligeti lajos: checks 
+*** TURN *** [Kh 5c Ac] [Ks]
+blistein: checks 
+ligeti lajos: checks 
+*** RIVER *** [Kh 5c Ac Ks] [Qc]
+blistein: checks 
+ligeti lajos: checks 
+*** SHOW DOWN ***
+blistein: shows [3h 6h] (a pair of Kings)
+ligeti lajos: shows [8c 8h] (two pair, Kings and Eights)
+ligeti lajos collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Kh 5c Ac Ks Qc]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos showed [8c 8h] and won ($2.38) with two pair, Kings and Eights
+Seat 3: Burlica2013 folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 5: sta$igk (small blind) folded before Flop
+Seat 6: blistein (big blind) showed [3h 6h] and lost with a pair of Kings
+
+
+
+PokerStars Hand #254262057142:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:17:13 WET [2025/01/08 10:17:13 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($100 in chips) 
+Seat 2: ligeti lajos ($47.38 in chips) 
+Seat 3: Burlica2013 ($103.80 in chips) 
+Seat 4: Espada Fish ($114.50 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+blistein: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+ligeti lajos: folds 
+Burlica2013: raises $1.20 to $2.20
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: folds 
+Uncalled bet ($1.20) returned to Burlica2013
+Burlica2013 collected $2.50 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 (big blind) folded before Flop
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: Burlica2013 collected ($2.50)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254262059899:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:17:27 WET [2025/01/08 10:17:27 ET]
+Table 'Jih II' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($100 in chips) 
+Seat 2: ligeti lajos ($47.38 in chips) 
+Seat 3: Burlica2013 ($105.30 in chips) 
+Seat 4: Espada Fish ($114.50 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+poker_soul11: posts small blind $0.50
+ligeti lajos: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: raises $1.20 to $2.20
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: folds 
+Uncalled bet ($1.20) returned to Burlica2013
+Burlica2013 collected $2.50 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: ligeti lajos (big blind) folded before Flop
+Seat 3: Burlica2013 collected ($2.50)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262062046:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:17:37 WET [2025/01/08 10:17:37 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($100 in chips) 
+Seat 2: ligeti lajos ($46.38 in chips) 
+Seat 3: Burlica2013 ($106.80 in chips) 
+Seat 4: Espada Fish ($114.50 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+ligeti lajos: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: raises $1.20 to $2.20
+ligeti lajos: folds 
+Burlica2013: folds 
+Uncalled bet ($1.20) returned to poker_soul11
+poker_soul11 collected $2.50 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 (button) collected ($2.50)
+Seat 2: ligeti lajos (small blind) folded before Flop
+Seat 3: Burlica2013 (big blind) folded before Flop
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262066281:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:17:58 WET [2025/01/08 10:17:58 ET]
+Table 'Jih II' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($101.50 in chips) 
+Seat 2: ligeti lajos ($45.88 in chips) 
+Seat 3: Burlica2013 ($105.80 in chips) 
+Seat 4: Espada Fish ($114.50 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+Burlica2013: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: calls $1
+Burlica2013: folds 
+Espada Fish: raises $3 to $4
+ligeti lajos: calls $3
+*** FLOP *** [4c 7s Qs]
+Espada Fish: bets $2.75
+ligeti lajos: calls $2.75
+*** TURN *** [4c 7s Qs] [2c]
+Espada Fish: checks 
+ligeti lajos: bets $6.65
+Espada Fish: raises $101.10 to $107.75 and is all-in
+ligeti lajos: folds 
+Uncalled bet ($101.10) returned to Espada Fish
+Espada Fish collected $25.94 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $27.30 | Rake $1.36 
+Board [4c 7s Qs 2c]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos (button) folded on the Turn
+Seat 3: Burlica2013 (small blind) folded before Flop
+Seat 4: Espada Fish (big blind) collected ($25.94)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262082879:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:19:18 WET [2025/01/08 10:19:18 ET]
+Table 'Jih II' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($101.50 in chips) 
+Seat 2: ligeti lajos ($32.48 in chips) 
+Seat 3: Burlica2013 ($105.30 in chips) 
+Seat 4: Espada Fish ($127.04 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+Espada Fish: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: calls $1
+Burlica2013: folds 
+Espada Fish: folds 
+sta$igk: checks 
+*** FLOP *** [Ks 4s Jc]
+sta$igk: checks 
+ligeti lajos: checks 
+*** TURN *** [Ks 4s Jc] [Qd]
+sta$igk: bets $1.79
+ligeti lajos: calls $1.79
+*** RIVER *** [Ks 4s Jc Qd] [4c]
+sta$igk: bets $8.67
+ligeti lajos: folds 
+Uncalled bet ($8.67) returned to sta$igk
+sta$igk collected $5.78 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.08 | Rake $0.30 
+Board [Ks 4s Jc Qd 4c]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos folded on the River
+Seat 3: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 4: Espada Fish (small blind) folded before Flop
+Seat 5: sta$igk (big blind) collected ($5.78)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262091624:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:20:00 WET [2025/01/08 10:20:00 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($101.50 in chips) 
+Seat 2: ligeti lajos ($29.69 in chips) 
+Seat 3: Burlica2013 ($105.30 in chips) 
+Seat 4: Espada Fish ($126.54 in chips) 
+Seat 5: sta$igk ($102.99 in chips) 
+Seat 6: blistein ($100 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+ligeti lajos: folds 
+Burlica2013: folds 
+Espada Fish: raises $1.50 to $2.50
+sta$igk: folds 
+blistein: raises $10.50 to $13
+Espada Fish: raises $14 to $27
+blistein: raises $73 to $100 and is all-in
+Espada Fish: folds 
+Uncalled bet ($73) returned to blistein
+blistein collected $54.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $54.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: Burlica2013 folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) folded before Flop
+Seat 5: sta$igk (small blind) folded before Flop
+Seat 6: blistein (big blind) collected ($54.50)
+
+
+
+PokerStars Hand #254262104396:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:21:00 WET [2025/01/08 10:21:00 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($101.50 in chips) 
+Seat 2: ligeti lajos ($29.69 in chips) 
+Seat 3: Burlica2013 ($105.30 in chips) 
+Seat 4: Espada Fish ($100 in chips) 
+Seat 5: sta$igk ($102.49 in chips) 
+Seat 6: blistein ($127.50 in chips) 
+blistein: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+ligeti lajos: calls $1
+Burlica2013: folds 
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: checks 
+*** FLOP *** [5c 7d 3c]
+poker_soul11: checks 
+ligeti lajos: checks 
+*** TURN *** [5c 7d 3c] [5h]
+poker_soul11: checks 
+ligeti lajos: checks 
+*** RIVER *** [5c 7d 3c 5h] [Qs]
+poker_soul11: checks 
+ligeti lajos: checks 
+*** SHOW DOWN ***
+poker_soul11: shows [Qh 2s] (two pair, Queens and Fives)
+ligeti lajos: mucks hand 
+poker_soul11 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [5c 7d 3c 5h Qs]
+Seat 1: poker_soul11 (big blind) showed [Qh 2s] and won ($2.38) with two pair, Queens and Fives
+Seat 2: ligeti lajos mucked
+Seat 3: Burlica2013 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254262112138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:21:37 WET [2025/01/08 10:21:37 ET]
+Table 'Jih II' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($102.88 in chips) 
+Seat 2: ligeti lajos ($28.69 in chips) 
+Seat 3: Burlica2013 ($105.30 in chips) 
+Seat 4: Espada Fish ($100 in chips) 
+Seat 5: sta$igk ($102.49 in chips) 
+Seat 6: blistein ($127 in chips) 
+poker_soul11: posts small blind $0.50
+ligeti lajos: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+Espada Fish: raises $1.20 to $2.20
+sta$igk: raises $5.30 to $7.50
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: folds 
+Espada Fish: folds 
+Uncalled bet ($5.30) returned to sta$igk
+sta$igk collected $5.90 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: ligeti lajos (big blind) folded before Flop
+Seat 3: Burlica2013 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop
+Seat 5: sta$igk collected ($5.90)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262116262:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:21:57 WET [2025/01/08 10:21:57 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($102.38 in chips) 
+Seat 2: ligeti lajos ($27.69 in chips) 
+Seat 3: Burlica2013 ($105.30 in chips) 
+Seat 4: Espada Fish ($100 in chips) 
+Seat 5: sta$igk ($106.19 in chips) 
+Seat 6: blistein ($127 in chips) 
+ligeti lajos: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+sta$igk: folds 
+blistein: raises $1.30 to $2.30
+poker_soul11: folds 
+ligeti lajos: calls $1.80
+Burlica2013: folds 
+*** FLOP *** [7s 3h Td]
+ligeti lajos: checks 
+blistein: checks 
+*** TURN *** [7s 3h Td] [Qs]
+ligeti lajos: checks 
+blistein: bets $6.65
+ligeti lajos: folds 
+Uncalled bet ($6.65) returned to blistein
+blistein collected $5.32 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.28 
+Board [7s 3h Td Qs]
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: ligeti lajos (small blind) folded on the Turn
+Seat 3: Burlica2013 (big blind) folded before Flop
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein collected ($5.32)
+
+
+
+PokerStars Hand #254262127626:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:22:51 WET [2025/01/08 10:22:51 ET]
+Table 'Jih II' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($102.38 in chips) 
+Seat 2: ligeti lajos ($25.39 in chips) 
+Seat 3: Burlica2013 ($104.30 in chips) 
+Seat 4: Espada Fish ($100 in chips) 
+Seat 5: sta$igk ($106.19 in chips) 
+Seat 6: blistein ($130.02 in chips) 
+Burlica2013: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+blistein: raises $1.20 to $2.20
+poker_soul11: raises $4.40 to $6.60
+ligeti lajos: folds 
+Burlica2013: folds 
+Espada Fish: folds 
+blistein: folds 
+Uncalled bet ($4.40) returned to poker_soul11
+poker_soul11 collected $5.90 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: poker_soul11 collected ($5.90)
+Seat 2: ligeti lajos (button) folded before Flop (didn't bet)
+Seat 3: Burlica2013 (small blind) folded before Flop
+Seat 4: Espada Fish (big blind) folded before Flop
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop
+
+
+
+PokerStars Hand #254262132214:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:23:13 WET [2025/01/08 10:23:13 ET]
+Table 'Jih II' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($106.08 in chips) 
+Seat 2: ligeti lajos ($25.39 in chips) 
+Seat 3: Burlica2013 ($103.80 in chips) 
+Seat 4: Espada Fish ($100 in chips) 
+Seat 5: sta$igk ($106.19 in chips) 
+Seat 6: blistein ($127.82 in chips) 
+Espada Fish: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: calls $1
+Burlica2013: folds 
+Espada Fish: folds 
+sta$igk: checks 
+*** FLOP *** [Qh Kc 9c]
+sta$igk: checks 
+ligeti lajos: bets $2.38
+sta$igk: folds 
+Uncalled bet ($2.38) returned to ligeti lajos
+ligeti lajos collected $2.38 from pot
+ligeti lajos: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Qh Kc 9c]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos collected ($2.38)
+Seat 3: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 4: Espada Fish (small blind) folded before Flop
+Seat 5: sta$igk (big blind) folded on the Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262139701:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:23:48 WET [2025/01/08 10:23:48 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($106.08 in chips) 
+Seat 2: ligeti lajos ($43.91 in chips) 
+Seat 3: Burlica2013 ($103.80 in chips) 
+Seat 4: Espada Fish ($100 in chips) 
+Seat 5: sta$igk ($105.19 in chips) 
+Seat 6: blistein ($127.82 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+ligeti lajos: folds 
+Burlica2013: folds 
+Espada Fish: raises $1.50 to $2.50
+sta$igk: raises $8.50 to $11
+blistein: folds 
+Espada Fish: calls $8.50
+*** FLOP *** [6c 7c 9s]
+sta$igk: checks 
+Espada Fish: bets $11.14
+sta$igk: folds 
+Uncalled bet ($11.14) returned to Espada Fish
+Espada Fish collected $21.85 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $1.15 
+Board [6c 7c 9s]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: Burlica2013 folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) collected ($21.85)
+Seat 5: sta$igk (small blind) folded on the Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254262149439:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:24:34 WET [2025/01/08 10:24:34 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($106.08 in chips) 
+Seat 2: ligeti lajos ($43.91 in chips) 
+Seat 3: Burlica2013 ($103.80 in chips) 
+Seat 4: Espada Fish ($110.85 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($126.82 in chips) 
+blistein: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+ligeti lajos: folds 
+Burlica2013: folds 
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to poker_soul11
+poker_soul11 collected $1 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: poker_soul11 (big blind) collected ($1)
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: Burlica2013 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254262151792:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:24:45 WET [2025/01/08 10:24:45 ET]
+Table 'Jih II' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($106.58 in chips) 
+Seat 2: ligeti lajos ($43.91 in chips) 
+Seat 3: Burlica2013 ($103.80 in chips) 
+Seat 4: Espada Fish ($110.85 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($126.32 in chips) 
+poker_soul11: posts small blind $0.50
+ligeti lajos: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+Espada Fish: raises $1.20 to $2.20
+sta$igk: raises $5.30 to $7.50
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: folds 
+Espada Fish: folds 
+Uncalled bet ($5.30) returned to sta$igk
+sta$igk collected $5.90 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: ligeti lajos (big blind) folded before Flop
+Seat 3: Burlica2013 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop
+Seat 5: sta$igk collected ($5.90)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262156539:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:25:07 WET [2025/01/08 10:25:07 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($106.08 in chips) 
+Seat 2: ligeti lajos ($42.91 in chips) 
+Seat 3: Burlica2013 ($103.80 in chips) 
+Seat 4: Espada Fish ($108.65 in chips) 
+Seat 5: sta$igk ($103.70 in chips) 
+Seat 6: blistein ($126.32 in chips) 
+ligeti lajos: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: raises $1.20 to $2.20
+ligeti lajos: folds 
+Burlica2013: folds 
+Uncalled bet ($1.20) returned to poker_soul11
+poker_soul11 collected $2.50 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 (button) collected ($2.50)
+Seat 2: ligeti lajos (small blind) folded before Flop
+Seat 3: Burlica2013 (big blind) folded before Flop
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262160390:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:25:25 WET [2025/01/08 10:25:25 ET]
+Table 'Jih II' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($107.58 in chips) 
+Seat 2: ligeti lajos ($42.41 in chips) 
+Seat 3: Burlica2013 ($102.80 in chips) 
+Seat 4: Espada Fish ($108.65 in chips) 
+Seat 5: sta$igk ($103.70 in chips) 
+Seat 6: blistein ($126.32 in chips) 
+Burlica2013: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: calls $2.50
+Burlica2013: folds 
+Espada Fish: folds 
+*** FLOP *** [6h Ad Kc]
+sta$igk: checks 
+ligeti lajos: bets $3.09
+sta$igk: raises $6.18 to $9.27
+ligeti lajos: folds 
+Uncalled bet ($6.18) returned to sta$igk
+sta$igk collected $12.05 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.68 | Rake $0.63 
+Board [6h Ad Kc]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos (button) folded on the Flop
+Seat 3: Burlica2013 (small blind) folded before Flop
+Seat 4: Espada Fish (big blind) folded before Flop
+Seat 5: sta$igk collected ($12.05)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262172422:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:26:22 WET [2025/01/08 10:26:22 ET]
+Table 'Jih II' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($107.58 in chips) 
+Seat 2: ligeti lajos ($36.82 in chips) 
+Seat 3: Burlica2013 ($102.30 in chips) 
+Seat 4: Espada Fish ($107.65 in chips) 
+Seat 5: sta$igk ($110.16 in chips) 
+Seat 6: blistein ($126.32 in chips) 
+Espada Fish: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: calls $1
+Burlica2013: raises $2 to $3
+Espada Fish: raises $11 to $14
+sta$igk: folds 
+ligeti lajos: calls $13
+Burlica2013: folds 
+*** FLOP *** [8c Jh 6s]
+Espada Fish: bets $23.50
+ligeti lajos: folds 
+Uncalled bet ($23.50) returned to Espada Fish
+Espada Fish collected $30.40 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $32 | Rake $1.60 
+Board [8c Jh 6s]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos folded on the Flop
+Seat 3: Burlica2013 (button) folded before Flop
+Seat 4: Espada Fish (small blind) collected ($30.40)
+Seat 5: sta$igk (big blind) folded before Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262183542:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:27:14 WET [2025/01/08 10:27:14 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($107.58 in chips) 
+Seat 2: ligeti lajos ($22.82 in chips) 
+Seat 3: Burlica2013 ($100 in chips) 
+Seat 4: Espada Fish ($124.05 in chips) 
+Seat 5: sta$igk ($109.16 in chips) 
+Seat 6: blistein ($126.32 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+ligeti lajos: folds 
+Burlica2013: folds 
+Espada Fish: raises $1.50 to $2.50
+sta$igk: folds 
+blistein: folds 
+Uncalled bet ($1.50) returned to Espada Fish
+Espada Fish collected $2.50 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: Burlica2013 folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) collected ($2.50)
+Seat 5: sta$igk (small blind) folded before Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254262187004:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:27:30 WET [2025/01/08 10:27:30 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($107.58 in chips) 
+Seat 2: ligeti lajos ($22.82 in chips) 
+Seat 3: Burlica2013 ($100 in chips) 
+Seat 4: Espada Fish ($125.55 in chips) 
+Seat 5: sta$igk ($108.66 in chips) 
+Seat 6: blistein ($125.32 in chips) 
+blistein: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+ligeti lajos: calls $1
+Burlica2013: folds 
+Espada Fish: folds 
+sta$igk: folds 
+blistein: raises $3 to $4
+poker_soul11: folds 
+ligeti lajos: calls $3
+*** FLOP *** [Ad Ah 5h]
+blistein: bets $2.14
+ligeti lajos: calls $2.14
+*** TURN *** [Ad Ah 5h] [Ac]
+blistein: checks 
+ligeti lajos: checks 
+*** RIVER *** [Ad Ah 5h Ac] [9d]
+blistein: bets $18.50
+ligeti lajos: folds 
+Uncalled bet ($18.50) returned to blistein
+blistein collected $12.62 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.28 | Rake $0.66 
+Board [Ad Ah 5h Ac 9d]
+Seat 1: poker_soul11 (big blind) folded before Flop
+Seat 2: ligeti lajos folded on the River
+Seat 3: Burlica2013 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) collected ($12.62)
+
+
+
+PokerStars Hand #254262198417:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:28:24 WET [2025/01/08 10:28:24 ET]
+Table 'Jih II' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($106.58 in chips) 
+Seat 2: ligeti lajos ($16.68 in chips) 
+Seat 3: Burlica2013 ($100 in chips) 
+Seat 4: Espada Fish ($125.55 in chips) 
+Seat 5: sta$igk ($108.66 in chips) 
+Seat 6: blistein ($131.80 in chips) 
+poker_soul11: posts small blind $0.50
+ligeti lajos: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: raises $1.20 to $2.20
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: calls $1.20
+*** FLOP *** [7c Kh 3c]
+ligeti lajos: checks 
+Burlica2013: bets $1.54
+ligeti lajos: folds 
+Uncalled bet ($1.54) returned to Burlica2013
+Burlica2013 collected $4.66 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [7c Kh 3c]
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: ligeti lajos (big blind) folded on the Flop
+Seat 3: Burlica2013 collected ($4.66)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262203674:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:28:49 WET [2025/01/08 10:28:49 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 3: Burlica2013 ($102.46 in chips) is sitting out
+Seat 1: poker_soul11 ($106.08 in chips) 
+Seat 2: ligeti lajos ($14.48 in chips) 
+Seat 4: Espada Fish ($125.55 in chips) 
+Seat 5: sta$igk ($108.66 in chips) 
+Seat 6: blistein ($131.80 in chips) 
+ligeti lajos: posts small blind $0.50
+Burlica2013: is sitting out 
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+Burlica2013 leaves the table
+blistein: raises $1.30 to $2.30
+poker_soul11: folds 
+ligeti lajos: folds 
+Espada Fish: folds 
+Uncalled bet ($1.30) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Burlica2013
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: ligeti lajos (small blind) folded before Flop
+Seat 4: Espada Fish (big blind) folded before Flop
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein collected ($2.50)
+
+
+
+PokerStars Hand #254262206162:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:29:00 WET [2025/01/08 10:29:00 ET]
+Table 'Jih II' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($106.08 in chips) 
+Seat 2: ligeti lajos ($13.98 in chips) 
+Seat 4: Espada Fish ($124.55 in chips) 
+Seat 5: sta$igk ($108.66 in chips) 
+Seat 6: blistein ($133.30 in chips) 
+Espada Fish: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+poker_soul11: raises $1.20 to $2.20
+ligeti lajos: folds 
+Espada Fish: folds 
+sta$igk: folds 
+Uncalled bet ($1.20) returned to poker_soul11
+poker_soul11 collected $2.50 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 collected ($2.50)
+Seat 2: ligeti lajos (button) folded before Flop (didn't bet)
+Seat 4: Espada Fish (small blind) folded before Flop
+Seat 5: sta$igk (big blind) folded before Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262209083:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:29:14 WET [2025/01/08 10:29:14 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($107.58 in chips) 
+Seat 2: ligeti lajos ($13.98 in chips) 
+Seat 4: Espada Fish ($124.05 in chips) 
+Seat 5: sta$igk ($107.66 in chips) 
+Seat 6: blistein ($133.30 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: raises $1.20 to $2.20
+ligeti lajos: folds 
+Espada Fish: folds 
+sta$igk: folds 
+blistein: calls $1.20
+*** FLOP *** [8c Jh 9c]
+blistein: checks 
+tchawes959 joins the table at seat #3 
+poker_soul11: bets $1.54
+blistein: folds 
+Uncalled bet ($1.54) returned to poker_soul11
+poker_soul11 collected $4.66 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [8c Jh 9c]
+Seat 1: poker_soul11 collected ($4.66)
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 5: sta$igk (small blind) folded before Flop
+Seat 6: blistein (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254262217328:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:29:52 WET [2025/01/08 10:29:52 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 3: tchawes959 ($80 in chips) is sitting out
+Seat 1: poker_soul11 ($110.04 in chips) 
+Seat 2: ligeti lajos ($13.98 in chips) 
+Seat 4: Espada Fish ($124.05 in chips) 
+Seat 5: sta$igk ($107.16 in chips) 
+Seat 6: blistein ($131.10 in chips) 
+blistein: posts small blind $0.50
+poker_soul11: posts big blind $1
+tchawes959: sits out 
+*** HOLE CARDS ***
+ligeti lajos: folds 
+Espada Fish: folds 
+sta$igk: raises $1.50 to $2.50
+blistein: folds 
+poker_soul11: calls $1.50
+*** FLOP *** [As 2d 2s]
+poker_soul11: checks 
+sta$igk: bets $1.72
+poker_soul11: folds 
+Uncalled bet ($1.72) returned to sta$igk
+sta$igk collected $5.22 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [As 2d 2s]
+Seat 3: tchawes959
+Seat 1: poker_soul11 (big blind) folded on the Flop
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk (button) collected ($5.22)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254262225943:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:30:31 WET [2025/01/08 10:30:31 ET]
+Table 'Jih II' 6-max Seat #6 is the button
+Seat 3: tchawes959 ($80 in chips) is sitting out
+Seat 1: poker_soul11 ($107.54 in chips) 
+Seat 2: ligeti lajos ($13.98 in chips) 
+Seat 4: Espada Fish ($124.05 in chips) 
+Seat 5: sta$igk ($109.88 in chips) 
+Seat 6: blistein ($130.60 in chips) 
+poker_soul11: posts small blind $0.50
+ligeti lajos: posts big blind $1
+tchawes959: sits out 
+*** HOLE CARDS ***
+Espada Fish: folds 
+sta$igk: folds 
+blistein: raises $1.50 to $2.50
+poker_soul11: folds 
+ligeti lajos: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: tchawes959
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: ligeti lajos (big blind) folded before Flop
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein (button) collected ($2.50)
+
+
+
+PokerStars Hand #254262229448:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:30:48 WET [2025/01/08 10:30:48 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($107.04 in chips) 
+Seat 2: ligeti lajos ($12.98 in chips) 
+Seat 3: tchawes959 ($80 in chips) 
+Seat 4: Espada Fish ($124.05 in chips) 
+Seat 5: sta$igk ($109.88 in chips) 
+Seat 6: blistein ($132.10 in chips) 
+ligeti lajos: posts small blind $0.50
+tchawes959: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: raises $1.20 to $2.20
+ligeti lajos: folds 
+tchawes959: calls $1.20
+*** FLOP *** [9d 7c 8s]
+tchawes959: checks 
+poker_soul11: checks 
+*** TURN *** [9d 7c 8s] [8h]
+tchawes959: bets $3
+poker_soul11: calls $3
+*** RIVER *** [9d 7c 8s 8h] [4s]
+tchawes959: bets $5.18
+poker_soul11: folds 
+Uncalled bet ($5.18) returned to tchawes959
+tchawes959 collected $10.36 from pot
+tchawes959: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.90 | Rake $0.54 
+Board [9d 7c 8s 8h 4s]
+Seat 1: poker_soul11 (button) folded on the River
+Seat 2: ligeti lajos (small blind) folded before Flop
+Seat 3: tchawes959 (big blind) collected ($10.36)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262241585:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:31:43 WET [2025/01/08 10:31:43 ET]
+Table 'Jih II' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($101.84 in chips) 
+Seat 2: ligeti lajos ($12.48 in chips) 
+Seat 3: tchawes959 ($85.16 in chips) 
+Seat 4: Espada Fish ($124.05 in chips) 
+Seat 5: sta$igk ($109.88 in chips) 
+Seat 6: blistein ($132.10 in chips) 
+tchawes959: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: folds 
+tchawes959: folds 
+Espada Fish: folds 
+Uncalled bet ($1.50) returned to sta$igk
+sta$igk collected $2.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos (button) folded before Flop (didn't bet)
+Seat 3: tchawes959 (small blind) folded before Flop
+Seat 4: Espada Fish (big blind) folded before Flop
+Seat 5: sta$igk collected ($2.50)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262244619:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:31:57 WET [2025/01/08 10:31:57 ET]
+Table 'Jih II' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($101.84 in chips) 
+Seat 2: ligeti lajos ($12.48 in chips) 
+Seat 3: tchawes959 ($84.66 in chips) 
+Seat 4: Espada Fish ($123.05 in chips) 
+Seat 5: sta$igk ($111.38 in chips) 
+Seat 6: blistein ($132.10 in chips) 
+Espada Fish: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: folds 
+tchawes959: raises $2 to $3
+Espada Fish: folds 
+sta$igk: folds 
+Uncalled bet ($2) returned to tchawes959
+tchawes959 collected $2.50 from pot
+tchawes959: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: tchawes959 (button) collected ($2.50)
+Seat 4: Espada Fish (small blind) folded before Flop
+Seat 5: sta$igk (big blind) folded before Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262249649:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:32:20 WET [2025/01/08 10:32:20 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($101.84 in chips) 
+Seat 2: ligeti lajos ($12.48 in chips) 
+Seat 3: tchawes959 ($86.16 in chips) 
+Seat 4: Espada Fish ($122.55 in chips) 
+Seat 5: sta$igk ($110.38 in chips) 
+Seat 6: blistein ($132.10 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+ligeti lajos: folds 
+tchawes959: raises $2 to $3
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+Uncalled bet ($2) returned to tchawes959
+tchawes959 collected $2.50 from pot
+tchawes959: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: tchawes959 collected ($2.50)
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 5: sta$igk (small blind) folded before Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254262252392:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:32:33 WET [2025/01/08 10:32:33 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($101.84 in chips) 
+Seat 2: ligeti lajos ($12.48 in chips) 
+Seat 3: tchawes959 ($87.66 in chips) 
+Seat 4: Espada Fish ($122.55 in chips) 
+Seat 5: sta$igk ($109.88 in chips) 
+Seat 6: blistein ($131.10 in chips) 
+blistein: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+ligeti lajos: raises $11.48 to $12.48 and is all-in
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: calls $11.48
+*** FLOP *** [3d 9c 6h]
+*** TURN *** [3d 9c 6h] [3h]
+*** RIVER *** [3d 9c 6h 3h] [6d]
+*** SHOW DOWN ***
+poker_soul11: shows [4s 4c] (two pair, Sixes and Fours)
+ligeti lajos: shows [Ac Tc] (two pair, Sixes and Threes)
+poker_soul11 collected $24.19 from pot
+*** SUMMARY ***
+Total pot $25.46 | Rake $1.27 
+Board [3d 9c 6h 3h 6d]
+Seat 1: poker_soul11 (big blind) showed [4s 4c] and won ($24.19) with two pair, Sixes and Fours
+Seat 2: ligeti lajos showed [Ac Tc] and lost with two pair, Sixes and Threes
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254262258283:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:33:00 WET [2025/01/08 10:33:00 ET]
+Table 'Jih II' 6-max Seat #6 is the button
+Seat 2: ligeti lajos ($0 in chips) is sitting out
+Seat 1: poker_soul11 ($113.55 in chips) 
+Seat 3: tchawes959 ($87.66 in chips) 
+Seat 4: Espada Fish ($122.55 in chips) 
+Seat 5: sta$igk ($109.88 in chips) 
+Seat 6: blistein ($130.60 in chips) 
+poker_soul11: posts small blind $0.50
+tchawes959: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: raises $1.20 to $2.20
+sta$igk: raises $5.30 to $7.50
+blistein: raises $7.50 to $15
+poker_soul11: folds 
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+Uncalled bet ($7.50) returned to blistein
+blistein collected $18.70 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.70 | Rake $0 
+Seat 2: ligeti lajos
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 3: tchawes959 (big blind) folded before Flop
+Seat 4: Espada Fish folded before Flop
+Seat 5: sta$igk folded before Flop
+Seat 6: blistein (button) collected ($18.70)
+
+
+
+PokerStars Hand #254262265779:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:33:34 WET [2025/01/08 10:33:34 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 2: ligeti lajos ($0 in chips) is sitting out
+Seat 1: poker_soul11 ($113.05 in chips) 
+Seat 3: tchawes959 ($86.66 in chips) 
+Seat 4: Espada Fish ($120.35 in chips) 
+Seat 5: sta$igk ($102.38 in chips) 
+Seat 6: blistein ($141.80 in chips) 
+tchawes959: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+blistein: folds 
+poker_soul11: folds 
+tchawes959: folds 
+Uncalled bet ($0.50) returned to Espada Fish
+Espada Fish collected $1 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: ligeti lajos
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 3: tchawes959 (small blind) folded before Flop
+Seat 4: Espada Fish (big blind) collected ($1)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262271344:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:34:00 WET [2025/01/08 10:34:00 ET]
+Table 'Jih II' 6-max Seat #3 is the button
+Seat 2: ligeti lajos ($0 in chips) is sitting out
+Seat 1: poker_soul11 ($113.05 in chips) 
+Seat 3: tchawes959 ($86.16 in chips) 
+Seat 4: Espada Fish ($120.85 in chips) 
+Seat 5: sta$igk ($102.38 in chips) 
+Seat 6: blistein ($141.80 in chips) 
+Espada Fish: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+poker_soul11: raises $1.20 to $2.20
+tchawes959: calls $2.20
+Espada Fish: folds 
+sta$igk: folds 
+*** FLOP *** [Ts 3s 5s]
+poker_soul11: bets $1.40
+tchawes959: calls $1.40
+*** TURN *** [Ts 3s 5s] [8d]
+poker_soul11: checks 
+tchawes959: bets $4.13
+poker_soul11: folds 
+Uncalled bet ($4.13) returned to tchawes959
+tchawes959 collected $8.26 from pot
+tchawes959: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.70 | Rake $0.44 
+Board [Ts 3s 5s 8d]
+Seat 2: ligeti lajos
+Seat 1: poker_soul11 folded on the Turn
+Seat 3: tchawes959 (button) collected ($8.26)
+Seat 4: Espada Fish (small blind) folded before Flop
+Seat 5: sta$igk (big blind) folded before Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262287171:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:35:12 WET [2025/01/08 10:35:12 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 2: ligeti lajos ($0 in chips) is sitting out
+Seat 1: poker_soul11 ($109.45 in chips) 
+Seat 3: tchawes959 ($90.82 in chips) 
+Seat 4: Espada Fish ($120.35 in chips) 
+Seat 5: sta$igk ($101.38 in chips) 
+Seat 6: blistein ($141.80 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: raises $1.20 to $2.20
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+Uncalled bet ($1.20) returned to poker_soul11
+poker_soul11 collected $2.50 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: ligeti lajos
+Seat 1: poker_soul11 collected ($2.50)
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 5: sta$igk (small blind) folded before Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254262289766:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:35:24 WET [2025/01/08 10:35:24 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($110.95 in chips) 
+Seat 2: ligeti lajos ($40 in chips) 
+Seat 3: tchawes959 ($90.82 in chips) 
+Seat 4: Espada Fish ($120.35 in chips) 
+Seat 5: sta$igk ($100.88 in chips) 
+Seat 6: blistein ($140.80 in chips) 
+blistein: posts small blind $0.50
+poker_soul11: posts big blind $1
+ligeti lajos: posts small & big blinds $1.50
+*** HOLE CARDS ***
+ligeti lajos: checks 
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: checks 
+*** FLOP *** [Ac 6d Ts]
+poker_soul11: checks 
+ligeti lajos: checks 
+*** TURN *** [Ac 6d Ts] [Kd]
+poker_soul11: bets $1.43
+ligeti lajos: calls $1.43
+*** RIVER *** [Ac 6d Ts Kd] [9c]
+poker_soul11: checks 
+ligeti lajos: checks 
+*** SHOW DOWN ***
+poker_soul11: shows [9s Qh] (a pair of Nines)
+ligeti lajos: shows [8c Ks] (a pair of Kings)
+ligeti lajos collected $5.57 from pot
+*** SUMMARY ***
+Total pot $5.86 | Rake $0.29 
+Board [Ac 6d Ts Kd 9c]
+Seat 1: poker_soul11 (big blind) showed [9s Qh] and lost with a pair of Nines
+Seat 2: ligeti lajos showed [8c Ks] and won ($5.57) with a pair of Kings
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254262297920:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:36:01 WET [2025/01/08 10:36:01 ET]
+Table 'Jih II' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($108.52 in chips) 
+Seat 2: ligeti lajos ($42.64 in chips) 
+Seat 3: tchawes959 ($90.82 in chips) 
+Seat 4: Espada Fish ($120.35 in chips) 
+Seat 5: sta$igk ($100.88 in chips) 
+Seat 6: blistein ($140.30 in chips) 
+poker_soul11: posts small blind $0.50
+ligeti lajos: posts big blind $1
+*** HOLE CARDS ***
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: folds 
+Uncalled bet ($0.50) returned to ligeti lajos
+ligeti lajos collected $1 from pot
+ligeti lajos: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: ligeti lajos (big blind) collected ($1)
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262300916:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:36:15 WET [2025/01/08 10:36:15 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($108.02 in chips) 
+Seat 2: ligeti lajos ($43.14 in chips) 
+Seat 3: tchawes959 ($90.82 in chips) 
+Seat 4: Espada Fish ($120.35 in chips) 
+Seat 5: sta$igk ($100.88 in chips) 
+Seat 6: blistein ($140.30 in chips) 
+ligeti lajos: posts small blind $0.50
+tchawes959: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+sta$igk: folds 
+blistein: raises $1.30 to $2.30
+poker_soul11: folds 
+ligeti lajos: folds 
+tchawes959: calls $1.30
+*** FLOP *** [Td Ad Qh]
+tchawes959: checks 
+blistein: bets $1.65
+tchawes959: raises $2.65 to $4.30
+blistein: calls $2.65
+*** TURN *** [Td Ad Qh] [5h]
+tchawes959: checks 
+blistein: checks 
+*** RIVER *** [Td Ad Qh 5h] [Qs]
+tchawes959: bets $8.51
+blistein: raises $42.55 to $51.06
+tchawes959: calls $42.55
+*** SHOW DOWN ***
+blistein: shows [7s Ks] (a pair of Queens)
+tchawes959: shows [Qc Th] (a full house, Queens full of Tens)
+tchawes959 collected $113.32 from pot
+*** SUMMARY ***
+Total pot $115.82 | Rake $2.50 
+Board [Td Ad Qh 5h Qs]
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: ligeti lajos (small blind) folded before Flop
+Seat 3: tchawes959 (big blind) showed [Qc Th] and won ($113.32) with a full house, Queens full of Tens
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein showed [7s Ks] and lost with a pair of Queens
+
+
+
+PokerStars Hand #254262323572:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:37:57 WET [2025/01/08 10:37:57 ET]
+Table 'Jih II' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($108.02 in chips) 
+Seat 2: ligeti lajos ($42.64 in chips) 
+Seat 3: tchawes959 ($146.48 in chips) 
+Seat 4: Espada Fish ($120.35 in chips) 
+Seat 5: sta$igk ($100.88 in chips) 
+Seat 6: blistein ($100 in chips) 
+tchawes959: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: calls $1
+tchawes959: calls $0.50
+Espada Fish: checks 
+*** FLOP *** [As 8s 4h]
+tchawes959: checks 
+Espada Fish: checks 
+ligeti lajos: checks 
+*** TURN *** [As 8s 4h] [Jh]
+tchawes959: checks 
+Espada Fish: bets $2.85
+ligeti lajos: folds 
+tchawes959: folds 
+Uncalled bet ($2.85) returned to Espada Fish
+Espada Fish collected $2.85 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [As 8s 4h Jh]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos (button) folded on the Turn
+Seat 3: tchawes959 (small blind) folded on the Turn
+Seat 4: Espada Fish (big blind) collected ($2.85)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262333084:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:38:41 WET [2025/01/08 10:38:41 ET]
+Table 'Jih II' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($108.02 in chips) 
+Seat 2: ligeti lajos ($41.64 in chips) 
+Seat 3: tchawes959 ($145.48 in chips) 
+Seat 4: Espada Fish ($122.20 in chips) 
+Seat 5: sta$igk ($100.88 in chips) 
+Seat 6: blistein ($100 in chips) 
+Espada Fish: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+poker_soul11: folds 
+ligeti lajos: folds 
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+Uncalled bet ($1.20) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: tchawes959 (button) folded before Flop (didn't bet)
+Seat 4: Espada Fish (small blind) folded before Flop
+Seat 5: sta$igk (big blind) folded before Flop
+Seat 6: blistein collected ($2.50)
+
+
+
+PokerStars Hand #254262336176:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:38:54 WET [2025/01/08 10:38:54 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($108.02 in chips) 
+Seat 2: ligeti lajos ($41.64 in chips) 
+Seat 3: tchawes959 ($145.48 in chips) 
+Seat 4: Espada Fish ($121.70 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+ligeti lajos: folds 
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 5: sta$igk (small blind) folded before Flop
+Seat 6: blistein (big blind) collected ($1)
+
+
+
+PokerStars Hand #254262338737:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:39:06 WET [2025/01/08 10:39:06 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($108.02 in chips) 
+Seat 2: ligeti lajos ($41.64 in chips) 
+Seat 3: tchawes959 ($145.48 in chips) 
+Seat 4: Espada Fish ($121.70 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($102 in chips) 
+blistein: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+ligeti lajos: folds 
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+blistein: raises $2 to $3
+poker_soul11: raises $7 to $10
+blistein: calls $7
+*** FLOP *** [2s Ks 8s]
+blistein: checks 
+poker_soul11: checks 
+*** TURN *** [2s Ks 8s] [9s]
+blistein: checks 
+poker_soul11: checks 
+*** RIVER *** [2s Ks 8s 9s] [5h]
+blistein: bets $6.46
+poker_soul11: raises $15.96 to $22.42
+blistein: folds 
+Uncalled bet ($15.96) returned to poker_soul11
+poker_soul11 collected $31.27 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $32.92 | Rake $1.65 
+Board [2s Ks 8s 9s 5h]
+Seat 1: poker_soul11 (big blind) collected ($31.27)
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded on the River
+
+
+
+PokerStars Hand #254262364802:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:41:05 WET [2025/01/08 10:41:05 ET]
+Table 'Jih II' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($122.83 in chips) 
+Seat 2: ligeti lajos ($41.64 in chips) 
+Seat 3: tchawes959 ($145.48 in chips) 
+Seat 4: Espada Fish ($121.70 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+poker_soul11: posts small blind $0.50
+ligeti lajos: posts big blind $1
+*** HOLE CARDS ***
+tchawes959: raises $2 to $3
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: folds 
+Uncalled bet ($2) returned to tchawes959
+tchawes959 collected $2.50 from pot
+tchawes959: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: ligeti lajos (big blind) folded before Flop
+Seat 3: tchawes959 collected ($2.50)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262367458:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:41:17 WET [2025/01/08 10:41:17 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($122.33 in chips) 
+Seat 2: ligeti lajos ($40.64 in chips) 
+Seat 3: tchawes959 ($146.98 in chips) 
+Seat 4: Espada Fish ($121.70 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+ligeti lajos: posts small blind $0.50
+tchawes959: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: raises $1.20 to $2.20
+ligeti lajos: folds 
+tchawes959: raises $6.20 to $8.40
+poker_soul11: calls $6.20
+*** FLOP *** [Td 2h 3c]
+tchawes959: checks 
+poker_soul11: checks 
+*** TURN *** [Td 2h 3c] [Ts]
+tchawes959: checks 
+poker_soul11: checks 
+*** RIVER *** [Td 2h 3c Ts] [5s]
+tchawes959: checks 
+poker_soul11: checks 
+*** SHOW DOWN ***
+tchawes959: shows [Ac Jc] (a pair of Tens)
+poker_soul11: mucks hand 
+tchawes959 collected $16.44 from pot
+*** SUMMARY ***
+Total pot $17.30 | Rake $0.86 
+Board [Td 2h 3c Ts 5s]
+Seat 1: poker_soul11 (button) mucked
+Seat 2: ligeti lajos (small blind) folded before Flop
+Seat 3: tchawes959 (big blind) showed [Ac Jc] and won ($16.44) with a pair of Tens
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262380595:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:42:17 WET [2025/01/08 10:42:17 ET]
+Table 'Jih II' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($113.93 in chips) 
+Seat 2: ligeti lajos ($40.14 in chips) 
+Seat 3: tchawes959 ($155.02 in chips) 
+Seat 4: Espada Fish ($121.70 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+tchawes959: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: calls $1
+tchawes959 has timed out
+tchawes959: folds 
+Espada Fish: checks 
+*** FLOP *** [5c 3c 3s]
+Espada Fish: checks 
+ligeti lajos: checks 
+*** TURN *** [5c 3c 3s] [Tc]
+Espada Fish: checks 
+ligeti lajos: checks 
+*** RIVER *** [5c 3c 3s Tc] [Td]
+Espada Fish: bets $1.76
+ligeti lajos: calls $1.76
+*** SHOW DOWN ***
+Espada Fish: shows [2c 7d] (two pair, Tens and Threes)
+ligeti lajos: shows [Ah Qc] (two pair, Tens and Threes - Ace kicker)
+ligeti lajos collected $5.72 from pot
+*** SUMMARY ***
+Total pot $6.02 | Rake $0.30 
+Board [5c 3c 3s Tc Td]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos (button) showed [Ah Qc] and won ($5.72) with two pair, Tens and Threes
+Seat 3: tchawes959 (small blind) folded before Flop
+Seat 4: Espada Fish (big blind) showed [2c 7d] and lost with two pair, Tens and Threes
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262395475:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:43:23 WET [2025/01/08 10:43:23 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 3: tchawes959 ($154.52 in chips) is sitting out
+Seat 1: poker_soul11 ($113.93 in chips) 
+Seat 2: ligeti lajos ($43.10 in chips) 
+Seat 4: Espada Fish ($118.94 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($100 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: raises $1.20 to $2.20
+ligeti lajos: calls $2.20
+Espada Fish: folds 
+sta$igk: folds 
+blistein: calls $1.20
+*** FLOP *** [6s Jh 5c]
+blistein: checks 
+poker_soul11: checks 
+ligeti lajos: checks 
+*** TURN *** [6s Jh 5c] [9c]
+blistein: bets $8.43
+poker_soul11: folds 
+ligeti lajos: folds 
+Uncalled bet ($8.43) returned to blistein
+blistein collected $6.74 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.36 
+Board [6s Jh 5c 9c]
+Seat 3: tchawes959
+Seat 1: poker_soul11 folded on the Turn
+Seat 2: ligeti lajos folded on the Turn
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 5: sta$igk (small blind) folded before Flop
+Seat 6: blistein (big blind) collected ($6.74)
+
+
+
+PokerStars Hand #254262407715:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:44:18 WET [2025/01/08 10:44:18 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($111.73 in chips) 
+Seat 2: ligeti lajos ($40.90 in chips) 
+Seat 3: tchawes959 ($154.52 in chips) 
+Seat 4: Espada Fish ($118.94 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($104.54 in chips) 
+blistein: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+ligeti lajos: folds 
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to poker_soul11
+poker_soul11 collected $1 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: poker_soul11 (big blind) collected ($1)
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254262410067:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:44:29 WET [2025/01/08 10:44:29 ET]
+Table 'Jih II' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($112.23 in chips) 
+Seat 2: ligeti lajos ($40.90 in chips) 
+Seat 3: tchawes959 ($154.52 in chips) 
+Seat 4: Espada Fish ($118.94 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($104.04 in chips) 
+poker_soul11: posts small blind $0.50
+ligeti lajos: posts big blind $1
+*** HOLE CARDS ***
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+blistein: raises $1.50 to $2.50
+poker_soul11: folds 
+ligeti lajos: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: ligeti lajos (big blind) folded before Flop
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein (button) collected ($2.50)
+
+
+
+PokerStars Hand #254262413503:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:44:44 WET [2025/01/08 10:44:44 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($111.73 in chips) 
+Seat 2: ligeti lajos ($39.90 in chips) 
+Seat 3: tchawes959 ($154.52 in chips) 
+Seat 4: Espada Fish ($118.94 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($105.54 in chips) 
+ligeti lajos: posts small blind $0.50
+tchawes959: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+sta$igk: folds 
+blistein: raises $1.30 to $2.30
+poker_soul11: folds 
+ligeti lajos: folds 
+tchawes959: calls $1.30
+*** FLOP *** [Ks 7d 7s]
+tchawes959: checks 
+blistein: bets $1.65
+tchawes959: folds 
+Uncalled bet ($1.65) returned to blistein
+blistein collected $4.84 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.26 
+Board [Ks 7d 7s]
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: ligeti lajos (small blind) folded before Flop
+Seat 3: tchawes959 (big blind) folded on the Flop
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein collected ($4.84)
+
+
+
+PokerStars Hand #254262421608:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:45:20 WET [2025/01/08 10:45:20 ET]
+Table 'Jih II' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($111.73 in chips) 
+Seat 2: ligeti lajos ($39.40 in chips) 
+Seat 3: tchawes959 ($152.22 in chips) 
+Seat 4: Espada Fish ($118.94 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($108.08 in chips) 
+tchawes959: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: folds 
+tchawes959: folds 
+Uncalled bet ($0.50) returned to Espada Fish
+Espada Fish collected $1 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos (button) folded before Flop (didn't bet)
+Seat 3: tchawes959 (small blind) folded before Flop
+Seat 4: Espada Fish (big blind) collected ($1)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262424125:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:45:31 WET [2025/01/08 10:45:31 ET]
+Table 'Jih II' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($111.73 in chips) 
+Seat 2: ligeti lajos ($39.40 in chips) 
+Seat 3: tchawes959 ($151.72 in chips) 
+Seat 4: Espada Fish ($119.44 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($108.08 in chips) 
+Espada Fish: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+poker_soul11: folds 
+ligeti lajos: folds 
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+Uncalled bet ($1.20) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: tchawes959 (button) folded before Flop (didn't bet)
+Seat 4: Espada Fish (small blind) folded before Flop
+Seat 5: sta$igk (big blind) folded before Flop
+Seat 6: blistein collected ($2.50)
+
+
+
+PokerStars Hand #254262427569:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:45:47 WET [2025/01/08 10:45:47 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($111.73 in chips) 
+Seat 2: ligeti lajos ($39.40 in chips) 
+Seat 3: tchawes959 ($151.72 in chips) 
+Seat 4: Espada Fish ($118.94 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($109.58 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+ligeti lajos: folds 
+tchawes959: raises $2 to $3
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+Uncalled bet ($2) returned to tchawes959
+tchawes959 collected $2.50 from pot
+tchawes959: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: tchawes959 collected ($2.50)
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 5: sta$igk (small blind) folded before Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254262431215:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:46:03 WET [2025/01/08 10:46:03 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($111.73 in chips) 
+Seat 2: ligeti lajos ($39.40 in chips) 
+Seat 3: tchawes959 ($153.22 in chips) 
+Seat 4: Espada Fish ($118.94 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($108.58 in chips) 
+blistein: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+ligeti lajos: folds 
+tchawes959: folds 
+Espada Fish: raises $1.20 to $2.20
+sta$igk: folds 
+blistein: folds 
+poker_soul11: folds 
+Uncalled bet ($1.20) returned to Espada Fish
+Espada Fish collected $2.50 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 (big blind) folded before Flop
+Seat 2: ligeti lajos folded before Flop (didn't bet)
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish collected ($2.50)
+Seat 5: sta$igk (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254262434710:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:46:19 WET [2025/01/08 10:46:19 ET]
+Table 'Jih II' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($110.73 in chips) 
+Seat 2: ligeti lajos ($39.40 in chips) 
+Seat 3: tchawes959 ($153.22 in chips) 
+Seat 4: Espada Fish ($120.44 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($108.08 in chips) 
+poker_soul11: posts small blind $0.50
+ligeti lajos: posts big blind $1
+*** HOLE CARDS ***
+tchawes959: raises $2 to $3
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: folds 
+ligeti lajos: calls $2
+*** FLOP *** [7s Th Ah]
+ligeti lajos: checks 
+tchawes959: checks 
+*** TURN *** [7s Th Ah] [Jh]
+ligeti lajos: checks 
+tchawes959: bets $2
+ligeti lajos: calls $2
+*** RIVER *** [7s Th Ah Jh] [6c]
+ligeti lajos: checks 
+tchawes959: bets $4.99
+ligeti lajos: calls $4.99
+*** SHOW DOWN ***
+tchawes959: shows [9h Ac] (a pair of Aces)
+ligeti lajos: mucks hand 
+tchawes959 collected $19.46 from pot
+*** SUMMARY ***
+Total pot $20.48 | Rake $1.02 
+Board [7s Th Ah Jh 6c]
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: ligeti lajos (big blind) mucked
+Seat 3: tchawes959 showed [9h Ac] and won ($19.46) with a pair of Aces
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262441675:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:46:50 WET [2025/01/08 10:46:50 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($110.23 in chips) 
+Seat 2: ligeti lajos ($29.41 in chips) 
+Seat 3: tchawes959 ($162.69 in chips) 
+Seat 4: Espada Fish ($120.44 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($108.08 in chips) 
+ligeti lajos: posts small blind $0.50
+tchawes959: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+sta$igk: folds 
+blistein: folds 
+poker_soul11: raises $1.20 to $2.20
+ligeti lajos: raises $2.80 to $5
+tchawes959: folds 
+poker_soul11: calls $2.80
+*** FLOP *** [6h Ac 8d]
+ligeti lajos: bets $10.45
+poker_soul11: folds 
+Uncalled bet ($10.45) returned to ligeti lajos
+ligeti lajos collected $10.45 from pot
+ligeti lajos: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [6h Ac 8d]
+Seat 1: poker_soul11 (button) folded on the Flop
+Seat 2: ligeti lajos (small blind) collected ($10.45)
+Seat 3: tchawes959 (big blind) folded before Flop
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262449281:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:47:25 WET [2025/01/08 10:47:25 ET]
+Table 'Jih II' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($105.23 in chips) 
+Seat 2: ligeti lajos ($34.86 in chips) 
+Seat 3: tchawes959 ($161.69 in chips) 
+Seat 4: Espada Fish ($120.44 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($108.08 in chips) 
+tchawes959: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+blistein: calls $2.50
+poker_soul11: folds 
+ligeti lajos: calls $2.50
+tchawes959: calls $2
+Espada Fish: raises $14.50 to $17
+sta$igk: folds 
+blistein: folds 
+ligeti lajos: calls $14.50
+tchawes959: folds 
+*** FLOP *** [5d Jd 2s]
+Espada Fish: checks 
+ligeti lajos: bets $17.86 and is all-in
+Espada Fish: calls $17.86
+*** TURN *** [5d Jd 2s] [Qh]
+*** RIVER *** [5d Jd 2s Qh] [2h]
+*** SHOW DOWN ***
+Espada Fish: shows [Qd Qc] (a full house, Queens full of Deuces)
+ligeti lajos: shows [Ad 9s] (a pair of Deuces)
+Espada Fish cashed out the hand for $60.14 | Cash Out Fee $1.23
+*** SUMMARY ***
+Total pot $77.22 | Rake $2.50 
+Board [5d Jd 2s Qh 2h]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: ligeti lajos (button) showed [Ad 9s] and lost with a pair of Deuces
+Seat 3: tchawes959 (small blind) folded before Flop
+Seat 4: Espada Fish (big blind) showed [Qd Qc] and won ($74.72) with a full house, Queens full of Deuces (pot not awarded as player cashed out)
+Seat 5: sta$igk folded before Flop
+Seat 6: blistein folded before Flop
+
+
+
+PokerStars Hand #254262466995:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:48:44 WET [2025/01/08 10:48:44 ET]
+Table 'Jih II' 6-max Seat #3 is the button
+Seat 2: ligeti lajos ($0 in chips) is sitting out
+Seat 1: poker_soul11 ($105.23 in chips) 
+Seat 3: tchawes959 ($159.19 in chips) 
+Seat 4: Espada Fish ($145.72 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: blistein ($105.58 in chips) 
+Espada Fish: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+ligeti lajos leaves the table
+blistein: folds 
+poker_soul11: folds 
+tchawes959: raises $2 to $3
+Espada Fish: folds 
+sta$igk: folds 
+Uncalled bet ($2) returned to tchawes959
+BGS013 joins the table at seat #2 
+tchawes959 collected $2.50 from pot
+tchawes959: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: ligeti lajos
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 3: tchawes959 (button) collected ($2.50)
+Seat 4: Espada Fish (small blind) folded before Flop
+Seat 5: sta$igk (big blind) folded before Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262470313:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:48:58 WET [2025/01/08 10:48:58 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($105.23 in chips) is sitting out
+Seat 6: blistein ($105.58 in chips) is sitting out
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: tchawes959 ($160.69 in chips) 
+Seat 4: Espada Fish ($145.22 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+sta$igk: posts small blind $0.50
+blistein: is sitting out 
+poker_soul11: is sitting out 
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+blistein leaves the table
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+Uncalled bet ($0.50) returned to BGS013
+poker_soul11 leaves the table
+BGS013 collected $1 from pot
+BGS013: doesn't show hand 
+Joe_Li7 joins the table at seat #1 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: poker_soul11
+Seat 6: blistein
+Seat 2: BGS013 (big blind) collected ($1)
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 5: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254262472145:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:49:06 WET [2025/01/08 10:49:06 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 1: Joe_Li7 ($100 in chips) is sitting out
+Seat 2: BGS013 ($100.50 in chips) 
+Seat 3: tchawes959 ($160.69 in chips) 
+Seat 4: Espada Fish ($145.22 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+BGS013: posts small blind $0.50
+tchawes959: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: raises $1.20 to $2.20
+sta$igk: folds 
+BGS013: folds 
+tchawes959: calls $1.20
+*** FLOP *** [Qh Jh 5h]
+tchawes959: checks 
+Espada Fish: checks 
+*** TURN *** [Qh Jh 5h] [Jc]
+tchawes959: bets $2
+Espada Fish: calls $2
+*** RIVER *** [Qh Jh 5h Jc] [2d]
+tchawes959: checks 
+Espada Fish: checks 
+*** SHOW DOWN ***
+tchawes959: shows [8h Ks] (a pair of Jacks)
+Espada Fish: shows [7c 7d] (two pair, Jacks and Sevens)
+Espada Fish collected $8.46 from pot
+*** SUMMARY ***
+Total pot $8.90 | Rake $0.44 
+Board [Qh Jh 5h Jc 2d]
+Seat 1: Joe_Li7
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: tchawes959 (big blind) showed [8h Ks] and lost with a pair of Jacks
+Seat 4: Espada Fish showed [7c 7d] and won ($8.46) with two pair, Jacks and Sevens
+Seat 5: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262483499:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:49:58 WET [2025/01/08 10:49:58 ET]
+Table 'Jih II' 6-max Seat #2 is the button
+Seat 1: Joe_Li7 ($100 in chips) is sitting out
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: tchawes959 ($156.49 in chips) 
+Seat 4: Espada Fish ($149.48 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+tchawes959: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho joins the table at seat #6 
+sta$igk: raises $1.50 to $2.50
+BGS013: folds 
+tchawes959: calls $2
+Espada Fish: folds 
+*** FLOP *** [Qh 2h 9s]
+tchawes959: checks 
+sta$igk: bets $1.88
+tchawes959: raises $5.88 to $7.76
+sta$igk: calls $5.88
+*** TURN *** [Qh 2h 9s] [Ac]
+tchawes959: bets $10.26
+sta$igk: folds 
+Uncalled bet ($10.26) returned to tchawes959
+tchawes959 collected $20.52 from pot
+tchawes959: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.52 | Rake $1 
+Board [Qh 2h 9s Ac]
+Seat 1: Joe_Li7
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: tchawes959 (small blind) collected ($20.52)
+Seat 4: Espada Fish (big blind) folded before Flop
+Seat 5: sta$igk folded on the Turn
+
+
+
+PokerStars Hand #254262495688:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:50:52 WET [2025/01/08 10:50:52 ET]
+Table 'Jih II' 6-max Seat #3 is the button
+Seat 1: Joe_Li7 ($100 in chips) is sitting out
+Seat 6: coeeeelho ($100 in chips) is sitting out
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: tchawes959 ($166.75 in chips) 
+Seat 4: Espada Fish ($148.48 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Espada Fish: posts small blind $0.50
+sta$igk: posts big blind $1
+coeeeelho: sits out 
+*** HOLE CARDS ***
+BGS013: folds 
+tchawes959: raises $2 to $3
+Espada Fish: raises $8 to $11
+sta$igk: folds 
+tchawes959: folds 
+Uncalled bet ($8) returned to Espada Fish
+Espada Fish collected $7 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: Joe_Li7
+Seat 6: coeeeelho
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: tchawes959 (button) folded before Flop
+Seat 4: Espada Fish (small blind) collected ($7)
+Seat 5: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254262500182:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:51:13 WET [2025/01/08 10:51:13 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 1: Joe_Li7 ($100 in chips) is sitting out
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: tchawes959 ($163.75 in chips) 
+Seat 4: Espada Fish ($152.48 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: coeeeelho ($100 in chips) 
+sta$igk: posts small blind $0.50
+coeeeelho: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+BGS013: folds 
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: raises $2 to $3
+coeeeelho: calls $2
+*** FLOP *** [9c Kh 5d]
+sta$igk: checks 
+coeeeelho: bets $1.43
+sta$igk: calls $1.43
+*** TURN *** [9c Kh 5d] [6h]
+sta$igk: checks 
+coeeeelho: checks 
+*** RIVER *** [9c Kh 5d 6h] [9s]
+sta$igk: checks 
+coeeeelho: checks 
+*** SHOW DOWN ***
+sta$igk: shows [4s 4d] (two pair, Nines and Fours)
+coeeeelho: shows [5c Ah] (two pair, Nines and Fives)
+coeeeelho collected $8.42 from pot
+*** SUMMARY ***
+Total pot $8.86 | Rake $0.44 
+Board [9c Kh 5d 6h 9s]
+Seat 1: Joe_Li7
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 5: sta$igk (small blind) showed [4s 4d] and lost with two pair, Nines and Fours
+Seat 6: coeeeelho (big blind) showed [5c Ah] and won ($8.42) with two pair, Nines and Fives
+
+
+
+PokerStars Hand #254262515506:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:52:21 WET [2025/01/08 10:52:21 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: tchawes959 ($163.75 in chips) 
+Seat 4: Espada Fish ($152.48 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: coeeeelho ($103.99 in chips) 
+coeeeelho: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: raises $1.50 to $2.50
+coeeeelho: folds 
+Joe_Li7: calls $1.50
+*** FLOP *** [Ts Kc 4s]
+Joe_Li7: checks 
+sta$igk: checks 
+*** TURN *** [Ts Kc 4s] [Ks]
+Joe_Li7: checks 
+sta$igk: bets $1.72
+Joe_Li7: folds 
+Uncalled bet ($1.72) returned to sta$igk
+sta$igk collected $5.22 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Ts Kc 4s Ks]
+Seat 1: Joe_Li7 (big blind) folded on the Turn
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk (button) collected ($5.22)
+Seat 6: coeeeelho (small blind) folded before Flop
+
+
+
+PokerStars Hand #254262528363:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:53:19 WET [2025/01/08 10:53:19 ET]
+Table 'Jih II' 6-max Seat #6 is the button
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: tchawes959 ($163.75 in chips) 
+Seat 4: Espada Fish ($152.48 in chips) 
+Seat 5: sta$igk ($102.72 in chips) 
+Seat 6: coeeeelho ($103.49 in chips) 
+Joe_Li7: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+coeeeelho: folds 
+Joe_Li7: raises $2 to $3
+BGS013: folds 
+Uncalled bet ($2) returned to Joe_Li7
+Joe_Li7 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Joe_Li7 (small blind) collected ($2)
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: coeeeelho (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262532081:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:53:36 WET [2025/01/08 10:53:36 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 1: Joe_Li7 ($101 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: tchawes959 ($163.75 in chips) 
+Seat 4: Espada Fish ($152.48 in chips) 
+Seat 5: sta$igk ($102.72 in chips) 
+Seat 6: coeeeelho ($103.49 in chips) 
+BGS013: posts small blind $0.50
+tchawes959: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+sta$igk: raises $1.50 to $2.50
+coeeeelho: folds 
+Joe_Li7: folds 
+BGS013: folds 
+tchawes959: calls $1.50
+*** FLOP *** [3s Qd 8d]
+tchawes959: checks 
+sta$igk: bets $1.72
+tchawes959: folds 
+Uncalled bet ($1.72) returned to sta$igk
+sta$igk collected $5.22 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3s Qd 8d]
+Seat 1: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: tchawes959 (big blind) folded on the Flop
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 5: sta$igk collected ($5.22)
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262538241:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:54:03 WET [2025/01/08 10:54:03 ET]
+Table 'Jih II' 6-max Seat #2 is the button
+Seat 1: Joe_Li7 ($101 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: tchawes959 ($161.25 in chips) 
+Seat 4: Espada Fish ($152.48 in chips) 
+Seat 5: sta$igk ($105.44 in chips) 
+Seat 6: coeeeelho ($103.49 in chips) 
+tchawes959: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+coeeeelho: folds 
+Joe_Li7: folds 
+BGS013: folds 
+tchawes959: folds 
+Espada Fish: folds 
+Uncalled bet ($1.50) returned to sta$igk
+sta$igk collected $2.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Joe_Li7 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: tchawes959 (small blind) folded before Flop
+Seat 4: Espada Fish (big blind) folded before Flop
+Seat 5: sta$igk collected ($2.50)
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262541659:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:54:18 WET [2025/01/08 10:54:18 ET]
+Table 'Jih II' 6-max Seat #3 is the button
+Seat 1: Joe_Li7 ($101 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: tchawes959 ($160.75 in chips) 
+Seat 4: Espada Fish ($151.48 in chips) 
+Seat 5: sta$igk ($106.94 in chips) 
+Seat 6: coeeeelho ($103.49 in chips) 
+Espada Fish: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Joe_Li7: folds 
+BGS013: raises $1.50 to $2.50
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+Uncalled bet ($1.50) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Joe_Li7 folded before Flop (didn't bet)
+Seat 2: BGS013 collected ($2.50)
+Seat 3: tchawes959 (button) folded before Flop (didn't bet)
+Seat 4: Espada Fish (small blind) folded before Flop
+Seat 5: sta$igk (big blind) folded before Flop
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262545257:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:54:35 WET [2025/01/08 10:54:35 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 1: Joe_Li7 ($101 in chips) 
+Seat 2: BGS013 ($101.50 in chips) 
+Seat 3: tchawes959 ($160.75 in chips) 
+Seat 4: Espada Fish ($150.98 in chips) 
+Seat 5: sta$igk ($105.94 in chips) 
+Seat 6: coeeeelho ($103.49 in chips) 
+sta$igk: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: raises $1.20 to $2.20
+BGS013: raises $5.80 to $8
+tchawes959: folds 
+Espada Fish: folds 
+sta$igk: folds 
+coeeeelho: folds 
+Joe_Li7: folds 
+Uncalled bet ($5.80) returned to BGS013
+BGS013 collected $5.90 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: Joe_Li7 folded before Flop
+Seat 2: BGS013 collected ($5.90)
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 5: sta$igk (small blind) folded before Flop
+Seat 6: coeeeelho (big blind) folded before Flop
+
+
+
+PokerStars Hand #254262550805:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:54:59 WET [2025/01/08 10:54:59 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: BGS013 ($105.20 in chips) 
+Seat 3: tchawes959 ($160.75 in chips) 
+Seat 4: Espada Fish ($150.98 in chips) 
+Seat 5: sta$igk ($105.44 in chips) 
+Seat 6: coeeeelho ($102.49 in chips) 
+coeeeelho: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+tchawes959: folds 
+Espada Fish: raises $1.20 to $2.20
+sta$igk: folds 
+coeeeelho: folds 
+Joe_Li7: calls $1.20
+*** FLOP *** [Ac As 5c]
+Joe_Li7: checks 
+Espada Fish: bets $1.58
+Joe_Li7: calls $1.58
+*** TURN *** [Ac As 5c] [Kd]
+Joe_Li7: checks 
+Espada Fish: checks 
+*** RIVER *** [Ac As 5c Kd] [Jh]
+Joe_Li7: checks 
+Espada Fish: checks 
+*** SHOW DOWN ***
+Joe_Li7: shows [7c Jc] (two pair, Aces and Jacks)
+Espada Fish: shows [Ks 4s] (two pair, Aces and Kings)
+Espada Fish collected $7.66 from pot
+*** SUMMARY ***
+Total pot $8.06 | Rake $0.40 
+Board [Ac As 5c Kd Jh]
+Seat 1: Joe_Li7 (big blind) showed [7c Jc] and lost with two pair, Aces and Jacks
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish showed [Ks 4s] and won ($7.66) with two pair, Aces and Kings
+Seat 5: sta$igk (button) folded before Flop (didn't bet)
+Seat 6: coeeeelho (small blind) folded before Flop
+
+
+
+PokerStars Hand #254262563853:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:56:15 WET [2025/01/08 10:56:15 ET]
+Table 'Jih II' 6-max Seat #6 is the button
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: BGS013 ($105.20 in chips) 
+Seat 3: tchawes959 ($160.75 in chips) 
+Seat 4: Espada Fish ($154.86 in chips) 
+Seat 5: sta$igk ($105.44 in chips) 
+Seat 6: coeeeelho ($101.99 in chips) 
+Joe_Li7: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+tchawes959: folds 
+Espada Fish: raises $1.20 to $2.20
+sta$igk: folds 
+coeeeelho: folds 
+Joe_Li7: folds 
+BGS013: calls $1.20
+*** FLOP *** [7s 2c 8c]
+BGS013: checks 
+Espada Fish: checks 
+*** TURN *** [7s 2c 8c] [5d]
+BGS013: checks 
+Espada Fish: bets $3.45
+BGS013: calls $3.45
+*** RIVER *** [7s 2c 8c 5d] [9d]
+BGS013: checks 
+tchawes959 leaves the table
+Espada Fish: checks 
+*** SHOW DOWN ***
+BGS013: shows [Jc As] (high card Ace)
+Espada Fish: shows [Tc Ts] (a pair of Tens)
+Espada Fish collected $11.21 from pot
+*** SUMMARY ***
+Total pot $11.80 | Rake $0.59 
+Board [7s 2c 8c 5d 9d]
+Seat 1: Joe_Li7 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) showed [Jc As] and lost with high card Ace
+Seat 3: tchawes959 folded before Flop (didn't bet)
+Seat 4: Espada Fish showed [Tc Ts] and won ($11.21) with a pair of Tens
+Seat 5: sta$igk folded before Flop (didn't bet)
+Seat 6: coeeeelho (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262576522:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:57:29 WET [2025/01/08 10:57:29 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 4: Espada Fish ($160.42 in chips) is sitting out
+Seat 5: sta$igk ($105.44 in chips) is sitting out
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 6: coeeeelho ($101.99 in chips) 
+BGS013: posts small blind $0.50
+Espada Fish: is sitting out 
+sta$igk: is sitting out 
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: raises $1.50 to $2.50
+sta$igk leaves the table
+BGS013: folds 
+coeeeelho: raises $10 to $12.50
+Espada Fish leaves the table
+Joe_Li7: raises $13 to $25.50
+nastja336 joins the table at seat #4 
+THEBOYHARRY joins the table at seat #3 
+Espada Fish joins the table at seat #5 
+coeeeelho: calls $13
+*** FLOP *** [6h 8c Qd]
+coeeeelho: checks 
+Joe_Li7: bets $12.63
+coeeeelho: calls $12.63
+*** TURN *** [6h 8c Qd] [4c]
+coeeeelho: checks 
+Joe_Li7: checks 
+*** RIVER *** [6h 8c Qd 4c] [Kd]
+coeeeelho: checks 
+Joe_Li7: bets $61.87 and is all-in
+coeeeelho: folds 
+Uncalled bet ($61.87) returned to Joe_Li7
+Joe_Li7 collected $75.76 from pot
+*** SUMMARY ***
+Total pot $76.76 | Rake $1 
+Board [6h 8c Qd 4c Kd]
+Seat 4: Espada Fish
+Seat 5: sta$igk
+Seat 1: Joe_Li7 (button) collected ($75.76)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 6: coeeeelho (big blind) folded on the River
+
+
+
+PokerStars Hand #254262601823:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 15:59:57 WET [2025/01/08 10:59:57 ET]
+Table 'Jih II' 6-max Seat #2 is the button
+Seat 3: THEBOYHARRY ($42.30 in chips) is sitting out
+Seat 4: nastja336 ($100 in chips) is sitting out
+Seat 5: Espada Fish ($160.42 in chips) is sitting out
+Seat 1: Joe_Li7 ($137.63 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 6: coeeeelho ($100 in chips) 
+coeeeelho: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+coeeeelho: raises $2 to $3
+BGS013 leaves the table
+Joe_Li7: raises $6 to $9
+coeeeelho: folds 
+Uncalled bet ($6) returned to Joe_Li7
+Joe_Li7 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: THEBOYHARRY
+Seat 4: nastja336
+Seat 5: Espada Fish
+Seat 1: Joe_Li7 (big blind) collected ($6)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 6: coeeeelho (small blind) folded before Flop
+
+
+
+PokerStars Hand #254262605225:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:00:17 WET [2025/01/08 11:00:17 ET]
+Table 'Jih II' 6-max Seat #6 is the button
+Seat 4: nastja336 ($100 in chips) is sitting out
+Seat 5: Espada Fish ($160.42 in chips) is sitting out
+Seat 1: Joe_Li7 ($140.63 in chips) 
+Seat 3: THEBOYHARRY ($42.30 in chips) 
+Seat 6: coeeeelho ($100 in chips) 
+Joe_Li7: posts small blind $0.50
+THEBOYHARRY: posts big blind $1
+nastja336: sits out 
+Espada Fish: sits out 
+*** HOLE CARDS ***
+coeeeelho: raises $1.50 to $2.50
+Joe_Li7: folds 
+THEBOYHARRY: folds 
+Uncalled bet ($1.50) returned to coeeeelho
+coeeeelho collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: nastja336
+Seat 5: Espada Fish
+Seat 1: Joe_Li7 (small blind) folded before Flop
+Seat 3: THEBOYHARRY (big blind) folded before Flop
+Seat 6: coeeeelho (button) collected ($2.50)
+
+
+
+PokerStars Hand #254262606923:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:00:26 WET [2025/01/08 11:00:26 ET]
+Table 'Jih II' 6-max Seat #1 is the button
+Seat 5: Espada Fish ($160.42 in chips) is sitting out
+Seat 1: Joe_Li7 ($140.13 in chips) 
+Seat 3: THEBOYHARRY ($41.30 in chips) 
+Seat 4: nastja336 ($100 in chips) 
+Seat 6: coeeeelho ($101.50 in chips) 
+THEBOYHARRY: posts small blind $0.50
+nastja336: posts big blind $1
+Espada Fish: sits out 
+*** HOLE CARDS ***
+coeeeelho: folds 
+Joe_Li7: raises $1.50 to $2.50
+THEBOYHARRY: folds 
+nastja336: folds 
+Uncalled bet ($1.50) returned to Joe_Li7
+Joe_Li7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: Espada Fish
+Seat 1: Joe_Li7 (button) collected ($2.50)
+Seat 3: THEBOYHARRY (small blind) folded before Flop
+Seat 4: nastja336 (big blind) folded before Flop
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262609163:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:00:38 WET [2025/01/08 11:00:38 ET]
+Table 'Jih II' 6-max Seat #3 is the button
+Seat 1: Joe_Li7 ($141.63 in chips) 
+Seat 3: THEBOYHARRY ($40.80 in chips) 
+Seat 4: nastja336 ($100 in chips) 
+Seat 5: Espada Fish ($160.42 in chips) 
+Seat 6: coeeeelho ($101.50 in chips) 
+nastja336: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Joe_Li7: raises $1.20 to $2.20
+THEBOYHARRY: folds 
+nastja336: folds 
+Espada Fish: folds 
+Uncalled bet ($1.20) returned to Joe_Li7
+Joe_Li7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Joe_Li7 collected ($2.50)
+Seat 3: THEBOYHARRY (button) folded before Flop (didn't bet)
+Seat 4: nastja336 (small blind) folded before Flop
+Seat 5: Espada Fish (big blind) folded before Flop
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254262611817:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:00:52 WET [2025/01/08 11:00:52 ET]
+Table 'Jih II' 6-max Seat #4 is the button
+Seat 1: Joe_Li7 ($143.13 in chips) 
+Seat 3: THEBOYHARRY ($40.80 in chips) 
+Seat 4: nastja336 ($100 in chips) 
+Seat 5: Espada Fish ($159.42 in chips) 
+Seat 6: coeeeelho ($101.50 in chips) 
+Espada Fish: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+THEBOYHARRY: folds 
+nastja336: raises $1.50 to $2.50
+Joe_Li7 leaves the table
+Espada Fish: folds 
+coeeeelho: folds 
+Uncalled bet ($1.50) returned to nastja336
+nastja336 collected $2.50 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Joe_Li7 folded before Flop (didn't bet)
+Seat 3: THEBOYHARRY folded before Flop (didn't bet)
+Seat 4: nastja336 (button) collected ($2.50)
+Seat 5: Espada Fish (small blind) folded before Flop
+Seat 6: coeeeelho (big blind) folded before Flop
+
+
+
+PokerStars Hand #254262615225:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:01:08 WET [2025/01/08 11:01:08 ET]
+Table 'Jih II' 6-max Seat #5 is the button
+Seat 3: THEBOYHARRY ($40.80 in chips) 
+Seat 4: nastja336 ($101.50 in chips) 
+Seat 5: Espada Fish ($158.92 in chips) 
+Seat 6: coeeeelho ($100.50 in chips) 
+coeeeelho: posts small blind $0.50
+THEBOYHARRY: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+Espada Fish: raises $1.50 to $2.50
+coeeeelho: folds 
+THEBOYHARRY: raises $6.50 to $9
+Espada Fish: folds 
+Uncalled bet ($6.50) returned to THEBOYHARRY
+THEBOYHARRY collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 3: THEBOYHARRY (big blind) collected ($5.50)
+Seat 4: nastja336 folded before Flop (didn't bet)
+Seat 5: Espada Fish (button) folded before Flop
+Seat 6: coeeeelho (small blind) folded before Flop
+
+
+
+PokerStars Hand #254262620572:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:01:34 WET [2025/01/08 11:01:34 ET]
+Table 'Jih II' 6-max Seat #3 is the button
+Seat 4: nastja336 ($101.50 in chips) is sitting out
+Seat 5: Espada Fish ($156.42 in chips) is sitting out
+Seat 3: THEBOYHARRY ($43.80 in chips) 
+Seat 6: coeeeelho ($100 in chips) 
+THEBOYHARRY: posts small blind $0.50
+nastja336: is sitting out 
+Espada Fish: is sitting out 
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+nastja336 leaves the table
+Espada Fish leaves the table
+THEBOYHARRY: raises $1.50 to $2.50
+coeeeelho: calls $1.50
+*** FLOP *** [3d Ac 3h]
+coeeeelho: checks 
+THEBOYHARRY: checks 
+*** TURN *** [3d Ac 3h] [Qc]
+coeeeelho: bets $3.56
+THEBOYHARRY: folds 
+Uncalled bet ($3.56) returned to coeeeelho
+coeeeelho collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [3d Ac 3h Qc]
+Seat 4: nastja336
+Seat 5: Espada Fish
+Seat 3: THEBOYHARRY (button) (small blind) folded on the Turn
+Seat 6: coeeeelho (big blind) collected ($4.75)
+
+
+

@@ -1,0 +1,3816 @@
+﻿PokerStars Hand #254263097810:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:35:22 WET [2025/01/08 11:35:22 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: baristoere ($49.06 in chips) 
+Seat 2: BGS013 ($105.79 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($102.72 in chips) 
+Seat 5: MauriFierro27 ($126.15 in chips) 
+Seat 6: SEETEEBEE ($90.93 in chips) 
+baristoere: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+rao999: folds 
+MauriFierro27: raises $1.20 to $2.20
+SEETEEBEE: folds 
+baristoere: calls $1.70
+BGS013: calls $1.20
+*** FLOP *** [6s Td 6d]
+baristoere: checks 
+BGS013: bets $1.63
+MauriFierro27: calls $1.63
+baristoere: calls $1.63
+*** TURN *** [6s Td 6d] [Jd]
+baristoere: checks 
+BGS013: checks 
+MauriFierro27: bets $8.18
+baristoere: folds 
+BGS013: calls $8.18
+*** RIVER *** [6s Td 6d Jd] [Ts]
+BGS013: checks 
+MauriFierro27: checks 
+*** SHOW DOWN ***
+BGS013: shows [6c 8c] (a full house, Sixes full of Tens)
+MauriFierro27: mucks hand 
+BGS013 collected $26.46 from pot
+*** SUMMARY ***
+Total pot $27.85 | Rake $1.39 
+Board [6s Td 6d Jd Ts]
+Seat 1: baristoere (small blind) folded on the Turn
+Seat 2: BGS013 (big blind) showed [6c 8c] and won ($26.46) with a full house, Sixes full of Tens
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 folded before Flop (didn't bet)
+Seat 5: MauriFierro27 mucked
+Seat 6: SEETEEBEE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263115642:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:36:35 WET [2025/01/08 11:36:35 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 1: baristoere ($45.23 in chips) 
+Seat 2: BGS013 ($120.24 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($102.72 in chips) 
+Seat 5: MauriFierro27 ($114.14 in chips) 
+Seat 6: SEETEEBEE ($90.93 in chips) 
+BGS013: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+MauriFierro27: folds 
+SEETEEBEE: folds 
+baristoere: calls $1
+BGS013: raises $3.50 to $4.50
+mr.Jckpot: folds 
+baristoere: calls $3.50
+*** FLOP *** [Kd 5d Kc]
+BGS013: bets $2.47
+baristoere: folds 
+Uncalled bet ($2.47) returned to BGS013
+BGS013 collected $9.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Kd 5d Kc]
+Seat 1: baristoere (button) folded on the Flop
+Seat 2: BGS013 (small blind) collected ($9.50)
+Seat 3: mr.Jckpot (big blind) folded before Flop
+Seat 4: rao999 folded before Flop (didn't bet)
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263123011:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:37:04 WET [2025/01/08 11:37:04 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: baristoere ($40.73 in chips) 
+Seat 2: BGS013 ($125.24 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($102.72 in chips) 
+Seat 5: MauriFierro27 ($114.14 in chips) 
+Seat 6: SEETEEBEE ($90.93 in chips) 
+mr.Jckpot: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+SEETEEBEE: raises $2 to $3
+baristoere: calls $3
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: folds 
+*** FLOP *** [8s 3h Ks]
+SEETEEBEE: checks 
+baristoere: checks 
+*** TURN *** [8s 3h Ks] [As]
+SEETEEBEE: checks 
+baristoere: checks 
+*** RIVER *** [8s 3h Ks As] [Kd]
+SEETEEBEE: checks 
+baristoere: bets $8
+SEETEEBEE: calls $8
+*** SHOW DOWN ***
+baristoere: shows [9c Ah] (two pair, Aces and Kings)
+SEETEEBEE: mucks hand 
+baristoere collected $22.02 from pot
+*** SUMMARY ***
+Total pot $23.50 | Rake $1.48 
+Board [8s 3h Ks As Kd]
+Seat 1: baristoere showed [9c Ah] and won ($22.02) with two pair, Aces and Kings
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: mr.Jckpot (small blind) folded before Flop
+Seat 4: rao999 (big blind) folded before Flop
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE mucked
+
+
+
+PokerStars Hand #254263132768:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:37:43 WET [2025/01/08 11:37:43 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: baristoere ($51.75 in chips) 
+Seat 2: BGS013 ($125.24 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($101.72 in chips) 
+Seat 5: MauriFierro27 ($114.14 in chips) 
+Seat 6: SEETEEBEE ($79.93 in chips) 
+rao999: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+SEETEEBEE: raises $2 to $3
+baristoere: calls $3
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: folds 
+MauriFierro27: folds 
+*** FLOP *** [4s 3s Ad]
+SEETEEBEE: bets $3.56
+baristoere: folds 
+Uncalled bet ($3.56) returned to SEETEEBEE
+SEETEEBEE collected $7.12 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [4s 3s Ad]
+Seat 1: baristoere folded on the Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 4: rao999 (small blind) folded before Flop
+Seat 5: MauriFierro27 (big blind) folded before Flop
+Seat 6: SEETEEBEE collected ($7.12)
+
+
+
+PokerStars Hand #254263139226:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:38:09 WET [2025/01/08 11:38:09 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 1: baristoere ($48.75 in chips) 
+Seat 2: BGS013 ($125.24 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($101.22 in chips) 
+Seat 5: MauriFierro27 ($113.14 in chips) 
+Seat 6: SEETEEBEE ($84.05 in chips) 
+MauriFierro27: posts small blind $0.50
+SEETEEBEE: posts big blind $1
+*** HOLE CARDS ***
+baristoere: calls $1
+BGS013: raises $3.50 to $4.50
+mr.Jckpot: folds 
+rao999: folds 
+MauriFierro27: folds 
+SEETEEBEE: folds 
+baristoere: calls $3.50
+*** FLOP *** [6d 5h Th]
+baristoere: checks 
+BGS013: bets $5.49
+baristoere: calls $5.49
+*** TURN *** [6d 5h Th] [Qc]
+baristoere: checks 
+BGS013: bets $15.92
+baristoere: folds 
+Uncalled bet ($15.92) returned to BGS013
+BGS013 collected $20.41 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.48 | Rake $1.07 
+Board [6d 5h Th Qc]
+Seat 1: baristoere folded on the Turn
+Seat 2: BGS013 collected ($20.41)
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 (button) folded before Flop (didn't bet)
+Seat 5: MauriFierro27 (small blind) folded before Flop
+Seat 6: SEETEEBEE (big blind) folded before Flop
+
+
+
+PokerStars Hand #254263146864:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:38:39 WET [2025/01/08 11:38:39 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: baristoere ($38.76 in chips) 
+Seat 2: BGS013 ($135.66 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($101.22 in chips) 
+Seat 5: MauriFierro27 ($112.64 in chips) 
+Seat 6: SEETEEBEE ($83.05 in chips) 
+SEETEEBEE: posts small blind $0.50
+baristoere: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+mr.Jckpot: raises $1.50 to $2.50
+rao999: raises $5 to $7.50
+MauriFierro27: folds 
+SEETEEBEE: folds 
+baristoere: folds 
+mr.Jckpot: raises $12 to $19.50
+rao999: calls $12
+*** FLOP *** [Js 5d 6d]
+mr.Jckpot: bets $12.70
+rao999: folds 
+Uncalled bet ($12.70) returned to mr.Jckpot
+mr.Jckpot collected $38.48 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $40.50 | Rake $2.02 
+Board [Js 5d 6d]
+Seat 1: baristoere (big blind) folded before Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot collected ($38.48)
+Seat 4: rao999 folded on the Flop
+Seat 5: MauriFierro27 (button) folded before Flop (didn't bet)
+Seat 6: SEETEEBEE (small blind) folded before Flop
+
+
+
+PokerStars Hand #254263161151:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:39:36 WET [2025/01/08 11:39:36 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: baristoere ($37.76 in chips) 
+Seat 2: BGS013 ($135.66 in chips) 
+Seat 3: mr.Jckpot ($118.98 in chips) 
+Seat 4: rao999 ($100 in chips) 
+Seat 5: MauriFierro27 ($112.64 in chips) 
+Seat 6: SEETEEBEE ($82.55 in chips) 
+baristoere: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+rao999: folds 
+MauriFierro27: folds 
+SEETEEBEE: folds 
+baristoere: calls $0.50
+BGS013: checks 
+*** FLOP *** [7h 3h 4c]
+baristoere: checks 
+BGS013: checks 
+*** TURN *** [7h 3h 4c] [Ad]
+baristoere: checks 
+BGS013: checks 
+*** RIVER *** [7h 3h 4c Ad] [8d]
+baristoere: checks 
+BGS013: checks 
+*** SHOW DOWN ***
+baristoere: shows [Tc 6h] (high card Ace)
+BGS013: shows [7c Th] (a pair of Sevens)
+BGS013 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [7h 3h 4c Ad 8d]
+Seat 1: baristoere (small blind) showed [Tc 6h] and lost with high card Ace
+Seat 2: BGS013 (big blind) showed [7c Th] and won ($1.90) with a pair of Sevens
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 folded before Flop (didn't bet)
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263171283:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:40:17 WET [2025/01/08 11:40:17 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 1: baristoere ($36.76 in chips) 
+Seat 2: BGS013 ($136.56 in chips) 
+Seat 3: mr.Jckpot ($118.98 in chips) 
+Seat 4: rao999 ($100 in chips) 
+Seat 5: MauriFierro27 ($112.64 in chips) 
+Seat 6: SEETEEBEE ($82.55 in chips) 
+BGS013: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+rao999: raises $1.50 to $2.50
+MauriFierro27: folds 
+SEETEEBEE: folds 
+baristoere: calls $2.50
+BGS013: folds 
+mr.Jckpot: calls $1.50
+*** FLOP *** [Kh Ac Qc]
+mr.Jckpot: checks 
+rao999: checks 
+baristoere: checks 
+*** TURN *** [Kh Ac Qc] [4c]
+mr.Jckpot: bets $5.02
+rao999: calls $5.02
+baristoere: folds 
+*** RIVER *** [Kh Ac Qc 4c] [Kc]
+mr.Jckpot: checks 
+rao999: checks 
+*** SHOW DOWN ***
+mr.Jckpot: shows [4h 4s] (a full house, Fours full of Kings)
+rao999: mucks hand 
+mr.Jckpot collected $17.14 from pot
+*** SUMMARY ***
+Total pot $18.04 | Rake $0.90 
+Board [Kh Ac Qc 4c Kc]
+Seat 1: baristoere (button) folded on the Turn
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: mr.Jckpot (big blind) showed [4h 4s] and won ($17.14) with a full house, Fours full of Kings
+Seat 4: rao999 mucked
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263183607:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:41:06 WET [2025/01/08 11:41:06 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: baristoere ($34.26 in chips) 
+Seat 2: BGS013 ($136.06 in chips) 
+Seat 3: mr.Jckpot ($128.60 in chips) 
+Seat 4: rao999 ($100 in chips) 
+Seat 5: MauriFierro27 ($112.64 in chips) 
+Seat 6: SEETEEBEE ($82.55 in chips) 
+mr.Jckpot: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+SEETEEBEE: folds 
+baristoere: calls $1
+BGS013: raises $3 to $4
+mr.Jckpot: folds 
+rao999: folds 
+baristoere: calls $3
+*** FLOP *** [Td 7d 4d]
+baristoere: checks 
+BGS013: bets $2.35
+baristoere: folds 
+Uncalled bet ($2.35) returned to BGS013
+BGS013 collected $9.02 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Td 7d 4d]
+Seat 1: baristoere folded on the Flop
+Seat 2: BGS013 (button) collected ($9.02)
+Seat 3: mr.Jckpot (small blind) folded before Flop
+Seat 4: rao999 (big blind) folded before Flop
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263190731:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:41:34 WET [2025/01/08 11:41:34 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: baristoere ($30.26 in chips) 
+Seat 2: BGS013 ($141.08 in chips) 
+Seat 3: mr.Jckpot ($128.10 in chips) 
+Seat 4: rao999 ($100 in chips) 
+Seat 5: MauriFierro27 ($112.64 in chips) 
+Seat 6: SEETEEBEE ($82.55 in chips) 
+rao999: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+SEETEEBEE: raises $2 to $3
+baristoere: calls $3
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: folds 
+MauriFierro27: folds 
+*** FLOP *** [2s 2c 3h]
+SEETEEBEE: bets $3.56
+baristoere: folds 
+Uncalled bet ($3.56) returned to SEETEEBEE
+SEETEEBEE collected $7.12 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [2s 2c 3h]
+Seat 1: baristoere folded on the Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 4: rao999 (small blind) folded before Flop
+Seat 5: MauriFierro27 (big blind) folded before Flop
+Seat 6: SEETEEBEE collected ($7.12)
+
+
+
+PokerStars Hand #254263197270:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:42:01 WET [2025/01/08 11:42:01 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 1: baristoere ($27.26 in chips) 
+Seat 2: BGS013 ($141.08 in chips) 
+Seat 3: mr.Jckpot ($128.10 in chips) 
+Seat 4: rao999 ($100 in chips) 
+Seat 5: MauriFierro27 ($111.64 in chips) 
+Seat 6: SEETEEBEE ($86.67 in chips) 
+MauriFierro27: posts small blind $0.50
+SEETEEBEE: posts big blind $1
+*** HOLE CARDS ***
+baristoere: calls $1
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: folds 
+MauriFierro27: raises $5.50 to $6.50
+SEETEEBEE: folds 
+baristoere: calls $5.50
+*** FLOP *** [Qh 9c Ah]
+MauriFierro27: bets $3.33
+baristoere: calls $3.33
+*** TURN *** [Qh 9c Ah] [7d]
+MauriFierro27: bets $18
+baristoere: calls $17.43 and is all-in
+Uncalled bet ($0.57) returned to MauriFierro27
+*** RIVER *** [Qh 9c Ah 7d] [4c]
+*** SHOW DOWN ***
+MauriFierro27: shows [Qs Ad] (two pair, Aces and Queens)
+baristoere: shows [Th 9h] (a pair of Nines)
+MauriFierro27 collected $53.02 from pot
+*** SUMMARY ***
+Total pot $55.52 | Rake $2.50 
+Board [Qh 9c Ah 7d 4c]
+Seat 1: baristoere showed [Th 9h] and lost with a pair of Nines
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 (button) folded before Flop (didn't bet)
+Seat 5: MauriFierro27 (small blind) showed [Qs Ad] and won ($53.02) with two pair, Aces and Queens
+Seat 6: SEETEEBEE (big blind) folded before Flop
+
+
+
+PokerStars Hand #254263209215:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:42:48 WET [2025/01/08 11:42:48 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: baristoere ($0 in chips) is sitting out
+Seat 2: BGS013 ($141.08 in chips) 
+Seat 3: mr.Jckpot ($128.10 in chips) 
+Seat 4: rao999 ($100 in chips) 
+Seat 5: MauriFierro27 ($137.40 in chips) 
+Seat 6: SEETEEBEE ($85.67 in chips) 
+SEETEEBEE: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+rao999: raises $1.50 to $2.50
+MauriFierro27: folds 
+SEETEEBEE: folds 
+BGS013: raises $8.50 to $11
+baristoere leaves the table
+rao999: folds 
+Uncalled bet ($8.50) returned to BGS013
+BGS013 collected $5.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: baristoere
+Seat 2: BGS013 (big blind) collected ($5.50)
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 folded before Flop
+Seat 5: MauriFierro27 (button) folded before Flop (didn't bet)
+Seat 6: SEETEEBEE (small blind) folded before Flop
+
+
+
+PokerStars Hand #254263212820:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:43:02 WET [2025/01/08 11:43:02 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 2: BGS013 ($144.08 in chips) 
+Seat 3: mr.Jckpot ($128.10 in chips) 
+Seat 4: rao999 ($100 in chips) 
+Seat 5: MauriFierro27 ($137.40 in chips) 
+Seat 6: SEETEEBEE ($85.17 in chips) 
+BGS013: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+rao999: raises $1.50 to $2.50
+MauriFierro27: folds 
+SEETEEBEE: calls $2.50
+BGS013: folds 
+mr.Jckpot: calls $1.50
+*** FLOP *** [8s 9h 9d]
+mr.Jckpot: checks 
+Joe_Li7 joins the table at seat #1 
+rao999: checks 
+SEETEEBEE: bets $3.80
+mr.Jckpot: calls $3.80
+rao999: calls $3.80
+*** TURN *** [8s 9h 9d] [6d]
+mr.Jckpot: checks 
+rao999: checks 
+SEETEEBEE: bets $9.22
+mr.Jckpot: calls $9.22
+rao999: folds 
+*** RIVER *** [8s 9h 9d 6d] [5c]
+mr.Jckpot: checks 
+SEETEEBEE: checks 
+*** SHOW DOWN ***
+mr.Jckpot: shows [6s 6h] (a full house, Sixes full of Nines)
+SEETEEBEE: mucks hand 
+mr.Jckpot collected $35.95 from pot
+*** SUMMARY ***
+Total pot $37.84 | Rake $1.89 
+Board [8s 9h 9d 6d 5c]
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: mr.Jckpot (big blind) showed [6s 6h] and won ($35.95) with a full house, Sixes full of Nines
+Seat 4: rao999 folded on the Turn
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE (button) mucked
+
+
+
+PokerStars Hand #254263226017:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:43:55 WET [2025/01/08 11:43:55 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: Joe_Li7 ($100 in chips) is sitting out
+Seat 2: BGS013 ($143.58 in chips) 
+Seat 3: mr.Jckpot ($148.53 in chips) 
+Seat 4: rao999 ($100 in chips) 
+Seat 5: MauriFierro27 ($137.40 in chips) 
+Seat 6: SEETEEBEE ($69.65 in chips) 
+mr.Jckpot: posts small blind $0.50
+rao999: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+MauriFierro27: folds 
+SEETEEBEE: raises $2 to $3
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: folds 
+Uncalled bet ($2) returned to SEETEEBEE
+SEETEEBEE collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Joe_Li7
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: mr.Jckpot (small blind) folded before Flop
+Seat 4: rao999 (big blind) folded before Flop
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE collected ($2.50)
+
+
+
+PokerStars Hand #254263230702:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:44:14 WET [2025/01/08 11:44:14 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: Joe_Li7 ($100 in chips) is sitting out
+Seat 2: BGS013 ($143.58 in chips) 
+Seat 3: mr.Jckpot ($148.03 in chips) 
+Seat 4: rao999 ($100 in chips) 
+Seat 5: MauriFierro27 ($137.40 in chips) 
+Seat 6: SEETEEBEE ($71.15 in chips) 
+rao999: posts small blind $0.50
+MauriFierro27: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+SEETEEBEE: folds 
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: raises $2 to $3
+MauriFierro27: raises $6 to $9
+rao999: calls $6
+*** FLOP *** [8s Ac 7h]
+rao999: checks 
+MauriFierro27: bets $5.64
+rao999: calls $5.64
+*** TURN *** [8s Ac 7h] [6h]
+rao999: checks 
+MauriFierro27: checks 
+*** RIVER *** [8s Ac 7h 6h] [5h]
+rao999: bets $9.18
+MauriFierro27: calls $9.18
+*** SHOW DOWN ***
+rao999: shows [Js 9s] (a straight, Five to Nine)
+MauriFierro27: mucks hand 
+rao999 collected $45.26 from pot
+*** SUMMARY ***
+Total pot $47.64 | Rake $2.38 
+Board [8s Ac 7h 6h 5h]
+Seat 1: Joe_Li7
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 4: rao999 (small blind) showed [Js 9s] and won ($45.26) with a straight, Five to Nine
+Seat 5: MauriFierro27 (big blind) mucked
+Seat 6: SEETEEBEE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263251428:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:45:36 WET [2025/01/08 11:45:36 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 1: Joe_Li7 ($100 in chips) is sitting out
+Seat 2: BGS013 ($143.58 in chips) 
+Seat 3: mr.Jckpot ($148.03 in chips) 
+Seat 4: rao999 ($121.44 in chips) 
+Seat 5: MauriFierro27 ($113.58 in chips) 
+Seat 6: SEETEEBEE ($71.15 in chips) 
+MauriFierro27: posts small blind $0.50
+SEETEEBEE: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: raises $1.50 to $2.50
+MauriFierro27: raises $9 to $11.50
+SEETEEBEE: folds 
+rao999: folds 
+Uncalled bet ($9) returned to MauriFierro27
+MauriFierro27 collected $6 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Joe_Li7
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 (button) folded before Flop
+Seat 5: MauriFierro27 (small blind) collected ($6)
+Seat 6: SEETEEBEE (big blind) folded before Flop
+
+
+
+PokerStars Hand #254263258952:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:46:06 WET [2025/01/08 11:46:06 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: BGS013 ($143.58 in chips) 
+Seat 3: mr.Jckpot ($148.03 in chips) 
+Seat 4: rao999 ($118.94 in chips) 
+Seat 5: MauriFierro27 ($117.08 in chips) 
+Seat 6: SEETEEBEE ($70.15 in chips) 
+SEETEEBEE: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: folds 
+MauriFierro27: raises $1.20 to $2.20
+SEETEEBEE: folds 
+Joe_Li7: calls $1.20
+*** FLOP *** [Ac 7h Kd]
+Joe_Li7: checks 
+MauriFierro27: bets $1.54
+Joe_Li7: calls $1.54
+*** TURN *** [Ac 7h Kd] [8d]
+Joe_Li7: checks 
+MauriFierro27: bets $10.61
+Joe_Li7: calls $10.61
+*** RIVER *** [Ac 7h Kd 8d] [Ts]
+Joe_Li7: checks 
+MauriFierro27: bets $20.77
+Joe_Li7: calls $20.77
+*** SHOW DOWN ***
+MauriFierro27: shows [Js Qs] (a straight, Ten to Ace)
+Joe_Li7: mucks hand 
+MauriFierro27 collected $68.24 from pot
+*** SUMMARY ***
+Total pot $70.74 | Rake $2.50 
+Board [Ac 7h Kd 8d Ts]
+Seat 1: Joe_Li7 (big blind) mucked
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 folded before Flop (didn't bet)
+Seat 5: MauriFierro27 (button) showed [Js Qs] and won ($68.24) with a straight, Ten to Ace
+Seat 6: SEETEEBEE (small blind) folded before Flop
+
+
+
+PokerStars Hand #254263287875:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:48:00 WET [2025/01/08 11:48:00 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: BGS013 ($143.58 in chips) 
+Seat 3: mr.Jckpot ($148.03 in chips) 
+Seat 4: rao999 ($118.94 in chips) 
+Seat 5: MauriFierro27 ($150.20 in chips) 
+Seat 6: SEETEEBEE ($69.65 in chips) 
+Joe_Li7: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+rao999: raises $1.50 to $2.50
+MauriFierro27: folds 
+SEETEEBEE: folds 
+Joe_Li7: folds 
+BGS013: folds 
+Uncalled bet ($1.50) returned to rao999
+rao999 collected $2.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Joe_Li7 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 collected ($2.50)
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263291087:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:48:14 WET [2025/01/08 11:48:14 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: BGS013 ($142.58 in chips) 
+Seat 3: mr.Jckpot ($148.03 in chips) 
+Seat 4: rao999 ($120.44 in chips) 
+Seat 5: MauriFierro27 ($150.20 in chips) 
+Seat 6: SEETEEBEE ($69.65 in chips) 
+BGS013: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+MauriFierro27: folds 
+SEETEEBEE: raises $2 to $3
+Joe_Li7: folds 
+BGS013: folds 
+mr.Jckpot: raises $9 to $12
+SEETEEBEE: calls $9
+*** FLOP *** [8c Jh 3h]
+mr.Jckpot: bets $5.12
+SEETEEBEE: raises $11.76 to $16.88
+mr.Jckpot: calls $11.76
+*** TURN *** [8c Jh 3h] [7s]
+mr.Jckpot: checks 
+SEETEEBEE: bets $40.77 and is all-in
+mr.Jckpot: folds 
+Uncalled bet ($40.77) returned to SEETEEBEE
+SEETEEBEE collected $55.76 from pot
+*** SUMMARY ***
+Total pot $58.26 | Rake $2.50 
+Board [8c Jh 3h 7s]
+Seat 1: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: mr.Jckpot (big blind) folded on the Turn
+Seat 4: rao999 folded before Flop (didn't bet)
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE collected ($55.76)
+
+
+
+PokerStars Hand #254263307291:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:49:18 WET [2025/01/08 11:49:18 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: BGS013 ($142.08 in chips) 
+Seat 3: mr.Jckpot ($119.15 in chips) 
+Seat 4: rao999 ($120.44 in chips) 
+Seat 5: MauriFierro27 ($150.20 in chips) 
+Seat 6: SEETEEBEE ($96.53 in chips) 
+mr.Jckpot: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+SEETEEBEE: folds 
+Joe_Li7: raises $1.20 to $2.20
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: folds 
+Uncalled bet ($1.20) returned to Joe_Li7
+Joe_Li7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Joe_Li7 collected ($2.50)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: mr.Jckpot (small blind) folded before Flop
+Seat 4: rao999 (big blind) folded before Flop
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263310865:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:49:32 WET [2025/01/08 11:49:32 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: Joe_Li7 ($101.50 in chips) 
+Seat 2: BGS013 ($142.08 in chips) 
+Seat 3: mr.Jckpot ($118.65 in chips) 
+Seat 4: rao999 ($119.44 in chips) 
+Seat 5: MauriFierro27 ($150.20 in chips) 
+Seat 6: SEETEEBEE ($96.53 in chips) 
+rao999: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+SEETEEBEE: raises $2 to $3
+Joe_Li7: folds 
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: folds 
+MauriFierro27: calls $2
+*** FLOP *** [7s 2s 3d]
+MauriFierro27: checks 
+SEETEEBEE: checks 
+*** TURN *** [7s 2s 3d] [Kc]
+MauriFierro27: checks 
+SEETEEBEE: checks 
+*** RIVER *** [7s 2s 3d Kc] [2c]
+MauriFierro27: checks 
+SEETEEBEE: bets $8.18
+MauriFierro27: calls $8.18
+*** SHOW DOWN ***
+SEETEEBEE: shows [Qd Kd] (two pair, Kings and Deuces)
+MauriFierro27: mucks hand 
+SEETEEBEE collected $21.72 from pot
+*** SUMMARY ***
+Total pot $22.86 | Rake $1.14 
+Board [7s 2s 3d Kc 2c]
+Seat 1: Joe_Li7 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 4: rao999 (small blind) folded before Flop
+Seat 5: MauriFierro27 (big blind) mucked
+Seat 6: SEETEEBEE showed [Qd Kd] and won ($21.72) with two pair, Kings and Deuces
+
+
+
+PokerStars Hand #254263322750:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:50:19 WET [2025/01/08 11:50:19 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 1: Joe_Li7 ($101.50 in chips) 
+Seat 2: BGS013 ($142.08 in chips) 
+Seat 3: mr.Jckpot ($118.65 in chips) 
+Seat 4: rao999 ($118.94 in chips) 
+Seat 5: MauriFierro27 ($139.02 in chips) 
+Seat 6: SEETEEBEE ($107.07 in chips) 
+MauriFierro27: posts small blind $0.50
+SEETEEBEE: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: raises $1.50 to $2.50
+MauriFierro27: raises $9 to $11.50
+SEETEEBEE: folds 
+rao999: folds 
+Uncalled bet ($9) returned to MauriFierro27
+MauriFierro27 collected $6 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Joe_Li7 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 (button) folded before Flop
+Seat 5: MauriFierro27 (small blind) collected ($6)
+Seat 6: SEETEEBEE (big blind) folded before Flop
+
+
+
+PokerStars Hand #254263331081:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:50:52 WET [2025/01/08 11:50:52 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: Joe_Li7 ($101.50 in chips) 
+Seat 2: BGS013 ($142.08 in chips) 
+Seat 3: mr.Jckpot ($118.65 in chips) 
+Seat 4: rao999 ($116.44 in chips) 
+Seat 5: MauriFierro27 ($142.52 in chips) 
+Seat 6: SEETEEBEE ($106.07 in chips) 
+SEETEEBEE: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: folds 
+MauriFierro27: folds 
+SEETEEBEE: folds 
+Uncalled bet ($0.50) returned to Joe_Li7
+Joe_Li7 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Joe_Li7 (big blind) collected ($1)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 folded before Flop (didn't bet)
+Seat 5: MauriFierro27 (button) folded before Flop (didn't bet)
+Seat 6: SEETEEBEE (small blind) folded before Flop
+
+
+
+PokerStars Hand #254263333437:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:51:02 WET [2025/01/08 11:51:02 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: Joe_Li7 ($102 in chips) 
+Seat 2: BGS013 ($142.08 in chips) 
+Seat 3: mr.Jckpot ($118.65 in chips) 
+Seat 4: rao999 ($116.44 in chips) 
+Seat 5: MauriFierro27 ($142.52 in chips) 
+Seat 6: SEETEEBEE ($105.57 in chips) 
+Joe_Li7: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+rao999: folds 
+MauriFierro27: folds 
+SEETEEBEE: folds 
+Joe_Li7: raises $2 to $3
+BGS013: folds 
+Uncalled bet ($2) returned to Joe_Li7
+Joe_Li7 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Joe_Li7 (small blind) collected ($2)
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 folded before Flop (didn't bet)
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263338440:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:51:22 WET [2025/01/08 11:51:22 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 1: Joe_Li7 ($103 in chips) 
+Seat 2: BGS013 ($141.08 in chips) 
+Seat 3: mr.Jckpot ($118.65 in chips) 
+Seat 4: rao999 ($116.44 in chips) 
+Seat 5: MauriFierro27 ($142.52 in chips) 
+Seat 6: SEETEEBEE ($105.57 in chips) 
+BGS013: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+MauriFierro27: raises $1.20 to $2.20
+SEETEEBEE: folds 
+Joe_Li7: folds 
+BGS013: folds 
+mr.Jckpot: calls $1.20
+*** FLOP *** [8s Jh Td]
+mr.Jckpot: checks 
+MauriFierro27: bets $1.54
+mr.Jckpot: calls $1.54
+*** TURN *** [8s Jh Td] [5h]
+mr.Jckpot: checks 
+MauriFierro27: bets $10.61
+mr.Jckpot: calls $10.61
+*** RIVER *** [8s Jh Td 5h] [Ac]
+mr.Jckpot: checks 
+MauriFierro27: bets $20.77
+mr.Jckpot: calls $20.77
+*** SHOW DOWN ***
+MauriFierro27: shows [9h Qh] (a straight, Eight to Queen)
+mr.Jckpot: mucks hand 
+MauriFierro27 collected $68.24 from pot
+*** SUMMARY ***
+Total pot $70.74 | Rake $2.50 
+Board [8s Jh Td 5h Ac]
+Seat 1: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: mr.Jckpot (big blind) mucked
+Seat 4: rao999 folded before Flop (didn't bet)
+Seat 5: MauriFierro27 showed [9h Qh] and won ($68.24) with a straight, Eight to Queen
+Seat 6: SEETEEBEE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263352691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:52:18 WET [2025/01/08 11:52:18 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: Joe_Li7 ($103 in chips) 
+Seat 2: BGS013 ($140.58 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($116.44 in chips) 
+Seat 5: MauriFierro27 ($175.64 in chips) 
+Seat 6: SEETEEBEE ($105.57 in chips) 
+mr.Jckpot: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+SEETEEBEE: folds 
+Joe_Li7: raises $1.20 to $2.20
+BGS013: raises $5.80 to $8
+mr.Jckpot: folds 
+rao999: folds 
+Joe_Li7: folds 
+Uncalled bet ($5.80) returned to BGS013
+BGS013 collected $5.90 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: Joe_Li7 folded before Flop
+Seat 2: BGS013 (button) collected ($5.90)
+Seat 3: mr.Jckpot (small blind) folded before Flop
+Seat 4: rao999 (big blind) folded before Flop
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263359679:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:52:45 WET [2025/01/08 11:52:45 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: Joe_Li7 ($100.80 in chips) 
+Seat 2: BGS013 ($144.28 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($115.44 in chips) 
+Seat 5: MauriFierro27 ($175.64 in chips) 
+Seat 6: SEETEEBEE ($105.57 in chips) 
+rao999: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+SEETEEBEE: raises $2 to $3
+Joe_Li7: folds 
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: folds 
+MauriFierro27: folds 
+Uncalled bet ($2) returned to SEETEEBEE
+SEETEEBEE collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Joe_Li7 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 4: rao999 (small blind) folded before Flop
+Seat 5: MauriFierro27 (big blind) folded before Flop
+Seat 6: SEETEEBEE collected ($2.50)
+
+
+
+PokerStars Hand #254263366869:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:53:14 WET [2025/01/08 11:53:14 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 1: Joe_Li7 ($100.80 in chips) 
+Seat 2: BGS013 ($144.28 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($114.94 in chips) 
+Seat 5: MauriFierro27 ($174.64 in chips) 
+Seat 6: SEETEEBEE ($107.07 in chips) 
+MauriFierro27: posts small blind $0.50
+SEETEEBEE: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: raises $1 to $2
+MauriFierro27: folds 
+SEETEEBEE: folds 
+Uncalled bet ($1) returned to rao999
+rao999 collected $2.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Joe_Li7 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 (button) collected ($2.50)
+Seat 5: MauriFierro27 (small blind) folded before Flop
+Seat 6: SEETEEBEE (big blind) folded before Flop
+
+
+
+PokerStars Hand #254263371342:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:53:31 WET [2025/01/08 11:53:31 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: Joe_Li7 ($100.80 in chips) 
+Seat 2: BGS013 ($144.28 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($116.44 in chips) 
+Seat 5: MauriFierro27 ($174.14 in chips) 
+Seat 6: SEETEEBEE ($106.07 in chips) 
+SEETEEBEE: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+mr.Jckpot: folds 
+rao999: folds 
+BGS013 leaves the table
+MauriFierro27: raises $1.20 to $2.20
+SEETEEBEE: folds 
+Joe_Li7: folds 
+Uncalled bet ($1.20) returned to MauriFierro27
+MauriFierro27 collected $2.50 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Joe_Li7 (big blind) folded before Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 folded before Flop (didn't bet)
+Seat 5: MauriFierro27 (button) collected ($2.50)
+Seat 6: SEETEEBEE (small blind) folded before Flop
+
+
+
+PokerStars Hand #254263374846:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:53:46 WET [2025/01/08 11:53:46 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($116.44 in chips) 
+Seat 5: MauriFierro27 ($175.64 in chips) 
+Seat 6: SEETEEBEE ($105.57 in chips) 
+Joe_Li7: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+MauriFierro27: folds 
+SEETEEBEE: folds 
+Joe_Li7: folds 
+Uncalled bet ($0.50) returned to mr.Jckpot
+mr.Jckpot collected $1 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Joe_Li7 (small blind) folded before Flop
+Seat 3: mr.Jckpot (big blind) collected ($1)
+Seat 4: rao999 folded before Flop (didn't bet)
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263377867:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:53:58 WET [2025/01/08 11:53:58 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 3: mr.Jckpot ($100.50 in chips) 
+Seat 4: rao999 ($116.44 in chips) 
+Seat 5: MauriFierro27 ($175.64 in chips) 
+Seat 6: SEETEEBEE ($105.57 in chips) 
+mr.Jckpot: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+SEETEEBEE: folds 
+Joe_Li7: raises $1.50 to $2.50
+mr.Jckpot: folds 
+rao999: calls $1.50
+*** FLOP *** [7c 3c 9d]
+rao999: checks 
+coeeeelho joins the table at seat #2 
+Joe_Li7: bets $5.22
+rao999: calls $5.22
+*** TURN *** [7c 3c 9d] [4d]
+rao999: checks 
+Joe_Li7: bets $11.36
+rao999: calls $11.36
+*** RIVER *** [7c 3c 9d 4d] [Kh]
+rao999: checks 
+Joe_Li7: bets $27.55
+rao999: raises $69.81 to $97.36 and is all-in
+Joe_Li7: folds 
+Uncalled bet ($69.81) returned to rao999
+rao999 collected $91.26 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $93.76 | Rake $2.50 
+Board [7c 3c 9d 4d Kh]
+Seat 1: Joe_Li7 (button) folded on the River
+Seat 3: mr.Jckpot (small blind) folded before Flop
+Seat 4: rao999 (big blind) collected ($91.26)
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: SEETEEBEE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263402962:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:55:47 WET [2025/01/08 11:55:47 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 2: coeeeelho ($100 in chips) is sitting out
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($161.07 in chips) 
+Seat 5: MauriFierro27 ($175.64 in chips) 
+Seat 6: SEETEEBEE ($105.57 in chips) 
+rao999: posts small blind $0.50
+MauriFierro27: posts big blind $1
+coeeeelho: sits out 
+*** HOLE CARDS ***
+SEETEEBEE: raises $2 to $3
+Joe_Li7: folds 
+mr.Jckpot: folds 
+rao999: folds 
+MauriFierro27: folds 
+Uncalled bet ($2) returned to SEETEEBEE
+SEETEEBEE collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: coeeeelho
+Seat 1: Joe_Li7 folded before Flop (didn't bet)
+Seat 3: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 4: rao999 (small blind) folded before Flop
+Seat 5: MauriFierro27 (big blind) folded before Flop
+Seat 6: SEETEEBEE collected ($2.50)
+
+
+
+PokerStars Hand #254263406637:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:56:07 WET [2025/01/08 11:56:07 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 2: coeeeelho ($100 in chips) is sitting out
+Seat 6: SEETEEBEE ($107.07 in chips) is sitting out
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($160.57 in chips) 
+Seat 5: MauriFierro27 ($174.64 in chips) 
+MauriFierro27: posts small blind $0.50
+SEETEEBEE: is sitting out 
+Joe_Li7: posts big blind $1
+coeeeelho: sits out 
+*** HOLE CARDS ***
+SEETEEBEE is disconnected 
+mr.Jckpot: folds 
+rao999: raises $1.50 to $2.50
+MauriFierro27: folds 
+Joe_Li7: folds 
+Uncalled bet ($1.50) returned to rao999
+rao999 collected $2.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: coeeeelho
+Seat 6: SEETEEBEE
+Seat 1: Joe_Li7 (big blind) folded before Flop
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 (button) collected ($2.50)
+Seat 5: MauriFierro27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254263410355:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:56:26 WET [2025/01/08 11:56:26 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 6: SEETEEBEE ($107.07 in chips) is sitting out
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: coeeeelho ($100 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($162.07 in chips) 
+Seat 5: MauriFierro27 ($174.14 in chips) 
+Joe_Li7: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+rao999: folds 
+MauriFierro27: raises $1.20 to $2.20
+Joe_Li7: folds 
+coeeeelho: folds 
+Uncalled bet ($1.20) returned to MauriFierro27
+MauriFierro27 collected $2.50 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: SEETEEBEE
+Seat 1: Joe_Li7 (small blind) folded before Flop
+Seat 2: coeeeelho (big blind) folded before Flop
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 folded before Flop (didn't bet)
+Seat 5: MauriFierro27 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254263412725:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:56:39 WET [2025/01/08 11:56:39 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 6: SEETEEBEE ($107.07 in chips) is sitting out
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: coeeeelho ($100 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($162.07 in chips) 
+Seat 5: MauriFierro27 ($175.64 in chips) 
+coeeeelho: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+rao999: raises $1.50 to $2.50
+MauriFierro27: folds 
+Joe_Li7: folds 
+coeeeelho: folds 
+mr.Jckpot: folds 
+Uncalled bet ($1.50) returned to rao999
+rao999 collected $2.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: SEETEEBEE
+Seat 1: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 2: coeeeelho (small blind) folded before Flop
+Seat 3: mr.Jckpot (big blind) folded before Flop
+Seat 4: rao999 collected ($2.50)
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263416449:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:56:58 WET [2025/01/08 11:56:58 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 6: SEETEEBEE ($107.07 in chips) is sitting out
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: coeeeelho ($100 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($163.57 in chips) 
+Seat 5: MauriFierro27 ($175.64 in chips) 
+mr.Jckpot: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+Joe_Li7: folds 
+coeeeelho: raises $1.50 to $2.50
+mr.Jckpot: folds 
+rao999: calls $1.50
+*** FLOP *** [9c 3c Jd]
+rao999: checks 
+coeeeelho: bets $1.72
+rao999: folds 
+Uncalled bet ($1.72) returned to coeeeelho
+coeeeelho collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [9c 3c Jd]
+Seat 6: SEETEEBEE
+Seat 1: Joe_Li7 folded before Flop (didn't bet)
+Seat 2: coeeeelho (button) collected ($5.22)
+Seat 3: mr.Jckpot (small blind) folded before Flop
+Seat 4: rao999 (big blind) folded on the Flop
+Seat 5: MauriFierro27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263422533:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:57:30 WET [2025/01/08 11:57:30 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 5: MauriFierro27 ($175.64 in chips) is sitting out
+Seat 6: SEETEEBEE ($107.07 in chips) is sitting out
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: coeeeelho ($102.72 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($161.07 in chips) 
+rao999: posts small blind $0.50
+MauriFierro27: is sitting out 
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: raises $1.20 to $2.20
+mr.Jckpot: folds 
+rao999: folds 
+Joe_Li7: folds 
+Uncalled bet ($1.20) returned to coeeeelho
+coeeeelho collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: MauriFierro27
+Seat 6: SEETEEBEE
+Seat 1: Joe_Li7 (big blind) folded before Flop
+Seat 2: coeeeelho collected ($2.50)
+Seat 3: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 4: rao999 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254263424278:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:57:40 WET [2025/01/08 11:57:40 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 5: MauriFierro27 ($175.64 in chips) is sitting out
+Seat 6: SEETEEBEE ($107.07 in chips) is sitting out
+Seat 1: Joe_Li7 ($100 in chips) 
+Seat 2: coeeeelho ($104.22 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+Seat 4: rao999 ($160.57 in chips) 
+Joe_Li7: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+rao999: raises $1.50 to $2.50
+Joe_Li7: folds 
+coeeeelho: folds 
+Uncalled bet ($1.50) returned to rao999
+Joe_Li7 leaves the table
+rao999 collected $2.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: MauriFierro27
+Seat 6: SEETEEBEE
+Seat 1: Joe_Li7 (small blind) folded before Flop
+Seat 2: coeeeelho (big blind) folded before Flop
+Seat 3: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: rao999 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254263427624:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:57:57 WET [2025/01/08 11:57:57 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 4: rao999 ($162.07 in chips) is sitting out
+Seat 5: MauriFierro27 ($175.64 in chips) is sitting out
+Seat 6: SEETEEBEE ($107.07 in chips) is sitting out
+Seat 2: coeeeelho ($103.22 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+mr.Jckpot: posts small blind $0.50
+rao999: is sitting out 
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+Uncalled bet ($0.50) returned to coeeeelho
+coeeeelho collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: rao999
+Seat 5: MauriFierro27
+Seat 6: SEETEEBEE
+Seat 2: coeeeelho (big blind) collected ($1)
+Seat 3: mr.Jckpot (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254263429302:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 16:58:06 WET [2025/01/08 11:58:06 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 4: rao999 ($162.07 in chips) is sitting out
+Seat 5: MauriFierro27 ($175.64 in chips) is sitting out
+Seat 6: SEETEEBEE ($107.07 in chips) is sitting out
+Seat 2: coeeeelho ($103.72 in chips) 
+Seat 3: mr.Jckpot ($100 in chips) 
+coeeeelho: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Uncalled bet ($0.50) returned to mr.Jckpot
+mr.Jckpot collected $1 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: rao999
+Seat 5: MauriFierro27
+Seat 6: SEETEEBEE
+Seat 2: coeeeelho (button) (small blind) folded before Flop
+Seat 3: mr.Jckpot (big blind) collected ($1)
+
+
+
+PokerStars Hand #254263570573:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:08:08 WET [2025/01/08 12:08:08 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: rao999 ($162.07 in chips) 
+Seat 3: 3EPH ($100 in chips) 
+Seat 5: bertver1 ($100 in chips) 
+Seat 6: Gfoer ($100 in chips) 
+bertver1: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+rao999: raises $1.50 to $2.50
+3EPH: folds 
+bertver1: folds 
+dreimis190 joins the table at seat #2 
+Gfoer: calls $1.50
+*** FLOP *** [Ks 9h Qh]
+Gfoer: checks 
+rao999: bets $1.72
+Gfoer: raises $6.78 to $8.50
+rao999: calls $6.78
+*** TURN *** [Ks 9h Qh] [5h]
+Gfoer: bets $18.13
+rao999: folds 
+Uncalled bet ($18.13) returned to Gfoer
+Gfoer collected $21.50 from pot
+Gfoer: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.50 | Rake $1 
+Board [Ks 9h Qh 5h]
+Seat 1: rao999 folded on the Turn
+Seat 3: 3EPH (button) folded before Flop (didn't bet)
+Seat 5: bertver1 (small blind) folded before Flop
+Seat 6: Gfoer (big blind) collected ($21.50)
+
+
+
+PokerStars Hand #254263586476:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:09:10 WET [2025/01/08 12:09:10 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 2: dreimis190 ($100 in chips) is sitting out
+Seat 1: rao999 ($151.07 in chips) 
+Seat 3: 3EPH ($100 in chips) 
+Seat 5: bertver1 ($99.50 in chips) 
+Seat 6: Gfoer ($110.50 in chips) 
+Gfoer: posts small blind $0.50
+rao999: posts big blind $1
+dreimis190: sits out 
+*** HOLE CARDS ***
+3EPH: folds 
+bertver1: folds 
+Gfoer: folds 
+Uncalled bet ($0.50) returned to rao999
+rao999 collected $1 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: dreimis190
+Seat 1: rao999 (big blind) collected ($1)
+Seat 3: 3EPH folded before Flop (didn't bet)
+Seat 5: bertver1 (button) folded before Flop (didn't bet)
+Seat 6: Gfoer (small blind) folded before Flop
+
+
+
+PokerStars Hand #254263589832:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:09:23 WET [2025/01/08 12:09:23 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: rao999 ($151.57 in chips) 
+Seat 2: dreimis190 ($100 in chips) 
+Seat 3: 3EPH ($100 in chips) 
+Seat 5: bertver1 ($99.50 in chips) 
+Seat 6: Gfoer ($110 in chips) 
+rao999: posts small blind $0.50
+dreimis190: posts big blind $1
+*** HOLE CARDS ***
+3EPH: folds 
+bertver1: folds 
+Gfoer: folds 
+rao999: raises $1.50 to $2.50
+dreimis190: raises $6 to $8.50
+Edi131313 joins the table at seat #4 
+rao999: calls $6
+*** FLOP *** [6d 3c Kh]
+rao999: checks 
+dreimis190: bets $7.08
+rao999 has timed out
+rao999: folds 
+Uncalled bet ($7.08) returned to dreimis190
+dreimis190 collected $16.15 from pot
+dreimis190: doesn't show hand 
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [6d 3c Kh]
+Seat 1: rao999 (small blind) folded on the Flop
+Seat 2: dreimis190 (big blind) collected ($16.15)
+Seat 3: 3EPH folded before Flop (didn't bet)
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Gfoer (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263612102:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:10:49 WET [2025/01/08 12:10:49 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 4: Edi131313 ($100 in chips) is sitting out
+Seat 1: rao999 ($143.07 in chips) 
+Seat 2: dreimis190 ($107.65 in chips) 
+Seat 3: 3EPH ($100 in chips) 
+Seat 5: bertver1 ($99.50 in chips) 
+Seat 6: Gfoer ($110 in chips) 
+dreimis190: posts small blind $0.50
+3EPH: posts big blind $1
+Edi131313: sits out 
+*** HOLE CARDS ***
+bertver1: folds 
+Gfoer: folds 
+rao999: folds 
+dreimis190: folds 
+Uncalled bet ($0.50) returned to 3EPH
+3EPH collected $1 from pot
+3EPH: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: Edi131313
+Seat 1: rao999 (button) folded before Flop (didn't bet)
+Seat 2: dreimis190 (small blind) folded before Flop
+Seat 3: 3EPH (big blind) collected ($1)
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Gfoer folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263614450:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:10:58 WET [2025/01/08 12:10:58 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: rao999 ($143.07 in chips) 
+Seat 2: dreimis190 ($107.15 in chips) 
+Seat 3: 3EPH ($100.50 in chips) 
+Seat 4: Edi131313 ($100 in chips) 
+Seat 5: bertver1 ($99.50 in chips) 
+Seat 6: Gfoer ($110 in chips) 
+3EPH: posts small blind $0.50
+Edi131313: posts big blind $1
+*** HOLE CARDS ***
+bertver1: folds 
+Gfoer: folds 
+rao999: folds 
+dreimis190: folds 
+3EPH: raises $2 to $3
+Edi131313: calls $2
+*** FLOP *** [Qs 3h 5c]
+3EPH: checks 
+Edi131313: checks 
+*** TURN *** [Qs 3h 5c] [Qd]
+3EPH: checks 
+Edi131313: checks 
+*** RIVER *** [Qs 3h 5c Qd] [3s]
+3EPH: checks 
+Edi131313: checks 
+*** SHOW DOWN ***
+3EPH: shows [9h As] (two pair, Queens and Threes)
+Edi131313: shows [Ad 4c] (two pair, Queens and Threes)
+3EPH collected $2.85 from pot
+Edi131313 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Qs 3h 5c Qd 3s]
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: dreimis190 (button) folded before Flop (didn't bet)
+Seat 3: 3EPH (small blind) showed [9h As] and won ($2.85) with two pair, Queens and Threes
+Seat 4: Edi131313 (big blind) showed [Ad 4c] and won ($2.85) with two pair, Queens and Threes
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Gfoer folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263624232:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:11:35 WET [2025/01/08 12:11:35 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: rao999 ($143.07 in chips) 
+Seat 2: dreimis190 ($107.15 in chips) 
+Seat 3: 3EPH ($100.35 in chips) 
+Seat 4: Edi131313 ($99.85 in chips) 
+Seat 5: bertver1 ($99.50 in chips) 
+Seat 6: Gfoer ($110 in chips) 
+Edi131313: posts small blind $0.50
+bertver1: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+Gfoer leaves the table
+rao999: folds 
+Joe_Li7 joins the table at seat #6 
+dreimis190: folds 
+3EPH: raises $1.50 to $2.50
+Edi131313: folds 
+bertver1: folds 
+Uncalled bet ($1.50) returned to 3EPH
+3EPH collected $2.50 from pot
+3EPH: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: dreimis190 folded before Flop (didn't bet)
+Seat 3: 3EPH (button) collected ($2.50)
+Seat 4: Edi131313 (small blind) folded before Flop
+Seat 5: bertver1 (big blind) folded before Flop
+Seat 6: Gfoer folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263632563:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:12:06 WET [2025/01/08 12:12:06 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 1: rao999 ($143.07 in chips) 
+Seat 2: dreimis190 ($107.15 in chips) 
+Seat 3: 3EPH ($101.85 in chips) 
+Seat 4: Edi131313 ($99.35 in chips) 
+Seat 5: bertver1 ($98.50 in chips) 
+Seat 6: Joe_Li7 ($100 in chips) 
+bertver1: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+dreimis190: folds 
+3EPH: raises $1.50 to $2.50
+Edi131313: folds 
+bertver1: folds 
+Joe_Li7: folds 
+Uncalled bet ($1.50) returned to 3EPH
+3EPH collected $2.50 from pot
+3EPH: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: dreimis190 folded before Flop (didn't bet)
+Seat 3: 3EPH collected ($2.50)
+Seat 4: Edi131313 (button) folded before Flop (didn't bet)
+Seat 5: bertver1 (small blind) folded before Flop
+Seat 6: Joe_Li7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254263641023:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:12:37 WET [2025/01/08 12:12:37 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: rao999 ($143.07 in chips) 
+Seat 2: dreimis190 ($107.15 in chips) 
+Seat 3: 3EPH ($103.35 in chips) 
+Seat 4: Edi131313 ($99.35 in chips) 
+Seat 5: bertver1 ($98 in chips) 
+Seat 6: Joe_Li7 ($100 in chips) 
+Joe_Li7: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+dreimis190: folds 
+3EPH: folds 
+Edi131313: raises $1 to $2
+bertver1: folds 
+Joe_Li7: folds 
+rao999: calls $1
+*** FLOP *** [6s 7s 3s]
+rao999: checks 
+Edi131313: bets $2.14
+rao999: calls $2.14
+*** TURN *** [6s 7s 3s] [Ad]
+rao999: checks 
+Edi131313: checks 
+*** RIVER *** [6s 7s 3s Ad] [6d]
+rao999: bets $2.09
+Edi131313: folds 
+Uncalled bet ($2.09) returned to rao999
+rao999 collected $8.34 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.78 | Rake $0.44 
+Board [6s 7s 3s Ad 6d]
+Seat 1: rao999 (big blind) collected ($8.34)
+Seat 2: dreimis190 folded before Flop (didn't bet)
+Seat 3: 3EPH folded before Flop (didn't bet)
+Seat 4: Edi131313 folded on the River
+Seat 5: bertver1 (button) folded before Flop (didn't bet)
+Seat 6: Joe_Li7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254263654155:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:13:26 WET [2025/01/08 12:13:26 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: rao999 ($147.27 in chips) 
+Seat 2: dreimis190 ($107.15 in chips) 
+Seat 3: 3EPH ($103.35 in chips) 
+Seat 4: Edi131313 ($95.21 in chips) 
+Seat 5: bertver1 ($98 in chips) 
+Seat 6: Joe_Li7 ($100 in chips) 
+rao999: posts small blind $0.50
+dreimis190: posts big blind $1
+*** HOLE CARDS ***
+3EPH: folds 
+Edi131313: folds 
+bertver1: raises $1 to $2
+Joe_Li7: folds 
+rao999: folds 
+dreimis190: calls $1
+*** FLOP *** [9c 6h Kc]
+dreimis190: checks 
+bertver1: bets $2
+dreimis190: folds 
+Uncalled bet ($2) returned to bertver1
+bertver1 collected $4.28 from pot
+bertver1: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [9c 6h Kc]
+Seat 1: rao999 (small blind) folded before Flop
+Seat 2: dreimis190 (big blind) folded on the Flop
+Seat 3: 3EPH folded before Flop (didn't bet)
+Seat 4: Edi131313 folded before Flop (didn't bet)
+Seat 5: bertver1 collected ($4.28)
+Seat 6: Joe_Li7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263667621:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:14:17 WET [2025/01/08 12:14:17 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 3: 3EPH ($103.35 in chips) is sitting out
+Seat 1: rao999 ($146.77 in chips) 
+Seat 2: dreimis190 ($105.15 in chips) 
+Seat 4: Edi131313 ($95.21 in chips) 
+Seat 5: bertver1 ($100.28 in chips) 
+Seat 6: Joe_Li7 ($100 in chips) 
+dreimis190: posts small blind $0.50
+3EPH: is sitting out 
+Edi131313: posts big blind $1
+*** HOLE CARDS ***
+bertver1: folds 
+Joe_Li7: folds 
+rao999: folds 
+dreimis190: raises $2 to $3
+Edi131313: folds 
+Uncalled bet ($2) returned to dreimis190
+3EPH leaves the table
+dreimis190 collected $2 from pot
+dreimis190: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: 3EPH
+Seat 1: rao999 (button) folded before Flop (didn't bet)
+Seat 2: dreimis190 (small blind) collected ($2)
+Seat 4: Edi131313 (big blind) folded before Flop
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263671021:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:14:29 WET [2025/01/08 12:14:29 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: rao999 ($146.77 in chips) 
+Seat 2: dreimis190 ($106.15 in chips) 
+Seat 4: Edi131313 ($94.21 in chips) 
+Seat 5: bertver1 ($100.28 in chips) 
+Seat 6: Joe_Li7 ($100 in chips) 
+Edi131313: posts small blind $0.50
+bertver1: posts big blind $1
+*** HOLE CARDS ***
+TheBraveGirl joins the table at seat #3 
+Joe_Li7: folds 
+rao999: folds 
+dreimis190: folds 
+Edi131313: folds 
+Uncalled bet ($0.50) returned to bertver1
+bertver1 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: dreimis190 (button) folded before Flop (didn't bet)
+Seat 4: Edi131313 (small blind) folded before Flop
+Seat 5: bertver1 (big blind) collected ($1)
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263675226:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:14:45 WET [2025/01/08 12:14:45 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 3: TheBraveGirl ($100 in chips) is sitting out
+Seat 1: rao999 ($146.77 in chips) 
+Seat 2: dreimis190 ($106.15 in chips) 
+Seat 4: Edi131313 ($93.71 in chips) 
+Seat 5: bertver1 ($100.78 in chips) 
+Seat 6: Joe_Li7 ($100 in chips) 
+bertver1: posts small blind $0.50
+Joe_Li7: posts big blind $1
+TheBraveGirl: sits out 
+*** HOLE CARDS ***
+rao999: folds 
+dreimis190: raises $1.50 to $2.50
+Edi131313: folds 
+bertver1: folds 
+Joe_Li7: raises $8.50 to $11
+dreimis190: folds 
+Uncalled bet ($8.50) returned to Joe_Li7
+Joe_Li7 collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 3: TheBraveGirl
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: dreimis190 folded before Flop
+Seat 4: Edi131313 (button) folded before Flop (didn't bet)
+Seat 5: bertver1 (small blind) folded before Flop
+Seat 6: Joe_Li7 (big blind) collected ($5.50)
+
+
+
+PokerStars Hand #254263682871:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:15:13 WET [2025/01/08 12:15:13 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 3: TheBraveGirl ($100 in chips) is sitting out
+Seat 1: rao999 ($146.77 in chips) 
+Seat 2: dreimis190 ($103.65 in chips) 
+Seat 4: Edi131313 ($93.71 in chips) 
+Seat 5: bertver1 ($100.28 in chips) 
+Seat 6: Joe_Li7 ($103 in chips) 
+Joe_Li7: posts small blind $0.50
+rao999: posts big blind $1
+TheBraveGirl: sits out 
+*** HOLE CARDS ***
+dreimis190: folds 
+Edi131313: folds 
+bertver1: folds 
+Joe_Li7: raises $2 to $3
+rao999: folds 
+Uncalled bet ($2) returned to Joe_Li7
+Joe_Li7 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: TheBraveGirl
+Seat 1: rao999 (big blind) folded before Flop
+Seat 2: dreimis190 folded before Flop (didn't bet)
+Seat 4: Edi131313 folded before Flop (didn't bet)
+Seat 5: bertver1 (button) folded before Flop (didn't bet)
+Seat 6: Joe_Li7 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254263688572:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:15:34 WET [2025/01/08 12:15:34 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 3: TheBraveGirl ($100 in chips) is sitting out
+Seat 1: rao999 ($145.77 in chips) 
+Seat 2: dreimis190 ($103.65 in chips) 
+Seat 4: Edi131313 ($93.71 in chips) 
+Seat 5: bertver1 ($100.28 in chips) 
+Seat 6: Joe_Li7 ($104 in chips) 
+rao999: posts small blind $0.50
+dreimis190: posts big blind $1
+TheBraveGirl: sits out 
+*** HOLE CARDS ***
+Edi131313: folds 
+bertver1: folds 
+Joe_Li7: folds 
+rao999: folds 
+Uncalled bet ($0.50) returned to dreimis190
+dreimis190 collected $1 from pot
+dreimis190: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: TheBraveGirl
+Seat 1: rao999 (small blind) folded before Flop
+Seat 2: dreimis190 (big blind) collected ($1)
+Seat 4: Edi131313 folded before Flop (didn't bet)
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Joe_Li7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263692433:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:15:48 WET [2025/01/08 12:15:48 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 1: rao999 ($145.27 in chips) 
+Seat 2: dreimis190 ($104.15 in chips) 
+Seat 3: TheBraveGirl ($100 in chips) 
+Seat 4: Edi131313 ($93.71 in chips) 
+Seat 5: bertver1 ($100.28 in chips) 
+Seat 6: Joe_Li7 ($104 in chips) 
+dreimis190: posts small blind $0.50
+TheBraveGirl: posts big blind $1
+*** HOLE CARDS ***
+Edi131313: raises $1 to $2
+bertver1: folds 
+Joe_Li7: folds 
+rao999: calls $2
+dreimis190: folds 
+TheBraveGirl: calls $1
+*** FLOP *** [8s Jd 4s]
+TheBraveGirl: checks 
+Edi131313: checks 
+rao999: bets $4.08
+TheBraveGirl: folds 
+Edi131313: calls $4.08
+*** TURN *** [8s Jd 4s] [9c]
+Edi131313: checks 
+rao999: checks 
+*** RIVER *** [8s Jd 4s 9c] [Ad]
+Edi131313: bets $13.93
+rao999: calls $13.93
+*** SHOW DOWN ***
+Edi131313: shows [Ts Qh] (a straight, Eight to Queen)
+rao999: mucks hand 
+Edi131313 collected $40.39 from pot
+*** SUMMARY ***
+Total pot $42.52 | Rake $2.13 
+Board [8s Jd 4s 9c Ad]
+Seat 1: rao999 (button) mucked
+Seat 2: dreimis190 (small blind) folded before Flop
+Seat 3: TheBraveGirl (big blind) folded on the Flop
+Seat 4: Edi131313 showed [Ts Qh] and won ($40.39) with a straight, Eight to Queen
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263710666:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:16:55 WET [2025/01/08 12:16:55 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: rao999 ($125.26 in chips) 
+Seat 2: dreimis190 ($103.65 in chips) 
+Seat 3: TheBraveGirl ($100 in chips) 
+Seat 4: Edi131313 ($114.09 in chips) 
+Seat 5: bertver1 ($100.28 in chips) 
+Seat 6: Joe_Li7 ($104 in chips) 
+TheBraveGirl: posts small blind $0.50
+Edi131313: posts big blind $1
+*** HOLE CARDS ***
+bertver1: folds 
+Joe_Li7: raises $1.20 to $2.20
+rao999: folds 
+dreimis190: folds 
+TheBraveGirl: folds 
+Edi131313: calls $1.20
+*** FLOP *** [Td 9s 7d]
+Edi131313: checks 
+Joe_Li7: bets $3.50
+Edi131313: calls $3.50
+*** TURN *** [Td 9s 7d] [As]
+Edi131313: checks 
+Joe_Li7: bets $15.82
+Edi131313: calls $15.82
+*** RIVER *** [Td 9s 7d As] [7h]
+Edi131313: checks 
+Joe_Li7: bets $82.48 and is all-in
+Edi131313: folds 
+Uncalled bet ($82.48) returned to Joe_Li7
+Joe_Li7 collected $41.36 from pot
+*** SUMMARY ***
+Total pot $43.54 | Rake $2.18 
+Board [Td 9s 7d As 7h]
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: dreimis190 (button) folded before Flop (didn't bet)
+Seat 3: TheBraveGirl (small blind) folded before Flop
+Seat 4: Edi131313 (big blind) folded on the River
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Joe_Li7 collected ($41.36)
+
+
+
+PokerStars Hand #254263734077:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:18:19 WET [2025/01/08 12:18:19 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: rao999 ($125.26 in chips) 
+Seat 2: dreimis190 ($103.65 in chips) 
+Seat 3: TheBraveGirl ($100 in chips) 
+Seat 4: Edi131313 ($92.57 in chips) 
+Seat 5: bertver1 ($100.28 in chips) 
+Seat 6: Joe_Li7 ($123.84 in chips) 
+Edi131313: posts small blind $0.50
+bertver1: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+rao999: raises $1.50 to $2.50
+dreimis190: raises $5 to $7.50
+TheBraveGirl: folds 
+Edi131313: folds 
+bertver1: folds 
+rao999: folds 
+Uncalled bet ($5) returned to dreimis190
+dreimis190 collected $6.50 from pot
+dreimis190: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: rao999 folded before Flop
+Seat 2: dreimis190 collected ($6.50)
+Seat 3: TheBraveGirl (button) folded before Flop (didn't bet)
+Seat 4: Edi131313 (small blind) folded before Flop
+Seat 5: bertver1 (big blind) folded before Flop
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263743404:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:18:52 WET [2025/01/08 12:18:52 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 1: rao999 ($122.76 in chips) 
+Seat 2: dreimis190 ($107.65 in chips) 
+Seat 3: TheBraveGirl ($100 in chips) 
+Seat 4: Edi131313 ($92.07 in chips) 
+Seat 5: bertver1 ($99.28 in chips) 
+Seat 6: Joe_Li7 ($123.84 in chips) 
+bertver1: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+dreimis190: folds 
+TheBraveGirl: folds 
+Edi131313: raises $2 to $3
+bertver1: folds 
+Joe_Li7: folds 
+Uncalled bet ($2) returned to Edi131313
+Edi131313 collected $2.50 from pot
+Edi131313: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: dreimis190 folded before Flop (didn't bet)
+Seat 3: TheBraveGirl folded before Flop (didn't bet)
+Seat 4: Edi131313 (button) collected ($2.50)
+Seat 5: bertver1 (small blind) folded before Flop
+Seat 6: Joe_Li7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254263749122:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:19:13 WET [2025/01/08 12:19:13 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: rao999 ($122.76 in chips) 
+Seat 2: dreimis190 ($107.65 in chips) 
+Seat 3: TheBraveGirl ($100 in chips) 
+Seat 4: Edi131313 ($93.57 in chips) 
+Seat 5: bertver1 ($98.78 in chips) 
+Seat 6: Joe_Li7 ($122.84 in chips) 
+Joe_Li7: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+dreimis190: folds 
+TheBraveGirl: folds 
+Edi131313: raises $1 to $2
+bertver1: calls $2
+Joe_Li7: folds 
+rao999: folds 
+*** FLOP *** [Td 2s Qs]
+Edi131313: checks 
+bertver1: bets $2
+Edi131313: calls $2
+*** TURN *** [Td 2s Qs] [Jd]
+Edi131313: checks 
+bertver1: checks 
+*** RIVER *** [Td 2s Qs Jd] [As]
+Edi131313: checks 
+bertver1: bets $3
+Edi131313: calls $3
+*** SHOW DOWN ***
+bertver1: shows [Ts Ad] (two pair, Aces and Tens)
+Edi131313: mucks hand 
+bertver1 collected $14.72 from pot
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.78 
+Board [Td 2s Qs Jd As]
+Seat 1: rao999 (big blind) folded before Flop
+Seat 2: dreimis190 folded before Flop (didn't bet)
+Seat 3: TheBraveGirl folded before Flop (didn't bet)
+Seat 4: Edi131313 mucked
+Seat 5: bertver1 (button) showed [Ts Ad] and won ($14.72) with two pair, Aces and Tens
+Seat 6: Joe_Li7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254263761798:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:19:59 WET [2025/01/08 12:19:59 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: rao999 ($121.76 in chips) 
+Seat 2: dreimis190 ($107.65 in chips) 
+Seat 3: TheBraveGirl ($100 in chips) 
+Seat 4: Edi131313 ($86.57 in chips) 
+Seat 5: bertver1 ($106.50 in chips) 
+Seat 6: Joe_Li7 ($122.34 in chips) 
+rao999: posts small blind $0.50
+dreimis190: posts big blind $1
+*** HOLE CARDS ***
+TheBraveGirl: folds 
+Edi131313: folds 
+bertver1: raises $1 to $2
+Joe_Li7: folds 
+rao999: folds 
+dreimis190: calls $1
+*** FLOP *** [2d 9s 2h]
+dreimis190: checks 
+bertver1: bets $3
+dreimis190: folds 
+Uncalled bet ($3) returned to bertver1
+bertver1 collected $4.28 from pot
+bertver1: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [2d 9s 2h]
+Seat 1: rao999 (small blind) folded before Flop
+Seat 2: dreimis190 (big blind) folded on the Flop
+Seat 3: TheBraveGirl folded before Flop (didn't bet)
+Seat 4: Edi131313 folded before Flop (didn't bet)
+Seat 5: bertver1 collected ($4.28)
+Seat 6: Joe_Li7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263775965:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:20:50 WET [2025/01/08 12:20:50 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 1: rao999 ($121.26 in chips) 
+Seat 2: dreimis190 ($105.65 in chips) 
+Seat 3: TheBraveGirl ($100 in chips) 
+Seat 4: Edi131313 ($86.57 in chips) 
+Seat 5: bertver1 ($108.78 in chips) 
+Seat 6: Joe_Li7 ($122.34 in chips) 
+dreimis190: posts small blind $0.50
+TheBraveGirl: posts big blind $1
+*** HOLE CARDS ***
+Edi131313: raises $1 to $2
+bertver1: folds 
+Joe_Li7: folds 
+rao999: folds 
+dreimis190: folds 
+TheBraveGirl: calls $1
+*** FLOP *** [Ac 6s Kh]
+TheBraveGirl: checks 
+Edi131313: checks 
+*** TURN *** [Ac 6s Kh] [7d]
+TheBraveGirl: checks 
+Edi131313: checks 
+*** RIVER *** [Ac 6s Kh 7d] [Qs]
+TheBraveGirl: bets $4.92
+Edi131313: folds 
+Uncalled bet ($4.92) returned to TheBraveGirl
+TheBraveGirl collected $4.28 from pot
+TheBraveGirl: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ac 6s Kh 7d Qs]
+Seat 1: rao999 (button) folded before Flop (didn't bet)
+Seat 2: dreimis190 (small blind) folded before Flop
+Seat 3: TheBraveGirl (big blind) collected ($4.28)
+Seat 4: Edi131313 folded on the River
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263788796:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:21:36 WET [2025/01/08 12:21:36 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: rao999 ($121.26 in chips) 
+Seat 2: dreimis190 ($105.15 in chips) 
+Seat 3: TheBraveGirl ($102.28 in chips) 
+Seat 4: Edi131313 ($84.57 in chips) 
+Seat 5: bertver1 ($108.78 in chips) 
+Seat 6: Joe_Li7 ($122.34 in chips) 
+TheBraveGirl: posts small blind $0.50
+Edi131313: posts big blind $1
+*** HOLE CARDS ***
+bertver1: folds 
+Joe_Li7: folds 
+rao999: raises $1.50 to $2.50
+dreimis190: folds 
+TheBraveGirl: folds 
+Edi131313: folds 
+Uncalled bet ($1.50) returned to rao999
+rao999 collected $2.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rao999 collected ($2.50)
+Seat 2: dreimis190 (button) folded before Flop (didn't bet)
+Seat 3: TheBraveGirl (small blind) folded before Flop
+Seat 4: Edi131313 (big blind) folded before Flop
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263794248:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:21:56 WET [2025/01/08 12:21:56 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: rao999 ($122.76 in chips) 
+Seat 2: dreimis190 ($105.15 in chips) 
+Seat 3: TheBraveGirl ($101.78 in chips) 
+Seat 4: Edi131313 ($83.57 in chips) 
+Seat 5: bertver1 ($108.78 in chips) 
+Seat 6: Joe_Li7 ($122.34 in chips) 
+Edi131313: posts small blind $0.50
+bertver1: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+rao999: raises $1.50 to $2.50
+dreimis190: folds 
+TheBraveGirl: folds 
+Edi131313: calls $2
+bertver1: folds 
+*** FLOP *** [4c 5c Ts]
+Edi131313: checks 
+rao999: bets $1.43
+Edi131313: raises $8.56 to $9.99
+rao999: calls $8.56
+*** TURN *** [4c 5c Ts] [5h]
+Edi131313: bets $12.34
+rao999: folds 
+Uncalled bet ($12.34) returned to Edi131313
+Edi131313 collected $24.68 from pot
+Edi131313: doesn't show hand 
+*** SUMMARY ***
+Total pot $25.98 | Rake $1.30 
+Board [4c 5c Ts 5h]
+Seat 1: rao999 folded on the Turn
+Seat 2: dreimis190 folded before Flop (didn't bet)
+Seat 3: TheBraveGirl (button) folded before Flop (didn't bet)
+Seat 4: Edi131313 (small blind) collected ($24.68)
+Seat 5: bertver1 (big blind) folded before Flop
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263813573:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:23:07 WET [2025/01/08 12:23:07 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 1: rao999 ($110.27 in chips) 
+Seat 2: dreimis190 ($105.15 in chips) 
+Seat 3: TheBraveGirl ($101.78 in chips) 
+Seat 4: Edi131313 ($95.76 in chips) 
+Seat 5: bertver1 ($107.78 in chips) 
+Seat 6: Joe_Li7 ($122.34 in chips) 
+bertver1: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+dreimis190: folds 
+TheBraveGirl: folds 
+Edi131313: folds 
+bertver1: folds 
+Uncalled bet ($0.50) returned to Joe_Li7
+Joe_Li7 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: dreimis190 folded before Flop (didn't bet)
+Seat 3: TheBraveGirl folded before Flop (didn't bet)
+Seat 4: Edi131313 (button) folded before Flop (didn't bet)
+Seat 5: bertver1 (small blind) folded before Flop
+Seat 6: Joe_Li7 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254263819166:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:23:27 WET [2025/01/08 12:23:27 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: rao999 ($110.27 in chips) is sitting out
+Seat 2: dreimis190 ($105.15 in chips) 
+Seat 3: TheBraveGirl ($101.78 in chips) 
+Seat 4: Edi131313 ($95.76 in chips) 
+Seat 5: bertver1 ($107.28 in chips) 
+Seat 6: Joe_Li7 ($122.84 in chips) 
+Joe_Li7: posts small blind $0.50
+rao999: is sitting out 
+dreimis190: posts big blind $1
+*** HOLE CARDS ***
+TheBraveGirl: folds 
+Edi131313: raises $1 to $2
+bertver1: folds 
+Joe_Li7: folds 
+dreimis190: calls $1
+*** FLOP *** [Ad 6s 4h]
+dreimis190: checks 
+Edi131313: checks 
+*** TURN *** [Ad 6s 4h] [9c]
+dreimis190: bets $3
+Edi131313: folds 
+Uncalled bet ($3) returned to dreimis190
+dreimis190 collected $4.28 from pot
+dreimis190: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ad 6s 4h 9c]
+Seat 1: rao999
+Seat 2: dreimis190 (big blind) collected ($4.28)
+Seat 3: TheBraveGirl folded before Flop (didn't bet)
+Seat 4: Edi131313 folded on the Turn
+Seat 5: bertver1 (button) folded before Flop (didn't bet)
+Seat 6: Joe_Li7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254263828345:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:24:01 WET [2025/01/08 12:24:01 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: rao999 ($110.27 in chips) is sitting out
+Seat 2: dreimis190 ($107.43 in chips) 
+Seat 3: TheBraveGirl ($101.78 in chips) 
+Seat 4: Edi131313 ($93.76 in chips) 
+Seat 5: bertver1 ($107.28 in chips) 
+Seat 6: Joe_Li7 ($122.34 in chips) 
+dreimis190: posts small blind $0.50
+TheBraveGirl: posts big blind $1
+*** HOLE CARDS ***
+Edi131313: raises $1 to $2
+bertver1: folds 
+Joe_Li7: folds 
+dreimis190: folds 
+TheBraveGirl: folds 
+Uncalled bet ($1) returned to Edi131313
+Edi131313 collected $2.50 from pot
+Edi131313: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rao999
+Seat 2: dreimis190 (small blind) folded before Flop
+Seat 3: TheBraveGirl (big blind) folded before Flop
+Seat 4: Edi131313 collected ($2.50)
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Joe_Li7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263831645:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:24:13 WET [2025/01/08 12:24:13 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: rao999 ($110.27 in chips) is sitting out
+Seat 2: dreimis190 ($106.93 in chips) 
+Seat 3: TheBraveGirl ($100.78 in chips) 
+Seat 4: Edi131313 ($95.26 in chips) 
+Seat 5: bertver1 ($107.28 in chips) 
+Seat 6: Joe_Li7 ($122.34 in chips) 
+TheBraveGirl: posts small blind $0.50
+Edi131313: posts big blind $1
+rao999: sits out 
+*** HOLE CARDS ***
+bertver1: folds 
+Joe_Li7: raises $2.50 to $3.50
+dreimis190: folds 
+TheBraveGirl: folds 
+Edi131313: folds 
+Uncalled bet ($2.50) returned to Joe_Li7
+Joe_Li7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rao999
+Seat 2: dreimis190 (button) folded before Flop (didn't bet)
+Seat 3: TheBraveGirl (small blind) folded before Flop
+Seat 4: Edi131313 (big blind) folded before Flop
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Joe_Li7 collected ($2.50)
+
+
+
+PokerStars Hand #254263843239:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:24:56 WET [2025/01/08 12:24:56 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: rao999 ($110.27 in chips) is sitting out
+Seat 2: dreimis190 ($106.93 in chips) 
+Seat 3: TheBraveGirl ($100.28 in chips) 
+Seat 4: Edi131313 ($94.26 in chips) 
+Seat 5: bertver1 ($107.28 in chips) 
+Seat 6: Joe_Li7 ($123.84 in chips) 
+Edi131313: posts small blind $0.50
+bertver1: posts big blind $1
+rao999: sits out 
+*** HOLE CARDS ***
+Joe_Li7: raises $1.20 to $2.20
+dreimis190: folds 
+TheBraveGirl: folds 
+Edi131313: folds 
+bertver1: calls $1.20
+*** FLOP *** [8d 2h 4d]
+bertver1: checks 
+Joe_Li7: checks 
+*** TURN *** [8d 2h 4d] [Ac]
+bertver1: checks 
+Joe_Li7: bets $1.54
+bertver1: folds 
+Uncalled bet ($1.54) returned to Joe_Li7
+Joe_Li7 collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [8d 2h 4d Ac]
+Seat 1: rao999
+Seat 2: dreimis190 folded before Flop (didn't bet)
+Seat 3: TheBraveGirl (button) folded before Flop (didn't bet)
+Seat 4: Edi131313 (small blind) folded before Flop
+Seat 5: bertver1 (big blind) folded on the Turn
+Seat 6: Joe_Li7 collected ($4.66)
+
+
+
+PokerStars Hand #254263856222:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:25:43 WET [2025/01/08 12:25:43 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 1: rao999 ($110.27 in chips) is sitting out
+Seat 2: dreimis190 ($106.93 in chips) 
+Seat 3: TheBraveGirl ($100.28 in chips) 
+Seat 4: Edi131313 ($93.76 in chips) 
+Seat 5: bertver1 ($105.08 in chips) 
+Seat 6: Joe_Li7 ($126.30 in chips) 
+bertver1: posts small blind $0.50
+Joe_Li7: posts big blind $1
+rao999: sits out 
+*** HOLE CARDS ***
+dreimis190: folds 
+TheBraveGirl: raises $1 to $2
+Edi131313: raises $5.50 to $7.50
+bertver1: folds 
+Joe_Li7: folds 
+TheBraveGirl: folds 
+Uncalled bet ($5.50) returned to Edi131313
+Edi131313 collected $5.50 from pot
+Edi131313: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: rao999
+Seat 2: dreimis190 folded before Flop (didn't bet)
+Seat 3: TheBraveGirl folded before Flop
+Seat 4: Edi131313 (button) collected ($5.50)
+Seat 5: bertver1 (small blind) folded before Flop
+Seat 6: Joe_Li7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254263860161:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:25:58 WET [2025/01/08 12:25:58 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: rao999 ($110.27 in chips) 
+Seat 2: dreimis190 ($106.93 in chips) 
+Seat 3: TheBraveGirl ($100 in chips) 
+Seat 4: Edi131313 ($97.26 in chips) 
+Seat 5: bertver1 ($104.58 in chips) 
+Seat 6: Joe_Li7 ($125.30 in chips) 
+Joe_Li7: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+dreimis190: folds 
+TheBraveGirl: raises $1 to $2
+Edi131313: folds 
+bertver1: folds 
+Joe_Li7: folds 
+rao999: raises $10 to $12
+TheBraveGirl: folds 
+Uncalled bet ($10) returned to rao999
+rao999 collected $4.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 1: rao999 (big blind) collected ($4.50)
+Seat 2: dreimis190 folded before Flop (didn't bet)
+Seat 3: TheBraveGirl folded before Flop
+Seat 4: Edi131313 folded before Flop (didn't bet)
+Seat 5: bertver1 (button) folded before Flop (didn't bet)
+Seat 6: Joe_Li7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254263870730:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:26:36 WET [2025/01/08 12:26:36 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: rao999 ($112.77 in chips) 
+Seat 2: dreimis190 ($106.93 in chips) 
+Seat 3: TheBraveGirl ($100 in chips) 
+Seat 4: Edi131313 ($97.26 in chips) 
+Seat 5: bertver1 ($104.58 in chips) 
+Seat 6: Joe_Li7 ($124.80 in chips) 
+rao999: posts small blind $0.50
+dreimis190: posts big blind $1
+*** HOLE CARDS ***
+TheBraveGirl: folds 
+Edi131313: raises $1 to $2
+bertver1: folds 
+Joe_Li7: folds 
+rao999: folds 
+dreimis190: folds 
+Uncalled bet ($1) returned to Edi131313
+Edi131313 collected $2.50 from pot
+Edi131313: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rao999 (small blind) folded before Flop
+Seat 2: dreimis190 (big blind) folded before Flop
+Seat 3: TheBraveGirl folded before Flop (didn't bet)
+Seat 4: Edi131313 collected ($2.50)
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Joe_Li7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263879577:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:27:08 WET [2025/01/08 12:27:08 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 1: rao999 ($112.27 in chips) 
+Seat 2: dreimis190 ($105.93 in chips) 
+Seat 3: TheBraveGirl ($100 in chips) 
+Seat 4: Edi131313 ($98.76 in chips) 
+Seat 5: bertver1 ($104.58 in chips) 
+Seat 6: Joe_Li7 ($124.80 in chips) 
+dreimis190: posts small blind $0.50
+TheBraveGirl: posts big blind $1
+*** HOLE CARDS ***
+Edi131313: folds 
+bertver1: folds 
+Joe_Li7: folds 
+rao999: folds 
+dreimis190: folds 
+Uncalled bet ($0.50) returned to TheBraveGirl
+TheBraveGirl collected $1 from pot
+TheBraveGirl: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: rao999 (button) folded before Flop (didn't bet)
+Seat 2: dreimis190 (small blind) folded before Flop
+Seat 3: TheBraveGirl (big blind) collected ($1)
+Seat 4: Edi131313 folded before Flop (didn't bet)
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263883988:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:27:24 WET [2025/01/08 12:27:24 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: rao999 ($112.27 in chips) 
+Seat 2: dreimis190 ($105.43 in chips) 
+Seat 3: TheBraveGirl ($100.50 in chips) 
+Seat 4: Edi131313 ($98.76 in chips) 
+Seat 5: bertver1 ($104.58 in chips) 
+Seat 6: Joe_Li7 ($124.80 in chips) 
+TheBraveGirl: posts small blind $0.50
+Edi131313: posts big blind $1
+*** HOLE CARDS ***
+bertver1: folds 
+Joe_Li7: folds 
+bertver1 leaves the table
+rao999: folds 
+dreimis190: raises $1.50 to $2.50
+TheBraveGirl: folds 
+vpetriu joins the table at seat #5 
+Edi131313: calls $1.50
+*** FLOP *** [7d Ah 2d]
+Edi131313: checks 
+dreimis190: bets $2.11
+Edi131313: calls $2.11
+*** TURN *** [7d Ah 2d] [Kd]
+Edi131313: checks 
+dreimis190: bets $8.42
+Edi131313: folds 
+Uncalled bet ($8.42) returned to dreimis190
+dreimis190 collected $9.23 from pot
+dreimis190: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.72 | Rake $0.49 
+Board [7d Ah 2d Kd]
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: dreimis190 (button) collected ($9.23)
+Seat 3: TheBraveGirl (small blind) folded before Flop
+Seat 4: Edi131313 (big blind) folded on the Turn
+Seat 5: bertver1 folded before Flop (didn't bet)
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254263896592:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:28:11 WET [2025/01/08 12:28:11 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: rao999 ($112.27 in chips) 
+Seat 2: dreimis190 ($110.05 in chips) 
+Seat 3: TheBraveGirl ($100 in chips) 
+Seat 4: Edi131313 ($94.15 in chips) 
+Seat 5: vpetriu ($100 in chips) 
+Seat 6: Joe_Li7 ($124.80 in chips) 
+Edi131313: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+rao999: folds 
+dreimis190: folds 
+TheBraveGirl: folds 
+Edi131313: folds 
+Uncalled bet ($0.50) returned to vpetriu
+vpetriu collected $1 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: dreimis190 folded before Flop (didn't bet)
+Seat 3: TheBraveGirl (button) folded before Flop (didn't bet)
+Seat 4: Edi131313 (small blind) folded before Flop
+Seat 5: vpetriu (big blind) collected ($1)
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264042211:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:36:52 WET [2025/01/08 12:36:52 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 6: Joe_Li7 ($123.30 in chips) is sitting out
+Seat 1: rao999 ($108.21 in chips) 
+Seat 2: BoyLoc0 ($103.20 in chips) 
+Seat 3: vadjkeee ($107.84 in chips) 
+Seat 4: Edi131313 ($88.28 in chips) 
+Seat 5: vpetriu ($101.50 in chips) 
+Edi131313: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+BoyLoc0: folds 
+vadjkeee: raises $2 to $3
+Edi131313: folds 
+vpetriu: folds 
+Uncalled bet ($2) returned to vadjkeee
+vadjkeee collected $2.50 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Joe_Li7
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: vadjkeee (button) collected ($2.50)
+Seat 4: Edi131313 (small blind) folded before Flop
+Seat 5: vpetriu (big blind) folded before Flop
+
+
+
+PokerStars Hand #254264048486:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:37:14 WET [2025/01/08 12:37:14 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 6: Joe_Li7 ($123.30 in chips) is sitting out
+Seat 1: rao999 ($108.21 in chips) 
+Seat 2: BoyLoc0 ($103.20 in chips) 
+Seat 3: vadjkeee ($109.34 in chips) 
+Seat 4: Edi131313 ($87.78 in chips) 
+Seat 5: vpetriu ($100.50 in chips) 
+vpetriu: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+vadjkeee: folds 
+Edi131313: raises $1 to $2
+vpetriu: folds 
+rao999: raises $9 to $11
+Edi131313: calls $9
+*** FLOP *** [7d Jc Qd]
+rao999: bets $14.11
+Edi131313: calls $14.11
+*** TURN *** [7d Jc Qd] [Ks]
+rao999: checks 
+Edi131313: bets $24.11
+rao999: calls $24.11
+*** RIVER *** [7d Jc Qd Ks] [Js]
+rao999: checks 
+Edi131313: checks 
+*** SHOW DOWN ***
+rao999: shows [Ah As] (two pair, Aces and Jacks)
+Edi131313: shows [Ts 9s] (a straight, Nine to King)
+Edi131313 collected $96.44 from pot
+*** SUMMARY ***
+Total pot $98.94 | Rake $2.50 
+Board [7d Jc Qd Ks Js]
+Seat 6: Joe_Li7
+Seat 1: rao999 (big blind) showed [Ah As] and lost with two pair, Aces and Jacks
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: vadjkeee folded before Flop (didn't bet)
+Seat 4: Edi131313 (button) showed [Ts 9s] and won ($96.44) with a straight, Nine to King
+Seat 5: vpetriu (small blind) folded before Flop
+
+
+
+PokerStars Hand #254264066569:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:38:18 WET [2025/01/08 12:38:18 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 6: Joe_Li7 ($123.30 in chips) is sitting out
+Seat 1: rao999 ($100 in chips) 
+Seat 2: BoyLoc0 ($103.20 in chips) 
+Seat 3: vadjkeee ($109.34 in chips) 
+Seat 4: Edi131313 ($135 in chips) 
+Seat 5: vpetriu ($100 in chips) 
+rao999: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+Edi131313: raises $1 to $2
+vpetriu: folds 
+rao999: folds 
+BoyLoc0: raises $9 to $11
+Edi131313: calls $9
+*** FLOP *** [Kh 3c Qs]
+BoyLoc0: bets $13.69
+Edi131313: raises $13.69 to $27.38
+BoyLoc0: folds 
+Uncalled bet ($13.69) returned to Edi131313
+Edi131313 collected $47.39 from pot
+Edi131313: doesn't show hand 
+*** SUMMARY ***
+Total pot $49.88 | Rake $2.49 
+Board [Kh 3c Qs]
+Seat 6: Joe_Li7
+Seat 1: rao999 (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) folded on the Flop
+Seat 3: vadjkeee folded before Flop (didn't bet)
+Seat 4: Edi131313 collected ($47.39)
+Seat 5: vpetriu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264081340:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:39:11 WET [2025/01/08 12:39:11 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 6: Joe_Li7 ($123.30 in chips) is sitting out
+Seat 1: rao999 ($100 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: vadjkeee ($109.34 in chips) 
+Seat 4: Edi131313 ($157.70 in chips) 
+Seat 5: vpetriu ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+vadjkeee: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+Edi131313: raises $1 to $2
+vpetriu: folds 
+rao999: calls $2
+BoyLoc0: folds 
+vadjkeee: folds 
+*** FLOP *** [Js 6d Ks]
+Edi131313: checks 
+rao999: checks 
+*** TURN *** [Js 6d Ks] [5c]
+Edi131313: bets $1
+rao999: calls $1
+*** RIVER *** [Js 6d Ks 5c] [Jh]
+Edi131313: bets $1
+rao999: calls $1
+*** SHOW DOWN ***
+Edi131313: shows [3h Kh] (two pair, Kings and Jacks)
+rao999: mucks hand 
+Edi131313 collected $9.02 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Js 6d Ks 5c Jh]
+Seat 6: Joe_Li7
+Seat 1: rao999 (button) mucked
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: vadjkeee (big blind) folded before Flop
+Seat 4: Edi131313 showed [3h Kh] and won ($9.02) with two pair, Kings and Jacks
+Seat 5: vpetriu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264094342:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:39:56 WET [2025/01/08 12:39:56 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 6: Joe_Li7 ($123.30 in chips) is sitting out
+Seat 1: rao999 ($100 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: vadjkeee ($108.34 in chips) 
+Seat 4: Edi131313 ($162.72 in chips) 
+Seat 5: vpetriu ($100 in chips) 
+vadjkeee: posts small blind $0.50
+Edi131313: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+vpetriu: folds 
+rao999: raises $1.50 to $2.50
+BoyLoc0: folds 
+vadjkeee: folds 
+Edi131313: calls $1.50
+*** FLOP *** [7d 5s 9h]
+Edi131313: checks 
+rao999: bets $3.92
+Edi131313: calls $3.92
+*** TURN *** [7d 5s 9h] [6s]
+Edi131313: checks 
+rao999: checks 
+*** RIVER *** [7d 5s 9h 6s] [4d]
+Edi131313: bets $6.34
+rao999 has timed out
+rao999: folds 
+Uncalled bet ($6.34) returned to Edi131313
+Edi131313 collected $12.67 from pot
+Edi131313: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [7d 5s 9h 6s 4d]
+Seat 6: Joe_Li7
+Seat 1: rao999 folded on the River
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: vadjkeee (small blind) folded before Flop
+Seat 4: Edi131313 (big blind) collected ($12.67)
+Seat 5: vpetriu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264112903:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:41:03 WET [2025/01/08 12:41:03 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 6: Joe_Li7 ($123.30 in chips) is sitting out
+Seat 1: rao999 ($100 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: vadjkeee ($107.84 in chips) 
+Seat 4: Edi131313 ($168.97 in chips) 
+Seat 5: vpetriu ($100 in chips) 
+Edi131313: posts small blind $0.50
+vpetriu: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+rao999: folds 
+BoyLoc0: raises $1.50 to $2.50
+vadjkeee: folds 
+Edi131313: folds 
+vpetriu: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Joe_Li7
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 collected ($2.50)
+Seat 3: vadjkeee (button) folded before Flop (didn't bet)
+Seat 4: Edi131313 (small blind) folded before Flop
+Seat 5: vpetriu (big blind) folded before Flop
+
+
+
+PokerStars Hand #254264121515:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:41:34 WET [2025/01/08 12:41:34 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 1: rao999 ($100 in chips) 
+Seat 2: BoyLoc0 ($101.50 in chips) 
+Seat 3: vadjkeee ($107.84 in chips) 
+Seat 4: Edi131313 ($168.47 in chips) 
+Seat 5: vpetriu ($100 in chips) 
+Seat 6: Joe_Li7 ($123.30 in chips) 
+vpetriu: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+BoyLoc0: folds 
+vadjkeee: folds 
+Edi131313: raises $2 to $3
+vpetriu: folds 
+Joe_Li7: folds 
+Uncalled bet ($2) returned to Edi131313
+Edi131313 collected $2.50 from pot
+Edi131313: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: vadjkeee folded before Flop (didn't bet)
+Seat 4: Edi131313 (button) collected ($2.50)
+Seat 5: vpetriu (small blind) folded before Flop
+Seat 6: Joe_Li7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254264126641:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:41:52 WET [2025/01/08 12:41:52 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: rao999 ($100 in chips) 
+Seat 2: BoyLoc0 ($101.50 in chips) 
+Seat 3: vadjkeee ($107.84 in chips) 
+Seat 4: Edi131313 ($169.97 in chips) 
+Seat 5: vpetriu ($100 in chips) 
+Seat 6: Joe_Li7 ($122.30 in chips) 
+Joe_Li7: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+vadjkeee: raises $1.50 to $2.50
+Edi131313: folds 
+vpetriu: raises $5 to $7.50
+Joe_Li7: folds 
+rao999: folds 
+vadjkeee: folds 
+Uncalled bet ($5) returned to vpetriu
+vpetriu collected $6.50 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: rao999 (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: vadjkeee folded before Flop
+Seat 4: Edi131313 folded before Flop (didn't bet)
+Seat 5: vpetriu (button) collected ($6.50)
+Seat 6: Joe_Li7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254264133731:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:42:17 WET [2025/01/08 12:42:17 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: rao999 ($100 in chips) 
+Seat 2: BoyLoc0 ($101.50 in chips) 
+Seat 3: vadjkeee ($105.34 in chips) 
+Seat 4: Edi131313 ($169.97 in chips) 
+Seat 5: vpetriu ($104 in chips) 
+Seat 6: Joe_Li7 ($121.80 in chips) 
+rao999: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+Edi131313: folds 
+vpetriu: folds 
+Joe_Li7: raises $1.50 to $2.50
+rao999: raises $9.50 to $12
+BoyLoc0: folds 
+Joe_Li7: folds 
+Uncalled bet ($9.50) returned to rao999
+rao999 collected $6 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: rao999 (small blind) collected ($6)
+Seat 2: BoyLoc0 (big blind) folded before Flop
+Seat 3: vadjkeee folded before Flop (didn't bet)
+Seat 4: Edi131313 folded before Flop (didn't bet)
+Seat 5: vpetriu folded before Flop (didn't bet)
+Seat 6: Joe_Li7 (button) folded before Flop
+
+
+
+PokerStars Hand #254264139303:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:42:37 WET [2025/01/08 12:42:37 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 1: rao999 ($103.50 in chips) 
+Seat 2: BoyLoc0 ($100.50 in chips) 
+Seat 3: vadjkeee ($105.34 in chips) 
+Seat 4: Edi131313 ($169.97 in chips) 
+Seat 5: vpetriu ($104 in chips) 
+Seat 6: Joe_Li7 ($119.30 in chips) 
+BoyLoc0: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+Edi131313: folds 
+vpetriu: folds 
+Joe_Li7: folds 
+rao999: raises $1.50 to $2.50
+BoyLoc0: folds 
+vadjkeee: folds 
+Uncalled bet ($1.50) returned to rao999
+rao999 collected $2.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rao999 (button) collected ($2.50)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: vadjkeee (big blind) folded before Flop
+Seat 4: Edi131313 folded before Flop (didn't bet)
+Seat 5: vpetriu folded before Flop (didn't bet)
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264146239:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:43:03 WET [2025/01/08 12:43:03 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 4: Edi131313 ($169.97 in chips) is sitting out
+Seat 1: rao999 ($105 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: vadjkeee ($104.34 in chips) 
+Seat 5: vpetriu ($104 in chips) 
+Seat 6: Joe_Li7 ($119.30 in chips) 
+vadjkeee: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+rao999: folds 
+BoyLoc0: folds 
+vadjkeee: raises $2 to $3
+vpetriu: folds 
+Uncalled bet ($2) returned to vadjkeee
+vadjkeee collected $2 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: Edi131313
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: vadjkeee (small blind) collected ($2)
+Seat 5: vpetriu (big blind) folded before Flop
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264150440:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:43:18 WET [2025/01/08 12:43:18 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 4: Edi131313 ($169.97 in chips) is sitting out
+Seat 1: rao999 ($105 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: vadjkeee ($105.34 in chips) 
+Seat 5: vpetriu ($103 in chips) 
+Seat 6: Joe_Li7 ($119.30 in chips) 
+vpetriu: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+BoyLoc0: raises $1.50 to $2.50
+vadjkeee: folds 
+vpetriu: folds 
+Joe_Li7: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: Edi131313
+Seat 1: rao999 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 collected ($2.50)
+Seat 3: vadjkeee (button) folded before Flop (didn't bet)
+Seat 5: vpetriu (small blind) folded before Flop
+Seat 6: Joe_Li7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254264155981:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:43:37 WET [2025/01/08 12:43:37 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: rao999 ($105 in chips) is sitting out
+Seat 4: Edi131313 ($169.97 in chips) is sitting out
+Seat 2: BoyLoc0 ($101.50 in chips) 
+Seat 3: vadjkeee ($105.34 in chips) 
+Seat 5: vpetriu ($102.50 in chips) 
+Seat 6: Joe_Li7 ($118.30 in chips) 
+Joe_Li7: posts small blind $0.50
+rao999: is sitting out 
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+vpetriu: folds 
+Joe_Li7: raises $2 to $3
+BoyLoc0: calls $2
+*** FLOP *** [5h 2d 8c]
+Joe_Li7: checks 
+BoyLoc0: checks 
+*** TURN *** [5h 2d 8c] [Th]
+Joe_Li7: bets $8.55
+BoyLoc0: folds 
+Uncalled bet ($8.55) returned to Joe_Li7
+Joe_Li7 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [5h 2d 8c Th]
+Seat 1: rao999
+Seat 4: Edi131313
+Seat 2: BoyLoc0 (big blind) folded on the Turn
+Seat 3: vadjkeee folded before Flop (didn't bet)
+Seat 5: vpetriu (button) folded before Flop (didn't bet)
+Seat 6: Joe_Li7 (small blind) collected ($5.70)
+
+
+
+PokerStars Hand #254264168663:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:44:22 WET [2025/01/08 12:44:22 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: rao999 ($105 in chips) is sitting out
+Seat 4: Edi131313 ($169.97 in chips) is sitting out
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: vadjkeee ($105.34 in chips) 
+Seat 5: vpetriu ($102.50 in chips) 
+Seat 6: Joe_Li7 ($121 in chips) 
+BoyLoc0: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: raises $1.30 to $2.30
+Joe_Li7: folds 
+BoyLoc0: folds 
+vadjkeee: folds 
+Uncalled bet ($1.30) returned to vpetriu
+vpetriu collected $2.50 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: rao999
+Seat 4: Edi131313
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: vadjkeee (big blind) folded before Flop
+Seat 5: vpetriu collected ($2.50)
+Seat 6: Joe_Li7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264174148:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:44:41 WET [2025/01/08 12:44:41 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: rao999 ($105 in chips) is sitting out
+Seat 4: Edi131313 ($169.97 in chips) is sitting out
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: vadjkeee ($104.34 in chips) 
+Seat 5: vpetriu ($104 in chips) 
+Seat 6: Joe_Li7 ($121 in chips) 
+vadjkeee: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+BoyLoc0: folds 
+vadjkeee: raises $2 to $3
+vpetriu: calls $2
+*** FLOP *** [7c 7s Ks]
+vadjkeee: bets $1.43
+rao999 leaves the table
+vpetriu: folds 
+Uncalled bet ($1.43) returned to vadjkeee
+vadjkeee collected $5.70 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [7c 7s Ks]
+Seat 1: rao999
+Seat 4: Edi131313
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: vadjkeee (small blind) collected ($5.70)
+Seat 5: vpetriu (big blind) folded on the Flop
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264181368:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:45:07 WET [2025/01/08 12:45:07 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 4: Edi131313 ($169.97 in chips) is sitting out
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: vadjkeee ($107.04 in chips) 
+Seat 5: vpetriu ($101 in chips) 
+Seat 6: Joe_Li7 ($121 in chips) 
+vpetriu: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+vadjkeee: raises $1.50 to $2.50
+vpetriu: folds 
+coeeeelho joins the table at seat #1 
+Joe_Li7: raises $8.50 to $11
+vadjkeee: folds 
+Uncalled bet ($8.50) returned to Joe_Li7
+Joe_Li7 collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 4: Edi131313
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: vadjkeee (button) folded before Flop
+Seat 5: vpetriu (small blind) folded before Flop
+Seat 6: Joe_Li7 (big blind) collected ($5.50)
+
+
+
+PokerStars Hand #254264189622:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:45:36 WET [2025/01/08 12:45:36 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: coeeeelho ($103.22 in chips) is sitting out
+Seat 4: Edi131313 ($169.97 in chips) is sitting out
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: vadjkeee ($104.54 in chips) 
+Seat 5: vpetriu ($100.50 in chips) 
+Seat 6: Joe_Li7 ($124 in chips) 
+Joe_Li7: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+vpetriu: folds 
+Joe_Li7: raises $2 to $3
+BoyLoc0: folds 
+Uncalled bet ($2) returned to Joe_Li7
+Joe_Li7 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: coeeeelho
+Seat 4: Edi131313
+Seat 2: BoyLoc0 (big blind) folded before Flop
+Seat 3: vadjkeee folded before Flop (didn't bet)
+Seat 5: vpetriu (button) folded before Flop (didn't bet)
+Seat 6: Joe_Li7 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254264196108:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:45:59 WET [2025/01/08 12:45:59 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: coeeeelho ($103.22 in chips) is sitting out
+Seat 4: Edi131313 ($169.97 in chips) is sitting out
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: vadjkeee ($104.54 in chips) 
+Seat 5: vpetriu ($100.50 in chips) 
+Seat 6: Joe_Li7 ($125 in chips) 
+BoyLoc0: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: raises $1.30 to $2.30
+Joe_Li7: folds 
+BoyLoc0: raises $7.70 to $10
+vadjkeee: folds 
+vpetriu: calls $7.70
+*** FLOP *** [5c Ah Qd]
+BoyLoc0: bets $6.60
+vpetriu: folds 
+Uncalled bet ($6.60) returned to BoyLoc0
+BoyLoc0 collected $20 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1 
+Board [5c Ah Qd]
+Seat 1: coeeeelho
+Seat 4: Edi131313
+Seat 2: BoyLoc0 (small blind) collected ($20)
+Seat 3: vadjkeee (big blind) folded before Flop
+Seat 5: vpetriu folded on the Flop
+Seat 6: Joe_Li7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264204481:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:46:29 WET [2025/01/08 12:46:29 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: coeeeelho ($103.22 in chips) is sitting out
+Seat 4: Edi131313 ($169.97 in chips) is sitting out
+Seat 2: BoyLoc0 ($110 in chips) 
+Seat 3: vadjkeee ($103.54 in chips) 
+Seat 5: vpetriu ($100 in chips) 
+Seat 6: Joe_Li7 ($125 in chips) 
+vadjkeee: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+BoyLoc0: folds 
+vadjkeee: folds 
+Uncalled bet ($0.50) returned to vpetriu
+vpetriu collected $1 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: coeeeelho
+Seat 4: Edi131313
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: vadjkeee (small blind) folded before Flop
+Seat 5: vpetriu (big blind) collected ($1)
+Seat 6: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264207027:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:46:38 WET [2025/01/08 12:46:38 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: coeeeelho ($103.22 in chips) is sitting out
+Seat 4: Edi131313 ($169.97 in chips) is sitting out
+Seat 2: BoyLoc0 ($110 in chips) 
+Seat 3: vadjkeee ($103.04 in chips) 
+Seat 5: vpetriu ($100.50 in chips) 
+Seat 6: Joe_Li7 ($125 in chips) 
+vpetriu: posts small blind $0.50
+Joe_Li7: posts big blind $1
+coeeeelho: sits out 
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+vadjkeee: folds 
+vpetriu: folds 
+Joe_Li7: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: coeeeelho
+Seat 4: Edi131313
+Seat 2: BoyLoc0 collected ($2.50)
+Seat 3: vadjkeee (button) folded before Flop (didn't bet)
+Seat 5: vpetriu (small blind) folded before Flop
+Seat 6: Joe_Li7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254264213251:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:47:00 WET [2025/01/08 12:47:00 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 4: Edi131313 ($169.97 in chips) is sitting out
+Seat 1: coeeeelho ($103.22 in chips) 
+Seat 2: BoyLoc0 ($111.50 in chips) 
+Seat 3: vadjkeee ($103.04 in chips) 
+Seat 5: vpetriu ($100 in chips) 
+Seat 6: Joe_Li7 ($124 in chips) 
+Joe_Li7: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+vadjkeee: folds 
+vpetriu: folds 
+vadjkeee leaves the table
+Joe_Li7: raises $2 to $3
+coeeeelho: folds 
+Uncalled bet ($2) returned to Joe_Li7
+Joe_Li7 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: Edi131313
+Seat 1: coeeeelho (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: vadjkeee folded before Flop (didn't bet)
+Seat 5: vpetriu (button) folded before Flop (didn't bet)
+Seat 6: Joe_Li7 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254264218996:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:47:20 WET [2025/01/08 12:47:20 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 4: Edi131313 ($169.97 in chips) is sitting out
+Seat 1: coeeeelho ($102.22 in chips) 
+Seat 2: BoyLoc0 ($111.50 in chips) 
+Seat 5: vpetriu ($100 in chips) 
+Seat 6: Joe_Li7 ($125 in chips) 
+coeeeelho: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+vpetriu: folds 
+Joe_Li7: folds 
+coeeeelho: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+BoyLoc0 collected $1 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: Edi131313
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) collected ($1)
+Seat 5: vpetriu folded before Flop (didn't bet)
+Seat 6: Joe_Li7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264224227:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:47:39 WET [2025/01/08 12:47:39 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 4: Edi131313 ($169.97 in chips) is sitting out
+Seat 1: coeeeelho ($101.72 in chips) 
+Seat 2: BoyLoc0 ($112 in chips) 
+Seat 5: vpetriu ($100 in chips) 
+Seat 6: Joe_Li7 ($125 in chips) 
+BoyLoc0: posts small blind $0.50
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: raises $1.20 to $2.20
+coeeeelho: folds 
+BoyLoc0: folds 
+vpetriu: calls $1.20
+*** FLOP *** [9c 8c 2s]
+vpetriu: checks 
+Joe_Li7: checks 
+*** TURN *** [9c 8c 2s] [5s]
+vpetriu: bets $1.54
+Joe_Li7: calls $1.54
+*** RIVER *** [9c 8c 2s 5s] [Jh]
+vpetriu: checks 
+Joe_Li7: checks 
+*** SHOW DOWN ***
+vpetriu: shows [8h As] (a pair of Eights)
+Joe_Li7: mucks hand 
+vpetriu collected $7.58 from pot
+Edi131313 leaves the table
+*** SUMMARY ***
+Total pot $7.98 | Rake $0.40 
+Board [9c 8c 2s 5s Jh]
+Seat 4: Edi131313
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 5: vpetriu (big blind) showed [8h As] and won ($7.58) with a pair of Eights
+Seat 6: Joe_Li7 mucked
+
+
+
+PokerStars Hand #254264243767:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:48:48 WET [2025/01/08 12:48:48 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: coeeeelho ($101.72 in chips) 
+Seat 2: BoyLoc0 ($111.50 in chips) 
+Seat 5: vpetriu ($103.84 in chips) 
+Seat 6: Joe_Li7 ($121.26 in chips) 
+vpetriu: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: raises $1.30 to $2.30
+BoyLoc0: folds 
+vpetriu: folds 
+Joe_Li7: folds 
+Uncalled bet ($1.30) returned to coeeeelho
+coeeeelho collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: coeeeelho collected ($2.50)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 5: vpetriu (small blind) folded before Flop
+Seat 6: Joe_Li7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254264247805:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:49:03 WET [2025/01/08 12:49:03 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: coeeeelho ($103.22 in chips) 
+Seat 2: BoyLoc0 ($111.50 in chips) 
+Seat 5: vpetriu ($103.34 in chips) 
+Seat 6: Joe_Li7 ($120.26 in chips) 
+Joe_Li7: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+vpetriu: raises $1.50 to $2.50
+Joe_Li7: folds 
+coeeeelho: folds 
+Uncalled bet ($1.50) returned to vpetriu
+vpetriu collected $2.50 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: coeeeelho (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 5: vpetriu (button) collected ($2.50)
+Seat 6: Joe_Li7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254264252020:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:49:17 WET [2025/01/08 12:49:17 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 2: BoyLoc0 ($111.50 in chips) is sitting out
+Seat 1: coeeeelho ($102.22 in chips) 
+Seat 5: vpetriu ($104.84 in chips) 
+Seat 6: Joe_Li7 ($119.76 in chips) 
+coeeeelho: posts small blind $0.50
+BoyLoc0: is sitting out 
+vpetriu: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+coeeeelho: folds 
+Uncalled bet ($0.50) returned to vpetriu
+Joe_Li7 leaves the table
+vpetriu collected $1 from pot
+vpetriu: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: BoyLoc0
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 5: vpetriu (big blind) collected ($1)
+Seat 6: Joe_Li7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264265705:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:50:05 WET [2025/01/08 12:50:05 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 2: Glauberwouny ($48.18 in chips) 
+Seat 3: steelNike ($10 in chips) 
+Seat 4: xDUNZOx ($25.17 in chips) 
+Seat 6: tintin641 ($100 in chips) 
+steelNike: posts small blind $0.50
+xDUNZOx: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+Glauberwouny: folds 
+steelNike: raises $9 to $10 and is all-in
+blistein joins the table at seat #5 
+xDUNZOx: calls $9
+big"mf"serg joins the table at seat #1 
+big"mf"serg is disconnected 
+*** FLOP *** [8d 6d 2h]
+*** TURN *** [8d 6d 2h] [5s]
+*** RIVER *** [8d 6d 2h 5s] [Ah]
+*** SHOW DOWN ***
+steelNike: shows [6c Ac] (two pair, Aces and Sixes)
+xDUNZOx: shows [Ks 8h] (a pair of Eights)
+steelNike collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [8d 6d 2h 5s Ah]
+Seat 2: Glauberwouny (button) folded before Flop (didn't bet)
+Seat 3: steelNike (small blind) showed [6c Ac] and won ($19) with two pair, Aces and Sixes
+Seat 4: xDUNZOx (big blind) showed [Ks 8h] and lost with a pair of Eights
+Seat 6: tintin641 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264272111:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:50:28 WET [2025/01/08 12:50:28 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: big"mf"serg ($100 in chips) 
+Seat 2: Glauberwouny ($48.18 in chips) 
+Seat 3: steelNike ($19 in chips) 
+Seat 4: xDUNZOx ($15.17 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: tintin641 ($100 in chips) 
+xDUNZOx: posts small blind $0.50
+blistein: posts big blind $1
+big"mf"serg: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+big"mf"serg: checks 
+Glauberwouny: folds 
+steelNike: folds 
+xDUNZOx: raises $14.17 to $15.17 and is all-in
+blistein: folds 
+big"mf"serg: folds 
+Uncalled bet ($14.17) returned to xDUNZOx
+xDUNZOx collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: big"mf"serg folded before Flop (didn't bet)
+Seat 2: Glauberwouny folded before Flop (didn't bet)
+Seat 3: steelNike (button) folded before Flop (didn't bet)
+Seat 4: xDUNZOx (small blind) collected ($3)
+Seat 5: blistein (big blind) folded before Flop
+Seat 6: tintin641 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264279860:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:50:55 WET [2025/01/08 12:50:55 ET]
+Table 'Aitne III' 6-max Seat #4 is the button
+Seat 1: big"mf"serg ($99 in chips) 
+Seat 2: Glauberwouny ($48.18 in chips) 
+Seat 3: steelNike ($100 in chips) 
+Seat 4: xDUNZOx ($17.17 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: tintin641 ($100 in chips) 
+blistein: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+big"mf"serg: calls $1
+Glauberwouny: raises $2 to $3
+steelNike: folds 
+xDUNZOx: folds 
+blistein: folds 
+tintin641: folds 
+big"mf"serg: calls $2
+*** FLOP *** [9s 7c 6h]
+big"mf"serg: bets $3.56
+Glauberwouny: calls $3.56
+*** TURN *** [9s 7c 6h] [9c]
+big"mf"serg: checks 
+Glauberwouny: bets $4
+big"mf"serg: calls $4
+*** RIVER *** [9s 7c 6h 9c] [5h]
+big"mf"serg: checks 
+Glauberwouny: checks 
+*** SHOW DOWN ***
+big"mf"serg: shows [6c Ah] (two pair, Nines and Sixes)
+Glauberwouny: mucks hand 
+big"mf"serg collected $21.49 from pot
+*** SUMMARY ***
+Total pot $22.62 | Rake $1.13 
+Board [9s 7c 6h 9c 5h]
+Seat 1: big"mf"serg showed [6c Ah] and won ($21.49) with two pair, Nines and Sixes
+Seat 2: Glauberwouny mucked
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 4: xDUNZOx (button) folded before Flop (didn't bet)
+Seat 5: blistein (small blind) folded before Flop
+Seat 6: tintin641 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254264293322:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:51:43 WET [2025/01/08 12:51:43 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 1: big"mf"serg ($109.93 in chips) 
+Seat 2: Glauberwouny ($37.62 in chips) 
+Seat 3: steelNike ($100 in chips) 
+Seat 4: xDUNZOx ($17.17 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: tintin641 ($100 in chips) 
+tintin641: posts small blind $0.50
+big"mf"serg: posts big blind $1
+*** HOLE CARDS ***
+Glauberwouny: folds 
+steelNike: folds 
+xDUNZOx: calls $1
+blistein: folds 
+tintin641: raises $4 to $5
+big"mf"serg: calls $4
+xDUNZOx: folds 
+*** FLOP *** [9c Qd 4h]
+tintin641: checks 
+big"mf"serg: checks 
+*** TURN *** [9c Qd 4h] [2c]
+tintin641: bets $7.84
+big"mf"serg: folds 
+Uncalled bet ($7.84) returned to tintin641
+tintin641 collected $10.45 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [9c Qd 4h 2c]
+Seat 1: big"mf"serg (big blind) folded on the Turn
+Seat 2: Glauberwouny folded before Flop (didn't bet)
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 4: xDUNZOx folded before Flop
+Seat 5: blistein (button) folded before Flop (didn't bet)
+Seat 6: tintin641 (small blind) collected ($10.45)
+
+
+
+PokerStars Hand #254264308827:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:52:38 WET [2025/01/08 12:52:38 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 1: big"mf"serg ($104.93 in chips) 
+Seat 2: Glauberwouny ($37.62 in chips) 
+Seat 3: steelNike ($100 in chips) 
+Seat 4: xDUNZOx ($16.17 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: tintin641 ($105.45 in chips) 
+big"mf"serg: posts small blind $0.50
+Glauberwouny: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+xDUNZOx: calls $1
+blistein: folds 
+tintin641: folds 
+big"mf"serg: calls $0.50
+Glauberwouny: checks 
+*** FLOP *** [8d 2s Th]
+big"mf"serg: checks 
+Glauberwouny: checks 
+xDUNZOx: bets $2.85
+big"mf"serg: folds 
+Glauberwouny: folds 
+Uncalled bet ($2.85) returned to xDUNZOx
+xDUNZOx collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [8d 2s Th]
+Seat 1: big"mf"serg (small blind) folded on the Flop
+Seat 2: Glauberwouny (big blind) folded on the Flop
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 4: xDUNZOx collected ($2.85)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: tintin641 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264315943:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:53:03 WET [2025/01/08 12:53:03 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 1: big"mf"serg ($103.93 in chips) 
+Seat 2: Glauberwouny ($36.62 in chips) 
+Seat 3: steelNike ($100 in chips) 
+Seat 4: xDUNZOx ($18.02 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: tintin641 ($105.45 in chips) 
+Glauberwouny: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+xDUNZOx: folds 
+blistein: folds 
+tintin641: folds 
+big"mf"serg: calls $1
+Glauberwouny: raises $3 to $4
+steelNike: calls $3
+big"mf"serg: folds 
+*** FLOP *** [8h Ac 6s]
+Glauberwouny: checks 
+steelNike: checks 
+*** TURN *** [8h Ac 6s] [5c]
+Glauberwouny: bets $4
+steelNike: folds 
+Uncalled bet ($4) returned to Glauberwouny
+Glauberwouny collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [8h Ac 6s 5c]
+Seat 1: big"mf"serg (button) folded before Flop
+Seat 2: Glauberwouny (small blind) collected ($8.55)
+Seat 3: steelNike (big blind) folded on the Turn
+Seat 4: xDUNZOx folded before Flop (didn't bet)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: tintin641 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264327477:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:53:43 WET [2025/01/08 12:53:43 ET]
+Table 'Aitne III' 6-max Seat #2 is the button
+Seat 1: big"mf"serg ($102.93 in chips) 
+Seat 2: Glauberwouny ($41.17 in chips) 
+Seat 3: steelNike ($100 in chips) 
+Seat 4: xDUNZOx ($18.02 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: tintin641 ($105.45 in chips) 
+steelNike: posts small blind $0.50
+xDUNZOx: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+tintin641: folds 
+big"mf"serg: calls $1
+Glauberwouny: calls $1
+steelNike: calls $0.50
+xDUNZOx: checks 
+*** FLOP *** [4h Th 2d]
+steelNike: checks 
+xDUNZOx: checks 
+big"mf"serg: bets $1.90
+Glauberwouny: folds 
+steelNike: folds 
+xDUNZOx: calls $1.90
+*** TURN *** [4h Th 2d] [3s]
+xDUNZOx: checks 
+big"mf"serg: bets $3.71
+xDUNZOx: folds 
+Uncalled bet ($3.71) returned to big"mf"serg
+big"mf"serg collected $7.41 from pot
+*** SUMMARY ***
+Total pot $7.80 | Rake $0.39 
+Board [4h Th 2d 3s]
+Seat 1: big"mf"serg collected ($7.41)
+Seat 2: Glauberwouny (button) folded on the Flop
+Seat 3: steelNike (small blind) folded on the Flop
+Seat 4: xDUNZOx (big blind) folded on the Turn
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: tintin641 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264340916:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:54:31 WET [2025/01/08 12:54:31 ET]
+Table 'Aitne III' 6-max Seat #3 is the button
+Seat 1: big"mf"serg ($107.44 in chips) 
+Seat 2: Glauberwouny ($40.17 in chips) 
+Seat 3: steelNike ($99 in chips) 
+Seat 4: xDUNZOx ($15.12 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: tintin641 ($105.45 in chips) 
+xDUNZOx: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+big"mf"serg: folds 
+Glauberwouny: folds 
+steelNike: raises $1.50 to $2.50
+xDUNZOx: calls $2
+blistein: raises $10.50 to $13
+steelNike: calls $10.50
+xDUNZOx: raises $2.12 to $15.12 and is all-in
+blistein: calls $2.12
+steelNike: calls $2.12
+*** FLOP *** [2d Kh Kd]
+blistein: checks 
+steelNike: checks 
+*** TURN *** [2d Kh Kd] [7s]
+blistein: checks 
+steelNike: checks 
+*** RIVER *** [2d Kh Kd 7s] [As]
+blistein: bets $10.77
+steelNike: calls $10.77
+*** SHOW DOWN ***
+blistein: shows [Ad Jh] (two pair, Aces and Kings)
+steelNike: shows [Ac Qs] (two pair, Aces and Kings - Queen kicker)
+steelNike collected $21.31 from side pot
+xDUNZOx: mucks hand 
+steelNike collected $43.09 from main pot
+*** SUMMARY ***
+Total pot $66.90 Main pot $43.09. Side pot $21.31. | Rake $2.50 
+Board [2d Kh Kd 7s As]
+Seat 1: big"mf"serg folded before Flop (didn't bet)
+Seat 2: Glauberwouny folded before Flop (didn't bet)
+Seat 3: steelNike (button) showed [Ac Qs] and won ($64.40) with two pair, Aces and Kings
+Seat 4: xDUNZOx (small blind) mucked
+Seat 5: blistein (big blind) showed [Ad Jh] and lost with two pair, Aces and Kings
+Seat 6: tintin641 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254264365923:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:56:20 WET [2025/01/08 12:56:20 ET]
+Table 'Aitne III' 6-max Seat #5 is the button
+Seat 4: xDUNZOx ($0 in chips) is sitting out
+Seat 1: big"mf"serg ($107.44 in chips) 
+Seat 2: Glauberwouny ($40.17 in chips) 
+Seat 3: steelNike ($137.51 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: tintin641 ($105.45 in chips) 
+tintin641: posts small blind $0.50
+big"mf"serg: posts big blind $1
+*** HOLE CARDS ***
+Glauberwouny: folds 
+steelNike: folds 
+blistein: raises $1.50 to $2.50
+tintin641: folds 
+xDUNZOx leaves the table
+big"mf"serg: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+BoyLoc0 joins the table at seat #4 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: xDUNZOx
+Seat 1: big"mf"serg (big blind) folded before Flop
+Seat 2: Glauberwouny folded before Flop (didn't bet)
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 5: blistein (button) collected ($2.50)
+Seat 6: tintin641 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254264369174:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:56:36 WET [2025/01/08 12:56:36 ET]
+Table 'Aitne III' 6-max Seat #6 is the button
+Seat 4: BoyLoc0 ($111.50 in chips) is sitting out
+Seat 1: big"mf"serg ($106.44 in chips) 
+Seat 2: Glauberwouny ($40.17 in chips) 
+Seat 3: steelNike ($137.51 in chips) 
+Seat 5: blistein ($101.50 in chips) 
+Seat 6: tintin641 ($104.95 in chips) 
+big"mf"serg: posts small blind $0.50
+Glauberwouny: posts big blind $1
+BoyLoc0: sits out 
+*** HOLE CARDS ***
+steelNike: folds 
+blistein: folds 
+tintin641: raises $1.50 to $2.50
+big"mf"serg: folds 
+Glauberwouny: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: BoyLoc0
+Seat 1: big"mf"serg (small blind) folded before Flop
+Seat 2: Glauberwouny (big blind) folded before Flop
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: tintin641 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254264372145:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 17:56:51 WET [2025/01/08 12:56:51 ET]
+Table 'Aitne III' 6-max Seat #1 is the button
+Seat 4: BoyLoc0 ($111.50 in chips) is sitting out
+Seat 1: big"mf"serg ($105.94 in chips) 
+Seat 2: Glauberwouny ($39.17 in chips) 
+Seat 3: steelNike ($137.51 in chips) 
+Seat 5: blistein ($101.50 in chips) 
+Seat 6: tintin641 ($106.45 in chips) 
+Glauberwouny: posts small blind $0.50
+steelNike: posts big blind $1
+BoyLoc0: sits out 
+*** HOLE CARDS ***
+blistein: folds 
+tintin641: raises $1.50 to $2.50
+big"mf"serg: folds 
+Glauberwouny: calls $2
+steelNike: calls $1.50
+*** FLOP *** [7c Qs 7d]
+Glauberwouny: checks 
+steelNike: checks 
+tintin641: checks 
+*** TURN *** [7c Qs 7d] [Td]
+Glauberwouny: bets $3
+steelNike: raises $8.79 to $11.79
+tintin641: folds 
+Glauberwouny: raises $24.88 to $36.67 and is all-in
+steelNike: folds 
+Uncalled bet ($24.88) returned to Glauberwouny
+Glauberwouny collected $29.53 from pot
+*** SUMMARY ***
+Total pot $31.08 | Rake $1.55 
+Board [7c Qs 7d Td]
+Seat 4: BoyLoc0
+Seat 1: big"mf"serg (button) folded before Flop (didn't bet)
+Seat 2: Glauberwouny (small blind) collected ($29.53)
+Seat 3: steelNike (big blind) folded on the Turn
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: tintin641 folded on the Turn
+
+
+

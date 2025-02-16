@@ -1,0 +1,71 @@
+﻿PokerStars Hand #254761840150:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 5:57:00 WET [2025/02/08 0:57:00 ET]
+Table 'Nicolaia' 6-max Seat #6 is the button
+Seat 1: B1GBankroll ($100 in chips) 
+Seat 6: rizinhooo ($10 in chips) 
+rizinhooo: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+rizinhooo: raises $1 to $2
+B1GBankroll: calls $1
+*** FLOP *** [4h 6d 6h]
+B1GBankroll: bets $1.86
+rizinhooo: calls $1.86
+*** TURN *** [4h 6d 6h] [2d]
+B1GBankroll: bets $6.52
+rizinhooo: calls $6.14 and is all-in
+Uncalled bet ($0.38) returned to B1GBankroll
+*** RIVER *** [4h 6d 6h 2d] [Th]
+*** SHOW DOWN ***
+B1GBankroll: shows [5s 3s] (a straight, Deuce to Six)
+rizinhooo: shows [Qh 4d] (two pair, Sixes and Fours)
+B1GBankroll collected $19 from pot
+rizinhooo cashed out the hand for $1.69 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [4h 6d 6h 2d Th]
+Seat 1: B1GBankroll (big blind) showed [5s 3s] and won ($19) with a straight, Deuce to Six
+Seat 6: rizinhooo (button) (small blind) showed [Qh 4d] and lost with two pair, Sixes and Fours (cashed out).
+
+
+
+PokerStars Hand #254761843046:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 5:57:34 WET [2025/02/08 0:57:34 ET]
+Table 'Nicolaia' 6-max Seat #1 is the button
+Seat 1: B1GBankroll ($109 in chips) 
+Seat 6: rizinhooo ($1.69 in chips) 
+B1GBankroll: posts small blind $0.50
+rizinhooo: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+Uncalled bet ($0.50) returned to rizinhooo
+rizinhooo collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: B1GBankroll (button) (small blind) folded before Flop
+Seat 6: rizinhooo (big blind) collected ($1)
+
+
+
+PokerStars Hand #254761843661:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 5:57:42 WET [2025/02/08 0:57:42 ET]
+Table 'Nicolaia' 6-max Seat #6 is the button
+Seat 1: B1GBankroll ($108.50 in chips) 
+Seat 6: rizinhooo ($2.19 in chips) 
+rizinhooo: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+rizinhooo: raises $1.19 to $2.19 and is all-in
+B1GBankroll: calls $1.19
+*** FLOP *** [5d 2c Ks]
+*** TURN *** [5d 2c Ks] [2d]
+*** RIVER *** [5d 2c Ks 2d] [Js]
+*** SHOW DOWN ***
+B1GBankroll: shows [Kh 8d] (two pair, Kings and Deuces)
+rizinhooo: shows [Ts 8h] (a pair of Deuces)
+B1GBankroll collected $4.16 from pot
+*** SUMMARY ***
+Total pot $4.38 | Rake $0.22 
+Board [5d 2c Ks 2d Js]
+Seat 1: B1GBankroll (big blind) showed [Kh 8d] and won ($4.16) with two pair, Kings and Deuces
+Seat 6: rizinhooo (button) (small blind) showed [Ts 8h] and lost with a pair of Deuces
+
+
+

@@ -1,0 +1,36 @@
+﻿PokerStars Hand #254753028601:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:37:39 WET [2025/02/07 13:37:39 ET]
+Table 'Serpens II' 6-max Seat #4 is the button
+Seat 1: laloo246 ($100 in chips) 
+Seat 4: Nazareno1999 ($100 in chips) 
+Seat 6: Xenicide ($100 in chips) 
+Xenicide: posts small blind $0.50
+laloo246: posts big blind $1
+*** HOLE CARDS ***
+Nazareno1999: raises $1.20 to $2.20
+Xenicide: raises $7.30 to $9.50
+laloo246: folds 
+Nazareno1999: calls $7.30
+*** FLOP *** [2d 6c Qd]
+laloo246 leaves the table
+Xenicide: bets $4.75
+Nazareno1999: calls $4.75
+*** TURN *** [2d 6c Qd] [6h]
+Xenicide: checks 
+Nazareno1999: checks 
+*** RIVER *** [2d 6c Qd 6h] [8d]
+Xenicide: checks 
+Nazareno1999: bets $37.50
+Xenicide: calls $37.50
+*** SHOW DOWN ***
+Nazareno1999: shows [Jd 9d] (a flush, Queen high)
+Xenicide: mucks hand 
+Nazareno1999 collected $103.50 from pot
+*** SUMMARY ***
+Total pot $104.50 | Rake $1 
+Board [2d 6c Qd 6h 8d]
+Seat 1: laloo246 (big blind) folded before Flop
+Seat 4: Nazareno1999 (button) showed [Jd 9d] and won ($103.50) with a flush, Queen high
+Seat 6: Xenicide (small blind) mucked
+
+
+

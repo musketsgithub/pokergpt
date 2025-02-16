@@ -1,0 +1,180 @@
+﻿PokerStars Hand #254196858126:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 21:22:19 WET [2025/01/04 16:22:19 ET]
+Table 'Epyaxa II' 6-max Seat #5 is the button
+Seat 2: Nazareno1999 ($100 in chips) is sitting out
+Seat 1: CrankyChasm26 ($58.18 in chips) 
+Seat 3: ionutvalean98 ($2.50 in chips) 
+Seat 4: NOTfishON ($100 in chips) 
+Seat 5: mr.Jckpot ($100 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+Manifestorr: posts small blind $0.50
+CrankyChasm26: posts big blind $1
+Nazareno1999: sits out 
+*** HOLE CARDS ***
+ionutvalean98: calls $1
+NOTfishON: folds 
+mr.Jckpot: folds 
+Manifestorr: raises $4 to $5
+CrankyChasm26: folds 
+ionutvalean98: calls $1.50 and is all-in
+Uncalled bet ($2.50) returned to Manifestorr
+*** FLOP *** [4c Ks 3h]
+*** TURN *** [4c Ks 3h] [Qs]
+*** RIVER *** [4c Ks 3h Qs] [Kh]
+*** SHOW DOWN ***
+Manifestorr: shows [Th Jc] (a pair of Kings)
+ionutvalean98: shows [Qh Td] (two pair, Kings and Queens)
+ionutvalean98 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4c Ks 3h Qs Kh]
+Seat 2: Nazareno1999
+Seat 1: CrankyChasm26 (big blind) folded before Flop
+Seat 3: ionutvalean98 showed [Qh Td] and won ($5.70) with two pair, Kings and Queens
+Seat 4: NOTfishON folded before Flop (didn't bet)
+Seat 5: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 6: Manifestorr (small blind) showed [Th Jc] and lost with a pair of Kings
+
+
+
+PokerStars Hand #254196869393:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 21:22:51 WET [2025/01/04 16:22:51 ET]
+Table 'Epyaxa II' 6-max Seat #6 is the button
+Seat 1: CrankyChasm26 ($57.18 in chips) 
+Seat 2: Nazareno1999 ($100 in chips) 
+Seat 3: ionutvalean98 ($5.70 in chips) 
+Seat 4: NOTfishON ($100 in chips) 
+Seat 5: mr.Jckpot ($100 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+CrankyChasm26: posts small blind $0.50
+Nazareno1999: posts big blind $1
+*** HOLE CARDS ***
+ionutvalean98: folds 
+NOTfishON: folds 
+mr.Jckpot: folds 
+Manifestorr: folds 
+CrankyChasm26: raises $1 to $2
+Nazareno1999: raises $5.50 to $7.50
+CrankyChasm26: calls $5.50
+*** FLOP *** [Js 4s 9h]
+CrankyChasm26: bets $4
+Nazareno1999: calls $4
+*** TURN *** [Js 4s 9h] [8h]
+CrankyChasm26: bets $5
+Nazareno1999: calls $5
+*** RIVER *** [Js 4s 9h 8h] [3h]
+CrankyChasm26: bets $6
+Nazareno1999: raises $77.50 to $83.50 and is all-in
+CrankyChasm26: calls $34.68 and is all-in
+Uncalled bet ($42.82) returned to Nazareno1999
+*** SHOW DOWN ***
+Nazareno1999: shows [Tc Ah] (high card Ace)
+CrankyChasm26: shows [Jh As] (a pair of Jacks)
+CrankyChasm26 collected $111.86 from pot
+*** SUMMARY ***
+Total pot $114.36 | Rake $2.50 
+Board [Js 4s 9h 8h 3h]
+Seat 1: CrankyChasm26 (small blind) showed [Jh As] and won ($111.86) with a pair of Jacks
+Seat 2: Nazareno1999 (big blind) showed [Tc Ah] and lost with high card Ace
+Seat 3: ionutvalean98 folded before Flop (didn't bet)
+Seat 4: NOTfishON folded before Flop (didn't bet)
+Seat 5: mr.Jckpot folded before Flop (didn't bet)
+Seat 6: Manifestorr (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254196892635:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 21:23:57 WET [2025/01/04 16:23:57 ET]
+Table 'Epyaxa II' 6-max Seat #1 is the button
+Seat 1: CrankyChasm26 ($111.86 in chips) 
+Seat 2: Nazareno1999 ($100 in chips) 
+Seat 3: ionutvalean98 ($5.70 in chips) 
+Seat 4: NOTfishON ($100 in chips) 
+Seat 5: mr.Jckpot ($100 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+Nazareno1999: posts small blind $0.50
+ionutvalean98: posts big blind $1
+*** HOLE CARDS ***
+NOTfishON: folds 
+mr.Jckpot: folds 
+Manifestorr: folds 
+CrankyChasm26: folds 
+CrankyChasm26 leaves the table
+Nazareno1999: raises $99 to $100 and is all-in
+ionutvalean98: calls $4.70 and is all-in
+Uncalled bet ($94.30) returned to Nazareno1999
+*** FLOP *** [Th 3h As]
+*** TURN *** [Th 3h As] [9h]
+*** RIVER *** [Th 3h As 9h] [4h]
+*** SHOW DOWN ***
+Nazareno1999: shows [Td Ts] (three of a kind, Tens)
+ionutvalean98: shows [2c 2s] (a pair of Deuces)
+Nazareno1999 collected $10.83 from pot
+*** SUMMARY ***
+Total pot $11.40 | Rake $0.57 
+Board [Th 3h As 9h 4h]
+Seat 1: CrankyChasm26 (button) folded before Flop (didn't bet)
+Seat 2: Nazareno1999 (small blind) showed [Td Ts] and won ($10.83) with three of a kind, Tens
+Seat 3: ionutvalean98 (big blind) showed [2c 2s] and lost with a pair of Deuces
+Seat 4: NOTfishON folded before Flop (didn't bet)
+Seat 5: mr.Jckpot folded before Flop (didn't bet)
+Seat 6: Manifestorr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254196908791:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 21:24:43 WET [2025/01/04 16:24:43 ET]
+Table 'Epyaxa II' 6-max Seat #2 is the button
+Seat 3: ionutvalean98 ($0 in chips) is sitting out
+Seat 2: Nazareno1999 ($105.13 in chips) 
+Seat 4: NOTfishON ($100 in chips) 
+Seat 5: mr.Jckpot ($100 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+NOTfishON: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+Nazareno1999: folds 
+ionutvalean98 leaves the table
+NOTfishON: raises $2 to $3
+mr.Jckpot: raises $6 to $9
+NOTfishON: folds 
+Uncalled bet ($6) returned to mr.Jckpot
+mr.Jckpot collected $6 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: ionutvalean98
+Seat 2: Nazareno1999 (button) folded before Flop (didn't bet)
+Seat 4: NOTfishON (small blind) folded before Flop
+Seat 5: mr.Jckpot (big blind) collected ($6)
+Seat 6: Manifestorr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254196917226:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 21:25:06 WET [2025/01/04 16:25:06 ET]
+Table 'Epyaxa II' 6-max Seat #4 is the button
+Seat 2: Nazareno1999 ($105.13 in chips) 
+Seat 4: NOTfishON ($100 in chips) 
+Seat 5: mr.Jckpot ($103 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+mr.Jckpot: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+Nazareno1999: raises $1.20 to $2.20
+NOTfishON: folds 
+mr.Jckpot: folds 
+Manifestorr: calls $1.20
+*** FLOP *** [Kd 4c Jc]
+Manifestorr: checks 
+Nazareno1999: bets $1.54
+Manifestorr: folds 
+Uncalled bet ($1.54) returned to Nazareno1999
+Nazareno1999 collected $4.66 from pot
+Nazareno1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Kd 4c Jc]
+Seat 2: Nazareno1999 collected ($4.66)
+Seat 4: NOTfishON (button) folded before Flop (didn't bet)
+Seat 5: mr.Jckpot (small blind) folded before Flop
+Seat 6: Manifestorr (big blind) folded on the Flop
+
+
+

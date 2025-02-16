@@ -1,0 +1,420 @@
+﻿PokerStars Hand #254279529053:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:36:10 WET [2025/01/09 11:36:10 ET]
+Table 'Jimarnold II' 6-max Seat #1 is the button
+Seat 3: thatmycoeur ($0 in chips) is sitting out
+Seat 1: Gfoer ($100 in chips) 
+Seat 2: Y_19 ($100.50 in chips) 
+Seat 4: blistein ($119.96 in chips) 
+Seat 5: app1e_j@ck ($100 in chips) 
+Seat 6: AIien Hand ($100 in chips) 
+Y_19: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+app1e_j@ck: folds 
+AIien Hand: folds 
+Gfoer: folds 
+Y_19: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: thatmycoeur
+Seat 1: Gfoer (button) folded before Flop (didn't bet)
+Seat 2: Y_19 (small blind) folded before Flop
+Seat 4: blistein (big blind) collected ($1)
+Seat 5: app1e_j@ck folded before Flop (didn't bet)
+Seat 6: AIien Hand folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279532873:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:36:26 WET [2025/01/09 11:36:26 ET]
+Table 'Jimarnold II' 6-max Seat #2 is the button
+Seat 3: thatmycoeur ($29.68 in chips) is sitting out
+Seat 1: Gfoer ($100 in chips) 
+Seat 2: Y_19 ($100 in chips) 
+Seat 4: blistein ($120.46 in chips) 
+Seat 5: app1e_j@ck ($100 in chips) 
+Seat 6: AIien Hand ($100 in chips) 
+blistein: posts small blind $0.50
+app1e_j@ck: posts big blind $1
+*** HOLE CARDS ***
+AIien Hand: folds 
+Gfoer: folds 
+Y_19: raises $1.23 to $2.23
+blistein: folds 
+app1e_j@ck: folds 
+Uncalled bet ($1.23) returned to Y_19
+Y_19 collected $2.50 from pot
+Y_19: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: thatmycoeur
+Seat 1: Gfoer folded before Flop (didn't bet)
+Seat 2: Y_19 (button) collected ($2.50)
+Seat 4: blistein (small blind) folded before Flop
+Seat 5: app1e_j@ck (big blind) folded before Flop
+Seat 6: AIien Hand folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279535699:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:36:38 WET [2025/01/09 11:36:38 ET]
+Table 'Jimarnold II' 6-max Seat #4 is the button
+Seat 1: Gfoer ($100 in chips) 
+Seat 2: Y_19 ($101.50 in chips) 
+Seat 3: thatmycoeur ($29.68 in chips) 
+Seat 4: blistein ($119.96 in chips) 
+Seat 5: app1e_j@ck ($99 in chips) 
+Seat 6: AIien Hand ($100 in chips) 
+app1e_j@ck: posts small blind $0.50
+AIien Hand: posts big blind $1
+thatmycoeur: posts small & big blinds $1.50
+*** HOLE CARDS ***
+Gfoer: folds 
+Y_19: folds 
+thatmycoeur: checks 
+blistein: folds 
+app1e_j@ck: raises $3.50 to $4.50
+AIien Hand: folds 
+thatmycoeur: calls $3.50
+*** FLOP *** [5c 8d Qc]
+app1e_j@ck: checks 
+thatmycoeur: checks 
+*** TURN *** [5c 8d Qc] [Th]
+Gfoer leaves the table
+app1e_j@ck: checks 
+thatmycoeur: bets $2
+sta$igk joins the table at seat #1 
+app1e_j@ck: calls $2
+*** RIVER *** [5c 8d Qc Th] [Ks]
+app1e_j@ck: checks 
+thatmycoeur: checks 
+*** SHOW DOWN ***
+app1e_j@ck: shows [As 9s] (high card Ace)
+thatmycoeur: shows [4c Tc] (a pair of Tens)
+thatmycoeur collected $13.60 from pot
+*** SUMMARY ***
+Total pot $14.50 | Rake $0.90 
+Board [5c 8d Qc Th Ks]
+Seat 1: Gfoer folded before Flop (didn't bet)
+Seat 2: Y_19 folded before Flop (didn't bet)
+Seat 3: thatmycoeur showed [4c Tc] and won ($13.60) with a pair of Tens
+Seat 4: blistein (button) folded before Flop (didn't bet)
+Seat 5: app1e_j@ck (small blind) showed [As 9s] and lost with high card Ace
+Seat 6: AIien Hand (big blind) folded before Flop
+
+
+
+PokerStars Hand #254279551846:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:37:44 WET [2025/01/09 11:37:44 ET]
+Table 'Jimarnold II' 6-max Seat #5 is the button
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: Y_19 ($101.50 in chips) 
+Seat 3: thatmycoeur ($36.28 in chips) 
+Seat 4: blistein ($119.96 in chips) 
+Seat 5: app1e_j@ck ($92.50 in chips) 
+Seat 6: AIien Hand ($100 in chips) 
+AIien Hand: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+Y_19: folds 
+thatmycoeur: calls $1
+blistein: raises $2.50 to $3.50
+app1e_j@ck: folds 
+AIien Hand: folds 
+sta$igk: folds 
+thatmycoeur: calls $2.50
+*** FLOP *** [Qc 5c 8d]
+thatmycoeur: checks 
+blistein: bets $2.02
+thatmycoeur: folds 
+Uncalled bet ($2.02) returned to blistein
+blistein collected $8.08 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [Qc 5c 8d]
+Seat 1: sta$igk (big blind) folded before Flop
+Seat 2: Y_19 folded before Flop (didn't bet)
+Seat 3: thatmycoeur folded on the Flop
+Seat 4: blistein collected ($8.08)
+Seat 5: app1e_j@ck (button) folded before Flop (didn't bet)
+Seat 6: AIien Hand (small blind) folded before Flop
+
+
+
+PokerStars Hand #254279562899:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:38:31 WET [2025/01/09 11:38:31 ET]
+Table 'Jimarnold II' 6-max Seat #6 is the button
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: Y_19 ($101.50 in chips) 
+Seat 3: thatmycoeur ($32.78 in chips) 
+Seat 4: blistein ($124.54 in chips) 
+Seat 5: app1e_j@ck ($92.50 in chips) 
+Seat 6: AIien Hand ($100 in chips) 
+sta$igk: posts small blind $0.50
+Y_19: posts big blind $1
+*** HOLE CARDS ***
+thatmycoeur: calls $1
+blistein: raises $2.50 to $3.50
+app1e_j@ck: folds 
+AIien Hand: folds 
+sta$igk: folds 
+Y_19: folds 
+thatmycoeur: calls $2.50
+*** FLOP *** [Ks 2s 5d]
+thatmycoeur: checks 
+blistein: bets $4.04
+thatmycoeur: folds 
+Uncalled bet ($4.04) returned to blistein
+blistein collected $8.08 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [Ks 2s 5d]
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: Y_19 (big blind) folded before Flop
+Seat 3: thatmycoeur folded on the Flop
+Seat 4: blistein collected ($8.08)
+Seat 5: app1e_j@ck folded before Flop (didn't bet)
+Seat 6: AIien Hand (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279572073:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:39:09 WET [2025/01/09 11:39:09 ET]
+Table 'Jimarnold II' 6-max Seat #1 is the button
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: Y_19 ($100.50 in chips) 
+Seat 3: thatmycoeur ($29.28 in chips) 
+Seat 4: blistein ($129.12 in chips) 
+Seat 5: app1e_j@ck ($92.50 in chips) 
+Seat 6: AIien Hand ($100 in chips) 
+Y_19: posts small blind $0.50
+thatmycoeur: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+app1e_j@ck: raises $1.50 to $2.50
+AIien Hand: raises $5 to $7.50
+sta$igk: folds 
+Y_19: folds 
+sta$igk leaves the table
+thatmycoeur: folds 
+yzuk joins the table at seat #1 
+app1e_j@ck: folds 
+Uncalled bet ($5) returned to AIien Hand
+AIien Hand collected $6.50 from pot
+AIien Hand: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: Y_19 (small blind) folded before Flop
+Seat 3: thatmycoeur (big blind) folded before Flop
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: app1e_j@ck folded before Flop
+Seat 6: AIien Hand collected ($6.50)
+
+
+
+PokerStars Hand #254279581159:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:39:47 WET [2025/01/09 11:39:47 ET]
+Table 'Jimarnold II' 6-max Seat #2 is the button
+Seat 1: yzuk ($100 in chips) is sitting out
+Seat 2: Y_19 ($100 in chips) 
+Seat 3: thatmycoeur ($28.28 in chips) 
+Seat 4: blistein ($129.12 in chips) 
+Seat 5: app1e_j@ck ($90 in chips) 
+Seat 6: AIien Hand ($104 in chips) 
+thatmycoeur: posts small blind $0.50
+blistein: posts big blind $1
+yzuk: sits out 
+*** HOLE CARDS ***
+app1e_j@ck: folds 
+AIien Hand: folds 
+Y_19: raises $1.23 to $2.23
+thatmycoeur: calls $1.73
+blistein: folds 
+*** FLOP *** [Qd 7s 4d]
+thatmycoeur: bets $2
+Y_19: calls $2
+*** TURN *** [Qd 7s 4d] [Td]
+thatmycoeur: bets $5
+Y_19: folds 
+Uncalled bet ($5) returned to thatmycoeur
+thatmycoeur collected $8.87 from pot
+*** SUMMARY ***
+Total pot $9.46 | Rake $0.59 
+Board [Qd 7s 4d Td]
+Seat 1: yzuk
+Seat 2: Y_19 (button) folded on the Turn
+Seat 3: thatmycoeur (small blind) collected ($8.87)
+Seat 4: blistein (big blind) folded before Flop
+Seat 5: app1e_j@ck folded before Flop (didn't bet)
+Seat 6: AIien Hand folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279589681:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:40:22 WET [2025/01/09 11:40:22 ET]
+Table 'Jimarnold II' 6-max Seat #3 is the button
+Seat 1: yzuk ($100 in chips) is sitting out
+Seat 2: Y_19 ($100 in chips) 
+Seat 3: thatmycoeur ($32.92 in chips) 
+Seat 4: blistein ($128.12 in chips) 
+Seat 5: app1e_j@ck ($90 in chips) 
+Seat 6: AIien Hand ($104 in chips) 
+blistein: posts small blind $0.50
+app1e_j@ck: posts big blind $1
+yzuk: sits out 
+*** HOLE CARDS ***
+AIien Hand: folds 
+Y_19: folds 
+thatmycoeur: folds 
+blistein: raises $2 to $3
+app1e_j@ck: raises $6 to $9
+blistein: folds 
+Uncalled bet ($6) returned to app1e_j@ck
+app1e_j@ck collected $6 from pot
+app1e_j@ck: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: yzuk
+Seat 2: Y_19 folded before Flop (didn't bet)
+Seat 3: thatmycoeur (button) folded before Flop (didn't bet)
+Seat 4: blistein (small blind) folded before Flop
+Seat 5: app1e_j@ck (big blind) collected ($6)
+Seat 6: AIien Hand folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279596891:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:40:52 WET [2025/01/09 11:40:52 ET]
+Table 'Jimarnold II' 6-max Seat #4 is the button
+Seat 1: yzuk ($100 in chips) is sitting out
+Seat 2: Y_19 ($100 in chips) 
+Seat 3: thatmycoeur ($32.92 in chips) 
+Seat 4: blistein ($125.12 in chips) 
+Seat 5: app1e_j@ck ($93 in chips) 
+Seat 6: AIien Hand ($104 in chips) 
+app1e_j@ck: posts small blind $0.50
+AIien Hand: posts big blind $1
+yzuk: sits out 
+*** HOLE CARDS ***
+Y_19: folds 
+thatmycoeur: folds 
+blistein: raises $1.50 to $2.50
+app1e_j@ck: folds 
+AIien Hand: calls $1.50
+*** FLOP *** [Jc Qc Kc]
+AIien Hand: checks 
+blistein: bets $1.77
+AIien Hand: raises $3.50 to $5.27
+blistein: folds 
+Uncalled bet ($3.50) returned to AIien Hand
+AIien Hand collected $8.59 from pot
+AIien Hand: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.04 | Rake $0.45 
+Board [Jc Qc Kc]
+Seat 1: yzuk
+Seat 2: Y_19 folded before Flop (didn't bet)
+Seat 3: thatmycoeur folded before Flop (didn't bet)
+Seat 4: blistein (button) folded on the Flop
+Seat 5: app1e_j@ck (small blind) folded before Flop
+Seat 6: AIien Hand (big blind) collected ($8.59)
+
+
+
+PokerStars Hand #254279616318:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:42:13 WET [2025/01/09 11:42:13 ET]
+Table 'Jimarnold II' 6-max Seat #5 is the button
+Seat 1: yzuk ($100 in chips) 
+Seat 2: Y_19 ($100 in chips) 
+Seat 3: thatmycoeur ($32.92 in chips) 
+Seat 4: blistein ($120.85 in chips) 
+Seat 5: app1e_j@ck ($92.50 in chips) 
+Seat 6: AIien Hand ($108.32 in chips) 
+AIien Hand: posts small blind $0.50
+yzuk: posts big blind $1
+*** HOLE CARDS ***
+Y_19: folds 
+thatmycoeur: folds 
+blistein: raises $1.30 to $2.30
+app1e_j@ck: folds 
+AIien Hand: folds 
+yzuk: calls $1.30
+*** FLOP *** [8h 6h 7s]
+yzuk: checks 
+thatmycoeur leaves the table
+blistein: checks 
+*** TURN *** [8h 6h 7s] [Th]
+yzuk: checks 
+blistein: bets $1.65
+yzuk: folds 
+Uncalled bet ($1.65) returned to blistein
+blistein collected $4.84 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.26 
+Board [8h 6h 7s Th]
+Seat 1: yzuk (big blind) folded on the Turn
+Seat 2: Y_19 folded before Flop (didn't bet)
+Seat 3: thatmycoeur folded before Flop (didn't bet)
+Seat 4: blistein collected ($4.84)
+Seat 5: app1e_j@ck (button) folded before Flop (didn't bet)
+Seat 6: AIien Hand (small blind) folded before Flop
+
+
+
+PokerStars Hand #254279629363:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:43:07 WET [2025/01/09 11:43:07 ET]
+Table 'Jimarnold II' 6-max Seat #6 is the button
+Seat 1: yzuk ($100 in chips) 
+Seat 2: Y_19 ($100 in chips) 
+Seat 4: blistein ($123.39 in chips) 
+Seat 5: app1e_j@ck ($92.50 in chips) 
+Seat 6: AIien Hand ($107.82 in chips) 
+yzuk: posts small blind $0.50
+Y_19: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+blistein leaves the table
+app1e_j@ck: raises $1.50 to $2.50
+AIien Hand: folds 
+yzuk: folds 
+Y_19: calls $1.50
+*** FLOP *** [2s Jc Th]
+Y_19: checks 
+app1e_j@ck: bets $1.72
+Y_19: folds 
+Uncalled bet ($1.72) returned to app1e_j@ck
+app1e_j@ck collected $5.22 from pot
+app1e_j@ck: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [2s Jc Th]
+Seat 1: yzuk (small blind) folded before Flop
+Seat 2: Y_19 (big blind) folded on the Flop
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: app1e_j@ck collected ($5.22)
+Seat 6: AIien Hand (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254279636516:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 16:43:37 WET [2025/01/09 11:43:37 ET]
+Table 'Jimarnold II' 6-max Seat #1 is the button
+Seat 5: app1e_j@ck ($95.22 in chips) is sitting out
+Seat 1: yzuk ($100 in chips) 
+Seat 2: Y_19 ($100 in chips) 
+Seat 6: AIien Hand ($107.82 in chips) 
+Y_19: posts small blind $0.50
+app1e_j@ck: is sitting out 
+AIien Hand: posts big blind $1
+*** HOLE CARDS ***
+app1e_j@ck leaves the table
+yzuk: raises $1.50 to $2.50
+Y_19: folds 
+AIien Hand: folds 
+Uncalled bet ($1.50) returned to yzuk
+yzuk collected $2.50 from pot
+yzuk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: app1e_j@ck
+Seat 1: yzuk (button) collected ($2.50)
+Seat 2: Y_19 (small blind) folded before Flop
+Seat 6: AIien Hand (big blind) folded before Flop
+
+
+

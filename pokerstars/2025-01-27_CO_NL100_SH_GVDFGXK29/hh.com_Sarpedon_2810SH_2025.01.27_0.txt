@@ -1,0 +1,4896 @@
+﻿PokerStars Hand #254583661302:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:02:43 WET [2025/01/27 15:02:43 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: irenicus24 ($100 in chips) 
+Seat 2: Manifestorr ($100 in chips) 
+Seat 3: YeeesMan ($100 in chips) 
+Seat 5: Joker007r ($100 in chips) 
+YeeesMan: posts small blind $0.50
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+irenicus24: folds 
+Manifestorr: raises $1.20 to $2.20
+YeeesMan: folds 
+Joker007r: folds 
+Uncalled bet ($1.20) returned to Manifestorr
+Manifestorr collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: irenicus24 folded before Flop (didn't bet)
+Seat 2: Manifestorr (button) collected ($2.50)
+Seat 3: YeeesMan (small blind) folded before Flop
+Seat 5: Joker007r (big blind) folded before Flop
+
+
+
+PokerStars Hand #254583669736:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:03:11 WET [2025/01/27 15:03:11 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: irenicus24 ($100 in chips) 
+Seat 2: Manifestorr ($101.50 in chips) 
+Seat 3: YeeesMan ($100 in chips) 
+Seat 5: Joker007r ($100 in chips) 
+Joker007r: posts small blind $0.50
+irenicus24: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+YeeesMan: raises $1.50 to $2.50
+Joker007r: folds 
+irenicus24: calls $1.50
+*** FLOP *** [Kc Kd 5c]
+irenicus24: checks 
+YeeesMan: bets $1.72
+irenicus24: calls $1.72
+*** TURN *** [Kc Kd 5c] [Jc]
+Manifestorr leaves the table
+irenicus24: checks 
+YeeesMan: checks 
+*** RIVER *** [Kc Kd 5c Jc] [7s]
+irenicus24: checks 
+YeeesMan: bets $6.37
+irenicus24: raises $43.63 to $50
+YeeesMan: calls $43.63
+*** SHOW DOWN ***
+irenicus24: shows [7c 7h] (a full house, Sevens full of Kings)
+YeeesMan: mucks hand 
+irenicus24 collected $107.94 from pot
+*** SUMMARY ***
+Total pot $108.94 | Rake $1 
+Board [Kc Kd 5c Jc 7s]
+Seat 1: irenicus24 (big blind) showed [7c 7h] and won ($107.94) with a full house, Sevens full of Kings
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: YeeesMan (button) mucked
+Seat 5: Joker007r (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583696570:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:04:37 WET [2025/01/27 15:04:37 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 3: YeeesMan ($100 in chips) is sitting out
+Seat 1: irenicus24 ($153.72 in chips) 
+Seat 5: Joker007r ($100 in chips) 
+irenicus24: posts small blind $0.50
+YeeesMan: is sitting out 
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+irenicus24: raises $1.50 to $2.50
+Joker007r: calls $1.50
+*** FLOP *** [8c 9s Kc]
+Joker007r: checks 
+irenicus24: checks 
+*** TURN *** [8c 9s Kc] [Kh]
+Joker007r: checks 
+YeeesMan leaves the table
+irenicus24: checks 
+*** RIVER *** [8c 9s Kc Kh] [5c]
+Joker007r: checks 
+irenicus24: checks 
+*** SHOW DOWN ***
+Joker007r: shows [Ac 5d] (two pair, Kings and Fives)
+irenicus24: mucks hand 
+Joker007r collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [8c 9s Kc Kh 5c]
+Seat 3: YeeesMan
+Seat 1: irenicus24 (button) (small blind) mucked
+Seat 5: Joker007r (big blind) showed [Ac 5d] and won ($4.75) with two pair, Kings and Fives
+
+
+
+PokerStars Hand #254583719320:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:05:46 WET [2025/01/27 15:05:46 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: irenicus24 ($151.22 in chips) 
+Seat 3: Supermegopro ($100 in chips) 
+Seat 5: Joker007r ($102.25 in chips) 
+Joker007r: posts small blind $0.50
+irenicus24: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+Joker007r: folds 
+irenicus24: calls $1.50
+*** FLOP *** [6d 9c 3c]
+irenicus24: checks 
+Supermegopro: bets $3.48
+irenicus24: calls $3.48
+*** TURN *** [6d 9c 3c] [5d]
+irenicus24: checks 
+Supermegopro: checks 
+*** RIVER *** [6d 9c 3c 5d] [5h]
+irenicus24: checks 
+Supermegopro: bets $7.89
+irenicus24: calls $7.89
+*** SHOW DOWN ***
+Supermegopro: shows [Qh 9d] (two pair, Nines and Fives)
+irenicus24: mucks hand 
+Supermegopro collected $27.24 from pot
+*** SUMMARY ***
+Total pot $28.24 | Rake $1 
+Board [6d 9c 3c 5d 5h]
+Seat 1: irenicus24 (big blind) mucked
+Seat 3: Supermegopro (button) showed [Qh 9d] and won ($27.24) with two pair, Nines and Fives
+Seat 5: Joker007r (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583734085:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:06:30 WET [2025/01/27 15:06:30 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: irenicus24 ($137.35 in chips) 
+Seat 3: Supermegopro ($113.37 in chips) 
+Seat 5: Joker007r ($101.75 in chips) 
+irenicus24: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Joker007r: raises $1.50 to $2.50
+irenicus24: folds 
+Supermegopro: calls $1.50
+*** FLOP *** [Jc Ts 6c]
+Supermegopro: checks 
+Joker007r: bets $3.81
+Supermegopro: calls $3.81
+*** TURN *** [Jc Ts 6c] [9c]
+Supermegopro: bets $8.31
+Joker007r: calls $8.31
+*** RIVER *** [Jc Ts 6c 9c] [Ad]
+Supermegopro: bets $19.16
+Joker007r: calls $19.16
+*** SHOW DOWN ***
+Supermegopro: shows [Kc 8c] (a flush, King high)
+Joker007r: mucks hand 
+Supermegopro collected $67.06 from pot
+*** SUMMARY ***
+Total pot $68.06 | Rake $1 
+Board [Jc Ts 6c 9c Ad]
+Seat 1: irenicus24 (small blind) folded before Flop
+Seat 3: Supermegopro (big blind) showed [Kc 8c] and won ($67.06) with a flush, King high
+Seat 5: Joker007r (button) mucked
+
+
+
+PokerStars Hand #254583746783:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:07:09 WET [2025/01/27 15:07:09 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: irenicus24 ($136.85 in chips) 
+Seat 3: Supermegopro ($146.65 in chips) 
+Seat 5: Joker007r ($100 in chips) 
+Supermegopro: posts small blind $0.50
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+irenicus24: folds 
+Supermegopro: folds 
+Uncalled bet ($0.50) returned to Joker007r
+Joker007r collected $1 from pot
+Joker007r: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: irenicus24 (button) folded before Flop (didn't bet)
+Seat 3: Supermegopro (small blind) folded before Flop
+Seat 5: Joker007r (big blind) collected ($1)
+
+
+
+PokerStars Hand #254583750880:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:07:21 WET [2025/01/27 15:07:21 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: irenicus24 ($136.85 in chips) 
+Seat 3: Supermegopro ($146.15 in chips) 
+Seat 5: Joker007r ($100.50 in chips) 
+Joker007r: posts small blind $0.50
+irenicus24: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+Joker007r: folds 
+Uncalled bet ($0.50) returned to irenicus24
+irenicus24 collected $1 from pot
+irenicus24: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: irenicus24 (big blind) collected ($1)
+Seat 3: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: Joker007r (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583752989:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:07:27 WET [2025/01/27 15:07:27 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: irenicus24 ($137.35 in chips) 
+Seat 3: Supermegopro ($146.15 in chips) 
+Seat 5: Joker007r ($100 in chips) 
+irenicus24: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Joker007r: raises $1.50 to $2.50
+irenicus24: folds 
+Supermegopro: raises $10.50 to $13
+Joker007r: folds 
+Uncalled bet ($10.50) returned to Supermegopro
+Supermegopro collected $5.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: irenicus24 (small blind) folded before Flop
+Seat 3: Supermegopro (big blind) collected ($5.50)
+Seat 5: Joker007r (button) folded before Flop
+
+
+
+PokerStars Hand #254583758220:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:07:43 WET [2025/01/27 15:07:43 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: irenicus24 ($136.85 in chips) 
+Seat 3: Supermegopro ($149.15 in chips) 
+Seat 5: Joker007r ($100 in chips) 
+Supermegopro: posts small blind $0.50
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+irenicus24: folds 
+Supermegopro: folds 
+Uncalled bet ($0.50) returned to Joker007r
+Joker007r collected $1 from pot
+Joker007r: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: irenicus24 (button) folded before Flop (didn't bet)
+Seat 3: Supermegopro (small blind) folded before Flop
+Seat 5: Joker007r (big blind) collected ($1)
+
+
+
+PokerStars Hand #254583761123:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:07:52 WET [2025/01/27 15:07:52 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: irenicus24 ($136.85 in chips) 
+Seat 3: Supermegopro ($148.65 in chips) 
+Seat 5: Joker007r ($100.50 in chips) 
+Joker007r: posts small blind $0.50
+irenicus24: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+Joker007r: folds 
+irenicus24: folds 
+Uncalled bet ($1.50) returned to Supermegopro
+Supermegopro collected $2.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: irenicus24 (big blind) folded before Flop
+Seat 3: Supermegopro (button) collected ($2.50)
+Seat 5: Joker007r (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583764649:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:08:02 WET [2025/01/27 15:08:02 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: irenicus24 ($135.85 in chips) 
+Seat 3: Supermegopro ($150.15 in chips) 
+Seat 5: Joker007r ($100 in chips) 
+irenicus24: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Joker007r: raises $1.50 to $2.50
+irenicus24: folds 
+Supermegopro: calls $1.50
+*** FLOP *** [5s 3d Ts]
+Supermegopro: checks 
+Joker007r: bets $3.81
+Supermegopro: folds 
+Uncalled bet ($3.81) returned to Joker007r
+Joker007r collected $5.22 from pot
+Joker007r: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [5s 3d Ts]
+Seat 1: irenicus24 (small blind) folded before Flop
+Seat 3: Supermegopro (big blind) folded on the Flop
+Seat 5: Joker007r (button) collected ($5.22)
+
+
+
+PokerStars Hand #254583771526:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:08:23 WET [2025/01/27 15:08:23 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: irenicus24 ($135.35 in chips) 
+Seat 3: Supermegopro ($147.65 in chips) 
+Seat 5: Joker007r ($102.72 in chips) 
+Supermegopro: posts small blind $0.50
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+irenicus24: raises $1.50 to $2.50
+Supermegopro: calls $2
+Joker007r: folds 
+*** FLOP *** [5s 6s 4c]
+Supermegopro: checks 
+irenicus24: checks 
+*** TURN *** [5s 6s 4c] [3c]
+Supermegopro: checks 
+irenicus24: checks 
+*** RIVER *** [5s 6s 4c 3c] [7d]
+Supermegopro: checks 
+irenicus24: checks 
+*** SHOW DOWN ***
+Supermegopro: shows [Js Qs] (a straight, Three to Seven)
+irenicus24: shows [Ks As] (a straight, Three to Seven)
+Supermegopro collected $2.85 from pot
+irenicus24 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [5s 6s 4c 3c 7d]
+Seat 1: irenicus24 (button) showed [Ks As] and won ($2.85) with a straight, Three to Seven
+Seat 3: Supermegopro (small blind) showed [Js Qs] and won ($2.85) with a straight, Three to Seven
+Seat 5: Joker007r (big blind) folded before Flop
+
+
+
+PokerStars Hand #254583784199:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:09:01 WET [2025/01/27 15:09:01 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: irenicus24 ($135.70 in chips) 
+Seat 3: Supermegopro ($148 in chips) 
+Seat 5: Joker007r ($101.72 in chips) 
+Joker007r: posts small blind $0.50
+irenicus24: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $2 to $3
+Joker007r: folds 
+irenicus24: folds 
+Uncalled bet ($2) returned to Supermegopro
+Supermegopro collected $2.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: irenicus24 (big blind) folded before Flop
+Seat 3: Supermegopro (button) collected ($2.50)
+Seat 5: Joker007r (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583787294:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:09:10 WET [2025/01/27 15:09:10 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: irenicus24 ($134.70 in chips) 
+Seat 3: Supermegopro ($149.50 in chips) 
+Seat 5: Joker007r ($101.22 in chips) 
+irenicus24: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Joker007r: raises $2 to $3
+irenicus24: folds 
+Supermegopro: raises $10 to $13
+Joker007r: raises $14 to $27
+Supermegopro: folds 
+Uncalled bet ($14) returned to Joker007r
+Joker007r collected $26.50 from pot
+Joker007r: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.50 | Rake $0 
+Seat 1: irenicus24 (small blind) folded before Flop
+Seat 3: Supermegopro (big blind) folded before Flop
+Seat 5: Joker007r (button) collected ($26.50)
+
+
+
+PokerStars Hand #254583796697:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:09:39 WET [2025/01/27 15:09:39 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: irenicus24 ($134.20 in chips) 
+Seat 3: Supermegopro ($136.50 in chips) 
+Seat 5: Joker007r ($114.72 in chips) 
+Supermegopro: posts small blind $0.50
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+irenicus24: folds 
+FacePalm0597 joins the table at seat #2 
+FacePalm0597 is disconnected 
+Supermegopro: raises $2 to $3
+Joker007r: folds 
+Uncalled bet ($2) returned to Supermegopro
+Gfoer joins the table at seat #4 
+Supermegopro collected $2 from pot
+Supermegopro: doesn't show hand 
+SorinS28 joins the table at seat #6 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: irenicus24 (button) folded before Flop (didn't bet)
+Seat 3: Supermegopro (small blind) collected ($2)
+Seat 5: Joker007r (big blind) folded before Flop
+
+
+
+PokerStars Hand #254583799955:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:09:48 WET [2025/01/27 15:09:48 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 2: FacePalm0597 ($54.83 in chips) is sitting out
+Seat 4: Gfoer ($100 in chips) is sitting out
+Seat 1: irenicus24 ($134.20 in chips) 
+Seat 3: Supermegopro ($137.50 in chips) 
+Seat 5: Joker007r ($113.72 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+Joker007r: posts small blind $0.50
+SorinS28: posts big blind $1
+FacePalm0597: sits out 
+*** HOLE CARDS ***
+irenicus24: raises $1.50 to $2.50
+Supermegopro: folds 
+Joker007r: folds 
+SorinS28: calls $1.50
+*** FLOP *** [Js 2h 4d]
+SorinS28: checks 
+irenicus24: checks 
+*** TURN *** [Js 2h 4d] [Jh]
+SorinS28: checks 
+irenicus24: checks 
+*** RIVER *** [Js 2h 4d Jh] [Ah]
+SorinS28: checks 
+irenicus24: bets $3.92
+SorinS28: calls $3.92
+*** SHOW DOWN ***
+irenicus24: shows [Kc Qc] (a pair of Jacks)
+SorinS28: shows [2c Ac] (two pair, Aces and Jacks)
+SorinS28 collected $12.67 from pot
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [Js 2h 4d Jh Ah]
+Seat 2: FacePalm0597
+Seat 4: Gfoer
+Seat 1: irenicus24 showed [Kc Qc] and lost with a pair of Jacks
+Seat 3: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: Joker007r (small blind) folded before Flop
+Seat 6: SorinS28 (big blind) showed [2c Ac] and won ($12.67) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #254583827603:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:11:11 WET [2025/01/27 15:11:11 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 4: Gfoer ($100 in chips) is sitting out
+Seat 1: irenicus24 ($127.78 in chips) 
+Seat 2: FacePalm0597 ($54.83 in chips) 
+Seat 3: Supermegopro ($137.50 in chips) 
+Seat 5: Joker007r ($113.22 in chips) 
+Seat 6: SorinS28 ($106.25 in chips) 
+SorinS28: posts small blind $0.50
+irenicus24: posts big blind $1
+FacePalm0597: posts big blind $1
+Gfoer: sits out 
+*** HOLE CARDS ***
+FacePalm0597: checks 
+Supermegopro: raises $5 to $6
+Joker007r: folds 
+SorinS28: folds 
+irenicus24: folds 
+FacePalm0597: calls $5
+*** FLOP *** [Th Jc 6h]
+FacePalm0597: checks 
+Supermegopro: checks 
+*** TURN *** [Th Jc 6h] [Ks]
+FacePalm0597: checks 
+Supermegopro: bets $4.23
+FacePalm0597: folds 
+Uncalled bet ($4.23) returned to Supermegopro
+Supermegopro collected $12.82 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.68 
+Board [Th Jc 6h Ks]
+Seat 4: Gfoer
+Seat 1: irenicus24 (big blind) folded before Flop
+Seat 2: FacePalm0597 folded on the Turn
+Seat 3: Supermegopro collected ($12.82)
+Seat 5: Joker007r (button) folded before Flop (didn't bet)
+Seat 6: SorinS28 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583838007:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:11:42 WET [2025/01/27 15:11:42 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 4: Gfoer ($100 in chips) is sitting out
+Seat 1: irenicus24 ($126.78 in chips) 
+Seat 2: FacePalm0597 ($48.83 in chips) 
+Seat 3: Supermegopro ($144.32 in chips) 
+Seat 5: Joker007r ($113.22 in chips) 
+Seat 6: SorinS28 ($105.75 in chips) 
+irenicus24: posts small blind $0.50
+FacePalm0597: posts big blind $1
+Gfoer: sits out 
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+Joker007r: folds 
+SorinS28: folds 
+irenicus24: folds 
+FacePalm0597: calls $1.50
+*** FLOP *** [3h Kc 9s]
+FacePalm0597: checks 
+Supermegopro: bets $2.61
+FacePalm0597: folds 
+Uncalled bet ($2.61) returned to Supermegopro
+Supermegopro collected $5.22 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3h Kc 9s]
+Seat 4: Gfoer
+Seat 1: irenicus24 (small blind) folded before Flop
+Seat 2: FacePalm0597 (big blind) folded on the Flop
+Seat 3: Supermegopro collected ($5.22)
+Seat 5: Joker007r folded before Flop (didn't bet)
+Seat 6: SorinS28 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583844482:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:12:02 WET [2025/01/27 15:12:02 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 4: Gfoer ($100 in chips) is sitting out
+Seat 1: irenicus24 ($126.28 in chips) 
+Seat 2: FacePalm0597 ($46.33 in chips) 
+Seat 3: Supermegopro ($147.04 in chips) 
+Seat 5: Joker007r ($113.22 in chips) 
+Seat 6: SorinS28 ($105.75 in chips) 
+FacePalm0597: posts small blind $0.50
+Supermegopro: posts big blind $1
+Gfoer: sits out 
+*** HOLE CARDS ***
+Joker007r: raises $1.38 to $2.38
+SorinS28: raises $5.12 to $7.50
+irenicus24: folds 
+FacePalm0597: calls $7
+Supermegopro: folds 
+Joker007r: raises $16.50 to $24
+SorinS28: folds 
+FacePalm0597: folds 
+Uncalled bet ($16.50) returned to Joker007r
+Joker007r collected $23.50 from pot
+Joker007r: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.50 | Rake $0 
+Seat 4: Gfoer
+Seat 1: irenicus24 (button) folded before Flop (didn't bet)
+Seat 2: FacePalm0597 (small blind) folded before Flop
+Seat 3: Supermegopro (big blind) folded before Flop
+Seat 5: Joker007r collected ($23.50)
+Seat 6: SorinS28 folded before Flop
+
+
+
+PokerStars Hand #254583854507:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:12:32 WET [2025/01/27 15:12:32 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: irenicus24 ($126.28 in chips) 
+Seat 2: FacePalm0597 ($38.83 in chips) 
+Seat 3: Supermegopro ($146.04 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Joker007r ($129.22 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+Supermegopro: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+Joker007r: folds 
+SorinS28: folds 
+irenicus24: raises $1.50 to $2.50
+FacePalm0597: calls $2.50
+Supermegopro: raises $11.50 to $14
+Gfoer: folds 
+irenicus24: folds 
+FacePalm0597: folds 
+Uncalled bet ($11.50) returned to Supermegopro
+Supermegopro collected $8.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0 
+Seat 1: irenicus24 folded before Flop
+Seat 2: FacePalm0597 (button) folded before Flop
+Seat 3: Supermegopro (small blind) collected ($8.50)
+Seat 4: Gfoer (big blind) folded before Flop
+Seat 5: Joker007r folded before Flop (didn't bet)
+Seat 6: SorinS28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583864036:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:13:01 WET [2025/01/27 15:13:01 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: irenicus24 ($123.78 in chips) 
+Seat 2: FacePalm0597 ($36.33 in chips) 
+Seat 3: Supermegopro ($152.04 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Joker007r ($129.22 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+Gfoer: posts small blind $0.50
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+SorinS28: folds 
+irenicus24: folds 
+FacePalm0597: raises $2.50 to $3.50
+Supermegopro: calls $3.50
+Gfoer: folds 
+Joker007r: folds 
+*** FLOP *** [2d 8c 4h]
+FacePalm0597: bets $4.04
+Supermegopro: folds 
+Uncalled bet ($4.04) returned to FacePalm0597
+FacePalm0597 collected $8.08 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [2d 8c 4h]
+Seat 1: irenicus24 folded before Flop (didn't bet)
+Seat 2: FacePalm0597 collected ($8.08)
+Seat 3: Supermegopro (button) folded on the Flop
+Seat 4: Gfoer (small blind) folded before Flop
+Seat 5: Joker007r (big blind) folded before Flop
+Seat 6: SorinS28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583873012:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:13:28 WET [2025/01/27 15:13:28 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: irenicus24 ($123.78 in chips) 
+Seat 2: FacePalm0597 ($40.91 in chips) 
+Seat 3: Supermegopro ($148.54 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Joker007r ($128.22 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+Joker007r: posts small blind $0.50
+SorinS28: posts big blind $1
+*** HOLE CARDS ***
+irenicus24: folds 
+FacePalm0597: raises $2.50 to $3.50
+Supermegopro: folds 
+Gfoer: folds 
+Joker007r: folds 
+SorinS28: folds 
+Uncalled bet ($2.50) returned to FacePalm0597
+FacePalm0597 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: irenicus24 folded before Flop (didn't bet)
+Seat 2: FacePalm0597 collected ($2.50)
+Seat 3: Supermegopro folded before Flop (didn't bet)
+Seat 4: Gfoer (button) folded before Flop (didn't bet)
+Seat 5: Joker007r (small blind) folded before Flop
+Seat 6: SorinS28 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254583880577:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:13:50 WET [2025/01/27 15:13:50 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: irenicus24 ($123.78 in chips) 
+Seat 2: FacePalm0597 ($42.41 in chips) 
+Seat 3: Supermegopro ($148.54 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Joker007r ($127.72 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+SorinS28: posts small blind $0.50
+irenicus24: posts big blind $1
+*** HOLE CARDS ***
+FacePalm0597: folds 
+Supermegopro: folds 
+Gfoer: folds 
+Joker007r: raises $1.50 to $2.50
+SorinS28: folds 
+irenicus24: folds 
+Uncalled bet ($1.50) returned to Joker007r
+Joker007r collected $2.50 from pot
+Joker007r: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: irenicus24 (big blind) folded before Flop
+Seat 2: FacePalm0597 folded before Flop (didn't bet)
+Seat 3: Supermegopro folded before Flop (didn't bet)
+Seat 4: Gfoer folded before Flop (didn't bet)
+Seat 5: Joker007r (button) collected ($2.50)
+Seat 6: SorinS28 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583889808:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:14:18 WET [2025/01/27 15:14:18 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: irenicus24 ($122.78 in chips) 
+Seat 2: FacePalm0597 ($42.41 in chips) 
+Seat 3: Supermegopro ($148.54 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Joker007r ($129.22 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+irenicus24: posts small blind $0.50
+FacePalm0597: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+Gfoer: folds 
+Joker007r: folds 
+SorinS28: folds 
+irenicus24: folds 
+Uncalled bet ($0.50) returned to FacePalm0597
+FacePalm0597 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: irenicus24 (small blind) folded before Flop
+Seat 2: FacePalm0597 (big blind) collected ($1)
+Seat 3: Supermegopro folded before Flop (didn't bet)
+Seat 4: Gfoer folded before Flop (didn't bet)
+Seat 5: Joker007r folded before Flop (didn't bet)
+Seat 6: SorinS28 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583894066:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:14:31 WET [2025/01/27 15:14:31 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: irenicus24 ($122.28 in chips) 
+Seat 2: FacePalm0597 ($42.91 in chips) 
+Seat 3: Supermegopro ($148.54 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Joker007r ($129.22 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+FacePalm0597: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+Joker007r: folds 
+SorinS28: folds 
+irenicus24: raises $1.50 to $2.50
+FacePalm0597: raises $6 to $8.50
+Supermegopro: folds 
+irenicus24: folds 
+Uncalled bet ($6) returned to FacePalm0597
+FacePalm0597 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: irenicus24 (button) folded before Flop
+Seat 2: FacePalm0597 (small blind) collected ($6)
+Seat 3: Supermegopro (big blind) folded before Flop
+Seat 4: Gfoer folded before Flop (didn't bet)
+Seat 5: Joker007r folded before Flop (didn't bet)
+Seat 6: SorinS28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583901818:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:14:54 WET [2025/01/27 15:14:54 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: irenicus24 ($119.78 in chips) 
+Seat 2: FacePalm0597 ($46.41 in chips) 
+Seat 3: Supermegopro ($147.54 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Joker007r ($129.22 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+Supermegopro: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+Joker007r: folds 
+SorinS28: folds 
+irenicus24: folds 
+FacePalm0597: raises $1 to $2
+Supermegopro: folds 
+Gfoer: folds 
+Uncalled bet ($1) returned to FacePalm0597
+FacePalm0597 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: irenicus24 folded before Flop (didn't bet)
+Seat 2: FacePalm0597 (button) collected ($2.50)
+Seat 3: Supermegopro (small blind) folded before Flop
+Seat 4: Gfoer (big blind) folded before Flop
+Seat 5: Joker007r folded before Flop (didn't bet)
+Seat 6: SorinS28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583908012:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:15:12 WET [2025/01/27 15:15:12 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: irenicus24 ($119.78 in chips) 
+Seat 2: FacePalm0597 ($47.91 in chips) 
+Seat 3: Supermegopro ($147.04 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Joker007r ($129.22 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+Gfoer: posts small blind $0.50
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+SorinS28: folds 
+irenicus24: raises $1.50 to $2.50
+FacePalm0597: folds 
+Supermegopro: folds 
+Gfoer: folds 
+Joker007r: folds 
+Uncalled bet ($1.50) returned to irenicus24
+irenicus24 collected $2.50 from pot
+irenicus24: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: irenicus24 collected ($2.50)
+Seat 2: FacePalm0597 folded before Flop (didn't bet)
+Seat 3: Supermegopro (button) folded before Flop (didn't bet)
+Seat 4: Gfoer (small blind) folded before Flop
+Seat 5: Joker007r (big blind) folded before Flop
+Seat 6: SorinS28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583920888:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:15:50 WET [2025/01/27 15:15:50 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: irenicus24 ($121.28 in chips) 
+Seat 2: FacePalm0597 ($47.91 in chips) 
+Seat 3: Supermegopro ($147.04 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Joker007r ($128.22 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+Joker007r: posts small blind $0.50
+SorinS28: posts big blind $1
+*** HOLE CARDS ***
+irenicus24: folds 
+FacePalm0597: calls $1
+Supermegopro: folds 
+Gfoer: raises $3.50 to $4.50
+Joker007r: folds 
+SorinS28: folds 
+FacePalm0597: calls $3.50
+*** FLOP *** [Tc 4s Ts]
+FacePalm0597: bets $4.99
+Gfoer: calls $4.99
+*** TURN *** [Tc 4s Ts] [5h]
+FacePalm0597: bets $38.42 and is all-in
+Gfoer: folds 
+Uncalled bet ($38.42) returned to FacePalm0597
+FacePalm0597 collected $19.46 from pot
+*** SUMMARY ***
+Total pot $20.48 | Rake $1.02 
+Board [Tc 4s Ts 5h]
+Seat 1: irenicus24 folded before Flop (didn't bet)
+Seat 2: FacePalm0597 collected ($19.46)
+Seat 3: Supermegopro folded before Flop (didn't bet)
+Seat 4: Gfoer (button) folded on the Turn
+Seat 5: Joker007r (small blind) folded before Flop
+Seat 6: SorinS28 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254583941209:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:16:50 WET [2025/01/27 15:16:50 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: irenicus24 ($121.28 in chips) 
+Seat 2: FacePalm0597 ($57.88 in chips) 
+Seat 3: Supermegopro ($147.04 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Joker007r ($127.72 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+SorinS28: posts small blind $0.50
+irenicus24: posts big blind $1
+*** HOLE CARDS ***
+FacePalm0597: raises $2 to $3
+Supermegopro: folds 
+Gfoer: folds 
+Joker007r: folds 
+SorinS28: calls $2.50
+irenicus24: folds 
+*** FLOP *** [2h Kh As]
+SorinS28: checks 
+FacePalm0597: checks 
+*** TURN *** [2h Kh As] [9c]
+SorinS28: checks 
+FacePalm0597: checks 
+*** RIVER *** [2h Kh As 9c] [7s]
+SorinS28: checks 
+FacePalm0597: checks 
+*** SHOW DOWN ***
+SorinS28: shows [8s 5s] (high card Ace)
+FacePalm0597: shows [8h 8c] (a pair of Eights)
+FacePalm0597 collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [2h Kh As 9c 7s]
+Seat 1: irenicus24 (big blind) folded before Flop
+Seat 2: FacePalm0597 showed [8h 8c] and won ($6.65) with a pair of Eights
+Seat 3: Supermegopro folded before Flop (didn't bet)
+Seat 4: Gfoer folded before Flop (didn't bet)
+Seat 5: Joker007r (button) folded before Flop (didn't bet)
+Seat 6: SorinS28 (small blind) showed [8s 5s] and lost with high card Ace
+
+
+
+PokerStars Hand #254583958231:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:17:41 WET [2025/01/27 15:17:41 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: irenicus24 ($120.28 in chips) 
+Seat 2: FacePalm0597 ($61.53 in chips) 
+Seat 3: Supermegopro ($147.04 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Joker007r ($127.72 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+irenicus24: posts small blind $0.50
+FacePalm0597: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+Gfoer: folds 
+Joker007r: raises $1.50 to $2.50
+SorinS28: raises $6 to $8.50
+irenicus24: folds 
+FacePalm0597: calls $7.50
+Joker007r: folds 
+*** FLOP *** [4h 7d 9c]
+FacePalm0597: checks 
+SorinS28: checks 
+*** TURN *** [4h 7d 9c] [2h]
+FacePalm0597: bets $9.50
+SorinS28: folds 
+Uncalled bet ($9.50) returned to FacePalm0597
+FacePalm0597 collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [4h 7d 9c 2h]
+Seat 1: irenicus24 (small blind) folded before Flop
+Seat 2: FacePalm0597 (big blind) collected ($19)
+Seat 3: Supermegopro folded before Flop (didn't bet)
+Seat 4: Gfoer folded before Flop (didn't bet)
+Seat 5: Joker007r folded before Flop
+Seat 6: SorinS28 (button) folded on the Turn
+
+
+
+PokerStars Hand #254583978545:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:18:42 WET [2025/01/27 15:18:42 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: irenicus24 ($119.78 in chips) 
+Seat 2: FacePalm0597 ($72.03 in chips) 
+Seat 3: Supermegopro ($147.04 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Joker007r ($125.22 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+FacePalm0597: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+Joker007r: folds 
+SorinS28: folds 
+irenicus24: folds 
+FacePalm0597: calls $0.50
+Supermegopro: checks 
+*** FLOP *** [7c 5d 9d]
+FacePalm0597: checks 
+Supermegopro: checks 
+*** TURN *** [7c 5d 9d] [Jh]
+FacePalm0597: bets $1.90
+Supermegopro: calls $1.90
+*** RIVER *** [7c 5d 9d Jh] [2d]
+FacePalm0597: bets $2.76
+Supermegopro: calls $2.76
+*** SHOW DOWN ***
+FacePalm0597: shows [5s 7h] (two pair, Sevens and Fives)
+Supermegopro: mucks hand 
+FacePalm0597 collected $10.75 from pot
+*** SUMMARY ***
+Total pot $11.32 | Rake $0.57 
+Board [7c 5d 9d Jh 2d]
+Seat 1: irenicus24 (button) folded before Flop (didn't bet)
+Seat 2: FacePalm0597 (small blind) showed [5s 7h] and won ($10.75) with two pair, Sevens and Fives
+Seat 3: Supermegopro (big blind) mucked
+Seat 4: Gfoer folded before Flop (didn't bet)
+Seat 5: Joker007r folded before Flop (didn't bet)
+Seat 6: SorinS28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583989102:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:19:14 WET [2025/01/27 15:19:14 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: irenicus24 ($119.78 in chips) 
+Seat 2: FacePalm0597 ($77.12 in chips) 
+Seat 3: Supermegopro ($141.38 in chips) 
+Seat 4: Gfoer ($100 in chips) 
+Seat 5: Joker007r ($125.22 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+Supermegopro: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+Joker007r: folds 
+SorinS28: folds 
+irenicus24: folds 
+FacePalm0597: calls $1
+Supermegopro: folds 
+Gfoer: checks 
+*** FLOP *** [9d 5h Js]
+Gfoer: checks 
+FacePalm0597: checks 
+*** TURN *** [9d 5h Js] [3h]
+Gfoer: bets $1.19
+FacePalm0597: calls $1.19
+*** RIVER *** [9d 5h Js 3h] [2d]
+Gfoer: bets $9
+FacePalm0597: folds 
+Uncalled bet ($9) returned to Gfoer
+Gfoer collected $4.64 from pot
+Gfoer: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.24 
+Board [9d 5h Js 3h 2d]
+Seat 1: irenicus24 folded before Flop (didn't bet)
+Seat 2: FacePalm0597 (button) folded on the River
+Seat 3: Supermegopro (small blind) folded before Flop
+Seat 4: Gfoer (big blind) collected ($4.64)
+Seat 5: Joker007r folded before Flop (didn't bet)
+Seat 6: SorinS28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583998779:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:19:43 WET [2025/01/27 15:19:43 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: irenicus24 ($119.78 in chips) 
+Seat 2: FacePalm0597 ($74.93 in chips) 
+Seat 3: Supermegopro ($140.88 in chips) 
+Seat 4: Gfoer ($102.45 in chips) 
+Seat 5: Joker007r ($125.22 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+Gfoer: posts small blind $0.50
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+SorinS28: folds 
+irenicus24: folds 
+FacePalm0597: calls $1
+Supermegopro: folds 
+Gfoer: folds 
+Joker007r: checks 
+*** FLOP *** [2c Jh 6s]
+Joker007r: checks 
+FacePalm0597: checks 
+*** TURN *** [2c Jh 6s] [5h]
+Joker007r: bets $1.59
+FacePalm0597: calls $1.59
+*** RIVER *** [2c Jh 6s 5h] [4c]
+Joker007r: bets $3.94
+FacePalm0597: calls $3.94
+*** SHOW DOWN ***
+Joker007r: shows [Ts 8d] (high card Jack)
+FacePalm0597: shows [5d Tc] (a pair of Fives)
+FacePalm0597 collected $12.88 from pot
+*** SUMMARY ***
+Total pot $13.56 | Rake $0.68 
+Board [2c Jh 6s 5h 4c]
+Seat 1: irenicus24 folded before Flop (didn't bet)
+Seat 2: FacePalm0597 showed [5d Tc] and won ($12.88) with a pair of Fives
+Seat 3: Supermegopro (button) folded before Flop (didn't bet)
+Seat 4: Gfoer (small blind) folded before Flop
+Seat 5: Joker007r (big blind) showed [Ts 8d] and lost with high card Jack
+Seat 6: SorinS28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584006843:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:20:07 WET [2025/01/27 15:20:07 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: irenicus24 ($119.78 in chips) 
+Seat 2: FacePalm0597 ($81.28 in chips) 
+Seat 3: Supermegopro ($140.88 in chips) 
+Seat 4: Gfoer ($101.95 in chips) 
+Seat 5: Joker007r ($118.69 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+Joker007r: posts small blind $0.50
+SorinS28: posts big blind $1
+*** HOLE CARDS ***
+irenicus24: folds 
+FacePalm0597: raises $2 to $3
+Supermegopro: folds 
+Gfoer: folds 
+Joker007r: folds 
+SorinS28: folds 
+Uncalled bet ($2) returned to FacePalm0597
+FacePalm0597 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: irenicus24 folded before Flop (didn't bet)
+Seat 2: FacePalm0597 collected ($2.50)
+Seat 3: Supermegopro folded before Flop (didn't bet)
+Seat 4: Gfoer (button) folded before Flop (didn't bet)
+Seat 5: Joker007r (small blind) folded before Flop
+Seat 6: SorinS28 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254584011208:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:20:20 WET [2025/01/27 15:20:20 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: irenicus24 ($119.78 in chips) is sitting out
+Seat 2: FacePalm0597 ($82.78 in chips) 
+Seat 3: Supermegopro ($140.88 in chips) 
+Seat 4: Gfoer ($101.95 in chips) 
+Seat 5: Joker007r ($118.19 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+SorinS28: posts small blind $0.50
+irenicus24: is sitting out 
+FacePalm0597: posts big blind $1
+*** HOLE CARDS ***
+irenicus24 leaves the table
+Supermegopro: raises $1.50 to $2.50
+Gfoer: folds 
+michasia joins the table at seat #1 
+Joker007r: folds 
+SorinS28: calls $2
+FacePalm0597: calls $1.50
+*** FLOP *** [5h 2h 4h]
+SorinS28: checks 
+FacePalm0597: checks 
+Supermegopro: checks 
+*** TURN *** [5h 2h 4h] [Kc]
+SorinS28: bets $2.35
+FacePalm0597: calls $2.35
+Supermegopro: calls $2.35
+*** RIVER *** [5h 2h 4h Kc] [Ts]
+SorinS28: checks 
+FacePalm0597: checks 
+Supermegopro: bets $9.21
+SorinS28: folds 
+FacePalm0597: folds 
+Uncalled bet ($9.21) returned to Supermegopro
+FacePalm0597 leaves the table
+Supermegopro collected $13.82 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.55 | Rake $0.73 
+Board [5h 2h 4h Kc Ts]
+Seat 1: irenicus24
+Seat 2: FacePalm0597 (big blind) folded on the River
+Seat 3: Supermegopro collected ($13.82)
+Seat 4: Gfoer folded before Flop (didn't bet)
+Seat 5: Joker007r (button) folded before Flop (didn't bet)
+Seat 6: SorinS28 (small blind) folded on the River
+
+
+
+PokerStars Hand #254584037585:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:21:39 WET [2025/01/27 15:21:39 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: michasia ($100 in chips) is sitting out
+Seat 4: Gfoer ($101.95 in chips) is sitting out
+Seat 3: Supermegopro ($149.85 in chips) 
+Seat 5: Joker007r ($118.19 in chips) 
+Seat 6: SorinS28 ($100 in chips) 
+Supermegopro: posts small blind $0.50
+Gfoer: is sitting out 
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+SorinS28: folds 
+Supermegopro: folds 
+Uncalled bet ($0.50) returned to Joker007r
+Joker007r collected $1 from pot
+coeeeelho joins the table at seat #2 
+Joker007r: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: michasia
+Seat 4: Gfoer
+Seat 3: Supermegopro (small blind) folded before Flop
+Seat 5: Joker007r (big blind) collected ($1)
+Seat 6: SorinS28 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584039866:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:21:46 WET [2025/01/27 15:21:46 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 2: coeeeelho ($100 in chips) is sitting out
+Seat 4: Gfoer ($101.95 in chips) is sitting out
+Seat 6: SorinS28 ($100 in chips) is sitting out
+Seat 1: michasia ($100 in chips) 
+Seat 3: Supermegopro ($149.35 in chips) 
+Seat 5: Joker007r ($118.69 in chips) 
+Joker007r: posts small blind $0.50
+SorinS28: is sitting out 
+michasia: posts big blind $1
+coeeeelho: sits out 
+*** HOLE CARDS ***
+Gfoer leaves the table
+Supermegopro: folds 
+Joker007r: folds 
+Uncalled bet ($0.50) returned to michasia
+SorinS28 leaves the table
+michasia collected $1 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: coeeeelho
+Seat 4: Gfoer
+Seat 6: SorinS28
+Seat 1: michasia (big blind) collected ($1)
+Seat 3: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: Joker007r (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584079434:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:23:46 WET [2025/01/27 15:23:46 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 3: xxxZeka ($100 in chips) 
+Seat 6: alexandr699 ($100 in chips) 
+alexandr699: posts small blind $0.50
+xxxZeka: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: folds 
+Uncalled bet ($0.50) returned to xxxZeka
+xxxZeka collected $1 from pot
+xxxZeka: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: xxxZeka (big blind) collected ($1)
+Seat 6: alexandr699 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584081600:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:23:52 WET [2025/01/27 15:23:52 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 3: xxxZeka ($100.50 in chips) 
+Seat 6: alexandr699 ($100 in chips) 
+xxxZeka: posts small blind $0.50
+alexandr699: posts big blind $1
+*** HOLE CARDS ***
+xxxZeka: raises $1 to $2
+alexandr699: calls $1
+*** FLOP *** [5c 5h 4h]
+alexandr699: checks 
+xxxZeka: bets $1.25
+alexandr699: folds 
+Uncalled bet ($1.25) returned to xxxZeka
+xxxZeka collected $3.80 from pot
+xxxZeka: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [5c 5h 4h]
+Seat 3: xxxZeka (button) (small blind) collected ($3.80)
+Seat 6: alexandr699 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254584090528:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:24:19 WET [2025/01/27 15:24:19 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 3: xxxZeka ($102.30 in chips) 
+Seat 6: alexandr699 ($100 in chips) 
+alexandr699: posts small blind $0.50
+xxxZeka: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: raises $1.98 to $2.98
+xxxZeka: folds 
+Uncalled bet ($1.98) returned to alexandr699
+alexandr699 collected $2 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: xxxZeka (big blind) folded before Flop
+Seat 6: alexandr699 (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254584166226:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:28:06 WET [2025/01/27 15:28:06 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 2: blackclan7 ($100 in chips) 
+Seat 3: xxxZeka ($101.30 in chips) 
+Seat 4: worker0k ($100 in chips) 
+Seat 5: Rambo_nvd ($100 in chips) 
+Seat 6: alexandr699 ($101 in chips) 
+xxxZeka: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: raises $1.20 to $2.20
+alexandr699: folds 
+blackclan7: folds 
+xxxZeka: folds 
+worker0k: folds 
+Uncalled bet ($1.20) returned to Rambo_nvd
+Rambo_nvd collected $2.50 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: blackclan7 (button) folded before Flop (didn't bet)
+Seat 3: xxxZeka (small blind) folded before Flop
+Seat 4: worker0k (big blind) folded before Flop
+Seat 5: Rambo_nvd collected ($2.50)
+Seat 6: alexandr699 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584170636:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:28:19 WET [2025/01/27 15:28:19 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 2: blackclan7 ($100 in chips) 
+Seat 3: xxxZeka ($100.80 in chips) 
+Seat 4: worker0k ($100 in chips) 
+Seat 5: Rambo_nvd ($101.50 in chips) 
+Seat 6: alexandr699 ($101 in chips) 
+worker0k: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: folds 
+blackclan7: folds 
+xxxZeka: folds 
+worker0k: raises $1.80 to $2.80
+Rambo_nvd: raises $6.20 to $9
+worker0k: calls $6.20
+*** FLOP *** [7c Qs 3c]
+worker0k: checks 
+Rambo_nvd: checks 
+*** TURN *** [7c Qs 3c] [7d]
+worker0k: checks 
+Rambo_nvd: bets $5.30
+worker0k: folds 
+Uncalled bet ($5.30) returned to Rambo_nvd
+Rambo_nvd collected $17.10 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [7c Qs 3c 7d]
+Seat 2: blackclan7 folded before Flop (didn't bet)
+Seat 3: xxxZeka (button) folded before Flop (didn't bet)
+Seat 4: worker0k (small blind) folded on the Turn
+Seat 5: Rambo_nvd (big blind) collected ($17.10)
+Seat 6: alexandr699 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584192097:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:29:23 WET [2025/01/27 15:29:23 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 2: blackclan7 ($100 in chips) 
+Seat 3: xxxZeka ($100.80 in chips) 
+Seat 4: worker0k ($100 in chips) 
+Seat 5: Rambo_nvd ($109.60 in chips) 
+Seat 6: alexandr699 ($101 in chips) 
+Rambo_nvd: posts small blind $0.50
+alexandr699: posts big blind $1
+*** HOLE CARDS ***
+blackclan7: folds 
+xxxZeka: raises $1.50 to $2.50
+worker0k: folds 
+Rambo_nvd: folds 
+alexandr699: calls $1.50
+*** FLOP *** [5c Ks 7h]
+alexandr699: checks 
+xxxZeka: bets $1.72
+kumar64 joins the table at seat #1 
+alexandr699: raises $10.38 to $12.10
+xxxZeka: folds 
+Uncalled bet ($10.38) returned to alexandr699
+xxxZeka leaves the table
+alexandr699 collected $8.49 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [5c Ks 7h]
+Seat 2: blackclan7 folded before Flop (didn't bet)
+Seat 3: xxxZeka folded on the Flop
+Seat 4: worker0k (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: alexandr699 (big blind) collected ($8.49)
+
+
+
+PokerStars Hand #254584207079:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:30:08 WET [2025/01/27 15:30:08 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: kumar64 ($76.75 in chips) 
+Seat 2: blackclan7 ($100 in chips) 
+Seat 4: worker0k ($100 in chips) 
+Seat 5: Rambo_nvd ($109.10 in chips) 
+Seat 6: alexandr699 ($105.27 in chips) 
+alexandr699: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+tintin641 joins the table at seat #3 
+blackclan7: raises $1 to $2
+worker0k: folds 
+worker0k leaves the table
+Rambo_nvd: folds 
+alexandr699: raises $9 to $11
+kumar64: folds 
+blackclan7: folds 
+Uncalled bet ($9) returned to alexandr699
+alexandr699 collected $5 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: kumar64 (big blind) folded before Flop
+Seat 2: blackclan7 folded before Flop
+Seat 4: worker0k folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+Seat 6: alexandr699 (small blind) collected ($5)
+
+
+
+PokerStars Hand #254584214380:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:30:29 WET [2025/01/27 15:30:29 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 3: tintin641 ($100 in chips) is sitting out
+Seat 1: kumar64 ($75.75 in chips) 
+Seat 2: blackclan7 ($100 in chips) 
+Seat 5: Rambo_nvd ($109.10 in chips) 
+Seat 6: alexandr699 ($108.27 in chips) 
+kumar64: posts small blind $0.50
+blackclan7: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+J0SHB0SH joins the table at seat #4 
+Rambo_nvd: raises $1.20 to $2.20
+alexandr699: folds 
+kumar64: folds 
+blackclan7: folds 
+Uncalled bet ($1.20) returned to Rambo_nvd
+Rambo_nvd collected $2.50 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: tintin641
+Seat 1: kumar64 (small blind) folded before Flop
+Seat 2: blackclan7 (big blind) folded before Flop
+Seat 5: Rambo_nvd collected ($2.50)
+Seat 6: alexandr699 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584221543:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:30:51 WET [2025/01/27 15:30:51 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 4: J0SHB0SH ($100 in chips) is sitting out
+Seat 1: kumar64 ($75.25 in chips) 
+Seat 2: blackclan7 ($100 in chips) 
+Seat 3: tintin641 ($100 in chips) 
+Seat 5: Rambo_nvd ($110.60 in chips) 
+Seat 6: alexandr699 ($108.27 in chips) 
+blackclan7: posts small blind $0.50
+tintin641: posts big blind $1
+J0SHB0SH: sits out 
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+alexandr699: folds 
+kumar64: folds 
+blackclan7: folds 
+Uncalled bet ($0.50) returned to tintin641
+tintin641 collected $1 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: J0SHB0SH
+Seat 1: kumar64 (button) folded before Flop (didn't bet)
+Seat 2: blackclan7 (small blind) folded before Flop
+Seat 3: tintin641 (big blind) collected ($1)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: alexandr699 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584225127:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:31:01 WET [2025/01/27 15:31:01 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: kumar64 ($75.25 in chips) 
+Seat 2: blackclan7 ($100 in chips) 
+Seat 3: tintin641 ($100.50 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($110.60 in chips) 
+Seat 6: alexandr699 ($108.27 in chips) 
+tintin641: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+alexandr699: raises $1.98 to $2.98
+kumar64: folds 
+blackclan7: folds 
+tintin641: folds 
+J0SHB0SH: folds 
+Uncalled bet ($1.98) returned to alexandr699
+alexandr699 collected $2.50 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: blackclan7 (button) folded before Flop (didn't bet)
+Seat 3: tintin641 (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) folded before Flop
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: alexandr699 collected ($2.50)
+
+
+
+PokerStars Hand #254584230755:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:31:18 WET [2025/01/27 15:31:18 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: kumar64 ($75.25 in chips) 
+Seat 2: blackclan7 ($100 in chips) 
+Seat 3: tintin641 ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($110.60 in chips) 
+Seat 6: alexandr699 ($109.77 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: folds 
+kumar64: folds 
+blackclan7: folds 
+tintin641: folds 
+J0SHB0SH: raises $2 to $3
+Rambo_nvd: raises $6 to $9
+J0SHB0SH: folds 
+Uncalled bet ($6) returned to Rambo_nvd
+Rambo_nvd collected $6 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: blackclan7 folded before Flop (didn't bet)
+Seat 3: tintin641 (button) folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) collected ($6)
+Seat 6: alexandr699 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584241936:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:31:52 WET [2025/01/27 15:31:52 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: kumar64 ($75.25 in chips) 
+Seat 2: blackclan7 ($100 in chips) 
+Seat 3: tintin641 ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($113.60 in chips) 
+Seat 6: alexandr699 ($109.77 in chips) 
+Rambo_nvd: posts small blind $0.50
+alexandr699: posts big blind $1
+*** HOLE CARDS ***
+kumar64: folds 
+blackclan7: raises $1 to $2
+tintin641: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+alexandr699: folds 
+Uncalled bet ($1) returned to blackclan7
+blackclan7 collected $2.50 from pot
+blackclan7: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: blackclan7 collected ($2.50)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: alexandr699 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254584249214:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:32:13 WET [2025/01/27 15:32:13 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: kumar64 ($75.25 in chips) 
+Seat 2: blackclan7 ($101.50 in chips) 
+Seat 3: tintin641 ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($113.10 in chips) 
+Seat 6: alexandr699 ($108.77 in chips) 
+alexandr699: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+blackclan7: folds 
+tintin641: folds 
+J0SHB0SH: folds 
+blackclan7 leaves the table
+Rambo_nvd: raises $1.50 to $2.50
+alexandr699: folds 
+kumar64: folds 
+Uncalled bet ($1.50) returned to Rambo_nvd
+Rambo_nvd collected $2.50 from pot
+Rambo_nvd: doesn't show hand 
+z00mba joins the table at seat #2 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 (big blind) folded before Flop
+Seat 2: blackclan7 folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (button) collected ($2.50)
+Seat 6: alexandr699 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584256165:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:32:34 WET [2025/01/27 15:32:34 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 2: z00mba ($100 in chips) is sitting out
+Seat 1: kumar64 ($74.25 in chips) 
+Seat 3: tintin641 ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($114.60 in chips) 
+Seat 6: alexandr699 ($108.27 in chips) 
+kumar64: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Rambo_nvd: raises $1.20 to $2.20
+alexandr699: calls $2.20
+kumar64: calls $1.70
+tintin641: calls $1.20
+*** FLOP *** [4h 2h 8s]
+kumar64: checks 
+tintin641: checks 
+Rambo_nvd: checks 
+alexandr699: bets $2.76
+kumar64: raises $12.24 to $15
+tintin641: folds 
+Rambo_nvd: folds 
+alexandr699: folds 
+Uncalled bet ($12.24) returned to kumar64
+kumar64 collected $13.60 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.32 | Rake $0.72 
+Board [4h 2h 8s]
+Seat 2: z00mba
+Seat 1: kumar64 (small blind) collected ($13.60)
+Seat 3: tintin641 (big blind) folded on the Flop
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded on the Flop
+Seat 6: alexandr699 (button) folded on the Flop
+
+
+
+PokerStars Hand #254584273633:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:33:27 WET [2025/01/27 15:33:27 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 2: z00mba ($100 in chips) is sitting out
+Seat 1: kumar64 ($82.89 in chips) 
+Seat 3: tintin641 ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($112.40 in chips) 
+Seat 6: alexandr699 ($103.31 in chips) 
+tintin641: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+alexandr699: raises $1.98 to $2.98
+kumar64: folds 
+tintin641: folds 
+J0SHB0SH: folds 
+Uncalled bet ($1.98) returned to alexandr699
+alexandr699 collected $2.50 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: z00mba
+Seat 1: kumar64 (button) folded before Flop (didn't bet)
+Seat 3: tintin641 (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) folded before Flop
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: alexandr699 collected ($2.50)
+
+
+
+PokerStars Hand #254584277378:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:33:38 WET [2025/01/27 15:33:38 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 2: z00mba ($100 in chips) is sitting out
+Seat 1: kumar64 ($82.89 in chips) 
+Seat 3: tintin641 ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($112.40 in chips) 
+Seat 6: alexandr699 ($104.81 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+alexandr699: folds 
+kumar64: folds 
+tintin641: raises $1.50 to $2.50
+J0SHB0SH: folds 
+Rambo_nvd: calls $1.50
+*** FLOP *** [3c 3s 2h]
+Rambo_nvd: checks 
+tintin641: bets $1.72
+Rambo_nvd: folds 
+Uncalled bet ($1.72) returned to tintin641
+tintin641 collected $5.22 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3c 3s 2h]
+Seat 2: z00mba
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 3: tintin641 (button) collected ($5.22)
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) folded on the Flop
+Seat 6: alexandr699 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584288747:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:34:12 WET [2025/01/27 15:34:12 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 2: z00mba ($100 in chips) is sitting out
+Seat 1: kumar64 ($82.89 in chips) 
+Seat 3: tintin641 ($102.72 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($109.90 in chips) 
+Seat 6: alexandr699 ($104.81 in chips) 
+Rambo_nvd: posts small blind $0.50
+alexandr699: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+kumar64: folds 
+tintin641: raises $1.50 to $2.50
+J0SHB0SH: folds 
+Rambo_nvd: raises $7.50 to $10
+alexandr699: folds 
+tintin641: folds 
+Uncalled bet ($7.50) returned to Rambo_nvd
+Rambo_nvd collected $6 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: z00mba
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop
+Seat 4: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) collected ($6)
+Seat 6: alexandr699 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254584296341:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:34:36 WET [2025/01/27 15:34:36 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 2: z00mba ($100 in chips) is sitting out
+Seat 1: kumar64 ($82.89 in chips) 
+Seat 3: tintin641 ($100.22 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($113.40 in chips) 
+Seat 6: alexandr699 ($103.81 in chips) 
+alexandr699: posts small blind $0.50
+kumar64: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+tintin641: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+alexandr699: folds 
+Uncalled bet ($0.50) returned to kumar64
+kumar64 collected $1 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: z00mba
+Seat 1: kumar64 (big blind) collected ($1)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+Seat 6: alexandr699 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584300302:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:34:48 WET [2025/01/27 15:34:48 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: kumar64 ($83.39 in chips) 
+Seat 2: z00mba ($100 in chips) 
+Seat 3: tintin641 ($100.22 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($113.40 in chips) 
+Seat 6: alexandr699 ($103.31 in chips) 
+kumar64: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+alexandr699: raises $1.98 to $2.98
+kumar64: folds 
+z00mba: folds 
+Uncalled bet ($1.98) returned to alexandr699
+alexandr699 collected $2.50 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 (small blind) folded before Flop
+Seat 2: z00mba (big blind) folded before Flop
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: alexandr699 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254584307145:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:35:09 WET [2025/01/27 15:35:09 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: kumar64 ($82.89 in chips) 
+Seat 2: z00mba ($100 in chips) 
+Seat 3: tintin641 ($100.22 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($113.40 in chips) 
+Seat 6: alexandr699 ($104.81 in chips) 
+z00mba: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+alexandr699: folds 
+kumar64: raises $2 to $3
+z00mba: folds 
+tintin641: calls $2
+*** FLOP *** [9s Qd Ad]
+tintin641: checks 
+kumar64: bets $4
+tintin641: calls $4
+*** TURN *** [9s Qd Ad] [5c]
+tintin641: checks 
+kumar64: checks 
+*** RIVER *** [9s Qd Ad 5c] [3c]
+tintin641: bets $10.34
+kumar64: calls $10.34
+*** SHOW DOWN ***
+tintin641: shows [Ac Tc] (a pair of Aces)
+kumar64: mucks hand 
+tintin641 collected $33.42 from pot
+*** SUMMARY ***
+Total pot $35.18 | Rake $1.76 
+Board [9s Qd Ad 5c 3c]
+Seat 1: kumar64 (button) mucked
+Seat 2: z00mba (small blind) folded before Flop
+Seat 3: tintin641 (big blind) showed [Ac Tc] and won ($33.42) with a pair of Aces
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: alexandr699 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584334745:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:36:32 WET [2025/01/27 15:36:32 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: kumar64 ($65.55 in chips) 
+Seat 2: z00mba ($100 in chips) 
+Seat 3: tintin641 ($116.30 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($113.40 in chips) 
+Seat 6: alexandr699 ($104.81 in chips) 
+tintin641: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+alexandr699: folds 
+kumar64: folds 
+z00mba: folds 
+tintin641: folds 
+Uncalled bet ($0.50) returned to J0SHB0SH
+J0SHB0SH collected $1 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: z00mba (button) folded before Flop (didn't bet)
+Seat 3: tintin641 (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) collected ($1)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: alexandr699 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584342428:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:36:55 WET [2025/01/27 15:36:55 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: kumar64 ($65.55 in chips) 
+Seat 2: z00mba ($100 in chips) 
+Seat 3: tintin641 ($115.80 in chips) 
+Seat 4: J0SHB0SH ($100.50 in chips) 
+Seat 5: Rambo_nvd ($113.40 in chips) 
+Seat 6: alexandr699 ($104.81 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: raises $1.98 to $2.98
+kumar64: folds 
+z00mba: folds 
+tintin641: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+Uncalled bet ($1.98) returned to alexandr699
+alexandr699 collected $2.50 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: z00mba folded before Flop (didn't bet)
+Seat 3: tintin641 (button) folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) folded before Flop
+Seat 6: alexandr699 collected ($2.50)
+
+
+
+PokerStars Hand #254584349755:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:37:17 WET [2025/01/27 15:37:17 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: kumar64 ($65.55 in chips) 
+Seat 2: z00mba ($100 in chips) 
+Seat 3: tintin641 ($115.80 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($112.40 in chips) 
+Seat 6: alexandr699 ($106.31 in chips) 
+Rambo_nvd: posts small blind $0.50
+alexandr699: posts big blind $1
+*** HOLE CARDS ***
+kumar64: folds 
+z00mba: folds 
+tintin641: folds 
+J0SHB0SH: raises $1.50 to $2.50
+Rambo_nvd: folds 
+alexandr699: calls $1.50
+*** FLOP *** [9c Jd Kh]
+alexandr699: checks 
+J0SHB0SH: checks 
+*** TURN *** [9c Jd Kh] [6c]
+alexandr699: checks 
+J0SHB0SH: checks 
+*** RIVER *** [9c Jd Kh 6c] [Js]
+alexandr699: checks 
+J0SHB0SH: bets $1.72
+alexandr699: calls $1.72
+*** SHOW DOWN ***
+J0SHB0SH: shows [7s Ts] (a pair of Jacks)
+alexandr699: shows [9h Td] (two pair, Jacks and Nines)
+alexandr699 collected $8.49 from pot
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [9c Jd Kh 6c Js]
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: z00mba folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (button) showed [7s Ts] and lost with a pair of Jacks
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: alexandr699 (big blind) showed [9h Td] and won ($8.49) with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #254584370376:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:38:20 WET [2025/01/27 15:38:20 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: kumar64 ($65.55 in chips) 
+Seat 2: z00mba ($100 in chips) 
+Seat 3: tintin641 ($115.80 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($111.90 in chips) 
+Seat 6: alexandr699 ($110.58 in chips) 
+alexandr699: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+tintin641: raises $1.50 to $2.50
+J0SHB0SH: calls $2.50
+Rambo_nvd: folds 
+alexandr699: folds 
+kumar64: folds 
+*** FLOP *** [7d Ts 6s]
+tintin641: checks 
+J0SHB0SH: checks 
+*** TURN *** [7d Ts 6s] [7h]
+tintin641: bets $4.64
+J0SHB0SH: folds 
+Uncalled bet ($4.64) returned to tintin641
+tintin641 collected $6.18 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [7d Ts 6s 7h]
+Seat 1: kumar64 (big blind) folded before Flop
+Seat 2: z00mba folded before Flop (didn't bet)
+Seat 3: tintin641 collected ($6.18)
+Seat 4: J0SHB0SH folded on the Turn
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+Seat 6: alexandr699 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584390842:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:39:21 WET [2025/01/27 15:39:21 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: kumar64 ($64.55 in chips) 
+Seat 2: z00mba ($100 in chips) 
+Seat 3: tintin641 ($119.48 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($111.90 in chips) 
+Seat 6: alexandr699 ($110.08 in chips) 
+kumar64: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+J0SHB0SH: folds 
+Rambo_nvd: raises $1.20 to $2.20
+alexandr699: folds 
+kumar64: folds 
+z00mba: folds 
+Uncalled bet ($1.20) returned to Rambo_nvd
+Rambo_nvd collected $2.50 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 (small blind) folded before Flop
+Seat 2: z00mba (big blind) folded before Flop
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd collected ($2.50)
+Seat 6: alexandr699 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584397488:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:39:42 WET [2025/01/27 15:39:42 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: kumar64 ($64.05 in chips) 
+Seat 2: z00mba ($100 in chips) 
+Seat 3: tintin641 ($119.48 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($113.40 in chips) 
+Seat 6: alexandr699 ($110.08 in chips) 
+z00mba: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+alexandr699: folds 
+kumar64: folds 
+z00mba: folds 
+Uncalled bet ($0.50) returned to tintin641
+tintin641 collected $1 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kumar64 (button) folded before Flop (didn't bet)
+Seat 2: z00mba (small blind) folded before Flop
+Seat 3: tintin641 (big blind) collected ($1)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: alexandr699 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584401833:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:39:55 WET [2025/01/27 15:39:55 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: kumar64 ($64.05 in chips) 
+Seat 2: z00mba ($100 in chips) 
+Seat 3: tintin641 ($119.98 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($113.40 in chips) 
+Seat 6: alexandr699 ($110.08 in chips) 
+tintin641: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+alexandr699: raises $1.98 to $2.98
+kumar64: folds 
+z00mba: raises $6.02 to $9
+tintin641: folds 
+J0SHB0SH: folds 
+alexandr699: calls $6.02
+*** FLOP *** [Jh 2s 4d]
+alexandr699: checks 
+z00mba: bets $9.07
+alexandr699: folds 
+Uncalled bet ($9.07) returned to z00mba
+z00mba collected $18.52 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [Jh 2s 4d]
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: z00mba (button) collected ($18.52)
+Seat 3: tintin641 (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) folded before Flop
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: alexandr699 folded on the Flop
+
+
+
+PokerStars Hand #254584418734:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:40:46 WET [2025/01/27 15:40:46 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: kumar64 ($64.05 in chips) 
+Seat 2: z00mba ($109.52 in chips) 
+Seat 3: tintin641 ($119.48 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($113.40 in chips) 
+Seat 6: alexandr699 ($101.08 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: folds 
+kumar64: folds 
+z00mba: folds 
+tintin641: folds 
+J0SHB0SH: folds 
+Uncalled bet ($0.50) returned to Rambo_nvd
+Rambo_nvd collected $1 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: z00mba folded before Flop (didn't bet)
+Seat 3: tintin641 (button) folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) collected ($1)
+Seat 6: alexandr699 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584421996:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:40:56 WET [2025/01/27 15:40:56 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: kumar64 ($64.05 in chips) 
+Seat 2: z00mba ($109.52 in chips) 
+Seat 3: tintin641 ($119.48 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($113.90 in chips) 
+Seat 6: alexandr699 ($101.08 in chips) 
+Rambo_nvd: posts small blind $0.50
+alexandr699: posts big blind $1
+*** HOLE CARDS ***
+kumar64: folds 
+z00mba: folds 
+tintin641: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+Uncalled bet ($0.50) returned to alexandr699
+alexandr699 collected $1 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: z00mba folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: alexandr699 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254584425518:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:41:07 WET [2025/01/27 15:41:07 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: kumar64 ($64.05 in chips) 
+Seat 2: z00mba ($109.52 in chips) 
+Seat 3: tintin641 ($119.48 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($113.40 in chips) 
+Seat 6: alexandr699 ($101.58 in chips) 
+alexandr699: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+tintin641: folds 
+J0SHB0SH: raises $1.50 to $2.50
+z00mba leaves the table
+Rambo_nvd: folds 
+alexandr699: folds 
+kumar64: folds 
+Uncalled bet ($1.50) returned to J0SHB0SH
+J0SHB0SH collected $2.50 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 (big blind) folded before Flop
+Seat 2: z00mba folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: J0SHB0SH collected ($2.50)
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+Seat 6: alexandr699 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584430506:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:41:22 WET [2025/01/27 15:41:22 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 3: tintin641 ($119.48 in chips) is sitting out
+Seat 1: kumar64 ($63.05 in chips) 
+Seat 4: J0SHB0SH ($101.50 in chips) 
+Seat 5: Rambo_nvd ($113.40 in chips) 
+Seat 6: alexandr699 ($101.08 in chips) 
+kumar64: posts small blind $0.50
+tintin641: is sitting out 
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+tintin641 leaves the table
+Rambo_nvd: raises $1.50 to $2.50
+alexandr699: folds 
+kumar64: calls $2
+J0SHB0SH: folds 
+*** FLOP *** [7h Ah 4d]
+BGS013 joins the table at seat #2 
+kumar64: checks 
+michasia joins the table at seat #3 
+Rambo_nvd: checks 
+*** TURN *** [7h Ah 4d] [Jd]
+kumar64: bets $2.28
+Rambo_nvd: calls $2.28
+*** RIVER *** [7h Ah 4d Jd] [Qs]
+kumar64: checks 
+Rambo_nvd: checks 
+*** SHOW DOWN ***
+kumar64: shows [5d 2d] (high card Ace)
+Rambo_nvd: shows [Kh Ks] (a pair of Kings)
+Rambo_nvd collected $10.03 from pot
+*** SUMMARY ***
+Total pot $10.56 | Rake $0.53 
+Board [7h Ah 4d Jd Qs]
+Seat 3: tintin641
+Seat 1: kumar64 (small blind) showed [5d 2d] and lost with high card Ace
+Seat 4: J0SHB0SH (big blind) folded before Flop
+Seat 5: Rambo_nvd showed [Kh Ks] and won ($10.03) with a pair of Kings
+Seat 6: alexandr699 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584444411:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:42:03 WET [2025/01/27 15:42:03 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 2: BGS013 ($100 in chips) is sitting out
+Seat 3: michasia ($100.50 in chips) is sitting out
+Seat 1: kumar64 ($58.27 in chips) 
+Seat 4: J0SHB0SH ($100.50 in chips) 
+Seat 5: Rambo_nvd ($118.65 in chips) 
+Seat 6: alexandr699 ($101.08 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: raises $1.98 to $2.98
+kumar64: calls $2.98
+J0SHB0SH: calls $2.48
+Rambo_nvd: folds 
+*** FLOP *** [Tc Kd Ks]
+J0SHB0SH: checks 
+alexandr699: bets $2.36
+kumar64: folds 
+J0SHB0SH: folds 
+Uncalled bet ($2.36) returned to alexandr699
+alexandr699 collected $9.44 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.94 | Rake $0.50 
+Board [Tc Kd Ks]
+Seat 2: BGS013
+Seat 3: michasia
+Seat 1: kumar64 (button) folded on the Flop
+Seat 4: J0SHB0SH (small blind) folded on the Flop
+Seat 5: Rambo_nvd (big blind) folded before Flop
+Seat 6: alexandr699 collected ($9.44)
+
+
+
+PokerStars Hand #254584454550:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:42:35 WET [2025/01/27 15:42:35 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 2: BGS013 ($100 in chips) is sitting out
+Seat 3: michasia ($100.50 in chips) is sitting out
+Seat 6: alexandr699 ($107.54 in chips) is sitting out
+Seat 1: kumar64 ($55.29 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($117.65 in chips) 
+Rambo_nvd: posts small blind $0.50
+alexandr699: is sitting out 
+kumar64: posts big blind $1
+BGS013: sits out 
+michasia: sits out 
+*** HOLE CARDS ***
+alexandr699 leaves the table
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+Uncalled bet ($0.50) returned to kumar64
+kumar64 collected $1 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: BGS013
+Seat 3: michasia
+Seat 6: alexandr699
+Seat 1: kumar64 (big blind) collected ($1)
+Seat 4: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584457655:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:42:44 WET [2025/01/27 15:42:44 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 3: michasia ($100.50 in chips) is sitting out
+Seat 1: kumar64 ($55.79 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($117.15 in chips) 
+kumar64: posts small blind $0.50
+BGS013: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Rambo_nvd: raises $1.50 to $2.50
+kumar64: folds 
+BGS013: calls $1.50
+*** FLOP *** [3c 4h 2c]
+BGS013: checks 
+mariofcd joins the table at seat #6 
+Rambo_nvd: checks 
+*** TURN *** [3c 4h 2c] [2d]
+BGS013: bets $1.36
+Rambo_nvd: folds 
+Uncalled bet ($1.36) returned to BGS013
+BGS013 collected $5.22 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3c 4h 2c 2d]
+Seat 3: michasia
+Seat 1: kumar64 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) collected ($5.22)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (button) folded on the Turn
+
+
+
+PokerStars Hand #254584473416:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:43:32 WET [2025/01/27 15:43:32 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 6: mariofcd ($100 in chips) is sitting out
+Seat 1: kumar64 ($55.29 in chips) 
+Seat 2: BGS013 ($102.72 in chips) 
+Seat 3: michasia ($100.50 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($114.65 in chips) 
+BGS013: posts small blind $0.50
+michasia: posts big blind $1
+mariofcd: sits out 
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: folds 
+Uncalled bet ($2) returned to kumar64
+kumar64 collected $2.50 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: mariofcd
+Seat 1: kumar64 (button) collected ($2.50)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: michasia (big blind) folded before Flop
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584477685:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:43:45 WET [2025/01/27 15:43:45 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 6: mariofcd ($100 in chips) is sitting out
+Seat 1: kumar64 ($56.79 in chips) 
+Seat 2: BGS013 ($102.22 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($114.65 in chips) 
+michasia: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+mariofcd: sits out 
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+kumar64: folds 
+BGS013: raises $1.50 to $2.50
+michasia: folds 
+J0SHB0SH: calls $1.50
+*** FLOP *** [Jh 4s 7s]
+J0SHB0SH: checks 
+BGS013: checks 
+*** TURN *** [Jh 4s 7s] [5s]
+J0SHB0SH: checks 
+BGS013: bets $2.37
+J0SHB0SH: folds 
+Uncalled bet ($2.37) returned to BGS013
+BGS013 collected $5.22 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Jh 4s 7s 5s]
+Seat 6: mariofcd
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) collected ($5.22)
+Seat 3: michasia (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) folded on the Turn
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584493798:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:44:34 WET [2025/01/27 15:44:34 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 6: mariofcd ($100 in chips) is sitting out
+Seat 1: kumar64 ($56.79 in chips) 
+Seat 2: BGS013 ($104.94 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($114.65 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+mariofcd: sits out 
+*** HOLE CARDS ***
+kumar64: folds 
+BGS013: raises $1.50 to $2.50
+michasia: raises $5 to $7.50
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+BGS013: folds 
+Uncalled bet ($5) returned to michasia
+michasia collected $6.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 6: mariofcd
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop
+Seat 3: michasia (button) collected ($6.50)
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254584500021:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:44:53 WET [2025/01/27 15:44:53 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: kumar64 ($56.79 in chips) 
+Seat 2: BGS013 ($102.44 in chips) 
+Seat 3: michasia ($104 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($113.65 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+Rambo_nvd: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+kumar64: raises $2 to $3
+BGS013: raises $5 to $8
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: calls $5
+*** FLOP *** [9c Js 7d]
+kumar64: checks 
+BGS013: bets $4.32
+kumar64: folds 
+Uncalled bet ($4.32) returned to BGS013
+BGS013 collected $16.62 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.88 
+Board [9c Js 7d]
+Seat 1: kumar64 folded on the Flop
+Seat 2: BGS013 collected ($16.62)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: mariofcd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254584508957:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:45:20 WET [2025/01/27 15:45:20 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: kumar64 ($48.79 in chips) 
+Seat 2: BGS013 ($111.06 in chips) 
+Seat 3: michasia ($104 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($113.15 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+mariofcd: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: raises $1.50 to $2.50
+Rambo_nvd: folds 
+mariofcd: raises $8.70 to $11.20
+kumar64: calls $10.20
+J0SHB0SH: calls $8.70
+*** FLOP *** [8d 3s 2d]
+mariofcd: bets $15.96
+kumar64: raises $21.63 to $37.59 and is all-in
+J0SHB0SH: calls $37.59
+mariofcd: raises $51.21 to $88.80 and is all-in
+J0SHB0SH: calls $51.21 and is all-in
+mariofcd has timed out
+*** TURN *** [8d 3s 2d] [4d]
+*** RIVER *** [8d 3s 2d 4d] [6d]
+*** SHOW DOWN ***
+mariofcd: shows [Js Jh] (a pair of Jacks)
+J0SHB0SH: shows [8s 8c] (three of a kind, Eights)
+J0SHB0SH collected $102.42 from side pot
+kumar64: shows [Jd Td] (a flush, Jack high)
+kumar64 collected $143.87 from main pot
+*** SUMMARY ***
+Total pot $248.79 Main pot $143.87. Side pot $102.42. | Rake $2.50 
+Board [8d 3s 2d 4d 6d]
+Seat 1: kumar64 (big blind) showed [Jd Td] and won ($143.87) with a flush, Jack high
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH showed [8s 8c] and won ($102.42) with three of a kind, Eights
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+Seat 6: mariofcd (small blind) showed [Js Jh] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254584530476:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:46:26 WET [2025/01/27 15:46:26 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: kumar64 ($143.87 in chips) 
+Seat 2: BGS013 ($111.06 in chips) 
+Seat 3: michasia ($104 in chips) 
+Seat 4: J0SHB0SH ($102.42 in chips) 
+Seat 5: Rambo_nvd ($113.15 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+kumar64: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: folds 
+Uncalled bet ($0.50) returned to BGS013
+BGS013 collected $1 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kumar64 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) collected ($1)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584534843:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:46:39 WET [2025/01/27 15:46:39 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: kumar64 ($143.37 in chips) 
+Seat 2: BGS013 ($111.56 in chips) 
+Seat 3: michasia ($104 in chips) 
+Seat 4: J0SHB0SH ($102.42 in chips) 
+Seat 5: Rambo_nvd ($113.15 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+BGS013: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: raises $1 to $2
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: folds 
+BGS013: folds 
+michasia: folds 
+Uncalled bet ($1) returned to J0SHB0SH
+J0SHB0SH collected $2.50 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: michasia (big blind) folded before Flop
+Seat 4: J0SHB0SH collected ($2.50)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584539813:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:46:54 WET [2025/01/27 15:46:54 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: kumar64 ($143.37 in chips) 
+Seat 2: BGS013 ($111.06 in chips) 
+Seat 3: michasia ($103 in chips) 
+Seat 4: J0SHB0SH ($103.92 in chips) 
+Seat 5: Rambo_nvd ($113.15 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+michasia: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+mariofcd: raises $1.20 to $2.20
+kumar64: folds 
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: folds 
+Uncalled bet ($1.20) returned to mariofcd
+mariofcd collected $2.50 from pot
+mariofcd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: michasia (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) folded before Flop
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd collected ($2.50)
+
+
+
+PokerStars Hand #254584544471:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:47:08 WET [2025/01/27 15:47:08 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: kumar64 ($143.37 in chips) 
+Seat 2: BGS013 ($111.06 in chips) 
+Seat 3: michasia ($102.50 in chips) 
+Seat 4: J0SHB0SH ($102.92 in chips) 
+Seat 5: Rambo_nvd ($113.15 in chips) 
+Seat 6: mariofcd ($101.50 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: folds 
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: raises $6 to $9
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+kumar64: calls $6
+*** FLOP *** [Qh 6c As]
+kumar64: checks 
+michasia: bets $6.11
+kumar64: folds 
+Uncalled bet ($6.11) returned to michasia
+michasia collected $18.52 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [Qh 6c As]
+Seat 1: kumar64 folded on the Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia (button) collected ($18.52)
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) folded before Flop
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584552684:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:47:33 WET [2025/01/27 15:47:33 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: kumar64 ($134.37 in chips) 
+Seat 2: BGS013 ($111.06 in chips) 
+Seat 3: michasia ($112.02 in chips) 
+Seat 4: J0SHB0SH ($102.42 in chips) 
+Seat 5: Rambo_nvd ($112.15 in chips) 
+Seat 6: mariofcd ($101.50 in chips) 
+Rambo_nvd: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+kumar64: folds 
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+Uncalled bet ($0.50) returned to mariofcd
+mariofcd collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: mariofcd (big blind) collected ($1)
+
+
+
+PokerStars Hand #254584558802:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:47:51 WET [2025/01/27 15:47:51 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: kumar64 ($134.37 in chips) 
+Seat 2: BGS013 ($111.06 in chips) 
+Seat 3: michasia ($112.02 in chips) 
+Seat 4: J0SHB0SH ($102.42 in chips) 
+Seat 5: Rambo_nvd ($111.65 in chips) 
+Seat 6: mariofcd ($102 in chips) 
+mariofcd: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+BGS013: raises $1 to $2
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: calls $1
+*** FLOP *** [7s 8d Kc]
+kumar64: checks 
+BGS013: bets $1.11
+kumar64: folds 
+Uncalled bet ($1.11) returned to BGS013
+BGS013 collected $4.28 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [7s 8d Kc]
+Seat 1: kumar64 (big blind) folded on the Flop
+Seat 2: BGS013 collected ($4.28)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584567898:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:48:19 WET [2025/01/27 15:48:19 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: kumar64 ($132.37 in chips) 
+Seat 2: BGS013 ($113.34 in chips) 
+Seat 3: michasia ($112.02 in chips) 
+Seat 4: J0SHB0SH ($102.42 in chips) 
+Seat 5: Rambo_nvd ($111.65 in chips) 
+Seat 6: mariofcd ($101.50 in chips) 
+kumar64: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: folds 
+Uncalled bet ($0.50) returned to BGS013
+BGS013 collected $1 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kumar64 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) collected ($1)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584572405:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:48:33 WET [2025/01/27 15:48:33 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: kumar64 ($131.87 in chips) 
+Seat 2: BGS013 ($113.84 in chips) 
+Seat 3: michasia ($112.02 in chips) 
+Seat 4: J0SHB0SH ($102.42 in chips) 
+Seat 5: Rambo_nvd ($111.65 in chips) 
+Seat 6: mariofcd ($101.50 in chips) 
+BGS013: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: folds 
+Uncalled bet ($2) returned to kumar64
+kumar64 collected $2.50 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 (button) collected ($2.50)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: michasia (big blind) folded before Flop
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584578542:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:48:52 WET [2025/01/27 15:48:52 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: kumar64 ($133.37 in chips) 
+Seat 2: BGS013 ($113.34 in chips) 
+Seat 3: michasia ($111.02 in chips) 
+Seat 4: J0SHB0SH ($102.42 in chips) 
+Seat 5: Rambo_nvd ($111.65 in chips) 
+Seat 6: mariofcd ($101.50 in chips) 
+michasia: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: raises $1.20 to $2.20
+mariofcd: folds 
+kumar64: folds 
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: folds 
+Uncalled bet ($1.20) returned to Rambo_nvd
+Rambo_nvd collected $2.50 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: michasia (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) folded before Flop
+Seat 5: Rambo_nvd collected ($2.50)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584583325:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:49:06 WET [2025/01/27 15:49:06 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: kumar64 ($133.37 in chips) 
+Seat 2: BGS013 ($113.34 in chips) 
+Seat 3: michasia ($110.52 in chips) 
+Seat 4: J0SHB0SH ($101.42 in chips) 
+Seat 5: Rambo_nvd ($113.15 in chips) 
+Seat 6: mariofcd ($101.50 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: folds 
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+Uncalled bet ($2) returned to kumar64
+kumar64 collected $2.50 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 collected ($2.50)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia (button) folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) folded before Flop
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584590815:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:49:29 WET [2025/01/27 15:49:29 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: kumar64 ($134.87 in chips) 
+Seat 2: BGS013 ($113.34 in chips) 
+Seat 3: michasia ($110.52 in chips) 
+Seat 4: J0SHB0SH ($100.92 in chips) 
+Seat 5: Rambo_nvd ($112.15 in chips) 
+Seat 6: mariofcd ($101.50 in chips) 
+Rambo_nvd: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+kumar64: folds 
+BGS013: folds 
+michasia: raises $1.80 to $2.80
+J0SHB0SH: raises $4.70 to $7.50
+Rambo_nvd: folds 
+mariofcd: folds 
+michasia: folds 
+Uncalled bet ($4.70) returned to J0SHB0SH
+J0SHB0SH collected $7.10 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.10 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia folded before Flop
+Seat 4: J0SHB0SH (button) collected ($7.10)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: mariofcd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254584597181:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:49:49 WET [2025/01/27 15:49:49 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: kumar64 ($134.87 in chips) 
+Seat 2: BGS013 ($113.34 in chips) 
+Seat 3: michasia ($107.72 in chips) 
+Seat 4: J0SHB0SH ($105.22 in chips) 
+Seat 5: Rambo_nvd ($111.65 in chips) 
+Seat 6: mariofcd ($100.50 in chips) 
+mariofcd: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: raises $1.50 to $2.50
+mariofcd: folds 
+kumar64: calls $1.50
+*** FLOP *** [Ad Kc 2h]
+kumar64: checks 
+Rambo_nvd: checks 
+*** TURN *** [Ad Kc 2h] [8h]
+kumar64: bets $2.09
+Rambo_nvd: raises $5.91 to $8
+kumar64: folds 
+Uncalled bet ($5.91) returned to Rambo_nvd
+Rambo_nvd collected $9.20 from pot
+*** SUMMARY ***
+Total pot $9.68 | Rake $0.48 
+Board [Ad Kc 2h 8h]
+Seat 1: kumar64 (big blind) folded on the Turn
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (button) collected ($9.20)
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584612951:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:50:37 WET [2025/01/27 15:50:37 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: kumar64 ($130.28 in chips) 
+Seat 2: BGS013 ($113.34 in chips) 
+Seat 3: michasia ($107.72 in chips) 
+Seat 4: J0SHB0SH ($105.22 in chips) 
+Seat 5: Rambo_nvd ($116.26 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+kumar64: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: raises $1.20 to $2.20
+mariofcd: folds 
+kumar64: calls $1.70
+BGS013: folds 
+*** FLOP *** [4c 6d 5s]
+kumar64: checks 
+Rambo_nvd: checks 
+*** TURN *** [4c 6d 5s] [Js]
+kumar64: bets $2.05
+Rambo_nvd: raises $5.95 to $8
+kumar64: calls $5.95
+*** RIVER *** [4c 6d 5s Js] [Kd]
+kumar64: checks 
+Rambo_nvd: checks 
+*** SHOW DOWN ***
+kumar64: shows [5h 6h] (two pair, Sixes and Fives)
+Rambo_nvd: mucks hand 
+kumar64 collected $20.33 from pot
+*** SUMMARY ***
+Total pot $21.40 | Rake $1.07 
+Board [4c 6d 5s Js Kd]
+Seat 1: kumar64 (small blind) showed [5h 6h] and won ($20.33) with two pair, Sixes and Fives
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd mucked
+Seat 6: mariofcd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584627126:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:51:21 WET [2025/01/27 15:51:21 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: kumar64 ($140.41 in chips) 
+Seat 2: BGS013 ($112.34 in chips) 
+Seat 3: michasia ($107.72 in chips) 
+Seat 4: J0SHB0SH ($105.22 in chips) 
+Seat 5: Rambo_nvd ($106.06 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+BGS013: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: raises $1 to $2
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: folds 
+BGS013: folds 
+michasia: calls $1
+*** FLOP *** [Kh 2c 8h]
+michasia: checks 
+J0SHB0SH: bets $1.41
+michasia: folds 
+Uncalled bet ($1.41) returned to J0SHB0SH
+J0SHB0SH collected $4.28 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Kh 2c 8h]
+Seat 1: kumar64 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: michasia (big blind) folded on the Flop
+Seat 4: J0SHB0SH collected ($4.28)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584635266:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:51:46 WET [2025/01/27 15:51:46 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: kumar64 ($140.41 in chips) 
+Seat 2: BGS013 ($111.84 in chips) 
+Seat 3: michasia ($105.72 in chips) 
+Seat 4: J0SHB0SH ($107.50 in chips) 
+Seat 5: Rambo_nvd ($106.06 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+michasia: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: folds 
+BGS013: folds 
+michasia: folds 
+Uncalled bet ($0.50) returned to J0SHB0SH
+J0SHB0SH collected $1 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: michasia (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) collected ($1)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584638704:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:51:57 WET [2025/01/27 15:51:57 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: kumar64 ($140.41 in chips) 
+Seat 2: BGS013 ($111.84 in chips) 
+Seat 3: michasia ($105.22 in chips) 
+Seat 4: J0SHB0SH ($108 in chips) 
+Seat 5: Rambo_nvd ($106.06 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: folds 
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: raises $6 to $9
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+kumar64: raises $19.50 to $28.50
+michasia: folds 
+Uncalled bet ($19.50) returned to kumar64
+kumar64 collected $19.50 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.50 | Rake $0 
+Seat 1: kumar64 collected ($19.50)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia (button) folded before Flop
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) folded before Flop
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584654070:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:52:43 WET [2025/01/27 15:52:43 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: kumar64 ($150.91 in chips) 
+Seat 2: BGS013 ($111.84 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($107.50 in chips) 
+Seat 5: Rambo_nvd ($105.06 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+Rambo_nvd: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+kumar64: folds 
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+Uncalled bet ($0.50) returned to mariofcd
+mariofcd collected $1 from pot
+mariofcd: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: mariofcd (big blind) collected ($1)
+
+
+
+PokerStars Hand #254584660467:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:53:03 WET [2025/01/27 15:53:03 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: kumar64 ($150.91 in chips) 
+Seat 2: BGS013 ($111.84 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($107.50 in chips) 
+Seat 5: Rambo_nvd ($104.56 in chips) 
+Seat 6: mariofcd ($100.50 in chips) 
+mariofcd: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: raises $1.50 to $2.50
+mariofcd: folds 
+kumar64: calls $1.50
+*** FLOP *** [Kd 9d 3h]
+kumar64: checks 
+Rambo_nvd: checks 
+*** TURN *** [Kd 9d 3h] [4s]
+kumar64: bets $2.09
+Rambo_nvd: calls $2.09
+*** RIVER *** [Kd 9d 3h 4s] [3d]
+kumar64: checks 
+Rambo_nvd: checks 
+*** SHOW DOWN ***
+kumar64: shows [Ad 2s] (a pair of Threes)
+Rambo_nvd: shows [Qc Ac] (a pair of Threes - Ace+King+Queen kicker)
+Rambo_nvd collected $9.20 from pot
+*** SUMMARY ***
+Total pot $9.68 | Rake $0.48 
+Board [Kd 9d 3h 4s 3d]
+Seat 1: kumar64 (big blind) showed [Ad 2s] and lost with a pair of Threes
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (button) showed [Qc Ac] and won ($9.20) with a pair of Threes
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584677225:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:53:55 WET [2025/01/27 15:53:55 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: kumar64 ($146.32 in chips) 
+Seat 2: BGS013 ($111.84 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($107.50 in chips) 
+Seat 5: Rambo_nvd ($109.17 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+kumar64: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: calls $0.50
+BGS013: checks 
+*** FLOP *** [2d 3c 4h]
+kumar64: checks 
+BGS013: bets $1
+kumar64: folds 
+Uncalled bet ($1) returned to BGS013
+BGS013 collected $1.90 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [2d 3c 4h]
+Seat 1: kumar64 (small blind) folded on the Flop
+Seat 2: BGS013 (big blind) collected ($1.90)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584689590:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:54:33 WET [2025/01/27 15:54:33 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: kumar64 ($145.32 in chips) 
+Seat 2: BGS013 ($112.74 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($107.50 in chips) 
+Seat 5: Rambo_nvd ($109.17 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+BGS013: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: raises $1 to $2
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: calls $2
+BGS013: folds 
+michasia: folds 
+*** FLOP *** [Kd 7c Ac]
+J0SHB0SH: bets $1.72
+kumar64: calls $1.72
+*** TURN *** [Kd 7c Ac] [Qd]
+J0SHB0SH: checks 
+kumar64: bets $3.40
+J0SHB0SH: calls $3.40
+*** RIVER *** [Kd 7c Ac Qd] [3d]
+J0SHB0SH: checks 
+kumar64: bets $5.50
+J0SHB0SH: folds 
+Uncalled bet ($5.50) returned to kumar64
+kumar64 collected $14.95 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.74 | Rake $0.79 
+Board [Kd 7c Ac Qd 3d]
+Seat 1: kumar64 (button) collected ($14.95)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: michasia (big blind) folded before Flop
+Seat 4: J0SHB0SH folded on the River
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584704843:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:55:25 WET [2025/01/27 15:55:25 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: kumar64 ($153.15 in chips) 
+Seat 2: BGS013 ($112.24 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($100.38 in chips) 
+Seat 5: Rambo_nvd ($109.17 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+michasia: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: folds 
+BGS013: raises $1.50 to $2.50
+michasia: folds 
+J0SHB0SH: folds 
+Uncalled bet ($1.50) returned to BGS013
+BGS013 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) collected ($2.50)
+Seat 3: michasia (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) folded before Flop
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584708143:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:55:41 WET [2025/01/27 15:55:41 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: kumar64 ($153.15 in chips) 
+Seat 2: BGS013 ($113.74 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($109.17 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: folds 
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: raises $6 to $9
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+kumar64: calls $6
+*** FLOP *** [5h 3d Ts]
+kumar64: checks 
+michasia: bets $6.11
+kumar64: calls $6.11
+*** TURN *** [5h 3d Ts] [6s]
+kumar64: checks 
+michasia: bets $20.09
+kumar64: raises $75.91 to $96
+michasia: calls $64.80 and is all-in
+Uncalled bet ($11.11) returned to kumar64
+*** RIVER *** [5h 3d Ts 6s] [Ac]
+*** SHOW DOWN ***
+kumar64: shows [6c 6d] (three of a kind, Sixes)
+michasia: shows [Qd Qc] (a pair of Queens)
+kumar64 collected $199 from pot
+*** SUMMARY ***
+Total pot $201.50 | Rake $2.50 
+Board [5h 3d Ts 6s Ac]
+Seat 1: kumar64 showed [6c 6d] and won ($199) with three of a kind, Sixes
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia (button) showed [Qd Qc] and lost with a pair of Queens
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) folded before Flop
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584720321:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:56:37 WET [2025/01/27 15:56:37 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: kumar64 ($252.15 in chips) 
+Seat 2: BGS013 ($113.74 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($108.17 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+Rambo_nvd: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+Uncalled bet ($2) returned to kumar64
+kumar64 collected $2.50 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 collected ($2.50)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: mariofcd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254584724746:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:56:57 WET [2025/01/27 15:56:57 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: kumar64 ($253.65 in chips) 
+Seat 2: BGS013 ($113.74 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($107.67 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+mariofcd: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+Uncalled bet ($0.50) returned to kumar64
+kumar64 collected $1 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kumar64 (big blind) collected ($1)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584731956:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:57:29 WET [2025/01/27 15:57:29 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: kumar64 ($254.15 in chips) 
+Seat 2: BGS013 ($113.74 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($107.67 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+kumar64: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: raises $1.20 to $2.20
+mariofcd: folds 
+kumar64: calls $1.70
+BGS013: folds 
+*** FLOP *** [2d 6s 3s]
+kumar64: checks 
+Rambo_nvd: bets $3.80
+kumar64: calls $3.80
+*** TURN *** [2d 6s 3s] [Jc]
+kumar64: checks 
+Rambo_nvd: checks 
+*** RIVER *** [2d 6s 3s Jc] [Ts]
+kumar64: bets $8.50
+Rambo_nvd: folds 
+Uncalled bet ($8.50) returned to kumar64
+kumar64 collected $12.35 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [2d 6s 3s Jc Ts]
+Seat 1: kumar64 (small blind) collected ($12.35)
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded on the River
+Seat 6: mariofcd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584745674:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:58:30 WET [2025/01/27 15:58:30 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: kumar64 ($260.50 in chips) 
+Seat 2: BGS013 ($112.74 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($101.67 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+BGS013: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: folds 
+Uncalled bet ($2) returned to kumar64
+kumar64 collected $2.50 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 (button) collected ($2.50)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: michasia (big blind) folded before Flop
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584748512:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:58:43 WET [2025/01/27 15:58:43 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: kumar64 ($262 in chips) 
+Seat 2: BGS013 ($112.24 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($100 in chips) 
+Seat 5: Rambo_nvd ($101.67 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+michasia: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: folds 
+BGS013: folds 
+michasia: raises $2 to $3
+J0SHB0SH: calls $2
+*** FLOP *** [4h Qh 2h]
+michasia: checks 
+J0SHB0SH: bets $1.88
+michasia: folds 
+Uncalled bet ($1.88) returned to J0SHB0SH
+J0SHB0SH collected $5.70 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4h Qh 2h]
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: michasia (small blind) folded on the Flop
+Seat 4: J0SHB0SH (big blind) collected ($5.70)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584757614:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 20:59:23 WET [2025/01/27 15:59:23 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: kumar64 ($262 in chips) 
+Seat 2: BGS013 ($112.24 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($102.70 in chips) 
+Seat 5: Rambo_nvd ($101.67 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: raises $1.20 to $2.20
+kumar64: folds 
+BGS013: folds 
+michasia: raises $4.40 to $6.60
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: raises $10.40 to $17
+michasia: calls $10.40
+*** FLOP *** [5s 4s 9d]
+mariofcd: bets $8.43
+michasia: calls $8.43
+*** TURN *** [5s 4s 9d] [Js]
+mariofcd: checks 
+michasia: checks 
+*** RIVER *** [5s 4s 9d Js] [8d]
+mariofcd: checks 
+michasia: bets $74.57 and is all-in
+mariofcd: folds 
+Uncalled bet ($74.57) returned to michasia
+michasia collected $49.86 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $52.36 | Rake $2.50 
+Board [5s 4s 9d Js 8d]
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia (button) collected ($49.86)
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) folded before Flop
+Seat 6: mariofcd folded on the River
+
+
+
+PokerStars Hand #254584775971:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:00:42 WET [2025/01/27 16:00:42 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: kumar64 ($262 in chips) 
+Seat 2: BGS013 ($112.24 in chips) 
+Seat 3: michasia ($124.43 in chips) 
+Seat 4: J0SHB0SH ($102.20 in chips) 
+Seat 5: Rambo_nvd ($100.67 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+Rambo_nvd: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: raises $6 to $9
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: calls $6
+*** FLOP *** [9h 9s 3c]
+kumar64: checks 
+michasia: bets $6.11
+kumar64: raises $12.30 to $18.41
+michasia: folds 
+Uncalled bet ($12.30) returned to kumar64
+kumar64 collected $30.13 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $31.72 | Rake $1.59 
+Board [9h 9s 3c]
+Seat 1: kumar64 collected ($30.13)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia folded on the Flop
+Seat 4: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: mariofcd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254584784215:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:01:13 WET [2025/01/27 16:01:13 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: kumar64 ($277.02 in chips) 
+Seat 2: BGS013 ($112.24 in chips) 
+Seat 3: michasia ($109.32 in chips) 
+Seat 4: J0SHB0SH ($102.20 in chips) 
+Seat 5: Rambo_nvd ($100.17 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+mariofcd: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+michasia: raises $1.60 to $2.60
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: folds 
+Uncalled bet ($1.60) returned to michasia
+michasia collected $2.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 (big blind) folded before Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia collected ($2.50)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584789229:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:01:32 WET [2025/01/27 16:01:32 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: kumar64 ($276.02 in chips) 
+Seat 2: BGS013 ($112.24 in chips) 
+Seat 3: michasia ($110.82 in chips) 
+Seat 4: J0SHB0SH ($102.20 in chips) 
+Seat 5: Rambo_nvd ($100.17 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+kumar64: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+J0SHB0SH: raises $1 to $2
+Rambo_nvd: folds 
+mariofcd: calls $2
+kumar64: folds 
+BGS013: folds 
+*** FLOP *** [Kh 3d 3c]
+J0SHB0SH: checks 
+mariofcd: checks 
+*** TURN *** [Kh 3d 3c] [2s]
+J0SHB0SH: bets $3.92
+mariofcd: calls $3.92
+*** RIVER *** [Kh 3d 3c 2s] [7s]
+J0SHB0SH: bets $9.50
+mariofcd: folds 
+Uncalled bet ($9.50) returned to J0SHB0SH
+J0SHB0SH collected $12.67 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [Kh 3d 3c 2s 7s]
+Seat 1: kumar64 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH collected ($12.67)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd (button) folded on the River
+
+
+
+PokerStars Hand #254584798392:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:02:03 WET [2025/01/27 16:02:03 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: kumar64 ($275.52 in chips) 
+Seat 2: BGS013 ($111.24 in chips) 
+Seat 3: michasia ($110.82 in chips) 
+Seat 4: J0SHB0SH ($108.95 in chips) 
+Seat 5: Rambo_nvd ($100.17 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+BGS013: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: folds 
+BGS013: folds 
+Uncalled bet ($0.50) returned to michasia
+michasia collected $1 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kumar64 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: michasia (big blind) collected ($1)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584806540:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:02:29 WET [2025/01/27 16:02:29 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: kumar64 ($275.52 in chips) 
+Seat 2: BGS013 ($110.74 in chips) 
+Seat 3: michasia ($111.32 in chips) 
+Seat 4: J0SHB0SH ($108.95 in chips) 
+Seat 5: Rambo_nvd ($100.17 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+michasia: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: folds 
+Uncalled bet ($2) returned to kumar64
+kumar64 collected $2.50 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 collected ($2.50)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: michasia (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) folded before Flop
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584810727:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:02:43 WET [2025/01/27 16:02:43 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: kumar64 ($277.02 in chips) 
+Seat 2: BGS013 ($110.74 in chips) 
+Seat 3: michasia ($110.82 in chips) 
+Seat 4: J0SHB0SH ($107.95 in chips) 
+Seat 5: Rambo_nvd ($100.17 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: raises $1.20 to $2.20
+kumar64: folds 
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: raises $10.30 to $12.50
+mariofcd: calls $10.30
+*** FLOP *** [2h Qh Ad]
+Rambo_nvd: bets $6.30
+mariofcd: folds 
+Uncalled bet ($6.30) returned to Rambo_nvd
+Rambo_nvd collected $24.22 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $25.50 | Rake $1.28 
+Board [2h Qh Ad]
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia (button) folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) collected ($24.22)
+Seat 6: mariofcd folded on the Flop
+
+
+
+PokerStars Hand #254584828309:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:03:37 WET [2025/01/27 16:03:37 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: kumar64 ($277.02 in chips) 
+Seat 2: BGS013 ($110.74 in chips) 
+Seat 3: michasia ($110.82 in chips) 
+Seat 4: J0SHB0SH ($107.45 in chips) 
+Seat 5: Rambo_nvd ($111.89 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+Rambo_nvd: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+kumar64: folds 
+BGS013: raises $1 to $2
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+Uncalled bet ($1) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 collected ($2.50)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: mariofcd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254584835829:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:04:01 WET [2025/01/27 16:04:01 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: kumar64 ($277.02 in chips) 
+Seat 2: BGS013 ($112.24 in chips) 
+Seat 3: michasia ($110.82 in chips) 
+Seat 4: J0SHB0SH ($107.45 in chips) 
+Seat 5: Rambo_nvd ($111.39 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+mariofcd: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: raises $1.50 to $2.50
+Rambo_nvd: folds 
+mariofcd: calls $2
+kumar64: folds 
+*** FLOP *** [6d 5c 3h]
+mariofcd: checks 
+J0SHB0SH: checks 
+*** TURN *** [6d 5c 3h] [4c]
+mariofcd: checks 
+J0SHB0SH: checks 
+*** RIVER *** [6d 5c 3h 4c] [7h]
+mariofcd: checks 
+J0SHB0SH: bets $8.55
+mariofcd: folds 
+Uncalled bet ($8.55) returned to J0SHB0SH
+J0SHB0SH collected $5.70 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6d 5c 3h 4c 7h]
+Seat 1: kumar64 (big blind) folded before Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH collected ($5.70)
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+Seat 6: mariofcd (small blind) folded on the River
+
+
+
+PokerStars Hand #254584845878:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:04:32 WET [2025/01/27 16:04:32 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: kumar64 ($276.02 in chips) 
+Seat 2: BGS013 ($112.24 in chips) 
+Seat 3: michasia ($110.82 in chips) 
+Seat 4: J0SHB0SH ($110.65 in chips) 
+Seat 5: Rambo_nvd ($111.39 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+kumar64: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+michasia: raises $1.60 to $2.60
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: calls $2.10
+BGS013: folds 
+*** FLOP *** [Ad Jc 9d]
+kumar64: checks 
+michasia: bets $3.93
+kumar64: folds 
+Uncalled bet ($3.93) returned to michasia
+michasia collected $5.89 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.20 | Rake $0.31 
+Board [Ad Jc 9d]
+Seat 1: kumar64 (small blind) folded on the Flop
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: michasia collected ($5.89)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584852975:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:04:53 WET [2025/01/27 16:04:53 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 3: michasia ($114.11 in chips) is sitting out
+Seat 1: kumar64 ($273.42 in chips) 
+Seat 2: BGS013 ($111.24 in chips) 
+Seat 4: J0SHB0SH ($110.65 in chips) 
+Seat 5: Rambo_nvd ($111.39 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+BGS013: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: raises $2 to $3
+BGS013: folds 
+J0SHB0SH: folds 
+Uncalled bet ($2) returned to kumar64
+kumar64 collected $2.50 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: michasia
+Seat 1: kumar64 (button) collected ($2.50)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) folded before Flop
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584856614:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:05:04 WET [2025/01/27 16:05:04 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 3: michasia ($114.11 in chips) is sitting out
+Seat 1: kumar64 ($274.92 in chips) 
+Seat 2: BGS013 ($110.74 in chips) 
+Seat 4: J0SHB0SH ($109.65 in chips) 
+Seat 5: Rambo_nvd ($111.39 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: folds 
+kumar64: raises $2 to $3
+BGS013: raises $5.50 to $8.50
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+kumar64: folds 
+Uncalled bet ($5.50) returned to BGS013
+BGS013 collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 3: michasia
+Seat 1: kumar64 folded before Flop
+Seat 2: BGS013 (button) collected ($7.50)
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) folded before Flop
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584863691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:05:26 WET [2025/01/27 16:05:26 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 3: michasia ($114.11 in chips) is sitting out
+Seat 1: kumar64 ($271.92 in chips) 
+Seat 2: BGS013 ($115.24 in chips) 
+Seat 4: J0SHB0SH ($109.15 in chips) 
+Seat 5: Rambo_nvd ($110.39 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+Rambo_nvd: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+kumar64: folds 
+BGS013 has timed out
+BGS013: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+Uncalled bet ($0.50) returned to mariofcd
+mariofcd collected $1 from pot
+mariofcd: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: michasia
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: mariofcd (big blind) collected ($1)
+
+
+
+PokerStars Hand #254584870777:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:05:47 WET [2025/01/27 16:05:47 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 3: michasia ($114.11 in chips) is sitting out
+Seat 1: kumar64 ($271.92 in chips) 
+Seat 2: BGS013 ($115.24 in chips) 
+Seat 4: J0SHB0SH ($109.15 in chips) 
+Seat 5: Rambo_nvd ($109.89 in chips) 
+Seat 6: mariofcd ($100.50 in chips) 
+mariofcd: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+J0SHB0SH: folds 
+Rambo_nvd: raises $1.50 to $2.50
+mariofcd: folds 
+kumar64: calls $1.50
+*** FLOP *** [9d 4s 3h]
+kumar64: checks 
+Rambo_nvd: bets $3.86
+kumar64: calls $3.86
+*** TURN *** [9d 4s 3h] [5c]
+kumar64: checks 
+Rambo_nvd: checks 
+*** RIVER *** [9d 4s 3h 5c] [7h]
+kumar64: checks 
+Rambo_nvd: checks 
+*** SHOW DOWN ***
+kumar64: shows [8c 4c] (a pair of Fours)
+Rambo_nvd: mucks hand 
+kumar64 collected $12.56 from pot
+*** SUMMARY ***
+Total pot $13.22 | Rake $0.66 
+Board [9d 4s 3h 5c 7h]
+Seat 3: michasia
+Seat 1: kumar64 (big blind) showed [8c 4c] and won ($12.56) with a pair of Fours
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (button) mucked
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584892084:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:06:53 WET [2025/01/27 16:06:53 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 3: michasia ($114.11 in chips) is sitting out
+Seat 1: kumar64 ($278.12 in chips) 
+Seat 2: BGS013 ($115.24 in chips) 
+Seat 4: J0SHB0SH ($109.15 in chips) 
+Seat 5: Rambo_nvd ($103.53 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+kumar64: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: raises $1 to $2
+kumar64: folds 
+BGS013: folds 
+Uncalled bet ($1) returned to mariofcd
+mariofcd collected $2.50 from pot
+mariofcd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: michasia
+Seat 1: kumar64 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd (button) collected ($2.50)
+
+
+
+PokerStars Hand #254584898249:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:07:11 WET [2025/01/27 16:07:11 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 3: michasia ($114.11 in chips) is sitting out
+Seat 1: kumar64 ($277.62 in chips) 
+Seat 2: BGS013 ($114.24 in chips) 
+Seat 4: J0SHB0SH ($109.15 in chips) 
+Seat 5: Rambo_nvd ($103.53 in chips) 
+Seat 6: mariofcd ($101.50 in chips) 
+BGS013: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+mariofcd: raises $1.25 to $2.25
+kumar64: calls $2.25
+BGS013: folds 
+J0SHB0SH: raises $11.75 to $14
+mariofcd: folds 
+kumar64: folds 
+Uncalled bet ($11.75) returned to J0SHB0SH
+J0SHB0SH collected $7.25 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0 
+Seat 3: michasia
+Seat 1: kumar64 (button) folded before Flop
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) collected ($7.25)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop
+
+
+
+PokerStars Hand #254584905793:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:07:35 WET [2025/01/27 16:07:35 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 3: michasia ($114.11 in chips) is sitting out
+Seat 1: kumar64 ($275.37 in chips) 
+Seat 2: BGS013 ($113.74 in chips) 
+Seat 4: J0SHB0SH ($114.15 in chips) 
+Seat 5: Rambo_nvd ($103.53 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: raises $1.20 to $2.20
+kumar64: folds 
+BGS013: folds 
+J0SHB0SH: folds 
+Rambo_nvd: calls $1.20
+*** FLOP *** [6h 6c Ah]
+Rambo_nvd: checks 
+mariofcd: checks 
+*** TURN *** [6h 6c Ah] [9s]
+Rambo_nvd: checks 
+mariofcd: checks 
+*** RIVER *** [6h 6c Ah 9s] [7s]
+Rambo_nvd: checks 
+mariofcd: bets $97.80 and is all-in
+Rambo_nvd: folds 
+Uncalled bet ($97.80) returned to mariofcd
+mariofcd collected $4.66 from pot
+mariofcd: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [6h 6c Ah 9s 7s]
+Seat 3: michasia
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) folded on the River
+Seat 6: mariofcd collected ($4.66)
+
+
+
+PokerStars Hand #254584920855:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:08:21 WET [2025/01/27 16:08:21 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 3: michasia ($114.11 in chips) is sitting out
+Seat 1: kumar64 ($275.37 in chips) 
+Seat 2: BGS013 ($113.74 in chips) 
+Seat 4: J0SHB0SH ($113.65 in chips) 
+Seat 5: Rambo_nvd ($101.33 in chips) 
+Seat 6: mariofcd ($102.46 in chips) 
+Rambo_nvd: posts small blind $0.50
+mariofcd: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+kumar64: folds 
+BGS013: folds 
+J0SHB0SH: raises $1.50 to $2.50
+Rambo_nvd: folds 
+mariofcd: calls $1.50
+*** FLOP *** [3c Qh 5s]
+mariofcd: checks 
+J0SHB0SH: bets $1.72
+mariofcd: folds 
+Uncalled bet ($1.72) returned to J0SHB0SH
+J0SHB0SH collected $5.22 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3c Qh 5s]
+Seat 3: michasia
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (button) collected ($5.22)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: mariofcd (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254584928155:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:08:44 WET [2025/01/27 16:08:44 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 3: michasia ($114.11 in chips) is sitting out
+Seat 1: kumar64 ($275.37 in chips) 
+Seat 2: BGS013 ($113.74 in chips) 
+Seat 4: J0SHB0SH ($116.37 in chips) 
+Seat 5: Rambo_nvd ($100.83 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+mariofcd: posts small blind $0.50
+kumar64: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+BGS013: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+Uncalled bet ($0.50) returned to kumar64
+kumar64 collected $1 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: michasia
+Seat 1: kumar64 (big blind) collected ($1)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584931072:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:08:53 WET [2025/01/27 16:08:53 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 3: michasia ($114.11 in chips) is sitting out
+Seat 1: kumar64 ($275.87 in chips) 
+Seat 2: BGS013 ($113.74 in chips) 
+Seat 4: J0SHB0SH ($116.37 in chips) 
+Seat 5: Rambo_nvd ($100.83 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+kumar64: posts small blind $0.50
+BGS013: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: raises $1.45 to $2.45
+kumar64: calls $1.95
+BGS013: calls $1.45
+*** FLOP *** [As 2h 8h]
+kumar64: checks 
+BGS013: checks 
+mariofcd: checks 
+*** TURN *** [As 2h 8h] [3h]
+kumar64: bets $2.79
+BGS013: calls $2.79
+mariofcd: folds 
+*** RIVER *** [As 2h 8h 3h] [7d]
+kumar64: bets $6
+BGS013: raises $18.94 to $24.94
+kumar64: folds 
+Uncalled bet ($18.94) returned to BGS013
+BGS013 collected $23.68 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.93 | Rake $1.25 
+Board [As 2h 8h 3h 7d]
+Seat 3: michasia
+Seat 1: kumar64 (small blind) folded on the River
+Seat 2: BGS013 (big blind) collected ($23.68)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd (button) folded on the Turn
+
+
+
+PokerStars Hand #254584948957:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:09:48 WET [2025/01/27 16:09:48 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: kumar64 ($264.63 in chips) 
+Seat 2: BGS013 ($126.18 in chips) 
+Seat 3: michasia ($114.11 in chips) 
+Seat 4: J0SHB0SH ($116.37 in chips) 
+Seat 5: Rambo_nvd ($100.83 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+BGS013: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Rambo_nvd: raises $1.20 to $2.20
+mariofcd: folds 
+kumar64: folds 
+BGS013: folds 
+michasia: folds 
+Uncalled bet ($1.20) returned to Rambo_nvd
+Rambo_nvd collected $2.50 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: michasia (big blind) folded before Flop
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd collected ($2.50)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584952352:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:09:59 WET [2025/01/27 16:09:59 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: kumar64 ($264.63 in chips) 
+Seat 2: BGS013 ($125.68 in chips) 
+Seat 3: michasia ($113.11 in chips) 
+Seat 4: J0SHB0SH ($116.37 in chips) 
+Seat 5: Rambo_nvd ($102.33 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+michasia: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+mariofcd has timed out
+mariofcd: folds 
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: calls $2
+*** FLOP *** [8h Qs 2d]
+J0SHB0SH: checks 
+kumar64: bets $4.94
+J0SHB0SH: calls $4.94
+*** TURN *** [8h Qs 2d] [Ac]
+J0SHB0SH: checks 
+kumar64: bets $6.22
+J0SHB0SH: calls $6.22
+*** RIVER *** [8h Qs 2d Ac] [Jh]
+J0SHB0SH: checks 
+kumar64: checks 
+*** SHOW DOWN ***
+J0SHB0SH: shows [Qd Ts] (a pair of Queens)
+kumar64: shows [Kd Ks] (a pair of Kings)
+kumar64 collected $27.38 from pot
+*** SUMMARY ***
+Total pot $28.82 | Rake $1.44 
+Board [8h Qs 2d Ac Jh]
+Seat 1: kumar64 showed [Kd Ks] and won ($27.38) with a pair of Kings
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: michasia (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) showed [Qd Ts] and lost with a pair of Queens
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584966916:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:10:43 WET [2025/01/27 16:10:43 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: kumar64 ($277.85 in chips) 
+Seat 2: BGS013 ($125.68 in chips) 
+Seat 3: michasia ($112.61 in chips) 
+Seat 4: J0SHB0SH ($102.21 in chips) 
+Seat 5: Rambo_nvd ($102.33 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: folds 
+kumar64: folds 
+BGS013: folds 
+michasia: raises $1.80 to $2.80
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+Uncalled bet ($1.80) returned to michasia
+michasia collected $2.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia (button) collected ($2.50)
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) folded before Flop
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584973735:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:11:04 WET [2025/01/27 16:11:04 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: kumar64 ($277.85 in chips) 
+Seat 2: BGS013 ($125.68 in chips) 
+Seat 3: michasia ($114.11 in chips) 
+Seat 4: J0SHB0SH ($101.71 in chips) 
+Seat 5: Rambo_nvd ($101.33 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+Rambo_nvd: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+Uncalled bet ($2) returned to kumar64
+kumar64 collected $2.50 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 collected ($2.50)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+Seat 6: mariofcd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254584978242:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:11:18 WET [2025/01/27 16:11:18 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: kumar64 ($279.35 in chips) 
+Seat 2: BGS013 ($125.68 in chips) 
+Seat 3: michasia ($114.11 in chips) 
+Seat 4: J0SHB0SH ($101.71 in chips) 
+Seat 5: Rambo_nvd ($100.83 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+mariofcd: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+BGS013: raises $1 to $2
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: folds 
+Uncalled bet ($1) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 (big blind) folded before Flop
+Seat 2: BGS013 collected ($2.50)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254584986082:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:11:41 WET [2025/01/27 16:11:41 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: kumar64 ($278.35 in chips) 
+Seat 2: BGS013 ($127.18 in chips) 
+Seat 3: michasia ($114.11 in chips) 
+Seat 4: J0SHB0SH ($101.71 in chips) 
+Seat 5: Rambo_nvd ($100.83 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+kumar64: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: folds 
+Uncalled bet ($0.50) returned to BGS013
+BGS013 collected $1 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kumar64 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) collected ($1)
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254584994561:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:12:07 WET [2025/01/27 16:12:07 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: kumar64 ($277.85 in chips) 
+Seat 2: BGS013 ($127.68 in chips) 
+Seat 3: michasia ($114.11 in chips) 
+Seat 4: J0SHB0SH ($101.71 in chips) 
+Seat 5: Rambo_nvd ($100.83 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+BGS013: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: raises $8.50 to $11.50
+kumar64: raises $266.35 to $277.85 and is all-in
+michasia: folds 
+Uncalled bet ($266.35) returned to kumar64
+kumar64 collected $23.50 from pot
+kumar64: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.50 | Rake $0 
+Seat 1: kumar64 (button) collected ($23.50)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: michasia (big blind) folded before Flop
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254585007521:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:12:46 WET [2025/01/27 16:12:46 ET]
+Table 'Sarpedon V' 6-max Seat #2 is the button
+Seat 1: kumar64 ($289.85 in chips) 
+Seat 2: BGS013 ($127.18 in chips) 
+Seat 3: michasia ($102.61 in chips) 
+Seat 4: J0SHB0SH ($101.71 in chips) 
+Seat 5: Rambo_nvd ($100.83 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+michasia: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: raises $1.20 to $2.20
+mariofcd: folds 
+kumar64: folds 
+BGS013: folds 
+michasia: folds 
+J0SHB0SH: folds 
+Uncalled bet ($1.20) returned to Rambo_nvd
+Rambo_nvd collected $2.50 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: michasia (small blind) folded before Flop
+Seat 4: J0SHB0SH (big blind) folded before Flop
+Seat 5: Rambo_nvd collected ($2.50)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254585014099:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:13:05 WET [2025/01/27 16:13:05 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: kumar64 ($289.85 in chips) 
+Seat 2: BGS013 ($127.18 in chips) 
+Seat 3: michasia ($102.11 in chips) 
+Seat 4: J0SHB0SH ($100.71 in chips) 
+Seat 5: Rambo_nvd ($102.33 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+J0SHB0SH: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: folds 
+kumar64: raises $2 to $3
+BGS013: folds 
+michasia: raises $6 to $9
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+kumar64: calls $6
+*** FLOP *** [Kc 7h As]
+kumar64: checks 
+michasia: bets $6.11
+kumar64: folds 
+Uncalled bet ($6.11) returned to michasia
+michasia collected $18.52 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [Kc 7h As]
+Seat 1: kumar64 folded on the Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia (button) collected ($18.52)
+Seat 4: J0SHB0SH (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) folded before Flop
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254585023736:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:13:35 WET [2025/01/27 16:13:35 ET]
+Table 'Sarpedon V' 6-max Seat #4 is the button
+Seat 1: kumar64 ($280.85 in chips) 
+Seat 2: BGS013 ($127.18 in chips) 
+Seat 3: michasia ($111.63 in chips) 
+Seat 4: J0SHB0SH ($100.21 in chips) 
+Seat 5: Rambo_nvd ($101.33 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+Rambo_nvd: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+kumar64: folds 
+BGS013: folds 
+michasia: raises $1.80 to $2.80
+J0SHB0SH: folds 
+Rambo_nvd: raises $8.70 to $11.50
+mariofcd: folds 
+michasia: folds 
+Uncalled bet ($8.70) returned to Rambo_nvd
+Rambo_nvd collected $6.60 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.60 | Rake $0 
+Seat 1: kumar64 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia folded before Flop
+Seat 4: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) collected ($6.60)
+Seat 6: mariofcd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254585030551:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:13:55 WET [2025/01/27 16:13:55 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: kumar64 ($280.85 in chips) 
+Seat 2: BGS013 ($127.18 in chips) 
+Seat 3: michasia ($108.83 in chips) 
+Seat 4: J0SHB0SH ($100.21 in chips) 
+Seat 5: Rambo_nvd ($105.13 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+mariofcd: posts small blind $0.50
+kumar64: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+michasia: raises $1.60 to $2.60
+J0SHB0SH: raises $5.40 to $8
+Rambo_nvd: folds 
+mariofcd: folds 
+kumar64: folds 
+michasia: calls $5.40
+*** FLOP *** [Ah Qc 5h]
+michasia: checks 
+J0SHB0SH: checks 
+*** TURN *** [Ah Qc 5h] [9h]
+michasia: checks 
+J0SHB0SH: bets $12.47
+michasia: calls $12.47
+*** RIVER *** [Ah Qc 5h 9h] [2h]
+michasia: checks 
+J0SHB0SH: bets $30.24
+michasia: calls $30.24
+*** SHOW DOWN ***
+J0SHB0SH: shows [Qh Kh] (a flush, Ace high)
+michasia: mucks hand 
+J0SHB0SH collected $100.42 from pot
+*** SUMMARY ***
+Total pot $102.92 | Rake $2.50 
+Board [Ah Qc 5h 9h 2h]
+Seat 1: kumar64 (big blind) folded before Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: michasia mucked
+Seat 4: J0SHB0SH showed [Qh Kh] and won ($100.42) with a flush, Ace high
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254585051809:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:14:59 WET [2025/01/27 16:14:59 ET]
+Table 'Sarpedon V' 6-max Seat #6 is the button
+Seat 1: kumar64 ($279.85 in chips) 
+Seat 2: BGS013 ($127.18 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: J0SHB0SH ($149.92 in chips) 
+Seat 5: Rambo_nvd ($105.13 in chips) 
+Seat 6: mariofcd ($100 in chips) 
+kumar64: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+J0SHB0SH: folds 
+Rambo_nvd: folds 
+mariofcd: raises $1 to $2
+kumar64: folds 
+BGS013: folds 
+Uncalled bet ($1) returned to mariofcd
+mariofcd collected $2.50 from pot
+mariofcd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kumar64 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 4: J0SHB0SH folded before Flop (didn't bet)
+Seat 5: Rambo_nvd folded before Flop (didn't bet)
+Seat 6: mariofcd (button) collected ($2.50)
+
+
+
+PokerStars Hand #254585233429:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:24:09 WET [2025/01/27 16:24:09 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: Seavus10 ($100 in chips) 
+Seat 3: michasia ($107.01 in chips) 
+Seat 5: Rambo_nvd ($100 in chips) 
+Rambo_nvd: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+Rambo_nvd: folds 
+Uncalled bet ($0.50) returned to Seavus10
+Seavus10 collected $1 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Seavus10 (big blind) collected ($1)
+Seat 3: michasia (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254585235852:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:24:16 WET [2025/01/27 16:24:16 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: Seavus10 ($100.50 in chips) 
+Seat 3: michasia ($107.01 in chips) 
+Seat 5: Rambo_nvd ($100 in chips) 
+Seavus10: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+Seavus10: raises $2 to $3
+michasia: calls $2
+*** FLOP *** [Js 4d 3s]
+Seavus10: checks 
+michasia: bets $1.88
+Seavus10: raises $3.76 to $5.64
+michasia: calls $3.76
+*** TURN *** [Js 4d 3s] [Qc]
+Seavus10: bets $25.45
+michasia: folds 
+Uncalled bet ($25.45) returned to Seavus10
+Seavus10 collected $16.42 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.28 | Rake $0.86 
+Board [Js 4d 3s Qc]
+Seat 1: Seavus10 (small blind) collected ($16.42)
+Seat 3: michasia (big blind) folded on the Turn
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254585254485:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:25:13 WET [2025/01/27 16:25:13 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 5: Rambo_nvd ($100 in chips) is sitting out
+Seat 1: Seavus10 ($108.28 in chips) 
+Seat 3: michasia ($100 in chips) 
+michasia: posts small blind $0.50
+Rambo_nvd: is sitting out 
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+Uncalled bet ($0.50) returned to Seavus10
+Seavus10 collected $1 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: Rambo_nvd
+Seat 1: Seavus10 (big blind) collected ($1)
+Seat 3: michasia (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254585257752:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:25:23 WET [2025/01/27 16:25:23 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: Seavus10 ($108.78 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 5: Rambo_nvd ($100 in chips) 
+michasia: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+michasia: folds 
+Uncalled bet ($0.50) returned to Rambo_nvd
+Rambo_nvd collected $1 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Seavus10 (button) folded before Flop (didn't bet)
+Seat 3: michasia (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) collected ($1)
+
+
+
+PokerStars Hand #254585260768:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:25:32 WET [2025/01/27 16:25:32 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: Seavus10 ($108.78 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 5: Rambo_nvd ($100.50 in chips) 
+Rambo_nvd: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+Rambo_nvd: raises $2 to $3
+Seavus10: raises $6 to $9
+Rambo_nvd: calls $6
+*** FLOP *** [Jc Th As]
+Rambo_nvd: checks 
+Seavus10: bets $4.28
+Rambo_nvd: calls $4.28
+*** TURN *** [Jc Th As] [9s]
+Rambo_nvd: checks 
+Seavus10: bets $20.17
+Rambo_nvd: calls $20.17
+*** RIVER *** [Jc Th As 9s] [3c]
+Rambo_nvd: checks 
+Seavus10: bets $75.33 and is all-in
+Rambo_nvd: calls $67.05 and is all-in
+Uncalled bet ($8.28) returned to Seavus10
+*** SHOW DOWN ***
+Seavus10: shows [8c Qs] (a straight, Eight to Queen)
+Rambo_nvd: shows [Qh Ks] (a straight, Ten to Ace)
+Rambo_nvd collected $200 from pot
+*** SUMMARY ***
+Total pot $201 | Rake $1 
+Board [Jc Th As 9s 3c]
+Seat 1: Seavus10 (big blind) showed [8c Qs] and lost with a straight, Eight to Queen
+Seat 3: michasia (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) showed [Qh Ks] and won ($200) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #254585301711:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:27:39 WET [2025/01/27 16:27:39 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: Seavus10 ($100 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 5: Rambo_nvd ($200 in chips) 
+Seavus10: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: raises $1.50 to $2.50
+Seavus10: folds 
+michasia: raises $9.50 to $12
+Rambo_nvd: folds 
+Uncalled bet ($9.50) returned to michasia
+michasia collected $5.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: Seavus10 (small blind) folded before Flop
+Seat 3: michasia (big blind) collected ($5.50)
+Seat 5: Rambo_nvd (button) folded before Flop
+
+
+
+PokerStars Hand #254585308062:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:27:59 WET [2025/01/27 16:27:59 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: Seavus10 ($100 in chips) 
+Seat 3: michasia ($103 in chips) 
+Seat 5: Rambo_nvd ($197.50 in chips) 
+michasia: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+michasia: folds 
+Uncalled bet ($0.50) returned to Rambo_nvd
+Rambo_nvd collected $1 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Seavus10 (button) folded before Flop (didn't bet)
+Seat 3: michasia (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) collected ($1)
+
+
+
+PokerStars Hand #254585310351:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:28:06 WET [2025/01/27 16:28:06 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: Seavus10 ($100 in chips) 
+Seat 3: michasia ($102.50 in chips) 
+Seat 5: Rambo_nvd ($198 in chips) 
+Rambo_nvd: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+Rambo_nvd: folds 
+Uncalled bet ($0.50) returned to Seavus10
+Seavus10 collected $1 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Seavus10 (big blind) collected ($1)
+Seat 3: michasia (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254585312537:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:28:13 WET [2025/01/27 16:28:13 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 1: Seavus10 ($100.50 in chips) 
+Seat 3: michasia ($102.50 in chips) 
+Seat 5: Rambo_nvd ($197.50 in chips) 
+Seavus10: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+Seavus10: folds 
+Uncalled bet ($0.50) returned to michasia
+michasia collected $1 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Seavus10 (small blind) folded before Flop
+Seat 3: michasia (big blind) collected ($1)
+Seat 5: Rambo_nvd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254585315027:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:28:20 WET [2025/01/27 16:28:20 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 1: Seavus10 ($100 in chips) 
+Seat 3: michasia ($103 in chips) 
+Seat 5: Rambo_nvd ($197.50 in chips) 
+michasia: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+michasia: raises $2 to $3
+Rambo_nvd: folds 
+Uncalled bet ($2) returned to michasia
+michasia collected $2 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Seavus10 (button) folded before Flop (didn't bet)
+Seat 3: michasia (small blind) collected ($2)
+Seat 5: Rambo_nvd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254585317932:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:28:29 WET [2025/01/27 16:28:29 ET]
+Table 'Sarpedon V' 6-max Seat #3 is the button
+Seat 1: Seavus10 ($100 in chips) 
+Seat 3: michasia ($104 in chips) 
+Seat 5: Rambo_nvd ($196.50 in chips) 
+Rambo_nvd: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+Rambo_nvd: raises $2 to $3
+Seavus10: calls $2
+*** FLOP *** [3s Ah Ad]
+Rambo_nvd: bets $1.77
+Seavus10: folds 
+Uncalled bet ($1.77) returned to Rambo_nvd
+Rambo_nvd collected $5.70 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [3s Ah Ad]
+Seat 1: Seavus10 (big blind) folded on the Flop
+Seat 3: michasia (button) folded before Flop (didn't bet)
+Seat 5: Rambo_nvd (small blind) collected ($5.70)
+
+
+
+PokerStars Hand #254585333040:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:29:17 WET [2025/01/27 16:29:17 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 3: michasia ($104 in chips) is sitting out
+Seat 1: Seavus10 ($100 in chips) 
+Seat 5: Rambo_nvd ($199.20 in chips) 
+Seavus10: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+Uncalled bet ($0.50) returned to Rambo_nvd
+Rambo_nvd collected $1 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: michasia
+Seat 1: Seavus10 (button) (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) collected ($1)
+
+
+
+PokerStars Hand #254585335601:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:29:24 WET [2025/01/27 16:29:24 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 3: michasia ($104 in chips) is sitting out
+Seat 1: Seavus10 ($100 in chips) 
+Seat 5: Rambo_nvd ($199.70 in chips) 
+Rambo_nvd: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+Uncalled bet ($0.50) returned to Seavus10
+Seavus10 collected $1 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: michasia
+Seat 1: Seavus10 (big blind) collected ($1)
+Seat 5: Rambo_nvd (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254585338883:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:29:35 WET [2025/01/27 16:29:35 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 3: michasia ($104 in chips) is sitting out
+Seat 1: Seavus10 ($100.50 in chips) 
+Seat 5: Rambo_nvd ($199.20 in chips) 
+Seavus10: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: raises $1.50 to $2.50
+Rambo_nvd: folds 
+Uncalled bet ($1.50) returned to Seavus10
+Seavus10 collected $2 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: michasia
+Seat 1: Seavus10 (button) (small blind) collected ($2)
+Seat 5: Rambo_nvd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254585342135:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:29:44 WET [2025/01/27 16:29:44 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 3: michasia ($104 in chips) is sitting out
+Seat 1: Seavus10 ($101.50 in chips) 
+Seat 5: Rambo_nvd ($198.20 in chips) 
+Rambo_nvd: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+Uncalled bet ($0.50) returned to Seavus10
+Seavus10 collected $1 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: michasia
+Seat 1: Seavus10 (big blind) collected ($1)
+Seat 5: Rambo_nvd (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254585345353:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:29:54 WET [2025/01/27 16:29:54 ET]
+Table 'Sarpedon V' 6-max Seat #1 is the button
+Seat 3: michasia ($104 in chips) is sitting out
+Seat 1: Seavus10 ($102 in chips) 
+Seat 5: Rambo_nvd ($197.70 in chips) 
+Seavus10: posts small blind $0.50
+Rambo_nvd: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds [3s 2c]
+Uncalled bet ($0.50) returned to Rambo_nvd
+Rambo_nvd collected $1 from pot
+Rambo_nvd: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: michasia
+Seat 1: Seavus10 (button) (small blind) folded before Flop
+Seat 5: Rambo_nvd (big blind) collected ($1)
+
+
+
+PokerStars Hand #254585348121:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 21:30:02 WET [2025/01/27 16:30:02 ET]
+Table 'Sarpedon V' 6-max Seat #5 is the button
+Seat 3: michasia ($104 in chips) is sitting out
+Seat 1: Seavus10 ($101.50 in chips) 
+Seat 5: Rambo_nvd ($198.20 in chips) 
+Rambo_nvd: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+Rambo_nvd: folds 
+Uncalled bet ($0.50) returned to Seavus10
+Seavus10 collected $1 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: michasia
+Seat 1: Seavus10 (big blind) collected ($1)
+Seat 5: Rambo_nvd (button) (small blind) folded before Flop
+
+
+

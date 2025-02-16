@@ -1,0 +1,3660 @@
+﻿PokerStars Hand #254610283528:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:03:12 WET [2025/01/29 14:03:12 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 4: AndreaBsAs ($100 in chips) is sitting out
+Seat 5: ruSSotron ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($125.30 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: antey89 ($100 in chips) 
+Seat 6: Thyssen990 ($97 in chips) 
+paramourx: posts small blind $0.50
+antey89: posts big blind $1
+AndreaBsAs: sits out 
+ruSSotron: sits out 
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: raises $2 to $3
+antey89: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: AndreaBsAs
+Seat 5: ruSSotron
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: paramourx (small blind) collected ($2)
+Seat 3: antey89 (big blind) folded before Flop
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610289266:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:03:33 WET [2025/01/29 14:03:33 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 5: ruSSotron ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($125.30 in chips) 
+Seat 2: paramourx ($101 in chips) 
+Seat 3: antey89 ($100 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 6: Thyssen990 ($97 in chips) 
+antey89: posts small blind $0.50
+AndreaBsAs: posts big blind $1
+ruSSotron: sits out 
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: raises $2 to $3
+antey89: folds 
+AndreaBsAs: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: ruSSotron
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx (button) collected ($2.50)
+Seat 3: antey89 (small blind) folded before Flop
+Seat 4: AndreaBsAs (big blind) folded before Flop
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610295895:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:03:57 WET [2025/01/29 14:03:57 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($125.30 in chips) 
+Seat 2: paramourx ($102.50 in chips) 
+Seat 3: antey89 ($100 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($97 in chips) 
+AndreaBsAs: posts small blind $0.50
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: raises $2 to $3
+antey89: folds 
+AndreaBsAs: folds 
+ruSSotron: calls $2
+*** FLOP *** [Ad Qd 3c]
+ruSSotron: checks 
+paramourx: bets $1.92
+ruSSotron: calls $1.92
+*** TURN *** [Ad Qd 3c] [Kd]
+ruSSotron: checks 
+paramourx: checks 
+*** RIVER *** [Ad Qd 3c Kd] [9c]
+ruSSotron: checks 
+paramourx: checks 
+*** SHOW DOWN ***
+ruSSotron: shows [8s 8h] (a pair of Eights)
+paramourx: shows [4s As] (a pair of Aces)
+paramourx collected $9.82 from pot
+*** SUMMARY ***
+Total pot $10.34 | Rake $0.52 
+Board [Ad Qd 3c Kd 9c]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx showed [4s As] and won ($9.82) with a pair of Aces
+Seat 3: antey89 (button) folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (small blind) folded before Flop
+Seat 5: ruSSotron (big blind) showed [8s 8h] and lost with a pair of Eights
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610313873:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:05:01 WET [2025/01/29 14:05:01 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($125.30 in chips) 
+Seat 2: paramourx ($107.40 in chips) 
+Seat 3: antey89 ($100 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($97 in chips) 
+ruSSotron: posts small blind $0.50
+Thyssen990: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: raises $1.20 to $2.20
+paramourx: folds 
+antey89: folds 
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: calls $1.20
+*** FLOP *** [Kh 5s Tc]
+Thyssen990: checks 
+poker_soul11: bets $1.54
+Thyssen990: calls $1.54
+*** TURN *** [Kh 5s Tc] [Kd]
+Thyssen990: checks 
+poker_soul11: bets $2.50
+Thyssen990: calls $2.50
+*** RIVER *** [Kh 5s Tc Kd] [Jd]
+Thyssen990: bets $4
+poker_soul11: calls $4
+*** SHOW DOWN ***
+Thyssen990: shows [Ad Jh] (two pair, Kings and Jacks)
+poker_soul11: mucks hand 
+Thyssen990 collected $19.93 from pot
+*** SUMMARY ***
+Total pot $20.98 | Rake $1.05 
+Board [Kh 5s Tc Kd Jd]
+Seat 1: poker_soul11 mucked
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: antey89 folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 5: ruSSotron (small blind) folded before Flop
+Seat 6: Thyssen990 (big blind) showed [Ad Jh] and won ($19.93) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #254610328337:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:05:52 WET [2025/01/29 14:05:52 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($115.06 in chips) 
+Seat 2: paramourx ($107.40 in chips) 
+Seat 3: antey89 ($100 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($106.69 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+antey89: folds 
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: folds 
+Uncalled bet ($0.50) returned to poker_soul11
+poker_soul11 collected $1 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: poker_soul11 (big blind) collected ($1)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: antey89 folded before Flop (didn't bet)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron (button) folded before Flop (didn't bet)
+Seat 6: Thyssen990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254610332896:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:06:08 WET [2025/01/29 14:06:08 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($115.56 in chips) 
+Seat 2: paramourx ($107.40 in chips) 
+Seat 3: antey89 ($100 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($106.19 in chips) 
+poker_soul11: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+antey89: folds 
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+Uncalled bet ($0.50) returned to paramourx
+paramourx collected $1 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: paramourx (big blind) collected ($1)
+Seat 3: antey89 folded before Flop (didn't bet)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610337599:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:06:24 WET [2025/01/29 14:06:24 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 3: antey89 ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($115.06 in chips) 
+Seat 2: paramourx ($107.90 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($106.19 in chips) 
+paramourx: posts small blind $0.50
+antey89: is sitting out 
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+ruSSotron: raises $1.20 to $2.20
+Thyssen990: raises $2.80 to $5
+poker_soul11: folds 
+paramourx: raises $12.80 to $17.80
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: folds 
+Uncalled bet ($12.80) returned to paramourx
+paramourx collected $13.20 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.20 | Rake $0 
+Seat 3: antey89
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: paramourx (small blind) collected ($13.20)
+Seat 4: AndreaBsAs (big blind) folded before Flop
+Seat 5: ruSSotron folded before Flop
+Seat 6: Thyssen990 folded before Flop
+
+
+
+PokerStars Hand #254610350498:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:07:09 WET [2025/01/29 14:07:09 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 3: antey89 ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($115.06 in chips) 
+Seat 2: paramourx ($116.10 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($101.19 in chips) 
+AndreaBsAs: posts small blind $0.50
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: raises $2 to $3
+antey89 leaves the table
+AndreaBsAs: folds 
+ruSSotron: calls $2
+*** FLOP *** [Jc 7c 4c]
+ruSSotron: checks 
+DL1B joins the table at seat #3 
+paramourx: checks 
+*** TURN *** [Jc 7c 4c] [Qc]
+ruSSotron: bets $2.04
+paramourx: folds 
+Uncalled bet ($2.04) returned to ruSSotron
+ruSSotron collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Jc 7c 4c Qc]
+Seat 3: antey89
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx (button) folded on the Turn
+Seat 4: AndreaBsAs (small blind) folded before Flop
+Seat 5: ruSSotron (big blind) collected ($6.18)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610357716:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:07:34 WET [2025/01/29 14:07:34 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 3: DL1B ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($115.06 in chips) 
+Seat 2: paramourx ($113.10 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($103.18 in chips) 
+Seat 6: Thyssen990 ($101.19 in chips) 
+ruSSotron: posts small blind $0.50
+Thyssen990: posts big blind $1
+DL1B: sits out 
+*** HOLE CARDS ***
+poker_soul11: folds 
+paramourx: raises $2 to $3
+AndreaBsAs: folds 
+ruSSotron: calls $2.50
+Thyssen990: folds 
+*** FLOP *** [Qd 8c 8s]
+ruSSotron: checks 
+paramourx: bets $2.06
+ruSSotron: calls $2.06
+*** TURN *** [Qd 8c 8s] [9h]
+ruSSotron: checks 
+paramourx: bets $5.28
+ruSSotron: folds 
+Uncalled bet ($5.28) returned to paramourx
+paramourx collected $10.56 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.12 | Rake $0.56 
+Board [Qd 8c 8s 9h]
+Seat 3: DL1B
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx collected ($10.56)
+Seat 4: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 5: ruSSotron (small blind) folded on the Turn
+Seat 6: Thyssen990 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254610370273:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:08:18 WET [2025/01/29 14:08:18 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 3: DL1B ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($115.06 in chips) 
+Seat 2: paramourx ($118.60 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($100.19 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: posts big blind $1
+DL1B: sits out 
+*** HOLE CARDS ***
+paramourx: raises $2 to $3
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: DL1B
+Seat 1: poker_soul11 (big blind) folded before Flop
+Seat 2: paramourx collected ($2.50)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron (button) folded before Flop (didn't bet)
+Seat 6: Thyssen990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254610375381:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:08:36 WET [2025/01/29 14:08:36 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 3: DL1B ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($114.06 in chips) 
+Seat 2: paramourx ($120.10 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($99.69 in chips) 
+poker_soul11: posts small blind $0.50
+paramourx: posts big blind $1
+DL1B: sits out 
+*** HOLE CARDS ***
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+Uncalled bet ($0.50) returned to paramourx
+paramourx collected $1 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: DL1B
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: paramourx (big blind) collected ($1)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610379084:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:08:49 WET [2025/01/29 14:08:49 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($113.56 in chips) 
+Seat 2: paramourx ($120.60 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($99.69 in chips) 
+paramourx: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: folds 
+Uncalled bet ($0.50) returned to DL1B
+DL1B collected $1 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: paramourx (small blind) folded before Flop
+Seat 3: DL1B (big blind) collected ($1)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610384037:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:09:06 WET [2025/01/29 14:09:06 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($113.56 in chips) 
+Seat 2: paramourx ($120.10 in chips) 
+Seat 3: DL1B ($100.50 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($99.69 in chips) 
+DL1B: posts small blind $0.50
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+ruSSotron: folds 
+Thyssen990: raises $2 to $3
+poker_soul11: folds 
+paramourx: folds 
+DL1B: folds 
+AndreaBsAs: calls $2
+*** FLOP *** [6d Kd Jd]
+AndreaBsAs: checks 
+Thyssen990: bets $2
+AndreaBsAs: calls $2
+*** TURN *** [6d Kd Jd] [Kc]
+AndreaBsAs: checks 
+Thyssen990: checks 
+*** RIVER *** [6d Kd Jd Kc] [5c]
+AndreaBsAs: checks 
+Thyssen990: checks 
+*** SHOW DOWN ***
+AndreaBsAs: shows [9h Ks] (three of a kind, Kings)
+Thyssen990: mucks hand 
+AndreaBsAs collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [6d Kd Jd Kc 5c]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx (button) folded before Flop (didn't bet)
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: AndreaBsAs (big blind) showed [9h Ks] and won ($9.98) with three of a kind, Kings
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 mucked
+
+
+
+PokerStars Hand #254610399664:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:10:02 WET [2025/01/29 14:10:02 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($113.56 in chips) 
+Seat 2: paramourx ($120.10 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: AndreaBsAs ($104.98 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($94.69 in chips) 
+AndreaBsAs: posts small blind $0.50
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: folds 
+DL1B: folds 
+AndreaBsAs: raises $2 to $3
+ruSSotron: folds 
+Uncalled bet ($2) returned to AndreaBsAs
+AndreaBsAs collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: DL1B (button) folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (small blind) collected ($2)
+Seat 5: ruSSotron (big blind) folded before Flop
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610406390:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:10:25 WET [2025/01/29 14:10:25 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($113.56 in chips) 
+Seat 2: paramourx ($120.10 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: AndreaBsAs ($105.98 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($94.69 in chips) 
+ruSSotron: posts small blind $0.50
+Thyssen990: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: raises $1.20 to $2.20
+paramourx: folds 
+DL1B: folds 
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: calls $1.20
+*** FLOP *** [Jc Js Ah]
+Thyssen990: checks 
+poker_soul11: bets $1.54
+Thyssen990: folds 
+Uncalled bet ($1.54) returned to poker_soul11
+poker_soul11 collected $4.66 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Jc Js Ah]
+Seat 1: poker_soul11 collected ($4.66)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 5: ruSSotron (small blind) folded before Flop
+Seat 6: Thyssen990 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254610415060:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:10:55 WET [2025/01/29 14:10:55 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($116.02 in chips) 
+Seat 2: paramourx ($120.10 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: AndreaBsAs ($105.98 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($92.49 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+DL1B: folds 
+AndreaBsAs: folds 
+ruSSotron: raises $1.50 to $2.50
+Thyssen990: calls $2
+poker_soul11: folds 
+*** FLOP *** [9d 5s Tc]
+Thyssen990: checks 
+ruSSotron: bets $2.85
+Thyssen990: folds 
+Uncalled bet ($2.85) returned to ruSSotron
+ruSSotron collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [9d 5s Tc]
+Seat 1: poker_soul11 (big blind) folded before Flop
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron (button) collected ($5.70)
+Seat 6: Thyssen990 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254610427087:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:11:38 WET [2025/01/29 14:11:38 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($115.02 in chips) 
+Seat 2: paramourx ($120.10 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: AndreaBsAs ($105.98 in chips) 
+Seat 5: ruSSotron ($103.20 in chips) 
+Seat 6: Thyssen990 ($89.99 in chips) 
+poker_soul11: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+AndreaBsAs: folds 
+ruSSotron: raises $1.20 to $2.20
+Thyssen990: folds 
+poker_soul11: raises $9.30 to $11.50
+paramourx: folds 
+ruSSotron: calls $9.30
+*** FLOP *** [Kd Ad 7c]
+poker_soul11: bets $7.52
+ruSSotron: calls $7.52
+*** TURN *** [Kd Ad 7c] [6s]
+poker_soul11: checks 
+ruSSotron: checks 
+*** RIVER *** [Kd Ad 7c 6s] [Jc]
+poker_soul11: checks 
+ruSSotron: checks 
+*** SHOW DOWN ***
+poker_soul11: shows [9s As] (a pair of Aces)
+ruSSotron: mucks hand 
+poker_soul11 collected $37.09 from pot
+*** SUMMARY ***
+Total pot $39.04 | Rake $1.95 
+Board [Kd Ad 7c 6s Jc]
+Seat 1: poker_soul11 (small blind) showed [9s As] and won ($37.09) with a pair of Aces
+Seat 2: paramourx (big blind) folded before Flop
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron mucked
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610439914:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:12:24 WET [2025/01/29 14:12:24 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($133.09 in chips) 
+Seat 2: paramourx ($119.10 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: AndreaBsAs ($105.98 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($89.99 in chips) 
+paramourx: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: raises $1.20 to $2.20
+paramourx: raises $9.30 to $11.50
+DL1B: folds 
+poker_soul11: calls $9.30
+*** FLOP *** [Th Jh Jc]
+paramourx: checks 
+poker_soul11: bets $7.52
+paramourx: calls $7.52
+*** TURN *** [Th Jh Jc] [4c]
+paramourx: checks 
+poker_soul11: bets $27.82
+paramourx: calls $27.82
+*** RIVER *** [Th Jh Jc 4c] [9s]
+paramourx: checks 
+poker_soul11: bets $86.25 and is all-in
+paramourx: folds 
+Uncalled bet ($86.25) returned to poker_soul11
+poker_soul11 collected $92.18 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $94.68 | Rake $2.50 
+Board [Th Jh Jc 4c 9s]
+Seat 1: poker_soul11 (button) collected ($92.18)
+Seat 2: paramourx (small blind) folded on the River
+Seat 3: DL1B (big blind) folded before Flop
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610469740:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:14:09 WET [2025/01/29 14:14:09 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($178.43 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: AndreaBsAs ($105.98 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($89.99 in chips) 
+DL1B: posts small blind $0.50
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: raises $2 to $3
+DL1B: folds 
+AndreaBsAs: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx (button) collected ($2.50)
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: AndreaBsAs (big blind) folded before Flop
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610476106:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:14:31 WET [2025/01/29 14:14:31 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($178.43 in chips) 
+Seat 2: paramourx ($101.50 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: AndreaBsAs ($104.98 in chips) 
+Seat 5: ruSSotron ($100 in chips) 
+Seat 6: Thyssen990 ($89.99 in chips) 
+AndreaBsAs: posts small blind $0.50
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: folds 
+DL1B: raises $1.50 to $2.50
+AndreaBsAs: folds 
+ruSSotron: calls $1.50
+*** FLOP *** [8h 9c 7d]
+ruSSotron: checks 
+DL1B: checks 
+*** TURN *** [8h 9c 7d] [8d]
+ruSSotron: bets $3.92
+DL1B: calls $3.92
+*** RIVER *** [8h 9c 7d 8d] [Jc]
+ruSSotron: bets $6.34
+DL1B: folds 
+Uncalled bet ($6.34) returned to ruSSotron
+ruSSotron collected $12.67 from pot
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [8h 9c 7d 8d Jc]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: DL1B (button) folded on the River
+Seat 4: AndreaBsAs (small blind) folded before Flop
+Seat 5: ruSSotron (big blind) collected ($12.67)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610485925:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:15:06 WET [2025/01/29 14:15:06 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($178.43 in chips) 
+Seat 2: paramourx ($101.50 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: AndreaBsAs ($104.48 in chips) 
+Seat 5: ruSSotron ($106.25 in chips) 
+Seat 6: Thyssen990 ($89.99 in chips) 
+ruSSotron: posts small blind $0.50
+Thyssen990: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: raises $1.20 to $2.20
+paramourx: folds 
+DL1B: folds 
+AndreaBsAs: raises $4.80 to $7
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+Uncalled bet ($4.80) returned to AndreaBsAs
+AndreaBsAs collected $5.90 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: poker_soul11 folded before Flop
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (button) collected ($5.90)
+Seat 5: ruSSotron (small blind) folded before Flop
+Seat 6: Thyssen990 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254610494188:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:15:35 WET [2025/01/29 14:15:35 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($176.23 in chips) 
+Seat 2: paramourx ($101.50 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: AndreaBsAs ($108.18 in chips) 
+Seat 5: ruSSotron ($105.75 in chips) 
+Seat 6: Thyssen990 ($88.99 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+DL1B: folds 
+AndreaBsAs: folds 
+ruSSotron: raises $1.50 to $2.50
+Thyssen990: calls $2
+poker_soul11: folds 
+*** FLOP *** [Ts Kd Qs]
+Thyssen990: checks 
+ruSSotron: bets $2.85
+Thyssen990: calls $2.85
+*** TURN *** [Ts Kd Qs] [4c]
+Thyssen990: checks 
+ruSSotron: bets $8.34
+Thyssen990: folds 
+Uncalled bet ($8.34) returned to ruSSotron
+ruSSotron collected $11.12 from pot
+*** SUMMARY ***
+Total pot $11.70 | Rake $0.58 
+Board [Ts Kd Qs 4c]
+Seat 1: poker_soul11 (big blind) folded before Flop
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron (button) collected ($11.12)
+Seat 6: Thyssen990 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254610511066:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:16:34 WET [2025/01/29 14:16:34 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($175.23 in chips) 
+Seat 2: paramourx ($101.50 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: AndreaBsAs ($108.18 in chips) 
+Seat 5: ruSSotron ($111.52 in chips) 
+Seat 6: Thyssen990 ($83.64 in chips) 
+poker_soul11: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: raises $2 to $3
+poker_soul11: folds 
+paramourx: folds 
+Uncalled bet ($2) returned to Thyssen990
+Thyssen990 collected $2.50 from pot
+Thyssen990: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: paramourx (big blind) folded before Flop
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254610517248:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:16:56 WET [2025/01/29 14:16:56 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($174.73 in chips) 
+Seat 2: paramourx ($100.50 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: AndreaBsAs ($108.18 in chips) 
+Seat 5: ruSSotron ($111.52 in chips) 
+Seat 6: Thyssen990 ($85.14 in chips) 
+paramourx: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+AndreaBsAs: raises $1.20 to $2.20
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: folds 
+DL1B: calls $1.20
+*** FLOP *** [6c 6d Ac]
+DL1B: checks 
+AndreaBsAs: checks 
+*** TURN *** [6c 6d Ac] [5d]
+DL1B: bets $3.54
+AndreaBsAs: calls $3.54
+*** RIVER *** [6c 6d Ac 5d] [5s]
+DL1B: bets $15.93
+AndreaBsAs: folds 
+Uncalled bet ($15.93) returned to DL1B
+DL1B collected $11.38 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.98 | Rake $0.60 
+Board [6c 6d Ac 5d 5s]
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: paramourx (small blind) folded before Flop
+Seat 3: DL1B (big blind) collected ($11.38)
+Seat 4: AndreaBsAs folded on the River
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610536848:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:18:05 WET [2025/01/29 14:18:05 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($174.73 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: DL1B ($105.64 in chips) 
+Seat 4: AndreaBsAs ($102.44 in chips) 
+Seat 5: ruSSotron ($111.52 in chips) 
+Seat 6: Thyssen990 ($85.14 in chips) 
+DL1B: posts small blind $0.50
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+ruSSotron: raises $1.20 to $2.20
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: folds 
+DL1B: folds 
+AndreaBsAs: folds 
+Uncalled bet ($1.20) returned to ruSSotron
+ruSSotron collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx (button) folded before Flop (didn't bet)
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: AndreaBsAs (big blind) folded before Flop
+Seat 5: ruSSotron collected ($2.50)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610544196:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:18:30 WET [2025/01/29 14:18:30 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($174.73 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: DL1B ($105.14 in chips) 
+Seat 4: AndreaBsAs ($101.44 in chips) 
+Seat 5: ruSSotron ($113.02 in chips) 
+Seat 6: Thyssen990 ($85.14 in chips) 
+AndreaBsAs: posts small blind $0.50
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: folds 
+DL1B: folds 
+AndreaBsAs: raises $2 to $3
+ruSSotron: folds 
+Uncalled bet ($2) returned to AndreaBsAs
+AndreaBsAs collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: DL1B (button) folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (small blind) collected ($2)
+Seat 5: ruSSotron (big blind) folded before Flop
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610549504:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:18:49 WET [2025/01/29 14:18:49 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($174.73 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: DL1B ($105.14 in chips) 
+Seat 4: AndreaBsAs ($102.44 in chips) 
+Seat 5: ruSSotron ($112.02 in chips) 
+Seat 6: Thyssen990 ($85.14 in chips) 
+ruSSotron: posts small blind $0.50
+Thyssen990: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+paramourx: folds 
+DL1B: raises $1.50 to $2.50
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: folds 
+Uncalled bet ($1.50) returned to DL1B
+DL1B collected $2.50 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: DL1B collected ($2.50)
+Seat 4: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 5: ruSSotron (small blind) folded before Flop
+Seat 6: Thyssen990 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254610558413:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:19:21 WET [2025/01/29 14:19:21 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($174.73 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: DL1B ($106.64 in chips) 
+Seat 4: AndreaBsAs ($102.44 in chips) 
+Seat 5: ruSSotron ($111.52 in chips) 
+Seat 6: Thyssen990 ($84.14 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+DL1B: raises $1 to $2
+AndreaBsAs: raises $5 to $7
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+DL1B: calls $5
+*** FLOP *** [2h Kh Td]
+DL1B: checks 
+AndreaBsAs: bets $4.86
+DL1B: folds 
+Uncalled bet ($4.86) returned to AndreaBsAs
+AndreaBsAs collected $14.72 from pot
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.78 
+Board [2h Kh Td]
+Seat 1: poker_soul11 (big blind) folded before Flop
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: DL1B folded on the Flop
+Seat 4: AndreaBsAs collected ($14.72)
+Seat 5: ruSSotron (button) folded before Flop (didn't bet)
+Seat 6: Thyssen990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254610575447:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:20:21 WET [2025/01/29 14:20:21 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($173.73 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: AndreaBsAs ($110.16 in chips) 
+Seat 5: ruSSotron ($111.52 in chips) 
+Seat 6: Thyssen990 ($83.64 in chips) 
+poker_soul11: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+AndreaBsAs: raises $1.20 to $2.20
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: folds 
+Uncalled bet ($1.20) returned to AndreaBsAs
+AndreaBsAs collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: paramourx (big blind) folded before Flop
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: AndreaBsAs collected ($2.50)
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610580740:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:20:38 WET [2025/01/29 14:20:38 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 3: DL1B ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($173.23 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 4: AndreaBsAs ($111.66 in chips) 
+Seat 5: ruSSotron ($111.52 in chips) 
+Seat 6: Thyssen990 ($83.64 in chips) 
+paramourx: posts small blind $0.50
+DL1B: is sitting out 
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+ruSSotron: folds 
+DL1B leaves the table
+Thyssen990: folds 
+BGS013 joins the table at seat #3 
+poker_soul11: raises $1.20 to $2.20
+paramourx: raises $9.30 to $11.50
+AndreaBsAs: folds 
+poker_soul11: folds 
+Uncalled bet ($9.30) returned to paramourx
+paramourx collected $5.40 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 3: DL1B
+Seat 1: poker_soul11 (button) folded before Flop
+Seat 2: paramourx (small blind) collected ($5.40)
+Seat 4: AndreaBsAs (big blind) folded before Flop
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610595210:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:21:29 WET [2025/01/29 14:21:29 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 3: BGS013 ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($171.03 in chips) 
+Seat 2: paramourx ($103.20 in chips) 
+Seat 4: AndreaBsAs ($110.66 in chips) 
+Seat 5: ruSSotron ($111.52 in chips) 
+Seat 6: Thyssen990 ($83.64 in chips) 
+AndreaBsAs: posts small blind $0.50
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: raises $2 to $3
+AndreaBsAs: folds 
+ruSSotron: calls $2
+*** FLOP *** [Js Kc 3c]
+ruSSotron: checks 
+paramourx: bets $3.09
+ruSSotron: folds 
+Uncalled bet ($3.09) returned to paramourx
+paramourx collected $6.18 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Js Kc 3c]
+Seat 3: BGS013
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx (button) collected ($6.18)
+Seat 4: AndreaBsAs (small blind) folded before Flop
+Seat 5: ruSSotron (big blind) folded on the Flop
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610605991:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:22:07 WET [2025/01/29 14:22:07 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 3: BGS013 ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($171.03 in chips) 
+Seat 2: paramourx ($106.38 in chips) 
+Seat 4: AndreaBsAs ($110.16 in chips) 
+Seat 5: ruSSotron ($108.52 in chips) 
+Seat 6: Thyssen990 ($83.64 in chips) 
+ruSSotron: posts small blind $0.50
+Thyssen990: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+poker_soul11: folds 
+paramourx: folds 
+AndreaBsAs: folds 
+ruSSotron: folds 
+Uncalled bet ($0.50) returned to Thyssen990
+Thyssen990 collected $1 from pot
+Thyssen990: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: BGS013
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 5: ruSSotron (small blind) folded before Flop
+Seat 6: Thyssen990 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254610608492:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:22:16 WET [2025/01/29 14:22:16 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 3: BGS013 ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($171.03 in chips) 
+Seat 2: paramourx ($106.38 in chips) 
+Seat 4: AndreaBsAs ($110.16 in chips) 
+Seat 5: ruSSotron ($108.02 in chips) 
+Seat 6: Thyssen990 ($84.14 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+paramourx: folds 
+AndreaBsAs: folds 
+ruSSotron: raises $1.50 to $2.50
+Thyssen990: folds 
+poker_soul11: folds 
+Uncalled bet ($1.50) returned to ruSSotron
+ruSSotron collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: BGS013
+Seat 1: poker_soul11 (big blind) folded before Flop
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron (button) collected ($2.50)
+Seat 6: Thyssen990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254610613863:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:22:34 WET [2025/01/29 14:22:34 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 3: BGS013 ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($170.03 in chips) 
+Seat 2: paramourx ($106.38 in chips) 
+Seat 4: AndreaBsAs ($110.16 in chips) 
+Seat 5: ruSSotron ($109.52 in chips) 
+Seat 6: Thyssen990 ($83.64 in chips) 
+poker_soul11: posts small blind $0.50
+paramourx: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+AndreaBsAs: folds 
+ruSSotron: raises $1.20 to $2.20
+Thyssen990 has timed out
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: folds 
+Uncalled bet ($1.20) returned to ruSSotron
+ruSSotron collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: BGS013
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: paramourx (big blind) folded before Flop
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron collected ($2.50)
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610621197:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:23:00 WET [2025/01/29 14:23:00 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 6: Thyssen990 ($83.64 in chips) is sitting out
+Seat 1: poker_soul11 ($169.53 in chips) 
+Seat 2: paramourx ($105.38 in chips) 
+Seat 3: BGS013 ($100 in chips) 
+Seat 4: AndreaBsAs ($110.16 in chips) 
+Seat 5: ruSSotron ($111.02 in chips) 
+paramourx: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+AndreaBsAs: folds 
+ruSSotron: raises $1.20 to $2.20
+poker_soul11: folds 
+paramourx: folds 
+BGS013: folds 
+Uncalled bet ($1.20) returned to ruSSotron
+ruSSotron collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Thyssen990
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: paramourx (small blind) folded before Flop
+Seat 3: BGS013 (big blind) folded before Flop
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron collected ($2.50)
+
+
+
+PokerStars Hand #254610626432:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:23:18 WET [2025/01/29 14:23:18 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($169.53 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 3: BGS013 ($100 in chips) 
+Seat 4: AndreaBsAs ($110.16 in chips) 
+Seat 5: ruSSotron ($112.52 in chips) 
+Seat 6: Thyssen990 ($83.64 in chips) 
+BGS013: posts small blind $0.50
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: folds 
+BGS013: raises $2 to $3
+AndreaBsAs: folds 
+Uncalled bet ($2) returned to BGS013
+BGS013 collected $2 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx (button) folded before Flop (didn't bet)
+Seat 3: BGS013 (small blind) collected ($2)
+Seat 4: AndreaBsAs (big blind) folded before Flop
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610635236:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:23:49 WET [2025/01/29 14:23:49 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($169.53 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 3: BGS013 ($101 in chips) 
+Seat 4: AndreaBsAs ($109.16 in chips) 
+Seat 5: ruSSotron ($112.52 in chips) 
+Seat 6: Thyssen990 ($83.64 in chips) 
+AndreaBsAs: posts small blind $0.50
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: raises $2 to $3
+BGS013: folds 
+AndreaBsAs: folds 
+ruSSotron: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx collected ($2.50)
+Seat 3: BGS013 (button) folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (small blind) folded before Flop
+Seat 5: ruSSotron (big blind) folded before Flop
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610643946:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:24:19 WET [2025/01/29 14:24:19 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($169.53 in chips) 
+Seat 2: paramourx ($106.38 in chips) 
+Seat 3: BGS013 ($101 in chips) 
+Seat 4: AndreaBsAs ($108.66 in chips) 
+Seat 5: ruSSotron ($111.52 in chips) 
+Seat 6: Thyssen990 ($83.64 in chips) 
+ruSSotron: posts small blind $0.50
+Thyssen990: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+paramourx: folds 
+BGS013: folds 
+AndreaBsAs has timed out
+AndreaBsAs: folds 
+ruSSotron: raises $2 to $3
+Thyssen990: calls $2
+*** FLOP *** [Ts 4d 7c]
+ruSSotron: checks 
+Thyssen990: bets $1
+ruSSotron: calls $1
+*** TURN *** [Ts 4d 7c] [Jd]
+ruSSotron: checks 
+Thyssen990: checks 
+*** RIVER *** [Ts 4d 7c Jd] [8d]
+ruSSotron: checks 
+Thyssen990: checks 
+*** SHOW DOWN ***
+ruSSotron: shows [Ac 5d] (high card Ace)
+Thyssen990: shows [Qs 4s] (a pair of Fours)
+Thyssen990 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Ts 4d 7c Jd 8d]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: BGS013 folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 5: ruSSotron (small blind) showed [Ac 5d] and lost with high card Ace
+Seat 6: Thyssen990 (big blind) showed [Qs 4s] and won ($7.60) with a pair of Fours
+
+
+
+PokerStars Hand #254610658000:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:25:09 WET [2025/01/29 14:25:09 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($169.53 in chips) 
+Seat 2: paramourx ($106.38 in chips) 
+Seat 3: BGS013 ($101 in chips) 
+Seat 4: AndreaBsAs ($108.66 in chips) 
+Seat 5: ruSSotron ($107.52 in chips) 
+Seat 6: Thyssen990 ($87.24 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+BGS013: raises $1 to $2
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: calls $1.50
+poker_soul11: calls $1
+*** FLOP *** [3h 3d Kc]
+Thyssen990: checks 
+poker_soul11: checks 
+BGS013: bets $1.48
+Thyssen990: folds 
+poker_soul11: calls $1.48
+*** TURN *** [3h 3d Kc] [Js]
+poker_soul11: checks 
+BGS013: checks 
+*** RIVER *** [3h 3d Kc Js] [6h]
+poker_soul11: bets $6.38
+BGS013: folds 
+Uncalled bet ($6.38) returned to poker_soul11
+poker_soul11 collected $8.51 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.96 | Rake $0.45 
+Board [3h 3d Kc Js 6h]
+Seat 1: poker_soul11 (big blind) collected ($8.51)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: BGS013 folded on the River
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron (button) folded before Flop (didn't bet)
+Seat 6: Thyssen990 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254610678702:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:26:20 WET [2025/01/29 14:26:20 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($174.56 in chips) 
+Seat 2: paramourx ($106.38 in chips) 
+Seat 3: BGS013 ($100 in chips) 
+Seat 4: AndreaBsAs ($108.66 in chips) 
+Seat 5: ruSSotron ($107.52 in chips) 
+Seat 6: Thyssen990 ($85.24 in chips) 
+poker_soul11: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+BGS013: raises $1 to $2
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: raises $8.50 to $10.50
+paramourx: folds 
+BGS013: folds 
+Uncalled bet ($8.50) returned to poker_soul11
+poker_soul11 collected $5 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: poker_soul11 (small blind) collected ($5)
+Seat 2: paramourx (big blind) folded before Flop
+Seat 3: BGS013 folded before Flop
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610686229:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:26:46 WET [2025/01/29 14:26:46 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($177.56 in chips) 
+Seat 2: paramourx ($105.38 in chips) 
+Seat 3: BGS013 ($100 in chips) 
+Seat 4: AndreaBsAs ($108.66 in chips) 
+Seat 5: ruSSotron ($107.52 in chips) 
+Seat 6: Thyssen990 ($85.24 in chips) 
+paramourx: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: raises $2 to $3
+poker_soul11: folds 
+paramourx: folds 
+BGS013: folds 
+Uncalled bet ($2) returned to Thyssen990
+Thyssen990 collected $2.50 from pot
+Thyssen990: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: paramourx (small blind) folded before Flop
+Seat 3: BGS013 (big blind) folded before Flop
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 collected ($2.50)
+
+
+
+PokerStars Hand #254610693867:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:27:13 WET [2025/01/29 14:27:13 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($177.56 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 3: BGS013 ($100 in chips) 
+Seat 4: AndreaBsAs ($108.66 in chips) 
+Seat 5: ruSSotron ($107.52 in chips) 
+Seat 6: Thyssen990 ($86.74 in chips) 
+BGS013: posts small blind $0.50
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: raises $1.20 to $2.20
+paramourx: folds 
+BGS013: folds 
+AndreaBsAs: calls $1.20
+*** FLOP *** [Th 3h 9d]
+AndreaBsAs: checks 
+poker_soul11: checks 
+*** TURN *** [Th 3h 9d] [8c]
+AndreaBsAs: bets $3.59
+poker_soul11: folds 
+Uncalled bet ($3.59) returned to AndreaBsAs
+AndreaBsAs collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Th 3h 9d 8c]
+Seat 1: poker_soul11 folded on the Turn
+Seat 2: paramourx (button) folded before Flop (didn't bet)
+Seat 3: BGS013 (small blind) folded before Flop
+Seat 4: AndreaBsAs (big blind) collected ($4.66)
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610706668:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:27:58 WET [2025/01/29 14:27:58 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($175.36 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 3: BGS013 ($100 in chips) 
+Seat 4: AndreaBsAs ($111.12 in chips) 
+Seat 5: ruSSotron ($107.52 in chips) 
+Seat 6: Thyssen990 ($86.74 in chips) 
+AndreaBsAs: posts small blind $0.50
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: folds 
+BGS013: folds 
+AndreaBsAs: raises $2 to $3
+ruSSotron: calls $2
+*** FLOP *** [Ad Ks 6c]
+AndreaBsAs: bets $1.88
+ruSSotron: calls $1.88
+*** TURN *** [Ad Ks 6c] [5c]
+AndreaBsAs: checks 
+ruSSotron: bets $4.64
+AndreaBsAs: calls $4.64
+*** RIVER *** [Ad Ks 6c 5c] [Jc]
+AndreaBsAs: checks 
+ruSSotron: bets $14.50
+AndreaBsAs: folds 
+Uncalled bet ($14.50) returned to ruSSotron
+ruSSotron collected $18.09 from pot
+*** SUMMARY ***
+Total pot $19.04 | Rake $0.95 
+Board [Ad Ks 6c 5c Jc]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: BGS013 (button) folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (small blind) folded on the River
+Seat 5: ruSSotron (big blind) collected ($18.09)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610728546:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:29:15 WET [2025/01/29 14:29:15 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($175.36 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 3: BGS013 ($100 in chips) 
+Seat 4: AndreaBsAs ($101.60 in chips) 
+Seat 5: ruSSotron ($116.09 in chips) 
+Seat 6: Thyssen990 ($86.74 in chips) 
+ruSSotron: posts small blind $0.50
+Thyssen990: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+paramourx: folds 
+BGS013: raises $1.50 to $2.50
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: folds 
+Uncalled bet ($1.50) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: BGS013 collected ($2.50)
+Seat 4: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 5: ruSSotron (small blind) folded before Flop
+Seat 6: Thyssen990 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254610732520:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:29:29 WET [2025/01/29 14:29:29 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($175.36 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 3: BGS013 ($101.50 in chips) 
+Seat 4: AndreaBsAs ($101.60 in chips) 
+Seat 5: ruSSotron ($115.59 in chips) 
+Seat 6: Thyssen990 ($85.74 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+BGS013: raises $1 to $2
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+Uncalled bet ($1) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 (big blind) folded before Flop
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: BGS013 collected ($2.50)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron (button) folded before Flop (didn't bet)
+Seat 6: Thyssen990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254610744537:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:30:09 WET [2025/01/29 14:30:09 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($174.36 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 3: BGS013 ($103 in chips) 
+Seat 4: AndreaBsAs ($101.60 in chips) 
+Seat 5: ruSSotron ($115.59 in chips) 
+Seat 6: Thyssen990 ($85.24 in chips) 
+poker_soul11: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+AndreaBsAs: folds 
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: raises $2 to $3
+paramourx: folds 
+Uncalled bet ($2) returned to poker_soul11
+BGS013 leaves the table
+poker_soul11 collected $2 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: poker_soul11 (small blind) collected ($2)
+Seat 2: paramourx (big blind) folded before Flop
+Seat 3: BGS013 folded before Flop (didn't bet)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610753916:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:30:42 WET [2025/01/29 14:30:42 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($175.36 in chips) 
+Seat 2: paramourx ($103.88 in chips) 
+Seat 4: AndreaBsAs ($101.60 in chips) 
+Seat 5: ruSSotron ($115.59 in chips) 
+Seat 6: Thyssen990 ($85.24 in chips) 
+paramourx: posts small blind $0.50
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: raises $2 to $3
+AndreaBsAs: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: paramourx (small blind) collected ($2)
+Seat 4: AndreaBsAs (big blind) folded before Flop
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610757939:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:30:56 WET [2025/01/29 14:30:56 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($175.36 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 4: AndreaBsAs ($100.60 in chips) 
+Seat 5: ruSSotron ($115.59 in chips) 
+Seat 6: Thyssen990 ($85.24 in chips) 
+AndreaBsAs: posts small blind $0.50
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: folds 
+AndreaBsAs: raises $2 to $3
+ruSSotron: calls $2
+*** FLOP *** [6h 7c Jd]
+AndreaBsAs: bets $1.88
+laloo246 joins the table at seat #3 
+ruSSotron: raises $4.73 to $6.61
+laloo246 leaves the table
+AndreaBsAs: folds 
+Uncalled bet ($4.73) returned to ruSSotron
+ruSSotron collected $9.27 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [6h 7c Jd]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx (button) folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (small blind) folded on the Flop
+Seat 5: ruSSotron (big blind) collected ($9.27)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610767907:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:31:29 WET [2025/01/29 14:31:29 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($175.36 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($119.98 in chips) 
+Seat 6: Thyssen990 ($85.24 in chips) 
+ruSSotron: posts small blind $0.50
+Thyssen990: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+paramourx: folds 
+AndreaBsAs: folds 
+ruSSotron: folds 
+Uncalled bet ($0.50) returned to Thyssen990
+Thyssen990 collected $1 from pot
+Thyssen990: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 5: ruSSotron (small blind) folded before Flop
+Seat 6: Thyssen990 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254610770603:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:31:39 WET [2025/01/29 14:31:39 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($175.36 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($119.48 in chips) 
+Seat 6: Thyssen990 ($85.74 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+AndreaBsAs: folds 
+ruSSotron: raises $1.50 to $2.50
+Thyssen990: calls $2
+poker_soul11: raises $11 to $13.50
+ruSSotron: folds 
+Thyssen990: folds 
+Uncalled bet ($11) returned to poker_soul11
+poker_soul11 collected $7.50 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: poker_soul11 (big blind) collected ($7.50)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron (button) folded before Flop
+Seat 6: Thyssen990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254610785591:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:32:30 WET [2025/01/29 14:32:30 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($180.36 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 4: AndreaBsAs ($100 in chips) 
+Seat 5: ruSSotron ($116.98 in chips) 
+Seat 6: Thyssen990 ($83.24 in chips) 
+poker_soul11: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+AndreaBsAs: raises $1.20 to $2.20
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: folds 
+Uncalled bet ($1.20) returned to AndreaBsAs
+AndreaBsAs collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: paramourx (big blind) folded before Flop
+Seat 4: AndreaBsAs collected ($2.50)
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610789761:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:32:45 WET [2025/01/29 14:32:45 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($179.86 in chips) 
+Seat 2: paramourx ($103.88 in chips) 
+Seat 4: AndreaBsAs ($101.50 in chips) 
+Seat 5: ruSSotron ($116.98 in chips) 
+Seat 6: Thyssen990 ($83.24 in chips) 
+paramourx: posts small blind $0.50
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+ruSSotron: folds 
+Thyssen990: folds 
+poker_soul11: raises $1.20 to $2.20
+paramourx: folds 
+AndreaBsAs: calls $1.20
+*** FLOP *** [Th Ah 7c]
+AndreaBsAs: checks 
+poker_soul11: checks 
+*** TURN *** [Th Ah 7c] [7d]
+BGS013 joins the table at seat #3 
+AndreaBsAs: checks 
+poker_soul11: bets $1.54
+AndreaBsAs: calls $1.54
+*** RIVER *** [Th Ah 7c 7d] [8h]
+AndreaBsAs: checks 
+poker_soul11: checks 
+*** SHOW DOWN ***
+AndreaBsAs: shows [4h 5h] (a flush, Ace high)
+poker_soul11: mucks hand 
+AndreaBsAs collected $7.58 from pot
+*** SUMMARY ***
+Total pot $7.98 | Rake $0.40 
+Board [Th Ah 7c 7d 8h]
+Seat 1: poker_soul11 (button) mucked
+Seat 2: paramourx (small blind) folded before Flop
+Seat 4: AndreaBsAs (big blind) showed [4h 5h] and won ($7.58) with a flush, Ace high
+Seat 5: ruSSotron folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610804846:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:33:37 WET [2025/01/29 14:33:37 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 3: BGS013 ($103 in chips) is sitting out
+Seat 1: poker_soul11 ($176.12 in chips) 
+Seat 2: paramourx ($103.38 in chips) 
+Seat 4: AndreaBsAs ($105.34 in chips) 
+Seat 5: ruSSotron ($116.98 in chips) 
+Seat 6: Thyssen990 ($83.24 in chips) 
+AndreaBsAs: posts small blind $0.50
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+paramourx: folds 
+AndreaBsAs: raises $2 to $3
+ruSSotron: calls $2
+*** FLOP *** [6s 8c Ah]
+AndreaBsAs: checks 
+ruSSotron: checks 
+*** TURN *** [6s 8c Ah] [5d]
+AndreaBsAs: checks 
+ruSSotron: checks 
+*** RIVER *** [6s 8c Ah 5d] [Ac]
+AndreaBsAs: checks 
+ruSSotron: checks 
+*** SHOW DOWN ***
+AndreaBsAs: shows [Th 8h] (two pair, Aces and Eights)
+ruSSotron: mucks hand 
+AndreaBsAs collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6s 8c Ah 5d Ac]
+Seat 3: BGS013
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx (button) folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (small blind) showed [Th 8h] and won ($5.70) with two pair, Aces and Eights
+Seat 5: ruSSotron (big blind) mucked
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610827383:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:34:54 WET [2025/01/29 14:34:54 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 3: BGS013 ($103 in chips) is sitting out
+Seat 6: Thyssen990 ($83.24 in chips) is sitting out
+Seat 1: poker_soul11 ($176.12 in chips) 
+Seat 2: paramourx ($103.38 in chips) 
+Seat 4: AndreaBsAs ($108.04 in chips) 
+Seat 5: ruSSotron ($113.98 in chips) 
+ruSSotron: posts small blind $0.50
+poker_soul11: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+paramourx: folds 
+AndreaBsAs: folds 
+ruSSotron: folds 
+Uncalled bet ($0.50) returned to poker_soul11
+poker_soul11 collected $1 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: BGS013
+Seat 6: Thyssen990
+Seat 1: poker_soul11 (big blind) collected ($1)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 4: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 5: ruSSotron (small blind) folded before Flop
+
+
+
+PokerStars Hand #254610830937:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:35:07 WET [2025/01/29 14:35:07 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 3: BGS013 ($103 in chips) is sitting out
+Seat 6: Thyssen990 ($83.24 in chips) is sitting out
+Seat 1: poker_soul11 ($176.62 in chips) 
+Seat 2: paramourx ($103.38 in chips) 
+Seat 4: AndreaBsAs ($108.04 in chips) 
+Seat 5: ruSSotron ($113.48 in chips) 
+poker_soul11: posts small blind $0.50
+paramourx: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+AndreaBsAs: folds 
+ruSSotron: folds 
+poker_soul11: folds 
+Uncalled bet ($0.50) returned to paramourx
+paramourx collected $1 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: BGS013
+Seat 6: Thyssen990
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: paramourx (big blind) collected ($1)
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610835221:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:35:21 WET [2025/01/29 14:35:21 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 6: Thyssen990 ($83.24 in chips) is sitting out
+Seat 1: poker_soul11 ($176.12 in chips) 
+Seat 2: paramourx ($103.88 in chips) 
+Seat 3: BGS013 ($103 in chips) 
+Seat 4: AndreaBsAs ($108.04 in chips) 
+Seat 5: ruSSotron ($113.48 in chips) 
+paramourx: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+AndreaBsAs: folds 
+ruSSotron: folds 
+poker_soul11: folds 
+paramourx: raises $2 to $3
+BGS013: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: Thyssen990
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: paramourx (small blind) collected ($2)
+Seat 3: BGS013 (big blind) folded before Flop
+Seat 4: AndreaBsAs folded before Flop (didn't bet)
+Seat 5: ruSSotron folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610839478:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:35:36 WET [2025/01/29 14:35:36 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 4: AndreaBsAs ($108.04 in chips) is sitting out
+Seat 6: Thyssen990 ($83.24 in chips) is sitting out
+Seat 1: poker_soul11 ($176.12 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 3: BGS013 ($102 in chips) 
+Seat 5: ruSSotron ($113.48 in chips) 
+BGS013: posts small blind $0.50
+AndreaBsAs: is sitting out 
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+paramourx: folds 
+BGS013: folds 
+Uncalled bet ($0.50) returned to ruSSotron
+ruSSotron collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: AndreaBsAs
+Seat 6: Thyssen990
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx (button) folded before Flop (didn't bet)
+Seat 3: BGS013 (small blind) folded before Flop
+Seat 5: ruSSotron (big blind) collected ($1)
+
+
+
+PokerStars Hand #254610841778:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:35:44 WET [2025/01/29 14:35:44 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 4: AndreaBsAs ($108.04 in chips) is sitting out
+Seat 6: Thyssen990 ($83.24 in chips) is sitting out
+Seat 1: poker_soul11 ($176.12 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 3: BGS013 ($101.50 in chips) 
+Seat 5: ruSSotron ($113.98 in chips) 
+ruSSotron: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+BGS013: folds 
+ruSSotron: raises $2 to $3
+poker_soul11: calls $2
+*** FLOP *** [Qh Jc Kc]
+ruSSotron: checks 
+poker_soul11: checks 
+*** TURN *** [Qh Jc Kc] [5d]
+ruSSotron: checks 
+poker_soul11: checks 
+*** RIVER *** [Qh Jc Kc 5d] [Kd]
+ruSSotron: checks 
+poker_soul11: bets $2.85
+ruSSotron: calls $2.85
+*** SHOW DOWN ***
+poker_soul11: shows [7s 8s] (a pair of Kings)
+ruSSotron: shows [9d Jd] (two pair, Kings and Jacks)
+ruSSotron collected $11.12 from pot
+*** SUMMARY ***
+Total pot $11.70 | Rake $0.58 
+Board [Qh Jc Kc 5d Kd]
+Seat 4: AndreaBsAs
+Seat 6: Thyssen990
+Seat 1: poker_soul11 (big blind) showed [7s 8s] and lost with a pair of Kings
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: BGS013 (button) folded before Flop (didn't bet)
+Seat 5: ruSSotron (small blind) showed [9d Jd] and won ($11.12) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #254610854413:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:36:27 WET [2025/01/29 14:36:27 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 4: AndreaBsAs ($108.04 in chips) is sitting out
+Seat 6: Thyssen990 ($83.24 in chips) is sitting out
+Seat 1: poker_soul11 ($170.27 in chips) 
+Seat 2: paramourx ($104.88 in chips) 
+Seat 3: BGS013 ($101.50 in chips) 
+Seat 5: ruSSotron ($119.25 in chips) 
+poker_soul11: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+ruSSotron: raises $1.50 to $2.50
+poker_soul11: folds 
+paramourx: calls $1.50
+*** FLOP *** [8c Jc Qd]
+paramourx: checks 
+ruSSotron: bets $1.72
+paramourx: calls $1.72
+*** TURN *** [8c Jc Qd] [3c]
+paramourx: checks 
+ruSSotron: checks 
+*** RIVER *** [8c Jc Qd 3c] [9h]
+paramourx: checks 
+ruSSotron: bets $6.37
+paramourx: calls $6.37
+*** SHOW DOWN ***
+ruSSotron: shows [Ks Th] (a straight, Nine to King)
+paramourx: mucks hand 
+ruSSotron collected $20.68 from pot
+*** SUMMARY ***
+Total pot $21.68 | Rake $1 
+Board [8c Jc Qd 3c 9h]
+Seat 4: AndreaBsAs
+Seat 6: Thyssen990
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: paramourx (big blind) mucked
+Seat 3: BGS013 folded before Flop (didn't bet)
+Seat 5: ruSSotron (button) showed [Ks Th] and won ($20.68) with a straight, Nine to King
+
+
+
+PokerStars Hand #254610873798:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:37:34 WET [2025/01/29 14:37:34 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 4: AndreaBsAs ($108.04 in chips) is sitting out
+Seat 6: Thyssen990 ($83.24 in chips) is sitting out
+Seat 1: poker_soul11 ($169.77 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: BGS013 ($101.50 in chips) 
+Seat 5: ruSSotron ($129.34 in chips) 
+paramourx: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+ruSSotron: folds 
+poker_soul11: folds 
+paramourx: folds 
+Uncalled bet ($0.50) returned to BGS013
+BGS013 collected $1 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: AndreaBsAs
+Seat 6: Thyssen990
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: paramourx (small blind) folded before Flop
+Seat 3: BGS013 (big blind) collected ($1)
+Seat 5: ruSSotron folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610876253:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:37:42 WET [2025/01/29 14:37:42 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 4: AndreaBsAs ($108.04 in chips) is sitting out
+Seat 6: Thyssen990 ($83.24 in chips) is sitting out
+Seat 1: poker_soul11 ($169.77 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: BGS013 ($102 in chips) 
+Seat 5: ruSSotron ($129.34 in chips) 
+BGS013: posts small blind $0.50
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+paramourx: folds 
+BGS013: raises $2 to $3
+ruSSotron: calls $2
+*** FLOP *** [Ah Qs 5d]
+BGS013: checks 
+ruSSotron: checks 
+*** TURN *** [Ah Qs 5d] [Ac]
+BGS013: bets $1.48
+ruSSotron: folds 
+Uncalled bet ($1.48) returned to BGS013
+BGS013 collected $5.70 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ah Qs 5d Ac]
+Seat 4: AndreaBsAs
+Seat 6: Thyssen990
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: paramourx (button) folded before Flop (didn't bet)
+Seat 3: BGS013 (small blind) collected ($5.70)
+Seat 5: ruSSotron (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254610885119:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:38:13 WET [2025/01/29 14:38:13 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 4: AndreaBsAs ($108.04 in chips) is sitting out
+Seat 6: Thyssen990 ($83.24 in chips) is sitting out
+Seat 1: poker_soul11 ($169.77 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: BGS013 ($104.70 in chips) 
+Seat 5: ruSSotron ($126.34 in chips) 
+ruSSotron: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+paramourx: raises $2 to $3
+BGS013: folds 
+ruSSotron: folds 
+poker_soul11: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: AndreaBsAs
+Seat 6: Thyssen990
+Seat 1: poker_soul11 (big blind) folded before Flop
+Seat 2: paramourx collected ($2.50)
+Seat 3: BGS013 (button) folded before Flop (didn't bet)
+Seat 5: ruSSotron (small blind) folded before Flop
+
+
+
+PokerStars Hand #254611022197:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:46:05 WET [2025/01/29 14:46:05 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($166.73 in chips) 
+Seat 2: BoyLoc0 ($100.18 in chips) 
+Seat 3: paramourx ($108 in chips) 
+Seat 4: erpaye ($100 in chips) 
+Seat 5: AndreaBsAs ($105.34 in chips) 
+Seat 6: Thyssen990 ($121.67 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+paramourx: folds 
+erpaye: calls $2.50
+AndreaBsAs: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+*** FLOP *** [5d Ts 4h]
+BoyLoc0: checks 
+erpaye: checks 
+*** TURN *** [5d Ts 4h] [9s]
+BoyLoc0: checks 
+erpaye: checks 
+*** RIVER *** [5d Ts 4h 9s] [4d]
+BoyLoc0: bets $2.04
+erpaye: calls $2.04
+*** SHOW DOWN ***
+BoyLoc0: shows [8s 8c] (two pair, Eights and Fours)
+erpaye: mucks hand 
+BoyLoc0 collected $10.05 from pot
+*** SUMMARY ***
+Total pot $10.58 | Rake $0.53 
+Board [5d Ts 4h 9s 4d]
+Seat 1: poker_soul11 (big blind) folded before Flop
+Seat 2: BoyLoc0 showed [8s 8c] and won ($10.05) with two pair, Eights and Fours
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye mucked
+Seat 5: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 6: Thyssen990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254611038936:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:47:02 WET [2025/01/29 14:47:02 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($165.73 in chips) 
+Seat 2: BoyLoc0 ($105.69 in chips) 
+Seat 3: paramourx ($108 in chips) 
+Seat 4: erpaye ($100 in chips) 
+Seat 5: AndreaBsAs ($105.34 in chips) 
+Seat 6: Thyssen990 ($121.17 in chips) 
+poker_soul11: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+erpaye: raises $1.10 to $2.10
+AndreaBsAs: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+BoyLoc0: folds 
+Uncalled bet ($1.10) returned to erpaye
+erpaye collected $2.50 from pot
+erpaye: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) folded before Flop
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye collected ($2.50)
+Seat 5: AndreaBsAs folded before Flop (didn't bet)
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611047009:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:47:29 WET [2025/01/29 14:47:29 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($165.23 in chips) 
+Seat 2: BoyLoc0 ($104.69 in chips) 
+Seat 3: paramourx ($108 in chips) 
+Seat 4: erpaye ($101.50 in chips) 
+Seat 5: AndreaBsAs ($105.34 in chips) 
+Seat 6: Thyssen990 ($121.17 in chips) 
+BoyLoc0: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+erpaye: raises $1.10 to $2.10
+AndreaBsAs: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+BoyLoc0: raises $7.90 to $10
+paramourx: folds 
+erpaye: folds 
+Uncalled bet ($7.90) returned to BoyLoc0
+BoyLoc0 collected $5.20 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.20 | Rake $0 
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) collected ($5.20)
+Seat 3: paramourx (big blind) folded before Flop
+Seat 4: erpaye folded before Flop
+Seat 5: AndreaBsAs folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611052575:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:47:49 WET [2025/01/29 14:47:49 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($165.23 in chips) 
+Seat 2: BoyLoc0 ($107.79 in chips) 
+Seat 3: paramourx ($107 in chips) 
+Seat 4: erpaye ($100 in chips) 
+Seat 5: AndreaBsAs ($105.34 in chips) 
+Seat 6: Thyssen990 ($121.17 in chips) 
+paramourx: posts small blind $0.50
+erpaye: posts big blind $1
+*** HOLE CARDS ***
+AndreaBsAs: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+BoyLoc0: raises $1.50 to $2.50
+paramourx: folds 
+erpaye: raises $10 to $12.50
+BoyLoc0: folds 
+Uncalled bet ($10) returned to erpaye
+erpaye collected $5.50 from pot
+erpaye: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded before Flop
+Seat 3: paramourx (small blind) folded before Flop
+Seat 4: erpaye (big blind) collected ($5.50)
+Seat 5: AndreaBsAs folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611060827:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:48:18 WET [2025/01/29 14:48:18 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($165.23 in chips) 
+Seat 2: BoyLoc0 ($105.29 in chips) 
+Seat 3: paramourx ($106.50 in chips) 
+Seat 4: erpaye ($103 in chips) 
+Seat 5: AndreaBsAs ($105.34 in chips) 
+Seat 6: Thyssen990 ($121.17 in chips) 
+erpaye: posts small blind $0.50
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+BoyLoc0: folds 
+paramourx: raises $2 to $3
+erpaye: raises $10 to $13
+AndreaBsAs: folds 
+paramourx: calls $10
+*** FLOP *** [Js 5s Ts]
+erpaye: bets $8.46
+paramourx: folds 
+Uncalled bet ($8.46) returned to erpaye
+erpaye collected $25.65 from pot
+erpaye: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.35 
+Board [Js 5s Ts]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx (button) folded on the Flop
+Seat 4: erpaye (small blind) collected ($25.65)
+Seat 5: AndreaBsAs (big blind) folded before Flop
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611078641:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:49:19 WET [2025/01/29 14:49:19 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($165.23 in chips) 
+Seat 2: BoyLoc0 ($105.29 in chips) 
+Seat 3: paramourx ($100 in chips) 
+Seat 4: erpaye ($115.65 in chips) 
+Seat 5: AndreaBsAs ($104.34 in chips) 
+Seat 6: Thyssen990 ($121.17 in chips) 
+AndreaBsAs: posts small blind $0.50
+Thyssen990: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+BoyLoc0: folds 
+paramourx: folds 
+erpaye: raises $1.30 to $2.30
+AndreaBsAs: raises $7.70 to $10
+Thyssen990: folds 
+erpaye: folds 
+Uncalled bet ($7.70) returned to AndreaBsAs
+AndreaBsAs collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.60 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye (button) folded before Flop
+Seat 5: AndreaBsAs (small blind) collected ($5.60)
+Seat 6: Thyssen990 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254611089981:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:49:58 WET [2025/01/29 14:49:58 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($165.23 in chips) 
+Seat 2: BoyLoc0 ($105.29 in chips) 
+Seat 3: paramourx ($100 in chips) 
+Seat 4: erpaye ($113.35 in chips) 
+Seat 5: AndreaBsAs ($107.64 in chips) 
+Seat 6: Thyssen990 ($120.17 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+paramourx: folds 
+erpaye: raises $1.10 to $2.10
+AndreaBsAs: folds 
+Thyssen990: folds 
+poker_soul11: calls $1.10
+*** FLOP *** [Jc Th 3s]
+poker_soul11: checks 
+erpaye: bets $2.94
+poker_soul11: folds 
+Uncalled bet ($2.94) returned to erpaye
+erpaye collected $4.46 from pot
+erpaye: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.70 | Rake $0.24 
+Board [Jc Th 3s]
+Seat 1: poker_soul11 (big blind) folded on the Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye collected ($4.46)
+Seat 5: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 6: Thyssen990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254611109129:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:51:04 WET [2025/01/29 14:51:04 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($163.13 in chips) 
+Seat 2: BoyLoc0 ($105.29 in chips) 
+Seat 3: paramourx ($100 in chips) 
+Seat 4: erpaye ($115.71 in chips) 
+Seat 5: AndreaBsAs ($107.64 in chips) 
+Seat 6: Thyssen990 ($119.67 in chips) 
+poker_soul11: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+erpaye: folds 
+AndreaBsAs: folds 
+Thyssen990: folds 
+poker_soul11: raises $2 to $3
+BoyLoc0: raises $7 to $10
+poker_soul11: folds 
+Uncalled bet ($7) returned to BoyLoc0
+BoyLoc0 collected $6 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) collected ($6)
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye folded before Flop (didn't bet)
+Seat 5: AndreaBsAs folded before Flop (didn't bet)
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611119104:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:51:38 WET [2025/01/29 14:51:38 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($160.13 in chips) 
+Seat 2: BoyLoc0 ($108.29 in chips) 
+Seat 3: paramourx ($100 in chips) 
+Seat 4: erpaye ($115.71 in chips) 
+Seat 5: AndreaBsAs ($107.64 in chips) 
+Seat 6: Thyssen990 ($119.67 in chips) 
+BoyLoc0: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+erpaye: folds 
+AndreaBsAs: folds 
+Thyssen990: raises $2 to $3
+poker_soul11: folds 
+BoyLoc0: raises $9 to $12
+paramourx: folds 
+Thyssen990: calls $9
+*** FLOP *** [3s Qc 8h]
+BoyLoc0: bets $11.88
+Thyssen990: folds 
+Uncalled bet ($11.88) returned to BoyLoc0
+BoyLoc0 collected $23.75 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [3s Qc 8h]
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) collected ($23.75)
+Seat 3: paramourx (big blind) folded before Flop
+Seat 4: erpaye folded before Flop (didn't bet)
+Seat 5: AndreaBsAs folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded on the Flop
+
+
+
+PokerStars Hand #254611138314:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:52:44 WET [2025/01/29 14:52:44 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($160.13 in chips) 
+Seat 2: BoyLoc0 ($120.04 in chips) 
+Seat 3: paramourx ($100 in chips) 
+Seat 4: erpaye ($115.71 in chips) 
+Seat 5: AndreaBsAs ($107.64 in chips) 
+Seat 6: Thyssen990 ($107.67 in chips) 
+paramourx: posts small blind $0.50
+erpaye: posts big blind $1
+*** HOLE CARDS ***
+AndreaBsAs: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+BoyLoc0: folds 
+paramourx: raises $2 to $3
+erpaye: raises $7 to $10
+paramourx: folds 
+Uncalled bet ($7) returned to erpaye
+erpaye collected $6 from pot
+erpaye: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: paramourx (small blind) folded before Flop
+Seat 4: erpaye (big blind) collected ($6)
+Seat 5: AndreaBsAs folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611146763:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:53:14 WET [2025/01/29 14:53:14 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($160.13 in chips) 
+Seat 2: BoyLoc0 ($120.04 in chips) 
+Seat 3: paramourx ($100 in chips) 
+Seat 4: erpaye ($118.71 in chips) 
+Seat 5: AndreaBsAs ($107.64 in chips) 
+Seat 6: Thyssen990 ($107.67 in chips) 
+erpaye: posts small blind $0.50
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: folds 
+BoyLoc0: folds 
+paramourx: raises $2 to $3
+erpaye: folds 
+AndreaBsAs: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx (button) collected ($2.50)
+Seat 4: erpaye (small blind) folded before Flop
+Seat 5: AndreaBsAs (big blind) folded before Flop
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611151078:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:53:29 WET [2025/01/29 14:53:29 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($160.13 in chips) 
+Seat 2: BoyLoc0 ($120.04 in chips) 
+Seat 3: paramourx ($101.50 in chips) 
+Seat 4: erpaye ($118.21 in chips) 
+Seat 5: AndreaBsAs ($106.64 in chips) 
+Seat 6: Thyssen990 ($107.67 in chips) 
+AndreaBsAs: posts small blind $0.50
+Thyssen990: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+BoyLoc0: folds 
+paramourx: folds 
+erpaye: raises $1.30 to $2.30
+AndreaBsAs: folds 
+Thyssen990: calls $1.30
+*** FLOP *** [4c 5h Kc]
+Thyssen990: checks 
+erpaye: bets $1.45
+Thyssen990: calls $1.45
+*** TURN *** [4c 5h Kc] [8d]
+Thyssen990: checks 
+erpaye: checks 
+*** RIVER *** [4c 5h Kc 8d] [6c]
+Thyssen990: bets $3
+erpaye: folds 
+Uncalled bet ($3) returned to Thyssen990
+Thyssen990 collected $7.60 from pot
+Thyssen990: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [4c 5h Kc 8d 6c]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye (button) folded on the River
+Seat 5: AndreaBsAs (small blind) folded before Flop
+Seat 6: Thyssen990 (big blind) collected ($7.60)
+
+
+
+PokerStars Hand #254611167104:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:54:25 WET [2025/01/29 14:54:25 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($160.13 in chips) 
+Seat 2: BoyLoc0 ($120.04 in chips) 
+Seat 3: paramourx ($101.50 in chips) 
+Seat 4: erpaye ($114.46 in chips) 
+Seat 5: AndreaBsAs ($106.14 in chips) 
+Seat 6: Thyssen990 ($111.52 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+paramourx: folds 
+erpaye: folds 
+AndreaBsAs: raises $1.50 to $2.50
+Thyssen990: folds 
+poker_soul11: raises $9.50 to $12
+AndreaBsAs: raises $13 to $25
+poker_soul11: calls $13
+*** FLOP *** [Ks 3d Qc]
+poker_soul11: checks 
+AndreaBsAs: bets $10.10
+poker_soul11: folds 
+Uncalled bet ($10.10) returned to AndreaBsAs
+AndreaBsAs collected $48 from pot
+*** SUMMARY ***
+Total pot $50.50 | Rake $2.50 
+Board [Ks 3d Qc]
+Seat 1: poker_soul11 (big blind) folded on the Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye folded before Flop (didn't bet)
+Seat 5: AndreaBsAs (button) collected ($48)
+Seat 6: Thyssen990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254611185224:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:55:39 WET [2025/01/29 14:55:39 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 1: poker_soul11 ($135.13 in chips) 
+Seat 2: BoyLoc0 ($120.04 in chips) 
+Seat 3: paramourx ($101.50 in chips) 
+Seat 4: erpaye ($114.46 in chips) 
+Seat 5: AndreaBsAs ($129.14 in chips) 
+Seat 6: Thyssen990 ($111.02 in chips) 
+poker_soul11: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+erpaye: folds 
+AndreaBsAs: raises $1.50 to $2.50
+Thyssen990: raises $4.50 to $7
+poker_soul11: folds 
+BoyLoc0: folds 
+AndreaBsAs: folds 
+Uncalled bet ($4.50) returned to Thyssen990
+Thyssen990 collected $6.50 from pot
+Thyssen990: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: poker_soul11 (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) folded before Flop
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye folded before Flop (didn't bet)
+Seat 5: AndreaBsAs folded before Flop
+Seat 6: Thyssen990 (button) collected ($6.50)
+
+
+
+PokerStars Hand #254611190910:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:56:08 WET [2025/01/29 14:56:08 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 1: poker_soul11 ($134.63 in chips) 
+Seat 2: BoyLoc0 ($119.04 in chips) 
+Seat 3: paramourx ($101.50 in chips) 
+Seat 4: erpaye ($114.46 in chips) 
+Seat 5: AndreaBsAs ($126.64 in chips) 
+Seat 6: Thyssen990 ($115.02 in chips) 
+BoyLoc0: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+erpaye: folds 
+AndreaBsAs: folds 
+Thyssen990: folds 
+poker_soul11: folds 
+BoyLoc0: raises $2 to $3
+paramourx: calls $2
+*** FLOP *** [4c 5c 7d]
+BoyLoc0: checks 
+paramourx: checks 
+*** TURN *** [4c 5c 7d] [Ks]
+BoyLoc0: checks 
+paramourx: checks 
+*** RIVER *** [4c 5c 7d Ks] [6h]
+BoyLoc0: checks 
+paramourx: checks 
+*** SHOW DOWN ***
+BoyLoc0: shows [2h 2c] (a pair of Deuces)
+paramourx: shows [7h 9c] (a pair of Sevens)
+paramourx collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4c 5c 7d Ks 6h]
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) showed [2h 2c] and lost with a pair of Deuces
+Seat 3: paramourx (big blind) showed [7h 9c] and won ($5.70) with a pair of Sevens
+Seat 4: erpaye folded before Flop (didn't bet)
+Seat 5: AndreaBsAs folded before Flop (didn't bet)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611201347:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:56:59 WET [2025/01/29 14:56:59 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 1: poker_soul11 ($134.63 in chips) 
+Seat 2: BoyLoc0 ($116.04 in chips) 
+Seat 3: paramourx ($104.20 in chips) 
+Seat 4: erpaye ($114.46 in chips) 
+Seat 5: AndreaBsAs ($126.64 in chips) 
+Seat 6: Thyssen990 ($115.02 in chips) 
+paramourx: posts small blind $0.50
+erpaye: posts big blind $1
+*** HOLE CARDS ***
+AndreaBsAs: raises $1.20 to $2.20
+Thyssen990: folds 
+poker_soul11: folds 
+BoyLoc0: folds 
+paramourx: folds 
+erpaye: calls $1.20
+*** FLOP *** [Ah Qh 9h]
+erpaye: checks 
+AndreaBsAs: bets $1.54
+erpaye: calls $1.54
+*** TURN *** [Ah Qh 9h] [3s]
+erpaye: checks 
+AndreaBsAs: bets $5
+erpaye: calls $5
+*** RIVER *** [Ah Qh 9h 3s] [7h]
+erpaye: checks 
+AndreaBsAs: bets $5.64
+erpaye: folds 
+Uncalled bet ($5.64) returned to AndreaBsAs
+AndreaBsAs collected $17.08 from pot
+*** SUMMARY ***
+Total pot $17.98 | Rake $0.90 
+Board [Ah Qh 9h 3s 7h]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: paramourx (small blind) folded before Flop
+Seat 4: erpaye (big blind) folded on the River
+Seat 5: AndreaBsAs collected ($17.08)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611223708:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:58:50 WET [2025/01/29 14:58:50 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 5: AndreaBsAs ($134.98 in chips) is sitting out
+Seat 1: poker_soul11 ($134.63 in chips) 
+Seat 2: BoyLoc0 ($116.04 in chips) 
+Seat 3: paramourx ($103.70 in chips) 
+Seat 4: erpaye ($105.72 in chips) 
+Seat 6: Thyssen990 ($115.02 in chips) 
+erpaye: posts small blind $0.50
+AndreaBsAs: is sitting out 
+Thyssen990: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+BoyLoc0: raises $1.50 to $2.50
+paramourx: folds 
+erpaye: folds 
+Thyssen990: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: AndreaBsAs
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 collected ($2.50)
+Seat 3: paramourx (button) folded before Flop (didn't bet)
+Seat 4: erpaye (small blind) folded before Flop
+Seat 6: Thyssen990 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254611228434:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 19:59:14 WET [2025/01/29 14:59:14 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 5: AndreaBsAs ($134.98 in chips) is sitting out
+Seat 1: poker_soul11 ($134.63 in chips) 
+Seat 2: BoyLoc0 ($117.54 in chips) 
+Seat 3: paramourx ($103.70 in chips) 
+Seat 4: erpaye ($105.22 in chips) 
+Seat 6: Thyssen990 ($114.02 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+paramourx: folds 
+erpaye: raises $1.30 to $2.30
+Thyssen990: calls $1.80
+poker_soul11: folds 
+*** FLOP *** [5d Td Kc]
+Thyssen990: checks 
+AndreaBsAs leaves the table
+erpaye: bets $1.60
+Thyssen990: calls $1.60
+*** TURN *** [5d Td Kc] [Kh]
+henri789 joins the table at seat #5 
+Thyssen990: checks 
+erpaye: checks 
+*** RIVER *** [5d Td Kc Kh] [9h]
+Thyssen990: checks 
+erpaye: checks 
+*** SHOW DOWN ***
+Thyssen990: shows [Jd Ad] (a pair of Kings)
+erpaye: shows [Ah Jh] (a pair of Kings)
+Thyssen990 collected $4.18 from pot
+erpaye collected $4.18 from pot
+*** SUMMARY ***
+Total pot $8.80 | Rake $0.44 
+Board [5d Td Kc Kh 9h]
+Seat 5: AndreaBsAs
+Seat 1: poker_soul11 (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye (button) showed [Ah Jh] and won ($4.18) with a pair of Kings
+Seat 6: Thyssen990 (small blind) showed [Jd Ad] and won ($4.18) with a pair of Kings
+
+
+
+PokerStars Hand #254611250290:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:00:57 WET [2025/01/29 15:00:57 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 5: henri789 ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($133.63 in chips) 
+Seat 2: BoyLoc0 ($117.54 in chips) 
+Seat 3: paramourx ($103.70 in chips) 
+Seat 4: erpaye ($105.50 in chips) 
+Seat 6: Thyssen990 ($114.30 in chips) 
+poker_soul11: posts small blind $0.50
+BoyLoc0: posts big blind $1
+henri789: sits out 
+*** HOLE CARDS ***
+paramourx: folds 
+erpaye: folds 
+Thyssen990: folds 
+poker_soul11: raises $2 to $3
+BoyLoc0: calls $2
+*** FLOP *** [6h 3s Ts]
+poker_soul11: checks 
+BoyLoc0: checks 
+*** TURN *** [6h 3s Ts] [Js]
+poker_soul11: checks 
+BoyLoc0: checks 
+*** RIVER *** [6h 3s Ts Js] [9h]
+poker_soul11: checks 
+BoyLoc0: bets $1.88
+poker_soul11: folds 
+Uncalled bet ($1.88) returned to BoyLoc0
+BoyLoc0 collected $5.70 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6h 3s Ts Js 9h]
+Seat 5: henri789
+Seat 1: poker_soul11 (small blind) folded on the River
+Seat 2: BoyLoc0 (big blind) collected ($5.70)
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye folded before Flop (didn't bet)
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611263947:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:01:50 WET [2025/01/29 15:01:50 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 5: henri789 ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($130.63 in chips) 
+Seat 2: BoyLoc0 ($120.24 in chips) 
+Seat 3: paramourx ($103.70 in chips) 
+Seat 4: erpaye ($105.50 in chips) 
+Seat 6: Thyssen990 ($114.30 in chips) 
+BoyLoc0: posts small blind $0.50
+paramourx: posts big blind $1
+henri789: sits out 
+*** HOLE CARDS ***
+erpaye: raises $1.10 to $2.10
+Thyssen990: folds 
+poker_soul11: folds 
+BoyLoc0: folds 
+paramourx: calls $1.10
+*** FLOP *** [4h 3s 8c]
+paramourx: bets $1.38
+erpaye: calls $1.38
+*** TURN *** [4h 3s 8c] [Kh]
+paramourx: checks 
+erpaye: checks 
+*** RIVER *** [4h 3s 8c Kh] [5h]
+paramourx: checks 
+erpaye: checks 
+*** SHOW DOWN ***
+paramourx: shows [7h 7s] (a pair of Sevens)
+erpaye: mucks hand 
+paramourx collected $7.09 from pot
+*** SUMMARY ***
+Total pot $7.46 | Rake $0.37 
+Board [4h 3s 8c Kh 5h]
+Seat 5: henri789
+Seat 1: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: paramourx (big blind) showed [7h 7s] and won ($7.09) with a pair of Sevens
+Seat 4: erpaye mucked
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611283174:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:03:01 WET [2025/01/29 15:03:01 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 5: henri789 ($100 in chips) is sitting out
+Seat 1: poker_soul11 ($130.63 in chips) 
+Seat 2: BoyLoc0 ($119.74 in chips) 
+Seat 3: paramourx ($107.31 in chips) 
+Seat 4: erpaye ($102.02 in chips) 
+Seat 6: Thyssen990 ($114.30 in chips) 
+paramourx: posts small blind $0.50
+erpaye: posts big blind $1
+henri789: sits out 
+*** HOLE CARDS ***
+Thyssen990: folds 
+poker_soul11: raises $1.20 to $2.20
+BoyLoc0: folds 
+paramourx: folds 
+erpaye: calls $1.20
+*** FLOP *** [Ks Qh Qd]
+erpaye: checks 
+poker_soul11: bets $1.54
+erpaye: folds 
+Uncalled bet ($1.54) returned to poker_soul11
+poker_soul11 collected $4.66 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Ks Qh Qd]
+Seat 5: henri789
+Seat 1: poker_soul11 collected ($4.66)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: paramourx (small blind) folded before Flop
+Seat 4: erpaye (big blind) folded on the Flop
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611291883:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:03:33 WET [2025/01/29 15:03:33 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 1: poker_soul11 ($133.09 in chips) 
+Seat 2: BoyLoc0 ($119.74 in chips) 
+Seat 3: paramourx ($106.81 in chips) 
+Seat 4: erpaye ($100 in chips) 
+Seat 5: henri789 ($100 in chips) 
+Seat 6: Thyssen990 ($114.30 in chips) 
+erpaye: posts small blind $0.50
+henri789: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: raises $1 to $2
+poker_soul11: folds 
+BoyLoc0: folds 
+paramourx: folds 
+erpaye: raises $8.50 to $10.50
+henri789: folds 
+Thyssen990: folds 
+Uncalled bet ($8.50) returned to erpaye
+erpaye collected $5 from pot
+erpaye: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx (button) folded before Flop (didn't bet)
+Seat 4: erpaye (small blind) collected ($5)
+Seat 5: henri789 (big blind) folded before Flop
+Seat 6: Thyssen990 folded before Flop
+
+
+
+PokerStars Hand #254611298054:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:03:55 WET [2025/01/29 15:03:55 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 1: poker_soul11 ($133.09 in chips) 
+Seat 2: BoyLoc0 ($119.74 in chips) 
+Seat 3: paramourx ($106.81 in chips) 
+Seat 4: erpaye ($103 in chips) 
+Seat 5: henri789 ($100 in chips) 
+Seat 6: Thyssen990 ($112.30 in chips) 
+henri789: posts small blind $0.50
+Thyssen990: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+BoyLoc0: folds 
+paramourx: folds 
+erpaye: folds 
+henri789: raises $2 to $3
+Thyssen990: calls $2
+*** FLOP *** [Ks 2d 3d]
+henri789: bets $1.88
+Thyssen990: calls $1.88
+*** TURN *** [Ks 2d 3d] [Kc]
+henri789: checks 
+Thyssen990: checks 
+*** RIVER *** [Ks 2d 3d Kc] [Ts]
+henri789: bets $6.49
+Thyssen990: folds 
+Uncalled bet ($6.49) returned to henri789
+henri789 collected $9.27 from pot
+henri789: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [Ks 2d 3d Kc Ts]
+Seat 1: poker_soul11 folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye (button) folded before Flop (didn't bet)
+Seat 5: henri789 (small blind) collected ($9.27)
+Seat 6: Thyssen990 (big blind) folded on the River
+
+
+
+PokerStars Hand #254611316954:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:05:02 WET [2025/01/29 15:05:02 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: poker_soul11 ($133.09 in chips) is sitting out
+Seat 2: BoyLoc0 ($119.74 in chips) 
+Seat 3: paramourx ($106.81 in chips) 
+Seat 4: erpaye ($103 in chips) 
+Seat 5: henri789 ($104.39 in chips) 
+Seat 6: Thyssen990 ($107.42 in chips) 
+Thyssen990: posts small blind $0.50
+poker_soul11: is sitting out 
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11 leaves the table
+paramourx: folds 
+erpaye: folds 
+henri789: folds 
+Thyssen990: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+BoyLoc0 collected $1 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: poker_soul11
+Seat 2: BoyLoc0 (big blind) collected ($1)
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye folded before Flop (didn't bet)
+Seat 5: henri789 (button) folded before Flop (didn't bet)
+Seat 6: Thyssen990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254611320765:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:05:16 WET [2025/01/29 15:05:16 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 2: BoyLoc0 ($120.24 in chips) 
+Seat 3: paramourx ($106.81 in chips) 
+Seat 4: erpaye ($103 in chips) 
+Seat 5: henri789 ($104.39 in chips) 
+Seat 6: Thyssen990 ($106.92 in chips) 
+BoyLoc0: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+erpaye: folds 
+henri789: folds 
+Thyssen990: folds 
+BoyLoc0: folds 
+Uncalled bet ($0.50) returned to paramourx
+paramourx collected $1 from pot
+paramourx: doesn't show hand 
+AndreaBsAs joins the table at seat #1 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: paramourx (big blind) collected ($1)
+Seat 4: erpaye folded before Flop (didn't bet)
+Seat 5: henri789 folded before Flop (didn't bet)
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611324049:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:05:27 WET [2025/01/29 15:05:27 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 1: AndreaBsAs ($134.98 in chips) is sitting out
+Seat 2: BoyLoc0 ($119.74 in chips) 
+Seat 3: paramourx ($107.31 in chips) 
+Seat 4: erpaye ($103 in chips) 
+Seat 5: henri789 ($104.39 in chips) 
+Seat 6: Thyssen990 ($106.92 in chips) 
+paramourx: posts small blind $0.50
+erpaye: posts big blind $1
+AndreaBsAs: sits out 
+*** HOLE CARDS ***
+henri789: folds 
+Thyssen990: raises $2 to $3
+BoyLoc0: folds 
+paramourx: folds 
+erpaye: folds 
+Uncalled bet ($2) returned to Thyssen990
+Thyssen990 collected $2.50 from pot
+Thyssen990: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AndreaBsAs
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: paramourx (small blind) folded before Flop
+Seat 4: erpaye (big blind) folded before Flop
+Seat 5: henri789 folded before Flop (didn't bet)
+Seat 6: Thyssen990 collected ($2.50)
+
+
+
+PokerStars Hand #254611333955:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:06:01 WET [2025/01/29 15:06:01 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 1: AndreaBsAs ($134.98 in chips) is sitting out
+Seat 2: BoyLoc0 ($119.74 in chips) 
+Seat 3: paramourx ($106.81 in chips) 
+Seat 4: erpaye ($102 in chips) 
+Seat 5: henri789 ($104.39 in chips) 
+Seat 6: Thyssen990 ($108.42 in chips) 
+erpaye: posts small blind $0.50
+henri789: posts big blind $1
+AndreaBsAs: sits out 
+*** HOLE CARDS ***
+Thyssen990: folds 
+BoyLoc0: raises $1.50 to $2.50
+paramourx: folds 
+erpaye: folds 
+henri789: raises $9.50 to $12
+BoyLoc0: folds 
+Uncalled bet ($9.50) returned to henri789
+henri789 collected $5.50 from pot
+henri789: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: AndreaBsAs
+Seat 2: BoyLoc0 folded before Flop
+Seat 3: paramourx (button) folded before Flop (didn't bet)
+Seat 4: erpaye (small blind) folded before Flop
+Seat 5: henri789 (big blind) collected ($5.50)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611342604:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:06:30 WET [2025/01/29 15:06:30 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 1: AndreaBsAs ($134.98 in chips) is sitting out
+Seat 2: BoyLoc0 ($117.24 in chips) 
+Seat 3: paramourx ($106.81 in chips) 
+Seat 4: erpaye ($101.50 in chips) 
+Seat 5: henri789 ($107.39 in chips) 
+Seat 6: Thyssen990 ($108.42 in chips) 
+henri789: posts small blind $0.50
+Thyssen990: posts big blind $1
+AndreaBsAs: sits out 
+*** HOLE CARDS ***
+BoyLoc0: folds 
+paramourx: folds 
+erpaye: raises $1.30 to $2.30
+henri789: folds 
+Thyssen990: calls $1.30
+*** FLOP *** [2s Kh 8c]
+Thyssen990: checks 
+erpaye: bets $1.45
+Thyssen990: calls $1.45
+*** TURN *** [2s Kh 8c] [5s]
+Thyssen990: checks 
+erpaye: bets $5.70
+Thyssen990: calls $5.70
+*** RIVER *** [2s Kh 8c 5s] [As]
+Thyssen990: checks 
+erpaye: bets $27.64
+Thyssen990: folds 
+Uncalled bet ($27.64) returned to erpaye
+erpaye collected $18.43 from pot
+erpaye: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.40 | Rake $0.97 
+Board [2s Kh 8c 5s As]
+Seat 1: AndreaBsAs
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye (button) collected ($18.43)
+Seat 5: henri789 (small blind) folded before Flop
+Seat 6: Thyssen990 (big blind) folded on the River
+
+
+
+PokerStars Hand #254611362753:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:07:39 WET [2025/01/29 15:07:39 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: AndreaBsAs ($134.98 in chips) 
+Seat 2: BoyLoc0 ($117.24 in chips) 
+Seat 3: paramourx ($106.81 in chips) 
+Seat 4: erpaye ($110.48 in chips) 
+Seat 5: henri789 ($106.89 in chips) 
+Seat 6: Thyssen990 ($98.97 in chips) 
+Thyssen990: posts small blind $0.50
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+paramourx: folds 
+erpaye: raises $1.10 to $2.10
+henri789: folds 
+Thyssen990: folds 
+AndreaBsAs: folds 
+Uncalled bet ($1.10) returned to erpaye
+erpaye collected $2.50 from pot
+erpaye: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AndreaBsAs (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye collected ($2.50)
+Seat 5: henri789 (button) folded before Flop (didn't bet)
+Seat 6: Thyssen990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254611367749:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:07:56 WET [2025/01/29 15:07:56 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 1: AndreaBsAs ($133.98 in chips) 
+Seat 2: BoyLoc0 ($117.24 in chips) 
+Seat 3: paramourx ($106.81 in chips) 
+Seat 4: erpaye ($111.98 in chips) 
+Seat 5: henri789 ($106.89 in chips) 
+Seat 6: Thyssen990 ($98.47 in chips) 
+AndreaBsAs: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+erpaye: raises $1.10 to $2.10
+henri789: folds 
+Thyssen990: folds 
+AndreaBsAs: folds 
+BoyLoc0: calls $1.10
+*** FLOP *** [Ah 2c 2d]
+BoyLoc0: checks 
+erpaye: checks 
+*** TURN *** [Ah 2c 2d] [6h]
+BoyLoc0: bets $3.35
+erpaye: folds 
+Uncalled bet ($3.35) returned to BoyLoc0
+erpaye leaves the table
+BoyLoc0 collected $4.46 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.70 | Rake $0.24 
+Board [Ah 2c 2d 6h]
+Seat 1: AndreaBsAs (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) collected ($4.46)
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: erpaye folded on the Turn
+Seat 5: henri789 folded before Flop (didn't bet)
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611380975:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:08:43 WET [2025/01/29 15:08:43 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 1: AndreaBsAs ($133.48 in chips) is sitting out
+Seat 2: BoyLoc0 ($119.60 in chips) 
+Seat 3: paramourx ($106.81 in chips) 
+Seat 5: henri789 ($106.89 in chips) 
+Seat 6: Thyssen990 ($98.47 in chips) 
+paramourx: posts small blind $0.50
+henri789: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+BoyLoc0: raises $1.50 to $2.50
+ZhiznTakaja joins the table at seat #4 
+paramourx: folds 
+henri789: calls $1.50
+*** FLOP *** [Jd Kd Ks]
+henri789: checks 
+BoyLoc0: bets $1.72
+henri789: folds 
+Uncalled bet ($1.72) returned to BoyLoc0
+BoyLoc0 collected $5.22 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Jd Kd Ks]
+Seat 1: AndreaBsAs
+Seat 2: BoyLoc0 (button) collected ($5.22)
+Seat 3: paramourx (small blind) folded before Flop
+Seat 5: henri789 (big blind) folded on the Flop
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611393958:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:09:28 WET [2025/01/29 15:09:28 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 1: AndreaBsAs ($133.48 in chips) is sitting out
+Seat 4: ZhiznTakaja ($100 in chips) is sitting out
+Seat 2: BoyLoc0 ($122.32 in chips) 
+Seat 3: paramourx ($106.31 in chips) 
+Seat 5: henri789 ($104.39 in chips) 
+Seat 6: Thyssen990 ($98.47 in chips) 
+henri789: posts small blind $0.50
+Thyssen990: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+paramourx: raises $2 to $3
+henri789: folds 
+Thyssen990: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AndreaBsAs
+Seat 4: ZhiznTakaja
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx (button) collected ($2.50)
+Seat 5: henri789 (small blind) folded before Flop
+Seat 6: Thyssen990 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254611398605:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:09:44 WET [2025/01/29 15:09:44 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: AndreaBsAs ($133.48 in chips) is sitting out
+Seat 4: ZhiznTakaja ($100 in chips) is sitting out
+Seat 2: BoyLoc0 ($122.32 in chips) 
+Seat 3: paramourx ($107.81 in chips) 
+Seat 5: henri789 ($103.89 in chips) 
+Seat 6: Thyssen990 ($97.47 in chips) 
+Thyssen990: posts small blind $0.50
+BoyLoc0: posts big blind $1
+ZhiznTakaja: sits out 
+*** HOLE CARDS ***
+paramourx: folds 
+henri789: raises $1.10 to $2.10
+Thyssen990: raises $3.90 to $6
+BoyLoc0: folds 
+henri789: calls $3.90
+*** FLOP *** [7d Td Ad]
+Thyssen990: checks 
+henri789: checks 
+*** TURN *** [7d Td Ad] [5c]
+Thyssen990: bets $4
+henri789: calls $4
+*** RIVER *** [7d Td Ad 5c] [3d]
+Thyssen990: bets $10
+henri789: folds 
+Uncalled bet ($10) returned to Thyssen990
+Thyssen990 collected $20 from pot
+Thyssen990: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1 
+Board [7d Td Ad 5c 3d]
+Seat 1: AndreaBsAs
+Seat 4: ZhiznTakaja
+Seat 2: BoyLoc0 (big blind) folded before Flop
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 5: henri789 (button) folded on the River
+Seat 6: Thyssen990 (small blind) collected ($20)
+
+
+
+PokerStars Hand #254611423441:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:11:09 WET [2025/01/29 15:11:09 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 1: AndreaBsAs ($133.48 in chips) is sitting out
+Seat 4: ZhiznTakaja ($100 in chips) is sitting out
+Seat 2: BoyLoc0 ($121.32 in chips) 
+Seat 3: paramourx ($107.81 in chips) 
+Seat 5: henri789 ($100 in chips) 
+Seat 6: Thyssen990 ($107.47 in chips) 
+BoyLoc0: posts small blind $0.50
+paramourx: posts big blind $1
+ZhiznTakaja: sits out 
+*** HOLE CARDS ***
+henri789: raises $1.10 to $2.10
+Thyssen990: folds 
+BoyLoc0: folds 
+paramourx: raises $9.90 to $12
+henri789: folds 
+Uncalled bet ($9.90) returned to paramourx
+paramourx collected $4.70 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.70 | Rake $0 
+Seat 1: AndreaBsAs
+Seat 4: ZhiznTakaja
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: paramourx (big blind) collected ($4.70)
+Seat 5: henri789 folded before Flop
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611435033:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:11:50 WET [2025/01/29 15:11:50 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 1: AndreaBsAs ($133.48 in chips) is sitting out
+Seat 2: BoyLoc0 ($120.82 in chips) 
+Seat 3: paramourx ($110.41 in chips) 
+Seat 4: ZhiznTakaja ($100 in chips) 
+Seat 5: henri789 ($100 in chips) 
+Seat 6: Thyssen990 ($107.47 in chips) 
+paramourx: posts small blind $0.50
+ZhiznTakaja: posts big blind $1
+AndreaBsAs: sits out 
+*** HOLE CARDS ***
+henri789: folds 
+Thyssen990: raises $2 to $3
+BoyLoc0: folds 
+paramourx: folds 
+ZhiznTakaja: folds 
+Uncalled bet ($2) returned to Thyssen990
+Thyssen990 collected $2.50 from pot
+Thyssen990: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AndreaBsAs
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: paramourx (small blind) folded before Flop
+Seat 4: ZhiznTakaja (big blind) folded before Flop
+Seat 5: henri789 folded before Flop (didn't bet)
+Seat 6: Thyssen990 collected ($2.50)
+
+
+
+PokerStars Hand #254611439017:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:12:03 WET [2025/01/29 15:12:03 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 1: AndreaBsAs ($133.48 in chips) is sitting out
+Seat 2: BoyLoc0 ($120.82 in chips) 
+Seat 3: paramourx ($109.91 in chips) 
+Seat 4: ZhiznTakaja ($100 in chips) 
+Seat 5: henri789 ($100 in chips) 
+Seat 6: Thyssen990 ($108.97 in chips) 
+ZhiznTakaja: posts small blind $0.50
+henri789: posts big blind $1
+AndreaBsAs: sits out 
+*** HOLE CARDS ***
+Thyssen990: folds 
+BoyLoc0: folds 
+paramourx: raises $2 to $3
+ZhiznTakaja: folds 
+henri789: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AndreaBsAs
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx (button) collected ($2.50)
+Seat 4: ZhiznTakaja (small blind) folded before Flop
+Seat 5: henri789 (big blind) folded before Flop
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611444227:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:12:22 WET [2025/01/29 15:12:22 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 1: AndreaBsAs ($133.48 in chips) is sitting out
+Seat 2: BoyLoc0 ($120.82 in chips) 
+Seat 3: paramourx ($111.41 in chips) 
+Seat 4: ZhiznTakaja ($100 in chips) 
+Seat 5: henri789 ($100 in chips) 
+Seat 6: Thyssen990 ($108.97 in chips) 
+henri789: posts small blind $0.50
+Thyssen990: posts big blind $1
+AndreaBsAs: sits out 
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+paramourx: folds 
+ZhiznTakaja: folds 
+henri789: folds 
+Thyssen990: calls $1.50
+*** FLOP *** [Jc 6h 4c]
+Thyssen990: checks 
+BoyLoc0: bets $1.72
+Thyssen990: raises $3.28 to $5
+BoyLoc0: calls $3.28
+*** TURN *** [Jc 6h 4c] [Ts]
+Thyssen990: bets $4
+BoyLoc0: calls $4
+*** RIVER *** [Jc 6h 4c Ts] [5d]
+Thyssen990: bets $6
+BoyLoc0: calls $6
+*** SHOW DOWN ***
+Thyssen990: shows [Kc Tc] (a pair of Tens)
+BoyLoc0: shows [Jh Qd] (a pair of Jacks)
+BoyLoc0 collected $33.72 from pot
+*** SUMMARY ***
+Total pot $35.50 | Rake $1.78 
+Board [Jc 6h 4c Ts 5d]
+Seat 1: AndreaBsAs
+Seat 2: BoyLoc0 showed [Jh Qd] and won ($33.72) with a pair of Jacks
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: ZhiznTakaja (button) folded before Flop (didn't bet)
+Seat 5: henri789 (small blind) folded before Flop
+Seat 6: Thyssen990 (big blind) showed [Kc Tc] and lost with a pair of Tens
+
+
+
+PokerStars Hand #254611467694:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:13:43 WET [2025/01/29 15:13:43 ET]
+Table 'Hajek' 6-max Seat #5 is the button
+Seat 1: AndreaBsAs ($133.48 in chips) 
+Seat 2: BoyLoc0 ($137.04 in chips) 
+Seat 3: paramourx ($111.41 in chips) 
+Seat 4: ZhiznTakaja ($100 in chips) 
+Seat 5: henri789 ($100 in chips) 
+Seat 6: Thyssen990 ($91.47 in chips) 
+Thyssen990: posts small blind $0.50
+AndreaBsAs: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+paramourx: folds 
+ZhiznTakaja: folds 
+henri789: raises $1.10 to $2.10
+Thyssen990: folds 
+AndreaBsAs: folds 
+Uncalled bet ($1.10) returned to henri789
+henri789 collected $2.50 from pot
+henri789: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AndreaBsAs (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: ZhiznTakaja folded before Flop (didn't bet)
+Seat 5: henri789 (button) collected ($2.50)
+Seat 6: Thyssen990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254611474280:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:14:06 WET [2025/01/29 15:14:06 ET]
+Table 'Hajek' 6-max Seat #6 is the button
+Seat 1: AndreaBsAs ($132.48 in chips) 
+Seat 2: BoyLoc0 ($137.04 in chips) 
+Seat 3: paramourx ($111.41 in chips) 
+Seat 4: ZhiznTakaja ($100 in chips) 
+Seat 5: henri789 ($101.50 in chips) 
+Seat 6: Thyssen990 ($90.97 in chips) 
+AndreaBsAs: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+ZhiznTakaja: raises $1.50 to $2.50
+henri789: folds 
+Thyssen990: folds 
+AndreaBsAs: folds 
+BoyLoc0: folds 
+Uncalled bet ($1.50) returned to ZhiznTakaja
+ZhiznTakaja collected $2.50 from pot
+ZhiznTakaja: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AndreaBsAs (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) folded before Flop
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: ZhiznTakaja collected ($2.50)
+Seat 5: henri789 folded before Flop (didn't bet)
+Seat 6: Thyssen990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611480654:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:14:28 WET [2025/01/29 15:14:28 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 1: AndreaBsAs ($131.98 in chips) 
+Seat 2: BoyLoc0 ($136.04 in chips) 
+Seat 3: paramourx ($111.41 in chips) 
+Seat 4: ZhiznTakaja ($101.50 in chips) 
+Seat 5: henri789 ($101.50 in chips) 
+Seat 6: Thyssen990 ($90.97 in chips) 
+BoyLoc0: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+ZhiznTakaja: folds 
+henri789: raises $1.10 to $2.10
+Thyssen990: folds 
+AndreaBsAs: folds 
+BoyLoc0: folds 
+paramourx: folds 
+Uncalled bet ($1.10) returned to henri789
+henri789 collected $2.50 from pot
+henri789: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: paramourx (big blind) folded before Flop
+Seat 4: ZhiznTakaja folded before Flop (didn't bet)
+Seat 5: henri789 collected ($2.50)
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611485279:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:14:44 WET [2025/01/29 15:14:44 ET]
+Table 'Hajek' 6-max Seat #2 is the button
+Seat 1: AndreaBsAs ($131.98 in chips) 
+Seat 2: BoyLoc0 ($135.54 in chips) 
+Seat 3: paramourx ($110.41 in chips) 
+Seat 4: ZhiznTakaja ($101.50 in chips) 
+Seat 5: henri789 ($103 in chips) 
+Seat 6: Thyssen990 ($90.97 in chips) 
+paramourx: posts small blind $0.50
+ZhiznTakaja: posts big blind $1
+*** HOLE CARDS ***
+henri789: folds 
+Thyssen990: raises $2 to $3
+AndreaBsAs: folds 
+BoyLoc0: calls $3
+paramourx: calls $2.50
+ZhiznTakaja: folds 
+*** FLOP *** [4h 3d Qs]
+paramourx: checks 
+Thyssen990: checks 
+BoyLoc0: checks 
+*** TURN *** [4h 3d Qs] [2h]
+paramourx: checks 
+Thyssen990: bets $2
+BoyLoc0: calls $2
+paramourx: folds 
+*** RIVER *** [4h 3d Qs 2h] [Jh]
+Thyssen990: bets $6.65
+BoyLoc0: calls $6.65
+*** SHOW DOWN ***
+Thyssen990: shows [Qh As] (a pair of Queens)
+BoyLoc0: mucks hand 
+Thyssen990 collected $25.94 from pot
+*** SUMMARY ***
+Total pot $27.30 | Rake $1.36 
+Board [4h 3d Qs 2h Jh]
+Seat 1: AndreaBsAs folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) mucked
+Seat 3: paramourx (small blind) folded on the Turn
+Seat 4: ZhiznTakaja (big blind) folded before Flop
+Seat 5: henri789 folded before Flop (didn't bet)
+Seat 6: Thyssen990 showed [Qh As] and won ($25.94) with a pair of Queens
+
+
+
+PokerStars Hand #254611508503:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:16:05 WET [2025/01/29 15:16:05 ET]
+Table 'Hajek' 6-max Seat #3 is the button
+Seat 1: AndreaBsAs ($131.98 in chips) 
+Seat 2: BoyLoc0 ($123.89 in chips) 
+Seat 3: paramourx ($107.41 in chips) 
+Seat 4: ZhiznTakaja ($100.50 in chips) 
+Seat 5: henri789 ($103 in chips) 
+Seat 6: Thyssen990 ($105.26 in chips) 
+ZhiznTakaja: posts small blind $0.50
+henri789: posts big blind $1
+*** HOLE CARDS ***
+Thyssen990: folds 
+AndreaBsAs: folds 
+BoyLoc0: folds 
+Thyssen990 leaves the table
+DJNezz joins the table at seat #6 
+paramourx: folds 
+ZhiznTakaja: raises $2 to $3
+henri789: calls $2
+*** FLOP *** [7h Ad 5h]
+ZhiznTakaja: checks 
+henri789: checks 
+*** TURN *** [7h Ad 5h] [9h]
+ZhiznTakaja: bets $1.88
+henri789: calls $1.88
+*** RIVER *** [7h Ad 5h 9h] [2h]
+ZhiznTakaja: checks 
+henri789: bets $6.49
+ZhiznTakaja: calls $6.49
+*** SHOW DOWN ***
+henri789: shows [Kc Qh] (a flush, Queen high)
+ZhiznTakaja: mucks hand 
+henri789 collected $21.60 from pot
+*** SUMMARY ***
+Total pot $22.74 | Rake $1.14 
+Board [7h Ad 5h 9h 2h]
+Seat 1: AndreaBsAs folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: paramourx (button) folded before Flop (didn't bet)
+Seat 4: ZhiznTakaja (small blind) mucked
+Seat 5: henri789 (big blind) showed [Kc Qh] and won ($21.60) with a flush, Queen high
+Seat 6: Thyssen990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254611536417:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:17:41 WET [2025/01/29 15:17:41 ET]
+Table 'Hajek' 6-max Seat #4 is the button
+Seat 6: DJNezz ($100 in chips) is sitting out
+Seat 1: AndreaBsAs ($131.98 in chips) 
+Seat 2: BoyLoc0 ($123.89 in chips) 
+Seat 3: paramourx ($107.41 in chips) 
+Seat 4: ZhiznTakaja ($100 in chips) 
+AndreaBsAs: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+ZhiznTakaja: raises $1.50 to $2.50
+AndreaBsAs: folds 
+BoyLoc0: folds 
+Uncalled bet ($1.50) returned to ZhiznTakaja
+ZhiznTakaja collected $2.50 from pot
+ZhiznTakaja: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: DJNezz
+Seat 1: AndreaBsAs (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) folded before Flop
+Seat 3: paramourx folded before Flop (didn't bet)
+Seat 4: ZhiznTakaja (button) collected ($2.50)
+
+
+
+PokerStars Hand #254611541138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 20:17:57 WET [2025/01/29 15:17:57 ET]
+Table 'Hajek' 6-max Seat #1 is the button
+Seat 3: paramourx ($107.41 in chips) is sitting out
+Seat 4: ZhiznTakaja ($101.50 in chips) is sitting out
+Seat 1: AndreaBsAs ($131.48 in chips) 
+Seat 2: BoyLoc0 ($122.89 in chips) 
+Seat 6: DJNezz ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+paramourx: is sitting out 
+ZhiznTakaja: is sitting out 
+DJNezz: posts big blind $1
+*** HOLE CARDS ***
+ZhiznTakaja leaves the table
+paramourx leaves the table
+AndreaBsAs: folds 
+BoyLoc0: raises $2 to $3
+DJNezz: folds 
+Uncalled bet ($2) returned to BoyLoc0
+BoyLoc0 collected $2 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: paramourx
+Seat 4: ZhiznTakaja
+Seat 1: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) collected ($2)
+Seat 6: DJNezz (big blind) folded before Flop
+
+
+

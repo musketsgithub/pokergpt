@@ -1,0 +1,536 @@
+﻿PokerStars Hand #254524022625:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:39:30 WET [2025/01/23 21:39:30 ET]
+Table 'Zelima III' 6-max Seat #3 is the button
+Seat 1: BumHuntKing ($100 in chips) is sitting out
+Seat 2: nastja336 ($138.92 in chips) 
+Seat 3: rao999 ($102.42 in chips) 
+Seat 4: easy_sarcasm ($109.27 in chips) 
+Seat 5: BoyLoc0 ($104.27 in chips) 
+Seat 6: avlee1 ($101.50 in chips) 
+easy_sarcasm: posts small blind $0.50
+BoyLoc0: posts big blind $1
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+avlee1: folds 
+nastja336: folds 
+nastja336 leaves the table
+BumHuntKing leaves the table
+rao999: folds 
+easy_sarcasm: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+BoyLoc0 collected $1 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: BumHuntKing
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 3: rao999 (button) folded before Flop (didn't bet)
+Seat 4: easy_sarcasm (small blind) folded before Flop
+Seat 5: BoyLoc0 (big blind) collected ($1)
+Seat 6: avlee1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254524025113:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:39:47 WET [2025/01/23 21:39:47 ET]
+Table 'Zelima III' 6-max Seat #4 is the button
+Seat 6: avlee1 ($101.50 in chips) is sitting out
+Seat 3: rao999 ($102.42 in chips) 
+Seat 4: easy_sarcasm ($108.77 in chips) 
+Seat 5: BoyLoc0 ($104.77 in chips) 
+BoyLoc0: posts small blind $0.50
+avlee1: is sitting out 
+rao999: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: raises $1.20 to $2.20
+BoyLoc0: folds 
+rao999: folds 
+Uncalled bet ($1.20) returned to easy_sarcasm
+easy_sarcasm collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: avlee1
+Seat 3: rao999 (big blind) folded before Flop
+Seat 4: easy_sarcasm (button) collected ($2.50)
+Seat 5: BoyLoc0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254523960309:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:32:19 WET [2025/01/23 21:32:19 ET]
+Table 'Zelima III' 6-max Seat #5 is the button
+Seat 1: dollypem ($35.99 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: easy_sarcasm ($100 in chips) 
+Seat 5: equilibrium_tv ($10 in chips) 
+dollypem: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+avlee1 joins the table at seat #6 
+rao999: folds 
+easy_sarcasm: raises $2 to $3
+equilibrium_tv: folds 
+dollypem: calls $2.50
+nastja336: folds 
+*** FLOP *** [3h 8h Qd]
+dollypem: checks 
+easy_sarcasm: bets $3.50
+dollypem: folds 
+Uncalled bet ($3.50) returned to easy_sarcasm
+easy_sarcasm collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [3h 8h Qd]
+Seat 1: dollypem (small blind) folded on the Flop
+Seat 2: nastja336 (big blind) folded before Flop
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: easy_sarcasm collected ($6.65)
+Seat 5: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254523964912:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:32:51 WET [2025/01/23 21:32:51 ET]
+Table 'Zelima III' 6-max Seat #1 is the button
+Seat 6: avlee1 ($100 in chips) is sitting out
+Seat 1: dollypem ($32.99 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: easy_sarcasm ($103.65 in chips) 
+Seat 5: equilibrium_tv ($10 in chips) 
+nastja336: posts small blind $0.50
+rao999: posts big blind $1
+avlee1: sits out 
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+equilibrium_tv: calls $1
+dollypem: calls $1
+nastja336: folds 
+rao999: checks 
+*** FLOP *** [Qc Kc 4s]
+rao999: checks 
+equilibrium_tv: bets $1
+dollypem: calls $1
+rao999: folds 
+*** TURN *** [Qc Kc 4s] [7c]
+equilibrium_tv: checks 
+dollypem: checks 
+*** RIVER *** [Qc Kc 4s 7c] [9c]
+equilibrium_tv: bets $2
+dollypem: folds 
+Uncalled bet ($2) returned to equilibrium_tv
+equilibrium_tv collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Qc Kc 4s 7c 9c]
+Seat 6: avlee1
+Seat 1: dollypem (button) folded on the River
+Seat 2: nastja336 (small blind) folded before Flop
+Seat 3: rao999 (big blind) folded on the Flop
+Seat 4: easy_sarcasm folded before Flop (didn't bet)
+Seat 5: equilibrium_tv collected ($5.22)
+
+
+
+PokerStars Hand #254523973989:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:33:54 WET [2025/01/23 21:33:54 ET]
+Table 'Zelima III' 6-max Seat #2 is the button
+Seat 6: avlee1 ($100 in chips) is sitting out
+Seat 1: dollypem ($30.99 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: easy_sarcasm ($103.65 in chips) 
+Seat 5: equilibrium_tv ($13.22 in chips) 
+rao999: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+avlee1: sits out 
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+dollypem: raises $1 to $2
+nastja336: raises $5.50 to $7.50
+rao999: folds 
+easy_sarcasm: folds 
+dollypem: calls $5.50
+*** FLOP *** [Js Qd Jc]
+dollypem: checks 
+nastja336: bets $5.17
+dollypem: folds 
+Uncalled bet ($5.17) returned to nastja336
+nastja336 collected $15.68 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.82 
+Board [Js Qd Jc]
+Seat 6: avlee1
+Seat 1: dollypem folded on the Flop
+Seat 2: nastja336 (button) collected ($15.68)
+Seat 3: rao999 (small blind) folded before Flop
+Seat 4: easy_sarcasm (big blind) folded before Flop
+Seat 5: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254523977420:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:34:18 WET [2025/01/23 21:34:18 ET]
+Table 'Zelima III' 6-max Seat #3 is the button
+Seat 6: avlee1 ($100 in chips) is sitting out
+Seat 1: dollypem ($23.49 in chips) 
+Seat 2: nastja336 ($108.18 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: easy_sarcasm ($102.65 in chips) 
+Seat 5: equilibrium_tv ($13.22 in chips) 
+easy_sarcasm: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+avlee1: sits out 
+*** HOLE CARDS ***
+dollypem: folds 
+nastja336: folds 
+rao999: raises $1.50 to $2.50
+easy_sarcasm: folds 
+equilibrium_tv: calls $1.50
+*** FLOP *** [Kh 3s 5c]
+equilibrium_tv: checks 
+rao999: bets $1.72
+equilibrium_tv: folds 
+Uncalled bet ($1.72) returned to rao999
+rao999 collected $5.22 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Kh 3s 5c]
+Seat 6: avlee1
+Seat 1: dollypem folded before Flop (didn't bet)
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 3: rao999 (button) collected ($5.22)
+Seat 4: easy_sarcasm (small blind) folded before Flop
+Seat 5: equilibrium_tv (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254523982006:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:34:50 WET [2025/01/23 21:34:50 ET]
+Table 'Zelima III' 6-max Seat #4 is the button
+Seat 5: equilibrium_tv ($10.72 in chips) is sitting out
+Seat 6: avlee1 ($100 in chips) is sitting out
+Seat 1: dollypem ($23.49 in chips) 
+Seat 2: nastja336 ($108.18 in chips) 
+Seat 3: rao999 ($102.72 in chips) 
+Seat 4: easy_sarcasm ($102.15 in chips) 
+dollypem: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv leaves the table
+rao999: folds 
+easy_sarcasm: raises $1.20 to $2.20
+dollypem: calls $1.70
+nastja336: calls $1.20
+*** FLOP *** [Jc Ah 7h]
+BoyLoc0 joins the table at seat #5 
+dollypem: checks 
+nastja336: checks 
+easy_sarcasm: bets $4.50
+dollypem: folds 
+nastja336: calls $4.50
+*** TURN *** [Jc Ah 7h] [9s]
+nastja336: checks 
+easy_sarcasm: bets $9
+nastja336: folds 
+Uncalled bet ($9) returned to easy_sarcasm
+easy_sarcasm collected $14.82 from pot
+*** SUMMARY ***
+Total pot $15.60 | Rake $0.78 
+Board [Jc Ah 7h 9s]
+Seat 5: equilibrium_tv
+Seat 6: avlee1
+Seat 1: dollypem (small blind) folded on the Flop
+Seat 2: nastja336 (big blind) folded on the Turn
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: easy_sarcasm (button) collected ($14.82)
+
+
+
+PokerStars Hand #254523987532:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:35:27 WET [2025/01/23 21:35:27 ET]
+Table 'Zelima III' 6-max Seat #1 is the button
+Seat 5: BoyLoc0 ($100 in chips) is sitting out
+Seat 6: avlee1 ($100 in chips) is sitting out
+Seat 1: dollypem ($21.29 in chips) 
+Seat 2: nastja336 ($101.48 in chips) 
+Seat 3: rao999 ($102.72 in chips) 
+Seat 4: easy_sarcasm ($110.27 in chips) 
+nastja336: posts small blind $0.50
+rao999: posts big blind $1
+BoyLoc0: sits out 
+avlee1: sits out 
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+dollypem: raises $1 to $2
+nastja336: folds 
+rao999: calls $1
+*** FLOP *** [6h Jh 3d]
+rao999: checks 
+dollypem: checks 
+*** TURN *** [6h Jh 3d] [5c]
+rao999: checks 
+dollypem: bets $2.14
+rao999: folds 
+Uncalled bet ($2.14) returned to dollypem
+dollypem collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [6h Jh 3d 5c]
+Seat 5: BoyLoc0
+Seat 6: avlee1
+Seat 1: dollypem (button) collected ($4.28)
+Seat 2: nastja336 (small blind) folded before Flop
+Seat 3: rao999 (big blind) folded on the Turn
+Seat 4: easy_sarcasm folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254523992319:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:36:00 WET [2025/01/23 21:36:00 ET]
+Table 'Zelima III' 6-max Seat #2 is the button
+Seat 5: BoyLoc0 ($100 in chips) is sitting out
+Seat 6: avlee1 ($100 in chips) is sitting out
+Seat 1: dollypem ($23.57 in chips) 
+Seat 2: nastja336 ($100.98 in chips) 
+Seat 3: rao999 ($100.72 in chips) 
+Seat 4: easy_sarcasm ($110.27 in chips) 
+rao999: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+BoyLoc0: sits out 
+avlee1: sits out 
+*** HOLE CARDS ***
+dollypem: raises $1 to $2
+nastja336: folds 
+rao999: raises $8 to $10
+easy_sarcasm: folds 
+dollypem: calls $8
+*** FLOP *** [4s 2h Jh]
+rao999: bets $78
+dollypem: calls $13.57 and is all-in
+Uncalled bet ($64.43) returned to rao999
+*** TURN *** [4s 2h Jh] [5s]
+*** RIVER *** [4s 2h Jh 5s] [6c]
+*** SHOW DOWN ***
+rao999: shows [Td Ah] (high card Ace)
+dollypem: shows [5h 8h] (a pair of Fives)
+dollypem collected $47.14 from pot
+rao999 cashed out the hand for $23.57 | Cash Out Fee $0.48
+*** SUMMARY ***
+Total pot $48.14 | Rake $1 
+Board [4s 2h Jh 5s 6c]
+Seat 5: BoyLoc0
+Seat 6: avlee1
+Seat 1: dollypem showed [5h 8h] and won ($47.14) with a pair of Fives
+Seat 2: nastja336 (button) folded before Flop (didn't bet)
+Seat 3: rao999 (small blind) showed [Td Ah] and lost with high card Ace (cashed out).
+Seat 4: easy_sarcasm (big blind) folded before Flop
+
+
+
+PokerStars Hand #254523998257:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:36:41 WET [2025/01/23 21:36:41 ET]
+Table 'Zelima III' 6-max Seat #3 is the button
+Seat 6: avlee1 ($100 in chips) is sitting out
+Seat 1: dollypem ($47.14 in chips) 
+Seat 2: nastja336 ($100.98 in chips) 
+Seat 3: rao999 ($100.72 in chips) 
+Seat 4: easy_sarcasm ($109.27 in chips) 
+Seat 5: BoyLoc0 ($100 in chips) 
+easy_sarcasm: posts small blind $0.50
+BoyLoc0: posts big blind $1
+avlee1: sits out 
+*** HOLE CARDS ***
+dollypem: folds 
+nastja336: folds 
+rao999: folds 
+easy_sarcasm: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+BoyLoc0 collected $1 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: avlee1
+Seat 1: dollypem folded before Flop (didn't bet)
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 3: rao999 (button) folded before Flop (didn't bet)
+Seat 4: easy_sarcasm (small blind) folded before Flop
+Seat 5: BoyLoc0 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254524000130:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:36:54 WET [2025/01/23 21:36:54 ET]
+Table 'Zelima III' 6-max Seat #4 is the button
+Seat 1: dollypem ($47.14 in chips) 
+Seat 2: nastja336 ($100.98 in chips) 
+Seat 3: rao999 ($100.72 in chips) 
+Seat 4: easy_sarcasm ($108.77 in chips) 
+Seat 5: BoyLoc0 ($100.50 in chips) 
+Seat 6: avlee1 ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+avlee1: posts big blind $1
+*** HOLE CARDS ***
+dollypem: folds 
+nastja336: folds 
+rao999: folds 
+easy_sarcasm: raises $1.20 to $2.20
+BoyLoc0: folds 
+avlee1: folds 
+Uncalled bet ($1.20) returned to easy_sarcasm
+easy_sarcasm collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: dollypem folded before Flop (didn't bet)
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: easy_sarcasm (button) collected ($2.50)
+Seat 5: BoyLoc0 (small blind) folded before Flop
+Seat 6: avlee1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254524002385:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:37:09 WET [2025/01/23 21:37:09 ET]
+Table 'Zelima III' 6-max Seat #5 is the button
+Seat 1: dollypem ($47.14 in chips) 
+Seat 2: nastja336 ($100.98 in chips) 
+Seat 3: rao999 ($100.72 in chips) 
+Seat 4: easy_sarcasm ($110.27 in chips) 
+Seat 5: BoyLoc0 ($100 in chips) 
+Seat 6: avlee1 ($100 in chips) 
+avlee1: posts small blind $0.50
+dollypem: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+rao999: folds 
+easy_sarcasm: folds 
+BoyLoc0: raises $1.50 to $2.50
+avlee1: folds 
+dollypem: calls $1.50
+*** FLOP *** [6d 9s 9h]
+dollypem: checks 
+BoyLoc0: bets $1.72
+dollypem: calls $1.72
+*** TURN *** [6d 9s 9h] [2h]
+dollypem: checks 
+BoyLoc0: bets $6.37
+dollypem: folds 
+Uncalled bet ($6.37) returned to BoyLoc0
+BoyLoc0 collected $8.49 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [6d 9s 9h 2h]
+Seat 1: dollypem (big blind) folded on the Turn
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: easy_sarcasm folded before Flop (didn't bet)
+Seat 5: BoyLoc0 (button) collected ($8.49)
+Seat 6: avlee1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254524007214:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:37:43 WET [2025/01/23 21:37:43 ET]
+Table 'Zelima III' 6-max Seat #6 is the button
+Seat 1: dollypem ($42.92 in chips) 
+Seat 2: nastja336 ($100.98 in chips) 
+Seat 3: rao999 ($100.72 in chips) 
+Seat 4: easy_sarcasm ($110.27 in chips) 
+Seat 5: BoyLoc0 ($104.27 in chips) 
+Seat 6: avlee1 ($100 in chips) 
+dollypem: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+rao999: raises $1.50 to $2.50
+easy_sarcasm: folds 
+BoyLoc0: folds 
+avlee1: folds 
+dollypem: calls $2
+nastja336: folds 
+*** FLOP *** [4c As Td]
+dollypem: checks 
+rao999: bets $1.88
+dollypem: folds 
+Uncalled bet ($1.88) returned to rao999
+rao999 collected $5.70 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4c As Td]
+Seat 1: dollypem (small blind) folded on the Flop
+Seat 2: nastja336 (big blind) folded before Flop
+Seat 3: rao999 collected ($5.70)
+Seat 4: easy_sarcasm folded before Flop (didn't bet)
+Seat 5: BoyLoc0 folded before Flop (didn't bet)
+Seat 6: avlee1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254524010860:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:38:09 WET [2025/01/23 21:38:09 ET]
+Table 'Zelima III' 6-max Seat #1 is the button
+Seat 1: dollypem ($40.42 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: rao999 ($103.92 in chips) 
+Seat 4: easy_sarcasm ($110.27 in chips) 
+Seat 5: BoyLoc0 ($104.27 in chips) 
+Seat 6: avlee1 ($100 in chips) 
+nastja336: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+BoyLoc0: folds 
+avlee1: folds 
+dollypem: calls $1
+nastja336: raises $4 to $5
+rao999: folds 
+dollypem: calls $4
+*** FLOP *** [6c Qd 3h]
+nastja336: bets $6.90
+dollypem: calls $6.90
+*** TURN *** [6c Qd 3h] [As]
+nastja336: bets $6
+dollypem: calls $6
+*** RIVER *** [6c Qd 3h As] [5d]
+nastja336: bets $26.40
+dollypem: calls $22.52 and is all-in
+Uncalled bet ($3.88) returned to nastja336
+*** SHOW DOWN ***
+nastja336: shows [Ad Ah] (three of a kind, Aces)
+dollypem: shows [Kd 6d] (a pair of Sixes)
+nastja336 collected $79.34 from pot
+*** SUMMARY ***
+Total pot $81.84 | Rake $2.50 
+Board [6c Qd 3h As 5d]
+Seat 1: dollypem (button) showed [Kd 6d] and lost with a pair of Sixes
+Seat 2: nastja336 (small blind) showed [Ad Ah] and won ($79.34) with three of a kind, Aces
+Seat 3: rao999 (big blind) folded before Flop
+Seat 4: easy_sarcasm folded before Flop (didn't bet)
+Seat 5: BoyLoc0 folded before Flop (didn't bet)
+Seat 6: avlee1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254524019959:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 2:39:11 WET [2025/01/23 21:39:11 ET]
+Table 'Zelima III' 6-max Seat #2 is the button
+Seat 1: dollypem ($0 in chips) is sitting out
+Seat 2: nastja336 ($138.92 in chips) 
+Seat 3: rao999 ($102.92 in chips) 
+Seat 4: easy_sarcasm ($110.27 in chips) 
+Seat 5: BoyLoc0 ($104.27 in chips) 
+Seat 6: avlee1 ($100 in chips) 
+rao999: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+avlee1: raises $1.50 to $2.50
+dollypem leaves the table
+nastja336: folds 
+rao999: folds 
+easy_sarcasm: folds 
+Uncalled bet ($1.50) returned to avlee1
+BumHuntKing joins the table at seat #1 
+avlee1 collected $2.50 from pot
+avlee1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: dollypem
+Seat 2: nastja336 (button) folded before Flop (didn't bet)
+Seat 3: rao999 (small blind) folded before Flop
+Seat 4: easy_sarcasm (big blind) folded before Flop
+Seat 5: BoyLoc0 folded before Flop (didn't bet)
+Seat 6: avlee1 collected ($2.50)
+
+
+

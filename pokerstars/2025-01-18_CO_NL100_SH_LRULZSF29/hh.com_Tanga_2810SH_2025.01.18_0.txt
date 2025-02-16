@@ -1,0 +1,3786 @@
+﻿PokerStars Hand #254429151736:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:36:53 WET [2025/01/18 5:36:53 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 1: fobot21 ($100 in chips) 
+Seat 2: SeEevg ($102.72 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 5: talvion ($31.97 in chips) 
+Seat 6: steepfell ($100 in chips) 
+fobot21: posts small blind $0.50
+SeEevg: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+talvion: raises $1 to $2
+steepfell: folds 
+fobot21: folds 
+SeEevg: calls $1
+*** FLOP *** [Td 6s 7s]
+SeEevg: checks 
+talvion: checks 
+*** TURN *** [Td 6s 7s] [2s]
+SeEevg: checks 
+talvion: bets $3
+SeEevg: folds 
+Uncalled bet ($3) returned to talvion
+talvion collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Td 6s 7s 2s]
+Seat 1: fobot21 (small blind) folded before Flop
+Seat 2: SeEevg (big blind) folded on the Turn
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 5: talvion collected ($4.28)
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429156279:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:37:30 WET [2025/01/18 5:37:30 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 1: fobot21 ($100 in chips) 
+Seat 2: SeEevg ($100.72 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 5: talvion ($34.25 in chips) 
+Seat 6: steepfell ($100 in chips) 
+SeEevg: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+talvion: raises $1 to $2
+steepfell: folds 
+fobot21: calls $2
+SeEevg: folds 
+gudrozd: calls $1
+*** FLOP *** [4h 4s Qs]
+gudrozd: checks 
+talvion: checks 
+fobot21 has timed out
+fobot21: checks 
+*** TURN *** [4h 4s Qs] [As]
+gudrozd: bets $2.04
+talvion: calls $2.04
+fobot21: calls $2.04
+*** RIVER *** [4h 4s Qs As] [8h]
+gudrozd: bets $8.99
+talvion: folds 
+AllRaise101 joins the table at seat #4 
+AllRaise101 is disconnected 
+fobot21 has timed out
+fobot21: folds 
+Uncalled bet ($8.99) returned to gudrozd
+gudrozd collected $11.99 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.62 | Rake $0.63 
+Board [4h 4s Qs As 8h]
+Seat 1: fobot21 (button) folded on the River
+Seat 2: SeEevg (small blind) folded before Flop
+Seat 3: gudrozd (big blind) collected ($11.99)
+Seat 5: talvion folded on the River
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429170692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:39:28 WET [2025/01/18 5:39:28 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 1: fobot21 ($100 in chips) is sitting out
+Seat 2: SeEevg ($100.22 in chips) 
+Seat 3: gudrozd ($107.95 in chips) 
+Seat 4: AllRaise101 ($100 in chips) 
+Seat 5: talvion ($30.21 in chips) 
+Seat 6: steepfell ($100 in chips) 
+gudrozd: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+talvion: raises $1 to $2
+steepfell: folds 
+SeEevg: folds 
+gudrozd: folds 
+AllRaise101: folds 
+Uncalled bet ($1) returned to talvion
+talvion collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: fobot21
+Seat 2: SeEevg (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) folded before Flop
+Seat 4: AllRaise101 (big blind) folded before Flop
+Seat 5: talvion collected ($2.50)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429171988:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:39:38 WET [2025/01/18 5:39:38 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 1: fobot21 ($100 in chips) 
+Seat 2: SeEevg ($100.22 in chips) 
+Seat 3: gudrozd ($107.45 in chips) 
+Seat 4: AllRaise101 ($100 in chips) 
+Seat 5: talvion ($31.71 in chips) 
+Seat 6: steepfell ($100 in chips) 
+AllRaise101: posts small blind $0.50
+talvion: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+fobot21: folds 
+SeEevg: folds 
+gudrozd: raises $1.50 to $2.50
+AllRaise101: folds 
+talvion: folds 
+Uncalled bet ($1.50) returned to gudrozd
+gudrozd collected $2.50 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: fobot21 folded before Flop (didn't bet)
+Seat 2: SeEevg folded before Flop (didn't bet)
+Seat 3: gudrozd (button) collected ($2.50)
+Seat 4: AllRaise101 (small blind) folded before Flop
+Seat 5: talvion (big blind) folded before Flop
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429173382:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:39:49 WET [2025/01/18 5:39:49 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 1: fobot21 ($100 in chips) 
+Seat 2: SeEevg ($100.22 in chips) 
+Seat 3: gudrozd ($108.95 in chips) 
+Seat 4: AllRaise101 ($100 in chips) 
+Seat 5: talvion ($30.71 in chips) 
+Seat 6: steepfell ($100 in chips) 
+talvion: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+fobot21: raises $1 to $2
+SeEevg: folds 
+gudrozd: raises $5 to $7
+AllRaise101: raises $8 to $15
+talvion: calls $14.50
+steepfell: folds 
+fobot21: folds 
+gudrozd: folds 
+*** FLOP *** [Tc 3s Ah]
+talvion: bets $15.71 and is all-in
+AllRaise101: calls $15.71
+*** TURN *** [Tc 3s Ah] [4h]
+*** RIVER *** [Tc 3s Ah 4h] [8h]
+*** SHOW DOWN ***
+talvion: shows [Ts Qc] (a pair of Tens)
+AllRaise101: shows [As Kh] (a pair of Aces)
+AllRaise101 collected $68.92 from pot
+*** SUMMARY ***
+Total pot $71.42 | Rake $2.50 
+Board [Tc 3s Ah 4h 8h]
+Seat 1: fobot21 folded before Flop
+Seat 2: SeEevg folded before Flop (didn't bet)
+Seat 3: gudrozd folded before Flop
+Seat 4: AllRaise101 (button) showed [As Kh] and won ($68.92) with a pair of Aces
+Seat 5: talvion (small blind) showed [Ts Qc] and lost with a pair of Tens
+Seat 6: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254429180372:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:40:45 WET [2025/01/18 5:40:45 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 5: talvion ($0 in chips) is sitting out
+Seat 1: fobot21 ($100 in chips) 
+Seat 2: SeEevg ($100.22 in chips) 
+Seat 3: gudrozd ($101.95 in chips) 
+Seat 4: AllRaise101 ($138.21 in chips) 
+Seat 6: steepfell ($100 in chips) 
+fobot21: posts small blind $0.50
+SeEevg: posts big blind $1
+*** HOLE CARDS ***
+talvion is disconnected 
+gudrozd: folds 
+AllRaise101: raises $1.50 to $2.50
+steepfell: folds 
+fobot21: folds 
+SeEevg: folds 
+Uncalled bet ($1.50) returned to AllRaise101
+AllRaise101 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: talvion
+Seat 1: fobot21 (small blind) folded before Flop
+Seat 2: SeEevg (big blind) folded before Flop
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: AllRaise101 collected ($2.50)
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429182301:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:41:00 WET [2025/01/18 5:41:00 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 5: talvion ($0 in chips) is sitting out
+Seat 1: fobot21 ($100 in chips) 
+Seat 2: SeEevg ($100 in chips) 
+Seat 3: gudrozd ($101.95 in chips) 
+Seat 4: AllRaise101 ($139.71 in chips) 
+Seat 6: steepfell ($100 in chips) 
+SeEevg: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: folds 
+steepfell: raises $1.50 to $2.50
+fobot21: folds 
+SeEevg: folds 
+gudrozd: folds 
+Uncalled bet ($1.50) returned to steepfell
+steepfell collected $2.50 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: talvion
+Seat 1: fobot21 (button) folded before Flop (didn't bet)
+Seat 2: SeEevg (small blind) folded before Flop
+Seat 3: gudrozd (big blind) folded before Flop
+Seat 4: AllRaise101 folded before Flop (didn't bet)
+Seat 6: steepfell collected ($2.50)
+
+
+
+PokerStars Hand #254429184364:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:41:17 WET [2025/01/18 5:41:17 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 5: talvion ($0 in chips) is sitting out
+Seat 1: fobot21 ($100 in chips) 
+Seat 2: SeEevg ($100 in chips) 
+Seat 3: gudrozd ($100.95 in chips) 
+Seat 4: AllRaise101 ($139.71 in chips) 
+Seat 6: steepfell ($101.50 in chips) 
+gudrozd: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+fobot21: raises $1.50 to $2.50
+SeEevg: folds 
+gudrozd: raises $9.50 to $12
+AllRaise101: folds 
+fobot21: raises $13 to $25
+gudrozd: raises $75.95 to $100.95 and is all-in
+fobot21: calls $75 and is all-in
+Uncalled bet ($0.95) returned to gudrozd
+*** FIRST FLOP *** [6c 9d As]
+*** FIRST TURN *** [6c 9d As] [4s]
+*** FIRST RIVER *** [6c 9d As 4s] [Qd]
+*** SECOND FLOP *** [7d Qc 9s]
+*** SECOND TURN *** [7d Qc 9s] [2s]
+*** SECOND RIVER *** [7d Qc 9s 2s] [3d]
+*** FIRST SHOW DOWN ***
+gudrozd: shows [Ts Td] (a pair of Tens)
+fobot21: shows [Ac Ad] (three of a kind, Aces)
+fobot21 collected $99.25 from pot
+*** SECOND SHOW DOWN ***
+gudrozd: shows [Ts Td] (a pair of Tens)
+fobot21: shows [Ac Ad] (a pair of Aces)
+fobot21 collected $99.25 from pot
+*** SUMMARY ***
+Total pot $201 | Rake $2.50 
+Hand was run twice
+FIRST Board [6c 9d As 4s Qd]
+SECOND Board [7d Qc 9s 2s 3d]
+Seat 5: talvion
+Seat 1: fobot21 showed [Ac Ad] and won ($99.25) with three of a kind, Aces, and won ($99.25) with a pair of Aces
+Seat 2: SeEevg (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) showed [Ts Td] and lost with a pair of Tens, and lost with a pair of Tens
+Seat 4: AllRaise101 (big blind) folded before Flop
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429191018:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:42:12 WET [2025/01/18 5:42:12 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 5: talvion ($0 in chips) is sitting out
+Seat 1: fobot21 ($198.50 in chips) 
+Seat 2: SeEevg ($100 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: AllRaise101 ($138.71 in chips) 
+Seat 6: steepfell ($101.50 in chips) 
+AllRaise101: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+fobot21: raises $1 to $2
+SeEevg: folds 
+gudrozd: folds 
+AllRaise101: calls $1.50
+steepfell: folds 
+*** FLOP *** [Ad 5d Kc]
+AllRaise101: checks 
+fobot21 has timed out
+fobot21: checks 
+*** TURN *** [Ad 5d Kc] [Tc]
+AllRaise101: checks 
+fobot21: bets $7
+AllRaise101: folds 
+Uncalled bet ($7) returned to fobot21
+fobot21 collected $4.75 from pot
+fobot21: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Ad 5d Kc Tc]
+Seat 5: talvion
+Seat 1: fobot21 collected ($4.75)
+Seat 2: SeEevg folded before Flop (didn't bet)
+Seat 3: gudrozd (button) folded before Flop (didn't bet)
+Seat 4: AllRaise101 (small blind) folded on the Turn
+Seat 6: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254429198255:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:43:10 WET [2025/01/18 5:43:10 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 1: fobot21 ($201.25 in chips) is sitting out
+Seat 5: talvion ($0 in chips) is sitting out
+Seat 2: SeEevg ($100 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: AllRaise101 ($136.71 in chips) 
+Seat 6: steepfell ($100.50 in chips) 
+steepfell: posts small blind $0.50
+fobot21: is sitting out 
+SeEevg: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+AllRaise101: folds 
+steepfell: raises $2 to $3
+SeEevg: folds 
+Uncalled bet ($2) returned to steepfell
+steepfell collected $2 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: fobot21
+Seat 5: talvion
+Seat 2: SeEevg (big blind) folded before Flop
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: AllRaise101 (button) folded before Flop (didn't bet)
+Seat 6: steepfell (small blind) collected ($2)
+
+
+
+PokerStars Hand #254429199986:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:43:24 WET [2025/01/18 5:43:24 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 1: fobot21 ($201.25 in chips) is sitting out
+Seat 5: talvion ($0 in chips) is sitting out
+Seat 2: SeEevg ($100 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: AllRaise101 ($136.71 in chips) 
+Seat 6: steepfell ($101.50 in chips) 
+SeEevg: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: folds 
+steepfell: raises $1.50 to $2.50
+fobot21 leaves the table
+SeEevg: folds 
+gudrozd: folds 
+Uncalled bet ($1.50) returned to steepfell
+steepfell collected $2.50 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: fobot21
+Seat 5: talvion
+Seat 2: SeEevg (small blind) folded before Flop
+Seat 3: gudrozd (big blind) folded before Flop
+Seat 4: AllRaise101 folded before Flop (didn't bet)
+Seat 6: steepfell (button) collected ($2.50)
+
+
+
+PokerStars Hand #254429202058:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:43:41 WET [2025/01/18 5:43:41 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 5: talvion ($0 in chips) is sitting out
+Seat 2: SeEevg ($100 in chips) 
+Seat 3: gudrozd ($100 in chips) 
+Seat 4: AllRaise101 ($136.71 in chips) 
+Seat 6: steepfell ($103 in chips) 
+gudrozd: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+SeEevg: folds 
+gudrozd: raises $2 to $3
+AllRaise101: folds 
+Uncalled bet ($2) returned to gudrozd
+gudrozd collected $2 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: talvion
+Seat 2: SeEevg (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) collected ($2)
+Seat 4: AllRaise101 (big blind) folded before Flop
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429213269:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:45:11 WET [2025/01/18 5:45:11 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 5: talvion ($0 in chips) is sitting out
+Seat 1: stevoooo34 ($39.67 in chips) 
+Seat 2: SeEevg ($100 in chips) 
+Seat 4: AllRaise101 ($139.48 in chips) 
+Seat 6: steepfell ($100 in chips) 
+AllRaise101: posts small blind $0.50
+steepfell: posts big blind $1
+stevoooo34: posts big blind $1
+*** HOLE CARDS ***
+stevoooo34: checks 
+SeEevg: raises $2.50 to $3.50
+AllRaise101: raises $7.50 to $11
+steepfell: folds 
+stevoooo34: folds 
+SeEevg: calls $7.50
+*** FLOP *** [4c 3h 7c]
+AllRaise101: bets $15.50
+SeEevg: calls $15.50
+*** TURN *** [4c 3h 7c] [Kd]
+AllRaise101: checks 
+SeEevg: bets $13.50
+AllRaise101: calls $13.50
+*** RIVER *** [4c 3h 7c Kd] [Ad]
+AllRaise101: checks 
+SeEevg: checks 
+*** SHOW DOWN ***
+AllRaise101: shows [Kc Jc] (a pair of Kings)
+SeEevg: mucks hand 
+AllRaise101 collected $81 from pot
+*** SUMMARY ***
+Total pot $82 | Rake $1 
+Board [4c 3h 7c Kd Ad]
+Seat 5: talvion
+Seat 1: stevoooo34 folded before Flop (didn't bet)
+Seat 2: SeEevg (button) mucked
+Seat 4: AllRaise101 (small blind) showed [Kc Jc] and won ($81) with a pair of Kings
+Seat 6: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254429226378:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:46:56 WET [2025/01/18 5:46:56 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 5: talvion ($0 in chips) is sitting out
+Seat 1: stevoooo34 ($38.67 in chips) 
+Seat 2: SeEevg ($100 in chips) 
+Seat 4: AllRaise101 ($180.48 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steepfell: posts small blind $0.50
+stevoooo34: posts big blind $1
+*** HOLE CARDS ***
+SeEevg: folds 
+SeEevg leaves the table
+AllRaise101: folds 
+steepfell: folds 
+Uncalled bet ($0.50) returned to stevoooo34
+7bekon7 joins the table at seat #2 
+stevoooo34 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: talvion
+Seat 1: stevoooo34 (big blind) collected ($1)
+Seat 2: SeEevg folded before Flop (didn't bet)
+Seat 4: AllRaise101 (button) folded before Flop (didn't bet)
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429228229:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:47:12 WET [2025/01/18 5:47:12 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 5: talvion ($0 in chips) is sitting out
+Seat 1: stevoooo34 ($39.17 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 4: AllRaise101 ($180.48 in chips) 
+Seat 6: steepfell ($100 in chips) 
+stevoooo34: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: raises $1.50 to $2.50
+steepfell: raises $5.50 to $8
+stevoooo34: folds 
+7bekon7: folds 
+AllRaise101: calls $5.50
+*** FLOP *** [5s 8c Jd]
+AllRaise101: checks 
+steepfell: bets $5.48
+AllRaise101: calls $5.48
+*** TURN *** [5s 8c Jd] [Jh]
+AllRaise101: checks 
+steepfell: bets $13.73
+AllRaise101: calls $13.73
+*** RIVER *** [5s 8c Jd Jh] [Td]
+AllRaise101: bets $18.46
+steepfell: calls $18.46
+*** SHOW DOWN ***
+AllRaise101: shows [8d 8h] (a full house, Eights full of Jacks)
+steepfell: mucks hand 
+AllRaise101 collected $91.84 from pot
+*** SUMMARY ***
+Total pot $92.84 | Rake $1 
+Board [5s 8c Jd Jh Td]
+Seat 5: talvion
+Seat 1: stevoooo34 (small blind) folded before Flop
+Seat 2: 7bekon7 (big blind) folded before Flop
+Seat 4: AllRaise101 showed [8d 8h] and won ($91.84) with a full house, Eights full of Jacks
+Seat 6: steepfell (button) mucked
+
+
+
+PokerStars Hand #254429237919:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:48:29 WET [2025/01/18 5:48:29 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 5: talvion ($0 in chips) is sitting out
+Seat 1: stevoooo34 ($38.67 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 4: AllRaise101 ($226.65 in chips) 
+Seat 6: steepfell ($100 in chips) 
+7bekon7: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+stevoooo34: folds 
+7bekon7: calls $0.50
+AllRaise101: checks 
+*** FLOP *** [Ac Th 8s]
+7bekon7: checks 
+AllRaise101: checks 
+*** TURN *** [Ac Th 8s] [8c]
+7bekon7: checks 
+EyzRED joins the table at seat #3 
+AllRaise101: checks 
+*** RIVER *** [Ac Th 8s 8c] [6s]
+7bekon7: checks 
+AllRaise101: bets $1
+7bekon7: calls $1
+*** SHOW DOWN ***
+AllRaise101: shows [2d 5s] (a pair of Eights)
+7bekon7: shows [7d Ts] (two pair, Tens and Eights)
+7bekon7 collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Ac Th 8s 8c 6s]
+Seat 5: talvion
+Seat 1: stevoooo34 (button) folded before Flop (didn't bet)
+Seat 2: 7bekon7 (small blind) showed [7d Ts] and won ($3.80) with two pair, Tens and Eights
+Seat 4: AllRaise101 (big blind) showed [2d 5s] and lost with a pair of Eights
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429246460:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:49:37 WET [2025/01/18 5:49:37 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 3: EyzRED ($100 in chips) is sitting out
+Seat 5: talvion ($0 in chips) is sitting out
+Seat 6: steepfell ($100 in chips) is sitting out
+Seat 1: stevoooo34 ($38.67 in chips) 
+Seat 2: 7bekon7 ($101.80 in chips) 
+Seat 4: AllRaise101 ($224.65 in chips) 
+AllRaise101: posts small blind $0.50
+steepfell: is sitting out 
+stevoooo34: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: raises $1.50 to $2.50
+AllRaise101: raises $8 to $10.50
+steepfell leaves the table
+stevoooo34: folds 
+7bekon7: folds 
+Uncalled bet ($8) returned to AllRaise101
+AllRaise101 collected $6 from pot
+talvion leaves the table
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: EyzRED
+Seat 5: talvion
+Seat 6: steepfell
+Seat 1: stevoooo34 (big blind) folded before Flop
+Seat 2: 7bekon7 (button) folded before Flop
+Seat 4: AllRaise101 (small blind) collected ($6)
+
+
+
+PokerStars Hand #254429250672:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:50:10 WET [2025/01/18 5:50:10 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 3: EyzRED ($100 in chips) is sitting out
+Seat 1: stevoooo34 ($37.67 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 4: AllRaise101 ($228.15 in chips) 
+stevoooo34: posts small blind $0.50
+7bekon7: posts big blind $1
+EyzRED: sits out 
+*** HOLE CARDS ***
+AllRaise101: folds 
+stevoooo34: calls $0.50
+7bekon7: raises $3 to $4
+stevoooo34: folds 
+Uncalled bet ($3) returned to 7bekon7
+7bekon7 collected $2 from pot
+7bekon7: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: EyzRED
+Seat 1: stevoooo34 (small blind) folded before Flop
+Seat 2: 7bekon7 (big blind) collected ($2)
+Seat 4: AllRaise101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429252686:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:50:26 WET [2025/01/18 5:50:26 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 1: stevoooo34 ($36.67 in chips) 
+Seat 2: 7bekon7 ($101 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($228.15 in chips) 
+7bekon7: posts small blind $0.50
+EyzRED: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: folds 
+stevoooo34: folds 
+7bekon7: calls $0.50
+EyzRED: checks 
+*** FLOP *** [8h Ks 9s]
+7bekon7: checks 
+EyzRED: checks 
+*** TURN *** [8h Ks 9s] [Qd]
+7bekon7: checks 
+EyzRED: checks 
+*** RIVER *** [8h Ks 9s Qd] [6h]
+7bekon7: checks 
+EyzRED: bets $1
+7bekon7: calls $1
+*** SHOW DOWN ***
+EyzRED: shows [Qs 3s] (a pair of Queens)
+7bekon7: mucks hand 
+EyzRED collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [8h Ks 9s Qd 6h]
+Seat 1: stevoooo34 (button) folded before Flop (didn't bet)
+Seat 2: 7bekon7 (small blind) mucked
+Seat 3: EyzRED (big blind) showed [Qs 3s] and won ($3.80) with a pair of Queens
+Seat 4: AllRaise101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429262181:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:51:42 WET [2025/01/18 5:51:42 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 1: stevoooo34 ($36.67 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($101.80 in chips) 
+Seat 4: AllRaise101 ($228.15 in chips) 
+EyzRED: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+stevoooo34: folds 
+7bekon7: folds 
+EyzRED: folds 
+Uncalled bet ($0.50) returned to AllRaise101
+AllRaise101 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: stevoooo34 folded before Flop (didn't bet)
+Seat 2: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 3: EyzRED (small blind) folded before Flop
+Seat 4: AllRaise101 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254429263524:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:51:53 WET [2025/01/18 5:51:53 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 1: stevoooo34 ($36.67 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($101.30 in chips) 
+Seat 4: AllRaise101 ($228.65 in chips) 
+AllRaise101: posts small blind $0.50
+stevoooo34: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+EyzRED: raises $1.50 to $2.50
+AllRaise101: folds 
+blistein joins the table at seat #6 
+AlpacinoFL joins the table at seat #5 
+AlpacinoFL is disconnected 
+stevoooo34: calls $1.50
+*** FLOP *** [3c Qh 2s]
+stevoooo34: checks 
+EyzRED: checks 
+*** TURN *** [3c Qh 2s] [4c]
+stevoooo34: bets $2.61
+EyzRED: calls $2.61
+*** RIVER *** [3c Qh 2s 4c] [Qc]
+stevoooo34: checks 
+EyzRED: checks 
+*** SHOW DOWN ***
+stevoooo34: shows [Jc 6s] (a pair of Queens)
+EyzRED: shows [As 7h] (a pair of Queens - Ace kicker)
+EyzRED collected $10.18 from pot
+*** SUMMARY ***
+Total pot $10.72 | Rake $0.54 
+Board [3c Qh 2s 4c Qc]
+Seat 1: stevoooo34 (big blind) showed [Jc 6s] and lost with a pair of Queens
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED (button) showed [As 7h] and won ($10.18) with a pair of Queens
+Seat 4: AllRaise101 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429271692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:52:57 WET [2025/01/18 5:52:57 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 5: AlpacinoFL ($53.35 in chips) is sitting out
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: stevoooo34 ($31.56 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($106.37 in chips) 
+Seat 4: AllRaise101 ($228.15 in chips) 
+stevoooo34: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+EyzRED: folds 
+AllRaise101: raises $1.50 to $2.50
+stevoooo34: folds 
+7bekon7: calls $1.50
+*** FLOP *** [6d 3s 4d]
+7bekon7: checks 
+AllRaise101: checks 
+*** TURN *** [6d 3s 4d] [Ah]
+7bekon7: checks 
+AllRaise101: checks 
+*** RIVER *** [6d 3s 4d Ah] [3h]
+7bekon7: checks 
+AllRaise101: bets $3
+7bekon7: calls $3
+*** SHOW DOWN ***
+AllRaise101: shows [8d 8h] (two pair, Eights and Threes)
+7bekon7: mucks hand 
+AllRaise101 collected $10.92 from pot
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.58 
+Board [6d 3s 4d Ah 3h]
+Seat 5: AlpacinoFL
+Seat 6: blistein
+Seat 1: stevoooo34 (small blind) folded before Flop
+Seat 2: 7bekon7 (big blind) mucked
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: AllRaise101 (button) showed [8d 8h] and won ($10.92) with two pair, Eights and Threes
+
+
+
+PokerStars Hand #254429279896:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:54:02 WET [2025/01/18 5:54:02 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 5: AlpacinoFL ($53.35 in chips) is sitting out
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: stevoooo34 ($31.06 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($106.37 in chips) 
+Seat 4: AllRaise101 ($233.57 in chips) 
+7bekon7: posts small blind $0.50
+EyzRED: posts big blind $1
+AlpacinoFL: sits out 
+blistein: sits out 
+*** HOLE CARDS ***
+AllRaise101: raises $1.50 to $2.50
+stevoooo34: calls $2.50
+7bekon7: folds 
+EyzRED: folds 
+*** FLOP *** [Th 7c 4c]
+AllRaise101: bets $2
+stevoooo34: calls $2
+*** TURN *** [Th 7c 4c] [2d]
+AllRaise101: bets $5
+stevoooo34: folds 
+Uncalled bet ($5) returned to AllRaise101
+AllRaise101 collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [Th 7c 4c 2d]
+Seat 5: AlpacinoFL
+Seat 6: blistein
+Seat 1: stevoooo34 (button) folded on the Turn
+Seat 2: 7bekon7 (small blind) folded before Flop
+Seat 3: EyzRED (big blind) folded before Flop
+Seat 4: AllRaise101 collected ($9.98)
+
+
+
+PokerStars Hand #254429285577:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:54:46 WET [2025/01/18 5:54:46 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 5: AlpacinoFL ($53.35 in chips) is sitting out
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: stevoooo34 ($26.56 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($105.37 in chips) 
+Seat 4: AllRaise101 ($239.05 in chips) 
+EyzRED: posts small blind $0.50
+AllRaise101: posts big blind $1
+AlpacinoFL: sits out 
+blistein: sits out 
+*** HOLE CARDS ***
+stevoooo34: folds 
+7bekon7: folds 
+EyzRED: raises $2 to $3
+AllRaise101: raises $6 to $9
+EyzRED: calls $6
+*** FLOP *** [7d 6s 2d]
+EyzRED: checks 
+AllRaise101: checks 
+*** TURN *** [7d 6s 2d] [Kh]
+EyzRED: checks 
+AllRaise101: bets $10
+EyzRED: calls $10
+*** RIVER *** [7d 6s 2d Kh] [8s]
+EyzRED: checks 
+AllRaise101: checks 
+*** SHOW DOWN ***
+EyzRED: shows [Td 8d] (a pair of Eights)
+AllRaise101: shows [Qh Kd] (a pair of Kings)
+AllRaise101 collected $37 from pot
+*** SUMMARY ***
+Total pot $38 | Rake $1 
+Board [7d 6s 2d Kh 8s]
+Seat 5: AlpacinoFL
+Seat 6: blistein
+Seat 1: stevoooo34 folded before Flop (didn't bet)
+Seat 2: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 3: EyzRED (small blind) showed [Td 8d] and lost with a pair of Eights
+Seat 4: AllRaise101 (big blind) showed [Qh Kd] and won ($37) with a pair of Kings
+
+
+
+PokerStars Hand #254429293845:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:56:01 WET [2025/01/18 5:56:01 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 6: blistein ($100 in chips) is sitting out
+Seat 1: stevoooo34 ($26.56 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($257.05 in chips) 
+Seat 5: AlpacinoFL ($53.35 in chips) 
+AllRaise101: posts small blind $0.50
+AlpacinoFL: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+stevoooo34: folds 
+7bekon7: folds 
+EyzRED: folds 
+AllRaise101: folds 
+Uncalled bet ($0.50) returned to AlpacinoFL
+AlpacinoFL collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: blistein
+Seat 1: stevoooo34 folded before Flop (didn't bet)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED (button) folded before Flop (didn't bet)
+Seat 4: AllRaise101 (small blind) folded before Flop
+Seat 5: AlpacinoFL (big blind) collected ($1)
+
+
+
+PokerStars Hand #254429295550:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:56:16 WET [2025/01/18 5:56:16 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 1: stevoooo34 ($26.56 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($256.55 in chips) 
+Seat 5: AlpacinoFL ($53.85 in chips) 
+Seat 6: blistein ($100 in chips) 
+AlpacinoFL: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+stevoooo34: folds 
+7bekon7: folds 
+stevoooo34 leaves the table
+EyzRED: folds 
+AllRaise101: raises $1.50 to $2.50
+AlpacinoFL: calls $2
+blistein: folds 
+*** FLOP *** [8s 2c 6s]
+AlpacinoFL: checks 
+gudrozd joins the table at seat #1 
+AllRaise101: bets $2
+AlpacinoFL: raises $4.85 to $6.85
+AllRaise101: calls $4.85
+*** TURN *** [8s 2c 6s] [8h]
+AlpacinoFL: bets $9.36
+AllRaise101: raises $237.84 to $247.20 and is all-in
+AlpacinoFL: folds 
+Uncalled bet ($237.84) returned to AllRaise101
+AllRaise101 collected $36.50 from pot
+*** SUMMARY ***
+Total pot $38.42 | Rake $1.92 
+Board [8s 2c 6s 8h]
+Seat 1: stevoooo34 folded before Flop (didn't bet)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: AllRaise101 (button) collected ($36.50)
+Seat 5: AlpacinoFL (small blind) folded on the Turn
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254429302900:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:57:24 WET [2025/01/18 5:57:24 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 1: gudrozd ($104 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($274.34 in chips) 
+Seat 5: AlpacinoFL ($35.14 in chips) 
+Seat 6: blistein ($100 in chips) 
+blistein: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: raises $1.25 to $2.25
+EyzRED: folds 
+AllRaise101: folds 
+AlpacinoFL: calls $2.25
+blistein: folds 
+gudrozd: raises $11.75 to $14
+7bekon7: folds 
+AlpacinoFL: calls $11.75
+*** FLOP *** [Jd 3d Tc]
+gudrozd: checks 
+AlpacinoFL: checks 
+*** TURN *** [Jd 3d Tc] [Ac]
+gudrozd: checks 
+AlpacinoFL: bets $21.14 and is all-in
+gudrozd: folds 
+Uncalled bet ($21.14) returned to AlpacinoFL
+AlpacinoFL collected $29.21 from pot
+*** SUMMARY ***
+Total pot $30.75 | Rake $1.54 
+Board [Jd 3d Tc Ac]
+Seat 1: gudrozd (big blind) folded on the Turn
+Seat 2: 7bekon7 folded before Flop
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: AllRaise101 folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (button) collected ($29.21)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429309439:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:58:25 WET [2025/01/18 5:58:25 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($274.34 in chips) 
+Seat 5: AlpacinoFL ($50.35 in chips) 
+Seat 6: blistein ($100 in chips) 
+gudrozd: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+EyzRED: folds 
+AllRaise101: folds 
+AlpacinoFL: folds 
+blistein: raises $1.50 to $2.50
+gudrozd: folds 
+7bekon7: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: 7bekon7 (big blind) folded before Flop
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: AllRaise101 folded before Flop (didn't bet)
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein (button) collected ($2.50)
+
+
+
+PokerStars Hand #254429311368:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:58:42 WET [2025/01/18 5:58:42 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($274.34 in chips) 
+Seat 5: AlpacinoFL ($50.35 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+7bekon7: posts small blind $0.50
+EyzRED: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: folds 
+AlpacinoFL: folds 
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+Uncalled bet ($0.50) returned to EyzRED
+EyzRED collected $1 from pot
+EyzRED: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: gudrozd (button) folded before Flop (didn't bet)
+Seat 2: 7bekon7 (small blind) folded before Flop
+Seat 3: EyzRED (big blind) collected ($1)
+Seat 4: AllRaise101 folded before Flop (didn't bet)
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429312594:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:58:54 WET [2025/01/18 5:58:54 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($100.50 in chips) 
+Seat 4: AllRaise101 ($274.34 in chips) 
+Seat 5: AlpacinoFL ($50.35 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+EyzRED: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+AlpacinoFL: folds 
+blistein: folds 
+gudrozd: folds 
+7bekon7: raises $1.25 to $2.25
+EyzRED: folds 
+AllRaise101: folds 
+Uncalled bet ($1.25) returned to 7bekon7
+7bekon7 collected $2.50 from pot
+7bekon7: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 (button) collected ($2.50)
+Seat 3: EyzRED (small blind) folded before Flop
+Seat 4: AllRaise101 (big blind) folded before Flop
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429314307:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:59:10 WET [2025/01/18 5:59:10 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($101.50 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($273.34 in chips) 
+Seat 5: AlpacinoFL ($50.35 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+AllRaise101: posts small blind $0.50
+AlpacinoFL: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+gudrozd: folds 
+7bekon7: raises $5.90 to $8.10
+EyzRED: folds 
+AllRaise101: folds 
+AlpacinoFL: folds 
+blistein: folds 
+Uncalled bet ($5.90) returned to 7bekon7
+7bekon7 collected $5.90 from pot
+7bekon7: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 collected ($5.90)
+Seat 3: EyzRED (button) folded before Flop (didn't bet)
+Seat 4: AllRaise101 (small blind) folded before Flop
+Seat 5: AlpacinoFL (big blind) folded before Flop
+Seat 6: blistein folded before Flop
+
+
+
+PokerStars Hand #254429315527:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:59:21 WET [2025/01/18 5:59:21 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($105.20 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($272.84 in chips) 
+Seat 5: AlpacinoFL ($49.35 in chips) 
+Seat 6: blistein ($100 in chips) 
+AlpacinoFL: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+AllRaise101: folds 
+AlpacinoFL: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: AllRaise101 (button) folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (small blind) folded before Flop
+Seat 6: blistein (big blind) collected ($1)
+
+
+
+PokerStars Hand #254429317486:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:59:39 WET [2025/01/18 5:59:39 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($105.20 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($272.84 in chips) 
+Seat 5: AlpacinoFL ($48.85 in chips) 
+Seat 6: blistein ($100.50 in chips) 
+blistein: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+EyzRED: folds 
+AllRaise101: folds 
+AlpacinoFL: folds 
+blistein: raises $2 to $3
+gudrozd: folds 
+Uncalled bet ($2) returned to blistein
+blistein collected $2 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gudrozd (big blind) folded before Flop
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: AllRaise101 folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) collected ($2)
+
+
+
+PokerStars Hand #254429318588:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 10:59:49 WET [2025/01/18 5:59:49 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($105.20 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($272.84 in chips) 
+Seat 5: AlpacinoFL ($48.85 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+gudrozd: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+EyzRED: raises $1.20 to $2.20
+AllRaise101: folds 
+AlpacinoFL: folds 
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+Uncalled bet ($1.20) returned to EyzRED
+EyzRED collected $2.50 from pot
+EyzRED: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: 7bekon7 (big blind) folded before Flop
+Seat 3: EyzRED collected ($2.50)
+Seat 4: AllRaise101 folded before Flop (didn't bet)
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429320377:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:00:06 WET [2025/01/18 6:00:06 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($104.20 in chips) 
+Seat 3: EyzRED ($101.50 in chips) 
+Seat 4: AllRaise101 ($272.84 in chips) 
+Seat 5: AlpacinoFL ($48.85 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+7bekon7: posts small blind $0.50
+EyzRED: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: raises $1.50 to $2.50
+AlpacinoFL: folds 
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+Uncalled bet ($1.50) returned to AllRaise101
+AllRaise101 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd (button) folded before Flop (didn't bet)
+Seat 2: 7bekon7 (small blind) folded before Flop
+Seat 3: EyzRED (big blind) folded before Flop
+Seat 4: AllRaise101 collected ($2.50)
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429322189:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:00:23 WET [2025/01/18 6:00:23 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($103.70 in chips) 
+Seat 3: EyzRED ($100.50 in chips) 
+Seat 4: AllRaise101 ($274.34 in chips) 
+Seat 5: AlpacinoFL ($48.85 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+EyzRED: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+AlpacinoFL: raises $2 to $3
+blistein: folds 
+gudrozd: folds 
+7bekon7: raises $6.50 to $9.50
+EyzRED: folds 
+AllRaise101: folds 
+AlpacinoFL: calls $6.50
+*** FLOP *** [Qs 8c 6d]
+AlpacinoFL: checks 
+7bekon7: bets $12.18
+AlpacinoFL: folds 
+Uncalled bet ($12.18) returned to 7bekon7
+7bekon7 collected $19.48 from pot
+7bekon7: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.50 | Rake $1.02 
+Board [Qs 8c 6d]
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 (button) collected ($19.48)
+Seat 3: EyzRED (small blind) folded before Flop
+Seat 4: AllRaise101 (big blind) folded before Flop
+Seat 5: AlpacinoFL folded on the Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429326862:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:01:04 WET [2025/01/18 6:01:04 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($113.68 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($273.34 in chips) 
+Seat 5: AlpacinoFL ($39.35 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+AllRaise101: posts small blind $0.50
+AlpacinoFL: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+AllRaise101: raises $2 to $3
+AlpacinoFL: raises $36.35 to $39.35 and is all-in
+AllRaise101: folds 
+Uncalled bet ($36.35) returned to AlpacinoFL
+AlpacinoFL collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED (button) folded before Flop (didn't bet)
+Seat 4: AllRaise101 (small blind) folded before Flop
+Seat 5: AlpacinoFL (big blind) collected ($6)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429329459:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:01:24 WET [2025/01/18 6:01:24 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($113.68 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($270.34 in chips) 
+Seat 5: AlpacinoFL ($42.35 in chips) 
+Seat 6: blistein ($101.50 in chips) 
+AlpacinoFL: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+7bekon7: raises $1.25 to $2.25
+EyzRED: folds 
+AllRaise101: calls $2.25
+AlpacinoFL: calls $1.75
+blistein: folds 
+*** FLOP *** [9d 4d 5s]
+AlpacinoFL: checks 
+7bekon7: bets $1.84
+AllRaise101: raises $8.16 to $10
+AlpacinoFL: folds 
+7bekon7: folds 
+Uncalled bet ($8.16) returned to AllRaise101
+AllRaise101 collected $10.86 from pot
+*** SUMMARY ***
+Total pot $11.43 | Rake $0.57 
+Board [9d 4d 5s]
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 folded on the Flop
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: AllRaise101 (button) collected ($10.86)
+Seat 5: AlpacinoFL (small blind) folded on the Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254429334255:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:02:02 WET [2025/01/18 6:02:02 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($109.59 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($277.11 in chips) 
+Seat 5: AlpacinoFL ($40.10 in chips) 
+Seat 6: blistein ($100.50 in chips) 
+blistein: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+EyzRED: folds 
+AllRaise101: folds 
+AlpacinoFL: raises $2 to $3
+blistein: folds 
+gudrozd: calls $2
+*** FLOP *** [Tc Js Td]
+gudrozd: checks 
+AlpacinoFL: checks 
+*** TURN *** [Tc Js Td] [Ks]
+gudrozd: checks 
+AlpacinoFL: bets $3.09
+gudrozd: folds 
+Uncalled bet ($3.09) returned to AlpacinoFL
+AlpacinoFL collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Tc Js Td Ks]
+Seat 1: gudrozd (big blind) folded on the Turn
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: AllRaise101 folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (button) collected ($6.18)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429339011:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:02:40 WET [2025/01/18 6:02:40 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($109.59 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($277.11 in chips) 
+Seat 5: AlpacinoFL ($43.28 in chips) 
+Seat 6: blistein ($100 in chips) 
+gudrozd: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+EyzRED: folds 
+AllRaise101: folds 
+AlpacinoFL: calls $1
+blistein: folds 
+gudrozd: folds 
+7bekon7: checks 
+*** FLOP *** [Jc 4d Ts]
+7bekon7: bets $1.19
+AlpacinoFL: folds 
+Uncalled bet ($1.19) returned to 7bekon7
+7bekon7 collected $2.38 from pot
+7bekon7: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Jc 4d Ts]
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: 7bekon7 (big blind) collected ($2.38)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: AllRaise101 folded before Flop (didn't bet)
+Seat 5: AlpacinoFL folded on the Flop
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429344306:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:03:21 WET [2025/01/18 6:03:21 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($110.97 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($277.11 in chips) 
+Seat 5: AlpacinoFL ($42.28 in chips) 
+Seat 6: blistein ($100 in chips) 
+7bekon7: posts small blind $0.50
+EyzRED: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: folds 
+AlpacinoFL: folds 
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+Uncalled bet ($0.50) returned to EyzRED
+EyzRED collected $1 from pot
+EyzRED: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: gudrozd (button) folded before Flop (didn't bet)
+Seat 2: 7bekon7 (small blind) folded before Flop
+Seat 3: EyzRED (big blind) collected ($1)
+Seat 4: AllRaise101 folded before Flop (didn't bet)
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429346490:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:03:38 WET [2025/01/18 6:03:38 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($110.47 in chips) 
+Seat 3: EyzRED ($100.50 in chips) 
+Seat 4: AllRaise101 ($277.11 in chips) 
+Seat 5: AlpacinoFL ($42.28 in chips) 
+Seat 6: blistein ($100 in chips) 
+EyzRED: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+AlpacinoFL: raises $2 to $3
+blistein: folds 
+gudrozd: folds 
+7bekon7: raises $6.50 to $9.50
+EyzRED: folds 
+AllRaise101: folds 
+AlpacinoFL: raises $32.78 to $42.28 and is all-in
+7bekon7: folds 
+Uncalled bet ($32.78) returned to AlpacinoFL
+AlpacinoFL collected $20.50 from pot
+*** SUMMARY ***
+Total pot $20.50 | Rake $0 
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 (button) folded before Flop
+Seat 3: EyzRED (small blind) folded before Flop
+Seat 4: AllRaise101 (big blind) folded before Flop
+Seat 5: AlpacinoFL collected ($20.50)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429352957:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:04:29 WET [2025/01/18 6:04:29 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($100.97 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($276.11 in chips) 
+Seat 5: AlpacinoFL ($53.28 in chips) 
+Seat 6: blistein ($100 in chips) 
+AllRaise101: posts small blind $0.50
+AlpacinoFL: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gudrozd: raises $1.50 to $2.50
+7bekon7: folds 
+EyzRED: folds 
+AllRaise101: folds 
+AlpacinoFL: calls $1.50
+*** FLOP *** [Qs Js 5h]
+AlpacinoFL: checks 
+gudrozd: checks 
+*** TURN *** [Qs Js 5h] [3h]
+AlpacinoFL: checks 
+gudrozd: bets $1.30
+AlpacinoFL: calls $1.30
+*** RIVER *** [Qs Js 5h 3h] [Kd]
+AlpacinoFL: checks 
+gudrozd: checks 
+*** SHOW DOWN ***
+AlpacinoFL: shows [2s 9s] (high card King)
+gudrozd: shows [Ah 8d] (high card Ace)
+gudrozd collected $7.70 from pot
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.40 
+Board [Qs Js 5h 3h Kd]
+Seat 1: gudrozd showed [Ah 8d] and won ($7.70) with high card Ace
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED (button) folded before Flop (didn't bet)
+Seat 4: AllRaise101 (small blind) folded before Flop
+Seat 5: AlpacinoFL (big blind) showed [2s 9s] and lost with high card King
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429358159:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:05:09 WET [2025/01/18 6:05:09 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 1: gudrozd ($103.90 in chips) 
+Seat 2: 7bekon7 ($100.97 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($275.61 in chips) 
+Seat 5: AlpacinoFL ($49.48 in chips) 
+Seat 6: blistein ($100 in chips) 
+AlpacinoFL: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+7bekon7: raises $1.25 to $2.25
+EyzRED: raises $5.25 to $7.50
+AllRaise101: folds 
+AlpacinoFL: folds 
+blistein: folds 
+7bekon7: raises $17 to $24.50
+EyzRED: folds 
+Uncalled bet ($17) returned to 7bekon7
+7bekon7 collected $16.50 from pot
+7bekon7: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0 
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 collected ($16.50)
+Seat 3: EyzRED folded before Flop
+Seat 4: AllRaise101 (button) folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (small blind) folded before Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254429361776:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:05:37 WET [2025/01/18 6:05:37 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 1: gudrozd ($103.90 in chips) 
+Seat 2: 7bekon7 ($109.97 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: AllRaise101 ($275.61 in chips) 
+Seat 5: AlpacinoFL ($48.98 in chips) 
+Seat 6: blistein ($100 in chips) 
+blistein: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+EyzRED: folds 
+AllRaise101: folds 
+AlpacinoFL: folds 
+AllRaise101 leaves the table
+blistein: folds 
+Uncalled bet ($0.50) returned to gudrozd
+gudrozd collected $1 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: gudrozd (big blind) collected ($1)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: AllRaise101 folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429363285:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:05:49 WET [2025/01/18 6:05:49 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 1: gudrozd ($104.40 in chips) 
+Seat 2: 7bekon7 ($109.97 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 5: AlpacinoFL ($48.98 in chips) 
+Seat 6: blistein ($100 in chips) 
+gudrozd: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+EyzRED: raises $1.20 to $2.20
+AlpacinoFL: folds 
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+Uncalled bet ($1.20) returned to EyzRED
+EyzRED collected $2.50 from pot
+EyzRED: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: 7bekon7 (big blind) folded before Flop
+Seat 3: EyzRED collected ($2.50)
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429364995:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:06:01 WET [2025/01/18 6:06:01 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 1: gudrozd ($103.90 in chips) 
+Seat 2: 7bekon7 ($108.97 in chips) 
+Seat 3: EyzRED ($101.50 in chips) 
+Seat 5: AlpacinoFL ($48.98 in chips) 
+Seat 6: blistein ($100 in chips) 
+7bekon7: posts small blind $0.50
+EyzRED: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro joins the table at seat #4 
+AlpacinoFL: folds 
+blistein: folds 
+gudrozd: raises $1.50 to $2.50
+7bekon7: raises $6 to $8.50
+EyzRED: folds 
+gudrozd: raises $12.50 to $21
+7bekon7: folds 
+Uncalled bet ($12.50) returned to gudrozd
+gudrozd collected $18 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0 
+Seat 1: gudrozd (button) collected ($18)
+Seat 2: 7bekon7 (small blind) folded before Flop
+Seat 3: EyzRED (big blind) folded before Flop
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429369537:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:06:37 WET [2025/01/18 6:06:37 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 1: gudrozd ($113.40 in chips) 
+Seat 2: 7bekon7 ($100.47 in chips) 
+Seat 3: EyzRED ($100.50 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+Seat 5: AlpacinoFL ($48.98 in chips) 
+Seat 6: blistein ($100 in chips) 
+EyzRED: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+AlpacinoFL: raises $2 to $3
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+Supermegopro: calls $2
+*** FLOP *** [7s Ts 4c]
+Supermegopro: checks 
+AlpacinoFL: bets $3.09
+Supermegopro: folds 
+Uncalled bet ($3.09) returned to AlpacinoFL
+AlpacinoFL collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [7s Ts 4c]
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 3: EyzRED (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) folded on the Flop
+Seat 5: AlpacinoFL collected ($6.18)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429374006:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:07:11 WET [2025/01/18 6:07:11 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 1: gudrozd ($113.40 in chips) 
+Seat 2: 7bekon7 ($100.47 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+Seat 5: AlpacinoFL ($52.16 in chips) 
+Seat 6: blistein ($100 in chips) 
+Supermegopro: posts small blind $0.50
+AlpacinoFL: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+Supermegopro: folds 
+Uncalled bet ($0.50) returned to AlpacinoFL
+AlpacinoFL collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: AlpacinoFL (big blind) collected ($1)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429376256:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:07:29 WET [2025/01/18 6:07:29 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 1: gudrozd ($113.40 in chips) 
+Seat 2: 7bekon7 ($100.47 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+Seat 5: AlpacinoFL ($52.66 in chips) 
+Seat 6: blistein ($100 in chips) 
+AlpacinoFL: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+Supermegopro: folds 
+AlpacinoFL: calls $0.50
+blistein: checks 
+*** FLOP *** [Td 4c 8d]
+AlpacinoFL: bets $2
+blistein: calls $2
+*** TURN *** [Td 4c 8d] [Qc]
+AlpacinoFL: bets $2.85
+blistein: folds 
+Uncalled bet ($2.85) returned to AlpacinoFL
+AlpacinoFL collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Td 4c 8d Qc]
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (small blind) collected ($5.70)
+Seat 6: blistein (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254429381179:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:08:07 WET [2025/01/18 6:08:07 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 1: gudrozd ($113.40 in chips) 
+Seat 2: 7bekon7 ($100.47 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+Seat 5: AlpacinoFL ($55.36 in chips) 
+Seat 6: blistein ($100 in chips) 
+blistein: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+EyzRED: folds 
+Supermegopro: folds 
+AlpacinoFL: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to gudrozd
+gudrozd collected $1 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: gudrozd (big blind) collected ($1)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429382161:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:08:15 WET [2025/01/18 6:08:15 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 1: gudrozd ($113.90 in chips) 
+Seat 2: 7bekon7 ($100.47 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+Seat 5: AlpacinoFL ($55.36 in chips) 
+Seat 6: blistein ($100 in chips) 
+gudrozd: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+EyzRED: raises $1.20 to $2.20
+Supermegopro: folds 
+AlpacinoFL: folds 
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+Uncalled bet ($1.20) returned to EyzRED
+EyzRED collected $2.50 from pot
+EyzRED: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: 7bekon7 (big blind) folded before Flop
+Seat 3: EyzRED collected ($2.50)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429385338:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:08:40 WET [2025/01/18 6:08:40 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 1: gudrozd ($113.40 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($101.50 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+Seat 5: AlpacinoFL ($55.36 in chips) 
+Seat 6: blistein ($100 in chips) 
+7bekon7: posts small blind $0.50
+EyzRED: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+AlpacinoFL: folds 
+blistein: raises $1.30 to $2.30
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: raises $8.70 to $11
+blistein: folds 
+Uncalled bet ($8.70) returned to EyzRED
+EyzRED collected $5.10 from pot
+EyzRED: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0 
+Seat 1: gudrozd (button) folded before Flop (didn't bet)
+Seat 2: 7bekon7 (small blind) folded before Flop
+Seat 3: EyzRED (big blind) collected ($5.10)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop
+
+
+
+PokerStars Hand #254429389643:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:09:13 WET [2025/01/18 6:09:13 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 1: gudrozd ($113.40 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($104.30 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+Seat 5: AlpacinoFL ($55.36 in chips) 
+Seat 6: blistein ($100 in chips) 
+EyzRED: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+AlpacinoFL: folds 
+blistein: raises $1.20 to $2.20
+gudrozd: folds 
+7bekon7: calls $2.20
+EyzRED: folds 
+Supermegopro: folds 
+*** FLOP *** [4c 2c 9h]
+blistein: checks 
+7bekon7: checks 
+*** TURN *** [4c 2c 9h] [7s]
+blistein: bets $1.90
+7bekon7: calls $1.90
+*** RIVER *** [4c 2c 9h 7s] [5d]
+blistein: bets $3.13
+7bekon7: folds 
+Uncalled bet ($3.13) returned to blistein
+blistein collected $9.22 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.70 | Rake $0.48 
+Board [4c 2c 9h 7s 5d]
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 (button) folded on the River
+Seat 3: EyzRED (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) folded before Flop
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein collected ($9.22)
+
+
+
+PokerStars Hand #254429397185:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:10:11 WET [2025/01/18 6:10:11 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 1: gudrozd ($113.40 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($103.80 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+Seat 5: AlpacinoFL ($55.36 in chips) 
+Seat 6: blistein ($105.12 in chips) 
+Supermegopro: posts small blind $0.50
+AlpacinoFL: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gudrozd: raises $1.50 to $2.50
+7bekon7: folds 
+EyzRED: folds 
+Supermegopro: folds 
+AlpacinoFL: calls $1.50
+*** FLOP *** [5c 8h 8d]
+AlpacinoFL: checks 
+gudrozd: bets $1.72
+AlpacinoFL: calls $1.72
+*** TURN *** [5c 8h 8d] [4d]
+AlpacinoFL: checks 
+gudrozd: checks 
+*** RIVER *** [5c 8h 8d 4d] [3h]
+AlpacinoFL: bets $8.49
+gudrozd: folds 
+Uncalled bet ($8.49) returned to AlpacinoFL
+AlpacinoFL collected $8.49 from pot
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [5c 8h 8d 4d 3h]
+Seat 1: gudrozd folded on the River
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: AlpacinoFL (big blind) collected ($8.49)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429402624:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:10:54 WET [2025/01/18 6:10:54 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 1: gudrozd ($109.18 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($103.80 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+Seat 5: AlpacinoFL ($59.63 in chips) 
+Seat 6: blistein ($105.12 in chips) 
+AlpacinoFL: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+Supermegopro: raises $2 to $3
+AlpacinoFL: folds 
+blistein: folds 
+Uncalled bet ($2) returned to Supermegopro
+Supermegopro collected $2.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: Supermegopro (button) collected ($2.50)
+Seat 5: AlpacinoFL (small blind) folded before Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254429404559:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:11:08 WET [2025/01/18 6:11:08 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 1: gudrozd ($109.18 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($103.80 in chips) 
+Seat 4: Supermegopro ($101.50 in chips) 
+Seat 5: AlpacinoFL ($59.13 in chips) 
+Seat 6: blistein ($104.12 in chips) 
+blistein: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+EyzRED: raises $1.20 to $2.20
+Supermegopro: folds 
+AlpacinoFL: folds 
+blistein: folds 
+gudrozd: folds 
+Uncalled bet ($1.20) returned to EyzRED
+EyzRED collected $2.50 from pot
+EyzRED: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd (big blind) folded before Flop
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED collected ($2.50)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429407374:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:11:30 WET [2025/01/18 6:11:30 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 1: gudrozd ($108.18 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($105.30 in chips) 
+Seat 4: Supermegopro ($101.50 in chips) 
+Seat 5: AlpacinoFL ($59.13 in chips) 
+Seat 6: blistein ($103.62 in chips) 
+gudrozd: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+EyzRED: folds 
+Supermegopro: folds 
+AlpacinoFL: raises $2 to $3
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+Uncalled bet ($2) returned to AlpacinoFL
+AlpacinoFL collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: 7bekon7 (big blind) folded before Flop
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: AlpacinoFL collected ($2.50)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429408926:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:11:42 WET [2025/01/18 6:11:42 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 1: gudrozd ($107.68 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($105.30 in chips) 
+Seat 4: Supermegopro ($101.50 in chips) 
+Seat 5: AlpacinoFL ($60.63 in chips) 
+Seat 6: blistein ($103.62 in chips) 
+7bekon7: posts small blind $0.50
+EyzRED: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+AlpacinoFL: raises $1 to $2
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+Uncalled bet ($1) returned to AlpacinoFL
+AlpacinoFL collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd (button) folded before Flop (didn't bet)
+Seat 2: 7bekon7 (small blind) folded before Flop
+Seat 3: EyzRED (big blind) folded before Flop
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: AlpacinoFL collected ($2.50)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429410765:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:11:56 WET [2025/01/18 6:11:56 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 1: gudrozd ($107.68 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($104.30 in chips) 
+Seat 4: Supermegopro ($101.50 in chips) 
+Seat 5: AlpacinoFL ($62.13 in chips) 
+Seat 6: blistein ($103.62 in chips) 
+EyzRED: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+AlpacinoFL: folds 
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: raises $2 to $3
+Supermegopro: raises $7 to $10
+EyzRED: folds 
+Uncalled bet ($7) returned to Supermegopro
+Supermegopro collected $6 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 3: EyzRED (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) collected ($6)
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429412978:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:12:13 WET [2025/01/18 6:12:13 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 1: gudrozd ($107.68 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($101.30 in chips) 
+Seat 4: Supermegopro ($104.50 in chips) 
+Seat 5: AlpacinoFL ($62.13 in chips) 
+Seat 6: blistein ($103.62 in chips) 
+Supermegopro: posts small blind $0.50
+AlpacinoFL: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+Supermegopro: raises $2 to $3
+AlpacinoFL: folds 
+Uncalled bet ($2) returned to Supermegopro
+Supermegopro collected $2 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) collected ($2)
+Seat 5: AlpacinoFL (big blind) folded before Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429414757:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:12:27 WET [2025/01/18 6:12:27 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 1: gudrozd ($107.68 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($101.30 in chips) 
+Seat 4: Supermegopro ($105.50 in chips) 
+Seat 5: AlpacinoFL ($61.13 in chips) 
+Seat 6: blistein ($103.62 in chips) 
+AlpacinoFL: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: raises $1.50 to $2.50
+7bekon7: folds 
+EyzRED: folds 
+Supermegopro: folds 
+AlpacinoFL: calls $2
+blistein: calls $1.50
+*** FLOP *** [7d 5c Ad]
+AlpacinoFL: checks 
+blistein: checks 
+gudrozd: bets $2.35
+AlpacinoFL: calls $2.35
+blistein: folds 
+*** TURN *** [7d 5c Ad] [3c]
+AlpacinoFL: checks 
+gudrozd: bets $17.39
+AlpacinoFL: calls $17.39
+*** RIVER *** [7d 5c Ad 3c] [Kc]
+AlpacinoFL: checks 
+gudrozd: checks 
+*** SHOW DOWN ***
+AlpacinoFL: shows [Ah 6h] (a pair of Aces)
+gudrozd: shows [Ac Th] (a pair of Aces - King+Ten kicker)
+gudrozd collected $44.63 from pot
+*** SUMMARY ***
+Total pot $46.98 | Rake $2.35 
+Board [7d 5c Ad 3c Kc]
+Seat 1: gudrozd showed [Ac Th] and won ($44.63) with a pair of Aces
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (small blind) showed [Ah 6h] and lost with a pair of Aces
+Seat 6: blistein (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254429423581:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:13:34 WET [2025/01/18 6:13:34 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 1: gudrozd ($130.07 in chips) 
+Seat 2: 7bekon7 ($100 in chips) 
+Seat 3: EyzRED ($101.30 in chips) 
+Seat 4: Supermegopro ($105.50 in chips) 
+Seat 5: AlpacinoFL ($38.89 in chips) 
+Seat 6: blistein ($101.12 in chips) 
+blistein: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: raises $1.25 to $2.25
+EyzRED: folds 
+Supermegopro: folds 
+AlpacinoFL: folds 
+blistein: folds 
+gudrozd: folds 
+Uncalled bet ($1.25) returned to 7bekon7
+7bekon7 collected $2.50 from pot
+7bekon7: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd (big blind) folded before Flop
+Seat 2: 7bekon7 collected ($2.50)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429424995:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:13:45 WET [2025/01/18 6:13:45 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 1: gudrozd ($129.07 in chips) 
+Seat 2: 7bekon7 ($101.50 in chips) 
+Seat 3: EyzRED ($101.30 in chips) 
+Seat 4: Supermegopro ($105.50 in chips) 
+Seat 5: AlpacinoFL ($38.89 in chips) 
+Seat 6: blistein ($100.62 in chips) 
+gudrozd: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+EyzRED: folds 
+Supermegopro: folds 
+AlpacinoFL: folds 
+blistein: folds 
+gudrozd: folds 
+Uncalled bet ($0.50) returned to 7bekon7
+7bekon7 collected $1 from pot
+7bekon7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: 7bekon7 (big blind) collected ($1)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429426467:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:13:56 WET [2025/01/18 6:13:56 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 1: gudrozd ($128.57 in chips) 
+Seat 2: 7bekon7 ($102 in chips) 
+Seat 3: EyzRED ($101.30 in chips) 
+Seat 4: Supermegopro ($105.50 in chips) 
+Seat 5: AlpacinoFL ($38.89 in chips) 
+Seat 6: blistein ($100.62 in chips) 
+7bekon7: posts small blind $0.50
+EyzRED: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+AlpacinoFL: raises $2 to $3
+blistein: folds 
+gudrozd: folds 
+7bekon7: raises $7 to $10
+Supermegopro leaves the table
+EyzRED: folds 
+AlpacinoFL: calls $7
+*** FLOP *** [Kc Jd 3s]
+7bekon7: bets $4.99
+AlpacinoFL: folds 
+Uncalled bet ($4.99) returned to 7bekon7
+7bekon7 collected $19.95 from pot
+7bekon7: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [Kc Jd 3s]
+Seat 1: gudrozd (button) folded before Flop (didn't bet)
+Seat 2: 7bekon7 (small blind) collected ($19.95)
+Seat 3: EyzRED (big blind) folded before Flop
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: AlpacinoFL folded on the Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429430230:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:14:25 WET [2025/01/18 6:14:25 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 1: gudrozd ($128.57 in chips) 
+Seat 2: 7bekon7 ($111.95 in chips) 
+Seat 3: EyzRED ($100.30 in chips) 
+Seat 5: AlpacinoFL ($28.89 in chips) 
+Seat 6: blistein ($100.62 in chips) 
+EyzRED: posts small blind $0.50
+AlpacinoFL: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gudrozd: raises $1.50 to $2.50
+7bekon7: folds 
+EyzRED: folds 
+AlpacinoFL: raises $1.50 to $4
+gudrozd: raises $26 to $30
+AlpacinoFL: calls $24.89 and is all-in
+Uncalled bet ($1.11) returned to gudrozd
+*** FLOP *** [2h 8c 7c]
+*** TURN *** [2h 8c 7c] [7h]
+*** RIVER *** [2h 8c 7c 7h] [Th]
+*** SHOW DOWN ***
+AlpacinoFL: shows [9d 8s] (two pair, Eights and Sevens)
+gudrozd: shows [Qc Ah] (a pair of Sevens)
+AlpacinoFL collected $55.78 from pot
+*** SUMMARY ***
+Total pot $58.28 | Rake $2.50 
+Board [2h 8c 7c 7h Th]
+Seat 1: gudrozd showed [Qc Ah] and lost with a pair of Sevens
+Seat 2: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 3: EyzRED (small blind) folded before Flop
+Seat 5: AlpacinoFL (big blind) showed [9d 8s] and won ($55.78) with two pair, Eights and Sevens
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429435430:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:15:03 WET [2025/01/18 6:15:03 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: 7bekon7 ($111.95 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 5: AlpacinoFL ($55.78 in chips) 
+Seat 6: blistein ($100.62 in chips) 
+AlpacinoFL: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: raises $1.50 to $2.50
+7bekon7: folds 
+EyzRED: folds 
+AlpacinoFL: calls $2
+blistein: folds 
+*** FLOP *** [9d 6h Ad]
+AlpacinoFL: checks 
+gudrozd: bets $1.43
+AlpacinoFL: calls $1.43
+*** TURN *** [9d 6h Ad] [4h]
+B1GBankroll joins the table at seat #4 
+AlpacinoFL: checks 
+gudrozd: checks 
+*** RIVER *** [9d 6h Ad 4h] [5h]
+AlpacinoFL: checks 
+gudrozd: checks 
+*** SHOW DOWN ***
+AlpacinoFL: shows [7s Tc] (high card Ace)
+gudrozd: shows [Jc Qh] (high card Ace - Queen kicker)
+gudrozd collected $8.42 from pot
+*** SUMMARY ***
+Total pot $8.86 | Rake $0.44 
+Board [9d 6h Ad 4h 5h]
+Seat 1: gudrozd showed [Jc Qh] and won ($8.42) with high card Ace
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED (button) folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (small blind) showed [7s Tc] and lost with high card Ace
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254429439896:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:15:37 WET [2025/01/18 6:15:37 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 4: B1GBankroll ($100 in chips) is sitting out
+Seat 1: gudrozd ($104.49 in chips) 
+Seat 2: 7bekon7 ($111.95 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 5: AlpacinoFL ($51.85 in chips) 
+Seat 6: blistein ($100 in chips) 
+blistein: posts small blind $0.50
+gudrozd: posts big blind $1
+B1GBankroll: sits out 
+*** HOLE CARDS ***
+7bekon7: folds 
+EyzRED: folds 
+AlpacinoFL: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to gudrozd
+gudrozd collected $1 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: B1GBankroll
+Seat 1: gudrozd (big blind) collected ($1)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429441126:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:15:46 WET [2025/01/18 6:15:46 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 4: B1GBankroll ($100 in chips) is sitting out
+Seat 1: gudrozd ($104.99 in chips) 
+Seat 2: 7bekon7 ($111.95 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 5: AlpacinoFL ($51.85 in chips) 
+Seat 6: blistein ($100 in chips) 
+gudrozd: posts small blind $0.50
+7bekon7: posts big blind $1
+B1GBankroll: sits out 
+*** HOLE CARDS ***
+EyzRED: raises $1.20 to $2.20
+AlpacinoFL: calls $2.20
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+*** FLOP *** [9c Jh 9d]
+EyzRED: bets $1.62
+AlpacinoFL: raises $4.42 to $6.04
+EyzRED: calls $4.42
+*** TURN *** [9c Jh 9d] [Td]
+EyzRED: checks 
+AlpacinoFL: bets $43.61 and is all-in
+EyzRED: folds 
+Uncalled bet ($43.61) returned to AlpacinoFL
+AlpacinoFL collected $17.08 from pot
+*** SUMMARY ***
+Total pot $17.98 | Rake $0.90 
+Board [9c Jh 9d Td]
+Seat 4: B1GBankroll
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: 7bekon7 (big blind) folded before Flop
+Seat 3: EyzRED folded on the Turn
+Seat 5: AlpacinoFL collected ($17.08)
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429447105:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:16:29 WET [2025/01/18 6:16:29 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 4: B1GBankroll ($100 in chips) is sitting out
+Seat 1: gudrozd ($104.49 in chips) 
+Seat 2: 7bekon7 ($110.95 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 5: AlpacinoFL ($60.69 in chips) 
+Seat 6: blistein ($100 in chips) 
+7bekon7: posts small blind $0.50
+EyzRED: posts big blind $1
+B1GBankroll: sits out 
+*** HOLE CARDS ***
+AlpacinoFL: folds 
+blistein: folds 
+gudrozd: raises $1.50 to $2.50
+7bekon7: folds 
+EyzRED: folds 
+Uncalled bet ($1.50) returned to gudrozd
+gudrozd collected $2.50 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: B1GBankroll
+Seat 1: gudrozd (button) collected ($2.50)
+Seat 2: 7bekon7 (small blind) folded before Flop
+Seat 3: EyzRED (big blind) folded before Flop
+Seat 5: AlpacinoFL folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429449072:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:16:44 WET [2025/01/18 6:16:44 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 1: gudrozd ($105.99 in chips) 
+Seat 2: 7bekon7 ($110.45 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: B1GBankroll ($100 in chips) 
+Seat 5: AlpacinoFL ($60.69 in chips) 
+Seat 6: blistein ($100 in chips) 
+EyzRED: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+AlpacinoFL: raises $1 to $2
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+B1GBankroll: calls $1
+*** FLOP *** [Jh Jd Js]
+B1GBankroll: checks 
+AlpacinoFL: checks 
+*** TURN *** [Jh Jd Js] [5h]
+B1GBankroll: checks 
+AlpacinoFL: bets $3
+B1GBankroll: calls $3
+*** RIVER *** [Jh Jd Js 5h] [3h]
+B1GBankroll: checks 
+AlpacinoFL: bets $4.99
+B1GBankroll: folds 
+Uncalled bet ($4.99) returned to AlpacinoFL
+AlpacinoFL collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [Jh Jd Js 5h 3h]
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 3: EyzRED (small blind) folded before Flop
+Seat 4: B1GBankroll (big blind) folded on the River
+Seat 5: AlpacinoFL collected ($9.98)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429455935:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:17:34 WET [2025/01/18 6:17:34 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 1: gudrozd ($105.99 in chips) 
+Seat 2: 7bekon7 ($110.45 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: B1GBankroll ($100 in chips) 
+Seat 5: AlpacinoFL ($65.67 in chips) 
+Seat 6: blistein ($100 in chips) 
+B1GBankroll: posts small blind $0.50
+AlpacinoFL: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+B1GBankroll: calls $0.50
+AlpacinoFL: checks 
+*** FLOP *** [Th 2s Qd]
+B1GBankroll: bets $1
+AlpacinoFL: folds 
+Uncalled bet ($1) returned to B1GBankroll
+B1GBankroll collected $1.90 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Th 2s Qd]
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED (button) folded before Flop (didn't bet)
+Seat 4: B1GBankroll (small blind) collected ($1.90)
+Seat 5: AlpacinoFL (big blind) folded on the Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429459358:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:18:00 WET [2025/01/18 6:18:00 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 1: gudrozd ($105.99 in chips) 
+Seat 2: 7bekon7 ($110.45 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: B1GBankroll ($100.90 in chips) 
+Seat 5: AlpacinoFL ($64.67 in chips) 
+Seat 6: blistein ($100 in chips) 
+AlpacinoFL: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+B1GBankroll: raises $1.50 to $2.50
+AlpacinoFL: folds 
+blistein: folds 
+Uncalled bet ($1.50) returned to B1GBankroll
+B1GBankroll collected $2.50 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: B1GBankroll (button) collected ($2.50)
+Seat 5: AlpacinoFL (small blind) folded before Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254429461327:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:18:14 WET [2025/01/18 6:18:14 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 1: gudrozd ($105.99 in chips) 
+Seat 2: 7bekon7 ($110.45 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: B1GBankroll ($102.40 in chips) 
+Seat 5: AlpacinoFL ($64.17 in chips) 
+Seat 6: blistein ($100 in chips) 
+blistein: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: raises $1.25 to $2.25
+EyzRED: folds 
+B1GBankroll: folds 
+AlpacinoFL: folds 
+blistein: raises $8.75 to $11
+gudrozd: folds 
+7bekon7: calls $8.75
+*** FLOP *** [6d 6s 4h]
+blistein: bets $13
+7bekon7: calls $13
+*** TURN *** [6d 6s 4h] [4d]
+blistein: bets $23.28
+7bekon7: calls $23.28
+*** RIVER *** [6d 6s 4h 4d] [Js]
+blistein: bets $52.72 and is all-in
+7bekon7: calls $52.72
+*** SHOW DOWN ***
+blistein: shows [Qc Qh] (two pair, Queens and Sixes)
+7bekon7: shows [Jd Jc] (a full house, Jacks full of Sixes)
+7bekon7 collected $198.50 from pot
+*** SUMMARY ***
+Total pot $201 | Rake $2.50 
+Board [6d 6s 4h 4d Js]
+Seat 1: gudrozd (big blind) folded before Flop
+Seat 2: 7bekon7 showed [Jd Jc] and won ($198.50) with a full house, Jacks full of Sixes
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: B1GBankroll folded before Flop (didn't bet)
+Seat 5: AlpacinoFL (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) showed [Qc Qh] and lost with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #254429474367:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:19:49 WET [2025/01/18 6:19:49 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 1: gudrozd ($104.99 in chips) 
+Seat 2: 7bekon7 ($208.95 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: B1GBankroll ($102.40 in chips) 
+Seat 5: AlpacinoFL ($64.17 in chips) 
+Seat 6: blistein ($100 in chips) 
+gudrozd: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+EyzRED: folds 
+B1GBankroll: folds 
+AlpacinoFL: raises $1 to $2
+blistein: folds 
+gudrozd: folds 
+7bekon7: calls $1
+*** FLOP *** [8h 4h 4c]
+7bekon7: checks 
+AlpacinoFL: checks 
+*** TURN *** [8h 4h 4c] [9d]
+7bekon7: checks 
+AlpacinoFL: checks 
+*** RIVER *** [8h 4h 4c 9d] [3h]
+7bekon7: bets $3.21
+AlpacinoFL: folds 
+Uncalled bet ($3.21) returned to 7bekon7
+7bekon7 collected $4.28 from pot
+7bekon7: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [8h 4h 4c 9d 3h]
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: 7bekon7 (big blind) collected ($4.28)
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: B1GBankroll folded before Flop (didn't bet)
+Seat 5: AlpacinoFL folded on the River
+Seat 6: blistein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429478365:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:20:19 WET [2025/01/18 6:20:19 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 1: gudrozd ($104.49 in chips) 
+Seat 2: 7bekon7 ($211.23 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: B1GBankroll ($102.40 in chips) 
+Seat 5: AlpacinoFL ($62.17 in chips) 
+Seat 6: blistein ($100 in chips) 
+7bekon7: posts small blind $0.50
+EyzRED: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+AlpacinoFL: raises $2 to $3
+blistein: raises $5 to $8
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+AlpacinoFL: calls $5
+*** FLOP *** [Js 4h Kh]
+AlpacinoFL: checks 
+blistein: bets $5.65
+AlpacinoFL: raises $48.52 to $54.17 and is all-in
+blistein: calls $48.52
+*** TURN *** [Js 4h Kh] [4c]
+*** RIVER *** [Js 4h Kh 4c] [8c]
+*** SHOW DOWN ***
+AlpacinoFL: shows [9h 5h] (a pair of Fours)
+blistein: shows [Kd Ah] (two pair, Kings and Fours)
+blistein collected $123.34 from pot
+*** SUMMARY ***
+Total pot $125.84 | Rake $2.50 
+Board [Js 4h Kh 4c 8c]
+Seat 1: gudrozd (button) folded before Flop (didn't bet)
+Seat 2: 7bekon7 (small blind) folded before Flop
+Seat 3: EyzRED (big blind) folded before Flop
+Seat 4: B1GBankroll folded before Flop (didn't bet)
+Seat 5: AlpacinoFL showed [9h 5h] and lost with a pair of Fours
+Seat 6: blistein showed [Kd Ah] and won ($123.34) with two pair, Kings and Fours
+
+
+
+PokerStars Hand #254429487885:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:21:29 WET [2025/01/18 6:21:29 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 1: gudrozd ($104.49 in chips) 
+Seat 2: 7bekon7 ($210.73 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: B1GBankroll ($102.40 in chips) 
+Seat 6: blistein ($161.17 in chips) 
+EyzRED: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+Uncalled bet ($0.50) returned to B1GBankroll
+B1GBankroll collected $1 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: AlpacinoFL
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 3: EyzRED (small blind) folded before Flop
+Seat 4: B1GBankroll (big blind) collected ($1)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429489079:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:21:39 WET [2025/01/18 6:21:39 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 1: gudrozd ($104.49 in chips) 
+Seat 2: 7bekon7 ($210.73 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: B1GBankroll ($102.90 in chips) 
+Seat 6: blistein ($161.17 in chips) 
+B1GBankroll: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: folds 
+B1GBankroll: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: AlpacinoFL
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED (button) folded before Flop (didn't bet)
+Seat 4: B1GBankroll (small blind) folded before Flop
+Seat 6: blistein (big blind) collected ($1)
+
+
+
+PokerStars Hand #254429490774:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:21:51 WET [2025/01/18 6:21:51 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 1: gudrozd ($104.49 in chips) 
+Seat 2: 7bekon7 ($210.73 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: B1GBankroll ($102.40 in chips) 
+Seat 6: blistein ($161.67 in chips) 
+blistein: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+EyzRED: raises $1.20 to $2.20
+B1GBankroll: folds 
+blistein: folds 
+gudrozd: folds 
+Uncalled bet ($1.20) returned to EyzRED
+EyzRED collected $2.50 from pot
+EyzRED: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: AlpacinoFL
+Seat 1: gudrozd (big blind) folded before Flop
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED collected ($2.50)
+Seat 4: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429492580:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:22:05 WET [2025/01/18 6:22:05 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 1: gudrozd ($103.49 in chips) 
+Seat 2: 7bekon7 ($210.73 in chips) 
+Seat 3: EyzRED ($101.50 in chips) 
+Seat 4: B1GBankroll ($102.40 in chips) 
+Seat 6: blistein ($161.17 in chips) 
+gudrozd: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+EyzRED: folds 
+B1GBankroll: folds 
+blistein: raises $1.50 to $2.50
+gudrozd: folds 
+7bekon7: calls $1.50
+*** FLOP *** [8d 6c 4d]
+7bekon7: checks 
+blistein: bets $2.61
+7bekon7: calls $2.61
+*** TURN *** [8d 6c 4d] [5s]
+7bekon7: checks 
+blistein: checks 
+*** RIVER *** [8d 6c 4d 5s] [Qs]
+7bekon7: checks 
+blistein: bets $6.32
+7bekon7: folds 
+Uncalled bet ($6.32) returned to blistein
+blistein collected $10.18 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.72 | Rake $0.54 
+Board [8d 6c 4d 5s Qs]
+Seat 5: AlpacinoFL
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: 7bekon7 (big blind) folded on the River
+Seat 3: EyzRED folded before Flop (didn't bet)
+Seat 4: B1GBankroll folded before Flop (didn't bet)
+Seat 6: blistein (button) collected ($10.18)
+
+
+
+PokerStars Hand #254429510222:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:24:17 WET [2025/01/18 6:24:17 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 1: gudrozd ($102.99 in chips) 
+Seat 2: 7bekon7 ($205.62 in chips) 
+Seat 3: EyzRED ($101.50 in chips) 
+Seat 4: B1GBankroll ($102.40 in chips) 
+Seat 6: blistein ($166.24 in chips) 
+7bekon7: posts small blind $0.50
+EyzRED: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+blistein: folds 
+gudrozd: raises $1.50 to $2.50
+7bekon7: folds 
+EyzRED: folds 
+Uncalled bet ($1.50) returned to gudrozd
+gudrozd collected $2.50 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: AlpacinoFL
+Seat 1: gudrozd (button) collected ($2.50)
+Seat 2: 7bekon7 (small blind) folded before Flop
+Seat 3: EyzRED (big blind) folded before Flop
+Seat 4: B1GBankroll folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429512067:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:24:30 WET [2025/01/18 6:24:30 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 1: gudrozd ($104.49 in chips) 
+Seat 2: 7bekon7 ($205.12 in chips) 
+Seat 3: EyzRED ($100.50 in chips) 
+Seat 4: B1GBankroll ($102.40 in chips) 
+Seat 6: blistein ($166.24 in chips) 
+EyzRED: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gudrozd: raises $1.50 to $2.50
+7bekon7: folds 
+EyzRED: folds 
+B1GBankroll: calls $1.50
+*** FLOP *** [5h Qc 8s]
+B1GBankroll: checks 
+gudrozd: checks 
+*** TURN *** [5h Qc 8s] [Js]
+B1GBankroll: checks 
+gudrozd: bets $7.83
+B1GBankroll: folds 
+Uncalled bet ($7.83) returned to gudrozd
+gudrozd collected $5.22 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [5h Qc 8s Js]
+Seat 5: AlpacinoFL
+Seat 1: gudrozd collected ($5.22)
+Seat 2: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 3: EyzRED (small blind) folded before Flop
+Seat 4: B1GBankroll (big blind) folded on the Turn
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429518970:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:25:22 WET [2025/01/18 6:25:22 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 1: gudrozd ($107.21 in chips) 
+Seat 2: 7bekon7 ($205.12 in chips) 
+Seat 3: EyzRED ($100 in chips) 
+Seat 4: B1GBankroll ($100 in chips) 
+Seat 6: blistein ($166.24 in chips) 
+B1GBankroll: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+7bekon7: folds 
+EyzRED: raises $1.50 to $2.50
+B1GBankroll: folds 
+blistein: folds 
+Uncalled bet ($1.50) returned to EyzRED
+EyzRED collected $2.50 from pot
+EyzRED: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: AlpacinoFL
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: 7bekon7 folded before Flop (didn't bet)
+Seat 3: EyzRED (button) collected ($2.50)
+Seat 4: B1GBankroll (small blind) folded before Flop
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254429520451:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:25:33 WET [2025/01/18 6:25:33 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 1: gudrozd ($107.21 in chips) is sitting out
+Seat 2: 7bekon7 ($205.12 in chips) is sitting out
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 3: EyzRED ($101.50 in chips) 
+Seat 4: B1GBankroll ($100 in chips) 
+Seat 6: blistein ($165.24 in chips) 
+blistein: posts small blind $0.50
+gudrozd: is sitting out 
+7bekon7: is sitting out 
+EyzRED: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: raises $1.50 to $2.50
+blistein: folds 
+EyzRED: folds 
+Uncalled bet ($1.50) returned to B1GBankroll
+gudrozd leaves the table
+B1GBankroll collected $2.50 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd
+Seat 2: 7bekon7
+Seat 5: AlpacinoFL
+Seat 3: EyzRED (big blind) folded before Flop
+Seat 4: B1GBankroll (button) collected ($2.50)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429521858:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:25:43 WET [2025/01/18 6:25:43 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 3: EyzRED ($100.50 in chips) 
+Seat 4: B1GBankroll ($101.50 in chips) 
+Seat 6: blistein ($164.74 in chips) 
+7bekon7 leaves the table
+EyzRED: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.50 to $2.50
+EyzRED: folds 
+B1GBankroll: raises $8.75 to $11.25
+blistein: folds 
+Uncalled bet ($8.75) returned to B1GBankroll
+B1GBankroll collected $5.50 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 5: AlpacinoFL
+Seat 3: EyzRED (small blind) folded before Flop
+Seat 4: B1GBankroll (big blind) collected ($5.50)
+Seat 6: blistein (button) folded before Flop
+
+
+
+PokerStars Hand #254429640500:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:40:02 WET [2025/01/18 6:40:02 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 2: trueYes.3970 ($10 in chips) 
+Seat 3: Supermegopro ($105.50 in chips) 
+Seat 6: gig.gyty ($10 in chips) 
+Supermegopro: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: calls $1
+Supermegopro: folds 
+NoonTime1991 joins the table at seat #4 
+gig.gyty: checks 
+*** FLOP *** [Jd 4s 6h]
+gig.gyty: checks 
+trueYes.3970: checks 
+*** TURN *** [Jd 4s 6h] [Ks]
+gig.gyty: bets $1.19
+trueYes.3970: folds 
+Uncalled bet ($1.19) returned to gig.gyty
+Evelexy1 joins the table at seat #1 
+gig.gyty collected $2.38 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Jd 4s 6h Ks]
+Seat 5: AlpacinoFL
+Seat 2: trueYes.3970 (button) folded on the Turn
+Seat 3: Supermegopro (small blind) folded before Flop
+Seat 6: gig.gyty (big blind) collected ($2.38)
+
+
+
+PokerStars Hand #254429645312:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:40:37 WET [2025/01/18 6:40:37 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 4: NoonTime1991 ($100 in chips) is sitting out
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 1: Evelexy1 ($100 in chips) 
+Seat 2: trueYes.3970 ($9 in chips) 
+Seat 3: Supermegopro ($105 in chips) 
+Seat 6: gig.gyty ($100 in chips) 
+gig.gyty: posts small blind $0.50
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: folds 
+Supermegopro: raises $1.50 to $2.50
+gig.gyty: raises $8.50 to $11
+Evelexy1: folds 
+Supermegopro: calls $8.50
+*** FLOP *** [9s 9h 5c]
+gig.gyty: bets $11
+Supermegopro: calls $11
+*** TURN *** [9s 9h 5c] [Ac]
+gig.gyty: checks 
+Supermegopro: checks 
+*** RIVER *** [9s 9h 5c Ac] [5d]
+Evelexy1 leaves the table
+gig.gyty: checks 
+Supermegopro: checks 
+*** SHOW DOWN ***
+gig.gyty: shows [5h 6h] (a full house, Fives full of Nines)
+Supermegopro: mucks hand 
+gig.gyty collected $44 from pot
+*** SUMMARY ***
+Total pot $45 | Rake $1 
+Board [9s 9h 5c Ac 5d]
+Seat 4: NoonTime1991
+Seat 5: AlpacinoFL
+Seat 1: Evelexy1 (big blind) folded before Flop
+Seat 2: trueYes.3970 folded before Flop (didn't bet)
+Seat 3: Supermegopro (button) mucked
+Seat 6: gig.gyty (small blind) showed [5h 6h] and won ($44) with a full house, Fives full of Nines
+
+
+
+PokerStars Hand #254429657087:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:42:00 WET [2025/01/18 6:42:00 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 4: NoonTime1991 ($100 in chips) is sitting out
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 2: trueYes.3970 ($9 in chips) 
+Seat 3: Supermegopro ($100 in chips) 
+Seat 6: gig.gyty ($122 in chips) 
+trueYes.3970: posts small blind $0.50
+Supermegopro: posts big blind $1
+NoonTime1991: sits out 
+*** HOLE CARDS ***
+gig.gyty: raises $1.50 to $2.50
+trueYes.3970: folds 
+Supermegopro: raises $9.50 to $12
+gig.gyty: folds 
+Uncalled bet ($9.50) returned to Supermegopro
+Supermegopro collected $5.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 4: NoonTime1991
+Seat 5: AlpacinoFL
+Seat 2: trueYes.3970 (small blind) folded before Flop
+Seat 3: Supermegopro (big blind) collected ($5.50)
+Seat 6: gig.gyty (button) folded before Flop
+
+
+
+PokerStars Hand #254429660557:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:42:24 WET [2025/01/18 6:42:24 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 2: trueYes.3970 ($8.50 in chips) 
+Seat 3: Supermegopro ($103 in chips) 
+Seat 4: NoonTime1991 ($100 in chips) 
+Seat 6: gig.gyty ($119.50 in chips) 
+Supermegopro: posts small blind $0.50
+NoonTime1991: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+trueYes.3970: folds 
+Supermegopro: raises $2 to $3
+NoonTime1991: raises $6 to $9
+Supermegopro: raises $11 to $20
+NoonTime1991: folds 
+Uncalled bet ($11) returned to Supermegopro
+Supermegopro collected $18 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0 
+Seat 5: AlpacinoFL
+Seat 2: trueYes.3970 (button) folded before Flop (didn't bet)
+Seat 3: Supermegopro (small blind) collected ($18)
+Seat 4: NoonTime1991 (big blind) folded before Flop
+Seat 6: gig.gyty folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429666760:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:43:07 WET [2025/01/18 6:43:07 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 2: trueYes.3970 ($8.50 in chips) 
+Seat 3: Supermegopro ($112 in chips) 
+Seat 4: NoonTime1991 ($100 in chips) 
+Seat 6: gig.gyty ($119.50 in chips) 
+NoonTime1991: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: folds 
+Supermegopro: raises $1.50 to $2.50
+NoonTime1991: folds 
+gig.gyty: calls $1.50
+*** FLOP *** [Qd Qh 5c]
+gig.gyty: checks 
+Supermegopro: checks 
+*** TURN *** [Qd Qh 5c] [2h]
+gig.gyty: checks 
+Supermegopro: bets $1.72
+gig.gyty: folds 
+Uncalled bet ($1.72) returned to Supermegopro
+Supermegopro collected $5.22 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Qd Qh 5c 2h]
+Seat 5: AlpacinoFL
+Seat 2: trueYes.3970 folded before Flop (didn't bet)
+Seat 3: Supermegopro (button) collected ($5.22)
+Seat 4: NoonTime1991 (small blind) folded before Flop
+Seat 6: gig.gyty (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254429671985:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:43:44 WET [2025/01/18 6:43:44 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 2: trueYes.3970 ($8.50 in chips) 
+Seat 3: Supermegopro ($114.72 in chips) 
+Seat 4: NoonTime1991 ($100 in chips) 
+Seat 6: gig.gyty ($117 in chips) 
+gig.gyty: posts small blind $0.50
+trueYes.3970: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+NoonTime1991: folds 
+gig.gyty: raises $9 to $10
+trueYes.3970: folds 
+Uncalled bet ($9) returned to gig.gyty
+gig.gyty collected $2 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: AlpacinoFL
+Seat 2: trueYes.3970 (big blind) folded before Flop
+Seat 3: Supermegopro folded before Flop (didn't bet)
+Seat 4: NoonTime1991 (button) folded before Flop (didn't bet)
+Seat 6: gig.gyty (small blind) collected ($2)
+
+
+
+PokerStars Hand #254429674135:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:43:59 WET [2025/01/18 6:43:59 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 2: trueYes.3970 ($7.50 in chips) 
+Seat 3: Supermegopro ($114.72 in chips) 
+Seat 4: NoonTime1991 ($100 in chips) 
+Seat 6: gig.gyty ($118 in chips) 
+trueYes.3970: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+NoonTime1991: folds 
+gig.gyty: raises $1.50 to $2.50
+Trente666 joins the table at seat #1 
+Trente666 is disconnected 
+trueYes.3970: calls $2
+Supermegopro: calls $1.50
+*** FLOP *** [7s Ts 8s]
+trueYes.3970: checks 
+Supermegopro: checks 
+gig.gyty: checks 
+*** TURN *** [7s Ts 8s] [4d]
+trueYes.3970: bets $5 and is all-in
+Supermegopro: folds 
+gig.gyty: calls $5
+*** RIVER *** [7s Ts 8s 4d] [2c]
+*** SHOW DOWN ***
+trueYes.3970: shows [5h 8h] (a pair of Eights)
+gig.gyty: shows [Kd Ac] (high card Ace)
+trueYes.3970 collected $16.62 from pot
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.88 
+Board [7s Ts 8s 4d 2c]
+Seat 5: AlpacinoFL
+Seat 2: trueYes.3970 (small blind) showed [5h 8h] and won ($16.62) with a pair of Eights
+Seat 3: Supermegopro (big blind) folded on the Turn
+Seat 4: NoonTime1991 folded before Flop (didn't bet)
+Seat 6: gig.gyty (button) showed [Kd Ac] and lost with high card Ace
+
+
+
+PokerStars Hand #254429680804:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:44:46 WET [2025/01/18 6:44:46 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 1: Trente666 ($46.18 in chips) 
+Seat 2: trueYes.3970 ($16.62 in chips) 
+Seat 3: Supermegopro ($112.22 in chips) 
+Seat 4: NoonTime1991 ($100 in chips) 
+Seat 6: gig.gyty ($110.50 in chips) 
+Supermegopro: posts small blind $0.50
+NoonTime1991: posts big blind $1
+Trente666: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Trente666: checks 
+trueYes.3970: calls $1
+Supermegopro: calls $0.50
+NoonTime1991: checks 
+*** FLOP *** [9d 2h As]
+Supermegopro: checks 
+NoonTime1991: checks 
+Trente666: checks 
+trueYes.3970: checks 
+*** TURN *** [9d 2h As] [Qs]
+Supermegopro: bets $1.25
+NoonTime1991: folds 
+Trente666: calls $1.25
+trueYes.3970: calls $1.25
+*** RIVER *** [9d 2h As Qs] [6d]
+Supermegopro: checks 
+Trente666: bets $3.68
+trueYes.3970: folds 
+Supermegopro: folds 
+Uncalled bet ($3.68) returned to Trente666
+Trente666 collected $7.36 from pot
+*** SUMMARY ***
+Total pot $7.75 | Rake $0.39 
+Board [9d 2h As Qs 6d]
+Seat 5: AlpacinoFL
+Seat 1: Trente666 collected ($7.36)
+Seat 2: trueYes.3970 (button) folded on the River
+Seat 3: Supermegopro (small blind) folded on the River
+Seat 4: NoonTime1991 (big blind) folded on the Turn
+Seat 6: gig.gyty folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429689057:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:45:44 WET [2025/01/18 6:45:44 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 5: AlpacinoFL ($0 in chips) is sitting out
+Seat 1: Trente666 ($51.29 in chips) 
+Seat 2: trueYes.3970 ($14.37 in chips) 
+Seat 3: Supermegopro ($109.97 in chips) 
+Seat 4: NoonTime1991 ($100 in chips) 
+Seat 6: gig.gyty ($110.50 in chips) 
+NoonTime1991: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Trente666: folds 
+trueYes.3970: calls $1
+Supermegopro: folds 
+AlpacinoFL leaves the table
+NoonTime1991: calls $0.50
+gig.gyty has timed out
+gig.gyty: checks 
+*** FLOP *** [5c 9c Js]
+NoonTime1991: checks 
+gig.gyty: bets $1.43
+trueYes.3970: calls $1.43
+NoonTime1991: folds 
+*** TURN *** [5c 9c Js] [3s]
+gig.gyty: checks 
+trueYes.3970: bets $2.79
+gig.gyty: calls $2.79
+*** RIVER *** [5c 9c Js 3s] [2s]
+Oli3579 joins the table at seat #5 
+gig.gyty: checks 
+trueYes.3970: bets $9.15 and is all-in
+gig.gyty: folds 
+Uncalled bet ($9.15) returned to trueYes.3970
+trueYes.3970 collected $10.87 from pot
+*** SUMMARY ***
+Total pot $11.44 | Rake $0.57 
+Board [5c 9c Js 3s 2s]
+Seat 5: AlpacinoFL
+Seat 1: Trente666 folded before Flop (didn't bet)
+Seat 2: trueYes.3970 collected ($10.87)
+Seat 3: Supermegopro (button) folded before Flop (didn't bet)
+Seat 4: NoonTime1991 (small blind) folded on the Flop
+Seat 6: gig.gyty (big blind) folded on the River
+
+
+
+PokerStars Hand #254429702004:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:47:14 WET [2025/01/18 6:47:14 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 5: Oli3579 ($100 in chips) is sitting out
+Seat 1: Trente666 ($51.29 in chips) 
+Seat 2: trueYes.3970 ($20.02 in chips) 
+Seat 3: Supermegopro ($109.97 in chips) 
+Seat 4: NoonTime1991 ($100 in chips) 
+Seat 6: gig.gyty ($105.28 in chips) 
+gig.gyty: posts small blind $0.50
+Trente666: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: folds 
+Supermegopro: folds 
+NoonTime1991: folds 
+gig.gyty: folds 
+Uncalled bet ($0.50) returned to Trente666
+Trente666 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: Oli3579
+Seat 1: Trente666 (big blind) collected ($1)
+Seat 2: trueYes.3970 folded before Flop (didn't bet)
+Seat 3: Supermegopro folded before Flop (didn't bet)
+Seat 4: NoonTime1991 (button) folded before Flop (didn't bet)
+Seat 6: gig.gyty (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429704179:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:47:29 WET [2025/01/18 6:47:29 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 1: Trente666 ($51.79 in chips) is sitting out
+Seat 5: Oli3579 ($100 in chips) is sitting out
+Seat 2: trueYes.3970 ($20.02 in chips) 
+Seat 3: Supermegopro ($109.97 in chips) 
+Seat 4: NoonTime1991 ($100 in chips) 
+Seat 6: gig.gyty ($104.78 in chips) 
+Trente666 is disconnected 
+Trente666 has timed out while disconnected
+Trente666: is sitting out 
+trueYes.3970: posts small blind $0.50
+Supermegopro: posts big blind $1
+Oli3579: sits out 
+*** HOLE CARDS ***
+NoonTime1991: raises $1 to $2
+gig.gyty: folds 
+trueYes.3970: calls $1.50
+Supermegopro: folds 
+*** FLOP *** [Ac 9s Qd]
+trueYes.3970: checks 
+NoonTime1991: bets $2.38
+trueYes.3970: folds 
+Uncalled bet ($2.38) returned to NoonTime1991
+NoonTime1991 collected $4.75 from pot
+NoonTime1991: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Ac 9s Qd]
+Seat 1: Trente666
+Seat 5: Oli3579
+Seat 2: trueYes.3970 (small blind) folded on the Flop
+Seat 3: Supermegopro (big blind) folded before Flop
+Seat 4: NoonTime1991 collected ($4.75)
+Seat 6: gig.gyty (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429708263:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:47:58 WET [2025/01/18 6:47:58 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 5: Oli3579 ($100 in chips) is sitting out
+Seat 1: Trente666 ($51.79 in chips) 
+Seat 2: trueYes.3970 ($18.02 in chips) 
+Seat 3: Supermegopro ($108.97 in chips) 
+Seat 4: NoonTime1991 ($102.75 in chips) 
+Seat 6: gig.gyty ($104.78 in chips) 
+Supermegopro: posts small blind $0.50
+NoonTime1991: posts big blind $1
+Oli3579: sits out 
+Trente666: posts small blind $0.50
+*** HOLE CARDS ***
+gig.gyty: folds 
+Trente666: calls $1
+trueYes.3970: folds 
+Supermegopro: folds 
+NoonTime1991: checks 
+*** FLOP *** [6c 2s 6h]
+NoonTime1991: checks 
+Trente666: checks 
+*** TURN *** [6c 2s 6h] [7s]
+NoonTime1991: bets $1.43
+Trente666: folds 
+Uncalled bet ($1.43) returned to NoonTime1991
+NoonTime1991 collected $2.85 from pot
+NoonTime1991: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [6c 2s 6h 7s]
+Seat 5: Oli3579
+Seat 1: Trente666 folded on the Turn
+Seat 2: trueYes.3970 (button) folded before Flop (didn't bet)
+Seat 3: Supermegopro (small blind) folded before Flop
+Seat 4: NoonTime1991 (big blind) collected ($2.85)
+Seat 6: gig.gyty folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429711426:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:48:20 WET [2025/01/18 6:48:20 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 1: Trente666 ($50.29 in chips) 
+Seat 2: trueYes.3970 ($18.02 in chips) 
+Seat 3: Supermegopro ($108.47 in chips) 
+Seat 4: NoonTime1991 ($104.60 in chips) 
+Seat 5: Oli3579 ($100 in chips) 
+Seat 6: gig.gyty ($104.78 in chips) 
+NoonTime1991: posts small blind $0.50
+Oli3579: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Trente666: folds 
+trueYes.3970: calls $1
+Supermegopro: folds 
+NoonTime1991: raises $8 to $9
+Oli3579: folds 
+trueYes.3970: folds 
+Uncalled bet ($8) returned to NoonTime1991
+NoonTime1991 collected $3 from pot
+NoonTime1991: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: Trente666 folded before Flop (didn't bet)
+Seat 2: trueYes.3970 folded before Flop
+Seat 3: Supermegopro (button) folded before Flop (didn't bet)
+Seat 4: NoonTime1991 (small blind) collected ($3)
+Seat 5: Oli3579 (big blind) folded before Flop
+Seat 6: gig.gyty folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429714447:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:48:41 WET [2025/01/18 6:48:41 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 1: Trente666 ($50.29 in chips) 
+Seat 2: trueYes.3970 ($17.02 in chips) 
+Seat 3: Supermegopro ($108.47 in chips) 
+Seat 4: NoonTime1991 ($106.60 in chips) 
+Seat 5: Oli3579 ($100 in chips) 
+Seat 6: gig.gyty ($104.78 in chips) 
+Oli3579: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Trente666: folds 
+trueYes.3970: folds 
+Supermegopro: folds 
+NoonTime1991: folds 
+Oli3579: raises $2 to $3
+gig.gyty: raises $6 to $9
+Oli3579: raises $15 to $24
+gig.gyty: folds 
+Uncalled bet ($15) returned to Oli3579
+Oli3579 collected $18 from pot
+Oli3579: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0 
+Seat 1: Trente666 folded before Flop (didn't bet)
+Seat 2: trueYes.3970 folded before Flop (didn't bet)
+Seat 3: Supermegopro folded before Flop (didn't bet)
+Seat 4: NoonTime1991 (button) folded before Flop (didn't bet)
+Seat 5: Oli3579 (small blind) collected ($18)
+Seat 6: gig.gyty (big blind) folded before Flop
+
+
+
+PokerStars Hand #254429719370:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:49:15 WET [2025/01/18 6:49:15 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 1: Trente666 ($50.29 in chips) 
+Seat 2: trueYes.3970 ($17.02 in chips) 
+Seat 3: Supermegopro ($108.47 in chips) 
+Seat 4: NoonTime1991 ($106.60 in chips) 
+Seat 5: Oli3579 ($109 in chips) 
+Seat 6: gig.gyty ($100 in chips) 
+gig.gyty: posts small blind $0.50
+Trente666: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: raises $1.01 to $2.01
+Supermegopro: folds 
+NoonTime1991: folds 
+Oli3579: folds 
+gig.gyty: folds 
+Trente666: folds 
+Uncalled bet ($1.01) returned to trueYes.3970
+trueYes.3970 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Trente666 (big blind) folded before Flop
+Seat 2: trueYes.3970 collected ($2.50)
+Seat 3: Supermegopro folded before Flop (didn't bet)
+Seat 4: NoonTime1991 folded before Flop (didn't bet)
+Seat 5: Oli3579 (button) folded before Flop (didn't bet)
+Seat 6: gig.gyty (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429721559:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:49:31 WET [2025/01/18 6:49:31 ET]
+Table 'Tanga III' 6-max Seat #6 is the button
+Seat 1: Trente666 ($49.29 in chips) 
+Seat 2: trueYes.3970 ($18.52 in chips) 
+Seat 3: Supermegopro ($108.47 in chips) 
+Seat 4: NoonTime1991 ($106.60 in chips) 
+Seat 5: Oli3579 ($109 in chips) 
+Seat 6: gig.gyty ($100 in chips) 
+Trente666: posts small blind $0.50
+trueYes.3970: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+NoonTime1991: folds 
+Oli3579: folds 
+gig.gyty: raises $1.50 to $2.50
+Trente666: folds 
+trueYes.3970: folds 
+Uncalled bet ($1.50) returned to gig.gyty
+gig.gyty collected $2.50 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Trente666 (small blind) folded before Flop
+Seat 2: trueYes.3970 (big blind) folded before Flop
+Seat 3: Supermegopro folded before Flop (didn't bet)
+Seat 4: NoonTime1991 folded before Flop (didn't bet)
+Seat 5: Oli3579 folded before Flop (didn't bet)
+Seat 6: gig.gyty (button) collected ($2.50)
+
+
+
+PokerStars Hand #254429723019:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:49:41 WET [2025/01/18 6:49:41 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 1: Trente666 ($48.79 in chips) 
+Seat 2: trueYes.3970 ($17.52 in chips) 
+Seat 3: Supermegopro ($108.47 in chips) 
+Seat 4: NoonTime1991 ($106.60 in chips) 
+Seat 5: Oli3579 ($109 in chips) 
+Seat 6: gig.gyty ($101.50 in chips) 
+trueYes.3970: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+NoonTime1991: folds 
+Oli3579: raises $1.25 to $2.25
+gig.gyty: folds 
+Trente666: folds 
+trueYes.3970: folds 
+Supermegopro: calls $1.25
+*** FLOP *** [9s Kh 3h]
+Supermegopro: checks 
+Oli3579: bets $1.57
+Supermegopro: calls $1.57
+*** TURN *** [9s Kh 3h] [7s]
+Supermegopro: checks 
+Oli3579: checks 
+*** RIVER *** [9s Kh 3h 7s] [Jh]
+Supermegopro: bets $20
+Oli3579: folds 
+Uncalled bet ($20) returned to Supermegopro
+Supermegopro collected $7.73 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.14 | Rake $0.41 
+Board [9s Kh 3h 7s Jh]
+Seat 1: Trente666 (button) folded before Flop (didn't bet)
+Seat 2: trueYes.3970 (small blind) folded before Flop
+Seat 3: Supermegopro (big blind) collected ($7.73)
+Seat 4: NoonTime1991 folded before Flop (didn't bet)
+Seat 5: Oli3579 folded on the River
+Seat 6: gig.gyty folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254429731552:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:50:41 WET [2025/01/18 6:50:41 ET]
+Table 'Tanga III' 6-max Seat #2 is the button
+Seat 1: Trente666 ($48.79 in chips) 
+Seat 2: trueYes.3970 ($17.02 in chips) 
+Seat 3: Supermegopro ($112.38 in chips) 
+Seat 4: NoonTime1991 ($106.60 in chips) 
+Seat 5: Oli3579 ($105.18 in chips) 
+Seat 6: gig.gyty ($101.50 in chips) 
+Supermegopro: posts small blind $0.50
+NoonTime1991: posts big blind $1
+*** HOLE CARDS ***
+Oli3579: folds 
+gig.gyty: raises $1.25 to $2.25
+Trente666: folds 
+trueYes.3970: calls $2.25
+Supermegopro: folds 
+Trente666 leaves the table
+NoonTime1991: raises $11.75 to $14
+gig.gyty: folds 
+trueYes.3970: calls $11.75
+*** FLOP *** [2c 6h 5c]
+NoonTime1991: bets $7.30
+AlexEliseev7 joins the table at seat #1 
+trueYes.3970: calls $3.02 and is all-in
+Uncalled bet ($4.28) returned to NoonTime1991
+*** TURN *** [2c 6h 5c] [4c]
+*** RIVER *** [2c 6h 5c 4c] [5d]
+*** SHOW DOWN ***
+NoonTime1991: shows [Jh Jc] (two pair, Jacks and Fives)
+trueYes.3970: shows [Qc Ks] (a pair of Fives)
+NoonTime1991 collected $34.95 from pot
+*** SUMMARY ***
+Total pot $36.79 | Rake $1.84 
+Board [2c 6h 5c 4c 5d]
+Seat 1: Trente666 folded before Flop (didn't bet)
+Seat 2: trueYes.3970 (button) showed [Qc Ks] and lost with a pair of Fives
+Seat 3: Supermegopro (small blind) folded before Flop
+Seat 4: NoonTime1991 (big blind) showed [Jh Jc] and won ($34.95) with two pair, Jacks and Fives
+Seat 5: Oli3579 folded before Flop (didn't bet)
+Seat 6: gig.gyty folded before Flop
+
+
+
+PokerStars Hand #254429738358:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:51:29 WET [2025/01/18 6:51:29 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 1: AlexEliseev7 ($100 in chips) is sitting out
+Seat 2: trueYes.3970 ($0 in chips) is sitting out
+Seat 3: Supermegopro ($111.88 in chips) 
+Seat 4: NoonTime1991 ($124.53 in chips) 
+Seat 5: Oli3579 ($105.18 in chips) 
+Seat 6: gig.gyty ($100 in chips) 
+NoonTime1991: posts small blind $0.50
+Oli3579: posts big blind $1
+AlexEliseev7: sits out 
+*** HOLE CARDS ***
+gig.gyty: raises $1.25 to $2.25
+trueYes.3970 leaves the table
+Supermegopro: raises $5.25 to $7.50
+NoonTime1991: folds 
+Oli3579: folds 
+gig.gyty: raises $92.50 to $100 and is all-in
+Supermegopro: folds 
+Uncalled bet ($92.50) returned to gig.gyty
+gig.gyty collected $16.50 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0 
+Seat 1: AlexEliseev7
+Seat 2: trueYes.3970
+Seat 3: Supermegopro (button) folded before Flop
+Seat 4: NoonTime1991 (small blind) folded before Flop
+Seat 5: Oli3579 (big blind) folded before Flop
+Seat 6: gig.gyty collected ($16.50)
+
+
+
+PokerStars Hand #254429741900:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:51:54 WET [2025/01/18 6:51:54 ET]
+Table 'Tanga III' 6-max Seat #4 is the button
+Seat 6: gig.gyty ($109 in chips) is sitting out
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 3: Supermegopro ($104.38 in chips) 
+Seat 4: NoonTime1991 ($124.03 in chips) 
+Seat 5: Oli3579 ($104.18 in chips) 
+Oli3579: posts small blind $0.50
+gig.gyty: is sitting out 
+AlexEliseev7: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+NoonTime1991: folds 
+Oli3579: folds 
+gig.gyty leaves the table
+AlexEliseev7: folds 
+Uncalled bet ($1.50) returned to Supermegopro
+Supermegopro collected $2.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: gig.gyty
+Seat 1: AlexEliseev7 (big blind) folded before Flop
+Seat 3: Supermegopro collected ($2.50)
+Seat 4: NoonTime1991 (button) folded before Flop (didn't bet)
+Seat 5: Oli3579 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254429744715:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:52:13 WET [2025/01/18 6:52:13 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 3: Supermegopro ($105.88 in chips) 
+Seat 4: NoonTime1991 ($124.03 in chips) 
+Seat 5: Oli3579 ($103.68 in chips) 
+AlexEliseev7: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+NoonTime1991: folds 
+Oli3579: raises $1.25 to $2.25
+AlexEliseev7: folds 
+Supermegopro: folds 
+Uncalled bet ($1.25) returned to Oli3579
+Oli3579 collected $2.50 from pot
+Oli3579: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AlexEliseev7 (small blind) folded before Flop
+Seat 3: Supermegopro (big blind) folded before Flop
+Seat 4: NoonTime1991 folded before Flop (didn't bet)
+Seat 5: Oli3579 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254429746832:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:52:29 WET [2025/01/18 6:52:29 ET]
+Table 'Tanga III' 6-max Seat #1 is the button
+Seat 4: NoonTime1991 ($124.03 in chips) is sitting out
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 3: Supermegopro ($104.88 in chips) 
+Seat 5: Oli3579 ($105.18 in chips) 
+Supermegopro: posts small blind $0.50
+NoonTime1991: is sitting out 
+Oli3579: posts big blind $1
+*** HOLE CARDS ***
+AlexEliseev7: folds 
+Supermegopro: raises $2 to $3
+Oli3579: raises $6.50 to $9.50
+Supermegopro: calls $6.50
+*** FLOP *** [9c 8d Td]
+Supermegopro: checks 
+AlexEliseev7 leaves the table
+Oli3579: checks 
+*** TURN *** [9c 8d Td] [Qd]
+Supermegopro: checks 
+Oli3579: bets $4.51
+Supermegopro: calls $4.51
+*** RIVER *** [9c 8d Td Qd] [8h]
+Supermegopro: checks 
+Oli3579: bets $6.76
+Supermegopro: folds 
+Uncalled bet ($6.76) returned to Oli3579
+Oli3579 collected $27.02 from pot
+Oli3579: doesn't show hand 
+NoonTime1991 leaves the table
+*** SUMMARY ***
+Total pot $28.02 | Rake $1 
+Board [9c 8d Td Qd 8h]
+Seat 4: NoonTime1991
+Seat 1: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 3: Supermegopro (small blind) folded on the River
+Seat 5: Oli3579 (big blind) collected ($27.02)
+
+
+
+PokerStars Hand #254429755401:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:53:30 WET [2025/01/18 6:53:30 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 3: Supermegopro ($100 in chips) 
+Seat 5: Oli3579 ($118.19 in chips) 
+Oli3579: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Oli3579: raises $1.50 to $2.50
+Supermegopro: folds 
+Uncalled bet ($1.50) returned to Oli3579
+Oli3579 collected $2 from pot
+Oli3579: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: Supermegopro (big blind) folded before Flop
+Seat 5: Oli3579 (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254429756425:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:53:37 WET [2025/01/18 6:53:37 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 3: Supermegopro ($100 in chips) 
+Seat 5: Oli3579 ($119.19 in chips) 
+Supermegopro: posts small blind $0.50
+Oli3579: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $2 to $3
+Oli3579: calls $2
+*** FLOP *** [Ks 4s 9h]
+Oli3579: checks 
+Supermegopro: checks 
+*** TURN *** [Ks 4s 9h] [2d]
+Oli3579: checks 
+Supermegopro: checks 
+*** RIVER *** [Ks 4s 9h 2d] [Ac]
+Oli3579: checks 
+Supermegopro: bets $11.40
+Oli3579: folds 
+Uncalled bet ($11.40) returned to Supermegopro
+Supermegopro collected $5.70 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ks 4s 9h 2d Ac]
+Seat 3: Supermegopro (button) (small blind) collected ($5.70)
+Seat 5: Oli3579 (big blind) folded on the River
+
+
+
+PokerStars Hand #254429761770:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:54:16 WET [2025/01/18 6:54:16 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 3: Supermegopro ($102.70 in chips) 
+Seat 5: Oli3579 ($116.19 in chips) 
+Oli3579: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Oli3579: raises $1.50 to $2.50
+Supermegopro: calls $1.50
+*** FLOP *** [9h 6c 3s]
+Supermegopro: checks 
+Oli3579: bets $3.56
+Supermegopro: folds 
+Uncalled bet ($3.56) returned to Oli3579
+Oli3579 collected $4.75 from pot
+Oli3579: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [9h 6c 3s]
+Seat 3: Supermegopro (big blind) folded on the Flop
+Seat 5: Oli3579 (button) (small blind) collected ($4.75)
+
+
+
+PokerStars Hand #254429764287:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:54:34 WET [2025/01/18 6:54:34 ET]
+Table 'Tanga III' 6-max Seat #3 is the button
+Seat 3: Supermegopro ($100.20 in chips) 
+Seat 5: Oli3579 ($118.44 in chips) 
+Supermegopro: posts small blind $0.50
+Oli3579: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $2 to $3
+Oli3579: folds 
+Uncalled bet ($2) returned to Supermegopro
+Supermegopro collected $2 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: Supermegopro (button) (small blind) collected ($2)
+Seat 5: Oli3579 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254429765230:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 11:54:41 WET [2025/01/18 6:54:41 ET]
+Table 'Tanga III' 6-max Seat #5 is the button
+Seat 3: Supermegopro ($101.20 in chips) 
+Seat 5: Oli3579 ($117.44 in chips) 
+Oli3579: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Oli3579: raises $1.50 to $2.50
+Supermegopro: raises $9.50 to $12
+Oli3579: folds 
+Uncalled bet ($9.50) returned to Supermegopro
+Supermegopro collected $5 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 3: Supermegopro (big blind) collected ($5)
+Seat 5: Oli3579 (button) (small blind) folded before Flop
+
+
+

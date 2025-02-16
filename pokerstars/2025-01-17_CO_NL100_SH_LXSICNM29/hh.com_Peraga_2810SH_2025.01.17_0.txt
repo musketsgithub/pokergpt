@@ -1,0 +1,729 @@
+﻿PokerStars Hand #254420984642:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:48:23 WET [2025/01/17 16:48:23 ET]
+Table 'Peraga IV' 6-max Seat #2 is the button
+Seat 1: m0nTTu ($10 in chips) 
+Seat 2: Sarabe nab ($10 in chips) 
+Seat 3: Alinyr ($100 in chips) 
+Seat 4: Manifestorr ($100 in chips) 
+Seat 5: IREQO ($100 in chips) 
+Alinyr: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+IREQO: folds 
+m0nTTu: folds 
+Sarabe nab: calls $1
+Alinyr: folds 
+Manifestorr: checks 
+*** FLOP *** [7c 4d Ac]
+Manifestorr: checks 
+Sarabe nab: checks 
+*** TURN *** [7c 4d Ac] [Kh]
+Manifestorr: checks 
+Sarabe nab: bets $1.19
+Manifestorr: calls $1.19
+*** RIVER *** [7c 4d Ac Kh] [2c]
+Manifestorr: checks 
+Sarabe nab: checks 
+*** SHOW DOWN ***
+Manifestorr: shows [5c Tc] (a flush, Ace high)
+Sarabe nab: mucks hand 
+Manifestorr collected $4.64 from pot
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.24 
+Board [7c 4d Ac Kh 2c]
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: Sarabe nab (button) mucked
+Seat 3: Alinyr (small blind) folded before Flop
+Seat 4: Manifestorr (big blind) showed [5c Tc] and won ($4.64) with a flush, Ace high
+Seat 5: IREQO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254420992740:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:48:48 WET [2025/01/17 16:48:48 ET]
+Table 'Peraga IV' 6-max Seat #3 is the button
+Seat 1: m0nTTu ($10 in chips) 
+Seat 2: Sarabe nab ($7.81 in chips) 
+Seat 3: Alinyr ($100 in chips) 
+Seat 4: Manifestorr ($102.45 in chips) 
+Seat 5: IREQO ($100 in chips) 
+Manifestorr: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Sarabe nab: calls $1
+Alinyr: folds 
+Manifestorr: folds 
+IREQO: checks 
+*** FLOP *** [3d Th 3h]
+IREQO: checks 
+Sarabe nab: bets $1
+IREQO: folds 
+Uncalled bet ($1) returned to Sarabe nab
+Sarabe nab collected $2.38 from pot
+Sarabe nab: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [3d Th 3h]
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: Sarabe nab collected ($2.38)
+Seat 3: Alinyr (button) folded before Flop (didn't bet)
+Seat 4: Manifestorr (small blind) folded before Flop
+Seat 5: IREQO (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254421004712:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:49:26 WET [2025/01/17 16:49:26 ET]
+Table 'Peraga IV' 6-max Seat #4 is the button
+Seat 1: m0nTTu ($10 in chips) 
+Seat 2: Sarabe nab ($9.19 in chips) 
+Seat 3: Alinyr ($100 in chips) 
+Seat 4: Manifestorr ($101.95 in chips) 
+Seat 5: IREQO ($100 in chips) 
+IREQO: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Sarabe nab: raises $1 to $2
+Alinyr: folds 
+Manifestorr: folds 
+IREQO: folds 
+XneferX joins the table at seat #6 
+m0nTTu: folds 
+Uncalled bet ($1) returned to Sarabe nab
+Sarabe nab collected $2.50 from pot
+Sarabe nab: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m0nTTu (big blind) folded before Flop
+Seat 2: Sarabe nab collected ($2.50)
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) folded before Flop (didn't bet)
+Seat 5: IREQO (small blind) folded before Flop
+
+
+
+PokerStars Hand #254421009836:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:49:42 WET [2025/01/17 16:49:42 ET]
+Table 'Peraga IV' 6-max Seat #5 is the button
+Seat 6: XneferX ($100 in chips) is sitting out
+Seat 1: m0nTTu ($10 in chips) 
+Seat 2: Sarabe nab ($10.69 in chips) 
+Seat 3: Alinyr ($100 in chips) 
+Seat 4: Manifestorr ($101.95 in chips) 
+Seat 5: IREQO ($100 in chips) 
+m0nTTu: posts small blind $0.50
+Sarabe nab: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: folds 
+Manifestorr: raises $1.20 to $2.20
+IREQO: folds 
+m0nTTu: raises $7.80 to $10 and is all-in
+Sarabe nab: folds 
+Manifestorr: calls $7.80
+*** FIRST FLOP *** [2h 3s Qs]
+*** FIRST TURN *** [2h 3s Qs] [8h]
+*** FIRST RIVER *** [2h 3s Qs 8h] [Kc]
+*** SECOND FLOP *** [Kd 8s Ac]
+*** SECOND TURN *** [Kd 8s Ac] [6d]
+*** SECOND RIVER *** [Kd 8s Ac 6d] [Qc]
+*** FIRST SHOW DOWN ***
+m0nTTu: shows [Tc Ts] (a pair of Tens)
+Manifestorr: shows [Qh Kh] (two pair, Kings and Queens)
+Manifestorr collected $9.98 from pot
+*** SECOND SHOW DOWN ***
+m0nTTu: shows [Tc Ts] (a pair of Tens)
+Manifestorr: shows [Qh Kh] (two pair, Kings and Queens)
+Manifestorr collected $9.97 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Hand was run twice
+FIRST Board [2h 3s Qs 8h Kc]
+SECOND Board [Kd 8s Ac 6d Qc]
+Seat 6: XneferX
+Seat 1: m0nTTu (small blind) showed [Tc Ts] and lost with a pair of Tens, and lost with a pair of Tens
+Seat 2: Sarabe nab (big blind) folded before Flop
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: Manifestorr showed [Qh Kh] and won ($9.98) with two pair, Kings and Queens, and won ($9.97) with two pair, Kings and Queens
+Seat 5: IREQO (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254421018545:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:50:09 WET [2025/01/17 16:50:09 ET]
+Table 'Peraga IV' 6-max Seat #1 is the button
+Seat 6: XneferX ($100 in chips) is sitting out
+Seat 1: m0nTTu ($10 in chips) 
+Seat 2: Sarabe nab ($9.69 in chips) 
+Seat 3: Alinyr ($100 in chips) 
+Seat 4: Manifestorr ($111.90 in chips) 
+Seat 5: IREQO ($100 in chips) 
+Sarabe nab: posts small blind $0.50
+Alinyr: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+Manifestorr: folds 
+IREQO: folds 
+m0nTTu: folds 
+Sarabe nab: calls $0.50
+Alinyr: raises $12 to $13
+Sarabe nab: calls $8.69 and is all-in
+Uncalled bet ($3.31) returned to Alinyr
+*** FLOP *** [8s 5s 5h]
+*** TURN *** [8s 5s 5h] [3h]
+*** RIVER *** [8s 5s 5h 3h] [Kh]
+*** SHOW DOWN ***
+Sarabe nab: shows [4c 6c] (a pair of Fives)
+Alinyr: shows [Jd Ks] (two pair, Kings and Fives)
+Alinyr collected $18.41 from pot
+*** SUMMARY ***
+Total pot $19.38 | Rake $0.97 
+Board [8s 5s 5h 3h Kh]
+Seat 6: XneferX
+Seat 1: m0nTTu (button) folded before Flop (didn't bet)
+Seat 2: Sarabe nab (small blind) showed [4c 6c] and lost with a pair of Fives
+Seat 3: Alinyr (big blind) showed [Jd Ks] and won ($18.41) with two pair, Kings and Fives
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: IREQO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254421026816:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:50:35 WET [2025/01/17 16:50:35 ET]
+Table 'Peraga IV' 6-max Seat #3 is the button
+Seat 2: Sarabe nab ($0 in chips) is sitting out
+Seat 6: XneferX ($100 in chips) is sitting out
+Seat 1: m0nTTu ($10 in chips) 
+Seat 3: Alinyr ($108.72 in chips) 
+Seat 4: Manifestorr ($111.90 in chips) 
+Seat 5: IREQO ($100 in chips) 
+Manifestorr: posts small blind $0.50
+IREQO: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+m0nTTu: folds 
+Alinyr: folds 
+Manifestorr: raises $2 to $3
+IREQO: raises $7 to $10
+Manifestorr: raises $15 to $25
+IREQO: folds 
+Uncalled bet ($15) returned to Manifestorr
+Manifestorr collected $20 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $0 
+Seat 2: Sarabe nab
+Seat 6: XneferX
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 3: Alinyr (button) folded before Flop (didn't bet)
+Seat 4: Manifestorr (small blind) collected ($20)
+Seat 5: IREQO (big blind) folded before Flop
+
+
+
+PokerStars Hand #254421040349:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:51:17 WET [2025/01/17 16:51:17 ET]
+Table 'Peraga IV' 6-max Seat #4 is the button
+Seat 1: m0nTTu ($10 in chips) 
+Seat 2: Sarabe nab ($10 in chips) 
+Seat 3: Alinyr ($108.72 in chips) 
+Seat 4: Manifestorr ($121.90 in chips) 
+Seat 5: IREQO ($90 in chips) 
+Seat 6: XneferX ($100 in chips) 
+IREQO: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Sarabe nab: calls $1
+Alinyr: folds 
+Manifestorr: folds 
+IREQO: folds 
+XneferX: raises $4 to $5
+Sarabe nab: calls $4
+*** FLOP *** [8h 9s Qd]
+XneferX: bets $7.68
+Sarabe nab: folds 
+Uncalled bet ($7.68) returned to XneferX
+XneferX collected $9.98 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [8h 9s Qd]
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: Sarabe nab folded on the Flop
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: Manifestorr (button) folded before Flop (didn't bet)
+Seat 5: IREQO (small blind) folded before Flop
+Seat 6: XneferX (big blind) collected ($9.98)
+
+
+
+PokerStars Hand #254421058845:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:52:15 WET [2025/01/17 16:52:15 ET]
+Table 'Peraga IV' 6-max Seat #5 is the button
+Seat 1: m0nTTu ($10 in chips) is sitting out
+Seat 2: Sarabe nab ($5 in chips) 
+Seat 3: Alinyr ($108.72 in chips) 
+Seat 4: Manifestorr ($121.90 in chips) 
+Seat 5: IREQO ($89.50 in chips) 
+Seat 6: XneferX ($104.98 in chips) 
+XneferX: posts small blind $0.50
+m0nTTu: is sitting out 
+Sarabe nab: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: raises $1.05 to $2.05
+Manifestorr: folds 
+IREQO: folds 
+XneferX: folds 
+Sarabe nab: raises $2.95 to $5 and is all-in
+m0nTTu leaves the table
+Alinyr: calls $2.95
+*** FLOP *** [6h 4h 3h]
+*** TURN *** [6h 4h 3h] [Th]
+*** RIVER *** [6h 4h 3h Th] [Js]
+*** SHOW DOWN ***
+Sarabe nab: shows [Ks Kd] (a pair of Kings)
+Alinyr: shows [Ah Qh] (a flush, Ace high)
+Alinyr collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [6h 4h 3h Th Js]
+Seat 1: m0nTTu
+Seat 2: Sarabe nab (big blind) showed [Ks Kd] and lost with a pair of Kings
+Seat 3: Alinyr showed [Ah Qh] and won ($9.98) with a flush, Ace high
+Seat 4: Manifestorr folded before Flop (didn't bet)
+Seat 5: IREQO (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254421065650:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:52:36 WET [2025/01/17 16:52:36 ET]
+Table 'Peraga IV' 6-max Seat #6 is the button
+Seat 4: Manifestorr ($121.90 in chips) is sitting out
+Seat 3: Alinyr ($113.70 in chips) 
+Seat 5: IREQO ($89.50 in chips) 
+Seat 6: XneferX ($104.48 in chips) 
+Alinyr: posts small blind $0.50
+Manifestorr: is sitting out 
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Manifestorr leaves the table
+Alinyr: raises $2 to $3
+XneferX leaves the table
+IREQO: raises $7 to $10
+Alinyr: raises $11 to $21
+IREQO: folds 
+Uncalled bet ($11) returned to Alinyr
+Alinyr collected $20 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $0 
+Seat 4: Manifestorr
+Seat 3: Alinyr (small blind) collected ($20)
+Seat 5: IREQO (big blind) folded before Flop
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254421088891:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:53:49 WET [2025/01/17 16:53:49 ET]
+Table 'Peraga IV' 6-max Seat #2 is the button
+Seat 5: IREQO ($79.50 in chips) is sitting out
+Seat 1: Giorgi675 ($10.50 in chips) 
+Seat 2: m0nTTu ($10 in chips) 
+m0nTTu: posts small blind $0.50
+IREQO: is sitting out 
+Giorgi675: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Uncalled bet ($0.50) returned to Giorgi675
+Giorgi675 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: IREQO
+Seat 1: Giorgi675 (big blind) collected ($1)
+Seat 2: m0nTTu (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254421091788:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:53:58 WET [2025/01/17 16:53:58 ET]
+Table 'Peraga IV' 6-max Seat #1 is the button
+Seat 5: IREQO ($79.50 in chips) is sitting out
+Seat 1: Giorgi675 ($11 in chips) 
+Seat 2: m0nTTu ($10 in chips) 
+Giorgi675: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Giorgi675: calls $0.50
+m0nTTu: checks 
+*** FLOP *** [3h 7s 6s]
+m0nTTu: checks 
+Giorgi675: bets $1.90
+m0nTTu: folds 
+Uncalled bet ($1.90) returned to Giorgi675
+Giorgi675 collected $1.90 from pot
+IREQO leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [3h 7s 6s]
+Seat 5: IREQO
+Seat 1: Giorgi675 (button) (small blind) collected ($1.90)
+Seat 2: m0nTTu (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254421099927:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:54:24 WET [2025/01/17 16:54:24 ET]
+Table 'Peraga IV' 6-max Seat #2 is the button
+Seat 1: Giorgi675 ($11.90 in chips) 
+Seat 2: m0nTTu ($10 in chips) 
+m0nTTu: posts small blind $0.50
+Giorgi675: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Uncalled bet ($0.50) returned to Giorgi675
+Giorgi675 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Giorgi675 (big blind) collected ($1)
+Seat 2: m0nTTu (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254421102589:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:54:32 WET [2025/01/17 16:54:32 ET]
+Table 'Peraga IV' 6-max Seat #1 is the button
+Seat 1: Giorgi675 ($12.40 in chips) 
+Seat 2: m0nTTu ($10 in chips) 
+Giorgi675: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Giorgi675: raises $1 to $2
+m0nTTu: folds 
+Uncalled bet ($1) returned to Giorgi675
+Giorgi675 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Giorgi675 (button) (small blind) collected ($2)
+Seat 2: m0nTTu (big blind) folded before Flop
+
+
+
+PokerStars Hand #254421105847:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:54:42 WET [2025/01/17 16:54:42 ET]
+Table 'Peraga IV' 6-max Seat #2 is the button
+Seat 1: Giorgi675 ($13.40 in chips) 
+Seat 2: m0nTTu ($10 in chips) 
+m0nTTu: posts small blind $0.50
+Giorgi675: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: raises $9 to $10 and is all-in
+Giorgi675: calls $9
+*** FLOP *** [4d 5h Qs]
+*** TURN *** [4d 5h Qs] [4h]
+*** RIVER *** [4d 5h Qs 4h] [3c]
+*** SHOW DOWN ***
+Giorgi675: shows [Jc Ks] (a pair of Fours)
+m0nTTu: shows [Ac 6d] (a pair of Fours - Ace kicker)
+m0nTTu collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [4d 5h Qs 4h 3c]
+Seat 1: Giorgi675 (big blind) showed [Jc Ks] and lost with a pair of Fours
+Seat 2: m0nTTu (button) (small blind) showed [Ac 6d] and won ($19) with a pair of Fours
+
+
+
+PokerStars Hand #254421112248:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:55:02 WET [2025/01/17 16:55:02 ET]
+Table 'Peraga IV' 6-max Seat #1 is the button
+Seat 1: Giorgi675 ($3.40 in chips) 
+Seat 2: m0nTTu ($19 in chips) 
+Giorgi675: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Giorgi675: raises $2.40 to $3.40 and is all-in
+m0nTTu: folds 
+Uncalled bet ($2.40) returned to Giorgi675
+Giorgi675 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Giorgi675 (button) (small blind) collected ($2)
+Seat 2: m0nTTu (big blind) folded before Flop
+
+
+
+PokerStars Hand #254421115479:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:55:13 WET [2025/01/17 16:55:13 ET]
+Table 'Peraga IV' 6-max Seat #2 is the button
+Seat 1: Giorgi675 ($4.40 in chips) 
+Seat 2: m0nTTu ($18 in chips) 
+m0nTTu: posts small blind $0.50
+Giorgi675: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Uncalled bet ($0.50) returned to Giorgi675
+Giorgi675 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Giorgi675 (big blind) collected ($1)
+Seat 2: m0nTTu (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254421117987:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:55:24 WET [2025/01/17 16:55:24 ET]
+Table 'Peraga IV' 6-max Seat #1 is the button
+Seat 1: Giorgi675 ($4.90 in chips) 
+Seat 2: m0nTTu ($17.50 in chips) 
+Giorgi675: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Giorgi675: raises $3.90 to $4.90 and is all-in
+m0nTTu: folds 
+Uncalled bet ($3.90) returned to Giorgi675
+Giorgi675 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Giorgi675 (button) (small blind) collected ($2)
+Seat 2: m0nTTu (big blind) folded before Flop
+
+
+
+PokerStars Hand #254421119993:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:55:33 WET [2025/01/17 16:55:33 ET]
+Table 'Peraga IV' 6-max Seat #2 is the button
+Seat 1: Giorgi675 ($5.90 in chips) 
+Seat 2: m0nTTu ($16.50 in chips) 
+m0nTTu: posts small blind $0.50
+Giorgi675: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: raises $15.50 to $16.50 and is all-in
+Giorgi675: calls $4.90 and is all-in
+Uncalled bet ($10.60) returned to m0nTTu
+*** FLOP *** [9h Td Tc]
+*** TURN *** [9h Td Tc] [Qc]
+*** RIVER *** [9h Td Tc Qc] [7d]
+*** SHOW DOWN ***
+Giorgi675: shows [7h Kh] (two pair, Tens and Sevens)
+m0nTTu: shows [2d 2c] (two pair, Tens and Deuces)
+Giorgi675 collected $11.21 from pot
+*** SUMMARY ***
+Total pot $11.80 | Rake $0.59 
+Board [9h Td Tc Qc 7d]
+Seat 1: Giorgi675 (big blind) showed [7h Kh] and won ($11.21) with two pair, Tens and Sevens
+Seat 2: m0nTTu (button) (small blind) showed [2d 2c] and lost with two pair, Tens and Deuces
+
+
+
+PokerStars Hand #254421123912:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:55:50 WET [2025/01/17 16:55:50 ET]
+Table 'Peraga IV' 6-max Seat #1 is the button
+Seat 1: Giorgi675 ($11.21 in chips) 
+Seat 2: m0nTTu ($10.60 in chips) 
+Giorgi675: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Giorgi675: folds 
+Uncalled bet ($0.50) returned to m0nTTu
+m0nTTu collected $1 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Giorgi675 (button) (small blind) folded before Flop
+Seat 2: m0nTTu (big blind) collected ($1)
+
+
+
+PokerStars Hand #254421125742:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:55:58 WET [2025/01/17 16:55:58 ET]
+Table 'Peraga IV' 6-max Seat #2 is the button
+Seat 1: Giorgi675 ($10.71 in chips) 
+Seat 2: m0nTTu ($11.10 in chips) 
+m0nTTu: posts small blind $0.50
+Giorgi675: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Uncalled bet ($0.50) returned to Giorgi675
+Giorgi675 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Giorgi675 (big blind) collected ($1)
+Seat 2: m0nTTu (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254421128138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:56:08 WET [2025/01/17 16:56:08 ET]
+Table 'Peraga IV' 6-max Seat #1 is the button
+Seat 1: Giorgi675 ($11.21 in chips) 
+Seat 2: m0nTTu ($10.60 in chips) 
+Giorgi675: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Giorgi675: folds 
+Uncalled bet ($0.50) returned to m0nTTu
+m0nTTu collected $1 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Giorgi675 (button) (small blind) folded before Flop
+Seat 2: m0nTTu (big blind) collected ($1)
+
+
+
+PokerStars Hand #254421130174:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:56:17 WET [2025/01/17 16:56:17 ET]
+Table 'Peraga IV' 6-max Seat #2 is the button
+Seat 1: Giorgi675 ($10.71 in chips) 
+Seat 2: m0nTTu ($11.10 in chips) 
+m0nTTu: posts small blind $0.50
+Giorgi675: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Uncalled bet ($0.50) returned to Giorgi675
+Giorgi675 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Giorgi675 (big blind) collected ($1)
+Seat 2: m0nTTu (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254421134286:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:56:34 WET [2025/01/17 16:56:34 ET]
+Table 'Peraga IV' 6-max Seat #1 is the button
+Seat 1: Giorgi675 ($11.21 in chips) 
+Seat 2: m0nTTu ($10.60 in chips) 
+Giorgi675: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Giorgi675: raises $2 to $3
+m0nTTu: raises $7.60 to $10.60 and is all-in
+Giorgi675: calls $7.60
+*** FLOP *** [5d 2s Th]
+*** TURN *** [5d 2s Th] [7s]
+*** RIVER *** [5d 2s Th 7s] [Qc]
+*** SHOW DOWN ***
+m0nTTu: shows [Jh Ad] (high card Ace)
+Giorgi675: shows [Qs Jc] (a pair of Queens)
+Giorgi675 collected $20.20 from pot
+*** SUMMARY ***
+Total pot $21.20 | Rake $1 
+Board [5d 2s Th 7s Qc]
+Seat 1: Giorgi675 (button) (small blind) showed [Qs Jc] and won ($20.20) with a pair of Queens
+Seat 2: m0nTTu (big blind) showed [Jh Ad] and lost with high card Ace
+
+
+
+PokerStars Hand #254421140118:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:56:59 WET [2025/01/17 16:56:59 ET]
+Table 'Peraga IV' 6-max Seat #2 is the button
+Seat 1: Giorgi675 ($20.81 in chips) 
+Seat 2: m0nTTu ($10 in chips) 
+m0nTTu: posts small blind $0.50
+Giorgi675: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: raises $9 to $10 and is all-in
+Giorgi675: folds 
+Uncalled bet ($9) returned to m0nTTu
+m0nTTu collected $2 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Giorgi675 (big blind) folded before Flop
+Seat 2: m0nTTu (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254421142486:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:57:09 WET [2025/01/17 16:57:09 ET]
+Table 'Peraga IV' 6-max Seat #1 is the button
+Seat 1: Giorgi675 ($19.81 in chips) 
+Seat 2: m0nTTu ($11 in chips) 
+Giorgi675: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Giorgi675: calls $0.50
+m0nTTu: checks 
+*** FLOP *** [Qs Kd Kc]
+m0nTTu: checks 
+Giorgi675: checks 
+*** TURN *** [Qs Kd Kc] [3s]
+m0nTTu: checks 
+Giorgi675: bets $1.90
+m0nTTu: folds 
+Uncalled bet ($1.90) returned to Giorgi675
+Giorgi675 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Qs Kd Kc 3s]
+Seat 1: Giorgi675 (button) (small blind) collected ($1.90)
+Seat 2: m0nTTu (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254421149339:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:57:38 WET [2025/01/17 16:57:38 ET]
+Table 'Peraga IV' 6-max Seat #2 is the button
+Seat 1: Giorgi675 ($20.71 in chips) 
+Seat 2: m0nTTu ($10 in chips) 
+m0nTTu: posts small blind $0.50
+Giorgi675: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Uncalled bet ($0.50) returned to Giorgi675
+Giorgi675 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Giorgi675 (big blind) collected ($1)
+Seat 2: m0nTTu (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254421151114:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:57:46 WET [2025/01/17 16:57:46 ET]
+Table 'Peraga IV' 6-max Seat #1 is the button
+Seat 1: Giorgi675 ($21.21 in chips) 
+Seat 2: m0nTTu ($10 in chips) 
+Giorgi675: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Giorgi675: folds 
+Uncalled bet ($0.50) returned to m0nTTu
+m0nTTu collected $1 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Giorgi675 (button) (small blind) folded before Flop
+Seat 2: m0nTTu (big blind) collected ($1)
+
+
+
+PokerStars Hand #254421152817:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:57:53 WET [2025/01/17 16:57:53 ET]
+Table 'Peraga IV' 6-max Seat #2 is the button
+Seat 1: Giorgi675 ($20.71 in chips) 
+Seat 2: m0nTTu ($10.50 in chips) 
+m0nTTu: posts small blind $0.50
+Giorgi675: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Uncalled bet ($0.50) returned to Giorgi675
+Giorgi675 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Giorgi675 (big blind) collected ($1)
+Seat 2: m0nTTu (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254421154540:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/17 21:58:00 WET [2025/01/17 16:58:00 ET]
+Table 'Peraga IV' 6-max Seat #1 is the button
+Seat 1: Giorgi675 ($21.21 in chips) 
+Seat 2: m0nTTu ($10 in chips) 
+Giorgi675: posts small blind $0.50
+fc1990colls joins the table at seat #6 
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+fc1990colls is disconnected 
+Giorgi675: calls $0.50
+blackclan7 joins the table at seat #3 
+Manifestorr joins the table at seat #5 
+steepfell joins the table at seat #4 
+m0nTTu: checks 
+*** FLOP *** [Qc 6s 5h]
+m0nTTu: checks 
+Giorgi675: checks 
+*** TURN *** [Qc 6s 5h] [2d]
+m0nTTu: bets $1
+Giorgi675: calls $1
+*** RIVER *** [Qc 6s 5h 2d] [7c]
+m0nTTu: bets $1.25
+Giorgi675: calls $1.25
+*** SHOW DOWN ***
+m0nTTu: shows [9c 8s] (a straight, Five to Nine)
+Giorgi675: mucks hand 
+m0nTTu collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Qc 6s 5h 2d 7c]
+Seat 1: Giorgi675 (button) (small blind) mucked
+Seat 2: m0nTTu (big blind) showed [9c 8s] and won ($6.18) with a straight, Five to Nine
+
+
+

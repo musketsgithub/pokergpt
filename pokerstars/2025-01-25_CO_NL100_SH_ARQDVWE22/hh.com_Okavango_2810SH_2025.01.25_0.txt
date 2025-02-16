@@ -1,0 +1,998 @@
+﻿PokerStars Hand #254556136928:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 1:56:15 WET [2025/01/25 20:56:15 ET]
+Table 'Okavango IV' 6-max Seat #4 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($104.96 in chips) 
+Seat 3: pr0tecto ($101.50 in chips) 
+Seat 4: ptolejmus ($13.46 in chips) 
+Seat 5: boydst1 ($89 in chips) 
+Seat 6: equilibrium_tv ($51 in chips) 
+boydst1: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+XneferX: raises $1.10 to $2.10
+Mr_Dick666: folds 
+pr0tecto: folds 
+ptolejmus: folds 
+boydst1: calls $1.60
+equilibrium_tv: folds 
+*** FLOP *** [5s 3h 7h]
+boydst1: checks 
+XneferX: bets $1.20
+boydst1: calls $1.20
+*** TURN *** [5s 3h 7h] [8d]
+boydst1: bets $3.61
+XneferX: folds 
+Uncalled bet ($3.61) returned to boydst1
+boydst1 collected $7.22 from pot
+boydst1: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.60 | Rake $0.38 
+Board [5s 3h 7h 8d]
+Seat 1: XneferX folded on the Turn
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: pr0tecto folded before Flop (didn't bet)
+Seat 4: ptolejmus (button) folded before Flop (didn't bet)
+Seat 5: boydst1 (small blind) collected ($7.22)
+Seat 6: equilibrium_tv (big blind) folded before Flop
+
+
+
+PokerStars Hand #254556143125:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 1:57:02 WET [2025/01/25 20:57:02 ET]
+Table 'Okavango IV' 6-max Seat #5 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($104.96 in chips) 
+Seat 3: pr0tecto ($101.50 in chips) 
+Seat 4: ptolejmus ($13.46 in chips) 
+Seat 5: boydst1 ($92.92 in chips) 
+Seat 6: equilibrium_tv ($50 in chips) 
+equilibrium_tv: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+pr0tecto: folds 
+ptolejmus: folds 
+boydst1: folds 
+equilibrium_tv: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: XneferX (big blind) collected ($1)
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: pr0tecto folded before Flop (didn't bet)
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: boydst1 (button) folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254556146330:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 1:57:26 WET [2025/01/25 20:57:26 ET]
+Table 'Okavango IV' 6-max Seat #6 is the button
+Seat 1: XneferX ($100.50 in chips) 
+Seat 2: Mr_Dick666 ($104.96 in chips) 
+Seat 3: pr0tecto ($101.50 in chips) 
+Seat 4: ptolejmus ($13.46 in chips) 
+Seat 5: boydst1 ($92.92 in chips) 
+Seat 6: equilibrium_tv ($49.50 in chips) 
+XneferX: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+pr0tecto: folds 
+ptolejmus: raises $1 to $2
+boydst1: folds 
+equilibrium_tv: folds 
+XneferX: folds 
+Mr_Dick666: folds 
+Uncalled bet ($1) returned to ptolejmus
+ptolejmus collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: XneferX (small blind) folded before Flop
+Seat 2: Mr_Dick666 (big blind) folded before Flop
+Seat 3: pr0tecto folded before Flop (didn't bet)
+Seat 4: ptolejmus collected ($2.50)
+Seat 5: boydst1 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556149635:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 1:57:50 WET [2025/01/25 20:57:50 ET]
+Table 'Okavango IV' 6-max Seat #1 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($103.96 in chips) 
+Seat 3: pr0tecto ($101.50 in chips) 
+Seat 4: ptolejmus ($14.96 in chips) 
+Seat 5: boydst1 ($92.92 in chips) 
+Seat 6: equilibrium_tv ($49.50 in chips) 
+Mr_Dick666: posts small blind $0.50
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+boydst1: calls $1
+equilibrium_tv: folds 
+XneferX: folds 
+Mr_Dick666: folds 
+pr0tecto: checks 
+*** FLOP *** [2s Ah Qc]
+pr0tecto: checks 
+boydst1: checks 
+*** TURN *** [2s Ah Qc] [2c]
+pr0tecto: checks 
+boydst1: checks 
+*** RIVER *** [2s Ah Qc 2c] [9s]
+pr0tecto: checks 
+boydst1: bets $2.38
+pr0tecto: folds 
+Uncalled bet ($2.38) returned to boydst1
+boydst1 collected $2.38 from pot
+boydst1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [2s Ah Qc 2c 9s]
+Seat 1: XneferX (button) folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 (small blind) folded before Flop
+Seat 3: pr0tecto (big blind) folded on the River
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: boydst1 collected ($2.38)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556155626:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 1:58:35 WET [2025/01/25 20:58:35 ET]
+Table 'Okavango IV' 6-max Seat #2 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($103.46 in chips) 
+Seat 3: pr0tecto ($100.50 in chips) 
+Seat 4: ptolejmus ($14.96 in chips) 
+Seat 5: boydst1 ($94.30 in chips) 
+Seat 6: equilibrium_tv ($49.50 in chips) 
+pr0tecto: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+boydst1: raises $1 to $2
+equilibrium_tv: raises $3.50 to $5.50
+XneferX: folds 
+Mr_Dick666: calls $5.50
+pr0tecto: folds 
+ptolejmus: folds 
+boydst1: calls $3.50
+*** FLOP *** [4c 4h Ts]
+boydst1: bets $6.55
+equilibrium_tv: calls $6.55
+Mr_Dick666: folds 
+*** TURN *** [4c 4h Ts] [Jh]
+boydst1: bets $11.77
+equilibrium_tv: raises $25.68 to $37.45 and is all-in
+boydst1: calls $25.68
+*** FIRST RIVER *** [4c 4h Ts Jh] [2h]
+*** SECOND RIVER *** [4c 4h Ts Jh] [2c]
+*** FIRST SHOW DOWN ***
+boydst1: shows [Th Qc] (two pair, Tens and Fours)
+equilibrium_tv: shows [Js As] (two pair, Jacks and Fours)
+equilibrium_tv collected $51.75 from pot
+*** SECOND SHOW DOWN ***
+boydst1: shows [Th Qc] (two pair, Tens and Fours)
+equilibrium_tv: shows [Js As] (two pair, Jacks and Fours)
+equilibrium_tv collected $51.75 from pot
+*** SUMMARY ***
+Total pot $106 | Rake $2.50 
+Hand was run twice
+FIRST Board [4c 4h Ts Jh 2h]
+SECOND Board [4c 4h Ts Jh 2c]
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 (button) folded on the Flop
+Seat 3: pr0tecto (small blind) folded before Flop
+Seat 4: ptolejmus (big blind) folded before Flop
+Seat 5: boydst1 showed [Th Qc] and lost with two pair, Tens and Fours, and lost with two pair, Tens and Fours
+Seat 6: equilibrium_tv showed [Js As] and won ($51.75) with two pair, Jacks and Fours, and won ($51.75) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #254556165944:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 1:59:51 WET [2025/01/25 20:59:51 ET]
+Table 'Okavango IV' 6-max Seat #3 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: pr0tecto ($100 in chips) 
+Seat 4: ptolejmus ($13.96 in chips) 
+Seat 5: boydst1 ($44.80 in chips) 
+Seat 6: equilibrium_tv ($103.50 in chips) 
+ptolejmus: posts small blind $0.50
+boydst1: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+XneferX: folds 
+Mr_Dick666: raises $1.50 to $2.50
+pr0tecto: raises $5.50 to $8
+ptolejmus: folds 
+boydst1: folds 
+Mr_Dick666: folds 
+Uncalled bet ($5.50) returned to pr0tecto
+pr0tecto collected $6.50 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 folded before Flop
+Seat 3: pr0tecto (button) collected ($6.50)
+Seat 4: ptolejmus (small blind) folded before Flop
+Seat 5: boydst1 (big blind) folded before Flop
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556170681:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:00:25 WET [2025/01/25 21:00:25 ET]
+Table 'Okavango IV' 6-max Seat #4 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: pr0tecto ($104 in chips) 
+Seat 4: ptolejmus ($13.46 in chips) 
+Seat 5: boydst1 ($43.80 in chips) 
+Seat 6: equilibrium_tv ($103.50 in chips) 
+boydst1: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Mr_Dick666: folds 
+pr0tecto: raises $1.20 to $2.20
+ptolejmus: folds 
+boydst1: raises $5.40 to $7.60
+equilibrium_tv: folds 
+pr0tecto: raises $10.40 to $18
+boydst1: raises $25.80 to $43.80 and is all-in
+pr0tecto: calls $25.80
+*** FIRST FLOP *** [Ks Kd 7c]
+*** FIRST TURN *** [Ks Kd 7c] [3d]
+*** FIRST RIVER *** [Ks Kd 7c 3d] [7d]
+*** SECOND FLOP *** [9h 4d 3c]
+*** SECOND TURN *** [9h 4d 3c] [8d]
+*** SECOND RIVER *** [9h 4d 3c 8d] [Tc]
+*** FIRST SHOW DOWN ***
+boydst1: shows [Qc Qs] (two pair, Kings and Queens)
+pr0tecto: shows [Ad Ah] (two pair, Aces and Kings)
+pr0tecto collected $43.05 from pot
+*** SECOND SHOW DOWN ***
+boydst1: shows [Qc Qs] (a pair of Queens)
+pr0tecto: shows [Ad Ah] (a pair of Aces)
+pr0tecto collected $43.05 from pot
+*** SUMMARY ***
+Total pot $88.60 | Rake $2.50 
+Hand was run twice
+FIRST Board [Ks Kd 7c 3d 7d]
+SECOND Board [9h 4d 3c 8d Tc]
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: pr0tecto showed [Ad Ah] and won ($43.05) with two pair, Aces and Kings, and won ($43.05) with a pair of Aces
+Seat 4: ptolejmus (button) folded before Flop (didn't bet)
+Seat 5: boydst1 (small blind) showed [Qc Qs] and lost with two pair, Kings and Queens, and lost with a pair of Queens
+Seat 6: equilibrium_tv (big blind) folded before Flop
+
+
+
+PokerStars Hand #254556177409:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:01:11 WET [2025/01/25 21:01:11 ET]
+Table 'Okavango IV' 6-max Seat #6 is the button
+Seat 5: boydst1 ($0 in chips) is sitting out
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: pr0tecto ($146.30 in chips) 
+Seat 4: ptolejmus ($13.46 in chips) 
+Seat 6: equilibrium_tv ($102.50 in chips) 
+XneferX: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+pr0tecto: folds 
+ptolejmus: folds 
+equilibrium_tv: folds 
+XneferX: folds 
+Uncalled bet ($0.50) returned to Mr_Dick666
+Mr_Dick666 collected $1 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: boydst1
+Seat 1: XneferX (small blind) folded before Flop
+Seat 2: Mr_Dick666 (big blind) collected ($1)
+Seat 3: pr0tecto folded before Flop (didn't bet)
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556181362:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:01:34 WET [2025/01/25 21:01:34 ET]
+Table 'Okavango IV' 6-max Seat #1 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($100.50 in chips) 
+Seat 3: pr0tecto ($146.30 in chips) 
+Seat 4: ptolejmus ($13.46 in chips) 
+Seat 5: boydst1 ($68.77 in chips) 
+Seat 6: equilibrium_tv ($102.50 in chips) 
+Mr_Dick666: posts small blind $0.50
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: raises $1 to $2
+boydst1: folds 
+equilibrium_tv: folds 
+XneferX: folds 
+Mr_Dick666: folds 
+pr0tecto: raises $1 to $3
+ptolejmus: calls $1
+*** FLOP *** [Qc Qs Kh]
+pr0tecto: checks 
+ptolejmus: checks 
+*** TURN *** [Qc Qs Kh] [Jc]
+pr0tecto: checks 
+ptolejmus: bets $3.15
+pr0tecto: calls $3.15
+*** RIVER *** [Qc Qs Kh Jc] [7c]
+pr0tecto: checks 
+ptolejmus: bets $7.31 and is all-in
+pr0tecto: calls $7.31
+*** SHOW DOWN ***
+ptolejmus: shows [Th Ad] (a straight, Ten to Ace)
+pr0tecto: shows [As Td] (a straight, Ten to Ace)
+pr0tecto collected $13.03 from pot
+ptolejmus collected $13.02 from pot
+*** SUMMARY ***
+Total pot $27.42 | Rake $1.37 
+Board [Qc Qs Kh Jc 7c]
+Seat 1: XneferX (button) folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 (small blind) folded before Flop
+Seat 3: pr0tecto (big blind) showed [As Td] and won ($13.03) with a straight, Ten to Ace
+Seat 4: ptolejmus showed [Th Ad] and won ($13.02) with a straight, Ten to Ace
+Seat 5: boydst1 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556191502:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:02:35 WET [2025/01/25 21:02:35 ET]
+Table 'Okavango IV' 6-max Seat #2 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: pr0tecto ($145.87 in chips) 
+Seat 4: ptolejmus ($13.02 in chips) 
+Seat 5: boydst1 ($68.77 in chips) 
+Seat 6: equilibrium_tv ($102.50 in chips) 
+pr0tecto: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+boydst1: folds 
+equilibrium_tv: folds 
+XneferX: folds 
+Mr_Dick666: raises $1.50 to $2.50
+pr0tecto: folds 
+ptolejmus: raises $10.52 to $13.02 and is all-in
+Mr_Dick666: folds 
+Uncalled bet ($10.52) returned to ptolejmus
+ptolejmus collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 (button) folded before Flop
+Seat 3: pr0tecto (small blind) folded before Flop
+Seat 4: ptolejmus (big blind) collected ($5.50)
+Seat 5: boydst1 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556196715:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:03:06 WET [2025/01/25 21:03:06 ET]
+Table 'Okavango IV' 6-max Seat #3 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: pr0tecto ($145.37 in chips) 
+Seat 4: ptolejmus ($16.02 in chips) 
+Seat 5: boydst1 ($68.77 in chips) 
+Seat 6: equilibrium_tv ($102.50 in chips) 
+ptolejmus: posts small blind $0.50
+boydst1: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+XneferX: folds 
+Mr_Dick666: folds 
+pr0tecto: folds 
+ptolejmus: raises $1.50 to $2.50
+boydst1: calls $1.50
+*** FLOP *** [3c 3h 6s]
+ptolejmus: bets $1.28
+boydst1: calls $1.28
+*** TURN *** [3c 3h 6s] [3d]
+ptolejmus: bets $1.94
+boydst1: calls $1.94
+*** RIVER *** [3c 3h 6s 3d] [4d]
+ptolejmus: checks 
+boydst1: bets $10.87
+ptolejmus: folds 
+Uncalled bet ($10.87) returned to boydst1
+boydst1 collected $10.87 from pot
+boydst1: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.44 | Rake $0.57 
+Board [3c 3h 6s 3d 4d]
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: pr0tecto (button) folded before Flop (didn't bet)
+Seat 4: ptolejmus (small blind) folded on the River
+Seat 5: boydst1 (big blind) collected ($10.87)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556213498:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:04:45 WET [2025/01/25 21:04:45 ET]
+Table 'Okavango IV' 6-max Seat #4 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: pr0tecto ($145.37 in chips) 
+Seat 4: ptolejmus ($10.30 in chips) 
+Seat 5: boydst1 ($73.92 in chips) 
+Seat 6: equilibrium_tv ($102.50 in chips) 
+boydst1: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Mr_Dick666: folds 
+pr0tecto: folds 
+ptolejmus: folds 
+boydst1: raises $2 to $3
+equilibrium_tv: folds 
+Uncalled bet ($2) returned to boydst1
+boydst1 collected $2 from pot
+boydst1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: pr0tecto folded before Flop (didn't bet)
+Seat 4: ptolejmus (button) folded before Flop (didn't bet)
+Seat 5: boydst1 (small blind) collected ($2)
+Seat 6: equilibrium_tv (big blind) folded before Flop
+
+
+
+PokerStars Hand #254556218042:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:05:12 WET [2025/01/25 21:05:12 ET]
+Table 'Okavango IV' 6-max Seat #5 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: pr0tecto ($145.37 in chips) 
+Seat 4: ptolejmus ($10.30 in chips) 
+Seat 5: boydst1 ($74.92 in chips) 
+Seat 6: equilibrium_tv ($101.50 in chips) 
+equilibrium_tv: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+pr0tecto: folds 
+ptolejmus: folds 
+boydst1: raises $1 to $2
+equilibrium_tv: raises $8 to $10
+XneferX: folds 
+boydst1: folds 
+Uncalled bet ($8) returned to equilibrium_tv
+equilibrium_tv collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: XneferX (big blind) folded before Flop
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: pr0tecto folded before Flop (didn't bet)
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: boydst1 (button) folded before Flop
+Seat 6: equilibrium_tv (small blind) collected ($5)
+
+
+
+PokerStars Hand #254556222699:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:05:39 WET [2025/01/25 21:05:39 ET]
+Table 'Okavango IV' 6-max Seat #6 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: pr0tecto ($145.37 in chips) 
+Seat 4: ptolejmus ($10.30 in chips) 
+Seat 5: boydst1 ($72.92 in chips) 
+Seat 6: equilibrium_tv ($104.50 in chips) 
+XneferX: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+pr0tecto: folds 
+ptolejmus: folds 
+boydst1: raises $1 to $2
+equilibrium_tv: folds 
+XneferX: folds 
+Mr_Dick666: folds 
+Uncalled bet ($1) returned to boydst1
+boydst1 collected $2.50 from pot
+boydst1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: XneferX (small blind) folded before Flop
+Seat 2: Mr_Dick666 (big blind) folded before Flop
+Seat 3: pr0tecto folded before Flop (didn't bet)
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: boydst1 collected ($2.50)
+Seat 6: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556225169:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:05:53 WET [2025/01/25 21:05:53 ET]
+Table 'Okavango IV' 6-max Seat #1 is the button
+Seat 3: pr0tecto ($145.37 in chips) is sitting out
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 4: ptolejmus ($10.30 in chips) 
+Seat 5: boydst1 ($74.42 in chips) 
+Seat 6: equilibrium_tv ($104.50 in chips) 
+Mr_Dick666: posts small blind $0.50
+pr0tecto: is sitting out 
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+boydst1: calls $1
+equilibrium_tv: folds 
+pr0tecto leaves the table
+XneferX: folds 
+Mr_Dick666: folds 
+ptolejmus: checks 
+*** FLOP *** [Td 6s 2d]
+ptolejmus: checks 
+boydst1: checks 
+*** TURN *** [Td 6s 2d] [3h]
+ptolejmus: bets $1
+boydst1: calls $1
+*** RIVER *** [Td 6s 2d 3h] [9d]
+ptolejmus: checks 
+boydst1: checks 
+*** SHOW DOWN ***
+ptolejmus: shows [8d 6c] (a pair of Sixes)
+boydst1: mucks hand 
+ptolejmus collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Td 6s 2d 3h 9d]
+Seat 3: pr0tecto
+Seat 1: XneferX (button) folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 (small blind) folded before Flop
+Seat 4: ptolejmus (big blind) showed [8d 6c] and won ($4.28) with a pair of Sixes
+Seat 5: boydst1 mucked
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556229567:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:06:20 WET [2025/01/25 21:06:20 ET]
+Table 'Okavango IV' 6-max Seat #2 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 4: ptolejmus ($12.58 in chips) 
+Seat 5: boydst1 ($72.42 in chips) 
+Seat 6: equilibrium_tv ($104.50 in chips) 
+ptolejmus: posts small blind $0.50
+boydst1: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+XneferX: folds 
+Mr_Dick666: raises $1.50 to $2.50
+ptolejmus: folds 
+boydst1: calls $1.50
+*** FLOP *** [Kd 9h 8h]
+boydst1: checks 
+Mr_Dick666: checks 
+*** TURN *** [Kd 9h 8h] [7d]
+boydst1: checks 
+Mr_Dick666: bets $3.50
+boydst1: calls $3.50
+*** RIVER *** [Kd 9h 8h 7d] [Jd]
+boydst1: bets $11.88
+Mr_Dick666: calls $11.88
+*** SHOW DOWN ***
+boydst1: shows [2d 5d] (a flush, King high)
+Mr_Dick666: mucks hand 
+boydst1 collected $34.45 from pot
+*** SUMMARY ***
+Total pot $36.26 | Rake $1.81 
+Board [Kd 9h 8h 7d Jd]
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 (button) mucked
+Seat 4: ptolejmus (small blind) folded before Flop
+Seat 5: boydst1 (big blind) showed [2d 5d] and won ($34.45) with a flush, King high
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556238350:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:07:12 WET [2025/01/25 21:07:12 ET]
+Table 'Okavango IV' 6-max Seat #4 is the button
+Seat 1: XneferX ($100 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 4: ptolejmus ($12.08 in chips) 
+Seat 5: boydst1 ($88.99 in chips) 
+Seat 6: equilibrium_tv ($104.50 in chips) 
+boydst1: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+XneferX: raises $1.10 to $2.10
+Mr_Dick666: folds 
+shootingGRID joins the table at seat #3 
+ptolejmus: folds 
+boydst1: calls $1.60
+equilibrium_tv: folds 
+*** FLOP *** [4d Tc 8s]
+boydst1: checks 
+XneferX: bets $1.20
+boydst1: folds 
+Uncalled bet ($1.20) returned to XneferX
+XneferX collected $4.94 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.20 | Rake $0.26 
+Board [4d Tc 8s]
+Seat 1: XneferX collected ($4.94)
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 4: ptolejmus (button) folded before Flop (didn't bet)
+Seat 5: boydst1 (small blind) folded on the Flop
+Seat 6: equilibrium_tv (big blind) folded before Flop
+
+
+
+PokerStars Hand #254556243605:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:07:43 WET [2025/01/25 21:07:43 ET]
+Table 'Okavango IV' 6-max Seat #5 is the button
+Seat 3: shootingGRID ($100 in chips) is sitting out
+Seat 1: XneferX ($102.84 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 4: ptolejmus ($12.08 in chips) 
+Seat 5: boydst1 ($86.89 in chips) 
+Seat 6: equilibrium_tv ($103.50 in chips) 
+equilibrium_tv: posts small blind $0.50
+XneferX: posts big blind $1
+shootingGRID: sits out 
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+ptolejmus: folds 
+boydst1: raises $2 to $3
+equilibrium_tv: folds 
+XneferX: calls $2
+*** FLOP *** [Th 6h 3s]
+XneferX: checks 
+boydst1: bets $3.09
+XneferX: raises $5.63 to $8.72
+boydst1: raises $11.63 to $20.35
+XneferX: calls $11.63
+*** TURN *** [Th 6h 3s] [3d]
+XneferX: checks 
+boydst1: checks 
+*** RIVER *** [Th 6h 3s 3d] [2h]
+XneferX: checks 
+boydst1: checks 
+*** SHOW DOWN ***
+XneferX: shows [3h Jh] (a flush, Jack high)
+boydst1: mucks hand 
+XneferX collected $44.84 from pot
+*** SUMMARY ***
+Total pot $47.20 | Rake $2.36 
+Board [Th 6h 3s 3d 2h]
+Seat 3: shootingGRID
+Seat 1: XneferX (big blind) showed [3h Jh] and won ($44.84) with a flush, Jack high
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: boydst1 (button) mucked
+Seat 6: equilibrium_tv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254556257393:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:09:04 WET [2025/01/25 21:09:04 ET]
+Table 'Okavango IV' 6-max Seat #6 is the button
+Seat 3: shootingGRID ($100 in chips) is sitting out
+Seat 1: XneferX ($124.33 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 4: ptolejmus ($12.08 in chips) 
+Seat 5: boydst1 ($63.54 in chips) 
+Seat 6: equilibrium_tv ($103 in chips) 
+XneferX: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+shootingGRID: sits out 
+*** HOLE CARDS ***
+ptolejmus: folds 
+boydst1: calls $1
+equilibrium_tv: raises $3 to $4
+XneferX: folds 
+Mr_Dick666: folds 
+boydst1: calls $3
+*** FLOP *** [7s 7h 9h]
+boydst1: checks 
+equilibrium_tv: bets $2.98
+boydst1: folds 
+Uncalled bet ($2.98) returned to equilibrium_tv
+equilibrium_tv collected $9.02 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [7s 7h 9h]
+Seat 3: shootingGRID
+Seat 1: XneferX (small blind) folded before Flop
+Seat 2: Mr_Dick666 (big blind) folded before Flop
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: boydst1 folded on the Flop
+Seat 6: equilibrium_tv (button) collected ($9.02)
+
+
+
+PokerStars Hand #254556263657:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:09:41 WET [2025/01/25 21:09:41 ET]
+Table 'Okavango IV' 6-max Seat #1 is the button
+Seat 1: XneferX ($123.83 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: shootingGRID ($100 in chips) 
+Seat 4: ptolejmus ($12.08 in chips) 
+Seat 5: boydst1 ($59.54 in chips) 
+Seat 6: equilibrium_tv ($108.02 in chips) 
+Mr_Dick666: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+boydst1: calls $1
+equilibrium_tv: folds 
+XneferX: folds 
+Mr_Dick666: raises $4 to $5
+shootingGRID: folds 
+boydst1: calls $4
+*** FLOP *** [Kd 9s Ad]
+Mr_Dick666: bets $3.45
+boydst1: calls $3.45
+*** TURN *** [Kd 9s Ad] [4c]
+Mr_Dick666: checks 
+boydst1: checks 
+*** RIVER *** [Kd 9s Ad 4c] [3c]
+Mr_Dick666: checks 
+boydst1: bets $8.50
+Mr_Dick666: folds 
+Uncalled bet ($8.50) returned to boydst1
+boydst1 collected $17 from pot
+boydst1: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.90 | Rake $0.90 
+Board [Kd 9s Ad 4c 3c]
+Seat 1: XneferX (button) folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 (small blind) folded on the River
+Seat 3: shootingGRID (big blind) folded before Flop
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: boydst1 collected ($17)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556276221:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:10:57 WET [2025/01/25 21:10:57 ET]
+Table 'Okavango IV' 6-max Seat #2 is the button
+Seat 1: XneferX ($123.83 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: shootingGRID ($100 in chips) 
+Seat 4: ptolejmus ($12.08 in chips) 
+Seat 5: boydst1 ($68.09 in chips) 
+Seat 6: equilibrium_tv ($108.02 in chips) 
+shootingGRID: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+boydst1: raises $1 to $2
+equilibrium_tv: folds 
+XneferX: folds 
+Mr_Dick666: folds 
+shootingGRID: folds 
+ptolejmus: raises $10.08 to $12.08 and is all-in
+boydst1: calls $10.08
+*** FIRST FLOP *** [Js 6d 5d]
+*** FIRST TURN *** [Js 6d 5d] [3h]
+*** FIRST RIVER *** [Js 6d 5d 3h] [3s]
+*** SECOND FLOP *** [2c 4d 3c]
+*** SECOND TURN *** [2c 4d 3c] [Qd]
+*** SECOND RIVER *** [2c 4d 3c Qd] [4h]
+*** FIRST SHOW DOWN ***
+ptolejmus: shows [Ks Ad] (a pair of Threes)
+boydst1: shows [Th Kh] (a pair of Threes - lower kicker)
+ptolejmus collected $11.72 from pot
+*** SECOND SHOW DOWN ***
+ptolejmus: shows [Ks Ad] (a pair of Fours)
+boydst1: shows [Th Kh] (a pair of Fours - lower kicker)
+ptolejmus collected $11.71 from pot
+*** SUMMARY ***
+Total pot $24.66 | Rake $1.23 
+Hand was run twice
+FIRST Board [Js 6d 5d 3h 3s]
+SECOND Board [2c 4d 3c Qd 4h]
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 3: shootingGRID (small blind) folded before Flop
+Seat 4: ptolejmus (big blind) showed [Ks Ad] and won ($11.72) with a pair of Threes, and won ($11.71) with a pair of Fours
+Seat 5: boydst1 showed [Th Kh] and lost with a pair of Threes, and lost with a pair of Fours
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556283130:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:11:38 WET [2025/01/25 21:11:38 ET]
+Table 'Okavango IV' 6-max Seat #3 is the button
+Seat 1: XneferX ($123.83 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: shootingGRID ($100 in chips) 
+Seat 4: ptolejmus ($23.43 in chips) 
+Seat 5: boydst1 ($56.01 in chips) 
+Seat 6: equilibrium_tv ($108.02 in chips) 
+ptolejmus: posts small blind $0.50
+boydst1: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: raises $1.50 to $2.50
+XneferX: folds 
+Mr_Dick666: folds 
+shootingGRID: folds 
+ptolejmus: folds 
+boydst1: folds 
+Uncalled bet ($1.50) returned to equilibrium_tv
+equilibrium_tv collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: shootingGRID (button) folded before Flop (didn't bet)
+Seat 4: ptolejmus (small blind) folded before Flop
+Seat 5: boydst1 (big blind) folded before Flop
+Seat 6: equilibrium_tv collected ($2.50)
+
+
+
+PokerStars Hand #254556285331:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:11:52 WET [2025/01/25 21:11:52 ET]
+Table 'Okavango IV' 6-max Seat #4 is the button
+Seat 1: XneferX ($123.83 in chips) 
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: shootingGRID ($100 in chips) 
+Seat 4: ptolejmus ($22.93 in chips) 
+Seat 5: boydst1 ($55.01 in chips) 
+Seat 6: equilibrium_tv ($109.52 in chips) 
+boydst1: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Mr_Dick666: folds 
+shootingGRID: raises $1.25 to $2.25
+ptolejmus: folds 
+boydst1: calls $1.75
+equilibrium_tv: folds 
+*** FLOP *** [5s 8h Td]
+boydst1: checks 
+shootingGRID: bets $2.61
+boydst1: calls $2.61
+*** TURN *** [5s 8h Td] [Qh]
+boydst1: checks 
+shootingGRID: bets $7.09
+boydst1: calls $7.09
+*** RIVER *** [5s 8h Td Qh] [2c]
+boydst1: checks 
+shootingGRID: bets $15.62
+boydst1: folds 
+Uncalled bet ($15.62) returned to shootingGRID
+shootingGRID collected $23.66 from pot
+*** SUMMARY ***
+Total pot $24.90 | Rake $1.24 
+Board [5s 8h Td Qh 2c]
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: shootingGRID collected ($23.66)
+Seat 4: ptolejmus (button) folded before Flop (didn't bet)
+Seat 5: boydst1 (small blind) folded on the River
+Seat 6: equilibrium_tv (big blind) folded before Flop
+
+
+
+PokerStars Hand #254556300537:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:13:24 WET [2025/01/25 21:13:24 ET]
+Table 'Okavango IV' 6-max Seat #5 is the button
+Seat 1: XneferX ($123.83 in chips) is sitting out
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: shootingGRID ($111.71 in chips) 
+Seat 4: ptolejmus ($22.93 in chips) 
+Seat 5: boydst1 ($43.06 in chips) 
+Seat 6: equilibrium_tv ($108.52 in chips) 
+equilibrium_tv: posts small blind $0.50
+XneferX: is sitting out 
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+ptolejmus: folds 
+boydst1: folds 
+XneferX leaves the table
+equilibrium_tv: raises $2 to $3
+Mr_Dick666: folds 
+Uncalled bet ($2) returned to equilibrium_tv
+ptolejmus leaves the table
+equilibrium_tv collected $2 from pot
+ptolejmus joins the table at seat #1 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: XneferX
+Seat 2: Mr_Dick666 (big blind) folded before Flop
+Seat 3: shootingGRID folded before Flop (didn't bet)
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: boydst1 (button) folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (small blind) collected ($2)
+
+
+
+PokerStars Hand #254556302366:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:13:35 WET [2025/01/25 21:13:35 ET]
+Table 'Okavango IV' 6-max Seat #6 is the button
+Seat 1: ptolejmus ($22.93 in chips) is sitting out
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: shootingGRID ($111.71 in chips) 
+Seat 5: boydst1 ($43.06 in chips) 
+Seat 6: equilibrium_tv ($109.52 in chips) 
+Mr_Dick666: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+boydst1: folds 
+equilibrium_tv: folds 
+Mr_Dick666: raises $2 to $3
+shootingGRID: folds 
+Uncalled bet ($2) returned to Mr_Dick666
+Mr_Dick666 collected $2 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: ptolejmus
+Seat 2: Mr_Dick666 (small blind) collected ($2)
+Seat 3: shootingGRID (big blind) folded before Flop
+Seat 5: boydst1 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556305420:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:13:53 WET [2025/01/25 21:13:53 ET]
+Table 'Okavango IV' 6-max Seat #2 is the button
+Seat 1: ptolejmus ($22.93 in chips) is sitting out
+Seat 2: Mr_Dick666 ($101 in chips) 
+Seat 3: shootingGRID ($110.71 in chips) 
+Seat 5: boydst1 ($43.06 in chips) 
+Seat 6: equilibrium_tv ($109.52 in chips) 
+shootingGRID: posts small blind $0.50
+boydst1: posts big blind $1
+ptolejmus: sits out 
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+avlee1 joins the table at seat #4 
+Mr_Dick666: raises $1.50 to $2.50
+shootingGRID: folds 
+boydst1: calls $1.50
+*** FLOP *** [4s Qc 4h]
+boydst1: checks 
+Mr_Dick666: bets $2.61
+boydst1: calls $2.61
+*** TURN *** [4s Qc 4h] [6s]
+boydst1: checks 
+Mr_Dick666: bets $6.82
+boydst1: folds 
+Uncalled bet ($6.82) returned to Mr_Dick666
+Mr_Dick666 collected $10.18 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.72 | Rake $0.54 
+Board [4s Qc 4h 6s]
+Seat 1: ptolejmus
+Seat 2: Mr_Dick666 (button) collected ($10.18)
+Seat 3: shootingGRID (small blind) folded before Flop
+Seat 5: boydst1 (big blind) folded on the Turn
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254556311271:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/25 2:14:29 WET [2025/01/25 21:14:29 ET]
+Table 'Okavango IV' 6-max Seat #3 is the button
+Seat 1: ptolejmus ($22.93 in chips) is sitting out
+Seat 4: avlee1 ($100 in chips) is sitting out
+Seat 2: Mr_Dick666 ($106.07 in chips) 
+Seat 3: shootingGRID ($110.21 in chips) 
+Seat 5: boydst1 ($37.95 in chips) 
+Seat 6: equilibrium_tv ($109.52 in chips) 
+boydst1: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+ptolejmus: sits out 
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+shootingGRID: folds 
+boydst1: folds 
+Uncalled bet ($0.50) returned to equilibrium_tv
+equilibrium_tv collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ptolejmus
+Seat 4: avlee1
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: shootingGRID (button) folded before Flop (didn't bet)
+Seat 5: boydst1 (small blind) folded before Flop
+Seat 6: equilibrium_tv (big blind) collected ($1)
+
+
+

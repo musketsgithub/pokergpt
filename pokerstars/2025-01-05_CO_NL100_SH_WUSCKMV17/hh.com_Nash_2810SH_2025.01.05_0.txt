@@ -1,0 +1,924 @@
+﻿PokerStars Hand #254206475125:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:33:18 WET [2025/01/05 7:33:18 ET]
+Table 'Nash II' 6-max Seat #1 is the button
+Seat 1: oase88 ($50.14 in chips) 
+Seat 2: v.sting ($100.50 in chips) 
+Seat 3: gudrozd ($106.95 in chips) 
+Seat 4: Rysiff ($100 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Twistenko ($100 in chips) 
+v.sting: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+VahTang_89: folds 
+Twistenko: folds 
+oase88: folds 
+v.sting: raises $2 to $3
+gudrozd: folds 
+Uncalled bet ($2) returned to v.sting
+v.sting collected $2 from pot
+v.sting: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: oase88 (button) folded before Flop (didn't bet)
+Seat 2: v.sting (small blind) collected ($2)
+Seat 3: gudrozd (big blind) folded before Flop
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Twistenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254206479081:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:33:41 WET [2025/01/05 7:33:41 ET]
+Table 'Nash II' 6-max Seat #2 is the button
+Seat 1: oase88 ($50.14 in chips) 
+Seat 2: v.sting ($101.50 in chips) 
+Seat 3: gudrozd ($105.95 in chips) 
+Seat 4: Rysiff ($100 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Twistenko ($100 in chips) 
+gudrozd: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: folds 
+Twistenko: raises $1.50 to $2.50
+oase88: calls $2.50
+v.sting: folds 
+gudrozd: folds 
+Rysiff: folds 
+*** FLOP *** [7c Qc Js]
+Twistenko: bets $4.64
+oase88: folds 
+Uncalled bet ($4.64) returned to Twistenko
+Twistenko collected $6.18 from pot
+Twistenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [7c Qc Js]
+Seat 1: oase88 folded on the Flop
+Seat 2: v.sting (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) folded before Flop
+Seat 4: Rysiff (big blind) folded before Flop
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Twistenko collected ($6.18)
+
+
+
+PokerStars Hand #254206483704:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:34:08 WET [2025/01/05 7:34:08 ET]
+Table 'Nash II' 6-max Seat #3 is the button
+Seat 1: oase88 ($47.64 in chips) 
+Seat 2: v.sting ($101.50 in chips) 
+Seat 3: gudrozd ($105.45 in chips) 
+Seat 4: Rysiff ($100 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Twistenko ($103.68 in chips) 
+Rysiff: posts small blind $0.50
+VahTang_89: posts big blind $1
+*** HOLE CARDS ***
+Twistenko: folds 
+oase88: calls $1
+v.sting: folds 
+gudrozd: folds 
+Rysiff: raises $4 to $5
+VahTang_89: folds 
+oase88: calls $4
+*** FLOP *** [Ah 2s Qd]
+Rysiff: bets $5.23
+oase88: calls $5.23
+*** TURN *** [Ah 2s Qd] [7s]
+Rysiff: bets $10.20
+oase88: calls $10.20
+*** RIVER *** [Ah 2s Qd 7s] [6c]
+Rysiff: bets $31.82
+oase88: folds 
+Uncalled bet ($31.82) returned to Rysiff
+Rysiff collected $39.77 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $41.86 | Rake $2.09 
+Board [Ah 2s Qd 7s 6c]
+Seat 1: oase88 folded on the River
+Seat 2: v.sting folded before Flop (didn't bet)
+Seat 3: gudrozd (button) folded before Flop (didn't bet)
+Seat 4: Rysiff (small blind) collected ($39.77)
+Seat 5: VahTang_89 (big blind) folded before Flop
+Seat 6: Twistenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254206491078:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:34:51 WET [2025/01/05 7:34:51 ET]
+Table 'Nash II' 6-max Seat #4 is the button
+Seat 1: oase88 ($27.21 in chips) 
+Seat 2: v.sting ($101.50 in chips) 
+Seat 3: gudrozd ($105.45 in chips) 
+Seat 4: Rysiff ($119.34 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Twistenko ($103.68 in chips) 
+VahTang_89: posts small blind $0.50
+Twistenko: posts big blind $1
+*** HOLE CARDS ***
+oase88: calls $1
+v.sting: folds 
+gudrozd: folds 
+Rysiff: folds 
+VahTang_89: folds 
+Twistenko: raises $3 to $4
+oase88: calls $3
+*** FLOP *** [5s Ks 4h]
+Twistenko: bets $2.67
+oase88: folds 
+Uncalled bet ($2.67) returned to Twistenko
+Twistenko collected $8.08 from pot
+Twistenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [5s Ks 4h]
+Seat 1: oase88 folded on the Flop
+Seat 2: v.sting folded before Flop (didn't bet)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: VahTang_89 (small blind) folded before Flop
+Seat 6: Twistenko (big blind) collected ($8.08)
+
+
+
+PokerStars Hand #254206494523:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:35:11 WET [2025/01/05 7:35:11 ET]
+Table 'Nash II' 6-max Seat #5 is the button
+Seat 1: oase88 ($23.21 in chips) 
+Seat 2: v.sting ($101.50 in chips) 
+Seat 3: gudrozd ($105.45 in chips) 
+Seat 4: Rysiff ($119.34 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Twistenko ($107.76 in chips) 
+Twistenko: posts small blind $0.50
+oase88: posts big blind $1
+*** HOLE CARDS ***
+v.sting: folds 
+gudrozd: folds 
+Rysiff: folds 
+VahTang_89: raises $1.20 to $2.20
+Twistenko: folds 
+oase88: raises $21.01 to $23.21 and is all-in
+VahTang_89: folds 
+Uncalled bet ($21.01) returned to oase88
+oase88 collected $4.90 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0 
+Seat 1: oase88 (big blind) collected ($4.90)
+Seat 2: v.sting folded before Flop (didn't bet)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: VahTang_89 (button) folded before Flop
+Seat 6: Twistenko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254206500002:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:35:43 WET [2025/01/05 7:35:43 ET]
+Table 'Nash II' 6-max Seat #6 is the button
+Seat 1: oase88 ($25.91 in chips) 
+Seat 2: v.sting ($101.50 in chips) 
+Seat 3: gudrozd ($105.45 in chips) 
+Seat 4: Rysiff ($119.34 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Twistenko ($107.26 in chips) 
+oase88: posts small blind $0.50
+v.sting: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+Rysiff: raises $1.50 to $2.50
+VahTang_89: folds 
+Twistenko: folds 
+oase88: raises $23.41 to $25.91 and is all-in
+v.sting: folds 
+Rysiff: folds 
+Uncalled bet ($23.41) returned to oase88
+oase88 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: oase88 (small blind) collected ($6)
+Seat 2: v.sting (big blind) folded before Flop
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: Rysiff folded before Flop
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Twistenko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254206503989:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:36:06 WET [2025/01/05 7:36:06 ET]
+Table 'Nash II' 6-max Seat #1 is the button
+Seat 1: oase88 ($29.41 in chips) 
+Seat 2: v.sting ($100.50 in chips) 
+Seat 3: gudrozd ($105.45 in chips) 
+Seat 4: Rysiff ($116.84 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Twistenko ($107.26 in chips) 
+v.sting: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+VahTang_89: folds 
+Twistenko: raises $1.50 to $2.50
+oase88: folds 
+v.sting: folds 
+gudrozd: folds 
+Uncalled bet ($1.50) returned to Twistenko
+Twistenko collected $2.50 from pot
+Twistenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: oase88 (button) folded before Flop (didn't bet)
+Seat 2: v.sting (small blind) folded before Flop
+Seat 3: gudrozd (big blind) folded before Flop
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Twistenko collected ($2.50)
+
+
+
+PokerStars Hand #254206505973:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:36:18 WET [2025/01/05 7:36:18 ET]
+Table 'Nash II' 6-max Seat #2 is the button
+Seat 1: oase88 ($29.41 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 3: gudrozd ($104.45 in chips) 
+Seat 4: Rysiff ($116.84 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Twistenko ($108.76 in chips) 
+gudrozd: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: folds 
+Twistenko: folds 
+oase88: folds 
+v.sting: folds 
+gudrozd: raises $2 to $3
+Rysiff: calls $2
+*** FLOP *** [Qs 8d Jh]
+gudrozd: bets $1.88
+Rysiff: folds 
+Uncalled bet ($1.88) returned to gudrozd
+gudrozd collected $5.70 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Qs 8d Jh]
+Seat 1: oase88 folded before Flop (didn't bet)
+Seat 2: v.sting (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) collected ($5.70)
+Seat 4: Rysiff (big blind) folded on the Flop
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Twistenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254206509912:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:36:41 WET [2025/01/05 7:36:41 ET]
+Table 'Nash II' 6-max Seat #3 is the button
+Seat 1: oase88 ($29.41 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 3: gudrozd ($107.15 in chips) 
+Seat 4: Rysiff ($113.84 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Twistenko ($108.76 in chips) 
+Rysiff: posts small blind $0.50
+VahTang_89: posts big blind $1
+*** HOLE CARDS ***
+Twistenko: raises $1.50 to $2.50
+oase88: folds 
+v.sting: folds 
+gudrozd: folds 
+Rysiff: folds 
+VahTang_89: folds 
+Uncalled bet ($1.50) returned to Twistenko
+Twistenko collected $2.50 from pot
+Twistenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: oase88 folded before Flop (didn't bet)
+Seat 2: v.sting folded before Flop (didn't bet)
+Seat 3: gudrozd (button) folded before Flop (didn't bet)
+Seat 4: Rysiff (small blind) folded before Flop
+Seat 5: VahTang_89 (big blind) folded before Flop
+Seat 6: Twistenko collected ($2.50)
+
+
+
+PokerStars Hand #254206513599:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:37:02 WET [2025/01/05 7:37:02 ET]
+Table 'Nash II' 6-max Seat #4 is the button
+Seat 1: oase88 ($29.41 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 3: gudrozd ($107.15 in chips) 
+Seat 4: Rysiff ($113.34 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Twistenko ($110.26 in chips) 
+VahTang_89: posts small blind $0.50
+Twistenko: posts big blind $1
+*** HOLE CARDS ***
+oase88: calls $1
+v.sting: folds 
+gudrozd: folds 
+Rysiff: folds 
+VahTang_89: folds 
+Twistenko: checks 
+*** FLOP *** [7c 5h 4h]
+Twistenko: checks 
+oase88: bets $2.38
+Twistenko: folds 
+Uncalled bet ($2.38) returned to oase88
+oase88 collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [7c 5h 4h]
+Seat 1: oase88 collected ($2.35)
+Seat 2: v.sting folded before Flop (didn't bet)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: VahTang_89 (small blind) folded before Flop
+Seat 6: Twistenko (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254206519549:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:37:38 WET [2025/01/05 7:37:38 ET]
+Table 'Nash II' 6-max Seat #5 is the button
+Seat 1: oase88 ($30.76 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 3: gudrozd ($107.15 in chips) 
+Seat 4: Rysiff ($113.34 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Twistenko ($109.26 in chips) 
+Twistenko: posts small blind $0.50
+oase88: posts big blind $1
+*** HOLE CARDS ***
+v.sting: folds 
+gudrozd: folds 
+Rysiff: folds 
+VahTang_89: raises $1.20 to $2.20
+Twistenko: folds 
+oase88: calls $1.20
+*** FLOP *** [6h 4h Qs]
+oase88: bets $28.56 and is all-in
+VahTang_89: calls $28.56
+*** TURN *** [6h 4h Qs] [5c]
+*** RIVER *** [6h 4h Qs 5c] [3s]
+*** SHOW DOWN ***
+oase88: shows [3c 9s] (a pair of Threes)
+VahTang_89: shows [Tc Td] (a pair of Tens)
+VahTang_89 collected $59.52 from pot
+oase88 cashed out the hand for $2.77 | Cash Out Fee $0.06
+*** SUMMARY ***
+Total pot $62.02 | Rake $2.50 
+Board [6h 4h Qs 5c 3s]
+Seat 1: oase88 (big blind) showed [3c 9s] and lost with a pair of Threes (cashed out).
+Seat 2: v.sting folded before Flop (didn't bet)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: VahTang_89 (button) showed [Tc Td] and won ($59.52) with a pair of Tens
+Seat 6: Twistenko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254206530316:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:38:43 WET [2025/01/05 7:38:43 ET]
+Table 'Nash II' 6-max Seat #6 is the button
+Seat 1: oase88 ($2.77 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 3: gudrozd ($107.15 in chips) 
+Seat 4: Rysiff ($113.34 in chips) 
+Seat 5: VahTang_89 ($128.76 in chips) 
+Seat 6: Twistenko ($108.76 in chips) 
+oase88: posts small blind $0.50
+v.sting: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+Rysiff: raises $1.50 to $2.50
+VahTang_89: folds 
+Twistenko: folds 
+oase88: raises $0.27 to $2.77 and is all-in
+v.sting: folds 
+Rysiff: calls $0.27
+*** FLOP *** [2c 8h Tc]
+*** TURN *** [2c 8h Tc] [3h]
+*** RIVER *** [2c 8h Tc 3h] [3s]
+*** SHOW DOWN ***
+oase88: shows [9d Ad] (a pair of Threes)
+Rysiff: shows [6c Ac] (a pair of Threes - lower kicker)
+oase88 collected $6.13 from pot
+*** SUMMARY ***
+Total pot $6.54 | Rake $0.41 
+Board [2c 8h Tc 3h 3s]
+Seat 1: oase88 (small blind) showed [9d Ad] and won ($6.13) with a pair of Threes
+Seat 2: v.sting (big blind) folded before Flop
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: Rysiff showed [6c Ac] and lost with a pair of Threes
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Twistenko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254206535421:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:39:13 WET [2025/01/05 7:39:13 ET]
+Table 'Nash II' 6-max Seat #1 is the button
+Seat 1: oase88 ($6.13 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 3: gudrozd ($107.15 in chips) 
+Seat 4: Rysiff ($110.57 in chips) 
+Seat 5: VahTang_89 ($128.76 in chips) 
+Seat 6: Twistenko ($108.76 in chips) 
+v.sting: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+VahTang_89: folds 
+Twistenko: folds 
+oase88: folds 
+v.sting: folds 
+Uncalled bet ($0.50) returned to gudrozd
+gudrozd collected $1 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: oase88 (button) folded before Flop (didn't bet)
+Seat 2: v.sting (small blind) folded before Flop
+Seat 3: gudrozd (big blind) collected ($1)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Twistenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254206537899:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:39:27 WET [2025/01/05 7:39:27 ET]
+Table 'Nash II' 6-max Seat #2 is the button
+Seat 1: oase88 ($6.13 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 3: gudrozd ($107.65 in chips) 
+Seat 4: Rysiff ($110.57 in chips) 
+Seat 5: VahTang_89 ($128.76 in chips) 
+Seat 6: Twistenko ($108.76 in chips) 
+gudrozd: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: folds 
+Twistenko: folds 
+oase88: folds 
+v.sting: folds 
+gudrozd: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: oase88 folded before Flop (didn't bet)
+Seat 2: v.sting (button) folded before Flop (didn't bet)
+Seat 3: gudrozd (small blind) folded before Flop
+Seat 4: Rysiff (big blind) collected ($1)
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Twistenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254206539876:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:39:38 WET [2025/01/05 7:39:38 ET]
+Table 'Nash II' 6-max Seat #3 is the button
+Seat 1: oase88 ($6.13 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 3: gudrozd ($107.15 in chips) 
+Seat 4: Rysiff ($111.07 in chips) 
+Seat 5: VahTang_89 ($128.76 in chips) 
+Seat 6: Twistenko ($108.76 in chips) 
+Rysiff: posts small blind $0.50
+VahTang_89: posts big blind $1
+*** HOLE CARDS ***
+Twistenko: folds 
+oase88: folds 
+v.sting: raises $1.50 to $2.50
+gudrozd: folds 
+Rysiff: folds 
+VahTang_89: folds 
+Uncalled bet ($1.50) returned to v.sting
+v.sting collected $2.50 from pot
+v.sting: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: oase88 folded before Flop (didn't bet)
+Seat 2: v.sting collected ($2.50)
+Seat 3: gudrozd (button) folded before Flop (didn't bet)
+Seat 4: Rysiff (small blind) folded before Flop
+Seat 5: VahTang_89 (big blind) folded before Flop
+Seat 6: Twistenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254206545359:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:40:10 WET [2025/01/05 7:40:10 ET]
+Table 'Nash II' 6-max Seat #4 is the button
+Seat 1: oase88 ($6.13 in chips) 
+Seat 2: v.sting ($101.50 in chips) 
+Seat 3: gudrozd ($107.15 in chips) 
+Seat 4: Rysiff ($110.57 in chips) 
+Seat 5: VahTang_89 ($127.76 in chips) 
+Seat 6: Twistenko ($108.76 in chips) 
+VahTang_89: posts small blind $0.50
+Twistenko: posts big blind $1
+*** HOLE CARDS ***
+oase88: raises $5.13 to $6.13 and is all-in
+v.sting: folds 
+gudrozd: folds 
+Rysiff: folds 
+VahTang_89: folds 
+Twistenko: folds 
+Uncalled bet ($5.13) returned to oase88
+oase88 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: oase88 collected ($2.50)
+Seat 2: v.sting folded before Flop (didn't bet)
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: VahTang_89 (small blind) folded before Flop
+Seat 6: Twistenko (big blind) folded before Flop
+
+
+
+PokerStars Hand #254206549942:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:40:36 WET [2025/01/05 7:40:36 ET]
+Table 'Nash II' 6-max Seat #5 is the button
+Seat 1: oase88 ($7.63 in chips) 
+Seat 2: v.sting ($101.50 in chips) 
+Seat 3: gudrozd ($107.15 in chips) 
+Seat 4: Rysiff ($110.57 in chips) 
+Seat 5: VahTang_89 ($127.26 in chips) 
+Seat 6: Twistenko ($107.76 in chips) 
+Twistenko: posts small blind $0.50
+oase88: posts big blind $1
+*** HOLE CARDS ***
+v.sting: folds 
+gudrozd: raises $1.50 to $2.50
+Rysiff: folds 
+VahTang_89: folds 
+Twistenko: folds 
+oase88: raises $5.13 to $7.63 and is all-in
+gudrozd: calls $5.13
+*** FLOP *** [3d 8c 5h]
+*** TURN *** [3d 8c 5h] [Ac]
+*** RIVER *** [3d 8c 5h Ac] [Js]
+*** SHOW DOWN ***
+oase88: shows [7c 9c] (high card Ace)
+gudrozd: shows [7h 7s] (a pair of Sevens)
+gudrozd collected $14.97 from pot
+oase88 cashed out the hand for $5.62 | Cash Out Fee $0.11
+*** SUMMARY ***
+Total pot $15.76 | Rake $0.79 
+Board [3d 8c 5h Ac Js]
+Seat 1: oase88 (big blind) showed [7c 9c] and lost with high card Ace (cashed out).
+Seat 2: v.sting folded before Flop (didn't bet)
+Seat 3: gudrozd showed [7h 7s] and won ($14.97) with a pair of Sevens
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: VahTang_89 (button) folded before Flop (didn't bet)
+Seat 6: Twistenko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254206556946:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:41:15 WET [2025/01/05 7:41:15 ET]
+Table 'Nash II' 6-max Seat #6 is the button
+Seat 1: oase88 ($5.62 in chips) 
+Seat 2: v.sting ($101.50 in chips) 
+Seat 3: gudrozd ($114.49 in chips) 
+Seat 4: Rysiff ($110.57 in chips) 
+Seat 5: VahTang_89 ($127.26 in chips) 
+Seat 6: Twistenko ($107.26 in chips) 
+oase88: posts small blind $0.50
+v.sting: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+Rysiff: folds 
+VahTang_89: folds 
+Twistenko: folds 
+oase88: calls $0.50
+v.sting: raises $3 to $4
+oase88: raises $1.62 to $5.62 and is all-in
+v.sting: calls $1.62
+*** FLOP *** [7h Tc 4d]
+*** TURN *** [7h Tc 4d] [7d]
+*** RIVER *** [7h Tc 4d 7d] [8s]
+*** SHOW DOWN ***
+oase88: shows [6c Qd] (a pair of Sevens)
+v.sting: shows [Qc Ah] (a pair of Sevens - Ace kicker)
+v.sting collected $10.68 from pot
+oase88 cashed out the hand for $2.56 | Cash Out Fee $0.05
+*** SUMMARY ***
+Total pot $11.24 | Rake $0.56 
+Board [7h Tc 4d 7d 8s]
+Seat 1: oase88 (small blind) showed [6c Qd] and lost with a pair of Sevens (cashed out).
+Seat 2: v.sting (big blind) showed [Qc Ah] and won ($10.68) with a pair of Sevens
+Seat 3: gudrozd folded before Flop (didn't bet)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Twistenko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254206562232:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:41:45 WET [2025/01/05 7:41:45 ET]
+Table 'Nash II' 6-max Seat #1 is the button
+Seat 3: gudrozd ($114.49 in chips) is sitting out
+Seat 1: oase88 ($2.56 in chips) 
+Seat 2: v.sting ($106.56 in chips) 
+Seat 4: Rysiff ($110.57 in chips) 
+Seat 5: VahTang_89 ($127.26 in chips) 
+Seat 6: Twistenko ($107.26 in chips) 
+v.sting: posts small blind $0.50
+gudrozd: is sitting out 
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: raises $1.20 to $2.20
+Twistenko: folds 
+oase88: folds 
+gudrozd leaves the table
+v.sting: raises $10.05 to $12.25
+Rysiff: folds 
+VahTang_89: calls $10.05
+*** FLOP *** [7c 7h 5h]
+v.sting: bets $4.84
+VahTang_89: calls $4.84
+*** TURN *** [7c 7h 5h] [6s]
+v.sting: checks 
+VahTang_89: bets $16.71
+v.sting: folds 
+Uncalled bet ($16.71) returned to VahTang_89
+VahTang_89 collected $33.42 from pot
+VahTang_89: doesn't show hand 
+*** SUMMARY ***
+Total pot $35.18 | Rake $1.76 
+Board [7c 7h 5h 6s]
+Seat 3: gudrozd
+Seat 1: oase88 (button) folded before Flop (didn't bet)
+Seat 2: v.sting (small blind) folded on the Turn
+Seat 4: Rysiff (big blind) folded before Flop
+Seat 5: VahTang_89 collected ($33.42)
+Seat 6: Twistenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254206572135:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:42:40 WET [2025/01/05 7:42:40 ET]
+Table 'Nash II' 6-max Seat #2 is the button
+Seat 1: oase88 ($2.56 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 4: Rysiff ($109.57 in chips) 
+Seat 5: VahTang_89 ($143.59 in chips) 
+Seat 6: Twistenko ($107.26 in chips) 
+Rysiff: posts small blind $0.50
+VahTang_89: posts big blind $1
+*** HOLE CARDS ***
+Twistenko: folds 
+oase88: raises $1.56 to $2.56 and is all-in
+v.sting: folds 
+Rysiff: folds 
+VahTang_89: folds 
+Uncalled bet ($1.56) returned to oase88
+oase88 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: oase88 collected ($2.50)
+Seat 2: v.sting (button) folded before Flop (didn't bet)
+Seat 4: Rysiff (small blind) folded before Flop
+Seat 5: VahTang_89 (big blind) folded before Flop
+Seat 6: Twistenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254206574492:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:42:54 WET [2025/01/05 7:42:54 ET]
+Table 'Nash II' 6-max Seat #4 is the button
+Seat 1: oase88 ($4.06 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 4: Rysiff ($109.07 in chips) 
+Seat 5: VahTang_89 ($142.59 in chips) 
+Seat 6: Twistenko ($107.26 in chips) 
+VahTang_89: posts small blind $0.50
+Twistenko: posts big blind $1
+*** HOLE CARDS ***
+oase88: folds 
+v.sting: folds 
+Rysiff: raises $1.50 to $2.50
+VahTang_89: folds 
+Twistenko: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: oase88 folded before Flop (didn't bet)
+Seat 2: v.sting folded before Flop (didn't bet)
+Seat 4: Rysiff (button) collected ($2.50)
+Seat 5: VahTang_89 (small blind) folded before Flop
+Seat 6: Twistenko (big blind) folded before Flop
+
+
+
+PokerStars Hand #254206579195:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:43:20 WET [2025/01/05 7:43:20 ET]
+Table 'Nash II' 6-max Seat #5 is the button
+Seat 1: oase88 ($4.06 in chips) 
+Seat 2: v.sting ($100 in chips) 
+Seat 4: Rysiff ($110.57 in chips) 
+Seat 5: VahTang_89 ($142.09 in chips) 
+Seat 6: Twistenko ($106.26 in chips) 
+Twistenko: posts small blind $0.50
+oase88: posts big blind $1
+*** HOLE CARDS ***
+v.sting: folds 
+Rysiff: raises $1.50 to $2.50
+VahTang_89: folds 
+Twistenko: folds 
+oase88: raises $1.56 to $4.06 and is all-in
+Rysiff: calls $1.56
+*** FLOP *** [2s Jc 6d]
+*** TURN *** [2s Jc 6d] [9h]
+*** RIVER *** [2s Jc 6d 9h] [7d]
+*** SHOW DOWN ***
+oase88: shows [Kc 3s] (high card King)
+Rysiff: shows [Th 8h] (a straight, Seven to Jack)
+Rysiff collected $8.19 from pot
+*** SUMMARY ***
+Total pot $8.62 | Rake $0.43 
+Board [2s Jc 6d 9h 7d]
+Seat 1: oase88 (big blind) showed [Kc 3s] and lost with high card King
+Seat 2: v.sting folded before Flop (didn't bet)
+Seat 4: Rysiff showed [Th 8h] and won ($8.19) with a straight, Seven to Jack
+Seat 5: VahTang_89 (button) folded before Flop (didn't bet)
+Seat 6: Twistenko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254206585229:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:43:53 WET [2025/01/05 7:43:53 ET]
+Table 'Nash II' 6-max Seat #6 is the button
+Seat 1: oase88 ($0 in chips) is sitting out
+Seat 2: v.sting ($100 in chips) 
+Seat 4: Rysiff ($114.70 in chips) 
+Seat 5: VahTang_89 ($142.09 in chips) 
+Seat 6: Twistenko ($105.76 in chips) 
+v.sting: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: raises $1.20 to $2.20
+Twistenko: folds 
+oase88 is disconnected 
+v.sting: folds 
+Rysiff: folds 
+Uncalled bet ($1.20) returned to VahTang_89
+VahTang_89 collected $2.50 from pot
+VahTang_89: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: oase88
+Seat 2: v.sting (small blind) folded before Flop
+Seat 4: Rysiff (big blind) folded before Flop
+Seat 5: VahTang_89 collected ($2.50)
+Seat 6: Twistenko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254206588151:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:44:09 WET [2025/01/05 7:44:09 ET]
+Table 'Nash II' 6-max Seat #2 is the button
+Seat 1: oase88 ($0 in chips) is sitting out
+Seat 5: VahTang_89 ($143.59 in chips) is sitting out
+Seat 2: v.sting ($100 in chips) 
+Seat 4: Rysiff ($113.70 in chips) 
+Seat 6: Twistenko ($105.76 in chips) 
+Rysiff: posts small blind $0.50
+VahTang_89: is sitting out 
+Twistenko: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89 leaves the table
+StupidGirl666 joins the table at seat #3 
+v.sting: folds 
+Rysiff: raises $2 to $3
+Twistenko: folds 
+Uncalled bet ($2) returned to Rysiff
+Rysiff collected $2 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: oase88
+Seat 5: VahTang_89
+Seat 2: v.sting (button) folded before Flop (didn't bet)
+Seat 4: Rysiff (small blind) collected ($2)
+Seat 6: Twistenko (big blind) folded before Flop
+
+
+
+PokerStars Hand #254206592066:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:44:31 WET [2025/01/05 7:44:31 ET]
+Table 'Nash II' 6-max Seat #4 is the button
+Seat 1: oase88 ($0 in chips) is sitting out
+Seat 2: v.sting ($100 in chips) is sitting out
+Seat 3: StupidGirl666 ($100 in chips) 
+Seat 4: Rysiff ($114.70 in chips) 
+Seat 6: Twistenko ($104.76 in chips) 
+Twistenko: posts small blind $0.50
+v.sting: is sitting out 
+StupidGirl666: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+Twistenko: folds 
+Uncalled bet ($0.50) returned to StupidGirl666
+StupidGirl666 collected $1 from pot
+StupidGirl666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: oase88
+Seat 2: v.sting
+Seat 3: StupidGirl666 (big blind) collected ($1)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 6: Twistenko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254206593494:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:44:39 WET [2025/01/05 7:44:39 ET]
+Table 'Nash II' 6-max Seat #6 is the button
+Seat 1: oase88 ($0 in chips) is sitting out
+Seat 2: v.sting ($100 in chips) is sitting out
+Seat 3: StupidGirl666 ($100.50 in chips) 
+Seat 4: Rysiff ($114.70 in chips) 
+Seat 6: Twistenko ($104.26 in chips) 
+StupidGirl666: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Twistenko: folds 
+v.sting leaves the table
+StupidGirl666: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: oase88
+Seat 2: v.sting
+Seat 3: StupidGirl666 (small blind) folded before Flop
+Seat 4: Rysiff (big blind) collected ($1)
+Seat 6: Twistenko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254206595523:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:44:51 WET [2025/01/05 7:44:51 ET]
+Table 'Nash II' 6-max Seat #4 is the button
+Seat 1: oase88 ($0 in chips) is sitting out
+Seat 6: Twistenko ($104.26 in chips) is sitting out
+Seat 3: StupidGirl666 ($100 in chips) 
+Seat 4: Rysiff ($115.20 in chips) 
+Rysiff: posts small blind $0.50
+Twistenko: is sitting out 
+StupidGirl666: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+Uncalled bet ($0.50) returned to StupidGirl666
+StupidGirl666 collected $1 from pot
+StupidGirl666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: oase88
+Seat 6: Twistenko
+Seat 3: StupidGirl666 (big blind) collected ($1)
+Seat 4: Rysiff (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254206596725:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:44:57 WET [2025/01/05 7:44:57 ET]
+Table 'Nash II' 6-max Seat #3 is the button
+Seat 1: oase88 ($0 in chips) is sitting out
+Seat 6: Twistenko ($104.26 in chips) is sitting out
+Seat 3: StupidGirl666 ($100.50 in chips) 
+Seat 4: Rysiff ($114.70 in chips) 
+StupidGirl666: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+StupidGirl666: raises $1.20 to $2.20
+Twistenko leaves the table
+Rysiff: raises $9.80 to $12
+StupidGirl666: calls $9.80
+*** FLOP *** [9h 8d Ac]
+Rysiff: bets $7.59
+StupidGirl666: folds 
+Uncalled bet ($7.59) returned to Rysiff
+Rysiff collected $23 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1 
+Board [9h 8d Ac]
+Seat 1: oase88
+Seat 6: Twistenko
+Seat 3: StupidGirl666 (button) (small blind) folded on the Flop
+Seat 4: Rysiff (big blind) collected ($23)
+
+
+
+PokerStars Hand #254206601442:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 12:45:23 WET [2025/01/05 7:45:23 ET]
+Table 'Nash II' 6-max Seat #4 is the button
+Seat 1: oase88 ($0 in chips) is sitting out
+Seat 3: StupidGirl666 ($100 in chips) 
+Seat 4: Rysiff ($125.70 in chips) 
+Rysiff: posts small blind $0.50
+StupidGirl666: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+StupidGirl666: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: oase88
+Seat 3: StupidGirl666 (big blind) folded before Flop
+Seat 4: Rysiff (button) (small blind) collected ($2)
+
+
+

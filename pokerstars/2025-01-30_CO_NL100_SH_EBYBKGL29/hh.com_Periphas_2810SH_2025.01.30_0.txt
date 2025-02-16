@@ -1,0 +1,1673 @@
+﻿PokerStars Hand #254621098675:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:09:44 WET [2025/01/30 9:09:44 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 1: vadjkeee ($100 in chips) 
+Seat 2: socito ($101.70 in chips) 
+Seat 3: AlexPinsk1 ($107.86 in chips) 
+Seat 4: AlexEliseev7 ($100 in chips) 
+Seat 5: Demy1205 ($58.12 in chips) 
+Seat 6: B1GBankroll ($104 in chips) 
+AlexPinsk1: posts small blind $0.50
+AlexEliseev7: posts big blind $1
+*** HOLE CARDS ***
+Demy1205: calls $1
+B1GBankroll: raises $3 to $4
+vadjkeee: folds 
+socito: calls $4
+AlexPinsk1: folds 
+AlexEliseev7: calls $3
+Demy1205: calls $3
+*** FLOP *** [2h 6s 3s]
+AlexEliseev7: checks 
+Demy1205: checks 
+B1GBankroll: checks 
+socito: bets $3.92
+AlexEliseev7: calls $3.92
+Demy1205: folds 
+B1GBankroll: calls $3.92
+*** TURN *** [2h 6s 3s] [7h]
+AlexEliseev7: checks 
+B1GBankroll: checks 
+socito: checks 
+*** RIVER *** [2h 6s 3s 7h] [Jc]
+AlexEliseev7: checks 
+B1GBankroll: checks 
+socito: checks 
+*** SHOW DOWN ***
+AlexEliseev7: shows [3d 3c] (three of a kind, Threes)
+B1GBankroll: mucks hand 
+socito: mucks hand 
+AlexEliseev7 collected $26.85 from pot
+*** SUMMARY ***
+Total pot $28.26 | Rake $1.41 
+Board [2h 6s 3s 7h Jc]
+Seat 1: vadjkeee folded before Flop (didn't bet)
+Seat 2: socito (button) mucked
+Seat 3: AlexPinsk1 (small blind) folded before Flop
+Seat 4: AlexEliseev7 (big blind) showed [3d 3c] and won ($26.85) with three of a kind, Threes
+Seat 5: Demy1205 folded on the Flop
+Seat 6: B1GBankroll mucked
+
+
+
+PokerStars Hand #254621114990:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:11:22 WET [2025/01/30 9:11:22 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 1: vadjkeee ($100 in chips) 
+Seat 2: socito ($100 in chips) 
+Seat 3: AlexPinsk1 ($107.36 in chips) 
+Seat 4: AlexEliseev7 ($118.93 in chips) 
+Seat 5: Demy1205 ($54.12 in chips) 
+Seat 6: B1GBankroll ($96.08 in chips) 
+AlexEliseev7: posts small blind $0.50
+Demy1205: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+vadjkeee: raises $1.50 to $2.50
+socito: raises $5 to $7.50
+AlexPinsk1: folds 
+AlexEliseev7: folds 
+Demy1205: calls $6.50
+vadjkeee: calls $5
+*** FLOP *** [3h Jd Ts]
+Demy1205: checks 
+vadjkeee: checks 
+socito: bets $10.93
+Demy1205: calls $10.93
+vadjkeee: calls $10.93
+*** TURN *** [3h Jd Ts] [8s]
+Demy1205: checks 
+vadjkeee: bets $13.32
+socito: raises $68.25 to $81.57 and is all-in
+Demy1205: folds 
+vadjkeee: folds 
+Uncalled bet ($68.25) returned to socito
+socito collected $79.93 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $82.43 | Rake $2.50 
+Board [3h Jd Ts 8s]
+Seat 1: vadjkeee folded on the Turn
+Seat 2: socito collected ($79.93)
+Seat 3: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 4: AlexEliseev7 (small blind) folded before Flop
+Seat 5: Demy1205 (big blind) folded on the Turn
+Seat 6: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621130778:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:12:55 WET [2025/01/30 9:12:55 ET]
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 1: vadjkeee ($100 in chips) 
+Seat 2: socito ($148.18 in chips) 
+Seat 3: AlexPinsk1 ($107.36 in chips) 
+Seat 4: AlexEliseev7 ($118.43 in chips) 
+Seat 5: Demy1205 ($35.69 in chips) 
+Seat 6: B1GBankroll ($96.08 in chips) 
+Demy1205: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+socito: folds 
+AlexPinsk1: folds 
+AlexEliseev7: folds 
+Demy1205: calls $0.50
+B1GBankroll: checks 
+*** FLOP *** [6d Ac 4s]
+Demy1205: checks 
+B1GBankroll: bets $1
+Demy1205: calls $1
+*** TURN *** [6d Ac 4s] [Tc]
+Demy1205: checks 
+B1GBankroll: checks 
+*** RIVER *** [6d Ac 4s Tc] [4c]
+Demy1205: bets $3.80
+B1GBankroll: folds 
+Uncalled bet ($3.80) returned to Demy1205
+Demy1205 collected $3.80 from pot
+Demy1205: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [6d Ac 4s Tc 4c]
+Seat 1: vadjkeee folded before Flop (didn't bet)
+Seat 2: socito folded before Flop (didn't bet)
+Seat 3: AlexPinsk1 folded before Flop (didn't bet)
+Seat 4: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 5: Demy1205 (small blind) collected ($3.80)
+Seat 6: B1GBankroll (big blind) folded on the River
+
+
+
+PokerStars Hand #254621138227:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:13:39 WET [2025/01/30 9:13:39 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 1: vadjkeee ($100 in chips) 
+Seat 2: socito ($148.18 in chips) 
+Seat 3: AlexPinsk1 ($107.36 in chips) 
+Seat 4: AlexEliseev7 ($118.43 in chips) 
+Seat 5: Demy1205 ($37.49 in chips) 
+Seat 6: B1GBankroll ($94.08 in chips) 
+B1GBankroll: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+AlexPinsk1: raises $1.50 to $2.50
+AlexEliseev7: folds 
+Demy1205: calls $2.50
+B1GBankroll: folds 
+vadjkeee: folds 
+*** FLOP *** [Ks 9d Ah]
+AlexPinsk1: bets $3.09
+Demy1205: folds 
+Uncalled bet ($3.09) returned to AlexPinsk1
+AlexPinsk1 collected $6.18 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Ks 9d Ah]
+Seat 1: vadjkeee (big blind) folded before Flop
+Seat 2: socito folded before Flop (didn't bet)
+Seat 3: AlexPinsk1 collected ($6.18)
+Seat 4: AlexEliseev7 folded before Flop (didn't bet)
+Seat 5: Demy1205 (button) folded on the Flop
+Seat 6: B1GBankroll (small blind) folded before Flop
+
+
+
+PokerStars Hand #254621142837:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:14:07 WET [2025/01/30 9:14:07 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 1: vadjkeee ($100 in chips) 
+Seat 2: socito ($148.18 in chips) 
+Seat 3: AlexPinsk1 ($111.04 in chips) 
+Seat 4: AlexEliseev7 ($118.43 in chips) 
+Seat 5: Demy1205 ($34.99 in chips) 
+Seat 6: B1GBankroll ($93.58 in chips) 
+vadjkeee: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+AlexEliseev7: raises $1.50 to $2.50
+Demy1205: folds 
+B1GBankroll: folds 
+vadjkeee: folds 
+socito: calls $1.50
+*** FLOP *** [Ad Kd 2c]
+socito: checks 
+AlexEliseev7: bets $1.72
+socito: folds 
+Uncalled bet ($1.72) returned to AlexEliseev7
+AlexEliseev7 collected $5.22 from pot
+AlexEliseev7: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Ad Kd 2c]
+Seat 1: vadjkeee (small blind) folded before Flop
+Seat 2: socito (big blind) folded on the Flop
+Seat 3: AlexPinsk1 folded before Flop (didn't bet)
+Seat 4: AlexEliseev7 collected ($5.22)
+Seat 5: Demy1205 folded before Flop (didn't bet)
+Seat 6: B1GBankroll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621148225:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:14:39 WET [2025/01/30 9:14:39 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 1: vadjkeee ($100 in chips) 
+Seat 2: socito ($145.68 in chips) 
+Seat 3: AlexPinsk1 ($111.04 in chips) 
+Seat 4: AlexEliseev7 ($121.15 in chips) 
+Seat 5: Demy1205 ($34.99 in chips) 
+Seat 6: B1GBankroll ($93.58 in chips) 
+socito: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+AlexEliseev7: folds 
+Demy1205: calls $1
+B1GBankroll: folds 
+vadjkeee: raises $3 to $4
+socito: folds 
+AlexPinsk1: folds 
+Demy1205: calls $3
+*** FLOP *** [Kc Qs 7c]
+Demy1205: checks 
+vadjkeee: bets $2.98
+Demy1205: calls $2.98
+*** TURN *** [Kc Qs 7c] [3h]
+Demy1205: checks 
+vadjkeee: checks 
+*** RIVER *** [Kc Qs 7c 3h] [Ad]
+Demy1205: bets $14.69
+vadjkeee: calls $14.69
+*** SHOW DOWN ***
+Demy1205: shows [9h Ts] (high card Ace)
+vadjkeee: shows [5h Ac] (a pair of Aces)
+vadjkeee collected $42.60 from pot
+*** SUMMARY ***
+Total pot $44.84 | Rake $2.24 
+Board [Kc Qs 7c 3h Ad]
+Seat 1: vadjkeee (button) showed [5h Ac] and won ($42.60) with a pair of Aces
+Seat 2: socito (small blind) folded before Flop
+Seat 3: AlexPinsk1 (big blind) folded before Flop
+Seat 4: AlexEliseev7 folded before Flop (didn't bet)
+Seat 5: Demy1205 showed [9h Ts] and lost with high card Ace
+Seat 6: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621157938:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:15:36 WET [2025/01/30 9:15:36 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 1: vadjkeee ($120.93 in chips) 
+Seat 2: socito ($145.18 in chips) 
+Seat 3: AlexPinsk1 ($110.04 in chips) 
+Seat 4: AlexEliseev7 ($121.15 in chips) 
+Seat 5: Demy1205 ($13.32 in chips) 
+Seat 6: B1GBankroll ($93.58 in chips) 
+AlexPinsk1: posts small blind $0.50
+AlexEliseev7: posts big blind $1
+*** HOLE CARDS ***
+Demy1205: calls $1
+B1GBankroll: folds 
+vadjkeee: folds 
+socito: raises $3.50 to $4.50
+AlexPinsk1: folds 
+AlexEliseev7: folds 
+Demy1205: calls $3.50
+*** FLOP *** [Jd 6s 2h]
+Demy1205: checks 
+socito: checks 
+*** TURN *** [Jd 6s 2h] [Ac]
+Demy1205: bets $8.82 and is all-in
+socito: calls $8.82
+*** RIVER *** [Jd 6s 2h Ac] [Ah]
+*** SHOW DOWN ***
+Demy1205: shows [5d 4c] (a pair of Aces)
+socito: shows [9d Ad] (three of a kind, Aces)
+socito collected $26.73 from pot
+*** SUMMARY ***
+Total pot $28.14 | Rake $1.41 
+Board [Jd 6s 2h Ac Ah]
+Seat 1: vadjkeee folded before Flop (didn't bet)
+Seat 2: socito (button) showed [9d Ad] and won ($26.73) with three of a kind, Aces
+Seat 3: AlexPinsk1 (small blind) folded before Flop
+Seat 4: AlexEliseev7 (big blind) folded before Flop
+Seat 5: Demy1205 showed [5d 4c] and lost with a pair of Aces
+Seat 6: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621164958:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:16:17 WET [2025/01/30 9:16:17 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 5: Demy1205 ($0 in chips) is sitting out
+Seat 1: vadjkeee ($120.93 in chips) 
+Seat 2: socito ($158.59 in chips) 
+Seat 3: AlexPinsk1 ($109.54 in chips) 
+Seat 4: AlexEliseev7 ($120.15 in chips) 
+Seat 6: B1GBankroll ($93.58 in chips) 
+AlexEliseev7: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+socito: raises $1.50 to $2.50
+AlexPinsk1: folds 
+AlexEliseev7: folds 
+B1GBankroll: folds 
+Uncalled bet ($1.50) returned to socito
+socito collected $2.50 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: Demy1205
+Seat 1: vadjkeee folded before Flop (didn't bet)
+Seat 2: socito collected ($2.50)
+Seat 3: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 4: AlexEliseev7 (small blind) folded before Flop
+Seat 6: B1GBankroll (big blind) folded before Flop
+
+
+
+PokerStars Hand #254621168603:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:16:38 WET [2025/01/30 9:16:38 ET]
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 5: Demy1205 ($0 in chips) is sitting out
+Seat 1: vadjkeee ($120.93 in chips) 
+Seat 2: socito ($160.09 in chips) 
+Seat 3: AlexPinsk1 ($109.54 in chips) 
+Seat 4: AlexEliseev7 ($119.65 in chips) 
+Seat 6: B1GBankroll ($92.58 in chips) 
+B1GBankroll: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+AlexPinsk1: raises $1.50 to $2.50
+AlexEliseev7: raises $5 to $7.50
+B1GBankroll: folds 
+Demy1205 is disconnected 
+vadjkeee: raises $113.43 to $120.93 and is all-in
+AlexPinsk1: folds 
+AlexEliseev7: calls $112.15 and is all-in
+Uncalled bet ($1.28) returned to vadjkeee
+AlexEliseev7 has timed out
+*** FLOP *** [Th 8h 8d]
+*** TURN *** [Th 8h 8d] [2s]
+*** RIVER *** [Th 8h 8d 2s] [Ts]
+*** SHOW DOWN ***
+vadjkeee: shows [Jd Js] (two pair, Jacks and Tens)
+AlexEliseev7: shows [Qc Qs] (two pair, Queens and Tens)
+AlexEliseev7 collected $239.80 from pot
+*** SUMMARY ***
+Total pot $242.30 | Rake $2.50 
+Board [Th 8h 8d 2s Ts]
+Seat 5: Demy1205
+Seat 1: vadjkeee (big blind) showed [Jd Js] and lost with two pair, Jacks and Tens
+Seat 2: socito folded before Flop (didn't bet)
+Seat 3: AlexPinsk1 folded before Flop
+Seat 4: AlexEliseev7 (button) showed [Qc Qs] and won ($239.80) with two pair, Queens and Tens
+Seat 6: B1GBankroll (small blind) folded before Flop
+
+
+
+PokerStars Hand #254621179688:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:17:43 WET [2025/01/30 9:17:43 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 2: socito ($160.09 in chips) is sitting out
+Seat 5: Demy1205 ($0 in chips) is sitting out
+Seat 1: vadjkeee ($100 in chips) 
+Seat 3: AlexPinsk1 ($107.04 in chips) 
+Seat 4: AlexEliseev7 ($239.80 in chips) 
+Seat 6: B1GBankroll ($92.08 in chips) 
+vadjkeee: posts small blind $0.50
+socito: is sitting out 
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+socito leaves the table
+AlexEliseev7: folds 
+I am Anux! joins the table at seat #2 
+B1GBankroll: folds 
+vadjkeee: folds 
+Uncalled bet ($0.50) returned to AlexPinsk1
+AlexPinsk1 collected $1 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: socito
+Seat 5: Demy1205
+Seat 1: vadjkeee (small blind) folded before Flop
+Seat 3: AlexPinsk1 (big blind) collected ($1)
+Seat 4: AlexEliseev7 folded before Flop (didn't bet)
+Seat 6: B1GBankroll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621181500:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:17:54 WET [2025/01/30 9:17:54 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 2: I am Anux! ($100 in chips) is sitting out
+Seat 4: AlexEliseev7 ($239.80 in chips) is sitting out
+Seat 5: Demy1205 ($0 in chips) is sitting out
+Seat 1: vadjkeee ($100 in chips) 
+Seat 3: AlexPinsk1 ($107.54 in chips) 
+Seat 6: B1GBankroll ($92.08 in chips) 
+AlexPinsk1: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+AlexEliseev7 leaves the table
+AlexPinsk1: folds 
+Uncalled bet ($0.50) returned to B1GBankroll
+B1GBankroll collected $1 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: I am Anux!
+Seat 4: AlexEliseev7
+Seat 5: Demy1205
+Seat 1: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: AlexPinsk1 (small blind) folded before Flop
+Seat 6: B1GBankroll (big blind) collected ($1)
+
+
+
+PokerStars Hand #254621182779:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:18:01 WET [2025/01/30 9:18:01 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 2: I am Anux! ($100 in chips) is sitting out
+Seat 5: Demy1205 ($0 in chips) is sitting out
+Seat 1: vadjkeee ($100 in chips) 
+Seat 3: AlexPinsk1 ($107.04 in chips) 
+Seat 6: B1GBankroll ($92.58 in chips) 
+B1GBankroll: posts small blind $0.50
+vadjkeee: posts big blind $1
+I am Anux!: sits out 
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+B1GBankroll: folds 
+Uncalled bet ($0.50) returned to vadjkeee
+vadjkeee collected $1 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: I am Anux!
+Seat 5: Demy1205
+Seat 1: vadjkeee (big blind) collected ($1)
+Seat 3: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 6: B1GBankroll (small blind) folded before Flop
+
+
+
+PokerStars Hand #254621184964:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:18:14 WET [2025/01/30 9:18:14 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 5: Demy1205 ($0 in chips) is sitting out
+Seat 1: vadjkeee ($100.50 in chips) 
+Seat 2: I am Anux! ($100 in chips) 
+Seat 3: AlexPinsk1 ($107.04 in chips) 
+Seat 6: B1GBankroll ($92.08 in chips) 
+vadjkeee: posts small blind $0.50
+I am Anux!: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: raises $1.50 to $2.50
+B1GBankroll: folds 
+vadjkeee: folds 
+I am Anux!: calls $1.50
+*** FLOP *** [5c 4d Js]
+I am Anux!: checks 
+AlexPinsk1: checks 
+*** TURN *** [5c 4d Js] [Qs]
+I am Anux!: checks 
+B1GBankroll leaves the table
+AlexPinsk1: checks 
+*** RIVER *** [5c 4d Js Qs] [Kd]
+I am Anux!: checks 
+AlexPinsk1: checks 
+*** SHOW DOWN ***
+I am Anux!: shows [9c 8c] (high card King)
+AlexPinsk1: shows [Ts Tc] (a pair of Tens)
+AlexPinsk1 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [5c 4d Js Qs Kd]
+Seat 5: Demy1205
+Seat 1: vadjkeee (small blind) folded before Flop
+Seat 2: I am Anux! (big blind) showed [9c 8c] and lost with high card King
+Seat 3: AlexPinsk1 showed [Ts Tc] and won ($5.22) with a pair of Tens
+Seat 6: B1GBankroll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621192583:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:18:58 WET [2025/01/30 9:18:58 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 3: AlexPinsk1 ($109.76 in chips) is sitting out
+Seat 5: Demy1205 ($0 in chips) is sitting out
+Seat 1: vadjkeee ($100 in chips) 
+Seat 2: I am Anux! ($100 in chips) 
+I am Anux!: posts small blind $0.50
+AlexPinsk1: is sitting out 
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1 leaves the table
+I am Anux!: raises $1.40 to $2.40
+vadjkeee: folds 
+Uncalled bet ($1.40) returned to I am Anux!
+I am Anux! collected $2 from pot
+I am Anux!: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: AlexPinsk1
+Seat 5: Demy1205
+Seat 1: vadjkeee (big blind) folded before Flop
+Seat 2: I am Anux! (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254621194846:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:19:11 WET [2025/01/30 9:19:11 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 5: Demy1205 ($0 in chips) is sitting out
+Seat 1: vadjkeee ($100 in chips) 
+Seat 2: I am Anux! ($101 in chips) 
+vadjkeee: posts small blind $0.50
+I am Anux!: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: raises $1.50 to $2.50
+I am Anux!: folds 
+Uncalled bet ($1.50) returned to vadjkeee
+vadjkeee collected $2 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: Demy1205
+Seat 1: vadjkeee (button) (small blind) collected ($2)
+Seat 2: I am Anux! (big blind) folded before Flop
+
+
+
+PokerStars Hand #254621401055:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:41:58 WET [2025/01/30 9:41:58 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 2: I am Anux! ($100 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+Seat 6: RAidakCo ($100 in chips) 
+poker_soul11: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+I am Anux!: raises $1.40 to $2.40
+poker_soul11: folds 
+RAidakCo: calls $1.40
+*** FLOP *** [7c 8c Ac]
+RAidakCo: checks 
+I am Anux!: bets $1
+RAidakCo: calls $1
+*** TURN *** [7c 8c Ac] [Kc]
+RAidakCo: checks 
+I am Anux!: checks 
+*** RIVER *** [7c 8c Ac Kc] [Qc]
+RAidakCo: bets $12
+I am Anux!: folds 
+Uncalled bet ($12) returned to RAidakCo
+RAidakCo collected $6.94 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.30 | Rake $0.36 
+Board [7c 8c Ac Kc Qc]
+Seat 2: I am Anux! (button) folded on the River
+Seat 5: poker_soul11 (small blind) folded before Flop
+Seat 6: RAidakCo (big blind) collected ($6.94)
+
+
+
+PokerStars Hand #254621408610:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:43:00 WET [2025/01/30 9:43:00 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 2: I am Anux! ($100 in chips) 
+Seat 5: poker_soul11 ($100 in chips) 
+Seat 6: RAidakCo ($103.54 in chips) 
+RAidakCo: posts small blind $0.50
+I am Anux!: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: raises $1.20 to $2.20
+RAidakCo: folds 
+I am Anux!: calls $1.20
+*** FLOP *** [Qc 5s Jd]
+I am Anux!: checks 
+poker_soul11: checks 
+*** TURN *** [Qc 5s Jd] [4d]
+I am Anux!: checks 
+poker_soul11: checks 
+*** RIVER *** [Qc 5s Jd 4d] [6d]
+I am Anux!: checks 
+poker_soul11: bets $3.50
+I am Anux!: folds 
+Uncalled bet ($3.50) returned to poker_soul11
+poker_soul11 collected $4.66 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Qc 5s Jd 4d 6d]
+Seat 2: I am Anux! (big blind) folded on the River
+Seat 5: poker_soul11 (button) collected ($4.66)
+Seat 6: RAidakCo (small blind) folded before Flop
+
+
+
+PokerStars Hand #254621416713:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:44:09 WET [2025/01/30 9:44:09 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 2: I am Anux! ($100 in chips) 
+Seat 5: poker_soul11 ($102.46 in chips) 
+Seat 6: RAidakCo ($103.04 in chips) 
+I am Anux!: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: raises $1.50 to $2.50
+I am Anux!: folds 
+poker_soul11: folds 
+Uncalled bet ($1.50) returned to RAidakCo
+RAidakCo collected $2.50 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: I am Anux! (small blind) folded before Flop
+Seat 5: poker_soul11 (big blind) folded before Flop
+Seat 6: RAidakCo (button) collected ($2.50)
+
+
+
+PokerStars Hand #254621418134:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:44:21 WET [2025/01/30 9:44:21 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 2: I am Anux! ($100 in chips) 
+Seat 5: poker_soul11 ($101.46 in chips) 
+Seat 6: RAidakCo ($104.54 in chips) 
+poker_soul11: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+I am Anux!: raises $1.40 to $2.40
+poker_soul11: raises $9.60 to $12
+RAidakCo: folds 
+I am Anux!: folds 
+Uncalled bet ($9.60) returned to poker_soul11
+poker_soul11 collected $5.80 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.80 | Rake $0 
+Seat 2: I am Anux! (button) folded before Flop
+Seat 5: poker_soul11 (small blind) collected ($5.80)
+Seat 6: RAidakCo (big blind) folded before Flop
+
+
+
+PokerStars Hand #254621421582:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:44:51 WET [2025/01/30 9:44:51 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 2: I am Anux! ($100 in chips) 
+Seat 5: poker_soul11 ($104.86 in chips) 
+Seat 6: RAidakCo ($103.54 in chips) 
+RAidakCo: posts small blind $0.50
+I am Anux!: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: raises $1.20 to $2.20
+RAidakCo: raises $8.80 to $11
+I am Anux!: folds 
+poker_soul11: raises $93.86 to $104.86 and is all-in
+RAidakCo: folds 
+Uncalled bet ($93.86) returned to poker_soul11
+poker_soul11 collected $23 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $0 
+Seat 2: I am Anux! (big blind) folded before Flop
+Seat 5: poker_soul11 (button) collected ($23)
+Seat 6: RAidakCo (small blind) folded before Flop
+
+
+
+PokerStars Hand #254621424900:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:45:20 WET [2025/01/30 9:45:20 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 2: I am Anux! ($100 in chips) 
+Seat 5: poker_soul11 ($116.86 in chips) 
+Seat 6: RAidakCo ($100 in chips) 
+I am Anux!: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: folds 
+I am Anux!: folds 
+Uncalled bet ($0.50) returned to poker_soul11
+poker_soul11 collected $1 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: I am Anux! (small blind) folded before Flop
+Seat 5: poker_soul11 (big blind) collected ($1)
+Seat 6: RAidakCo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621425987:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:45:30 WET [2025/01/30 9:45:30 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 2: I am Anux! ($100 in chips) 
+Seat 5: poker_soul11 ($117.36 in chips) 
+Seat 6: RAidakCo ($100 in chips) 
+poker_soul11: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+I am Anux!: raises $1.40 to $2.40
+poker_soul11: raises $9.60 to $12
+RAidakCo: folds 
+I am Anux!: folds 
+Uncalled bet ($9.60) returned to poker_soul11
+poker_soul11 collected $5.80 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.80 | Rake $0 
+Seat 2: I am Anux! (button) folded before Flop
+Seat 5: poker_soul11 (small blind) collected ($5.80)
+Seat 6: RAidakCo (big blind) folded before Flop
+
+
+
+PokerStars Hand #254621429763:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:46:05 WET [2025/01/30 9:46:05 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 2: I am Anux! ($100 in chips) 
+Seat 5: poker_soul11 ($120.76 in chips) 
+Seat 6: RAidakCo ($100 in chips) 
+RAidakCo: posts small blind $0.50
+I am Anux!: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+RAidakCo: folds 
+Uncalled bet ($0.50) returned to I am Anux!
+I am Anux! collected $1 from pot
+I am Anux!: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: I am Anux! (big blind) collected ($1)
+Seat 5: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 6: RAidakCo (small blind) folded before Flop
+
+
+
+PokerStars Hand #254621431432:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:46:20 WET [2025/01/30 9:46:20 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 2: I am Anux! ($100.50 in chips) 
+Seat 5: poker_soul11 ($120.76 in chips) 
+Seat 6: RAidakCo ($100 in chips) 
+I am Anux!: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+elcutez joins the table at seat #1 
+elcutez is disconnected 
+Kristo 914 joins the table at seat #4 
+RAidakCo: raises $1.50 to $2.50
+I am Anux!: folds 
+poker_soul11: folds 
+Uncalled bet ($1.50) returned to RAidakCo
+RAidakCo collected $2.50 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: I am Anux! (small blind) folded before Flop
+Seat 5: poker_soul11 (big blind) folded before Flop
+Seat 6: RAidakCo (button) collected ($2.50)
+
+
+
+PokerStars Hand #254621435274:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:46:55 WET [2025/01/30 9:46:55 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 4: Kristo 914 ($100 in chips) is sitting out
+Seat 1: elcutez ($100 in chips) 
+Seat 2: I am Anux! ($100 in chips) 
+Seat 5: poker_soul11 ($119.76 in chips) 
+Seat 6: RAidakCo ($101.50 in chips) 
+poker_soul11: posts small blind $0.50
+RAidakCo: posts big blind $1
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+elcutez: checks 
+I am Anux!: folds 
+poker_soul11: folds 
+RAidakCo: checks 
+*** FLOP *** [2h 3s 9d]
+RAidakCo: bets $1.79
+elcutez: calls $1.79
+*** TURN *** [2h 3s 9d] [Qh]
+RAidakCo: checks 
+elcutez: checks 
+*** RIVER *** [2h 3s 9d Qh] [7c]
+RAidakCo: checks 
+elcutez: bets $9
+RAidakCo: calls $9
+*** SHOW DOWN ***
+elcutez: shows [3d 5d] (a pair of Threes)
+RAidakCo: shows [8c 3h] (a pair of Threes - Queen+Nine+Eight kicker)
+RAidakCo collected $23.08 from pot
+*** SUMMARY ***
+Total pot $24.08 | Rake $1 
+Board [2h 3s 9d Qh 7c]
+Seat 4: Kristo 914
+Seat 1: elcutez showed [3d 5d] and lost with a pair of Threes
+Seat 2: I am Anux! (button) folded before Flop (didn't bet)
+Seat 5: poker_soul11 (small blind) folded before Flop
+Seat 6: RAidakCo (big blind) showed [8c 3h] and won ($23.08) with a pair of Threes
+
+
+
+PokerStars Hand #254621440802:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:47:46 WET [2025/01/30 9:47:46 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 4: Kristo 914 ($100 in chips) is sitting out
+Seat 1: elcutez ($88.21 in chips) 
+Seat 2: I am Anux! ($100 in chips) 
+Seat 5: poker_soul11 ($119.26 in chips) 
+Seat 6: RAidakCo ($112.79 in chips) 
+RAidakCo: posts small blind $0.50
+elcutez: posts big blind $1
+Kristo 914: sits out 
+*** HOLE CARDS ***
+I am Anux!: folds 
+poker_soul11: folds 
+RAidakCo: raises $2 to $3
+elcutez: folds 
+Uncalled bet ($2) returned to RAidakCo
+RAidakCo collected $2 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: Kristo 914
+Seat 1: elcutez (big blind) folded before Flop
+Seat 2: I am Anux! folded before Flop (didn't bet)
+Seat 5: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 6: RAidakCo (small blind) collected ($2)
+
+
+
+PokerStars Hand #254621442334:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:48:00 WET [2025/01/30 9:48:00 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 4: Kristo 914 ($100 in chips) is sitting out
+Seat 1: elcutez ($87.21 in chips) 
+Seat 2: I am Anux! ($100 in chips) 
+Seat 5: poker_soul11 ($119.26 in chips) 
+Seat 6: RAidakCo ($113.79 in chips) 
+elcutez: posts small blind $0.50
+I am Anux!: posts big blind $1
+Kristo 914: sits out 
+*** HOLE CARDS ***
+poker_soul11: folds 
+RAidakCo: raises $1.50 to $2.50
+elcutez: folds 
+I am Anux!: calls $1.50
+*** FLOP *** [3s 4s 6c]
+I am Anux!: checks 
+RAidakCo: bets $3.92
+I am Anux!: calls $3.92
+*** TURN *** [3s 4s 6c] [9s]
+I am Anux!: checks 
+CPUrul0r joins the table at seat #3 
+RAidakCo: bets $9.50
+I am Anux!: calls $9.50
+*** RIVER *** [3s 4s 6c 9s] [5d]
+I am Anux!: checks 
+RAidakCo: checks 
+*** SHOW DOWN ***
+I am Anux!: shows [5s 6s] (a flush, Nine high)
+RAidakCo: mucks hand 
+I am Anux! collected $31.34 from pot
+*** SUMMARY ***
+Total pot $32.34 | Rake $1 
+Board [3s 4s 6c 9s 5d]
+Seat 4: Kristo 914
+Seat 1: elcutez (small blind) folded before Flop
+Seat 2: I am Anux! (big blind) showed [5s 6s] and won ($31.34) with a flush, Nine high
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: RAidakCo (button) mucked
+
+
+
+PokerStars Hand #254621450652:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:49:17 WET [2025/01/30 9:49:17 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 4: Kristo 914 ($100 in chips) is sitting out
+Seat 1: elcutez ($86.71 in chips) 
+Seat 2: I am Anux! ($115.42 in chips) 
+Seat 3: CPUrul0r ($100 in chips) 
+Seat 5: poker_soul11 ($119.26 in chips) 
+Seat 6: RAidakCo ($100 in chips) 
+I am Anux!: posts small blind $0.50
+CPUrul0r: posts big blind $1
+Kristo 914: sits out 
+*** HOLE CARDS ***
+poker_soul11: folds 
+RAidakCo: raises $1.20 to $2.20
+elcutez: folds 
+I am Anux!: folds 
+CPUrul0r: folds 
+Uncalled bet ($1.20) returned to RAidakCo
+RAidakCo collected $2.50 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: Kristo 914
+Seat 1: elcutez (button) folded before Flop (didn't bet)
+Seat 2: I am Anux! (small blind) folded before Flop
+Seat 3: CPUrul0r (big blind) folded before Flop
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: RAidakCo collected ($2.50)
+
+
+
+PokerStars Hand #254621452621:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:49:36 WET [2025/01/30 9:49:36 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 1: elcutez ($86.71 in chips) 
+Seat 2: I am Anux! ($114.92 in chips) 
+Seat 3: CPUrul0r ($100 in chips) 
+Seat 4: Kristo 914 ($100 in chips) 
+Seat 5: poker_soul11 ($119.26 in chips) 
+Seat 6: RAidakCo ($101.50 in chips) 
+CPUrul0r: posts small blind $0.50
+Kristo 914: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+RAidakCo: folds 
+elcutez: raises $2 to $3
+I am Anux!: raises $6 to $9
+CPUrul0r: raises $13 to $22
+Kristo 914: folds 
+elcutez: folds 
+I am Anux!: calls $13
+*** FLOP *** [7c Kc Qs]
+CPUrul0r: bets $11.40
+I am Anux!: folds 
+Uncalled bet ($11.40) returned to CPUrul0r
+CPUrul0r collected $45.60 from pot
+CPUrul0r: doesn't show hand 
+*** SUMMARY ***
+Total pot $48 | Rake $2.40 
+Board [7c Kc Qs]
+Seat 1: elcutez folded before Flop
+Seat 2: I am Anux! (button) folded on the Flop
+Seat 3: CPUrul0r (small blind) collected ($45.60)
+Seat 4: Kristo 914 (big blind) folded before Flop
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: RAidakCo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621459375:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:50:41 WET [2025/01/30 9:50:41 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 1: elcutez ($83.71 in chips) 
+Seat 2: I am Anux! ($100 in chips) 
+Seat 3: CPUrul0r ($123.60 in chips) 
+Seat 4: Kristo 914 ($100 in chips) 
+Seat 5: poker_soul11 ($119.26 in chips) 
+Seat 6: RAidakCo ($101.50 in chips) 
+Kristo 914: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: folds 
+elcutez: folds 
+I am Anux!: folds 
+CPUrul0r: folds 
+Kristo 914: raises $2 to $3
+poker_soul11: folds 
+Uncalled bet ($2) returned to Kristo 914
+Kristo 914 collected $2 from pot
+Kristo 914: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: elcutez folded before Flop (didn't bet)
+Seat 2: I am Anux! folded before Flop (didn't bet)
+Seat 3: CPUrul0r (button) folded before Flop (didn't bet)
+Seat 4: Kristo 914 (small blind) collected ($2)
+Seat 5: poker_soul11 (big blind) folded before Flop
+Seat 6: RAidakCo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621461653:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:51:04 WET [2025/01/30 9:51:04 ET]
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 1: elcutez ($83.71 in chips) 
+Seat 2: I am Anux! ($100 in chips) 
+Seat 3: CPUrul0r ($123.60 in chips) 
+Seat 4: Kristo 914 ($101 in chips) 
+Seat 5: poker_soul11 ($118.26 in chips) 
+Seat 6: RAidakCo ($101.50 in chips) 
+poker_soul11: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+elcutez: folds 
+I am Anux!: folds 
+CPUrul0r: folds 
+Kristo 914: folds 
+poker_soul11: folds 
+Uncalled bet ($0.50) returned to RAidakCo
+RAidakCo collected $1 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: elcutez folded before Flop (didn't bet)
+Seat 2: I am Anux! folded before Flop (didn't bet)
+Seat 3: CPUrul0r folded before Flop (didn't bet)
+Seat 4: Kristo 914 (button) folded before Flop (didn't bet)
+Seat 5: poker_soul11 (small blind) folded before Flop
+Seat 6: RAidakCo (big blind) collected ($1)
+
+
+
+PokerStars Hand #254621463909:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:51:26 WET [2025/01/30 9:51:26 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 1: elcutez ($83.71 in chips) 
+Seat 2: I am Anux! ($100 in chips) 
+Seat 3: CPUrul0r ($123.60 in chips) 
+Seat 4: Kristo 914 ($101 in chips) 
+Seat 5: poker_soul11 ($117.76 in chips) 
+Seat 6: RAidakCo ($102 in chips) 
+RAidakCo: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+I am Anux!: raises $1 to $2
+CPUrul0r: folds 
+Kristo 914: raises $4.50 to $6.50
+poker_soul11: folds 
+RAidakCo: folds 
+elcutez: folds 
+I am Anux!: folds 
+Uncalled bet ($4.50) returned to Kristo 914
+Kristo 914 collected $5.50 from pot
+Kristo 914: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: elcutez (big blind) folded before Flop
+Seat 2: I am Anux! folded before Flop
+Seat 3: CPUrul0r folded before Flop (didn't bet)
+Seat 4: Kristo 914 collected ($5.50)
+Seat 5: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 6: RAidakCo (small blind) folded before Flop
+
+
+
+PokerStars Hand #254621468202:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:52:09 WET [2025/01/30 9:52:09 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 1: elcutez ($82.71 in chips) 
+Seat 2: I am Anux! ($100 in chips) 
+Seat 3: CPUrul0r ($123.60 in chips) 
+Seat 4: Kristo 914 ($104.50 in chips) 
+Seat 5: poker_soul11 ($117.76 in chips) 
+Seat 6: RAidakCo ($101.50 in chips) 
+elcutez: posts small blind $0.50
+I am Anux!: posts big blind $1
+*** HOLE CARDS ***
+CPUrul0r: folds 
+Kristo 914: folds 
+poker_soul11: folds 
+RAidakCo: folds 
+elcutez: folds 
+Uncalled bet ($0.50) returned to I am Anux!
+I am Anux! collected $1 from pot
+I am Anux!: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: elcutez (small blind) folded before Flop
+Seat 2: I am Anux! (big blind) collected ($1)
+Seat 3: CPUrul0r folded before Flop (didn't bet)
+Seat 4: Kristo 914 folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: RAidakCo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621469987:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:52:27 WET [2025/01/30 9:52:27 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 1: elcutez ($82.21 in chips) 
+Seat 2: I am Anux! ($100.50 in chips) 
+Seat 3: CPUrul0r ($123.60 in chips) 
+Seat 4: Kristo 914 ($104.50 in chips) 
+Seat 5: poker_soul11 ($117.76 in chips) 
+Seat 6: RAidakCo ($101.50 in chips) 
+I am Anux!: posts small blind $0.50
+CPUrul0r: posts big blind $1
+*** HOLE CARDS ***
+Kristo 914: folds 
+poker_soul11: folds 
+RAidakCo: folds 
+elcutez: raises $2 to $3
+I am Anux!: folds 
+CPUrul0r: raises $9.50 to $12.50
+RAidakCo leaves the table
+elcutez: raises $18.50 to $31
+CPUrul0r: folds 
+Uncalled bet ($18.50) returned to elcutez
+elcutez collected $25.50 from pot
+*** SUMMARY ***
+Total pot $25.50 | Rake $0 
+Seat 1: elcutez (button) collected ($25.50)
+Seat 2: I am Anux! (small blind) folded before Flop
+Seat 3: CPUrul0r (big blind) folded before Flop
+Seat 4: Kristo 914 folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: RAidakCo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621474469:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:53:12 WET [2025/01/30 9:53:12 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 1: elcutez ($95.21 in chips) 
+Seat 2: I am Anux! ($100 in chips) 
+Seat 3: CPUrul0r ($111.10 in chips) 
+Seat 4: Kristo 914 ($104.50 in chips) 
+Seat 5: poker_soul11 ($117.76 in chips) 
+CPUrul0r: posts small blind $0.50
+Kristo 914: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: raises $1.20 to $2.20
+elcutez: calls $2.20
+I am Anux!: folds 
+CPUrul0r: folds 
+Kristo 914: folds 
+*** FLOP *** [Tc 6s Ts]
+I am Anux! leaves the table
+Pon4uk.ua joins the table at seat #6 
+poker_soul11: checks 
+elcutez: checks 
+*** TURN *** [Tc 6s Ts] [As]
+poker_soul11: bets $1.40
+elcutez: folds 
+Uncalled bet ($1.40) returned to poker_soul11
+poker_soul11 collected $5.60 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [Tc 6s Ts As]
+Seat 1: elcutez folded on the Turn
+Seat 2: I am Anux! (button) folded before Flop (didn't bet)
+Seat 3: CPUrul0r (small blind) folded before Flop
+Seat 4: Kristo 914 (big blind) folded before Flop
+Seat 5: poker_soul11 collected ($5.60)
+
+
+
+PokerStars Hand #254621479264:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:54:02 WET [2025/01/30 9:54:02 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 6: Pon4uk.ua ($100 in chips) is sitting out
+Seat 1: elcutez ($93.01 in chips) 
+Seat 3: CPUrul0r ($110.60 in chips) 
+Seat 4: Kristo 914 ($103.50 in chips) 
+Seat 5: poker_soul11 ($121.16 in chips) 
+Kristo 914: posts small blind $0.50
+poker_soul11: posts big blind $1
+Pon4uk.ua: sits out 
+*** HOLE CARDS ***
+elcutez: folds 
+CPUrul0r: raises $1.50 to $2.50
+whlzor joins the table at seat #2 
+Kristo 914: folds 
+poker_soul11: folds 
+Uncalled bet ($1.50) returned to CPUrul0r
+CPUrul0r collected $2.50 from pot
+CPUrul0r: doesn't show hand 
+whlzor leaves the table
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Pon4uk.ua
+Seat 1: elcutez folded before Flop (didn't bet)
+Seat 3: CPUrul0r (button) collected ($2.50)
+Seat 4: Kristo 914 (small blind) folded before Flop
+Seat 5: poker_soul11 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254621481600:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:54:26 WET [2025/01/30 9:54:26 ET]
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 1: elcutez ($93.01 in chips) 
+Seat 3: CPUrul0r ($112.10 in chips) 
+Seat 4: Kristo 914 ($103 in chips) 
+Seat 5: poker_soul11 ($120.16 in chips) 
+Seat 6: Pon4uk.ua ($100 in chips) 
+poker_soul11: posts small blind $0.50
+Pon4uk.ua: posts big blind $1
+*** HOLE CARDS ***
+elcutez: folds 
+CPUrul0r: raises $1.20 to $2.20
+Kristo 914: folds 
+poker_soul11: folds 
+Pon4uk.ua: folds 
+Uncalled bet ($1.20) returned to CPUrul0r
+CPUrul0r collected $2.50 from pot
+CPUrul0r: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: elcutez folded before Flop (didn't bet)
+Seat 3: CPUrul0r collected ($2.50)
+Seat 4: Kristo 914 (button) folded before Flop (didn't bet)
+Seat 5: poker_soul11 (small blind) folded before Flop
+Seat 6: Pon4uk.ua (big blind) folded before Flop
+
+
+
+PokerStars Hand #254621483785:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:54:49 WET [2025/01/30 9:54:49 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 1: elcutez ($93.01 in chips) 
+Seat 3: CPUrul0r ($113.60 in chips) 
+Seat 4: Kristo 914 ($103 in chips) 
+Seat 5: poker_soul11 ($119.66 in chips) 
+Seat 6: Pon4uk.ua ($100 in chips) 
+Pon4uk.ua: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+CPUrul0r: folds 
+Kristo 914: folds 
+poker_soul11: folds 
+Pon4uk.ua: raises $1.75 to $2.75
+elcutez: folds 
+Uncalled bet ($1.75) returned to Pon4uk.ua
+Pon4uk.ua collected $2 from pot
+Pon4uk.ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: elcutez (big blind) folded before Flop
+Seat 3: CPUrul0r folded before Flop (didn't bet)
+Seat 4: Kristo 914 folded before Flop (didn't bet)
+Seat 5: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 6: Pon4uk.ua (small blind) collected ($2)
+
+
+
+PokerStars Hand #254621485001:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:55:03 WET [2025/01/30 9:55:03 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 1: elcutez ($92.01 in chips) 
+Seat 3: CPUrul0r ($113.60 in chips) 
+Seat 4: Kristo 914 ($103 in chips) 
+Seat 5: poker_soul11 ($119.66 in chips) 
+Seat 6: Pon4uk.ua ($101 in chips) 
+elcutez: posts small blind $0.50
+CPUrul0r: posts big blind $1
+*** HOLE CARDS ***
+Kristo 914: folds 
+poker_soul11: raises $1.20 to $2.20
+Pon4uk.ua: raises $4.80 to $7
+elcutez: folds 
+CPUrul0r: folds 
+poker_soul11: calls $4.80
+*** FLOP *** [Kc 3c Ac]
+poker_soul11: checks 
+Pon4uk.ua: bets $4.86
+poker_soul11: folds 
+Uncalled bet ($4.86) returned to Pon4uk.ua
+Pon4uk.ua collected $14.72 from pot
+Pon4uk.ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.78 
+Board [Kc 3c Ac]
+Seat 1: elcutez (small blind) folded before Flop
+Seat 3: CPUrul0r (big blind) folded before Flop
+Seat 4: Kristo 914 folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded on the Flop
+Seat 6: Pon4uk.ua (button) collected ($14.72)
+
+
+
+PokerStars Hand #254621488127:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:55:53 WET [2025/01/30 9:55:53 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 1: elcutez ($91.51 in chips) 
+Seat 3: CPUrul0r ($112.60 in chips) 
+Seat 4: Kristo 914 ($103 in chips) 
+Seat 5: poker_soul11 ($112.66 in chips) 
+Seat 6: Pon4uk.ua ($108.72 in chips) 
+CPUrul0r: posts small blind $0.50
+Kristo 914: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+Pon4uk.ua: folds 
+elcutez: folds 
+CPUrul0r: raises $2 to $3
+Kristo 914: calls $2
+*** FLOP *** [3c Qh 8c]
+CPUrul0r: bets $1.88
+Kristo 914: raises $5.32 to $7.20
+CPUrul0r: folds 
+Uncalled bet ($5.32) returned to Kristo 914
+Kristo 914 collected $9.27 from pot
+Kristo 914: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [3c Qh 8c]
+Seat 1: elcutez (button) folded before Flop (didn't bet)
+Seat 3: CPUrul0r (small blind) folded on the Flop
+Seat 4: Kristo 914 (big blind) collected ($9.27)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: Pon4uk.ua folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621490821:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:56:37 WET [2025/01/30 9:56:37 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 1: elcutez ($91.51 in chips) 
+Seat 3: CPUrul0r ($107.72 in chips) 
+Seat 4: Kristo 914 ($107.39 in chips) 
+Seat 5: poker_soul11 ($112.66 in chips) 
+Seat 6: Pon4uk.ua ($108.72 in chips) 
+Kristo 914: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+Pon4uk.ua: folds 
+elcutez: folds 
+CPUrul0r: folds 
+Kristo 914: raises $2 to $3
+habib beye joins the table at seat #2 
+poker_soul11: folds 
+Uncalled bet ($2) returned to Kristo 914
+Kristo 914 collected $2 from pot
+Kristo 914: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: elcutez folded before Flop (didn't bet)
+Seat 3: CPUrul0r (button) folded before Flop (didn't bet)
+Seat 4: Kristo 914 (small blind) collected ($2)
+Seat 5: poker_soul11 (big blind) folded before Flop
+Seat 6: Pon4uk.ua folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621491992:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:56:56 WET [2025/01/30 9:56:56 ET]
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 2: habib beye ($100 in chips) is sitting out
+Seat 1: elcutez ($91.51 in chips) 
+Seat 3: CPUrul0r ($107.72 in chips) 
+Seat 4: Kristo 914 ($108.39 in chips) 
+Seat 5: poker_soul11 ($111.66 in chips) 
+Seat 6: Pon4uk.ua ($108.72 in chips) 
+poker_soul11: posts small blind $0.50
+Pon4uk.ua: posts big blind $1
+habib beye: sits out 
+*** HOLE CARDS ***
+elcutez: folds 
+CPUrul0r: raises $1.20 to $2.20
+Kristo 914: folds 
+poker_soul11: raises $9.30 to $11.50
+Pon4uk.ua: folds 
+CPUrul0r: calls $9.30
+*** FLOP *** [4c 8c 7s]
+poker_soul11: checks 
+CPUrul0r: checks 
+*** TURN *** [4c 8c 7s] [2d]
+poker_soul11: bets $17.10
+CPUrul0r: folds 
+Uncalled bet ($17.10) returned to poker_soul11
+poker_soul11 collected $22.80 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [4c 8c 7s 2d]
+Seat 2: habib beye
+Seat 1: elcutez folded before Flop (didn't bet)
+Seat 3: CPUrul0r folded on the Turn
+Seat 4: Kristo 914 (button) folded before Flop (didn't bet)
+Seat 5: poker_soul11 (small blind) collected ($22.80)
+Seat 6: Pon4uk.ua (big blind) folded before Flop
+
+
+
+PokerStars Hand #254621495598:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:57:59 WET [2025/01/30 9:57:59 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 2: habib beye ($100 in chips) is sitting out
+Seat 1: elcutez ($91.51 in chips) 
+Seat 3: CPUrul0r ($100 in chips) 
+Seat 4: Kristo 914 ($108.39 in chips) 
+Seat 5: poker_soul11 ($122.96 in chips) 
+Seat 6: Pon4uk.ua ($107.72 in chips) 
+Pon4uk.ua: posts small blind $0.50
+elcutez: posts big blind $1
+habib beye: sits out 
+*** HOLE CARDS ***
+CPUrul0r: folds 
+Kristo 914: folds 
+poker_soul11: folds 
+Pon4uk.ua: folds 
+Uncalled bet ($0.50) returned to elcutez
+elcutez collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: habib beye
+Seat 1: elcutez (big blind) collected ($1)
+Seat 3: CPUrul0r folded before Flop (didn't bet)
+Seat 4: Kristo 914 folded before Flop (didn't bet)
+Seat 5: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 6: Pon4uk.ua (small blind) folded before Flop
+
+
+
+PokerStars Hand #254621496272:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:58:12 WET [2025/01/30 9:58:12 ET]
+Table 'Periphas' 6-max Seat #6 is the button
+Seat 1: elcutez ($92.01 in chips) 
+Seat 2: habib beye ($100 in chips) 
+Seat 3: CPUrul0r ($100 in chips) 
+Seat 4: Kristo 914 ($108.39 in chips) 
+Seat 5: poker_soul11 ($122.96 in chips) 
+Seat 6: Pon4uk.ua ($107.22 in chips) 
+elcutez: posts small blind $0.50
+habib beye: posts big blind $1
+*** HOLE CARDS ***
+CPUrul0r: folds 
+Kristo 914: folds 
+poker_soul11: folds 
+Pon4uk.ua: raises $1.50 to $2.50
+elcutez: folds 
+habib beye: calls $1.50
+*** FLOP *** [9d 8d 6h]
+habib beye: checks 
+Pon4uk.ua: checks 
+*** TURN *** [9d 8d 6h] [2d]
+habib beye: checks 
+Pon4uk.ua: bets $2.61
+habib beye: folds 
+Uncalled bet ($2.61) returned to Pon4uk.ua
+Pon4uk.ua collected $5.22 from pot
+Pon4uk.ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [9d 8d 6h 2d]
+Seat 1: elcutez (small blind) folded before Flop
+Seat 2: habib beye (big blind) folded on the Turn
+Seat 3: CPUrul0r folded before Flop (didn't bet)
+Seat 4: Kristo 914 folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+Seat 6: Pon4uk.ua (button) collected ($5.22)
+
+
+
+PokerStars Hand #254621499494:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:59:08 WET [2025/01/30 9:59:08 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 1: elcutez ($91.51 in chips) 
+Seat 2: habib beye ($100 in chips) 
+Seat 3: CPUrul0r ($100 in chips) 
+Seat 4: Kristo 914 ($108.39 in chips) 
+Seat 5: poker_soul11 ($122.96 in chips) 
+Seat 6: Pon4uk.ua ($109.94 in chips) 
+habib beye: posts small blind $0.50
+CPUrul0r: posts big blind $1
+*** HOLE CARDS ***
+Kristo 914: folds 
+poker_soul11: raises $1.20 to $2.20
+Pon4uk.ua: raises $4.80 to $7
+elcutez: folds 
+habib beye: folds 
+CPUrul0r: folds 
+poker_soul11: folds 
+Uncalled bet ($4.80) returned to Pon4uk.ua
+Pon4uk.ua collected $5.90 from pot
+Pon4uk.ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: elcutez (button) folded before Flop (didn't bet)
+Seat 2: habib beye (small blind) folded before Flop
+Seat 3: CPUrul0r (big blind) folded before Flop
+Seat 4: Kristo 914 folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop
+Seat 6: Pon4uk.ua collected ($5.90)
+
+
+
+PokerStars Hand #254621501338:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:59:40 WET [2025/01/30 9:59:40 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 1: elcutez ($91.51 in chips) 
+Seat 2: habib beye ($100 in chips) 
+Seat 3: CPUrul0r ($100 in chips) 
+Seat 4: Kristo 914 ($108.39 in chips) 
+Seat 5: poker_soul11 ($120.76 in chips) 
+Seat 6: Pon4uk.ua ($113.64 in chips) 
+CPUrul0r: posts small blind $0.50
+Kristo 914: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: raises $1.20 to $2.20
+Pon4uk.ua: folds 
+elcutez: folds 
+habib beye: folds 
+CPUrul0r: folds 
+Kristo 914: folds 
+Uncalled bet ($1.20) returned to poker_soul11
+poker_soul11 collected $2.50 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: elcutez folded before Flop (didn't bet)
+Seat 2: habib beye (button) folded before Flop (didn't bet)
+Seat 3: CPUrul0r (small blind) folded before Flop
+Seat 4: Kristo 914 (big blind) folded before Flop
+Seat 5: poker_soul11 collected ($2.50)
+Seat 6: Pon4uk.ua folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621501956:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 14:59:51 WET [2025/01/30 9:59:51 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 1: elcutez ($91.51 in chips) 
+Seat 2: habib beye ($100 in chips) 
+Seat 3: CPUrul0r ($100 in chips) 
+Seat 4: Kristo 914 ($107.39 in chips) 
+Seat 5: poker_soul11 ($122.26 in chips) 
+Seat 6: Pon4uk.ua ($113.64 in chips) 
+Kristo 914: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+Pon4uk.ua: folds 
+Pon4uk.ua leaves the table
+elcutez: folds 
+habib beye: raises $1.30 to $2.30
+CPUrul0r: folds 
+Kristo 914: folds 
+poker_soul11: folds 
+Uncalled bet ($1.30) returned to habib beye
+habib beye collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: elcutez folded before Flop (didn't bet)
+Seat 2: habib beye collected ($2.50)
+Seat 3: CPUrul0r (button) folded before Flop (didn't bet)
+Seat 4: Kristo 914 (small blind) folded before Flop
+Seat 5: poker_soul11 (big blind) folded before Flop
+Seat 6: Pon4uk.ua folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621503099:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 15:00:10 WET [2025/01/30 10:00:10 ET]
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 1: elcutez ($91.51 in chips) 
+Seat 2: habib beye ($101.50 in chips) 
+Seat 3: CPUrul0r ($100 in chips) 
+Seat 4: Kristo 914 ($106.89 in chips) 
+Seat 5: poker_soul11 ($121.26 in chips) 
+poker_soul11: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+habib beye: folds 
+CPUrul0r: raises $1.20 to $2.20
+Kristo 914: folds 
+poker_soul11: folds 
+elcutez: folds 
+Uncalled bet ($1.20) returned to CPUrul0r
+CPUrul0r collected $2.50 from pot
+CPUrul0r: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: elcutez (big blind) folded before Flop
+Seat 2: habib beye folded before Flop (didn't bet)
+Seat 3: CPUrul0r collected ($2.50)
+Seat 4: Kristo 914 (button) folded before Flop (didn't bet)
+Seat 5: poker_soul11 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254621503925:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 15:00:23 WET [2025/01/30 10:00:23 ET]
+Table 'Periphas' 6-max Seat #5 is the button
+Seat 1: elcutez ($90.51 in chips) 
+Seat 2: habib beye ($101.50 in chips) 
+Seat 3: CPUrul0r ($101.50 in chips) 
+Seat 4: Kristo 914 ($106.89 in chips) 
+Seat 5: poker_soul11 ($120.76 in chips) 
+elcutez: posts small blind $0.50
+habib beye: posts big blind $1
+*** HOLE CARDS ***
+CPUrul0r: raises $1.20 to $2.20
+Kristo 914: folds 
+poker_soul11: folds 
+elcutez: folds 
+habib beye: calls $1.20
+*** FLOP *** [Qd Ac 2c]
+habib beye: checks 
+CPUrul0r: bets $5.30
+habib beye: folds 
+Uncalled bet ($5.30) returned to CPUrul0r
+CPUrul0r collected $4.66 from pot
+CPUrul0r: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Qd Ac 2c]
+Seat 1: elcutez (small blind) folded before Flop
+Seat 2: habib beye (big blind) folded on the Flop
+Seat 3: CPUrul0r collected ($4.66)
+Seat 4: Kristo 914 folded before Flop (didn't bet)
+Seat 5: poker_soul11 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621505901:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 15:00:52 WET [2025/01/30 10:00:52 ET]
+Table 'Periphas' 6-max Seat #1 is the button
+Seat 1: elcutez ($90.01 in chips) 
+Seat 2: habib beye ($100 in chips) 
+Seat 3: CPUrul0r ($103.96 in chips) 
+Seat 4: Kristo 914 ($106.89 in chips) 
+Seat 5: poker_soul11 ($120.76 in chips) 
+habib beye: posts small blind $0.50
+CPUrul0r: posts big blind $1
+*** HOLE CARDS ***
+Kristo 914: folds 
+poker_soul11: folds 
+elcutez: folds 
+habib beye: folds 
+Uncalled bet ($0.50) returned to CPUrul0r
+CPUrul0r collected $1 from pot
+CPUrul0r: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: elcutez (button) folded before Flop (didn't bet)
+Seat 2: habib beye (small blind) folded before Flop
+Seat 3: CPUrul0r (big blind) collected ($1)
+Seat 4: Kristo 914 folded before Flop (didn't bet)
+Seat 5: poker_soul11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254621508138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 15:01:19 WET [2025/01/30 10:01:19 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 4: Kristo 914 ($106.89 in chips) is sitting out
+Seat 1: elcutez ($90.01 in chips) 
+Seat 2: habib beye ($100 in chips) 
+Seat 3: CPUrul0r ($104.46 in chips) 
+Seat 5: poker_soul11 ($120.76 in chips) 
+CPUrul0r: posts small blind $0.50
+Kristo 914: is sitting out 
+Kristo 914 leaves the table
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+elcutez: folds 
+habib beye: folds 
+elcutez leaves the table
+CPUrul0r: folds 
+Uncalled bet ($0.50) returned to poker_soul11
+poker_soul11 collected $1 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: Kristo 914
+Seat 1: elcutez folded before Flop (didn't bet)
+Seat 2: habib beye (button) folded before Flop (didn't bet)
+Seat 3: CPUrul0r (small blind) folded before Flop
+Seat 5: poker_soul11 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254621509327:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 15:01:33 WET [2025/01/30 10:01:33 ET]
+Table 'Periphas' 6-max Seat #3 is the button
+Seat 2: habib beye ($100 in chips) 
+Seat 3: CPUrul0r ($103.96 in chips) 
+Seat 5: poker_soul11 ($121.26 in chips) 
+poker_soul11: posts small blind $0.50
+habib beye: posts big blind $1
+*** HOLE CARDS ***
+CPUrul0r: folds 
+poker_soul11: folds 
+Uncalled bet ($0.50) returned to habib beye
+habib beye collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: habib beye (big blind) collected ($1)
+Seat 3: CPUrul0r (button) folded before Flop (didn't bet)
+Seat 5: poker_soul11 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254621510390:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 15:01:46 WET [2025/01/30 10:01:46 ET]
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 3: CPUrul0r ($103.96 in chips) is sitting out
+Seat 2: habib beye ($100.50 in chips) 
+Seat 5: poker_soul11 ($120.76 in chips) 
+habib beye: posts small blind $0.50
+CPUrul0r: is sitting out 
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+CPUrul0r leaves the table
+habib beye: folds 
+Uncalled bet ($0.50) returned to poker_soul11
+poker_soul11 collected $1 from pot
+poker_soul11: doesn't show hand 
+habib beye leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: CPUrul0r
+Seat 2: habib beye (button) (small blind) folded before Flop
+Seat 5: poker_soul11 (big blind) collected ($1)
+
+
+

@@ -1,0 +1,3622 @@
+﻿PokerStars Hand #254444869623:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:04:44 WET [2025/01/19 5:04:44 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 2: perketti ($72.07 in chips) 
+Seat 3: Mak.Alse ($103 in chips) 
+Seat 4: LuckyShikari ($147.23 in chips) 
+LuckyShikari: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+perketti: raises $1 to $2
+Mak.Alse: folds 
+LuckyShikari: folds 
+Emily_GetMan: calls $1
+*** FLOP *** [5c Js Jd]
+Emily_GetMan: checks 
+perketti: bets $1
+Emily_GetMan: calls $1
+*** TURN *** [5c Js Jd] [9c]
+Emily_GetMan: checks 
+perketti: checks 
+*** RIVER *** [5c Js Jd 9c] [Th]
+janarr5 joins the table at seat #5 
+Emily_GetMan: checks 
+perketti: bets $6
+Emily_GetMan: folds 
+Uncalled bet ($6) returned to perketti
+perketti collected $6.18 from pot
+perketti: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [5c Js Jd 9c Th]
+Seat 1: Emily_GetMan (big blind) folded on the River
+Seat 2: perketti collected ($6.18)
+Seat 3: Mak.Alse (button) folded before Flop (didn't bet)
+Seat 4: LuckyShikari (small blind) folded before Flop
+
+
+
+PokerStars Hand #254444873848:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:05:20 WET [2025/01/19 5:05:20 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 2: perketti ($75.25 in chips) is sitting out
+Seat 5: janarr5 ($100 in chips) is sitting out
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 3: Mak.Alse ($103 in chips) 
+Seat 4: LuckyShikari ($146.73 in chips) 
+Emily_GetMan: posts small blind $0.50
+perketti: is sitting out 
+Mak.Alse: posts big blind $1
+*** HOLE CARDS ***
+perketti leaves the table
+LuckyShikari: raises $1.25 to $2.25
+Emily_GetMan: folds 
+Mak.Alse: calls $1.25
+*** FLOP *** [7h 9c Kc]
+Mak.Alse: checks 
+LuckyShikari: bets $2.50
+vezis3 joins the table at seat #6 
+Mak.Alse: calls $2.50
+*** TURN *** [7h 9c Kc] [7c]
+Mak.Alse: checks 
+LuckyShikari: checks 
+*** RIVER *** [7h 9c Kc 7c] [4d]
+Mak.Alse: checks 
+LuckyShikari: bets $8
+Mak.Alse: calls $8
+*** SHOW DOWN ***
+LuckyShikari: shows [Ah Ac] (two pair, Aces and Sevens)
+Mak.Alse: mucks hand 
+LuckyShikari collected $25 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $1 
+Board [7h 9c Kc 7c 4d]
+Seat 2: perketti
+Seat 5: janarr5
+Seat 1: Emily_GetMan (small blind) folded before Flop
+Seat 3: Mak.Alse (big blind) mucked
+Seat 4: LuckyShikari (button) showed [Ah Ac] and won ($25) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #254444882199:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:06:30 WET [2025/01/19 5:06:30 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 4: LuckyShikari ($158.98 in chips) is sitting out
+Seat 6: vezis3 ($100 in chips) is sitting out
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 3: Mak.Alse ($100 in chips) 
+Seat 5: janarr5 ($100 in chips) 
+Mak.Alse: posts small blind $0.50
+LuckyShikari: is sitting out 
+janarr5: posts big blind $1
+vezis3: sits out 
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+Mak.Alse: folds 
+Uncalled bet ($0.50) returned to janarr5
+LuckyShikari leaves the table
+janarr5 collected $1 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: LuckyShikari
+Seat 6: vezis3
+Seat 1: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 3: Mak.Alse (small blind) folded before Flop
+Seat 5: janarr5 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254444883569:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:06:42 WET [2025/01/19 5:06:42 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 3: Mak.Alse ($100 in chips) 
+Seat 5: janarr5 ($100.50 in chips) 
+Seat 6: vezis3 ($100 in chips) 
+janarr5: posts small blind $0.50
+vezis3: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: raises $1 to $2
+Mak.Alse: folds 
+Mak.Alse leaves the table
+janarr5: raises $8 to $10
+vezis3: folds 
+Emily_GetMan: folds 
+Uncalled bet ($8) returned to janarr5
+janarr5 collected $5 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: Emily_GetMan folded before Flop
+Seat 3: Mak.Alse (button) folded before Flop (didn't bet)
+Seat 5: janarr5 (small blind) collected ($5)
+Seat 6: vezis3 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254444886580:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:07:07 WET [2025/01/19 5:07:07 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 5: janarr5 ($103.50 in chips) 
+Seat 6: vezis3 ($100 in chips) 
+vezis3: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+vezis3: folds 
+Uncalled bet ($0.50) returned to Emily_GetMan
+Emily_GetMan collected $1 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Emily_GetMan (big blind) collected ($1)
+Seat 5: janarr5 (button) folded before Flop (didn't bet)
+Seat 6: vezis3 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254444887670:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:07:16 WET [2025/01/19 5:07:16 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 1: Emily_GetMan ($100.50 in chips) 
+Seat 5: janarr5 ($103.50 in chips) 
+Seat 6: vezis3 ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+vezis3: folds 
+Emily_GetMan: raises $2 to $3
+janarr5: raises $6 to $9
+Emily_GetMan: calls $6
+*** FLOP *** [9h 6s 5c]
+Emily_GetMan: checks 
+janarr5: checks 
+*** TURN *** [9h 6s 5c] [9c]
+Emily_GetMan: bets $17
+Aescul@pius joins the table at seat #3 
+janarr5: calls $17
+*** RIVER *** [9h 6s 5c 9c] [6d]
+Emily_GetMan: checks 
+janarr5: bets $77.50 and is all-in
+Emily_GetMan: folds 
+Uncalled bet ($77.50) returned to janarr5
+janarr5 collected $51 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $52 | Rake $1 
+Board [9h 6s 5c 9c 6d]
+Seat 1: Emily_GetMan (small blind) folded on the River
+Seat 5: janarr5 (big blind) collected ($51)
+Seat 6: vezis3 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254444894983:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:08:18 WET [2025/01/19 5:08:18 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 3: Aescul@pius ($103.50 in chips) is sitting out
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 5: janarr5 ($128.50 in chips) 
+Seat 6: vezis3 ($100 in chips) 
+janarr5: posts small blind $0.50
+vezis3: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+janarr5: raises $2 to $3
+vezis3: raises $7 to $10
+janarr5: folds 
+Uncalled bet ($7) returned to vezis3
+vezis3 collected $6 from pot
+vezis3: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: Aescul@pius
+Seat 1: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 5: janarr5 (small blind) folded before Flop
+Seat 6: vezis3 (big blind) collected ($6)
+
+
+
+PokerStars Hand #254444896577:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:08:31 WET [2025/01/19 5:08:31 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 3: Aescul@pius ($103.50 in chips) is sitting out
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 5: janarr5 ($125.50 in chips) 
+Seat 6: vezis3 ($103 in chips) 
+vezis3: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+Aescul@pius: sits out 
+*** HOLE CARDS ***
+janarr5: folds 
+vezis3: raises $2 to $3
+Emily_GetMan: raises $6 to $9
+vezis3: folds 
+Uncalled bet ($6) returned to Emily_GetMan
+Emily_GetMan collected $6 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: Aescul@pius
+Seat 1: Emily_GetMan (big blind) collected ($6)
+Seat 5: janarr5 (button) folded before Flop (didn't bet)
+Seat 6: vezis3 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254444898802:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:08:50 WET [2025/01/19 5:08:50 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 1: Emily_GetMan ($103 in chips) 
+Seat 3: Aescul@pius ($103.50 in chips) 
+Seat 5: janarr5 ($125.50 in chips) 
+Seat 6: vezis3 ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+Aescul@pius: posts big blind $1
+*** HOLE CARDS ***
+janarr5: raises $1.25 to $2.25
+vezis3: folds 
+Emily_GetMan: folds 
+Aescul@pius: folds 
+Uncalled bet ($1.25) returned to janarr5
+janarr5 collected $2.50 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Emily_GetMan (small blind) folded before Flop
+Seat 3: Aescul@pius (big blind) folded before Flop
+Seat 5: janarr5 collected ($2.50)
+Seat 6: vezis3 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254444900948:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:09:08 WET [2025/01/19 5:09:08 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 1: Emily_GetMan ($102.50 in chips) 
+Seat 3: Aescul@pius ($102.50 in chips) 
+Seat 5: janarr5 ($127 in chips) 
+Seat 6: vezis3 ($100 in chips) 
+Aescul@pius: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+vezis3: raises $1.40 to $2.40
+Emily_GetMan: folds 
+Aescul@pius: folds 
+janarr5: folds 
+Uncalled bet ($1.40) returned to vezis3
+vezis3 collected $2.50 from pot
+vezis3: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 3: Aescul@pius (small blind) folded before Flop
+Seat 5: janarr5 (big blind) folded before Flop
+Seat 6: vezis3 collected ($2.50)
+
+
+
+PokerStars Hand #254444902121:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:09:18 WET [2025/01/19 5:09:18 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 1: Emily_GetMan ($102.50 in chips) 
+Seat 3: Aescul@pius ($102 in chips) 
+Seat 5: janarr5 ($126 in chips) 
+Seat 6: vezis3 ($101.50 in chips) 
+janarr5: posts small blind $0.50
+vezis3: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+Aescul@pius: folds 
+janarr5: raises $2 to $3
+vezis3: raises $7 to $10
+janarr5: folds 
+Uncalled bet ($7) returned to vezis3
+vezis3 collected $6 from pot
+vezis3: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Emily_GetMan folded before Flop (didn't bet)
+Seat 3: Aescul@pius (button) folded before Flop (didn't bet)
+Seat 5: janarr5 (small blind) folded before Flop
+Seat 6: vezis3 (big blind) collected ($6)
+
+
+
+PokerStars Hand #254444904339:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:09:37 WET [2025/01/19 5:09:37 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 1: Emily_GetMan ($102.50 in chips) 
+Seat 3: Aescul@pius ($102 in chips) 
+Seat 5: janarr5 ($123 in chips) 
+Seat 6: vezis3 ($104.50 in chips) 
+vezis3: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+Aescul@pius: folds 
+janarr5: folds 
+vezis3: raises $2 to $3
+Emily_GetMan: folds 
+Uncalled bet ($2) returned to vezis3
+vezis3 collected $2 from pot
+vezis3: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Emily_GetMan (big blind) folded before Flop
+Seat 3: Aescul@pius folded before Flop (didn't bet)
+Seat 5: janarr5 (button) folded before Flop (didn't bet)
+Seat 6: vezis3 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254444905680:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:09:48 WET [2025/01/19 5:09:48 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 1: Emily_GetMan ($101.50 in chips) 
+Seat 3: Aescul@pius ($102 in chips) 
+Seat 5: janarr5 ($123 in chips) 
+Seat 6: vezis3 ($105.50 in chips) 
+Emily_GetMan: posts small blind $0.50
+Aescul@pius: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+vezis3: raises $1.40 to $2.40
+Emily_GetMan: folds 
+Aescul@pius: folds 
+Uncalled bet ($1.40) returned to vezis3
+vezis3 collected $2.50 from pot
+vezis3: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Emily_GetMan (small blind) folded before Flop
+Seat 3: Aescul@pius (big blind) folded before Flop
+Seat 5: janarr5 folded before Flop (didn't bet)
+Seat 6: vezis3 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254444908377:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:10:11 WET [2025/01/19 5:10:11 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 1: Emily_GetMan ($101 in chips) 
+Seat 3: Aescul@pius ($101 in chips) 
+Seat 5: janarr5 ($123 in chips) 
+Seat 6: vezis3 ($107 in chips) 
+Aescul@pius: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+vezis3: folds 
+Emily_GetMan: raises $1.50 to $2.50
+Aescul@pius: raises $8.50 to $11
+janarr5: folds 
+Emily_GetMan: calls $8.50
+*** FLOP *** [Js As Kc]
+Aescul@pius: bets $7.26
+Emily_GetMan: folds 
+Uncalled bet ($7.26) returned to Aescul@pius
+Aescul@pius collected $22 from pot
+Aescul@pius: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $1 
+Board [Js As Kc]
+Seat 1: Emily_GetMan (button) folded on the Flop
+Seat 3: Aescul@pius (small blind) collected ($22)
+Seat 5: janarr5 (big blind) folded before Flop
+Seat 6: vezis3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254444913543:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:10:54 WET [2025/01/19 5:10:54 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 3: Aescul@pius ($112 in chips) 
+Seat 5: janarr5 ($122 in chips) 
+Seat 6: vezis3 ($107 in chips) 
+janarr5: posts small blind $0.50
+vezis3: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: raises $1 to $2
+Aescul@pius: raises $5.50 to $7.50
+janarr5: folds 
+vezis3: folds 
+Emily_GetMan: folds 
+Uncalled bet ($5.50) returned to Aescul@pius
+Aescul@pius collected $5.50 from pot
+Aescul@pius: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: Emily_GetMan folded before Flop
+Seat 3: Aescul@pius (button) collected ($5.50)
+Seat 5: janarr5 (small blind) folded before Flop
+Seat 6: vezis3 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254444915916:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:11:14 WET [2025/01/19 5:11:14 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 3: Aescul@pius ($115.50 in chips) 
+Seat 5: janarr5 ($121.50 in chips) 
+Seat 6: vezis3 ($106 in chips) 
+vezis3: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+Aescul@pius: raises $1.20 to $2.20
+janarr5: folds 
+vezis3: folds 
+Emily_GetMan: calls $1.20
+*** FLOP *** [5d 2s Qc]
+Emily_GetMan: checks 
+Aescul@pius: bets $1.54
+Emily_GetMan: calls $1.54
+*** TURN *** [5d 2s Qc] [Kd]
+Emily_GetMan: checks 
+Aescul@pius: bets $5.62
+Emily_GetMan: calls $5.62
+*** RIVER *** [5d 2s Qc Kd] [2c]
+Emily_GetMan: checks 
+Aescul@pius: checks 
+*** SHOW DOWN ***
+Emily_GetMan: shows [Jd Ah] (a pair of Deuces)
+Aescul@pius: shows [4c 5c] (two pair, Fives and Deuces)
+Aescul@pius collected $18.26 from pot
+*** SUMMARY ***
+Total pot $19.22 | Rake $0.96 
+Board [5d 2s Qc Kd 2c]
+Seat 1: Emily_GetMan (big blind) showed [Jd Ah] and lost with a pair of Deuces
+Seat 3: Aescul@pius showed [4c 5c] and won ($18.26) with two pair, Fives and Deuces
+Seat 5: janarr5 (button) folded before Flop (didn't bet)
+Seat 6: vezis3 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254444927514:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:12:51 WET [2025/01/19 5:12:51 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 3: Aescul@pius ($124.40 in chips) 
+Seat 5: janarr5 ($121.50 in chips) 
+Seat 6: vezis3 ($105.50 in chips) 
+Emily_GetMan: posts small blind $0.50
+Aescul@pius: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+vezis3: folds 
+Emily_GetMan: folds 
+Uncalled bet ($0.50) returned to Aescul@pius
+Aescul@pius collected $1 from pot
+Aescul@pius: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Emily_GetMan (small blind) folded before Flop
+Seat 3: Aescul@pius (big blind) collected ($1)
+Seat 5: janarr5 folded before Flop (didn't bet)
+Seat 6: vezis3 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254444929433:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:13:07 WET [2025/01/19 5:13:07 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 3: Aescul@pius ($124.90 in chips) 
+Seat 5: janarr5 ($121.50 in chips) 
+Seat 6: vezis3 ($105.50 in chips) 
+Aescul@pius: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+vezis3: folds 
+Emily_GetMan: folds 
+Aescul@pius: raises $2 to $3
+janarr5: calls $2
+*** FLOP *** [Kc 5d Jh]
+Aescul@pius: bets $4.20
+janarr5: folds 
+Uncalled bet ($4.20) returned to Aescul@pius
+Aescul@pius collected $5.70 from pot
+Aescul@pius: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Kc 5d Jh]
+Seat 1: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 3: Aescul@pius (small blind) collected ($5.70)
+Seat 5: janarr5 (big blind) folded on the Flop
+Seat 6: vezis3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254444933830:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:13:43 WET [2025/01/19 5:13:43 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 6: vezis3 ($105.50 in chips) is sitting out
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 3: Aescul@pius ($127.60 in chips) 
+Seat 5: janarr5 ($118.50 in chips) 
+janarr5: posts small blind $0.50
+vezis3: is sitting out 
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+vezis3 leaves the table
+Aescul@pius: folds 
+janarr5: raises $2 to $3
+Emily_GetMan: calls $2
+*** FLOP *** [Ts 9h Ks]
+janarr5: bets $1.43
+Emily_GetMan: raises $5.57 to $7
+janarr5: calls $5.57
+*** TURN *** [Ts 9h Ks] [5s]
+janarr5: checks 
+Emily_GetMan: checks 
+*** RIVER *** [Ts 9h Ks 5s] [7h]
+janarr5: bets $108.50 and is all-in
+Emily_GetMan: folds 
+Uncalled bet ($108.50) returned to janarr5
+janarr5 collected $19 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Ts 9h Ks 5s 7h]
+Seat 6: vezis3
+Seat 1: Emily_GetMan (big blind) folded on the River
+Seat 3: Aescul@pius (button) folded before Flop (didn't bet)
+Seat 5: janarr5 (small blind) collected ($19)
+
+
+
+PokerStars Hand #254444945058:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:15:17 WET [2025/01/19 5:15:17 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 3: Aescul@pius ($127.60 in chips) 
+Seat 5: janarr5 ($127.50 in chips) 
+Emily_GetMan: posts small blind $0.50
+Aescul@pius: posts big blind $1
+*** HOLE CARDS ***
+janarr5: raises $1.50 to $2.50
+Emily_GetMan: folds 
+Aescul@pius: folds 
+Uncalled bet ($1.50) returned to janarr5
+janarr5 collected $2.50 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Emily_GetMan (small blind) folded before Flop
+Seat 3: Aescul@pius (big blind) folded before Flop
+Seat 5: janarr5 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254444946356:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:15:28 WET [2025/01/19 5:15:28 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 3: Aescul@pius ($126.60 in chips) 
+Seat 5: janarr5 ($129 in chips) 
+Aescul@pius: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+Aescul@pius: folds 
+Uncalled bet ($0.50) returned to janarr5
+janarr5 collected $1 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 3: Aescul@pius (small blind) folded before Flop
+Seat 5: janarr5 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254444947614:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:15:38 WET [2025/01/19 5:15:38 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 3: Aescul@pius ($126.10 in chips) 
+Seat 5: janarr5 ($129.50 in chips) 
+janarr5: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+Aescul@pius: raises $1.20 to $2.20
+janarr5: folds 
+Emily_GetMan: folds 
+Uncalled bet ($1.20) returned to Aescul@pius
+Aescul@pius collected $2.50 from pot
+Aescul@pius: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Emily_GetMan (big blind) folded before Flop
+Seat 3: Aescul@pius (button) collected ($2.50)
+Seat 5: janarr5 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254444949232:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:15:51 WET [2025/01/19 5:15:51 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 3: Aescul@pius ($127.60 in chips) is sitting out
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 5: janarr5 ($129 in chips) 
+Emily_GetMan: posts small blind $0.50
+Aescul@pius: is sitting out 
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+Uncalled bet ($0.50) returned to janarr5
+Aescul@pius leaves the table
+janarr5 collected $1 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Aescul@pius
+Seat 1: Emily_GetMan (button) (small blind) folded before Flop
+Seat 5: janarr5 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254444949906:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:15:57 WET [2025/01/19 5:15:57 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 5: janarr5 ($129.50 in chips) 
+janarr5: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+Uncalled bet ($0.50) returned to Emily_GetMan
+Emily_GetMan collected $1 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Emily_GetMan (big blind) collected ($1)
+Seat 5: janarr5 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445098344:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:35:38 WET [2025/01/19 5:35:38 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 1: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($100 in chips) 
+EAroca: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+EAroca: raises $1.30 to $2.30
+b2k-Snick: raises $7.70 to $10
+EAroca: folds 
+Uncalled bet ($7.70) returned to b2k-Snick
+b2k-Snick collected $4.60 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.60 | Rake $0 
+Seat 1: EAroca (button) (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) collected ($4.60)
+
+
+
+PokerStars Hand #254445103303:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:36:18 WET [2025/01/19 5:36:18 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($102.30 in chips) 
+EAroca: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+EAroca: raises $1.30 to $2.30
+b2k-Snick: calls $1.30
+*** FLOP *** [9d 5s 5c]
+b2k-Snick: checks 
+EAroca: checks 
+*** TURN *** [9d 5s 5c] [4c]
+b2k-Snick: bets $3
+EAroca: calls $3
+*** RIVER *** [9d 5s 5c 4c] [2c]
+b2k-Snick: bets $7.50
+EAroca: calls $7.50
+*** SHOW DOWN ***
+b2k-Snick: shows [Ac 5h] (three of a kind, Fives)
+EAroca: mucks hand 
+b2k-Snick collected $24.60 from pot
+*** SUMMARY ***
+Total pot $25.60 | Rake $1 
+Board [9d 5s 5c 4c 2c]
+Seat 2: EAroca (button) (small blind) mucked
+Seat 4: b2k-Snick (big blind) showed [Ac 5h] and won ($24.60) with three of a kind, Fives
+
+
+
+PokerStars Hand #254445116525:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:38:01 WET [2025/01/19 5:38:01 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($114.10 in chips) 
+b2k-Snick: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+EAroca: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: EAroca (big blind) folded before Flop
+Seat 4: b2k-Snick (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254445117973:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:38:13 WET [2025/01/19 5:38:13 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($115.10 in chips) 
+EAroca: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+EAroca: folds 
+Uncalled bet ($0.50) returned to b2k-Snick
+b2k-Snick collected $1 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: EAroca (button) (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) collected ($1)
+
+
+
+PokerStars Hand #254445119401:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:38:24 WET [2025/01/19 5:38:24 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($115.60 in chips) 
+b2k-Snick: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+EAroca: calls $1.50
+*** FLOP *** [3s 9h 2d]
+EAroca: checks 
+b2k-Snick: bets $2.61
+EAroca: calls $2.61
+*** TURN *** [3s 9h 2d] [9d]
+EAroca: checks 
+b2k-Snick: bets $7.50
+EAroca: calls $7.50
+*** RIVER *** [3s 9h 2d 9d] [2s]
+EAroca: checks 
+b2k-Snick: bets $22.50
+EAroca: folds 
+Uncalled bet ($22.50) returned to b2k-Snick
+b2k-Snick collected $24.22 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $25.22 | Rake $1 
+Board [3s 9h 2d 9d 2s]
+Seat 2: EAroca (big blind) folded on the River
+Seat 4: b2k-Snick (button) (small blind) collected ($24.22)
+
+
+
+PokerStars Hand #254445129961:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:39:46 WET [2025/01/19 5:39:46 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($127.21 in chips) 
+EAroca: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+EAroca: raises $1.30 to $2.30
+b2k-Snick: raises $7.70 to $10
+EAroca: calls $7.70
+*** FLOP *** [7d Jc Jd]
+b2k-Snick: checks 
+EAroca: checks 
+*** TURN *** [7d Jc Jd] [6h]
+b2k-Snick: checks 
+EAroca: bets $7.60
+b2k-Snick: calls $7.60
+*** RIVER *** [7d Jc Jd 6h] [Qh]
+b2k-Snick: checks 
+EAroca: checks 
+*** SHOW DOWN ***
+b2k-Snick: shows [Qc Qd] (a full house, Queens full of Jacks)
+EAroca: mucks hand 
+b2k-Snick collected $34.20 from pot
+*** SUMMARY ***
+Total pot $35.20 | Rake $1 
+Board [7d Jc Jd 6h Qh]
+Seat 2: EAroca (button) (small blind) mucked
+Seat 4: b2k-Snick (big blind) showed [Qc Qd] and won ($34.20) with a full house, Queens full of Jacks
+
+
+
+PokerStars Hand #254445140435:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:41:09 WET [2025/01/19 5:41:09 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($143.81 in chips) 
+b2k-Snick: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+EAroca: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: EAroca (big blind) folded before Flop
+Seat 4: b2k-Snick (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254445141839:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:41:20 WET [2025/01/19 5:41:20 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($144.81 in chips) 
+EAroca: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+EAroca: raises $1.30 to $2.30
+b2k-Snick: raises $7.70 to $10
+EAroca: folds 
+Uncalled bet ($7.70) returned to b2k-Snick
+b2k-Snick collected $4.60 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.60 | Rake $0 
+Seat 2: EAroca (button) (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) collected ($4.60)
+
+
+
+PokerStars Hand #254445143915:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:41:36 WET [2025/01/19 5:41:36 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($147.11 in chips) 
+b2k-Snick: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+EAroca: raises $7.50 to $10
+b2k-Snick: folds 
+Uncalled bet ($7.50) returned to EAroca
+EAroca collected $5 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 2: EAroca (big blind) collected ($5)
+Seat 4: b2k-Snick (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445147280:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:42:02 WET [2025/01/19 5:42:02 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 2: EAroca ($102.50 in chips) 
+Seat 4: b2k-Snick ($144.61 in chips) 
+EAroca: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+EAroca: raises $1.30 to $2.30
+b2k-Snick: raises $7.70 to $10
+EAroca: folds 
+Uncalled bet ($7.70) returned to b2k-Snick
+b2k-Snick collected $4.60 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.60 | Rake $0 
+Seat 2: EAroca (button) (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) collected ($4.60)
+
+
+
+PokerStars Hand #254445151692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:42:37 WET [2025/01/19 5:42:37 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 2: EAroca ($100.20 in chips) 
+Seat 4: b2k-Snick ($146.91 in chips) 
+b2k-Snick: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+EAroca: calls $1.50
+*** FLOP *** [Ts 9c Td]
+EAroca: checks 
+b2k-Snick: checks 
+*** TURN *** [Ts 9c Td] [Tc]
+EAroca: checks 
+b2k-Snick: checks 
+*** RIVER *** [Ts 9c Td Tc] [Js]
+EAroca has timed out
+EAroca: checks 
+b2k-Snick: checks 
+*** SHOW DOWN ***
+EAroca: shows [2h Qh] (three of a kind, Tens)
+b2k-Snick: shows [Qd Kh] (a straight, Nine to King)
+b2k-Snick collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Ts 9c Td Tc Js]
+Seat 2: EAroca (big blind) showed [2h Qh] and lost with three of a kind, Tens
+Seat 4: b2k-Snick (button) (small blind) showed [Qd Kh] and won ($4.75) with a straight, Nine to King
+
+
+
+PokerStars Hand #254445159937:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:43:41 WET [2025/01/19 5:43:41 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($149.16 in chips) 
+EAroca: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+EAroca: raises $1.30 to $2.30
+b2k-Snick: calls $1.30
+*** FLOP *** [Jh 4h 3d]
+b2k-Snick: checks 
+EAroca: bets $1.75
+b2k-Snick: calls $1.75
+*** TURN *** [Jh 4h 3d] [9d]
+b2k-Snick: checks 
+EAroca: checks 
+*** RIVER *** [Jh 4h 3d 9d] [7h]
+b2k-Snick: bets $4.50
+EAroca: folds 
+Uncalled bet ($4.50) returned to b2k-Snick
+b2k-Snick collected $7.70 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.40 
+Board [Jh 4h 3d 9d 7h]
+Seat 2: EAroca (button) (small blind) folded on the River
+Seat 4: b2k-Snick (big blind) collected ($7.70)
+
+
+
+PokerStars Hand #254445169451:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:44:55 WET [2025/01/19 5:44:55 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($152.81 in chips) 
+b2k-Snick: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+EAroca: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: EAroca (big blind) folded before Flop
+Seat 4: b2k-Snick (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254445170846:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:45:06 WET [2025/01/19 5:45:06 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($153.81 in chips) 
+EAroca: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+EAroca: raises $1.30 to $2.30
+b2k-Snick: calls $1.30
+*** FLOP *** [As Tc 3d]
+b2k-Snick: checks 
+EAroca: bets $1.09
+b2k-Snick: folds 
+Uncalled bet ($1.09) returned to EAroca
+EAroca collected $4.37 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.23 
+Board [As Tc 3d]
+Seat 2: EAroca (button) (small blind) collected ($4.37)
+Seat 4: b2k-Snick (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254445176473:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:45:50 WET [2025/01/19 5:45:50 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 2: EAroca ($102.07 in chips) 
+Seat 4: b2k-Snick ($151.51 in chips) 
+b2k-Snick: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+EAroca: calls $1.50
+*** FLOP *** [Ts 8d Ac]
+EAroca: checks 
+b2k-Snick: bets $1.57
+Mcknight888 joins the table at seat #5 
+gudrozd joins the table at seat #1 
+EAroca: folds 
+Uncalled bet ($1.57) returned to b2k-Snick
+b2k-Snick collected $4.75 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Ts 8d Ac]
+Seat 2: EAroca (big blind) folded on the Flop
+Seat 4: b2k-Snick (button) (small blind) collected ($4.75)
+
+
+
+PokerStars Hand #254445183520:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:46:45 WET [2025/01/19 5:46:45 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 1: gudrozd ($100 in chips) is sitting out
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($153.76 in chips) 
+Seat 5: Mcknight888 ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+Mcknight888: posts big blind $1
+gudrozd: sits out 
+*** HOLE CARDS ***
+EAroca: folds 
+b2k-Snick: raises $2 to $3
+Mcknight888: folds 
+Uncalled bet ($2) returned to b2k-Snick
+b2k-Snick collected $2 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gudrozd
+Seat 2: EAroca (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) collected ($2)
+Seat 5: Mcknight888 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254445185879:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:47:03 WET [2025/01/19 5:47:03 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($154.76 in chips) 
+Seat 5: Mcknight888 ($99 in chips) 
+Mcknight888: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+EAroca: folds 
+b2k-Snick: raises $1.50 to $2.50
+Mcknight888: folds 
+gudrozd: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2.50 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd (big blind) folded before Flop
+Seat 2: EAroca folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) collected ($2.50)
+Seat 5: Mcknight888 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445188895:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:47:27 WET [2025/01/19 5:47:27 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: EAroca ($100 in chips) 
+Seat 4: b2k-Snick ($156.26 in chips) 
+Seat 5: Mcknight888 ($98.50 in chips) 
+gudrozd: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Mcknight888: calls $1
+gudrozd: folds 
+EAroca: raises $4 to $5
+Mcknight888: folds 
+Uncalled bet ($4) returned to EAroca
+EAroca collected $2.50 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: EAroca (big blind) collected ($2.50)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Mcknight888 (button) folded before Flop
+
+
+
+PokerStars Hand #254445193652:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:48:05 WET [2025/01/19 5:48:05 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: EAroca ($101.50 in chips) 
+Seat 4: b2k-Snick ($156.26 in chips) 
+Seat 5: Mcknight888 ($97.50 in chips) 
+EAroca: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Mcknight888: raises $3 to $4
+gudrozd: folds 
+EAroca: folds 
+b2k-Snick: folds 
+Uncalled bet ($3) returned to Mcknight888
+muscatts joins the table at seat #6 
+Mcknight888 collected $2.50 from pot
+Mcknight888: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd (button) folded before Flop (didn't bet)
+Seat 2: EAroca (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: Mcknight888 collected ($2.50)
+
+
+
+PokerStars Hand #254445197533:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:48:35 WET [2025/01/19 5:48:35 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 6: muscatts ($100 in chips) is sitting out
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: EAroca ($101 in chips) 
+Seat 4: b2k-Snick ($155.26 in chips) 
+Seat 5: Mcknight888 ($99 in chips) 
+b2k-Snick: posts small blind $0.50
+Mcknight888: posts big blind $1
+muscatts: sits out 
+*** HOLE CARDS ***
+kuhclemO joins the table at seat #3 
+gudrozd: folds 
+EAroca: folds 
+b2k-Snick: folds 
+Uncalled bet ($0.50) returned to Mcknight888
+Mcknight888 collected $1 from pot
+Mcknight888: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: muscatts
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: EAroca (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: Mcknight888 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254445199327:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:48:49 WET [2025/01/19 5:48:49 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 3: kuhclemO ($167.69 in chips) is sitting out
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: EAroca ($101 in chips) 
+Seat 4: b2k-Snick ($154.76 in chips) 
+Seat 5: Mcknight888 ($99.50 in chips) 
+Seat 6: muscatts ($100 in chips) 
+Mcknight888: posts small blind $0.50
+muscatts: posts big blind $1
+kuhclemO: sits out 
+*** HOLE CARDS ***
+gudrozd: folds 
+EAroca: raises $1.30 to $2.30
+b2k-Snick: folds 
+Mcknight888: folds 
+muscatts: folds 
+Uncalled bet ($1.30) returned to EAroca
+EAroca collected $2.50 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: kuhclemO
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: EAroca collected ($2.50)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: Mcknight888 (small blind) folded before Flop
+Seat 6: muscatts (big blind) folded before Flop
+
+
+
+PokerStars Hand #254445201711:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:49:08 WET [2025/01/19 5:49:08 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 3: kuhclemO ($167.69 in chips) is sitting out
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: EAroca ($102.50 in chips) 
+Seat 4: b2k-Snick ($154.76 in chips) 
+Seat 5: Mcknight888 ($99 in chips) 
+Seat 6: muscatts ($100 in chips) 
+muscatts: posts small blind $0.50
+gudrozd: posts big blind $1
+kuhclemO: sits out 
+*** HOLE CARDS ***
+EAroca: raises $1.10 to $2.10
+b2k-Snick: folds 
+Mcknight888: folds 
+muscatts: folds 
+gudrozd: calls $1.10
+*** FLOP *** [Jh 5h Jd]
+gudrozd: checks 
+EAroca has timed out
+EAroca: checks 
+*** TURN *** [Jh 5h Jd] [Td]
+gudrozd: bets $3.35
+EAroca: calls $3.35
+*** RIVER *** [Jh 5h Jd Td] [4c]
+gudrozd: checks 
+EAroca: bets $7.13
+gudrozd: folds 
+Uncalled bet ($7.13) returned to EAroca
+EAroca collected $10.83 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.40 | Rake $0.57 
+Board [Jh 5h Jd Td 4c]
+Seat 3: kuhclemO
+Seat 1: gudrozd (big blind) folded on the River
+Seat 2: EAroca collected ($10.83)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Mcknight888 (button) folded before Flop (didn't bet)
+Seat 6: muscatts (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445213193:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:50:36 WET [2025/01/19 5:50:36 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 3: kuhclemO ($167.69 in chips) is sitting out
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: EAroca ($107.88 in chips) 
+Seat 4: b2k-Snick ($154.76 in chips) 
+Seat 5: Mcknight888 ($99 in chips) 
+Seat 6: muscatts ($100 in chips) 
+gudrozd: posts small blind $0.50
+EAroca: posts big blind $1
+kuhclemO: sits out 
+*** HOLE CARDS ***
+b2k-Snick: raises $1 to $2
+Mcknight888: calls $2
+muscatts: folds 
+gudrozd: folds 
+EAroca: folds 
+*** FLOP *** [6d 8s 4d]
+b2k-Snick: bets $3.37
+Mcknight888: calls $3.37
+*** TURN *** [6d 8s 4d] [4s]
+b2k-Snick: bets $7.40
+Mcknight888: calls $7.40
+*** RIVER *** [6d 8s 4d 4s] [As]
+b2k-Snick: checks 
+Mcknight888: checks 
+*** SHOW DOWN ***
+b2k-Snick: shows [Th 8h] (two pair, Eights and Fours)
+Mcknight888: mucks hand 
+b2k-Snick collected $25.69 from pot
+*** SUMMARY ***
+Total pot $27.04 | Rake $1.35 
+Board [6d 8s 4d 4s As]
+Seat 3: kuhclemO
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: EAroca (big blind) folded before Flop
+Seat 4: b2k-Snick showed [Th 8h] and won ($25.69) with two pair, Eights and Fours
+Seat 5: Mcknight888 mucked
+Seat 6: muscatts (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445221736:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:51:42 WET [2025/01/19 5:51:42 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 1: gudrozd ($100 in chips) 
+Seat 2: EAroca ($106.88 in chips) 
+Seat 3: kuhclemO ($167.69 in chips) 
+Seat 4: b2k-Snick ($167.68 in chips) 
+Seat 5: Mcknight888 ($86.23 in chips) 
+Seat 6: muscatts ($100 in chips) 
+EAroca: posts small blind $0.50
+kuhclemO: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Mcknight888: calls $1
+muscatts: folds 
+gudrozd: raises $4 to $5
+EAroca: folds 
+kuhclemO: folds 
+Mcknight888: calls $4
+*** FLOP *** [Td Qc Th]
+Mcknight888: checks 
+gudrozd: bets $3.60
+Mcknight888: calls $3.60
+*** TURN *** [Td Qc Th] [8c]
+Mcknight888: checks 
+b2k-Snick leaves the table
+gudrozd: checks 
+*** RIVER *** [Td Qc Th 8c] [As]
+Pacifistas joins the table at seat #4 
+Mcknight888: checks 
+gudrozd: bets $5.86
+Mcknight888: folds 
+Uncalled bet ($5.86) returned to gudrozd
+gudrozd collected $17.76 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.70 | Rake $0.94 
+Board [Td Qc Th 8c As]
+Seat 1: gudrozd (button) collected ($17.76)
+Seat 2: EAroca (small blind) folded before Flop
+Seat 3: kuhclemO (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Mcknight888 folded on the River
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445230301:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:52:47 WET [2025/01/19 5:52:47 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 1: gudrozd ($109.16 in chips) 
+Seat 2: EAroca ($106.38 in chips) 
+Seat 3: kuhclemO ($166.69 in chips) 
+Seat 4: Pacifistas ($100 in chips) 
+Seat 5: Mcknight888 ($77.63 in chips) 
+Seat 6: muscatts ($100 in chips) 
+kuhclemO: posts small blind $0.50
+Pacifistas: posts big blind $1
+*** HOLE CARDS ***
+Mcknight888: folds 
+muscatts: raises $1.20 to $2.20
+gudrozd: folds 
+EAroca: raises $5.50 to $7.70
+kuhclemO: folds 
+Pacifistas: folds 
+muscatts: folds 
+Uncalled bet ($5.50) returned to EAroca
+EAroca collected $5.90 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: EAroca (button) collected ($5.90)
+Seat 3: kuhclemO (small blind) folded before Flop
+Seat 4: Pacifistas (big blind) folded before Flop
+Seat 5: Mcknight888 folded before Flop (didn't bet)
+Seat 6: muscatts folded before Flop
+
+
+
+PokerStars Hand #254445234779:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:53:21 WET [2025/01/19 5:53:21 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 1: gudrozd ($109.16 in chips) 
+Seat 2: EAroca ($110.08 in chips) 
+Seat 3: kuhclemO ($166.19 in chips) 
+Seat 4: Pacifistas ($100 in chips) 
+Seat 5: Mcknight888 ($77.63 in chips) 
+Seat 6: muscatts ($100 in chips) 
+Pacifistas: posts small blind $0.50
+Mcknight888: posts big blind $1
+*** HOLE CARDS ***
+muscatts: raises $1.20 to $2.20
+gudrozd: raises $5.80 to $8
+EAroca: folds 
+kuhclemO: folds 
+Pacifistas: folds 
+Mcknight888: folds 
+muscatts: folds 
+Uncalled bet ($5.80) returned to gudrozd
+gudrozd collected $5.90 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: gudrozd collected ($5.90)
+Seat 2: EAroca folded before Flop (didn't bet)
+Seat 3: kuhclemO (button) folded before Flop (didn't bet)
+Seat 4: Pacifistas (small blind) folded before Flop
+Seat 5: Mcknight888 (big blind) folded before Flop
+Seat 6: muscatts folded before Flop
+
+
+
+PokerStars Hand #254445237962:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:53:46 WET [2025/01/19 5:53:46 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 1: gudrozd ($112.86 in chips) 
+Seat 2: EAroca ($110.08 in chips) 
+Seat 3: kuhclemO ($166.19 in chips) 
+Seat 4: Pacifistas ($100 in chips) 
+Seat 5: Mcknight888 ($76.63 in chips) 
+Seat 6: muscatts ($100 in chips) 
+Mcknight888: posts small blind $0.50
+muscatts: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: raises $1.50 to $2.50
+EAroca: folds 
+kuhclemO: folds 
+Pacifistas: raises $5 to $7.50
+Mcknight888: folds 
+muscatts: folds 
+gudrozd: folds 
+Uncalled bet ($5) returned to Pacifistas
+Pacifistas collected $6.50 from pot
+Pacifistas: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: gudrozd folded before Flop
+Seat 2: EAroca folded before Flop (didn't bet)
+Seat 3: kuhclemO folded before Flop (didn't bet)
+Seat 4: Pacifistas (button) collected ($6.50)
+Seat 5: Mcknight888 (small blind) folded before Flop
+Seat 6: muscatts (big blind) folded before Flop
+
+
+
+PokerStars Hand #254445240864:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:54:09 WET [2025/01/19 5:54:09 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 1: gudrozd ($110.36 in chips) 
+Seat 2: EAroca ($110.08 in chips) 
+Seat 3: kuhclemO ($166.19 in chips) 
+Seat 4: Pacifistas ($104 in chips) 
+Seat 5: Mcknight888 ($76.13 in chips) 
+Seat 6: muscatts ($100 in chips) 
+muscatts: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+EAroca: folds 
+kuhclemO: folds 
+Pacifistas: folds 
+Mcknight888: folds 
+muscatts: raises $2 to $3
+gudrozd: folds 
+Uncalled bet ($2) returned to muscatts
+muscatts collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gudrozd (big blind) folded before Flop
+Seat 2: EAroca folded before Flop (didn't bet)
+Seat 3: kuhclemO folded before Flop (didn't bet)
+Seat 4: Pacifistas folded before Flop (didn't bet)
+Seat 5: Mcknight888 (button) folded before Flop (didn't bet)
+Seat 6: muscatts (small blind) collected ($2)
+
+
+
+PokerStars Hand #254445243547:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:54:30 WET [2025/01/19 5:54:30 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 1: gudrozd ($109.36 in chips) 
+Seat 2: EAroca ($110.08 in chips) 
+Seat 3: kuhclemO ($166.19 in chips) 
+Seat 4: Pacifistas ($104 in chips) 
+Seat 5: Mcknight888 ($76.13 in chips) 
+Seat 6: muscatts ($101 in chips) 
+gudrozd: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+kuhclemO: raises $1 to $2
+Pacifistas: folds 
+Mcknight888: calls $2
+muscatts: folds 
+gudrozd: folds 
+EAroca: calls $1
+*** FLOP *** [8c Kh Td]
+EAroca: checks 
+kuhclemO: checks 
+Mcknight888: bets $3
+EAroca: folds 
+kuhclemO: folds 
+Uncalled bet ($3) returned to Mcknight888
+Mcknight888 collected $6.18 from pot
+Mcknight888: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [8c Kh Td]
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: EAroca (big blind) folded on the Flop
+Seat 3: kuhclemO folded on the Flop
+Seat 4: Pacifistas folded before Flop (didn't bet)
+Seat 5: Mcknight888 collected ($6.18)
+Seat 6: muscatts (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445249822:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:55:21 WET [2025/01/19 5:55:21 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 3: kuhclemO ($164.19 in chips) is sitting out
+Seat 1: gudrozd ($108.86 in chips) 
+Seat 2: EAroca ($108.08 in chips) 
+Seat 4: Pacifistas ($104 in chips) 
+Seat 5: Mcknight888 ($80.31 in chips) 
+Seat 6: muscatts ($101 in chips) 
+EAroca: posts small blind $0.50
+kuhclemO: is sitting out 
+Pacifistas: posts big blind $1
+*** HOLE CARDS ***
+kuhclemO leaves the table
+Mcknight888: raises $1 to $2
+muscatts: folds 
+gudrozd: calls $2
+EAroca: folds 
+Pacifistas: folds 
+*** FLOP *** [5c 3h Td]
+Mcknight888: checks 
+gudrozd: checks 
+*** TURN *** [5c 3h Td] [Qc]
+Mcknight888: checks 
+gudrozd: checks 
+*** RIVER *** [5c 3h Td Qc] [Th]
+Mcknight888: checks 
+gudrozd: checks 
+*** SHOW DOWN ***
+Mcknight888: shows [Kh 6d] (a pair of Tens)
+gudrozd: shows [Kc Jh] (a pair of Tens - King+Queen+Jack kicker)
+gudrozd collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [5c 3h Td Qc Th]
+Seat 3: kuhclemO
+Seat 1: gudrozd (button) showed [Kc Jh] and won ($5.22) with a pair of Tens
+Seat 2: EAroca (small blind) folded before Flop
+Seat 4: Pacifistas (big blind) folded before Flop
+Seat 5: Mcknight888 showed [Kh 6d] and lost with a pair of Tens
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445253323:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:55:53 WET [2025/01/19 5:55:53 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 1: gudrozd ($112.08 in chips) 
+Seat 2: EAroca ($107.58 in chips) 
+Seat 4: Pacifistas ($103 in chips) 
+Seat 5: Mcknight888 ($78.31 in chips) 
+Seat 6: muscatts ($101 in chips) 
+Pacifistas: posts small blind $0.50
+Mcknight888: posts big blind $1
+*** HOLE CARDS ***
+muscatts: folds 
+gudrozd: folds 
+EAroca: folds 
+Pacifistas: raises $2 to $3
+Mcknight888: folds 
+Uncalled bet ($2) returned to Pacifistas
+Mcknight888 leaves the table
+Pacifistas collected $2 from pot
+Pacifistas: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: EAroca (button) folded before Flop (didn't bet)
+Seat 4: Pacifistas (small blind) collected ($2)
+Seat 5: Mcknight888 (big blind) folded before Flop
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445256615:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:56:24 WET [2025/01/19 5:56:24 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 1: gudrozd ($112.08 in chips) 
+Seat 2: EAroca ($107.58 in chips) 
+Seat 4: Pacifistas ($104 in chips) 
+Seat 6: muscatts ($101 in chips) 
+muscatts: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+EAroca: folds 
+Pacifistas: folds 
+muscatts: folds 
+Uncalled bet ($0.50) returned to gudrozd
+gudrozd collected $1 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: gudrozd (big blind) collected ($1)
+Seat 2: EAroca folded before Flop (didn't bet)
+Seat 4: Pacifistas (button) folded before Flop (didn't bet)
+Seat 6: muscatts (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445258613:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:56:42 WET [2025/01/19 5:56:42 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 1: gudrozd ($112.58 in chips) 
+Seat 2: EAroca ($107.58 in chips) 
+Seat 4: Pacifistas ($104 in chips) 
+Seat 6: muscatts ($100.50 in chips) 
+gudrozd: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+Pacifistas: folds 
+muscatts: folds 
+gudrozd: folds 
+Uncalled bet ($0.50) returned to EAroca
+EAroca collected $1 from pot
+EAroca: doesn't show hand 
+perketti joins the table at seat #5 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: EAroca (big blind) collected ($1)
+Seat 4: Pacifistas folded before Flop (didn't bet)
+Seat 6: muscatts (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445259900:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:56:54 WET [2025/01/19 5:56:54 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 5: perketti ($100 in chips) is sitting out
+Seat 1: gudrozd ($112.08 in chips) 
+Seat 2: EAroca ($108.08 in chips) 
+Seat 4: Pacifistas ($104 in chips) 
+Seat 6: muscatts ($100.50 in chips) 
+EAroca: posts small blind $0.50
+Pacifistas: posts big blind $1
+perketti is disconnected 
+perketti is connected 
+perketti: sits out 
+*** HOLE CARDS ***
+muscatts: folds 
+gudrozd: raises $1.50 to $2.50
+Bad_Heli joins the table at seat #3 
+EAroca: folds 
+Pacifistas: folds 
+Uncalled bet ($1.50) returned to gudrozd
+gudrozd collected $2.50 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: perketti
+Seat 1: gudrozd (button) collected ($2.50)
+Seat 2: EAroca (small blind) folded before Flop
+Seat 4: Pacifistas (big blind) folded before Flop
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445262999:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:57:23 WET [2025/01/19 5:57:23 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 3: Bad_Heli ($40 in chips) is sitting out
+Seat 1: gudrozd ($113.58 in chips) 
+Seat 2: EAroca ($107.58 in chips) 
+Seat 4: Pacifistas ($103 in chips) 
+Seat 5: perketti ($100 in chips) 
+Seat 6: muscatts ($100.50 in chips) 
+Pacifistas: posts small blind $0.50
+perketti: posts big blind $1
+*** HOLE CARDS ***
+muscatts: folds 
+gudrozd: raises $1.50 to $2.50
+EAroca: folds 
+Pacifistas: raises $8.50 to $11
+perketti: folds 
+gudrozd: folds 
+Uncalled bet ($8.50) returned to Pacifistas
+Pacifistas collected $6 from pot
+Pacifistas: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: Bad_Heli
+Seat 1: gudrozd folded before Flop
+Seat 2: EAroca (button) folded before Flop (didn't bet)
+Seat 4: Pacifistas (small blind) collected ($6)
+Seat 5: perketti (big blind) folded before Flop
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445266098:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:57:51 WET [2025/01/19 5:57:51 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 3: Bad_Heli ($40 in chips) is sitting out
+Seat 1: gudrozd ($111.08 in chips) 
+Seat 2: EAroca ($107.58 in chips) 
+Seat 4: Pacifistas ($106.50 in chips) 
+Seat 5: perketti ($99 in chips) 
+Seat 6: muscatts ($100.50 in chips) 
+perketti: posts small blind $0.50
+muscatts: posts big blind $1
+Bad_Heli: sits out 
+*** HOLE CARDS ***
+gudrozd: folds 
+EAroca: folds 
+Pacifistas: folds 
+perketti: raises $2 to $3
+muscatts: folds 
+Uncalled bet ($2) returned to perketti
+perketti collected $2 from pot
+perketti: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: Bad_Heli
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: EAroca folded before Flop (didn't bet)
+Seat 4: Pacifistas (button) folded before Flop (didn't bet)
+Seat 5: perketti (small blind) collected ($2)
+Seat 6: muscatts (big blind) folded before Flop
+
+
+
+PokerStars Hand #254445267999:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:58:09 WET [2025/01/19 5:58:09 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 3: Bad_Heli ($40 in chips) is sitting out
+Seat 1: gudrozd ($111.08 in chips) 
+Seat 2: EAroca ($107.58 in chips) 
+Seat 4: Pacifistas ($106.50 in chips) 
+Seat 5: perketti ($100 in chips) 
+Seat 6: muscatts ($100 in chips) 
+muscatts: posts small blind $0.50
+gudrozd: posts big blind $1
+Bad_Heli: sits out 
+*** HOLE CARDS ***
+EAroca: folds 
+Pacifistas: raises $1.50 to $2.50
+perketti: calls $2.50
+muscatts: folds 
+gudrozd: raises $11.50 to $14
+Pacifistas: folds 
+perketti: folds 
+Uncalled bet ($11.50) returned to gudrozd
+gudrozd collected $8 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 3: Bad_Heli
+Seat 1: gudrozd (big blind) collected ($8)
+Seat 2: EAroca folded before Flop (didn't bet)
+Seat 4: Pacifistas folded before Flop
+Seat 5: perketti (button) folded before Flop
+Seat 6: muscatts (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445272720:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:58:51 WET [2025/01/19 5:58:51 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 3: Bad_Heli ($40 in chips) is sitting out
+Seat 1: gudrozd ($116.58 in chips) 
+Seat 2: EAroca ($107.58 in chips) 
+Seat 4: Pacifistas ($104 in chips) 
+Seat 5: perketti ($97.50 in chips) 
+Seat 6: muscatts ($100 in chips) 
+gudrozd: posts small blind $0.50
+EAroca: posts big blind $1
+Bad_Heli: sits out 
+*** HOLE CARDS ***
+Pacifistas: folds 
+perketti: raises $1 to $2
+muscatts: raises $5 to $7
+gudrozd: folds 
+EAroca: raises $12 to $19
+perketti: raises $78.50 to $97.50 and is all-in
+muscatts: folds 
+EAroca: folds 
+Uncalled bet ($78.50) returned to perketti
+perketti collected $45.50 from pot
+perketti: doesn't show hand 
+*** SUMMARY ***
+Total pot $45.50 | Rake $0 
+Seat 3: Bad_Heli
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: EAroca (big blind) folded before Flop
+Seat 4: Pacifistas folded before Flop (didn't bet)
+Seat 5: perketti collected ($45.50)
+Seat 6: muscatts (button) folded before Flop
+
+
+
+PokerStars Hand #254445278482:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 10:59:42 WET [2025/01/19 5:59:42 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 1: gudrozd ($116.08 in chips) 
+Seat 2: EAroca ($100 in chips) 
+Seat 3: Bad_Heli ($40 in chips) 
+Seat 4: Pacifistas ($104 in chips) 
+Seat 5: perketti ($124 in chips) 
+Seat 6: muscatts ($100 in chips) 
+EAroca: posts small blind $0.50
+Bad_Heli: posts big blind $1
+*** HOLE CARDS ***
+Pacifistas: folds 
+perketti: raises $1 to $2
+muscatts: folds 
+gudrozd: folds 
+EAroca: folds 
+Bad_Heli: calls $1
+*** FLOP *** [5s 3d Ac]
+Bad_Heli: checks 
+perketti: bets $2.82
+Bad_Heli: calls $2.82
+*** TURN *** [5s 3d Ac] [Ad]
+Bad_Heli: checks 
+perketti: checks 
+*** RIVER *** [5s 3d Ac Ad] [7c]
+Bad_Heli: checks 
+perketti: checks 
+*** SHOW DOWN ***
+Bad_Heli: shows [2h 2c] (two pair, Aces and Deuces)
+perketti: mucks hand 
+Bad_Heli collected $9.63 from pot
+*** SUMMARY ***
+Total pot $10.14 | Rake $0.51 
+Board [5s 3d Ac Ad 7c]
+Seat 1: gudrozd (button) folded before Flop (didn't bet)
+Seat 2: EAroca (small blind) folded before Flop
+Seat 3: Bad_Heli (big blind) showed [2h 2c] and won ($9.63) with two pair, Aces and Deuces
+Seat 4: Pacifistas folded before Flop (didn't bet)
+Seat 5: perketti mucked
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445282473:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:00:16 WET [2025/01/19 6:00:16 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 1: gudrozd ($116.08 in chips) 
+Seat 2: EAroca ($100 in chips) 
+Seat 3: Bad_Heli ($44.81 in chips) 
+Seat 4: Pacifistas ($104 in chips) 
+Seat 5: perketti ($119.18 in chips) 
+Seat 6: muscatts ($100 in chips) 
+Bad_Heli: posts small blind $0.50
+Pacifistas: posts big blind $1
+*** HOLE CARDS ***
+perketti: folds 
+muscatts: folds 
+gudrozd: folds 
+EAroca: raises $1.20 to $2.20
+Bad_Heli: folds 
+Pacifistas: calls $1.20
+*** FLOP *** [Tc Ac 4d]
+Pacifistas: checks 
+EAroca: bets $5.16
+Pacifistas: folds 
+Uncalled bet ($5.16) returned to EAroca
+EAroca collected $4.66 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Tc Ac 4d]
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: EAroca (button) collected ($4.66)
+Seat 3: Bad_Heli (small blind) folded before Flop
+Seat 4: Pacifistas (big blind) folded on the Flop
+Seat 5: perketti folded before Flop (didn't bet)
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445289212:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:01:11 WET [2025/01/19 6:01:11 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 1: gudrozd ($116.08 in chips) 
+Seat 2: EAroca ($102.46 in chips) 
+Seat 3: Bad_Heli ($44.31 in chips) 
+Seat 4: Pacifistas ($101.80 in chips) 
+Seat 5: perketti ($119.18 in chips) 
+Seat 6: muscatts ($100 in chips) 
+Pacifistas: posts small blind $0.50
+perketti: posts big blind $1
+*** HOLE CARDS ***
+muscatts: folds 
+gudrozd: raises $1.50 to $2.50
+EAroca: folds 
+Bad_Heli: folds 
+Pacifistas: folds 
+perketti: calls $1.50
+*** FLOP *** [9s 8s 7s]
+perketti: checks 
+gudrozd: bets $1.72
+perketti: calls $1.72
+*** TURN *** [9s 8s 7s] [6h]
+perketti: checks 
+gudrozd: checks 
+*** RIVER *** [9s 8s 7s 6h] [3d]
+perketti: bets $2.80
+gudrozd: folds 
+Uncalled bet ($2.80) returned to perketti
+perketti collected $8.49 from pot
+perketti: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [9s 8s 7s 6h 3d]
+Seat 1: gudrozd folded on the River
+Seat 2: EAroca folded before Flop (didn't bet)
+Seat 3: Bad_Heli (button) folded before Flop (didn't bet)
+Seat 4: Pacifistas (small blind) folded before Flop
+Seat 5: perketti (big blind) collected ($8.49)
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445296334:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:02:05 WET [2025/01/19 6:02:05 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 1: gudrozd ($111.86 in chips) 
+Seat 2: EAroca ($102.46 in chips) 
+Seat 3: Bad_Heli ($44.31 in chips) 
+Seat 4: Pacifistas ($101.30 in chips) 
+Seat 5: perketti ($123.45 in chips) 
+Seat 6: muscatts ($100 in chips) 
+perketti: posts small blind $0.50
+muscatts: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+EAroca: raises $1.10 to $2.10
+Bad_Heli: folds 
+Pacifistas: folds 
+perketti: folds 
+muscatts: calls $1.10
+*** FLOP *** [7d 7h 4c]
+muscatts: checks 
+EAroca: checks 
+*** TURN *** [7d 7h 4c] [5d]
+muscatts: bets $1.47
+EAroca: calls $1.47
+*** RIVER *** [7d 7h 4c 5d] [9h]
+muscatts: bets $2.40
+EAroca: raises $12.06 to $14.46
+muscatts: folds 
+Uncalled bet ($12.06) returned to EAroca
+EAroca collected $11.82 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.44 | Rake $0.62 
+Board [7d 7h 4c 5d 9h]
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: EAroca collected ($11.82)
+Seat 3: Bad_Heli folded before Flop (didn't bet)
+Seat 4: Pacifistas (button) folded before Flop (didn't bet)
+Seat 5: perketti (small blind) folded before Flop
+Seat 6: muscatts (big blind) folded on the River
+
+
+
+PokerStars Hand #254445311500:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:03:58 WET [2025/01/19 6:03:58 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 1: gudrozd ($111.86 in chips) 
+Seat 2: EAroca ($108.31 in chips) 
+Seat 3: Bad_Heli ($44.31 in chips) 
+Seat 4: Pacifistas ($101.30 in chips) 
+Seat 5: perketti ($122.95 in chips) 
+Seat 6: muscatts ($100 in chips) 
+muscatts: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+EAroca: folds 
+Bad_Heli: folds 
+Pacifistas: folds 
+perketti: raises $1 to $2
+muscatts: folds 
+gudrozd: folds 
+Uncalled bet ($1) returned to perketti
+perketti collected $2.50 from pot
+perketti: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: gudrozd (big blind) folded before Flop
+Seat 2: EAroca folded before Flop (didn't bet)
+Seat 3: Bad_Heli folded before Flop (didn't bet)
+Seat 4: Pacifistas folded before Flop (didn't bet)
+Seat 5: perketti (button) collected ($2.50)
+Seat 6: muscatts (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445313529:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:04:13 WET [2025/01/19 6:04:13 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 1: gudrozd ($110.86 in chips) 
+Seat 2: EAroca ($108.31 in chips) 
+Seat 3: Bad_Heli ($44.31 in chips) 
+Seat 4: Pacifistas ($101.30 in chips) 
+Seat 5: perketti ($124.45 in chips) 
+Seat 6: muscatts ($100 in chips) 
+gudrozd: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+Bad_Heli: folds 
+Pacifistas: raises $1 to $2
+perketti: folds 
+muscatts: folds 
+gudrozd: folds 
+EAroca: calls $1
+*** FLOP *** [7h Ac 8s]
+EAroca: checks 
+Pacifistas: bets $1
+EAroca: raises $5.21 to $6.21
+Pacifistas: folds 
+Uncalled bet ($5.21) returned to EAroca
+EAroca collected $6.18 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [7h Ac 8s]
+Seat 1: gudrozd (small blind) folded before Flop
+Seat 2: EAroca (big blind) collected ($6.18)
+Seat 3: Bad_Heli folded before Flop (didn't bet)
+Seat 4: Pacifistas folded on the Flop
+Seat 5: perketti folded before Flop (didn't bet)
+Seat 6: muscatts (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445321124:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:05:09 WET [2025/01/19 6:05:09 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 1: gudrozd ($110.36 in chips) 
+Seat 2: EAroca ($111.49 in chips) 
+Seat 3: Bad_Heli ($44.31 in chips) 
+Seat 4: Pacifistas ($100 in chips) 
+Seat 5: perketti ($124.45 in chips) 
+Seat 6: muscatts ($100 in chips) 
+EAroca: posts small blind $0.50
+Bad_Heli: posts big blind $1
+*** HOLE CARDS ***
+Pacifistas: folds 
+perketti: folds 
+muscatts: folds 
+gudrozd: raises $1.50 to $2.50
+EAroca: folds 
+Bad_Heli: raises $5.50 to $8
+gudrozd: folds 
+Uncalled bet ($5.50) returned to Bad_Heli
+Bad_Heli collected $5.50 from pot
+Bad_Heli: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: gudrozd (button) folded before Flop
+Seat 2: EAroca (small blind) folded before Flop
+Seat 3: Bad_Heli (big blind) collected ($5.50)
+Seat 4: Pacifistas folded before Flop (didn't bet)
+Seat 5: perketti folded before Flop (didn't bet)
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445324496:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:05:34 WET [2025/01/19 6:05:34 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 1: gudrozd ($107.86 in chips) 
+Seat 2: EAroca ($110.99 in chips) 
+Seat 3: Bad_Heli ($47.31 in chips) 
+Seat 4: Pacifistas ($100 in chips) 
+Seat 5: perketti ($124.45 in chips) 
+Seat 6: muscatts ($100 in chips) 
+Bad_Heli: posts small blind $0.50
+Pacifistas: posts big blind $1
+*** HOLE CARDS ***
+perketti: raises $1 to $2
+muscatts: folds 
+gudrozd: folds 
+EAroca: folds 
+Bad_Heli: calls $1.50
+Pacifistas: calls $1
+*** FLOP *** [8h Qc Td]
+Bad_Heli: checks 
+Pacifistas: checks 
+perketti: bets $3.76
+Bad_Heli: folds 
+Pacifistas: folds 
+Uncalled bet ($3.76) returned to perketti
+perketti collected $5.70 from pot
+perketti: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [8h Qc Td]
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: EAroca (button) folded before Flop (didn't bet)
+Seat 3: Bad_Heli (small blind) folded on the Flop
+Seat 4: Pacifistas (big blind) folded on the Flop
+Seat 5: perketti collected ($5.70)
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445329713:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:06:12 WET [2025/01/19 6:06:12 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 5: perketti ($128.15 in chips) is sitting out
+Seat 1: gudrozd ($107.86 in chips) 
+Seat 2: EAroca ($110.99 in chips) 
+Seat 3: Bad_Heli ($45.31 in chips) 
+Seat 4: Pacifistas ($100 in chips) 
+Seat 6: muscatts ($100 in chips) 
+Pacifistas: posts small blind $0.50
+perketti: is sitting out 
+muscatts: posts big blind $1
+*** HOLE CARDS ***
+perketti leaves the table
+gudrozd: folds 
+gudrozd leaves the table
+EAroca: folds 
+Bad_Heli: folds 
+Pacifistas: raises $2 to $3
+muscatts: folds 
+Uncalled bet ($2) returned to Pacifistas
+Pacifistas collected $2 from pot
+Pacifistas: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: perketti
+Seat 1: gudrozd folded before Flop (didn't bet)
+Seat 2: EAroca folded before Flop (didn't bet)
+Seat 3: Bad_Heli (button) folded before Flop (didn't bet)
+Seat 4: Pacifistas (small blind) collected ($2)
+Seat 6: muscatts (big blind) folded before Flop
+
+
+
+PokerStars Hand #254445332376:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:06:32 WET [2025/01/19 6:06:32 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 2: EAroca ($110.99 in chips) is sitting out
+Seat 3: Bad_Heli ($45.31 in chips) 
+Seat 4: Pacifistas ($101 in chips) 
+Seat 6: muscatts ($100 in chips) 
+muscatts: posts small blind $0.50
+EAroca: is sitting out 
+Bad_Heli: posts big blind $1
+*** HOLE CARDS ***
+Pacifistas: raises $1 to $2
+muscatts: folds 
+Bad_Heli: folds 
+Uncalled bet ($1) returned to Pacifistas
+Pacifistas collected $2.50 from pot
+Pacifistas: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: EAroca
+Seat 3: Bad_Heli (big blind) folded before Flop
+Seat 4: Pacifistas (button) collected ($2.50)
+Seat 6: muscatts (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445335249:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:06:53 WET [2025/01/19 6:06:53 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 3: Bad_Heli ($44.31 in chips) 
+Seat 4: Pacifistas ($102.50 in chips) 
+Seat 6: muscatts ($100 in chips) 
+Bad_Heli: posts small blind $0.50
+EAroca leaves the table
+Pacifistas: posts big blind $1
+*** HOLE CARDS ***
+muscatts: folds 
+Bad_Heli: raises $2 to $3
+Pacifistas: raises $5.50 to $8.50
+Bad_Heli: folds 
+Uncalled bet ($5.50) returned to Pacifistas
+Pacifistas collected $6 from pot
+Pacifistas: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: Bad_Heli (small blind) folded before Flop
+Seat 4: Pacifistas (big blind) collected ($6)
+Seat 6: muscatts (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445338623:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:07:18 WET [2025/01/19 6:07:18 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 3: Bad_Heli ($41.31 in chips) 
+Seat 4: Pacifistas ($105.50 in chips) 
+Seat 6: muscatts ($100 in chips) 
+Pacifistas: posts small blind $0.50
+muscatts: posts big blind $1
+*** HOLE CARDS ***
+janarr5 joins the table at seat #5 
+Bad_Heli: raises $2 to $3
+Pacifistas: raises $7 to $10
+muscatts: folds 
+Bad_Heli: calls $7
+*** FLOP *** [Ad 3c Qs]
+Pacifistas: bets $5.10
+Bad_Heli: calls $5.10
+*** TURN *** [Ad 3c Qs] [As]
+Pacifistas: checks 
+Bad_Heli: bets $15.10
+Pacifistas: folds 
+Uncalled bet ($15.10) returned to Bad_Heli
+Bad_Heli collected $30.20 from pot
+Bad_Heli: doesn't show hand 
+*** SUMMARY ***
+Total pot $31.20 | Rake $1 
+Board [Ad 3c Qs As]
+Seat 3: Bad_Heli (button) collected ($30.20)
+Seat 4: Pacifistas (small blind) folded on the Turn
+Seat 6: muscatts (big blind) folded before Flop
+
+
+
+PokerStars Hand #254445344422:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:08:01 WET [2025/01/19 6:08:01 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 5: janarr5 ($129 in chips) is sitting out
+Seat 3: Bad_Heli ($56.41 in chips) 
+Seat 4: Pacifistas ($100 in chips) 
+Seat 6: muscatts ($100 in chips) 
+muscatts: posts small blind $0.50
+Bad_Heli: posts big blind $1
+*** HOLE CARDS ***
+Pacifistas: raises $1 to $2
+muscatts: folds 
+Bad_Heli: folds 
+Uncalled bet ($1) returned to Pacifistas
+Pacifistas collected $2.50 from pot
+Pacifistas: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: janarr5
+Seat 3: Bad_Heli (big blind) folded before Flop
+Seat 4: Pacifistas (button) collected ($2.50)
+Seat 6: muscatts (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445345966:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:08:12 WET [2025/01/19 6:08:12 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 5: janarr5 ($129 in chips) is sitting out
+Seat 3: Bad_Heli ($55.41 in chips) 
+Seat 4: Pacifistas ($101.50 in chips) 
+Seat 6: muscatts ($100 in chips) 
+Bad_Heli: posts small blind $0.50
+Pacifistas: posts big blind $1
+janarr5: sits out 
+*** HOLE CARDS ***
+muscatts: raises $1.20 to $2.20
+Bad_Heli: calls $1.70
+Pacifistas: folds 
+*** FLOP *** [7d 2d 5h]
+Bad_Heli: checks 
+muscatts: checks 
+*** TURN *** [7d 2d 5h] [3d]
+Bad_Heli: checks 
+muscatts: bets $3.85
+Bad_Heli: calls $3.85
+*** RIVER *** [7d 2d 5h 3d] [Ah]
+Bad_Heli: checks 
+muscatts: bets $20.44
+Bad_Heli: calls $20.44
+*** SHOW DOWN ***
+muscatts: shows [5d 9d] (a flush, Nine high)
+Bad_Heli: mucks hand 
+muscatts collected $52.98 from pot
+*** SUMMARY ***
+Total pot $53.98 | Rake $1 
+Board [7d 2d 5h 3d Ah]
+Seat 5: janarr5
+Seat 3: Bad_Heli (small blind) mucked
+Seat 4: Pacifistas (big blind) folded before Flop
+Seat 6: muscatts (button) showed [5d 9d] and won ($52.98) with a flush, Nine high
+
+
+
+PokerStars Hand #254445360430:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:09:59 WET [2025/01/19 6:09:59 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 3: Bad_Heli ($28.92 in chips) 
+Seat 4: Pacifistas ($100.50 in chips) 
+Seat 5: janarr5 ($129 in chips) 
+Seat 6: muscatts ($126.49 in chips) 
+Pacifistas: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+muscatts: folds 
+Bad_Heli: raises $2 to $3
+Pacifistas: folds 
+janarr5: folds 
+Uncalled bet ($2) returned to Bad_Heli
+Bad_Heli collected $2.50 from pot
+Bad_Heli: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Bad_Heli (button) collected ($2.50)
+Seat 4: Pacifistas (small blind) folded before Flop
+Seat 5: janarr5 (big blind) folded before Flop
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445363020:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:10:18 WET [2025/01/19 6:10:18 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 3: Bad_Heli ($30.42 in chips) 
+Seat 4: Pacifistas ($100 in chips) 
+Seat 5: janarr5 ($128 in chips) 
+Seat 6: muscatts ($126.49 in chips) 
+janarr5: posts small blind $0.50
+muscatts: posts big blind $1
+*** HOLE CARDS ***
+Bad_Heli: folds 
+Pacifistas: raises $1.50 to $2.50
+janarr5: folds 
+muscatts: calls $1.50
+*** FLOP *** [8s Tc Jd]
+muscatts: checks 
+Pacifistas: bets $1.72
+muscatts: raises $6.50 to $8.22
+Pacifistas: folds 
+Uncalled bet ($6.50) returned to muscatts
+muscatts collected $8.49 from pot
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [8s Tc Jd]
+Seat 3: Bad_Heli folded before Flop (didn't bet)
+Seat 4: Pacifistas (button) folded on the Flop
+Seat 5: janarr5 (small blind) folded before Flop
+Seat 6: muscatts (big blind) collected ($8.49)
+
+
+
+PokerStars Hand #254445369282:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:11:05 WET [2025/01/19 6:11:05 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 3: Bad_Heli ($30.42 in chips) 
+Seat 4: Pacifistas ($100 in chips) 
+Seat 5: janarr5 ($127.50 in chips) 
+Seat 6: muscatts ($130.76 in chips) 
+muscatts: posts small blind $0.50
+Bad_Heli: posts big blind $1
+*** HOLE CARDS ***
+Pacifistas: raises $1.50 to $2.50
+janarr5: folds 
+muscatts: folds 
+Bad_Heli: calls $1.50
+*** FLOP *** [Kh 7h 8c]
+Bad_Heli: checks 
+Pacifistas: bets $1.72
+Bad_Heli: calls $1.72
+*** TURN *** [Kh 7h 8c] [Kd]
+Bad_Heli: checks 
+Pacifistas: bets $5.60
+Bad_Heli: calls $5.60
+*** RIVER *** [Kh 7h 8c Kd] [2c]
+Bad_Heli: checks 
+Pacifistas: bets $28.71
+Bad_Heli: folds 
+Uncalled bet ($28.71) returned to Pacifistas
+Pacifistas collected $19.14 from pot
+Pacifistas: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.14 | Rake $1 
+Board [Kh 7h 8c Kd 2c]
+Seat 3: Bad_Heli (big blind) folded on the River
+Seat 4: Pacifistas collected ($19.14)
+Seat 5: janarr5 (button) folded before Flop (didn't bet)
+Seat 6: muscatts (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445377866:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:12:08 WET [2025/01/19 6:12:08 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 3: Bad_Heli ($20.60 in chips) 
+Seat 4: Pacifistas ($109.32 in chips) 
+Seat 5: janarr5 ($127.50 in chips) 
+Seat 6: muscatts ($130.26 in chips) 
+Bad_Heli: posts small blind $0.50
+Pacifistas: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+muscatts: folds 
+Bad_Heli: raises $2 to $3
+Pacifistas: calls $2
+*** FLOP *** [5d 3h Jh]
+Bad_Heli: checks 
+Pacifistas: checks 
+*** TURN *** [5d 3h Jh] [4h]
+Bad_Heli: bets $2.85
+Pacifistas: folds 
+Uncalled bet ($2.85) returned to Bad_Heli
+Bad_Heli collected $5.70 from pot
+Bad_Heli: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [5d 3h Jh 4h]
+Seat 3: Bad_Heli (small blind) collected ($5.70)
+Seat 4: Pacifistas (big blind) folded on the Turn
+Seat 5: janarr5 folded before Flop (didn't bet)
+Seat 6: muscatts (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445383166:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:12:47 WET [2025/01/19 6:12:47 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 3: Bad_Heli ($23.30 in chips) 
+Seat 4: Pacifistas ($106.32 in chips) 
+Seat 5: janarr5 ($127.50 in chips) 
+Seat 6: muscatts ($130.26 in chips) 
+Pacifistas: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+muscatts: folds 
+Bad_Heli: raises $2 to $3
+Pacifistas: folds 
+janarr5: calls $2
+*** FLOP *** [4h 2d Qc]
+janarr5: checks 
+Bad_Heli: bets $3.09
+janarr5: calls $3.09
+*** TURN *** [4h 2d Qc] [Ad]
+janarr5: checks 
+Bad_Heli: bets $4
+janarr5: folds 
+Uncalled bet ($4) returned to Bad_Heli
+Bad_Heli collected $12.05 from pot
+Bad_Heli: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.68 | Rake $0.63 
+Board [4h 2d Qc Ad]
+Seat 3: Bad_Heli (button) collected ($12.05)
+Seat 4: Pacifistas (small blind) folded before Flop
+Seat 5: janarr5 (big blind) folded on the Turn
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445389167:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:13:31 WET [2025/01/19 6:13:31 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 3: Bad_Heli ($29.26 in chips) 
+Seat 4: Pacifistas ($105.82 in chips) 
+Seat 5: janarr5 ($121.41 in chips) 
+Seat 6: muscatts ($130.26 in chips) 
+janarr5: posts small blind $0.50
+muscatts: posts big blind $1
+*** HOLE CARDS ***
+Bad_Heli: raises $2 to $3
+Pacifistas: raises $8 to $11
+janarr5: folds 
+muscatts: folds 
+Bad_Heli: raises $18.26 to $29.26 and is all-in
+Pacifistas: calls $18.26
+*** FIRST FLOP *** [6h Jc Ts]
+*** FIRST TURN *** [6h Jc Ts] [Ad]
+*** FIRST RIVER *** [6h Jc Ts Ad] [Kd]
+*** SECOND FLOP *** [Kc Th 9s]
+*** SECOND TURN *** [Kc Th 9s] [6c]
+*** SECOND RIVER *** [Kc Th 9s 6c] [Qs]
+*** FIRST SHOW DOWN ***
+Bad_Heli: shows [Kh Jd] (two pair, Kings and Jacks)
+Pacifistas: shows [Ac Ks] (two pair, Aces and Kings)
+Pacifistas collected $29.51 from pot
+*** SECOND SHOW DOWN ***
+Bad_Heli: shows [Kh Jd] (a straight, Nine to King)
+Pacifistas: shows [Ac Ks] (a pair of Kings)
+Bad_Heli collected $29.51 from pot
+*** SUMMARY ***
+Total pot $60.02 | Rake $1 
+Hand was run twice
+FIRST Board [6h Jc Ts Ad Kd]
+SECOND Board [Kc Th 9s 6c Qs]
+Seat 3: Bad_Heli showed [Kh Jd] and lost with two pair, Kings and Jacks, and won ($29.51) with a straight, Nine to King
+Seat 4: Pacifistas (button) showed [Ac Ks] and won ($29.51) with two pair, Aces and Kings, and lost with a pair of Kings
+Seat 5: janarr5 (small blind) folded before Flop
+Seat 6: muscatts (big blind) folded before Flop
+
+
+
+PokerStars Hand #254445415859:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:16:48 WET [2025/01/19 6:16:48 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 1: Grassytugger1 ($84.56 in chips) 
+Seat 2: fedor0f ($100 in chips) 
+Seat 3: Bad_Heli ($32.34 in chips) 
+Seat 4: Pacifistas ($100 in chips) 
+Seat 5: janarr5 ($126.98 in chips) 
+Seat 6: muscatts ($119.97 in chips) 
+Grassytugger1: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+Bad_Heli: raises $2 to $3
+Pacifistas: folds 
+janarr5: folds 
+muscatts: folds 
+Grassytugger1: calls $2.50
+fedor0f: calls $2
+*** FLOP *** [4h Kc Kd]
+Grassytugger1: checks 
+fedor0f: checks 
+Bad_Heli: bets $3
+Grassytugger1: calls $3
+fedor0f: folds 
+*** TURN *** [4h Kc Kd] [9s]
+Grassytugger1: checks 
+Bad_Heli: checks 
+*** RIVER *** [4h Kc Kd 9s] [9c]
+Grassytugger1: bets $14.25
+Bad_Heli: folds 
+Uncalled bet ($14.25) returned to Grassytugger1
+Grassytugger1 collected $14.25 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [4h Kc Kd 9s 9c]
+Seat 1: Grassytugger1 (small blind) collected ($14.25)
+Seat 2: fedor0f (big blind) folded on the Flop
+Seat 3: Bad_Heli folded on the River
+Seat 4: Pacifistas folded before Flop (didn't bet)
+Seat 5: janarr5 folded before Flop (didn't bet)
+Seat 6: muscatts (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445422857:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:17:40 WET [2025/01/19 6:17:40 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 1: Grassytugger1 ($92.81 in chips) 
+Seat 2: fedor0f ($100 in chips) 
+Seat 3: Bad_Heli ($26.34 in chips) 
+Seat 4: Pacifistas ($100 in chips) 
+Seat 5: janarr5 ($126.98 in chips) 
+Seat 6: muscatts ($119.97 in chips) 
+fedor0f: posts small blind $0.50
+Bad_Heli: posts big blind $1
+*** HOLE CARDS ***
+Pacifistas: folds 
+janarr5: folds 
+muscatts: folds 
+Grassytugger1: calls $1
+fedor0f: folds 
+Bad_Heli: checks 
+*** FLOP *** [5s 6c 6h]
+Bad_Heli: checks 
+Grassytugger1: checks 
+*** TURN *** [5s 6c 6h] [Qs]
+Bad_Heli: checks 
+Grassytugger1: checks 
+*** RIVER *** [5s 6c 6h Qs] [Ks]
+Bad_Heli: bets $2.38
+Grassytugger1: folds 
+Uncalled bet ($2.38) returned to Bad_Heli
+Bad_Heli collected $2.38 from pot
+Bad_Heli: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [5s 6c 6h Qs Ks]
+Seat 1: Grassytugger1 (button) folded on the River
+Seat 2: fedor0f (small blind) folded before Flop
+Seat 3: Bad_Heli (big blind) collected ($2.38)
+Seat 4: Pacifistas folded before Flop (didn't bet)
+Seat 5: janarr5 folded before Flop (didn't bet)
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445427222:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:18:13 WET [2025/01/19 6:18:13 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 1: Grassytugger1 ($91.81 in chips) 
+Seat 2: fedor0f ($100 in chips) 
+Seat 3: Bad_Heli ($27.72 in chips) 
+Seat 4: Pacifistas ($100 in chips) 
+Seat 5: janarr5 ($126.98 in chips) 
+Seat 6: muscatts ($119.97 in chips) 
+Bad_Heli: posts small blind $0.50
+Pacifistas: posts big blind $1
+*** HOLE CARDS ***
+janarr5: raises $1.25 to $2.25
+muscatts: folds 
+Grassytugger1: calls $2.25
+fedor0f: folds 
+Bad_Heli: folds 
+Pacifistas: calls $1.25
+*** FLOP *** [5c 6c 5s]
+Pacifistas: checks 
+janarr5: checks 
+Grassytugger1: checks 
+*** TURN *** [5c 6c 5s] [Ks]
+Pacifistas: checks 
+janarr5: bets $4.55
+Grassytugger1: calls $4.55
+Pacifistas: calls $4.55
+*** RIVER *** [5c 6c 5s Ks] [Ts]
+Pacifistas: checks 
+janarr5: checks 
+Grassytugger1: checks 
+*** SHOW DOWN ***
+Pacifistas: shows [4s 6s] (a flush, King high)
+janarr5: mucks hand 
+Grassytugger1: mucks hand 
+Pacifistas collected $19.86 from pot
+*** SUMMARY ***
+Total pot $20.90 | Rake $1.04 
+Board [5c 6c 5s Ks Ts]
+Seat 1: Grassytugger1 mucked
+Seat 2: fedor0f (button) folded before Flop (didn't bet)
+Seat 3: Bad_Heli (small blind) folded before Flop
+Seat 4: Pacifistas (big blind) showed [4s 6s] and won ($19.86) with a flush, King high
+Seat 5: janarr5 mucked
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445433390:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:19:00 WET [2025/01/19 6:19:00 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 1: Grassytugger1 ($85.01 in chips) 
+Seat 2: fedor0f ($100 in chips) 
+Seat 3: Bad_Heli ($27.22 in chips) 
+Seat 4: Pacifistas ($113.06 in chips) 
+Seat 5: janarr5 ($120.18 in chips) 
+Seat 6: muscatts ($119.97 in chips) 
+Pacifistas: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+muscatts: folds 
+Grassytugger1: calls $1
+fedor0f: folds 
+Bad_Heli: folds 
+Pacifistas: calls $0.50
+janarr5: checks 
+*** FLOP *** [6d 5h 7d]
+Pacifistas: checks 
+janarr5: bets $1
+Grassytugger1: calls $1
+Pacifistas: raises $2.93 to $3.93
+janarr5: folds 
+Grassytugger1: calls $2.93
+*** TURN *** [6d 5h 7d] [5d]
+Pacifistas: checks 
+Grassytugger1: checks 
+*** RIVER *** [6d 5h 7d 5d] [6h]
+Pacifistas: checks 
+Grassytugger1: bets $11.27
+muscatts is disconnected 
+Pacifistas: calls $11.27
+*** SHOW DOWN ***
+Grassytugger1: shows [Ts 5c] (a full house, Fives full of Sixes)
+Pacifistas: mucks hand 
+Grassytugger1 collected $32.68 from pot
+*** SUMMARY ***
+Total pot $34.40 | Rake $1.72 
+Board [6d 5h 7d 5d 6h]
+Seat 1: Grassytugger1 showed [Ts 5c] and won ($32.68) with a full house, Fives full of Sixes
+Seat 2: fedor0f folded before Flop (didn't bet)
+Seat 3: Bad_Heli (button) folded before Flop (didn't bet)
+Seat 4: Pacifistas (small blind) mucked
+Seat 5: janarr5 (big blind) folded on the Flop
+Seat 6: muscatts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445444871:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:20:23 WET [2025/01/19 6:20:23 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 6: muscatts ($119.97 in chips) is sitting out
+Seat 1: Grassytugger1 ($101.49 in chips) 
+Seat 2: fedor0f ($100 in chips) 
+Seat 3: Bad_Heli ($27.22 in chips) 
+Seat 4: Pacifistas ($100 in chips) 
+Seat 5: janarr5 ($118.18 in chips) 
+janarr5: posts small blind $0.50
+muscatts has timed out while disconnected
+muscatts: is sitting out 
+Grassytugger1: posts big blind $1
+*** HOLE CARDS ***
+fedor0f: folds 
+Bad_Heli: folds 
+Pacifistas: raises $1.50 to $2.50
+janarr5: folds 
+Grassytugger1: calls $1.50
+*** FLOP *** [Ts 9h Ac]
+Grassytugger1: checks 
+Pacifistas: checks 
+*** TURN *** [Ts 9h Ac] [3s]
+Grassytugger1: bets $2.61
+Pacifistas: calls $2.61
+*** RIVER *** [Ts 9h Ac 3s] [2c]
+Grassytugger1: bets $10.18
+Pacifistas: calls $10.18
+*** SHOW DOWN ***
+Grassytugger1: shows [5h 9d] (a pair of Nines)
+Pacifistas: shows [Th Jd] (a pair of Tens)
+Pacifistas collected $29.53 from pot
+*** SUMMARY ***
+Total pot $31.08 | Rake $1.55 
+Board [Ts 9h Ac 3s 2c]
+Seat 6: muscatts
+Seat 1: Grassytugger1 (big blind) showed [5h 9d] and lost with a pair of Nines
+Seat 2: fedor0f folded before Flop (didn't bet)
+Seat 3: Bad_Heli folded before Flop (didn't bet)
+Seat 4: Pacifistas (button) showed [Th Jd] and won ($29.53) with a pair of Tens
+Seat 5: janarr5 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445450553:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:21:05 WET [2025/01/19 6:21:05 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 1: Grassytugger1 ($86.20 in chips) is sitting out
+Seat 6: muscatts ($119.97 in chips) is sitting out
+Seat 2: fedor0f ($100 in chips) 
+Seat 3: Bad_Heli ($27.22 in chips) 
+Seat 4: Pacifistas ($114.24 in chips) 
+Seat 5: janarr5 ($117.68 in chips) 
+fedor0f: posts small blind $0.50
+Bad_Heli: posts big blind $1
+*** HOLE CARDS ***
+Pacifistas: raises $1.50 to $2.50
+Grassytugger1 leaves the table
+janarr5: raises $5 to $7.50
+fedor0f: folds 
+Bad_Heli: folds 
+muscatts leaves the table
+Pacifistas: folds 
+Uncalled bet ($5) returned to janarr5
+janarr5 collected $6.50 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: Grassytugger1
+Seat 6: muscatts
+Seat 2: fedor0f (small blind) folded before Flop
+Seat 3: Bad_Heli (big blind) folded before Flop
+Seat 4: Pacifistas folded before Flop
+Seat 5: janarr5 (button) collected ($6.50)
+
+
+
+PokerStars Hand #254445453512:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:21:27 WET [2025/01/19 6:21:27 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 2: fedor0f ($100 in chips) 
+Seat 3: Bad_Heli ($26.22 in chips) 
+Seat 4: Pacifistas ($111.74 in chips) 
+Seat 5: janarr5 ($121.68 in chips) 
+Bad_Heli: posts small blind $0.50
+Pacifistas: posts big blind $1
+*** HOLE CARDS ***
+janarr5: raises $1.25 to $2.25
+fedor0f: folds 
+Bad_Heli: folds 
+Pacifistas: folds 
+Uncalled bet ($1.25) returned to janarr5
+janarr5 collected $2.50 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: fedor0f (button) folded before Flop (didn't bet)
+Seat 3: Bad_Heli (small blind) folded before Flop
+Seat 4: Pacifistas (big blind) folded before Flop
+Seat 5: janarr5 collected ($2.50)
+
+
+
+PokerStars Hand #254445456302:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:21:48 WET [2025/01/19 6:21:48 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 2: fedor0f ($100 in chips) 
+Seat 3: Bad_Heli ($25.72 in chips) 
+Seat 4: Pacifistas ($110.74 in chips) 
+Seat 5: janarr5 ($123.18 in chips) 
+Pacifistas: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+fedor0f: folds 
+Bad_Heli: raises $2 to $3
+Pacifistas: folds 
+janarr5: calls $2
+*** FLOP *** [2s Kh 9c]
+janarr5: checks 
+Bad_Heli: bets $3.09
+janarr5: calls $3.09
+*** TURN *** [2s Kh 9c] [3h]
+janarr5: checks 
+Bad_Heli: bets $4
+janarr5: raises $22.06 to $26.06
+Bad_Heli: folds 
+Uncalled bet ($22.06) returned to janarr5
+janarr5 collected $19.68 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.68 | Rake $1 
+Board [2s Kh 9c 3h]
+Seat 2: fedor0f folded before Flop (didn't bet)
+Seat 3: Bad_Heli (button) folded on the Turn
+Seat 4: Pacifistas (small blind) folded before Flop
+Seat 5: janarr5 (big blind) collected ($19.68)
+
+
+
+PokerStars Hand #254445463529:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 11:22:41 WET [2025/01/19 6:22:41 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 2: fedor0f ($100 in chips) 
+Seat 3: Bad_Heli ($15.63 in chips) 
+Seat 4: Pacifistas ($110.24 in chips) 
+fedor0f: posts small blind $0.50
+Bad_Heli: posts big blind $1
+*** HOLE CARDS ***
+Pacifistas: folds 
+fedor0f: calls $0.50
+Bad_Heli: raises $2 to $3
+fedor0f: folds 
+Uncalled bet ($2) returned to Bad_Heli
+Bad_Heli collected $2 from pot
+Bad_Heli: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: fedor0f (small blind) folded before Flop
+Seat 3: Bad_Heli (big blind) collected ($2)
+Seat 4: Pacifistas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445914437:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:16:15 WET [2025/01/19 7:16:15 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 3: hedi66 ($100 in chips) is sitting out
+Seat 1: Frnkyfckn4fngrs ($80 in chips) 
+Seat 4: v.sting ($100 in chips) 
+Seat 5: LuckyShikari ($158.98 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Rysiff: posts small blind $0.50
+Frnkyfckn4fngrs: posts big blind $1
+*** HOLE CARDS ***
+v.sting: raises $1.50 to $2.50
+LuckyShikari: folds 
+Rysiff: folds 
+Frnkyfckn4fngrs: calls $1.50
+*** FLOP *** [7c 5c Jd]
+Evelexy1 joins the table at seat #2 
+Frnkyfckn4fngrs: bets $2.61
+v.sting: folds 
+Uncalled bet ($2.61) returned to Frnkyfckn4fngrs
+Frnkyfckn4fngrs collected $5.22 from pot
+Frnkyfckn4fngrs: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [7c 5c Jd]
+Seat 3: hedi66
+Seat 1: Frnkyfckn4fngrs (big blind) collected ($5.22)
+Seat 4: v.sting folded on the Flop
+Seat 5: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445919357:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:16:48 WET [2025/01/19 7:16:48 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 3: hedi66 ($100 in chips) is sitting out
+Seat 1: Frnkyfckn4fngrs ($82.72 in chips) 
+Seat 2: Evelexy1 ($100 in chips) 
+Seat 4: v.sting ($100 in chips) 
+Seat 5: LuckyShikari ($158.98 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Frnkyfckn4fngrs: posts small blind $0.50
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+v.sting: raises $1.50 to $2.50
+LuckyShikari: folds 
+Rysiff: folds 
+Frnkyfckn4fngrs: calls $2
+Evelexy1: folds 
+*** FLOP *** [Tc Td As]
+Frnkyfckn4fngrs: checks 
+v.sting: bets $1.43
+Frnkyfckn4fngrs: folds 
+Uncalled bet ($1.43) returned to v.sting
+v.sting collected $5.70 from pot
+v.sting: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Tc Td As]
+Seat 3: hedi66
+Seat 1: Frnkyfckn4fngrs (small blind) folded on the Flop
+Seat 2: Evelexy1 (big blind) folded before Flop
+Seat 4: v.sting collected ($5.70)
+Seat 5: LuckyShikari folded before Flop (didn't bet)
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445923108:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:17:13 WET [2025/01/19 7:17:13 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 3: hedi66 ($100 in chips) is sitting out
+Seat 1: Frnkyfckn4fngrs ($80.22 in chips) 
+Seat 2: Evelexy1 ($100 in chips) 
+Seat 4: v.sting ($103.20 in chips) 
+Seat 5: LuckyShikari ($158.98 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Evelexy1: posts small blind $0.50
+v.sting: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Rysiff: folds 
+Frnkyfckn4fngrs: raises $2.50 to $3.50
+Evelexy1: folds 
+v.sting: calls $2.50
+*** FLOP *** [Tc 4c 2c]
+v.sting: checks 
+Frnkyfckn4fngrs: bets $7.12
+v.sting: folds 
+Uncalled bet ($7.12) returned to Frnkyfckn4fngrs
+Frnkyfckn4fngrs collected $7.12 from pot
+Frnkyfckn4fngrs: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [Tc 4c 2c]
+Seat 3: hedi66
+Seat 1: Frnkyfckn4fngrs (button) collected ($7.12)
+Seat 2: Evelexy1 (small blind) folded before Flop
+Seat 4: v.sting (big blind) folded on the Flop
+Seat 5: LuckyShikari folded before Flop (didn't bet)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445929591:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:17:57 WET [2025/01/19 7:17:57 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 3: hedi66 ($100 in chips) is sitting out
+Seat 1: Frnkyfckn4fngrs ($83.84 in chips) 
+Seat 2: Evelexy1 ($100 in chips) 
+Seat 4: v.sting ($100 in chips) 
+Seat 5: LuckyShikari ($158.98 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+v.sting: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+Frnkyfckn4fngrs: raises $2.50 to $3.50
+Evelexy1: folds 
+v.sting: raises $10.50 to $14
+LuckyShikari: folds 
+Frnkyfckn4fngrs: calls $10.50
+*** FLOP *** [Jc Ac 9d]
+v.sting: bets $22.16
+Frnkyfckn4fngrs: folds 
+Uncalled bet ($22.16) returned to v.sting
+v.sting collected $27.55 from pot
+v.sting: doesn't show hand 
+*** SUMMARY ***
+Total pot $29 | Rake $1.45 
+Board [Jc Ac 9d]
+Seat 3: hedi66
+Seat 1: Frnkyfckn4fngrs folded on the Flop
+Seat 2: Evelexy1 (button) folded before Flop (didn't bet)
+Seat 4: v.sting (small blind) collected ($27.55)
+Seat 5: LuckyShikari (big blind) folded before Flop
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445936299:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:18:43 WET [2025/01/19 7:18:43 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 3: hedi66 ($100 in chips) is sitting out
+Seat 1: Frnkyfckn4fngrs ($69.84 in chips) 
+Seat 2: Evelexy1 ($100 in chips) 
+Seat 4: v.sting ($113.55 in chips) 
+Seat 5: LuckyShikari ($157.98 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+Rysiff: posts big blind $1
+hedi66: sits out 
+*** HOLE CARDS ***
+Frnkyfckn4fngrs: folds 
+Evelexy1: raises $1.50 to $2.50
+v.sting: folds 
+LuckyShikari: folds 
+Rysiff: folds 
+Uncalled bet ($1.50) returned to Evelexy1
+Evelexy1 collected $2.50 from pot
+Evelexy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: hedi66
+Seat 1: Frnkyfckn4fngrs folded before Flop (didn't bet)
+Seat 2: Evelexy1 collected ($2.50)
+Seat 4: v.sting (button) folded before Flop (didn't bet)
+Seat 5: LuckyShikari (small blind) folded before Flop
+Seat 6: Rysiff (big blind) folded before Flop
+
+
+
+PokerStars Hand #254445937995:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:18:55 WET [2025/01/19 7:18:55 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 3: hedi66 ($100 in chips) is sitting out
+Seat 1: Frnkyfckn4fngrs ($69.84 in chips) 
+Seat 2: Evelexy1 ($101.50 in chips) 
+Seat 4: v.sting ($113.55 in chips) 
+Seat 5: LuckyShikari ($157.48 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Rysiff: posts small blind $0.50
+Frnkyfckn4fngrs: posts big blind $1
+hedi66: sits out 
+*** HOLE CARDS ***
+Evelexy1: folds 
+v.sting: raises $1.50 to $2.50
+LuckyShikari: folds 
+Rysiff: folds 
+Frnkyfckn4fngrs: calls $1.50
+*** FLOP *** [Kd 9d 8c]
+Frnkyfckn4fngrs: checks 
+v.sting: bets $1.72
+Frnkyfckn4fngrs: raises $4.33 to $6.05
+v.sting: calls $4.33
+*** TURN *** [Kd 9d 8c] [8s]
+Frnkyfckn4fngrs: bets $8.36
+v.sting: raises $14.14 to $22.50
+Frnkyfckn4fngrs: calls $14.14
+*** RIVER *** [Kd 9d 8c 8s] [9h]
+Frnkyfckn4fngrs: checks 
+v.sting: bets $43.33
+Frnkyfckn4fngrs: calls $38.79 and is all-in
+Uncalled bet ($4.54) returned to v.sting
+*** SHOW DOWN ***
+v.sting: shows [8d 7d] (a full house, Eights full of Nines)
+Frnkyfckn4fngrs: shows [5s Kc] (two pair, Kings and Nines)
+v.sting collected $137.68 from pot
+*** SUMMARY ***
+Total pot $140.18 | Rake $2.50 
+Board [Kd 9d 8c 8s 9h]
+Seat 3: hedi66
+Seat 1: Frnkyfckn4fngrs (big blind) showed [5s Kc] and lost with two pair, Kings and Nines
+Seat 2: Evelexy1 folded before Flop (didn't bet)
+Seat 4: v.sting showed [8d 7d] and won ($137.68) with a full house, Eights full of Nines
+Seat 5: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445948370:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:20:04 WET [2025/01/19 7:20:04 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 1: Frnkyfckn4fngrs ($0 in chips) is sitting out
+Seat 2: Evelexy1 ($101.50 in chips) 
+Seat 3: hedi66 ($100 in chips) 
+Seat 4: v.sting ($181.39 in chips) 
+Seat 5: LuckyShikari ($157.48 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Evelexy1: posts small blind $0.50
+hedi66: posts big blind $1
+*** HOLE CARDS ***
+v.sting: folds 
+LuckyShikari: folds 
+Frnkyfckn4fngrs leaves the table
+Rysiff: raises $1.50 to $2.50
+Evelexy1: folds 
+hedi66: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Frnkyfckn4fngrs
+Seat 2: Evelexy1 (small blind) folded before Flop
+Seat 3: hedi66 (big blind) folded before Flop
+Seat 4: v.sting folded before Flop (didn't bet)
+Seat 5: LuckyShikari folded before Flop (didn't bet)
+Seat 6: Rysiff (button) collected ($2.50)
+
+
+
+PokerStars Hand #254445950969:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:20:21 WET [2025/01/19 7:20:21 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 4: v.sting ($181.39 in chips) is sitting out
+Seat 2: Evelexy1 ($101 in chips) 
+Seat 3: hedi66 ($99 in chips) 
+Seat 5: LuckyShikari ($157.48 in chips) 
+Seat 6: Rysiff ($101.50 in chips) 
+hedi66: posts small blind $0.50
+v.sting: is sitting out 
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+v.sting leaves the table
+Rysiff: raises $1.50 to $2.50
+Evelexy1: folds 
+hedi66: folds 
+LuckyShikari: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: v.sting
+Seat 2: Evelexy1 (button) folded before Flop (didn't bet)
+Seat 3: hedi66 (small blind) folded before Flop
+Seat 5: LuckyShikari (big blind) folded before Flop
+Seat 6: Rysiff collected ($2.50)
+
+
+
+PokerStars Hand #254445952909:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:20:34 WET [2025/01/19 7:20:34 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 2: Evelexy1 ($101 in chips) 
+Seat 3: hedi66 ($98.50 in chips) 
+Seat 5: LuckyShikari ($156.48 in chips) 
+Seat 6: Rysiff ($103 in chips) 
+LuckyShikari: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Evelexy1: folds 
+Evelexy1 leaves the table
+hedi66: raises $1.50 to $2.50
+LuckyShikari: folds 
+espoker111 joins the table at seat #1 
+Evelexy1 joins the table at seat #4 
+Rysiff: raises $9.50 to $12
+Emily_GetMan joins the table at seat #2 
+hedi66: folds 
+Uncalled bet ($9.50) returned to Rysiff
+Rysiff collected $5.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 2: Evelexy1 folded before Flop (didn't bet)
+Seat 3: hedi66 (button) folded before Flop
+Seat 5: LuckyShikari (small blind) folded before Flop
+Seat 6: Rysiff (big blind) collected ($5.50)
+
+
+
+PokerStars Hand #254445956719:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:20:59 WET [2025/01/19 7:20:59 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 2: Emily_GetMan ($100 in chips) is sitting out
+Seat 4: Evelexy1 ($101 in chips) is sitting out
+Seat 1: espoker111 ($50.81 in chips) 
+Seat 3: hedi66 ($96 in chips) 
+Seat 5: LuckyShikari ($155.98 in chips) 
+Seat 6: Rysiff ($106 in chips) 
+Rysiff: posts small blind $0.50
+espoker111: posts big blind $1
+Emily_GetMan: sits out 
+Evelexy1: sits out 
+*** HOLE CARDS ***
+hedi66: folds 
+LuckyShikari: raises $1.25 to $2.25
+Rysiff: raises $8.75 to $11
+espoker111: folds 
+LuckyShikari: folds 
+Uncalled bet ($8.75) returned to Rysiff
+Rysiff collected $5.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 2: Emily_GetMan
+Seat 4: Evelexy1
+Seat 1: espoker111 (big blind) folded before Flop
+Seat 3: hedi66 folded before Flop (didn't bet)
+Seat 5: LuckyShikari (button) folded before Flop
+Seat 6: Rysiff (small blind) collected ($5.50)
+
+
+
+PokerStars Hand #254445960096:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:21:22 WET [2025/01/19 7:21:22 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 4: Evelexy1 ($101 in chips) is sitting out
+Seat 1: espoker111 ($49.81 in chips) 
+Seat 2: Emily_GetMan ($100 in chips) 
+Seat 3: hedi66 ($96 in chips) 
+Seat 5: LuckyShikari ($153.73 in chips) 
+Seat 6: Rysiff ($109.25 in chips) 
+espoker111: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+Evelexy1: sits out 
+*** HOLE CARDS ***
+hedi66: folds 
+LuckyShikari: raises $1.25 to $2.25
+Rysiff: raises $4.75 to $7
+espoker111: folds 
+Emily_GetMan: folds 
+LuckyShikari: calls $4.75
+*** FLOP *** [Qc Qd Jh]
+LuckyShikari: bets $4
+Rysiff: calls $4
+*** TURN *** [Qc Qd Jh] [3s]
+LuckyShikari: bets $22.50
+Rysiff: folds 
+Uncalled bet ($22.50) returned to LuckyShikari
+LuckyShikari collected $22.32 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.50 | Rake $1.18 
+Board [Qc Qd Jh 3s]
+Seat 4: Evelexy1
+Seat 1: espoker111 (small blind) folded before Flop
+Seat 2: Emily_GetMan (big blind) folded before Flop
+Seat 3: hedi66 folded before Flop (didn't bet)
+Seat 5: LuckyShikari collected ($22.32)
+Seat 6: Rysiff (button) folded on the Turn
+
+
+
+PokerStars Hand #254445966075:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:22:03 WET [2025/01/19 7:22:03 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 4: Evelexy1 ($101 in chips) is sitting out
+Seat 1: espoker111 ($49.31 in chips) 
+Seat 2: Emily_GetMan ($100 in chips) 
+Seat 3: hedi66 ($96 in chips) 
+Seat 5: LuckyShikari ($165.05 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+hedi66: posts big blind $1
+Evelexy1: sits out 
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Rysiff: folds 
+espoker111: calls $1
+Emily_GetMan: calls $0.50
+hedi66: checks 
+*** FLOP *** [4c Tc 5c]
+Emily_GetMan: bets $1
+hedi66: calls $1
+espoker111: calls $1
+*** TURN *** [4c Tc 5c] [3s]
+Emily_GetMan: checks 
+hedi66: checks 
+espoker111: checks 
+*** RIVER *** [4c Tc 5c 3s] [Js]
+Emily_GetMan: checks 
+hedi66: checks 
+espoker111: checks 
+*** SHOW DOWN ***
+Emily_GetMan: shows [8s 5s] (a pair of Fives)
+hedi66: mucks hand 
+espoker111: mucks hand 
+Emily_GetMan collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4c Tc 5c 3s Js]
+Seat 4: Evelexy1
+Seat 1: espoker111 (button) mucked
+Seat 2: Emily_GetMan (small blind) showed [8s 5s] and won ($5.70) with a pair of Fives
+Seat 3: hedi66 (big blind) mucked
+Seat 5: LuckyShikari folded before Flop (didn't bet)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445970512:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:22:32 WET [2025/01/19 7:22:32 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 1: espoker111 ($47.31 in chips) 
+Seat 2: Emily_GetMan ($103.70 in chips) 
+Seat 3: hedi66 ($94 in chips) 
+Seat 4: Evelexy1 ($101 in chips) 
+Seat 5: LuckyShikari ($165.05 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+hedi66: posts small blind $0.50
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Rysiff: folds 
+espoker111: folds 
+Emily_GetMan: raises $1.50 to $2.50
+hedi66: folds 
+Evelexy1: folds 
+Uncalled bet ($1.50) returned to Emily_GetMan
+Emily_GetMan collected $2.50 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: espoker111 folded before Flop (didn't bet)
+Seat 2: Emily_GetMan (button) collected ($2.50)
+Seat 3: hedi66 (small blind) folded before Flop
+Seat 4: Evelexy1 (big blind) folded before Flop
+Seat 5: LuckyShikari folded before Flop (didn't bet)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445973973:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:22:56 WET [2025/01/19 7:22:56 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 1: espoker111 ($47.31 in chips) 
+Seat 2: Emily_GetMan ($105.20 in chips) 
+Seat 3: hedi66 ($93.50 in chips) 
+Seat 4: Evelexy1 ($100 in chips) 
+Seat 5: LuckyShikari ($165.05 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Evelexy1: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+espoker111: folds 
+Emily_GetMan: folds 
+hedi66: raises $1.50 to $2.50
+Evelexy1: folds 
+LuckyShikari: folds 
+Uncalled bet ($1.50) returned to hedi66
+hedi66 collected $2.50 from pot
+hedi66: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: espoker111 folded before Flop (didn't bet)
+Seat 2: Emily_GetMan folded before Flop (didn't bet)
+Seat 3: hedi66 (button) collected ($2.50)
+Seat 4: Evelexy1 (small blind) folded before Flop
+Seat 5: LuckyShikari (big blind) folded before Flop
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254445977936:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:23:22 WET [2025/01/19 7:23:22 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 1: espoker111 ($47.31 in chips) 
+Seat 2: Emily_GetMan ($105.20 in chips) 
+Seat 3: hedi66 ($95 in chips) 
+Seat 4: Evelexy1 ($100 in chips) 
+Seat 5: LuckyShikari ($164.05 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+espoker111: calls $1
+Emily_GetMan: raises $1 to $2
+hedi66: folds 
+Evelexy1: folds 
+LuckyShikari: folds 
+Rysiff: folds 
+espoker111: calls $1
+*** FLOP *** [8d 7s 8h]
+espoker111: checks 
+Emily_GetMan: bets $1.72
+espoker111: folds 
+Uncalled bet ($1.72) returned to Emily_GetMan
+Emily_GetMan collected $5.22 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [8d 7s 8h]
+Seat 1: espoker111 folded on the Flop
+Seat 2: Emily_GetMan collected ($5.22)
+Seat 3: hedi66 folded before Flop (didn't bet)
+Seat 4: Evelexy1 (button) folded before Flop (didn't bet)
+Seat 5: LuckyShikari (small blind) folded before Flop
+Seat 6: Rysiff (big blind) folded before Flop
+
+
+
+PokerStars Hand #254445982163:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:23:49 WET [2025/01/19 7:23:49 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 1: espoker111 ($45.31 in chips) 
+Seat 2: Emily_GetMan ($108.42 in chips) 
+Seat 3: hedi66 ($95 in chips) 
+Seat 4: Evelexy1 ($100 in chips) 
+Seat 5: LuckyShikari ($163.55 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Rysiff: posts small blind $0.50
+espoker111: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: raises $1 to $2
+hedi66: calls $2
+Evelexy1: calls $2
+LuckyShikari: calls $2
+Rysiff: folds 
+espoker111: calls $1
+*** FLOP *** [5h 9c 8c]
+espoker111: bets $1
+Emily_GetMan: calls $1
+hedi66: calls $1
+Evelexy1: folds 
+LuckyShikari: calls $1
+*** TURN *** [5h 9c 8c] [Ad]
+espoker111: bets $4
+Emily_GetMan: raises $13 to $17
+hedi66: folds 
+LuckyShikari: calls $17
+espoker111: calls $13
+*** RIVER *** [5h 9c 8c Ad] [6h]
+espoker111: bets $25.31 and is all-in
+Emily_GetMan: calls $25.31
+LuckyShikari: folds 
+*** SHOW DOWN ***
+espoker111: shows [Qc 4c] (high card Ace)
+Emily_GetMan: shows [8s 8d] (three of a kind, Eights)
+Emily_GetMan collected $113.62 from pot
+*** SUMMARY ***
+Total pot $116.12 | Rake $2.50 
+Board [5h 9c 8c Ad 6h]
+Seat 1: espoker111 (big blind) showed [Qc 4c] and lost with high card Ace
+Seat 2: Emily_GetMan showed [8s 8d] and won ($113.62) with three of a kind, Eights
+Seat 3: hedi66 folded on the Turn
+Seat 4: Evelexy1 folded on the Flop
+Seat 5: LuckyShikari (button) folded on the River
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254445993810:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:25:04 WET [2025/01/19 7:25:04 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 1: espoker111 ($0 in chips) is sitting out
+Seat 4: Evelexy1 ($100 in chips) is sitting out
+Seat 2: Emily_GetMan ($176.73 in chips) 
+Seat 3: hedi66 ($92 in chips) 
+Seat 5: LuckyShikari ($143.55 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+hedi66: posts big blind $1
+*** HOLE CARDS ***
+Evelexy1 leaves the table
+LuckyShikari: folds 
+Rysiff: folds 
+EdgarYY joins the table at seat #4 
+espoker111 leaves the table
+Emily_GetMan: raises $2 to $3
+hedi66: calls $2
+*** FLOP *** [9c 4s 5c]
+Emily_GetMan: bets $1.88
+hedi66: calls $1.88
+*** TURN *** [9c 4s 5c] [6s]
+Emily_GetMan: bets $12.05
+hedi66: raises $18.05 to $30.10
+Emily_GetMan: calls $18.05
+*** RIVER *** [9c 4s 5c 6s] [Qs]
+Emily_GetMan: bets $141.75 and is all-in
+hedi66: calls $57.02 and is all-in
+Uncalled bet ($84.73) returned to Emily_GetMan
+*** SHOW DOWN ***
+Emily_GetMan: shows [As 8s] (a flush, Ace high)
+hedi66: shows [8c 7c] (a straight, Five to Nine)
+Emily_GetMan collected $183 from pot
+R.M.Farcas joins the table at seat #1 
+*** SUMMARY ***
+Total pot $184 | Rake $1 
+Board [9c 4s 5c 6s Qs]
+Seat 1: espoker111
+Seat 4: Evelexy1
+Seat 2: Emily_GetMan (small blind) showed [As 8s] and won ($183) with a flush, Ace high
+Seat 3: hedi66 (big blind) showed [8c 7c] and lost with a straight, Five to Nine
+Seat 5: LuckyShikari folded before Flop (didn't bet)
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254446004018:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:26:10 WET [2025/01/19 7:26:10 ET]
+Table 'Whipple III' 6-max Seat #2 is the button
+Seat 1: R.M.Farcas ($100 in chips) is sitting out
+Seat 3: hedi66 ($0 in chips) is sitting out
+Seat 4: EdgarYY ($100 in chips) is sitting out
+Seat 2: Emily_GetMan ($267.73 in chips) 
+Seat 5: LuckyShikari ($143.55 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+Rysiff: posts big blind $1
+R.M.Farcas: sits out 
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+LuckyShikari: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: R.M.Farcas
+Seat 3: hedi66
+Seat 4: EdgarYY
+Seat 2: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 5: LuckyShikari (small blind) folded before Flop
+Seat 6: Rysiff (big blind) collected ($1)
+
+
+
+PokerStars Hand #254446006922:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:26:28 WET [2025/01/19 7:26:28 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 4: EdgarYY ($100 in chips) is sitting out
+Seat 1: R.M.Farcas ($100 in chips) 
+Seat 2: Emily_GetMan ($267.73 in chips) 
+Seat 3: hedi66 ($96 in chips) 
+Seat 5: LuckyShikari ($143.05 in chips) 
+Seat 6: Rysiff ($100.50 in chips) 
+Rysiff: posts small blind $0.50
+R.M.Farcas: posts big blind $1
+hedi66: posts small blind $0.50
+EdgarYY: sits out 
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+hedi66: raises $1.50 to $2.50
+LuckyShikari: folds 
+Emily_GetMan leaves the table
+Rysiff: folds 
+R.M.Farcas: folds 
+Uncalled bet ($1.50) returned to hedi66
+hedi66 collected $3 from pot
+hedi66: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 4: EdgarYY
+Seat 1: R.M.Farcas (big blind) folded before Flop
+Seat 2: Emily_GetMan folded before Flop (didn't bet)
+Seat 3: hedi66 collected ($3)
+Seat 5: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254446010306:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:26:50 WET [2025/01/19 7:26:50 ET]
+Table 'Whipple III' 6-max Seat #6 is the button
+Seat 4: EdgarYY ($100 in chips) is sitting out
+Seat 1: R.M.Farcas ($99 in chips) 
+Seat 3: hedi66 ($97.50 in chips) 
+Seat 5: LuckyShikari ($143.05 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+R.M.Farcas: posts small blind $0.50
+hedi66: posts big blind $1
+EdgarYY: sits out 
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Rysiff: folds 
+R.M.Farcas: folds 
+Uncalled bet ($0.50) returned to hedi66
+hedi66 collected $1 from pot
+hedi66: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: EdgarYY
+Seat 1: R.M.Farcas (small blind) folded before Flop
+Seat 3: hedi66 (big blind) collected ($1)
+Seat 5: LuckyShikari folded before Flop (didn't bet)
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254446011573:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:26:58 WET [2025/01/19 7:26:58 ET]
+Table 'Whipple III' 6-max Seat #1 is the button
+Seat 1: R.M.Farcas ($98.50 in chips) 
+Seat 3: hedi66 ($98 in chips) 
+Seat 4: EdgarYY ($100 in chips) 
+Seat 5: LuckyShikari ($143.05 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+hedi66: posts small blind $0.50
+EdgarYY: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Rysiff: folds 
+R.M.Farcas: raises $1.50 to $2.50
+hedi66: folds 
+EdgarYY: folds 
+Uncalled bet ($1.50) returned to R.M.Farcas
+R.M.Farcas collected $2.50 from pot
+R.M.Farcas: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: R.M.Farcas (button) collected ($2.50)
+Seat 3: hedi66 (small blind) folded before Flop
+Seat 4: EdgarYY (big blind) folded before Flop
+Seat 5: LuckyShikari folded before Flop (didn't bet)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254446013539:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:27:10 WET [2025/01/19 7:27:10 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 1: R.M.Farcas ($100 in chips) 
+Seat 3: hedi66 ($97.50 in chips) 
+Seat 4: EdgarYY ($100 in chips) 
+Seat 5: LuckyShikari ($143.05 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+EdgarYY: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+R.M.Farcas: folds 
+hedi66: folds 
+EdgarYY: raises $2 to $3
+Rysiff leaves the table
+LuckyShikari: raises $8 to $11
+EdgarYY: folds 
+Uncalled bet ($8) returned to LuckyShikari
+LuckyShikari collected $6 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: R.M.Farcas folded before Flop (didn't bet)
+Seat 3: hedi66 (button) folded before Flop (didn't bet)
+Seat 4: EdgarYY (small blind) folded before Flop
+Seat 5: LuckyShikari (big blind) collected ($6)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254446016377:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:27:28 WET [2025/01/19 7:27:28 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 1: R.M.Farcas ($100 in chips) is sitting out
+Seat 3: hedi66 ($97.50 in chips) 
+Seat 4: EdgarYY ($100 in chips) 
+Seat 5: LuckyShikari ($146.05 in chips) 
+LuckyShikari: posts small blind $0.50
+hedi66: posts big blind $1
+*** HOLE CARDS ***
+EdgarYY: raises $1.50 to $2.50
+LuckyShikari: folds 
+hedi66: folds 
+Uncalled bet ($1.50) returned to EdgarYY
+EdgarYY collected $2.50 from pot
+EdgarYY: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: R.M.Farcas
+Seat 3: hedi66 (big blind) folded before Flop
+Seat 4: EdgarYY (button) collected ($2.50)
+Seat 5: LuckyShikari (small blind) folded before Flop
+
+
+
+PokerStars Hand #254446018285:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:27:40 WET [2025/01/19 7:27:40 ET]
+Table 'Whipple III' 6-max Seat #5 is the button
+Seat 1: R.M.Farcas ($100 in chips) is sitting out
+Seat 3: hedi66 ($96.50 in chips) 
+Seat 4: EdgarYY ($101.50 in chips) 
+Seat 5: LuckyShikari ($145.55 in chips) 
+hedi66: posts small blind $0.50
+EdgarYY: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: raises $1.25 to $2.25
+hedi66: folds 
+EdgarYY: folds 
+Uncalled bet ($1.25) returned to LuckyShikari
+LuckyShikari collected $2.50 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: R.M.Farcas
+Seat 3: hedi66 (small blind) folded before Flop
+Seat 4: EdgarYY (big blind) folded before Flop
+Seat 5: LuckyShikari (button) collected ($2.50)
+
+
+
+PokerStars Hand #254446020177:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:27:53 WET [2025/01/19 7:27:53 ET]
+Table 'Whipple III' 6-max Seat #4 is the button
+Seat 1: R.M.Farcas ($100 in chips) is sitting out
+Seat 5: LuckyShikari ($147.05 in chips) is sitting out
+Seat 3: hedi66 ($96 in chips) 
+Seat 4: EdgarYY ($100.50 in chips) 
+EdgarYY: posts small blind $0.50
+LuckyShikari: is sitting out 
+hedi66: posts big blind $1
+*** HOLE CARDS ***
+EdgarYY: folds 
+Uncalled bet ($0.50) returned to hedi66
+LuckyShikari leaves the table
+hedi66 collected $1 from pot
+hedi66: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: R.M.Farcas
+Seat 5: LuckyShikari
+Seat 3: hedi66 (big blind) collected ($1)
+Seat 4: EdgarYY (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254446021060:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 12:27:58 WET [2025/01/19 7:27:58 ET]
+Table 'Whipple III' 6-max Seat #3 is the button
+Seat 1: R.M.Farcas ($100 in chips) is sitting out
+Seat 3: hedi66 ($96.50 in chips) 
+Seat 4: EdgarYY ($100 in chips) 
+hedi66: posts small blind $0.50
+EdgarYY: posts big blind $1
+*** HOLE CARDS ***
+hedi66: folds 
+Uncalled bet ($0.50) returned to EdgarYY
+EdgarYY collected $1 from pot
+EdgarYY: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: R.M.Farcas
+Seat 3: hedi66 (button) (small blind) folded before Flop
+Seat 4: EdgarYY (big blind) collected ($1)
+
+
+

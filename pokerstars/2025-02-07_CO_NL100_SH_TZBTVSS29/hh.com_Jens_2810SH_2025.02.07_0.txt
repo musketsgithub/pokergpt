@@ -1,0 +1,4880 @@
+﻿PokerStars Hand #254751959153:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:29:48 WET [2025/02/07 12:29:48 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 1: vitalik_sw ($80 in chips) 
+Seat 2: Kobalt Catcher ($68.58 in chips) 
+Seat 3: Eredar5 ($100 in chips) 
+Seat 4: raiseinthedarkk ($100 in chips) 
+Kobalt Catcher: posts small blind $0.50
+Eredar5: posts big blind $1
+*** HOLE CARDS ***
+raiseinthedarkk: folds 
+vitalik_sw: folds 
+Kobalt Catcher: raises $1 to $2
+Eredar5: calls $1
+*** FLOP *** [5s Qh Td]
+EAroca joins the table at seat #5 
+CaHek-Ty3 joins the table at seat #6 
+Kobalt Catcher: checks 
+CaHek-Ty3 leaves the table
+Eredar5: bets $1.29
+Kobalt Catcher: calls $1.29
+*** TURN *** [5s Qh Td] [Kh]
+Kobalt Catcher: checks 
+Eredar5: checks 
+*** RIVER *** [5s Qh Td Kh] [6c]
+Kobalt Catcher: bets $6.25
+Eredar5: folds 
+Uncalled bet ($6.25) returned to Kobalt Catcher
+Kobalt Catcher collected $6.25 from pot
+Kobalt Catcher: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.58 | Rake $0.33 
+Board [5s Qh Td Kh 6c]
+Seat 1: vitalik_sw (button) folded before Flop (didn't bet)
+Seat 2: Kobalt Catcher (small blind) collected ($6.25)
+Seat 3: Eredar5 (big blind) folded on the River
+Seat 4: raiseinthedarkk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254751985520:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:31:29 WET [2025/02/07 12:31:29 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 4: raiseinthedarkk ($100 in chips) is sitting out
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 2: Kobalt Catcher ($71.54 in chips) 
+Seat 3: Eredar5 ($100 in chips) 
+Seat 5: EAroca ($100 in chips) 
+Eredar5: posts small blind $0.50
+raiseinthedarkk: is sitting out 
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+vitalik_sw: folds 
+Kobalt Catcher: folds 
+Eredar5: raises $2 to $3
+EAroca: raises $6 to $9
+Eredar5: calls $6
+*** FLOP *** [8c 4h 2h]
+Eredar5: checks 
+raiseinthedarkk leaves the table
+EAroca: bets $8.55
+Eredar5: calls $8.55
+*** TURN *** [8c 4h 2h] [Qh]
+Eredar5: checks 
+EAroca: checks 
+*** RIVER *** [8c 4h 2h Qh] [9s]
+Eredar5: bets $22.85
+CraigConroy joins the table at seat #4 
+CraigConroy is disconnected 
+pandabolis12 joins the table at seat #6 
+EAroca: raises $59.60 to $82.45 and is all-in
+Eredar5: calls $59.60 and is all-in
+*** SHOW DOWN ***
+EAroca: shows [9d 9c] (three of a kind, Nines)
+Eredar5: shows [8h 8d] (three of a kind, Eights)
+EAroca collected $199 from pot
+*** SUMMARY ***
+Total pot $200 | Rake $1 
+Board [8c 4h 2h Qh 9s]
+Seat 4: raiseinthedarkk
+Seat 1: vitalik_sw folded before Flop (didn't bet)
+Seat 2: Kobalt Catcher (button) folded before Flop (didn't bet)
+Seat 3: Eredar5 (small blind) showed [8h 8d] and lost with three of a kind, Eights
+Seat 5: EAroca (big blind) showed [9d 9c] and won ($199) with three of a kind, Nines
+
+
+
+PokerStars Hand #254752022483:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:33:51 WET [2025/02/07 12:33:51 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 4: CraigConroy ($52.22 in chips) is sitting out
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 2: Kobalt Catcher ($71.54 in chips) 
+Seat 3: Eredar5 ($100 in chips) 
+Seat 5: EAroca ($199 in chips) 
+Seat 6: pandabolis12 ($100 in chips) 
+EAroca: posts small blind $0.50
+pandabolis12: posts big blind $1
+*** HOLE CARDS ***
+vitalik_sw: folds 
+Kobalt Catcher: folds 
+Eredar5: folds 
+EAroca: raises $2 to $3
+pandabolis12: calls $2
+*** FLOP *** [8c 9h 2c]
+EAroca: checks 
+pandabolis12: bets $2.85
+EAroca: calls $2.85
+*** TURN *** [8c 9h 2c] [Jc]
+EAroca: checks 
+pandabolis12: bets $5.55
+EAroca: calls $5.55
+*** RIVER *** [8c 9h 2c Jc] [2h]
+EAroca: checks 
+pandabolis12: bets $27.13
+EAroca: folds 
+Uncalled bet ($27.13) returned to pandabolis12
+pandabolis12 collected $21.66 from pot
+pandabolis12: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.80 | Rake $1.14 
+Board [8c 9h 2c Jc 2h]
+Seat 4: CraigConroy
+Seat 1: vitalik_sw folded before Flop (didn't bet)
+Seat 2: Kobalt Catcher folded before Flop (didn't bet)
+Seat 3: Eredar5 (button) folded before Flop (didn't bet)
+Seat 5: EAroca (small blind) folded on the River
+Seat 6: pandabolis12 (big blind) collected ($21.66)
+
+
+
+PokerStars Hand #254752057618:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:36:06 WET [2025/02/07 12:36:06 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 2: Kobalt Catcher ($71.54 in chips) 
+Seat 3: Eredar5 ($100 in chips) 
+Seat 4: CraigConroy ($52.22 in chips) 
+Seat 5: EAroca ($187.60 in chips) 
+Seat 6: pandabolis12 ($110.26 in chips) 
+pandabolis12: posts small blind $0.50
+vitalik_sw: posts big blind $1
+CraigConroy: posts big blind $1
+*** HOLE CARDS ***
+Kobalt Catcher: folds 
+Eredar5: folds 
+CraigConroy: raises $2 to $3
+EAroca: raises $5 to $8
+pandabolis12: folds 
+vitalik_sw: folds 
+CraigConroy: calls $5
+*** FLOP *** [3s Ks 9d]
+CraigConroy: bets $5
+EAroca: calls $5
+*** TURN *** [3s Ks 9d] [3c]
+CraigConroy: bets $6
+EAroca: calls $6
+*** RIVER *** [3s Ks 9d 3c] [2h]
+CraigConroy: checks 
+EAroca: bets $1
+CraigConroy: calls $1
+*** SHOW DOWN ***
+EAroca: shows [Ad Ah] (two pair, Aces and Threes)
+CraigConroy: mucks hand 
+EAroca collected $39.42 from pot
+*** SUMMARY ***
+Total pot $41.50 | Rake $2.08 
+Board [3s Ks 9d 3c 2h]
+Seat 1: vitalik_sw (big blind) folded before Flop
+Seat 2: Kobalt Catcher folded before Flop (didn't bet)
+Seat 3: Eredar5 folded before Flop (didn't bet)
+Seat 4: CraigConroy mucked
+Seat 5: EAroca (button) showed [Ad Ah] and won ($39.42) with two pair, Aces and Threes
+Seat 6: pandabolis12 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752080836:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:37:35 WET [2025/02/07 12:37:35 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 2: Kobalt Catcher ($71.54 in chips) 
+Seat 3: Eredar5 ($100 in chips) 
+Seat 4: CraigConroy ($32.22 in chips) 
+Seat 5: EAroca ($207.02 in chips) 
+Seat 6: pandabolis12 ($109.76 in chips) 
+vitalik_sw: posts small blind $0.50
+Kobalt Catcher: posts big blind $1
+*** HOLE CARDS ***
+Eredar5: folds 
+CraigConroy: folds 
+EAroca: raises $1.30 to $2.30
+pandabolis12: folds 
+vitalik_sw: folds 
+Kobalt Catcher: folds 
+Uncalled bet ($1.30) returned to EAroca
+EAroca collected $2.50 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: vitalik_sw (small blind) folded before Flop
+Seat 2: Kobalt Catcher (big blind) folded before Flop
+Seat 3: Eredar5 folded before Flop (didn't bet)
+Seat 4: CraigConroy folded before Flop (didn't bet)
+Seat 5: EAroca collected ($2.50)
+Seat 6: pandabolis12 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752086813:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:37:58 WET [2025/02/07 12:37:58 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 3: Eredar5 ($100 in chips) is sitting out
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 2: Kobalt Catcher ($70.54 in chips) 
+Seat 4: CraigConroy ($32.22 in chips) 
+Seat 5: EAroca ($208.52 in chips) 
+Seat 6: pandabolis12 ($109.76 in chips) 
+Kobalt Catcher: posts small blind $0.50
+Eredar5: is sitting out 
+CraigConroy: posts big blind $1
+*** HOLE CARDS ***
+Eredar5 leaves the table
+EAroca: raises $1 to $2
+pandabolis12: folds 
+vitalik_sw: folds 
+Kobalt Catcher: calls $1.50
+CraigConroy: calls $1
+*** FLOP *** [3d Qc 3s]
+Kobalt Catcher: checks 
+CraigConroy: checks 
+EAroca: bets $1.43
+Kobalt Catcher: calls $1.43
+CraigConroy: calls $1.43
+*** TURN *** [3d Qc 3s] [8d]
+Kobalt Catcher: checks 
+CraigConroy: checks 
+EAroca: bets $6.55
+DJNezz joins the table at seat #3 
+Kobalt Catcher: folds 
+CraigConroy: calls $6.55
+*** RIVER *** [3d Qc 3s 8d] [3c]
+CraigConroy: bets $22.24 and is all-in
+EAroca: folds 
+Uncalled bet ($22.24) returned to CraigConroy
+CraigConroy collected $22.22 from pot
+*** SUMMARY ***
+Total pot $23.39 | Rake $1.17 
+Board [3d Qc 3s 8d 3c]
+Seat 3: Eredar5
+Seat 1: vitalik_sw (button) folded before Flop (didn't bet)
+Seat 2: Kobalt Catcher (small blind) folded on the Turn
+Seat 4: CraigConroy (big blind) collected ($22.22)
+Seat 5: EAroca folded on the River
+Seat 6: pandabolis12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752115397:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:39:49 WET [2025/02/07 12:39:49 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 3: DJNezz ($100 in chips) is sitting out
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 2: Kobalt Catcher ($67.11 in chips) 
+Seat 4: CraigConroy ($44.46 in chips) 
+Seat 5: EAroca ($198.54 in chips) 
+Seat 6: pandabolis12 ($109.76 in chips) 
+CraigConroy: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+pandabolis12: folds 
+vitalik_sw: raises $1.50 to $2.50
+Kobalt Catcher: raises $6.50 to $9
+CraigConroy: calls $8.50
+EAroca: folds 
+vitalik_sw: calls $6.50
+*** FLOP *** [3d Ts 6s]
+CraigConroy: checks 
+vitalik_sw: checks 
+Kobalt Catcher: bets $13.30
+CraigConroy: folds 
+vitalik_sw: folds 
+Uncalled bet ($13.30) returned to Kobalt Catcher
+Kobalt Catcher collected $26.60 from pot
+Kobalt Catcher: doesn't show hand 
+*** SUMMARY ***
+Total pot $28 | Rake $1.40 
+Board [3d Ts 6s]
+Seat 3: DJNezz
+Seat 1: vitalik_sw folded on the Flop
+Seat 2: Kobalt Catcher (button) collected ($26.60)
+Seat 4: CraigConroy (small blind) folded on the Flop
+Seat 5: EAroca (big blind) folded before Flop
+Seat 6: pandabolis12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752129394:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:40:43 WET [2025/02/07 12:40:43 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 3: DJNezz ($100 in chips) is sitting out
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 2: Kobalt Catcher ($84.71 in chips) 
+Seat 4: CraigConroy ($35.46 in chips) 
+Seat 5: EAroca ($197.54 in chips) 
+Seat 6: pandabolis12 ($109.76 in chips) 
+EAroca: posts small blind $0.50
+pandabolis12: posts big blind $1
+DJNezz: sits out 
+*** HOLE CARDS ***
+vitalik_sw: folds 
+Kobalt Catcher: folds 
+CraigConroy: raises $1 to $2
+EAroca: folds 
+pandabolis12: calls $1
+*** FLOP *** [2d Jh Td]
+pandabolis12: checks 
+CraigConroy: bets $2
+pandabolis12: folds 
+Uncalled bet ($2) returned to CraigConroy
+CraigConroy collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [2d Jh Td]
+Seat 3: DJNezz
+Seat 1: vitalik_sw folded before Flop (didn't bet)
+Seat 2: Kobalt Catcher folded before Flop (didn't bet)
+Seat 4: CraigConroy (button) collected ($4.28)
+Seat 5: EAroca (small blind) folded before Flop
+Seat 6: pandabolis12 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254752140680:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:41:26 WET [2025/02/07 12:41:26 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 3: DJNezz ($100 in chips) is sitting out
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 2: Kobalt Catcher ($84.71 in chips) 
+Seat 4: CraigConroy ($37.74 in chips) 
+Seat 5: EAroca ($197.04 in chips) 
+Seat 6: pandabolis12 ($107.76 in chips) 
+pandabolis12: posts small blind $0.50
+vitalik_sw: posts big blind $1
+DJNezz: sits out 
+*** HOLE CARDS ***
+Kobalt Catcher has timed out
+Kobalt Catcher: folds 
+CraigConroy: calls $1
+EAroca: raises $2.50 to $3.50
+pandabolis12: folds 
+vitalik_sw: folds 
+CraigConroy: calls $2.50
+*** FLOP *** [9d 7h 8s]
+CraigConroy: checks 
+EAroca has timed out
+EAroca: checks 
+*** TURN *** [9d 7h 8s] [3s]
+CraigConroy: checks 
+EAroca: bets $2.02
+CraigConroy: folds 
+Uncalled bet ($2.02) returned to EAroca
+EAroca collected $8.08 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [9d 7h 8s 3s]
+Seat 3: DJNezz
+Seat 1: vitalik_sw (big blind) folded before Flop
+Seat 2: Kobalt Catcher folded before Flop (didn't bet)
+Seat 4: CraigConroy folded on the Turn
+Seat 5: EAroca (button) collected ($8.08)
+Seat 6: pandabolis12 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752158267:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:42:33 WET [2025/02/07 12:42:33 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 3: DJNezz ($100 in chips) is sitting out
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 2: Kobalt Catcher ($84.71 in chips) 
+Seat 4: CraigConroy ($34.24 in chips) 
+Seat 5: EAroca ($201.62 in chips) 
+Seat 6: pandabolis12 ($107.26 in chips) 
+vitalik_sw: posts small blind $0.50
+Kobalt Catcher: posts big blind $1
+DJNezz: sits out 
+*** HOLE CARDS ***
+CraigConroy: folds 
+EAroca: folds 
+pandabolis12: folds 
+vitalik_sw: folds 
+Uncalled bet ($0.50) returned to Kobalt Catcher
+Kobalt Catcher collected $1 from pot
+Kobalt Catcher: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: DJNezz
+Seat 1: vitalik_sw (small blind) folded before Flop
+Seat 2: Kobalt Catcher (big blind) collected ($1)
+Seat 4: CraigConroy folded before Flop (didn't bet)
+Seat 5: EAroca folded before Flop (didn't bet)
+Seat 6: pandabolis12 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752161881:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:42:47 WET [2025/02/07 12:42:47 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 2: Kobalt Catcher ($85.21 in chips) 
+Seat 3: DJNezz ($100 in chips) 
+Seat 4: CraigConroy ($34.24 in chips) 
+Seat 5: EAroca ($201.62 in chips) 
+Seat 6: pandabolis12 ($107.26 in chips) 
+Kobalt Catcher: posts small blind $0.50
+DJNezz: posts big blind $1
+*** HOLE CARDS ***
+CraigConroy: folds 
+EAroca: raises $1.10 to $2.10
+pandabolis12: folds 
+vitalik_sw: folds 
+Kobalt Catcher: calls $1.60
+DJNezz: folds 
+*** FLOP *** [7d 2d Ah]
+Kobalt Catcher: checks 
+EAroca: bets $1.24
+Kobalt Catcher: raises $3.71 to $4.95
+EAroca: calls $3.71
+*** TURN *** [7d 2d Ah] [8d]
+Kobalt Catcher: bets $7.17
+EAroca: calls $7.17
+*** RIVER *** [7d 2d Ah 8d] [7c]
+Kobalt Catcher: bets $13.99
+EAroca: raises $75.51 to $89.50
+Kobalt Catcher: calls $57 and is all-in
+Uncalled bet ($18.51) returned to EAroca
+*** SHOW DOWN ***
+EAroca: shows [Kd Ad] (a flush, Ace high)
+Kobalt Catcher: shows [Ac 6c] (two pair, Aces and Sevens)
+EAroca collected $168.92 from pot
+*** SUMMARY ***
+Total pot $171.42 | Rake $2.50 
+Board [7d 2d Ah 8d 7c]
+Seat 1: vitalik_sw (button) folded before Flop (didn't bet)
+Seat 2: Kobalt Catcher (small blind) showed [Ac 6c] and lost with two pair, Aces and Sevens
+Seat 3: DJNezz (big blind) folded before Flop
+Seat 4: CraigConroy folded before Flop (didn't bet)
+Seat 5: EAroca showed [Kd Ad] and won ($168.92) with a flush, Ace high
+Seat 6: pandabolis12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752196900:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:45:00 WET [2025/02/07 12:45:00 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 2: Kobalt Catcher ($0 in chips) is sitting out
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 3: DJNezz ($100 in chips) 
+Seat 4: CraigConroy ($34.24 in chips) 
+Seat 5: EAroca ($285.33 in chips) 
+Seat 6: pandabolis12 ($107.26 in chips) 
+CraigConroy: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+pandabolis12: folds 
+vitalik_sw: folds 
+DJNezz: raises $1.20 to $2.20
+Kobalt Catcher leaves the table
+CraigConroy: folds 
+EAroca: calls $1.20
+*** FLOP *** [Qd Ac 4h]
+EAroca: checks 
+DJNezz: checks 
+*** TURN *** [Qd Ac 4h] [9d]
+paramourx joins the table at seat #2 
+EAroca: checks 
+DJNezz: checks 
+*** RIVER *** [Qd Ac 4h 9d] [Td]
+EAroca: checks 
+DJNezz: checks 
+*** SHOW DOWN ***
+EAroca: shows [Kc 8d] (high card Ace)
+DJNezz: shows [Jc Jh] (a pair of Jacks)
+DJNezz collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Qd Ac 4h 9d Td]
+Seat 2: Kobalt Catcher
+Seat 1: vitalik_sw folded before Flop (didn't bet)
+Seat 3: DJNezz (button) showed [Jc Jh] and won ($4.66) with a pair of Jacks
+Seat 4: CraigConroy (small blind) folded before Flop
+Seat 5: EAroca (big blind) showed [Kc 8d] and lost with high card Ace
+Seat 6: pandabolis12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752213597:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:46:03 WET [2025/02/07 12:46:03 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 2: paramourx ($100 in chips) is sitting out
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 3: DJNezz ($102.46 in chips) 
+Seat 4: CraigConroy ($33.74 in chips) 
+Seat 5: EAroca ($283.13 in chips) 
+Seat 6: pandabolis12 ($107.26 in chips) 
+EAroca: posts small blind $0.50
+pandabolis12: posts big blind $1
+paramourx: sits out 
+*** HOLE CARDS ***
+vitalik_sw: folds 
+DJNezz: folds 
+CraigConroy: folds 
+EAroca: raises $2 to $3
+pandabolis12: raises $7 to $10
+EAroca: folds 
+Uncalled bet ($7) returned to pandabolis12
+pandabolis12 collected $6 from pot
+pandabolis12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: paramourx
+Seat 1: vitalik_sw folded before Flop (didn't bet)
+Seat 3: DJNezz folded before Flop (didn't bet)
+Seat 4: CraigConroy (button) folded before Flop (didn't bet)
+Seat 5: EAroca (small blind) folded before Flop
+Seat 6: pandabolis12 (big blind) collected ($6)
+
+
+
+PokerStars Hand #254752221481:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:46:33 WET [2025/02/07 12:46:33 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 2: paramourx ($100 in chips) is sitting out
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 3: DJNezz ($102.46 in chips) 
+Seat 4: CraigConroy ($33.74 in chips) 
+Seat 5: EAroca ($280.13 in chips) 
+Seat 6: pandabolis12 ($110.26 in chips) 
+pandabolis12: posts small blind $0.50
+vitalik_sw: posts big blind $1
+paramourx: sits out 
+*** HOLE CARDS ***
+DJNezz: folds 
+CraigConroy: raises $2 to $3
+EAroca: folds 
+pandabolis12: folds 
+vitalik_sw: calls $2
+*** FLOP *** [7h 2d Jc]
+vitalik_sw: checks 
+CraigConroy: bets $3
+vitalik_sw: folds 
+Uncalled bet ($3) returned to CraigConroy
+CraigConroy collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [7h 2d Jc]
+Seat 2: paramourx
+Seat 1: vitalik_sw (big blind) folded on the Flop
+Seat 3: DJNezz folded before Flop (didn't bet)
+Seat 4: CraigConroy collected ($6.18)
+Seat 5: EAroca (button) folded before Flop (didn't bet)
+Seat 6: pandabolis12 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752228585:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:46:59 WET [2025/02/07 12:46:59 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 1: vitalik_sw ($100 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: DJNezz ($102.46 in chips) 
+Seat 4: CraigConroy ($36.92 in chips) 
+Seat 5: EAroca ($280.13 in chips) 
+Seat 6: pandabolis12 ($109.76 in chips) 
+vitalik_sw: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+DJNezz: folds 
+CraigConroy: folds 
+DJNezz leaves the table
+S3MPR3IGUAL joins the table at seat #3 
+EAroca: raises $1.20 to $2.20
+pandabolis12: folds 
+vitalik_sw: raises $8.80 to $11
+paramourx: folds 
+EAroca: folds 
+Uncalled bet ($8.80) returned to vitalik_sw
+vitalik_sw collected $5.40 from pot
+vitalik_sw: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 1: vitalik_sw (small blind) collected ($5.40)
+Seat 2: paramourx (big blind) folded before Flop
+Seat 3: DJNezz folded before Flop (didn't bet)
+Seat 4: CraigConroy folded before Flop (didn't bet)
+Seat 5: EAroca folded before Flop
+Seat 6: pandabolis12 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752237025:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:47:31 WET [2025/02/07 12:47:31 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 1: vitalik_sw ($103.20 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: S3MPR3IGUAL ($100 in chips) 
+Seat 4: CraigConroy ($36.92 in chips) 
+Seat 5: EAroca ($277.93 in chips) 
+Seat 6: pandabolis12 ($109.76 in chips) 
+paramourx: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+CraigConroy: folds 
+EAroca: folds 
+pandabolis12: folds 
+vitalik_sw: raises $1.50 to $2.50
+paramourx: folds 
+S3MPR3IGUAL: folds 
+Uncalled bet ($1.50) returned to vitalik_sw
+vitalik_sw collected $2.50 from pot
+vitalik_sw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: vitalik_sw (button) collected ($2.50)
+Seat 2: paramourx (small blind) folded before Flop
+Seat 3: S3MPR3IGUAL (big blind) folded before Flop
+Seat 4: CraigConroy folded before Flop (didn't bet)
+Seat 5: EAroca folded before Flop (didn't bet)
+Seat 6: pandabolis12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752241899:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:47:50 WET [2025/02/07 12:47:50 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 1: vitalik_sw ($104.70 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: S3MPR3IGUAL ($100 in chips) 
+Seat 4: CraigConroy ($36.92 in chips) 
+Seat 5: EAroca ($277.93 in chips) 
+Seat 6: pandabolis12 ($109.76 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+CraigConroy: posts big blind $1
+*** HOLE CARDS ***
+EAroca: raises $1 to $2
+pandabolis12: folds 
+vitalik_sw: folds 
+paramourx: folds 
+S3MPR3IGUAL: folds 
+CraigConroy: calls $1
+*** FLOP *** [6d Kc 3d]
+CraigConroy: checks 
+EAroca: bets $1.07
+CraigConroy: folds 
+Uncalled bet ($1.07) returned to EAroca
+EAroca collected $4.28 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [6d Kc 3d]
+Seat 1: vitalik_sw folded before Flop (didn't bet)
+Seat 2: paramourx (button) folded before Flop (didn't bet)
+Seat 3: S3MPR3IGUAL (small blind) folded before Flop
+Seat 4: CraigConroy (big blind) folded on the Flop
+Seat 5: EAroca collected ($4.28)
+Seat 6: pandabolis12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752256500:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:48:44 WET [2025/02/07 12:48:44 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 1: vitalik_sw ($104.70 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: S3MPR3IGUAL ($100 in chips) 
+Seat 4: CraigConroy ($34.92 in chips) 
+Seat 5: EAroca ($280.21 in chips) 
+Seat 6: pandabolis12 ($109.76 in chips) 
+CraigConroy: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+pandabolis12: folds 
+vitalik_sw: raises $1.20 to $2.20
+paramourx: folds 
+S3MPR3IGUAL: folds 
+CraigConroy: calls $1.70
+EAroca: folds 
+*** FLOP *** [4s 8s 8c]
+CraigConroy: bets $2
+vitalik_sw: calls $2
+*** TURN *** [4s 8s 8c] [7d]
+CraigConroy: bets $4
+vitalik_sw: calls $4
+*** RIVER *** [4s 8s 8c 7d] [Ad]
+CraigConroy: checks 
+vitalik_sw: bets $5.45
+CraigConroy: folds 
+Uncalled bet ($5.45) returned to vitalik_sw
+vitalik_sw collected $16.53 from pot
+vitalik_sw: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.40 | Rake $0.87 
+Board [4s 8s 8c 7d Ad]
+Seat 1: vitalik_sw collected ($16.53)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: S3MPR3IGUAL (button) folded before Flop (didn't bet)
+Seat 4: CraigConroy (small blind) folded on the River
+Seat 5: EAroca (big blind) folded before Flop
+Seat 6: pandabolis12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752271390:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:49:39 WET [2025/02/07 12:49:39 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: vitalik_sw ($113.03 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: S3MPR3IGUAL ($100 in chips) 
+Seat 4: CraigConroy ($26.72 in chips) 
+Seat 5: EAroca ($279.21 in chips) 
+Seat 6: pandabolis12 ($109.76 in chips) 
+EAroca: posts small blind $0.50
+pandabolis12: posts big blind $1
+*** HOLE CARDS ***
+vitalik_sw: folds 
+paramourx: folds 
+S3MPR3IGUAL: raises $1.20 to $2.20
+CraigConroy: calls $2.20
+EAroca: folds 
+pandabolis12: raises $10.30 to $12.50
+S3MPR3IGUAL: folds 
+CraigConroy: folds 
+Uncalled bet ($10.30) returned to pandabolis12
+pandabolis12 collected $7.10 from pot
+pandabolis12: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.10 | Rake $0 
+Seat 1: vitalik_sw folded before Flop (didn't bet)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: S3MPR3IGUAL folded before Flop
+Seat 4: CraigConroy (button) folded before Flop
+Seat 5: EAroca (small blind) folded before Flop
+Seat 6: pandabolis12 (big blind) collected ($7.10)
+
+
+
+PokerStars Hand #254752282961:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:50:23 WET [2025/02/07 12:50:23 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 1: vitalik_sw ($113.03 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: S3MPR3IGUAL ($100 in chips) 
+Seat 4: CraigConroy ($24.52 in chips) 
+Seat 5: EAroca ($278.71 in chips) 
+Seat 6: pandabolis12 ($114.66 in chips) 
+pandabolis12: posts small blind $0.50
+vitalik_sw: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+S3MPR3IGUAL: folds 
+CraigConroy: raises $2 to $3
+EAroca: folds 
+pandabolis12: folds 
+vitalik_sw: folds 
+Uncalled bet ($2) returned to CraigConroy
+CraigConroy collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: vitalik_sw (big blind) folded before Flop
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 4: CraigConroy collected ($2.50)
+Seat 5: EAroca (button) folded before Flop (didn't bet)
+Seat 6: pandabolis12 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752288976:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:50:45 WET [2025/02/07 12:50:45 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 1: vitalik_sw ($112.03 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: S3MPR3IGUAL ($100 in chips) 
+Seat 4: CraigConroy ($26.02 in chips) 
+Seat 5: EAroca ($278.71 in chips) 
+Seat 6: pandabolis12 ($114.16 in chips) 
+vitalik_sw: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: raises $1.20 to $2.20
+CraigConroy: calls $2.20
+EAroca: folds 
+pandabolis12: folds 
+vitalik_sw: folds 
+paramourx: calls $1.20
+*** FLOP *** [8h 9c 4h]
+paramourx: checks 
+S3MPR3IGUAL: checks 
+CraigConroy: bets $6.74
+paramourx: folds 
+S3MPR3IGUAL: folds 
+Uncalled bet ($6.74) returned to CraigConroy
+CraigConroy collected $6.74 from pot
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.36 
+Board [8h 9c 4h]
+Seat 1: vitalik_sw (small blind) folded before Flop
+Seat 2: paramourx (big blind) folded on the Flop
+Seat 3: S3MPR3IGUAL folded on the Flop
+Seat 4: CraigConroy collected ($6.74)
+Seat 5: EAroca folded before Flop (didn't bet)
+Seat 6: pandabolis12 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752296472:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:51:13 WET [2025/02/07 12:51:13 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 1: vitalik_sw ($111.53 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: S3MPR3IGUAL ($100 in chips) 
+Seat 4: CraigConroy ($30.56 in chips) 
+Seat 5: EAroca ($278.71 in chips) 
+Seat 6: pandabolis12 ($114.16 in chips) 
+paramourx: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+CraigConroy: folds 
+EAroca: folds 
+pandabolis12: folds 
+vitalik_sw: raises $1.50 to $2.50
+paramourx: folds 
+S3MPR3IGUAL: raises $8.50 to $11
+vitalik_sw: folds 
+Uncalled bet ($8.50) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $5.50 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: vitalik_sw (button) folded before Flop
+Seat 2: paramourx (small blind) folded before Flop
+Seat 3: S3MPR3IGUAL (big blind) collected ($5.50)
+Seat 4: CraigConroy folded before Flop (didn't bet)
+Seat 5: EAroca folded before Flop (didn't bet)
+Seat 6: pandabolis12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752301988:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:51:34 WET [2025/02/07 12:51:34 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 1: vitalik_sw ($109.03 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: S3MPR3IGUAL ($103 in chips) 
+Seat 4: CraigConroy ($30.56 in chips) 
+Seat 5: EAroca ($278.71 in chips) 
+Seat 6: pandabolis12 ($114.16 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+CraigConroy: posts big blind $1
+*** HOLE CARDS ***
+EAroca: folds 
+pandabolis12: raises $1 to $2
+vitalik_sw: folds 
+paramourx: folds 
+S3MPR3IGUAL: folds 
+CraigConroy: calls $1
+*** FLOP *** [Ah Js Jh]
+CraigConroy: checks 
+pandabolis12: bets $1.41
+CraigConroy: folds 
+Uncalled bet ($1.41) returned to pandabolis12
+pandabolis12 collected $4.28 from pot
+pandabolis12: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ah Js Jh]
+Seat 1: vitalik_sw folded before Flop (didn't bet)
+Seat 2: paramourx (button) folded before Flop (didn't bet)
+Seat 3: S3MPR3IGUAL (small blind) folded before Flop
+Seat 4: CraigConroy (big blind) folded on the Flop
+Seat 5: EAroca folded before Flop (didn't bet)
+Seat 6: pandabolis12 collected ($4.28)
+
+
+
+PokerStars Hand #254752313104:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:52:16 WET [2025/02/07 12:52:16 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 1: vitalik_sw ($109.03 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: S3MPR3IGUAL ($102.50 in chips) 
+Seat 4: CraigConroy ($28.56 in chips) 
+Seat 5: EAroca ($278.71 in chips) 
+Seat 6: pandabolis12 ($116.44 in chips) 
+CraigConroy: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+pandabolis12: folds 
+vitalik_sw: folds 
+paramourx: folds 
+S3MPR3IGUAL: raises $1.20 to $2.20
+CraigConroy: calls $1.70
+EAroca: folds 
+*** FLOP *** [Ts 5h Td]
+CraigConroy: checks 
+S3MPR3IGUAL: bets $1.44
+CraigConroy: calls $1.44
+*** TURN *** [Ts 5h Td] [9c]
+CraigConroy: bets $3.94
+S3MPR3IGUAL: calls $3.94
+*** RIVER *** [Ts 5h Td 9c] [5c]
+CraigConroy: bets $5
+S3MPR3IGUAL: raises $89.92 to $94.92 and is all-in
+CraigConroy: folds 
+Uncalled bet ($89.92) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $24.85 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.16 | Rake $1.31 
+Board [Ts 5h Td 9c 5c]
+Seat 1: vitalik_sw folded before Flop (didn't bet)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: S3MPR3IGUAL (button) collected ($24.85)
+Seat 4: CraigConroy (small blind) folded on the River
+Seat 5: EAroca (big blind) folded before Flop
+Seat 6: pandabolis12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752331810:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:53:27 WET [2025/02/07 12:53:27 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: vitalik_sw ($109.03 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: S3MPR3IGUAL ($114.77 in chips) 
+Seat 4: CraigConroy ($15.98 in chips) 
+Seat 5: EAroca ($277.71 in chips) 
+Seat 6: pandabolis12 ($116.44 in chips) 
+EAroca: posts small blind $0.50
+pandabolis12: posts big blind $1
+*** HOLE CARDS ***
+vitalik_sw: folds 
+paramourx: folds 
+S3MPR3IGUAL: folds 
+CraigConroy: folds 
+EAroca: raises $2 to $3
+pandabolis12: folds 
+Uncalled bet ($2) returned to EAroca
+EAroca collected $2 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: vitalik_sw folded before Flop (didn't bet)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 4: CraigConroy (button) folded before Flop (didn't bet)
+Seat 5: EAroca (small blind) collected ($2)
+Seat 6: pandabolis12 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254752338957:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:53:53 WET [2025/02/07 12:53:53 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 1: vitalik_sw ($109.03 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: S3MPR3IGUAL ($114.77 in chips) 
+Seat 4: CraigConroy ($15.98 in chips) 
+Seat 5: EAroca ($278.71 in chips) 
+Seat 6: pandabolis12 ($115.44 in chips) 
+pandabolis12: posts small blind $0.50
+vitalik_sw: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+S3MPR3IGUAL: folds 
+CraigConroy: folds 
+EAroca: folds 
+pandabolis12: raises $2 to $3
+vitalik_sw: folds 
+Uncalled bet ($2) returned to pandabolis12
+pandabolis12 collected $2 from pot
+pandabolis12: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: vitalik_sw (big blind) folded before Flop
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 4: CraigConroy folded before Flop (didn't bet)
+Seat 5: EAroca (button) folded before Flop (didn't bet)
+Seat 6: pandabolis12 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254752345562:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:54:18 WET [2025/02/07 12:54:18 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 1: vitalik_sw ($108.03 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: S3MPR3IGUAL ($114.77 in chips) 
+Seat 4: CraigConroy ($15.98 in chips) 
+Seat 5: EAroca ($278.71 in chips) 
+Seat 6: pandabolis12 ($116.44 in chips) 
+vitalik_sw: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+CraigConroy: folds 
+EAroca: raises $1.30 to $2.30
+pandabolis12: folds 
+vitalik_sw: folds 
+paramourx: folds 
+Uncalled bet ($1.30) returned to EAroca
+EAroca collected $2.50 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: vitalik_sw (small blind) folded before Flop
+Seat 2: paramourx (big blind) folded before Flop
+Seat 3: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 4: CraigConroy folded before Flop (didn't bet)
+Seat 5: EAroca collected ($2.50)
+Seat 6: pandabolis12 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752353047:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:54:46 WET [2025/02/07 12:54:46 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 1: vitalik_sw ($107.53 in chips) 
+Seat 2: paramourx ($100 in chips) 
+Seat 3: S3MPR3IGUAL ($114.77 in chips) 
+Seat 4: CraigConroy ($15.98 in chips) 
+Seat 5: EAroca ($280.21 in chips) 
+Seat 6: pandabolis12 ($116.44 in chips) 
+paramourx: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+CraigConroy: folds 
+CraigConroy leaves the table
+EAroca: folds 
+pandabolis12: raises $1 to $2
+vitalik_sw: folds 
+paramourx: folds 
+S3MPR3IGUAL: calls $1
+*** FLOP *** [Kc Js 7c]
+S3MPR3IGUAL: checks 
+pandabolis12: bets $5.35
+S3MPR3IGUAL: folds 
+Uncalled bet ($5.35) returned to pandabolis12
+pandabolis12 collected $4.28 from pot
+pandabolis12: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Kc Js 7c]
+Seat 1: vitalik_sw (button) folded before Flop (didn't bet)
+Seat 2: paramourx (small blind) folded before Flop
+Seat 3: S3MPR3IGUAL (big blind) folded on the Flop
+Seat 4: CraigConroy folded before Flop (didn't bet)
+Seat 5: EAroca folded before Flop (didn't bet)
+Seat 6: pandabolis12 collected ($4.28)
+
+
+
+PokerStars Hand #254752363106:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:55:31 WET [2025/02/07 12:55:31 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 1: vitalik_sw ($107.53 in chips) is sitting out
+Seat 6: pandabolis12 ($118.72 in chips) is sitting out
+Seat 2: paramourx ($100 in chips) 
+Seat 5: EAroca ($280.21 in chips) 
+EAroca: posts small blind $0.50
+pandabolis12: is sitting out 
+S3MPR3IGUAL leaves the table
+vitalik_sw: is sitting out 
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+pandabolis12 leaves the table
+vitalik_sw leaves the table
+EAroca: raises $1.30 to $2.30
+paramourx: folds 
+Uncalled bet ($1.30) returned to EAroca
+EAroca collected $2 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: vitalik_sw
+Seat 6: pandabolis12
+Seat 2: paramourx (big blind) folded before Flop
+Seat 5: EAroca (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254752365378:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:55:43 WET [2025/02/07 12:55:43 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 2: paramourx ($100 in chips) 
+Seat 5: EAroca ($281.21 in chips) 
+paramourx: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+paramourx: raises $2 to $3
+S3MPR3IGUAL joins the table at seat #1 
+EAroca: calls $2
+*** FLOP *** [7d 2c 4h]
+S3MPR3IGUAL leaves the table
+EAroca: checks 
+paramourx: bets $4.45
+govnosmiri joins the table at seat #1 
+govnosmiri is disconnected 
+MaikonAll joins the table at seat #4 
+S3MPR3IGUAL joins the table at seat #6 
+EAroca: raises $4.82 to $9.27
+value_ftw joins the table at seat #3 
+paramourx: calls $4.82
+*** TURN *** [7d 2c 4h] [Td]
+EAroca: checks 
+paramourx: bets $7.30
+EAroca: calls $7.30
+*** RIVER *** [7d 2c 4h Td] [Jh]
+EAroca: checks 
+paramourx: bets $11.82
+EAroca: folds 
+Uncalled bet ($11.82) returned to paramourx
+paramourx collected $38.14 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $39.14 | Rake $1 
+Board [7d 2c 4h Td Jh]
+Seat 2: paramourx (button) (small blind) collected ($38.14)
+Seat 5: EAroca (big blind) folded on the River
+
+
+
+PokerStars Hand #254752393893:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 17:58:08 WET [2025/02/07 12:58:08 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 1: govnosmiri ($100 in chips) is sitting out
+Seat 4: MaikonAll ($100 in chips) is sitting out
+Seat 6: S3MPR3IGUAL ($112.77 in chips) is sitting out
+Seat 2: paramourx ($118.57 in chips) 
+Seat 3: value_ftw ($100 in chips) 
+Seat 5: EAroca ($261.64 in chips) 
+paramourx: posts small blind $0.50
+value_ftw: posts big blind $1
+MaikonAll: sits out 
+*** HOLE CARDS ***
+EAroca: raises $1.50 to $2.50
+MaikonAll leaves the table
+paramourx: folds 
+value_ftw: calls $1.50
+*** FLOP *** [7h 5c 4h]
+value_ftw: checks 
+EAroca: bets $2.61
+value_ftw: raises $7.83 to $10.44
+EAroca: calls $7.83
+*** TURN *** [7h 5c 4h] [3c]
+value_ftw: bets $22.89
+chenconhaste joins the table at seat #4 
+EAroca: calls $22.89
+*** RIVER *** [7h 5c 4h 3c] [4s]
+value_ftw: bets $64.17 and is all-in
+EAroca: folds 
+Uncalled bet ($64.17) returned to value_ftw
+value_ftw collected $71.16 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $72.16 | Rake $1 
+Board [7h 5c 4h 3c 4s]
+Seat 1: govnosmiri
+Seat 4: MaikonAll
+Seat 6: S3MPR3IGUAL
+Seat 2: paramourx (small blind) folded before Flop
+Seat 3: value_ftw (big blind) collected ($71.16)
+Seat 5: EAroca (button) folded on the River
+
+
+
+PokerStars Hand #254752418271:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:00:11 WET [2025/02/07 13:00:11 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 1: govnosmiri ($100 in chips) is sitting out
+Seat 6: S3MPR3IGUAL ($112.77 in chips) is sitting out
+Seat 2: paramourx ($118.07 in chips) 
+Seat 3: value_ftw ($135.33 in chips) 
+Seat 4: chenconhaste ($100 in chips) 
+Seat 5: EAroca ($225.81 in chips) 
+value_ftw: posts small blind $0.50
+chenconhaste: posts big blind $1
+S3MPR3IGUAL: sits out 
+govnosmiri: sits out 
+*** HOLE CARDS ***
+EAroca: raises $1.30 to $2.30
+paramourx: raises $5.20 to $7.50
+value_ftw: folds 
+chenconhaste: folds 
+EAroca: raises $15 to $22.50
+paramourx: folds 
+Uncalled bet ($15) returned to EAroca
+EAroca collected $16.50 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0 
+Seat 1: govnosmiri
+Seat 6: S3MPR3IGUAL
+Seat 2: paramourx (button) folded before Flop
+Seat 3: value_ftw (small blind) folded before Flop
+Seat 4: chenconhaste (big blind) folded before Flop
+Seat 5: EAroca collected ($16.50)
+
+
+
+PokerStars Hand #254752428818:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:01:00 WET [2025/02/07 13:01:00 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 1: govnosmiri ($100 in chips) is sitting out
+Seat 5: EAroca ($234.81 in chips) is sitting out
+Seat 2: paramourx ($110.57 in chips) 
+Seat 3: value_ftw ($134.83 in chips) 
+Seat 4: chenconhaste ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($112.77 in chips) 
+chenconhaste: posts small blind $0.50
+EAroca: is sitting out 
+S3MPR3IGUAL: posts big blind $1
+govnosmiri: sits out 
+*** HOLE CARDS ***
+paramourx: folds 
+value_ftw: folds 
+EAroca leaves the table
+chenconhaste: folds 
+Uncalled bet ($0.50) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $1 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: govnosmiri
+Seat 5: EAroca
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: value_ftw (button) folded before Flop (didn't bet)
+Seat 4: chenconhaste (small blind) folded before Flop
+Seat 6: S3MPR3IGUAL (big blind) collected ($1)
+
+
+
+PokerStars Hand #254752431547:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:01:11 WET [2025/02/07 13:01:11 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: govnosmiri ($100 in chips) 
+Seat 2: paramourx ($110.57 in chips) 
+Seat 3: value_ftw ($134.83 in chips) 
+Seat 4: chenconhaste ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($113.27 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+govnosmiri: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+value_ftw: folds 
+chenconhaste: raises $1.50 to $2.50
+S3MPR3IGUAL: folds 
+govnosmiri: calls $1.50
+*** FLOP *** [6c Ts Ad]
+paramourx leaves the table
+govnosmiri: checks 
+Breno.del joins the table at seat #2 
+chenconhaste: bets $1.72
+Breno.del is disconnected 
+michasia joins the table at seat #5 
+govnosmiri: calls $1.72
+*** TURN *** [6c Ts Ad] [Th]
+govnosmiri: checks 
+chenconhaste: checks 
+*** RIVER *** [6c Ts Ad Th] [3s]
+govnosmiri: bets $18
+chenconhaste: folds 
+Uncalled bet ($18) returned to govnosmiri
+govnosmiri collected $8.49 from pot
+govnosmiri: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [6c Ts Ad Th 3s]
+Seat 1: govnosmiri (big blind) collected ($8.49)
+Seat 2: paramourx folded before Flop (didn't bet)
+Seat 3: value_ftw folded before Flop (didn't bet)
+Seat 4: chenconhaste (button) folded on the River
+Seat 6: S3MPR3IGUAL (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752442825:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:01:58 WET [2025/02/07 13:01:58 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 5: michasia ($100 in chips) is sitting out
+Seat 1: govnosmiri ($104.27 in chips) 
+Seat 2: Breno.del ($40 in chips) 
+Seat 3: value_ftw ($134.83 in chips) 
+Seat 4: chenconhaste ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($112.77 in chips) 
+govnosmiri: posts small blind $0.50
+Breno.del: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+value_ftw: raises $1.20 to $2.20
+chenconhaste: folds 
+S3MPR3IGUAL: folds 
+govnosmiri: folds 
+Breno.del: folds 
+Uncalled bet ($1.20) returned to value_ftw
+value_ftw collected $2.50 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: michasia
+Seat 1: govnosmiri (small blind) folded before Flop
+Seat 2: Breno.del (big blind) folded before Flop
+Seat 3: value_ftw collected ($2.50)
+Seat 4: chenconhaste folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752448091:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:02:18 WET [2025/02/07 13:02:18 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 5: michasia ($100 in chips) is sitting out
+Seat 1: govnosmiri ($103.77 in chips) 
+Seat 2: Breno.del ($39 in chips) 
+Seat 3: value_ftw ($136.33 in chips) 
+Seat 4: chenconhaste ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($112.77 in chips) 
+Breno.del: posts small blind $0.50
+value_ftw: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+chenconhaste: raises $1.50 to $2.50
+S3MPR3IGUAL: folds 
+govnosmiri: folds 
+Breno.del: calls $2
+value_ftw: folds 
+*** FLOP *** [Kc 3s 2s]
+Breno.del: checks 
+chenconhaste: checks 
+*** TURN *** [Kc 3s 2s] [2c]
+Breno.del: checks 
+chenconhaste: checks 
+*** RIVER *** [Kc 3s 2s 2c] [2h]
+Breno.del: checks 
+chenconhaste: bets $1.50
+Breno.del: calls $1.50
+*** SHOW DOWN ***
+chenconhaste: shows [Kd Kh] (a full house, Kings full of Deuces)
+Breno.del: mucks hand 
+chenconhaste collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Kc 3s 2s 2c 2h]
+Seat 5: michasia
+Seat 1: govnosmiri (button) folded before Flop (didn't bet)
+Seat 2: Breno.del (small blind) mucked
+Seat 3: value_ftw (big blind) folded before Flop
+Seat 4: chenconhaste showed [Kd Kh] and won ($8.55) with a full house, Kings full of Deuces
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752466817:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:03:33 WET [2025/02/07 13:03:33 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 4: chenconhaste ($104.55 in chips) is sitting out
+Seat 1: govnosmiri ($103.77 in chips) 
+Seat 2: Breno.del ($35 in chips) 
+Seat 3: value_ftw ($135.33 in chips) 
+Seat 5: michasia ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($112.77 in chips) 
+value_ftw: posts small blind $0.50
+chenconhaste: is sitting out 
+michasia: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: raises $1.20 to $2.20
+chenconhaste leaves the table
+govnosmiri: calls $2.20
+Breno.del: folds 
+value_ftw: folds 
+Xenicide joins the table at seat #4 
+michasia: folds 
+*** FLOP *** [4h 7s Qh]
+S3MPR3IGUAL: checks 
+govnosmiri: bets $2.80
+S3MPR3IGUAL: folds 
+Uncalled bet ($2.80) returned to govnosmiri
+govnosmiri collected $5.60 from pot
+govnosmiri: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [4h 7s Qh]
+Seat 4: chenconhaste
+Seat 1: govnosmiri collected ($5.60)
+Seat 2: Breno.del (button) folded before Flop (didn't bet)
+Seat 3: value_ftw (small blind) folded before Flop
+Seat 5: michasia (big blind) folded before Flop
+Seat 6: S3MPR3IGUAL folded on the Flop
+
+
+
+PokerStars Hand #254752475286:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:04:03 WET [2025/02/07 13:04:03 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 4: Xenicide ($100 in chips) is sitting out
+Seat 1: govnosmiri ($107.17 in chips) 
+Seat 2: Breno.del ($35 in chips) 
+Seat 3: value_ftw ($134.83 in chips) 
+Seat 5: michasia ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($110.57 in chips) 
+michasia: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+govnosmiri: raises $1 to $2
+Breno.del: folds 
+value_ftw: raises $4.50 to $6.50
+michasia: folds 
+S3MPR3IGUAL: folds 
+govnosmiri: raises $4.50 to $11
+value_ftw: calls $4.50
+*** FLOP *** [5s 8h 5d]
+govnosmiri: bets $10
+value_ftw: folds 
+Uncalled bet ($10) returned to govnosmiri
+govnosmiri collected $22.32 from pot
+govnosmiri: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.50 | Rake $1.18 
+Board [5s 8h 5d]
+Seat 4: Xenicide
+Seat 1: govnosmiri collected ($22.32)
+Seat 2: Breno.del folded before Flop (didn't bet)
+Seat 3: value_ftw (button) folded on the Flop
+Seat 5: michasia (small blind) folded before Flop
+Seat 6: S3MPR3IGUAL (big blind) folded before Flop
+
+
+
+PokerStars Hand #254752487930:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:04:51 WET [2025/02/07 13:04:51 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 4: Xenicide ($100 in chips) is sitting out
+Seat 1: govnosmiri ($118.49 in chips) 
+Seat 2: Breno.del ($35 in chips) 
+Seat 3: value_ftw ($123.83 in chips) 
+Seat 5: michasia ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($109.57 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+govnosmiri: posts big blind $1
+Xenicide: sits out 
+*** HOLE CARDS ***
+Breno.del: folds 
+value_ftw: raises $1.20 to $2.20
+michasia: folds 
+S3MPR3IGUAL: folds 
+govnosmiri: folds 
+Uncalled bet ($1.20) returned to value_ftw
+value_ftw collected $2.50 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: Xenicide
+Seat 1: govnosmiri (big blind) folded before Flop
+Seat 2: Breno.del folded before Flop (didn't bet)
+Seat 3: value_ftw collected ($2.50)
+Seat 5: michasia (button) folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752491424:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:05:04 WET [2025/02/07 13:05:04 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 4: Xenicide ($100 in chips) is sitting out
+Seat 1: govnosmiri ($117.49 in chips) 
+Seat 2: Breno.del ($35 in chips) 
+Seat 3: value_ftw ($125.33 in chips) 
+Seat 5: michasia ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($109.07 in chips) 
+govnosmiri: posts small blind $0.50
+Breno.del: posts big blind $1
+Xenicide: sits out 
+*** HOLE CARDS ***
+value_ftw: folds 
+michasia: raises $1.80 to $2.80
+S3MPR3IGUAL: folds 
+govnosmiri: folds 
+Breno.del: calls $1.80
+*** FLOP *** [Ks As Kc]
+Breno.del: checks 
+michasia: bets $3.87
+Breno.del: folds 
+Uncalled bet ($3.87) returned to michasia
+michasia collected $5.80 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.10 | Rake $0.30 
+Board [Ks As Kc]
+Seat 4: Xenicide
+Seat 1: govnosmiri (small blind) folded before Flop
+Seat 2: Breno.del (big blind) folded on the Flop
+Seat 3: value_ftw folded before Flop (didn't bet)
+Seat 5: michasia collected ($5.80)
+Seat 6: S3MPR3IGUAL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752498630:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:05:31 WET [2025/02/07 13:05:31 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 4: Xenicide ($100 in chips) is sitting out
+Seat 1: govnosmiri ($116.99 in chips) 
+Seat 2: Breno.del ($32.20 in chips) 
+Seat 3: value_ftw ($125.33 in chips) 
+Seat 5: michasia ($103 in chips) 
+Seat 6: S3MPR3IGUAL ($109.07 in chips) 
+Breno.del: posts small blind $0.50
+value_ftw: posts big blind $1
+Xenicide: sits out 
+*** HOLE CARDS ***
+michasia: folds 
+S3MPR3IGUAL: folds 
+govnosmiri: raises $1 to $2
+Breno.del: raises $4 to $6
+value_ftw: folds 
+govnosmiri: calls $4
+*** FLOP *** [Jh Th Kh]
+Breno.del: checks 
+govnosmiri: bets $5
+Breno.del: folds 
+Uncalled bet ($5) returned to govnosmiri
+govnosmiri collected $12.35 from pot
+govnosmiri: doesn't show hand 
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [Jh Th Kh]
+Seat 4: Xenicide
+Seat 1: govnosmiri (button) collected ($12.35)
+Seat 2: Breno.del (small blind) folded on the Flop
+Seat 3: value_ftw (big blind) folded before Flop
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752508593:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:06:08 WET [2025/02/07 13:06:08 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 1: govnosmiri ($123.34 in chips) 
+Seat 2: Breno.del ($26.20 in chips) 
+Seat 3: value_ftw ($124.33 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: michasia ($103 in chips) 
+Seat 6: S3MPR3IGUAL ($109.07 in chips) 
+value_ftw: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+michasia: raises $1.60 to $2.60
+S3MPR3IGUAL: folds 
+govnosmiri: folds 
+Breno.del: folds 
+value_ftw: folds 
+Xenicide: folds 
+Uncalled bet ($1.60) returned to michasia
+michasia collected $2.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: govnosmiri folded before Flop (didn't bet)
+Seat 2: Breno.del (button) folded before Flop (didn't bet)
+Seat 3: value_ftw (small blind) folded before Flop
+Seat 4: Xenicide (big blind) folded before Flop
+Seat 5: michasia collected ($2.50)
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752512467:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:06:22 WET [2025/02/07 13:06:22 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 1: govnosmiri ($123.34 in chips) 
+Seat 2: Breno.del ($26.20 in chips) 
+Seat 3: value_ftw ($123.83 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: michasia ($104.50 in chips) 
+Seat 6: S3MPR3IGUAL ($109.07 in chips) 
+Xenicide: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+govnosmiri: folds 
+Breno.del: folds 
+value_ftw: folds 
+Xenicide: raises $2.50 to $3.50
+michasia: calls $2.50
+*** FLOP *** [Ac 6c Kc]
+Xenicide: checks 
+michasia: checks 
+*** TURN *** [Ac 6c Kc] [3c]
+Xenicide: bets $8.31
+michasia: calls $8.31
+*** RIVER *** [Ac 6c Kc 3c] [5h]
+Xenicide: checks 
+michasia: checks 
+*** SHOW DOWN ***
+Xenicide: shows [Js 9d] (high card Ace)
+michasia: shows [8h 7c] (a flush, Ace high)
+michasia collected $22.44 from pot
+*** SUMMARY ***
+Total pot $23.62 | Rake $1.18 
+Board [Ac 6c Kc 3c 5h]
+Seat 1: govnosmiri folded before Flop (didn't bet)
+Seat 2: Breno.del folded before Flop (didn't bet)
+Seat 3: value_ftw (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) showed [Js 9d] and lost with high card Ace
+Seat 5: michasia (big blind) showed [8h 7c] and won ($22.44) with a flush, Ace high
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752526529:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:07:14 WET [2025/02/07 13:07:14 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: govnosmiri ($123.34 in chips) 
+Seat 2: Breno.del ($44.34 in chips) 
+Seat 3: value_ftw ($123.83 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: michasia ($115.13 in chips) 
+Seat 6: S3MPR3IGUAL ($109.07 in chips) 
+michasia: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+govnosmiri: folds 
+Breno.del: calls $1
+value_ftw: raises $3 to $4
+Xenicide: folds 
+michasia: folds 
+S3MPR3IGUAL: folds 
+Breno.del: calls $3
+*** FLOP *** [Jc 5s 3s]
+Breno.del: checks 
+value_ftw: bets $4
+Breno.del: folds 
+Uncalled bet ($4) returned to value_ftw
+value_ftw collected $9.02 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Jc 5s 3s]
+Seat 1: govnosmiri folded before Flop (didn't bet)
+Seat 2: Breno.del folded on the Flop
+Seat 3: value_ftw collected ($9.02)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: michasia (small blind) folded before Flop
+Seat 6: S3MPR3IGUAL (big blind) folded before Flop
+
+
+
+PokerStars Hand #254752574847:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:10:14 WET [2025/02/07 13:10:14 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 1: govnosmiri ($121.84 in chips) 
+Seat 2: Breno.del ($43.33 in chips) 
+Seat 3: value_ftw ($132.92 in chips) 
+Seat 4: Xenicide ($107.77 in chips) 
+Seat 5: michasia ($114.63 in chips) 
+Seat 6: S3MPR3IGUAL ($103.52 in chips) 
+value_ftw: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+S3MPR3IGUAL: raises $1.20 to $2.20
+govnosmiri: folds 
+Breno.del: calls $2.20
+value_ftw: folds 
+Xenicide: calls $1.20
+*** FLOP *** [2c 9c 5c]
+Xenicide: checks 
+S3MPR3IGUAL: checks 
+Breno.del: checks 
+*** TURN *** [2c 9c 5c] [3s]
+Xenicide: bets $8.43
+S3MPR3IGUAL: folds 
+Breno.del: folds 
+Uncalled bet ($8.43) returned to Xenicide
+Xenicide collected $6.74 from pot
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.36 
+Board [2c 9c 5c 3s]
+Seat 1: govnosmiri folded before Flop (didn't bet)
+Seat 2: Breno.del (button) folded on the Turn
+Seat 3: value_ftw (small blind) folded before Flop
+Seat 4: Xenicide (big blind) collected ($6.74)
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL folded on the Turn
+
+
+
+PokerStars Hand #254752587372:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:11:00 WET [2025/02/07 13:11:00 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 1: govnosmiri ($121.84 in chips) 
+Seat 2: Breno.del ($41.13 in chips) 
+Seat 3: value_ftw ($132.42 in chips) 
+Seat 4: Xenicide ($112.31 in chips) 
+Seat 5: michasia ($114.63 in chips) 
+Seat 6: S3MPR3IGUAL ($101.32 in chips) 
+Xenicide: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: calls $1
+govnosmiri: folds 
+Breno.del: raises $3.50 to $4.50
+value_ftw: folds 
+Xenicide: folds 
+michasia: folds 
+S3MPR3IGUAL: folds 
+Uncalled bet ($3.50) returned to Breno.del
+Breno.del collected $3.50 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: govnosmiri folded before Flop (didn't bet)
+Seat 2: Breno.del collected ($3.50)
+Seat 3: value_ftw (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: michasia (big blind) folded before Flop
+Seat 6: S3MPR3IGUAL folded before Flop
+
+
+
+PokerStars Hand #254752593930:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:11:25 WET [2025/02/07 13:11:25 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: govnosmiri ($121.84 in chips) 
+Seat 2: Breno.del ($43.63 in chips) 
+Seat 3: value_ftw ($132.42 in chips) 
+Seat 4: Xenicide ($111.81 in chips) 
+Seat 5: michasia ($113.63 in chips) 
+Seat 6: S3MPR3IGUAL ($100.32 in chips) 
+michasia: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+govnosmiri: raises $1 to $2
+Breno.del: folds 
+value_ftw: folds 
+Xenicide: folds 
+michasia: folds 
+S3MPR3IGUAL: calls $1
+*** FLOP *** [9h 4d Ts]
+S3MPR3IGUAL: checks 
+govnosmiri: checks 
+*** TURN *** [9h 4d Ts] [Qs]
+S3MPR3IGUAL: checks 
+govnosmiri: checks 
+*** RIVER *** [9h 4d Ts Qs] [Ah]
+S3MPR3IGUAL: checks 
+govnosmiri: bets $4.28
+S3MPR3IGUAL: folds 
+Uncalled bet ($4.28) returned to govnosmiri
+govnosmiri collected $4.28 from pot
+govnosmiri: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [9h 4d Ts Qs Ah]
+Seat 1: govnosmiri collected ($4.28)
+Seat 2: Breno.del folded before Flop (didn't bet)
+Seat 3: value_ftw folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: michasia (small blind) folded before Flop
+Seat 6: S3MPR3IGUAL (big blind) folded on the River
+
+
+
+PokerStars Hand #254752604225:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:12:03 WET [2025/02/07 13:12:03 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 1: govnosmiri ($124.12 in chips) 
+Seat 2: Breno.del ($43.63 in chips) 
+Seat 3: value_ftw ($132.42 in chips) 
+Seat 4: Xenicide ($111.81 in chips) 
+Seat 5: michasia ($113.13 in chips) 
+Seat 6: S3MPR3IGUAL ($100 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+govnosmiri: posts big blind $1
+*** HOLE CARDS ***
+Breno.del has timed out
+Breno.del: folds 
+value_ftw: raises $1.20 to $2.20
+Xenicide: folds 
+michasia: folds 
+S3MPR3IGUAL: folds 
+govnosmiri: folds 
+Uncalled bet ($1.20) returned to value_ftw
+govnosmiri leaves the table
+value_ftw collected $2.50 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: govnosmiri (big blind) folded before Flop
+Seat 2: Breno.del folded before Flop (didn't bet)
+Seat 3: value_ftw collected ($2.50)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: michasia (button) folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752614652:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:12:42 WET [2025/02/07 13:12:42 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 2: Breno.del ($43.63 in chips) is sitting out
+Seat 3: value_ftw ($133.92 in chips) 
+Seat 4: Xenicide ($111.81 in chips) 
+Seat 5: michasia ($113.13 in chips) 
+Seat 6: S3MPR3IGUAL ($100 in chips) 
+value_ftw: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+S3MPR3IGUAL: raises $1.20 to $2.20
+value_ftw: folds 
+xxxZeka joins the table at seat #1 
+Xenicide: raises $7.80 to $10
+S3MPR3IGUAL: folds 
+Uncalled bet ($7.80) returned to Xenicide
+Xenicide collected $4.90 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0 
+Seat 2: Breno.del
+Seat 3: value_ftw (small blind) folded before Flop
+Seat 4: Xenicide (big blind) collected ($4.90)
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (button) folded before Flop
+
+
+
+PokerStars Hand #254752621851:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:13:09 WET [2025/02/07 13:13:09 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 1: xxxZeka ($100 in chips) is sitting out
+Seat 2: Breno.del ($43.63 in chips) 
+Seat 3: value_ftw ($133.42 in chips) 
+Seat 4: Xenicide ($114.51 in chips) 
+Seat 5: michasia ($113.13 in chips) 
+Seat 6: S3MPR3IGUAL ($100 in chips) 
+Xenicide: posts small blind $0.50
+michasia: posts big blind $1
+xxxZeka: sits out 
+Breno.del: posts small blind $0.50
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+Breno.del: folds 
+value_ftw: folds 
+Xenicide: folds 
+Uncalled bet ($0.50) returned to michasia
+michasia collected $1.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: xxxZeka
+Seat 2: Breno.del folded before Flop (didn't bet)
+Seat 3: value_ftw (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: michasia (big blind) collected ($1.50)
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752625041:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:13:21 WET [2025/02/07 13:13:21 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: xxxZeka ($100 in chips) is sitting out
+Seat 2: Breno.del ($43.13 in chips) 
+Seat 3: value_ftw ($133.42 in chips) 
+Seat 4: Xenicide ($114.01 in chips) 
+Seat 5: michasia ($114.13 in chips) 
+Seat 6: S3MPR3IGUAL ($100 in chips) 
+michasia: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+xxxZeka: sits out 
+*** HOLE CARDS ***
+Breno.del: folds 
+value_ftw: raises $1.20 to $2.20
+Xenicide: folds 
+michasia: folds 
+S3MPR3IGUAL: raises $7.80 to $10
+value_ftw: calls $7.80
+*** FLOP *** [7d 6d 4h]
+S3MPR3IGUAL: checks 
+value_ftw: bets $6.43
+S3MPR3IGUAL: folds 
+Uncalled bet ($6.43) returned to value_ftw
+value_ftw collected $19.48 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.50 | Rake $1.02 
+Board [7d 6d 4h]
+Seat 1: xxxZeka
+Seat 2: Breno.del folded before Flop (didn't bet)
+Seat 3: value_ftw collected ($19.48)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: michasia (small blind) folded before Flop
+Seat 6: S3MPR3IGUAL (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254752635378:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:13:59 WET [2025/02/07 13:13:59 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 1: xxxZeka ($100 in chips) 
+Seat 2: Breno.del ($43.13 in chips) 
+Seat 3: value_ftw ($142.90 in chips) 
+Seat 4: Xenicide ($114.01 in chips) 
+Seat 5: michasia ($113.63 in chips) 
+Seat 6: S3MPR3IGUAL ($100 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+xxxZeka: posts big blind $1
+*** HOLE CARDS ***
+Breno.del: folds 
+value_ftw: folds 
+Xenicide: raises $1 to $2
+michasia: folds 
+S3MPR3IGUAL: folds 
+xxxZeka: folds 
+Uncalled bet ($1) returned to Xenicide
+Xenicide collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xxxZeka (big blind) folded before Flop
+Seat 2: Breno.del folded before Flop (didn't bet)
+Seat 3: value_ftw folded before Flop (didn't bet)
+Seat 4: Xenicide collected ($2.50)
+Seat 5: michasia (button) folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752640369:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:14:18 WET [2025/02/07 13:14:18 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 1: xxxZeka ($100 in chips) 
+Seat 2: Breno.del ($43.13 in chips) 
+Seat 3: value_ftw ($142.90 in chips) 
+Seat 4: Xenicide ($115.51 in chips) 
+Seat 5: michasia ($113.63 in chips) 
+Seat 6: S3MPR3IGUAL ($100 in chips) 
+xxxZeka: posts small blind $0.50
+Breno.del: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: folds 
+Xenicide: folds 
+michasia: folds 
+S3MPR3IGUAL: raises $1.20 to $2.20
+xxxZeka: folds 
+Breno.del: folds 
+Uncalled bet ($1.20) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $2.50 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xxxZeka (small blind) folded before Flop
+Seat 2: Breno.del (big blind) folded before Flop
+Seat 3: value_ftw folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (button) collected ($2.50)
+
+
+
+PokerStars Hand #254752643780:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:14:31 WET [2025/02/07 13:14:31 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 1: xxxZeka ($100 in chips) 
+Seat 2: Breno.del ($42.13 in chips) 
+Seat 3: value_ftw ($142.90 in chips) 
+Seat 4: Xenicide ($115.51 in chips) 
+Seat 5: michasia ($113.63 in chips) 
+Seat 6: S3MPR3IGUAL ($101.50 in chips) 
+Breno.del: posts small blind $0.50
+value_ftw: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+michasia: folds 
+S3MPR3IGUAL: raises $1.20 to $2.20
+xxxZeka: folds 
+Breno.del: calls $1.70
+value_ftw: calls $1.20
+*** FLOP *** [4s Kc 9d]
+Breno.del: checks 
+value_ftw: checks 
+S3MPR3IGUAL: bets $1.76
+Breno.del: folds 
+value_ftw: calls $1.76
+*** TURN *** [4s Kc 9d] [8s]
+value_ftw: checks 
+S3MPR3IGUAL: bets $14.90
+value_ftw: folds 
+Uncalled bet ($14.90) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $9.61 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.12 | Rake $0.51 
+Board [4s Kc 9d 8s]
+Seat 1: xxxZeka (button) folded before Flop (didn't bet)
+Seat 2: Breno.del (small blind) folded on the Flop
+Seat 3: value_ftw (big blind) folded on the Turn
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL collected ($9.61)
+
+
+
+PokerStars Hand #254752666394:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:15:54 WET [2025/02/07 13:15:54 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 1: xxxZeka ($100 in chips) 
+Seat 2: Breno.del ($39.93 in chips) 
+Seat 3: value_ftw ($138.94 in chips) 
+Seat 4: Xenicide ($115.51 in chips) 
+Seat 5: michasia ($113.63 in chips) 
+Seat 6: S3MPR3IGUAL ($107.15 in chips) 
+value_ftw: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+S3MPR3IGUAL: folds 
+xxxZeka: folds 
+Breno.del: folds 
+value_ftw: folds 
+Uncalled bet ($0.50) returned to Xenicide
+Xenicide collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: xxxZeka folded before Flop (didn't bet)
+Seat 2: Breno.del (button) folded before Flop (didn't bet)
+Seat 3: value_ftw (small blind) folded before Flop
+Seat 4: Xenicide (big blind) collected ($1)
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752670645:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:16:09 WET [2025/02/07 13:16:09 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 1: xxxZeka ($100 in chips) 
+Seat 2: Breno.del ($39.93 in chips) 
+Seat 3: value_ftw ($138.44 in chips) 
+Seat 4: Xenicide ($116.01 in chips) 
+Seat 5: michasia ($113.63 in chips) 
+Seat 6: S3MPR3IGUAL ($107.15 in chips) 
+Xenicide: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+xxxZeka: folds 
+Breno.del: folds 
+value_ftw: raises $1.50 to $2.50
+Xenicide: folds 
+michasia: folds 
+Uncalled bet ($1.50) returned to value_ftw
+value_ftw collected $2.50 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xxxZeka folded before Flop (didn't bet)
+Seat 2: Breno.del folded before Flop (didn't bet)
+Seat 3: value_ftw (button) collected ($2.50)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: michasia (big blind) folded before Flop
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752674867:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:16:25 WET [2025/02/07 13:16:25 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: xxxZeka ($100 in chips) 
+Seat 2: Breno.del ($39.93 in chips) 
+Seat 3: value_ftw ($139.94 in chips) 
+Seat 4: Xenicide ($115.51 in chips) 
+Seat 5: michasia ($112.63 in chips) 
+Seat 6: S3MPR3IGUAL ($107.15 in chips) 
+michasia: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+xxxZeka: folds 
+Breno.del: folds 
+value_ftw: folds 
+Xenicide: raises $1.25 to $2.25
+michasia: raises $8.75 to $11
+S3MPR3IGUAL: folds 
+Xenicide: raises $11 to $22
+michasia: raises $90.63 to $112.63 and is all-in
+Xenicide: calls $90.63
+*** FIRST FLOP *** [Tc Kh Qs]
+*** FIRST TURN *** [Tc Kh Qs] [6d]
+*** FIRST RIVER *** [Tc Kh Qs 6d] [3h]
+*** SECOND FLOP *** [7h Ks Qc]
+*** SECOND TURN *** [7h Ks Qc] [Kc]
+*** SECOND RIVER *** [7h Ks Qc Kc] [3d]
+*** FIRST SHOW DOWN ***
+michasia: shows [Kd Ac] (a pair of Kings)
+Xenicide: shows [Jd Js] (a pair of Jacks)
+michasia collected $111.88 from pot
+*** SECOND SHOW DOWN ***
+michasia: shows [Kd Ac] (three of a kind, Kings)
+Xenicide: shows [Jd Js] (two pair, Kings and Jacks)
+michasia collected $111.88 from pot
+*** SUMMARY ***
+Total pot $226.26 | Rake $2.50 
+Hand was run twice
+FIRST Board [Tc Kh Qs 6d 3h]
+SECOND Board [7h Ks Qc Kc 3d]
+Seat 1: xxxZeka folded before Flop (didn't bet)
+Seat 2: Breno.del folded before Flop (didn't bet)
+Seat 3: value_ftw folded before Flop (didn't bet)
+Seat 4: Xenicide (button) showed [Jd Js] and lost with a pair of Jacks, and lost with two pair, Kings and Jacks
+Seat 5: michasia (small blind) showed [Kd Ac] and won ($111.88) with a pair of Kings, and won ($111.88) with three of a kind, Kings
+Seat 6: S3MPR3IGUAL (big blind) folded before Flop
+
+
+
+PokerStars Hand #254752690792:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:17:23 WET [2025/02/07 13:17:23 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 1: xxxZeka ($100 in chips) 
+Seat 2: Breno.del ($39.93 in chips) 
+Seat 3: value_ftw ($139.94 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: michasia ($223.76 in chips) 
+Seat 6: S3MPR3IGUAL ($106.15 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+xxxZeka: posts big blind $1
+*** HOLE CARDS ***
+Breno.del has timed out
+Breno.del: folds 
+value_ftw: folds 
+Xenicide: folds 
+michasia: raises $1.80 to $2.80
+S3MPR3IGUAL: folds 
+xxxZeka: folds 
+Uncalled bet ($1.80) returned to michasia
+michasia collected $2.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xxxZeka (big blind) folded before Flop
+Seat 2: Breno.del folded before Flop (didn't bet)
+Seat 3: value_ftw folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: michasia (button) collected ($2.50)
+Seat 6: S3MPR3IGUAL (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752697807:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:17:49 WET [2025/02/07 13:17:49 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 1: xxxZeka ($100 in chips) 
+Seat 3: value_ftw ($139.94 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: michasia ($225.26 in chips) 
+Seat 6: S3MPR3IGUAL ($105.65 in chips) 
+xxxZeka: posts small blind $0.50
+value_ftw: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+michasia: folds 
+S3MPR3IGUAL: folds 
+xxxZeka: folds 
+Uncalled bet ($0.50) returned to value_ftw
+value_ftw collected $1 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Breno.del
+Seat 1: xxxZeka (small blind) folded before Flop
+Seat 3: value_ftw (big blind) collected ($1)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752700383:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:17:59 WET [2025/02/07 13:17:59 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 1: xxxZeka ($100 in chips) 
+Seat 3: value_ftw ($140.44 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: michasia ($225.26 in chips) 
+Seat 6: S3MPR3IGUAL ($105.65 in chips) 
+value_ftw: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+michasia: raises $1.60 to $2.60
+S3MPR3IGUAL: folds 
+xxxZeka: folds 
+value_ftw: folds 
+Xenicide: folds 
+Uncalled bet ($1.60) returned to michasia
+michasia collected $2.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Breno.del
+Seat 1: xxxZeka (button) folded before Flop (didn't bet)
+Seat 3: value_ftw (small blind) folded before Flop
+Seat 4: Xenicide (big blind) folded before Flop
+Seat 5: michasia collected ($2.50)
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752706130:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:18:20 WET [2025/02/07 13:18:20 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 1: xxxZeka ($100 in chips) 
+Seat 3: value_ftw ($139.94 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: michasia ($226.76 in chips) 
+Seat 6: S3MPR3IGUAL ($105.65 in chips) 
+Xenicide: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+xxxZeka: folds 
+value_ftw: raises $1.50 to $2.50
+Xenicide: folds 
+michasia: folds 
+Uncalled bet ($1.50) returned to value_ftw
+value_ftw collected $2.50 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Breno.del
+Seat 1: xxxZeka folded before Flop (didn't bet)
+Seat 3: value_ftw (button) collected ($2.50)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: michasia (big blind) folded before Flop
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752709141:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:18:31 WET [2025/02/07 13:18:31 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 1: xxxZeka ($100 in chips) 
+Seat 3: value_ftw ($141.44 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: michasia ($225.76 in chips) 
+Seat 6: S3MPR3IGUAL ($105.65 in chips) 
+michasia: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+xxxZeka: folds 
+value_ftw: folds 
+Xenicide: folds 
+michasia: raises $2 to $3
+S3MPR3IGUAL: calls $2
+*** FLOP *** [9d Qd Qc]
+michasia: checks 
+S3MPR3IGUAL: bets $2.85
+michasia: calls $2.85
+*** TURN *** [9d Qd Qc] [7c]
+michasia: checks 
+S3MPR3IGUAL: checks 
+*** RIVER *** [9d Qd Qc 7c] [8c]
+michasia: checks 
+S3MPR3IGUAL: bets $8.33
+michasia: calls $8.33
+*** SHOW DOWN ***
+S3MPR3IGUAL: shows [6c 2c] (a flush, Queen high)
+michasia: mucks hand 
+S3MPR3IGUAL collected $26.94 from pot
+*** SUMMARY ***
+Total pot $28.36 | Rake $1.42 
+Board [9d Qd Qc 7c 8c]
+Seat 2: Breno.del
+Seat 1: xxxZeka folded before Flop (didn't bet)
+Seat 3: value_ftw folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: michasia (small blind) mucked
+Seat 6: S3MPR3IGUAL (big blind) showed [6c 2c] and won ($26.94) with a flush, Queen high
+
+
+
+PokerStars Hand #254752722244:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:19:18 WET [2025/02/07 13:19:18 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 1: xxxZeka ($100 in chips) 
+Seat 3: value_ftw ($141.44 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: michasia ($211.58 in chips) 
+Seat 6: S3MPR3IGUAL ($118.41 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+xxxZeka: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: folds 
+Xenicide: folds 
+michasia: folds 
+S3MPR3IGUAL: folds 
+Uncalled bet ($0.50) returned to xxxZeka
+xxxZeka collected $1 from pot
+xxxZeka: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Breno.del
+Seat 1: xxxZeka (big blind) collected ($1)
+Seat 3: value_ftw folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: michasia (button) folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752724865:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:19:28 WET [2025/02/07 13:19:28 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 3: value_ftw ($141.44 in chips) is sitting out
+Seat 1: xxxZeka ($100.50 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: michasia ($211.58 in chips) 
+Seat 6: S3MPR3IGUAL ($117.91 in chips) 
+xxxZeka: posts small blind $0.50
+value_ftw: is sitting out 
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+S3MPR3IGUAL: raises $1.20 to $2.20
+xxxZeka: folds 
+Xenicide: calls $1.20
+*** FLOP *** [Ac As 9h]
+Xenicide: checks 
+value_ftw leaves the table
+S3MPR3IGUAL: bets $1.30
+crist_89870 joins the table at seat #3 
+Xenicide: folds 
+Uncalled bet ($1.30) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $4.66 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Ac As 9h]
+Seat 2: Breno.del
+Seat 3: value_ftw
+Seat 1: xxxZeka (small blind) folded before Flop
+Seat 4: Xenicide (big blind) folded on the Flop
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (button) collected ($4.66)
+
+
+
+PokerStars Hand #254752733612:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:20:00 WET [2025/02/07 13:20:00 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 3: crist_89870 ($100 in chips) is sitting out
+Seat 1: xxxZeka ($100 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: michasia ($211.58 in chips) 
+Seat 6: S3MPR3IGUAL ($120.37 in chips) 
+Xenicide: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+xxxZeka: folds 
+Xenicide: raises $2.50 to $3.50
+michasia: calls $2.50
+*** FLOP *** [Qs 5h 8d]
+Xenicide: checks 
+michasia: bets $2.19
+Xenicide: calls $2.19
+*** TURN *** [Qs 5h 8d] [3h]
+Xenicide: checks 
+michasia: bets $16.21
+Xenicide: calls $16.21
+*** RIVER *** [Qs 5h 8d 3h] [7s]
+Xenicide: checks 
+michasia: checks 
+*** SHOW DOWN ***
+Xenicide: shows [Ad 8s] (a pair of Eights)
+michasia: mucks hand 
+Xenicide collected $42.80 from pot
+*** SUMMARY ***
+Total pot $43.80 | Rake $1 
+Board [Qs 5h 8d 3h 7s]
+Seat 2: Breno.del
+Seat 3: crist_89870
+Seat 1: xxxZeka (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) showed [Ad 8s] and won ($42.80) with a pair of Eights
+Seat 5: michasia (big blind) mucked
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752748684:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:20:54 WET [2025/02/07 13:20:54 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 3: crist_89870 ($100 in chips) is sitting out
+Seat 1: xxxZeka ($100 in chips) 
+Seat 4: Xenicide ($120.90 in chips) 
+Seat 5: michasia ($189.68 in chips) 
+Seat 6: S3MPR3IGUAL ($120.37 in chips) 
+michasia: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+crist_89870: sits out 
+*** HOLE CARDS ***
+xxxZeka: folds 
+Xenicide: folds 
+michasia: folds 
+Uncalled bet ($0.50) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $1 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Breno.del
+Seat 3: crist_89870
+Seat 1: xxxZeka folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: michasia (small blind) folded before Flop
+Seat 6: S3MPR3IGUAL (big blind) collected ($1)
+
+
+
+PokerStars Hand #254752750814:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:21:02 WET [2025/02/07 13:21:02 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 3: crist_89870 ($100 in chips) is sitting out
+Seat 1: xxxZeka ($100 in chips) 
+Seat 4: Xenicide ($120.90 in chips) 
+Seat 5: michasia ($189.18 in chips) 
+Seat 6: S3MPR3IGUAL ($120.87 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+xxxZeka: posts big blind $1
+crist_89870: sits out 
+*** HOLE CARDS ***
+Xenicide: raises $1 to $2
+michasia: folds 
+S3MPR3IGUAL: folds 
+xxxZeka: folds 
+Uncalled bet ($1) returned to Xenicide
+Xenicide collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Breno.del
+Seat 3: crist_89870
+Seat 1: xxxZeka (big blind) folded before Flop
+Seat 4: Xenicide collected ($2.50)
+Seat 5: michasia (button) folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752753344:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:21:11 WET [2025/02/07 13:21:11 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 1: xxxZeka ($100 in chips) 
+Seat 3: crist_89870 ($100 in chips) 
+Seat 4: Xenicide ($122.40 in chips) 
+Seat 5: michasia ($189.18 in chips) 
+Seat 6: S3MPR3IGUAL ($120.37 in chips) 
+xxxZeka: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+michasia: folds 
+S3MPR3IGUAL: folds 
+xxxZeka: folds 
+Uncalled bet ($0.50) returned to crist_89870
+crist_89870 collected $1 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Breno.del
+Seat 1: xxxZeka (small blind) folded before Flop
+Seat 3: crist_89870 (big blind) collected ($1)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752756697:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:21:23 WET [2025/02/07 13:21:23 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 1: xxxZeka ($100 in chips) 
+Seat 3: crist_89870 ($100.50 in chips) 
+Seat 4: Xenicide ($122.40 in chips) 
+Seat 5: michasia ($189.18 in chips) 
+Seat 6: S3MPR3IGUAL ($120.37 in chips) 
+crist_89870: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+michasia: raises $1.60 to $2.60
+S3MPR3IGUAL: folds 
+xxxZeka: folds 
+crist_89870: folds 
+Xenicide: folds 
+Uncalled bet ($1.60) returned to michasia
+michasia collected $2.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Breno.del
+Seat 1: xxxZeka (button) folded before Flop (didn't bet)
+Seat 3: crist_89870 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) folded before Flop
+Seat 5: michasia collected ($2.50)
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752761501:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:21:40 WET [2025/02/07 13:21:40 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 1: xxxZeka ($100 in chips) 
+Seat 3: crist_89870 ($100 in chips) 
+Seat 4: Xenicide ($121.40 in chips) 
+Seat 5: michasia ($190.68 in chips) 
+Seat 6: S3MPR3IGUAL ($120.37 in chips) 
+Xenicide: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: raises $1.20 to $2.20
+xxxZeka: folds 
+crist_89870: folds 
+Xenicide: folds 
+michasia: folds 
+Uncalled bet ($1.20) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $2.50 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Breno.del
+Seat 1: xxxZeka folded before Flop (didn't bet)
+Seat 3: crist_89870 (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: michasia (big blind) folded before Flop
+Seat 6: S3MPR3IGUAL collected ($2.50)
+
+
+
+PokerStars Hand #254752764410:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:21:51 WET [2025/02/07 13:21:51 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 1: xxxZeka ($100 in chips) 
+Seat 3: crist_89870 ($100 in chips) 
+Seat 4: Xenicide ($120.90 in chips) 
+Seat 5: michasia ($189.68 in chips) 
+Seat 6: S3MPR3IGUAL ($121.87 in chips) 
+michasia: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+xxxZeka: folds 
+crist_89870: folds 
+Xenicide: folds 
+michasia: folds 
+Uncalled bet ($0.50) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $1 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Breno.del
+Seat 1: xxxZeka folded before Flop (didn't bet)
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: michasia (small blind) folded before Flop
+Seat 6: S3MPR3IGUAL (big blind) collected ($1)
+
+
+
+PokerStars Hand #254752767449:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:22:02 WET [2025/02/07 13:22:02 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 1: xxxZeka ($100 in chips) 
+Seat 3: crist_89870 ($100 in chips) 
+Seat 4: Xenicide ($120.90 in chips) 
+Seat 5: michasia ($189.18 in chips) 
+Seat 6: S3MPR3IGUAL ($122.37 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+xxxZeka: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: folds 
+Xenicide: folds 
+michasia: folds 
+S3MPR3IGUAL: folds 
+Uncalled bet ($0.50) returned to xxxZeka
+xxxZeka collected $1 from pot
+xxxZeka: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Breno.del
+Seat 1: xxxZeka (big blind) collected ($1)
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: michasia (button) folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752769955:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:22:11 WET [2025/02/07 13:22:11 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 2: Breno.del ($39.93 in chips) is sitting out
+Seat 1: xxxZeka ($100.50 in chips) 
+Seat 3: crist_89870 ($100 in chips) 
+Seat 4: Xenicide ($120.90 in chips) 
+Seat 5: michasia ($189.18 in chips) 
+Seat 6: S3MPR3IGUAL ($121.87 in chips) 
+xxxZeka: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+michasia: folds 
+S3MPR3IGUAL: raises $1.20 to $2.20
+xxxZeka: folds 
+crist_89870: calls $1.20
+*** FLOP *** [8s 6h Tc]
+crist_89870: checks 
+S3MPR3IGUAL: bets $5
+crist_89870: calls $5
+*** TURN *** [8s 6h Tc] [7s]
+crist_89870: bets $7.08
+S3MPR3IGUAL: calls $7.08
+*** RIVER *** [8s 6h Tc 7s] [8d]
+crist_89870: bets $20.71
+S3MPR3IGUAL: calls $20.71
+*** SHOW DOWN ***
+crist_89870: shows [Jh Qs] (a pair of Eights)
+S3MPR3IGUAL: shows [Qc 9s] (a straight, Six to Ten)
+S3MPR3IGUAL collected $67.98 from pot
+Breno.del leaves the table
+*** SUMMARY ***
+Total pot $70.48 | Rake $2.50 
+Board [8s 6h Tc 7s 8d]
+Seat 2: Breno.del
+Seat 1: xxxZeka (small blind) folded before Flop
+Seat 3: crist_89870 (big blind) showed [Jh Qs] and lost with a pair of Eights
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (button) showed [Qc 9s] and won ($67.98) with a straight, Six to Ten
+
+
+
+PokerStars Hand #254752793756:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:23:37 WET [2025/02/07 13:23:37 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 1: xxxZeka ($100 in chips) 
+Seat 3: crist_89870 ($100 in chips) 
+Seat 4: Xenicide ($120.90 in chips) 
+Seat 5: michasia ($189.18 in chips) 
+Seat 6: S3MPR3IGUAL ($154.86 in chips) 
+crist_89870: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+S3MPR3IGUAL: folds 
+xxxZeka: raises $1.50 to $2.50
+crist_89870: folds 
+Xenicide: folds 
+Uncalled bet ($1.50) returned to xxxZeka
+xxxZeka collected $2.50 from pot
+xxxZeka: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: xxxZeka (button) collected ($2.50)
+Seat 3: crist_89870 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) folded before Flop
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752802711:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:24:09 WET [2025/02/07 13:24:09 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: xxxZeka ($101.50 in chips) is sitting out
+Seat 5: michasia ($189.18 in chips) is sitting out
+Seat 6: S3MPR3IGUAL ($154.86 in chips) is sitting out
+Seat 3: crist_89870 ($100 in chips) 
+Seat 4: Xenicide ($119.90 in chips) 
+Xenicide: posts small blind $0.50
+michasia: is sitting out 
+xxxZeka: is sitting out 
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+michasia leaves the table
+Xenicide: raises $1.25 to $2.25
+crist_89870: calls $1.25
+*** FLOP *** [Ts 6c Qh]
+xxxZeka leaves the table
+crist_89870: checks 
+gligana199 joins the table at seat #2 
+gligana199 is disconnected 
+Xenicide: bets $1.07
+crist_89870: folds 
+Uncalled bet ($1.07) returned to Xenicide
+Xenicide collected $4.28 from pot
+gligana199 leaves the table
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ts 6c Qh]
+Seat 1: xxxZeka
+Seat 5: michasia
+Seat 6: S3MPR3IGUAL
+Seat 3: crist_89870 (big blind) folded on the Flop
+Seat 4: Xenicide (button) (small blind) collected ($4.28)
+
+
+
+PokerStars Hand #254752808519:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:24:30 WET [2025/02/07 13:24:30 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 3: crist_89870 ($100 in chips) 
+Seat 4: Xenicide ($121.93 in chips) 
+Seat 6: S3MPR3IGUAL ($154.86 in chips) 
+Xenicide: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+xxxZeka joins the table at seat #5 
+crist_89870: raises $1.50 to $2.50
+Tooniimyname joins the table at seat #1 
+Tooniimyname is disconnected 
+michasia joins the table at seat #2 
+Xenicide: folds 
+S3MPR3IGUAL: folds 
+Uncalled bet ($1.50) returned to crist_89870
+crist_89870 collected $2.50 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: crist_89870 (button) collected ($2.50)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 6: S3MPR3IGUAL (big blind) folded before Flop
+
+
+
+PokerStars Hand #254752816579:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:24:59 WET [2025/02/07 13:24:59 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 2: michasia ($189.18 in chips) is sitting out
+Seat 5: xxxZeka ($101.50 in chips) is sitting out
+Seat 1: Tooniimyname ($100 in chips) 
+Seat 3: crist_89870 ($101.50 in chips) 
+Seat 4: Xenicide ($121.43 in chips) 
+Seat 6: S3MPR3IGUAL ($153.86 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+Tooniimyname: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+crist_89870: folds 
+Xenicide: raises $1.25 to $2.25
+S3MPR3IGUAL: folds 
+Tooniimyname: calls $1.25
+*** FLOP *** [2h 2d 2s]
+Tooniimyname: checks 
+Xenicide: bets $1.19
+Tooniimyname: calls $1.19
+*** TURN *** [2h 2d 2s] [6s]
+Tooniimyname: checks 
+Xenicide: bets $8.76
+Tooniimyname: folds 
+Uncalled bet ($8.76) returned to Xenicide
+Xenicide collected $7.01 from pot
+Xenicide: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.38 | Rake $0.37 
+Board [2h 2d 2s 6s]
+Seat 2: michasia
+Seat 5: xxxZeka
+Seat 1: Tooniimyname (big blind) folded on the Turn
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) collected ($7.01)
+Seat 6: S3MPR3IGUAL (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752827988:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:25:40 WET [2025/02/07 13:25:40 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 5: xxxZeka ($101.50 in chips) is sitting out
+Seat 1: Tooniimyname ($96.56 in chips) 
+Seat 2: michasia ($189.18 in chips) 
+Seat 3: crist_89870 ($101.50 in chips) 
+Seat 4: Xenicide ($125 in chips) 
+Seat 6: S3MPR3IGUAL ($153.36 in chips) 
+Tooniimyname: posts small blind $0.50
+michasia: posts big blind $1
+xxxZeka: sits out 
+*** HOLE CARDS ***
+crist_89870: raises $1.50 to $2.50
+Xenicide: folds 
+S3MPR3IGUAL: folds 
+Tooniimyname: calls $2
+michasia: raises $11.50 to $14
+crist_89870: raises $15 to $29
+Tooniimyname: folds 
+michasia: folds 
+Uncalled bet ($15) returned to crist_89870
+crist_89870 collected $30.50 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.50 | Rake $0 
+Seat 5: xxxZeka
+Seat 1: Tooniimyname (small blind) folded before Flop
+Seat 2: michasia (big blind) folded before Flop
+Seat 3: crist_89870 collected ($30.50)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752838383:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:26:17 WET [2025/02/07 13:26:17 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 5: xxxZeka ($101.50 in chips) is sitting out
+Seat 1: Tooniimyname ($94.06 in chips) 
+Seat 2: michasia ($175.18 in chips) 
+Seat 3: crist_89870 ($118 in chips) 
+Seat 4: Xenicide ($125 in chips) 
+Seat 6: S3MPR3IGUAL ($153.36 in chips) 
+michasia: posts small blind $0.50
+crist_89870: posts big blind $1
+xxxZeka: sits out 
+*** HOLE CARDS ***
+Xenicide: folds 
+S3MPR3IGUAL: raises $1.20 to $2.20
+Tooniimyname: calls $2.20
+michasia: folds 
+crist_89870: folds 
+*** FLOP *** [9s Jc Th]
+S3MPR3IGUAL: checks 
+Tooniimyname: checks 
+*** TURN *** [9s Jc Th] [6c]
+S3MPR3IGUAL: checks 
+Tooniimyname: checks 
+*** RIVER *** [9s Jc Th 6c] [5c]
+S3MPR3IGUAL: checks 
+Tooniimyname: checks 
+*** SHOW DOWN ***
+S3MPR3IGUAL: shows [Ad Qs] (high card Ace)
+Tooniimyname: shows [5h Qh] (a pair of Fives)
+Tooniimyname collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [9s Jc Th 6c 5c]
+Seat 5: xxxZeka
+Seat 1: Tooniimyname (button) showed [5h Qh] and won ($5.60) with a pair of Fives
+Seat 2: michasia (small blind) folded before Flop
+Seat 3: crist_89870 (big blind) folded before Flop
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL showed [Ad Qs] and lost with high card Ace
+
+
+
+PokerStars Hand #254752846846:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:26:47 WET [2025/02/07 13:26:47 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 5: xxxZeka ($101.50 in chips) is sitting out
+Seat 1: Tooniimyname ($97.46 in chips) 
+Seat 2: michasia ($174.68 in chips) 
+Seat 3: crist_89870 ($117 in chips) 
+Seat 4: Xenicide ($125 in chips) 
+Seat 6: S3MPR3IGUAL ($151.16 in chips) 
+crist_89870: posts small blind $0.50
+Xenicide: posts big blind $1
+xxxZeka: sits out 
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+Tooniimyname: calls $1
+michasia: folds 
+crist_89870: folds 
+Xenicide: checks 
+*** FLOP *** [Ad Ac 6c]
+Xenicide: checks 
+Tooniimyname: checks 
+*** TURN *** [Ad Ac 6c] [2d]
+Xenicide: checks 
+Tooniimyname: checks 
+*** RIVER *** [Ad Ac 6c 2d] [6s]
+Xenicide: checks 
+Tooniimyname: bets $7.38
+Xenicide: folds 
+Uncalled bet ($7.38) returned to Tooniimyname
+Tooniimyname collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Ad Ac 6c 2d 6s]
+Seat 5: xxxZeka
+Seat 1: Tooniimyname collected ($2.38)
+Seat 2: michasia (button) folded before Flop (didn't bet)
+Seat 3: crist_89870 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) folded on the River
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752859739:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:27:33 WET [2025/02/07 13:27:33 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 1: Tooniimyname ($98.84 in chips) 
+Seat 2: michasia ($174.68 in chips) 
+Seat 3: crist_89870 ($116.50 in chips) 
+Seat 4: Xenicide ($124 in chips) 
+Seat 5: xxxZeka ($101.50 in chips) 
+Seat 6: S3MPR3IGUAL ($151.16 in chips) 
+Xenicide: posts small blind $0.50
+xxxZeka: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+Tooniimyname: calls $1
+michasia: raises $2.50 to $3.50
+crist_89870: folds 
+Xenicide: folds 
+xxxZeka: raises $10.50 to $14
+Tooniimyname: folds 
+michasia: calls $10.50
+*** FLOP *** [Jc Jd Th]
+xxxZeka: checks 
+michasia: checks 
+*** TURN *** [Jc Jd Th] [6s]
+xxxZeka: checks 
+michasia: checks 
+*** RIVER *** [Jc Jd Th 6s] [Ks]
+xxxZeka: checks 
+michasia: bets $21.02
+xxxZeka: folds 
+Uncalled bet ($21.02) returned to michasia
+michasia collected $28.02 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $29.50 | Rake $1.48 
+Board [Jc Jd Th 6s Ks]
+Seat 1: Tooniimyname folded before Flop
+Seat 2: michasia collected ($28.02)
+Seat 3: crist_89870 (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: xxxZeka (big blind) folded on the River
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752890084:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:29:23 WET [2025/02/07 13:29:23 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: Tooniimyname ($97.84 in chips) 
+Seat 2: michasia ($188.70 in chips) 
+Seat 3: crist_89870 ($116.50 in chips) 
+Seat 4: Xenicide ($123.50 in chips) 
+Seat 5: xxxZeka ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($151.16 in chips) 
+xxxZeka: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+Tooniimyname: calls $1
+michasia: folds 
+crist_89870: folds 
+Xenicide: raises $3.50 to $4.50
+xxxZeka: folds 
+S3MPR3IGUAL: folds 
+Tooniimyname: calls $3.50
+*** FLOP *** [3s Jc Qh]
+Tooniimyname: checks 
+Xenicide: bets $2.50
+Tooniimyname: folds 
+Uncalled bet ($2.50) returned to Xenicide
+Xenicide collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [3s Jc Qh]
+Seat 1: Tooniimyname folded on the Flop
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) collected ($9.98)
+Seat 5: xxxZeka (small blind) folded before Flop
+Seat 6: S3MPR3IGUAL (big blind) folded before Flop
+
+
+
+PokerStars Hand #254752901621:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:30:04 WET [2025/02/07 13:30:04 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 1: Tooniimyname ($93.34 in chips) 
+Seat 2: michasia ($188.70 in chips) 
+Seat 3: crist_89870 ($116.50 in chips) 
+Seat 4: Xenicide ($128.98 in chips) 
+Seat 5: xxxZeka ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($150.16 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+Tooniimyname: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+crist_89870: folds 
+Xenicide: folds 
+xxxZeka: raises $1.50 to $2.50
+S3MPR3IGUAL: folds 
+Tooniimyname: calls $1.50
+*** FLOP *** [2s 8c 5h]
+Tooniimyname: checks 
+xxxZeka: bets $1.72
+Tooniimyname: calls $1.72
+*** TURN *** [2s 8c 5h] [As]
+Tooniimyname: checks 
+xxxZeka: checks 
+*** RIVER *** [2s 8c 5h As] [3c]
+Tooniimyname: checks 
+xxxZeka: checks 
+*** SHOW DOWN ***
+Tooniimyname: shows [7d 9d] (high card Ace)
+xxxZeka: shows [6d 6s] (a pair of Sixes)
+xxxZeka collected $8.49 from pot
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [2s 8c 5h As 3c]
+Seat 1: Tooniimyname (big blind) showed [7d 9d] and lost with high card Ace
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: xxxZeka (button) showed [6d 6s] and won ($8.49) with a pair of Sixes
+Seat 6: S3MPR3IGUAL (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752915449:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:30:54 WET [2025/02/07 13:30:54 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 3: crist_89870 ($116.50 in chips) is sitting out
+Seat 1: Tooniimyname ($89.12 in chips) 
+Seat 2: michasia ($188.70 in chips) 
+Seat 4: Xenicide ($128.98 in chips) 
+Seat 5: xxxZeka ($104.27 in chips) 
+Seat 6: S3MPR3IGUAL ($149.66 in chips) 
+Tooniimyname: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+xxxZeka: folds 
+S3MPR3IGUAL: folds 
+Tooniimyname: calls $0.50
+michasia: raises $2 to $3
+Tooniimyname: calls $2
+*** FLOP *** [Ah 3h Kh]
+Tooniimyname: checks 
+michasia: checks 
+*** TURN *** [Ah 3h Kh] [Jd]
+Tooniimyname: checks 
+michasia: bets $3.80
+Tooniimyname: folds 
+Uncalled bet ($3.80) returned to michasia
+michasia collected $5.70 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ah 3h Kh Jd]
+Seat 3: crist_89870
+Seat 1: Tooniimyname (small blind) folded on the Turn
+Seat 2: michasia (big blind) collected ($5.70)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: xxxZeka folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752925475:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:31:30 WET [2025/02/07 13:31:30 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 3: crist_89870 ($116.50 in chips) is sitting out
+Seat 1: Tooniimyname ($86.12 in chips) 
+Seat 2: michasia ($191.40 in chips) 
+Seat 4: Xenicide ($128.98 in chips) 
+Seat 5: xxxZeka ($104.27 in chips) 
+Seat 6: S3MPR3IGUAL ($149.66 in chips) 
+michasia: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+xxxZeka: folds 
+S3MPR3IGUAL has timed out
+S3MPR3IGUAL: folds 
+Tooniimyname: folds 
+michasia: raises $2 to $3
+Xenicide: folds 
+Uncalled bet ($2) returned to michasia
+michasia collected $2 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: crist_89870
+Seat 1: Tooniimyname (button) folded before Flop (didn't bet)
+Seat 2: michasia (small blind) collected ($2)
+Seat 4: Xenicide (big blind) folded before Flop
+Seat 5: xxxZeka folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752931464:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:31:52 WET [2025/02/07 13:31:52 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 3: crist_89870 ($116.50 in chips) is sitting out
+Seat 1: Tooniimyname ($86.12 in chips) 
+Seat 2: michasia ($192.40 in chips) 
+Seat 4: Xenicide ($127.98 in chips) 
+Seat 5: xxxZeka ($104.27 in chips) 
+Seat 6: S3MPR3IGUAL ($149.66 in chips) 
+Xenicide: posts small blind $0.50
+xxxZeka: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+Tooniimyname: folds 
+michasia: folds 
+Xenicide: folds 
+Uncalled bet ($0.50) returned to xxxZeka
+xxxZeka collected $1 from pot
+xxxZeka: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: crist_89870
+Seat 1: Tooniimyname folded before Flop (didn't bet)
+Seat 2: michasia (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: xxxZeka (big blind) collected ($1)
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752936276:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:32:09 WET [2025/02/07 13:32:09 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 3: crist_89870 ($116.50 in chips) is sitting out
+Seat 1: Tooniimyname ($86.12 in chips) 
+Seat 2: michasia ($192.40 in chips) 
+Seat 4: Xenicide ($127.48 in chips) 
+Seat 5: xxxZeka ($104.77 in chips) 
+Seat 6: S3MPR3IGUAL ($149.66 in chips) 
+xxxZeka: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+Tooniimyname: folds 
+michasia: folds 
+Xenicide: folds 
+xxxZeka: folds 
+Uncalled bet ($0.50) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $1 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: crist_89870
+Seat 1: Tooniimyname folded before Flop (didn't bet)
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: xxxZeka (small blind) folded before Flop
+Seat 6: S3MPR3IGUAL (big blind) collected ($1)
+
+
+
+PokerStars Hand #254752940044:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:32:22 WET [2025/02/07 13:32:22 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 3: crist_89870 ($116.50 in chips) is sitting out
+Seat 1: Tooniimyname ($86.12 in chips) 
+Seat 2: michasia ($192.40 in chips) 
+Seat 4: Xenicide ($127.48 in chips) 
+Seat 5: xxxZeka ($104.27 in chips) 
+Seat 6: S3MPR3IGUAL ($150.16 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+Tooniimyname: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+Xenicide: folds 
+xxxZeka: folds 
+xxxZeka leaves the table
+S3MPR3IGUAL: raises $2 to $3
+Tooniimyname: folds 
+Uncalled bet ($2) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $2 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: crist_89870
+Seat 1: Tooniimyname (big blind) folded before Flop
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: xxxZeka (button) folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (small blind) collected ($2)
+
+
+
+PokerStars Hand #254752948512:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:32:53 WET [2025/02/07 13:32:53 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 3: crist_89870 ($116.50 in chips) is sitting out
+Seat 1: Tooniimyname ($85.12 in chips) 
+Seat 2: michasia ($192.40 in chips) 
+Seat 4: Xenicide ($127.48 in chips) 
+Seat 6: S3MPR3IGUAL ($151.16 in chips) 
+Tooniimyname: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+S3MPR3IGUAL: folds 
+Tooniimyname: calls $0.50
+michasia: checks 
+*** FLOP *** [6c 9c Qs]
+Tooniimyname: checks 
+michasia: checks 
+*** TURN *** [6c 9c Qs] [Qc]
+blackclan7 joins the table at seat #5 
+Tooniimyname: checks 
+michasia: checks 
+*** RIVER *** [6c 9c Qs Qc] [Qd]
+Tooniimyname: checks 
+michasia: checks 
+*** SHOW DOWN ***
+Tooniimyname: shows [5s 3s] (three of a kind, Queens)
+michasia: shows [8c 2s] (three of a kind, Queens - Nine+Eight kicker)
+michasia collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [6c 9c Qs Qc Qd]
+Seat 3: crist_89870
+Seat 1: Tooniimyname (small blind) showed [5s 3s] and lost with three of a kind, Queens
+Seat 2: michasia (big blind) showed [8c 2s] and won ($1.90) with three of a kind, Queens
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 6: S3MPR3IGUAL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752958592:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:33:29 WET [2025/02/07 13:33:29 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 3: crist_89870 ($116.50 in chips) is sitting out
+Seat 5: blackclan7 ($100 in chips) is sitting out
+Seat 1: Tooniimyname ($84.12 in chips) 
+Seat 2: michasia ($193.30 in chips) 
+Seat 4: Xenicide ($127.48 in chips) 
+Seat 6: S3MPR3IGUAL ($151.16 in chips) 
+michasia: posts small blind $0.50
+Xenicide: posts big blind $1
+blackclan7: sits out 
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+Tooniimyname: calls $1
+michasia: folds 
+Xenicide: checks 
+*** FLOP *** [Qc Qd 4s]
+Xenicide: checks 
+Tooniimyname: checks 
+*** TURN *** [Qc Qd 4s] [4c]
+Xenicide: bets $2.97
+Tooniimyname: folds 
+Uncalled bet ($2.97) returned to Xenicide
+Xenicide collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Qc Qd 4s 4c]
+Seat 3: crist_89870
+Seat 5: blackclan7
+Seat 1: Tooniimyname (button) folded on the Turn
+Seat 2: michasia (small blind) folded before Flop
+Seat 4: Xenicide (big blind) collected ($2.38)
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752969645:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:34:09 WET [2025/02/07 13:34:09 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 3: crist_89870 ($116.50 in chips) is sitting out
+Seat 1: Tooniimyname ($83.12 in chips) 
+Seat 2: michasia ($192.80 in chips) 
+Seat 4: Xenicide ($128.86 in chips) 
+Seat 5: blackclan7 ($100 in chips) 
+Seat 6: S3MPR3IGUAL ($151.16 in chips) 
+Xenicide: posts small blind $0.50
+blackclan7: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+S3MPR3IGUAL leaves the table
+Tooniimyname: calls $1
+michasia: folds 
+Xenicide: raises $4.50 to $5.50
+blackclan7: folds 
+Tooniimyname: calls $4.50
+*** FLOP *** [8c Qs Kh]
+Xenicide: checks 
+Tooniimyname: checks 
+*** TURN *** [8c Qs Kh] [9h]
+Xenicide: bets $3.99
+paramourx joins the table at seat #6 
+Tooniimyname: raises $19.38 to $23.37
+Xenicide: folds 
+Uncalled bet ($19.38) returned to Tooniimyname
+Tooniimyname collected $18.98 from pot
+*** SUMMARY ***
+Total pot $19.98 | Rake $1 
+Board [8c Qs Kh 9h]
+Seat 3: crist_89870
+Seat 1: Tooniimyname collected ($18.98)
+Seat 2: michasia (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded on the Turn
+Seat 5: blackclan7 (big blind) folded before Flop
+Seat 6: S3MPR3IGUAL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254752981616:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:34:51 WET [2025/02/07 13:34:51 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 3: crist_89870 ($116.50 in chips) is sitting out
+Seat 1: Tooniimyname ($92.61 in chips) 
+Seat 2: michasia ($192.80 in chips) 
+Seat 4: Xenicide ($119.37 in chips) 
+Seat 5: blackclan7 ($100 in chips) 
+Seat 6: paramourx ($110.57 in chips) 
+blackclan7: posts small blind $0.50
+paramourx: posts big blind $1
+crist_89870: sits out 
+*** HOLE CARDS ***
+Tooniimyname: folds 
+michasia: folds 
+Xenicide: raises $1.25 to $2.25
+blackclan7: raises $8.25 to $10.50
+paramourx: folds 
+Xenicide: folds 
+Uncalled bet ($8.25) returned to blackclan7
+blackclan7 collected $5.50 from pot
+blackclan7: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 3: crist_89870
+Seat 1: Tooniimyname folded before Flop (didn't bet)
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop
+Seat 5: blackclan7 (small blind) collected ($5.50)
+Seat 6: paramourx (big blind) folded before Flop
+
+
+
+PokerStars Hand #254752988637:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:35:16 WET [2025/02/07 13:35:16 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 3: crist_89870 ($116.50 in chips) is sitting out
+Seat 1: Tooniimyname ($92.61 in chips) 
+Seat 2: michasia ($192.80 in chips) 
+Seat 4: Xenicide ($117.12 in chips) 
+Seat 5: blackclan7 ($103.25 in chips) 
+Seat 6: paramourx ($109.57 in chips) 
+paramourx: posts small blind $0.50
+Tooniimyname: posts big blind $1
+crist_89870: sits out 
+*** HOLE CARDS ***
+michasia: raises $1.60 to $2.60
+Xenicide: folds 
+blackclan7: raises $6.03 to $8.63
+paramourx: folds 
+Tooniimyname: folds 
+michasia: folds 
+Uncalled bet ($6.03) returned to blackclan7
+blackclan7 collected $6.70 from pot
+blackclan7: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.70 | Rake $0 
+Seat 3: crist_89870
+Seat 1: Tooniimyname (big blind) folded before Flop
+Seat 2: michasia folded before Flop
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: blackclan7 (button) collected ($6.70)
+Seat 6: paramourx (small blind) folded before Flop
+
+
+
+PokerStars Hand #254752994835:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:35:38 WET [2025/02/07 13:35:38 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 3: crist_89870 ($116.50 in chips) is sitting out
+Seat 1: Tooniimyname ($91.61 in chips) 
+Seat 2: michasia ($190.20 in chips) 
+Seat 4: Xenicide ($117.12 in chips) 
+Seat 5: blackclan7 ($107.35 in chips) 
+Seat 6: paramourx ($109.07 in chips) 
+Tooniimyname: posts small blind $0.50
+michasia: posts big blind $1
+crist_89870: sits out 
+*** HOLE CARDS ***
+Xenicide: raises $1 to $2
+blackclan7: folds 
+paramourx: folds 
+Tooniimyname: calls $1.50
+michasia: calls $1
+*** FLOP *** [9c 9h Qs]
+Tooniimyname: checks 
+michasia: checks 
+Xenicide: bets $2.39
+Tooniimyname: folds 
+michasia: folds 
+Uncalled bet ($2.39) returned to Xenicide
+Xenicide collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [9c 9h Qs]
+Seat 3: crist_89870
+Seat 1: Tooniimyname (small blind) folded on the Flop
+Seat 2: michasia (big blind) folded on the Flop
+Seat 4: Xenicide collected ($5.70)
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: paramourx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753002997:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:36:08 WET [2025/02/07 13:36:08 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 1: Tooniimyname ($89.61 in chips) 
+Seat 2: michasia ($188.20 in chips) 
+Seat 3: crist_89870 ($116.50 in chips) 
+Seat 4: Xenicide ($120.82 in chips) 
+Seat 5: blackclan7 ($107.35 in chips) 
+Seat 6: paramourx ($109.07 in chips) 
+michasia: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: raises $1 to $2
+blackclan7: folds 
+paramourx: folds 
+Tooniimyname: raises $2 to $4
+michasia: folds 
+crist_89870: folds 
+Xenicide: calls $2
+*** FLOP *** [Qs 7h 9s]
+Xenicide: checks 
+Tooniimyname: bets $9.02
+Xenicide: folds 
+Uncalled bet ($9.02) returned to Tooniimyname
+Tooniimyname collected $9.02 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Qs 7h 9s]
+Seat 1: Tooniimyname (button) collected ($9.02)
+Seat 2: michasia (small blind) folded before Flop
+Seat 3: crist_89870 (big blind) folded before Flop
+Seat 4: Xenicide folded on the Flop
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: paramourx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753016436:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:36:55 WET [2025/02/07 13:36:55 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 1: Tooniimyname ($94.63 in chips) 
+Seat 2: michasia ($187.70 in chips) 
+Seat 3: crist_89870 ($115.50 in chips) 
+Seat 4: Xenicide ($116.82 in chips) 
+Seat 5: blackclan7 ($107.35 in chips) 
+Seat 6: paramourx ($109.07 in chips) 
+crist_89870: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+blackclan7: raises $1 to $2
+paramourx: folds 
+Tooniimyname: folds 
+michasia: folds 
+crist_89870: folds 
+Xenicide: folds 
+Uncalled bet ($1) returned to blackclan7
+blackclan7 collected $2.50 from pot
+blackclan7: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Tooniimyname folded before Flop (didn't bet)
+Seat 2: michasia (button) folded before Flop (didn't bet)
+Seat 3: crist_89870 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) folded before Flop
+Seat 5: blackclan7 collected ($2.50)
+Seat 6: paramourx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753025267:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:37:27 WET [2025/02/07 13:37:27 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 1: Tooniimyname ($94.63 in chips) 
+Seat 2: michasia ($187.70 in chips) 
+Seat 3: crist_89870 ($115 in chips) 
+Seat 4: Xenicide ($115.82 in chips) 
+Seat 5: blackclan7 ($108.85 in chips) 
+Seat 6: paramourx ($109.07 in chips) 
+Xenicide: posts small blind $0.50
+blackclan7: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+Tooniimyname: folds 
+michasia: folds 
+crist_89870: folds 
+Xenicide: folds 
+Uncalled bet ($0.50) returned to blackclan7
+blackclan7 collected $1 from pot
+blackclan7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Tooniimyname folded before Flop (didn't bet)
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: blackclan7 (big blind) collected ($1)
+Seat 6: paramourx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753029189:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:37:42 WET [2025/02/07 13:37:42 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: Tooniimyname ($94.63 in chips) 
+Seat 2: michasia ($187.70 in chips) 
+Seat 3: crist_89870 ($115 in chips) 
+Seat 4: Xenicide ($115.32 in chips) 
+Seat 5: blackclan7 ($109.35 in chips) 
+Seat 6: paramourx ($109.07 in chips) 
+blackclan7: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+Tooniimyname: calls $1
+michasia: folds 
+crist_89870: raises $3 to $4
+Xenicide: folds 
+blackclan7: folds 
+paramourx: calls $3
+Tooniimyname: calls $3
+*** FLOP *** [9s Ad Jc]
+paramourx: checks 
+Tooniimyname: checks 
+crist_89870: bets $5.94
+paramourx: folds 
+Tooniimyname: folds 
+Uncalled bet ($5.94) returned to crist_89870
+crist_89870 collected $11.88 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.50 | Rake $0.62 
+Board [9s Ad Jc]
+Seat 1: Tooniimyname folded on the Flop
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 collected ($11.88)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: blackclan7 (small blind) folded before Flop
+Seat 6: paramourx (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254753045105:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:38:39 WET [2025/02/07 13:38:39 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 1: Tooniimyname ($90.63 in chips) 
+Seat 2: michasia ($187.70 in chips) 
+Seat 3: crist_89870 ($122.88 in chips) 
+Seat 4: Xenicide ($115.32 in chips) 
+Seat 5: blackclan7 ($108.85 in chips) 
+Seat 6: paramourx ($105.07 in chips) 
+paramourx: posts small blind $0.50
+Tooniimyname: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+crist_89870: raises $1.50 to $2.50
+Xenicide: folds 
+blackclan7: folds 
+paramourx: raises $9.50 to $12
+Tooniimyname: folds 
+crist_89870: calls $9.50
+*** FLOP *** [7h 3d 4s]
+paramourx: bets $18.53
+crist_89870: folds 
+Uncalled bet ($18.53) returned to paramourx
+paramourx collected $23.75 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [7h 3d 4s]
+Seat 1: Tooniimyname (big blind) folded before Flop
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 folded on the Flop
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: blackclan7 (button) folded before Flop (didn't bet)
+Seat 6: paramourx (small blind) collected ($23.75)
+
+
+
+PokerStars Hand #254753063161:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:39:43 WET [2025/02/07 13:39:43 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 2: michasia ($187.70 in chips) is sitting out
+Seat 1: Tooniimyname ($89.63 in chips) 
+Seat 3: crist_89870 ($110.88 in chips) 
+Seat 4: Xenicide ($115.32 in chips) 
+Seat 5: blackclan7 ($108.85 in chips) 
+Seat 6: paramourx ($116.82 in chips) 
+Tooniimyname: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+blackclan7: folds 
+paramourx: folds 
+Tooniimyname: calls $0.50
+crist_89870: checks 
+*** FLOP *** [5h 8d 5c]
+Tooniimyname: checks 
+crist_89870: checks 
+*** TURN *** [5h 8d 5c] [Qd]
+Tooniimyname: checks 
+crist_89870: checks 
+*** RIVER *** [5h 8d 5c Qd] [8h]
+Tooniimyname: checks 
+crist_89870: checks 
+*** SHOW DOWN ***
+Tooniimyname: shows [4s 6c] (two pair, Eights and Fives)
+crist_89870: shows [2c Kd] (two pair, Eights and Fives - King kicker)
+crist_89870 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [5h 8d 5c Qd 8h]
+Seat 2: michasia
+Seat 1: Tooniimyname (small blind) showed [4s 6c] and lost with two pair, Eights and Fives
+Seat 3: crist_89870 (big blind) showed [2c Kd] and won ($1.90) with two pair, Eights and Fives
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: paramourx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753072426:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:40:16 WET [2025/02/07 13:40:16 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 2: michasia ($187.70 in chips) is sitting out
+Seat 1: Tooniimyname ($88.63 in chips) 
+Seat 3: crist_89870 ($111.78 in chips) 
+Seat 4: Xenicide ($115.32 in chips) 
+Seat 5: blackclan7 ($108.85 in chips) 
+Seat 6: paramourx ($116.82 in chips) 
+crist_89870: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+blackclan7: folds 
+paramourx: folds 
+Tooniimyname: calls $1
+crist_89870: calls $0.50
+Xenicide: checks 
+*** FLOP *** [3d 4c 6h]
+crist_89870: checks 
+Xenicide: checks 
+Tooniimyname: bets $2.85
+crist_89870: folds 
+Xenicide: folds 
+Uncalled bet ($2.85) returned to Tooniimyname
+Tooniimyname collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [3d 4c 6h]
+Seat 2: michasia
+Seat 1: Tooniimyname (button) collected ($2.85)
+Seat 3: crist_89870 (small blind) folded on the Flop
+Seat 4: Xenicide (big blind) folded on the Flop
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: paramourx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753083126:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:40:54 WET [2025/02/07 13:40:54 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 2: michasia ($187.70 in chips) is sitting out
+Seat 1: Tooniimyname ($90.48 in chips) 
+Seat 3: crist_89870 ($110.78 in chips) 
+Seat 4: Xenicide ($114.32 in chips) 
+Seat 5: blackclan7 ($108.85 in chips) 
+Seat 6: paramourx ($116.82 in chips) 
+Xenicide: posts small blind $0.50
+blackclan7: posts big blind $1
+*** HOLE CARDS ***
+paramourx has timed out
+paramourx: folds 
+Tooniimyname: calls $1
+crist_89870: raises $2.50 to $3.50
+Xenicide: folds 
+blackclan7: folds 
+Tooniimyname: calls $2.50
+*** FLOP *** [6d 8s Jc]
+Tooniimyname: checks 
+crist_89870: bets $4.04
+Tooniimyname: calls $4.04
+*** TURN *** [6d 8s Jc] [2s]
+Tooniimyname: checks 
+crist_89870: checks 
+*** RIVER *** [6d 8s Jc 2s] [7h]
+Tooniimyname: bets $16.75
+crist_89870: folds 
+Uncalled bet ($16.75) returned to Tooniimyname
+Tooniimyname collected $15.75 from pot
+*** SUMMARY ***
+Total pot $16.58 | Rake $0.83 
+Board [6d 8s Jc 2s 7h]
+Seat 2: michasia
+Seat 1: Tooniimyname collected ($15.75)
+Seat 3: crist_89870 (button) folded on the River
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: blackclan7 (big blind) folded before Flop
+Seat 6: paramourx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753105929:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:42:15 WET [2025/02/07 13:42:15 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 2: michasia ($187.70 in chips) is sitting out
+Seat 1: Tooniimyname ($98.69 in chips) 
+Seat 3: crist_89870 ($103.24 in chips) 
+Seat 4: Xenicide ($113.82 in chips) 
+Seat 5: blackclan7 ($107.85 in chips) 
+Seat 6: paramourx ($116.82 in chips) 
+blackclan7: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+Tooniimyname: calls $1
+crist_89870: raises $2.50 to $3.50
+Xenicide: folds 
+blackclan7: calls $3
+paramourx: folds 
+Tooniimyname: calls $2.50
+*** FLOP *** [Ah Jc 2c]
+blackclan7: checks 
+Tooniimyname: checks 
+crist_89870: bets $5.46
+blackclan7: folds 
+Tooniimyname: folds 
+Uncalled bet ($5.46) returned to crist_89870
+crist_89870 collected $10.92 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.58 
+Board [Ah Jc 2c]
+Seat 2: michasia
+Seat 1: Tooniimyname folded on the Flop
+Seat 3: crist_89870 collected ($10.92)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: blackclan7 (small blind) folded on the Flop
+Seat 6: paramourx (big blind) folded before Flop
+
+
+
+PokerStars Hand #254753120674:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:43:08 WET [2025/02/07 13:43:08 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 2: michasia ($187.70 in chips) is sitting out
+Seat 1: Tooniimyname ($95.19 in chips) 
+Seat 3: crist_89870 ($110.66 in chips) 
+Seat 4: Xenicide ($113.82 in chips) 
+Seat 5: blackclan7 ($104.35 in chips) 
+Seat 6: paramourx ($115.82 in chips) 
+paramourx: posts small blind $0.50
+Tooniimyname: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: folds 
+Xenicide: raises $1 to $2
+blackclan7: folds 
+paramourx: folds 
+Tooniimyname: calls $1
+*** FLOP *** [Js 2d 7s]
+Tooniimyname: checks 
+Xenicide: bets $1.07
+Tooniimyname: calls $1.07
+*** TURN *** [Js 2d 7s] [2s]
+Tooniimyname: checks 
+Xenicide: bets $2.21
+Tooniimyname: calls $2.21
+*** RIVER *** [Js 2d 7s 2s] [Qd]
+Tooniimyname: checks 
+Xenicide: bets $3.68
+Tooniimyname: folds 
+Uncalled bet ($3.68) returned to Xenicide
+Xenicide collected $10.51 from pot
+Xenicide: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.06 | Rake $0.55 
+Board [Js 2d 7s 2s Qd]
+Seat 2: michasia
+Seat 1: Tooniimyname (big blind) folded on the River
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: Xenicide collected ($10.51)
+Seat 5: blackclan7 (button) folded before Flop (didn't bet)
+Seat 6: paramourx (small blind) folded before Flop
+
+
+
+PokerStars Hand #254753135195:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:44:00 WET [2025/02/07 13:44:00 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 1: Tooniimyname ($89.91 in chips) 
+Seat 2: michasia ($187.70 in chips) 
+Seat 3: crist_89870 ($110.66 in chips) 
+Seat 4: Xenicide ($119.05 in chips) 
+Seat 5: blackclan7 ($104.35 in chips) 
+Seat 6: paramourx ($115.32 in chips) 
+Tooniimyname: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: folds 
+Xenicide: folds 
+blackclan7: folds 
+paramourx: raises $2 to $3
+Tooniimyname: folds 
+michasia: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Tooniimyname (small blind) folded before Flop
+Seat 2: michasia (big blind) folded before Flop
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: paramourx (button) collected ($2.50)
+
+
+
+PokerStars Hand #254753140498:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:44:19 WET [2025/02/07 13:44:19 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 1: Tooniimyname ($89.41 in chips) 
+Seat 2: michasia ($186.70 in chips) 
+Seat 3: crist_89870 ($110.66 in chips) 
+Seat 4: Xenicide ($119.05 in chips) 
+Seat 5: blackclan7 ($104.35 in chips) 
+Seat 6: paramourx ($116.82 in chips) 
+michasia: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+blackclan7: folds 
+paramourx: folds 
+Tooniimyname: calls $1
+michasia: folds 
+crist_89870: checks 
+*** FLOP *** [5h 8h 7c]
+crist_89870: checks 
+Tooniimyname: checks 
+*** TURN *** [5h 8h 7c] [3s]
+crist_89870: checks 
+Tooniimyname: checks 
+*** RIVER *** [5h 8h 7c 3s] [3d]
+crist_89870: bets $1.19
+Tooniimyname: folds 
+Uncalled bet ($1.19) returned to crist_89870
+crist_89870 collected $2.38 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [5h 8h 7c 3s 3d]
+Seat 1: Tooniimyname (button) folded on the River
+Seat 2: michasia (small blind) folded before Flop
+Seat 3: crist_89870 (big blind) collected ($2.38)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: paramourx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753151237:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:44:57 WET [2025/02/07 13:44:57 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 1: Tooniimyname ($88.41 in chips) 
+Seat 2: michasia ($186.20 in chips) 
+Seat 3: crist_89870 ($112.04 in chips) 
+Seat 4: Xenicide ($119.05 in chips) 
+Seat 5: blackclan7 ($104.35 in chips) 
+Seat 6: paramourx ($116.82 in chips) 
+crist_89870: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+blackclan7: folds 
+paramourx: folds 
+Tooniimyname: calls $1
+michasia: folds 
+crist_89870: folds 
+Xenicide: checks 
+*** FLOP *** [8s Qc 7h]
+Xenicide: checks 
+Tooniimyname: checks 
+*** TURN *** [8s Qc 7h] [3d]
+Xenicide: checks 
+Tooniimyname: checks 
+*** RIVER *** [8s Qc 7h 3d] [6c]
+Xenicide: bets $1
+Tooniimyname: calls $1
+*** SHOW DOWN ***
+Xenicide: shows [8d Tc] (a pair of Eights)
+Tooniimyname: shows [Ad 9d] (high card Ace)
+Xenicide collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [8s Qc 7h 3d 6c]
+Seat 1: Tooniimyname showed [Ad 9d] and lost with high card Ace
+Seat 2: michasia (button) folded before Flop (didn't bet)
+Seat 3: crist_89870 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) showed [8d Tc] and won ($4.28) with a pair of Eights
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: paramourx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753166276:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:45:51 WET [2025/02/07 13:45:51 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 1: Tooniimyname ($86.41 in chips) 
+Seat 2: michasia ($186.20 in chips) 
+Seat 3: crist_89870 ($111.54 in chips) 
+Seat 4: Xenicide ($121.33 in chips) 
+Seat 5: blackclan7 ($104.35 in chips) 
+Seat 6: paramourx ($116.82 in chips) 
+Xenicide: posts small blind $0.50
+blackclan7: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+Tooniimyname: calls $1
+michasia: raises $2.50 to $3.50
+crist_89870: folds 
+Xenicide: folds 
+blackclan7: folds 
+Tooniimyname: raises $2.50 to $6
+michasia: calls $2.50
+*** FLOP *** [7c 6c Ac]
+Tooniimyname: bets $6.82
+michasia: calls $6.82
+*** TURN *** [7c 6c Ac] [3c]
+Tooniimyname: bets $25.78
+michasia: folds 
+Uncalled bet ($25.78) returned to Tooniimyname
+Tooniimyname collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27.14 | Rake $1.36 
+Board [7c 6c Ac 3c]
+Seat 1: Tooniimyname collected ($25.78)
+Seat 2: michasia folded on the Turn
+Seat 3: crist_89870 (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: blackclan7 (big blind) folded before Flop
+Seat 6: paramourx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753180028:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:46:39 WET [2025/02/07 13:46:39 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 6: paramourx ($116.82 in chips) is sitting out
+Seat 1: Tooniimyname ($99.37 in chips) 
+Seat 2: michasia ($173.38 in chips) 
+Seat 3: crist_89870 ($111.54 in chips) 
+Seat 4: Xenicide ($120.83 in chips) 
+Seat 5: blackclan7 ($103.35 in chips) 
+blackclan7: posts small blind $0.50
+paramourx: is sitting out 
+Tooniimyname: posts big blind $1
+*** HOLE CARDS ***
+michasia: raises $1.60 to $2.60
+crist_89870: raises $5.90 to $8.50
+Xenicide: folds 
+blackclan7: folds 
+Tooniimyname: folds 
+michasia: folds 
+Uncalled bet ($5.90) returned to crist_89870
+crist_89870 collected $6.70 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.70 | Rake $0 
+Seat 6: paramourx
+Seat 1: Tooniimyname (big blind) folded before Flop
+Seat 2: michasia folded before Flop
+Seat 3: crist_89870 collected ($6.70)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: blackclan7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254753187863:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:47:07 WET [2025/02/07 13:47:07 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 6: paramourx ($116.82 in chips) is sitting out
+Seat 1: Tooniimyname ($98.37 in chips) 
+Seat 2: michasia ($170.78 in chips) 
+Seat 3: crist_89870 ($115.64 in chips) 
+Seat 4: Xenicide ($120.83 in chips) 
+Seat 5: blackclan7 ($102.85 in chips) 
+Tooniimyname: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: raises $1.50 to $2.50
+Xenicide: folds 
+blackclan7: folds 
+Tooniimyname: folds 
+michasia: folds 
+Uncalled bet ($1.50) returned to crist_89870
+crist_89870 collected $2.50 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: paramourx
+Seat 1: Tooniimyname (small blind) folded before Flop
+Seat 2: michasia (big blind) folded before Flop
+Seat 3: crist_89870 collected ($2.50)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: blackclan7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753193142:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:47:26 WET [2025/02/07 13:47:26 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 6: paramourx ($116.82 in chips) is sitting out
+Seat 1: Tooniimyname ($97.87 in chips) 
+Seat 2: michasia ($169.78 in chips) 
+Seat 3: crist_89870 ($117.14 in chips) 
+Seat 4: Xenicide ($120.83 in chips) 
+Seat 5: blackclan7 ($102.85 in chips) 
+michasia: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+paramourx leaves the table
+Xenicide: folds 
+blackclan7: folds 
+Tooniimyname: calls $1
+michasia: raises $4 to $5
+crist_89870: folds 
+Tooniimyname: calls $4
+*** FLOP *** [Qc 6h Tc]
+michasia: bets $6.97
+Tooniimyname: calls $6.97
+*** TURN *** [Qc 6h Tc] [7c]
+michasia: checks 
+Tooniimyname: checks 
+*** RIVER *** [Qc 6h Tc 7c] [8c]
+BumHuntKing joins the table at seat #6 
+michasia: checks 
+Tooniimyname: bets $23.69
+michasia: folds 
+Uncalled bet ($23.69) returned to Tooniimyname
+Tooniimyname collected $23.69 from pot
+*** SUMMARY ***
+Total pot $24.94 | Rake $1.25 
+Board [Qc 6h Tc 7c 8c]
+Seat 6: paramourx
+Seat 1: Tooniimyname (button) collected ($23.69)
+Seat 2: michasia (small blind) folded on the River
+Seat 3: crist_89870 (big blind) folded before Flop
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: blackclan7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753207213:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:48:16 WET [2025/02/07 13:48:16 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 6: BumHuntKing ($100 in chips) is sitting out
+Seat 1: Tooniimyname ($109.59 in chips) 
+Seat 2: michasia ($157.81 in chips) 
+Seat 3: crist_89870 ($116.14 in chips) 
+Seat 4: Xenicide ($120.83 in chips) 
+Seat 5: blackclan7 ($102.85 in chips) 
+crist_89870: posts small blind $0.50
+Xenicide: posts big blind $1
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+blackclan7: folds 
+Tooniimyname: folds 
+michasia: folds 
+crist_89870: folds 
+Uncalled bet ($0.50) returned to Xenicide
+Xenicide collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: BumHuntKing
+Seat 1: Tooniimyname folded before Flop (didn't bet)
+Seat 2: michasia (button) folded before Flop (didn't bet)
+Seat 3: crist_89870 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) collected ($1)
+Seat 5: blackclan7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753212050:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:48:34 WET [2025/02/07 13:48:34 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 6: BumHuntKing ($100 in chips) is sitting out
+Seat 1: Tooniimyname ($109.59 in chips) 
+Seat 2: michasia ($157.81 in chips) 
+Seat 3: crist_89870 ($115.64 in chips) 
+Seat 4: Xenicide ($121.33 in chips) 
+Seat 5: blackclan7 ($102.85 in chips) 
+Xenicide: posts small blind $0.50
+blackclan7: posts big blind $1
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+Tooniimyname: calls $1
+michasia: folds 
+crist_89870: folds 
+Xenicide: raises $4.50 to $5.50
+blackclan7: folds 
+Tooniimyname: folds 
+Uncalled bet ($4.50) returned to Xenicide
+Xenicide collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 6: BumHuntKing
+Seat 1: Tooniimyname folded before Flop
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) collected ($3)
+Seat 5: blackclan7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254753219859:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:49:01 WET [2025/02/07 13:49:01 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: Tooniimyname ($108.59 in chips) 
+Seat 2: michasia ($157.81 in chips) 
+Seat 3: crist_89870 ($115.64 in chips) 
+Seat 4: Xenicide ($123.33 in chips) 
+Seat 5: blackclan7 ($101.85 in chips) 
+Seat 6: BumHuntKing ($100 in chips) 
+blackclan7: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+Tooniimyname: folds 
+michasia: folds 
+crist_89870: folds 
+Xenicide: raises $1.25 to $2.25
+blackclan7: raises $8.25 to $10.50
+BumHuntKing: folds 
+Xenicide: folds 
+Uncalled bet ($8.25) returned to blackclan7
+blackclan7 collected $5.50 from pot
+blackclan7: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: Tooniimyname folded before Flop (didn't bet)
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop
+Seat 5: blackclan7 (small blind) collected ($5.50)
+Seat 6: BumHuntKing (big blind) folded before Flop
+
+
+
+PokerStars Hand #254753226338:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:49:25 WET [2025/02/07 13:49:25 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 1: Tooniimyname ($108.59 in chips) 
+Seat 2: michasia ($157.81 in chips) 
+Seat 3: crist_89870 ($115.64 in chips) 
+Seat 4: Xenicide ($121.08 in chips) 
+Seat 5: blackclan7 ($105.10 in chips) 
+Seat 6: BumHuntKing ($100 in chips) 
+BumHuntKing: posts small blind $0.50
+Tooniimyname: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+crist_89870: raises $1.50 to $2.50
+Xenicide: folds 
+blackclan7: folds 
+BumHuntKing: folds 
+Tooniimyname: folds 
+Uncalled bet ($1.50) returned to crist_89870
+crist_89870 collected $2.50 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Tooniimyname (big blind) folded before Flop
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 collected ($2.50)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: blackclan7 (button) folded before Flop (didn't bet)
+Seat 6: BumHuntKing (small blind) folded before Flop
+
+
+
+PokerStars Hand #254753233790:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:49:51 WET [2025/02/07 13:49:51 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 1: Tooniimyname ($107.59 in chips) 
+Seat 2: michasia ($157.81 in chips) 
+Seat 3: crist_89870 ($117.14 in chips) 
+Seat 4: Xenicide ($121.08 in chips) 
+Seat 5: blackclan7 ($105.10 in chips) 
+Seat 6: BumHuntKing ($100 in chips) 
+Tooniimyname: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: folds 
+Xenicide: folds 
+blackclan7: folds 
+BumHuntKing: raises $1.50 to $2.50
+Tooniimyname: folds 
+michasia: calls $1.50
+*** FLOP *** [Qd Js 3d]
+michasia: checks 
+BumHuntKing: bets $1.72
+michasia: raises $3.44 to $5.16
+BumHuntKing: calls $3.44
+*** TURN *** [Qd Js 3d] [Ah]
+michasia: bets $18.79
+BumHuntKing: calls $18.79
+*** RIVER *** [Qd Js 3d Ah] [9d]
+michasia: checks 
+BumHuntKing: checks 
+*** SHOW DOWN ***
+michasia: shows [Kh Th] (a straight, Ten to Ace)
+BumHuntKing: mucks hand 
+michasia collected $50.90 from pot
+*** SUMMARY ***
+Total pot $53.40 | Rake $2.50 
+Board [Qd Js 3d Ah 9d]
+Seat 1: Tooniimyname (small blind) folded before Flop
+Seat 2: michasia (big blind) showed [Kh Th] and won ($50.90) with a straight, Ten to Ace
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: BumHuntKing (button) mucked
+
+
+
+PokerStars Hand #254753257790:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:51:16 WET [2025/02/07 13:51:16 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 1: Tooniimyname ($107.09 in chips) 
+Seat 2: michasia ($182.26 in chips) 
+Seat 3: crist_89870 ($117.14 in chips) 
+Seat 4: Xenicide ($121.08 in chips) 
+Seat 5: blackclan7 ($105.10 in chips) 
+Seat 6: BumHuntKing ($100 in chips) 
+michasia: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+blackclan7: folds 
+BumHuntKing: folds 
+Tooniimyname: folds 
+michasia: folds 
+Uncalled bet ($0.50) returned to crist_89870
+crist_89870 collected $1 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Tooniimyname (button) folded before Flop (didn't bet)
+Seat 2: michasia (small blind) folded before Flop
+Seat 3: crist_89870 (big blind) collected ($1)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: BumHuntKing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753263475:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:51:36 WET [2025/02/07 13:51:36 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 1: Tooniimyname ($107.09 in chips) 
+Seat 2: michasia ($181.76 in chips) 
+Seat 3: crist_89870 ($117.64 in chips) 
+Seat 4: Xenicide ($121.08 in chips) 
+Seat 5: blackclan7 ($105.10 in chips) 
+Seat 6: BumHuntKing ($100 in chips) 
+crist_89870: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+blackclan7: folds 
+BumHuntKing: folds 
+Tooniimyname: folds 
+michasia: raises $1.80 to $2.80
+crist_89870: folds 
+Xenicide: folds 
+Uncalled bet ($1.80) returned to michasia
+michasia collected $2.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Tooniimyname folded before Flop (didn't bet)
+Seat 2: michasia (button) collected ($2.50)
+Seat 3: crist_89870 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) folded before Flop
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: BumHuntKing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753268995:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:51:55 WET [2025/02/07 13:51:55 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 1: Tooniimyname ($107.09 in chips) 
+Seat 2: michasia ($183.26 in chips) 
+Seat 3: crist_89870 ($117.14 in chips) 
+Seat 4: Xenicide ($120.08 in chips) 
+Seat 5: blackclan7 ($105.10 in chips) 
+Seat 6: BumHuntKing ($100 in chips) 
+Xenicide: posts small blind $0.50
+blackclan7: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: raises $1.20 to $2.20
+Tooniimyname: calls $2.20
+michasia: folds 
+crist_89870: raises $8.80 to $11
+Xenicide: folds 
+blackclan7: folds 
+BumHuntKing: folds 
+Tooniimyname: folds 
+Uncalled bet ($8.80) returned to crist_89870
+crist_89870 collected $8.10 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.10 | Rake $0 
+Seat 1: Tooniimyname folded before Flop
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 (button) collected ($8.10)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: blackclan7 (big blind) folded before Flop
+Seat 6: BumHuntKing folded before Flop
+
+
+
+PokerStars Hand #254753281002:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 18:52:38 WET [2025/02/07 13:52:38 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: Tooniimyname ($104.89 in chips) 
+Seat 2: michasia ($183.26 in chips) 
+Seat 3: crist_89870 ($123.04 in chips) 
+Seat 4: Xenicide ($119.58 in chips) 
+Seat 5: blackclan7 ($104.10 in chips) 
+Seat 6: BumHuntKing ($100 in chips) 
+blackclan7: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+Tooniimyname: calls $1
+michasia: folds 
+crist_89870: folds 
+Xenicide: raises $3.50 to $4.50
+blackclan7: folds 
+BumHuntKing: folds 
+Tooniimyname: folds 
+Uncalled bet ($3.50) returned to Xenicide
+Xenicide collected $3.50 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: Tooniimyname folded before Flop
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) collected ($3.50)
+Seat 5: blackclan7 (small blind) folded before Flop
+Seat 6: BumHuntKing (big blind) folded before Flop
+
+
+
+PokerStars Hand #254753391174:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:00:42 WET [2025/02/07 14:00:42 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 2: michasia ($177.26 in chips) 
+Seat 3: crist_89870 ($100 in chips) 
+Seat 4: Xenicide ($145.89 in chips) 
+Seat 5: blackclan7 ($103.64 in chips) 
+Seat 6: BumHuntKing ($103.72 in chips) 
+BumHuntKing: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: raises $1.50 to $2.50
+Xenicide: folds 
+blackclan7: folds 
+BumHuntKing: raises $9 to $11.50
+michasia: folds 
+crist_89870: folds 
+Uncalled bet ($9) returned to BumHuntKing
+BumHuntKing collected $6 from pot
+BumHuntKing: doesn't show hand 
+Mulenga86 joins the table at seat #1 
+Mulenga86 is disconnected 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: michasia (big blind) folded before Flop
+Seat 3: crist_89870 folded before Flop
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: blackclan7 (button) folded before Flop (didn't bet)
+Seat 6: BumHuntKing (small blind) collected ($6)
+
+
+
+PokerStars Hand #254753398022:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:01:12 WET [2025/02/07 14:01:12 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 1: Mulenga86 ($40 in chips) is sitting out
+Seat 3: crist_89870 ($100 in chips) is sitting out
+Seat 4: Xenicide ($145.89 in chips) is sitting out
+Seat 2: michasia ($176.26 in chips) 
+Seat 5: blackclan7 ($103.64 in chips) 
+Seat 6: BumHuntKing ($107.22 in chips) 
+michasia: posts small blind $0.50
+crist_89870: is sitting out 
+Xenicide: is sitting out 
+blackclan7: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+michasia: folds 
+Uncalled bet ($0.50) returned to blackclan7
+Xenicide leaves the table
+blackclan7 collected $1 from pot
+blackclan7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Mulenga86
+Seat 3: crist_89870
+Seat 4: Xenicide
+Seat 2: michasia (small blind) folded before Flop
+Seat 5: blackclan7 (big blind) collected ($1)
+Seat 6: BumHuntKing (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753399525:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:01:18 WET [2025/02/07 14:01:18 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 1: Mulenga86 ($40 in chips) is sitting out
+Seat 3: crist_89870 ($100 in chips) is sitting out
+Seat 2: michasia ($175.76 in chips) 
+Seat 5: blackclan7 ($104.14 in chips) 
+Seat 6: BumHuntKing ($107.22 in chips) 
+blackclan7: posts small blind $0.50
+BumHuntKing: posts big blind $1
+Mulenga86: sits out 
+*** HOLE CARDS ***
+michasia: folds 
+blackclan7: folds 
+Uncalled bet ($0.50) returned to BumHuntKing
+BumHuntKing collected $1 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Mulenga86
+Seat 3: crist_89870
+Seat 2: michasia (button) folded before Flop (didn't bet)
+Seat 5: blackclan7 (small blind) folded before Flop
+Seat 6: BumHuntKing (big blind) collected ($1)
+
+
+
+PokerStars Hand #254753401262:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:01:25 WET [2025/02/07 14:01:25 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 3: crist_89870 ($100 in chips) is sitting out
+Seat 1: Mulenga86 ($40 in chips) 
+Seat 2: michasia ($175.76 in chips) 
+Seat 5: blackclan7 ($103.64 in chips) 
+Seat 6: BumHuntKing ($107.72 in chips) 
+BumHuntKing: posts small blind $0.50
+Mulenga86: posts big blind $1
+crist_89870: sits out 
+*** HOLE CARDS ***
+BGS013 joins the table at seat #4 
+michasia: folds 
+blackclan7: folds 
+BumHuntKing: folds 
+Uncalled bet ($0.50) returned to Mulenga86
+Mulenga86 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: crist_89870
+Seat 1: Mulenga86 (big blind) collected ($1)
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 5: blackclan7 (button) folded before Flop (didn't bet)
+Seat 6: BumHuntKing (small blind) folded before Flop
+
+
+
+PokerStars Hand #254753404794:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:01:38 WET [2025/02/07 14:01:38 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 3: crist_89870 ($100 in chips) is sitting out
+Seat 4: BGS013 ($100 in chips) is sitting out
+Seat 1: Mulenga86 ($40.50 in chips) 
+Seat 2: michasia ($175.76 in chips) 
+Seat 5: blackclan7 ($103.64 in chips) 
+Seat 6: BumHuntKing ($107.22 in chips) 
+Mulenga86: posts small blind $0.50
+michasia: posts big blind $1
+crist_89870: sits out 
+BGS013: sits out 
+*** HOLE CARDS ***
+blackclan7: raises $1.30 to $2.30
+BumHuntKing: folds 
+Mulenga86: folds 
+michasia: folds 
+Uncalled bet ($1.30) returned to blackclan7
+blackclan7 collected $2.50 from pot
+blackclan7: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: crist_89870
+Seat 4: BGS013
+Seat 1: Mulenga86 (small blind) folded before Flop
+Seat 2: michasia (big blind) folded before Flop
+Seat 5: blackclan7 collected ($2.50)
+Seat 6: BumHuntKing (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753408578:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:01:52 WET [2025/02/07 14:01:52 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 4: BGS013 ($100 in chips) is sitting out
+Seat 1: Mulenga86 ($40 in chips) 
+Seat 2: michasia ($174.76 in chips) 
+Seat 3: crist_89870 ($100 in chips) 
+Seat 5: blackclan7 ($105.14 in chips) 
+Seat 6: BumHuntKing ($107.22 in chips) 
+michasia: posts small blind $0.50
+crist_89870: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+blackclan7: folds 
+BumHuntKing: folds 
+Mulenga86: calls $1
+michasia: raises $4 to $5
+crist_89870: folds 
+Mulenga86: folds 
+Uncalled bet ($4) returned to michasia
+michasia collected $3 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 4: BGS013
+Seat 1: Mulenga86 (button) folded before Flop
+Seat 2: michasia (small blind) collected ($3)
+Seat 3: crist_89870 (big blind) folded before Flop
+Seat 5: blackclan7 folded before Flop (didn't bet)
+Seat 6: BumHuntKing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753417323:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:02:25 WET [2025/02/07 14:02:25 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 1: Mulenga86 ($39 in chips) 
+Seat 2: michasia ($176.76 in chips) 
+Seat 3: crist_89870 ($100 in chips) 
+Seat 4: BGS013 ($100 in chips) 
+Seat 5: blackclan7 ($105.14 in chips) 
+Seat 6: BumHuntKing ($107.22 in chips) 
+crist_89870: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+blackclan7: raises $1 to $2
+BumHuntKing: folds 
+Mulenga86: folds 
+michasia: folds 
+crist_89870: folds 
+BGS013: calls $1
+*** FLOP *** [Ad Ah 6s]
+BGS013: checks 
+blackclan7: bets $1.41
+BGS013: calls $1.41
+*** TURN *** [Ad Ah 6s] [9c]
+BGS013: checks 
+blackclan7: checks 
+*** RIVER *** [Ad Ah 6s 9c] [8c]
+BGS013: bets $6.50
+blackclan7: folds 
+Uncalled bet ($6.50) returned to BGS013
+BGS013 collected $6.95 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.32 | Rake $0.37 
+Board [Ad Ah 6s 9c 8c]
+Seat 1: Mulenga86 folded before Flop (didn't bet)
+Seat 2: michasia (button) folded before Flop (didn't bet)
+Seat 3: crist_89870 (small blind) folded before Flop
+Seat 4: BGS013 (big blind) collected ($6.95)
+Seat 5: blackclan7 folded on the River
+Seat 6: BumHuntKing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753435490:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:03:29 WET [2025/02/07 14:03:29 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 5: blackclan7 ($101.73 in chips) is sitting out
+Seat 1: Mulenga86 ($39 in chips) 
+Seat 2: michasia ($176.76 in chips) 
+Seat 3: crist_89870 ($100 in chips) 
+Seat 4: BGS013 ($103.54 in chips) 
+Seat 6: BumHuntKing ($107.22 in chips) 
+BGS013: posts small blind $0.50
+blackclan7: is sitting out 
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+blackclan7 leaves the table
+Mulenga86: folds 
+michasia: folds 
+crist_89870: raises $1.50 to $2.50
+BGS013: folds 
+BumHuntKing: folds 
+Uncalled bet ($1.50) returned to crist_89870
+crist_89870 collected $2.50 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: blackclan7
+Seat 1: Mulenga86 folded before Flop (didn't bet)
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 (button) collected ($2.50)
+Seat 4: BGS013 (small blind) folded before Flop
+Seat 6: BumHuntKing (big blind) folded before Flop
+
+
+
+PokerStars Hand #254753439207:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:03:42 WET [2025/02/07 14:03:42 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: Mulenga86 ($39 in chips) 
+Seat 2: michasia ($176.76 in chips) 
+Seat 3: crist_89870 ($101.50 in chips) 
+Seat 4: BGS013 ($103.04 in chips) 
+Seat 6: BumHuntKing ($106.22 in chips) 
+BumHuntKing: posts small blind $0.50
+Mulenga86: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+crist_89870: folds 
+BGS013: folds 
+BumHuntKing: raises $2 to $3
+Mulenga86: folds 
+Uncalled bet ($2) returned to BumHuntKing
+BumHuntKing collected $2 from pot
+BumHuntKing: doesn't show hand 
+Nazareno1999 joins the table at seat #5 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Mulenga86 (big blind) folded before Flop
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: BGS013 (button) folded before Flop (didn't bet)
+Seat 6: BumHuntKing (small blind) collected ($2)
+
+
+
+PokerStars Hand #254753441917:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:03:52 WET [2025/02/07 14:03:52 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 5: Nazareno1999 ($100 in chips) is sitting out
+Seat 1: Mulenga86 ($38 in chips) 
+Seat 2: michasia ($176.76 in chips) 
+Seat 3: crist_89870 ($101.50 in chips) 
+Seat 4: BGS013 ($103.04 in chips) 
+Seat 6: BumHuntKing ($107.22 in chips) 
+Mulenga86: posts small blind $0.50
+michasia: posts big blind $1
+Nazareno1999: sits out 
+*** HOLE CARDS ***
+crist_89870: folds 
+BGS013: raises $1.50 to $2.50
+BumHuntKing: folds 
+Mulenga86: folds 
+michasia: folds 
+Uncalled bet ($1.50) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: Nazareno1999
+Seat 1: Mulenga86 (small blind) folded before Flop
+Seat 2: michasia (big blind) folded before Flop
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: BGS013 collected ($2.50)
+Seat 6: BumHuntKing (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753445122:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:04:04 WET [2025/02/07 14:04:04 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 5: Nazareno1999 ($100 in chips) is sitting out
+Seat 1: Mulenga86 ($37.50 in chips) 
+Seat 2: michasia ($175.76 in chips) 
+Seat 3: crist_89870 ($101.50 in chips) 
+Seat 4: BGS013 ($104.54 in chips) 
+Seat 6: BumHuntKing ($107.22 in chips) 
+michasia: posts small blind $0.50
+crist_89870: posts big blind $1
+Nazareno1999: sits out 
+*** HOLE CARDS ***
+BGS013: folds 
+BumHuntKing: folds 
+Mulenga86: folds 
+michasia: raises $2 to $3
+crist_89870: calls $2
+*** FLOP *** [2c 2h Ks]
+michasia: bets $1.88
+crist_89870: calls $1.88
+*** TURN *** [2c 2h Ks] [8c]
+michasia: checks 
+crist_89870: checks 
+*** RIVER *** [2c 2h Ks 8c] [Th]
+michasia: checks 
+crist_89870: checks 
+*** SHOW DOWN ***
+michasia: shows [7s 9s] (a pair of Deuces)
+crist_89870: shows [As 6c] (a pair of Deuces - Ace kicker)
+crist_89870 collected $9.27 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [2c 2h Ks 8c Th]
+Seat 5: Nazareno1999
+Seat 1: Mulenga86 (button) folded before Flop (didn't bet)
+Seat 2: michasia (small blind) showed [7s 9s] and lost with a pair of Deuces
+Seat 3: crist_89870 (big blind) showed [As 6c] and won ($9.27) with a pair of Deuces
+Seat 4: BGS013 folded before Flop (didn't bet)
+Seat 6: BumHuntKing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753455027:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:04:38 WET [2025/02/07 14:04:38 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 5: Nazareno1999 ($100 in chips) is sitting out
+Seat 1: Mulenga86 ($37.50 in chips) 
+Seat 2: michasia ($170.88 in chips) 
+Seat 3: crist_89870 ($105.89 in chips) 
+Seat 4: BGS013 ($104.54 in chips) 
+Seat 6: BumHuntKing ($107.22 in chips) 
+crist_89870: posts small blind $0.50
+BGS013: posts big blind $1
+Nazareno1999: sits out 
+*** HOLE CARDS ***
+BumHuntKing: folds 
+Mulenga86: calls $1
+michasia: folds 
+crist_89870: folds 
+BGS013: raises $4 to $5
+Mulenga86: calls $4
+*** FLOP *** [Ts Qc 2d]
+BGS013: bets $2.59
+Mulenga86: calls $2.59
+*** TURN *** [Ts Qc 2d] [6h]
+BGS013: checks 
+Mulenga86: bets $4
+BGS013: calls $4
+*** RIVER *** [Ts Qc 2d 6h] [7c]
+BGS013: checks 
+Mulenga86: checks 
+*** SHOW DOWN ***
+BGS013: shows [9c 9s] (a pair of Nines)
+Mulenga86: shows [Ks Td] (a pair of Tens)
+Mulenga86 collected $22.50 from pot
+*** SUMMARY ***
+Total pot $23.68 | Rake $1.18 
+Board [Ts Qc 2d 6h 7c]
+Seat 5: Nazareno1999
+Seat 1: Mulenga86 showed [Ks Td] and won ($22.50) with a pair of Tens
+Seat 2: michasia (button) folded before Flop (didn't bet)
+Seat 3: crist_89870 (small blind) folded before Flop
+Seat 4: BGS013 (big blind) showed [9c 9s] and lost with a pair of Nines
+Seat 6: BumHuntKing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753464980:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:05:13 WET [2025/02/07 14:05:13 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 1: Mulenga86 ($48.41 in chips) 
+Seat 2: michasia ($170.88 in chips) 
+Seat 3: crist_89870 ($105.39 in chips) 
+Seat 4: BGS013 ($100 in chips) 
+Seat 5: Nazareno1999 ($100 in chips) 
+Seat 6: BumHuntKing ($107.22 in chips) 
+BGS013: posts small blind $0.50
+Nazareno1999: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+Mulenga86: folds 
+michasia: folds 
+crist_89870: folds 
+BGS013: folds 
+Uncalled bet ($0.50) returned to Nazareno1999
+Nazareno1999 collected $1 from pot
+Nazareno1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Mulenga86 folded before Flop (didn't bet)
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 (button) folded before Flop (didn't bet)
+Seat 4: BGS013 (small blind) folded before Flop
+Seat 5: Nazareno1999 (big blind) collected ($1)
+Seat 6: BumHuntKing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753469387:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:05:29 WET [2025/02/07 14:05:29 ET]
+Table 'Jens II' 6-max Seat #4 is the button
+Seat 1: Mulenga86 ($48.41 in chips) 
+Seat 2: michasia ($170.88 in chips) 
+Seat 3: crist_89870 ($105.39 in chips) 
+Seat 4: BGS013 ($100 in chips) 
+Seat 5: Nazareno1999 ($100.50 in chips) 
+Seat 6: BumHuntKing ($107.22 in chips) 
+Nazareno1999: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+Mulenga86: folds 
+michasia: folds 
+crist_89870: folds 
+BGS013: raises $1.50 to $2.50
+Nazareno1999: folds 
+BumHuntKing: folds 
+Uncalled bet ($1.50) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Mulenga86 folded before Flop (didn't bet)
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: BGS013 (button) collected ($2.50)
+Seat 5: Nazareno1999 (small blind) folded before Flop
+Seat 6: BumHuntKing (big blind) folded before Flop
+
+
+
+PokerStars Hand #254753479446:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:06:03 WET [2025/02/07 14:06:03 ET]
+Table 'Jens II' 6-max Seat #5 is the button
+Seat 1: Mulenga86 ($48.41 in chips) 
+Seat 2: michasia ($170.88 in chips) 
+Seat 3: crist_89870 ($105.39 in chips) 
+Seat 4: BGS013 ($101.50 in chips) 
+Seat 5: Nazareno1999 ($100 in chips) 
+Seat 6: BumHuntKing ($106.22 in chips) 
+BumHuntKing: posts small blind $0.50
+Mulenga86: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+crist_89870: folds 
+BGS013: raises $1.50 to $2.50
+Nazareno1999: folds 
+BumHuntKing: folds 
+Mulenga86: folds 
+Uncalled bet ($1.50) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Mulenga86 (big blind) folded before Flop
+Seat 2: michasia folded before Flop (didn't bet)
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: BGS013 collected ($2.50)
+Seat 5: Nazareno1999 (button) folded before Flop (didn't bet)
+Seat 6: BumHuntKing (small blind) folded before Flop
+
+
+
+PokerStars Hand #254753486887:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:06:29 WET [2025/02/07 14:06:29 ET]
+Table 'Jens II' 6-max Seat #6 is the button
+Seat 1: Mulenga86 ($47.41 in chips) 
+Seat 2: michasia ($170.88 in chips) 
+Seat 3: crist_89870 ($105.39 in chips) 
+Seat 4: BGS013 ($103 in chips) 
+Seat 5: Nazareno1999 ($100 in chips) 
+Seat 6: BumHuntKing ($105.72 in chips) 
+Mulenga86: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: folds 
+BGS013: folds 
+Nazareno1999: folds 
+Nazareno1999 leaves the table
+BumHuntKing: raises $1.50 to $2.50
+Mulenga86: calls $2
+michasia: raises $11.50 to $14
+BumHuntKing: folds 
+Mulenga86: folds 
+Uncalled bet ($11.50) returned to michasia
+michasia collected $7.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: Mulenga86 (small blind) folded before Flop
+Seat 2: michasia (big blind) collected ($7.50)
+Seat 3: crist_89870 folded before Flop (didn't bet)
+Seat 4: BGS013 folded before Flop (didn't bet)
+Seat 5: Nazareno1999 folded before Flop (didn't bet)
+Seat 6: BumHuntKing (button) folded before Flop
+
+
+
+PokerStars Hand #254753495080:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:06:58 WET [2025/02/07 14:06:58 ET]
+Table 'Jens II' 6-max Seat #1 is the button
+Seat 1: Mulenga86 ($44.91 in chips) 
+Seat 2: michasia ($175.88 in chips) 
+Seat 3: crist_89870 ($105.39 in chips) 
+Seat 4: BGS013 ($103 in chips) 
+Seat 6: BumHuntKing ($103.22 in chips) 
+michasia: posts small blind $0.50
+crist_89870: posts big blind $1
+*** HOLE CARDS ***
+BGS013: raises $1 to $2
+BumHuntKing: calls $2
+Mulenga86: calls $2
+michasia: raises $13 to $15
+crist_89870: folds 
+BGS013: folds 
+BumHuntKing: folds 
+Mulenga86: raises $29.91 to $44.91 and is all-in
+michasia: calls $29.91
+*** FLOP *** [7c 4s Js]
+*** TURN *** [7c 4s Js] [Jc]
+*** RIVER *** [7c 4s Js Jc] [Kc]
+*** SHOW DOWN ***
+michasia: shows [Ah Ac] (two pair, Aces and Jacks)
+Mulenga86: shows [Kh Kd] (a full house, Kings full of Jacks)
+Mulenga86 collected $92.32 from pot
+*** SUMMARY ***
+Total pot $94.82 | Rake $2.50 
+Board [7c 4s Js Jc Kc]
+Seat 1: Mulenga86 (button) showed [Kh Kd] and won ($92.32) with a full house, Kings full of Jacks
+Seat 2: michasia (small blind) showed [Ah Ac] and lost with two pair, Aces and Jacks
+Seat 3: crist_89870 (big blind) folded before Flop
+Seat 4: BGS013 folded before Flop
+Seat 6: BumHuntKing folded before Flop
+
+
+
+PokerStars Hand #254753504533:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:07:31 WET [2025/02/07 14:07:31 ET]
+Table 'Jens II' 6-max Seat #2 is the button
+Seat 1: Mulenga86 ($92.32 in chips) 
+Seat 2: michasia ($130.97 in chips) 
+Seat 3: crist_89870 ($104.39 in chips) 
+Seat 4: BGS013 ($101 in chips) 
+Seat 6: BumHuntKing ($101.22 in chips) 
+crist_89870: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+Mulenga86: folds 
+Mulenga86 leaves the table
+michasia: folds 
+crist_89870: raises $2 to $3
+BGS013: calls $2
+*** FLOP *** [9s 8h As]
+crist_89870: bets $1.71
+BGS013: calls $1.71
+*** TURN *** [9s 8h As] [2d]
+crist_89870: bets $6.71
+BGS013: calls $6.71
+*** RIVER *** [9s 8h As 2d] [Ks]
+crist_89870: checks 
+BGS013: bets $35
+crist_89870: folds 
+Uncalled bet ($35) returned to BGS013
+BGS013 collected $21.70 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.84 | Rake $1.14 
+Board [9s 8h As 2d Ks]
+Seat 1: Mulenga86 folded before Flop (didn't bet)
+Seat 2: michasia (button) folded before Flop (didn't bet)
+Seat 3: crist_89870 (small blind) folded on the River
+Seat 4: BGS013 (big blind) collected ($21.70)
+Seat 6: BumHuntKing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753521153:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:08:29 WET [2025/02/07 14:08:29 ET]
+Table 'Jens II' 6-max Seat #3 is the button
+Seat 6: BumHuntKing ($101.22 in chips) is sitting out
+Seat 2: michasia ($130.97 in chips) 
+Seat 3: crist_89870 ($100 in chips) 
+Seat 4: BGS013 ($111.28 in chips) 
+BGS013: posts small blind $0.50
+BumHuntKing: is sitting out 
+michasia: posts big blind $1
+*** HOLE CARDS ***
+crist_89870: raises $1.50 to $2.50
+BGS013: folds 
+michasia: folds 
+Uncalled bet ($1.50) returned to crist_89870
+crist_89870 collected $2.50 from pot
+crist_89870: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: BumHuntKing
+Seat 2: michasia (big blind) folded before Flop
+Seat 3: crist_89870 (button) collected ($2.50)
+Seat 4: BGS013 (small blind) folded before Flop
+
+
+

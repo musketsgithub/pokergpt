@@ -1,0 +1,43 @@
+﻿PokerStars Hand #254372867327:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 21:26:27 WET [2025/01/14 16:26:27 ET]
+Table 'Haedus III' 6-max Seat #3 is the button
+Seat 3: straight77777 ($9 in chips) 
+Seat 4: Joker007r ($101 in chips) 
+straight77777: posts small blind $0.50
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+straight77777: raises $1 to $2
+Joker007r: folds 
+Uncalled bet ($1) returned to straight77777
+straight77777 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: straight77777 (button) (small blind) collected ($2)
+Seat 4: Joker007r (big blind) folded before Flop
+
+
+
+PokerStars Hand #254372870406:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 21:26:37 WET [2025/01/14 16:26:37 ET]
+Table 'Haedus III' 6-max Seat #4 is the button
+Seat 3: straight77777 ($10 in chips) 
+Seat 4: Joker007r ($100 in chips) 
+Joker007r: posts small blind $0.50
+straight77777: posts big blind $1
+*** HOLE CARDS ***
+Joker007r: raises $99 to $100 and is all-in
+straight77777: calls $9 and is all-in
+Uncalled bet ($90) returned to Joker007r
+*** FLOP *** [Kc 3c 9d]
+*** TURN *** [Kc 3c 9d] [Td]
+*** RIVER *** [Kc 3c 9d Td] [5d]
+*** SHOW DOWN ***
+straight77777: shows [5h As] (a pair of Fives)
+Joker007r: shows [Kh Js] (a pair of Kings)
+Joker007r collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Kc 3c 9d Td 5d]
+Seat 3: straight77777 (big blind) showed [5h As] and lost with a pair of Fives
+Seat 4: Joker007r (button) (small blind) showed [Kh Js] and won ($19) with a pair of Kings
+
+
+

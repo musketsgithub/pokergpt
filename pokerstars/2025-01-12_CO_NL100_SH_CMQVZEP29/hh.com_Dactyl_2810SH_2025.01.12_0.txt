@@ -1,0 +1,979 @@
+﻿PokerStars Hand #254325715081:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 3:57:40 WET [2025/01/11 22:57:40 ET]
+Table 'Dactyl III' 6-max Seat #2 is the button
+Seat 1: G.HANSEN333 ($102.50 in chips) 
+Seat 2: roch764 ($68.06 in chips) 
+Seat 3: BeauParleur ($108.83 in chips) 
+Seat 4: Xenicide ($101.50 in chips) 
+Seat 5: Rysiff ($104.45 in chips) 
+Seat 6: XneferX ($100 in chips) 
+BeauParleur: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+XneferX: folds 
+G.HANSEN333: raises $1.50 to $2.50
+roch764: folds 
+BeauParleur: folds 
+Xenicide: calls $1.50
+*** FLOP *** [Js Qd 2s]
+Xenicide: checks 
+G.HANSEN333: bets $2
+Xenicide: raises $5.07 to $7.07
+G.HANSEN333: folds 
+Uncalled bet ($5.07) returned to Xenicide
+Xenicide collected $9.02 from pot
+Xenicide: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Js Qd 2s]
+Seat 1: G.HANSEN333 folded on the Flop
+Seat 2: roch764 (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: Xenicide (big blind) collected ($9.02)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254325720418:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 3:58:29 WET [2025/01/11 22:58:29 ET]
+Table 'Dactyl III' 6-max Seat #3 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: roch764 ($68.06 in chips) 
+Seat 3: BeauParleur ($108.33 in chips) 
+Seat 4: Xenicide ($106.02 in chips) 
+Seat 5: Rysiff ($104.45 in chips) 
+Seat 6: XneferX ($100 in chips) 
+Xenicide: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+XneferX: raises $1.20 to $2.20
+G.HANSEN333: folds 
+roch764: folds 
+BeauParleur: folds 
+Xenicide: folds 
+Rysiff: folds 
+Uncalled bet ($1.20) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: G.HANSEN333 folded before Flop (didn't bet)
+Seat 2: roch764 folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: XneferX collected ($2.50)
+
+
+
+PokerStars Hand #254325721733:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 3:58:42 WET [2025/01/11 22:58:42 ET]
+Table 'Dactyl III' 6-max Seat #4 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: roch764 ($68.06 in chips) 
+Seat 3: BeauParleur ($108.33 in chips) 
+Seat 4: Xenicide ($105.52 in chips) 
+Seat 5: Rysiff ($103.45 in chips) 
+Seat 6: XneferX ($101.50 in chips) 
+Rysiff: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+G.HANSEN333: folds 
+roch764: folds 
+BeauParleur: folds 
+Xenicide: folds 
+Rysiff: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: G.HANSEN333 folded before Flop (didn't bet)
+Seat 2: roch764 folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+Seat 6: XneferX (big blind) collected ($1)
+
+
+
+PokerStars Hand #254325724032:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 3:59:04 WET [2025/01/11 22:59:04 ET]
+Table 'Dactyl III' 6-max Seat #5 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: roch764 ($68.06 in chips) 
+Seat 3: BeauParleur ($108.33 in chips) 
+Seat 4: Xenicide ($105.52 in chips) 
+Seat 5: Rysiff ($102.95 in chips) 
+Seat 6: XneferX ($102 in chips) 
+XneferX: posts small blind $0.50
+G.HANSEN333: posts big blind $1
+*** HOLE CARDS ***
+roch764: calls $1
+BeauParleur: folds 
+Xenicide: folds 
+Rysiff: raises $3 to $4
+XneferX: folds 
+G.HANSEN333: folds 
+roch764: raises $64.06 to $68.06 and is all-in
+Rysiff: calls $64.06
+*** FLOP *** [9s 5h Th]
+*** TURN *** [9s 5h Th] [3h]
+*** RIVER *** [9s 5h Th 3h] [5c]
+*** SHOW DOWN ***
+roch764: shows [4s Ks] (a pair of Fives)
+Rysiff: shows [Qd Ad] (a pair of Fives - Ace kicker)
+Rysiff collected $135.12 from pot
+*** SUMMARY ***
+Total pot $137.62 | Rake $2.50 
+Board [9s 5h Th 3h 5c]
+Seat 1: G.HANSEN333 (big blind) folded before Flop
+Seat 2: roch764 showed [4s Ks] and lost with a pair of Fives
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: Rysiff (button) showed [Qd Ad] and won ($135.12) with a pair of Fives
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254325727710:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 3:59:38 WET [2025/01/11 22:59:38 ET]
+Table 'Dactyl III' 6-max Seat #6 is the button
+Seat 2: roch764 ($40 in chips) is sitting out
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 3: BeauParleur ($108.33 in chips) 
+Seat 4: Xenicide ($105.52 in chips) 
+Seat 5: Rysiff ($170.01 in chips) 
+Seat 6: XneferX ($101.50 in chips) 
+G.HANSEN333: posts small blind $0.50
+roch764: is sitting out 
+roch764 leaves the table
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+Rysiff: folds 
+XneferX: folds 
+G.HANSEN333: folds 
+Uncalled bet ($0.50) returned to BeauParleur
+BeauParleur collected $1 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: roch764
+Seat 1: G.HANSEN333 (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) collected ($1)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: Rysiff folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254325729026:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 3:59:50 WET [2025/01/11 22:59:50 ET]
+Table 'Dactyl III' 6-max Seat #1 is the button
+Seat 4: Xenicide ($105.52 in chips) is sitting out
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 3: BeauParleur ($108.83 in chips) 
+Seat 5: Rysiff ($170.01 in chips) 
+Seat 6: XneferX ($101.50 in chips) 
+BeauParleur: posts small blind $0.50
+Xenicide: is sitting out 
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Xenicide leaves the table
+XneferX: folds 
+G.HANSEN333: raises $1.50 to $2.50
+XneferX leaves the table
+BeauParleur: raises $9.50 to $12
+Rysiff: folds 
+G.HANSEN333: folds 
+Uncalled bet ($9.50) returned to BeauParleur
+BeauParleur collected $6 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: Xenicide
+Seat 1: G.HANSEN333 (button) folded before Flop
+Seat 3: BeauParleur (small blind) collected ($6)
+Seat 5: Rysiff (big blind) folded before Flop
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254325732738:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:00:25 WET [2025/01/11 23:00:25 ET]
+Table 'Dactyl III' 6-max Seat #3 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 3: BeauParleur ($112.33 in chips) 
+Seat 5: Rysiff ($169.01 in chips) 
+Rysiff: posts small blind $0.50
+G.HANSEN333: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+Rysiff: folds 
+Uncalled bet ($0.50) returned to G.HANSEN333
+G.HANSEN333 collected $1 from pot
+G.HANSEN333: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: G.HANSEN333 (big blind) collected ($1)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 5: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254325733731:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:00:33 WET [2025/01/11 23:00:33 ET]
+Table 'Dactyl III' 6-max Seat #5 is the button
+Seat 1: G.HANSEN333 ($100.50 in chips) 
+Seat 3: BeauParleur ($112.33 in chips) 
+Seat 5: Rysiff ($168.51 in chips) 
+G.HANSEN333: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+G.HANSEN333: folds 
+BeauParleur: calls $1.50
+*** FLOP *** [7c 6c 9s]
+BeauParleur: checks 
+Rysiff: checks 
+*** TURN *** [7c 6c 9s] [3s]
+BeauParleur: checks 
+snnoowflake joins the table at seat #6 
+Rysiff: bets $4.18
+BeauParleur: calls $4.18
+*** RIVER *** [7c 6c 9s 3s] [8s]
+BeauParleur: checks 
+Rysiff: bets $10.54
+BeauParleur: raises $95.11 to $105.65 and is all-in
+Rysiff: folds 
+Uncalled bet ($95.11) returned to BeauParleur
+BeauParleur collected $33.94 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $34.94 | Rake $1 
+Board [7c 6c 9s 3s 8s]
+Seat 1: G.HANSEN333 (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) collected ($33.94)
+Seat 5: Rysiff (button) folded on the River
+
+
+
+PokerStars Hand #254325742993:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:01:48 WET [2025/01/11 23:01:48 ET]
+Table 'Dactyl III' 6-max Seat #1 is the button
+Seat 5: Rysiff ($151.29 in chips) is sitting out
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 3: BeauParleur ($129.05 in chips) 
+Seat 6: snnoowflake ($100 in chips) 
+BeauParleur: posts small blind $0.50
+Rysiff: is sitting out 
+snnoowflake: posts big blind $1
+*** HOLE CARDS ***
+G.HANSEN333: raises $1.50 to $2.50
+Rysiff leaves the table
+BeauParleur: raises $9.50 to $12
+snnoowflake: folds 
+G.HANSEN333: folds 
+Uncalled bet ($9.50) returned to BeauParleur
+BeauParleur collected $6 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 5: Rysiff
+Seat 1: G.HANSEN333 (button) folded before Flop
+Seat 3: BeauParleur (small blind) collected ($6)
+Seat 6: snnoowflake (big blind) folded before Flop
+
+
+
+PokerStars Hand #254325745493:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:02:09 WET [2025/01/11 23:02:09 ET]
+Table 'Dactyl III' 6-max Seat #3 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 3: BeauParleur ($132.55 in chips) 
+Seat 6: snnoowflake ($100 in chips) 
+snnoowflake: posts small blind $0.50
+G.HANSEN333: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+snnoowflake: raises $1.50 to $2.50
+G.HANSEN333: calls $1.50
+*** FLOP *** [7c 3d Ah]
+snnoowflake: checks 
+G.HANSEN333: checks 
+*** TURN *** [7c 3d Ah] [Kh]
+snnoowflake: checks 
+G.HANSEN333: checks 
+*** RIVER *** [7c 3d Ah Kh] [Js]
+snnoowflake: checks 
+G.HANSEN333: checks 
+*** SHOW DOWN ***
+snnoowflake: shows [8h Ks] (a pair of Kings)
+G.HANSEN333: mucks hand 
+snnoowflake collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [7c 3d Ah Kh Js]
+Seat 1: G.HANSEN333 (big blind) mucked
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 6: snnoowflake (small blind) showed [8h Ks] and won ($4.75) with a pair of Kings
+
+
+
+PokerStars Hand #254325751636:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:02:58 WET [2025/01/11 23:02:58 ET]
+Table 'Dactyl III' 6-max Seat #6 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 3: BeauParleur ($132.55 in chips) 
+Seat 6: snnoowflake ($102.25 in chips) 
+G.HANSEN333: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+snnoowflake: folds 
+G.HANSEN333: folds 
+Uncalled bet ($0.50) returned to BeauParleur
+BeauParleur collected $1 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: G.HANSEN333 (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) collected ($1)
+Seat 6: snnoowflake (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254325753609:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:03:14 WET [2025/01/11 23:03:14 ET]
+Table 'Dactyl III' 6-max Seat #1 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 3: BeauParleur ($133.05 in chips) 
+Seat 6: snnoowflake ($102.25 in chips) 
+BeauParleur: posts small blind $0.50
+snnoowflake: posts big blind $1
+*** HOLE CARDS ***
+G.HANSEN333: folds 
+BeauParleur: raises $2 to $3
+snnoowflake: folds 
+Uncalled bet ($2) returned to BeauParleur
+BeauParleur collected $2 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: G.HANSEN333 (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) collected ($2)
+Seat 6: snnoowflake (big blind) folded before Flop
+
+
+
+PokerStars Hand #254325755554:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:03:29 WET [2025/01/11 23:03:29 ET]
+Table 'Dactyl III' 6-max Seat #3 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 3: BeauParleur ($134.05 in chips) 
+Seat 6: snnoowflake ($101.25 in chips) 
+snnoowflake: posts small blind $0.50
+G.HANSEN333: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: raises $1.50 to $2.50
+Xenicide joins the table at seat #2 
+snnoowflake: folds 
+XneferX joins the table at seat #5 
+G.HANSEN333: folds 
+Uncalled bet ($1.50) returned to BeauParleur
+BeauParleur collected $2.50 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: G.HANSEN333 (big blind) folded before Flop
+Seat 3: BeauParleur (button) collected ($2.50)
+Seat 6: snnoowflake (small blind) folded before Flop
+
+
+
+PokerStars Hand #254325757302:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:03:43 WET [2025/01/11 23:03:43 ET]
+Table 'Dactyl III' 6-max Seat #6 is the button
+Seat 5: XneferX ($101.50 in chips) is sitting out
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: Xenicide ($105.52 in chips) 
+Seat 3: BeauParleur ($135.55 in chips) 
+Seat 6: snnoowflake ($100.75 in chips) 
+G.HANSEN333: posts small blind $0.50
+Xenicide: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+BeauParleur: raises $1.25 to $2.25
+snnoowflake: raises $6 to $8.25
+G.HANSEN333: folds 
+Xenicide: folds 
+BeauParleur: folds 
+Uncalled bet ($6) returned to snnoowflake
+snnoowflake collected $6 from pot
+snnoowflake: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 5: XneferX
+Seat 1: G.HANSEN333 (small blind) folded before Flop
+Seat 2: Xenicide (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop
+Seat 6: snnoowflake (button) collected ($6)
+
+
+
+PokerStars Hand #254325759809:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:04:03 WET [2025/01/11 23:04:03 ET]
+Table 'Dactyl III' 6-max Seat #1 is the button
+Seat 5: XneferX ($101.50 in chips) is sitting out
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: Xenicide ($104.52 in chips) 
+Seat 3: BeauParleur ($133.30 in chips) 
+Seat 6: snnoowflake ($104.50 in chips) 
+Xenicide: posts small blind $0.50
+BeauParleur: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+snnoowflake: raises $1.50 to $2.50
+G.HANSEN333: folds 
+Xenicide: raises $7 to $9.50
+BeauParleur: folds 
+snnoowflake: calls $7
+*** FLOP *** [4s 8h Jc]
+Xenicide: checks 
+snnoowflake: checks 
+*** TURN *** [4s 8h Jc] [7h]
+Xenicide: checks 
+snnoowflake: bets $5.32
+Xenicide: calls $5.32
+*** RIVER *** [4s 8h Jc 7h] [7c]
+Xenicide: bets $9.19
+snnoowflake: calls $9.19
+*** SHOW DOWN ***
+Xenicide: shows [Ad Js] (two pair, Jacks and Sevens)
+snnoowflake: mucks hand 
+Xenicide collected $48.02 from pot
+*** SUMMARY ***
+Total pot $49.02 | Rake $1 
+Board [4s 8h Jc 7h 7c]
+Seat 5: XneferX
+Seat 1: G.HANSEN333 (button) folded before Flop (didn't bet)
+Seat 2: Xenicide (small blind) showed [Ad Js] and won ($48.02) with two pair, Jacks and Sevens
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 6: snnoowflake mucked
+
+
+
+PokerStars Hand #254325769384:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:05:20 WET [2025/01/11 23:05:20 ET]
+Table 'Dactyl III' 6-max Seat #2 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: Xenicide ($128.53 in chips) 
+Seat 3: BeauParleur ($132.30 in chips) 
+Seat 5: XneferX ($101.50 in chips) 
+Seat 6: snnoowflake ($100 in chips) 
+BeauParleur: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+snnoowflake: folds 
+G.HANSEN333: folds 
+Xenicide: raises $1.25 to $2.25
+BeauParleur: folds 
+XneferX: folds 
+Uncalled bet ($1.25) returned to Xenicide
+Xenicide collected $2.50 from pot
+Xenicide: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: G.HANSEN333 folded before Flop (didn't bet)
+Seat 2: Xenicide (button) collected ($2.50)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 5: XneferX (big blind) folded before Flop
+Seat 6: snnoowflake folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254325772077:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:05:41 WET [2025/01/11 23:05:41 ET]
+Table 'Dactyl III' 6-max Seat #3 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: Xenicide ($130.03 in chips) 
+Seat 3: BeauParleur ($131.80 in chips) 
+Seat 5: XneferX ($100.50 in chips) 
+Seat 6: snnoowflake ($100 in chips) 
+XneferX: posts small blind $0.50
+snnoowflake: posts big blind $1
+*** HOLE CARDS ***
+G.HANSEN333: folds 
+Xenicide: folds 
+BeauParleur: raises $1.50 to $2.50
+XneferX: folds 
+snnoowflake: folds 
+Uncalled bet ($1.50) returned to BeauParleur
+BeauParleur collected $2.50 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: G.HANSEN333 folded before Flop (didn't bet)
+Seat 2: Xenicide folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) collected ($2.50)
+Seat 5: XneferX (small blind) folded before Flop
+Seat 6: snnoowflake (big blind) folded before Flop
+
+
+
+PokerStars Hand #254325774954:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:06:04 WET [2025/01/11 23:06:04 ET]
+Table 'Dactyl III' 6-max Seat #5 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: Xenicide ($130.03 in chips) 
+Seat 3: BeauParleur ($133.30 in chips) 
+Seat 5: XneferX ($100 in chips) 
+Seat 6: snnoowflake ($100 in chips) 
+snnoowflake: posts small blind $0.50
+G.HANSEN333: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+BeauParleur: folds 
+XneferX: raises $1.77 to $2.77
+snnoowflake: folds 
+G.HANSEN333: folds 
+Uncalled bet ($1.77) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: G.HANSEN333 (big blind) folded before Flop
+Seat 2: Xenicide folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 5: XneferX (button) collected ($2.50)
+Seat 6: snnoowflake (small blind) folded before Flop
+
+
+
+PokerStars Hand #254325777715:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:06:27 WET [2025/01/11 23:06:27 ET]
+Table 'Dactyl III' 6-max Seat #6 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: Xenicide ($130.03 in chips) 
+Seat 3: BeauParleur ($133.30 in chips) 
+Seat 5: XneferX ($101.50 in chips) 
+Seat 6: snnoowflake ($100 in chips) 
+G.HANSEN333: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+XneferX: folds 
+snnoowflake: folds 
+G.HANSEN333: folds 
+Uncalled bet ($0.50) returned to Xenicide
+Xenicide collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: G.HANSEN333 (small blind) folded before Flop
+Seat 2: Xenicide (big blind) collected ($1)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 5: XneferX folded before Flop (didn't bet)
+Seat 6: snnoowflake (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254325779653:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:06:43 WET [2025/01/11 23:06:43 ET]
+Table 'Dactyl III' 6-max Seat #1 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: Xenicide ($130.53 in chips) 
+Seat 3: BeauParleur ($133.30 in chips) 
+Seat 5: XneferX ($101.50 in chips) 
+Seat 6: snnoowflake ($100 in chips) 
+Xenicide: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+snnoowflake: raises $1.50 to $2.50
+G.HANSEN333: folds 
+Xenicide: folds 
+BeauParleur: folds 
+Uncalled bet ($1.50) returned to snnoowflake
+snnoowflake collected $2.50 from pot
+snnoowflake: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: G.HANSEN333 (button) folded before Flop (didn't bet)
+Seat 2: Xenicide (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 5: XneferX folded before Flop (didn't bet)
+Seat 6: snnoowflake collected ($2.50)
+
+
+
+PokerStars Hand #254325781963:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:07:01 WET [2025/01/11 23:07:01 ET]
+Table 'Dactyl III' 6-max Seat #2 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: Xenicide ($130.03 in chips) 
+Seat 3: BeauParleur ($132.30 in chips) 
+Seat 5: XneferX ($101.50 in chips) 
+Seat 6: snnoowflake ($101.50 in chips) 
+BeauParleur: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+snnoowflake: raises $1.50 to $2.50
+G.HANSEN333: folds 
+Xenicide: folds 
+BeauParleur: raises $8.50 to $11
+XneferX: folds 
+snnoowflake: folds 
+Uncalled bet ($8.50) returned to BeauParleur
+BeauParleur collected $6 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: G.HANSEN333 folded before Flop (didn't bet)
+Seat 2: Xenicide (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) collected ($6)
+Seat 5: XneferX (big blind) folded before Flop
+Seat 6: snnoowflake folded before Flop
+
+
+
+PokerStars Hand #254325784803:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:07:25 WET [2025/01/11 23:07:25 ET]
+Table 'Dactyl III' 6-max Seat #3 is the button
+Seat 6: snnoowflake ($100 in chips) is sitting out
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: Xenicide ($130.03 in chips) 
+Seat 3: BeauParleur ($135.80 in chips) 
+Seat 5: XneferX ($100.50 in chips) 
+XneferX: posts small blind $0.50
+snnoowflake: is sitting out 
+snnoowflake leaves the table
+G.HANSEN333: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+BeauParleur: raises $1.50 to $2.50
+XneferX: folds 
+G.HANSEN333: folds 
+Uncalled bet ($1.50) returned to BeauParleur
+BeauParleur collected $2.50 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: snnoowflake
+Seat 1: G.HANSEN333 (big blind) folded before Flop
+Seat 2: Xenicide folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) collected ($2.50)
+Seat 5: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254325787360:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:07:45 WET [2025/01/11 23:07:45 ET]
+Table 'Dactyl III' 6-max Seat #5 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: Xenicide ($130.03 in chips) 
+Seat 3: BeauParleur ($137.30 in chips) 
+Seat 5: XneferX ($100 in chips) 
+G.HANSEN333: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+XneferX: raises $1.77 to $2.77
+G.HANSEN333: folds 
+Xenicide: raises $7.23 to $10
+XneferX: folds 
+Uncalled bet ($7.23) returned to Xenicide
+Xenicide collected $6.04 from pot
+*** SUMMARY ***
+Total pot $6.04 | Rake $0 
+Seat 1: G.HANSEN333 (small blind) folded before Flop
+Seat 2: Xenicide (big blind) collected ($6.04)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 5: XneferX (button) folded before Flop
+
+
+
+PokerStars Hand #254325792065:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:08:24 WET [2025/01/11 23:08:24 ET]
+Table 'Dactyl III' 6-max Seat #1 is the button
+Seat 5: XneferX ($100 in chips) is sitting out
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: Xenicide ($133.30 in chips) 
+Seat 3: BeauParleur ($137.30 in chips) 
+Xenicide: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+XneferX leaves the table
+G.HANSEN333: folds 
+Xenicide: raises $2.50 to $3.50
+BeauParleur: raises $6.50 to $10
+Xenicide: folds 
+Uncalled bet ($6.50) returned to BeauParleur
+BeauParleur collected $7 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 5: XneferX
+Seat 1: G.HANSEN333 (button) folded before Flop (didn't bet)
+Seat 2: Xenicide (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) collected ($7)
+
+
+
+PokerStars Hand #254325796655:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:09:02 WET [2025/01/11 23:09:02 ET]
+Table 'Dactyl III' 6-max Seat #2 is the button
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 2: Xenicide ($129.80 in chips) 
+Seat 3: BeauParleur ($140.80 in chips) 
+BeauParleur: posts small blind $0.50
+G.HANSEN333: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: raises $1.25 to $2.25
+BeauParleur: folds 
+G.HANSEN333: calls $1.25
+*** FLOP *** [Ts 5c Qd]
+G.HANSEN333: checks 
+ALliminateAL joins the table at seat #4 
+Xenicide: bets $1.47
+Dantepoke226 joins the table at seat #5 
+Rysiff joins the table at seat #6 
+G.HANSEN333: raises $8.53 to $10
+Xenicide: calls $8.53
+*** TURN *** [Ts 5c Qd] [3c]
+G.HANSEN333: bets $18.50
+Xenicide: calls $18.50
+*** RIVER *** [Ts 5c Qd 3c] [Qs]
+G.HANSEN333: bets $69.25 and is all-in
+Xenicide: folds 
+Uncalled bet ($69.25) returned to G.HANSEN333
+G.HANSEN333 collected $61 from pot
+G.HANSEN333: doesn't show hand 
+*** SUMMARY ***
+Total pot $62 | Rake $1 
+Board [Ts 5c Qd 3c Qs]
+Seat 1: G.HANSEN333 (big blind) collected ($61)
+Seat 2: Xenicide (button) folded on the River
+Seat 3: BeauParleur (small blind) folded before Flop
+
+
+
+PokerStars Hand #254325810268:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:10:53 WET [2025/01/11 23:10:53 ET]
+Table 'Dactyl III' 6-max Seat #3 is the button
+Seat 4: ALliminateAL ($40 in chips) is sitting out
+Seat 5: Dantepoke226 ($100 in chips) is sitting out
+Seat 6: Rysiff ($151.29 in chips) is sitting out
+Seat 1: G.HANSEN333 ($130.25 in chips) 
+Seat 2: Xenicide ($100 in chips) 
+Seat 3: BeauParleur ($140.30 in chips) 
+G.HANSEN333: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+G.HANSEN333: raises $3 to $4
+Xenicide: folds 
+Uncalled bet ($3) returned to G.HANSEN333
+G.HANSEN333 collected $2 from pot
+G.HANSEN333: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: ALliminateAL
+Seat 5: Dantepoke226
+Seat 6: Rysiff
+Seat 1: G.HANSEN333 (small blind) collected ($2)
+Seat 2: Xenicide (big blind) folded before Flop
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254325813102:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:11:15 WET [2025/01/11 23:11:15 ET]
+Table 'Dactyl III' 6-max Seat #1 is the button
+Seat 4: ALliminateAL ($40 in chips) is sitting out
+Seat 5: Dantepoke226 ($100 in chips) is sitting out
+Seat 6: Rysiff ($151.29 in chips) is sitting out
+Seat 1: G.HANSEN333 ($131.25 in chips) 
+Seat 2: Xenicide ($100 in chips) 
+Seat 3: BeauParleur ($140.30 in chips) 
+Xenicide: posts small blind $0.50
+BeauParleur: posts big blind $1
+ALliminateAL: sits out 
+Dantepoke226: sits out 
+Rysiff: sits out 
+*** HOLE CARDS ***
+G.HANSEN333: raises $1.50 to $2.50
+Xenicide: folds 
+BeauParleur: folds 
+Uncalled bet ($1.50) returned to G.HANSEN333
+G.HANSEN333 collected $2.50 from pot
+G.HANSEN333: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: ALliminateAL
+Seat 5: Dantepoke226
+Seat 6: Rysiff
+Seat 1: G.HANSEN333 (button) collected ($2.50)
+Seat 2: Xenicide (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) folded before Flop
+
+
+
+PokerStars Hand #254325815222:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:11:33 WET [2025/01/11 23:11:33 ET]
+Table 'Dactyl III' 6-max Seat #2 is the button
+Seat 5: Dantepoke226 ($100 in chips) is sitting out
+Seat 6: Rysiff ($151.29 in chips) is sitting out
+Seat 1: G.HANSEN333 ($132.75 in chips) 
+Seat 2: Xenicide ($100 in chips) 
+Seat 3: BeauParleur ($139.30 in chips) 
+Seat 4: ALliminateAL ($40 in chips) 
+BeauParleur: posts small blind $0.50
+ALliminateAL: posts big blind $1
+Dantepoke226: sits out 
+Rysiff: sits out 
+*** HOLE CARDS ***
+G.HANSEN333: folds 
+Xenicide: folds 
+BeauParleur: raises $2 to $3
+ALliminateAL: folds 
+Uncalled bet ($2) returned to BeauParleur
+BeauParleur collected $2 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: Dantepoke226
+Seat 6: Rysiff
+Seat 1: G.HANSEN333 folded before Flop (didn't bet)
+Seat 2: Xenicide (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) collected ($2)
+Seat 4: ALliminateAL (big blind) folded before Flop
+
+
+
+PokerStars Hand #254325816764:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:11:45 WET [2025/01/11 23:11:45 ET]
+Table 'Dactyl III' 6-max Seat #3 is the button
+Seat 6: Rysiff ($151.29 in chips) is sitting out
+Seat 1: G.HANSEN333 ($132.75 in chips) 
+Seat 2: Xenicide ($100 in chips) 
+Seat 3: BeauParleur ($140.30 in chips) 
+Seat 4: ALliminateAL ($39 in chips) 
+Seat 5: Dantepoke226 ($100 in chips) 
+ALliminateAL: posts small blind $0.50
+Dantepoke226: posts big blind $1
+Rysiff: sits out 
+*** HOLE CARDS ***
+G.HANSEN333: raises $1.50 to $2.50
+Xenicide: folds 
+BeauParleur: folds 
+ALliminateAL: folds 
+Dantepoke226: raises $8.50 to $11
+G.HANSEN333: folds 
+Uncalled bet ($8.50) returned to Dantepoke226
+Dantepoke226 collected $5.50 from pot
+Dantepoke226: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 6: Rysiff
+Seat 1: G.HANSEN333 folded before Flop
+Seat 2: Xenicide folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: ALliminateAL (small blind) folded before Flop
+Seat 5: Dantepoke226 (big blind) collected ($5.50)
+
+
+
+PokerStars Hand #254325819152:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:12:04 WET [2025/01/11 23:12:04 ET]
+Table 'Dactyl III' 6-max Seat #4 is the button
+Seat 1: G.HANSEN333 ($130.25 in chips) 
+Seat 2: Xenicide ($100 in chips) 
+Seat 3: BeauParleur ($140.30 in chips) 
+Seat 4: ALliminateAL ($38.50 in chips) 
+Seat 5: Dantepoke226 ($103 in chips) 
+Seat 6: Rysiff ($151.29 in chips) 
+Dantepoke226: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+G.HANSEN333: folds 
+Xenicide: folds 
+BeauParleur: folds 
+ALliminateAL: folds 
+Dantepoke226: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: G.HANSEN333 folded before Flop (didn't bet)
+Seat 2: Xenicide folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: ALliminateAL (button) folded before Flop (didn't bet)
+Seat 5: Dantepoke226 (small blind) folded before Flop
+Seat 6: Rysiff (big blind) collected ($1)
+
+
+
+PokerStars Hand #254325820615:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:12:16 WET [2025/01/11 23:12:16 ET]
+Table 'Dactyl III' 6-max Seat #5 is the button
+Seat 1: G.HANSEN333 ($130.25 in chips) 
+Seat 2: Xenicide ($100 in chips) 
+Seat 3: BeauParleur ($140.30 in chips) 
+Seat 4: ALliminateAL ($38.50 in chips) 
+Seat 5: Dantepoke226 ($102.50 in chips) 
+Seat 6: Rysiff ($151.79 in chips) 
+Rysiff: posts small blind $0.50
+G.HANSEN333: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+BeauParleur: folds 
+ALliminateAL: folds 
+Dantepoke226: folds 
+Rysiff: raises $2 to $3
+G.HANSEN333: folds 
+Uncalled bet ($2) returned to Rysiff
+Rysiff collected $2 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: G.HANSEN333 (big blind) folded before Flop
+Seat 2: Xenicide folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: ALliminateAL folded before Flop (didn't bet)
+Seat 5: Dantepoke226 (button) folded before Flop (didn't bet)
+Seat 6: Rysiff (small blind) collected ($2)
+
+
+
+PokerStars Hand #254325822854:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:12:34 WET [2025/01/11 23:12:34 ET]
+Table 'Dactyl III' 6-max Seat #6 is the button
+Seat 1: G.HANSEN333 ($129.25 in chips) 
+Seat 2: Xenicide ($100 in chips) 
+Seat 3: BeauParleur ($140.30 in chips) 
+Seat 4: ALliminateAL ($38.50 in chips) 
+Seat 5: Dantepoke226 ($102.50 in chips) 
+Seat 6: Rysiff ($152.79 in chips) 
+G.HANSEN333: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+ALliminateAL: folds 
+Dantepoke226: folds 
+Rysiff: folds 
+G.HANSEN333: folds 
+Uncalled bet ($0.50) returned to Xenicide
+Xenicide collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: G.HANSEN333 (small blind) folded before Flop
+Seat 2: Xenicide (big blind) collected ($1)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: ALliminateAL folded before Flop (didn't bet)
+Seat 5: Dantepoke226 folded before Flop (didn't bet)
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254325825331:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 4:12:54 WET [2025/01/11 23:12:54 ET]
+Table 'Dactyl III' 6-max Seat #1 is the button
+Seat 1: G.HANSEN333 ($128.75 in chips) 
+Seat 2: Xenicide ($100.50 in chips) 
+Seat 3: BeauParleur ($140.30 in chips) 
+Seat 4: ALliminateAL ($38.50 in chips) 
+Seat 5: Dantepoke226 ($102.50 in chips) 
+Seat 6: Rysiff ($152.79 in chips) 
+Xenicide: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+ALliminateAL: folds 
+Dantepoke226: folds 
+Rysiff: folds 
+G.HANSEN333: folds 
+Xenicide: raises $2.50 to $3.50
+ALliminateAL leaves the table
+BeauParleur: folds 
+Uncalled bet ($2.50) returned to Xenicide
+Xenicide collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: G.HANSEN333 (button) folded before Flop (didn't bet)
+Seat 2: Xenicide (small blind) collected ($2)
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: ALliminateAL folded before Flop (didn't bet)
+Seat 5: Dantepoke226 folded before Flop (didn't bet)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+

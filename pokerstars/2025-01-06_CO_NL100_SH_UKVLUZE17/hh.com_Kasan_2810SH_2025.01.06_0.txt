@@ -1,0 +1,366 @@
+﻿PokerStars Hand #254224712150:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 7:50:35 WET [2025/01/06 2:50:35 ET]
+Table 'Kasan' 6-max Seat #3 is the button
+Seat 6: peak joker33 ($100 in chips) is sitting out
+Seat 1: valmble ($11 in chips) 
+Seat 2: citsoul ($21.38 in chips) 
+Seat 3: steelNike ($20.50 in chips) 
+Seat 4: Emily_GetMan ($100 in chips) 
+Seat 5: janarr5 ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+janarr5: posts big blind $1
+peak joker33: sits out 
+*** HOLE CARDS ***
+valmble: raises $1 to $2
+citsoul: calls $2
+steelNike: folds 
+Emily_GetMan: folds 
+janarr5: raises $98 to $100 and is all-in
+valmble: calls $9 and is all-in
+citsoul: folds 
+Uncalled bet ($89) returned to janarr5
+*** FLOP *** [Ah 9h Kd]
+*** TURN *** [Ah 9h Kd] [Ad]
+*** RIVER *** [Ah 9h Kd Ad] [Th]
+*** SHOW DOWN ***
+janarr5: shows [9c 9d] (a full house, Nines full of Aces)
+valmble: shows [As Js] (three of a kind, Aces)
+janarr5 collected $23.28 from pot
+*** SUMMARY ***
+Total pot $24.50 | Rake $1.22 
+Board [Ah 9h Kd Ad Th]
+Seat 6: peak joker33
+Seat 1: valmble showed [As Js] and lost with three of a kind, Aces
+Seat 2: citsoul folded before Flop
+Seat 3: steelNike (button) folded before Flop (didn't bet)
+Seat 4: Emily_GetMan (small blind) folded before Flop
+Seat 5: janarr5 (big blind) showed [9c 9d] and won ($23.28) with a full house, Nines full of Aces
+
+
+
+PokerStars Hand #254224715038:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 7:51:15 WET [2025/01/06 2:51:15 ET]
+Table 'Kasan' 6-max Seat #4 is the button
+Seat 1: valmble ($10 in chips) 
+Seat 2: citsoul ($19.38 in chips) 
+Seat 3: steelNike ($20.50 in chips) 
+Seat 4: Emily_GetMan ($100 in chips) 
+Seat 5: janarr5 ($112.28 in chips) 
+Seat 6: peak joker33 ($100 in chips) 
+janarr5: posts small blind $0.50
+peak joker33: posts big blind $1
+*** HOLE CARDS ***
+valmble: folds 
+citsoul: calls $1
+steelNike: folds 
+Emily_GetMan: raises $3 to $4
+janarr5: folds 
+peak joker33: folds 
+citsoul: calls $3
+*** FLOP *** [Kc 3s 2c]
+citsoul: checks 
+Emily_GetMan: bets $2.98
+citsoul: folds 
+Uncalled bet ($2.98) returned to Emily_GetMan
+Emily_GetMan collected $9.02 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Kc 3s 2c]
+Seat 1: valmble folded before Flop (didn't bet)
+Seat 2: citsoul folded on the Flop
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 4: Emily_GetMan (button) collected ($9.02)
+Seat 5: janarr5 (small blind) folded before Flop
+Seat 6: peak joker33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254224717588:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 7:51:50 WET [2025/01/06 2:51:50 ET]
+Table 'Kasan' 6-max Seat #5 is the button
+Seat 1: valmble ($10 in chips) is sitting out
+Seat 2: citsoul ($15.38 in chips) 
+Seat 3: steelNike ($20.50 in chips) 
+Seat 4: Emily_GetMan ($105.02 in chips) 
+Seat 5: janarr5 ($111.78 in chips) 
+Seat 6: peak joker33 ($100 in chips) 
+peak joker33: posts small blind $0.50
+valmble: is sitting out 
+citsoul: posts big blind $1
+*** HOLE CARDS ***
+valmble leaves the table
+steelNike: folds 
+Emily_GetMan: folds 
+janarr5: folds 
+peak joker33: folds 
+Uncalled bet ($0.50) returned to citsoul
+citsoul collected $1 from pot
+citsoul: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: valmble
+Seat 2: citsoul (big blind) collected ($1)
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 4: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: janarr5 (button) folded before Flop (didn't bet)
+Seat 6: peak joker33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254224718023:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 7:51:57 WET [2025/01/06 2:51:57 ET]
+Table 'Kasan' 6-max Seat #6 is the button
+Seat 2: citsoul ($15.88 in chips) 
+Seat 3: steelNike ($20.50 in chips) 
+Seat 4: Emily_GetMan ($105.02 in chips) 
+Seat 5: janarr5 ($111.78 in chips) 
+Seat 6: peak joker33 ($100 in chips) 
+citsoul: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+janarr5: folds 
+peak joker33: folds 
+citsoul: folds 
+Uncalled bet ($0.50) returned to steelNike
+steelNike collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: citsoul (small blind) folded before Flop
+Seat 3: steelNike (big blind) collected ($1)
+Seat 4: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: janarr5 folded before Flop (didn't bet)
+Seat 6: peak joker33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224718671:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 7:52:06 WET [2025/01/06 2:52:06 ET]
+Table 'Kasan' 6-max Seat #2 is the button
+Seat 2: citsoul ($15.38 in chips) 
+Seat 3: steelNike ($21 in chips) 
+Seat 4: Emily_GetMan ($105.02 in chips) 
+Seat 5: janarr5 ($111.78 in chips) 
+Seat 6: peak joker33 ($100 in chips) 
+steelNike: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+peak joker33: raises $1.50 to $2.50
+citsoul: calls $2.50
+steelNike: folds 
+Emily_GetMan: folds 
+*** FLOP *** [Jd 7d Qd]
+peak joker33: checks 
+citsoul: checks 
+*** TURN *** [Jd 7d Qd] [6s]
+janarr5 leaves the table
+peak joker33: checks 
+citsoul: checks 
+*** RIVER *** [Jd 7d Qd 6s] [Ah]
+peak joker33: checks 
+citsoul: checks 
+*** SHOW DOWN ***
+peak joker33: shows [Kd Jh] (a pair of Jacks)
+citsoul: mucks hand 
+peak joker33 collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Jd 7d Qd 6s Ah]
+Seat 2: citsoul (button) mucked
+Seat 3: steelNike (small blind) folded before Flop
+Seat 4: Emily_GetMan (big blind) folded before Flop
+Seat 5: janarr5 folded before Flop (didn't bet)
+Seat 6: peak joker33 showed [Kd Jh] and won ($6.18) with a pair of Jacks
+
+
+
+PokerStars Hand #254224720824:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 7:52:36 WET [2025/01/06 2:52:36 ET]
+Table 'Kasan' 6-max Seat #3 is the button
+Seat 2: citsoul ($12.88 in chips) 
+Seat 3: steelNike ($20.50 in chips) 
+Seat 4: Emily_GetMan ($104.02 in chips) 
+Seat 6: peak joker33 ($103.68 in chips) 
+Emily_GetMan: posts small blind $0.50
+peak joker33: posts big blind $1
+*** HOLE CARDS ***
+citsoul: calls $1
+steelNike: folds 
+Emily_GetMan: raises $2.50 to $3.50
+peak joker33: folds 
+citsoul: calls $2.50
+*** FLOP *** [Kd 3s 5s]
+Emily_GetMan: bets $2.51
+citsoul: calls $2.51
+*** TURN *** [Kd 3s 5s] [4d]
+Emily_GetMan: checks 
+citsoul: checks 
+*** RIVER *** [Kd 3s 5s 4d] [Jd]
+Emily_GetMan: checks 
+citsoul: bets $6.87 and is all-in
+Emily_GetMan: folds 
+Uncalled bet ($6.87) returned to citsoul
+citsoul collected $12.37 from pot
+citsoul: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.02 | Rake $0.65 
+Board [Kd 3s 5s 4d Jd]
+Seat 2: citsoul collected ($12.37)
+Seat 3: steelNike (button) folded before Flop (didn't bet)
+Seat 4: Emily_GetMan (small blind) folded on the River
+Seat 6: peak joker33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254224724480:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 7:53:27 WET [2025/01/06 2:53:27 ET]
+Table 'Kasan' 6-max Seat #4 is the button
+Seat 2: citsoul ($19.24 in chips) 
+Seat 3: steelNike ($20.50 in chips) 
+Seat 4: Emily_GetMan ($100 in chips) 
+Seat 6: peak joker33 ($102.68 in chips) 
+peak joker33: posts small blind $0.50
+citsoul: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Emily_GetMan: folds 
+peak joker33: folds 
+Uncalled bet ($0.50) returned to citsoul
+citsoul collected $1 from pot
+citsoul: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: citsoul (big blind) collected ($1)
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 4: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 6: peak joker33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254224725359:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 7:53:39 WET [2025/01/06 2:53:39 ET]
+Table 'Kasan' 6-max Seat #6 is the button
+Seat 2: citsoul ($19.74 in chips) 
+Seat 3: steelNike ($20.50 in chips) 
+Seat 4: Emily_GetMan ($100 in chips) 
+Seat 6: peak joker33 ($102.18 in chips) 
+citsoul: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: raises $1 to $2
+peak joker33: folds 
+citsoul: folds 
+gig.gyty joins the table at seat #5 
+steelNike: calls $1
+*** FLOP *** [9d Th 8c]
+steelNike: checks 
+G.HANSEN333 joins the table at seat #1 
+Emily_GetMan: bets $4
+steelNike: folds 
+Uncalled bet ($4) returned to Emily_GetMan
+Emily_GetMan collected $4.28 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [9d Th 8c]
+Seat 2: citsoul (small blind) folded before Flop
+Seat 3: steelNike (big blind) folded on the Flop
+Seat 4: Emily_GetMan collected ($4.28)
+Seat 6: peak joker33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254224728105:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 7:54:17 WET [2025/01/06 2:54:17 ET]
+Table 'Kasan' 6-max Seat #2 is the button
+Seat 1: G.HANSEN333 ($100 in chips) is sitting out
+Seat 5: gig.gyty ($100 in chips) is sitting out
+Seat 2: citsoul ($19.24 in chips) 
+Seat 3: steelNike ($18.50 in chips) 
+Seat 4: Emily_GetMan ($102.28 in chips) 
+Seat 6: peak joker33 ($102.18 in chips) 
+steelNike: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+gig.gyty: sits out 
+G.HANSEN333: sits out 
+*** HOLE CARDS ***
+peak joker33: raises $1.50 to $2.50
+citsoul: calls $2.50
+steelNike: folds 
+Emily_GetMan: raises $11.50 to $14
+peak joker33: folds 
+citsoul: raises $5.24 to $19.24 and is all-in
+Emily_GetMan: calls $5.24
+*** FLOP *** [6h As 3s]
+*** TURN *** [6h As 3s] [3d]
+*** RIVER *** [6h As 3s 3d] [8c]
+*** SHOW DOWN ***
+Emily_GetMan: shows [Jd Ad] (two pair, Aces and Threes)
+citsoul: shows [Jc Jh] (two pair, Jacks and Threes)
+Emily_GetMan collected $40.48 from pot
+*** SUMMARY ***
+Total pot $41.48 | Rake $1 
+Board [6h As 3s 3d 8c]
+Seat 1: G.HANSEN333
+Seat 5: gig.gyty
+Seat 2: citsoul (button) showed [Jc Jh] and lost with two pair, Jacks and Threes
+Seat 3: steelNike (small blind) folded before Flop
+Seat 4: Emily_GetMan (big blind) showed [Jd Ad] and won ($40.48) with two pair, Aces and Threes
+Seat 6: peak joker33 folded before Flop
+
+
+
+PokerStars Hand #254224730582:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 7:54:53 WET [2025/01/06 2:54:53 ET]
+Table 'Kasan' 6-max Seat #3 is the button
+Seat 1: G.HANSEN333 ($100 in chips) is sitting out
+Seat 2: citsoul ($0 in chips) is sitting out
+Seat 3: steelNike ($18 in chips) 
+Seat 4: Emily_GetMan ($123.52 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: peak joker33 ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+gig.gyty: posts big blind $1
+G.HANSEN333: sits out 
+*** HOLE CARDS ***
+peak joker33: raises $1.50 to $2.50
+steelNike: folds 
+citsoul leaves the table
+Emily_GetMan: folds 
+gig.gyty: folds 
+Uncalled bet ($1.50) returned to peak joker33
+peak joker33 collected $2.50 from pot
+peak joker33: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: G.HANSEN333
+Seat 2: citsoul
+Seat 3: steelNike (button) folded before Flop (didn't bet)
+Seat 4: Emily_GetMan (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: peak joker33 collected ($2.50)
+
+
+
+PokerStars Hand #254224732208:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 7:55:17 WET [2025/01/06 2:55:17 ET]
+Table 'Kasan' 6-max Seat #4 is the button
+Seat 6: peak joker33 ($101.50 in chips) is sitting out
+Seat 1: G.HANSEN333 ($100 in chips) 
+Seat 3: steelNike ($18 in chips) 
+Seat 4: Emily_GetMan ($123.02 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+gig.gyty: posts small blind $0.50
+peak joker33: is sitting out 
+G.HANSEN333: posts big blind $1
+*** HOLE CARDS ***
+peak joker33 leaves the table
+steelNike: folds 
+Emily_GetMan: raises $1.50 to $2.50
+gig.gyty: raises $8.50 to $11
+G.HANSEN333: folds 
+Emily_GetMan: folds 
+Uncalled bet ($8.50) returned to gig.gyty
+gig.gyty collected $6 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 6: peak joker33
+Seat 1: G.HANSEN333 (big blind) folded before Flop
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 4: Emily_GetMan (button) folded before Flop
+Seat 5: gig.gyty (small blind) collected ($6)
+
+
+

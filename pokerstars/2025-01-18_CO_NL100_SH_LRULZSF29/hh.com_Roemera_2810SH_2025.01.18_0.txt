@@ -1,0 +1,1718 @@
+﻿PokerStars Hand #254435691745:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:20:57 WET [2025/01/18 14:20:57 ET]
+Table 'Roemera III' 6-max Seat #3 is the button
+Seat 3: Miku552 ($100 in chips) 
+Seat 4: I TAKE IT 85 ($102.75 in chips) 
+Seat 5: joner74 ($99.61 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+I TAKE IT 85: posts small blind $0.50
+joner74: posts big blind $1
+*** HOLE CARDS ***
+blistein joins the table at seat #1 
+worker0k joins the table at seat #2 
+sta$igk: folds 
+Miku552: calls $1
+I TAKE IT 85: calls $0.50
+joner74: checks 
+*** FLOP *** [Qh Jc 5c]
+I TAKE IT 85: checks 
+joner74: checks 
+Miku552: checks 
+*** TURN *** [Qh Jc 5c] [2s]
+I TAKE IT 85: bets $1.08
+joner74: folds 
+Miku552: calls $1.08
+*** RIVER *** [Qh Jc 5c 2s] [Ah]
+I TAKE IT 85: bets $5.15
+Miku552: folds 
+Uncalled bet ($5.15) returned to I TAKE IT 85
+I TAKE IT 85 collected $4.90 from pot
+I TAKE IT 85: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.16 | Rake $0.26 
+Board [Qh Jc 5c 2s Ah]
+Seat 3: Miku552 (button) folded on the River
+Seat 4: I TAKE IT 85 (small blind) collected ($4.90)
+Seat 5: joner74 (big blind) folded on the Turn
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435702614:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:21:33 WET [2025/01/18 14:21:33 ET]
+Table 'Roemera III' 6-max Seat #4 is the button
+Seat 1: blistein ($100 in chips) is sitting out
+Seat 2: worker0k ($100 in chips) is sitting out
+Seat 3: Miku552 ($97.92 in chips) 
+Seat 4: I TAKE IT 85 ($105.57 in chips) 
+Seat 5: joner74 ($98.61 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+joner74: posts small blind $0.50
+sta$igk: posts big blind $1
+blistein: sits out 
+worker0k: sits out 
+*** HOLE CARDS ***
+Miku552: raises $1 to $2
+I TAKE IT 85: folds 
+joner74: folds 
+sta$igk: calls $1
+*** FLOP *** [6d 4d Tc]
+sta$igk: checks 
+Miku552: bets $2
+sta$igk: folds 
+Uncalled bet ($2) returned to Miku552
+Miku552 collected $4.22 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.28 
+Board [6d 4d Tc]
+Seat 1: blistein
+Seat 2: worker0k
+Seat 3: Miku552 collected ($4.22)
+Seat 4: I TAKE IT 85 (button) folded before Flop (didn't bet)
+Seat 5: joner74 (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254435713188:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:22:08 WET [2025/01/18 14:22:08 ET]
+Table 'Roemera III' 6-max Seat #5 is the button
+Seat 2: worker0k ($100 in chips) is sitting out
+Seat 1: blistein ($100 in chips) 
+Seat 3: Miku552 ($100.14 in chips) 
+Seat 4: I TAKE IT 85 ($105.57 in chips) 
+Seat 5: joner74 ($98.11 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+worker0k: sits out 
+*** HOLE CARDS ***
+Miku552: calls $1
+I TAKE IT 85: raises $1.05 to $2.05
+joner74: calls $2.05
+sta$igk: raises $11.95 to $14
+blistein: raises $86 to $100 and is all-in
+Miku552: folds 
+I TAKE IT 85: folds 
+joner74: folds 
+sta$igk: calls $86 and is all-in
+*** FIRST FLOP *** [5s Tc 4h]
+*** FIRST TURN *** [5s Tc 4h] [4c]
+*** FIRST RIVER *** [5s Tc 4h 4c] [5d]
+*** SECOND FLOP *** [3d 4d 3c]
+*** SECOND TURN *** [3d 4d 3c] [Qd]
+*** SECOND RIVER *** [3d 4d 3c Qd] [8d]
+*** FIRST SHOW DOWN ***
+sta$igk: shows [Kd Kc] (two pair, Kings and Fives)
+blistein: shows [Qh Qc] (two pair, Queens and Fives)
+sta$igk collected $101.30 from pot
+*** SECOND SHOW DOWN ***
+sta$igk: shows [Kd Kc] (a flush, King high)
+blistein: shows [Qh Qc] (a full house, Queens full of Threes)
+blistein collected $101.30 from pot
+*** SUMMARY ***
+Total pot $205.10 | Rake $2.50 
+Hand was run twice
+FIRST Board [5s Tc 4h 4c 5d]
+SECOND Board [3d 4d 3c Qd 8d]
+Seat 2: worker0k
+Seat 1: blistein (big blind) showed [Qh Qc] and lost with two pair, Queens and Fives, and won ($101.30) with a full house, Queens full of Threes
+Seat 3: Miku552 folded before Flop
+Seat 4: I TAKE IT 85 folded before Flop
+Seat 5: joner74 (button) folded before Flop
+Seat 6: sta$igk (small blind) showed [Kd Kc] and won ($101.30) with two pair, Kings and Fives, and lost with a flush, King high
+
+
+
+PokerStars Hand #254435727833:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:22:56 WET [2025/01/18 14:22:56 ET]
+Table 'Roemera III' 6-max Seat #6 is the button
+Seat 1: blistein ($101.30 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 3: Miku552 ($99.14 in chips) 
+Seat 4: I TAKE IT 85 ($103.52 in chips) 
+Seat 5: joner74 ($96.06 in chips) 
+Seat 6: sta$igk ($101.30 in chips) 
+blistein: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+Miku552: folds 
+I TAKE IT 85: folds 
+joner74: folds 
+sta$igk: folds 
+Miku552 leaves the table
+blistein: raises $2 to $3
+worker0k: folds 
+Uncalled bet ($2) returned to blistein
+blistein collected $2 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: blistein (small blind) collected ($2)
+Seat 2: worker0k (big blind) folded before Flop
+Seat 3: Miku552 folded before Flop (didn't bet)
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: joner74 folded before Flop (didn't bet)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435732583:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:23:12 WET [2025/01/18 14:23:12 ET]
+Table 'Roemera III' 6-max Seat #1 is the button
+Seat 1: blistein ($102.30 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 4: I TAKE IT 85 ($103.52 in chips) 
+Seat 5: joner74 ($96.06 in chips) 
+Seat 6: sta$igk ($101.30 in chips) 
+worker0k: posts small blind $0.50
+BoyLoc0 joins the table at seat #3 
+I TAKE IT 85: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0 leaves the table
+joner74: folds 
+sta$igk: folds 
+blistein: folds 
+worker0k: folds 
+Uncalled bet ($0.50) returned to I TAKE IT 85
+I TAKE IT 85 collected $1 from pot
+I TAKE IT 85: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: worker0k (small blind) folded before Flop
+Seat 4: I TAKE IT 85 (big blind) collected ($1)
+Seat 5: joner74 folded before Flop (didn't bet)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435736382:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:23:25 WET [2025/01/18 14:23:25 ET]
+Table 'Roemera III' 6-max Seat #2 is the button
+Seat 1: blistein ($102.30 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 4: I TAKE IT 85 ($104.02 in chips) 
+Seat 5: joner74 ($96.06 in chips) 
+Seat 6: sta$igk ($101.30 in chips) 
+I TAKE IT 85: posts small blind $0.50
+joner74: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+blistein: folds 
+worker0k: folds 
+I TAKE IT 85: raises $2 to $3
+joner74: folds 
+Uncalled bet ($2) returned to I TAKE IT 85
+I TAKE IT 85 collected $2 from pot
+Miku552 joins the table at seat #3 
+Miku552 is disconnected 
+I TAKE IT 85: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k (button) folded before Flop (didn't bet)
+Seat 4: I TAKE IT 85 (small blind) collected ($2)
+Seat 5: joner74 (big blind) folded before Flop
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435739982:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:23:37 WET [2025/01/18 14:23:37 ET]
+Table 'Roemera III' 6-max Seat #4 is the button
+Seat 3: Miku552 ($100 in chips) is sitting out
+Seat 1: blistein ($102.30 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 4: I TAKE IT 85 ($105.02 in chips) 
+Seat 5: joner74 ($95.06 in chips) 
+Seat 6: sta$igk ($101.30 in chips) 
+joner74: posts small blind $0.50
+sta$igk: posts big blind $1
+Miku552: sits out 
+*** HOLE CARDS ***
+blistein: folds 
+worker0k: folds 
+I TAKE IT 85: raises $1.05 to $2.05
+joner74: folds 
+sta$igk: calls $1.05
+*** FLOP *** [2h Qh 7s]
+sta$igk: checks 
+I TAKE IT 85: bets $1.66
+sta$igk: folds 
+Uncalled bet ($1.66) returned to I TAKE IT 85
+I TAKE IT 85 collected $4.37 from pot
+I TAKE IT 85: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.23 
+Board [2h Qh 7s]
+Seat 3: Miku552
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 4: I TAKE IT 85 (button) collected ($4.37)
+Seat 5: joner74 (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254435748308:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:24:04 WET [2025/01/18 14:24:04 ET]
+Table 'Roemera III' 6-max Seat #5 is the button
+Seat 1: blistein ($102.30 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 3: Miku552 ($100 in chips) 
+Seat 4: I TAKE IT 85 ($107.34 in chips) 
+Seat 5: joner74 ($94.56 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+Miku552: posts big blind $1
+*** HOLE CARDS ***
+worker0k: folds 
+Miku552: checks 
+I TAKE IT 85: folds 
+joner74: folds 
+sta$igk: folds 
+blistein: checks 
+*** FLOP *** [3c Kd 5h]
+blistein: checks 
+Miku552: checks 
+*** TURN *** [3c Kd 5h] [4c]
+blistein: checks 
+Miku552: checks 
+*** RIVER *** [3c Kd 5h 4c] [Qs]
+blistein: bets $1.59
+Miku552: folds 
+Uncalled bet ($1.59) returned to blistein
+blistein collected $2.38 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [3c Kd 5h 4c Qs]
+Seat 1: blistein (big blind) collected ($2.38)
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 3: Miku552 folded on the River (didn't bet)
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: joner74 (button) folded before Flop (didn't bet)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254435759687:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:24:42 WET [2025/01/18 14:24:42 ET]
+Table 'Roemera III' 6-max Seat #6 is the button
+Seat 1: blistein ($103.68 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 3: Miku552 ($99 in chips) 
+Seat 4: I TAKE IT 85 ($107.34 in chips) 
+Seat 5: joner74 ($94.56 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+blistein: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+Miku552: folds 
+I TAKE IT 85: folds 
+joner74: folds 
+sta$igk: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to worker0k
+worker0k collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: worker0k (big blind) collected ($1)
+Seat 3: Miku552 folded before Flop (didn't bet)
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: joner74 folded before Flop (didn't bet)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435762775:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:24:52 WET [2025/01/18 14:24:52 ET]
+Table 'Roemera III' 6-max Seat #1 is the button
+Seat 1: blistein ($103.18 in chips) 
+Seat 2: worker0k ($100.50 in chips) 
+Seat 3: Miku552 ($99 in chips) 
+Seat 4: I TAKE IT 85 ($107.34 in chips) 
+Seat 5: joner74 ($94.56 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+worker0k: posts small blind $0.50
+Miku552: posts big blind $1
+*** HOLE CARDS ***
+I TAKE IT 85: folds 
+joner74: folds 
+sta$igk: raises $1.50 to $2.50
+blistein: folds 
+worker0k: folds 
+Miku552: calls $1.50
+*** FLOP *** [9h 7d Ad]
+Miku552: bets $1
+sta$igk: folds 
+Uncalled bet ($1) returned to Miku552
+Miku552 collected $5.15 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.35 
+Board [9h 7d Ad]
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: worker0k (small blind) folded before Flop
+Seat 3: Miku552 (big blind) collected ($5.15)
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: joner74 folded before Flop (didn't bet)
+Seat 6: sta$igk folded on the Flop
+
+
+
+PokerStars Hand #254435770741:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:25:19 WET [2025/01/18 14:25:19 ET]
+Table 'Roemera III' 6-max Seat #2 is the button
+Seat 5: joner74 ($94.56 in chips) is sitting out
+Seat 1: blistein ($103.18 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 3: Miku552 ($101.65 in chips) 
+Seat 4: I TAKE IT 85 ($107.34 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+Miku552: posts small blind $0.50
+I TAKE IT 85: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+joner74 leaves the table
+blistein: raises $1.30 to $2.30
+worker0k: folds 
+michasia joins the table at seat #5 
+Miku552: calls $1.80
+I TAKE IT 85: calls $1.30
+*** FLOP *** [4s 6h 4c]
+Miku552: checks 
+I TAKE IT 85: checks 
+blistein: checks 
+*** TURN *** [4s 6h 4c] [Qd]
+Miku552: bets $1
+I TAKE IT 85: raises $4.28 to $5.28
+blistein: folds 
+Miku552: folds 
+Uncalled bet ($4.28) returned to I TAKE IT 85
+I TAKE IT 85 collected $8.46 from pot
+I TAKE IT 85: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.90 | Rake $0.44 
+Board [4s 6h 4c Qd]
+Seat 5: joner74
+Seat 1: blistein folded on the Turn
+Seat 2: worker0k (button) folded before Flop (didn't bet)
+Seat 3: Miku552 (small blind) folded on the Turn
+Seat 4: I TAKE IT 85 (big blind) collected ($8.46)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435794156:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:26:37 WET [2025/01/18 14:26:37 ET]
+Table 'Roemera III' 6-max Seat #3 is the button
+Seat 1: blistein ($100.88 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 3: Miku552 ($98.35 in chips) 
+Seat 4: I TAKE IT 85 ($112.50 in chips) 
+Seat 5: michasia ($100 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+I TAKE IT 85: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+blistein: folds 
+worker0k: raises $1.30 to $2.30
+Miku552: folds 
+I TAKE IT 85: folds 
+michasia: calls $1.30
+*** FLOP *** [6s 4s 6d]
+michasia: checks 
+worker0k: bets $1.60
+michasia: calls $1.60
+*** TURN *** [6s 4s 6d] [9h]
+michasia: checks 
+worker0k: bets $5.91
+michasia: folds 
+Uncalled bet ($5.91) returned to worker0k
+worker0k collected $7.88 from pot
+*** SUMMARY ***
+Total pot $8.30 | Rake $0.42 
+Board [6s 4s 6d 9h]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k collected ($7.88)
+Seat 3: Miku552 (button) folded before Flop (didn't bet)
+Seat 4: I TAKE IT 85 (small blind) folded before Flop
+Seat 5: michasia (big blind) folded on the Turn
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435801841:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:27:03 WET [2025/01/18 14:27:03 ET]
+Table 'Roemera III' 6-max Seat #4 is the button
+Seat 1: blistein ($100.88 in chips) 
+Seat 2: worker0k ($103.98 in chips) 
+Seat 3: Miku552 ($98.35 in chips) 
+Seat 4: I TAKE IT 85 ($112 in chips) 
+Seat 5: michasia ($100 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+michasia: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+worker0k: folds 
+Miku552: raises $1 to $2
+I TAKE IT 85: folds 
+michasia: folds 
+sta$igk: folds 
+Uncalled bet ($1) returned to Miku552
+Miku552 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 3: Miku552 collected ($2.50)
+Seat 4: I TAKE IT 85 (button) folded before Flop (didn't bet)
+Seat 5: michasia (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254435805454:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:27:15 WET [2025/01/18 14:27:15 ET]
+Table 'Roemera III' 6-max Seat #5 is the button
+Seat 1: blistein ($100.88 in chips) 
+Seat 2: worker0k ($103.98 in chips) 
+Seat 3: Miku552 ($99.85 in chips) 
+Seat 4: I TAKE IT 85 ($112 in chips) 
+Seat 5: michasia ($100 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+worker0k: raises $1.30 to $2.30
+Miku552: calls $2.30
+I TAKE IT 85: folds 
+michasia: folds 
+sta$igk: folds 
+blistein: folds 
+*** FLOP *** [7s Tc 2s]
+worker0k: checks 
+Miku552: checks 
+*** TURN *** [7s Tc 2s] [8s]
+worker0k: checks 
+Miku552: bets $1
+worker0k: folds 
+Uncalled bet ($1) returned to Miku552
+Miku552 collected $5.72 from pot
+*** SUMMARY ***
+Total pot $6.10 | Rake $0.38 
+Board [7s Tc 2s 8s]
+Seat 1: blistein (big blind) folded before Flop
+Seat 2: worker0k folded on the Turn
+Seat 3: Miku552 collected ($5.72)
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: michasia (button) folded before Flop (didn't bet)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254435810679:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:27:33 WET [2025/01/18 14:27:33 ET]
+Table 'Roemera III' 6-max Seat #6 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($101.68 in chips) 
+Seat 3: Miku552 ($103.27 in chips) 
+Seat 4: I TAKE IT 85 ($112 in chips) 
+Seat 5: michasia ($100 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+blistein: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+Miku552: raises $1 to $2
+I TAKE IT 85: folds 
+michasia: raises $4 to $6
+sta$igk: folds 
+blistein: folds 
+worker0k: folds 
+Miku552: calls $4
+*** FLOP *** [3s 6d 5d]
+Miku552: bets $1
+michasia: calls $1
+*** TURN *** [3s 6d 5d] [As]
+Miku552: bets $1
+michasia: folds 
+Uncalled bet ($1) returned to Miku552
+Miku552 collected $14.52 from pot
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.98 
+Board [3s 6d 5d As]
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: worker0k (big blind) folded before Flop
+Seat 3: Miku552 collected ($14.52)
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: michasia folded on the Turn
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435817388:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:27:55 WET [2025/01/18 14:27:55 ET]
+Table 'Roemera III' 6-max Seat #1 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($100.68 in chips) 
+Seat 3: Miku552 ($110.79 in chips) 
+Seat 4: I TAKE IT 85 ($112 in chips) 
+Seat 5: michasia ($100 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+worker0k: posts small blind $0.50
+Miku552: posts big blind $1
+*** HOLE CARDS ***
+I TAKE IT 85: folds 
+michasia: folds 
+sta$igk: raises $1.50 to $2.50
+blistein: folds 
+worker0k: folds 
+Miku552: calls $1.50
+*** FLOP *** [Jd 4c 7c]
+Miku552: checks 
+sta$igk: checks 
+*** TURN *** [Jd 4c 7c] [6h]
+Miku552: bets $1
+sta$igk: raises $7.22 to $8.22
+Miku552: calls $7.22
+*** RIVER *** [Jd 4c 7c 6h] [Tc]
+Miku552: bets $1
+sta$igk: folds 
+Uncalled bet ($1) returned to Miku552
+Miku552 collected $20.56 from pot
+*** SUMMARY ***
+Total pot $21.94 | Rake $1.38 
+Board [Jd 4c 7c 6h Tc]
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: worker0k (small blind) folded before Flop
+Seat 3: Miku552 (big blind) collected ($20.56)
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: sta$igk folded on the River
+
+
+
+PokerStars Hand #254435868549:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:30:47 WET [2025/01/18 14:30:47 ET]
+Table 'Roemera III' 6-max Seat #6 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($100.18 in chips) 
+Seat 3: Miku552 ($120.38 in chips) 
+Seat 4: I TAKE IT 85 ($100 in chips) 
+Seat 5: michasia ($111.98 in chips) 
+Seat 6: sta$igk ($102.60 in chips) 
+blistein: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+Miku552: raises $1 to $2
+I TAKE IT 85: raises $4.50 to $6.50
+michasia: folds 
+sta$igk: folds 
+blistein: folds 
+worker0k: folds 
+Miku552: calls $4.50
+*** FLOP *** [6s 5d Js]
+Miku552: bets $1
+I TAKE IT 85: raises $4 to $5
+Miku552: calls $4
+*** TURN *** [6s 5d Js] [Qd]
+Miku552: bets $1
+I TAKE IT 85: raises $6.32 to $7.32
+Miku552: calls $6.32
+*** RIVER *** [6s 5d Js Qd] [Qh]
+Miku552: bets $1
+I TAKE IT 85: raises $9.80 to $10.80
+Miku552: calls $9.80
+*** SHOW DOWN ***
+I TAKE IT 85: shows [Jc Ks] (two pair, Queens and Jacks)
+Miku552: mucks hand 
+I TAKE IT 85 collected $58.24 from pot
+*** SUMMARY ***
+Total pot $60.74 | Rake $2.50 
+Board [6s 5d Js Qd Qh]
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: worker0k (big blind) folded before Flop
+Seat 3: Miku552 mucked
+Seat 4: I TAKE IT 85 showed [Jc Ks] and won ($58.24) with two pair, Queens and Jacks
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435886880:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:31:49 WET [2025/01/18 14:31:49 ET]
+Table 'Roemera III' 6-max Seat #1 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 3: Miku552 ($90.76 in chips) 
+Seat 4: I TAKE IT 85 ($128.62 in chips) 
+Seat 5: michasia ($111.98 in chips) 
+Seat 6: sta$igk ($102.60 in chips) 
+worker0k: posts small blind $0.50
+Miku552: posts big blind $1
+*** HOLE CARDS ***
+I TAKE IT 85: folds 
+michasia: raises $1.60 to $2.60
+sta$igk: folds 
+blistein: folds 
+worker0k: calls $2.10
+Miku552: calls $1.60
+*** FLOP *** [Qd 8s 5d]
+worker0k: checks 
+Miku552: checks 
+michasia: checks 
+*** TURN *** [Qd 8s 5d] [4c]
+worker0k: checks 
+Miku552: checks 
+michasia: checks 
+*** RIVER *** [Qd 8s 5d 4c] [Kd]
+worker0k: checks 
+Miku552: bets $1
+michasia: calls $1
+worker0k: folds 
+*** SHOW DOWN ***
+Miku552: shows [4s 5c] (two pair, Fives and Fours)
+michasia: mucks hand 
+Miku552 collected $9.19 from pot
+*** SUMMARY ***
+Total pot $9.80 | Rake $0.61 
+Board [Qd 8s 5d 4c Kd]
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: worker0k (small blind) folded on the River
+Seat 3: Miku552 (big blind) showed [4s 5c] and won ($9.19) with two pair, Fives and Fours
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: michasia mucked
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435897302:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:32:24 WET [2025/01/18 14:32:24 ET]
+Table 'Roemera III' 6-max Seat #2 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 3: Miku552 ($96.35 in chips) 
+Seat 4: I TAKE IT 85 ($128.62 in chips) 
+Seat 5: michasia ($108.38 in chips) 
+Seat 6: sta$igk ($102.60 in chips) 
+Miku552: posts small blind $0.50
+I TAKE IT 85: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+sta$igk: folds 
+blistein: folds 
+worker0k: folds 
+Miku552: raises $1 to $2
+I TAKE IT 85: raises $5 to $7
+Miku552: calls $5
+*** FLOP *** [2d 5h 5d]
+Miku552: bets $6.65
+I TAKE IT 85: folds 
+Uncalled bet ($6.65) returned to Miku552
+Miku552 collected $13.12 from pot
+Miku552: doesn't show hand 
+*** SUMMARY ***
+Total pot $14 | Rake $0.88 
+Board [2d 5h 5d]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k (button) folded before Flop (didn't bet)
+Seat 3: Miku552 (small blind) collected ($13.12)
+Seat 4: I TAKE IT 85 (big blind) folded on the Flop
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435905163:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:32:50 WET [2025/01/18 14:32:50 ET]
+Table 'Roemera III' 6-max Seat #3 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 3: Miku552 ($102.47 in chips) 
+Seat 4: I TAKE IT 85 ($121.62 in chips) 
+Seat 5: michasia ($108.38 in chips) 
+Seat 6: sta$igk ($102.60 in chips) 
+I TAKE IT 85: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+blistein: folds 
+worker0k: folds 
+Miku552: calls $1
+I TAKE IT 85: folds 
+michasia: checks 
+*** FLOP *** [4d 9s 2c]
+michasia: checks 
+Miku552: checks 
+*** TURN *** [4d 9s 2c] [3c]
+michasia: checks 
+Miku552: checks 
+*** RIVER *** [4d 9s 2c 3c] [Jc]
+michasia: checks 
+Miku552: bets $2.38
+michasia: folds 
+Uncalled bet ($2.38) returned to Miku552
+Miku552 collected $2.35 from pot
+Miku552: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [4d 9s 2c 3c Jc]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 3: Miku552 (button) collected ($2.35)
+Seat 4: I TAKE IT 85 (small blind) folded before Flop
+Seat 5: michasia (big blind) folded on the River
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435910935:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:33:09 WET [2025/01/18 14:33:09 ET]
+Table 'Roemera III' 6-max Seat #4 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 3: Miku552 ($103.82 in chips) 
+Seat 4: I TAKE IT 85 ($121.12 in chips) 
+Seat 5: michasia ($107.38 in chips) 
+Seat 6: sta$igk ($102.60 in chips) 
+michasia: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+worker0k: folds 
+Miku552: calls $2.20
+I TAKE IT 85: folds 
+michasia: folds 
+sta$igk: folds 
+*** FLOP *** [Kd Ks 2c]
+blistein: checks 
+Miku552: bets $1
+blistein: raises $2.50 to $3.50
+Miku552: calls $2.50
+*** TURN *** [Kd Ks 2c] [8d]
+blistein: checks 
+Miku552: bets $1
+blistein: calls $1
+*** RIVER *** [Kd Ks 2c 8d] [Td]
+blistein: checks 
+Miku552: bets $7.08
+blistein: calls $7.08
+*** SHOW DOWN ***
+Miku552: shows [2s Qh] (two pair, Kings and Deuces)
+blistein: shows [5d 5s] (two pair, Kings and Fives)
+blistein collected $27.61 from pot
+*** SUMMARY ***
+Total pot $29.06 | Rake $1.45 
+Board [Kd Ks 2c 8d Td]
+Seat 1: blistein showed [5d 5s] and won ($27.61) with two pair, Kings and Fives
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 3: Miku552 showed [2s Qh] and lost with two pair, Kings and Deuces
+Seat 4: I TAKE IT 85 (button) folded before Flop (didn't bet)
+Seat 5: michasia (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254435931884:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:34:19 WET [2025/01/18 14:34:19 ET]
+Table 'Roemera III' 6-max Seat #5 is the button
+Seat 1: blistein ($113.83 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 3: Miku552 ($90.04 in chips) 
+Seat 4: I TAKE IT 85 ($121.12 in chips) 
+Seat 5: michasia ($106.88 in chips) 
+Seat 6: sta$igk ($101.60 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+worker0k: folds 
+Miku552: calls $1
+I TAKE IT 85: folds 
+michasia: folds 
+sta$igk: folds 
+blistein: checks 
+*** FLOP *** [Tc 8c Kc]
+blistein: checks 
+Miku552: checks 
+*** TURN *** [Tc 8c Kc] [8d]
+blistein: checks 
+Miku552: checks 
+*** RIVER *** [Tc 8c Kc 8d] [Ks]
+blistein: checks 
+Miku552: checks 
+*** SHOW DOWN ***
+blistein: shows [3d 7s] (two pair, Kings and Eights)
+Miku552: shows [2d Js] (two pair, Kings and Eights - Jack kicker)
+Miku552 collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [Tc 8c Kc 8d Ks]
+Seat 1: blistein (big blind) showed [3d 7s] and lost with two pair, Kings and Eights
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 3: Miku552 showed [2d Js] and won ($2.35) with two pair, Kings and Eights
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: michasia (button) folded before Flop (didn't bet)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254435947051:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:35:10 WET [2025/01/18 14:35:10 ET]
+Table 'Roemera III' 6-max Seat #6 is the button
+Seat 1: blistein ($112.83 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 3: Miku552 ($91.39 in chips) 
+Seat 4: I TAKE IT 85 ($121.12 in chips) 
+Seat 5: michasia ($106.88 in chips) 
+Seat 6: sta$igk ($101.10 in chips) 
+blistein: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+Miku552: raises $2 to $3
+I TAKE IT 85: folds 
+michasia: raises $6 to $9
+sta$igk: folds 
+blistein: folds 
+worker0k: folds 
+Miku552: calls $6
+*** FLOP *** [4s Js Qc]
+Miku552: checks 
+michasia: bets $6.11
+Miku552: calls $6.11
+*** TURN *** [4s Js Qc] [6d]
+Miku552: checks 
+michasia: checks 
+*** RIVER *** [4s Js Qc 6d] [3s]
+Miku552: bets $1
+michasia: calls $1
+*** SHOW DOWN ***
+Miku552: shows [5d 5h] (a pair of Fives)
+michasia: shows [Ts Jc] (a pair of Jacks)
+michasia collected $32.03 from pot
+*** SUMMARY ***
+Total pot $33.72 | Rake $1.69 
+Board [4s Js Qc 6d 3s]
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: worker0k (big blind) folded before Flop
+Seat 3: Miku552 showed [5d 5h] and lost with a pair of Fives
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: michasia showed [Ts Jc] and won ($32.03) with a pair of Jacks
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435961016:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:35:56 WET [2025/01/18 14:35:56 ET]
+Table 'Roemera III' 6-max Seat #1 is the button
+Seat 1: blistein ($112.33 in chips) 
+Seat 2: worker0k ($100 in chips) 
+Seat 3: Miku552 ($75.28 in chips) 
+Seat 4: I TAKE IT 85 ($121.12 in chips) 
+Seat 5: michasia ($122.80 in chips) 
+Seat 6: sta$igk ($101.10 in chips) 
+worker0k: posts small blind $0.50
+Miku552: posts big blind $1
+*** HOLE CARDS ***
+I TAKE IT 85: folds 
+michasia: folds 
+sta$igk: folds 
+blistein: raises $1.50 to $2.50
+worker0k: raises $8.50 to $11
+Miku552: calls $10
+blistein: folds 
+*** FLOP *** [Tc 4s 3d]
+worker0k: bets $89 and is all-in
+Miku552: folds 
+Uncalled bet ($89) returned to worker0k
+worker0k collected $23.28 from pot
+*** SUMMARY ***
+Total pot $24.50 | Rake $1.22 
+Board [Tc 4s 3d]
+Seat 1: blistein (button) folded before Flop
+Seat 2: worker0k (small blind) collected ($23.28)
+Seat 3: Miku552 (big blind) folded on the Flop
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435966339:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:36:14 WET [2025/01/18 14:36:14 ET]
+Table 'Roemera III' 6-max Seat #2 is the button
+Seat 1: blistein ($109.83 in chips) 
+Seat 2: worker0k ($112.28 in chips) 
+Seat 3: Miku552 ($64.28 in chips) 
+Seat 4: I TAKE IT 85 ($121.12 in chips) 
+Seat 5: michasia ($122.80 in chips) 
+Seat 6: sta$igk ($101.10 in chips) 
+Miku552: posts small blind $0.50
+I TAKE IT 85: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+sta$igk: raises $1.50 to $2.50
+blistein: folds 
+worker0k: folds 
+Miku552: raises $6.50 to $9
+I TAKE IT 85: folds 
+sta$igk: folds 
+Uncalled bet ($6.50) returned to Miku552
+Miku552 collected $6 from pot
+Miku552: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k (button) folded before Flop (didn't bet)
+Seat 3: Miku552 (small blind) collected ($6)
+Seat 4: I TAKE IT 85 (big blind) folded before Flop
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: sta$igk folded before Flop
+
+
+
+PokerStars Hand #254435975552:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:36:45 WET [2025/01/18 14:36:45 ET]
+Table 'Roemera III' 6-max Seat #3 is the button
+Seat 1: blistein ($109.83 in chips) 
+Seat 2: worker0k ($112.28 in chips) 
+Seat 3: Miku552 ($67.78 in chips) 
+Seat 4: I TAKE IT 85 ($120.12 in chips) 
+Seat 5: michasia ($122.80 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+I TAKE IT 85: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+blistein: folds 
+worker0k: folds 
+Miku552: calls $1
+I TAKE IT 85: calls $0.50
+michasia: checks 
+*** FLOP *** [6d 5h Qh]
+I TAKE IT 85: checks 
+michasia: checks 
+Miku552: bets $1
+I TAKE IT 85: folds 
+michasia: folds 
+Uncalled bet ($1) returned to Miku552
+Miku552 collected $2.81 from pot
+Miku552: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.19 
+Board [6d 5h Qh]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 3: Miku552 (button) collected ($2.81)
+Seat 4: I TAKE IT 85 (small blind) folded on the Flop
+Seat 5: michasia (big blind) folded on the Flop
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435981241:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:37:05 WET [2025/01/18 14:37:05 ET]
+Table 'Roemera III' 6-max Seat #4 is the button
+Seat 1: blistein ($109.83 in chips) 
+Seat 2: worker0k ($112.28 in chips) 
+Seat 3: Miku552 ($69.59 in chips) 
+Seat 4: I TAKE IT 85 ($119.12 in chips) 
+Seat 5: michasia ($121.80 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+michasia: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+worker0k: folds 
+Miku552: raises $1 to $2
+I TAKE IT 85: folds 
+michasia: folds 
+sta$igk: calls $1
+*** FLOP *** [Ah Ks 5h]
+sta$igk: checks 
+Miku552: bets $1
+sta$igk: calls $1
+*** TURN *** [Ah Ks 5h] [7d]
+sta$igk: checks 
+Miku552: bets $1
+sta$igk: calls $1
+*** RIVER *** [Ah Ks 5h 7d] [8c]
+sta$igk: checks 
+Miku552: checks 
+*** SHOW DOWN ***
+sta$igk: shows [2d Kd] (a pair of Kings)
+Miku552: shows [Js Kc] (a pair of Kings - Ace+Jack kicker)
+Miku552 collected $7.98 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.52 
+Board [Ah Ks 5h 7d 8c]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 3: Miku552 showed [Js Kc] and won ($7.98) with a pair of Kings
+Seat 4: I TAKE IT 85 (button) folded before Flop (didn't bet)
+Seat 5: michasia (small blind) folded before Flop
+Seat 6: sta$igk (big blind) showed [2d Kd] and lost with a pair of Kings
+
+
+
+PokerStars Hand #254435990552:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:37:36 WET [2025/01/18 14:37:36 ET]
+Table 'Roemera III' 6-max Seat #5 is the button
+Seat 1: blistein ($109.83 in chips) 
+Seat 2: worker0k ($112.28 in chips) 
+Seat 3: Miku552 ($73.57 in chips) 
+Seat 4: I TAKE IT 85 ($119.12 in chips) 
+Seat 5: michasia ($121.30 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+worker0k: folds 
+Miku552: calls $1
+I TAKE IT 85: folds 
+michasia: folds 
+sta$igk: folds 
+blistein: checks 
+*** FLOP *** [2h Jc 7h]
+blistein: checks 
+Miku552: bets $1
+blistein: folds 
+Uncalled bet ($1) returned to Miku552
+Miku552 collected $2.35 from pot
+Miku552: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [2h Jc 7h]
+Seat 1: blistein (big blind) folded on the Flop
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 3: Miku552 collected ($2.35)
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: michasia (button) folded before Flop (didn't bet)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254435995966:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:37:54 WET [2025/01/18 14:37:54 ET]
+Table 'Roemera III' 6-max Seat #6 is the button
+Seat 1: blistein ($108.83 in chips) 
+Seat 2: worker0k ($112.28 in chips) 
+Seat 3: Miku552 ($74.92 in chips) 
+Seat 4: I TAKE IT 85 ($119.12 in chips) 
+Seat 5: michasia ($121.30 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+blistein: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+Miku552: calls $1
+I TAKE IT 85: folds 
+michasia: folds 
+sta$igk: folds 
+blistein: folds 
+worker0k: raises $2.50 to $3.50
+Miku552: calls $2.50
+*** FLOP *** [8d Qs 9h]
+worker0k: checks 
+Miku552: checks 
+*** TURN *** [8d Qs 9h] [As]
+worker0k: bets $4.63
+Miku552: folds 
+Uncalled bet ($4.63) returned to worker0k
+worker0k collected $7.12 from pot
+worker0k: shows [Jd]
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [8d Qs 9h As]
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: worker0k (big blind) collected ($7.12)
+Seat 3: Miku552 folded on the Turn
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254436003068:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:38:18 WET [2025/01/18 14:38:18 ET]
+Table 'Roemera III' 6-max Seat #1 is the button
+Seat 1: blistein ($108.33 in chips) 
+Seat 2: worker0k ($115.90 in chips) 
+Seat 3: Miku552 ($71.42 in chips) 
+Seat 4: I TAKE IT 85 ($119.12 in chips) 
+Seat 5: michasia ($121.30 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+worker0k: posts small blind $0.50
+Miku552: posts big blind $1
+*** HOLE CARDS ***
+I TAKE IT 85: folds 
+michasia: folds 
+sta$igk: raises $1.50 to $2.50
+blistein: folds 
+worker0k: folds 
+Miku552: calls $1.50
+*** FLOP *** [6c Ac 4c]
+Miku552: checks 
+sta$igk: bets $1.72
+Miku552: calls $1.72
+*** TURN *** [6c Ac 4c] [As]
+Miku552: checks 
+sta$igk: bets $6.37
+Miku552: calls $6.37
+*** RIVER *** [6c Ac 4c As] [2s]
+Miku552: checks 
+sta$igk: bets $15.45
+Miku552: folds 
+Uncalled bet ($15.45) returned to sta$igk
+sta$igk collected $20.60 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.68 | Rake $1.08 
+Board [6c Ac 4c As 2s]
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: worker0k (small blind) folded before Flop
+Seat 3: Miku552 (big blind) folded on the River
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: sta$igk collected ($20.60)
+
+
+
+PokerStars Hand #254436020249:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:39:16 WET [2025/01/18 14:39:16 ET]
+Table 'Roemera III' 6-max Seat #2 is the button
+Seat 5: michasia ($121.30 in chips) is sitting out
+Seat 1: blistein ($108.33 in chips) 
+Seat 2: worker0k ($115.40 in chips) 
+Seat 3: Miku552 ($60.83 in chips) 
+Seat 4: I TAKE IT 85 ($119.12 in chips) 
+Seat 6: sta$igk ($110.01 in chips) 
+Miku552: posts small blind $0.50
+I TAKE IT 85: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+blistein: folds 
+worker0k: folds 
+Miku552: calls $0.50
+I TAKE IT 85: checks 
+*** FLOP *** [Ad 8d Ts]
+Miku552: checks 
+I TAKE IT 85: checks 
+*** TURN *** [Ad 8d Ts] [Qh]
+Miku552: checks 
+I TAKE IT 85: checks 
+*** RIVER *** [Ad 8d Ts Qh] [5h]
+Miku552: checks 
+I TAKE IT 85: checks 
+*** SHOW DOWN ***
+Miku552: shows [7s 5d] (a pair of Fives)
+I TAKE IT 85: mucks hand 
+Miku552 collected $1.88 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.12 
+Board [Ad 8d Ts Qh 5h]
+Seat 5: michasia
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k (button) folded before Flop (didn't bet)
+Seat 3: Miku552 (small blind) showed [7s 5d] and won ($1.88) with a pair of Fives
+Seat 4: I TAKE IT 85 (big blind) mucked
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254436032420:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:39:56 WET [2025/01/18 14:39:56 ET]
+Table 'Roemera III' 6-max Seat #3 is the button
+Seat 5: michasia ($121.30 in chips) is sitting out
+Seat 1: blistein ($108.33 in chips) 
+Seat 2: worker0k ($115.40 in chips) 
+Seat 3: Miku552 ($61.71 in chips) 
+Seat 4: I TAKE IT 85 ($118.12 in chips) 
+Seat 6: sta$igk ($110.01 in chips) 
+I TAKE IT 85: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+worker0k: folds 
+Miku552: calls $1
+I TAKE IT 85: raises $4 to $5
+sta$igk: folds 
+Miku552: calls $4
+*** FLOP *** [4d Kh 2h]
+I TAKE IT 85: checks 
+Miku552: bets $2
+I TAKE IT 85: calls $2
+*** TURN *** [4d Kh 2h] [2s]
+I TAKE IT 85: checks 
+Miku552: bets $6
+I TAKE IT 85: folds 
+Uncalled bet ($6) returned to Miku552
+Miku552 collected $14.06 from pot
+Miku552: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.94 
+Board [4d Kh 2h 2s]
+Seat 5: michasia
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 3: Miku552 (button) collected ($14.06)
+Seat 4: I TAKE IT 85 (small blind) folded on the Turn
+Seat 6: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254436042952:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:40:32 WET [2025/01/18 14:40:32 ET]
+Table 'Roemera III' 6-max Seat #4 is the button
+Seat 5: michasia ($121.30 in chips) is sitting out
+Seat 1: blistein ($108.33 in chips) 
+Seat 2: worker0k ($115.40 in chips) 
+Seat 3: Miku552 ($68.77 in chips) 
+Seat 4: I TAKE IT 85 ($111.12 in chips) 
+Seat 6: sta$igk ($109.01 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+worker0k: folds 
+Miku552: calls $1
+I TAKE IT 85: raises $3 to $4
+sta$igk: folds 
+blistein: folds 
+Miku552: calls $3
+*** FLOP *** [Td 2d Ah]
+Miku552: checks 
+I TAKE IT 85: bets $3.43
+Miku552: folds 
+Uncalled bet ($3.43) returned to I TAKE IT 85
+I TAKE IT 85 collected $9.02 from pot
+I TAKE IT 85: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Td 2d Ah]
+Seat 5: michasia
+Seat 1: blistein (big blind) folded before Flop
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 3: Miku552 folded on the Flop
+Seat 4: I TAKE IT 85 (button) collected ($9.02)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254436048042:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:40:49 WET [2025/01/18 14:40:49 ET]
+Table 'Roemera III' 6-max Seat #6 is the button
+Seat 5: michasia ($121.30 in chips) is sitting out
+Seat 1: blistein ($107.33 in chips) 
+Seat 2: worker0k ($115.40 in chips) 
+Seat 3: Miku552 ($64.77 in chips) 
+Seat 4: I TAKE IT 85 ($116.14 in chips) 
+Seat 6: sta$igk ($108.51 in chips) 
+blistein: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+Miku552: raises $2 to $3
+I TAKE IT 85: folds 
+sta$igk: folds 
+blistein: folds 
+worker0k: folds 
+Uncalled bet ($2) returned to Miku552
+Miku552 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: michasia
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: worker0k (big blind) folded before Flop
+Seat 3: Miku552 collected ($2.50)
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254436052114:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:41:02 WET [2025/01/18 14:41:02 ET]
+Table 'Roemera III' 6-max Seat #1 is the button
+Seat 5: michasia ($121.30 in chips) is sitting out
+Seat 1: blistein ($106.83 in chips) 
+Seat 2: worker0k ($114.40 in chips) 
+Seat 3: Miku552 ($66.27 in chips) 
+Seat 4: I TAKE IT 85 ($116.14 in chips) 
+Seat 6: sta$igk ($108.51 in chips) 
+worker0k: posts small blind $0.50
+Miku552: posts big blind $1
+*** HOLE CARDS ***
+I TAKE IT 85: raises $1.05 to $2.05
+sta$igk: folds 
+blistein: folds 
+worker0k: calls $1.55
+Miku552: calls $1.05
+*** FLOP *** [3s 5s 6d]
+worker0k: bets $1.93
+Miku552: calls $1.93
+I TAKE IT 85: folds 
+*** TURN *** [3s 5s 6d] [Qs]
+worker0k: checks 
+Miku552: bets $1
+worker0k: calls $1
+*** RIVER *** [3s 5s 6d Qs] [8s]
+worker0k: checks 
+Miku552: bets $11.41
+worker0k: folds [7s]
+Uncalled bet ($11.41) returned to Miku552
+Miku552 collected $11.26 from pot
+Miku552: shows [2d 8h] (a pair of Eights)
+*** SUMMARY ***
+Total pot $12.01 | Rake $0.75 
+Board [3s 5s 6d Qs 8s]
+Seat 5: michasia
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: worker0k (small blind) folded on the River
+Seat 3: Miku552 (big blind) collected ($11.26)
+Seat 4: I TAKE IT 85 folded on the Flop
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254436069348:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:42:00 WET [2025/01/18 14:42:00 ET]
+Table 'Roemera III' 6-max Seat #2 is the button
+Seat 5: michasia ($121.30 in chips) is sitting out
+Seat 1: blistein ($106.83 in chips) 
+Seat 2: worker0k ($109.42 in chips) 
+Seat 3: Miku552 ($72.55 in chips) 
+Seat 4: I TAKE IT 85 ($114.09 in chips) 
+Seat 6: sta$igk ($108.51 in chips) 
+Miku552: posts small blind $0.50
+I TAKE IT 85: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+sta$igk: folds 
+blistein: raises $1.30 to $2.30
+worker0k: folds 
+Miku552: calls $1.80
+I TAKE IT 85: folds 
+*** FLOP *** [7h Kh 6h]
+Miku552: checks 
+blistein: bets $1.50
+Miku552: calls $1.50
+*** TURN *** [7h Kh 6h] [3c]
+Miku552: checks 
+blistein: checks 
+*** RIVER *** [7h Kh 6h 3c] [4s]
+Miku552: checks 
+blistein: bets $6.13
+Miku552: raises $6.13 to $12.26
+blistein: folds 
+Uncalled bet ($6.13) returned to Miku552
+Miku552 collected $19.56 from pot
+Miku552: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.86 | Rake $1.30 
+Board [7h Kh 6h 3c 4s]
+Seat 5: michasia
+Seat 1: blistein folded on the River
+Seat 2: worker0k (button) folded before Flop (didn't bet)
+Seat 3: Miku552 (small blind) collected ($19.56)
+Seat 4: I TAKE IT 85 (big blind) folded before Flop
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254436095382:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:43:27 WET [2025/01/18 14:43:27 ET]
+Table 'Roemera III' 6-max Seat #3 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($109.42 in chips) 
+Seat 3: Miku552 ($82.18 in chips) 
+Seat 4: I TAKE IT 85 ($113.09 in chips) 
+Seat 5: michasia ($121.30 in chips) 
+Seat 6: sta$igk ($108.51 in chips) 
+I TAKE IT 85: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+blistein: raises $5 to $7.50
+worker0k: folds 
+Miku552: calls $7.50
+I TAKE IT 85: folds 
+michasia: folds 
+sta$igk: folds 
+*** FLOP *** [8d 5c 7d]
+blistein: checks 
+Miku552: bets $7
+blistein: folds 
+Uncalled bet ($7) returned to Miku552
+Miku552 collected $17.81 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $1.19 
+Board [8d 5c 7d]
+Seat 1: blistein folded on the Flop
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 3: Miku552 (button) collected ($17.81)
+Seat 4: I TAKE IT 85 (small blind) folded before Flop
+Seat 5: michasia (big blind) folded before Flop
+Seat 6: sta$igk folded before Flop
+
+
+
+PokerStars Hand #254436106575:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:44:05 WET [2025/01/18 14:44:05 ET]
+Table 'Roemera III' 6-max Seat #4 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($109.42 in chips) 
+Seat 3: Miku552 ($92.49 in chips) 
+Seat 4: I TAKE IT 85 ($112.59 in chips) 
+Seat 5: michasia ($120.30 in chips) 
+Seat 6: sta$igk ($106.01 in chips) 
+michasia: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+worker0k: raises $1.30 to $2.30
+Miku552: calls $2.30
+I TAKE IT 85: calls $2.30
+michasia: folds 
+sta$igk: folds 
+*** FLOP *** [8c Jh 7s]
+worker0k: checks 
+Miku552: checks 
+I TAKE IT 85: checks 
+*** TURN *** [8c Jh 7s] [6d]
+worker0k: checks 
+Miku552: checks 
+I TAKE IT 85: bets $5.59
+worker0k: folds 
+Miku552: folds 
+Uncalled bet ($5.59) returned to I TAKE IT 85
+I TAKE IT 85 collected $7.98 from pot
+I TAKE IT 85: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.40 | Rake $0.42 
+Board [8c Jh 7s 6d]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k folded on the Turn
+Seat 3: Miku552 folded on the Turn
+Seat 4: I TAKE IT 85 (button) collected ($7.98)
+Seat 5: michasia (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254436117169:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:44:40 WET [2025/01/18 14:44:40 ET]
+Table 'Roemera III' 6-max Seat #5 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($107.12 in chips) 
+Seat 3: Miku552 ($90.19 in chips) 
+Seat 4: I TAKE IT 85 ($118.27 in chips) 
+Seat 5: michasia ($119.80 in chips) 
+Seat 6: sta$igk ($105.01 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+worker0k: folds 
+Miku552: calls $1
+I TAKE IT 85: raises $2 to $3
+michasia: folds 
+sta$igk: folds 
+blistein: raises $10 to $13
+Miku552: calls $12
+I TAKE IT 85: folds 
+*** FLOP *** [8d Js Td]
+blistein: checks 
+Miku552: bets $7
+blistein: folds 
+Uncalled bet ($7) returned to Miku552
+Miku552 collected $27.65 from pot
+Miku552: doesn't show hand 
+*** SUMMARY ***
+Total pot $29.50 | Rake $1.85 
+Board [8d Js Td]
+Seat 1: blistein (big blind) folded on the Flop
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 3: Miku552 collected ($27.65)
+Seat 4: I TAKE IT 85 folded before Flop
+Seat 5: michasia (button) folded before Flop (didn't bet)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254436133595:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:45:36 WET [2025/01/18 14:45:36 ET]
+Table 'Roemera III' 6-max Seat #6 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($107.12 in chips) 
+Seat 3: Miku552 ($104.84 in chips) 
+Seat 4: I TAKE IT 85 ($115.27 in chips) 
+Seat 5: michasia ($119.80 in chips) 
+Seat 6: sta$igk ($104.51 in chips) 
+blistein: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+Miku552: calls $1
+I TAKE IT 85: folds 
+michasia: raises $2.50 to $3.50
+sta$igk: raises $8 to $11.50
+blistein: folds 
+worker0k: folds 
+Miku552: calls $10.50
+michasia: calls $8
+*** FLOP *** [5s Qc 8s]
+Miku552: checks 
+michasia: checks 
+sta$igk: bets $11.29
+Miku552: calls $11.29
+michasia: folds 
+*** TURN *** [5s Qc 8s] [7s]
+Miku552: bets $1
+sta$igk: raises $19 to $20
+Miku552: folds 
+Uncalled bet ($19) returned to sta$igk
+sta$igk collected $58.08 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $60.58 | Rake $2.50 
+Board [5s Qc 8s 7s]
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: worker0k (big blind) folded before Flop
+Seat 3: Miku552 folded on the Turn
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: michasia folded on the Flop
+Seat 6: sta$igk (button) collected ($58.08)
+
+
+
+PokerStars Hand #254436158020:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:46:58 WET [2025/01/18 14:46:58 ET]
+Table 'Roemera III' 6-max Seat #1 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($106.12 in chips) 
+Seat 3: Miku552 ($81.05 in chips) 
+Seat 4: I TAKE IT 85 ($115.27 in chips) 
+Seat 5: michasia ($108.30 in chips) 
+Seat 6: sta$igk ($138.80 in chips) 
+worker0k: posts small blind $0.50
+Miku552: posts big blind $1
+*** HOLE CARDS ***
+I TAKE IT 85: folds 
+michasia: folds 
+sta$igk: folds 
+blistein: raises $1.50 to $2.50
+worker0k: folds 
+Miku552: calls $1.50
+*** FLOP *** [9h 6c 7h]
+Miku552: checks 
+blistein: bets $3.92
+Miku552: folds 
+Uncalled bet ($3.92) returned to blistein
+blistein collected $5.22 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [9h 6c 7h]
+Seat 1: blistein (button) collected ($5.22)
+Seat 2: worker0k (small blind) folded before Flop
+Seat 3: Miku552 (big blind) folded on the Flop
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: michasia folded before Flop (didn't bet)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254436164166:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:47:19 WET [2025/01/18 14:47:19 ET]
+Table 'Roemera III' 6-max Seat #2 is the button
+Seat 1: blistein ($102.72 in chips) 
+Seat 2: worker0k ($105.62 in chips) 
+Seat 3: Miku552 ($78.55 in chips) 
+Seat 4: I TAKE IT 85 ($115.27 in chips) 
+Seat 5: michasia ($108.30 in chips) 
+Seat 6: sta$igk ($138.80 in chips) 
+Miku552: posts small blind $0.50
+I TAKE IT 85: posts big blind $1
+*** HOLE CARDS ***
+michasia: raises $1.60 to $2.60
+sta$igk: folds 
+blistein: raises $4.90 to $7.50
+worker0k: folds 
+Miku552: folds 
+I TAKE IT 85: raises $8.50 to $16
+michasia: folds 
+blistein: folds 
+Uncalled bet ($8.50) returned to I TAKE IT 85
+I TAKE IT 85 collected $18.10 from pot
+I TAKE IT 85: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.10 | Rake $0 
+Seat 1: blistein folded before Flop
+Seat 2: worker0k (button) folded before Flop (didn't bet)
+Seat 3: Miku552 (small blind) folded before Flop
+Seat 4: I TAKE IT 85 (big blind) collected ($18.10)
+Seat 5: michasia folded before Flop
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254436176157:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:47:59 WET [2025/01/18 14:47:59 ET]
+Table 'Roemera III' 6-max Seat #3 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($105.62 in chips) 
+Seat 3: Miku552 ($78.05 in chips) 
+Seat 4: I TAKE IT 85 ($125.87 in chips) 
+Seat 5: michasia ($105.70 in chips) 
+Seat 6: sta$igk ($138.80 in chips) 
+I TAKE IT 85: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+blistein: folds 
+worker0k: folds 
+Miku552: raises $3 to $4
+I TAKE IT 85: folds 
+michasia: raises $11 to $15
+Miku552: calls $11
+*** FLOP *** [5s Qh 2h]
+michasia: bets $9.56
+Miku552: calls $9.56
+*** TURN *** [5s Qh 2h] [4c]
+michasia: checks 
+Miku552: bets $53.49 and is all-in
+michasia: calls $53.49
+*** RIVER *** [5s Qh 2h 4c] [Ad]
+*** SHOW DOWN ***
+michasia: shows [Ks As] (a pair of Aces)
+Miku552: shows [Jc 2c] (a pair of Deuces)
+michasia collected $154.10 from pot
+*** SUMMARY ***
+Total pot $156.60 | Rake $2.50 
+Board [5s Qh 2h 4c Ad]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 3: Miku552 (button) showed [Jc 2c] and lost with a pair of Deuces
+Seat 4: I TAKE IT 85 (small blind) folded before Flop
+Seat 5: michasia (big blind) showed [Ks As] and won ($154.10) with a pair of Aces
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254436192766:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:48:55 WET [2025/01/18 14:48:55 ET]
+Table 'Roemera III' 6-max Seat #4 is the button
+Seat 3: Miku552 ($0 in chips) is sitting out
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($105.62 in chips) 
+Seat 4: I TAKE IT 85 ($125.37 in chips) 
+Seat 5: michasia ($181.75 in chips) 
+Seat 6: sta$igk ($138.80 in chips) 
+michasia: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+worker0k: folds 
+I TAKE IT 85: raises $1.05 to $2.05
+michasia: folds 
+sta$igk: folds 
+Uncalled bet ($1.05) returned to I TAKE IT 85
+I TAKE IT 85 collected $2.50 from pot
+I TAKE IT 85: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Miku552
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 4: I TAKE IT 85 (button) collected ($2.50)
+Seat 5: michasia (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254436197188:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:49:10 WET [2025/01/18 14:49:10 ET]
+Table 'Roemera III' 6-max Seat #5 is the button
+Seat 3: Miku552 ($0 in chips) is sitting out
+Seat 1: blistein ($100 in chips) 
+Seat 2: worker0k ($105.62 in chips) 
+Seat 4: I TAKE IT 85 ($126.87 in chips) 
+Seat 5: michasia ($181.25 in chips) 
+Seat 6: sta$igk ($137.80 in chips) 
+sta$igk: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Miku552 leaves the table
+worker0k: folds 
+I TAKE IT 85: folds 
+worker0k leaves the table
+michasia: folds 
+sta$igk: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Miku552
+Seat 1: blistein (big blind) collected ($1)
+Seat 2: worker0k folded before Flop (didn't bet)
+Seat 4: I TAKE IT 85 folded before Flop (didn't bet)
+Seat 5: michasia (button) folded before Flop (didn't bet)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+

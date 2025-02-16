@@ -1,0 +1,71 @@
+﻿PokerStars Hand #254721329387:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:50:54 WET [2025/02/05 12:50:54 ET]
+Table 'Scutum II' 6-max Seat #6 is the button
+Seat 2: AIien Hand ($101.50 in chips) is sitting out
+Seat 1: KarP93 ($102.72 in chips) 
+Seat 3: Iseedora ($100 in chips) 
+Seat 4: Burlica2013 ($100 in chips) 
+Seat 5: vitalik_sw ($100 in chips) 
+Seat 6: z00mba ($100 in chips) 
+KarP93: posts small blind $0.50
+AIien Hand: is sitting out 
+Iseedora: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+vitalik_sw: folds 
+z00mba: raises $1.50 to $2.50
+KarP93: folds 
+Iseedora: calls $1.50
+*** FLOP *** [9h 7c 5c]
+Iseedora: checks 
+AIien Hand leaves the table
+z00mba: checks 
+*** TURN *** [9h 7c 5c] [Qh]
+Iseedora: checks 
+z00mba: checks 
+*** RIVER *** [9h 7c 5c Qh] [6c]
+Iseedora: checks 
+z00mba: checks 
+*** SHOW DOWN ***
+Iseedora: shows [Jh 5h] (a pair of Fives)
+z00mba: mucks hand 
+Iseedora collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [9h 7c 5c Qh 6c]
+Seat 2: AIien Hand
+Seat 1: KarP93 (small blind) folded before Flop
+Seat 3: Iseedora (big blind) showed [Jh 5h] and won ($5.22) with a pair of Fives
+Seat 4: Burlica2013 folded before Flop (didn't bet)
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: z00mba (button) mucked
+
+
+
+PokerStars Hand #254721347361:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 17:52:02 WET [2025/02/05 12:52:02 ET]
+Table 'Scutum II' 6-max Seat #1 is the button
+Seat 1: KarP93 ($102.22 in chips) 
+Seat 3: Iseedora ($102.72 in chips) 
+Seat 4: Burlica2013 ($100 in chips) 
+Seat 5: vitalik_sw ($100 in chips) 
+Seat 6: z00mba ($100 in chips) 
+Iseedora: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+vitalik_sw: folds 
+z00mba: raises $1.50 to $2.50
+KarP93: folds 
+Iseedora: folds 
+Burlica2013: folds 
+Uncalled bet ($1.50) returned to z00mba
+z00mba collected $2.50 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: KarP93 (button) folded before Flop (didn't bet)
+Seat 3: Iseedora (small blind) folded before Flop
+Seat 4: Burlica2013 (big blind) folded before Flop
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: z00mba collected ($2.50)
+
+
+

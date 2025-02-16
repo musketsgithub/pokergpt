@@ -1,0 +1,1040 @@
+﻿PokerStars Hand #254557331014:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:21:14 WET [2025/01/25 23:21:14 ET]
+Table 'Ida IV' 6-max Seat #5 is the button
+Seat 1: reeqar ($112.17 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($105.48 in chips) 
+Seat 4: sutata ($116.84 in chips) 
+Seat 5: bingodingo000 ($32.97 in chips) 
+Seat 6: B1GBankroll ($102.73 in chips) 
+B1GBankroll: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+steepfell: raises $1.50 to $2.50
+iTrustU21: folds 
+sutata: folds 
+bingodingo000: calls $2.50
+B1GBankroll: folds 
+reeqar: folds 
+*** FLOP *** [6c Ts 4s]
+steepfell: checks 
+bingodingo000: checks 
+*** TURN *** [6c Ts 4s] [3s]
+steepfell: checks 
+bingodingo000: checks 
+*** RIVER *** [6c Ts 4s 3s] [2c]
+steepfell: checks 
+bingodingo000: checks 
+*** SHOW DOWN ***
+steepfell: shows [Ad Jc] (high card Ace)
+bingodingo000: shows [2h Ks] (a pair of Deuces)
+bingodingo000 collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [6c Ts 4s 3s 2c]
+Seat 1: reeqar (big blind) folded before Flop
+Seat 2: steepfell showed [Ad Jc] and lost with high card Ace
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: sutata folded before Flop (didn't bet)
+Seat 5: bingodingo000 (button) showed [2h Ks] and won ($6.18) with a pair of Deuces
+Seat 6: B1GBankroll (small blind) folded before Flop
+
+
+
+PokerStars Hand #254557334686:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:21:47 WET [2025/01/25 23:21:47 ET]
+Table 'Ida IV' 6-max Seat #6 is the button
+Seat 1: reeqar ($111.17 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($105.48 in chips) 
+Seat 4: sutata ($116.84 in chips) 
+Seat 5: bingodingo000 ($36.65 in chips) 
+Seat 6: B1GBankroll ($102.23 in chips) 
+reeqar: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+sutata: folds 
+bingodingo000: raises $1 to $2
+B1GBankroll: folds 
+reeqar: folds 
+steepfell: raises $16 to $18
+bingodingo000: raises $16 to $34
+steepfell: raises $16 to $50
+bingodingo000: calls $2.65 and is all-in
+Uncalled bet ($13.35) returned to steepfell
+*** FLOP *** [Kd 7c 4c]
+*** TURN *** [Kd 7c 4c] [9h]
+*** RIVER *** [Kd 7c 4c 9h] [Qc]
+*** SHOW DOWN ***
+steepfell: shows [Ts Td] (a pair of Tens)
+bingodingo000: shows [Jc Qd] (a pair of Queens)
+bingodingo000 collected $71.30 from pot
+*** SUMMARY ***
+Total pot $73.80 | Rake $2.50 
+Board [Kd 7c 4c 9h Qc]
+Seat 1: reeqar (small blind) folded before Flop
+Seat 2: steepfell (big blind) showed [Ts Td] and lost with a pair of Tens
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: sutata folded before Flop (didn't bet)
+Seat 5: bingodingo000 showed [Jc Qd] and won ($71.30) with a pair of Queens
+Seat 6: B1GBankroll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557339744:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:22:32 WET [2025/01/25 23:22:32 ET]
+Table 'Ida IV' 6-max Seat #1 is the button
+Seat 1: reeqar ($110.67 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($105.48 in chips) 
+Seat 4: sutata ($116.84 in chips) 
+Seat 5: bingodingo000 ($71.30 in chips) 
+Seat 6: B1GBankroll ($102.23 in chips) 
+steepfell: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+sutata: folds 
+bingodingo000: raises $1 to $2
+B1GBankroll: folds 
+reeqar: folds 
+steepfell: raises $8 to $10
+iTrustU21: folds 
+bingodingo000: calls $8
+*** FLOP *** [3s Qd Kh]
+steepfell: bets $9.97
+bingodingo000: raises $51.33 to $61.30 and is all-in
+steepfell: calls $51.33
+*** TURN *** [3s Qd Kh] [6s]
+*** RIVER *** [3s Qd Kh 6s] [Qc]
+*** SHOW DOWN ***
+steepfell: shows [Tc Kc] (two pair, Kings and Queens)
+bingodingo000: shows [Ks As] (two pair, Kings and Queens - Ace kicker)
+bingodingo000 collected $141.10 from pot
+*** SUMMARY ***
+Total pot $143.60 | Rake $2.50 
+Board [3s Qd Kh 6s Qc]
+Seat 1: reeqar (button) folded before Flop (didn't bet)
+Seat 2: steepfell (small blind) showed [Tc Kc] and lost with two pair, Kings and Queens
+Seat 3: iTrustU21 (big blind) folded before Flop
+Seat 4: sutata folded before Flop (didn't bet)
+Seat 5: bingodingo000 showed [Ks As] and won ($141.10) with two pair, Kings and Queens
+Seat 6: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557345293:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:23:21 WET [2025/01/25 23:23:21 ET]
+Table 'Ida IV' 6-max Seat #2 is the button
+Seat 1: reeqar ($110.67 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($104.48 in chips) 
+Seat 4: sutata ($116.84 in chips) 
+Seat 5: bingodingo000 ($141.10 in chips) 
+Seat 6: B1GBankroll ($102.23 in chips) 
+iTrustU21: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+bingodingo000: raises $1 to $2
+B1GBankroll: folds 
+reeqar: folds 
+steepfell: folds 
+iTrustU21: folds 
+sutata: calls $1
+*** FLOP *** [Qc Kc Qd]
+sutata: checks 
+bingodingo000: checks 
+*** TURN *** [Qc Kc Qd] [8s]
+sutata: checks 
+bingodingo000: checks 
+*** RIVER *** [Qc Kc Qd 8s] [7c]
+sutata: checks 
+bingodingo000: checks 
+*** SHOW DOWN ***
+sutata: shows [5s 5d] (two pair, Queens and Fives)
+bingodingo000: mucks hand 
+sutata collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Qc Kc Qd 8s 7c]
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: steepfell (button) folded before Flop (didn't bet)
+Seat 3: iTrustU21 (small blind) folded before Flop
+Seat 4: sutata (big blind) showed [5s 5d] and won ($4.28) with two pair, Queens and Fives
+Seat 5: bingodingo000 mucked
+Seat 6: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557350434:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:24:07 WET [2025/01/25 23:24:07 ET]
+Table 'Ida IV' 6-max Seat #3 is the button
+Seat 1: reeqar ($110.67 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($103.98 in chips) 
+Seat 4: sutata ($119.12 in chips) 
+Seat 5: bingodingo000 ($139.10 in chips) 
+Seat 6: B1GBankroll ($102.23 in chips) 
+sutata: posts small blind $0.50
+bingodingo000: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+reeqar: folds 
+steepfell: raises $1.50 to $2.50
+iTrustU21: folds 
+sutata: folds 
+bingodingo000: calls $1.50
+*** FLOP *** [Kh 2c 4s]
+bingodingo000: checks 
+steepfell: bets $2.61
+bingodingo000: calls $2.61
+*** TURN *** [Kh 2c 4s] [Jc]
+bingodingo000: checks 
+steepfell: bets $7.64
+bingodingo000: calls $7.64
+*** RIVER *** [Kh 2c 4s Jc] [Td]
+bingodingo000: checks 
+steepfell: checks 
+*** SHOW DOWN ***
+bingodingo000: shows [Qc Js] (a pair of Jacks)
+steepfell: shows [6d Kd] (a pair of Kings)
+steepfell collected $24.70 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $1.30 
+Board [Kh 2c 4s Jc Td]
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: steepfell showed [6d Kd] and won ($24.70) with a pair of Kings
+Seat 3: iTrustU21 (button) folded before Flop (didn't bet)
+Seat 4: sutata (small blind) folded before Flop
+Seat 5: bingodingo000 (big blind) showed [Qc Js] and lost with a pair of Jacks
+Seat 6: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557354401:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:24:42 WET [2025/01/25 23:24:42 ET]
+Table 'Ida IV' 6-max Seat #4 is the button
+Seat 1: reeqar ($110.67 in chips) 
+Seat 2: steepfell ($111.95 in chips) 
+Seat 3: iTrustU21 ($103.98 in chips) 
+Seat 4: sutata ($118.62 in chips) 
+Seat 5: bingodingo000 ($126.35 in chips) 
+Seat 6: B1GBankroll ($102.23 in chips) 
+bingodingo000: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+steepfell: folds 
+iTrustU21: raises $1.20 to $2.20
+sutata: folds 
+bingodingo000: calls $1.70
+B1GBankroll: folds 
+*** FLOP *** [8c 2h Kh]
+bingodingo000: checks 
+iTrustU21: bets $2.46
+bingodingo000: calls $2.46
+*** TURN *** [8c 2h Kh] [3d]
+bingodingo000: checks 
+iTrustU21: bets $6
+bingodingo000: calls $6
+*** RIVER *** [8c 2h Kh 3d] [Qs]
+bingodingo000: checks 
+iTrustU21: bets $15.90
+bingodingo000: calls $15.90
+*** SHOW DOWN ***
+iTrustU21: shows [4s As] (high card Ace)
+bingodingo000: shows [9s 8h] (a pair of Eights)
+bingodingo000 collected $51.62 from pot
+*** SUMMARY ***
+Total pot $54.12 | Rake $2.50 
+Board [8c 2h Kh 3d Qs]
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: iTrustU21 showed [4s As] and lost with high card Ace
+Seat 4: sutata (button) folded before Flop (didn't bet)
+Seat 5: bingodingo000 (small blind) showed [9s 8h] and won ($51.62) with a pair of Eights
+Seat 6: B1GBankroll (big blind) folded before Flop
+
+
+
+PokerStars Hand #254557361011:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:25:40 WET [2025/01/25 23:25:40 ET]
+Table 'Ida IV' 6-max Seat #5 is the button
+Seat 1: reeqar ($110.67 in chips) 
+Seat 2: steepfell ($111.95 in chips) 
+Seat 3: iTrustU21 ($77.42 in chips) 
+Seat 4: sutata ($118.62 in chips) 
+Seat 5: bingodingo000 ($151.41 in chips) 
+Seat 6: B1GBankroll ($101.23 in chips) 
+B1GBankroll: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+iTrustU21: folds 
+sutata: raises $1.50 to $2.50
+bingodingo000: calls $2.50
+B1GBankroll: folds 
+reeqar: folds 
+*** FLOP *** [5h 5s 6s]
+sutata: checks 
+bingodingo000: checks 
+*** TURN *** [5h 5s 6s] [9s]
+sutata: bets $2.06
+bingodingo000: calls $2.06
+*** RIVER *** [5h 5s 6s 9s] [Ad]
+sutata: bets $6.66
+bingodingo000: folds 
+Uncalled bet ($6.66) returned to sutata
+sutata collected $10.09 from pot
+sutata: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.62 | Rake $0.53 
+Board [5h 5s 6s 9s Ad]
+Seat 1: reeqar (big blind) folded before Flop
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: sutata collected ($10.09)
+Seat 5: bingodingo000 (button) folded on the River
+Seat 6: B1GBankroll (small blind) folded before Flop
+
+
+
+PokerStars Hand #254557366182:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:26:26 WET [2025/01/25 23:26:26 ET]
+Table 'Ida IV' 6-max Seat #6 is the button
+Seat 1: reeqar ($109.67 in chips) 
+Seat 2: steepfell ($111.95 in chips) 
+Seat 3: iTrustU21 ($100 in chips) 
+Seat 4: sutata ($124.15 in chips) 
+Seat 5: bingodingo000 ($146.85 in chips) 
+Seat 6: B1GBankroll ($100.73 in chips) 
+reeqar: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+sutata has timed out
+sutata: folds 
+bingodingo000: folds 
+B1GBankroll: folds 
+reeqar: folds 
+Uncalled bet ($0.50) returned to steepfell
+steepfell collected $1 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: reeqar (small blind) folded before Flop
+Seat 2: steepfell (big blind) collected ($1)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: sutata folded before Flop (didn't bet)
+Seat 5: bingodingo000 folded before Flop (didn't bet)
+Seat 6: B1GBankroll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557368527:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:26:47 WET [2025/01/25 23:26:47 ET]
+Table 'Ida IV' 6-max Seat #1 is the button
+Seat 1: reeqar ($109.17 in chips) 
+Seat 2: steepfell ($112.45 in chips) 
+Seat 3: iTrustU21 ($100 in chips) 
+Seat 4: sutata ($124.15 in chips) 
+Seat 5: bingodingo000 ($146.85 in chips) 
+Seat 6: B1GBankroll ($100.73 in chips) 
+steepfell: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+sutata: folds 
+bingodingo000: calls $1
+B1GBankroll: raises $3 to $4
+reeqar: folds 
+steepfell: folds 
+iTrustU21: raises $10.50 to $14.50
+bingodingo000: folds 
+B1GBankroll: folds 
+Uncalled bet ($10.50) returned to iTrustU21
+iTrustU21 collected $9.50 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0 
+Seat 1: reeqar (button) folded before Flop (didn't bet)
+Seat 2: steepfell (small blind) folded before Flop
+Seat 3: iTrustU21 (big blind) collected ($9.50)
+Seat 4: sutata folded before Flop (didn't bet)
+Seat 5: bingodingo000 folded before Flop
+Seat 6: B1GBankroll folded before Flop
+
+
+
+PokerStars Hand #254557372105:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:27:19 WET [2025/01/25 23:27:19 ET]
+Table 'Ida IV' 6-max Seat #2 is the button
+Seat 1: reeqar ($109.17 in chips) 
+Seat 2: steepfell ($111.95 in chips) 
+Seat 3: iTrustU21 ($105.50 in chips) 
+Seat 4: sutata ($124.15 in chips) 
+Seat 5: bingodingo000 ($145.85 in chips) 
+Seat 6: B1GBankroll ($100 in chips) 
+iTrustU21: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+bingodingo000: raises $1 to $2
+B1GBankroll: folds 
+reeqar: folds 
+steepfell: folds 
+iTrustU21: folds 
+sutata: raises $7.30 to $9.30
+bingodingo000: calls $7.30
+*** FLOP *** [Ts 3h Ks]
+sutata: bets $6.05
+bingodingo000: calls $6.05
+*** TURN *** [Ts 3h Ks] [5h]
+sutata: bets $9.88
+bingodingo000: calls $9.88
+*** RIVER *** [Ts 3h Ks 5h] [Jc]
+sutata: bets $98.92 and is all-in
+bingodingo000: folds 
+Uncalled bet ($98.92) returned to sutata
+sutata collected $48.46 from pot
+sutata: doesn't show hand 
+*** SUMMARY ***
+Total pot $50.96 | Rake $2.50 
+Board [Ts 3h Ks 5h Jc]
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: steepfell (button) folded before Flop (didn't bet)
+Seat 3: iTrustU21 (small blind) folded before Flop
+Seat 4: sutata (big blind) collected ($48.46)
+Seat 5: bingodingo000 folded on the River
+Seat 6: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557377847:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:28:10 WET [2025/01/25 23:28:10 ET]
+Table 'Ida IV' 6-max Seat #3 is the button
+Seat 1: reeqar ($109.17 in chips) 
+Seat 2: steepfell ($111.95 in chips) 
+Seat 3: iTrustU21 ($105 in chips) 
+Seat 4: sutata ($147.38 in chips) 
+Seat 5: bingodingo000 ($120.62 in chips) 
+Seat 6: B1GBankroll ($100 in chips) 
+sutata: posts small blind $0.50
+bingodingo000: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+reeqar: folds 
+steepfell: folds 
+iTrustU21: folds 
+sutata: raises $2 to $3
+bingodingo000: calls $2
+*** FLOP *** [4s 9h 8s]
+sutata: checks 
+bingodingo000: checks 
+*** TURN *** [4s 9h 8s] [5h]
+sutata: checks 
+bingodingo000: checks 
+*** RIVER *** [4s 9h 8s 5h] [6s]
+sutata: checks 
+bingodingo000: bets $1
+sutata: calls $1
+*** SHOW DOWN ***
+bingodingo000: shows [Tc 2s] (high card Ten)
+sutata: shows [Td Ac] (high card Ace)
+sutata collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [4s 9h 8s 5h 6s]
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: iTrustU21 (button) folded before Flop (didn't bet)
+Seat 4: sutata (small blind) showed [Td Ac] and won ($7.60) with high card Ace
+Seat 5: bingodingo000 (big blind) showed [Tc 2s] and lost with high card Ten
+Seat 6: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557381952:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:28:47 WET [2025/01/25 23:28:47 ET]
+Table 'Ida IV' 6-max Seat #4 is the button
+Seat 1: reeqar ($109.17 in chips) 
+Seat 2: steepfell ($111.95 in chips) 
+Seat 3: iTrustU21 ($105 in chips) 
+Seat 4: sutata ($150.98 in chips) 
+Seat 5: bingodingo000 ($116.62 in chips) 
+Seat 6: B1GBankroll ($100 in chips) 
+bingodingo000: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+steepfell: folds 
+iTrustU21: raises $1.20 to $2.20
+sutata: folds 
+bingodingo000: calls $1.70
+B1GBankroll: calls $1.20
+*** FLOP *** [8h 9s Jc]
+bingodingo000: checks 
+B1GBankroll: checks 
+iTrustU21: checks 
+*** TURN *** [8h 9s Jc] [Ad]
+bingodingo000: checks 
+B1GBankroll: checks 
+iTrustU21: checks 
+*** RIVER *** [8h 9s Jc Ad] [6h]
+bingodingo000: bets $3.14
+B1GBankroll: calls $3.14
+iTrustU21: folds 
+*** SHOW DOWN ***
+bingodingo000: shows [As 3c] (a pair of Aces)
+B1GBankroll: mucks hand 
+bingodingo000 collected $12.24 from pot
+*** SUMMARY ***
+Total pot $12.88 | Rake $0.64 
+Board [8h 9s Jc Ad 6h]
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded on the River
+Seat 4: sutata (button) folded before Flop (didn't bet)
+Seat 5: bingodingo000 (small blind) showed [As 3c] and won ($12.24) with a pair of Aces
+Seat 6: B1GBankroll (big blind) mucked
+
+
+
+PokerStars Hand #254557389156:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:29:52 WET [2025/01/25 23:29:52 ET]
+Table 'Ida IV' 6-max Seat #5 is the button
+Seat 1: reeqar ($109.17 in chips) 
+Seat 2: steepfell ($111.95 in chips) 
+Seat 3: iTrustU21 ($102.80 in chips) 
+Seat 4: sutata ($150.98 in chips) 
+Seat 5: bingodingo000 ($123.52 in chips) 
+Seat 6: B1GBankroll ($100 in chips) 
+B1GBankroll: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+iTrustU21: folds 
+sutata: folds 
+bingodingo000: calls $1
+B1GBankroll: folds 
+reeqar: checks 
+*** FLOP *** [2d 7c 2h]
+reeqar: bets $1.19
+bingodingo000: folds 
+Uncalled bet ($1.19) returned to reeqar
+reeqar collected $2.38 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [2d 7c 2h]
+Seat 1: reeqar (big blind) collected ($2.38)
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: sutata folded before Flop (didn't bet)
+Seat 5: bingodingo000 (button) folded on the Flop
+Seat 6: B1GBankroll (small blind) folded before Flop
+
+
+
+PokerStars Hand #254557392704:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:30:24 WET [2025/01/25 23:30:24 ET]
+Table 'Ida IV' 6-max Seat #6 is the button
+Seat 1: reeqar ($110.55 in chips) 
+Seat 2: steepfell ($111.95 in chips) 
+Seat 3: iTrustU21 ($102.80 in chips) 
+Seat 4: sutata ($150.98 in chips) 
+Seat 5: bingodingo000 ($122.52 in chips) 
+Seat 6: B1GBankroll ($100 in chips) 
+reeqar: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+sutata: raises $1.50 to $2.50
+bingodingo000: folds 
+bingodingo000 leaves the table
+B1GBankroll: folds 
+reeqar: folds 
+steepfell: folds 
+Uncalled bet ($1.50) returned to sutata
+sutata collected $2.50 from pot
+sutata: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: reeqar (small blind) folded before Flop
+Seat 2: steepfell (big blind) folded before Flop
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: sutata collected ($2.50)
+Seat 5: bingodingo000 folded before Flop (didn't bet)
+Seat 6: B1GBankroll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557394523:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:30:40 WET [2025/01/25 23:30:40 ET]
+Table 'Ida IV' 6-max Seat #1 is the button
+Seat 1: reeqar ($110.05 in chips) 
+Seat 2: steepfell ($110.95 in chips) 
+Seat 3: iTrustU21 ($102.80 in chips) 
+Seat 4: sutata ($152.48 in chips) 
+Seat 6: B1GBankroll ($100 in chips) 
+steepfell: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+sutata: folds 
+B1GBankroll: folds 
+reeqar: folds 
+steepfell: raises $2 to $3
+iTrustU21: calls $2
+*** FLOP *** [5s 8c 4h]
+steepfell: checks 
+iTrustU21: bets $2.74
+sutata leaves the table
+steepfell: folds 
+Uncalled bet ($2.74) returned to iTrustU21
+iTrustU21 collected $5.70 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [5s 8c 4h]
+Seat 1: reeqar (button) folded before Flop (didn't bet)
+Seat 2: steepfell (small blind) folded on the Flop
+Seat 3: iTrustU21 (big blind) collected ($5.70)
+Seat 4: sutata folded before Flop (didn't bet)
+Seat 6: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557398581:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:31:17 WET [2025/01/25 23:31:17 ET]
+Table 'Ida IV' 6-max Seat #2 is the button
+Seat 1: reeqar ($110.05 in chips) 
+Seat 2: steepfell ($107.95 in chips) 
+Seat 3: iTrustU21 ($105.50 in chips) 
+Seat 6: B1GBankroll ($100 in chips) 
+iTrustU21: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+steepfell: folds 
+reeqar leaves the table
+iTrustU21: folds 
+Uncalled bet ($0.50) returned to B1GBankroll
+B1GBankroll collected $1 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: steepfell (button) folded before Flop (didn't bet)
+Seat 3: iTrustU21 (small blind) folded before Flop
+Seat 6: B1GBankroll (big blind) collected ($1)
+
+
+
+PokerStars Hand #254557287320:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:14:47 WET [2025/01/25 23:14:47 ET]
+Table 'Ida IV' 6-max Seat #1 is the button
+Seat 1: reeqar ($102.19 in chips) 
+Seat 5: bingodingo000 ($56.27 in chips) 
+reeqar: posts small blind $0.50
+bingodingo000: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll joins the table at seat #6 
+steepfell joins the table at seat #2 
+iTrustU21 joins the table at seat #3 
+reeqar: raises $1 to $2
+bingodingo000: calls $1
+*** FLOP *** [4c Qc Td]
+bingodingo000: checks 
+reeqar: bets $1.25
+bingodingo000: calls $1.25
+*** TURN *** [4c Qc Td] [Ts]
+bingodingo000: checks 
+reeqar: checks 
+*** RIVER *** [4c Qc Td Ts] [Qs]
+bingodingo000: checks 
+reeqar: checks 
+*** SHOW DOWN ***
+bingodingo000: shows [6h 6c] (two pair, Queens and Tens)
+reeqar: shows [As 3s] (two pair, Queens and Tens - Ace kicker)
+reeqar collected $6.18 from pot
+sutata joins the table at seat #4 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [4c Qc Td Ts Qs]
+Seat 1: reeqar (button) (small blind) showed [As 3s] and won ($6.18) with two pair, Queens and Tens
+Seat 5: bingodingo000 (big blind) showed [6h 6c] and lost with two pair, Queens and Tens
+
+
+
+PokerStars Hand #254557291525:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:15:23 WET [2025/01/25 23:15:23 ET]
+Table 'Ida IV' 6-max Seat #5 is the button
+Seat 3: iTrustU21 ($10 in chips) is sitting out
+Seat 4: sutata ($100 in chips) is sitting out
+Seat 6: B1GBankroll ($100 in chips) is sitting out
+Seat 1: reeqar ($105.12 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 5: bingodingo000 ($53.02 in chips) 
+reeqar: posts small blind $0.50
+steepfell: posts big blind $1
+iTrustU21: sits out 
+sutata: sits out 
+*** HOLE CARDS ***
+bingodingo000: raises $1 to $2
+reeqar: folds 
+steepfell: folds 
+Uncalled bet ($1) returned to bingodingo000
+bingodingo000 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: iTrustU21
+Seat 4: sutata
+Seat 6: B1GBankroll
+Seat 1: reeqar (small blind) folded before Flop
+Seat 2: steepfell (big blind) folded before Flop
+Seat 5: bingodingo000 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254557293784:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:15:43 WET [2025/01/25 23:15:43 ET]
+Table 'Ida IV' 6-max Seat #1 is the button
+Seat 4: sutata ($100 in chips) is sitting out
+Seat 6: B1GBankroll ($100 in chips) is sitting out
+Seat 1: reeqar ($104.62 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($10 in chips) 
+Seat 5: bingodingo000 ($54.52 in chips) 
+steepfell: posts small blind $0.50
+iTrustU21: posts big blind $1
+sutata: sits out 
+B1GBankroll: sits out 
+*** HOLE CARDS ***
+bingodingo000: folds 
+reeqar: folds 
+steepfell: folds 
+Uncalled bet ($0.50) returned to iTrustU21
+iTrustU21 collected $1 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: sutata
+Seat 6: B1GBankroll
+Seat 1: reeqar (button) folded before Flop (didn't bet)
+Seat 2: steepfell (small blind) folded before Flop
+Seat 3: iTrustU21 (big blind) collected ($1)
+Seat 5: bingodingo000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557294914:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:15:52 WET [2025/01/25 23:15:52 ET]
+Table 'Ida IV' 6-max Seat #2 is the button
+Seat 6: B1GBankroll ($100 in chips) is sitting out
+Seat 1: reeqar ($104.62 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($10.50 in chips) 
+Seat 4: sutata ($100 in chips) 
+Seat 5: bingodingo000 ($54.52 in chips) 
+iTrustU21: posts small blind $0.50
+sutata: posts big blind $1
+B1GBankroll: sits out 
+*** HOLE CARDS ***
+bingodingo000: raises $1 to $2
+reeqar: folds 
+steepfell: folds 
+iTrustU21: folds 
+sutata: calls $1
+*** FLOP *** [4h 4s 6c]
+sutata: checks 
+bingodingo000: bets $1
+sutata: calls $1
+*** TURN *** [4h 4s 6c] [Jd]
+sutata: checks 
+bingodingo000: bets $1
+sutata: calls $1
+*** RIVER *** [4h 4s 6c Jd] [6h]
+sutata: checks 
+bingodingo000: checks 
+*** SHOW DOWN ***
+sutata: shows [5s 6s] (a full house, Sixes full of Fours)
+bingodingo000: mucks hand 
+sutata collected $8.08 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [4h 4s 6c Jd 6h]
+Seat 6: B1GBankroll
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: steepfell (button) folded before Flop (didn't bet)
+Seat 3: iTrustU21 (small blind) folded before Flop
+Seat 4: sutata (big blind) showed [5s 6s] and won ($8.08) with a full house, Sixes full of Fours
+Seat 5: bingodingo000 mucked
+
+
+
+PokerStars Hand #254557300562:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:16:42 WET [2025/01/25 23:16:42 ET]
+Table 'Ida IV' 6-max Seat #3 is the button
+Seat 6: B1GBankroll ($100 in chips) is sitting out
+Seat 1: reeqar ($104.62 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($99.50 in chips) 
+Seat 4: sutata ($104.08 in chips) 
+Seat 5: bingodingo000 ($50.52 in chips) 
+sutata: posts small blind $0.50
+bingodingo000: posts big blind $1
+B1GBankroll: sits out 
+*** HOLE CARDS ***
+reeqar: folds 
+steepfell: folds 
+iTrustU21: folds 
+sutata: folds 
+Uncalled bet ($0.50) returned to bingodingo000
+bingodingo000 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: B1GBankroll
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: iTrustU21 (button) folded before Flop (didn't bet)
+Seat 4: sutata (small blind) folded before Flop
+Seat 5: bingodingo000 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254557303224:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:17:05 WET [2025/01/25 23:17:05 ET]
+Table 'Ida IV' 6-max Seat #4 is the button
+Seat 1: reeqar ($104.62 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($99.50 in chips) 
+Seat 4: sutata ($103.58 in chips) 
+Seat 5: bingodingo000 ($51.02 in chips) 
+Seat 6: B1GBankroll ($100 in chips) 
+bingodingo000: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+steepfell: folds 
+iTrustU21: raises $1.20 to $2.20
+sutata: calls $2.20
+bingodingo000: calls $1.70
+B1GBankroll: calls $1.20
+*** FLOP *** [4h 2s 9h]
+bingodingo000: bets $1
+B1GBankroll: folds 
+iTrustU21: raises $7.50 to $8.50
+sutata: raises $92.88 to $101.38 and is all-in
+bingodingo000: folds 
+iTrustU21: folds 
+Uncalled bet ($92.88) returned to sutata
+sutata collected $25.46 from pot
+sutata: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.80 | Rake $1.34 
+Board [4h 2s 9h]
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded on the Flop
+Seat 4: sutata (button) collected ($25.46)
+Seat 5: bingodingo000 (small blind) folded on the Flop
+Seat 6: B1GBankroll (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254557308723:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:17:54 WET [2025/01/25 23:17:54 ET]
+Table 'Ida IV' 6-max Seat #5 is the button
+Seat 1: reeqar ($104.62 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($100 in chips) 
+Seat 4: sutata ($118.34 in chips) 
+Seat 5: bingodingo000 ($47.82 in chips) 
+Seat 6: B1GBankroll ($100 in chips) 
+B1GBankroll: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+iTrustU21: folds 
+sutata: folds 
+bingodingo000: calls $1
+B1GBankroll: raises $3.20 to $4.20
+reeqar: folds 
+bingodingo000: calls $3.20
+*** FLOP *** [Jc Kh 8c]
+B1GBankroll: checks 
+bingodingo000: checks 
+*** TURN *** [Jc Kh 8c] [Ad]
+B1GBankroll: checks 
+bingodingo000: checks 
+*** RIVER *** [Jc Kh 8c Ad] [Kd]
+B1GBankroll: checks 
+bingodingo000: checks 
+*** SHOW DOWN ***
+B1GBankroll: shows [Qh Js] (two pair, Kings and Jacks)
+bingodingo000: mucks hand 
+B1GBankroll collected $8.93 from pot
+*** SUMMARY ***
+Total pot $9.40 | Rake $0.47 
+Board [Jc Kh 8c Ad Kd]
+Seat 1: reeqar (big blind) folded before Flop
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: sutata folded before Flop (didn't bet)
+Seat 5: bingodingo000 (button) mucked
+Seat 6: B1GBankroll (small blind) showed [Qh Js] and won ($8.93) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #254557313781:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:18:39 WET [2025/01/25 23:18:39 ET]
+Table 'Ida IV' 6-max Seat #6 is the button
+Seat 1: reeqar ($103.62 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($100 in chips) 
+Seat 4: sutata ($118.34 in chips) 
+Seat 5: bingodingo000 ($43.62 in chips) 
+Seat 6: B1GBankroll ($104.73 in chips) 
+reeqar: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+sutata: folds 
+bingodingo000: calls $1
+B1GBankroll: folds 
+reeqar: raises $4 to $5
+steepfell: folds 
+bingodingo000: calls $4
+*** FLOP *** [Ad Qd 6d]
+reeqar: bets $3.45
+bingodingo000: calls $3.45
+*** TURN *** [Ad Qd 6d] [Ah]
+reeqar: bets $12.75
+bingodingo000: folds 
+Uncalled bet ($12.75) returned to reeqar
+reeqar collected $17 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.90 | Rake $0.90 
+Board [Ad Qd 6d Ah]
+Seat 1: reeqar (small blind) collected ($17)
+Seat 2: steepfell (big blind) folded before Flop
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: sutata folded before Flop (didn't bet)
+Seat 5: bingodingo000 folded on the Turn
+Seat 6: B1GBankroll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557318198:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:19:19 WET [2025/01/25 23:19:19 ET]
+Table 'Ida IV' 6-max Seat #1 is the button
+Seat 1: reeqar ($112.17 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($100 in chips) 
+Seat 4: sutata ($118.34 in chips) 
+Seat 5: bingodingo000 ($35.17 in chips) 
+Seat 6: B1GBankroll ($104.73 in chips) 
+steepfell: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+sutata: folds 
+bingodingo000: calls $1
+B1GBankroll: folds 
+reeqar: folds 
+steepfell: folds 
+iTrustU21: checks 
+*** FLOP *** [3d Kd As]
+iTrustU21: bets $1.14
+bingodingo000: folds 
+Uncalled bet ($1.14) returned to iTrustU21
+iTrustU21 collected $2.38 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [3d Kd As]
+Seat 1: reeqar (button) folded before Flop (didn't bet)
+Seat 2: steepfell (small blind) folded before Flop
+Seat 3: iTrustU21 (big blind) collected ($2.38)
+Seat 4: sutata folded before Flop (didn't bet)
+Seat 5: bingodingo000 folded on the Flop
+Seat 6: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557321025:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:19:44 WET [2025/01/25 23:19:44 ET]
+Table 'Ida IV' 6-max Seat #2 is the button
+Seat 1: reeqar ($112.17 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($101.38 in chips) 
+Seat 4: sutata ($118.34 in chips) 
+Seat 5: bingodingo000 ($34.17 in chips) 
+Seat 6: B1GBankroll ($104.73 in chips) 
+iTrustU21: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+bingodingo000: calls $1
+B1GBankroll: folds 
+reeqar: folds 
+steepfell: folds 
+iTrustU21: raises $2.50 to $3.50
+sutata: folds 
+bingodingo000: calls $2.50
+*** FLOP *** [7d 4c 2d]
+iTrustU21: bets $12.50
+bingodingo000: folds 
+Uncalled bet ($12.50) returned to iTrustU21
+iTrustU21 collected $7.60 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [7d 4c 2d]
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: steepfell (button) folded before Flop (didn't bet)
+Seat 3: iTrustU21 (small blind) collected ($7.60)
+Seat 4: sutata (big blind) folded before Flop
+Seat 5: bingodingo000 folded on the Flop
+Seat 6: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557324022:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:20:11 WET [2025/01/25 23:20:11 ET]
+Table 'Ida IV' 6-max Seat #3 is the button
+Seat 1: reeqar ($112.17 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($105.48 in chips) 
+Seat 4: sutata ($117.34 in chips) 
+Seat 5: bingodingo000 ($30.67 in chips) 
+Seat 6: B1GBankroll ($104.73 in chips) 
+sutata: posts small blind $0.50
+bingodingo000: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+reeqar: folds 
+steepfell: folds 
+iTrustU21: folds 
+sutata: folds 
+Uncalled bet ($0.50) returned to bingodingo000
+bingodingo000 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: iTrustU21 (button) folded before Flop (didn't bet)
+Seat 4: sutata (small blind) folded before Flop
+Seat 5: bingodingo000 (big blind) collected ($1)
+Seat 6: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254557327604:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/26 4:20:43 WET [2025/01/25 23:20:43 ET]
+Table 'Ida IV' 6-max Seat #4 is the button
+Seat 1: reeqar ($112.17 in chips) 
+Seat 2: steepfell ($100 in chips) 
+Seat 3: iTrustU21 ($105.48 in chips) 
+Seat 4: sutata ($116.84 in chips) 
+Seat 5: bingodingo000 ($31.17 in chips) 
+Seat 6: B1GBankroll ($104.73 in chips) 
+bingodingo000: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+steepfell: folds 
+iTrustU21: folds 
+sutata: folds 
+bingodingo000: calls $0.50
+B1GBankroll: checks 
+*** FLOP *** [8s 8c Ks]
+bingodingo000: checks 
+B1GBankroll: bets $1
+bingodingo000: calls $1
+*** TURN *** [8s 8c Ks] [Kd]
+bingodingo000: bets $1.90
+B1GBankroll: folds 
+Uncalled bet ($1.90) returned to bingodingo000
+bingodingo000 collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [8s 8c Ks Kd]
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: sutata (button) folded before Flop (didn't bet)
+Seat 5: bingodingo000 (small blind) collected ($3.80)
+Seat 6: B1GBankroll (big blind) folded on the Turn
+
+
+

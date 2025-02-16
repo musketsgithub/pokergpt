@@ -1,0 +1,419 @@
+﻿PokerStars Hand #254513240408:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:21:18 WET [2025/01/23 7:21:18 ET]
+Table 'Moreau III' 6-max Seat #3 is the button
+Seat 1: M1k_DP ($100 in chips) is sitting out
+Seat 2: franco232315 ($100 in chips) 
+Seat 3: fugitive-Ty3 ($100 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: CichiChanMarian ($100 in chips) 
+Seat 6: Spartansmike ($200.68 in chips) 
+blistein: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+M1k_DP: sits out 
+*** HOLE CARDS ***
+Spartansmike: raises $2 to $3
+franco232315: folds 
+fugitive-Ty3: calls $3
+blistein: folds 
+CichiChanMarian: folds 
+*** FLOP *** [Jc 4d Th]
+Spartansmike: checks 
+fugitive-Ty3: checks 
+*** TURN *** [Jc 4d Th] [Ad]
+Spartansmike: bets $3.56
+fugitive-Ty3: folds 
+Uncalled bet ($3.56) returned to Spartansmike
+Spartansmike collected $7.12 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [Jc 4d Th Ad]
+Seat 1: M1k_DP
+Seat 2: franco232315 folded before Flop (didn't bet)
+Seat 3: fugitive-Ty3 (button) folded on the Turn
+Seat 4: blistein (small blind) folded before Flop
+Seat 5: CichiChanMarian (big blind) folded before Flop
+Seat 6: Spartansmike collected ($7.12)
+
+
+
+PokerStars Hand #254513246682:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:22:12 WET [2025/01/23 7:22:12 ET]
+Table 'Moreau III' 6-max Seat #4 is the button
+Seat 1: M1k_DP ($100 in chips) is sitting out
+Seat 2: franco232315 ($100 in chips) 
+Seat 3: fugitive-Ty3 ($100 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: CichiChanMarian ($100 in chips) 
+Seat 6: Spartansmike ($204.80 in chips) 
+CichiChanMarian is disconnected 
+CichiChanMarian is connected 
+CichiChanMarian: posts small blind $0.50
+Spartansmike: posts big blind $1
+M1k_DP: sits out 
+*** HOLE CARDS ***
+franco232315: raises $2 to $3
+fugitive-Ty3: calls $3
+blistein: folds 
+CichiChanMarian: folds 
+Spartansmike: folds 
+*** FLOP *** [Qd Jh 2c]
+franco232315: checks 
+fugitive-Ty3: checks 
+*** TURN *** [Qd Jh 2c] [7s]
+franco232315: checks 
+fugitive-Ty3: checks 
+*** RIVER *** [Qd Jh 2c 7s] [Kc]
+Spartansmike is disconnected 
+franco232315: checks 
+fugitive-Ty3: bets $2.35
+franco232315: calls $2.35
+Spartansmike is disconnected 
+*** SHOW DOWN ***
+fugitive-Ty3: shows [4d 4c] (a pair of Fours)
+franco232315: shows [Tc Td] (a pair of Tens)
+franco232315 collected $11.59 from pot
+*** SUMMARY ***
+Total pot $12.20 | Rake $0.61 
+Board [Qd Jh 2c 7s Kc]
+Seat 1: M1k_DP
+Seat 2: franco232315 showed [Tc Td] and won ($11.59) with a pair of Tens
+Seat 3: fugitive-Ty3 showed [4d 4c] and lost with a pair of Fours
+Seat 4: blistein (button) folded before Flop (didn't bet)
+Seat 5: CichiChanMarian (small blind) folded before Flop
+Seat 6: Spartansmike (big blind) folded before Flop
+
+
+
+PokerStars Hand #254513258267:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:23:50 WET [2025/01/23 7:23:50 ET]
+Table 'Moreau III' 6-max Seat #5 is the button
+Seat 1: M1k_DP ($100 in chips) 
+Seat 2: franco232315 ($106.24 in chips) 
+Seat 3: fugitive-Ty3 ($100 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: CichiChanMarian ($100 in chips) 
+Seat 6: Spartansmike ($203.80 in chips) 
+Spartansmike is connected 
+Spartansmike: posts small blind $0.50
+M1k_DP: posts big blind $1
+*** HOLE CARDS ***
+franco232315: folds 
+fugitive-Ty3: raises $1.50 to $2.50
+blistein: folds 
+Spartansmike is disconnected 
+CichiChanMarian: folds 
+Spartansmike is connected 
+Spartansmike: folds 
+M1k_DP: calls $1.50
+*** FLOP *** [3h Th 8s]
+M1k_DP: checks 
+fugitive-Ty3: bets $3.92
+M1k_DP: calls $3.92
+*** TURN *** [3h Th 8s] [As]
+M1k_DP: checks 
+fugitive-Ty3: bets $9.50
+M1k_DP: calls $9.50
+*** RIVER *** [3h Th 8s As] [Js]
+M1k_DP: checks 
+fugitive-Ty3: checks 
+*** SHOW DOWN ***
+M1k_DP: shows [6h Ah] (a pair of Aces)
+fugitive-Ty3: mucks hand 
+M1k_DP collected $30.72 from pot
+*** SUMMARY ***
+Total pot $32.34 | Rake $1.62 
+Board [3h Th 8s As Js]
+Seat 1: M1k_DP (big blind) showed [6h Ah] and won ($30.72) with a pair of Aces
+Seat 2: franco232315 folded before Flop (didn't bet)
+Seat 3: fugitive-Ty3 mucked
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: CichiChanMarian (button) folded before Flop (didn't bet)
+Seat 6: Spartansmike (small blind) folded before Flop
+
+
+
+PokerStars Hand #254513269367:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:25:24 WET [2025/01/23 7:25:24 ET]
+Table 'Moreau III' 6-max Seat #6 is the button
+Seat 1: M1k_DP ($114.80 in chips) 
+Seat 2: franco232315 ($106.24 in chips) 
+Seat 3: fugitive-Ty3 ($100 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: CichiChanMarian ($100 in chips) 
+Seat 6: Spartansmike ($203.30 in chips) 
+M1k_DP: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+fugitive-Ty3: folds 
+blistein: folds 
+CichiChanMarian: raises $1.50 to $2.50
+Spartansmike: folds 
+M1k_DP: folds 
+franco232315: folds 
+Uncalled bet ($1.50) returned to CichiChanMarian
+CichiChanMarian collected $2.50 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: M1k_DP (small blind) folded before Flop
+Seat 2: franco232315 (big blind) folded before Flop
+Seat 3: fugitive-Ty3 folded before Flop (didn't bet)
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: CichiChanMarian collected ($2.50)
+Seat 6: Spartansmike (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513272941:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:25:54 WET [2025/01/23 7:25:54 ET]
+Table 'Moreau III' 6-max Seat #1 is the button
+Seat 1: M1k_DP ($114.30 in chips) 
+Seat 2: franco232315 ($105.24 in chips) 
+Seat 3: fugitive-Ty3 ($100 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: CichiChanMarian ($101.50 in chips) 
+Seat 6: Spartansmike ($203.30 in chips) 
+franco232315: posts small blind $0.50
+fugitive-Ty3: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+CichiChanMarian: raises $1.50 to $2.50
+Spartansmike: folds 
+M1k_DP: folds 
+franco232315: raises $8 to $10.50
+fugitive-Ty3: folds 
+CichiChanMarian: folds 
+Uncalled bet ($8) returned to franco232315
+franco232315 collected $6 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: M1k_DP (button) folded before Flop (didn't bet)
+Seat 2: franco232315 (small blind) collected ($6)
+Seat 3: fugitive-Ty3 (big blind) folded before Flop
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: CichiChanMarian folded before Flop
+Seat 6: Spartansmike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513276986:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:26:28 WET [2025/01/23 7:26:28 ET]
+Table 'Moreau III' 6-max Seat #2 is the button
+Seat 1: M1k_DP ($114.30 in chips) 
+Seat 2: franco232315 ($108.74 in chips) 
+Seat 3: fugitive-Ty3 ($100 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: CichiChanMarian ($100 in chips) 
+Seat 6: Spartansmike ($203.30 in chips) 
+fugitive-Ty3: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+Spartansmike: folds 
+M1k_DP: folds 
+franco232315: folds 
+fugitive-Ty3: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: M1k_DP folded before Flop (didn't bet)
+Seat 2: franco232315 (button) folded before Flop (didn't bet)
+Seat 3: fugitive-Ty3 (small blind) folded before Flop
+Seat 4: blistein (big blind) collected ($1)
+Seat 5: CichiChanMarian folded before Flop (didn't bet)
+Seat 6: Spartansmike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513278198:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:26:39 WET [2025/01/23 7:26:39 ET]
+Table 'Moreau III' 6-max Seat #3 is the button
+Seat 1: M1k_DP ($114.30 in chips) 
+Seat 2: franco232315 ($108.74 in chips) 
+Seat 3: fugitive-Ty3 ($100 in chips) 
+Seat 4: blistein ($100.50 in chips) 
+Seat 5: CichiChanMarian ($100 in chips) 
+Seat 6: Spartansmike ($203.30 in chips) 
+blistein: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+Spartansmike: raises $2 to $3
+M1k_DP: folds 
+franco232315: raises $6 to $9
+fugitive-Ty3: folds 
+blistein: folds 
+CichiChanMarian: folds 
+Spartansmike: raises $19.50 to $28.50
+franco232315: raises $80.24 to $108.74 and is all-in
+Spartansmike: folds 
+Uncalled bet ($80.24) returned to franco232315
+franco232315 collected $58.50 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $58.50 | Rake $0 
+Seat 1: M1k_DP folded before Flop (didn't bet)
+Seat 2: franco232315 collected ($58.50)
+Seat 3: fugitive-Ty3 (button) folded before Flop (didn't bet)
+Seat 4: blistein (small blind) folded before Flop
+Seat 5: CichiChanMarian (big blind) folded before Flop
+Seat 6: Spartansmike folded before Flop
+
+
+
+PokerStars Hand #254513283148:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:27:20 WET [2025/01/23 7:27:20 ET]
+Table 'Moreau III' 6-max Seat #4 is the button
+Seat 1: M1k_DP ($114.30 in chips) 
+Seat 2: franco232315 ($138.74 in chips) 
+Seat 3: fugitive-Ty3 ($100 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: CichiChanMarian ($100 in chips) 
+Seat 6: Spartansmike ($174.80 in chips) 
+CichiChanMarian: posts small blind $0.50
+Spartansmike: posts big blind $1
+*** HOLE CARDS ***
+M1k_DP: folds 
+franco232315: raises $2 to $3
+fugitive-Ty3: folds 
+blistein: folds 
+CichiChanMarian: folds 
+Spartansmike: raises $2 to $5
+franco232315: calls $2
+*** FLOP *** [Jh 9c 9h]
+Spartansmike: checks 
+franco232315: checks 
+*** TURN *** [Jh 9c 9h] [Ac]
+Spartansmike: bets $1
+franco232315: calls $1
+*** RIVER *** [Jh 9c 9h Ac] [Ks]
+Spartansmike: checks 
+franco232315: checks 
+*** SHOW DOWN ***
+Spartansmike: shows [5s 5c] (two pair, Nines and Fives)
+franco232315: shows [Kh Th] (two pair, Kings and Nines)
+franco232315 collected $11.88 from pot
+*** SUMMARY ***
+Total pot $12.50 | Rake $0.62 
+Board [Jh 9c 9h Ac Ks]
+Seat 1: M1k_DP folded before Flop (didn't bet)
+Seat 2: franco232315 showed [Kh Th] and won ($11.88) with two pair, Kings and Nines
+Seat 3: fugitive-Ty3 folded before Flop (didn't bet)
+Seat 4: blistein (button) folded before Flop (didn't bet)
+Seat 5: CichiChanMarian (small blind) folded before Flop
+Seat 6: Spartansmike (big blind) showed [5s 5c] and lost with two pair, Nines and Fives
+
+
+
+PokerStars Hand #254513288224:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:28:01 WET [2025/01/23 7:28:01 ET]
+Table 'Moreau III' 6-max Seat #5 is the button
+Seat 1: M1k_DP ($114.30 in chips) is sitting out
+Seat 2: franco232315 ($144.62 in chips) 
+Seat 3: fugitive-Ty3 ($100 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: CichiChanMarian ($100 in chips) 
+Seat 6: Spartansmike ($168.80 in chips) 
+Spartansmike: posts small blind $0.50
+M1k_DP: is sitting out 
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+fugitive-Ty3: folds 
+blistein: folds 
+CichiChanMarian: folds 
+Spartansmike: raises $2 to $3
+franco232315: calls $2
+*** FLOP *** [7s Jh 3c]
+Spartansmike: bets $165.80 and is all-in
+franco232315: folds 
+Uncalled bet ($165.80) returned to Spartansmike
+Spartansmike collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [7s Jh 3c]
+Seat 1: M1k_DP
+Seat 2: franco232315 (big blind) folded on the Flop
+Seat 3: fugitive-Ty3 folded before Flop (didn't bet)
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: CichiChanMarian (button) folded before Flop (didn't bet)
+Seat 6: Spartansmike (small blind) collected ($5.70)
+
+
+
+PokerStars Hand #254513290686:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:28:21 WET [2025/01/23 7:28:21 ET]
+Table 'Moreau III' 6-max Seat #6 is the button
+Seat 1: M1k_DP ($114.30 in chips) is sitting out
+Seat 2: franco232315 ($141.62 in chips) 
+Seat 3: fugitive-Ty3 ($100 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: CichiChanMarian ($100 in chips) 
+Seat 6: Spartansmike ($171.50 in chips) 
+franco232315: posts small blind $0.50
+fugitive-Ty3: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+CichiChanMarian: folds 
+Spartansmike: folds 
+Spartansmike leaves the table
+franco232315: folds 
+Uncalled bet ($0.50) returned to fugitive-Ty3
+fugitive-Ty3 collected $1 from pot
+fugitive-Ty3: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: M1k_DP
+Seat 2: franco232315 (small blind) folded before Flop
+Seat 3: fugitive-Ty3 (big blind) collected ($1)
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: CichiChanMarian folded before Flop (didn't bet)
+Seat 6: Spartansmike (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513292172:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:28:33 WET [2025/01/23 7:28:33 ET]
+Table 'Moreau III' 6-max Seat #2 is the button
+Seat 1: M1k_DP ($114.30 in chips) is sitting out
+Seat 2: franco232315 ($141.12 in chips) 
+Seat 3: fugitive-Ty3 ($100.50 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: CichiChanMarian ($100 in chips) 
+fugitive-Ty3: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+franco232315: folds 
+fugitive-Ty3: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: M1k_DP
+Seat 2: franco232315 (button) folded before Flop (didn't bet)
+Seat 3: fugitive-Ty3 (small blind) folded before Flop
+Seat 4: blistein (big blind) collected ($1)
+Seat 5: CichiChanMarian folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254513293451:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 12:28:43 WET [2025/01/23 7:28:43 ET]
+Table 'Moreau III' 6-max Seat #3 is the button
+Seat 1: M1k_DP ($114.30 in chips) is sitting out
+Seat 2: franco232315 ($141.12 in chips) 
+Seat 3: fugitive-Ty3 ($100 in chips) 
+Seat 4: blistein ($100.50 in chips) 
+Seat 5: CichiChanMarian ($100 in chips) 
+blistein: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+franco232315 has timed out
+franco232315: folds 
+fugitive-Ty3: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to CichiChanMarian
+franco232315 leaves the table
+CichiChanMarian collected $1 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: M1k_DP
+Seat 2: franco232315 folded before Flop (didn't bet)
+Seat 3: fugitive-Ty3 (button) folded before Flop (didn't bet)
+Seat 4: blistein (small blind) folded before Flop
+Seat 5: CichiChanMarian (big blind) collected ($1)
+
+
+

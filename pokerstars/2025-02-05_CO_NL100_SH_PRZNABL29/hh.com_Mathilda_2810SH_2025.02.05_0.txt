@@ -1,0 +1,834 @@
+﻿PokerStars Hand #254723200360:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:45:45 WET [2025/02/05 14:45:45 ET]
+Table 'Mathilda II' 6-max Seat #4 is the button
+Seat 1: BumHuntKing ($100 in chips) is sitting out
+Seat 2: jav94 ($29.78 in chips) 
+Seat 3: CichiChanMarian ($100 in chips) 
+Seat 4: Poker9803 ($100 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: Tugrul_1905 ($16.70 in chips) 
+steepfell: posts small blind $0.50
+Tugrul_1905: posts big blind $1
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+jav94: folds 
+CichiChanMarian: folds 
+Poker9803: raises $1 to $2
+steepfell: folds 
+Tugrul_1905: calls $1
+*** FLOP *** [6c 9d 3d]
+Tugrul_1905: checks 
+Poker9803: bets $1.41
+Tugrul_1905: calls $1.41
+*** TURN *** [6c 9d 3d] [7d]
+Tugrul_1905: checks 
+Poker9803: bets $5.21
+Tugrul_1905: calls $5.21
+*** RIVER *** [6c 9d 3d 7d] [8h]
+Tugrul_1905: checks 
+Poker9803: checks 
+*** SHOW DOWN ***
+Tugrul_1905: shows [6s Kd] (a pair of Sixes)
+Poker9803: shows [7s Ad] (a pair of Sevens)
+Poker9803 collected $16.85 from pot
+*** SUMMARY ***
+Total pot $17.74 | Rake $0.89 
+Board [6c 9d 3d 7d 8h]
+Seat 1: BumHuntKing
+Seat 2: jav94 folded before Flop (didn't bet)
+Seat 3: CichiChanMarian folded before Flop (didn't bet)
+Seat 4: Poker9803 (button) showed [7s Ad] and won ($16.85) with a pair of Sevens
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: Tugrul_1905 (big blind) showed [6s Kd] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #254723211643:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:46:24 WET [2025/02/05 14:46:24 ET]
+Table 'Mathilda II' 6-max Seat #5 is the button
+Seat 1: BumHuntKing ($100 in chips) 
+Seat 2: jav94 ($29.78 in chips) 
+Seat 3: CichiChanMarian ($100 in chips) 
+Seat 4: Poker9803 ($108.23 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: Tugrul_1905 ($8.08 in chips) 
+Tugrul_1905: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+jav94: folds 
+CichiChanMarian: raises $1.50 to $2.50
+Poker9803: folds 
+steepfell: folds 
+Tugrul_1905: calls $2
+BumHuntKing: raises $10.50 to $13
+CichiChanMarian: calls $10.50
+Tugrul_1905: folds 
+*** FLOP *** [Jd Qc Ks]
+BumHuntKing: bets $12.88
+CichiChanMarian: calls $12.88
+*** TURN *** [Jd Qc Ks] [2c]
+BumHuntKing: bets $24.99
+CichiChanMarian: calls $24.99
+*** RIVER *** [Jd Qc Ks 2c] [Ts]
+BumHuntKing: bets $49.13 and is all-in
+CichiChanMarian: calls $49.13 and is all-in
+*** SHOW DOWN ***
+BumHuntKing: shows [Jc Jh] (three of a kind, Jacks)
+CichiChanMarian: shows [Ac Qs] (a straight, Ten to Ace)
+CichiChanMarian collected $200 from pot
+*** SUMMARY ***
+Total pot $202.50 | Rake $2.50 
+Board [Jd Qc Ks 2c Ts]
+Seat 1: BumHuntKing (big blind) showed [Jc Jh] and lost with three of a kind, Jacks
+Seat 2: jav94 folded before Flop (didn't bet)
+Seat 3: CichiChanMarian showed [Ac Qs] and won ($200) with a straight, Ten to Ace
+Seat 4: Poker9803 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: Tugrul_1905 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254723233924:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:47:40 WET [2025/02/05 14:47:40 ET]
+Table 'Mathilda II' 6-max Seat #6 is the button
+Seat 1: BumHuntKing ($100 in chips) 
+Seat 2: jav94 ($29.78 in chips) 
+Seat 3: CichiChanMarian ($200 in chips) 
+Seat 4: Poker9803 ($108.23 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: Tugrul_1905 ($5.58 in chips) 
+BumHuntKing: posts small blind $0.50
+jav94: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+Poker9803: folds 
+steepfell: folds 
+Tugrul_1905: calls $1
+BumHuntKing: raises $2.50 to $3.50
+jav94: folds 
+Tugrul_1905: calls $2.50
+*** FLOP *** [4h 3d 5s]
+BumHuntKing: bets $3.50
+Tugrul_1905: calls $2.08 and is all-in
+Uncalled bet ($1.42) returned to BumHuntKing
+*** TURN *** [4h 3d 5s] [Qs]
+*** RIVER *** [4h 3d 5s Qs] [8h]
+*** SHOW DOWN ***
+BumHuntKing: shows [Th Ac] (high card Ace)
+Tugrul_1905: shows [Js 2c] (high card Queen)
+BumHuntKing collected $11.55 from pot
+*** SUMMARY ***
+Total pot $12.16 | Rake $0.61 
+Board [4h 3d 5s Qs 8h]
+Seat 1: BumHuntKing (small blind) showed [Th Ac] and won ($11.55) with high card Ace
+Seat 2: jav94 (big blind) folded before Flop
+Seat 3: CichiChanMarian folded before Flop (didn't bet)
+Seat 4: Poker9803 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: Tugrul_1905 (button) showed [Js 2c] and lost with high card Queen
+
+
+
+PokerStars Hand #254723244113:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:48:15 WET [2025/02/05 14:48:15 ET]
+Table 'Mathilda II' 6-max Seat #1 is the button
+Seat 6: Tugrul_1905 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($105.97 in chips) 
+Seat 2: jav94 ($28.78 in chips) 
+Seat 3: CichiChanMarian ($200 in chips) 
+Seat 4: Poker9803 ($108.23 in chips) 
+Seat 5: steepfell ($100 in chips) 
+jav94: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+Poker9803: folds 
+steepfell: folds 
+BumHuntKing: folds 
+jav94: raises $1 to $2
+CichiChanMarian: folds 
+Uncalled bet ($1) returned to jav94
+jav94 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: Tugrul_1905
+Seat 1: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 2: jav94 (small blind) collected ($2)
+Seat 3: CichiChanMarian (big blind) folded before Flop
+Seat 4: Poker9803 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254723252158:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:48:42 WET [2025/02/05 14:48:42 ET]
+Table 'Mathilda II' 6-max Seat #2 is the button
+Seat 4: Poker9803 ($108.23 in chips) is sitting out
+Seat 6: Tugrul_1905 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($105.97 in chips) 
+Seat 2: jav94 ($29.78 in chips) 
+Seat 3: CichiChanMarian ($199 in chips) 
+Seat 5: steepfell ($100 in chips) 
+CichiChanMarian: posts small blind $0.50
+Poker9803: is sitting out 
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+Poker9803 leaves the table
+BumHuntKing: folds 
+jav94: raises $1 to $2
+michasia joins the table at seat #4 
+CichiChanMarian: folds 
+steepfell: folds 
+Uncalled bet ($1) returned to jav94
+jav94 collected $2.50 from pot
+Tugrul_1905 is disconnected 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: Poker9803
+Seat 6: Tugrul_1905
+Seat 1: BumHuntKing folded before Flop (didn't bet)
+Seat 2: jav94 (button) collected ($2.50)
+Seat 3: CichiChanMarian (small blind) folded before Flop
+Seat 5: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254723256659:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:48:57 WET [2025/02/05 14:48:57 ET]
+Table 'Mathilda II' 6-max Seat #3 is the button
+Seat 4: michasia ($100 in chips) is sitting out
+Seat 6: Tugrul_1905 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($105.97 in chips) 
+Seat 2: jav94 ($31.28 in chips) 
+Seat 3: CichiChanMarian ($198.50 in chips) 
+Seat 5: steepfell ($100 in chips) 
+steepfell: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+jav94: folds 
+CichiChanMarian: folds 
+steepfell: raises $2 to $3
+BumHuntKing: calls $2
+*** FLOP *** [9s Ac 5s]
+steepfell: checks 
+BumHuntKing: checks 
+*** TURN *** [9s Ac 5s] [5h]
+steepfell: checks 
+BumHuntKing: bets $2.85
+steepfell: folds 
+Uncalled bet ($2.85) returned to BumHuntKing
+BumHuntKing collected $5.70 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [9s Ac 5s 5h]
+Seat 4: michasia
+Seat 6: Tugrul_1905
+Seat 1: BumHuntKing (big blind) collected ($5.70)
+Seat 2: jav94 folded before Flop (didn't bet)
+Seat 3: CichiChanMarian (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254723267910:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:49:36 WET [2025/02/05 14:49:36 ET]
+Table 'Mathilda II' 6-max Seat #5 is the button
+Seat 4: michasia ($100 in chips) is sitting out
+Seat 6: Tugrul_1905 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($108.67 in chips) 
+Seat 2: jav94 ($31.28 in chips) 
+Seat 3: CichiChanMarian ($198.50 in chips) 
+Seat 5: steepfell ($100 in chips) 
+BumHuntKing: posts small blind $0.50
+jav94: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+steepfell: folds 
+BumHuntKing: raises $2 to $3
+jav94: folds 
+Uncalled bet ($2) returned to BumHuntKing
+BumHuntKing collected $2 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: michasia
+Seat 6: Tugrul_1905
+Seat 1: BumHuntKing (small blind) collected ($2)
+Seat 2: jav94 (big blind) folded before Flop
+Seat 3: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254723271494:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:49:48 WET [2025/02/05 14:49:48 ET]
+Table 'Mathilda II' 6-max Seat #1 is the button
+Seat 4: michasia ($100 in chips) is sitting out
+Seat 6: Tugrul_1905 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($109.67 in chips) 
+Seat 2: jav94 ($30.28 in chips) 
+Seat 3: CichiChanMarian ($198.50 in chips) 
+Seat 5: steepfell ($100 in chips) 
+jav94: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+steepfell: folds 
+BumHuntKing: folds 
+jav94: raises $1 to $2
+CichiChanMarian: calls $1
+*** FLOP *** [Qd 2d 4c]
+jav94: checks 
+CichiChanMarian: bets $1.25
+jav94: calls $1.25
+*** TURN *** [Qd 2d 4c] [6h]
+jav94: checks 
+CichiChanMarian: bets $4.63
+jav94: calls $4.63
+*** RIVER *** [Qd 2d 4c 6h] [As]
+jav94: checks 
+CichiChanMarian: checks 
+*** SHOW DOWN ***
+jav94: shows [2s 6d] (two pair, Sixes and Deuces)
+CichiChanMarian: mucks hand 
+jav94 collected $14.97 from pot
+*** SUMMARY ***
+Total pot $15.76 | Rake $0.79 
+Board [Qd 2d 4c 6h As]
+Seat 4: michasia
+Seat 6: Tugrul_1905
+Seat 1: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 2: jav94 (small blind) showed [2s 6d] and won ($14.97) with two pair, Sixes and Deuces
+Seat 3: CichiChanMarian (big blind) mucked
+Seat 5: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254723288120:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:50:45 WET [2025/02/05 14:50:45 ET]
+Table 'Mathilda II' 6-max Seat #2 is the button
+Seat 6: Tugrul_1905 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($109.67 in chips) 
+Seat 2: jav94 ($37.37 in chips) 
+Seat 3: CichiChanMarian ($190.62 in chips) 
+Seat 4: michasia ($100 in chips) 
+Seat 5: steepfell ($100 in chips) 
+CichiChanMarian: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+BumHuntKing: folds 
+jav94: folds 
+CichiChanMarian: raises $2 to $3
+michasia: calls $2
+*** FLOP *** [Ah 8c Ad]
+CichiChanMarian: bets $1.88
+michasia: calls $1.88
+*** TURN *** [Ah 8c Ad] [4d]
+CichiChanMarian: checks 
+michasia: bets $6.18
+CichiChanMarian: folds 
+Uncalled bet ($6.18) returned to michasia
+michasia collected $9.27 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [Ah 8c Ad 4d]
+Seat 6: Tugrul_1905
+Seat 1: BumHuntKing folded before Flop (didn't bet)
+Seat 2: jav94 (button) folded before Flop (didn't bet)
+Seat 3: CichiChanMarian (small blind) folded on the Turn
+Seat 4: michasia (big blind) collected ($9.27)
+Seat 5: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254723302582:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:51:36 WET [2025/02/05 14:51:36 ET]
+Table 'Mathilda II' 6-max Seat #3 is the button
+Seat 6: Tugrul_1905 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($109.67 in chips) 
+Seat 2: jav94 ($37.37 in chips) 
+Seat 3: CichiChanMarian ($185.74 in chips) 
+Seat 4: michasia ($104.39 in chips) 
+Seat 5: steepfell ($100 in chips) 
+michasia: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: raises $1.20 to $2.20
+jav94: folds 
+CichiChanMarian: folds 
+michasia: folds 
+steepfell: folds 
+Uncalled bet ($1.20) returned to BumHuntKing
+BumHuntKing collected $2.50 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Tugrul_1905
+Seat 1: BumHuntKing collected ($2.50)
+Seat 2: jav94 folded before Flop (didn't bet)
+Seat 3: CichiChanMarian (button) folded before Flop (didn't bet)
+Seat 4: michasia (small blind) folded before Flop
+Seat 5: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254723308615:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:51:56 WET [2025/02/05 14:51:56 ET]
+Table 'Mathilda II' 6-max Seat #4 is the button
+Seat 6: Tugrul_1905 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($111.17 in chips) 
+Seat 2: jav94 ($37.37 in chips) 
+Seat 3: CichiChanMarian ($185.74 in chips) 
+Seat 4: michasia ($103.89 in chips) 
+Seat 5: steepfell ($100 in chips) 
+steepfell: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+jav94: folds 
+CichiChanMarian: folds 
+michasia: folds 
+steepfell: folds 
+Uncalled bet ($0.50) returned to BumHuntKing
+BumHuntKing collected $1 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: Tugrul_1905
+Seat 1: BumHuntKing (big blind) collected ($1)
+Seat 2: jav94 folded before Flop (didn't bet)
+Seat 3: CichiChanMarian folded before Flop (didn't bet)
+Seat 4: michasia (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254723311846:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:52:08 WET [2025/02/05 14:52:08 ET]
+Table 'Mathilda II' 6-max Seat #5 is the button
+Seat 6: Tugrul_1905 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($111.67 in chips) 
+Seat 2: jav94 ($37.37 in chips) 
+Seat 3: CichiChanMarian ($185.74 in chips) 
+Seat 4: michasia ($103.89 in chips) 
+Seat 5: steepfell ($100 in chips) 
+BumHuntKing: posts small blind $0.50
+jav94: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+michasia: folds 
+steepfell: raises $1.50 to $2.50
+BumHuntKing: folds 
+jav94: folds 
+Uncalled bet ($1.50) returned to steepfell
+steepfell collected $2.50 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Tugrul_1905
+Seat 1: BumHuntKing (small blind) folded before Flop
+Seat 2: jav94 (big blind) folded before Flop
+Seat 3: CichiChanMarian folded before Flop (didn't bet)
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: steepfell (button) collected ($2.50)
+
+
+
+PokerStars Hand #254723316933:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:52:25 WET [2025/02/05 14:52:25 ET]
+Table 'Mathilda II' 6-max Seat #1 is the button
+Seat 6: Tugrul_1905 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($111.17 in chips) 
+Seat 2: jav94 ($36.37 in chips) 
+Seat 3: CichiChanMarian ($185.74 in chips) 
+Seat 4: michasia ($103.89 in chips) 
+Seat 5: steepfell ($101.50 in chips) 
+jav94: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+steepfell: folds 
+BumHuntKing: raises $1.50 to $2.50
+jav94: folds 
+Tugrul_1905 is disconnected 
+CichiChanMarian: raises $10 to $12.50
+BumHuntKing: folds 
+Uncalled bet ($10) returned to CichiChanMarian
+CichiChanMarian collected $5.50 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 6: Tugrul_1905
+Seat 1: BumHuntKing (button) folded before Flop
+Seat 2: jav94 (small blind) folded before Flop
+Seat 3: CichiChanMarian (big blind) collected ($5.50)
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254723323563:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 19:52:47 WET [2025/02/05 14:52:47 ET]
+Table 'Mathilda II' 6-max Seat #2 is the button
+Seat 6: Tugrul_1905 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($108.67 in chips) 
+Seat 2: jav94 ($35.87 in chips) 
+Seat 3: CichiChanMarian ($188.74 in chips) 
+Seat 4: michasia ($103.89 in chips) 
+Seat 5: steepfell ($101.50 in chips) 
+CichiChanMarian: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+BumHuntKing: raises $1.20 to $2.20
+jav94: folds 
+CichiChanMarian: folds 
+michasia: folds 
+Uncalled bet ($1.20) returned to BumHuntKing
+BumHuntKing collected $2.50 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Tugrul_1905
+Seat 1: BumHuntKing collected ($2.50)
+Seat 2: jav94 (button) folded before Flop (didn't bet)
+Seat 3: CichiChanMarian (small blind) folded before Flop
+Seat 4: michasia (big blind) folded before Flop
+Seat 5: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254723428626:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 20:00:20 WET [2025/02/05 15:00:20 ET]
+Table 'Mathilda II' 6-max Seat #4 is the button
+Seat 1: BumHuntKing ($210.23 in chips) 
+Seat 2: jav94 ($23.81 in chips) 
+Seat 3: CichiChanMarian ($209.58 in chips) 
+Seat 4: michasia ($102.50 in chips) 
+Seat 5: steepfell ($116.65 in chips) 
+Seat 6: coeeeelho ($100 in chips) 
+steepfell: posts small blind $0.50
+coeeeelho: posts big blind $1
+jav94: posts small & big blinds $1.50
+*** HOLE CARDS ***
+BumHuntKing: raises $2.50 to $3.50
+jav94: folds 
+CichiChanMarian: folds 
+michasia: folds 
+steepfell: folds 
+coeeeelho: folds 
+Uncalled bet ($2.50) returned to BumHuntKing
+BumHuntKing collected $4 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: BumHuntKing collected ($4)
+Seat 2: jav94 folded before Flop (didn't bet)
+Seat 3: CichiChanMarian folded before Flop (didn't bet)
+Seat 4: michasia (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: coeeeelho (big blind) folded before Flop
+
+
+
+PokerStars Hand #254723433602:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 20:00:41 WET [2025/02/05 15:00:41 ET]
+Table 'Mathilda II' 6-max Seat #5 is the button
+Seat 1: BumHuntKing ($213.23 in chips) 
+Seat 2: jav94 ($22.31 in chips) 
+Seat 3: CichiChanMarian ($209.58 in chips) 
+Seat 4: michasia ($102.50 in chips) 
+Seat 5: steepfell ($116.15 in chips) 
+Seat 6: coeeeelho ($100 in chips) 
+coeeeelho: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+jav94: folds 
+CichiChanMarian: raises $1.50 to $2.50
+michasia: folds 
+steepfell: folds 
+coeeeelho: folds 
+BumHuntKing: folds 
+Uncalled bet ($1.50) returned to CichiChanMarian
+CichiChanMarian collected $2.50 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: BumHuntKing (big blind) folded before Flop
+Seat 2: jav94 folded before Flop (didn't bet)
+Seat 3: CichiChanMarian collected ($2.50)
+Seat 4: michasia folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: coeeeelho (small blind) folded before Flop
+
+
+
+PokerStars Hand #254723436994:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 20:00:56 WET [2025/02/05 15:00:56 ET]
+Table 'Mathilda II' 6-max Seat #6 is the button
+Seat 1: BumHuntKing ($212.23 in chips) 
+Seat 2: jav94 ($22.31 in chips) 
+Seat 3: CichiChanMarian ($211.08 in chips) 
+Seat 4: michasia ($102.50 in chips) 
+Seat 5: steepfell ($116.15 in chips) 
+Seat 6: coeeeelho ($100 in chips) 
+BumHuntKing: posts small blind $0.50
+jav94: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+michasia: raises $1.60 to $2.60
+steepfell: folds 
+coeeeelho: folds 
+BumHuntKing: folds 
+jav94: calls $1.60
+*** FLOP *** [Ac Ad 9d]
+jav94: checks 
+michasia: bets $3.61
+jav94: calls $3.61
+*** TURN *** [Ac Ad 9d] [8h]
+jav94: bets $7.14
+michasia: calls $7.14
+*** RIVER *** [Ac Ad 9d 8h] [Ts]
+jav94: checks 
+michasia: bets $17.23
+jav94: folds 
+Uncalled bet ($17.23) returned to michasia
+michasia collected $25.84 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $27.20 | Rake $1.36 
+Board [Ac Ad 9d 8h Ts]
+Seat 1: BumHuntKing (small blind) folded before Flop
+Seat 2: jav94 (big blind) folded on the River
+Seat 3: CichiChanMarian folded before Flop (didn't bet)
+Seat 4: michasia collected ($25.84)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: coeeeelho (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254723455891:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 20:02:07 WET [2025/02/05 15:02:07 ET]
+Table 'Mathilda II' 6-max Seat #1 is the button
+Seat 1: BumHuntKing ($211.73 in chips) 
+Seat 2: jav94 ($8.96 in chips) 
+Seat 3: CichiChanMarian ($211.08 in chips) 
+Seat 4: michasia ($114.99 in chips) 
+Seat 5: steepfell ($116.15 in chips) 
+Seat 6: coeeeelho ($100 in chips) 
+jav94: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+michasia: raises $1.60 to $2.60
+steepfell: folds 
+coeeeelho: folds 
+BumHuntKing: folds 
+jav94: folds 
+CichiChanMarian: folds 
+Uncalled bet ($1.60) returned to michasia
+michasia collected $2.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 2: jav94 (small blind) folded before Flop
+Seat 3: CichiChanMarian (big blind) folded before Flop
+Seat 4: michasia collected ($2.50)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254723462038:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 20:02:29 WET [2025/02/05 15:02:29 ET]
+Table 'Mathilda II' 6-max Seat #2 is the button
+Seat 1: BumHuntKing ($211.73 in chips) 
+Seat 2: jav94 ($8.46 in chips) 
+Seat 3: CichiChanMarian ($210.08 in chips) 
+Seat 4: michasia ($116.49 in chips) 
+Seat 5: steepfell ($116.15 in chips) 
+Seat 6: coeeeelho ($100 in chips) 
+CichiChanMarian: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+steepfell: raises $1.50 to $2.50
+coeeeelho: folds 
+BumHuntKing: folds 
+jav94: raises $5.96 to $8.46 and is all-in
+CichiChanMarian: folds 
+michasia: folds 
+steepfell: calls $5.96
+*** FLOP *** [7d Qc 3h]
+*** TURN *** [7d Qc 3h] [Tc]
+*** RIVER *** [7d Qc 3h Tc] [7c]
+*** SHOW DOWN ***
+steepfell: shows [Th Td] (a full house, Tens full of Sevens)
+jav94: shows [Ah 4s] (a pair of Sevens)
+jav94 is disconnected 
+steepfell collected $17.50 from pot
+*** SUMMARY ***
+Total pot $18.42 | Rake $0.92 
+Board [7d Qc 3h Tc 7c]
+Seat 1: BumHuntKing folded before Flop (didn't bet)
+Seat 2: jav94 (button) showed [Ah 4s] and lost with a pair of Sevens
+Seat 3: CichiChanMarian (small blind) folded before Flop
+Seat 4: michasia (big blind) folded before Flop
+Seat 5: steepfell showed [Th Td] and won ($17.50) with a full house, Tens full of Sevens
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254723469010:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 20:02:53 WET [2025/02/05 15:02:53 ET]
+Table 'Mathilda II' 6-max Seat #3 is the button
+Seat 2: jav94 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($211.73 in chips) 
+Seat 3: CichiChanMarian ($209.58 in chips) 
+Seat 4: michasia ($115.49 in chips) 
+Seat 5: steepfell ($125.19 in chips) 
+Seat 6: coeeeelho ($100 in chips) 
+michasia: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+coeeeelho leaves the table
+BumHuntKing: raises $1.20 to $2.20
+CichiChanMarian: folds 
+michasia: raises $8.80 to $11
+steepfell: folds 
+BumHuntKing: folds 
+Uncalled bet ($8.80) returned to michasia
+michasia collected $5.40 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 2: jav94
+Seat 1: BumHuntKing folded before Flop
+Seat 3: CichiChanMarian (button) folded before Flop (didn't bet)
+Seat 4: michasia (small blind) collected ($5.40)
+Seat 5: steepfell (big blind) folded before Flop
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254723482439:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 20:03:40 WET [2025/02/05 15:03:40 ET]
+Table 'Mathilda II' 6-max Seat #4 is the button
+Seat 2: jav94 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($209.53 in chips) 
+Seat 3: CichiChanMarian ($209.58 in chips) 
+Seat 4: michasia ($118.69 in chips) 
+Seat 5: steepfell ($124.19 in chips) 
+steepfell: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+michasia: folds 
+steepfell: folds 
+Uncalled bet ($0.50) returned to BumHuntKing
+BumHuntKing collected $1 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: jav94
+Seat 1: BumHuntKing (big blind) collected ($1)
+Seat 3: CichiChanMarian folded before Flop (didn't bet)
+Seat 4: michasia (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254723485432:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 20:03:49 WET [2025/02/05 15:03:49 ET]
+Table 'Mathilda II' 6-max Seat #1 is the button
+Seat 2: jav94 ($0 in chips) is sitting out
+Seat 3: CichiChanMarian ($209.58 in chips) is sitting out
+Seat 4: michasia ($118.69 in chips) is sitting out
+Seat 1: BumHuntKing ($210.03 in chips) 
+Seat 5: steepfell ($123.69 in chips) 
+BumHuntKing: posts small blind $0.50
+CichiChanMarian: is sitting out 
+michasia: is sitting out 
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+Uncalled bet ($0.50) returned to steepfell
+michasia leaves the table
+steepfell collected $1 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: jav94
+Seat 3: CichiChanMarian
+Seat 4: michasia
+Seat 1: BumHuntKing (button) (small blind) folded before Flop
+Seat 5: steepfell (big blind) collected ($1)
+
+
+
+PokerStars Hand #254723487517:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 20:03:56 WET [2025/02/05 15:03:56 ET]
+Table 'Mathilda II' 6-max Seat #5 is the button
+Seat 2: jav94 ($0 in chips) is sitting out
+Seat 3: CichiChanMarian ($209.58 in chips) is sitting out
+Seat 1: BumHuntKing ($209.53 in chips) 
+Seat 5: steepfell ($124.19 in chips) 
+steepfell: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+steepfell: raises $1.50 to $2.50
+BumHuntKing: folds 
+Uncalled bet ($1.50) returned to steepfell
+steepfell collected $2 from pot
+steepfell: doesn't show hand 
+CichiChanMarian leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: jav94
+Seat 3: CichiChanMarian
+Seat 1: BumHuntKing (big blind) folded before Flop
+Seat 5: steepfell (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254723490115:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 20:04:06 WET [2025/02/05 15:04:06 ET]
+Table 'Mathilda II' 6-max Seat #1 is the button
+Seat 2: jav94 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($208.53 in chips) 
+Seat 5: steepfell ($125.19 in chips) 
+BumHuntKing: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: raises $1.50 to $2.50
+steepfell: folds 
+Uncalled bet ($1.50) returned to BumHuntKing
+BumHuntKing collected $2 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: jav94
+Seat 1: BumHuntKing (button) (small blind) collected ($2)
+Seat 5: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254723492786:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 20:04:15 WET [2025/02/05 15:04:15 ET]
+Table 'Mathilda II' 6-max Seat #5 is the button
+Seat 2: jav94 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($209.53 in chips) 
+Seat 5: steepfell ($124.19 in chips) 
+steepfell: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+steepfell: raises $1.50 to $2.50
+BumHuntKing: folds 
+Uncalled bet ($1.50) returned to steepfell
+steepfell collected $2 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: jav94
+Seat 1: BumHuntKing (big blind) folded before Flop
+Seat 5: steepfell (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254723494745:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/05 20:04:21 WET [2025/02/05 15:04:21 ET]
+Table 'Mathilda II' 6-max Seat #1 is the button
+Seat 2: jav94 ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($208.53 in chips) 
+Seat 5: steepfell ($125.19 in chips) 
+BumHuntKing: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+Uncalled bet ($0.50) returned to steepfell
+steepfell collected $1 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: jav94
+Seat 1: BumHuntKing (button) (small blind) folded before Flop
+Seat 5: steepfell (big blind) collected ($1)
+
+
+

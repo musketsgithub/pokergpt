@@ -1,0 +1,629 @@
+﻿PokerStars Hand #254696143368:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:41:21 WET [2025/02/03 18:41:21 ET]
+Table 'Nemausa' 6-max Seat #2 is the button
+Seat 1: uuzka ($100 in chips) is sitting out
+Seat 2: enisgashi ($25.86 in chips) 
+Seat 3: SorinS28 ($101.72 in chips) 
+Seat 5: m0nTTu ($10 in chips) 
+SorinS28: posts small blind $0.50
+m0nTTu: posts big blind $1
+uuzka: sits out 
+*** HOLE CARDS ***
+enisgashi: calls $1
+SorinS28: folds 
+m0nTTu: checks 
+*** FLOP *** [7s 8c 3h]
+m0nTTu: bets $3.50
+enisgashi: folds 
+Uncalled bet ($3.50) returned to m0nTTu
+m0nTTu collected $2.38 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [7s 8c 3h]
+Seat 1: uuzka
+Seat 2: enisgashi (button) folded on the Flop
+Seat 3: SorinS28 (small blind) folded before Flop
+Seat 5: m0nTTu (big blind) collected ($2.38)
+
+
+
+PokerStars Hand #254696148206:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:41:41 WET [2025/02/03 18:41:41 ET]
+Table 'Nemausa' 6-max Seat #3 is the button
+Seat 1: uuzka ($100 in chips) 
+Seat 2: enisgashi ($24.86 in chips) 
+Seat 3: SorinS28 ($101.22 in chips) 
+Seat 5: m0nTTu ($11.38 in chips) 
+m0nTTu: posts small blind $0.50
+uuzka: posts big blind $1
+*** HOLE CARDS ***
+enisgashi: calls $1
+SorinS28: folds 
+m0nTTu: folds 
+uuzka: checks 
+*** FLOP *** [Qh 9c 9d]
+uuzka: checks 
+enisgashi: bets $1
+Supermegopro joins the table at seat #4 
+uuzka: calls $1
+*** TURN *** [Qh 9c 9d] [5s]
+uuzka: checks 
+enisgashi: bets $6
+uuzka: folds 
+Uncalled bet ($6) returned to enisgashi
+enisgashi collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Qh 9c 9d 5s]
+Seat 1: uuzka (big blind) folded on the Turn
+Seat 2: enisgashi collected ($4.28)
+Seat 3: SorinS28 (button) folded before Flop (didn't bet)
+Seat 5: m0nTTu (small blind) folded before Flop
+
+
+
+PokerStars Hand #254696159138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:42:27 WET [2025/02/03 18:42:27 ET]
+Table 'Nemausa' 6-max Seat #5 is the button
+Seat 4: Supermegopro ($100 in chips) is sitting out
+Seat 1: uuzka ($100 in chips) 
+Seat 2: enisgashi ($27.14 in chips) 
+Seat 3: SorinS28 ($101.22 in chips) 
+Seat 5: m0nTTu ($10.88 in chips) 
+uuzka: posts small blind $0.50
+enisgashi: posts big blind $1
+Supermegopro: sits out 
+*** HOLE CARDS ***
+SorinS28: raises $1.30 to $2.30
+m0nTTu: folds 
+uuzka: folds 
+enisgashi: calls $1.30
+*** FLOP *** [6c 3s 2d]
+Mr_Dick666 joins the table at seat #6 
+enisgashi: checks 
+SorinS28: bets $1.36
+enisgashi: calls $1.36
+*** TURN *** [6c 3s 2d] [4h]
+enisgashi: checks 
+SorinS28: checks 
+*** RIVER *** [6c 3s 2d 4h] [5c]
+enisgashi: bets $23.48 and is all-in
+SorinS28: calls $23.48
+*** SHOW DOWN ***
+enisgashi: shows [Ah 3d] (a straight, Deuce to Six)
+SorinS28: shows [4s As] (a straight, Deuce to Six)
+enisgashi collected $26.89 from pot
+SorinS28 collected $26.89 from pot
+*** SUMMARY ***
+Total pot $54.78 | Rake $1 
+Board [6c 3s 2d 4h 5c]
+Seat 4: Supermegopro
+Seat 1: uuzka (small blind) folded before Flop
+Seat 2: enisgashi (big blind) showed [Ah 3d] and won ($26.89) with a straight, Deuce to Six
+Seat 3: SorinS28 showed [4s As] and won ($26.89) with a straight, Deuce to Six
+Seat 5: m0nTTu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254696174047:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:43:31 WET [2025/02/03 18:43:31 ET]
+Table 'Nemausa' 6-max Seat #1 is the button
+Seat 4: Supermegopro ($100 in chips) is sitting out
+Seat 6: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: uuzka ($100 in chips) 
+Seat 2: enisgashi ($26.89 in chips) 
+Seat 3: SorinS28 ($100.97 in chips) 
+Seat 5: m0nTTu ($10.88 in chips) 
+enisgashi: posts small blind $0.50
+SorinS28: posts big blind $1
+Supermegopro: sits out 
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+m0nTTu: folds 
+uuzka: raises $1.50 to $2.50
+enisgashi: calls $2
+SorinS28: folds 
+*** FLOP *** [7c 2s 2c]
+enisgashi: checks 
+uuzka: bets $1.65
+enisgashi: calls $1.65
+*** TURN *** [7c 2s 2c] [9s]
+enisgashi: checks 
+uuzka: checks 
+*** RIVER *** [7c 2s 2c 9s] [5h]
+enisgashi: bets $9
+uuzka: folds 
+Uncalled bet ($9) returned to enisgashi
+enisgashi collected $8.84 from pot
+*** SUMMARY ***
+Total pot $9.30 | Rake $0.46 
+Board [7c 2s 2c 9s 5h]
+Seat 4: Supermegopro
+Seat 6: Mr_Dick666
+Seat 1: uuzka (button) folded on the River
+Seat 2: enisgashi (small blind) collected ($8.84)
+Seat 3: SorinS28 (big blind) folded before Flop
+Seat 5: m0nTTu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254696188804:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:44:34 WET [2025/02/03 18:44:34 ET]
+Table 'Nemausa' 6-max Seat #2 is the button
+Seat 6: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: uuzka ($100 in chips) 
+Seat 2: enisgashi ($31.58 in chips) 
+Seat 3: SorinS28 ($100 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+Seat 5: m0nTTu ($10.88 in chips) 
+SorinS28: posts small blind $0.50
+Supermegopro: posts big blind $1
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+m0nTTu: folds 
+uuzka: folds 
+enisgashi: calls $1
+SorinS28: folds 
+Supermegopro: checks 
+*** FLOP *** [Kh 7h 9h]
+Supermegopro: checks 
+enisgashi: checks 
+*** TURN *** [Kh 7h 9h] [Kd]
+Supermegopro: bets $1.59
+enisgashi: calls $1.59
+*** RIVER *** [Kh 7h 9h Kd] [4d]
+Supermegopro: bets $1
+enisgashi: folds 
+Uncalled bet ($1) returned to Supermegopro
+Supermegopro collected $5.40 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.68 | Rake $0.28 
+Board [Kh 7h 9h Kd 4d]
+Seat 6: Mr_Dick666
+Seat 1: uuzka folded before Flop (didn't bet)
+Seat 2: enisgashi (button) folded on the River
+Seat 3: SorinS28 (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) collected ($5.40)
+Seat 5: m0nTTu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254696202061:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:45:30 WET [2025/02/03 18:45:30 ET]
+Table 'Nemausa' 6-max Seat #3 is the button
+Seat 6: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: uuzka ($100 in chips) 
+Seat 2: enisgashi ($28.99 in chips) 
+Seat 3: SorinS28 ($100 in chips) 
+Seat 4: Supermegopro ($102.81 in chips) 
+Seat 5: m0nTTu ($10.88 in chips) 
+Supermegopro: posts small blind $0.50
+m0nTTu: posts big blind $1
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+uuzka: folds 
+enisgashi: calls $1
+SorinS28: folds 
+Supermegopro: calls $0.50
+m0nTTu: checks 
+*** FLOP *** [9c Js 9d]
+Supermegopro: checks 
+m0nTTu: checks 
+enisgashi: checks 
+*** TURN *** [9c Js 9d] [8d]
+Supermegopro: checks 
+m0nTTu: checks 
+enisgashi: checks 
+*** RIVER *** [9c Js 9d 8d] [4c]
+Supermegopro: checks 
+m0nTTu: checks 
+enisgashi: checks 
+*** SHOW DOWN ***
+Supermegopro: shows [2s 2d] (two pair, Nines and Deuces)
+m0nTTu: shows [4s 6s] (two pair, Nines and Fours)
+enisgashi: shows [5c 8s] (two pair, Nines and Eights)
+enisgashi collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [9c Js 9d 8d 4c]
+Seat 6: Mr_Dick666
+Seat 1: uuzka folded before Flop (didn't bet)
+Seat 2: enisgashi showed [5c 8s] and won ($2.85) with two pair, Nines and Eights
+Seat 3: SorinS28 (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) showed [2s 2d] and lost with two pair, Nines and Deuces
+Seat 5: m0nTTu (big blind) showed [4s 6s] and lost with two pair, Nines and Fours
+
+
+
+PokerStars Hand #254696216223:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:46:29 WET [2025/02/03 18:46:29 ET]
+Table 'Nemausa' 6-max Seat #4 is the button
+Seat 1: uuzka ($100 in chips) 
+Seat 2: enisgashi ($30.84 in chips) 
+Seat 3: SorinS28 ($100 in chips) 
+Seat 4: Supermegopro ($101.81 in chips) 
+Seat 5: m0nTTu ($10 in chips) 
+Seat 6: Mr_Dick666 ($100 in chips) 
+m0nTTu: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+uuzka: raises $1.20 to $2.20
+enisgashi: calls $2.20
+SorinS28: raises $7.80 to $10
+Supermegopro: folds 
+m0nTTu: folds 
+Mr_Dick666: folds 
+uuzka: raises $15 to $25
+enisgashi: raises $5.84 to $30.84 and is all-in
+SorinS28: folds 
+uuzka: calls $5.84
+*** FLOP *** [3h Tc 3d]
+*** TURN *** [3h Tc 3d] [Qh]
+*** RIVER *** [3h Tc 3d Qh] [8s]
+*** SHOW DOWN ***
+uuzka: shows [Ah Ac] (two pair, Aces and Threes)
+enisgashi: shows [As 2c] (a pair of Threes)
+uuzka collected $70.68 from pot
+*** SUMMARY ***
+Total pot $73.18 | Rake $2.50 
+Board [3h Tc 3d Qh 8s]
+Seat 1: uuzka showed [Ah Ac] and won ($70.68) with two pair, Aces and Threes
+Seat 2: enisgashi showed [As 2c] and lost with a pair of Threes
+Seat 3: SorinS28 folded before Flop
+Seat 4: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: m0nTTu (small blind) folded before Flop
+Seat 6: Mr_Dick666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254696230069:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:47:28 WET [2025/02/03 18:47:28 ET]
+Table 'Nemausa' 6-max Seat #5 is the button
+Seat 2: enisgashi ($0 in chips) is sitting out
+Seat 1: uuzka ($139.84 in chips) 
+Seat 3: SorinS28 ($100 in chips) 
+Seat 4: Supermegopro ($101.81 in chips) 
+Seat 5: m0nTTu ($10 in chips) 
+Seat 6: Mr_Dick666 ($100 in chips) 
+Mr_Dick666: posts small blind $0.50
+uuzka: posts big blind $1
+*** HOLE CARDS ***
+SorinS28: folds 
+Supermegopro: folds 
+m0nTTu: folds 
+Mr_Dick666: folds 
+Uncalled bet ($0.50) returned to uuzka
+uuzka collected $1 from pot
+uuzka: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: enisgashi
+Seat 1: uuzka (big blind) collected ($1)
+Seat 3: SorinS28 folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: m0nTTu (button) folded before Flop (didn't bet)
+Seat 6: Mr_Dick666 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254696234441:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:47:46 WET [2025/02/03 18:47:46 ET]
+Table 'Nemausa' 6-max Seat #6 is the button
+Seat 2: enisgashi ($0 in chips) is sitting out
+Seat 1: uuzka ($140.34 in chips) 
+Seat 3: SorinS28 ($100 in chips) 
+Seat 4: Supermegopro ($101.81 in chips) 
+Seat 5: m0nTTu ($10 in chips) 
+Seat 6: Mr_Dick666 ($100 in chips) 
+uuzka: posts small blind $0.50
+SorinS28: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+m0nTTu: folds 
+Mr_Dick666: folds 
+uuzka: folds 
+SorinS28: folds 
+Uncalled bet ($1.50) returned to Supermegopro
+Supermegopro collected $2.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: enisgashi
+Seat 1: uuzka (small blind) folded before Flop
+Seat 3: SorinS28 (big blind) folded before Flop
+Seat 4: Supermegopro collected ($2.50)
+Seat 5: m0nTTu folded before Flop (didn't bet)
+Seat 6: Mr_Dick666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254696239549:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:48:08 WET [2025/02/03 18:48:08 ET]
+Table 'Nemausa' 6-max Seat #1 is the button
+Seat 2: enisgashi ($0 in chips) is sitting out
+Seat 1: uuzka ($139.84 in chips) 
+Seat 3: SorinS28 ($100 in chips) 
+Seat 4: Supermegopro ($103.31 in chips) 
+Seat 5: m0nTTu ($10 in chips) 
+Seat 6: Mr_Dick666 ($100 in chips) 
+SorinS28: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+enisgashi is disconnected 
+m0nTTu: folds 
+Mr_Dick666: raises $1.50 to $2.50
+uuzka: folds 
+SorinS28: folds 
+Supermegopro: calls $1.50
+*** FLOP *** [9s 4c Ks]
+Supermegopro: checks 
+Mr_Dick666: bets $3.92
+Supermegopro: calls $3.92
+*** TURN *** [9s 4c Ks] [6c]
+Supermegopro: checks 
+Mr_Dick666: checks 
+*** RIVER *** [9s 4c Ks 6c] [3c]
+Supermegopro: checks 
+Mr_Dick666: checks 
+*** SHOW DOWN ***
+Supermegopro: shows [Jh Qh] (high card King)
+Mr_Dick666: mucks hand 
+Supermegopro collected $12.67 from pot
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [9s 4c Ks 6c 3c]
+Seat 2: enisgashi
+Seat 1: uuzka (button) folded before Flop (didn't bet)
+Seat 3: SorinS28 (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) showed [Jh Qh] and won ($12.67) with high card King
+Seat 5: m0nTTu folded before Flop (didn't bet)
+Seat 6: Mr_Dick666 mucked
+
+
+
+PokerStars Hand #254696254049:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:49:09 WET [2025/02/03 18:49:09 ET]
+Table 'Nemausa' 6-max Seat #3 is the button
+Seat 2: enisgashi ($0 in chips) is sitting out
+Seat 1: uuzka ($139.84 in chips) 
+Seat 3: SorinS28 ($100 in chips) 
+Seat 4: Supermegopro ($109.56 in chips) 
+Seat 5: m0nTTu ($10 in chips) 
+Seat 6: Mr_Dick666 ($100 in chips) 
+Supermegopro: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+uuzka: folds 
+SorinS28: raises $1.50 to $2.50
+Supermegopro: folds 
+m0nTTu: folds 
+Uncalled bet ($1.50) returned to SorinS28
+SorinS28 collected $2.50 from pot
+SorinS28: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: enisgashi
+Seat 1: uuzka folded before Flop (didn't bet)
+Seat 3: SorinS28 (button) collected ($2.50)
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: m0nTTu (big blind) folded before Flop
+Seat 6: Mr_Dick666 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254696261192:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:49:40 WET [2025/02/03 18:49:40 ET]
+Table 'Nemausa' 6-max Seat #4 is the button
+Seat 2: enisgashi ($0 in chips) is sitting out
+Seat 6: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: uuzka ($139.84 in chips) 
+Seat 3: SorinS28 ($101.50 in chips) 
+Seat 4: Supermegopro ($109.06 in chips) 
+Seat 5: m0nTTu ($10 in chips) 
+m0nTTu: posts small blind $0.50
+Mr_Dick666: is sitting out 
+uuzka: posts big blind $1
+*** HOLE CARDS ***
+SorinS28: raises $1.30 to $2.30
+Supermegopro: folds 
+Mr_Dick666 leaves the table
+m0nTTu: folds 
+uuzka: calls $1.30
+*** FLOP *** [Kc 9c Td]
+J0SHB0SH joins the table at seat #6 
+uuzka: checks 
+SorinS28: bets $1.36
+uuzka: calls $1.36
+*** TURN *** [Kc 9c Td] [9s]
+uuzka: checks 
+SorinS28: checks 
+*** RIVER *** [Kc 9c Td 9s] [Qh]
+uuzka: checks 
+SorinS28: bets $7.43
+uuzka: calls $7.43
+*** SHOW DOWN ***
+SorinS28: shows [Jd Ts] (a straight, Nine to King)
+uuzka: mucks hand 
+SorinS28 collected $21.68 from pot
+*** SUMMARY ***
+Total pot $22.68 | Rake $1 
+Board [Kc 9c Td 9s Qh]
+Seat 2: enisgashi
+Seat 6: Mr_Dick666
+Seat 1: uuzka (big blind) mucked
+Seat 3: SorinS28 showed [Jd Ts] and won ($21.68) with a straight, Nine to King
+Seat 4: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: m0nTTu (small blind) folded before Flop
+
+
+
+PokerStars Hand #254696281867:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:51:10 WET [2025/02/03 18:51:10 ET]
+Table 'Nemausa' 6-max Seat #5 is the button
+Seat 2: enisgashi ($0 in chips) is sitting out
+Seat 3: SorinS28 ($112.09 in chips) is sitting out
+Seat 6: J0SHB0SH ($100 in chips) is sitting out
+Seat 1: uuzka ($128.75 in chips) 
+Seat 4: Supermegopro ($109.06 in chips) 
+Seat 5: m0nTTu ($10 in chips) 
+uuzka: posts small blind $0.50
+SorinS28: is sitting out 
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+uuzka: raises $1.77 to $2.77
+Supermegopro: raises $7.43 to $10.20
+uuzka: folds 
+Uncalled bet ($7.43) returned to Supermegopro
+Supermegopro collected $5.54 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.54 | Rake $0 
+Seat 2: enisgashi
+Seat 3: SorinS28
+Seat 6: J0SHB0SH
+Seat 1: uuzka (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) collected ($5.54)
+Seat 5: m0nTTu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254696289716:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:51:44 WET [2025/02/03 18:51:44 ET]
+Table 'Nemausa' 6-max Seat #1 is the button
+Seat 2: enisgashi ($0 in chips) is sitting out
+Seat 3: SorinS28 ($112.09 in chips) is sitting out
+Seat 6: J0SHB0SH ($100 in chips) is sitting out
+Seat 1: uuzka ($125.98 in chips) 
+Seat 4: Supermegopro ($111.83 in chips) 
+Seat 5: m0nTTu ($10 in chips) 
+Supermegopro: posts small blind $0.50
+m0nTTu: posts big blind $1
+J0SHB0SH: sits out 
+*** HOLE CARDS ***
+uuzka: folds 
+Supermegopro: raises $11 to $12
+m0nTTu: calls $9 and is all-in
+Uncalled bet ($2) returned to Supermegopro
+*** FLOP *** [4s 4h 2h]
+*** TURN *** [4s 4h 2h] [9s]
+*** RIVER *** [4s 4h 2h 9s] [Ah]
+*** SHOW DOWN ***
+Supermegopro: shows [3c Ac] (two pair, Aces and Fours)
+m0nTTu: shows [7s As] (two pair, Aces and Fours)
+Supermegopro collected $9.50 from pot
+m0nTTu collected $9.50 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [4s 4h 2h 9s Ah]
+Seat 2: enisgashi
+Seat 3: SorinS28
+Seat 6: J0SHB0SH
+Seat 1: uuzka (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) showed [3c Ac] and won ($9.50) with two pair, Aces and Fours
+Seat 5: m0nTTu (big blind) showed [7s As] and won ($9.50) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #254696294560:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:52:06 WET [2025/02/03 18:52:06 ET]
+Table 'Nemausa' 6-max Seat #4 is the button
+Seat 2: enisgashi ($0 in chips) is sitting out
+Seat 3: SorinS28 ($112.09 in chips) is sitting out
+Seat 1: uuzka ($125.98 in chips) 
+Seat 4: Supermegopro ($111.33 in chips) 
+Seat 5: m0nTTu ($10 in chips) 
+Seat 6: J0SHB0SH ($100 in chips) 
+m0nTTu: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+uuzka: folds 
+Supermegopro: folds 
+m0nTTu: folds 
+Uncalled bet ($0.50) returned to J0SHB0SH
+J0SHB0SH collected $1 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: enisgashi
+Seat 3: SorinS28
+Seat 1: uuzka folded before Flop (didn't bet)
+Seat 4: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: m0nTTu (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) collected ($1)
+
+
+
+PokerStars Hand #254696298936:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:52:25 WET [2025/02/03 18:52:25 ET]
+Table 'Nemausa' 6-max Seat #5 is the button
+Seat 1: uuzka ($125.98 in chips) is sitting out
+Seat 2: enisgashi ($0 in chips) is sitting out
+Seat 3: SorinS28 ($112.09 in chips) is sitting out
+Seat 4: Supermegopro ($111.33 in chips) 
+Seat 5: m0nTTu ($10 in chips) 
+Seat 6: J0SHB0SH ($100.50 in chips) 
+J0SHB0SH: posts small blind $0.50
+uuzka: is sitting out 
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+uuzka leaves the table
+J0SHB0SH: raises $2 to $3
+Supermegopro: raises $6 to $9
+J0SHB0SH: calls $6
+*** FLOP *** [7h 4d Qs]
+J0SHB0SH: checks 
+SorinS28 leaves the table
+Supermegopro: bets $11.40
+J0SHB0SH: folds 
+Uncalled bet ($11.40) returned to Supermegopro
+Supermegopro collected $17.10 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [7h 4d Qs]
+Seat 1: uuzka
+Seat 2: enisgashi
+Seat 3: SorinS28
+Seat 4: Supermegopro (big blind) collected ($17.10)
+Seat 5: m0nTTu (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254696307494:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:53:03 WET [2025/02/03 18:53:03 ET]
+Table 'Nemausa' 6-max Seat #6 is the button
+Seat 2: enisgashi ($0 in chips) is sitting out
+Seat 4: Supermegopro ($119.43 in chips) 
+Seat 5: m0nTTu ($10 in chips) 
+Seat 6: J0SHB0SH ($100 in chips) 
+Supermegopro: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Supermegopro: folds 
+Uncalled bet ($0.50) returned to m0nTTu
+m0nTTu collected $1 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: enisgashi
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: m0nTTu (big blind) collected ($1)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254696309335:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 23:53:11 WET [2025/02/03 18:53:11 ET]
+Table 'Nemausa' 6-max Seat #5 is the button
+Seat 2: enisgashi ($0 in chips) is sitting out
+Seat 6: J0SHB0SH ($100 in chips) is sitting out
+Seat 4: Supermegopro ($118.93 in chips) 
+Seat 5: m0nTTu ($10.50 in chips) 
+m0nTTu: posts small blind $0.50
+J0SHB0SH: is sitting out 
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Uncalled bet ($0.50) returned to Supermegopro
+J0SHB0SH leaves the table
+Supermegopro collected $1 from pot
+enisgashi leaves the table
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: enisgashi
+Seat 6: J0SHB0SH
+Seat 4: Supermegopro (big blind) collected ($1)
+Seat 5: m0nTTu (button) (small blind) folded before Flop
+
+
+

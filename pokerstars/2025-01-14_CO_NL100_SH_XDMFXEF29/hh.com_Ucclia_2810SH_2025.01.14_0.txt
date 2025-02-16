@@ -1,0 +1,327 @@
+﻿PokerStars Hand #254369961547:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 18:44:56 WET [2025/01/14 13:44:56 ET]
+Table 'Ucclia II' 6-max Seat #4 is the button
+Seat 1: Manifestorr ($100 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: gohome78 ($10 in chips) 
+Seat 4: Checkraise_Lux ($100 in chips) 
+Seat 5: Gfoer ($102.46 in chips) 
+Seat 6: steelNike ($10 in chips) 
+Gfoer: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+ptolejmus: folds 
+gohome78: folds 
+Checkraise_Lux: raises $1.50 to $2.50
+Gfoer: folds 
+steelNike: folds 
+Uncalled bet ($1.50) returned to Checkraise_Lux
+Checkraise_Lux collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: gohome78 folded before Flop (didn't bet)
+Seat 4: Checkraise_Lux (button) collected ($2.50)
+Seat 5: Gfoer (small blind) folded before Flop
+Seat 6: steelNike (big blind) folded before Flop
+
+
+
+PokerStars Hand #254369966185:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 18:45:11 WET [2025/01/14 13:45:11 ET]
+Table 'Ucclia II' 6-max Seat #5 is the button
+Seat 1: Manifestorr ($100 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: gohome78 ($10 in chips) 
+Seat 4: Checkraise_Lux ($101.50 in chips) 
+Seat 5: Gfoer ($101.96 in chips) 
+Seat 6: steelNike ($9 in chips) 
+steelNike: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+gohome78: folds 
+Checkraise_Lux: raises $1.50 to $2.50
+Gfoer: folds 
+steelNike: raises $6.50 to $9 and is all-in
+Manifestorr: folds 
+Checkraise_Lux: calls $6.50
+*** FLOP *** [Qc 2h 3s]
+*** TURN *** [Qc 2h 3s] [3h]
+*** RIVER *** [Qc 2h 3s 3h] [7h]
+*** SHOW DOWN ***
+steelNike: shows [Qh Ad] (two pair, Queens and Threes)
+Checkraise_Lux: shows [Ac 4c] (a pair of Threes)
+steelNike collected $18.05 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [Qc 2h 3s 3h 7h]
+Seat 1: Manifestorr (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: gohome78 folded before Flop (didn't bet)
+Seat 4: Checkraise_Lux showed [Ac 4c] and lost with a pair of Threes
+Seat 5: Gfoer (button) folded before Flop (didn't bet)
+Seat 6: steelNike (small blind) showed [Qh Ad] and won ($18.05) with two pair, Queens and Threes
+
+
+
+PokerStars Hand #254369980361:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 18:45:58 WET [2025/01/14 13:45:58 ET]
+Table 'Ucclia II' 6-max Seat #6 is the button
+Seat 1: Manifestorr ($100 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: gohome78 ($10 in chips) 
+Seat 5: Gfoer ($101.96 in chips) 
+Seat 6: steelNike ($18.05 in chips) 
+Manifestorr: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+gohome78: folds 
+Gfoer: raises $1.20 to $2.20
+steelNike: raises $15.85 to $18.05 and is all-in
+Manifestorr: calls $17.55
+ptolejmus: folds 
+Gfoer: folds 
+*** FIRST FLOP *** [2c 2s 7c]
+*** FIRST TURN *** [2c 2s 7c] [6d]
+*** FIRST RIVER *** [2c 2s 7c 6d] [7s]
+*** SECOND FLOP *** [5h Qc 6c]
+*** SECOND TURN *** [5h Qc 6c] [9h]
+*** SECOND RIVER *** [5h Qc 6c 9h] [8c]
+*** FIRST SHOW DOWN ***
+Manifestorr: shows [Tc Ac] (two pair, Sevens and Deuces)
+steelNike: shows [9s 9d] (two pair, Nines and Sevens)
+steelNike collected $18.67 from pot
+*** SECOND SHOW DOWN ***
+Manifestorr: shows [Tc Ac] (a flush, Ace high)
+steelNike: shows [9s 9d] (three of a kind, Nines)
+Manifestorr collected $18.67 from pot
+*** SUMMARY ***
+Total pot $39.30 | Rake $1.96 
+Hand was run twice
+FIRST Board [2c 2s 7c 6d 7s]
+SECOND Board [5h Qc 6c 9h 8c]
+Seat 1: Manifestorr (small blind) showed [Tc Ac] and lost with two pair, Sevens and Deuces, and won ($18.67) with a flush, Ace high
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: gohome78 folded before Flop (didn't bet)
+Seat 5: Gfoer folded before Flop
+Seat 6: steelNike (button) showed [9s 9d] and won ($18.67) with two pair, Nines and Sevens, and lost with three of a kind, Nines
+
+
+
+PokerStars Hand #254369990946:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 18:46:34 WET [2025/01/14 13:46:34 ET]
+Table 'Ucclia II' 6-max Seat #1 is the button
+Seat 1: Manifestorr ($100.62 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: gohome78 ($10 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: steelNike ($18.67 in chips) 
+ptolejmus: posts small blind $0.50
+gohome78: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+steelNike: folds 
+Manifestorr: folds 
+ptolejmus: raises $1 to $2
+gohome78: folds 
+Uncalled bet ($1) returned to ptolejmus
+ptolejmus collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Manifestorr (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) collected ($2)
+Seat 3: gohome78 (big blind) folded before Flop
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254369998465:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 18:46:59 WET [2025/01/14 13:46:59 ET]
+Table 'Ucclia II' 6-max Seat #2 is the button
+Seat 1: Manifestorr ($100.62 in chips) 
+Seat 2: ptolejmus ($11 in chips) 
+Seat 3: gohome78 ($9 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: steelNike ($18.67 in chips) 
+gohome78: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Manifestorr: raises $1.20 to $2.20
+ptolejmus: folds 
+EAroca joins the table at seat #4 
+gohome78: raises $6.80 to $9 and is all-in
+Gfoer: folds 
+Manifestorr: calls $6.80
+*** FLOP *** [6c 6d 3d]
+*** TURN *** [6c 6d 3d] [9d]
+*** RIVER *** [6c 6d 3d 9d] [As]
+*** SHOW DOWN ***
+gohome78: shows [Kh Jd] (a pair of Sixes)
+Manifestorr: shows [Kd Qh] (a pair of Sixes - Ace+King+Queen kicker)
+Manifestorr collected $18.05 from pot
+gohome78 cashed out the hand for $4.56 | Cash Out Fee $0.09
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [6c 6d 3d 9d As]
+Seat 1: Manifestorr showed [Kd Qh] and won ($18.05) with a pair of Sixes
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: gohome78 (small blind) showed [Kh Jd] and lost with a pair of Sixes (cashed out).
+Seat 5: Gfoer (big blind) folded before Flop
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254370008376:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 18:47:32 WET [2025/01/14 13:47:32 ET]
+Table 'Ucclia II' 6-max Seat #5 is the button
+Seat 1: Manifestorr ($109.67 in chips) is sitting out
+Seat 2: ptolejmus ($11 in chips) is sitting out
+Seat 4: EAroca ($100 in chips) is sitting out
+Seat 6: steelNike ($18.67 in chips) is sitting out
+Seat 3: gohome78 ($4.56 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Gfoer: posts small blind $0.50
+steelNike: is sitting out 
+Manifestorr: is sitting out 
+ptolejmus: is sitting out 
+gohome78: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+Uncalled bet ($0.50) returned to gohome78
+gohome78 collected $1 from pot
+ptolejmus leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Manifestorr
+Seat 2: ptolejmus
+Seat 4: EAroca
+Seat 6: steelNike
+Seat 3: gohome78 (big blind) collected ($1)
+Seat 5: Gfoer (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254370011077:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 18:47:41 WET [2025/01/14 13:47:41 ET]
+Table 'Ucclia II' 6-max Seat #5 is the button
+Seat 1: Manifestorr ($109.67 in chips) is sitting out
+Seat 6: steelNike ($18.67 in chips) is sitting out
+Seat 3: gohome78 ($5.06 in chips) 
+Seat 4: EAroca ($100 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+gohome78: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+Gfoer leaves the table
+steelNike leaves the table
+gohome78: folds 
+Uncalled bet ($0.50) returned to EAroca
+EAroca collected $1 from pot
+Manifestorr leaves the table
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Manifestorr
+Seat 6: steelNike
+Seat 3: gohome78 (small blind) folded before Flop
+Seat 4: EAroca (big blind) collected ($1)
+Seat 5: Gfoer (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254370014590:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 18:47:53 WET [2025/01/14 13:47:53 ET]
+Table 'Ucclia II' 6-max Seat #4 is the button
+Seat 3: gohome78 ($4.56 in chips) 
+Seat 4: EAroca ($100.50 in chips) 
+EAroca: posts small blind $0.50
+gohome78: posts big blind $1
+*** HOLE CARDS ***
+EAroca: raises $5 to $6
+gohome78: folds 
+Uncalled bet ($5) returned to EAroca
+EAroca collected $2 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: gohome78 (big blind) folded before Flop
+Seat 4: EAroca (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254370017512:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 18:48:03 WET [2025/01/14 13:48:03 ET]
+Table 'Ucclia II' 6-max Seat #3 is the button
+Seat 3: gohome78 ($3.56 in chips) 
+Seat 4: EAroca ($101.50 in chips) 
+gohome78: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+gohome78: folds 
+Uncalled bet ($0.50) returned to EAroca
+EAroca collected $1 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: gohome78 (button) (small blind) folded before Flop
+Seat 4: EAroca (big blind) collected ($1)
+
+
+
+PokerStars Hand #254370019208:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 18:48:08 WET [2025/01/14 13:48:08 ET]
+Table 'Ucclia II' 6-max Seat #4 is the button
+Seat 3: gohome78 ($3.06 in chips) 
+Seat 4: EAroca ($102 in chips) 
+EAroca: posts small blind $0.50
+gohome78: posts big blind $1
+*** HOLE CARDS ***
+EAroca: folds 
+Uncalled bet ($0.50) returned to gohome78
+gohome78 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: gohome78 (big blind) collected ($1)
+Seat 4: EAroca (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254370021473:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 18:48:16 WET [2025/01/14 13:48:16 ET]
+Table 'Ucclia II' 6-max Seat #3 is the button
+Seat 3: gohome78 ($3.56 in chips) 
+Seat 4: EAroca ($101.50 in chips) 
+gohome78: posts small blind $0.50
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+gohome78: folds 
+Uncalled bet ($0.50) returned to EAroca
+EAroca collected $1 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: gohome78 (button) (small blind) folded before Flop
+Seat 4: EAroca (big blind) collected ($1)
+
+
+
+PokerStars Hand #254370023743:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/14 18:48:24 WET [2025/01/14 13:48:24 ET]
+Table 'Ucclia II' 6-max Seat #4 is the button
+Seat 3: gohome78 ($3.06 in chips) 
+Seat 4: EAroca ($102 in chips) 
+EAroca: posts small blind $0.50
+gohome78: posts big blind $1
+*** HOLE CARDS ***
+EAroca: raises $3.50 to $4.50
+gohome78: calls $2.06 and is all-in
+Uncalled bet ($1.44) returned to EAroca
+*** FLOP *** [Tc 9c Kc]
+*** TURN *** [Tc 9c Kc] [Ts]
+*** RIVER *** [Tc 9c Kc Ts] [As]
+*** SHOW DOWN ***
+gohome78: shows [3d Qs] (a pair of Tens)
+EAroca: shows [Td 6s] (three of a kind, Tens)
+EAroca collected $5.81 from pot
+*** SUMMARY ***
+Total pot $6.12 | Rake $0.31 
+Board [Tc 9c Kc Ts As]
+Seat 3: gohome78 (big blind) showed [3d Qs] and lost with a pair of Tens
+Seat 4: EAroca (button) (small blind) showed [Td 6s] and won ($5.81) with three of a kind, Tens
+
+
+

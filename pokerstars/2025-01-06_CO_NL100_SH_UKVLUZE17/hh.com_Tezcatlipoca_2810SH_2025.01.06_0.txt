@@ -1,0 +1,1762 @@
+﻿PokerStars Hand #254225386205:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:02:05 WET [2025/01/06 5:02:05 ET]
+Table 'Tezcatlipoca' 6-max Seat #2 is the button
+Seat 1: b2k-Snick ($104 in chips) 
+Seat 2: Nurlanstar92 ($108.47 in chips) 
+Seat 3: sch_band ($116.16 in chips) 
+Seat 4: blistein ($114.77 in chips) 
+Seat 5: rao999 ($116.14 in chips) 
+Seat 6: steelNike ($100 in chips) 
+sch_band: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+rao999: raises $1.50 to $2.50
+steelNike: folds 
+b2k-Snick: folds 
+Nurlanstar92: folds 
+sch_band: calls $2
+blistein: calls $1.50
+*** FLOP *** [Td Jc Qd]
+sch_band: checks 
+blistein: checks 
+rao999: checks 
+*** TURN *** [Td Jc Qd] [2h]
+sch_band: checks 
+blistein: bets $4.77
+rao999: calls $4.77
+sch_band: calls $4.77
+*** RIVER *** [Td Jc Qd 2h] [6d]
+sch_band: bets $2
+blistein: folds 
+rao999: calls $2
+*** SHOW DOWN ***
+sch_band: shows [4s 4c] (a pair of Fours)
+rao999: shows [Jd Kc] (a pair of Jacks)
+rao999 collected $24.52 from pot
+*** SUMMARY ***
+Total pot $25.81 | Rake $1.29 
+Board [Td Jc Qd 2h 6d]
+Seat 1: b2k-Snick folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 (button) folded before Flop (didn't bet)
+Seat 3: sch_band (small blind) showed [4s 4c] and lost with a pair of Fours
+Seat 4: blistein (big blind) folded on the River
+Seat 5: rao999 showed [Jd Kc] and won ($24.52) with a pair of Jacks
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225392918:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:03:07 WET [2025/01/06 5:03:07 ET]
+Table 'Tezcatlipoca' 6-max Seat #3 is the button
+Seat 1: b2k-Snick ($104 in chips) 
+Seat 2: Nurlanstar92 ($108.47 in chips) 
+Seat 3: sch_band ($106.89 in chips) 
+Seat 4: blistein ($107.50 in chips) 
+Seat 5: rao999 ($131.39 in chips) 
+Seat 6: steelNike ($100 in chips) 
+blistein: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+b2k-Snick: raises $1.10 to $2.10
+Nurlanstar92: folds 
+sch_band: folds 
+blistein: folds 
+rao999: folds 
+Uncalled bet ($1.10) returned to b2k-Snick
+b2k-Snick collected $2.50 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: b2k-Snick collected ($2.50)
+Seat 2: Nurlanstar92 folded before Flop (didn't bet)
+Seat 3: sch_band (button) folded before Flop (didn't bet)
+Seat 4: blistein (small blind) folded before Flop
+Seat 5: rao999 (big blind) folded before Flop
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225394359:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:03:21 WET [2025/01/06 5:03:21 ET]
+Table 'Tezcatlipoca' 6-max Seat #4 is the button
+Seat 1: b2k-Snick ($105.50 in chips) 
+Seat 2: Nurlanstar92 ($108.47 in chips) 
+Seat 3: sch_band ($106.89 in chips) 
+Seat 4: blistein ($107 in chips) 
+Seat 5: rao999 ($130.39 in chips) 
+Seat 6: steelNike ($100 in chips) 
+rao999: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Nurlanstar92: folds 
+sch_band: calls $1
+blistein: raises $2.50 to $3.50
+rao999: folds 
+steelNike: folds 
+sch_band: calls $2.50
+*** FLOP *** [9d 7d 2d]
+sch_band: bets $4
+blistein: raises $5.77 to $9.77
+sch_band: calls $5.77
+*** TURN *** [9d 7d 2d] [7s]
+sch_band: bets $6
+blistein: raises $17.32 to $23.32
+sch_band: calls $17.32
+*** RIVER *** [9d 7d 2d 7s] [Jc]
+sch_band: bets $15
+blistein: raises $55.41 to $70.41 and is all-in
+sch_band: calls $55.30 and is all-in
+Uncalled bet ($0.11) returned to blistein
+*** SHOW DOWN ***
+blistein: shows [Kd 4d] (a flush, King high)
+sch_band: shows [5s 9s] (two pair, Nines and Sevens)
+blistein collected $212.78 from pot
+*** SUMMARY ***
+Total pot $215.28 | Rake $2.50 
+Board [9d 7d 2d 7s Jc]
+Seat 1: b2k-Snick folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 folded before Flop (didn't bet)
+Seat 3: sch_band showed [5s 9s] and lost with two pair, Nines and Sevens
+Seat 4: blistein (button) showed [Kd 4d] and won ($212.78) with a flush, King high
+Seat 5: rao999 (small blind) folded before Flop
+Seat 6: steelNike (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225404518:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:04:54 WET [2025/01/06 5:04:54 ET]
+Table 'Tezcatlipoca' 6-max Seat #5 is the button
+Seat 3: sch_band ($0 in chips) is sitting out
+Seat 1: b2k-Snick ($105.50 in chips) 
+Seat 2: Nurlanstar92 ($108.47 in chips) 
+Seat 4: blistein ($212.89 in chips) 
+Seat 5: rao999 ($129.89 in chips) 
+Seat 6: steelNike ($99 in chips) 
+steelNike: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Nurlanstar92: folds 
+blistein: folds 
+rao999: raises $1.50 to $2.50
+sch_band is disconnected 
+steelNike: raises $9.50 to $12
+b2k-Snick: folds 
+rao999: folds 
+Uncalled bet ($9.50) returned to steelNike
+steelNike collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: sch_band
+Seat 1: b2k-Snick (big blind) folded before Flop
+Seat 2: Nurlanstar92 folded before Flop (didn't bet)
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: rao999 (button) folded before Flop
+Seat 6: steelNike (small blind) collected ($6)
+
+
+
+PokerStars Hand #254225409663:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:05:42 WET [2025/01/06 5:05:42 ET]
+Table 'Tezcatlipoca' 6-max Seat #6 is the button
+Seat 3: sch_band ($0 in chips) is sitting out
+Seat 1: b2k-Snick ($104.50 in chips) 
+Seat 2: Nurlanstar92 ($108.47 in chips) 
+Seat 4: blistein ($212.89 in chips) 
+Seat 5: rao999 ($127.39 in chips) 
+Seat 6: steelNike ($102.50 in chips) 
+b2k-Snick: posts small blind $0.50
+Nurlanstar92: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+rao999: folds 
+steelNike: folds 
+b2k-Snick: folds 
+Nurlanstar92: folds 
+Uncalled bet ($1.20) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: sch_band
+Seat 1: b2k-Snick (small blind) folded before Flop
+Seat 2: Nurlanstar92 (big blind) folded before Flop
+Seat 4: blistein collected ($2.50)
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225260056:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:41:14 WET [2025/01/06 4:41:14 ET]
+Table 'Tezcatlipoca' 6-max Seat #6 is the button
+Seat 1: valmble ($10.50 in chips) 
+Seat 2: Nurlanstar92 ($100 in chips) 
+Seat 3: sch_band ($82.73 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($9.50 in chips) 
+valmble: posts small blind $0.50
+Nurlanstar92: posts big blind $1
+*** HOLE CARDS ***
+sch_band: calls $1
+blistein: folds 
+rao999: folds 
+steelNike: folds 
+valmble: folds 
+Nurlanstar92: checks 
+*** FLOP *** [9d 2c 8d]
+Nurlanstar92: bets $1.79
+sch_band: calls $1.79
+*** TURN *** [9d 2c 8d] [7d]
+Nurlanstar92: checks 
+sch_band: checks 
+*** RIVER *** [9d 2c 8d 7d] [7c]
+Nurlanstar92: bets $1.91
+sch_band: calls $1.91
+*** SHOW DOWN ***
+Nurlanstar92: shows [9c Jd] (two pair, Nines and Sevens)
+sch_band: mucks hand 
+Nurlanstar92 collected $9.40 from pot
+*** SUMMARY ***
+Total pot $9.90 | Rake $0.50 
+Board [9d 2c 8d 7d 7c]
+Seat 1: valmble (small blind) folded before Flop
+Seat 2: Nurlanstar92 (big blind) showed [9c Jd] and won ($9.40) with two pair, Nines and Sevens
+Seat 3: sch_band mucked
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225263751:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:41:49 WET [2025/01/06 4:41:49 ET]
+Table 'Tezcatlipoca' 6-max Seat #1 is the button
+Seat 1: valmble ($10 in chips) 
+Seat 2: Nurlanstar92 ($104.70 in chips) 
+Seat 3: sch_band ($78.03 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($100 in chips) 
+Nurlanstar92: posts small blind $0.50
+sch_band: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+rao999: folds 
+steelNike: folds 
+valmble: folds 
+Nurlanstar92: folds 
+sch_band: raises $10.80 to $13
+blistein: folds 
+Uncalled bet ($10.80) returned to sch_band
+sch_band collected $4.90 from pot
+sch_band: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0 
+Seat 1: valmble (button) folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 (small blind) folded before Flop
+Seat 3: sch_band (big blind) collected ($4.90)
+Seat 4: blistein folded before Flop
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225266838:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:42:20 WET [2025/01/06 4:42:20 ET]
+Table 'Tezcatlipoca' 6-max Seat #2 is the button
+Seat 1: valmble ($10 in chips) 
+Seat 2: Nurlanstar92 ($104.20 in chips) 
+Seat 3: sch_band ($80.73 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($100 in chips) 
+sch_band: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+steelNike: folds 
+valmble: folds 
+Nurlanstar92: folds 
+sch_band: raises $1 to $2
+blistein: folds 
+Uncalled bet ($1) returned to sch_band
+sch_band collected $2 from pot
+sch_band: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: valmble folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 (button) folded before Flop (didn't bet)
+Seat 3: sch_band (small blind) collected ($2)
+Seat 4: blistein (big blind) folded before Flop
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225269066:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:42:41 WET [2025/01/06 4:42:41 ET]
+Table 'Tezcatlipoca' 6-max Seat #3 is the button
+Seat 1: valmble ($10 in chips) 
+Seat 2: Nurlanstar92 ($104.20 in chips) 
+Seat 3: sch_band ($81.73 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($100 in chips) 
+blistein: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+steelNike: raises $1.50 to $2.50
+valmble: folds 
+Nurlanstar92: folds 
+sch_band: folds 
+blistein: folds 
+rao999: folds 
+Uncalled bet ($1.50) returned to steelNike
+steelNike collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: valmble folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 folded before Flop (didn't bet)
+Seat 3: sch_band (button) folded before Flop (didn't bet)
+Seat 4: blistein (small blind) folded before Flop
+Seat 5: rao999 (big blind) folded before Flop
+Seat 6: steelNike collected ($2.50)
+
+
+
+PokerStars Hand #254225270820:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:42:58 WET [2025/01/06 4:42:58 ET]
+Table 'Tezcatlipoca' 6-max Seat #4 is the button
+Seat 1: valmble ($10 in chips) 
+Seat 2: Nurlanstar92 ($104.20 in chips) 
+Seat 3: sch_band ($81.73 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($101.50 in chips) 
+rao999: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+valmble: folds 
+Nurlanstar92: folds 
+sch_band: raises $1 to $2
+blistein: folds 
+rao999: folds 
+steelNike: folds 
+Uncalled bet ($1) returned to sch_band
+sch_band collected $2.50 from pot
+sch_band: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: valmble folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 folded before Flop (didn't bet)
+Seat 3: sch_band collected ($2.50)
+Seat 4: blistein (button) folded before Flop (didn't bet)
+Seat 5: rao999 (small blind) folded before Flop
+Seat 6: steelNike (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225272686:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:43:16 WET [2025/01/06 4:43:16 ET]
+Table 'Tezcatlipoca' 6-max Seat #5 is the button
+Seat 1: valmble ($10 in chips) 
+Seat 2: Nurlanstar92 ($104.20 in chips) 
+Seat 3: sch_band ($83.23 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($100.50 in chips) 
+steelNike: posts small blind $0.50
+valmble: posts big blind $1
+*** HOLE CARDS ***
+Nurlanstar92: raises $1 to $2
+sch_band: folds 
+blistein: folds 
+rao999: folds 
+steelNike: folds 
+valmble: raises $8 to $10 and is all-in
+Nurlanstar92: folds 
+Uncalled bet ($8) returned to valmble
+valmble collected $4.50 from pot
+valmble: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 1: valmble (big blind) collected ($4.50)
+Seat 2: Nurlanstar92 folded before Flop
+Seat 3: sch_band folded before Flop (didn't bet)
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: rao999 (button) folded before Flop (didn't bet)
+Seat 6: steelNike (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225275256:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:43:42 WET [2025/01/06 4:43:42 ET]
+Table 'Tezcatlipoca' 6-max Seat #6 is the button
+Seat 1: valmble ($12.50 in chips) 
+Seat 2: Nurlanstar92 ($102.20 in chips) 
+Seat 3: sch_band ($83.23 in chips) 
+Seat 4: blistein ($100 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($100 in chips) 
+valmble: posts small blind $0.50
+Nurlanstar92: posts big blind $1
+*** HOLE CARDS ***
+sch_band: calls $1
+blistein: raises $2.50 to $3.50
+rao999: folds 
+steelNike: folds 
+valmble: folds 
+Nurlanstar92: calls $2.50
+sch_band: calls $2.50
+*** FLOP *** [3c 3s 8c]
+Nurlanstar92: checks 
+sch_band: checks 
+blistein: bets $2.61
+Nurlanstar92: folds 
+sch_band: folds 
+Uncalled bet ($2.61) returned to blistein
+blistein collected $10.45 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [3c 3s 8c]
+Seat 1: valmble (small blind) folded before Flop
+Seat 2: Nurlanstar92 (big blind) folded on the Flop
+Seat 3: sch_band folded on the Flop
+Seat 4: blistein collected ($10.45)
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225281159:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:44:39 WET [2025/01/06 4:44:39 ET]
+Table 'Tezcatlipoca' 6-max Seat #1 is the button
+Seat 1: valmble ($12 in chips) 
+Seat 2: Nurlanstar92 ($100 in chips) 
+Seat 3: sch_band ($79.73 in chips) 
+Seat 4: blistein ($106.95 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($100 in chips) 
+Nurlanstar92: posts small blind $0.50
+sch_band: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+rao999: folds 
+steelNike: folds 
+valmble: calls $2.20
+Nurlanstar92: folds 
+sch_band: calls $1.20
+*** FLOP *** [Kd Ts 4c]
+sch_band: bets $7
+blistein: folds 
+valmble: folds 
+Uncalled bet ($7) returned to sch_band
+sch_band collected $6.74 from pot
+sch_band: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.36 
+Board [Kd Ts 4c]
+Seat 1: valmble (button) folded on the Flop
+Seat 2: Nurlanstar92 (small blind) folded before Flop
+Seat 3: sch_band (big blind) collected ($6.74)
+Seat 4: blistein folded on the Flop
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225284666:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:45:13 WET [2025/01/06 4:45:13 ET]
+Table 'Tezcatlipoca' 6-max Seat #2 is the button
+Seat 1: valmble ($9.80 in chips) 
+Seat 2: Nurlanstar92 ($100 in chips) 
+Seat 3: sch_band ($84.27 in chips) 
+Seat 4: blistein ($104.75 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($100 in chips) 
+sch_band: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+steelNike: folds 
+valmble: folds 
+Nurlanstar92: raises $1.50 to $2.50
+sch_band: folds 
+blistein: folds 
+Uncalled bet ($1.50) returned to Nurlanstar92
+Nurlanstar92 collected $2.50 from pot
+Nurlanstar92: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: valmble folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 (button) collected ($2.50)
+Seat 3: sch_band (small blind) folded before Flop
+Seat 4: blistein (big blind) folded before Flop
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225287655:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:45:41 WET [2025/01/06 4:45:41 ET]
+Table 'Tezcatlipoca' 6-max Seat #3 is the button
+Seat 1: valmble ($9.80 in chips) 
+Seat 2: Nurlanstar92 ($101.50 in chips) 
+Seat 3: sch_band ($83.77 in chips) 
+Seat 4: blistein ($103.75 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($100 in chips) 
+blistein: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+valmble: folds 
+Nurlanstar92: folds 
+sch_band: calls $1
+blistein: folds 
+rao999: raises $4 to $5
+sch_band: calls $4
+*** FLOP *** [Ah Js Th]
+rao999: checks 
+sch_band: bets $9
+rao999: calls $9
+*** TURN *** [Ah Js Th] [3h]
+rao999: checks 
+sch_band: bets $11
+rao999: calls $11
+*** RIVER *** [Ah Js Th 3h] [4d]
+rao999: checks 
+sch_band: checks 
+*** SHOW DOWN ***
+rao999: shows [Kh Ac] (a pair of Aces)
+sch_band: shows [As 3c] (two pair, Aces and Threes)
+sch_band collected $48 from pot
+*** SUMMARY ***
+Total pot $50.50 | Rake $2.50 
+Board [Ah Js Th 3h 4d]
+Seat 1: valmble folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 folded before Flop (didn't bet)
+Seat 3: sch_band (button) showed [As 3c] and won ($48) with two pair, Aces and Threes
+Seat 4: blistein (small blind) folded before Flop
+Seat 5: rao999 (big blind) showed [Kh Ac] and lost with a pair of Aces
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225292698:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:46:29 WET [2025/01/06 4:46:29 ET]
+Table 'Tezcatlipoca' 6-max Seat #4 is the button
+Seat 1: valmble ($9.80 in chips) 
+Seat 2: Nurlanstar92 ($101.50 in chips) 
+Seat 3: sch_band ($106.77 in chips) 
+Seat 4: blistein ($103.25 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($100 in chips) 
+rao999: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+valmble: raises $1 to $2
+Nurlanstar92: folds 
+sch_band: folds 
+blistein: folds 
+rao999: folds 
+steelNike: raises $30 to $32
+valmble: calls $7.80 and is all-in
+Uncalled bet ($22.20) returned to steelNike
+*** FLOP *** [7s 3h 6h]
+*** TURN *** [7s 3h 6h] [9d]
+*** RIVER *** [7s 3h 6h 9d] [2d]
+*** SHOW DOWN ***
+steelNike: shows [Kd Ah] (high card Ace)
+valmble: shows [Qs Qh] (a pair of Queens)
+valmble collected $19.10 from pot
+*** SUMMARY ***
+Total pot $20.10 | Rake $1 
+Board [7s 3h 6h 9d 2d]
+Seat 1: valmble showed [Qs Qh] and won ($19.10) with a pair of Queens
+Seat 2: Nurlanstar92 folded before Flop (didn't bet)
+Seat 3: sch_band folded before Flop (didn't bet)
+Seat 4: blistein (button) folded before Flop (didn't bet)
+Seat 5: rao999 (small blind) folded before Flop
+Seat 6: steelNike (big blind) showed [Kd Ah] and lost with high card Ace
+
+
+
+PokerStars Hand #254225295859:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:47:00 WET [2025/01/06 4:47:00 ET]
+Table 'Tezcatlipoca' 6-max Seat #5 is the button
+Seat 1: valmble ($19.10 in chips) is sitting out
+Seat 2: Nurlanstar92 ($101.50 in chips) 
+Seat 3: sch_band ($106.77 in chips) 
+Seat 4: blistein ($103.25 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($90.20 in chips) 
+steelNike: posts small blind $0.50
+valmble: is sitting out 
+Nurlanstar92: posts big blind $1
+*** HOLE CARDS ***
+valmble leaves the table
+sch_band: calls $1
+blistein: raises $2.50 to $3.50
+rao999: folds 
+steelNike: folds 
+Nurlanstar92: folds 
+sch_band: calls $2.50
+*** FLOP *** [Kd 8h 9s]
+sch_band: bets $2
+b2k-Snick joins the table at seat #1 
+blistein: calls $2
+*** TURN *** [Kd 8h 9s] [4h]
+sch_band: bets $2
+blistein: calls $2
+*** RIVER *** [Kd 8h 9s 4h] [Tc]
+sch_band: bets $5
+blistein: raises $25.68 to $30.68
+sch_band: folds 
+Uncalled bet ($25.68) returned to blistein
+blistein collected $25.18 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.50 | Rake $1.32 
+Board [Kd 8h 9s 4h Tc]
+Seat 1: valmble
+Seat 2: Nurlanstar92 (big blind) folded before Flop
+Seat 3: sch_band folded on the River
+Seat 4: blistein collected ($25.18)
+Seat 5: rao999 (button) folded before Flop (didn't bet)
+Seat 6: steelNike (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225307076:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:48:47 WET [2025/01/06 4:48:47 ET]
+Table 'Tezcatlipoca' 6-max Seat #6 is the button
+Seat 1: b2k-Snick ($100 in chips) is sitting out
+Seat 2: Nurlanstar92 ($100.50 in chips) 
+Seat 3: sch_band ($94.27 in chips) 
+Seat 4: blistein ($115.93 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($100 in chips) 
+Nurlanstar92: posts small blind $0.50
+sch_band: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+rao999: raises $1.50 to $2.50
+steelNike: raises $5 to $7.50
+Nurlanstar92: folds 
+sch_band: folds 
+rao999: folds 
+Uncalled bet ($5) returned to steelNike
+steelNike collected $6.50 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: b2k-Snick
+Seat 2: Nurlanstar92 (small blind) folded before Flop
+Seat 3: sch_band (big blind) folded before Flop
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: rao999 folded before Flop
+Seat 6: steelNike (button) collected ($6.50)
+
+
+
+PokerStars Hand #254225308952:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:49:06 WET [2025/01/06 4:49:06 ET]
+Table 'Tezcatlipoca' 6-max Seat #2 is the button
+Seat 1: b2k-Snick ($100 in chips) is sitting out
+Seat 2: Nurlanstar92 ($100 in chips) 
+Seat 3: sch_band ($93.27 in chips) 
+Seat 4: blistein ($115.93 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($104 in chips) 
+sch_band: posts small blind $0.50
+blistein: posts big blind $1
+b2k-Snick: sits out 
+*** HOLE CARDS ***
+rao999: folds 
+steelNike: folds 
+Nurlanstar92: raises $1.50 to $2.50
+sch_band: folds 
+blistein: calls $1.50
+*** FLOP *** [Ah 4d 5s]
+blistein: checks 
+Nurlanstar92: bets $1.72
+blistein: folds 
+Uncalled bet ($1.72) returned to Nurlanstar92
+Nurlanstar92 collected $5.22 from pot
+Nurlanstar92: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Ah 4d 5s]
+Seat 1: b2k-Snick
+Seat 2: Nurlanstar92 (button) collected ($5.22)
+Seat 3: sch_band (small blind) folded before Flop
+Seat 4: blistein (big blind) folded on the Flop
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225313407:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:49:49 WET [2025/01/06 4:49:49 ET]
+Table 'Tezcatlipoca' 6-max Seat #3 is the button
+Seat 1: b2k-Snick ($100 in chips) is sitting out
+Seat 2: Nurlanstar92 ($102.72 in chips) 
+Seat 3: sch_band ($92.77 in chips) 
+Seat 4: blistein ($113.43 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($104 in chips) 
+blistein: posts small blind $0.50
+rao999: posts big blind $1
+b2k-Snick: sits out 
+*** HOLE CARDS ***
+steelNike: raises $1 to $2
+Nurlanstar92: folds 
+sch_band: folds 
+blistein: raises $9 to $11
+rao999: folds 
+steelNike: folds 
+Uncalled bet ($9) returned to blistein
+blistein collected $5 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: b2k-Snick
+Seat 2: Nurlanstar92 folded before Flop (didn't bet)
+Seat 3: sch_band (button) folded before Flop (didn't bet)
+Seat 4: blistein (small blind) collected ($5)
+Seat 5: rao999 (big blind) folded before Flop
+Seat 6: steelNike folded before Flop
+
+
+
+PokerStars Hand #254225316482:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:50:18 WET [2025/01/06 4:50:18 ET]
+Table 'Tezcatlipoca' 6-max Seat #4 is the button
+Seat 1: b2k-Snick ($100 in chips) is sitting out
+Seat 2: Nurlanstar92 ($102.72 in chips) 
+Seat 3: sch_band ($92.77 in chips) 
+Seat 4: blistein ($116.43 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($102 in chips) 
+rao999: posts small blind $0.50
+steelNike: posts big blind $1
+b2k-Snick: sits out 
+*** HOLE CARDS ***
+Nurlanstar92: folds 
+sch_band: folds 
+blistein: folds 
+rao999: raises $2 to $3
+steelNike: folds 
+Uncalled bet ($2) returned to rao999
+rao999 collected $2 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: b2k-Snick
+Seat 2: Nurlanstar92 folded before Flop (didn't bet)
+Seat 3: sch_band folded before Flop (didn't bet)
+Seat 4: blistein (button) folded before Flop (didn't bet)
+Seat 5: rao999 (small blind) collected ($2)
+Seat 6: steelNike (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225317898:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:50:32 WET [2025/01/06 4:50:32 ET]
+Table 'Tezcatlipoca' 6-max Seat #5 is the button
+Seat 1: b2k-Snick ($100 in chips) 
+Seat 2: Nurlanstar92 ($102.72 in chips) 
+Seat 3: sch_band ($92.77 in chips) 
+Seat 4: blistein ($116.43 in chips) 
+Seat 5: rao999 ($101 in chips) 
+Seat 6: steelNike ($101 in chips) 
+steelNike: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Nurlanstar92: folds 
+sch_band: raises $1 to $2
+blistein: folds 
+rao999: raises $5 to $7
+steelNike: folds 
+b2k-Snick: raises $12 to $19
+sch_band: folds 
+rao999: folds 
+Uncalled bet ($12) returned to b2k-Snick
+b2k-Snick collected $16.50 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0 
+Seat 1: b2k-Snick (big blind) collected ($16.50)
+Seat 2: Nurlanstar92 folded before Flop (didn't bet)
+Seat 3: sch_band folded before Flop
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: rao999 (button) folded before Flop
+Seat 6: steelNike (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225321405:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:51:07 WET [2025/01/06 4:51:07 ET]
+Table 'Tezcatlipoca' 6-max Seat #6 is the button
+Seat 1: b2k-Snick ($109.50 in chips) 
+Seat 2: Nurlanstar92 ($102.72 in chips) 
+Seat 3: sch_band ($90.77 in chips) 
+Seat 4: blistein ($116.43 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($100.50 in chips) 
+b2k-Snick: posts small blind $0.50
+Nurlanstar92: posts big blind $1
+*** HOLE CARDS ***
+sch_band: raises $7 to $8
+blistein: folds 
+rao999: folds 
+steelNike: folds 
+b2k-Snick: folds 
+Nurlanstar92: folds 
+Uncalled bet ($7) returned to sch_band
+sch_band collected $2.50 from pot
+sch_band: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: b2k-Snick (small blind) folded before Flop
+Seat 2: Nurlanstar92 (big blind) folded before Flop
+Seat 3: sch_band collected ($2.50)
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225324294:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:51:34 WET [2025/01/06 4:51:34 ET]
+Table 'Tezcatlipoca' 6-max Seat #1 is the button
+Seat 1: b2k-Snick ($109 in chips) 
+Seat 2: Nurlanstar92 ($101.72 in chips) 
+Seat 3: sch_band ($92.27 in chips) 
+Seat 4: blistein ($116.43 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($100.50 in chips) 
+Nurlanstar92: posts small blind $0.50
+sch_band: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+rao999: folds 
+steelNike: raises $1.30 to $2.30
+b2k-Snick: folds 
+Nurlanstar92: folds 
+sch_band: raises $1.70 to $4
+steelNike: calls $1.70
+*** FLOP *** [Jc 8d Ac]
+sch_band: bets $10
+steelNike: folds 
+Uncalled bet ($10) returned to sch_band
+sch_band collected $8.08 from pot
+sch_band: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [Jc 8d Ac]
+Seat 1: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 (small blind) folded before Flop
+Seat 3: sch_band (big blind) collected ($8.08)
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike folded on the Flop
+
+
+
+PokerStars Hand #254225327482:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:52:05 WET [2025/01/06 4:52:05 ET]
+Table 'Tezcatlipoca' 6-max Seat #2 is the button
+Seat 1: b2k-Snick ($109 in chips) 
+Seat 2: Nurlanstar92 ($101.22 in chips) 
+Seat 3: sch_band ($96.35 in chips) 
+Seat 4: blistein ($116.43 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($96.50 in chips) 
+sch_band: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+steelNike: folds 
+b2k-Snick: folds 
+Nurlanstar92: raises $1.50 to $2.50
+sch_band: folds 
+blistein: folds 
+Uncalled bet ($1.50) returned to Nurlanstar92
+Nurlanstar92 collected $2.50 from pot
+Nurlanstar92: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: b2k-Snick folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 (button) collected ($2.50)
+Seat 3: sch_band (small blind) folded before Flop
+Seat 4: blistein (big blind) folded before Flop
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225329794:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:52:26 WET [2025/01/06 4:52:26 ET]
+Table 'Tezcatlipoca' 6-max Seat #3 is the button
+Seat 1: b2k-Snick ($109 in chips) 
+Seat 2: Nurlanstar92 ($102.72 in chips) 
+Seat 3: sch_band ($95.85 in chips) 
+Seat 4: blistein ($115.43 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($96.50 in chips) 
+blistein: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+steelNike: raises $1 to $2
+b2k-Snick: folds 
+Nurlanstar92: folds 
+sch_band: folds 
+blistein: folds 
+rao999: folds 
+Uncalled bet ($1) returned to steelNike
+steelNike collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: b2k-Snick folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 folded before Flop (didn't bet)
+Seat 3: sch_band (button) folded before Flop (didn't bet)
+Seat 4: blistein (small blind) folded before Flop
+Seat 5: rao999 (big blind) folded before Flop
+Seat 6: steelNike collected ($2.50)
+
+
+
+PokerStars Hand #254225331841:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:52:45 WET [2025/01/06 4:52:45 ET]
+Table 'Tezcatlipoca' 6-max Seat #4 is the button
+Seat 1: b2k-Snick ($109 in chips) 
+Seat 2: Nurlanstar92 ($102.72 in chips) 
+Seat 3: sch_band ($95.85 in chips) 
+Seat 4: blistein ($114.93 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($98 in chips) 
+rao999: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Nurlanstar92: raises $1 to $2
+sch_band: folds 
+blistein: folds 
+rao999: folds 
+steelNike: folds 
+Uncalled bet ($1) returned to Nurlanstar92
+Nurlanstar92 collected $2.50 from pot
+Nurlanstar92: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: b2k-Snick folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 collected ($2.50)
+Seat 3: sch_band folded before Flop (didn't bet)
+Seat 4: blistein (button) folded before Flop (didn't bet)
+Seat 5: rao999 (small blind) folded before Flop
+Seat 6: steelNike (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225333533:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:53:02 WET [2025/01/06 4:53:02 ET]
+Table 'Tezcatlipoca' 6-max Seat #5 is the button
+Seat 1: b2k-Snick ($109 in chips) 
+Seat 2: Nurlanstar92 ($104.22 in chips) 
+Seat 3: sch_band ($95.85 in chips) 
+Seat 4: blistein ($114.93 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($97 in chips) 
+steelNike: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Nurlanstar92: folds 
+sch_band: folds 
+blistein: folds 
+rao999: folds 
+steelNike: raises $2 to $3
+b2k-Snick: calls $2
+*** FLOP *** [5c Tc Qs]
+steelNike: bets $1.43
+b2k-Snick: folds 
+Uncalled bet ($1.43) returned to steelNike
+steelNike collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [5c Tc Qs]
+Seat 1: b2k-Snick (big blind) folded on the Flop
+Seat 2: Nurlanstar92 folded before Flop (didn't bet)
+Seat 3: sch_band folded before Flop (didn't bet)
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: rao999 (button) folded before Flop (didn't bet)
+Seat 6: steelNike (small blind) collected ($5.70)
+
+
+
+PokerStars Hand #254225337767:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:53:43 WET [2025/01/06 4:53:43 ET]
+Table 'Tezcatlipoca' 6-max Seat #6 is the button
+Seat 1: b2k-Snick ($106 in chips) 
+Seat 2: Nurlanstar92 ($104.22 in chips) 
+Seat 3: sch_band ($95.85 in chips) 
+Seat 4: blistein ($114.93 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($99.70 in chips) 
+b2k-Snick: posts small blind $0.50
+Nurlanstar92: posts big blind $1
+*** HOLE CARDS ***
+sch_band: folds 
+blistein: folds 
+rao999: raises $1.50 to $2.50
+steelNike: folds 
+b2k-Snick: folds 
+Nurlanstar92: calls $1.50
+*** FLOP *** [Qc Th 8s]
+Nurlanstar92: checks 
+rao999: bets $3.92
+Nurlanstar92: raises $9.08 to $13
+rao999: folds 
+Uncalled bet ($9.08) returned to Nurlanstar92
+Nurlanstar92 collected $12.67 from pot
+Nurlanstar92: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [Qc Th 8s]
+Seat 1: b2k-Snick (small blind) folded before Flop
+Seat 2: Nurlanstar92 (big blind) collected ($12.67)
+Seat 3: sch_band folded before Flop (didn't bet)
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: rao999 folded on the Flop
+Seat 6: steelNike (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225347124:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:55:11 WET [2025/01/06 4:55:11 ET]
+Table 'Tezcatlipoca' 6-max Seat #1 is the button
+Seat 1: b2k-Snick ($105.50 in chips) 
+Seat 2: Nurlanstar92 ($110.47 in chips) 
+Seat 3: sch_band ($95.85 in chips) 
+Seat 4: blistein ($114.93 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($99.70 in chips) 
+Nurlanstar92: posts small blind $0.50
+sch_band: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+rao999: folds 
+steelNike: folds 
+b2k-Snick: folds 
+Nurlanstar92: folds 
+sch_band: raises $3.20 to $5.40
+blistein: calls $3.20
+*** FLOP *** [6c Ad Qs]
+sch_band: bets $15
+blistein: folds 
+Uncalled bet ($15) returned to sch_band
+sch_band collected $10.74 from pot
+sch_band: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.30 | Rake $0.56 
+Board [6c Ad Qs]
+Seat 1: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 (small blind) folded before Flop
+Seat 3: sch_band (big blind) collected ($10.74)
+Seat 4: blistein folded on the Flop
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225351633:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:56:01 WET [2025/01/06 4:56:01 ET]
+Table 'Tezcatlipoca' 6-max Seat #2 is the button
+Seat 1: b2k-Snick ($105.50 in chips) 
+Seat 2: Nurlanstar92 ($109.97 in chips) 
+Seat 3: sch_band ($101.19 in chips) 
+Seat 4: blistein ($109.53 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($99.70 in chips) 
+sch_band: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+steelNike: folds 
+b2k-Snick: folds 
+Nurlanstar92: folds 
+sch_band: calls $0.50
+blistein: raises $2.50 to $3.50
+sch_band: calls $2.50
+*** FLOP *** [4d 6d 2d]
+sch_band: checks 
+blistein: checks 
+*** TURN *** [4d 6d 2d] [3s]
+sch_band: bets $3
+blistein: folds 
+Uncalled bet ($3) returned to sch_band
+sch_band collected $6.65 from pot
+sch_band: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [4d 6d 2d 3s]
+Seat 1: b2k-Snick folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 (button) folded before Flop (didn't bet)
+Seat 3: sch_band (small blind) collected ($6.65)
+Seat 4: blistein (big blind) folded on the Turn
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225355955:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 9:56:49 WET [2025/01/06 4:56:49 ET]
+Table 'Tezcatlipoca' 6-max Seat #3 is the button
+Seat 1: b2k-Snick ($105.50 in chips) 
+Seat 2: Nurlanstar92 ($109.97 in chips) 
+Seat 3: sch_band ($104.34 in chips) 
+Seat 4: blistein ($106.03 in chips) 
+Seat 5: rao999 ($100 in chips) 
+Seat 6: steelNike ($99.70 in chips) 
+blistein: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+b2k-Snick: folds 
+Nurlanstar92: folds 
+sch_band: folds 
+blistein: raises $2 to $3
+rao999: calls $2
+*** FLOP *** [4c Ah 6d]
+blistein: bets $1.94
+rao999: calls $1.94
+*** TURN *** [4c Ah 6d] [Tc]
+blistein: checks 
+rao999: bets $3.10
+blistein: calls $3.10
+*** RIVER *** [4c Ah 6d Tc] [Kd]
+blistein: bets $10.24
+rao999 has timed out
+rao999: folds 
+Uncalled bet ($10.24) returned to blistein
+blistein collected $15.28 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.08 | Rake $0.80 
+Board [4c Ah 6d Tc Kd]
+Seat 1: b2k-Snick folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 folded before Flop (didn't bet)
+Seat 3: sch_band (button) folded before Flop (didn't bet)
+Seat 4: blistein (small blind) collected ($15.28)
+Seat 5: rao999 (big blind) folded on the River
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225380964:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:01:16 WET [2025/01/06 5:01:16 ET]
+Table 'Tezcatlipoca' 6-max Seat #1 is the button
+Seat 1: b2k-Snick ($104 in chips) 
+Seat 2: Nurlanstar92 ($108.97 in chips) 
+Seat 3: sch_band ($104.34 in chips) 
+Seat 4: blistein ($114.77 in chips) 
+Seat 5: rao999 ($116.14 in chips) 
+Seat 6: steelNike ($100 in chips) 
+Nurlanstar92: posts small blind $0.50
+sch_band: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+rao999: folds 
+steelNike: raises $1.30 to $2.30
+b2k-Snick: folds 
+Nurlanstar92: folds 
+sch_band: raises $3.30 to $5.60
+steelNike: calls $3.30
+*** FLOP *** [Qh Ac 4c]
+sch_band: bets $3
+steelNike: calls $3
+*** TURN *** [Qh Ac 4c] [3c]
+sch_band: bets $4
+steelNike: calls $4
+*** RIVER *** [Qh Ac 4c 3c] [7d]
+sch_band: checks 
+steelNike: checks 
+*** SHOW DOWN ***
+sch_band: shows [Kc Ks] (a pair of Kings)
+steelNike: mucks hand 
+sch_band collected $24.42 from pot
+*** SUMMARY ***
+Total pot $25.70 | Rake $1.28 
+Board [Qh Ac 4c 3c 7d]
+Seat 1: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 2: Nurlanstar92 (small blind) folded before Flop
+Seat 3: sch_band (big blind) showed [Kc Ks] and won ($24.42) with a pair of Kings
+Seat 4: blistein folded before Flop (didn't bet)
+Seat 5: rao999 folded before Flop (didn't bet)
+Seat 6: steelNike mucked
+
+
+
+PokerStars Hand #254230319620:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:23:22 WET [2025/01/06 12:23:22 ET]
+Table 'Tezcatlipoca II' 6-max Seat #6 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 6: radu10101 ($31.14 in chips) 
+radu10101: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+radu10101: calls $0.50
+Joker007r joins the table at seat #2 
+blistein: checks 
+*** FLOP *** [9c Jc 3d]
+blistein: checks 
+radu10101: bets $2
+blistein: folds 
+Uncalled bet ($2) returned to radu10101
+radu10101 collected $1.90 from pot
+sta$igk joins the table at seat #3 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [9c Jc 3d]
+Seat 1: blistein (big blind) folded on the Flop
+Seat 6: radu10101 (button) (small blind) collected ($1.90)
+
+
+
+PokerStars Hand #254230324732:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:23:40 WET [2025/01/06 12:23:40 ET]
+Table 'Tezcatlipoca II' 6-max Seat #6 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: Joker007r ($100 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 6: radu10101 ($32.04 in chips) 
+blistein: posts small blind $0.50
+Joker007r: posts big blind $1
+sta$igk is connected 
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+Pippa83 joins the table at seat #5 
+sta$igk: raises $1.50 to $2.50
+radu10101: folds 
+pantaru161 joins the table at seat #4 
+blistein: folds 
+Joker007r: folds 
+Uncalled bet ($1.50) returned to sta$igk
+sta$igk collected $2.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: Joker007r (big blind) folded before Flop
+Seat 3: sta$igk collected ($2.50)
+Seat 6: radu10101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254230328564:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:23:53 WET [2025/01/06 12:23:53 ET]
+Table 'Tezcatlipoca II' 6-max Seat #1 is the button
+Seat 5: Pippa83 ($100 in chips) is sitting out
+Seat 1: blistein ($100 in chips) 
+Seat 2: Joker007r ($100 in chips) 
+Seat 3: sta$igk ($101.50 in chips) 
+Seat 4: pantaru161 ($19.81 in chips) 
+Seat 6: radu10101 ($32.04 in chips) 
+Joker007r: posts small blind $0.50
+sta$igk: posts big blind $1
+pantaru161: posts big blind $1
+Pippa83: sits out 
+*** HOLE CARDS ***
+pantaru161: raises $2 to $3
+radu10101: folds 
+blistein: folds 
+Joker007r: folds 
+sta$igk: folds 
+Uncalled bet ($2) returned to pantaru161
+pantaru161 collected $2.50 from pot
+pantaru161: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: Pippa83
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: Joker007r (small blind) folded before Flop
+Seat 3: sta$igk (big blind) folded before Flop
+Seat 4: pantaru161 collected ($2.50)
+Seat 6: radu10101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254230333786:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:24:10 WET [2025/01/06 12:24:10 ET]
+Table 'Tezcatlipoca II' 6-max Seat #2 is the button
+Seat 5: Pippa83 ($100 in chips) is sitting out
+Seat 1: blistein ($100 in chips) 
+Seat 2: Joker007r ($100 in chips) 
+Seat 3: sta$igk ($100.50 in chips) 
+Seat 4: pantaru161 ($21.31 in chips) 
+Seat 6: radu10101 ($32.04 in chips) 
+sta$igk: posts small blind $0.50
+pantaru161: posts big blind $1
+Pippa83: sits out 
+*** HOLE CARDS ***
+radu10101: folds 
+blistein: folds 
+Joker007r: raises $1.50 to $2.50
+sta$igk: folds 
+pantaru161: raises $18.81 to $21.31 and is all-in
+Joker007r: calls $18.81
+*** FLOP *** [2s 9c 6h]
+*** TURN *** [2s 9c 6h] [Td]
+*** RIVER *** [2s 9c 6h Td] [3s]
+*** SHOW DOWN ***
+pantaru161: shows [Ah 4c] (high card Ace)
+Joker007r: shows [Js Jc] (a pair of Jacks)
+Joker007r collected $40.96 from pot
+*** SUMMARY ***
+Total pot $43.12 | Rake $2.16 
+Board [2s 9c 6h Td 3s]
+Seat 5: Pippa83
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: Joker007r (button) showed [Js Jc] and won ($40.96) with a pair of Jacks
+Seat 3: sta$igk (small blind) folded before Flop
+Seat 4: pantaru161 (big blind) showed [Ah 4c] and lost with high card Ace
+Seat 6: radu10101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254230340688:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:24:33 WET [2025/01/06 12:24:33 ET]
+Table 'Tezcatlipoca II' 6-max Seat #3 is the button
+Seat 4: pantaru161 ($0 in chips) is sitting out
+Seat 5: Pippa83 ($100 in chips) is sitting out
+Seat 1: blistein ($100 in chips) 
+Seat 2: Joker007r ($119.65 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 6: radu10101 ($32.04 in chips) 
+radu10101: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Joker007r: raises $1.50 to $2.50
+sta$igk: folds 
+pantaru161 leaves the table
+radu10101: folds 
+blistein: folds 
+Uncalled bet ($1.50) returned to Joker007r
+Joker007r collected $2.50 from pot
+Joker007r: doesn't show hand 
+shootingGRID joins the table at seat #4 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: pantaru161
+Seat 5: Pippa83
+Seat 1: blistein (big blind) folded before Flop
+Seat 2: Joker007r collected ($2.50)
+Seat 3: sta$igk (button) folded before Flop (didn't bet)
+Seat 6: radu10101 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254230344932:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:24:48 WET [2025/01/06 12:24:48 ET]
+Table 'Tezcatlipoca II' 6-max Seat #6 is the button
+Seat 4: shootingGRID ($100 in chips) is sitting out
+Seat 5: Pippa83 ($100 in chips) is sitting out
+Seat 1: blistein ($100 in chips) 
+Seat 2: Joker007r ($121.15 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 6: radu10101 ($31.54 in chips) 
+blistein: posts small blind $0.50
+Joker007r: posts big blind $1
+shootingGRID: sits out 
+Pippa83: sits out 
+*** HOLE CARDS ***
+sta$igk: folds 
+radu10101: calls $1
+blistein: folds 
+Joker007r: checks 
+*** FLOP *** [As 2s 4c]
+Joker007r: checks 
+radu10101: bets $1
+Joker007r: calls $1
+*** TURN *** [As 2s 4c] [8c]
+Joker007r: checks 
+radu10101: checks 
+*** RIVER *** [As 2s 4c 8c] [Ah]
+Joker007r: checks 
+radu10101: checks 
+*** SHOW DOWN ***
+Joker007r: shows [4s 3h] (two pair, Aces and Fours)
+radu10101: shows [8d 5h] (two pair, Aces and Eights)
+radu10101 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [As 2s 4c 8c Ah]
+Seat 4: shootingGRID
+Seat 5: Pippa83
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: Joker007r (big blind) showed [4s 3h] and lost with two pair, Aces and Fours
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 6: radu10101 (button) showed [8d 5h] and won ($4.28) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #254230353515:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:25:17 WET [2025/01/06 12:25:17 ET]
+Table 'Tezcatlipoca II' 6-max Seat #1 is the button
+Seat 4: shootingGRID ($100 in chips) is sitting out
+Seat 5: Pippa83 ($100 in chips) is sitting out
+Seat 1: blistein ($100 in chips) 
+Seat 2: Joker007r ($119.15 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 6: radu10101 ($33.82 in chips) 
+Joker007r: posts small blind $0.50
+sta$igk: posts big blind $1
+shootingGRID: sits out 
+Pippa83: sits out 
+*** HOLE CARDS ***
+radu10101: folds 
+blistein: raises $1.50 to $2.50
+Joker007r: raises $8.50 to $11
+sta$igk: folds 
+blistein: calls $8.50
+*** FLOP *** [3c 7s Qd]
+Joker007r: bets $7.26
+blistein: calls $7.26
+*** TURN *** [3c 7s Qd] [Qc]
+Joker007r: bets $18.99
+blistein: calls $18.99
+*** RIVER *** [3c 7s Qd Qc] [5s]
+Joker007r: bets $81.90 and is all-in
+blistein: folds 
+Uncalled bet ($81.90) returned to Joker007r
+Joker007r collected $74.50 from pot
+Joker007r: doesn't show hand 
+*** SUMMARY ***
+Total pot $75.50 | Rake $1 
+Board [3c 7s Qd Qc 5s]
+Seat 4: shootingGRID
+Seat 5: Pippa83
+Seat 1: blistein (button) folded on the River
+Seat 2: Joker007r (small blind) collected ($74.50)
+Seat 3: sta$igk (big blind) folded before Flop
+Seat 6: radu10101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254230387364:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:27:11 WET [2025/01/06 12:27:11 ET]
+Table 'Tezcatlipoca II' 6-max Seat #2 is the button
+Seat 5: Pippa83 ($100 in chips) is sitting out
+Seat 1: blistein ($100 in chips) 
+Seat 2: Joker007r ($156.40 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 6: radu10101 ($33.82 in chips) 
+sta$igk: posts small blind $0.50
+shootingGRID: posts big blind $1
+Pippa83: sits out 
+*** HOLE CARDS ***
+radu10101: folds 
+blistein: folds 
+Joker007r: raises $1.50 to $2.50
+sta$igk: folds 
+shootingGRID: folds 
+Uncalled bet ($1.50) returned to Joker007r
+Joker007r collected $2.50 from pot
+Joker007r: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: Pippa83
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: Joker007r (button) collected ($2.50)
+Seat 3: sta$igk (small blind) folded before Flop
+Seat 4: shootingGRID (big blind) folded before Flop
+Seat 6: radu10101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254230393156:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:27:30 WET [2025/01/06 12:27:30 ET]
+Table 'Tezcatlipoca II' 6-max Seat #3 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: Joker007r ($157.90 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: Pippa83 ($100 in chips) 
+Seat 6: radu10101 ($33.82 in chips) 
+shootingGRID: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+radu10101: folds 
+blistein: raises $1.20 to $2.20
+Joker007r: folds 
+sta$igk: folds 
+shootingGRID: folds 
+Pippa83: folds 
+Uncalled bet ($1.20) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein collected ($2.50)
+Seat 2: Joker007r folded before Flop (didn't bet)
+Seat 3: sta$igk (button) folded before Flop (didn't bet)
+Seat 4: shootingGRID (small blind) folded before Flop
+Seat 5: Pippa83 (big blind) folded before Flop
+Seat 6: radu10101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254230401415:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:27:58 WET [2025/01/06 12:27:58 ET]
+Table 'Tezcatlipoca II' 6-max Seat #4 is the button
+Seat 1: blistein ($101.50 in chips) 
+Seat 2: Joker007r ($157.90 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: Pippa83 ($100 in chips) 
+Seat 6: radu10101 ($33.82 in chips) 
+Pippa83: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Joker007r: folds 
+sta$igk: folds 
+shootingGRID: folds 
+Pippa83: folds 
+Uncalled bet ($0.50) returned to radu10101
+radu10101 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: Joker007r folded before Flop (didn't bet)
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 4: shootingGRID (button) folded before Flop (didn't bet)
+Seat 5: Pippa83 (small blind) folded before Flop
+Seat 6: radu10101 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254230406383:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:28:14 WET [2025/01/06 12:28:14 ET]
+Table 'Tezcatlipoca II' 6-max Seat #5 is the button
+Seat 1: blistein ($101.50 in chips) 
+Seat 2: Joker007r ($157.90 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: Pippa83 ($100 in chips) 
+Seat 6: radu10101 ($34.32 in chips) 
+radu10101: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Joker007r: folds 
+sta$igk: folds 
+shootingGRID: folds 
+Pippa83: raises $1.50 to $2.50
+radu10101: calls $2
+blistein: raises $10.50 to $13
+Pippa83: folds 
+radu10101: folds 
+Uncalled bet ($10.50) returned to blistein
+blistein collected $7.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: blistein (big blind) collected ($7.50)
+Seat 2: Joker007r folded before Flop (didn't bet)
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: Pippa83 (button) folded before Flop
+Seat 6: radu10101 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254230413631:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:28:39 WET [2025/01/06 12:28:39 ET]
+Table 'Tezcatlipoca II' 6-max Seat #6 is the button
+Seat 1: blistein ($106.50 in chips) 
+Seat 2: Joker007r ($157.90 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: Pippa83 ($100 in chips) 
+Seat 6: radu10101 ($31.82 in chips) 
+blistein: posts small blind $0.50
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+shootingGRID: folds 
+Pippa83: folds 
+radu10101: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to Joker007r
+Joker007r collected $1 from pot
+Joker007r: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: Joker007r (big blind) collected ($1)
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: Pippa83 folded before Flop (didn't bet)
+Seat 6: radu10101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254230417257:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:28:51 WET [2025/01/06 12:28:51 ET]
+Table 'Tezcatlipoca II' 6-max Seat #1 is the button
+Seat 1: blistein ($106 in chips) 
+Seat 2: Joker007r ($158.40 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: Pippa83 ($100 in chips) 
+Seat 6: radu10101 ($31.82 in chips) 
+Joker007r: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+Pippa83: raises $1.20 to $2.20
+radu10101: folds 
+blistein: folds 
+Joker007r: folds 
+sta$igk: folds 
+Uncalled bet ($1.20) returned to Pippa83
+Pippa83 collected $2.50 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: Joker007r (small blind) folded before Flop
+Seat 3: sta$igk (big blind) folded before Flop
+Seat 4: shootingGRID folded before Flop (didn't bet)
+Seat 5: Pippa83 collected ($2.50)
+Seat 6: radu10101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254230422353:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:29:08 WET [2025/01/06 12:29:08 ET]
+Table 'Tezcatlipoca II' 6-max Seat #2 is the button
+Seat 1: blistein ($106 in chips) 
+Seat 2: Joker007r ($157.90 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: Pippa83 ($101.50 in chips) 
+Seat 6: radu10101 ($31.82 in chips) 
+sta$igk: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: raises $1.20 to $2.20
+radu10101: calls $2.20
+blistein: folds 
+Joker007r: folds 
+sta$igk: folds 
+shootingGRID: folds 
+*** FLOP *** [As 4c Ks]
+Pippa83: bets $1.12
+radu10101: calls $1.12
+*** TURN *** [As 4c Ks] [Qd]
+Pippa83: checks 
+radu10101: checks 
+*** RIVER *** [As 4c Ks Qd] [6s]
+Pippa83: bets $3.50
+radu10101: calls $3.50
+*** SHOW DOWN ***
+Pippa83: shows [8c 7c] (high card Ace)
+radu10101: shows [Jc Jh] (a pair of Jacks)
+radu10101 collected $14.38 from pot
+*** SUMMARY ***
+Total pot $15.14 | Rake $0.76 
+Board [As 4c Ks Qd 6s]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: Joker007r (button) folded before Flop (didn't bet)
+Seat 3: sta$igk (small blind) folded before Flop
+Seat 4: shootingGRID (big blind) folded before Flop
+Seat 5: Pippa83 showed [8c 7c] and lost with high card Ace
+Seat 6: radu10101 showed [Jc Jh] and won ($14.38) with a pair of Jacks
+
+
+
+PokerStars Hand #254230434181:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:29:48 WET [2025/01/06 12:29:48 ET]
+Table 'Tezcatlipoca II' 6-max Seat #3 is the button
+Seat 1: blistein ($106 in chips) 
+Seat 2: Joker007r ($157.90 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: Pippa83 ($100 in chips) 
+Seat 6: radu10101 ($39.38 in chips) 
+shootingGRID: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+radu10101: folds 
+blistein: raises $1.20 to $2.20
+Joker007r: folds 
+sta$igk: folds 
+shootingGRID: folds 
+Pippa83: folds 
+Uncalled bet ($1.20) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein collected ($2.50)
+Seat 2: Joker007r folded before Flop (didn't bet)
+Seat 3: sta$igk (button) folded before Flop (didn't bet)
+Seat 4: shootingGRID (small blind) folded before Flop
+Seat 5: Pippa83 (big blind) folded before Flop
+Seat 6: radu10101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254230439621:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:30:04 WET [2025/01/06 12:30:04 ET]
+Table 'Tezcatlipoca II' 6-max Seat #4 is the button
+Seat 1: blistein ($107.50 in chips) 
+Seat 2: Joker007r ($157.90 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: Pippa83 ($100 in chips) 
+Seat 6: radu10101 ($39.38 in chips) 
+Pippa83: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Joker007r: folds 
+sta$igk: raises $1.50 to $2.50
+shootingGRID: folds 
+Pippa83: calls $2
+radu10101: folds 
+*** FLOP *** [Ad Th 7h]
+Pippa83: checks 
+sta$igk: bets $2.85
+radu10101 leaves the table
+Pippa83: folds 
+Uncalled bet ($2.85) returned to sta$igk
+sta$igk collected $5.70 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ad Th 7h]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: Joker007r folded before Flop (didn't bet)
+Seat 3: sta$igk collected ($5.70)
+Seat 4: shootingGRID (button) folded before Flop (didn't bet)
+Seat 5: Pippa83 (small blind) folded on the Flop
+Seat 6: radu10101 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254230448486:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:30:34 WET [2025/01/06 12:30:34 ET]
+Table 'Tezcatlipoca II' 6-max Seat #5 is the button
+Seat 2: Joker007r ($157.90 in chips) is sitting out
+Seat 3: sta$igk ($103.20 in chips) is sitting out
+Seat 1: blistein ($107.50 in chips) 
+Seat 4: shootingGRID ($100 in chips) 
+Seat 5: Pippa83 ($100 in chips) 
+blistein: posts small blind $0.50
+Joker007r: is sitting out 
+sta$igk: is sitting out 
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+Joker007r leaves the table
+sta$igk leaves the table
+Pippa83 leaves the table
+blistein: folds 
+Uncalled bet ($0.50) returned to shootingGRID
+shootingGRID collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Joker007r
+Seat 3: sta$igk
+Seat 1: blistein (small blind) folded before Flop
+Seat 4: shootingGRID (big blind) collected ($1)
+Seat 5: Pippa83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254230451311:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 17:30:43 WET [2025/01/06 12:30:43 ET]
+Table 'Tezcatlipoca II' 6-max Seat #4 is the button
+Seat 1: blistein ($107 in chips) 
+Seat 4: shootingGRID ($100.50 in chips) 
+shootingGRID: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: raises $1.25 to $2.25
+blistein: calls $1.25
+*** FLOP *** [Js 3c 6h]
+blistein: checks 
+shootingGRID: checks 
+*** TURN *** [Js 3c 6h] [Ah]
+blistein: checks 
+shootingGRID: checks 
+*** RIVER *** [Js 3c 6h Ah] [4c]
+blistein: bets $3.21
+shootingGRID: folds 
+Uncalled bet ($3.21) returned to blistein
+blistein collected $4.28 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Js 3c 6h Ah 4c]
+Seat 1: blistein (big blind) collected ($4.28)
+Seat 4: shootingGRID (button) (small blind) folded on the River
+
+
+

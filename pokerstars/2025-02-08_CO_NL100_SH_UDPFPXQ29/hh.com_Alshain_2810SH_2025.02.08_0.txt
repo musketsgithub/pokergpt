@@ -1,0 +1,765 @@
+﻿PokerStars Hand #254765454658:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:12:53 WET [2025/02/08 9:12:53 ET]
+Table 'Alshain' 6-max Seat #3 is the button
+Seat 5: vitalik_sw ($145.87 in chips) is sitting out
+Seat 1: Burlica2013 ($109.31 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($85.02 in chips) 
+Seat 4: Emily_GetMan ($104.90 in chips) 
+Seat 6: skanb ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+vitalik_sw: is sitting out 
+skanb: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+Rysiff: raises $1.50 to $2.50
+River0203: folds 
+Emily_GetMan: folds 
+skanb: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: vitalik_sw
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: Rysiff collected ($2.50)
+Seat 3: River0203 (button) folded before Flop (didn't bet)
+Seat 4: Emily_GetMan (small blind) folded before Flop
+Seat 6: skanb (big blind) folded before Flop
+
+
+
+PokerStars Hand #254765458502:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:13:13 WET [2025/02/08 9:13:13 ET]
+Table 'Alshain' 6-max Seat #4 is the button
+Seat 5: vitalik_sw ($145.87 in chips) is sitting out
+Seat 1: Burlica2013 ($109.31 in chips) 
+Seat 2: Rysiff ($101.50 in chips) 
+Seat 3: River0203 ($85.02 in chips) 
+Seat 4: Emily_GetMan ($104.40 in chips) 
+Seat 6: skanb ($100 in chips) 
+skanb: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+River0203: folds 
+Emily_GetMan: folds 
+skanb: folds 
+Uncalled bet ($0.50) returned to Burlica2013
+Burlica2013 collected $1 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: vitalik_sw
+Seat 1: Burlica2013 (big blind) collected ($1)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: River0203 folded before Flop (didn't bet)
+Seat 4: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 6: skanb (small blind) folded before Flop
+
+
+
+PokerStars Hand #254765461597:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:13:29 WET [2025/02/08 9:13:29 ET]
+Table 'Alshain' 6-max Seat #6 is the button
+Seat 5: vitalik_sw ($145.87 in chips) is sitting out
+Seat 1: Burlica2013 ($109.81 in chips) 
+Seat 2: Rysiff ($101.50 in chips) 
+Seat 3: River0203 ($85.02 in chips) 
+Seat 4: Emily_GetMan ($104.40 in chips) 
+Seat 6: skanb ($100 in chips) 
+Burlica2013: posts small blind $0.50
+Rysiff: posts big blind $1
+vitalik_sw: sits out 
+*** HOLE CARDS ***
+River0203: calls $1
+Emily_GetMan: folds 
+skanb: folds 
+Burlica2013: folds 
+Rysiff: raises $4 to $5
+River0203: calls $4
+*** FLOP *** [9d 4h Kh]
+Rysiff: bets $3.29
+River0203: calls $3.29
+*** TURN *** [9d 4h Kh] [6s]
+Rysiff: checks 
+River0203: bets $19
+Rysiff: folds 
+Uncalled bet ($19) returned to River0203
+River0203 collected $16.23 from pot
+*** SUMMARY ***
+Total pot $17.08 | Rake $0.85 
+Board [9d 4h Kh 6s]
+Seat 5: vitalik_sw
+Seat 1: Burlica2013 (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded on the Turn
+Seat 3: River0203 collected ($16.23)
+Seat 4: Emily_GetMan folded before Flop (didn't bet)
+Seat 6: skanb (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254765469339:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:14:08 WET [2025/02/08 9:14:08 ET]
+Table 'Alshain' 6-max Seat #1 is the button
+Seat 5: vitalik_sw ($145.87 in chips) is sitting out
+Seat 1: Burlica2013 ($109.31 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($92.96 in chips) 
+Seat 4: Emily_GetMan ($104.40 in chips) 
+Seat 6: skanb ($100 in chips) 
+Rysiff: posts small blind $0.50
+River0203: posts big blind $1
+vitalik_sw: sits out 
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+skanb: folds 
+Burlica2013: raises $1.45 to $2.45
+Rysiff: folds 
+River0203: calls $1.45
+*** FLOP *** [6c Jd 2h]
+River0203: checks 
+Burlica2013: bets $1.69
+River0203: calls $1.69
+*** TURN *** [6c Jd 2h] [Kd]
+River0203: checks 
+Burlica2013: bets $6.25
+River0203: folds 
+Uncalled bet ($6.25) returned to Burlica2013
+Burlica2013 collected $8.34 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.78 | Rake $0.44 
+Board [6c Jd 2h Kd]
+Seat 5: vitalik_sw
+Seat 1: Burlica2013 (button) collected ($8.34)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: River0203 (big blind) folded on the Turn
+Seat 4: Emily_GetMan folded before Flop (didn't bet)
+Seat 6: skanb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254765475118:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:14:38 WET [2025/02/08 9:14:38 ET]
+Table 'Alshain' 6-max Seat #2 is the button
+Seat 5: vitalik_sw ($145.87 in chips) is sitting out
+Seat 1: Burlica2013 ($113.51 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($88.82 in chips) 
+Seat 4: Emily_GetMan ($104.40 in chips) 
+Seat 6: skanb ($100 in chips) 
+River0203: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+vitalik_sw: sits out 
+*** HOLE CARDS ***
+skanb: folds 
+Burlica2013: folds 
+Rysiff: raises $1.50 to $2.50
+River0203: folds 
+Emily_GetMan: raises $10 to $12.50
+Rysiff: folds 
+Uncalled bet ($10) returned to Emily_GetMan
+Emily_GetMan collected $5.50 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 5: vitalik_sw
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop
+Seat 3: River0203 (small blind) folded before Flop
+Seat 4: Emily_GetMan (big blind) collected ($5.50)
+Seat 6: skanb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254765479436:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:15:00 WET [2025/02/08 9:15:00 ET]
+Table 'Alshain' 6-max Seat #3 is the button
+Seat 1: Burlica2013 ($113.51 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($88.32 in chips) 
+Seat 4: Emily_GetMan ($107.40 in chips) 
+Seat 5: vitalik_sw ($145.87 in chips) 
+Seat 6: skanb ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+vitalik_sw: posts big blind $1
+*** HOLE CARDS ***
+skanb: folds 
+Burlica2013: folds 
+Rysiff: folds 
+River0203: raises $2.50 to $3.50
+Emily_GetMan: raises $11.50 to $15
+vitalik_sw: folds 
+River0203: calls $11.50
+*** FLOP *** [5h Kc 7c]
+Emily_GetMan: bets $9.72
+River0203: calls $9.72
+*** TURN *** [5h Kc 7c] [4s]
+Emily_GetMan: bets $15.82
+River0203: folds 
+Uncalled bet ($15.82) returned to Emily_GetMan
+Emily_GetMan collected $47.94 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $50.44 | Rake $2.50 
+Board [5h Kc 7c 4s]
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: River0203 (button) folded on the Turn
+Seat 4: Emily_GetMan (small blind) collected ($47.94)
+Seat 5: vitalik_sw (big blind) folded before Flop
+Seat 6: skanb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254765487608:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:15:41 WET [2025/02/08 9:15:41 ET]
+Table 'Alshain' 6-max Seat #4 is the button
+Seat 1: Burlica2013 ($113.51 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($63.60 in chips) 
+Seat 4: Emily_GetMan ($130.62 in chips) 
+Seat 5: vitalik_sw ($144.87 in chips) 
+Seat 6: skanb ($100 in chips) 
+vitalik_sw: posts small blind $0.50
+skanb: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: raises $1.20 to $2.20
+Rysiff: folds 
+River0203: folds 
+Emily_GetMan: folds 
+vitalik_sw: folds 
+skanb: folds 
+Uncalled bet ($1.20) returned to Burlica2013
+Burlica2013 collected $2.50 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Burlica2013 collected ($2.50)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: River0203 folded before Flop (didn't bet)
+Seat 4: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 5: vitalik_sw (small blind) folded before Flop
+Seat 6: skanb (big blind) folded before Flop
+
+
+
+PokerStars Hand #254765489936:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:15:53 WET [2025/02/08 9:15:53 ET]
+Table 'Alshain' 6-max Seat #5 is the button
+Seat 1: Burlica2013 ($115.01 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($63.60 in chips) 
+Seat 4: Emily_GetMan ($130.62 in chips) 
+Seat 5: vitalik_sw ($144.37 in chips) 
+Seat 6: skanb ($100 in chips) 
+skanb: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+River0203: raises $2.50 to $3.50
+Emily_GetMan: raises $6.50 to $10
+vitalik_sw: folds 
+skanb: folds 
+Burlica2013: folds 
+River0203: calls $6.50
+*** FLOP *** [2c 7c Ks]
+River0203: checks 
+Emily_GetMan: bets $6.74
+River0203: folds 
+Uncalled bet ($6.74) returned to Emily_GetMan
+Emily_GetMan collected $20.42 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.50 | Rake $1.08 
+Board [2c 7c Ks]
+Seat 1: Burlica2013 (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: River0203 folded on the Flop
+Seat 4: Emily_GetMan collected ($20.42)
+Seat 5: vitalik_sw (button) folded before Flop (didn't bet)
+Seat 6: skanb (small blind) folded before Flop
+
+
+
+PokerStars Hand #254765498058:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:16:35 WET [2025/02/08 9:16:35 ET]
+Table 'Alshain' 6-max Seat #6 is the button
+Seat 1: Burlica2013 ($114.01 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($53.60 in chips) 
+Seat 4: Emily_GetMan ($141.04 in chips) 
+Seat 5: vitalik_sw ($144.37 in chips) 
+Seat 6: skanb ($100 in chips) 
+Burlica2013: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+River0203: calls $1
+Emily_GetMan: folds 
+vitalik_sw: folds 
+skanb: folds 
+Burlica2013: calls $0.50
+Rysiff: checks 
+*** FLOP *** [4s Js Jd]
+Burlica2013: checks 
+Rysiff: checks 
+River0203: bets $2.85
+Burlica2013: folds 
+Rysiff: folds 
+Uncalled bet ($2.85) returned to River0203
+River0203 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [4s Js Jd]
+Seat 1: Burlica2013 (small blind) folded on the Flop
+Seat 2: Rysiff (big blind) folded on the Flop
+Seat 3: River0203 collected ($2.85)
+Seat 4: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: skanb (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254765510544:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:17:37 WET [2025/02/08 9:17:37 ET]
+Table 'Alshain' 6-max Seat #1 is the button
+Seat 1: Burlica2013 ($113.01 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($55.45 in chips) 
+Seat 4: Emily_GetMan ($141.04 in chips) 
+Seat 5: vitalik_sw ($144.37 in chips) 
+Seat 6: skanb ($100 in chips) 
+Rysiff: posts small blind $0.50
+River0203: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+vitalik_sw: raises $1.20 to $2.20
+skanb: folds 
+Burlica2013: folds 
+Rysiff: raises $8.80 to $11
+River0203: folds 
+vitalik_sw: raises $13 to $24
+Rysiff: folds 
+Uncalled bet ($13) returned to vitalik_sw
+vitalik_sw collected $23 from pot
+vitalik_sw: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $0 
+Seat 1: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: River0203 (big blind) folded before Flop
+Seat 4: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: vitalik_sw collected ($23)
+Seat 6: skanb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254765517084:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:18:10 WET [2025/02/08 9:18:10 ET]
+Table 'Alshain' 6-max Seat #2 is the button
+Seat 1: Burlica2013 ($113.01 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($54.45 in chips) 
+Seat 4: Emily_GetMan ($141.04 in chips) 
+Seat 5: vitalik_sw ($156.37 in chips) 
+Seat 6: skanb ($100 in chips) 
+River0203: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+vitalik_sw: raises $1.20 to $2.20
+skanb: folds 
+Burlica2013: folds 
+Rysiff has timed out
+Rysiff: folds 
+River0203: calls $1.70
+Emily_GetMan: folds 
+*** FLOP *** [4c Ah Qd]
+River0203: checks 
+vitalik_sw: bets $2.57
+River0203: calls $2.57
+*** TURN *** [4c Ah Qd] [6s]
+River0203: checks 
+vitalik_sw: bets $7.61
+River0203: calls $7.61
+*** RIVER *** [4c Ah Qd 6s] [Qh]
+River0203: checks 
+vitalik_sw: checks 
+*** SHOW DOWN ***
+River0203: shows [7c 7d] (two pair, Queens and Sevens)
+vitalik_sw: shows [9s As] (two pair, Aces and Queens)
+vitalik_sw collected $24.47 from pot
+*** SUMMARY ***
+Total pot $25.76 | Rake $1.29 
+Board [4c Ah Qd 6s Qh]
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: River0203 (small blind) showed [7c 7d] and lost with two pair, Queens and Sevens
+Seat 4: Emily_GetMan (big blind) folded before Flop
+Seat 5: vitalik_sw showed [9s As] and won ($24.47) with two pair, Aces and Queens
+Seat 6: skanb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254765530800:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:19:20 WET [2025/02/08 9:19:20 ET]
+Table 'Alshain' 6-max Seat #3 is the button
+Seat 1: Burlica2013 ($113.01 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($42.07 in chips) 
+Seat 4: Emily_GetMan ($140.04 in chips) 
+Seat 5: vitalik_sw ($168.46 in chips) 
+Seat 6: skanb ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+vitalik_sw: posts big blind $1
+*** HOLE CARDS ***
+skanb: folds 
+Burlica2013: raises $1.20 to $2.20
+Rysiff: folds 
+River0203: calls $2.20
+Emily_GetMan: folds 
+vitalik_sw: folds 
+*** FLOP *** [2c 2s 3h]
+Burlica2013: bets $1.85
+River0203: folds 
+Uncalled bet ($1.85) returned to Burlica2013
+Burlica2013 collected $5.60 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [2c 2s 3h]
+Seat 1: Burlica2013 collected ($5.60)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: River0203 (button) folded on the Flop
+Seat 4: Emily_GetMan (small blind) folded before Flop
+Seat 5: vitalik_sw (big blind) folded before Flop
+Seat 6: skanb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254765536841:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:19:51 WET [2025/02/08 9:19:51 ET]
+Table 'Alshain' 6-max Seat #4 is the button
+Seat 1: Burlica2013 ($116.41 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($39.87 in chips) 
+Seat 4: Emily_GetMan ($139.54 in chips) 
+Seat 5: vitalik_sw ($167.46 in chips) 
+Seat 6: skanb ($100 in chips) 
+vitalik_sw: posts small blind $0.50
+skanb: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+Rysiff: folds 
+River0203: folds 
+Emily_GetMan: raises $1.50 to $2.50
+vitalik_sw: folds 
+skanb: folds 
+Uncalled bet ($1.50) returned to Emily_GetMan
+Emily_GetMan collected $2.50 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: River0203 folded before Flop (didn't bet)
+Seat 4: Emily_GetMan (button) collected ($2.50)
+Seat 5: vitalik_sw (small blind) folded before Flop
+Seat 6: skanb (big blind) folded before Flop
+
+
+
+PokerStars Hand #254765539483:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:20:04 WET [2025/02/08 9:20:04 ET]
+Table 'Alshain' 6-max Seat #5 is the button
+Seat 1: Burlica2013 ($116.41 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($39.87 in chips) 
+Seat 4: Emily_GetMan ($141.04 in chips) 
+Seat 5: vitalik_sw ($166.96 in chips) 
+Seat 6: skanb ($100 in chips) 
+skanb: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+River0203: calls $1
+Emily_GetMan: folds 
+vitalik_sw: folds 
+skanb: calls $0.50
+Burlica2013: checks 
+*** FLOP *** [Qs Ah 3d]
+skanb: checks 
+Burlica2013: checks 
+River0203: checks 
+*** TURN *** [Qs Ah 3d] [2d]
+skanb: checks 
+Burlica2013: bets $1.43
+River0203: calls $1.43
+skanb: folds 
+*** RIVER *** [Qs Ah 3d 2d] [Qd]
+Burlica2013: bets $8.36
+River0203: folds 
+Uncalled bet ($8.36) returned to Burlica2013
+Burlica2013 collected $5.57 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.86 | Rake $0.29 
+Board [Qs Ah 3d 2d Qd]
+Seat 1: Burlica2013 (big blind) collected ($5.57)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: River0203 folded on the River
+Seat 4: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: vitalik_sw (button) folded before Flop (didn't bet)
+Seat 6: skanb (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254765550370:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:20:59 WET [2025/02/08 9:20:59 ET]
+Table 'Alshain' 6-max Seat #6 is the button
+Seat 1: Burlica2013 ($119.55 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($37.44 in chips) 
+Seat 4: Emily_GetMan ($141.04 in chips) 
+Seat 5: vitalik_sw ($166.96 in chips) 
+Seat 6: skanb ($100 in chips) 
+Burlica2013: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+River0203: calls $1
+Emily_GetMan: folds 
+vitalik_sw: folds 
+skanb: folds 
+Burlica2013: folds 
+Rysiff: checks 
+*** FLOP *** [Ad 9d Qh]
+Rysiff: checks 
+River0203: checks 
+*** TURN *** [Ad 9d Qh] [6h]
+Rysiff: checks 
+River0203: bets $1.19
+Rysiff: folds 
+Uncalled bet ($1.19) returned to River0203
+River0203 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Ad 9d Qh 6h]
+Seat 1: Burlica2013 (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded on the Turn
+Seat 3: River0203 collected ($2.38)
+Seat 4: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: skanb (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254765557306:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:21:34 WET [2025/02/08 9:21:34 ET]
+Table 'Alshain' 6-max Seat #1 is the button
+Seat 1: Burlica2013 ($119.05 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($38.82 in chips) 
+Seat 4: Emily_GetMan ($141.04 in chips) 
+Seat 5: vitalik_sw ($166.96 in chips) 
+Seat 6: skanb ($100 in chips) 
+Rysiff: posts small blind $0.50
+River0203: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+vitalik_sw: folds 
+skanb: folds 
+Burlica2013: raises $1.45 to $2.45
+Rysiff: folds 
+River0203: calls $1.45
+*** FLOP *** [7h 5h 2d]
+River0203: checks 
+Burlica2013: bets $1.69
+River0203: calls $1.69
+*** TURN *** [7h 5h 2d] [Kh]
+River0203: checks 
+Burlica2013: checks 
+*** RIVER *** [7h 5h 2d Kh] [6d]
+River0203: bets $4.17
+Burlica2013: calls $4.17
+*** SHOW DOWN ***
+River0203: shows [9c 8s] (a straight, Five to Nine)
+Burlica2013: mucks hand 
+River0203 collected $16.26 from pot
+*** SUMMARY ***
+Total pot $17.12 | Rake $0.86 
+Board [7h 5h 2d Kh 6d]
+Seat 1: Burlica2013 (button) mucked
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: River0203 (big blind) showed [9c 8s] and won ($16.26) with a straight, Five to Nine
+Seat 4: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: skanb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254765562495:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:22:00 WET [2025/02/08 9:22:00 ET]
+Table 'Alshain' 6-max Seat #2 is the button
+Seat 1: Burlica2013 ($110.74 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($46.77 in chips) 
+Seat 4: Emily_GetMan ($141.04 in chips) 
+Seat 5: vitalik_sw ($166.96 in chips) 
+Seat 6: skanb ($100 in chips) 
+River0203: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+vitalik_sw: folds 
+skanb: folds 
+Burlica2013: folds 
+Rysiff: raises $1.50 to $2.50
+River0203: calls $2
+Emily_GetMan: folds 
+*** FLOP *** [2c Jc 5s]
+River0203: checks 
+Rysiff: bets $1.88
+River0203: raises $9.46 to $11.34
+Rysiff: folds 
+Uncalled bet ($9.46) returned to River0203
+River0203 collected $9.27 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [2c Jc 5s]
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded on the Flop
+Seat 3: River0203 (small blind) collected ($9.27)
+Seat 4: Emily_GetMan (big blind) folded before Flop
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: skanb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254765572259:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:22:48 WET [2025/02/08 9:22:48 ET]
+Table 'Alshain' 6-max Seat #3 is the button
+Seat 1: Burlica2013 ($110.74 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: River0203 ($51.66 in chips) 
+Seat 4: Emily_GetMan ($140.04 in chips) 
+Seat 5: vitalik_sw ($166.96 in chips) 
+Seat 6: skanb ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+vitalik_sw: posts big blind $1
+*** HOLE CARDS ***
+skanb: folds 
+Burlica2013: folds 
+Rysiff: folds 
+River0203: raises $2 to $3
+Emily_GetMan: folds 
+vitalik_sw: calls $2
+*** FLOP *** [8h 7h Qc]
+vitalik_sw: checks 
+River0203: bets $6.18
+vitalik_sw: raises $9.27 to $15.45
+River0203: raises $33.21 to $48.66 and is all-in
+vitalik_sw: calls $33.21
+*** TURN *** [8h 7h Qc] [8d]
+*** RIVER *** [8h 7h Qc 8d] [Jc]
+*** SHOW DOWN ***
+vitalik_sw: shows [9s Qd] (two pair, Queens and Eights)
+River0203: shows [7c Ah] (two pair, Eights and Sevens)
+vitalik_sw collected $101.32 from pot
+*** SUMMARY ***
+Total pot $103.82 | Rake $2.50 
+Board [8h 7h Qc 8d Jc]
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: River0203 (button) showed [7c Ah] and lost with two pair, Eights and Sevens
+Seat 4: Emily_GetMan (small blind) folded before Flop
+Seat 5: vitalik_sw (big blind) showed [9s Qd] and won ($101.32) with two pair, Queens and Eights
+Seat 6: skanb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254765580872:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:23:32 WET [2025/02/08 9:23:32 ET]
+Table 'Alshain' 6-max Seat #4 is the button
+Seat 3: River0203 ($0 in chips) is sitting out
+Seat 1: Burlica2013 ($110.74 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 4: Emily_GetMan ($139.54 in chips) 
+Seat 5: vitalik_sw ($216.62 in chips) 
+Seat 6: skanb ($100 in chips) 
+vitalik_sw: posts small blind $0.50
+skanb: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+Rysiff: raises $1.50 to $2.50
+Emily_GetMan: folds 
+River0203 leaves the table
+vitalik_sw: folds 
+skanb: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: River0203
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: Rysiff collected ($2.50)
+Seat 4: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 5: vitalik_sw (small blind) folded before Flop
+Seat 6: skanb (big blind) folded before Flop
+
+
+
+PokerStars Hand #254765585823:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:23:56 WET [2025/02/08 9:23:56 ET]
+Table 'Alshain' 6-max Seat #5 is the button
+Seat 1: Burlica2013 ($110.74 in chips) 
+Seat 2: Rysiff ($101.50 in chips) 
+Seat 4: Emily_GetMan ($139.54 in chips) 
+Seat 5: vitalik_sw ($216.12 in chips) 
+Seat 6: skanb ($100 in chips) 
+skanb: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+Emily_GetMan: folds 
+vitalik_sw: raises $1.50 to $2.50
+joaquin612 joins the table at seat #3 
+skanb: raises $9.50 to $12
+Burlica2013: folds 
+vitalik_sw: folds 
+Uncalled bet ($9.50) returned to skanb
+skanb collected $6 from pot
+skanb: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Burlica2013 (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 4: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: vitalik_sw (button) folded before Flop
+Seat 6: skanb (small blind) collected ($6)
+
+
+
+PokerStars Hand #254765588953:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 14:24:13 WET [2025/02/08 9:24:13 ET]
+Table 'Alshain' 6-max Seat #6 is the button
+Seat 2: Rysiff ($101.50 in chips) is sitting out
+Seat 1: Burlica2013 ($109.74 in chips) 
+Seat 3: joaquin612 ($100 in chips) 
+Seat 4: Emily_GetMan ($139.54 in chips) 
+Seat 5: vitalik_sw ($213.62 in chips) 
+Seat 6: skanb ($103.50 in chips) 
+Burlica2013: posts small blind $0.50
+Rysiff: is sitting out 
+joaquin612: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+Rysiff leaves the table
+vitalik_sw: folds 
+skanb: raises $1.10 to $2.10
+Burlica2013: folds 
+joaquin612: calls $1.10
+*** FLOP *** [Jc Qs 6c]
+Emily_GetMan leaves the table
+joaquin612: checks 
+skanb: bets $1.47
+joaquin612: calls $1.47
+*** TURN *** [Jc Qs 6c] [Th]
+joaquin612: checks 
+skanb: bets $11
+joaquin612: folds 
+Uncalled bet ($11) returned to skanb
+joaquin612 leaves the table
+skanb collected $7.26 from pot
+skanb: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.64 | Rake $0.38 
+Board [Jc Qs 6c Th]
+Seat 2: Rysiff
+Seat 1: Burlica2013 (small blind) folded before Flop
+Seat 3: joaquin612 (big blind) folded on the Turn
+Seat 4: Emily_GetMan folded before Flop (didn't bet)
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: skanb (button) collected ($7.26)
+
+
+

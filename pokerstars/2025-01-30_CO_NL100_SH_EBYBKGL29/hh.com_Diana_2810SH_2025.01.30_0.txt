@@ -1,0 +1,84 @@
+﻿PokerStars Hand #254629599705:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 22:51:52 WET [2025/01/30 17:51:52 ET]
+Table 'Diana' 6-max Seat #1 is the button
+Seat 4: ghc_2 ($100 in chips) is sitting out
+Seat 1: Palacios777 ($100 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+Palacios777: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+Palacios777: raises $1.20 to $2.20
+nikalas22: calls $1.20
+*** FLOP *** [4s 3h 7c]
+nikalas22: checks 
+Palacios777: checks 
+*** TURN *** [4s 3h 7c] [Kd]
+nikalas22: checks 
+Palacios777: checks 
+*** RIVER *** [4s 3h 7c Kd] [9c]
+nikalas22: bets $1.25
+Palacios777: calls $1.25
+*** SHOW DOWN ***
+nikalas22: shows [8d 8h] (a pair of Eights)
+Palacios777: mucks hand 
+nikalas22 collected $6.56 from pot
+*** SUMMARY ***
+Total pot $6.90 | Rake $0.34 
+Board [4s 3h 7c Kd 9c]
+Seat 4: ghc_2
+Seat 1: Palacios777 (button) (small blind) mucked
+Seat 6: nikalas22 (big blind) showed [8d 8h] and won ($6.56) with a pair of Eights
+
+
+
+PokerStars Hand #254629611320:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 22:52:35 WET [2025/01/30 17:52:35 ET]
+Table 'Diana' 6-max Seat #6 is the button
+Seat 1: Palacios777 ($100 in chips) 
+Seat 4: ghc_2 ($100 in chips) 
+Seat 6: nikalas22 ($103.11 in chips) 
+Palacios777: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+elcutez joins the table at seat #5 
+elcutez is disconnected 
+nikalas22: raises $1.50 to $2.50
+Nicedaymybro joins the table at seat #2 
+Palacios777: folds 
+ghc_2: folds 
+Uncalled bet ($1.50) returned to nikalas22
+nikalas22 collected $2.50 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Palacios777 (small blind) folded before Flop
+Seat 4: ghc_2 (big blind) folded before Flop
+Seat 6: nikalas22 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254629615898:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 22:52:52 WET [2025/01/30 17:52:52 ET]
+Table 'Diana' 6-max Seat #1 is the button
+Seat 2: Nicedaymybro ($100 in chips) is sitting out
+Seat 1: Palacios777 ($100 in chips) 
+Seat 4: ghc_2 ($100 in chips) 
+Seat 5: elcutez ($100 in chips) 
+Seat 6: nikalas22 ($104.61 in chips) 
+ghc_2: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+Palacios777: folds 
+ghc_2: raises $2 to $3
+elcutez: folds 
+Uncalled bet ($2) returned to ghc_2
+ghc_2 collected $2 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: Nicedaymybro
+Seat 1: Palacios777 (button) folded before Flop (didn't bet)
+Seat 4: ghc_2 (small blind) collected ($2)
+Seat 5: elcutez (big blind) folded before Flop
+Seat 6: nikalas22 folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,916 @@
+﻿PokerStars Hand #254233320771:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:03:27 WET [2025/01/06 15:03:27 ET]
+Table 'Orsilocus III' 6-max Seat #5 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 3: blistein ($100 in chips) is sitting out
+Seat 1: Addix777 ($101.38 in chips) 
+Seat 4: EvilReality ($100 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: YeeesMan ($109.02 in chips) 
+YeeesMan: posts small blind $0.50
+Addix777: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+EvilReality: folds 
+easy_sarcasm: raises $1.20 to $2.20
+YeeesMan: calls $1.70
+Addix777: folds 
+*** FLOP *** [2d 7s 9s]
+YeeesMan: checks 
+easy_sarcasm: bets $2.56
+YeeesMan: raises $8.12 to $10.68
+easy_sarcasm: folds 
+Uncalled bet ($8.12) returned to YeeesMan
+YeeesMan collected $9.99 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.52 | Rake $0.53 
+Board [2d 7s 9s]
+Seat 2: Alehandr0777
+Seat 3: blistein
+Seat 1: Addix777 (big blind) folded before Flop
+Seat 4: EvilReality folded before Flop (didn't bet)
+Seat 5: easy_sarcasm (button) folded on the Flop
+Seat 6: YeeesMan (small blind) collected ($9.99)
+
+
+
+PokerStars Hand #254233340531:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:04:25 WET [2025/01/06 15:04:25 ET]
+Table 'Orsilocus III' 6-max Seat #6 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($100.38 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: EvilReality ($100 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: YeeesMan ($114.25 in chips) 
+Addix777: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+EvilReality: folds 
+easy_sarcasm: raises $2 to $3
+YeeesMan: folds 
+Addix777: folds 
+blistein: calls $2
+*** FLOP *** [Kd 8h 2h]
+blistein: checks 
+easy_sarcasm: bets $2.04
+blistein: calls $2.04
+*** TURN *** [Kd 8h 2h] [Ts]
+blistein: checks 
+easy_sarcasm: bets $5.13
+blistein: raises $19.96 to $25.09
+easy_sarcasm: folds 
+Uncalled bet ($19.96) returned to blistein
+blistein collected $19.80 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.84 | Rake $1.04 
+Board [Kd 8h 2h Ts]
+Seat 2: Alehandr0777
+Seat 1: Addix777 (small blind) folded before Flop
+Seat 3: blistein (big blind) collected ($19.80)
+Seat 4: EvilReality folded before Flop (didn't bet)
+Seat 5: easy_sarcasm folded on the Turn
+Seat 6: YeeesMan (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233367221:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:05:37 WET [2025/01/06 15:05:37 ET]
+Table 'Orsilocus III' 6-max Seat #1 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($99.88 in chips) 
+Seat 3: blistein ($109.63 in chips) 
+Seat 4: EvilReality ($100 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: YeeesMan ($114.25 in chips) 
+blistein: posts small blind $0.50
+EvilReality: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+YeeesMan: folds 
+Addix777: folds 
+blistein: raises $2 to $3
+EvilReality: folds 
+Uncalled bet ($2) returned to blistein
+blistein collected $2 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: Alehandr0777
+Seat 1: Addix777 (button) folded before Flop (didn't bet)
+Seat 3: blistein (small blind) collected ($2)
+Seat 4: EvilReality (big blind) folded before Flop
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233372259:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:05:50 WET [2025/01/06 15:05:50 ET]
+Table 'Orsilocus III' 6-max Seat #3 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($99.88 in chips) 
+Seat 3: blistein ($110.63 in chips) 
+Seat 4: EvilReality ($100 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: YeeesMan ($114.25 in chips) 
+EvilReality: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+Addix777: raises $1 to $2
+blistein: folds 
+EvilReality: folds 
+easy_sarcasm: folds 
+Uncalled bet ($1) returned to Addix777
+Addix777 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Alehandr0777
+Seat 1: Addix777 collected ($2.50)
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 4: EvilReality (small blind) folded before Flop
+Seat 5: easy_sarcasm (big blind) folded before Flop
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233375758:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:06:00 WET [2025/01/06 15:06:00 ET]
+Table 'Orsilocus III' 6-max Seat #4 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($101.38 in chips) 
+Seat 3: blistein ($110.63 in chips) 
+Seat 4: EvilReality ($100 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: YeeesMan ($114.25 in chips) 
+easy_sarcasm: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+Addix777: raises $1 to $2
+blistein: folds 
+EvilReality: folds 
+easy_sarcasm: folds 
+YeeesMan: calls $1
+*** FLOP *** [Ks Tc 2s]
+YeeesMan: checks 
+Addix777: checks 
+*** TURN *** [Ks Tc 2s] [5d]
+YeeesMan: bets $2.14
+Addix777: calls $2.14
+*** RIVER *** [Ks Tc 2s 5d] [Td]
+YeeesMan: checks 
+Addix777: bets $4.17
+YeeesMan: folds 
+Uncalled bet ($4.17) returned to Addix777
+Addix777 collected $8.34 from pot
+Addix777: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.78 | Rake $0.44 
+Board [Ks Tc 2s 5d Td]
+Seat 2: Alehandr0777
+Seat 1: Addix777 collected ($8.34)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: EvilReality (button) folded before Flop (didn't bet)
+Seat 5: easy_sarcasm (small blind) folded before Flop
+Seat 6: YeeesMan (big blind) folded on the River
+
+
+
+PokerStars Hand #254233403904:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:07:15 WET [2025/01/06 15:07:15 ET]
+Table 'Orsilocus III' 6-max Seat #5 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($105.58 in chips) 
+Seat 3: blistein ($110.63 in chips) 
+Seat 4: EvilReality ($100 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: YeeesMan ($110.11 in chips) 
+YeeesMan: posts small blind $0.50
+Addix777: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+EvilReality: folds 
+easy_sarcasm: raises $1.20 to $2.20
+YeeesMan: folds 
+Addix777: folds 
+Uncalled bet ($1.20) returned to easy_sarcasm
+easy_sarcasm collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Alehandr0777
+Seat 1: Addix777 (big blind) folded before Flop
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: EvilReality folded before Flop (didn't bet)
+Seat 5: easy_sarcasm (button) collected ($2.50)
+Seat 6: YeeesMan (small blind) folded before Flop
+
+
+
+PokerStars Hand #254233408693:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:07:28 WET [2025/01/06 15:07:28 ET]
+Table 'Orsilocus III' 6-max Seat #6 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($104.58 in chips) 
+Seat 3: blistein ($110.63 in chips) 
+Seat 4: EvilReality ($100 in chips) 
+Seat 5: easy_sarcasm ($101.50 in chips) 
+Seat 6: YeeesMan ($109.61 in chips) 
+Addix777: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+EvilReality: folds 
+easy_sarcasm: raises $2 to $3
+YeeesMan: folds 
+Addix777: folds 
+blistein: folds 
+Uncalled bet ($2) returned to easy_sarcasm
+easy_sarcasm collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Alehandr0777
+Seat 1: Addix777 (small blind) folded before Flop
+Seat 3: blistein (big blind) folded before Flop
+Seat 4: EvilReality folded before Flop (didn't bet)
+Seat 5: easy_sarcasm collected ($2.50)
+Seat 6: YeeesMan (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233414739:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:07:44 WET [2025/01/06 15:07:44 ET]
+Table 'Orsilocus III' 6-max Seat #1 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($104.08 in chips) 
+Seat 3: blistein ($109.63 in chips) 
+Seat 4: EvilReality ($100 in chips) 
+Seat 5: easy_sarcasm ($103 in chips) 
+Seat 6: YeeesMan ($109.61 in chips) 
+blistein: posts small blind $0.50
+EvilReality: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+YeeesMan: raises $1.50 to $2.50
+Addix777: folds 
+blistein: folds 
+EvilReality: folds 
+Uncalled bet ($1.50) returned to YeeesMan
+YeeesMan collected $2.50 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Alehandr0777
+Seat 1: Addix777 (button) folded before Flop (didn't bet)
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: EvilReality (big blind) folded before Flop
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: YeeesMan collected ($2.50)
+
+
+
+PokerStars Hand #254233420615:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:08:00 WET [2025/01/06 15:08:00 ET]
+Table 'Orsilocus III' 6-max Seat #3 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($104.08 in chips) 
+Seat 3: blistein ($109.13 in chips) 
+Seat 4: EvilReality ($100 in chips) 
+Seat 5: easy_sarcasm ($103 in chips) 
+Seat 6: YeeesMan ($111.11 in chips) 
+EvilReality: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+Addix777: folds 
+blistein: folds 
+EvilReality: raises $2 to $3
+easy_sarcasm: folds 
+Uncalled bet ($2) returned to EvilReality
+EvilReality collected $2 from pot
+EvilReality: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: Alehandr0777
+Seat 1: Addix777 folded before Flop (didn't bet)
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 4: EvilReality (small blind) collected ($2)
+Seat 5: easy_sarcasm (big blind) folded before Flop
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233425013:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:08:11 WET [2025/01/06 15:08:11 ET]
+Table 'Orsilocus III' 6-max Seat #4 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($104.08 in chips) 
+Seat 3: blistein ($109.13 in chips) 
+Seat 4: EvilReality ($101 in chips) 
+Seat 5: easy_sarcasm ($102 in chips) 
+Seat 6: YeeesMan ($111.11 in chips) 
+easy_sarcasm: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+Addix777: folds 
+blistein: raises $1.30 to $2.30
+EvilReality: folds 
+easy_sarcasm: folds 
+YeeesMan: raises $9.70 to $12
+blistein: folds 
+Uncalled bet ($9.70) returned to YeeesMan
+YeeesMan collected $5.10 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0 
+Seat 2: Alehandr0777
+Seat 1: Addix777 folded before Flop (didn't bet)
+Seat 3: blistein folded before Flop
+Seat 4: EvilReality (button) folded before Flop (didn't bet)
+Seat 5: easy_sarcasm (small blind) folded before Flop
+Seat 6: YeeesMan (big blind) collected ($5.10)
+
+
+
+PokerStars Hand #254233436468:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:08:42 WET [2025/01/06 15:08:42 ET]
+Table 'Orsilocus III' 6-max Seat #5 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($104.08 in chips) 
+Seat 3: blistein ($106.83 in chips) 
+Seat 4: EvilReality ($101 in chips) 
+Seat 5: easy_sarcasm ($101.50 in chips) 
+Seat 6: YeeesMan ($113.91 in chips) 
+YeeesMan: posts small blind $0.50
+Addix777: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+EvilReality: raises $1.50 to $2.50
+easy_sarcasm: folds 
+YeeesMan: folds 
+Addix777: folds 
+Uncalled bet ($1.50) returned to EvilReality
+EvilReality collected $2.50 from pot
+EvilReality: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Alehandr0777
+Seat 1: Addix777 (big blind) folded before Flop
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: EvilReality collected ($2.50)
+Seat 5: easy_sarcasm (button) folded before Flop (didn't bet)
+Seat 6: YeeesMan (small blind) folded before Flop
+
+
+
+PokerStars Hand #254233445568:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:09:06 WET [2025/01/06 15:09:06 ET]
+Table 'Orsilocus III' 6-max Seat #6 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($103.08 in chips) 
+Seat 3: blistein ($106.83 in chips) 
+Seat 4: EvilReality ($102.50 in chips) 
+Seat 5: easy_sarcasm ($101.50 in chips) 
+Seat 6: YeeesMan ($113.41 in chips) 
+Addix777: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+EvilReality: folds 
+easy_sarcasm: raises $2 to $3
+YeeesMan: folds 
+Addix777: calls $2.50
+blistein: calls $2
+*** FLOP *** [7c 7h 6s]
+Addix777: checks 
+blistein: checks 
+easy_sarcasm: bets $4.28
+Addix777: folds 
+blistein: folds 
+Uncalled bet ($4.28) returned to easy_sarcasm
+easy_sarcasm collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [7c 7h 6s]
+Seat 2: Alehandr0777
+Seat 1: Addix777 (small blind) folded on the Flop
+Seat 3: blistein (big blind) folded on the Flop
+Seat 4: EvilReality folded before Flop (didn't bet)
+Seat 5: easy_sarcasm collected ($8.55)
+Seat 6: YeeesMan (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233463632:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:09:54 WET [2025/01/06 15:09:54 ET]
+Table 'Orsilocus III' 6-max Seat #1 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($100.08 in chips) 
+Seat 3: blistein ($103.83 in chips) 
+Seat 4: EvilReality ($102.50 in chips) 
+Seat 5: easy_sarcasm ($107.05 in chips) 
+Seat 6: YeeesMan ($113.41 in chips) 
+blistein: posts small blind $0.50
+EvilReality: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: raises $2 to $3
+YeeesMan: folds 
+Addix777: calls $3
+blistein: folds 
+EvilReality: calls $2
+*** FLOP *** [5h 4h Th]
+EvilReality: checks 
+easy_sarcasm: checks 
+Addix777: bets $3
+EvilReality: folds 
+easy_sarcasm: calls $3
+*** TURN *** [5h 4h Th] [Td]
+easy_sarcasm: checks 
+Addix777: bets $7.36
+easy_sarcasm: calls $7.36
+*** RIVER *** [5h 4h Th Td] [5c]
+easy_sarcasm: checks 
+Addix777: checks 
+*** SHOW DOWN ***
+easy_sarcasm: shows [Jd Ts] (a full house, Tens full of Fives)
+Addix777: mucks hand 
+easy_sarcasm collected $28.71 from pot
+*** SUMMARY ***
+Total pot $30.22 | Rake $1.51 
+Board [5h 4h Th Td 5c]
+Seat 2: Alehandr0777
+Seat 1: Addix777 (button) mucked
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: EvilReality (big blind) folded on the Flop
+Seat 5: easy_sarcasm showed [Jd Ts] and won ($28.71) with a full house, Tens full of Fives
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233479344:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:10:36 WET [2025/01/06 15:10:36 ET]
+Table 'Orsilocus III' 6-max Seat #3 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($86.72 in chips) 
+Seat 3: blistein ($103.33 in chips) 
+Seat 4: EvilReality ($100 in chips) 
+Seat 5: easy_sarcasm ($122.40 in chips) 
+Seat 6: YeeesMan ($113.41 in chips) 
+EvilReality: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+Addix777: raises $2 to $3
+blistein: raises $5 to $8
+EvilReality: folds 
+easy_sarcasm: folds 
+Addix777: raises $78.72 to $86.72 and is all-in
+blistein: folds 
+Uncalled bet ($78.72) returned to Addix777
+Addix777 collected $17.50 from pot
+Addix777: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.50 | Rake $0 
+Seat 2: Alehandr0777
+Seat 1: Addix777 collected ($17.50)
+Seat 3: blistein (button) folded before Flop
+Seat 4: EvilReality (small blind) folded before Flop
+Seat 5: easy_sarcasm (big blind) folded before Flop
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233487630:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:10:58 WET [2025/01/06 15:10:58 ET]
+Table 'Orsilocus III' 6-max Seat #4 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($100 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: EvilReality ($100 in chips) 
+Seat 5: easy_sarcasm ($121.40 in chips) 
+Seat 6: YeeesMan ($113.41 in chips) 
+easy_sarcasm: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+Addix777: folds 
+blistein: folds 
+EvilReality: folds 
+easy_sarcasm: raises $2 to $3
+YeeesMan: raises $6 to $9
+easy_sarcasm: folds 
+Uncalled bet ($6) returned to YeeesMan
+YeeesMan collected $6 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: Alehandr0777
+Seat 1: Addix777 folded before Flop (didn't bet)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: EvilReality (button) folded before Flop (didn't bet)
+Seat 5: easy_sarcasm (small blind) folded before Flop
+Seat 6: YeeesMan (big blind) collected ($6)
+
+
+
+PokerStars Hand #254233497197:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:11:23 WET [2025/01/06 15:11:23 ET]
+Table 'Orsilocus III' 6-max Seat #5 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($100 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: EvilReality ($100 in chips) 
+Seat 5: easy_sarcasm ($118.40 in chips) 
+Seat 6: YeeesMan ($116.41 in chips) 
+YeeesMan: posts small blind $0.50
+Addix777: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+EvilReality: folds 
+easy_sarcasm: raises $1.20 to $2.20
+YeeesMan: raises $8.80 to $11
+Addix777: folds 
+easy_sarcasm: folds 
+Uncalled bet ($8.80) returned to YeeesMan
+YeeesMan collected $5.40 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 2: Alehandr0777
+Seat 1: Addix777 (big blind) folded before Flop
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: EvilReality folded before Flop (didn't bet)
+Seat 5: easy_sarcasm (button) folded before Flop
+Seat 6: YeeesMan (small blind) collected ($5.40)
+
+
+
+PokerStars Hand #254233508177:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:11:52 WET [2025/01/06 15:11:52 ET]
+Table 'Orsilocus III' 6-max Seat #6 is the button
+Seat 2: Alehandr0777 ($0 in chips) is sitting out
+Seat 1: Addix777 ($99 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: EvilReality ($100 in chips) 
+Seat 5: easy_sarcasm ($116.20 in chips) 
+Seat 6: YeeesMan ($119.61 in chips) 
+Addix777: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+EvilReality: folds 
+easy_sarcasm: folds 
+YeeesMan: raises $1.50 to $2.50
+Addix777: folds 
+blistein: calls $1.50
+*** FLOP *** [3h 6d 7s]
+blistein: checks 
+YeeesMan: bets $3.92
+blistein: folds 
+Uncalled bet ($3.92) returned to YeeesMan
+YeeesMan collected $5.22 from pot
+Alehandr0777 leaves the table
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3h 6d 7s]
+Seat 2: Alehandr0777
+Seat 1: Addix777 (small blind) folded before Flop
+Seat 3: blistein (big blind) folded on the Flop
+Seat 4: EvilReality folded before Flop (didn't bet)
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: YeeesMan (button) collected ($5.22)
+
+
+
+PokerStars Hand #254233519485:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:12:22 WET [2025/01/06 15:12:22 ET]
+Table 'Orsilocus III' 6-max Seat #1 is the button
+Seat 4: EvilReality ($100 in chips) is sitting out
+Seat 5: easy_sarcasm ($116.20 in chips) is sitting out
+Seat 1: Addix777 ($98.50 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 6: YeeesMan ($122.33 in chips) 
+blistein: posts small blind $0.50
+EvilReality: is sitting out 
+easy_sarcasm: is sitting out 
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+Addix777: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to YeeesMan
+easy_sarcasm leaves the table
+YeeesMan collected $1 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: EvilReality
+Seat 5: easy_sarcasm
+Seat 1: Addix777 (button) folded before Flop (didn't bet)
+Seat 3: blistein (small blind) folded before Flop
+Seat 6: YeeesMan (big blind) collected ($1)
+
+
+
+PokerStars Hand #254233522173:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:12:30 WET [2025/01/06 15:12:30 ET]
+Table 'Orsilocus III' 6-max Seat #3 is the button
+Seat 4: EvilReality ($100 in chips) is sitting out
+Seat 1: Addix777 ($98.50 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 6: YeeesMan ($122.83 in chips) 
+YeeesMan: posts small blind $0.50
+Addix777: posts big blind $1
+*** HOLE CARDS ***
+Nazareno1999 joins the table at seat #2 
+illarins joins the table at seat #5 
+blistein: folds 
+YeeesMan: folds 
+Uncalled bet ($0.50) returned to Addix777
+EvilReality leaves the table
+Addix777 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: EvilReality
+Seat 1: Addix777 (big blind) collected ($1)
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 6: YeeesMan (small blind) folded before Flop
+
+
+
+PokerStars Hand #254233527007:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:12:43 WET [2025/01/06 15:12:43 ET]
+Table 'Orsilocus III' 6-max Seat #6 is the button
+Seat 5: illarins ($100 in chips) is sitting out
+Seat 1: Addix777 ($99 in chips) 
+Seat 2: Nazareno1999 ($100 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 6: YeeesMan ($122.33 in chips) 
+Addix777: posts small blind $0.50
+Nazareno1999: posts big blind $1
+illarins: sits out 
+*** HOLE CARDS ***
+blistein: raises $1.30 to $2.30
+Yoalfre joins the table at seat #4 
+YeeesMan: calls $2.30
+Addix777: folds 
+Nazareno1999: calls $1.30
+*** FLOP *** [8d 3c Th]
+Nazareno1999: checks 
+blistein: checks 
+YeeesMan: checks 
+*** TURN *** [8d 3c Th] [As]
+Nazareno1999: checks 
+blistein: checks 
+YeeesMan: checks 
+*** RIVER *** [8d 3c Th As] [4h]
+Nazareno1999: checks 
+blistein: checks 
+YeeesMan: bets $5.27
+Nazareno1999: folds 
+blistein: folds 
+Uncalled bet ($5.27) returned to YeeesMan
+YeeesMan collected $7.03 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.40 | Rake $0.37 
+Board [8d 3c Th As 4h]
+Seat 5: illarins
+Seat 1: Addix777 (small blind) folded before Flop
+Seat 2: Nazareno1999 (big blind) folded on the River
+Seat 3: blistein folded on the River
+Seat 6: YeeesMan (button) collected ($7.03)
+
+
+
+PokerStars Hand #254233563880:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:14:21 WET [2025/01/06 15:14:21 ET]
+Table 'Orsilocus III' 6-max Seat #1 is the button
+Seat 4: Yoalfre ($100 in chips) is sitting out
+Seat 5: illarins ($100 in chips) is sitting out
+Seat 1: Addix777 ($99.50 in chips) 
+Seat 2: Nazareno1999 ($100 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 6: YeeesMan ($127.06 in chips) 
+Nazareno1999: posts small blind $0.50
+blistein: posts big blind $1
+Yoalfre: sits out 
+illarins: sits out 
+*** HOLE CARDS ***
+YeeesMan: folds 
+Addix777: folds 
+Nazareno1999: raises $1.50 to $2.50
+blistein: folds 
+Uncalled bet ($1.50) returned to Nazareno1999
+Nazareno1999 collected $2 from pot
+Nazareno1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: Yoalfre
+Seat 5: illarins
+Seat 1: Addix777 (button) folded before Flop (didn't bet)
+Seat 2: Nazareno1999 (small blind) collected ($2)
+Seat 3: blistein (big blind) folded before Flop
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233568578:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:14:33 WET [2025/01/06 15:14:33 ET]
+Table 'Orsilocus III' 6-max Seat #2 is the button
+Seat 5: illarins ($100 in chips) is sitting out
+Seat 1: Addix777 ($99.50 in chips) 
+Seat 2: Nazareno1999 ($101 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: Yoalfre ($100 in chips) 
+Seat 6: YeeesMan ($127.06 in chips) 
+blistein: posts small blind $0.50
+Yoalfre: posts big blind $1
+illarins: sits out 
+*** HOLE CARDS ***
+YeeesMan: folds 
+Addix777: folds 
+Nazareno1999: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to Yoalfre
+Yoalfre collected $1 from pot
+Yoalfre: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: illarins
+Seat 1: Addix777 folded before Flop (didn't bet)
+Seat 2: Nazareno1999 (button) folded before Flop (didn't bet)
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: Yoalfre (big blind) collected ($1)
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233572263:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:14:43 WET [2025/01/06 15:14:43 ET]
+Table 'Orsilocus III' 6-max Seat #3 is the button
+Seat 1: Addix777 ($99.50 in chips) 
+Seat 2: Nazareno1999 ($101 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: Yoalfre ($100.50 in chips) 
+Seat 5: illarins ($100 in chips) 
+Seat 6: YeeesMan ($127.06 in chips) 
+Yoalfre: posts small blind $0.50
+illarins: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+Addix777: folds 
+Nazareno1999: folds 
+blistein: raises $1.50 to $2.50
+Yoalfre: folds 
+illarins: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Addix777 folded before Flop (didn't bet)
+Seat 2: Nazareno1999 folded before Flop (didn't bet)
+Seat 3: blistein (button) collected ($2.50)
+Seat 4: Yoalfre (small blind) folded before Flop
+Seat 5: illarins (big blind) folded before Flop
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254233579116:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:15:02 WET [2025/01/06 15:15:02 ET]
+Table 'Orsilocus III' 6-max Seat #4 is the button
+Seat 1: Addix777 ($99.50 in chips) 
+Seat 2: Nazareno1999 ($101 in chips) 
+Seat 3: blistein ($101.50 in chips) 
+Seat 4: Yoalfre ($100 in chips) 
+Seat 5: illarins ($100 in chips) 
+Seat 6: YeeesMan ($127.06 in chips) 
+illarins: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+Addix777: folds 
+Nazareno1999: folds 
+blistein: folds 
+Yoalfre: raises $1.50 to $2.50
+illarins: folds 
+YeeesMan: folds 
+Uncalled bet ($1.50) returned to Yoalfre
+Yoalfre collected $2.50 from pot
+Yoalfre: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Addix777 folded before Flop (didn't bet)
+Seat 2: Nazareno1999 folded before Flop (didn't bet)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: Yoalfre (button) collected ($2.50)
+Seat 5: illarins (small blind) folded before Flop
+Seat 6: YeeesMan (big blind) folded before Flop
+
+
+
+PokerStars Hand #254233590519:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:15:33 WET [2025/01/06 15:15:33 ET]
+Table 'Orsilocus III' 6-max Seat #5 is the button
+Seat 1: Addix777 ($99.50 in chips) is sitting out
+Seat 2: Nazareno1999 ($101 in chips) 
+Seat 3: blistein ($101.50 in chips) 
+Seat 4: Yoalfre ($101.50 in chips) 
+Seat 5: illarins ($100 in chips) 
+Seat 6: YeeesMan ($126.06 in chips) 
+YeeesMan: posts small blind $0.50
+Nazareno1999: posts big blind $1
+*** HOLE CARDS ***
+Addix777 leaves the table
+blistein: folds 
+GuigaMan joins the table at seat #1 
+Yoalfre: raises $1.50 to $2.50
+illarins: folds 
+YeeesMan: raises $8.50 to $11
+Nazareno1999: folds 
+Yoalfre: folds 
+Uncalled bet ($8.50) returned to YeeesMan
+YeeesMan collected $6 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Addix777
+Seat 2: Nazareno1999 (big blind) folded before Flop
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: Yoalfre folded before Flop
+Seat 5: illarins (button) folded before Flop (didn't bet)
+Seat 6: YeeesMan (small blind) collected ($6)
+
+
+
+PokerStars Hand #254233600384:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:15:59 WET [2025/01/06 15:15:59 ET]
+Table 'Orsilocus III' 6-max Seat #6 is the button
+Seat 1: GuigaMan ($100 in chips) is sitting out
+Seat 3: blistein ($101.50 in chips) is sitting out
+Seat 2: Nazareno1999 ($100 in chips) 
+Seat 4: Yoalfre ($100 in chips) 
+Seat 5: illarins ($100 in chips) 
+Seat 6: YeeesMan ($129.56 in chips) 
+Nazareno1999: posts small blind $0.50
+blistein: is sitting out 
+Yoalfre: posts big blind $1
+*** HOLE CARDS ***
+blistein leaves the table
+illarins: folds 
+YeeesMan: raises $1.50 to $2.50
+Nazareno1999: folds 
+Yoalfre: folds 
+Uncalled bet ($1.50) returned to YeeesMan
+YeeesMan collected $2.50 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: GuigaMan
+Seat 3: blistein
+Seat 2: Nazareno1999 (small blind) folded before Flop
+Seat 4: Yoalfre (big blind) folded before Flop
+Seat 5: illarins folded before Flop (didn't bet)
+Seat 6: YeeesMan (button) collected ($2.50)
+
+
+
+PokerStars Hand #254233608394:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:16:20 WET [2025/01/06 15:16:20 ET]
+Table 'Orsilocus III' 6-max Seat #2 is the button
+Seat 5: illarins ($100 in chips) is sitting out
+Seat 6: YeeesMan ($131.06 in chips) is sitting out
+Seat 1: GuigaMan ($100 in chips) 
+Seat 2: Nazareno1999 ($100 in chips) 
+Seat 4: Yoalfre ($100 in chips) 
+Yoalfre: posts small blind $0.50
+illarins: is sitting out 
+YeeesMan: is sitting out 
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+Nazareno1999: raises $1.20 to $2.20
+illarins leaves the table
+Yoalfre: folds 
+GuigaMan: folds 
+Uncalled bet ($1.20) returned to Nazareno1999
+Nazareno1999 collected $2.50 from pot
+Nazareno1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: illarins
+Seat 6: YeeesMan
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 2: Nazareno1999 (button) collected ($2.50)
+Seat 4: Yoalfre (small blind) folded before Flop
+
+
+
+PokerStars Hand #254233613439:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 20:16:34 WET [2025/01/06 15:16:34 ET]
+Table 'Orsilocus III' 6-max Seat #1 is the button
+Seat 2: Nazareno1999 ($101.50 in chips) is sitting out
+Seat 6: YeeesMan ($131.06 in chips) is sitting out
+Seat 1: GuigaMan ($100 in chips) 
+Seat 4: Yoalfre ($100 in chips) 
+GuigaMan: posts small blind $0.50
+Nazareno1999: is sitting out 
+Yoalfre: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: raises $1.10 to $2.10
+Nazareno1999 leaves the table
+Yoalfre: calls $1.10
+*** FLOP *** [9h Ah 5h]
+YeeesMan leaves the table
+Yoalfre: checks 
+GuigaMan: checks 
+*** TURN *** [9h Ah 5h] [8s]
+Yoalfre: checks 
+GuigaMan: checks 
+*** RIVER *** [9h Ah 5h 8s] [5d]
+Yoalfre: checks 
+GuigaMan: checks 
+*** SHOW DOWN ***
+Yoalfre: shows [Qd 6d] (a pair of Fives)
+GuigaMan: shows [Kd 4s] (a pair of Fives - Ace+King kicker)
+GuigaMan collected $3.99 from pot
+*** SUMMARY ***
+Total pot $4.20 | Rake $0.21 
+Board [9h Ah 5h 8s 5d]
+Seat 2: Nazareno1999
+Seat 6: YeeesMan
+Seat 1: GuigaMan (button) (small blind) showed [Kd 4s] and won ($3.99) with a pair of Fives
+Seat 4: Yoalfre (big blind) showed [Qd 6d] and lost with a pair of Fives
+
+
+

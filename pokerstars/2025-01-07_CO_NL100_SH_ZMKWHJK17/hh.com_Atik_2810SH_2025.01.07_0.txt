@@ -1,0 +1,3008 @@
+﻿PokerStars Hand #254247101563:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 16:58:24 WET [2025/01/07 11:58:24 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 1: MarcoReus115 ($51.26 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($108.72 in chips) 
+Seat 4: RohayhuP ($107.53 in chips) 
+Seat 5: MaRKiToScoK ($100 in chips) 
+Seat 6: BGS013 ($100 in chips) 
+OhMuckItPlz: posts small blind $0.50
+RohayhuP: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+BGS013: raises $1 to $2
+MarcoReus115: calls $2
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: calls $1
+*** FLOP *** [7h 9c Qd]
+RohayhuP: checks 
+BGS013: checks 
+MarcoReus115: checks 
+*** TURN *** [7h 9c Qd] [7c]
+RohayhuP: bets $3.09
+BGS013: calls $3.09
+MarcoReus115: calls $3.09
+*** RIVER *** [7h 9c Qd 7c] [Jh]
+RohayhuP: checks 
+BGS013: checks 
+MarcoReus115: checks 
+*** SHOW DOWN ***
+RohayhuP: shows [4c Qs] (two pair, Queens and Sevens)
+BGS013: shows [Kh Qh] (two pair, Queens and Sevens - King kicker)
+MarcoReus115: mucks hand 
+BGS013 collected $14.98 from pot
+*** SUMMARY ***
+Total pot $15.77 | Rake $0.79 
+Board [7h 9c Qd 7c Jh]
+Seat 1: MarcoReus115 mucked
+Seat 2: tintin641 (button) folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz (small blind) folded before Flop
+Seat 4: RohayhuP (big blind) showed [4c Qs] and lost with two pair, Queens and Sevens
+Seat 5: MaRKiToScoK folded before Flop (didn't bet)
+Seat 6: BGS013 showed [Kh Qh] and won ($14.98) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #254247111964:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 16:59:20 WET [2025/01/07 11:59:20 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 1: MarcoReus115 ($46.17 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($108.22 in chips) 
+Seat 4: RohayhuP ($102.44 in chips) 
+Seat 5: MaRKiToScoK ($100 in chips) 
+Seat 6: BGS013 ($109.89 in chips) 
+RohayhuP: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+MarcoReus115: calls $1
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: raises $3.50 to $4.50
+MaRKiToScoK: folds 
+MarcoReus115: calls $3.50
+*** FLOP *** [Kd 8c 7h]
+RohayhuP: bets $4.75
+MarcoReus115: folds 
+Uncalled bet ($4.75) returned to RohayhuP
+RohayhuP collected $9.38 from pot
+RohayhuP: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.62 
+Board [Kd 8c 7h]
+Seat 1: MarcoReus115 folded on the Flop
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz (button) folded before Flop (didn't bet)
+Seat 4: RohayhuP (small blind) collected ($9.38)
+Seat 5: MaRKiToScoK (big blind) folded before Flop
+Seat 6: BGS013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247118300:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 16:59:53 WET [2025/01/07 11:59:53 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 1: MarcoReus115 ($41.67 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($108.22 in chips) 
+Seat 4: RohayhuP ($107.32 in chips) 
+Seat 5: MaRKiToScoK ($100 in chips) 
+Seat 6: BGS013 ($109.89 in chips) 
+MaRKiToScoK: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+MarcoReus115: calls $1
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: raises $2.50 to $3.50
+MaRKiToScoK: folds 
+BGS013: folds 
+MarcoReus115: calls $2.50
+*** FLOP *** [6s 5s 2s]
+MarcoReus115: checks 
+RohayhuP: bets $4.04
+MarcoReus115: calls $4.04
+*** TURN *** [6s 5s 2s] [Ad]
+MarcoReus115: checks 
+RohayhuP: checks 
+*** RIVER *** [6s 5s 2s Ad] [Kd]
+MarcoReus115: bets $34.13 and is all-in
+RohayhuP: calls $34.13
+*** SHOW DOWN ***
+MarcoReus115: shows [4s Ks] (a flush, King high)
+RohayhuP: shows [Jc Ac] (a pair of Aces)
+MarcoReus115 collected $82.34 from pot
+*** SUMMARY ***
+Total pot $84.84 | Rake $2.50 
+Board [6s 5s 2s Ad Kd]
+Seat 1: MarcoReus115 showed [4s Ks] and won ($82.34) with a flush, King high
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP (button) showed [Jc Ac] and lost with a pair of Aces
+Seat 5: MaRKiToScoK (small blind) folded before Flop
+Seat 6: BGS013 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254247134526:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:01:14 WET [2025/01/07 12:01:14 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 1: MarcoReus115 ($82.34 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($108.22 in chips) 
+Seat 4: RohayhuP ($65.65 in chips) 
+Seat 5: MaRKiToScoK ($100 in chips) 
+Seat 6: BGS013 ($108.89 in chips) 
+BGS013: posts small blind $0.50
+MarcoReus115: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: folds 
+MaRKiToScoK: raises $1.50 to $2.50
+BGS013: folds 
+MarcoReus115: calls $1.50
+*** FLOP *** [4c 5s 5h]
+MarcoReus115: checks 
+MaRKiToScoK: bets $1.57
+MarcoReus115: calls $1.57
+*** TURN *** [4c 5s 5h] [7s]
+MarcoReus115: checks 
+MaRKiToScoK: bets $6.16
+MarcoReus115: calls $6.16
+*** RIVER *** [4c 5s 5h 7s] [Kh]
+MarcoReus115: checks 
+MaRKiToScoK: bets $19.91
+MarcoReus115: folds 
+Uncalled bet ($19.91) returned to MaRKiToScoK
+MaRKiToScoK collected $19.91 from pot
+*** SUMMARY ***
+Total pot $20.96 | Rake $1.05 
+Board [4c 5s 5h 7s Kh]
+Seat 1: MarcoReus115 (big blind) folded on the River
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: MaRKiToScoK (button) collected ($19.91)
+Seat 6: BGS013 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254247143583:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:01:54 WET [2025/01/07 12:01:54 ET]
+Table 'Atik II' 6-max Seat #6 is the button
+Seat 1: MarcoReus115 ($72.11 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($108.22 in chips) 
+Seat 4: RohayhuP ($65.65 in chips) 
+Seat 5: MaRKiToScoK ($109.68 in chips) 
+Seat 6: BGS013 ($108.39 in chips) 
+MarcoReus115: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+OhMuckItPlz: folds 
+RohayhuP: folds 
+MaRKiToScoK: folds 
+BGS013: raises $1.50 to $2.50
+MarcoReus115: calls $2
+tintin641: folds 
+*** FLOP *** [3s Ac 6c]
+MarcoReus115: checks 
+BGS013: bets $1.48
+MarcoReus115: calls $1.48
+*** TURN *** [3s Ac 6c] [7d]
+MarcoReus115: checks 
+BGS013: bets $7
+MarcoReus115: folds 
+Uncalled bet ($7) returned to BGS013
+BGS013 collected $8.51 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.96 | Rake $0.45 
+Board [3s Ac 6c 7d]
+Seat 1: MarcoReus115 (small blind) folded on the Turn
+Seat 2: tintin641 (big blind) folded before Flop
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: MaRKiToScoK folded before Flop (didn't bet)
+Seat 6: BGS013 (button) collected ($8.51)
+
+
+
+PokerStars Hand #254247151296:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:02:28 WET [2025/01/07 12:02:28 ET]
+Table 'Atik II' 6-max Seat #1 is the button
+Seat 1: MarcoReus115 ($68.13 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($108.22 in chips) 
+Seat 4: RohayhuP ($65.65 in chips) 
+Seat 5: MaRKiToScoK ($109.68 in chips) 
+Seat 6: BGS013 ($112.92 in chips) 
+tintin641: posts small blind $0.50
+OhMuckItPlz: posts big blind $1
+*** HOLE CARDS ***
+RohayhuP: folds 
+MaRKiToScoK: folds 
+BGS013: raises $1.50 to $2.50
+MarcoReus115: calls $2.50
+tintin641: folds 
+OhMuckItPlz: raises $11.50 to $14
+BGS013: calls $11.50
+MarcoReus115: calls $11.50
+*** FLOP *** [4h 2d Js]
+OhMuckItPlz: bets $15.50
+BGS013: calls $15.50
+MarcoReus115: folds 
+*** TURN *** [4h 2d Js] [9h]
+OhMuckItPlz: bets $78.72 and is all-in
+BGS013: folds 
+Uncalled bet ($78.72) returned to OhMuckItPlz
+OhMuckItPlz collected $71 from pot
+OhMuckItPlz: doesn't show hand 
+*** SUMMARY ***
+Total pot $73.50 | Rake $2.50 
+Board [4h 2d Js 9h]
+Seat 1: MarcoReus115 (button) folded on the Flop
+Seat 2: tintin641 (small blind) folded before Flop
+Seat 3: OhMuckItPlz (big blind) collected ($71)
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: MaRKiToScoK folded before Flop (didn't bet)
+Seat 6: BGS013 folded on the Turn
+
+
+
+PokerStars Hand #254247164351:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:03:23 WET [2025/01/07 12:03:23 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 1: MarcoReus115 ($54.13 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($149.72 in chips) 
+Seat 4: RohayhuP ($65.65 in chips) 
+Seat 5: MaRKiToScoK ($109.68 in chips) 
+Seat 6: BGS013 ($100 in chips) 
+OhMuckItPlz: posts small blind $0.50
+RohayhuP: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+BGS013: folds 
+MarcoReus115: folds 
+tintin641: raises $1.50 to $2.50
+OhMuckItPlz: raises $9 to $11.50
+RohayhuP: folds 
+tintin641: folds 
+Uncalled bet ($9) returned to OhMuckItPlz
+OhMuckItPlz collected $6 from pot
+OhMuckItPlz: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: MarcoReus115 folded before Flop (didn't bet)
+Seat 2: tintin641 (button) folded before Flop
+Seat 3: OhMuckItPlz (small blind) collected ($6)
+Seat 4: RohayhuP (big blind) folded before Flop
+Seat 5: MaRKiToScoK folded before Flop (didn't bet)
+Seat 6: BGS013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247169504:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:03:43 WET [2025/01/07 12:03:43 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 1: MarcoReus115 ($54.13 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($153.22 in chips) 
+Seat 4: RohayhuP ($64.65 in chips) 
+Seat 5: MaRKiToScoK ($109.68 in chips) 
+Seat 6: BGS013 ($100 in chips) 
+RohayhuP: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+MarcoReus115: calls $1
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: calls $0.50
+MaRKiToScoK: checks 
+*** FLOP *** [As Kd Kc]
+RohayhuP: checks 
+MaRKiToScoK: checks 
+MarcoReus115: checks 
+*** TURN *** [As Kd Kc] [Jh]
+RohayhuP: bets $1.43
+MaRKiToScoK: folds 
+MarcoReus115: folds 
+Uncalled bet ($1.43) returned to RohayhuP
+RohayhuP collected $2.81 from pot
+RohayhuP: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.19 
+Board [As Kd Kc Jh]
+Seat 1: MarcoReus115 folded on the Turn
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz (button) folded before Flop (didn't bet)
+Seat 4: RohayhuP (small blind) collected ($2.81)
+Seat 5: MaRKiToScoK (big blind) folded on the Turn
+Seat 6: BGS013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247180170:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:04:27 WET [2025/01/07 12:04:27 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 1: MarcoReus115 ($53.13 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($153.22 in chips) 
+Seat 4: RohayhuP ($66.46 in chips) 
+Seat 5: MaRKiToScoK ($108.68 in chips) 
+Seat 6: BGS013 ($100 in chips) 
+MaRKiToScoK: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+MarcoReus115: calls $1
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: raises $2.50 to $3.50
+MaRKiToScoK: folds 
+BGS013: folds 
+MarcoReus115: calls $2.50
+*** FLOP *** [6d Kc 4d]
+MarcoReus115: checks 
+RohayhuP: bets $4.04
+MarcoReus115: calls $4.04
+*** TURN *** [6d Kc 4d] [3h]
+MarcoReus115: checks 
+RohayhuP: checks 
+*** RIVER *** [6d Kc 4d 3h] [4c]
+MarcoReus115: checks 
+RohayhuP: checks 
+*** SHOW DOWN ***
+MarcoReus115: shows [2d Ah] (a pair of Fours)
+RohayhuP: mucks hand 
+MarcoReus115 collected $15.75 from pot
+*** SUMMARY ***
+Total pot $16.58 | Rake $0.83 
+Board [6d Kc 4d 3h 4c]
+Seat 1: MarcoReus115 showed [2d Ah] and won ($15.75) with a pair of Fours
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP (button) mucked
+Seat 5: MaRKiToScoK (small blind) folded before Flop
+Seat 6: BGS013 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254247195057:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:05:27 WET [2025/01/07 12:05:27 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 1: MarcoReus115 ($61.34 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($153.22 in chips) 
+Seat 4: RohayhuP ($58.92 in chips) 
+Seat 5: MaRKiToScoK ($108.18 in chips) 
+Seat 6: BGS013 ($100 in chips) 
+BGS013: posts small blind $0.50
+MarcoReus115: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+OhMuckItPlz: raises $1 to $2
+RohayhuP: folds 
+MaRKiToScoK: folds 
+BGS013: raises $9 to $11
+MarcoReus115: calls $10
+OhMuckItPlz: folds 
+*** FLOP *** [2h 4s 6d]
+BGS013: checks 
+MarcoReus115: checks 
+*** TURN *** [2h 4s 6d] [Kc]
+BGS013: checks 
+MarcoReus115: checks 
+*** RIVER *** [2h 4s 6d Kc] [6s]
+BGS013: bets $12.54
+MarcoReus115: calls $12.54
+*** SHOW DOWN ***
+BGS013: shows [Qs Qc] (two pair, Queens and Sixes)
+MarcoReus115: mucks hand 
+BGS013 collected $46.63 from pot
+*** SUMMARY ***
+Total pot $49.08 | Rake $2.45 
+Board [2h 4s 6d Kc 6s]
+Seat 1: MarcoReus115 (big blind) mucked
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz folded before Flop
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: MaRKiToScoK (button) folded before Flop (didn't bet)
+Seat 6: BGS013 (small blind) showed [Qs Qc] and won ($46.63) with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #254247205024:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:06:07 WET [2025/01/07 12:06:07 ET]
+Table 'Atik II' 6-max Seat #6 is the button
+Seat 1: MarcoReus115 ($37.80 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($151.22 in chips) 
+Seat 4: RohayhuP ($58.92 in chips) 
+Seat 5: MaRKiToScoK ($108.18 in chips) 
+Seat 6: BGS013 ($123.09 in chips) 
+MarcoReus115: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+OhMuckItPlz: folds 
+RohayhuP: folds 
+MaRKiToScoK: folds 
+BGS013: folds 
+MarcoReus115: calls $0.50
+tintin641: checks 
+*** FLOP *** [4c 6h 3h]
+MarcoReus115: checks 
+tintin641: bets $1
+MarcoReus115: calls $1
+*** TURN *** [4c 6h 3h] [4s]
+MarcoReus115: checks 
+tintin641: checks 
+*** RIVER *** [4c 6h 3h 4s] [Kh]
+MarcoReus115: checks 
+tintin641: checks 
+*** SHOW DOWN ***
+MarcoReus115: shows [Ts 6s] (two pair, Sixes and Fours)
+tintin641: mucks hand 
+MarcoReus115 collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [4c 6h 3h 4s Kh]
+Seat 1: MarcoReus115 (small blind) showed [Ts 6s] and won ($3.80) with two pair, Sixes and Fours
+Seat 2: tintin641 (big blind) mucked
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: MaRKiToScoK folded before Flop (didn't bet)
+Seat 6: BGS013 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247219193:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:07:05 WET [2025/01/07 12:07:05 ET]
+Table 'Atik II' 6-max Seat #1 is the button
+Seat 1: MarcoReus115 ($39.60 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($151.22 in chips) 
+Seat 4: RohayhuP ($58.92 in chips) 
+Seat 5: MaRKiToScoK ($108.18 in chips) 
+Seat 6: BGS013 ($123.09 in chips) 
+tintin641: posts small blind $0.50
+OhMuckItPlz: posts big blind $1
+*** HOLE CARDS ***
+RohayhuP: folds 
+MaRKiToScoK: folds 
+BGS013: folds 
+MarcoReus115: folds 
+tintin641: folds 
+Uncalled bet ($0.50) returned to OhMuckItPlz
+OhMuckItPlz collected $1 from pot
+OhMuckItPlz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: MarcoReus115 (button) folded before Flop (didn't bet)
+Seat 2: tintin641 (small blind) folded before Flop
+Seat 3: OhMuckItPlz (big blind) collected ($1)
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: MaRKiToScoK folded before Flop (didn't bet)
+Seat 6: BGS013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247222592:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:07:18 WET [2025/01/07 12:07:18 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 1: MarcoReus115 ($39.60 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($151.72 in chips) 
+Seat 4: RohayhuP ($58.92 in chips) 
+Seat 5: MaRKiToScoK ($108.18 in chips) 
+Seat 6: BGS013 ($123.09 in chips) 
+OhMuckItPlz: posts small blind $0.50
+RohayhuP: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+MaRKiToScoK leaves the table
+BGS013: folds 
+MarcoReus115: calls $1
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: checks 
+*** FLOP *** [8c 5d Qh]
+RohayhuP: checks 
+MarcoReus115: checks 
+*** TURN *** [8c 5d Qh] [2c]
+BoyLoc0 joins the table at seat #5 
+RohayhuP: bets $1.19
+MarcoReus115: calls $1.19
+*** RIVER *** [8c 5d Qh 2c] [5c]
+RohayhuP: checks 
+MarcoReus115: checks 
+*** SHOW DOWN ***
+RohayhuP: shows [3d 4s] (a pair of Fives)
+MarcoReus115: shows [3c 2d] (two pair, Fives and Deuces)
+MarcoReus115 collected $4.64 from pot
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.24 
+Board [8c 5d Qh 2c 5c]
+Seat 1: MarcoReus115 showed [3c 2d] and won ($4.64) with two pair, Fives and Deuces
+Seat 2: tintin641 (button) folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz (small blind) folded before Flop
+Seat 4: RohayhuP (big blind) showed [3d 4s] and lost with a pair of Fives
+Seat 5: MaRKiToScoK folded before Flop (didn't bet)
+Seat 6: BGS013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247231637:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:07:55 WET [2025/01/07 12:07:55 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 1: MarcoReus115 ($42.05 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($151.22 in chips) 
+Seat 4: RohayhuP ($56.73 in chips) 
+Seat 5: BoyLoc0 ($100 in chips) 
+Seat 6: BGS013 ($123.09 in chips) 
+RohayhuP: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+MarcoReus115: calls $1
+tintin641: folds 
+OhMuckItPlz: raises $1.50 to $2.50
+RohayhuP: folds 
+BoyLoc0: raises $10.50 to $13
+MarcoReus115: calls $12
+OhMuckItPlz: calls $10.50
+*** FLOP *** [8s 6h 8h]
+BoyLoc0: bets $28.14
+MarcoReus115: folds 
+OhMuckItPlz: folds 
+Uncalled bet ($28.14) returned to BoyLoc0
+BoyLoc0 collected $37.52 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $39.50 | Rake $1.98 
+Board [8s 6h 8h]
+Seat 1: MarcoReus115 folded on the Flop
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz (button) folded on the Flop
+Seat 4: RohayhuP (small blind) folded before Flop
+Seat 5: BoyLoc0 (big blind) collected ($37.52)
+Seat 6: BGS013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247244113:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:08:46 WET [2025/01/07 12:08:46 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 1: MarcoReus115 ($29.05 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($138.22 in chips) 
+Seat 4: RohayhuP ($56.23 in chips) 
+Seat 5: BoyLoc0 ($124.52 in chips) 
+Seat 6: BGS013 ($123.09 in chips) 
+BoyLoc0: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+MarcoReus115: folds 
+tintin641: raises $1.50 to $2.50
+OhMuckItPlz: folds 
+RohayhuP: folds 
+BoyLoc0: folds 
+BGS013: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MarcoReus115 folded before Flop (didn't bet)
+Seat 2: tintin641 collected ($2.50)
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP (button) folded before Flop (didn't bet)
+Seat 5: BoyLoc0 (small blind) folded before Flop
+Seat 6: BGS013 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254247248890:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:09:06 WET [2025/01/07 12:09:06 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 1: MarcoReus115 ($29.05 in chips) 
+Seat 2: tintin641 ($101.50 in chips) 
+Seat 3: OhMuckItPlz ($138.22 in chips) 
+Seat 4: RohayhuP ($56.23 in chips) 
+Seat 5: BoyLoc0 ($124.02 in chips) 
+Seat 6: BGS013 ($122.09 in chips) 
+BGS013: posts small blind $0.50
+MarcoReus115: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: folds 
+BoyLoc0: folds 
+BGS013: calls $0.50
+MarcoReus115: checks 
+*** FLOP *** [Ad 9h 7d]
+BGS013: checks 
+MarcoReus115: checks 
+*** TURN *** [Ad 9h 7d] [6s]
+BGS013: checks 
+MarcoReus115: checks 
+*** RIVER *** [Ad 9h 7d 6s] [Kd]
+BGS013: checks 
+MarcoReus115: bets $28.05 and is all-in
+BGS013: folds 
+Uncalled bet ($28.05) returned to MarcoReus115
+MarcoReus115 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Ad 9h 7d 6s Kd]
+Seat 1: MarcoReus115 (big blind) collected ($1.90)
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 6: BGS013 (small blind) folded on the River
+
+
+
+PokerStars Hand #254247256338:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:09:35 WET [2025/01/07 12:09:35 ET]
+Table 'Atik II' 6-max Seat #6 is the button
+Seat 1: MarcoReus115 ($29.95 in chips) 
+Seat 2: tintin641 ($101.50 in chips) 
+Seat 3: OhMuckItPlz ($138.22 in chips) 
+Seat 4: RohayhuP ($56.23 in chips) 
+Seat 5: BoyLoc0 ($124.02 in chips) 
+Seat 6: BGS013 ($121.09 in chips) 
+MarcoReus115: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+OhMuckItPlz: raises $1 to $2
+RohayhuP: folds 
+BoyLoc0: folds 
+BGS013: folds 
+MarcoReus115: calls $1.50
+tintin641: folds 
+*** FLOP *** [8c 3d Qd]
+MarcoReus115: checks 
+OhMuckItPlz: bets $1.57
+MarcoReus115: calls $1.57
+*** TURN *** [8c 3d Qd] [2h]
+MarcoReus115: checks 
+OhMuckItPlz: checks 
+*** RIVER *** [8c 3d Qd 2h] [9s]
+MarcoReus115: bets $26.38 and is all-in
+OhMuckItPlz: folds 
+Uncalled bet ($26.38) returned to MarcoReus115
+MarcoReus115 collected $7.73 from pot
+*** SUMMARY ***
+Total pot $8.14 | Rake $0.41 
+Board [8c 3d Qd 2h 9s]
+Seat 1: MarcoReus115 (small blind) collected ($7.73)
+Seat 2: tintin641 (big blind) folded before Flop
+Seat 3: OhMuckItPlz folded on the River
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: BoyLoc0 folded before Flop (didn't bet)
+Seat 6: BGS013 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247265460:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:10:12 WET [2025/01/07 12:10:12 ET]
+Table 'Atik II' 6-max Seat #1 is the button
+Seat 1: MarcoReus115 ($34.11 in chips) 
+Seat 2: tintin641 ($100.50 in chips) 
+Seat 3: OhMuckItPlz ($134.65 in chips) 
+Seat 4: RohayhuP ($56.23 in chips) 
+Seat 5: BoyLoc0 ($124.02 in chips) 
+Seat 6: BGS013 ($121.09 in chips) 
+tintin641: posts small blind $0.50
+OhMuckItPlz: posts big blind $1
+*** HOLE CARDS ***
+RohayhuP: folds 
+BoyLoc0: folds 
+BGS013: folds 
+MarcoReus115: calls $1
+tintin641: folds 
+OhMuckItPlz: raises $2.50 to $3.50
+MarcoReus115: calls $2.50
+*** FLOP *** [2h Kh Jd]
+OhMuckItPlz: checks 
+MarcoReus115: checks 
+*** TURN *** [2h Kh Jd] [2s]
+OhMuckItPlz: checks 
+MarcoReus115: checks 
+*** RIVER *** [2h Kh Jd 2s] [Qc]
+OhMuckItPlz: bets $2.35
+MarcoReus115: raises $28.26 to $30.61 and is all-in
+OhMuckItPlz: folds 
+Uncalled bet ($28.26) returned to MarcoReus115
+MarcoReus115 collected $11.59 from pot
+*** SUMMARY ***
+Total pot $12.20 | Rake $0.61 
+Board [2h Kh Jd 2s Qc]
+Seat 1: MarcoReus115 (button) collected ($11.59)
+Seat 2: tintin641 (small blind) folded before Flop
+Seat 3: OhMuckItPlz (big blind) folded on the River
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: BoyLoc0 folded before Flop (didn't bet)
+Seat 6: BGS013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247274770:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:10:49 WET [2025/01/07 12:10:49 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 1: MarcoReus115 ($39.85 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($128.80 in chips) 
+Seat 4: RohayhuP ($56.23 in chips) 
+Seat 5: BoyLoc0 ($124.02 in chips) 
+Seat 6: BGS013 ($121.09 in chips) 
+OhMuckItPlz: posts small blind $0.50
+RohayhuP: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+BGS013: folds 
+MarcoReus115: calls $2.50
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: raises $10 to $12.50
+BoyLoc0: folds 
+MarcoReus115: calls $10
+*** FLOP *** [Td 4h 3c]
+RohayhuP: bets $27.60
+MarcoReus115: folds 
+Uncalled bet ($27.60) returned to RohayhuP
+RohayhuP collected $26.25 from pot
+RohayhuP: doesn't show hand 
+*** SUMMARY ***
+Total pot $28 | Rake $1.75 
+Board [Td 4h 3c]
+Seat 1: MarcoReus115 folded on the Flop
+Seat 2: tintin641 (button) folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz (small blind) folded before Flop
+Seat 4: RohayhuP (big blind) collected ($26.25)
+Seat 5: BoyLoc0 folded before Flop
+Seat 6: BGS013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247283864:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:11:25 WET [2025/01/07 12:11:25 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 1: MarcoReus115 ($27.35 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($128.30 in chips) 
+Seat 4: RohayhuP ($69.98 in chips) 
+Seat 5: BoyLoc0 ($121.52 in chips) 
+Seat 6: BGS013 ($121.09 in chips) 
+RohayhuP: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+BGS013 has timed out
+BGS013: folds 
+MarcoReus115: folds 
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: raises $2 to $3
+BoyLoc0: folds 
+Uncalled bet ($2) returned to RohayhuP
+RohayhuP collected $2 from pot
+RohayhuP: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: MarcoReus115 folded before Flop (didn't bet)
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz (button) folded before Flop (didn't bet)
+Seat 4: RohayhuP (small blind) collected ($2)
+Seat 5: BoyLoc0 (big blind) folded before Flop
+Seat 6: BGS013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247289682:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:11:48 WET [2025/01/07 12:11:48 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 6: BGS013 ($121.09 in chips) is sitting out
+Seat 1: MarcoReus115 ($27.35 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($128.30 in chips) 
+Seat 4: RohayhuP ($70.98 in chips) 
+Seat 5: BoyLoc0 ($120.52 in chips) 
+BoyLoc0: posts small blind $0.50
+MarcoReus115: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+OhMuckItPlz: folds 
+RohayhuP: folds 
+BoyLoc0: folds 
+MarcoReus115: calls $1.50
+*** FLOP *** [Td 4h 8d]
+MarcoReus115: checks 
+tintin641: checks 
+*** TURN *** [Td 4h 8d] [Kc]
+MarcoReus115: checks 
+tintin641: bets $3.92
+MarcoReus115: raises $3.92 to $7.84
+tintin641: folds 
+Uncalled bet ($3.92) returned to MarcoReus115
+MarcoReus115 collected $12.67 from pot
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [Td 4h 8d Kc]
+Seat 6: BGS013
+Seat 1: MarcoReus115 (big blind) collected ($12.67)
+Seat 2: tintin641 folded on the Turn
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP (button) folded before Flop (didn't bet)
+Seat 5: BoyLoc0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254247301646:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:12:35 WET [2025/01/07 12:12:35 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 6: BGS013 ($121.09 in chips) is sitting out
+Seat 1: MarcoReus115 ($33.60 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($128.30 in chips) 
+Seat 4: RohayhuP ($70.98 in chips) 
+Seat 5: BoyLoc0 ($120.02 in chips) 
+MarcoReus115: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+OhMuckItPlz: folds 
+RohayhuP: folds 
+BoyLoc0: folds 
+MarcoReus115: calls $0.50
+tintin641: raises $3 to $4
+MarcoReus115: calls $3
+*** FLOP *** [Ac 5s 9s]
+MarcoReus115: checks 
+tintin641: bets $2.51
+MarcoReus115: folds 
+Uncalled bet ($2.51) returned to tintin641
+tintin641 collected $7.60 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Ac 5s 9s]
+Seat 6: BGS013
+Seat 1: MarcoReus115 (small blind) folded on the Flop
+Seat 2: tintin641 (big blind) collected ($7.60)
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: BoyLoc0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247308066:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:13:00 WET [2025/01/07 12:13:00 ET]
+Table 'Atik II' 6-max Seat #1 is the button
+Seat 6: BGS013 ($121.09 in chips) is sitting out
+Seat 1: MarcoReus115 ($29.60 in chips) 
+Seat 2: tintin641 ($103.60 in chips) 
+Seat 3: OhMuckItPlz ($128.30 in chips) 
+Seat 4: RohayhuP ($70.98 in chips) 
+Seat 5: BoyLoc0 ($120.02 in chips) 
+tintin641: posts small blind $0.50
+OhMuckItPlz: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+RohayhuP: folds 
+BoyLoc0: folds 
+MarcoReus115: calls $1
+tintin641: calls $0.50
+OhMuckItPlz: checks 
+*** FLOP *** [Qh 5d 5h]
+tintin641: checks 
+OhMuckItPlz: checks 
+MarcoReus115: checks 
+*** TURN *** [Qh 5d 5h] [Ac]
+tintin641: checks 
+OhMuckItPlz: checks 
+MarcoReus115: checks 
+*** RIVER *** [Qh 5d 5h Ac] [7s]
+tintin641: checks 
+OhMuckItPlz: bets $1.50
+MarcoReus115: folds 
+tintin641: calls $1.50
+*** SHOW DOWN ***
+OhMuckItPlz: shows [Ad 2s] (two pair, Aces and Fives)
+tintin641: mucks hand 
+OhMuckItPlz collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Qh 5d 5h Ac 7s]
+Seat 6: BGS013
+Seat 1: MarcoReus115 (button) folded on the River
+Seat 2: tintin641 (small blind) mucked
+Seat 3: OhMuckItPlz (big blind) showed [Ad 2s] and won ($5.70) with two pair, Aces and Fives
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: BoyLoc0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247324935:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:14:06 WET [2025/01/07 12:14:06 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 6: BGS013 ($121.09 in chips) is sitting out
+Seat 1: MarcoReus115 ($28.60 in chips) 
+Seat 2: tintin641 ($101.10 in chips) 
+Seat 3: OhMuckItPlz ($131.50 in chips) 
+Seat 4: RohayhuP ($70.98 in chips) 
+Seat 5: BoyLoc0 ($120.02 in chips) 
+OhMuckItPlz: posts small blind $0.50
+RohayhuP: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+BoyLoc0: folds 
+MarcoReus115: calls $1
+tintin641: raises $3 to $4
+OhMuckItPlz: folds 
+RohayhuP: folds 
+MarcoReus115: calls $3
+*** FLOP *** [9c Kc 4d]
+MarcoReus115: checks 
+tintin641: checks 
+*** TURN *** [9c Kc 4d] [7d]
+MarcoReus115: checks 
+tintin641: checks 
+*** RIVER *** [9c Kc 4d 7d] [Td]
+MarcoReus115: checks 
+tintin641: checks 
+*** SHOW DOWN ***
+MarcoReus115: shows [2c 2d] (a pair of Deuces)
+tintin641: mucks hand 
+MarcoReus115 collected $9.02 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [9c Kc 4d 7d Td]
+Seat 6: BGS013
+Seat 1: MarcoReus115 showed [2c 2d] and won ($9.02) with a pair of Deuces
+Seat 2: tintin641 (button) mucked
+Seat 3: OhMuckItPlz (small blind) folded before Flop
+Seat 4: RohayhuP (big blind) folded before Flop
+Seat 5: BoyLoc0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247338984:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:15:01 WET [2025/01/07 12:15:01 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 6: BGS013 ($121.09 in chips) is sitting out
+Seat 1: MarcoReus115 ($33.62 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($131 in chips) 
+Seat 4: RohayhuP ($69.98 in chips) 
+Seat 5: BoyLoc0 ($120.02 in chips) 
+RohayhuP: posts small blind $0.50
+BoyLoc0: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+MarcoReus115: calls $1
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: calls $0.50
+BoyLoc0: checks 
+*** FLOP *** [4h 6h Qc]
+RohayhuP: bets $1.43
+BoyLoc0: folds 
+MarcoReus115: folds 
+Uncalled bet ($1.43) returned to RohayhuP
+RohayhuP collected $2.81 from pot
+RohayhuP: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.19 
+Board [4h 6h Qc]
+Seat 6: BGS013
+Seat 1: MarcoReus115 folded on the Flop
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz (button) folded before Flop (didn't bet)
+Seat 4: RohayhuP (small blind) collected ($2.81)
+Seat 5: BoyLoc0 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254247348273:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:15:37 WET [2025/01/07 12:15:37 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 1: MarcoReus115 ($32.62 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($131 in chips) 
+Seat 4: RohayhuP ($71.79 in chips) 
+Seat 5: BoyLoc0 ($119.02 in chips) 
+Seat 6: BGS013 ($121.09 in chips) 
+BoyLoc0: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+MarcoReus115: calls $1
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: raises $2.50 to $3.50
+BoyLoc0: folds 
+BGS013: folds 
+MarcoReus115: calls $2.50
+*** FLOP *** [Ad Td 5s]
+MarcoReus115: checks 
+RohayhuP: bets $4.04
+MarcoReus115: calls $4.04
+*** TURN *** [Ad Td 5s] [5c]
+MarcoReus115: checks 
+RohayhuP: bets $7.88
+MarcoReus115: folds 
+Uncalled bet ($7.88) returned to RohayhuP
+RohayhuP collected $15.54 from pot
+RohayhuP: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.58 | Rake $1.04 
+Board [Ad Td 5s 5c]
+Seat 1: MarcoReus115 folded on the Turn
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP (button) collected ($15.54)
+Seat 5: BoyLoc0 (small blind) folded before Flop
+Seat 6: BGS013 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254247359841:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:16:22 WET [2025/01/07 12:16:22 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 1: MarcoReus115 ($25.08 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($131 in chips) 
+Seat 4: RohayhuP ($79.79 in chips) 
+Seat 5: BoyLoc0 ($118.52 in chips) 
+Seat 6: BGS013 ($120.09 in chips) 
+BGS013: posts small blind $0.50
+MarcoReus115: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: folds 
+BoyLoc0: raises $1.50 to $2.50
+BGS013: folds 
+MarcoReus115: calls $1.50
+*** FLOP *** [Kh 9s 3d]
+MarcoReus115: checks 
+BoyLoc0: checks 
+*** TURN *** [Kh 9s 3d] [7s]
+MarcoReus115: checks 
+BoyLoc0: checks 
+*** RIVER *** [Kh 9s 3d 7s] [Qs]
+MarcoReus115: checks 
+BoyLoc0: checks 
+*** SHOW DOWN ***
+MarcoReus115: shows [7h 5s] (a pair of Sevens)
+BoyLoc0: mucks hand 
+MarcoReus115 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Kh 9s 3d 7s Qs]
+Seat 1: MarcoReus115 (big blind) showed [7h 5s] and won ($5.22) with a pair of Sevens
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: BoyLoc0 (button) mucked
+Seat 6: BGS013 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254247368701:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:16:57 WET [2025/01/07 12:16:57 ET]
+Table 'Atik II' 6-max Seat #6 is the button
+Seat 1: MarcoReus115 ($27.80 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: OhMuckItPlz ($131 in chips) 
+Seat 4: RohayhuP ($79.79 in chips) 
+Seat 5: BoyLoc0 ($116.02 in chips) 
+Seat 6: BGS013 ($119.59 in chips) 
+MarcoReus115: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+OhMuckItPlz: folds 
+RohayhuP: folds 
+BoyLoc0: folds 
+BGS013: raises $1.50 to $2.50
+MarcoReus115: calls $2
+tintin641: raises $11 to $13.50
+BGS013: folds 
+MarcoReus115: folds 
+Uncalled bet ($11) returned to tintin641
+tintin641 collected $7.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: MarcoReus115 (small blind) folded before Flop
+Seat 2: tintin641 (big blind) collected ($7.50)
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: BoyLoc0 folded before Flop (didn't bet)
+Seat 6: BGS013 (button) folded before Flop
+
+
+
+PokerStars Hand #254247376276:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:17:26 WET [2025/01/07 12:17:26 ET]
+Table 'Atik II' 6-max Seat #1 is the button
+Seat 1: MarcoReus115 ($25.30 in chips) 
+Seat 2: tintin641 ($105 in chips) 
+Seat 3: OhMuckItPlz ($131 in chips) 
+Seat 4: RohayhuP ($79.79 in chips) 
+Seat 5: BoyLoc0 ($116.02 in chips) 
+Seat 6: BGS013 ($117.09 in chips) 
+tintin641: posts small blind $0.50
+OhMuckItPlz: posts big blind $1
+*** HOLE CARDS ***
+RohayhuP: folds 
+BoyLoc0: folds 
+BGS013: folds 
+MarcoReus115: calls $1
+tintin641: raises $3 to $4
+OhMuckItPlz: folds 
+MarcoReus115: calls $3
+*** FLOP *** [6c 8c 6d]
+tintin641: bets $6.41
+MarcoReus115: folds 
+Uncalled bet ($6.41) returned to tintin641
+tintin641 collected $8.55 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [6c 8c 6d]
+Seat 1: MarcoReus115 (button) folded on the Flop
+Seat 2: tintin641 (small blind) collected ($8.55)
+Seat 3: OhMuckItPlz (big blind) folded before Flop
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: BoyLoc0 folded before Flop (didn't bet)
+Seat 6: BGS013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247386691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:18:06 WET [2025/01/07 12:18:06 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 1: MarcoReus115 ($21.30 in chips) 
+Seat 2: tintin641 ($109.55 in chips) 
+Seat 3: OhMuckItPlz ($130 in chips) 
+Seat 4: RohayhuP ($79.79 in chips) 
+Seat 5: BoyLoc0 ($116.02 in chips) 
+Seat 6: BGS013 ($117.09 in chips) 
+OhMuckItPlz: posts small blind $0.50
+RohayhuP: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+BGS013: raises $1 to $2
+MarcoReus115: calls $2
+tintin641: raises $7 to $9
+OhMuckItPlz: folds 
+RohayhuP: folds 
+BGS013: folds 
+MarcoReus115: calls $7
+*** FLOP *** [Ts 3h Kc]
+MarcoReus115: checks 
+tintin641: checks 
+*** TURN *** [Ts 3h Kc] [6c]
+MarcoReus115: checks 
+tintin641: bets $15.32
+MarcoReus115: calls $12.30 and is all-in
+Uncalled bet ($3.02) returned to tintin641
+*** RIVER *** [Ts 3h Kc 6c] [6d]
+*** SHOW DOWN ***
+MarcoReus115: shows [3c Ad] (two pair, Sixes and Threes)
+tintin641: shows [Qs Qh] (two pair, Queens and Sixes)
+tintin641 collected $43.80 from pot
+*** SUMMARY ***
+Total pot $46.10 | Rake $2.30 
+Board [Ts 3h Kc 6c 6d]
+Seat 1: MarcoReus115 showed [3c Ad] and lost with two pair, Sixes and Threes
+Seat 2: tintin641 (button) showed [Qs Qh] and won ($43.80) with two pair, Queens and Sixes
+Seat 3: OhMuckItPlz (small blind) folded before Flop
+Seat 4: RohayhuP (big blind) folded before Flop
+Seat 5: BoyLoc0 folded before Flop (didn't bet)
+Seat 6: BGS013 folded before Flop
+
+
+
+PokerStars Hand #254247402355:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:19:06 WET [2025/01/07 12:19:06 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 2: tintin641 ($132.05 in chips) 
+Seat 3: OhMuckItPlz ($129.50 in chips) 
+Seat 4: RohayhuP ($78.79 in chips) 
+Seat 5: BoyLoc0 ($116.02 in chips) 
+Seat 6: BGS013 ($115.09 in chips) 
+RohayhuP: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+tintin641: raises $1.50 to $2.50
+OhMuckItPlz: folds 
+RohayhuP: folds 
+BoyLoc0: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MarcoReus115
+Seat 2: tintin641 collected ($2.50)
+Seat 3: OhMuckItPlz (button) folded before Flop (didn't bet)
+Seat 4: RohayhuP (small blind) folded before Flop
+Seat 5: BoyLoc0 (big blind) folded before Flop
+Seat 6: BGS013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247405968:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:19:20 WET [2025/01/07 12:19:20 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 2: tintin641 ($133.55 in chips) 
+Seat 3: OhMuckItPlz ($129.50 in chips) 
+Seat 4: RohayhuP ($78.29 in chips) 
+Seat 5: BoyLoc0 ($115.02 in chips) 
+Seat 6: BGS013 ($115.09 in chips) 
+BoyLoc0: posts small blind $0.50
+MarcoReus115 is disconnected 
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: raises $1.50 to $2.50
+BoyLoc0: folds 
+BGS013: folds 
+Uncalled bet ($1.50) returned to RohayhuP
+RohayhuP collected $2.50 from pot
+RohayhuP: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MarcoReus115
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP (button) collected ($2.50)
+Seat 5: BoyLoc0 (small blind) folded before Flop
+Seat 6: BGS013 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254247409011:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:19:32 WET [2025/01/07 12:19:32 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 2: tintin641 ($133.55 in chips) 
+Seat 3: OhMuckItPlz ($129.50 in chips) 
+Seat 4: RohayhuP ($79.79 in chips) 
+Seat 5: BoyLoc0 ($114.52 in chips) 
+Seat 6: BGS013 ($114.09 in chips) 
+BGS013: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+OhMuckItPlz: raises $1 to $2
+RohayhuP: folds 
+BoyLoc0: folds 
+BGS013: folds 
+tintin641: folds 
+Uncalled bet ($1) returned to OhMuckItPlz
+OhMuckItPlz collected $2.50 from pot
+OhMuckItPlz: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MarcoReus115
+Seat 2: tintin641 (big blind) folded before Flop
+Seat 3: OhMuckItPlz collected ($2.50)
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 6: BGS013 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254247412521:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:19:45 WET [2025/01/07 12:19:45 ET]
+Table 'Atik II' 6-max Seat #6 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 2: tintin641 ($132.55 in chips) 
+Seat 3: OhMuckItPlz ($131 in chips) 
+Seat 4: RohayhuP ($79.79 in chips) 
+Seat 5: BoyLoc0 ($114.52 in chips) 
+Seat 6: BGS013 ($113.59 in chips) 
+tintin641: posts small blind $0.50
+OhMuckItPlz: posts big blind $1
+*** HOLE CARDS ***
+RohayhuP: folds 
+BoyLoc0: folds 
+BGS013: raises $1.50 to $2.50
+tintin641: folds 
+OhMuckItPlz: folds 
+Uncalled bet ($1.50) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MarcoReus115
+Seat 2: tintin641 (small blind) folded before Flop
+Seat 3: OhMuckItPlz (big blind) folded before Flop
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: BoyLoc0 folded before Flop (didn't bet)
+Seat 6: BGS013 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254247416078:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:19:59 WET [2025/01/07 12:19:59 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 2: tintin641 ($132.05 in chips) 
+Seat 3: OhMuckItPlz ($130 in chips) 
+Seat 4: RohayhuP ($79.79 in chips) 
+Seat 5: BoyLoc0 ($114.52 in chips) 
+Seat 6: BGS013 ($115.09 in chips) 
+OhMuckItPlz: posts small blind $0.50
+RohayhuP: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+BGS013: folds 
+tintin641: raises $1.50 to $2.50
+OhMuckItPlz: folds 
+RohayhuP: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MarcoReus115
+Seat 2: tintin641 (button) collected ($2.50)
+Seat 3: OhMuckItPlz (small blind) folded before Flop
+Seat 4: RohayhuP (big blind) folded before Flop
+Seat 5: BoyLoc0 folded before Flop (didn't bet)
+Seat 6: BGS013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247420460:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:20:16 WET [2025/01/07 12:20:16 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 2: tintin641 ($133.55 in chips) 
+Seat 3: OhMuckItPlz ($129.50 in chips) 
+Seat 4: RohayhuP ($78.79 in chips) 
+Seat 5: BoyLoc0 ($114.52 in chips) 
+Seat 6: BGS013 ($115.09 in chips) 
+RohayhuP: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+tintin641: raises $1.50 to $2.50
+BGS013 leaves the table
+OhMuckItPlz: folds 
+RohayhuP: raises $6 to $8.50
+BoyLoc0: folds 
+Dante21b joins the table at seat #6 
+tintin641: calls $6
+*** FLOP *** [Qc 3h 7h]
+RohayhuP: bets $8.55
+tintin641: folds 
+Uncalled bet ($8.55) returned to RohayhuP
+RohayhuP collected $16.88 from pot
+RohayhuP: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $1.12 
+Board [Qc 3h 7h]
+Seat 1: MarcoReus115
+Seat 2: tintin641 folded on the Flop
+Seat 3: OhMuckItPlz (button) folded before Flop (didn't bet)
+Seat 4: RohayhuP (small blind) collected ($16.88)
+Seat 5: BoyLoc0 (big blind) folded before Flop
+Seat 6: BGS013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247432273:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:21:01 WET [2025/01/07 12:21:01 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 2: tintin641 ($125.05 in chips) 
+Seat 3: OhMuckItPlz ($129.50 in chips) 
+Seat 4: RohayhuP ($87.17 in chips) 
+Seat 5: BoyLoc0 ($113.52 in chips) 
+Seat 6: Dante21b ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+Dante21b: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+OhMuckItPlz: folds 
+RohayhuP: folds 
+BoyLoc0: raises $2 to $3
+Dante21b: folds 
+Uncalled bet ($2) returned to BoyLoc0
+BoyLoc0 collected $2 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: MarcoReus115
+Seat 2: tintin641 folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP (button) folded before Flop (didn't bet)
+Seat 5: BoyLoc0 (small blind) collected ($2)
+Seat 6: Dante21b (big blind) folded before Flop
+
+
+
+PokerStars Hand #254247440733:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:21:33 WET [2025/01/07 12:21:33 ET]
+Table 'Atik II' 6-max Seat #6 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 2: tintin641 ($125.05 in chips) 
+Seat 3: OhMuckItPlz ($129.50 in chips) 
+Seat 4: RohayhuP ($87.17 in chips) 
+Seat 6: Dante21b ($99 in chips) 
+tintin641: posts small blind $0.50
+OhMuckItPlz: posts big blind $1
+*** HOLE CARDS ***
+RohayhuP: folds 
+Dante21b: folds 
+tintin641: folds 
+Uncalled bet ($0.50) returned to OhMuckItPlz
+OhMuckItPlz collected $1 from pot
+OhMuckItPlz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: MarcoReus115
+Seat 2: tintin641 (small blind) folded before Flop
+Seat 3: OhMuckItPlz (big blind) collected ($1)
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 6: Dante21b (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247444186:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:21:46 WET [2025/01/07 12:21:46 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 2: tintin641 ($124.55 in chips) 
+Seat 3: OhMuckItPlz ($130 in chips) 
+Seat 4: RohayhuP ($87.17 in chips) 
+Seat 6: Dante21b ($99 in chips) 
+OhMuckItPlz: posts small blind $0.50
+RohayhuP: posts big blind $1
+*** HOLE CARDS ***
+Dante21b: folds 
+tintin641: folds 
+OhMuckItPlz: raises $2 to $3
+rrrro joins the table at seat #5 
+RohayhuP: raises $6 to $9
+OhMuckItPlz: calls $6
+*** FLOP *** [9d Ac Jd]
+OhMuckItPlz: checks 
+RohayhuP: checks 
+*** TURN *** [9d Ac Jd] [Qs]
+OhMuckItPlz: checks 
+RohayhuP: checks 
+*** RIVER *** [9d Ac Jd Qs] [Th]
+OhMuckItPlz: bets $5.64
+RohayhuP: folds 
+Uncalled bet ($5.64) returned to OhMuckItPlz
+OhMuckItPlz collected $17.10 from pot
+OhMuckItPlz: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [9d Ac Jd Qs Th]
+Seat 1: MarcoReus115
+Seat 2: tintin641 (button) folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz (small blind) collected ($17.10)
+Seat 4: RohayhuP (big blind) folded on the River
+Seat 6: Dante21b folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247462390:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:22:55 WET [2025/01/07 12:22:55 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 2: tintin641 ($124.55 in chips) 
+Seat 3: OhMuckItPlz ($138.10 in chips) 
+Seat 4: RohayhuP ($78.17 in chips) 
+Seat 5: rrrro ($100 in chips) 
+Seat 6: Dante21b ($99 in chips) 
+RohayhuP: posts small blind $0.50
+rrrro: posts big blind $1
+*** HOLE CARDS ***
+Dante21b: folds 
+tintin641: raises $1.50 to $2.50
+OhMuckItPlz: folds 
+RohayhuP: folds 
+rrrro: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MarcoReus115
+Seat 2: tintin641 collected ($2.50)
+Seat 3: OhMuckItPlz (button) folded before Flop (didn't bet)
+Seat 4: RohayhuP (small blind) folded before Flop
+Seat 5: rrrro (big blind) folded before Flop
+Seat 6: Dante21b folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247469132:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:23:20 WET [2025/01/07 12:23:20 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 2: tintin641 ($126.05 in chips) 
+Seat 3: OhMuckItPlz ($138.10 in chips) 
+Seat 4: RohayhuP ($77.67 in chips) 
+Seat 5: rrrro ($100 in chips) 
+Seat 6: Dante21b ($99 in chips) 
+rrrro: posts small blind $0.50
+Dante21b: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+OhMuckItPlz: folds 
+RohayhuP: folds 
+rrrro: folds 
+Dante21b: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MarcoReus115
+Seat 2: tintin641 collected ($2.50)
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP (button) folded before Flop (didn't bet)
+Seat 5: rrrro (small blind) folded before Flop
+Seat 6: Dante21b (big blind) folded before Flop
+
+
+
+PokerStars Hand #254247474827:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:23:42 WET [2025/01/07 12:23:42 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 3: OhMuckItPlz ($138.10 in chips) 
+Seat 4: RohayhuP ($77.67 in chips) 
+Seat 5: rrrro ($100 in chips) 
+Seat 6: Dante21b ($98 in chips) 
+Dante21b: posts small blind $0.50
+OhMuckItPlz: posts big blind $1
+*** HOLE CARDS ***
+RohayhuP: folds 
+rrrro: folds 
+Dante21b: folds 
+Uncalled bet ($0.50) returned to OhMuckItPlz
+OhMuckItPlz collected $1 from pot
+OhMuckItPlz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: MarcoReus115
+Seat 3: OhMuckItPlz (big blind) collected ($1)
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 5: rrrro (button) folded before Flop (didn't bet)
+Seat 6: Dante21b (small blind) folded before Flop
+
+
+
+PokerStars Hand #254247479253:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:23:59 WET [2025/01/07 12:23:59 ET]
+Table 'Atik II' 6-max Seat #6 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 3: OhMuckItPlz ($138.60 in chips) 
+Seat 4: RohayhuP ($77.67 in chips) 
+Seat 5: rrrro ($100 in chips) 
+Seat 6: Dante21b ($97.50 in chips) 
+OhMuckItPlz: posts small blind $0.50
+RohayhuP: posts big blind $1
+*** HOLE CARDS ***
+rrrro: folds 
+Dante21b: folds 
+OhMuckItPlz: folds 
+Uncalled bet ($0.50) returned to RohayhuP
+RohayhuP collected $1 from pot
+RohayhuP: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: MarcoReus115
+Seat 3: OhMuckItPlz (small blind) folded before Flop
+Seat 4: RohayhuP (big blind) collected ($1)
+Seat 5: rrrro folded before Flop (didn't bet)
+Seat 6: Dante21b (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247483269:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:24:14 WET [2025/01/07 12:24:14 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 5: rrrro ($100 in chips) is sitting out
+Seat 3: OhMuckItPlz ($138.10 in chips) 
+Seat 4: RohayhuP ($78.17 in chips) 
+Seat 6: Dante21b ($97.50 in chips) 
+RohayhuP: posts small blind $0.50
+rrrro: is sitting out 
+Dante21b: posts big blind $1
+*** HOLE CARDS ***
+OhMuckItPlz: folds 
+RohayhuP: raises $2 to $3
+Dante21b: calls $2
+*** FLOP *** [Qd Ah 2s]
+rrrro leaves the table
+RohayhuP: bets $2.85
+Dante21b: folds 
+Uncalled bet ($2.85) returned to RohayhuP
+RohayhuP collected $5.62 from pot
+RohayhuP: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.38 
+Board [Qd Ah 2s]
+Seat 1: MarcoReus115
+Seat 5: rrrro
+Seat 3: OhMuckItPlz (button) folded before Flop (didn't bet)
+Seat 4: RohayhuP (small blind) collected ($5.62)
+Seat 6: Dante21b (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254247489444:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:24:37 WET [2025/01/07 12:24:37 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 3: OhMuckItPlz ($138.10 in chips) 
+Seat 4: RohayhuP ($80.79 in chips) 
+Seat 6: Dante21b ($100 in chips) 
+Dante21b: posts small blind $0.50
+OhMuckItPlz: posts big blind $1
+*** HOLE CARDS ***
+RohayhuP: folds 
+Dante21b: raises $2 to $3
+OhMuckItPlz: raises $6 to $9
+Dante21b: folds 
+Uncalled bet ($6) returned to OhMuckItPlz
+OhMuckItPlz collected $6 from pot
+MarcoReus115 leaves the table
+OhMuckItPlz: doesn't show hand 
+Dante21b leaves the table
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: MarcoReus115
+Seat 3: OhMuckItPlz (big blind) collected ($6)
+Seat 4: RohayhuP (button) folded before Flop (didn't bet)
+Seat 6: Dante21b (small blind) folded before Flop
+
+
+
+PokerStars Hand #254247498138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:25:10 WET [2025/01/07 12:25:10 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 3: OhMuckItPlz ($141.10 in chips) 
+Seat 4: RohayhuP ($80.79 in chips) 
+OhMuckItPlz: posts small blind $0.50
+RohayhuP: posts big blind $1
+*** HOLE CARDS ***
+OhMuckItPlz: raises $1.50 to $2.50
+RohayhuP: raises $6 to $8.50
+OhMuckItPlz: folds 
+Uncalled bet ($6) returned to RohayhuP
+RohayhuP collected $5 from pot
+RohayhuP: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 3: OhMuckItPlz (button) (small blind) folded before Flop
+Seat 4: RohayhuP (big blind) collected ($5)
+
+
+
+PokerStars Hand #254247502505:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:25:26 WET [2025/01/07 12:25:26 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 3: OhMuckItPlz ($138.60 in chips) 
+Seat 4: RohayhuP ($83.29 in chips) 
+RohayhuP: posts small blind $0.50
+OhMuckItPlz: posts big blind $1
+*** HOLE CARDS ***
+RohayhuP: raises $2 to $3
+OhMuckItPlz: calls $2
+*** FLOP *** [9c 5d 6c]
+OhMuckItPlz: checks 
+RohayhuP: bets $2.88
+OhMuckItPlz: calls $2.88
+*** TURN *** [9c 5d 6c] [5s]
+OhMuckItPlz: checks 
+RohayhuP: checks 
+*** RIVER *** [9c 5d 6c 5s] [Jc]
+OhMuckItPlz: bets $8.04
+RohayhuP: calls $8.04
+*** SHOW DOWN ***
+OhMuckItPlz: shows [Qd 7d] (a pair of Fives)
+RohayhuP: shows [Js Ks] (two pair, Jacks and Fives)
+RohayhuP collected $26.59 from pot
+*** SUMMARY ***
+Total pot $27.84 | Rake $1.25 
+Board [9c 5d 6c 5s Jc]
+Seat 3: OhMuckItPlz (big blind) showed [Qd 7d] and lost with a pair of Fives
+Seat 4: RohayhuP (button) (small blind) showed [Js Ks] and won ($26.59) with two pair, Jacks and Fives
+
+
+
+PokerStars Hand #254247517553:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:26:24 WET [2025/01/07 12:26:24 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 3: OhMuckItPlz ($124.68 in chips) 
+Seat 4: RohayhuP ($95.96 in chips) 
+OhMuckItPlz: posts small blind $0.50
+RohayhuP: posts big blind $1
+*** HOLE CARDS ***
+OhMuckItPlz: raises $2 to $3
+blistein joins the table at seat #6 
+sta$igk joins the table at seat #1 
+mr.Jckpot joins the table at seat #2 
+RohayhuP: calls $2
+*** FLOP *** [8h Td 7h]
+RohayhuP: checks 
+OhMuckItPlz: bets $4.10
+RohayhuP: folds 
+Uncalled bet ($4.10) returned to OhMuckItPlz
+OhMuckItPlz collected $5.70 from pot
+OhMuckItPlz: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [8h Td 7h]
+Seat 3: OhMuckItPlz (button) (small blind) collected ($5.70)
+Seat 4: RohayhuP (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254247524930:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:26:51 WET [2025/01/07 12:26:51 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 1: sta$igk ($100 in chips) is sitting out
+Seat 2: mr.Jckpot ($100 in chips) is sitting out
+Seat 3: OhMuckItPlz ($127.38 in chips) 
+Seat 4: RohayhuP ($92.96 in chips) 
+Seat 6: blistein ($100 in chips) 
+RohayhuP: posts small blind $0.50
+blistein: posts big blind $1
+sta$igk: sits out 
+mr.Jckpot: sits out 
+*** HOLE CARDS ***
+OhMuckItPlz: folds 
+RohayhuP: raises $2 to $3
+blistein: folds 
+Uncalled bet ($2) returned to RohayhuP
+RohayhuP collected $2 from pot
+RohayhuP: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: sta$igk
+Seat 2: mr.Jckpot
+Seat 3: OhMuckItPlz (button) folded before Flop (didn't bet)
+Seat 4: RohayhuP (small blind) collected ($2)
+Seat 6: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254247528591:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:27:05 WET [2025/01/07 12:27:05 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 2: mr.Jckpot ($100 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 3: OhMuckItPlz ($127.38 in chips) 
+Seat 4: RohayhuP ($93.96 in chips) 
+Seat 6: blistein ($100 in chips) 
+blistein: posts small blind $0.50
+sta$igk: posts big blind $1
+mr.Jckpot: sits out 
+*** HOLE CARDS ***
+OhMuckItPlz: folds 
+RohayhuP: folds 
+blistein: raises $2 to $3
+sta$igk: raises $6 to $9
+blistein: folds 
+Uncalled bet ($6) returned to sta$igk
+sta$igk collected $6 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: mr.Jckpot
+Seat 1: sta$igk (big blind) collected ($6)
+Seat 3: OhMuckItPlz folded before Flop (didn't bet)
+Seat 4: RohayhuP (button) folded before Flop (didn't bet)
+Seat 6: blistein (small blind) folded before Flop
+
+
+
+PokerStars Hand #254247533582:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:27:24 WET [2025/01/07 12:27:24 ET]
+Table 'Atik II' 6-max Seat #6 is the button
+Seat 1: sta$igk ($103 in chips) 
+Seat 2: mr.Jckpot ($100 in chips) 
+Seat 3: OhMuckItPlz ($127.38 in chips) 
+Seat 4: RohayhuP ($93.96 in chips) 
+Seat 6: blistein ($100 in chips) 
+sta$igk: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+OhMuckItPlz: raises $1 to $2
+RohayhuP: folds 
+blistein: raises $4.50 to $6.50
+sta$igk: folds 
+mr.Jckpot: folds 
+OhMuckItPlz: calls $4.50
+*** FLOP *** [Ac Qh Ts]
+OhMuckItPlz: checks 
+Highway25 joins the table at seat #5 
+blistein: bets $4.69
+OhMuckItPlz: folds 
+Uncalled bet ($4.69) returned to blistein
+blistein collected $13.78 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.50 | Rake $0.72 
+Board [Ac Qh Ts]
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: mr.Jckpot (big blind) folded before Flop
+Seat 3: OhMuckItPlz folded on the Flop
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 6: blistein (button) collected ($13.78)
+
+
+
+PokerStars Hand #254247543692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:28:01 WET [2025/01/07 12:28:01 ET]
+Table 'Atik II' 6-max Seat #1 is the button
+Seat 5: Highway25 ($100 in chips) is sitting out
+Seat 1: sta$igk ($102.50 in chips) 
+Seat 2: mr.Jckpot ($100 in chips) 
+Seat 3: OhMuckItPlz ($120.88 in chips) 
+Seat 4: RohayhuP ($93.96 in chips) 
+Seat 6: blistein ($107.28 in chips) 
+mr.Jckpot: posts small blind $0.50
+OhMuckItPlz: posts big blind $1
+Highway25: sits out 
+*** HOLE CARDS ***
+RohayhuP: folds 
+blistein: raises $1.30 to $2.30
+RohayhuP leaves the table
+sta$igk: folds 
+mr.Jckpot: folds 
+OhMuckItPlz: raises $10.20 to $12.50
+blistein: folds 
+Uncalled bet ($10.20) returned to OhMuckItPlz
+OhMuckItPlz collected $5.10 from pot
+OhMuckItPlz: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0 
+Seat 5: Highway25
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: OhMuckItPlz (big blind) collected ($5.10)
+Seat 4: RohayhuP folded before Flop (didn't bet)
+Seat 6: blistein folded before Flop
+
+
+
+PokerStars Hand #254247549067:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:28:22 WET [2025/01/07 12:28:22 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 1: sta$igk ($102.50 in chips) 
+Seat 2: mr.Jckpot ($100 in chips) 
+Seat 3: OhMuckItPlz ($123.68 in chips) 
+Seat 5: Highway25 ($100 in chips) 
+Seat 6: blistein ($104.98 in chips) 
+OhMuckItPlz: posts small blind $0.50
+Highway25: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+sta$igk: folds 
+mr.Jckpot: raises $1.50 to $2.50
+OhMuckItPlz: folds 
+Highway25: folds 
+Uncalled bet ($1.50) returned to mr.Jckpot
+mr.Jckpot collected $2.50 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (button) collected ($2.50)
+Seat 3: OhMuckItPlz (small blind) folded before Flop
+Seat 5: Highway25 (big blind) folded before Flop
+Seat 6: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247552239:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:28:34 WET [2025/01/07 12:28:34 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 6: blistein ($104.98 in chips) is sitting out
+Seat 1: sta$igk ($102.50 in chips) 
+Seat 2: mr.Jckpot ($101.50 in chips) 
+Seat 3: OhMuckItPlz ($123.18 in chips) 
+Seat 5: Highway25 ($100 in chips) 
+Highway25: posts small blind $0.50
+blistein: is sitting out 
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+blistein leaves the table
+OhMuckItPlz: raises $1.50 to $2.50
+Highway25: folds 
+sta$igk: folds 
+Uncalled bet ($1.50) returned to OhMuckItPlz
+OhMuckItPlz collected $2.50 from pot
+OhMuckItPlz: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: blistein
+Seat 1: sta$igk (big blind) folded before Flop
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: OhMuckItPlz (button) collected ($2.50)
+Seat 5: Highway25 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254247676668:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:36:08 WET [2025/01/07 12:36:08 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 4: iNeverBluff398 ($100 in chips) is sitting out
+Seat 1: CichiChanMarian ($100 in chips) 
+Seat 2: mr.Jckpot ($114.75 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 5: Highway25 ($101.50 in chips) 
+Seat 6: PabloMexicano ($69.42 in chips) 
+PabloMexicano: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+iNeverBluff398: sits out 
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+Unipoker11: folds 
+Highway25: folds 
+PabloMexicano: folds 
+Uncalled bet ($0.50) returned to CichiChanMarian
+CichiChanMarian collected $1 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: iNeverBluff398
+Seat 1: CichiChanMarian (big blind) collected ($1)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: Unipoker11 folded before Flop (didn't bet)
+Seat 5: Highway25 (button) folded before Flop (didn't bet)
+Seat 6: PabloMexicano (small blind) folded before Flop
+
+
+
+PokerStars Hand #254247680216:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:36:21 WET [2025/01/07 12:36:21 ET]
+Table 'Atik II' 6-max Seat #6 is the button
+Seat 4: iNeverBluff398 ($100 in chips) is sitting out
+Seat 1: CichiChanMarian ($100.50 in chips) 
+Seat 2: mr.Jckpot ($114.75 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 5: Highway25 ($101.50 in chips) 
+Seat 6: PabloMexicano ($68.92 in chips) 
+CichiChanMarian: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+iNeverBluff398: sits out 
+*** HOLE CARDS ***
+Unipoker11: raises $1 to $2
+Highway25: raises $5.50 to $7.50
+PabloMexicano: calls $7.50
+CichiChanMarian: folds 
+mr.Jckpot: folds 
+Unipoker11: calls $5.50
+*** FLOP *** [2c Qd Ks]
+Unipoker11: checks 
+Highway25: bets $5.30
+PabloMexicano: raises $5.30 to $10.60
+Unipoker11: folds 
+Highway25: raises $5.30 to $15.90
+PabloMexicano: raises $5.30 to $21.20
+Highway25: raises $48.80 to $70
+PabloMexicano: calls $40.22 and is all-in
+Uncalled bet ($8.58) returned to Highway25
+*** TURN *** [2c Qd Ks] [Ts]
+*** RIVER *** [2c Qd Ks Ts] [Th]
+*** SHOW DOWN ***
+Highway25: shows [Qs Qh] (a full house, Queens full of Tens)
+PabloMexicano: shows [Tc Kc] (a full house, Tens full of Kings)
+Highway25 collected $144.34 from pot
+*** SUMMARY ***
+Total pot $146.84 | Rake $2.50 
+Board [2c Qd Ks Ts Th]
+Seat 4: iNeverBluff398
+Seat 1: CichiChanMarian (small blind) folded before Flop
+Seat 2: mr.Jckpot (big blind) folded before Flop
+Seat 3: Unipoker11 folded on the Flop
+Seat 5: Highway25 showed [Qs Qh] and won ($144.34) with a full house, Queens full of Tens
+Seat 6: PabloMexicano (button) showed [Tc Kc] and lost with a full house, Tens full of Kings
+
+
+
+PokerStars Hand #254247711074:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:38:14 WET [2025/01/07 12:38:14 ET]
+Table 'Atik II' 6-max Seat #1 is the button
+Seat 4: iNeverBluff398 ($100 in chips) is sitting out
+Seat 6: PabloMexicano ($0 in chips) is sitting out
+Seat 1: CichiChanMarian ($100 in chips) 
+Seat 2: mr.Jckpot ($113.75 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 5: Highway25 ($176.92 in chips) 
+mr.Jckpot: posts small blind $0.50
+Unipoker11: posts big blind $1
+iNeverBluff398: sits out 
+*** HOLE CARDS ***
+Highway25: folds 
+CichiChanMarian: raises $1.50 to $2.50
+mr.Jckpot: folds 
+Unipoker11: folds 
+Uncalled bet ($1.50) returned to CichiChanMarian
+CichiChanMarian collected $2.50 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: iNeverBluff398
+Seat 6: PabloMexicano
+Seat 1: CichiChanMarian (button) collected ($2.50)
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: Unipoker11 (big blind) folded before Flop
+Seat 5: Highway25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247719544:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:38:44 WET [2025/01/07 12:38:44 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 1: CichiChanMarian ($101.50 in chips) 
+Seat 2: mr.Jckpot ($113.25 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 4: iNeverBluff398 ($100 in chips) 
+Seat 5: Highway25 ($176.92 in chips) 
+Seat 6: PabloMexicano ($61.21 in chips) 
+Unipoker11: posts small blind $0.50
+iNeverBluff398: posts big blind $1
+*** HOLE CARDS ***
+Highway25: folds 
+PabloMexicano: folds 
+CichiChanMarian: folds 
+mr.Jckpot: raises $1.50 to $2.50
+Unipoker11: folds 
+iNeverBluff398: folds 
+Uncalled bet ($1.50) returned to mr.Jckpot
+mr.Jckpot collected $2.50 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: CichiChanMarian folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (button) collected ($2.50)
+Seat 3: Unipoker11 (small blind) folded before Flop
+Seat 4: iNeverBluff398 (big blind) folded before Flop
+Seat 5: Highway25 folded before Flop (didn't bet)
+Seat 6: PabloMexicano folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247726251:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:39:08 WET [2025/01/07 12:39:08 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 1: CichiChanMarian ($101.50 in chips) 
+Seat 2: mr.Jckpot ($114.75 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 4: iNeverBluff398 ($100 in chips) 
+Seat 5: Highway25 ($176.92 in chips) 
+Seat 6: PabloMexicano ($61.21 in chips) 
+iNeverBluff398: posts small blind $0.50
+Highway25: posts big blind $1
+*** HOLE CARDS ***
+PabloMexicano: folds 
+CichiChanMarian: folds 
+mr.Jckpot: folds 
+Unipoker11: raises $1.50 to $2.50
+iNeverBluff398: folds 
+Highway25: raises $7.50 to $10
+Unipoker11: folds 
+Uncalled bet ($7.50) returned to Highway25
+Highway25 collected $5.50 from pot
+Highway25: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: CichiChanMarian folded before Flop (didn't bet)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: Unipoker11 (button) folded before Flop
+Seat 4: iNeverBluff398 (small blind) folded before Flop
+Seat 5: Highway25 (big blind) collected ($5.50)
+Seat 6: PabloMexicano folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247735656:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:39:42 WET [2025/01/07 12:39:42 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 1: CichiChanMarian ($101.50 in chips) 
+Seat 2: mr.Jckpot ($114.75 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 4: iNeverBluff398 ($100 in chips) 
+Seat 5: Highway25 ($179.92 in chips) 
+Seat 6: PabloMexicano ($61.21 in chips) 
+Highway25: posts small blind $0.50
+PabloMexicano: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+mr.Jckpot: folds 
+Unipoker11: folds 
+iNeverBluff398: raises $1.50 to $2.50
+Highway25: raises $8 to $10.50
+PabloMexicano: calls $9.50
+iNeverBluff398: folds 
+*** FLOP *** [5s Qc Th]
+Highway25: checks 
+PabloMexicano: bets $50.71 and is all-in
+Highway25: calls $50.71
+*** TURN *** [5s Qc Th] [5c]
+*** RIVER *** [5s Qc Th 5c] [2h]
+*** SHOW DOWN ***
+Highway25: shows [Qs Qh] (a full house, Queens full of Fives)
+PabloMexicano: shows [Ts Kc] (two pair, Tens and Fives)
+Highway25 collected $122.42 from pot
+PabloMexicano cashed out the hand for $4.36 | Cash Out Fee $0.09
+*** SUMMARY ***
+Total pot $124.92 | Rake $2.50 
+Board [5s Qc Th 5c 2h]
+Seat 1: CichiChanMarian folded before Flop (didn't bet)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: Unipoker11 folded before Flop (didn't bet)
+Seat 4: iNeverBluff398 (button) folded before Flop
+Seat 5: Highway25 (small blind) showed [Qs Qh] and won ($122.42) with a full house, Queens full of Fives
+Seat 6: PabloMexicano (big blind) showed [Ts Kc] and lost with two pair, Tens and Fives (cashed out).
+
+
+
+PokerStars Hand #254247751597:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:40:40 WET [2025/01/07 12:40:40 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 1: CichiChanMarian ($101.50 in chips) 
+Seat 2: mr.Jckpot ($114.75 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 4: iNeverBluff398 ($100 in chips) 
+Seat 5: Highway25 ($241.13 in chips) 
+Seat 6: PabloMexicano ($4.36 in chips) 
+PabloMexicano: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+Unipoker11: raises $1 to $2
+iNeverBluff398: folds 
+Highway25: folds 
+PabloMexicano: folds 
+CichiChanMarian: folds 
+Uncalled bet ($1) returned to Unipoker11
+Unipoker11 collected $2.50 from pot
+Unipoker11: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: CichiChanMarian (big blind) folded before Flop
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: Unipoker11 collected ($2.50)
+Seat 4: iNeverBluff398 folded before Flop (didn't bet)
+Seat 5: Highway25 (button) folded before Flop (didn't bet)
+Seat 6: PabloMexicano (small blind) folded before Flop
+
+
+
+PokerStars Hand #254247758995:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:41:06 WET [2025/01/07 12:41:06 ET]
+Table 'Atik II' 6-max Seat #6 is the button
+Seat 1: CichiChanMarian ($100.50 in chips) 
+Seat 2: mr.Jckpot ($114.75 in chips) 
+Seat 3: Unipoker11 ($101.50 in chips) 
+Seat 4: iNeverBluff398 ($100 in chips) 
+Seat 5: Highway25 ($241.13 in chips) 
+Seat 6: PabloMexicano ($3.86 in chips) 
+CichiChanMarian: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+Unipoker11: folds 
+iNeverBluff398: raises $1 to $2
+Highway25: folds 
+PabloMexicano: folds 
+CichiChanMarian: folds 
+mr.Jckpot: folds 
+Uncalled bet ($1) returned to iNeverBluff398
+iNeverBluff398 collected $2.50 from pot
+iNeverBluff398: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: CichiChanMarian (small blind) folded before Flop
+Seat 2: mr.Jckpot (big blind) folded before Flop
+Seat 3: Unipoker11 folded before Flop (didn't bet)
+Seat 4: iNeverBluff398 collected ($2.50)
+Seat 5: Highway25 folded before Flop (didn't bet)
+Seat 6: PabloMexicano (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247765114:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:41:28 WET [2025/01/07 12:41:28 ET]
+Table 'Atik II' 6-max Seat #1 is the button
+Seat 6: PabloMexicano ($3.86 in chips) is sitting out
+Seat 1: CichiChanMarian ($100 in chips) 
+Seat 2: mr.Jckpot ($113.75 in chips) 
+Seat 3: Unipoker11 ($101.50 in chips) 
+Seat 4: iNeverBluff398 ($101.50 in chips) 
+Seat 5: Highway25 ($241.13 in chips) 
+mr.Jckpot: posts small blind $0.50
+Unipoker11: posts big blind $1
+*** HOLE CARDS ***
+iNeverBluff398: folds 
+Highway25: folds 
+CichiChanMarian: folds 
+iNeverBluff398 leaves the table
+mr.Jckpot: raises $2 to $3
+Unipoker11: folds 
+Uncalled bet ($2) returned to mr.Jckpot
+mr.Jckpot collected $2 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: PabloMexicano
+Seat 1: CichiChanMarian (button) folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (small blind) collected ($2)
+Seat 3: Unipoker11 (big blind) folded before Flop
+Seat 4: iNeverBluff398 folded before Flop (didn't bet)
+Seat 5: Highway25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247768895:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:41:42 WET [2025/01/07 12:41:42 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 6: PabloMexicano ($3.86 in chips) is sitting out
+Seat 1: CichiChanMarian ($100 in chips) 
+Seat 2: mr.Jckpot ($114.75 in chips) 
+Seat 3: Unipoker11 ($100.50 in chips) 
+Seat 5: Highway25 ($241.13 in chips) 
+Unipoker11: posts small blind $0.50
+Highway25: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+mr.Jckpot: folds 
+Unipoker11: raises $2 to $3
+Highway25: folds 
+Uncalled bet ($2) returned to Unipoker11
+Unipoker11 collected $2 from pot
+Unipoker11: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: PabloMexicano
+Seat 1: CichiChanMarian folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: Unipoker11 (small blind) collected ($2)
+Seat 5: Highway25 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254247774387:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:42:01 WET [2025/01/07 12:42:01 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 6: PabloMexicano ($3.86 in chips) is sitting out
+Seat 1: CichiChanMarian ($100 in chips) 
+Seat 2: mr.Jckpot ($114.75 in chips) 
+Seat 3: Unipoker11 ($101.50 in chips) 
+Seat 5: Highway25 ($240.13 in chips) 
+Highway25: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+Unipoker11: raises $1.50 to $2.50
+Highway25: raises $8 to $10.50
+CichiChanMarian: folds 
+Unipoker11: folds 
+Uncalled bet ($8) returned to Highway25
+Highway25 collected $6 from pot
+Highway25: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 6: PabloMexicano
+Seat 1: CichiChanMarian (big blind) folded before Flop
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: Unipoker11 (button) folded before Flop
+Seat 5: Highway25 (small blind) collected ($6)
+
+
+
+PokerStars Hand #254247781713:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:42:28 WET [2025/01/07 12:42:28 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 6: PabloMexicano ($3.86 in chips) is sitting out
+Seat 1: CichiChanMarian ($100 in chips) 
+Seat 2: mr.Jckpot ($114.75 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 5: Highway25 ($243.63 in chips) 
+CichiChanMarian: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+Unipoker11: folds 
+Highway25: folds 
+CichiChanMarian: folds 
+Uncalled bet ($0.50) returned to mr.Jckpot
+mr.Jckpot collected $1 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: PabloMexicano
+Seat 1: CichiChanMarian (small blind) folded before Flop
+Seat 2: mr.Jckpot (big blind) collected ($1)
+Seat 3: Unipoker11 folded before Flop (didn't bet)
+Seat 5: Highway25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254247783617:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 17:42:35 WET [2025/01/07 12:42:35 ET]
+Table 'Atik II' 6-max Seat #1 is the button
+Seat 6: PabloMexicano ($3.86 in chips) is sitting out
+Seat 1: CichiChanMarian ($100 in chips) 
+Seat 2: mr.Jckpot ($115.25 in chips) 
+Seat 3: Unipoker11 ($100 in chips) 
+Seat 5: Highway25 ($243.63 in chips) 
+mr.Jckpot: posts small blind $0.50
+Unipoker11: posts big blind $1
+*** HOLE CARDS ***
+Highway25: folds 
+CichiChanMarian: raises $1.50 to $2.50
+mr.Jckpot: folds 
+Unipoker11: calls $1.50
+*** FLOP *** [7s 9s 8d]
+Unipoker11: checks 
+CichiChanMarian: checks 
+*** TURN *** [7s 9s 8d] [4s]
+Unipoker11: bets $1.72
+CichiChanMarian: folds 
+Uncalled bet ($1.72) returned to Unipoker11
+Unipoker11 collected $5.22 from pot
+Unipoker11: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [7s 9s 8d 4s]
+Seat 6: PabloMexicano
+Seat 1: CichiChanMarian (button) folded on the Turn
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: Unipoker11 (big blind) collected ($5.22)
+Seat 5: Highway25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254249902479:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:44:38 WET [2025/01/07 14:44:38 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 1: XneferX ($100 in chips) is sitting out
+Seat 2: 93Pancho93 ($100 in chips) 
+Seat 3: Gfoer ($100 in chips) 
+Seat 4: LuckyShikari ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+aoish30: posts small blind $0.50
+93Pancho93: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+LuckyShikari: folds 
+Burlica2013: folds 
+aoish30: folds 
+Uncalled bet ($0.50) returned to 93Pancho93
+93Pancho93 collected $1 from pot
+93Pancho93: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: XneferX
+Seat 2: 93Pancho93 (big blind) collected ($1)
+Seat 3: Gfoer folded before Flop (didn't bet)
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 6: aoish30 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254249905723:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:44:49 WET [2025/01/07 14:44:49 ET]
+Table 'Atik II' 6-max Seat #6 is the button
+Seat 1: XneferX ($100 in chips) is sitting out
+Seat 2: 93Pancho93 ($100.50 in chips) 
+Seat 3: Gfoer ($100 in chips) 
+Seat 4: LuckyShikari ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+93Pancho93: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Burlica2013: folds 
+aoish30: folds 
+93Pancho93: raises $1 to $2
+Gfoer: calls $1
+*** FLOP *** [7h 3d 5h]
+XneferX leaves the table
+93Pancho93: checks 
+yzuk joins the table at seat #1 
+Gfoer: checks 
+*** TURN *** [7h 3d 5h] [5d]
+93Pancho93: bets $1.25
+Gfoer: folds 
+Uncalled bet ($1.25) returned to 93Pancho93
+93Pancho93 collected $3.80 from pot
+93Pancho93: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [7h 3d 5h 5d]
+Seat 1: XneferX
+Seat 2: 93Pancho93 (small blind) collected ($3.80)
+Seat 3: Gfoer (big blind) folded on the Turn
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: aoish30 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254249919371:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:45:32 WET [2025/01/07 14:45:32 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 1: yzuk ($100 in chips) is sitting out
+Seat 2: 93Pancho93 ($102.30 in chips) 
+Seat 3: Gfoer ($100 in chips) 
+Seat 4: LuckyShikari ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+Gfoer: posts small blind $0.50
+LuckyShikari: posts big blind $1
+yzuk: sits out 
+*** HOLE CARDS ***
+Burlica2013: folds 
+aoish30: folds 
+93Pancho93: folds 
+Gfoer: raises $1.50 to $2.50
+LuckyShikari: folds 
+Uncalled bet ($1.50) returned to Gfoer
+Gfoer collected $2 from pot
+Gfoer: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: yzuk
+Seat 2: 93Pancho93 (button) folded before Flop (didn't bet)
+Seat 3: Gfoer (small blind) collected ($2)
+Seat 4: LuckyShikari (big blind) folded before Flop
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: aoish30 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254249929096:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:46:03 WET [2025/01/07 14:46:03 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 1: yzuk ($100 in chips) is sitting out
+Seat 2: 93Pancho93 ($102.30 in chips) 
+Seat 3: Gfoer ($101 in chips) 
+Seat 4: LuckyShikari ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+Burlica2013: posts big blind $1
+yzuk: sits out 
+*** HOLE CARDS ***
+aoish30: raises $1.10 to $2.10
+yzuk leaves the table
+93Pancho93: folds 
+Gfoer: folds 
+michasia joins the table at seat #1 
+LuckyShikari: raises $10.90 to $13
+Burlica2013: folds 
+aoish30: calls $10.90
+*** FLOP *** [9c Ah 7h]
+LuckyShikari: bets $7.18
+aoish30: calls $7.18
+*** TURN *** [9c Ah 7h] [Kc]
+LuckyShikari: bets $29.47
+aoish30: folds 
+Uncalled bet ($29.47) returned to LuckyShikari
+LuckyShikari collected $39.29 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $41.36 | Rake $2.07 
+Board [9c Ah 7h Kc]
+Seat 1: yzuk
+Seat 2: 93Pancho93 folded before Flop (didn't bet)
+Seat 3: Gfoer (button) folded before Flop (didn't bet)
+Seat 4: LuckyShikari (small blind) collected ($39.29)
+Seat 5: Burlica2013 (big blind) folded before Flop
+Seat 6: aoish30 folded on the Turn
+
+
+
+PokerStars Hand #254249946091:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:46:57 WET [2025/01/07 14:46:57 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 1: michasia ($100 in chips) is sitting out
+Seat 2: 93Pancho93 ($102.30 in chips) 
+Seat 3: Gfoer ($101 in chips) 
+Seat 4: LuckyShikari ($119.11 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+Burlica2013: posts small blind $0.50
+aoish30: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+93Pancho93: folds 
+Gfoer: raises $1.20 to $2.20
+LuckyShikari: raises $6.30 to $8.50
+Burlica2013: folds 
+aoish30: folds 
+Gfoer: folds 
+Uncalled bet ($6.30) returned to LuckyShikari
+LuckyShikari collected $5.90 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: michasia
+Seat 2: 93Pancho93 folded before Flop (didn't bet)
+Seat 3: Gfoer folded before Flop
+Seat 4: LuckyShikari (button) collected ($5.90)
+Seat 5: Burlica2013 (small blind) folded before Flop
+Seat 6: aoish30 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254249958005:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:47:35 WET [2025/01/07 14:47:35 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 1: michasia ($100 in chips) 
+Seat 2: 93Pancho93 ($102.30 in chips) 
+Seat 3: Gfoer ($100 in chips) 
+Seat 4: LuckyShikari ($122.81 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+aoish30: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+93Pancho93: folds 
+Gfoer: folds 
+LuckyShikari: folds 
+Burlica2013: raises $1.45 to $2.45
+aoish30: folds 
+michasia: folds 
+Uncalled bet ($1.45) returned to Burlica2013
+Burlica2013 collected $2.50 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: michasia (big blind) folded before Flop
+Seat 2: 93Pancho93 folded before Flop (didn't bet)
+Seat 3: Gfoer folded before Flop (didn't bet)
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: Burlica2013 (button) collected ($2.50)
+Seat 6: aoish30 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254249962999:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:47:51 WET [2025/01/07 14:47:51 ET]
+Table 'Atik II' 6-max Seat #6 is the button
+Seat 1: michasia ($100 in chips) 
+Seat 2: 93Pancho93 ($102.30 in chips) 
+Seat 3: Gfoer ($100 in chips) 
+Seat 4: LuckyShikari ($122.81 in chips) 
+Seat 5: Burlica2013 ($101.50 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+michasia: posts small blind $0.50
+93Pancho93: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+LuckyShikari: folds 
+Burlica2013: raises $1.25 to $2.25
+Gfoer leaves the table
+aoish30: folds 
+michasia: folds 
+Xenicide joins the table at seat #3 
+93Pancho93: folds 
+Uncalled bet ($1.25) returned to Burlica2013
+Burlica2013 collected $2.50 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: michasia (small blind) folded before Flop
+Seat 2: 93Pancho93 (big blind) folded before Flop
+Seat 3: Gfoer folded before Flop (didn't bet)
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: Burlica2013 collected ($2.50)
+Seat 6: aoish30 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254249969333:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:48:11 WET [2025/01/07 14:48:11 ET]
+Table 'Atik II' 6-max Seat #1 is the button
+Seat 1: michasia ($100 in chips) 
+Seat 2: 93Pancho93 ($101.30 in chips) 
+Seat 3: Xenicide ($100 in chips) 
+Seat 4: LuckyShikari ($122.81 in chips) 
+Seat 5: Burlica2013 ($103 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+93Pancho93: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Burlica2013: folds 
+aoish30: raises $1.50 to $2.50
+michasia: folds 
+93Pancho93: folds 
+Xenicide: folds 
+Uncalled bet ($1.50) returned to aoish30
+aoish30 collected $2.50 from pot
+aoish30: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: michasia (button) folded before Flop (didn't bet)
+Seat 2: 93Pancho93 (small blind) folded before Flop
+Seat 3: Xenicide (big blind) folded before Flop
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: aoish30 collected ($2.50)
+
+
+
+PokerStars Hand #254249975233:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:48:30 WET [2025/01/07 14:48:30 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 1: michasia ($100 in chips) 
+Seat 2: 93Pancho93 ($100.80 in chips) 
+Seat 3: Xenicide ($100 in chips) 
+Seat 4: LuckyShikari ($122.81 in chips) 
+Seat 5: Burlica2013 ($103 in chips) 
+Seat 6: aoish30 ($101.50 in chips) 
+Xenicide: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+aoish30: folds 
+michasia: folds 
+93Pancho93: raises $1.50 to $2.50
+Xenicide: folds 
+LuckyShikari: calls $1.50
+*** FLOP *** [7c 3s Ac]
+LuckyShikari: checks 
+93Pancho93: checks 
+*** TURN *** [7c 3s Ac] [6c]
+LuckyShikari: checks 
+93Pancho93: checks 
+*** RIVER *** [7c 3s Ac 6c] [7h]
+LuckyShikari: checks 
+93Pancho93: bets $1.72
+LuckyShikari: calls $1.72
+*** SHOW DOWN ***
+93Pancho93: shows [4h 7d] (three of a kind, Sevens)
+LuckyShikari: mucks hand 
+93Pancho93 collected $8.49 from pot
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [7c 3s Ac 6c 7h]
+Seat 1: michasia folded before Flop (didn't bet)
+Seat 2: 93Pancho93 (button) showed [4h 7d] and won ($8.49) with three of a kind, Sevens
+Seat 3: Xenicide (small blind) folded before Flop
+Seat 4: LuckyShikari (big blind) mucked
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: aoish30 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254249990725:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:49:19 WET [2025/01/07 14:49:19 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 1: michasia ($100 in chips) 
+Seat 2: 93Pancho93 ($105.07 in chips) 
+Seat 3: Xenicide ($100 in chips) 
+Seat 4: LuckyShikari ($118.59 in chips) 
+Seat 5: Burlica2013 ($103 in chips) 
+Seat 6: aoish30 ($101.50 in chips) 
+LuckyShikari: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+aoish30: raises $1.10 to $2.10
+michasia: folds 
+93Pancho93: folds 
+Xenicide: folds 
+LuckyShikari: folds 
+Burlica2013: folds 
+Uncalled bet ($1.10) returned to aoish30
+aoish30 collected $2.50 from pot
+aoish30: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: michasia folded before Flop (didn't bet)
+Seat 2: 93Pancho93 folded before Flop (didn't bet)
+Seat 3: Xenicide (button) folded before Flop (didn't bet)
+Seat 4: LuckyShikari (small blind) folded before Flop
+Seat 5: Burlica2013 (big blind) folded before Flop
+Seat 6: aoish30 collected ($2.50)
+
+
+
+PokerStars Hand #254249995716:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:49:35 WET [2025/01/07 14:49:35 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 6: aoish30 ($103 in chips) is sitting out
+Seat 1: michasia ($100 in chips) 
+Seat 2: 93Pancho93 ($105.07 in chips) 
+Seat 3: Xenicide ($100 in chips) 
+Seat 4: LuckyShikari ($118.09 in chips) 
+Seat 5: Burlica2013 ($102 in chips) 
+Burlica2013: posts small blind $0.50
+aoish30: is sitting out 
+michasia: posts big blind $1
+*** HOLE CARDS ***
+93Pancho93: folds 
+Xenicide: folds 
+LuckyShikari: raises $1 to $2
+aoish30 leaves the table
+Burlica2013: folds 
+michasia: folds 
+Uncalled bet ($1) returned to LuckyShikari
+LuckyShikari collected $2.50 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: aoish30
+Seat 1: michasia (big blind) folded before Flop
+Seat 2: 93Pancho93 folded before Flop (didn't bet)
+Seat 3: Xenicide folded before Flop (didn't bet)
+Seat 4: LuckyShikari (button) collected ($2.50)
+Seat 5: Burlica2013 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254249999701:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:49:47 WET [2025/01/07 14:49:47 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 1: michasia ($100 in chips) 
+Seat 2: 93Pancho93 ($105.07 in chips) 
+Seat 3: Xenicide ($100 in chips) 
+Seat 4: LuckyShikari ($119.59 in chips) 
+Seat 5: Burlica2013 ($101.50 in chips) 
+michasia: posts small blind $0.50
+93Pancho93: posts big blind $1
+*** HOLE CARDS ***
+illarins joins the table at seat #6 
+Xenicide: raises $1 to $2
+LuckyShikari: folds 
+Burlica2013: folds 
+michasia: folds 
+93Pancho93: folds 
+Uncalled bet ($1) returned to Xenicide
+Xenicide collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: michasia (small blind) folded before Flop
+Seat 2: 93Pancho93 (big blind) folded before Flop
+Seat 3: Xenicide collected ($2.50)
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: Burlica2013 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254250007794:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:50:13 WET [2025/01/07 14:50:13 ET]
+Table 'Atik II' 6-max Seat #1 is the button
+Seat 6: illarins ($100 in chips) is sitting out
+Seat 1: michasia ($100 in chips) 
+Seat 2: 93Pancho93 ($104.07 in chips) 
+Seat 3: Xenicide ($101.50 in chips) 
+Seat 4: LuckyShikari ($119.59 in chips) 
+Seat 5: Burlica2013 ($101.50 in chips) 
+93Pancho93: posts small blind $0.50
+Xenicide: posts big blind $1
+illarins: sits out 
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Burlica2013: raises $1.25 to $2.25
+michasia: folds 
+93Pancho93: folds 
+Xenicide: folds 
+Uncalled bet ($1.25) returned to Burlica2013
+Burlica2013 collected $2.50 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: illarins
+Seat 1: michasia (button) folded before Flop (didn't bet)
+Seat 2: 93Pancho93 (small blind) folded before Flop
+Seat 3: Xenicide (big blind) folded before Flop
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: Burlica2013 collected ($2.50)
+
+
+
+PokerStars Hand #254250015463:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:50:38 WET [2025/01/07 14:50:38 ET]
+Table 'Atik II' 6-max Seat #2 is the button
+Seat 6: illarins ($100 in chips) is sitting out
+Seat 1: michasia ($100 in chips) 
+Seat 2: 93Pancho93 ($103.57 in chips) 
+Seat 3: Xenicide ($100.50 in chips) 
+Seat 4: LuckyShikari ($119.59 in chips) 
+Seat 5: Burlica2013 ($103 in chips) 
+Xenicide: posts small blind $0.50
+LuckyShikari: posts big blind $1
+illarins: sits out 
+*** HOLE CARDS ***
+Burlica2013: folds 
+Burlica2013 leaves the table
+michasia: raises $1.80 to $2.80
+93Pancho93: calls $2.80
+Xenicide: raises $10.20 to $13
+LuckyShikari: folds 
+michasia: folds 
+93Pancho93: calls $10.20
+*** FLOP *** [2c Jc Ks]
+xxxZeka joins the table at seat #5 
+Xenicide: checks 
+93Pancho93: bets $9.34
+Xenicide: calls $9.34
+*** TURN *** [2c Jc Ks] [6c]
+Xenicide: checks 
+93Pancho93: checks 
+*** RIVER *** [2c Jc Ks 6c] [9s]
+Xenicide: checks 
+93Pancho93: bets $81.23 and is all-in
+Xenicide: folds 
+Uncalled bet ($81.23) returned to 93Pancho93
+93Pancho93 collected $46.06 from pot
+93Pancho93: doesn't show hand 
+*** SUMMARY ***
+Total pot $48.48 | Rake $2.42 
+Board [2c Jc Ks 6c 9s]
+Seat 6: illarins
+Seat 1: michasia folded before Flop
+Seat 2: 93Pancho93 (button) collected ($46.06)
+Seat 3: Xenicide (small blind) folded on the River
+Seat 4: LuckyShikari (big blind) folded before Flop
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254250057269:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:52:50 WET [2025/01/07 14:52:50 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 6: illarins ($100 in chips) is sitting out
+Seat 1: michasia ($100 in chips) 
+Seat 2: 93Pancho93 ($127.29 in chips) 
+Seat 3: Xenicide ($100 in chips) 
+Seat 4: LuckyShikari ($118.59 in chips) 
+Seat 5: xxxZeka ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+xxxZeka: posts big blind $1
+illarins: sits out 
+*** HOLE CARDS ***
+michasia: folds 
+93Pancho93: folds 
+93Pancho93 leaves the table
+Xenicide: folds 
+LuckyShikari: folds 
+Uncalled bet ($0.50) returned to xxxZeka
+xxxZeka collected $1 from pot
+xxxZeka: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: illarins
+Seat 1: michasia folded before Flop (didn't bet)
+Seat 2: 93Pancho93 folded before Flop (didn't bet)
+Seat 3: Xenicide (button) folded before Flop (didn't bet)
+Seat 4: LuckyShikari (small blind) folded before Flop
+Seat 5: xxxZeka (big blind) collected ($1)
+
+
+
+PokerStars Hand #254250060769:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:53:01 WET [2025/01/07 14:53:01 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 1: michasia ($100 in chips) 
+Seat 3: Xenicide ($100 in chips) 
+Seat 4: LuckyShikari ($118.09 in chips) 
+Seat 5: xxxZeka ($100.50 in chips) 
+Seat 6: illarins ($100 in chips) 
+xxxZeka: posts small blind $0.50
+illarins: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+Xenicide: folds 
+michasia leaves the table
+LuckyShikari: folds 
+xxxZeka: folds 
+Uncalled bet ($0.50) returned to illarins
+illarins collected $1 from pot
+illarins: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: michasia folded before Flop (didn't bet)
+Seat 3: Xenicide folded before Flop (didn't bet)
+Seat 4: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 5: xxxZeka (small blind) folded before Flop
+Seat 6: illarins (big blind) collected ($1)
+
+
+
+PokerStars Hand #254250066805:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:53:20 WET [2025/01/07 14:53:20 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 3: Xenicide ($100 in chips) 
+Seat 4: LuckyShikari ($118.09 in chips) 
+Seat 5: xxxZeka ($100 in chips) 
+Seat 6: illarins ($100.50 in chips) 
+illarins: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: raises $1.50 to $2.50
+xxxZeka: folds 
+illarins: folds 
+Xenicide: folds 
+Uncalled bet ($1.50) returned to LuckyShikari
+LuckyShikari collected $2.50 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Xenicide (big blind) folded before Flop
+Seat 4: LuckyShikari collected ($2.50)
+Seat 5: xxxZeka (button) folded before Flop (didn't bet)
+Seat 6: illarins (small blind) folded before Flop
+
+
+
+PokerStars Hand #254250075914:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:53:49 WET [2025/01/07 14:53:49 ET]
+Table 'Atik II' 6-max Seat #6 is the button
+Seat 3: Xenicide ($100 in chips) 
+Seat 4: LuckyShikari ($119.59 in chips) 
+Seat 5: xxxZeka ($100 in chips) 
+Seat 6: illarins ($100 in chips) 
+Xenicide: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+xxxZeka: folds 
+illarins: raises $1.50 to $2.50
+Xenicide: folds 
+LuckyShikari: raises $9.50 to $12
+illarins: calls $9.50
+*** FLOP *** [Qs Ac 6c]
+LuckyShikari: bets $5
+illarins: calls $5
+*** TURN *** [Qs Ac 6c] [5d]
+LuckyShikari: checks 
+illarins: bets $11.06
+LuckyShikari: folds 
+Uncalled bet ($11.06) returned to illarins
+illarins collected $33.50 from pot
+illarins: doesn't show hand 
+*** SUMMARY ***
+Total pot $34.50 | Rake $1 
+Board [Qs Ac 6c 5d]
+Seat 3: Xenicide (small blind) folded before Flop
+Seat 4: LuckyShikari (big blind) folded on the Turn
+Seat 5: xxxZeka folded before Flop (didn't bet)
+Seat 6: illarins (button) collected ($33.50)
+
+
+
+PokerStars Hand #254250091814:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:54:40 WET [2025/01/07 14:54:40 ET]
+Table 'Atik II' 6-max Seat #3 is the button
+Seat 3: Xenicide ($100 in chips) 
+Seat 4: LuckyShikari ($102.59 in chips) 
+Seat 5: xxxZeka ($100 in chips) 
+Seat 6: illarins ($116.50 in chips) 
+LuckyShikari: posts small blind $0.50
+xxxZeka: posts big blind $1
+*** HOLE CARDS ***
+illarins: folds 
+Xenicide: raises $1.25 to $2.25
+LuckyShikari: folds 
+xxxZeka: calls $1.25
+*** FLOP *** [Qh 7s 3h]
+xxxZeka: checks 
+Xenicide: bets $1.19
+xxxZeka: calls $1.19
+*** TURN *** [Qh 7s 3h] [Jc]
+xxxZeka: checks 
+Xenicide: bets $10.52
+xxxZeka: folds 
+Uncalled bet ($10.52) returned to Xenicide
+Xenicide collected $7.01 from pot
+*** SUMMARY ***
+Total pot $7.38 | Rake $0.37 
+Board [Qh 7s 3h Jc]
+Seat 3: Xenicide (button) collected ($7.01)
+Seat 4: LuckyShikari (small blind) folded before Flop
+Seat 5: xxxZeka (big blind) folded on the Turn
+Seat 6: illarins folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254250112719:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:56:01 WET [2025/01/07 14:56:01 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 3: Xenicide ($103.57 in chips) is sitting out
+Seat 6: illarins ($116.50 in chips) is sitting out
+Seat 4: LuckyShikari ($102.09 in chips) 
+Seat 5: xxxZeka ($100 in chips) 
+xxxZeka: posts small blind $0.50
+illarins: is sitting out 
+Xenicide: is sitting out 
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+illarins leaves the table
+xxxZeka: folds 
+Uncalled bet ($0.50) returned to LuckyShikari
+Xenicide leaves the table
+LuckyShikari collected $1 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Xenicide
+Seat 6: illarins
+Seat 4: LuckyShikari (big blind) collected ($1)
+Seat 5: xxxZeka (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254250114213:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:56:08 WET [2025/01/07 14:56:08 ET]
+Table 'Atik II' 6-max Seat #4 is the button
+Seat 4: LuckyShikari ($102.59 in chips) 
+Seat 5: xxxZeka ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+xxxZeka: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: raises $2.50 to $3.50
+xxxZeka: folds 
+Uncalled bet ($2.50) returned to LuckyShikari
+LuckyShikari collected $2 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: LuckyShikari (button) (small blind) collected ($2)
+Seat 5: xxxZeka (big blind) folded before Flop
+
+
+
+PokerStars Hand #254250116333:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 19:56:17 WET [2025/01/07 14:56:17 ET]
+Table 'Atik II' 6-max Seat #5 is the button
+Seat 4: LuckyShikari ($103.59 in chips) 
+Seat 5: xxxZeka ($100 in chips) 
+xxxZeka: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+xxxZeka: folds 
+Uncalled bet ($0.50) returned to LuckyShikari
+LuckyShikari collected $1 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: LuckyShikari (big blind) collected ($1)
+Seat 5: xxxZeka (button) (small blind) folded before Flop
+
+
+

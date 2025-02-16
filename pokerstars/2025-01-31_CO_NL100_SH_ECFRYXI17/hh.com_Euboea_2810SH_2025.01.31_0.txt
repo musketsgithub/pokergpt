@@ -1,0 +1,1056 @@
+﻿PokerStars Hand #254635820070:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:43:22 WET [2025/01/31 7:43:22 ET]
+Table 'Euboea' 6-max Seat #4 is the button
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: Bessie0009 ($14.21 in chips) 
+Seat 4: Espada Fish ($107.25 in chips) 
+Seat 6: stefstelios81 ($18.72 in chips) 
+stefstelios81: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: folds 
+Bessie0009: folds 
+Espada Fish: raises $1.50 to $2.50
+stefstelios81: folds 
+fedor0f: folds 
+Uncalled bet ($1.50) returned to Espada Fish
+Espada Fish collected $2.50 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: fedor0f (big blind) folded before Flop
+Seat 2: value_ftw folded before Flop (didn't bet)
+Seat 3: Bessie0009 folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) collected ($2.50)
+Seat 6: stefstelios81 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254635822662:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:43:40 WET [2025/01/31 7:43:40 ET]
+Table 'Euboea' 6-max Seat #6 is the button
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: Bessie0009 ($14.21 in chips) 
+Seat 4: Espada Fish ($108.75 in chips) 
+Seat 6: stefstelios81 ($18.22 in chips) 
+fedor0f: posts small blind $0.50
+value_ftw: posts big blind $1
+*** HOLE CARDS ***
+Bessie0009: folds 
+Espada Fish: raises $1.20 to $2.20
+stefstelios81: calls $2.20
+fedor0f: folds 
+value_ftw: folds 
+*** FLOP *** [Js Jc 6s]
+Espada Fish: bets $1.85
+stefstelios81: calls $1.85
+*** TURN *** [Js Jc 6s] [9s]
+Espada Fish: checks 
+stefstelios81: bets $3
+kellu567 joins the table at seat #5 
+kellu567 is disconnected 
+Espada Fish: folds 
+Uncalled bet ($3) returned to stefstelios81
+stefstelios81 collected $9.12 from pot
+*** SUMMARY ***
+Total pot $9.60 | Rake $0.48 
+Board [Js Jc 6s 9s]
+Seat 1: fedor0f (small blind) folded before Flop
+Seat 2: value_ftw (big blind) folded before Flop
+Seat 3: Bessie0009 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded on the Turn
+Seat 6: stefstelios81 (button) collected ($9.12)
+
+
+
+PokerStars Hand #254635831293:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:44:39 WET [2025/01/31 7:44:39 ET]
+Table 'Euboea' 6-max Seat #1 is the button
+Seat 5: kellu567 ($10 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: Bessie0009 ($14.21 in chips) 
+Seat 4: Espada Fish ($104.70 in chips) 
+Seat 6: stefstelios81 ($23.29 in chips) 
+value_ftw: posts small blind $0.50
+Bessie0009: posts big blind $1
+kellu567: sits out 
+*** HOLE CARDS ***
+Espada Fish: folds 
+stefstelios81: folds 
+fedor0f: folds 
+value_ftw: folds 
+Uncalled bet ($0.50) returned to Bessie0009
+Bessie0009 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: kellu567
+Seat 1: fedor0f (button) folded before Flop (didn't bet)
+Seat 2: value_ftw (small blind) folded before Flop
+Seat 3: Bessie0009 (big blind) collected ($1)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 6: stefstelios81 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635833627:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:44:55 WET [2025/01/31 7:44:55 ET]
+Table 'Euboea' 6-max Seat #2 is the button
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: Bessie0009 ($14.71 in chips) 
+Seat 4: Espada Fish ($104.70 in chips) 
+Seat 5: kellu567 ($10 in chips) 
+Seat 6: stefstelios81 ($23.29 in chips) 
+Bessie0009: posts small blind $0.50
+Espada Fish: posts big blind $1
+kellu567: posts big blind $1
+*** HOLE CARDS ***
+kellu567: raises $1 to $2
+stefstelios81: folds 
+fedor0f: folds 
+value_ftw: raises $4.50 to $6.50
+Bessie0009: raises $8.21 to $14.71 and is all-in
+Espada Fish: folds 
+kellu567: calls $8 and is all-in
+value_ftw: calls $8.21
+*** FLOP *** [7s 2c 6d]
+*** TURN *** [7s 2c 6d] [Qh]
+*** RIVER *** [7s 2c 6d Qh] [2h]
+*** SHOW DOWN ***
+Bessie0009: shows [Jc Ac] (a pair of Deuces)
+value_ftw: shows [8d 8s] (two pair, Eights and Deuces)
+value_ftw collected $8.95 from side pot
+kellu567: shows [Kd Ah] (a pair of Deuces)
+value_ftw collected $29.45 from main pot
+Bessie0009 cashed out the hand for $11 | Cash Out Fee $0.22
+*** SUMMARY ***
+Total pot $40.42 Main pot $29.45. Side pot $8.95. | Rake $2.02 
+Board [7s 2c 6d Qh 2h]
+Seat 1: fedor0f folded before Flop (didn't bet)
+Seat 2: value_ftw (button) showed [8d 8s] and won ($38.40) with two pair, Eights and Deuces
+Seat 3: Bessie0009 (small blind) showed [Jc Ac] and lost with a pair of Deuces (cashed out).
+Seat 4: Espada Fish (big blind) folded before Flop
+Seat 5: kellu567 showed [Kd Ah] and lost with a pair of Deuces
+Seat 6: stefstelios81 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635838000:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:45:24 WET [2025/01/31 7:45:24 ET]
+Table 'Euboea' 6-max Seat #3 is the button
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($123.69 in chips) 
+Seat 3: Bessie0009 ($11 in chips) 
+Seat 4: Espada Fish ($103.70 in chips) 
+Seat 6: stefstelios81 ($23.29 in chips) 
+Espada Fish: posts small blind $0.50
+stefstelios81: posts big blind $1
+*** HOLE CARDS ***
+fedor0f: raises $1 to $2
+value_ftw: folds 
+Bessie0009: calls $2
+Espada Fish: folds 
+stefstelios81: calls $1
+*** FLOP *** [Jh 9d Ah]
+stefstelios81: checks 
+fedor0f: bets $1.24
+Bessie0009: raises $7.76 to $9 and is all-in
+stefstelios81: folds 
+fedor0f: folds 
+Uncalled bet ($7.76) returned to Bessie0009
+Bessie0009 collected $8.53 from pot
+*** SUMMARY ***
+Total pot $8.98 | Rake $0.45 
+Board [Jh 9d Ah]
+Seat 5: kellu567
+Seat 1: fedor0f folded on the Flop
+Seat 2: value_ftw folded before Flop (didn't bet)
+Seat 3: Bessie0009 (button) collected ($8.53)
+Seat 4: Espada Fish (small blind) folded before Flop
+Seat 6: stefstelios81 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254635845222:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:46:13 WET [2025/01/31 7:46:13 ET]
+Table 'Euboea' 6-max Seat #4 is the button
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($123.69 in chips) 
+Seat 3: Bessie0009 ($16.29 in chips) 
+Seat 4: Espada Fish ($103.20 in chips) 
+Seat 6: stefstelios81 ($21.29 in chips) 
+stefstelios81: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: raises $1.20 to $2.20
+Bessie0009: folds 
+Espada Fish: raises $5.30 to $7.50
+stefstelios81: folds 
+fedor0f: folds 
+value_ftw: calls $5.30
+*** FLOP *** [2d 2h 5c]
+value_ftw: checks 
+Espada Fish: bets $11.76
+value_ftw: calls $11.76
+*** TURN *** [2d 2h 5c] [3c]
+value_ftw: bets $12.55
+Espada Fish: raises $20.83 to $33.38
+value_ftw: folds 
+Uncalled bet ($20.83) returned to Espada Fish
+Espada Fish collected $62.62 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $65.12 | Rake $2.50 
+Board [2d 2h 5c 3c]
+Seat 5: kellu567
+Seat 1: fedor0f (big blind) folded before Flop
+Seat 2: value_ftw folded on the Turn
+Seat 3: Bessie0009 folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) collected ($62.62)
+Seat 6: stefstelios81 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254635855946:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:47:26 WET [2025/01/31 7:47:26 ET]
+Table 'Euboea' 6-max Seat #6 is the button
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: Bessie0009 ($16.29 in chips) 
+Seat 4: Espada Fish ($134.01 in chips) 
+Seat 6: stefstelios81 ($20.79 in chips) 
+fedor0f: posts small blind $0.50
+value_ftw: posts big blind $1
+*** HOLE CARDS ***
+Bessie0009: folds 
+Espada Fish: folds 
+stefstelios81: folds 
+fedor0f: folds 
+Uncalled bet ($0.50) returned to value_ftw
+value_ftw collected $1 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: kellu567
+Seat 1: fedor0f (small blind) folded before Flop
+Seat 2: value_ftw (big blind) collected ($1)
+Seat 3: Bessie0009 folded before Flop (didn't bet)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 6: stefstelios81 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635858187:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:47:42 WET [2025/01/31 7:47:42 ET]
+Table 'Euboea' 6-max Seat #1 is the button
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($100.50 in chips) 
+Seat 3: Bessie0009 ($16.29 in chips) 
+Seat 4: Espada Fish ($134.01 in chips) 
+Seat 6: stefstelios81 ($20.79 in chips) 
+value_ftw: posts small blind $0.50
+Bessie0009: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+stefstelios81: folds 
+fedor0f: folds 
+value_ftw: folds 
+Uncalled bet ($0.50) returned to Bessie0009
+Bessie0009 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: kellu567
+Seat 1: fedor0f (button) folded before Flop (didn't bet)
+Seat 2: value_ftw (small blind) folded before Flop
+Seat 3: Bessie0009 (big blind) collected ($1)
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 6: stefstelios81 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635860240:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:47:55 WET [2025/01/31 7:47:55 ET]
+Table 'Euboea' 6-max Seat #2 is the button
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: Bessie0009 ($16.79 in chips) 
+Seat 4: Espada Fish ($134.01 in chips) 
+Seat 6: stefstelios81 ($20.79 in chips) 
+Bessie0009: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+stefstelios81: folds 
+fedor0f: folds 
+value_ftw: folds 
+Bessie0009: raises $2 to $3
+Espada Fish: calls $2
+*** FLOP *** [Qc Kd Ad]
+Bessie0009: bets $5.70
+Espada Fish: raises $12.83 to $18.53
+Bessie0009: calls $8.09 and is all-in
+Uncalled bet ($4.74) returned to Espada Fish
+*** TURN *** [Qc Kd Ad] [Js]
+*** RIVER *** [Qc Kd Ad Js] [4s]
+*** SHOW DOWN ***
+Bessie0009: shows [Qh 8h] (a pair of Queens)
+Espada Fish: shows [4c As] (two pair, Aces and Fours)
+Bessie0009 cashed out the hand for $6.01 | Cash Out Fee $0.12
+Espada Fish cashed out the hand for $25.25 | Cash Out Fee $0.52
+*** SUMMARY ***
+Total pot $33.58 | Rake $1.68 
+Board [Qc Kd Ad Js 4s]
+Seat 5: kellu567
+Seat 1: fedor0f folded before Flop (didn't bet)
+Seat 2: value_ftw (button) folded before Flop (didn't bet)
+Seat 3: Bessie0009 (small blind) showed [Qh 8h] and lost with a pair of Queens (cashed out).
+Seat 4: Espada Fish (big blind) showed [4c As] and won ($31.90) with two pair, Aces and Fours (pot not awarded as player cashed out)
+Seat 6: stefstelios81 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635866904:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:48:41 WET [2025/01/31 7:48:41 ET]
+Table 'Euboea' 6-max Seat #3 is the button
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: Bessie0009 ($6.01 in chips) 
+Seat 4: Espada Fish ($142.47 in chips) 
+Seat 6: stefstelios81 ($20.79 in chips) 
+Espada Fish: posts small blind $0.50
+stefstelios81: posts big blind $1
+*** HOLE CARDS ***
+fedor0f: folds 
+value_ftw: folds 
+Bessie0009: raises $5.01 to $6.01 and is all-in
+Espada Fish: folds 
+stefstelios81: calls $5.01
+*** FLOP *** [9h 2h Qs]
+*** TURN *** [9h 2h Qs] [4h]
+*** RIVER *** [9h 2h Qs 4h] [Tc]
+*** SHOW DOWN ***
+stefstelios81: shows [3d 8d] (high card Queen)
+Bessie0009: shows [7d Qh] (a pair of Queens)
+Bessie0009 collected $11.89 from pot
+*** SUMMARY ***
+Total pot $12.52 | Rake $0.63 
+Board [9h 2h Qs 4h Tc]
+Seat 5: kellu567
+Seat 1: fedor0f folded before Flop (didn't bet)
+Seat 2: value_ftw folded before Flop (didn't bet)
+Seat 3: Bessie0009 (button) showed [7d Qh] and won ($11.89) with a pair of Queens
+Seat 4: Espada Fish (small blind) folded before Flop
+Seat 6: stefstelios81 (big blind) showed [3d 8d] and lost with high card Queen
+
+
+
+PokerStars Hand #254635871860:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:49:14 WET [2025/01/31 7:49:14 ET]
+Table 'Euboea' 6-max Seat #4 is the button
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: Bessie0009 ($11.89 in chips) 
+Seat 4: Espada Fish ($141.97 in chips) 
+Seat 6: stefstelios81 ($14.78 in chips) 
+stefstelios81: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: folds 
+Bessie0009: calls $1
+Espada Fish: folds 
+stefstelios81: calls $0.50
+fedor0f: raises $3 to $4
+Bessie0009: folds 
+stefstelios81: calls $3
+*** FLOP *** [3h 5d Ks]
+stefstelios81: bets $2
+fedor0f: calls $2
+*** TURN *** [3h 5d Ks] [Qc]
+stefstelios81: bets $2
+fedor0f: calls $2
+*** RIVER *** [3h 5d Ks Qc] [9h]
+stefstelios81: bets $6.78 and is all-in
+fedor0f: folds 
+Uncalled bet ($6.78) returned to stefstelios81
+stefstelios81 collected $16.15 from pot
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [3h 5d Ks Qc 9h]
+Seat 5: kellu567
+Seat 1: fedor0f (big blind) folded on the River
+Seat 2: value_ftw folded before Flop (didn't bet)
+Seat 3: Bessie0009 folded before Flop
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 6: stefstelios81 (small blind) collected ($16.15)
+
+
+
+PokerStars Hand #254635884092:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:50:37 WET [2025/01/31 7:50:37 ET]
+Table 'Euboea' 6-max Seat #6 is the button
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: Bessie0009 ($10.89 in chips) 
+Seat 4: Espada Fish ($141.97 in chips) 
+Seat 6: stefstelios81 ($22.93 in chips) 
+fedor0f: posts small blind $0.50
+value_ftw: posts big blind $1
+*** HOLE CARDS ***
+Bessie0009: calls $1
+Espada Fish: folds 
+stefstelios81: folds 
+fedor0f: folds 
+value_ftw: checks 
+*** FLOP *** [3c Th 6s]
+value_ftw: checks 
+Bessie0009: bets $2.38
+value_ftw: raises $96.62 to $99 and is all-in
+Bessie0009: folds 
+Uncalled bet ($96.62) returned to value_ftw
+value_ftw collected $6.90 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.26 | Rake $0.36 
+Board [3c Th 6s]
+Seat 5: kellu567
+Seat 1: fedor0f (small blind) folded before Flop
+Seat 2: value_ftw (big blind) collected ($6.90)
+Seat 3: Bessie0009 folded on the Flop
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 6: stefstelios81 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635887734:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:51:01 WET [2025/01/31 7:51:01 ET]
+Table 'Euboea' 6-max Seat #1 is the button
+Seat 3: Bessie0009 ($7.51 in chips) is sitting out
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($103.52 in chips) 
+Seat 4: Espada Fish ($141.97 in chips) 
+Seat 6: stefstelios81 ($22.93 in chips) 
+value_ftw: posts small blind $0.50
+Bessie0009: is sitting out 
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+stefstelios81: calls $1
+fedor0f: folds 
+value_ftw: raises $3 to $4
+Espada Fish: folds 
+stefstelios81: calls $3
+*** FLOP *** [9c Kc Qd]
+value_ftw: bets $4.28
+stefstelios81: calls $4.28
+*** TURN *** [9c Kc Qd] [6c]
+value_ftw: bets $16.68
+stefstelios81: folds 
+Uncalled bet ($16.68) returned to value_ftw
+value_ftw collected $16.68 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.56 | Rake $0.88 
+Board [9c Kc Qd 6c]
+Seat 3: Bessie0009
+Seat 5: kellu567
+Seat 1: fedor0f (button) folded before Flop (didn't bet)
+Seat 2: value_ftw (small blind) collected ($16.68)
+Seat 4: Espada Fish (big blind) folded before Flop
+Seat 6: stefstelios81 folded on the Turn
+
+
+
+PokerStars Hand #254635893986:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:51:42 WET [2025/01/31 7:51:42 ET]
+Table 'Euboea' 6-max Seat #2 is the button
+Seat 3: Bessie0009 ($7.51 in chips) is sitting out
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($111.92 in chips) 
+Seat 4: Espada Fish ($140.97 in chips) 
+Seat 6: stefstelios81 ($14.65 in chips) 
+Espada Fish: posts small blind $0.50
+stefstelios81: posts big blind $1
+*** HOLE CARDS ***
+fedor0f: folds 
+value_ftw: folds 
+Espada Fish: raises $21 to $22
+stefstelios81: folds 
+Uncalled bet ($21) returned to Espada Fish
+Espada Fish collected $2 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: Bessie0009
+Seat 5: kellu567
+Seat 1: fedor0f folded before Flop (didn't bet)
+Seat 2: value_ftw (button) folded before Flop (didn't bet)
+Seat 4: Espada Fish (small blind) collected ($2)
+Seat 6: stefstelios81 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254635896321:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:51:58 WET [2025/01/31 7:51:58 ET]
+Table 'Euboea' 6-max Seat #4 is the button
+Seat 3: Bessie0009 ($7.51 in chips) is sitting out
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($111.92 in chips) 
+Seat 4: Espada Fish ($141.97 in chips) 
+Seat 6: stefstelios81 ($13.65 in chips) 
+stefstelios81: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: folds 
+Espada Fish: folds 
+stefstelios81: calls $0.50
+fedor0f: checks 
+*** FLOP *** [8h 4h 3d]
+stefstelios81: checks 
+fedor0f: checks 
+*** TURN *** [8h 4h 3d] [Js]
+stefstelios81: bets $1
+fedor0f: calls $1
+*** RIVER *** [8h 4h 3d Js] [Kh]
+stefstelios81: checks 
+fedor0f: checks 
+*** SHOW DOWN ***
+stefstelios81: shows [6c 3c] (a pair of Threes)
+fedor0f: shows [Ts 8c] (a pair of Eights)
+fedor0f collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [8h 4h 3d Js Kh]
+Seat 3: Bessie0009
+Seat 5: kellu567
+Seat 1: fedor0f (big blind) showed [Ts 8c] and won ($3.80) with a pair of Eights
+Seat 2: value_ftw folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 6: stefstelios81 (small blind) showed [6c 3c] and lost with a pair of Threes
+
+
+
+PokerStars Hand #254635903170:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:52:44 WET [2025/01/31 7:52:44 ET]
+Table 'Euboea' 6-max Seat #6 is the button
+Seat 3: Bessie0009 ($7.51 in chips) is sitting out
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($101.80 in chips) 
+Seat 2: value_ftw ($111.92 in chips) 
+Seat 4: Espada Fish ($141.97 in chips) 
+Seat 6: stefstelios81 ($11.65 in chips) 
+fedor0f: posts small blind $0.50
+value_ftw: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+stefstelios81: raises $2 to $3
+fedor0f: folds 
+value_ftw: folds 
+Uncalled bet ($2) returned to stefstelios81
+stefstelios81 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Bessie0009
+Seat 5: kellu567
+Seat 1: fedor0f (small blind) folded before Flop
+Seat 2: value_ftw (big blind) folded before Flop
+Seat 4: Espada Fish folded before Flop (didn't bet)
+Seat 6: stefstelios81 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254635906599:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:53:06 WET [2025/01/31 7:53:06 ET]
+Table 'Euboea' 6-max Seat #1 is the button
+Seat 3: Bessie0009 ($7.51 in chips) is sitting out
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($101.30 in chips) 
+Seat 2: value_ftw ($110.92 in chips) 
+Seat 4: Espada Fish ($141.97 in chips) 
+Seat 6: stefstelios81 ($13.15 in chips) 
+value_ftw: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+stefstelios81: folds 
+fedor0f: folds 
+value_ftw: folds 
+Uncalled bet ($0.50) returned to Espada Fish
+Espada Fish collected $1 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Bessie0009
+Seat 5: kellu567
+Seat 1: fedor0f (button) folded before Flop (didn't bet)
+Seat 2: value_ftw (small blind) folded before Flop
+Seat 4: Espada Fish (big blind) collected ($1)
+Seat 6: stefstelios81 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635927633:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:55:30 WET [2025/01/31 7:55:30 ET]
+Table 'Euboea' 6-max Seat #4 is the button
+Seat 3: Bessie0009 ($0 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($119.64 in chips) 
+Seat 4: Espada Fish ($134.96 in chips) 
+Seat 6: stefstelios81 ($17.67 in chips) 
+stefstelios81: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: folds 
+Bessie0009 leaves the table
+Espada Fish: folds 
+stefstelios81: calls $0.50
+fedor0f: checks 
+*** FLOP *** [Ah 7h 7s]
+stefstelios81: bets $1
+fedor0f: folds 
+Uncalled bet ($1) returned to stefstelios81
+stefstelios81 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Ah 7h 7s]
+Seat 3: Bessie0009
+Seat 1: fedor0f (big blind) folded on the Flop
+Seat 2: value_ftw folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 6: stefstelios81 (small blind) collected ($1.90)
+
+
+
+PokerStars Hand #254635930395:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:55:54 WET [2025/01/31 7:55:54 ET]
+Table 'Euboea' 6-max Seat #6 is the button
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($119.64 in chips) 
+Seat 4: Espada Fish ($134.96 in chips) 
+Seat 6: stefstelios81 ($18.57 in chips) 
+fedor0f: posts small blind $0.50
+value_ftw: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: raises $1.20 to $2.20
+Bessie0009 joins the table at seat #5 
+Bessie0009 is disconnected 
+stefstelios81: calls $2.20
+fedor0f: folds 
+value_ftw: folds 
+*** FLOP *** [6h 4s 8h]
+Espada Fish: checks 
+stefstelios81: checks 
+*** TURN *** [6h 4s 8h] [3h]
+Espada Fish: checks 
+stefstelios81: checks 
+*** RIVER *** [6h 4s 8h 3h] [Js]
+Espada Fish: checks 
+stefstelios81: checks 
+*** SHOW DOWN ***
+Espada Fish: shows [Ks Ts] (high card King)
+stefstelios81: shows [Qd As] (high card Ace)
+stefstelios81 collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [6h 4s 8h 3h Js]
+Seat 1: fedor0f (small blind) folded before Flop
+Seat 2: value_ftw (big blind) folded before Flop
+Seat 4: Espada Fish showed [Ks Ts] and lost with high card King
+Seat 6: stefstelios81 (button) showed [Qd As] and won ($5.60) with high card Ace
+
+
+
+PokerStars Hand #254635908321:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:53:17 WET [2025/01/31 7:53:17 ET]
+Table 'Euboea' 6-max Seat #2 is the button
+Seat 3: Bessie0009 ($7.51 in chips) is sitting out
+Seat 5: kellu567 ($0 in chips) is sitting out
+Seat 1: fedor0f ($101.30 in chips) 
+Seat 2: value_ftw ($110.42 in chips) 
+Seat 4: Espada Fish ($142.47 in chips) 
+Seat 6: stefstelios81 ($13.15 in chips) 
+Espada Fish: posts small blind $0.50
+stefstelios81: posts big blind $1
+*** HOLE CARDS ***
+fedor0f: folds 
+value_ftw: raises $1.50 to $2.50
+Espada Fish: folds 
+stefstelios81: calls $1.50
+*** FLOP *** [7h 4d 5d]
+stefstelios81: bets $1
+value_ftw: calls $1
+*** TURN *** [7h 4d 5d] [6c]
+stefstelios81: bets $3
+value_ftw: folds 
+Uncalled bet ($3) returned to stefstelios81
+stefstelios81 collected $7.12 from pot
+kellu567 leaves the table
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [7h 4d 5d 6c]
+Seat 3: Bessie0009
+Seat 5: kellu567
+Seat 1: fedor0f folded before Flop (didn't bet)
+Seat 2: value_ftw (button) folded on the Turn
+Seat 4: Espada Fish (small blind) folded before Flop
+Seat 6: stefstelios81 (big blind) collected ($7.12)
+
+
+
+PokerStars Hand #254635912961:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:53:48 WET [2025/01/31 7:53:48 ET]
+Table 'Euboea' 6-max Seat #4 is the button
+Seat 3: Bessie0009 ($7.51 in chips) is sitting out
+Seat 1: fedor0f ($101.30 in chips) 
+Seat 2: value_ftw ($106.92 in chips) 
+Seat 4: Espada Fish ($141.97 in chips) 
+Seat 6: stefstelios81 ($16.77 in chips) 
+stefstelios81: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: folds 
+Espada Fish: folds 
+stefstelios81: calls $0.50
+fedor0f: checks 
+*** FLOP *** [9d 7h 3d]
+stefstelios81: bets $1
+fedor0f: folds 
+Uncalled bet ($1) returned to stefstelios81
+stefstelios81 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [9d 7h 3d]
+Seat 3: Bessie0009
+Seat 1: fedor0f (big blind) folded on the Flop
+Seat 2: value_ftw folded before Flop (didn't bet)
+Seat 4: Espada Fish (button) folded before Flop (didn't bet)
+Seat 6: stefstelios81 (small blind) collected ($1.90)
+
+
+
+PokerStars Hand #254635915902:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:54:08 WET [2025/01/31 7:54:08 ET]
+Table 'Euboea' 6-max Seat #6 is the button
+Seat 3: Bessie0009 ($7.51 in chips) is sitting out
+Seat 1: fedor0f ($100.30 in chips) 
+Seat 2: value_ftw ($106.92 in chips) 
+Seat 4: Espada Fish ($141.97 in chips) 
+Seat 6: stefstelios81 ($17.67 in chips) 
+fedor0f: posts small blind $0.50
+value_ftw: posts big blind $1
+Bessie0009: sits out 
+*** HOLE CARDS ***
+Espada Fish: raises $1.20 to $2.20
+stefstelios81: folds 
+fedor0f: folds 
+value_ftw: folds 
+Uncalled bet ($1.20) returned to Espada Fish
+Espada Fish collected $2.50 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Bessie0009
+Seat 1: fedor0f (small blind) folded before Flop
+Seat 2: value_ftw (big blind) folded before Flop
+Seat 4: Espada Fish collected ($2.50)
+Seat 6: stefstelios81 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635918125:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:54:23 WET [2025/01/31 7:54:23 ET]
+Table 'Euboea' 6-max Seat #1 is the button
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($105.92 in chips) 
+Seat 3: Bessie0009 ($7.51 in chips) 
+Seat 4: Espada Fish ($143.47 in chips) 
+Seat 6: stefstelios81 ($17.67 in chips) 
+value_ftw: posts small blind $0.50
+Bessie0009: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: raises $1.20 to $2.20
+stefstelios81: folds 
+fedor0f: folds 
+value_ftw: folds 
+Bessie0009: calls $1.20
+*** FLOP *** [8c 5s Tc]
+Bessie0009: checks 
+Espada Fish: bets $6.20
+Bessie0009: calls $5.31 and is all-in
+Uncalled bet ($0.89) returned to Espada Fish
+*** TURN *** [8c 5s Tc] [Th]
+*** RIVER *** [8c 5s Tc Th] [5d]
+*** SHOW DOWN ***
+Bessie0009: shows [Ts Kh] (a full house, Tens full of Fives)
+Espada Fish: shows [Ad Qc] (two pair, Tens and Fives)
+Bessie0009 collected $14.74 from pot
+*** SUMMARY ***
+Total pot $15.52 | Rake $0.78 
+Board [8c 5s Tc Th 5d]
+Seat 1: fedor0f (button) folded before Flop (didn't bet)
+Seat 2: value_ftw (small blind) folded before Flop
+Seat 3: Bessie0009 (big blind) showed [Ts Kh] and won ($14.74) with a full house, Tens full of Fives
+Seat 4: Espada Fish showed [Ad Qc] and lost with two pair, Tens and Fives
+Seat 6: stefstelios81 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635922548:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:54:53 WET [2025/01/31 7:54:53 ET]
+Table 'Euboea' 6-max Seat #2 is the button
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($105.42 in chips) 
+Seat 3: Bessie0009 ($14.74 in chips) 
+Seat 4: Espada Fish ($135.96 in chips) 
+Seat 6: stefstelios81 ($17.67 in chips) 
+Bessie0009: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+stefstelios81: folds 
+fedor0f: folds 
+value_ftw: raises $1.50 to $2.50
+Bessie0009: calls $2
+Espada Fish: folds 
+*** FLOP *** [Jc 4h Js]
+Bessie0009: checks 
+value_ftw: checks 
+*** TURN *** [Jc 4h Js] [7h]
+Bessie0009: bets $5.70
+value_ftw: calls $5.70
+*** RIVER *** [Jc 4h Js 7h] [7c]
+Bessie0009: bets $6.54 and is all-in
+value_ftw: calls $6.54
+*** SHOW DOWN ***
+Bessie0009: shows [Kh Ts] (two pair, Jacks and Sevens)
+value_ftw: shows [7d 8s] (a full house, Sevens full of Jacks)
+value_ftw collected $28.96 from pot
+*** SUMMARY ***
+Total pot $30.48 | Rake $1.52 
+Board [Jc 4h Js 7h 7c]
+Seat 1: fedor0f folded before Flop (didn't bet)
+Seat 2: value_ftw (button) showed [7d 8s] and won ($28.96) with a full house, Sevens full of Jacks
+Seat 3: Bessie0009 (small blind) showed [Kh Ts] and lost with two pair, Jacks and Sevens
+Seat 4: Espada Fish (big blind) folded before Flop
+Seat 6: stefstelios81 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635935241:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:56:34 WET [2025/01/31 7:56:34 ET]
+Table 'Euboea' 6-max Seat #1 is the button
+Seat 4: Espada Fish ($132.76 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($118.64 in chips) 
+Seat 5: Bessie0009 ($17.28 in chips) 
+Seat 6: stefstelios81 ($21.97 in chips) 
+value_ftw: posts small blind $0.50
+Espada Fish: is sitting out 
+Bessie0009: posts big blind $1
+*** HOLE CARDS ***
+stefstelios81: folds 
+fedor0f: folds 
+value_ftw: folds 
+Uncalled bet ($0.50) returned to Bessie0009
+Bessie0009 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: Espada Fish
+Seat 1: fedor0f (button) folded before Flop (didn't bet)
+Seat 2: value_ftw (small blind) folded before Flop
+Seat 5: Bessie0009 (big blind) collected ($1)
+Seat 6: stefstelios81 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635936547:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:56:45 WET [2025/01/31 7:56:45 ET]
+Table 'Euboea' 6-max Seat #2 is the button
+Seat 4: Espada Fish ($132.76 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($118.14 in chips) 
+Seat 5: Bessie0009 ($17.78 in chips) 
+Seat 6: stefstelios81 ($21.97 in chips) 
+Bessie0009: posts small blind $0.50
+stefstelios81: posts big blind $1
+*** HOLE CARDS ***
+fedor0f: folds 
+value_ftw: folds 
+Bessie0009: raises $2 to $3
+stefstelios81: folds 
+Uncalled bet ($2) returned to Bessie0009
+Bessie0009 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: Espada Fish
+Seat 1: fedor0f folded before Flop (didn't bet)
+Seat 2: value_ftw (button) folded before Flop (didn't bet)
+Seat 5: Bessie0009 (small blind) collected ($2)
+Seat 6: stefstelios81 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254635939030:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:57:07 WET [2025/01/31 7:57:07 ET]
+Table 'Euboea' 6-max Seat #5 is the button
+Seat 4: Espada Fish ($132.76 in chips) is sitting out
+Seat 1: fedor0f ($100 in chips) 
+Seat 2: value_ftw ($118.14 in chips) 
+Seat 5: Bessie0009 ($18.78 in chips) 
+Seat 6: stefstelios81 ($20.97 in chips) 
+stefstelios81: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: raises $1.20 to $2.20
+Bessie0009: calls $2.20
+stefstelios81: folds 
+fedor0f: raises $7.80 to $10
+Espada Fish leaves the table
+value_ftw: raises $13 to $23
+Bessie0009: folds 
+fedor0f: raises $77 to $100 and is all-in
+value_ftw: folds 
+Uncalled bet ($77) returned to fedor0f
+stefstelios81 leaves the table
+fedor0f collected $48.70 from pot
+fedor0f: doesn't show hand 
+*** SUMMARY ***
+Total pot $48.70 | Rake $0 
+Seat 4: Espada Fish
+Seat 1: fedor0f (big blind) collected ($48.70)
+Seat 2: value_ftw folded before Flop
+Seat 5: Bessie0009 (button) folded before Flop
+Seat 6: stefstelios81 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254635943352:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:57:42 WET [2025/01/31 7:57:42 ET]
+Table 'Euboea' 6-max Seat #1 is the button
+Seat 1: fedor0f ($125.70 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 5: Bessie0009 ($16.58 in chips) 
+value_ftw: posts small blind $0.50
+Bessie0009: posts big blind $1
+*** HOLE CARDS ***
+fedor0f: raises $1 to $2
+value_ftw: folds 
+Bessie0009: calls $1
+*** FLOP *** [Kh 9c 7s]
+Bessie0009: checks 
+fedor0f: checks 
+*** TURN *** [Kh 9c 7s] [Jd]
+Bessie0009: bets $4.28
+fedor0f: folds 
+Uncalled bet ($4.28) returned to Bessie0009
+Bessie0009 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Kh 9c 7s Jd]
+Seat 1: fedor0f (button) folded on the Turn
+Seat 2: value_ftw (small blind) folded before Flop
+Seat 5: Bessie0009 (big blind) collected ($4.28)
+
+
+
+PokerStars Hand #254635946233:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:58:06 WET [2025/01/31 7:58:06 ET]
+Table 'Euboea' 6-max Seat #2 is the button
+Seat 1: fedor0f ($123.70 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 5: Bessie0009 ($18.86 in chips) 
+Bessie0009: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: folds 
+Bessie0009: folds 
+Uncalled bet ($0.50) returned to fedor0f
+fedor0f collected $1 from pot
+fedor0f: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: fedor0f (big blind) collected ($1)
+Seat 2: value_ftw (button) folded before Flop (didn't bet)
+Seat 5: Bessie0009 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254635947160:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:58:13 WET [2025/01/31 7:58:13 ET]
+Table 'Euboea' 6-max Seat #1 is the button
+Seat 2: value_ftw ($100 in chips) is sitting out
+Seat 1: fedor0f ($124.20 in chips) 
+Seat 5: Bessie0009 ($18.36 in chips) 
+fedor0f: posts small blind $0.50
+value_ftw: is sitting out 
+Bessie0009: posts big blind $1
+*** HOLE CARDS ***
+fedor0f: folds 
+Uncalled bet ($0.50) returned to Bessie0009
+value_ftw leaves the table
+Bessie0009 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: value_ftw
+Seat 1: fedor0f (button) (small blind) folded before Flop
+Seat 5: Bessie0009 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254635948060:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:58:20 WET [2025/01/31 7:58:20 ET]
+Table 'Euboea' 6-max Seat #5 is the button
+Seat 1: fedor0f ($123.70 in chips) 
+Seat 5: Bessie0009 ($18.86 in chips) 
+Bessie0009: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+Bessie0009: folds 
+Uncalled bet ($0.50) returned to fedor0f
+fedor0f collected $1 from pot
+fedor0f: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: fedor0f (big blind) collected ($1)
+Seat 5: Bessie0009 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254635952908:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:59:01 WET [2025/01/31 7:59:01 ET]
+Table 'Euboea' 6-max Seat #1 is the button
+Seat 5: Bessie0009 ($18.36 in chips) is sitting out
+Seat 1: fedor0f ($124.20 in chips) 
+Seat 4: LuckyShikari ($10 in chips) 
+fedor0f: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+fedor0f: raises $11 to $12
+LuckyShikari: calls $9 and is all-in
+Uncalled bet ($2) returned to fedor0f
+*** FLOP *** [Qh 2s 8c]
+*** TURN *** [Qh 2s 8c] [7d]
+*** RIVER *** [Qh 2s 8c 7d] [Jh]
+*** SHOW DOWN ***
+LuckyShikari: shows [Ac 4s] (high card Ace)
+fedor0f: shows [5c Kh] (high card King)
+LuckyShikari collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Qh 2s 8c 7d Jh]
+Seat 5: Bessie0009
+Seat 1: fedor0f (button) (small blind) showed [5c Kh] and lost with high card King
+Seat 4: LuckyShikari (big blind) showed [Ac 4s] and won ($19) with high card Ace
+
+
+
+PokerStars Hand #254635955416:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 12:59:22 WET [2025/01/31 7:59:22 ET]
+Table 'Euboea' 6-max Seat #4 is the button
+Seat 5: Bessie0009 ($18.36 in chips) is sitting out
+Seat 1: fedor0f ($114.20 in chips) 
+Seat 4: LuckyShikari ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+fedor0f: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: raises $1 to $2
+fedor0f: calls $1
+*** FLOP *** [7c 2c 3h]
+fedor0f: checks 
+LuckyShikari: bets $3
+fedor0f: calls $3
+*** TURN *** [7c 2c 3h] [6h]
+fedor0f: checks 
+LuckyShikari: checks 
+*** RIVER *** [7c 2c 3h 6h] [Jc]
+fedor0f: checks 
+LuckyShikari: checks 
+*** SHOW DOWN ***
+fedor0f: shows [2h 5h] (a pair of Deuces)
+LuckyShikari: shows [6c Th] (a pair of Sixes)
+LuckyShikari collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [7c 2c 3h 6h Jc]
+Seat 5: Bessie0009
+Seat 1: fedor0f (big blind) showed [2h 5h] and lost with a pair of Deuces
+Seat 4: LuckyShikari (button) (small blind) showed [6c Th] and won ($9.50) with a pair of Sixes
+
+
+

@@ -1,0 +1,4032 @@
+﻿PokerStars Hand #254670039127:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:20:00 WET [2025/02/02 10:20:00 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 4: sltn ($133 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($100 in chips) 
+Seat 3: AllRaise101 ($135.82 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: Kiano187 ($50.50 in chips) 
+tintin641: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+sltn leaves the table
+AllRaise101: raises $1.50 to $2.50
+gig.gyty: folds 
+Kiano187: calls $2.50
+ruSSotron joins the table at seat #4 
+tintin641: folds 
+gudrozd: raises $11.50 to $14
+AllRaise101: folds 
+Kiano187: folds 
+Uncalled bet ($11.50) returned to gudrozd
+gudrozd collected $8 from pot
+gudrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 4: sltn
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: gudrozd (big blind) collected ($8)
+Seat 3: AllRaise101 folded before Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 (button) folded before Flop
+
+
+
+PokerStars Hand #254670048924:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:20:40 WET [2025/02/02 10:20:40 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 4: ruSSotron ($100 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($105.50 in chips) 
+Seat 3: AllRaise101 ($133.32 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: Kiano187 ($48 in chips) 
+gudrozd: posts small blind $0.50
+AllRaise101: posts big blind $1
+ruSSotron: sits out 
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: calls $1
+tintin641: folds 
+gudrozd: folds 
+AllRaise101: checks 
+*** FLOP *** [9h 7c 2h]
+AllRaise101: checks 
+Kiano187: bets $3
+AllRaise101: folds 
+Uncalled bet ($3) returned to Kiano187
+Kiano187 collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [9h 7c 2h]
+Seat 4: ruSSotron
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: gudrozd (small blind) folded before Flop
+Seat 3: AllRaise101 (big blind) folded on the Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 collected ($2.35)
+
+
+
+PokerStars Hand #254670055415:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:21:06 WET [2025/02/02 10:21:06 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($105 in chips) 
+Seat 3: AllRaise101 ($132.32 in chips) 
+Seat 4: ruSSotron ($100 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: Kiano187 ($49.35 in chips) 
+AllRaise101: posts small blind $0.50
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: raises $1.50 to $2.50
+gudrozd: raises $5.50 to $8
+AllRaise101: folds 
+ruSSotron: raises $13 to $21
+tintin641: folds 
+gudrozd: folds 
+Uncalled bet ($13) returned to ruSSotron
+ruSSotron collected $19 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $0 
+Seat 1: tintin641 folded before Flop
+Seat 2: gudrozd (button) folded before Flop
+Seat 3: AllRaise101 (small blind) folded before Flop
+Seat 4: ruSSotron (big blind) collected ($19)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670063555:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:21:39 WET [2025/02/02 10:21:39 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($100 in chips) 
+Seat 3: AllRaise101 ($131.82 in chips) 
+Seat 4: ruSSotron ($111 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: Kiano187 ($49.35 in chips) 
+ruSSotron: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: calls $1
+tintin641: folds 
+gudrozd: raises $4 to $5
+AllRaise101: folds 
+ruSSotron: folds 
+gig.gyty: folds 
+Kiano187: calls $4
+*** FLOP *** [9c Kd Qd]
+Kiano187: checks 
+gudrozd: bets $3.60
+Kiano187: calls $3.60
+*** TURN *** [9c Kd Qd] [3s]
+Kiano187: checks 
+gudrozd: bets $13.32
+Kiano187: calls $13.32
+*** RIVER *** [9c Kd Qd 3s] [8h]
+Kiano187: bets $27.43 and is all-in
+gudrozd: calls $27.43
+*** SHOW DOWN ***
+Kiano187: shows [Qh Td] (a pair of Queens)
+gudrozd: shows [Ah Ac] (a pair of Aces)
+gudrozd collected $97.70 from pot
+*** SUMMARY ***
+Total pot $100.20 | Rake $2.50 
+Board [9c Kd Qd 3s 8h]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: gudrozd showed [Ah Ac] and won ($97.70) with a pair of Aces
+Seat 3: AllRaise101 (button) folded before Flop (didn't bet)
+Seat 4: ruSSotron (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 showed [Qh Td] and lost with a pair of Queens
+
+
+
+PokerStars Hand #254670093081:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:23:38 WET [2025/02/02 10:23:38 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 6: Kiano187 ($0 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($148.35 in chips) 
+Seat 3: AllRaise101 ($131.82 in chips) 
+Seat 4: ruSSotron ($110.50 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+gig.gyty: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+AllRaise101: raises $1.50 to $2.50
+ruSSotron: folds 
+gig.gyty: folds 
+tintin641: calls $1.50
+*** FLOP *** [Ts 9d 8s]
+tintin641: checks 
+AllRaise101: checks 
+*** TURN *** [Ts 9d 8s] [7s]
+tintin641: bets $1.72
+AllRaise101: calls $1.72
+*** RIVER *** [Ts 9d 8s 7s] [9h]
+tintin641: checks 
+AllRaise101: checks 
+*** SHOW DOWN ***
+tintin641: shows [Ks Qc] (a pair of Nines)
+AllRaise101: shows [Ad 6h] (a straight, Six to Ten)
+AllRaise101 collected $8.49 from pot
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [Ts 9d 8s 7s 9h]
+Seat 6: Kiano187
+Seat 1: tintin641 (big blind) showed [Ks Qc] and lost with a pair of Nines
+Seat 2: gudrozd folded before Flop (didn't bet)
+Seat 3: AllRaise101 showed [Ad 6h] and won ($8.49) with a straight, Six to Ten
+Seat 4: ruSSotron (button) folded before Flop (didn't bet)
+Seat 5: gig.gyty (small blind) folded before Flop
+
+
+
+PokerStars Hand #254670107072:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:24:35 WET [2025/02/02 10:24:35 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 6: Kiano187 ($100 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($148.35 in chips) 
+Seat 3: AllRaise101 ($136.09 in chips) 
+Seat 4: ruSSotron ($110.50 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+tintin641: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: folds 
+ruSSotron: raises $1.20 to $2.20
+gig.gyty: folds 
+tintin641: raises $8.80 to $11
+gudrozd: folds 
+ruSSotron: raises $13 to $24
+tintin641: folds 
+Uncalled bet ($13) returned to ruSSotron
+ruSSotron collected $23 from pot
+*** SUMMARY ***
+Total pot $23 | Rake $0 
+Seat 6: Kiano187
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: gudrozd (big blind) folded before Flop
+Seat 3: AllRaise101 folded before Flop (didn't bet)
+Seat 4: ruSSotron collected ($23)
+Seat 5: gig.gyty (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670116371:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:25:11 WET [2025/02/02 10:25:11 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($147.35 in chips) 
+Seat 3: AllRaise101 ($136.09 in chips) 
+Seat 4: ruSSotron ($122.50 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: Kiano187 ($100 in chips) 
+gudrozd: posts small blind $0.50
+AllRaise101: posts big blind $1
+Kiano187: posts small & big blinds $1.50
+*** HOLE CARDS ***
+ruSSotron: folds 
+gig.gyty: raises $2.50 to $3.50
+Kiano187: raises $8.50 to $12
+tintin641: folds 
+gudrozd: folds 
+AllRaise101: folds 
+gig.gyty: calls $8.50
+*** FLOP *** [As 7s 8c]
+gudrozd leaves the table
+gig.gyty: checks 
+Kiano187: bets $13
+gig.gyty: folds 
+Uncalled bet ($13) returned to Kiano187
+sta$igk joins the table at seat #2 
+Kiano187 collected $24.38 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $1.62 
+Board [As 7s 8c]
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: gudrozd (small blind) folded before Flop
+Seat 3: AllRaise101 (big blind) folded before Flop
+Seat 4: ruSSotron folded before Flop (didn't bet)
+Seat 5: gig.gyty folded on the Flop
+Seat 6: Kiano187 collected ($24.38)
+
+
+
+PokerStars Hand #254670123532:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:25:40 WET [2025/02/02 10:25:40 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 2: sta$igk ($100 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 3: AllRaise101 ($135.09 in chips) 
+Seat 4: ruSSotron ($122.50 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: Kiano187 ($111.88 in chips) 
+ruSSotron: posts small blind $0.50
+gig.gyty: posts big blind $1
+sta$igk: sits out 
+*** HOLE CARDS ***
+Kiano187: calls $1
+tintin641: raises $3 to $4
+AllRaise101: folds 
+ruSSotron: folds 
+gig.gyty: folds 
+Kiano187: calls $3
+*** FLOP *** [9c 7s Kh]
+Kiano187: checks 
+tintin641: checks 
+*** TURN *** [9c 7s Kh] [9d]
+Kiano187: checks 
+tintin641: bets $6.77
+Kiano187: folds 
+Uncalled bet ($6.77) returned to tintin641
+tintin641 collected $9.02 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [9c 7s Kh 9d]
+Seat 2: sta$igk
+Seat 1: tintin641 collected ($9.02)
+Seat 3: AllRaise101 (button) folded before Flop (didn't bet)
+Seat 4: ruSSotron (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 folded on the Turn
+
+
+
+PokerStars Hand #254670141769:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:26:53 WET [2025/02/02 10:26:53 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 2: sta$igk ($100 in chips) is sitting out
+Seat 1: tintin641 ($105.02 in chips) 
+Seat 3: AllRaise101 ($135.09 in chips) 
+Seat 4: ruSSotron ($122 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: Kiano187 ($107.88 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+sta$igk: sits out 
+*** HOLE CARDS ***
+tintin641: folds 
+AllRaise101: folds 
+ruSSotron: raises $1.50 to $2.50
+gig.gyty: folds 
+Kiano187: folds 
+Uncalled bet ($1.50) returned to ruSSotron
+ruSSotron collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: sta$igk
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 3: AllRaise101 folded before Flop (didn't bet)
+Seat 4: ruSSotron (button) collected ($2.50)
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254670144089:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:27:02 WET [2025/02/02 10:27:02 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 2: sta$igk ($100 in chips) is sitting out
+Seat 1: tintin641 ($105.02 in chips) 
+Seat 3: AllRaise101 ($135.09 in chips) 
+Seat 4: ruSSotron ($123.50 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: Kiano187 ($106.88 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+sta$igk: sits out 
+*** HOLE CARDS ***
+AllRaise101: folds 
+ruSSotron: folds 
+gig.gyty: raises $1.50 to $2.50
+Kiano187 is disconnected 
+Kiano187 has timed out while disconnected
+Kiano187: folds 
+tintin641: folds 
+Uncalled bet ($1.50) returned to gig.gyty
+gig.gyty collected $2.50 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: sta$igk
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 3: AllRaise101 folded before Flop (didn't bet)
+Seat 4: ruSSotron folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) collected ($2.50)
+Seat 6: Kiano187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254670157492:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:27:56 WET [2025/02/02 10:27:56 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 2: sta$igk ($100 in chips) is sitting out
+Seat 6: Kiano187 ($106.38 in chips) is sitting out
+Seat 1: tintin641 ($104.02 in chips) 
+Seat 3: AllRaise101 ($135.09 in chips) 
+Seat 4: ruSSotron ($123.50 in chips) 
+Seat 5: gig.gyty ($101.50 in chips) 
+AllRaise101: posts small blind $0.50
+ruSSotron: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+tintin641: folds 
+AllRaise101: folds 
+Uncalled bet ($0.50) returned to ruSSotron
+ruSSotron collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: sta$igk
+Seat 6: Kiano187
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 3: AllRaise101 (small blind) folded before Flop
+Seat 4: ruSSotron (big blind) collected ($1)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670161001:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:28:10 WET [2025/02/02 10:28:10 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 2: sta$igk ($100 in chips) is sitting out
+Seat 6: Kiano187 ($106.38 in chips) is sitting out
+Seat 1: tintin641 ($104.02 in chips) 
+Seat 3: AllRaise101 ($134.59 in chips) 
+Seat 4: ruSSotron ($124 in chips) 
+Seat 5: gig.gyty ($101.50 in chips) 
+ruSSotron: posts small blind $0.50
+gig.gyty: posts big blind $1
+sta$igk: sits out 
+*** HOLE CARDS ***
+tintin641: folds 
+AllRaise101: raises $1.50 to $2.50
+ruSSotron: folds 
+gig.gyty: calls $1.50
+*** FLOP *** [8s 9s Ah]
+ruSSotron leaves the table
+gig.gyty: checks 
+AllRaise101: bets $3.61
+gig.gyty: folds 
+Uncalled bet ($3.61) returned to AllRaise101
+AllRaise101 collected $5.22 from pot
+Joe_Li7 joins the table at seat #4 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [8s 9s Ah]
+Seat 2: sta$igk
+Seat 6: Kiano187
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 3: AllRaise101 (button) collected ($5.22)
+Seat 4: ruSSotron (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254670175743:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:29:10 WET [2025/02/02 10:29:10 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 2: sta$igk ($100 in chips) is sitting out
+Seat 4: Joe_Li7 ($100 in chips) is sitting out
+Seat 1: tintin641 ($104.02 in chips) 
+Seat 3: AllRaise101 ($137.31 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: Kiano187 ($106.38 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+sta$igk: sits out 
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+AllRaise101: folds 
+gig.gyty: raises $1.50 to $2.50
+Kiano187: calls $2
+tintin641: folds 
+*** FLOP *** [5d Kc 7d]
+Kiano187: checks 
+gig.gyty: bets $1.88
+Kiano187: folds 
+Uncalled bet ($1.88) returned to gig.gyty
+gig.gyty collected $5.70 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [5d Kc 7d]
+Seat 2: sta$igk
+Seat 4: Joe_Li7
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 3: AllRaise101 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) collected ($5.70)
+Seat 6: Kiano187 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254670182355:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:29:36 WET [2025/02/02 10:29:36 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 4: Joe_Li7 ($100 in chips) is sitting out
+Seat 1: tintin641 ($103.02 in chips) 
+Seat 2: sta$igk ($100 in chips) 
+Seat 3: AllRaise101 ($137.31 in chips) 
+Seat 5: gig.gyty ($103.20 in chips) 
+Seat 6: Kiano187 ($103.88 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+AllRaise101: folds 
+gig.gyty: raises $1.25 to $2.25
+Kiano187: calls $2.25
+tintin641: raises $11.25 to $13.50
+sta$igk: folds 
+gig.gyty: folds 
+Kiano187: folds 
+Uncalled bet ($11.25) returned to tintin641
+tintin641 collected $7.75 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.75 | Rake $0 
+Seat 4: Joe_Li7
+Seat 1: tintin641 (small blind) collected ($7.75)
+Seat 2: sta$igk (big blind) folded before Flop
+Seat 3: AllRaise101 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop
+Seat 6: Kiano187 (button) folded before Flop
+
+
+
+PokerStars Hand #254670189842:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:30:06 WET [2025/02/02 10:30:06 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 4: Joe_Li7 ($100 in chips) is sitting out
+Seat 1: tintin641 ($108.52 in chips) 
+Seat 2: sta$igk ($100 in chips) 
+Seat 3: AllRaise101 ($137.31 in chips) 
+Seat 5: gig.gyty ($100.95 in chips) 
+Seat 6: Kiano187 ($101.63 in chips) 
+sta$igk: posts small blind $0.50
+AllRaise101: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: calls $1
+tintin641: folds 
+sta$igk: folds 
+AllRaise101: checks 
+*** FLOP *** [4s 5d Jd]
+AllRaise101: checks 
+Kiano187: bets $2
+AllRaise101: folds 
+Uncalled bet ($2) returned to Kiano187
+Kiano187 collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [4s 5d Jd]
+Seat 4: Joe_Li7
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: sta$igk (small blind) folded before Flop
+Seat 3: AllRaise101 (big blind) folded on the Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 collected ($2.35)
+
+
+
+PokerStars Hand #254670195630:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:30:29 WET [2025/02/02 10:30:29 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($108.52 in chips) 
+Seat 2: sta$igk ($100 in chips) 
+Seat 3: AllRaise101 ($136.31 in chips) 
+Seat 4: Joe_Li7 ($100 in chips) 
+Seat 5: gig.gyty ($100.95 in chips) 
+Seat 6: Kiano187 ($102.98 in chips) 
+AllRaise101: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: raises $1.25 to $2.25
+Kiano187: folds 
+tintin641: folds 
+sta$igk: folds 
+AllRaise101: folds 
+Joe_Li7: folds 
+Uncalled bet ($1.25) returned to gig.gyty
+gig.gyty collected $2.50 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk (button) folded before Flop (didn't bet)
+Seat 3: AllRaise101 (small blind) folded before Flop
+Seat 4: Joe_Li7 (big blind) folded before Flop
+Seat 5: gig.gyty collected ($2.50)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670199339:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:30:43 WET [2025/02/02 10:30:43 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($108.52 in chips) 
+Seat 2: sta$igk ($100 in chips) 
+Seat 3: AllRaise101 ($135.81 in chips) 
+Seat 4: Joe_Li7 ($100 in chips) 
+Seat 5: gig.gyty ($102.45 in chips) 
+Seat 6: Kiano187 ($102.98 in chips) 
+Joe_Li7: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: raises $2 to $3
+tintin641: raises $6 to $9
+sta$igk: folds 
+AllRaise101: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $6
+*** FLOP *** [Th Jc 3h]
+Kiano187: checks 
+tintin641: bets $9.26
+Kiano187: calls $9.26
+*** TURN *** [Th Jc 3h] [4d]
+Kiano187: checks 
+tintin641: bets $27.09
+Kiano187: calls $27.09
+*** RIVER *** [Th Jc 3h 4d] [4s]
+Kiano187: checks 
+tintin641: bets $63.17 and is all-in
+Kiano187: calls $57.63 and is all-in
+Uncalled bet ($5.54) returned to tintin641
+*** SHOW DOWN ***
+tintin641: shows [Ah Jh] (two pair, Jacks and Fours)
+Kiano187: shows [Tc 9c] (two pair, Tens and Fours)
+tintin641 collected $204.96 from pot
+*** SUMMARY ***
+Total pot $207.46 | Rake $2.50 
+Board [Th Jc 3h 4d 4s]
+Seat 1: tintin641 showed [Ah Jh] and won ($204.96) with two pair, Jacks and Fours
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: AllRaise101 (button) folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 showed [Tc 9c] and lost with two pair, Tens and Fours
+
+
+
+PokerStars Hand #254670214628:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:31:44 WET [2025/02/02 10:31:44 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 6: Kiano187 ($0 in chips) is sitting out
+Seat 1: tintin641 ($210.50 in chips) 
+Seat 2: sta$igk ($100 in chips) 
+Seat 3: AllRaise101 ($135.81 in chips) 
+Seat 4: Joe_Li7 ($100 in chips) 
+Seat 5: gig.gyty ($101.45 in chips) 
+gig.gyty: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+AllRaise101: raises $1.50 to $2.50
+Joe_Li7: folds 
+gig.gyty: folds 
+tintin641: folds 
+Uncalled bet ($1.50) returned to AllRaise101
+AllRaise101 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Kiano187
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: AllRaise101 collected ($2.50)
+Seat 4: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 5: gig.gyty (small blind) folded before Flop
+
+
+
+PokerStars Hand #254670219167:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:32:01 WET [2025/02/02 10:32:01 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 6: Kiano187 ($100 in chips) is sitting out
+Seat 1: tintin641 ($209.50 in chips) 
+Seat 2: sta$igk ($100 in chips) 
+Seat 3: AllRaise101 ($137.31 in chips) 
+Seat 4: Joe_Li7 ($100 in chips) 
+Seat 5: gig.gyty ($100.95 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: folds 
+Joe_Li7: raises $1.20 to $2.20
+gig.gyty: folds 
+tintin641: raises $8.80 to $11
+sta$igk: folds 
+Joe_Li7: raises $13 to $24
+tintin641: calls $13
+*** FLOP *** [7s 9h Ts]
+tintin641: checks 
+Joe_Li7: checks 
+*** TURN *** [7s 9h Ts] [4c]
+tintin641: bets $15.36
+Joe_Li7: calls $15.36
+*** RIVER *** [7s 9h Ts 4c] [6d]
+tintin641: checks 
+Joe_Li7: bets $60.64 and is all-in
+tintin641: calls $60.64
+*** SHOW DOWN ***
+Joe_Li7: shows [As Ad] (a pair of Aces)
+tintin641: shows [Js Jh] (a pair of Jacks)
+Joe_Li7 collected $198.50 from pot
+*** SUMMARY ***
+Total pot $201 | Rake $2.50 
+Board [7s 9h Ts 4c 6d]
+Seat 6: Kiano187
+Seat 1: tintin641 (small blind) showed [Js Jh] and lost with a pair of Jacks
+Seat 2: sta$igk (big blind) folded before Flop
+Seat 3: AllRaise101 folded before Flop (didn't bet)
+Seat 4: Joe_Li7 showed [As Ad] and won ($198.50) with a pair of Aces
+Seat 5: gig.gyty (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670257523:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:34:33 WET [2025/02/02 10:34:33 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($109.50 in chips) 
+Seat 2: sta$igk ($100 in chips) 
+Seat 3: AllRaise101 ($137.31 in chips) 
+Seat 4: Joe_Li7 ($198.50 in chips) 
+Seat 5: gig.gyty ($100.95 in chips) 
+Seat 6: Kiano187 ($100 in chips) 
+sta$igk: posts small blind $0.50
+AllRaise101: posts big blind $1
+Kiano187: posts small & big blinds $1.50
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: checks 
+tintin641: raises $3 to $4
+sta$igk: raises $10 to $14
+AllRaise101: folds 
+Kiano187: folds 
+tintin641: folds 
+Uncalled bet ($10) returned to sta$igk
+sta$igk collected $10.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.50 | Rake $0 
+Seat 1: tintin641 (button) folded before Flop
+Seat 2: sta$igk (small blind) collected ($10.50)
+Seat 3: AllRaise101 (big blind) folded before Flop
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670266013:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:35:06 WET [2025/02/02 10:35:06 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($105.50 in chips) 
+Seat 2: sta$igk ($106.50 in chips) 
+Seat 3: AllRaise101 ($136.31 in chips) 
+Seat 4: Joe_Li7 ($198.50 in chips) 
+Seat 5: gig.gyty ($100.95 in chips) 
+Seat 6: Kiano187 ($98.50 in chips) 
+AllRaise101: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: raises $1.25 to $2.25
+Kiano187: folds 
+tintin641: folds 
+sta$igk: folds 
+AllRaise101: folds 
+Joe_Li7: folds 
+Uncalled bet ($1.25) returned to gig.gyty
+gig.gyty collected $2.50 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk (button) folded before Flop (didn't bet)
+Seat 3: AllRaise101 (small blind) folded before Flop
+Seat 4: Joe_Li7 (big blind) folded before Flop
+Seat 5: gig.gyty collected ($2.50)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670269084:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:35:18 WET [2025/02/02 10:35:18 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($105.50 in chips) 
+Seat 2: sta$igk ($106.50 in chips) 
+Seat 3: AllRaise101 ($135.81 in chips) 
+Seat 4: Joe_Li7 ($197.50 in chips) 
+Seat 5: gig.gyty ($102.45 in chips) 
+Seat 6: Kiano187 ($98.50 in chips) 
+Joe_Li7: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: raises $3 to $4
+tintin641: folds 
+sta$igk: folds 
+AllRaise101: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Uncalled bet ($3) returned to Kiano187
+Kiano187 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: AllRaise101 (button) folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 collected ($2.50)
+
+
+
+PokerStars Hand #254670273660:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:35:37 WET [2025/02/02 10:35:37 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($105.50 in chips) 
+Seat 2: sta$igk ($106.50 in chips) 
+Seat 3: AllRaise101 ($135.81 in chips) 
+Seat 4: Joe_Li7 ($197 in chips) 
+Seat 5: gig.gyty ($101.45 in chips) 
+Seat 6: Kiano187 ($100 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+sta$igk: folds 
+AllRaise101: raises $1.50 to $2.50
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: raises $5.50 to $8
+AllRaise101: folds 
+Uncalled bet ($5.50) returned to Kiano187
+Kiano187 collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: AllRaise101 folded before Flop
+Seat 4: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) collected ($5.50)
+
+
+
+PokerStars Hand #254670278228:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:35:55 WET [2025/02/02 10:35:55 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 1: tintin641 ($105.50 in chips) 
+Seat 2: sta$igk ($106.50 in chips) 
+Seat 3: AllRaise101 ($133.31 in chips) 
+Seat 4: Joe_Li7 ($197 in chips) 
+Seat 5: gig.gyty ($100.95 in chips) 
+Seat 6: Kiano187 ($103 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+AllRaise101: raises $1.50 to $2.50
+Joe_Li7: folds 
+gig.gyty: calls $2.50
+Kiano187: calls $2
+tintin641: folds 
+*** FLOP *** [7h Qs Ts]
+Kiano187: checks 
+AllRaise101: checks 
+gig.gyty: bets $6
+Kiano187: folds 
+AllRaise101: folds 
+Uncalled bet ($6) returned to gig.gyty
+gig.gyty collected $8.08 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [7h Qs Ts]
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: AllRaise101 folded on the Flop
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) collected ($8.08)
+Seat 6: Kiano187 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254670294698:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:37:00 WET [2025/02/02 10:37:00 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 1: tintin641 ($104.50 in chips) 
+Seat 2: sta$igk ($106.50 in chips) 
+Seat 3: AllRaise101 ($130.81 in chips) 
+Seat 4: Joe_Li7 ($197 in chips) 
+Seat 5: gig.gyty ($106.53 in chips) 
+Seat 6: Kiano187 ($100.50 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: raises $1.50 to $2.50
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: folds 
+sta$igk: folds 
+Uncalled bet ($1.50) returned to AllRaise101
+AllRaise101 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: sta$igk (big blind) folded before Flop
+Seat 3: AllRaise101 collected ($2.50)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670300366:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:37:22 WET [2025/02/02 10:37:22 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($104 in chips) 
+Seat 2: sta$igk ($105.50 in chips) 
+Seat 3: AllRaise101 ($132.31 in chips) 
+Seat 4: Joe_Li7 ($197 in chips) 
+Seat 5: gig.gyty ($106.53 in chips) 
+Seat 6: Kiano187 ($100.50 in chips) 
+sta$igk: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: folds 
+sta$igk: raises $2 to $3
+AllRaise101: folds 
+Uncalled bet ($2) returned to sta$igk
+sta$igk collected $2 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: sta$igk (small blind) collected ($2)
+Seat 3: AllRaise101 (big blind) folded before Flop
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670306964:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:37:48 WET [2025/02/02 10:37:48 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 4: Joe_Li7 ($197 in chips) is sitting out
+Seat 1: tintin641 ($104 in chips) 
+Seat 2: sta$igk ($106.50 in chips) 
+Seat 3: AllRaise101 ($131.31 in chips) 
+Seat 5: gig.gyty ($106.53 in chips) 
+Seat 6: Kiano187 ($100.50 in chips) 
+AllRaise101: posts small blind $0.50
+Joe_Li7: is sitting out 
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: folds 
+tintin641: raises $1.50 to $2.50
+sta$igk: raises $5.50 to $8
+AllRaise101: folds 
+gig.gyty: folds 
+tintin641: folds 
+Uncalled bet ($5.50) returned to sta$igk
+sta$igk collected $6.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 4: Joe_Li7
+Seat 1: tintin641 folded before Flop
+Seat 2: sta$igk (button) collected ($6.50)
+Seat 3: AllRaise101 (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254669841081:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:06:10 WET [2025/02/02 10:06:10 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($102 in chips) 
+Seat 2: gudrozd ($100 in chips) 
+Seat 3: AllRaise101 ($100 in chips) 
+Seat 4: EasyGamerrr ($198 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: Kiano187 ($66.85 in chips) 
+AllRaise101: posts small blind $0.50
+EasyGamerrr: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: calls $1
+tintin641: folds 
+gudrozd: folds 
+AllRaise101: raises $5 to $6
+EasyGamerrr: folds 
+Kiano187: calls $5
+*** FLOP *** [2s 7c 6s]
+AllRaise101: bets $9.35
+Kiano187: folds 
+Uncalled bet ($9.35) returned to AllRaise101
+AllRaise101 collected $12.35 from pot
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [2s 7c 6s]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: gudrozd (button) folded before Flop (didn't bet)
+Seat 3: AllRaise101 (small blind) collected ($12.35)
+Seat 4: EasyGamerrr (big blind) folded before Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded on the Flop
+
+
+
+PokerStars Hand #254669848029:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:06:40 WET [2025/02/02 10:06:40 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($102 in chips) 
+Seat 2: gudrozd ($100 in chips) 
+Seat 3: AllRaise101 ($106.35 in chips) 
+Seat 4: EasyGamerrr ($197 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: Kiano187 ($60.85 in chips) 
+EasyGamerrr: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: calls $1
+tintin641: folds 
+gudrozd: folds 
+AllRaise101: folds 
+EasyGamerrr: folds 
+gig.gyty: checks 
+*** FLOP *** [7h Th 5s]
+gig.gyty: checks 
+Kiano187: checks 
+*** TURN *** [7h Th 5s] [5h]
+gig.gyty: bets $1.19
+Kiano187: calls $1.19
+*** RIVER *** [7h Th 5s 5h] [Kc]
+gig.gyty: checks 
+Kiano187: bets $4
+gig.gyty: calls $4
+*** SHOW DOWN ***
+Kiano187: shows [Ac 8h] (a pair of Fives)
+gig.gyty: shows [7s Tc] (two pair, Tens and Sevens)
+gig.gyty collected $12.24 from pot
+*** SUMMARY ***
+Total pot $12.88 | Rake $0.64 
+Board [7h Th 5s 5h Kc]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: gudrozd folded before Flop (didn't bet)
+Seat 3: AllRaise101 (button) folded before Flop (didn't bet)
+Seat 4: EasyGamerrr (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) showed [7s Tc] and won ($12.24) with two pair, Tens and Sevens
+Seat 6: Kiano187 showed [Ac 8h] and lost with a pair of Fives
+
+
+
+PokerStars Hand #254669860118:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:07:32 WET [2025/02/02 10:07:32 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($102 in chips) 
+Seat 2: gudrozd ($100 in chips) 
+Seat 3: AllRaise101 ($106.35 in chips) 
+Seat 4: EasyGamerrr ($196.50 in chips) 
+Seat 5: gig.gyty ($106.05 in chips) 
+Seat 6: Kiano187 ($54.66 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+gudrozd: folds 
+AllRaise101: calls $2.50
+EasyGamerrr: folds 
+gig.gyty: folds 
+Kiano187: folds 
+*** FLOP *** [4d 7h Qd]
+tintin641: checks 
+AllRaise101: checks 
+*** TURN *** [4d 7h Qd] [8h]
+tintin641: bets $4.64
+AllRaise101: calls $4.64
+*** RIVER *** [4d 7h Qd 8h] [Kh]
+tintin641: bets $11.24
+AllRaise101: folds 
+Uncalled bet ($11.24) returned to tintin641
+tintin641 collected $14.99 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.78 | Rake $0.79 
+Board [4d 7h Qd 8h Kh]
+Seat 1: tintin641 collected ($14.99)
+Seat 2: gudrozd folded before Flop (didn't bet)
+Seat 3: AllRaise101 folded on the River
+Seat 4: EasyGamerrr (button) folded before Flop (didn't bet)
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254669897637:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:10:13 WET [2025/02/02 10:10:13 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($106.85 in chips) 
+Seat 2: gudrozd ($104.89 in chips) 
+Seat 3: AllRaise101 ($100 in chips) 
+Seat 5: gig.gyty ($105.55 in chips) 
+Seat 6: Kiano187 ($51.16 in chips) 
+AllRaise101: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+sltn joins the table at seat #4 
+Kiano187: folds 
+tintin641: raises $1.50 to $2.50
+gudrozd: folds 
+AllRaise101: raises $8 to $10.50
+gig.gyty: folds 
+tintin641: calls $8
+*** FLOP *** [3s 3d 9d]
+AllRaise101: bets $7.45
+tintin641: folds 
+Uncalled bet ($7.45) returned to AllRaise101
+AllRaise101 collected $20.90 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [3s 3d 9d]
+Seat 1: tintin641 folded on the Flop
+Seat 2: gudrozd (button) folded before Flop (didn't bet)
+Seat 3: AllRaise101 (small blind) collected ($20.90)
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254669908620:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:11:00 WET [2025/02/02 10:11:00 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 4: sltn ($100 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($104.89 in chips) 
+Seat 3: AllRaise101 ($110.40 in chips) 
+Seat 5: gig.gyty ($104.55 in chips) 
+Seat 6: Kiano187 ($51.16 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+gudrozd: folds 
+AllRaise101: raises $1.50 to $2.50
+gig.gyty: folds 
+Kiano187: raises $1.50 to $4
+AllRaise101: calls $1.50
+*** FLOP *** [8c 2d 7d]
+Kiano187: bets $5
+AllRaise101: calls $5
+*** TURN *** [8c 2d 7d] [Jh]
+Kiano187: checks 
+AllRaise101: checks 
+*** RIVER *** [8c 2d 7d Jh] [6c]
+Kiano187: bets $18
+AllRaise101: calls $18
+*** SHOW DOWN ***
+Kiano187: shows [Kc 9c] (high card King)
+AllRaise101: shows [Jd Ts] (a pair of Jacks)
+AllRaise101 collected $52 from pot
+*** SUMMARY ***
+Total pot $54.50 | Rake $2.50 
+Board [8c 2d 7d Jh 6c]
+Seat 4: sltn
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: gudrozd folded before Flop (didn't bet)
+Seat 3: AllRaise101 (button) showed [Jd Ts] and won ($52) with a pair of Jacks
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) showed [Kc 9c] and lost with high card King
+
+
+
+PokerStars Hand #254669923975:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:12:05 WET [2025/02/02 10:12:05 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 4: sltn ($100 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($104.89 in chips) 
+Seat 3: AllRaise101 ($135.40 in chips) 
+Seat 5: gig.gyty ($104.05 in chips) 
+Seat 6: Kiano187 ($24.16 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+sltn: sits out 
+*** HOLE CARDS ***
+gudrozd: folds 
+AllRaise101: folds 
+gig.gyty: folds 
+Kiano187: raises $1 to $2
+tintin641: folds 
+Uncalled bet ($1) returned to Kiano187
+Kiano187 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: sltn
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: gudrozd folded before Flop (didn't bet)
+Seat 3: AllRaise101 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) folded before Flop (didn't bet)
+Seat 6: Kiano187 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254669928816:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:12:26 WET [2025/02/02 10:12:26 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 4: sltn ($100 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($104.89 in chips) 
+Seat 3: AllRaise101 ($135.40 in chips) 
+Seat 5: gig.gyty ($104.05 in chips) 
+Seat 6: Kiano187 ($25.16 in chips) 
+tintin641: posts small blind $0.50
+gudrozd: posts big blind $1
+sltn: sits out 
+*** HOLE CARDS ***
+AllRaise101: folds 
+gig.gyty: folds 
+Kiano187: raises $24.16 to $25.16 and is all-in
+tintin641: folds 
+gudrozd: folds 
+Uncalled bet ($24.16) returned to Kiano187
+Kiano187 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: sltn
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: gudrozd (big blind) folded before Flop
+Seat 3: AllRaise101 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254669934316:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:12:49 WET [2025/02/02 10:12:49 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 4: sltn ($100 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($103.89 in chips) 
+Seat 3: AllRaise101 ($135.40 in chips) 
+Seat 5: gig.gyty ($104.05 in chips) 
+Seat 6: Kiano187 ($26.66 in chips) 
+gudrozd: posts small blind $0.50
+AllRaise101: posts big blind $1
+sltn: sits out 
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: raises $1 to $2
+tintin641: folds 
+gudrozd: folds 
+AllRaise101: folds 
+Uncalled bet ($1) returned to Kiano187
+Kiano187 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: sltn
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: gudrozd (small blind) folded before Flop
+Seat 3: AllRaise101 (big blind) folded before Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 collected ($2.50)
+
+
+
+PokerStars Hand #254669939402:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:13:11 WET [2025/02/02 10:13:11 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($103.39 in chips) 
+Seat 3: AllRaise101 ($134.40 in chips) 
+Seat 4: sltn ($100 in chips) 
+Seat 5: gig.gyty ($104.05 in chips) 
+Seat 6: Kiano187 ($28.16 in chips) 
+AllRaise101: posts small blind $0.50
+sltn: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: raises $3 to $4
+tintin641: folds 
+gudrozd: folds 
+AllRaise101: folds 
+sltn: folds 
+Uncalled bet ($3) returned to Kiano187
+Kiano187 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: gudrozd (button) folded before Flop (didn't bet)
+Seat 3: AllRaise101 (small blind) folded before Flop
+Seat 4: sltn (big blind) folded before Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 collected ($2.50)
+
+
+
+PokerStars Hand #254669944449:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:13:32 WET [2025/02/02 10:13:32 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($103.39 in chips) 
+Seat 3: AllRaise101 ($133.90 in chips) 
+Seat 4: sltn ($100 in chips) 
+Seat 5: gig.gyty ($104.05 in chips) 
+Seat 6: Kiano187 ($29.66 in chips) 
+sltn: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: calls $1
+tintin641: folds 
+gudrozd: folds 
+AllRaise101: calls $1
+sltn: folds 
+gig.gyty: checks 
+*** FLOP *** [9d 7d Qh]
+gig.gyty: checks 
+Kiano187: bets $1
+AllRaise101: calls $1
+gig.gyty: folds 
+*** TURN *** [9d 7d Qh] [2s]
+Kiano187: checks 
+AllRaise101: bets $3
+Kiano187: calls $3
+*** RIVER *** [9d 7d Qh 2s] [4h]
+Kiano187: checks 
+AllRaise101: bets $7.46
+Kiano187: folds 
+Uncalled bet ($7.46) returned to AllRaise101
+AllRaise101 collected $10.92 from pot
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.58 
+Board [9d 7d Qh 2s 4h]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: gudrozd folded before Flop (didn't bet)
+Seat 3: AllRaise101 (button) collected ($10.92)
+Seat 4: sltn (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded on the Flop
+Seat 6: Kiano187 folded on the River
+
+
+
+PokerStars Hand #254669957467:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:14:28 WET [2025/02/02 10:14:28 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($103.39 in chips) 
+Seat 3: AllRaise101 ($139.82 in chips) 
+Seat 4: sltn ($100 in chips) 
+Seat 5: gig.gyty ($103.05 in chips) 
+Seat 6: Kiano187 ($24.66 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+gudrozd: folds 
+AllRaise101: folds 
+sltn: raises $1 to $2
+gig.gyty: folds 
+Kiano187: folds 
+Uncalled bet ($1) returned to sltn
+sltn collected $2.50 from pot
+sltn: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: gudrozd folded before Flop (didn't bet)
+Seat 3: AllRaise101 folded before Flop (didn't bet)
+Seat 4: sltn (button) collected ($2.50)
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254669960568:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:14:41 WET [2025/02/02 10:14:41 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($103.39 in chips) 
+Seat 3: AllRaise101 ($139.82 in chips) 
+Seat 4: sltn ($101.50 in chips) 
+Seat 5: gig.gyty ($102.55 in chips) 
+Seat 6: Kiano187 ($23.66 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+AllRaise101: folds 
+sltn: folds 
+gig.gyty: raises $1.50 to $2.50
+Kiano187: calls $2
+tintin641: folds 
+*** FLOP *** [2d Jd 2c]
+Kiano187: checks 
+gig.gyty: bets $1.88
+Kiano187: folds 
+Uncalled bet ($1.88) returned to gig.gyty
+gig.gyty collected $5.70 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [2d Jd 2c]
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: gudrozd folded before Flop (didn't bet)
+Seat 3: AllRaise101 folded before Flop (didn't bet)
+Seat 4: sltn folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) collected ($5.70)
+Seat 6: Kiano187 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254669971610:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:15:26 WET [2025/02/02 10:15:26 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($103.39 in chips) 
+Seat 3: AllRaise101 ($139.82 in chips) 
+Seat 4: sltn ($101.50 in chips) 
+Seat 5: gig.gyty ($105.75 in chips) 
+Seat 6: Kiano187 ($21.16 in chips) 
+tintin641: posts small blind $0.50
+gudrozd: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: raises $1.50 to $2.50
+sltn: folds 
+gig.gyty: folds 
+Kiano187: raises $1.50 to $4
+tintin641: folds 
+gudrozd: folds 
+AllRaise101: calls $1.50
+*** FLOP *** [Ks 2d 7c]
+AllRaise101: checks 
+Kiano187: bets $4.51
+AllRaise101: folds 
+Uncalled bet ($4.51) returned to Kiano187
+Kiano187 collected $8.90 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.60 
+Board [Ks 2d 7c]
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: gudrozd (big blind) folded before Flop
+Seat 3: AllRaise101 folded on the Flop
+Seat 4: sltn folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 (button) collected ($8.90)
+
+
+
+PokerStars Hand #254669979428:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:15:58 WET [2025/02/02 10:15:58 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($102.39 in chips) 
+Seat 3: AllRaise101 ($135.82 in chips) 
+Seat 4: sltn ($101.50 in chips) 
+Seat 5: gig.gyty ($105.75 in chips) 
+Seat 6: Kiano187 ($26.06 in chips) 
+gudrozd: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+sltn: folds 
+gig.gyty has timed out
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: folds 
+gudrozd: folds 
+Uncalled bet ($0.50) returned to AllRaise101
+AllRaise101 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: gudrozd (small blind) folded before Flop
+Seat 3: AllRaise101 (big blind) collected ($1)
+Seat 4: sltn folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254669990269:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:16:41 WET [2025/02/02 10:16:41 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($101.89 in chips) 
+Seat 3: AllRaise101 ($136.32 in chips) 
+Seat 4: sltn ($101.50 in chips) 
+Seat 5: gig.gyty ($105.75 in chips) 
+Seat 6: Kiano187 ($26.06 in chips) 
+AllRaise101: posts small blind $0.50
+sltn: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: calls $1
+tintin641: raises $3 to $4
+gudrozd: folds 
+AllRaise101: folds 
+sltn: folds 
+Kiano187: calls $3
+*** FLOP *** [5h 3d Jd]
+Kiano187: checks 
+tintin641: bets $2.98
+Kiano187: calls $2.98
+*** TURN *** [5h 3d Jd] [4c]
+Kiano187: checks 
+tintin641: bets $22.04
+Kiano187: calls $19.08 and is all-in
+Uncalled bet ($2.96) returned to tintin641
+*** RIVER *** [5h 3d Jd 4c] [6d]
+*** SHOW DOWN ***
+Kiano187: shows [6h 7d] (a straight, Three to Seven)
+tintin641: shows [As Ah] (a pair of Aces)
+Kiano187 collected $50.50 from pot
+*** SUMMARY ***
+Total pot $53.62 | Rake $3.12 
+Board [5h 3d Jd 4c 6d]
+Seat 1: tintin641 showed [As Ah] and lost with a pair of Aces
+Seat 2: gudrozd (button) folded before Flop (didn't bet)
+Seat 3: AllRaise101 (small blind) folded before Flop
+Seat 4: sltn (big blind) folded before Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 showed [6h 7d] and won ($50.50) with a straight, Three to Seven
+
+
+
+PokerStars Hand #254670006355:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:17:46 WET [2025/02/02 10:17:46 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($101.89 in chips) 
+Seat 3: AllRaise101 ($135.82 in chips) 
+Seat 4: sltn ($100.50 in chips) 
+Seat 5: gig.gyty ($105.75 in chips) 
+Seat 6: Kiano187 ($50.50 in chips) 
+sltn: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: raises $1 to $2
+tintin641: folds 
+gudrozd: folds 
+AllRaise101: folds 
+sltn: folds 
+gig.gyty: folds 
+Uncalled bet ($1) returned to Kiano187
+Kiano187 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: gudrozd folded before Flop (didn't bet)
+Seat 3: AllRaise101 (button) folded before Flop (didn't bet)
+Seat 4: sltn (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 collected ($2.50)
+
+
+
+PokerStars Hand #254670010708:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:18:04 WET [2025/02/02 10:18:04 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($101.89 in chips) 
+Seat 3: AllRaise101 ($135.82 in chips) 
+Seat 4: sltn ($100 in chips) 
+Seat 5: gig.gyty ($104.75 in chips) 
+Seat 6: Kiano187 ($52 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+gudrozd: raises $1.50 to $2.50
+AllRaise101: folds 
+sltn: raises $5 to $7.50
+gig.gyty: folds 
+Kiano187: folds 
+gudrozd: folds 
+Uncalled bet ($5) returned to sltn
+sltn collected $6.50 from pot
+sltn: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: gudrozd folded before Flop
+Seat 3: AllRaise101 folded before Flop (didn't bet)
+Seat 4: sltn (button) collected ($6.50)
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254670015117:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:18:22 WET [2025/02/02 10:18:22 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: gudrozd ($100 in chips) 
+Seat 3: AllRaise101 ($135.82 in chips) 
+Seat 4: sltn ($104 in chips) 
+Seat 5: gig.gyty ($104.25 in chips) 
+Seat 6: Kiano187 ($51 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+gudrozd: folds 
+AllRaise101: folds 
+sltn: raises $1.50 to $2.50
+gig.gyty: raises $5.50 to $8
+Kiano187: folds 
+tintin641: folds 
+sltn: raises $12 to $20
+gig.gyty: calls $12
+*** FLOP *** [7c As Kh]
+sltn: bets $10
+gig.gyty: calls $10
+*** TURN *** [7c As Kh] [6h]
+sltn: bets $74 and is all-in
+gig.gyty: folds 
+Uncalled bet ($74) returned to sltn
+sltn collected $59 from pot
+sltn: doesn't show hand 
+*** SUMMARY ***
+Total pot $61.50 | Rake $2.50 
+Board [7c As Kh 6h]
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: gudrozd folded before Flop (didn't bet)
+Seat 3: AllRaise101 folded before Flop (didn't bet)
+Seat 4: sltn collected ($59)
+Seat 5: gig.gyty (button) folded on the Turn
+Seat 6: Kiano187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254670520830:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:51:37 WET [2025/02/02 10:51:37 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($101.72 in chips) 
+Seat 2: sta$igk ($249.46 in chips) 
+Seat 3: raiseinthedarkk ($101.20 in chips) 
+Seat 4: Joe_Li7 ($198.22 in chips) 
+Seat 5: gig.gyty ($115.68 in chips) 
+Seat 6: Kiano187 ($137.22 in chips) 
+raiseinthedarkk: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: raises $4 to $5
+tintin641: folds 
+sta$igk: folds 
+raiseinthedarkk: folds 
+Joe_Li7: raises $12 to $17
+Kiano187: calls $12
+*** FLOP *** [Ah Kh 5s]
+Joe_Li7: checks 
+Kiano187: bets $17
+Joe_Li7: folds 
+Uncalled bet ($17) returned to Kiano187
+Kiano187 collected $32.35 from pot
+*** SUMMARY ***
+Total pot $34.50 | Rake $2.15 
+Board [Ah Kh 5s]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk (button) folded before Flop (didn't bet)
+Seat 3: raiseinthedarkk (small blind) folded before Flop
+Seat 4: Joe_Li7 (big blind) folded on the Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 collected ($32.35)
+
+
+
+PokerStars Hand #254670534186:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:52:29 WET [2025/02/02 10:52:29 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($101.72 in chips) 
+Seat 2: sta$igk ($249.46 in chips) 
+Seat 3: raiseinthedarkk ($100.70 in chips) 
+Seat 4: Joe_Li7 ($181.22 in chips) 
+Seat 5: gig.gyty ($115.68 in chips) 
+Seat 6: Kiano187 ($152.57 in chips) 
+Joe_Li7: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: folds 
+tintin641: folds 
+sta$igk: folds 
+raiseinthedarkk: raises $1.50 to $2.50
+Joe_Li7: raises $8 to $10.50
+gig.gyty: folds 
+raiseinthedarkk: folds 
+Uncalled bet ($8) returned to Joe_Li7
+Joe_Li7 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: raiseinthedarkk (button) folded before Flop
+Seat 4: Joe_Li7 (small blind) collected ($6)
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670543027:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:53:03 WET [2025/02/02 10:53:03 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($101.72 in chips) 
+Seat 2: sta$igk ($249.46 in chips) 
+Seat 3: raiseinthedarkk ($100 in chips) 
+Seat 4: Joe_Li7 ($184.72 in chips) 
+Seat 5: gig.gyty ($114.68 in chips) 
+Seat 6: Kiano187 ($152.57 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+sta$igk: folds 
+raiseinthedarkk: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 collected ($2.50)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: raiseinthedarkk folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254670547482:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:53:20 WET [2025/02/02 10:53:20 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 1: tintin641 ($103.22 in chips) 
+Seat 2: sta$igk ($249.46 in chips) 
+Seat 3: raiseinthedarkk ($100 in chips) 
+Seat 4: Joe_Li7 ($184.72 in chips) 
+Seat 5: gig.gyty ($114.18 in chips) 
+Seat 6: Kiano187 ($151.57 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+raiseinthedarkk: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+Uncalled bet ($0.50) returned to tintin641
+tintin641 collected $1 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tintin641 (big blind) collected ($1)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: raiseinthedarkk folded before Flop (didn't bet)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) folded before Flop (didn't bet)
+Seat 6: Kiano187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254670549992:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:53:30 WET [2025/02/02 10:53:30 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 1: tintin641 ($103.72 in chips) 
+Seat 2: sta$igk ($249.46 in chips) 
+Seat 3: raiseinthedarkk ($100 in chips) 
+Seat 4: Joe_Li7 ($184.72 in chips) 
+Seat 5: gig.gyty ($114.18 in chips) 
+Seat 6: Kiano187 ($151.07 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+raiseinthedarkk: folds 
+Joe_Li7: folds 
+gig.gyty: raises $1.25 to $2.25
+Kiano187: calls $2.25
+tintin641: folds 
+sta$igk: folds 
+*** FLOP *** [6h 9s 7s]
+gig.gyty: checks 
+Kiano187: checks 
+*** TURN *** [6h 9s 7s] [9d]
+gig.gyty: checks 
+Kiano187: checks 
+*** RIVER *** [6h 9s 7s 9d] [4d]
+gig.gyty: bets $4.39
+Kiano187: calls $4.39
+*** SHOW DOWN ***
+gig.gyty: shows [Jh Qd] (a pair of Nines)
+Kiano187: mucks hand 
+gig.gyty collected $14.04 from pot
+*** SUMMARY ***
+Total pot $14.78 | Rake $0.74 
+Board [6h 9s 7s 9d 4d]
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: sta$igk (big blind) folded before Flop
+Seat 3: raiseinthedarkk folded before Flop (didn't bet)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty showed [Jh Qd] and won ($14.04) with a pair of Nines
+Seat 6: Kiano187 (button) mucked
+
+
+
+PokerStars Hand #254670559732:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:54:07 WET [2025/02/02 10:54:07 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($103.22 in chips) 
+Seat 2: sta$igk ($248.46 in chips) 
+Seat 3: raiseinthedarkk ($100 in chips) 
+Seat 4: Joe_Li7 ($184.72 in chips) 
+Seat 5: gig.gyty ($121.58 in chips) 
+Seat 6: Kiano187 ($144.43 in chips) 
+sta$igk: posts small blind $0.50
+raiseinthedarkk: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: raises $1.50 to $2.50
+sta$igk: folds 
+raiseinthedarkk: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (button) collected ($2.50)
+Seat 2: sta$igk (small blind) folded before Flop
+Seat 3: raiseinthedarkk (big blind) folded before Flop
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670567005:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:54:36 WET [2025/02/02 10:54:36 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($104.72 in chips) 
+Seat 2: sta$igk ($247.96 in chips) 
+Seat 3: raiseinthedarkk ($100 in chips) 
+Seat 4: Joe_Li7 ($184.72 in chips) 
+Seat 5: gig.gyty ($121.58 in chips) 
+Seat 6: Kiano187 ($144.43 in chips) 
+raiseinthedarkk: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: folds 
+sta$igk: folds 
+raiseinthedarkk: raises $2 to $3
+Joe_Li7: folds 
+Uncalled bet ($2) returned to raiseinthedarkk
+raiseinthedarkk collected $2 from pot
+raiseinthedarkk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk (button) folded before Flop (didn't bet)
+Seat 3: raiseinthedarkk (small blind) collected ($2)
+Seat 4: Joe_Li7 (big blind) folded before Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670573545:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:55:01 WET [2025/02/02 10:55:01 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($104.72 in chips) 
+Seat 2: sta$igk ($247.96 in chips) 
+Seat 3: raiseinthedarkk ($101 in chips) 
+Seat 4: Joe_Li7 ($183.72 in chips) 
+Seat 5: gig.gyty ($121.58 in chips) 
+Seat 6: Kiano187 ($144.43 in chips) 
+Joe_Li7: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: folds 
+tintin641: folds 
+sta$igk: raises $1.50 to $2.50
+raiseinthedarkk: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Uncalled bet ($1.50) returned to sta$igk
+sta$igk collected $2.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk collected ($2.50)
+Seat 3: raiseinthedarkk (button) folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670579276:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:55:29 WET [2025/02/02 10:55:29 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($104.72 in chips) 
+Seat 2: sta$igk ($249.46 in chips) 
+Seat 3: raiseinthedarkk ($101 in chips) 
+Seat 4: Joe_Li7 ($183.22 in chips) 
+Seat 5: gig.gyty ($120.58 in chips) 
+Seat 6: Kiano187 ($144.43 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+sta$igk: raises $1.50 to $2.50
+raiseinthedarkk: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $1.50
+*** FLOP *** [Qs 7c 4s]
+Kiano187: checks 
+sta$igk: bets $1.72
+Kiano187: calls $1.72
+*** TURN *** [Qs 7c 4s] [Td]
+Kiano187: checks 
+sta$igk: bets $12.73
+Kiano187: folds 
+Uncalled bet ($12.73) returned to sta$igk
+sta$igk collected $8.49 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [Qs 7c 4s Td]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk collected ($8.49)
+Seat 3: raiseinthedarkk folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254670586196:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:56:09 WET [2025/02/02 10:56:09 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 1: tintin641 ($104.72 in chips) 
+Seat 2: sta$igk ($253.73 in chips) 
+Seat 3: raiseinthedarkk ($101 in chips) 
+Seat 4: Joe_Li7 ($183.22 in chips) 
+Seat 5: gig.gyty ($120.08 in chips) 
+Seat 6: Kiano187 ($140.21 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+raiseinthedarkk: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: folds 
+Uncalled bet ($1.50) returned to sta$igk
+sta$igk collected $2.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: sta$igk collected ($2.50)
+Seat 3: raiseinthedarkk folded before Flop (didn't bet)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) folded before Flop (didn't bet)
+Seat 6: Kiano187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254670588182:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:56:21 WET [2025/02/02 10:56:21 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 1: tintin641 ($103.72 in chips) 
+Seat 2: sta$igk ($255.23 in chips) 
+Seat 3: raiseinthedarkk ($101 in chips) 
+Seat 4: Joe_Li7 ($183.22 in chips) 
+Seat 5: gig.gyty ($120.08 in chips) 
+Seat 6: Kiano187 ($139.71 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+raiseinthedarkk: folds 
+Joe_Li7: raises $1.20 to $2.20
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: folds 
+sta$igk: folds 
+Uncalled bet ($1.20) returned to Joe_Li7
+Joe_Li7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: sta$igk (big blind) folded before Flop
+Seat 3: raiseinthedarkk folded before Flop (didn't bet)
+Seat 4: Joe_Li7 collected ($2.50)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670591995:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:56:42 WET [2025/02/02 10:56:42 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($103.22 in chips) 
+Seat 2: sta$igk ($254.23 in chips) 
+Seat 3: raiseinthedarkk ($101 in chips) 
+Seat 4: Joe_Li7 ($184.72 in chips) 
+Seat 5: gig.gyty ($120.08 in chips) 
+Seat 6: Kiano187 ($139.71 in chips) 
+sta$igk: posts small blind $0.50
+raiseinthedarkk: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: raises $1.20 to $2.20
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: folds 
+sta$igk: folds 
+raiseinthedarkk: calls $1.20
+*** FLOP *** [3s 6d 9c]
+raiseinthedarkk: checks 
+Joe_Li7: checks 
+*** TURN *** [3s 6d 9c] [2s]
+raiseinthedarkk: bets $3.08
+Joe_Li7: calls $3.08
+*** RIVER *** [3s 6d 9c 2s] [2d]
+raiseinthedarkk: checks 
+Joe_Li7: bets $7.88
+raiseinthedarkk: folds 
+Uncalled bet ($7.88) returned to Joe_Li7
+Joe_Li7 collected $10.51 from pot
+*** SUMMARY ***
+Total pot $11.06 | Rake $0.55 
+Board [3s 6d 9c 2s 2d]
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: sta$igk (small blind) folded before Flop
+Seat 3: raiseinthedarkk (big blind) folded on the River
+Seat 4: Joe_Li7 collected ($10.51)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670608868:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:58:19 WET [2025/02/02 10:58:19 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($103.22 in chips) 
+Seat 2: sta$igk ($253.73 in chips) 
+Seat 3: raiseinthedarkk ($100 in chips) 
+Seat 4: Joe_Li7 ($189.95 in chips) 
+Seat 5: gig.gyty ($120.08 in chips) 
+Seat 6: Kiano187 ($139.71 in chips) 
+raiseinthedarkk: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: raises $3 to $4
+tintin641: folds 
+sta$igk: raises $5 to $9
+raiseinthedarkk: folds 
+Joe_Li7: folds 
+Kiano187: calls $5
+*** FLOP *** [3d Th 4h]
+Kiano187: checks 
+sta$igk: bets $9.26
+Kiano187: raises $10.74 to $20
+sta$igk: folds 
+Uncalled bet ($10.74) returned to Kiano187
+Kiano187 collected $35.64 from pot
+*** SUMMARY ***
+Total pot $38.02 | Rake $2.38 
+Board [3d Th 4h]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk (button) folded on the Flop
+Seat 3: raiseinthedarkk (small blind) folded before Flop
+Seat 4: Joe_Li7 (big blind) folded before Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 collected ($35.64)
+
+
+
+PokerStars Hand #254670618486:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:59:13 WET [2025/02/02 10:59:13 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($103.22 in chips) 
+Seat 2: sta$igk ($235.47 in chips) 
+Seat 3: raiseinthedarkk ($100 in chips) 
+Seat 4: Joe_Li7 ($188.95 in chips) 
+Seat 5: gig.gyty ($120.08 in chips) 
+Seat 6: Kiano187 ($157.09 in chips) 
+Joe_Li7: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: calls $1
+tintin641: raises $3 to $4
+sta$igk: folds 
+raiseinthedarkk: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $3
+*** FLOP *** [6s 2d 8s]
+Kiano187: checks 
+tintin641: bets $2.98
+Kiano187: folds 
+Uncalled bet ($2.98) returned to tintin641
+tintin641 collected $9.02 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [6s 2d 8s]
+Seat 1: tintin641 collected ($9.02)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: raiseinthedarkk (button) folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 folded on the Flop
+
+
+
+PokerStars Hand #254670628150:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:00:02 WET [2025/02/02 11:00:02 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($108.24 in chips) 
+Seat 2: sta$igk ($235.47 in chips) 
+Seat 3: raiseinthedarkk ($100 in chips) 
+Seat 4: Joe_Li7 ($188.45 in chips) 
+Seat 5: gig.gyty ($119.08 in chips) 
+Seat 6: Kiano187 ($153.09 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+sta$igk: folds 
+raiseinthedarkk: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 collected ($2.50)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: raiseinthedarkk folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254670631641:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:00:21 WET [2025/02/02 11:00:21 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 1: tintin641 ($109.74 in chips) 
+Seat 2: sta$igk ($235.47 in chips) 
+Seat 3: raiseinthedarkk ($100 in chips) 
+Seat 4: Joe_Li7 ($188.45 in chips) 
+Seat 5: gig.gyty ($118.58 in chips) 
+Seat 6: Kiano187 ($152.09 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+raiseinthedarkk: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $2
+tintin641: folds 
+*** FLOP *** [As Ts 5c]
+Kiano187: checks 
+sta$igk: bets $1.88
+Kiano187: calls $1.88
+*** TURN *** [As Ts 5c] [Th]
+Kiano187: checks 
+raiseinthedarkk leaves the table
+sta$igk: checks 
+*** RIVER *** [As Ts 5c Th] [Td]
+Kiano187: checks 
+sta$igk: checks 
+*** SHOW DOWN ***
+Kiano187: shows [6c Kc] (three of a kind, Tens)
+sta$igk: shows [Jh Kh] (three of a kind, Tens)
+Kiano187 collected $4.58 from pot
+sta$igk collected $4.63 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.55 
+Board [As Ts 5c Th Td]
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: sta$igk showed [Jh Kh] and won ($4.63) with three of a kind, Tens
+Seat 3: raiseinthedarkk folded before Flop (didn't bet)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) folded before Flop (didn't bet)
+Seat 6: Kiano187 (small blind) showed [6c Kc] and won ($4.58) with three of a kind, Tens
+
+
+
+PokerStars Hand #254670643183:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:01:14 WET [2025/02/02 11:01:14 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 1: tintin641 ($108.74 in chips) 
+Seat 2: sta$igk ($235.72 in chips) 
+Seat 4: Joe_Li7 ($188.45 in chips) 
+Seat 5: gig.gyty ($118.58 in chips) 
+Seat 6: Kiano187 ($152.29 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $1
+tintin641: calls $0.50
+sta$igk: checks 
+*** FLOP *** [Kc Ac Th]
+tintin641: checks 
+sta$igk: checks 
+Kiano187: checks 
+*** TURN *** [Kc Ac Th] [Jc]
+socito joins the table at seat #3 
+tintin641: checks 
+sta$igk: checks 
+Kiano187: checks 
+*** RIVER *** [Kc Ac Th Jc] [6c]
+tintin641: checks 
+sta$igk: bets $2.85
+Kiano187: folds 
+tintin641: folds 
+Uncalled bet ($2.85) returned to sta$igk
+sta$igk collected $2.85 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Kc Ac Th Jc 6c]
+Seat 1: tintin641 (small blind) folded on the River
+Seat 2: sta$igk (big blind) collected ($2.85)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 (button) folded on the River
+
+
+
+PokerStars Hand #254670658903:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:02:17 WET [2025/02/02 11:02:17 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($107.74 in chips) 
+Seat 2: sta$igk ($237.57 in chips) 
+Seat 3: socito ($100 in chips) 
+Seat 4: Joe_Li7 ($188.45 in chips) 
+Seat 5: gig.gyty ($118.58 in chips) 
+Seat 6: Kiano187 ($151.29 in chips) 
+sta$igk: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $1
+tintin641: folds 
+sta$igk: folds 
+socito: checks 
+*** FLOP *** [2c 4d Ac]
+socito: checks 
+Kiano187: checks 
+*** TURN *** [2c 4d Ac] [4c]
+socito: checks 
+Kiano187: checks 
+*** RIVER *** [2c 4d Ac 4c] [Td]
+socito: checks 
+Kiano187: checks 
+*** SHOW DOWN ***
+socito: shows [Kc 2d] (two pair, Fours and Deuces)
+Kiano187: mucks hand 
+socito collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [2c 4d Ac 4c Td]
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: sta$igk (small blind) folded before Flop
+Seat 3: socito (big blind) showed [Kc 2d] and won ($2.38) with two pair, Fours and Deuces
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 mucked
+
+
+
+PokerStars Hand #254670673550:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:03:11 WET [2025/02/02 11:03:11 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($107.74 in chips) 
+Seat 2: sta$igk ($237.07 in chips) 
+Seat 3: socito ($101.38 in chips) 
+Seat 4: Joe_Li7 ($188.45 in chips) 
+Seat 5: gig.gyty ($118.58 in chips) 
+Seat 6: Kiano187 ($150.29 in chips) 
+socito: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: raises $1.50 to $2.50
+sta$igk: raises $5.50 to $8
+socito: folds 
+Joe_Li7: folds 
+tintin641: calls $5.50
+*** FLOP *** [2c Tc Ac]
+tintin641: checks 
+sta$igk: bets $4.16
+tintin641: folds 
+Uncalled bet ($4.16) returned to sta$igk
+sta$igk collected $16.62 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.88 
+Board [2c Tc Ac]
+Seat 1: tintin641 folded on the Flop
+Seat 2: sta$igk (button) collected ($16.62)
+Seat 3: socito (small blind) folded before Flop
+Seat 4: Joe_Li7 (big blind) folded before Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670691075:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:04:16 WET [2025/02/02 11:04:16 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: sta$igk ($245.69 in chips) 
+Seat 3: socito ($100.88 in chips) 
+Seat 4: Joe_Li7 ($187.45 in chips) 
+Seat 5: gig.gyty ($118.58 in chips) 
+Seat 6: Kiano187 ($150.29 in chips) 
+Joe_Li7: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: folds 
+tintin641: folds 
+sta$igk: folds 
+socito: raises $1.50 to $2.50
+Joe_Li7: folds 
+gig.gyty: folds 
+Uncalled bet ($1.50) returned to socito
+socito collected $2.50 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito (button) collected ($2.50)
+Seat 4: Joe_Li7 (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670420924:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:45:12 WET [2025/02/02 10:45:12 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($105.22 in chips) 
+Seat 2: sta$igk ($109.02 in chips) 
+Seat 4: Joe_Li7 ($195.50 in chips) 
+Seat 5: gig.gyty ($116.23 in chips) 
+Seat 6: Kiano187 ($194.33 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+sta$igk: raises $1.50 to $2.50
+Joe_Li7: folds 
+gig.gyty: raises $8.50 to $11
+Kiano187: folds 
+sta$igk: raises $13 to $24
+gig.gyty: raises $92.23 to $116.23 and is all-in
+sta$igk: calls $85.02 and is all-in
+Uncalled bet ($7.21) returned to gig.gyty
+*** FIRST FLOP *** [Th Ah Tc]
+*** FIRST TURN *** [Th Ah Tc] [9d]
+raiseinthedarkk joins the table at seat #3 
+*** FIRST RIVER *** [Th Ah Tc 9d] [7s]
+*** SECOND FLOP *** [3c Js Kd]
+*** SECOND TURN *** [3c Js Kd] [Ks]
+*** SECOND RIVER *** [3c Js Kd Ks] [4s]
+*** FIRST SHOW DOWN ***
+gig.gyty: shows [8h 8c] (two pair, Tens and Eights)
+sta$igk: shows [Jc Jh] (two pair, Jacks and Tens)
+sta$igk collected $108.27 from pot
+*** SECOND SHOW DOWN ***
+gig.gyty: shows [8h 8c] (two pair, Kings and Eights)
+sta$igk: shows [Jc Jh] (a full house, Jacks full of Kings)
+sta$igk collected $108.27 from pot
+*** SUMMARY ***
+Total pot $219.04 | Rake $2.50 
+Hand was run twice
+FIRST Board [Th Ah Tc 9d 7s]
+SECOND Board [3c Js Kd Ks 4s]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk showed [Jc Jh] and won ($108.27) with two pair, Jacks and Tens, and won ($108.27) with a full house, Jacks full of Kings
+Seat 4: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 5: gig.gyty (small blind) showed [8h 8c] and lost with two pair, Tens and Eights, and lost with two pair, Kings and Eights
+Seat 6: Kiano187 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254670431094:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:45:52 WET [2025/02/02 10:45:52 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 3: raiseinthedarkk ($100 in chips) is sitting out
+Seat 1: tintin641 ($105.22 in chips) 
+Seat 2: sta$igk ($216.54 in chips) 
+Seat 4: Joe_Li7 ($195.50 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: Kiano187 ($193.33 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+raiseinthedarkk: sits out 
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: raises $2.50 to $5
+tintin641: folds 
+sta$igk: calls $2.50
+*** FLOP *** [Th 2h 6c]
+Kiano187: bets $6
+sta$igk: calls $6
+*** TURN *** [Th 2h 6c] [4h]
+Kiano187: checks 
+sta$igk: bets $10.93
+Kiano187: calls $10.93
+*** RIVER *** [Th 2h 6c 4h] [Td]
+Kiano187: checks 
+sta$igk: checks 
+*** SHOW DOWN ***
+Kiano187: shows [7c 7s] (two pair, Tens and Sevens)
+sta$igk: shows [Jh Js] (two pair, Jacks and Tens)
+sta$igk collected $42.62 from pot
+*** SUMMARY ***
+Total pot $44.86 | Rake $2.24 
+Board [Th 2h 6c 4h Td]
+Seat 3: raiseinthedarkk
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: sta$igk showed [Jh Js] and won ($42.62) with two pair, Jacks and Tens
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) folded before Flop (didn't bet)
+Seat 6: Kiano187 (small blind) showed [7c 7s] and lost with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #254670444854:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:46:45 WET [2025/02/02 10:46:45 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 3: raiseinthedarkk ($100 in chips) is sitting out
+Seat 1: tintin641 ($104.22 in chips) 
+Seat 2: sta$igk ($237.23 in chips) 
+Seat 4: Joe_Li7 ($195.50 in chips) 
+Seat 5: gig.gyty ($100 in chips) 
+Seat 6: Kiano187 ($171.40 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+raiseinthedarkk: sits out 
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: raises $1.25 to $2.25
+Kiano187: folds 
+tintin641: folds 
+sta$igk: folds 
+Uncalled bet ($1.25) returned to gig.gyty
+gig.gyty collected $2.50 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: raiseinthedarkk
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: sta$igk (big blind) folded before Flop
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty collected ($2.50)
+Seat 6: Kiano187 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670449731:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:47:04 WET [2025/02/02 10:47:04 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($103.72 in chips) 
+Seat 2: sta$igk ($236.23 in chips) 
+Seat 3: raiseinthedarkk ($100 in chips) 
+Seat 4: Joe_Li7 ($195.50 in chips) 
+Seat 5: gig.gyty ($101.50 in chips) 
+Seat 6: Kiano187 ($171.40 in chips) 
+sta$igk: posts small blind $0.50
+raiseinthedarkk: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: folds 
+sta$igk: raises $2 to $3
+raiseinthedarkk: calls $2
+*** FLOP *** [5s 7c Jc]
+sta$igk: checks 
+raiseinthedarkk: bets $2.91
+sta$igk: folds 
+Uncalled bet ($2.91) returned to raiseinthedarkk
+raiseinthedarkk collected $5.70 from pot
+raiseinthedarkk: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [5s 7c Jc]
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: sta$igk (small blind) folded on the Flop
+Seat 3: raiseinthedarkk (big blind) collected ($5.70)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670459228:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:47:41 WET [2025/02/02 10:47:41 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($103.72 in chips) 
+Seat 2: sta$igk ($233.23 in chips) 
+Seat 3: raiseinthedarkk ($102.70 in chips) 
+Seat 4: Joe_Li7 ($195.50 in chips) 
+Seat 5: gig.gyty ($101.50 in chips) 
+Seat 6: Kiano187 ($171.40 in chips) 
+raiseinthedarkk: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: raises $1.25 to $2.25
+Kiano187: calls $2.25
+tintin641: folds 
+sta$igk: folds 
+raiseinthedarkk: folds 
+Joe_Li7: folds 
+*** FLOP *** [9c Kc 5d]
+gig.gyty: bets $1.43
+Kiano187: calls $1.43
+*** TURN *** [9c Kc 5d] [Js]
+gig.gyty: checks 
+Kiano187: bets $5
+gig.gyty: calls $5
+*** RIVER *** [9c Kc 5d Js] [6d]
+gig.gyty: checks 
+Kiano187: bets $18
+gig.gyty: calls $18
+*** SHOW DOWN ***
+Kiano187: shows [As Td] (high card Ace)
+gig.gyty: shows [Jd Qd] (a pair of Jacks)
+gig.gyty collected $52.36 from pot
+*** SUMMARY ***
+Total pot $54.86 | Rake $2.50 
+Board [9c Kc 5d Js 6d]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk (button) folded before Flop (didn't bet)
+Seat 3: raiseinthedarkk (small blind) folded before Flop
+Seat 4: Joe_Li7 (big blind) folded before Flop
+Seat 5: gig.gyty showed [Jd Qd] and won ($52.36) with a pair of Jacks
+Seat 6: Kiano187 showed [As Td] and lost with high card Ace
+
+
+
+PokerStars Hand #254670472237:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:48:31 WET [2025/02/02 10:48:31 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($103.72 in chips) 
+Seat 2: sta$igk ($233.23 in chips) 
+Seat 3: raiseinthedarkk ($102.20 in chips) 
+Seat 4: Joe_Li7 ($194.50 in chips) 
+Seat 5: gig.gyty ($127.18 in chips) 
+Seat 6: Kiano187 ($144.72 in chips) 
+Joe_Li7: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: folds 
+tintin641: folds 
+sta$igk: raises $1.50 to $2.50
+raiseinthedarkk: folds 
+Joe_Li7: folds 
+gig.gyty: raises $8.50 to $11
+sta$igk: calls $8.50
+*** FLOP *** [3h 6h 2s]
+gig.gyty: checks 
+sta$igk: bets $7.06
+gig.gyty: folds 
+Uncalled bet ($7.06) returned to sta$igk
+sta$igk collected $21.38 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.12 
+Board [3h 6h 2s]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk collected ($21.38)
+Seat 3: raiseinthedarkk (button) folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded on the Flop
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670487420:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:49:29 WET [2025/02/02 10:49:29 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($103.72 in chips) 
+Seat 2: sta$igk ($243.61 in chips) 
+Seat 3: raiseinthedarkk ($102.20 in chips) 
+Seat 4: Joe_Li7 ($194 in chips) 
+Seat 5: gig.gyty ($116.18 in chips) 
+Seat 6: Kiano187 ($144.72 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+sta$igk: folds 
+raiseinthedarkk: folds 
+Joe_Li7: raises $1.50 to $2.50
+gig.gyty: folds 
+Kiano187: calls $1.50
+*** FLOP *** [5s Ks 3d]
+Kiano187: checks 
+Joe_Li7: bets $1.72
+Kiano187: folds 
+Uncalled bet ($1.72) returned to Joe_Li7
+Joe_Li7 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [5s Ks 3d]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: raiseinthedarkk folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (button) collected ($5.22)
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254670496155:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:50:03 WET [2025/02/02 10:50:03 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 1: tintin641 ($103.72 in chips) 
+Seat 2: sta$igk ($243.61 in chips) 
+Seat 3: raiseinthedarkk ($102.20 in chips) 
+Seat 4: Joe_Li7 ($196.72 in chips) 
+Seat 5: gig.gyty ($115.68 in chips) 
+Seat 6: Kiano187 ($142.22 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+raiseinthedarkk: folds 
+Joe_Li7: raises $1.20 to $2.20
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: folds 
+Uncalled bet ($1.20) returned to Joe_Li7
+Joe_Li7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: raiseinthedarkk folded before Flop (didn't bet)
+Seat 4: Joe_Li7 collected ($2.50)
+Seat 5: gig.gyty (button) folded before Flop (didn't bet)
+Seat 6: Kiano187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254670499261:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:50:15 WET [2025/02/02 10:50:15 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 1: tintin641 ($102.72 in chips) 
+Seat 2: sta$igk ($243.61 in chips) 
+Seat 3: raiseinthedarkk ($102.20 in chips) 
+Seat 4: Joe_Li7 ($198.22 in chips) 
+Seat 5: gig.gyty ($115.68 in chips) 
+Seat 6: Kiano187 ($141.72 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+raiseinthedarkk: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $1
+tintin641: calls $0.50
+sta$igk: raises $5 to $6
+Kiano187: calls $5
+tintin641: folds 
+*** FLOP *** [8h Kc 9d]
+sta$igk: checks 
+Kiano187: checks 
+*** TURN *** [8h Kc 9d] [Kh]
+sta$igk: bets $8.27
+Kiano187: folds 
+Uncalled bet ($8.27) returned to sta$igk
+sta$igk collected $12.35 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [8h Kc 9d Kh]
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: sta$igk (big blind) collected ($12.35)
+Seat 3: raiseinthedarkk folded before Flop (didn't bet)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 (button) folded on the Turn
+
+
+
+PokerStars Hand #254670510764:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 15:50:59 WET [2025/02/02 10:50:59 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($101.72 in chips) 
+Seat 2: sta$igk ($249.96 in chips) 
+Seat 3: raiseinthedarkk ($102.20 in chips) 
+Seat 4: Joe_Li7 ($198.22 in chips) 
+Seat 5: gig.gyty ($115.68 in chips) 
+Seat 6: Kiano187 ($135.72 in chips) 
+sta$igk: posts small blind $0.50
+raiseinthedarkk: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: raises $5 to $6
+tintin641: folds 
+sta$igk: folds 
+raiseinthedarkk: folds 
+Uncalled bet ($5) returned to Kiano187
+Kiano187 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: sta$igk (small blind) folded before Flop
+Seat 3: raiseinthedarkk (big blind) folded before Flop
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 collected ($2.50)
+
+
+
+PokerStars Hand #254670695850:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:04:33 WET [2025/02/02 11:04:33 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: sta$igk ($245.69 in chips) 
+Seat 3: socito ($102.38 in chips) 
+Seat 4: Joe_Li7 ($186.95 in chips) 
+Seat 5: gig.gyty ($117.58 in chips) 
+Seat 6: Kiano187 ($150.29 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+sta$igk: folds 
+socito: raises $1.50 to $2.50
+Joe_Li7: calls $2.50
+gig.gyty: folds 
+Kiano187: calls $1.50
+*** FLOP *** [2d 3s Jh]
+Kiano187: bets $3
+socito: raises $6.80 to $9.80
+Joe_Li7: folds 
+Kiano187: calls $6.80
+*** TURN *** [2d 3s Jh] [9c]
+Kiano187: checks 
+socito: bets $13.11
+Kiano187: calls $13.11
+*** RIVER *** [2d 3s Jh 9c] [8s]
+Kiano187: checks 
+socito: bets $25.66
+Kiano187: folds 
+Uncalled bet ($25.66) returned to socito
+socito collected $51.32 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $53.82 | Rake $2.50 
+Board [2d 3s Jh 9c 8s]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito collected ($51.32)
+Seat 4: Joe_Li7 (button) folded on the Flop
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) folded on the River
+
+
+
+PokerStars Hand #254670715197:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:05:44 WET [2025/02/02 11:05:44 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: sta$igk ($245.69 in chips) 
+Seat 3: socito ($128.29 in chips) 
+Seat 4: Joe_Li7 ($184.45 in chips) 
+Seat 5: gig.gyty ($117.08 in chips) 
+Seat 6: Kiano187 ($124.88 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+socito: raises $1.50 to $2.50
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: raises $4.50 to $7
+tintin641: folds 
+socito: raises $14 to $21
+Kiano187: calls $14
+*** FLOP *** [5s 6c 7d]
+Kiano187: checks 
+socito: bets $20.43
+Kiano187: calls $20.43
+*** TURN *** [5s 6c 7d] [9h]
+Kiano187: bets $83.45 and is all-in
+socito: calls $83.45
+*** RIVER *** [5s 6c 7d 9h] [Td]
+*** SHOW DOWN ***
+Kiano187: shows [Qh Kd] (high card King)
+socito: shows [Ad As] (a pair of Aces)
+socito collected $248.26 from pot
+*** SUMMARY ***
+Total pot $250.76 | Rake $2.50 
+Board [5s 6c 7d 9h Td]
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito showed [Ad As] and won ($248.26) with a pair of Aces
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) folded before Flop (didn't bet)
+Seat 6: Kiano187 (small blind) showed [Qh Kd] and lost with high card King
+
+
+
+PokerStars Hand #254670726874:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:06:26 WET [2025/02/02 11:06:26 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 6: Kiano187 ($0 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: sta$igk ($245.69 in chips) 
+Seat 3: socito ($251.67 in chips) 
+Seat 4: Joe_Li7 ($184.45 in chips) 
+Seat 5: gig.gyty ($117.08 in chips) 
+sta$igk: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: raises $1.25 to $2.25
+tintin641: folds 
+sta$igk: raises $8.75 to $11
+socito: folds 
+gig.gyty: raises $13 to $24
+sta$igk: folds 
+Uncalled bet ($13) returned to gig.gyty
+gig.gyty collected $23 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $0 
+Seat 6: Kiano187
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: sta$igk (small blind) folded before Flop
+Seat 3: socito (big blind) folded before Flop
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty collected ($23)
+
+
+
+PokerStars Hand #254670735773:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:06:59 WET [2025/02/02 11:06:59 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: sta$igk ($234.69 in chips) 
+Seat 3: socito ($250.67 in chips) 
+Seat 4: Joe_Li7 ($184.45 in chips) 
+Seat 5: gig.gyty ($129.08 in chips) 
+Seat 6: Kiano187 ($66.39 in chips) 
+socito: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: raises $4 to $5
+tintin641: folds 
+sta$igk: folds 
+socito: folds 
+Joe_Li7: folds 
+Uncalled bet ($4) returned to Kiano187
+Kiano187 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk (button) folded before Flop (didn't bet)
+Seat 3: socito (small blind) folded before Flop
+Seat 4: Joe_Li7 (big blind) folded before Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 collected ($2.50)
+
+
+
+PokerStars Hand #254670741037:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:07:18 WET [2025/02/02 11:07:18 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: sta$igk ($234.69 in chips) 
+Seat 3: socito ($250.17 in chips) 
+Seat 4: Joe_Li7 ($183.45 in chips) 
+Seat 5: gig.gyty ($129.08 in chips) 
+Seat 6: Kiano187 ($67.89 in chips) 
+Joe_Li7: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: raises $3 to $4
+tintin641: folds 
+sta$igk: folds 
+socito: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Uncalled bet ($3) returned to Kiano187
+Kiano187 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito (button) folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 collected ($2.50)
+
+
+
+PokerStars Hand #254670743736:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:07:28 WET [2025/02/02 11:07:28 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: sta$igk ($234.69 in chips) 
+Seat 3: socito ($250.17 in chips) 
+Seat 4: Joe_Li7 ($182.95 in chips) 
+Seat 5: gig.gyty ($128.08 in chips) 
+Seat 6: Kiano187 ($69.39 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+sta$igk: folds 
+socito: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $1.50
+*** FLOP *** [Ad 4h Kh]
+Kiano187: checks 
+tintin641: bets $1.72
+Kiano187: folds 
+Uncalled bet ($1.72) returned to tintin641
+tintin641 collected $5.22 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Ad 4h Kh]
+Seat 1: tintin641 collected ($5.22)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254670751253:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:07:56 WET [2025/02/02 11:07:56 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 1: tintin641 ($102.72 in chips) 
+Seat 2: sta$igk ($234.69 in chips) 
+Seat 3: socito ($250.17 in chips) 
+Seat 4: Joe_Li7 ($182.95 in chips) 
+Seat 5: gig.gyty ($127.58 in chips) 
+Seat 6: Kiano187 ($66.89 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+socito: folds 
+Joe_Li7: folds 
+gig.gyty: raises $1.50 to $2.50
+Kiano187: calls $2
+tintin641: folds 
+*** FLOP *** [Jh Ac 8c]
+Kiano187: checks 
+gig.gyty: checks 
+*** TURN *** [Jh Ac 8c] [2d]
+Kiano187: checks 
+gig.gyty: bets $2.85
+Kiano187: calls $2.85
+*** RIVER *** [Jh Ac 8c 2d] [5c]
+Kiano187: checks 
+gig.gyty: bets $11.10
+Kiano187: calls $11.10
+*** SHOW DOWN ***
+gig.gyty: shows [Jd 5d] (two pair, Jacks and Fives)
+Kiano187: mucks hand 
+gig.gyty collected $32.20 from pot
+*** SUMMARY ***
+Total pot $33.90 | Rake $1.70 
+Board [Jh Ac 8c 2d 5c]
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito folded before Flop (didn't bet)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) showed [Jd 5d] and won ($32.20) with two pair, Jacks and Fives
+Seat 6: Kiano187 (small blind) mucked
+
+
+
+PokerStars Hand #254670759961:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:08:28 WET [2025/02/02 11:08:28 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 1: tintin641 ($101.72 in chips) 
+Seat 2: sta$igk ($234.69 in chips) 
+Seat 3: socito ($250.17 in chips) 
+Seat 4: Joe_Li7 ($182.95 in chips) 
+Seat 5: gig.gyty ($143.33 in chips) 
+Seat 6: Kiano187 ($50.44 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+Joe_Li7: folds 
+gig.gyty: raises $1.25 to $2.25
+Kiano187: calls $2.25
+tintin641: folds 
+sta$igk: folds 
+*** FLOP *** [7c Ac 8c]
+gig.gyty: bets $1.43
+Kiano187: folds 
+Uncalled bet ($1.43) returned to gig.gyty
+gig.gyty collected $5.70 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [7c Ac 8c]
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: sta$igk (big blind) folded before Flop
+Seat 3: socito folded before Flop (didn't bet)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty collected ($5.70)
+Seat 6: Kiano187 (button) folded on the Flop
+
+
+
+PokerStars Hand #254670764624:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:08:45 WET [2025/02/02 11:08:45 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($101.22 in chips) 
+Seat 2: sta$igk ($233.69 in chips) 
+Seat 3: socito ($250.17 in chips) 
+Seat 4: Joe_Li7 ($182.95 in chips) 
+Seat 5: gig.gyty ($146.78 in chips) 
+Seat 6: Kiano187 ($48.19 in chips) 
+sta$igk: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: raises $1.25 to $2.25
+Kiano187: folds 
+tintin641: folds 
+sta$igk: folds 
+socito: folds 
+Uncalled bet ($1.25) returned to gig.gyty
+gig.gyty collected $2.50 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: sta$igk (small blind) folded before Flop
+Seat 3: socito (big blind) folded before Flop
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty collected ($2.50)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670768706:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:09:01 WET [2025/02/02 11:09:01 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($101.22 in chips) 
+Seat 2: sta$igk ($233.19 in chips) 
+Seat 3: socito ($249.17 in chips) 
+Seat 4: Joe_Li7 ($182.95 in chips) 
+Seat 5: gig.gyty ($148.28 in chips) 
+Seat 6: Kiano187 ($48.19 in chips) 
+socito: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: folds 
+sta$igk: raises $1.50 to $2.50
+socito: folds 
+Joe_Li7: folds 
+Uncalled bet ($1.50) returned to sta$igk
+sta$igk collected $2.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk (button) collected ($2.50)
+Seat 3: socito (small blind) folded before Flop
+Seat 4: Joe_Li7 (big blind) folded before Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670773073:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:09:17 WET [2025/02/02 11:09:17 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($101.22 in chips) 
+Seat 2: sta$igk ($234.69 in chips) 
+Seat 3: socito ($248.67 in chips) 
+Seat 4: Joe_Li7 ($181.95 in chips) 
+Seat 5: gig.gyty ($148.28 in chips) 
+Seat 6: Kiano187 ($48.19 in chips) 
+Joe_Li7: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: raises $3 to $4
+tintin641: folds 
+sta$igk: raises $3 to $7
+socito: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $3
+*** FLOP *** [9d Kc 7d]
+Kiano187: checks 
+sta$igk: bets $4.86
+Kiano187: calls $4.86
+*** TURN *** [9d Kc 7d] [7c]
+Kiano187: checks 
+sta$igk: checks 
+*** RIVER *** [9d Kc 7d 7c] [8h]
+Kiano187: checks 
+sta$igk: bets $47.92
+Kiano187: calls $36.33 and is all-in
+Uncalled bet ($11.59) returned to sta$igk
+*** SHOW DOWN ***
+sta$igk: shows [Td Qd] (a pair of Sevens)
+Kiano187: shows [9c Ad] (two pair, Nines and Sevens)
+Kiano187 collected $94.76 from pot
+*** SUMMARY ***
+Total pot $97.88 | Rake $3.12 
+Board [9d Kc 7d 7c 8h]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk showed [Td Qd] and lost with a pair of Sevens
+Seat 3: socito (button) folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 showed [9c Ad] and won ($94.76) with two pair, Nines and Sevens
+
+
+
+PokerStars Hand #254670787309:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:10:09 WET [2025/02/02 11:10:09 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($101.22 in chips) 
+Seat 2: sta$igk ($186.50 in chips) 
+Seat 3: socito ($248.67 in chips) 
+Seat 4: Joe_Li7 ($181.45 in chips) 
+Seat 5: gig.gyty ($147.28 in chips) 
+Seat 6: Kiano187 ($94.76 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+sta$igk: folds 
+socito: folds 
+Joe_Li7: raises $1.50 to $2.50
+gig.gyty: folds 
+Kiano187: folds 
+Uncalled bet ($1.50) returned to Joe_Li7
+Joe_Li7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (button) collected ($2.50)
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254670792843:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:10:30 WET [2025/02/02 11:10:30 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 1: tintin641 ($101.22 in chips) 
+Seat 2: sta$igk ($186.50 in chips) 
+Seat 3: socito ($248.67 in chips) 
+Seat 4: Joe_Li7 ($182.95 in chips) 
+Seat 5: gig.gyty ($146.78 in chips) 
+Seat 6: Kiano187 ($93.76 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+socito: raises $1.50 to $2.50
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $2
+tintin641: raises $11 to $13.50
+socito: folds 
+Kiano187: calls $11
+*** FLOP *** [4s Js Ks]
+Kiano187: checks 
+tintin641: checks 
+*** TURN *** [4s Js Ks] [2d]
+Kiano187: checks 
+tintin641: bets $9.25
+Kiano187: folds 
+Uncalled bet ($9.25) returned to tintin641
+tintin641 collected $28.02 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $29.50 | Rake $1.48 
+Board [4s Js Ks 2d]
+Seat 1: tintin641 (big blind) collected ($28.02)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito folded before Flop
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) folded before Flop (didn't bet)
+Seat 6: Kiano187 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254670814625:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:11:49 WET [2025/02/02 11:11:49 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 1: tintin641 ($115.74 in chips) 
+Seat 2: sta$igk ($186.50 in chips) 
+Seat 3: socito ($246.17 in chips) 
+Seat 4: Joe_Li7 ($182.95 in chips) 
+Seat 5: gig.gyty ($146.78 in chips) 
+Seat 6: Kiano187 ($80.26 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+Joe_Li7: raises $1.20 to $2.20
+gig.gyty: folds 
+Kiano187: calls $2.20
+tintin641: folds 
+sta$igk: folds 
+*** FLOP *** [6c Kd Qd]
+Joe_Li7: bets $2.02
+Kiano187: raises $2.02 to $4.04
+Joe_Li7: calls $2.02
+*** TURN *** [6c Kd Qd] [9h]
+Joe_Li7: checks 
+Kiano187: bets $13.28
+Joe_Li7: folds 
+Uncalled bet ($13.28) returned to Kiano187
+Kiano187 collected $13.10 from pot
+*** SUMMARY ***
+Total pot $13.98 | Rake $0.88 
+Board [6c Kd Qd 9h]
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: sta$igk (big blind) folded before Flop
+Seat 3: socito folded before Flop (didn't bet)
+Seat 4: Joe_Li7 folded on the Turn
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 (button) collected ($13.10)
+
+
+
+PokerStars Hand #254670830771:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:12:49 WET [2025/02/02 11:12:49 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($115.24 in chips) 
+Seat 2: sta$igk ($185.50 in chips) 
+Seat 3: socito ($246.17 in chips) 
+Seat 4: Joe_Li7 ($176.71 in chips) 
+Seat 5: gig.gyty ($146.78 in chips) 
+Seat 6: Kiano187 ($87.12 in chips) 
+sta$igk: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: raises $3 to $4
+tintin641: folds 
+sta$igk: raises $7 to $11
+socito: folds 
+Kiano187: raises $11 to $22
+sta$igk: folds 
+Uncalled bet ($11) returned to Kiano187
+Kiano187 collected $23 from pot
+*** SUMMARY ***
+Total pot $23 | Rake $0 
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: sta$igk (small blind) folded before Flop
+Seat 3: socito (big blind) folded before Flop
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 collected ($23)
+
+
+
+PokerStars Hand #254670845127:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:13:41 WET [2025/02/02 11:13:41 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($115.24 in chips) 
+Seat 2: sta$igk ($174.50 in chips) 
+Seat 3: socito ($245.17 in chips) 
+Seat 4: Joe_Li7 ($176.71 in chips) 
+Seat 5: gig.gyty ($146.78 in chips) 
+Seat 6: Kiano187 ($99.12 in chips) 
+socito: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: calls $1
+tintin641: raises $3 to $4
+sta$igk: folds 
+socito: calls $3.50
+Joe_Li7: folds 
+Kiano187: calls $3
+*** FLOP *** [8c Js Th]
+socito: checks 
+Kiano187: checks 
+tintin641: bets $4.08
+socito: calls $4.08
+Kiano187: folds 
+*** TURN *** [8c Js Th] [Kd]
+socito: checks 
+tintin641: bets $15.08
+socito: folds 
+Uncalled bet ($15.08) returned to tintin641
+tintin641 collected $20.10 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.16 | Rake $1.06 
+Board [8c Js Th Kd]
+Seat 1: tintin641 collected ($20.10)
+Seat 2: sta$igk (button) folded before Flop (didn't bet)
+Seat 3: socito (small blind) folded on the Turn
+Seat 4: Joe_Li7 (big blind) folded before Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded on the Flop
+
+
+
+PokerStars Hand #254670865167:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:14:54 WET [2025/02/02 11:14:54 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($127.26 in chips) 
+Seat 2: sta$igk ($174.50 in chips) 
+Seat 3: socito ($237.09 in chips) 
+Seat 4: Joe_Li7 ($175.71 in chips) 
+Seat 5: gig.gyty ($146.78 in chips) 
+Seat 6: Kiano187 ($95.12 in chips) 
+Joe_Li7: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: calls $1
+tintin641: folds 
+sta$igk: folds 
+socito: raises $2.50 to $3.50
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $2.50
+*** FLOP *** [Qs Kc Th]
+Kiano187: bets $2
+socito: calls $2
+*** TURN *** [Qs Kc Th] [2c]
+Kiano187: bets $2
+socito: raises $7.94 to $9.94
+Kiano187: calls $7.94
+*** RIVER *** [Qs Kc Th 2c] [5h]
+Kiano187: checks 
+socito: bets $15.38
+Kiano187: folds 
+Uncalled bet ($15.38) returned to socito
+socito collected $30.76 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $32.38 | Rake $1.62 
+Board [Qs Kc Th 2c 5h]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito (button) collected ($30.76)
+Seat 4: Joe_Li7 (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 folded on the River
+
+
+
+PokerStars Hand #254670882231:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:15:55 WET [2025/02/02 11:15:55 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($127.26 in chips) 
+Seat 2: sta$igk ($174.50 in chips) 
+Seat 3: socito ($252.41 in chips) 
+Seat 4: Joe_Li7 ($175.21 in chips) 
+Seat 5: gig.gyty ($145.78 in chips) 
+Seat 6: Kiano187 ($79.68 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+sta$igk: raises $1.50 to $2.50
+socito: raises $5 to $7.50
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+sta$igk: folds 
+Uncalled bet ($5) returned to socito
+socito collected $6.50 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop
+Seat 3: socito collected ($6.50)
+Seat 4: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254670887827:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:16:15 WET [2025/02/02 11:16:15 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 1: tintin641 ($127.26 in chips) 
+Seat 2: sta$igk ($172 in chips) 
+Seat 3: socito ($256.41 in chips) 
+Seat 4: Joe_Li7 ($175.21 in chips) 
+Seat 5: gig.gyty ($145.28 in chips) 
+Seat 6: Kiano187 ($78.68 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+socito: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: raises $4 to $5
+tintin641: folds 
+Uncalled bet ($4) returned to Kiano187
+Kiano187 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito folded before Flop (didn't bet)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) folded before Flop (didn't bet)
+Seat 6: Kiano187 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254670891798:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:16:29 WET [2025/02/02 11:16:29 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 1: tintin641 ($126.26 in chips) 
+Seat 2: sta$igk ($172 in chips) 
+Seat 3: socito ($256.41 in chips) 
+Seat 4: Joe_Li7 ($175.21 in chips) 
+Seat 5: gig.gyty ($145.28 in chips) 
+Seat 6: Kiano187 ($79.68 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+socito: raises $1.50 to $2.50
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $2.50
+tintin641: folds 
+sta$igk: raises $11.50 to $14
+socito: folds 
+Kiano187: folds 
+Uncalled bet ($11.50) returned to sta$igk
+sta$igk collected $8 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: sta$igk (big blind) collected ($8)
+Seat 3: socito folded before Flop
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 (button) folded before Flop
+
+
+
+PokerStars Hand #254670900861:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:17:02 WET [2025/02/02 11:17:02 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($125.76 in chips) 
+Seat 2: sta$igk ($177.50 in chips) 
+Seat 3: socito ($253.91 in chips) 
+Seat 4: Joe_Li7 ($175.21 in chips) 
+Seat 5: gig.gyty ($145.28 in chips) 
+Seat 6: Kiano187 ($77.18 in chips) 
+sta$igk: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: folds 
+sta$igk: folds 
+Uncalled bet ($0.50) returned to socito
+socito collected $1 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: sta$igk (small blind) folded before Flop
+Seat 3: socito (big blind) collected ($1)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670904119:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:17:13 WET [2025/02/02 11:17:13 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($125.76 in chips) 
+Seat 2: sta$igk ($177 in chips) 
+Seat 3: socito ($254.41 in chips) 
+Seat 4: Joe_Li7 ($175.21 in chips) 
+Seat 5: gig.gyty ($145.28 in chips) 
+Seat 6: Kiano187 ($77.18 in chips) 
+socito: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: raises $2 to $3
+tintin641: folds 
+sta$igk: raises $5 to $8
+socito: folds 
+Joe_Li7: folds 
+Kiano187: calls $5
+*** FLOP *** [7s Qh 6h]
+Kiano187: checks 
+sta$igk: checks 
+*** TURN *** [7s Qh 6h] [3h]
+Kiano187: bets $3
+sta$igk: raises $6 to $9
+Kiano187: calls $6
+*** RIVER *** [7s Qh 6h 3h] [Tc]
+Kiano187: checks 
+sta$igk: checks 
+*** SHOW DOWN ***
+Kiano187: shows [Jh Ks] (high card King)
+sta$igk: shows [Jd Jc] (a pair of Jacks)
+sta$igk collected $33.72 from pot
+*** SUMMARY ***
+Total pot $35.50 | Rake $1.78 
+Board [7s Qh 6h 3h Tc]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk (button) showed [Jd Jc] and won ($33.72) with a pair of Jacks
+Seat 3: socito (small blind) folded before Flop
+Seat 4: Joe_Li7 (big blind) folded before Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 showed [Jh Ks] and lost with high card King
+
+
+
+PokerStars Hand #254670915962:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:17:55 WET [2025/02/02 11:17:55 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($125.76 in chips) 
+Seat 2: sta$igk ($193.72 in chips) 
+Seat 3: socito ($253.91 in chips) 
+Seat 4: Joe_Li7 ($174.21 in chips) 
+Seat 5: gig.gyty ($145.28 in chips) 
+Seat 6: Kiano187 ($60.18 in chips) 
+Joe_Li7: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: folds 
+tintin641: folds 
+sta$igk: raises $1.50 to $2.50
+socito: folds 
+Joe_Li7: raises $8 to $10.50
+gig.gyty: folds 
+sta$igk: folds 
+Uncalled bet ($8) returned to Joe_Li7
+Joe_Li7 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop
+Seat 3: socito (button) folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (small blind) collected ($6)
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670921872:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:18:16 WET [2025/02/02 11:18:16 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($125.76 in chips) 
+Seat 2: sta$igk ($191.22 in chips) 
+Seat 3: socito ($253.91 in chips) 
+Seat 4: Joe_Li7 ($177.71 in chips) 
+Seat 5: gig.gyty ($144.28 in chips) 
+Seat 6: Kiano187 ($60.18 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+sta$igk: folds 
+socito: raises $1.50 to $2.50
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $1.50
+*** FLOP *** [7d Ah 8d]
+Kiano187: checks 
+socito: checks 
+*** TURN *** [7d Ah 8d] [3s]
+Kiano187: bets $5.22
+socito: folds 
+Uncalled bet ($5.22) returned to Kiano187
+Kiano187 collected $5.15 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.35 
+Board [7d Ah 8d 3s]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito folded on the Turn
+Seat 4: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) collected ($5.15)
+
+
+
+PokerStars Hand #254670928267:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:18:39 WET [2025/02/02 11:18:39 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 1: tintin641 ($125.76 in chips) 
+Seat 2: sta$igk ($191.22 in chips) 
+Seat 3: socito ($251.41 in chips) 
+Seat 4: Joe_Li7 ($177.71 in chips) 
+Seat 5: gig.gyty ($143.78 in chips) 
+Seat 6: Kiano187 ($62.83 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+socito: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $2
+tintin641: calls $1.50
+*** FLOP *** [Jh 9s 8c]
+Kiano187: checks 
+tintin641: checks 
+sta$igk: bets $2.35
+Kiano187: folds 
+tintin641: raises $8.87 to $11.22
+sta$igk: calls $8.87
+*** TURN *** [Jh 9s 8c] [5h]
+tintin641: bets $21.33
+sta$igk: folds 
+Uncalled bet ($21.33) returned to tintin641
+tintin641 collected $28.44 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $29.94 | Rake $1.50 
+Board [Jh 9s 8c 5h]
+Seat 1: tintin641 (big blind) collected ($28.44)
+Seat 2: sta$igk folded on the Turn
+Seat 3: socito folded before Flop (didn't bet)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) folded before Flop (didn't bet)
+Seat 6: Kiano187 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254670948636:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:19:52 WET [2025/02/02 11:19:52 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 1: tintin641 ($140.48 in chips) 
+Seat 2: sta$igk ($177.50 in chips) 
+Seat 3: socito ($251.41 in chips) 
+Seat 4: Joe_Li7 ($177.71 in chips) 
+Seat 5: gig.gyty ($143.78 in chips) 
+Seat 6: Kiano187 ($60.33 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+Joe_Li7: folds 
+gig.gyty: raises $1.25 to $2.25
+Kiano187: folds 
+tintin641: folds 
+sta$igk: folds 
+Uncalled bet ($1.25) returned to gig.gyty
+gig.gyty collected $2.50 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: sta$igk (big blind) folded before Flop
+Seat 3: socito folded before Flop (didn't bet)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty collected ($2.50)
+Seat 6: Kiano187 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670951578:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:20:02 WET [2025/02/02 11:20:02 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($139.98 in chips) 
+Seat 2: sta$igk ($176.50 in chips) 
+Seat 3: socito ($251.41 in chips) 
+Seat 4: Joe_Li7 ($177.71 in chips) 
+Seat 5: gig.gyty ($145.28 in chips) 
+Seat 6: Kiano187 ($60.33 in chips) 
+sta$igk: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: raises $1.50 to $2.50
+sta$igk: folds 
+socito: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (button) collected ($2.50)
+Seat 2: sta$igk (small blind) folded before Flop
+Seat 3: socito (big blind) folded before Flop
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670954682:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:20:14 WET [2025/02/02 11:20:14 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($141.48 in chips) 
+Seat 2: sta$igk ($176 in chips) 
+Seat 3: socito ($250.41 in chips) 
+Seat 4: Joe_Li7 ($177.71 in chips) 
+Seat 5: gig.gyty ($145.28 in chips) 
+Seat 6: Kiano187 ($60.33 in chips) 
+socito: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: raises $5 to $6
+tintin641: folds 
+sta$igk: folds 
+socito: folds 
+Joe_Li7: folds 
+Uncalled bet ($5) returned to Kiano187
+Kiano187 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk (button) folded before Flop (didn't bet)
+Seat 3: socito (small blind) folded before Flop
+Seat 4: Joe_Li7 (big blind) folded before Flop
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 collected ($2.50)
+
+
+
+PokerStars Hand #254670960565:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:20:35 WET [2025/02/02 11:20:35 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 1: tintin641 ($141.48 in chips) 
+Seat 2: sta$igk ($176 in chips) 
+Seat 3: socito ($249.91 in chips) 
+Seat 4: Joe_Li7 ($176.71 in chips) 
+Seat 5: gig.gyty ($145.28 in chips) 
+Seat 6: Kiano187 ($61.83 in chips) 
+Joe_Li7: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+Kiano187: calls $1
+tintin641: folds 
+sta$igk: raises $3 to $4
+socito: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: calls $3
+*** FLOP *** [7c 6d Js]
+Kiano187: checks 
+sta$igk: checks 
+*** TURN *** [7c 6d Js] [Qc]
+Kiano187: checks 
+sta$igk: bets $6.04
+Kiano187: folds [3s]
+Uncalled bet ($6.04) returned to sta$igk
+sta$igk collected $9.02 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [7c 6d Js Qc]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk collected ($9.02)
+Seat 3: socito (button) folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded before Flop
+Seat 6: Kiano187 folded on the Turn
+
+
+
+PokerStars Hand #254670972893:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:21:19 WET [2025/02/02 11:21:19 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 1: tintin641 ($141.48 in chips) 
+Seat 2: sta$igk ($181.02 in chips) 
+Seat 3: socito ($249.91 in chips) 
+Seat 4: Joe_Li7 ($176.21 in chips) 
+Seat 5: gig.gyty ($144.28 in chips) 
+Seat 6: Kiano187 ($57.83 in chips) 
+gig.gyty: posts small blind $0.50
+Kiano187: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+sta$igk: folds 
+socito: folds 
+Joe_Li7: raises $1.50 to $2.50
+gig.gyty: folds 
+Kiano187: calls $1.50
+*** FLOP *** [Jc 5c 3d]
+Kiano187: bets $3
+Joe_Li7: folds 
+Uncalled bet ($3) returned to Kiano187
+Kiano187 collected $5.15 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.35 
+Board [Jc 5c 3d]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (button) folded on the Flop
+Seat 5: gig.gyty (small blind) folded before Flop
+Seat 6: Kiano187 (big blind) collected ($5.15)
+
+
+
+PokerStars Hand #254670980396:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:21:46 WET [2025/02/02 11:21:46 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 1: tintin641 ($141.48 in chips) 
+Seat 2: sta$igk ($181.02 in chips) 
+Seat 3: socito ($249.91 in chips) 
+Seat 4: Joe_Li7 ($173.71 in chips) 
+Seat 5: gig.gyty ($143.78 in chips) 
+Seat 6: Kiano187 ($60.48 in chips) 
+Kiano187: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+socito: raises $1.50 to $2.50
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: folds 
+Uncalled bet ($1.50) returned to socito
+socito collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito collected ($2.50)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) folded before Flop (didn't bet)
+Seat 6: Kiano187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254670983509:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:21:57 WET [2025/02/02 11:21:57 ET]
+Table 'Juno II' 6-max Seat #6 is the button
+Seat 1: tintin641 ($140.48 in chips) 
+Seat 2: sta$igk ($181.02 in chips) 
+Seat 3: socito ($251.41 in chips) 
+Seat 4: Joe_Li7 ($173.71 in chips) 
+Seat 5: gig.gyty ($143.78 in chips) 
+Seat 6: Kiano187 ($59.98 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: raises $2 to $3
+sta$igk: folds 
+Uncalled bet ($2) returned to tintin641
+tintin641 collected $2 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: tintin641 (small blind) collected ($2)
+Seat 2: sta$igk (big blind) folded before Flop
+Seat 3: socito folded before Flop (didn't bet)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670987365:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:22:11 WET [2025/02/02 11:22:11 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 1: tintin641 ($141.48 in chips) 
+Seat 2: sta$igk ($180.02 in chips) 
+Seat 3: socito ($251.41 in chips) 
+Seat 4: Joe_Li7 ($173.71 in chips) 
+Seat 5: gig.gyty ($143.78 in chips) 
+Seat 6: Kiano187 ($59.98 in chips) 
+sta$igk: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: folds 
+Kiano187: folds 
+tintin641: folds 
+sta$igk: folds 
+Uncalled bet ($0.50) returned to socito
+socito collected $1 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: sta$igk (small blind) folded before Flop
+Seat 3: socito (big blind) collected ($1)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254670990736:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:22:23 WET [2025/02/02 11:22:23 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 1: tintin641 ($141.48 in chips) 
+Seat 2: sta$igk ($179.52 in chips) 
+Seat 3: socito ($251.91 in chips) 
+Seat 4: Joe_Li7 ($173.71 in chips) 
+Seat 5: gig.gyty ($143.78 in chips) 
+Seat 6: Kiano187 ($59.98 in chips) 
+socito: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+Kiano187: raises $3 to $4
+tintin641: folds 
+sta$igk: folds 
+socito: folds 
+Joe_Li7: raises $9.50 to $13.50
+Kiano187: calls $9.50
+*** FLOP *** [Qh Kh 8h]
+Joe_Li7: checks 
+Kiano187: bets $10
+Joe_Li7: raises $69.18 to $79.18
+Kiano187: calls $36.48 and is all-in
+Uncalled bet ($32.70) returned to Joe_Li7
+*** TURN *** [Qh Kh 8h] [4d]
+*** RIVER *** [Qh Kh 8h 4d] [4h]
+*** SHOW DOWN ***
+Joe_Li7: shows [As Ac] (two pair, Aces and Fours)
+Kiano187: shows [Kc Tc] (two pair, Kings and Fours)
+Joe_Li7 collected $117.96 from pot
+*** SUMMARY ***
+Total pot $120.46 | Rake $2.50 
+Board [Qh Kh 8h 4d 4h]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk (button) folded before Flop (didn't bet)
+Seat 3: socito (small blind) folded before Flop
+Seat 4: Joe_Li7 (big blind) showed [As Ac] and won ($117.96) with two pair, Aces and Fours
+Seat 5: gig.gyty folded before Flop (didn't bet)
+Seat 6: Kiano187 showed [Kc Tc] and lost with two pair, Kings and Fours
+
+
+
+PokerStars Hand #254671009225:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:23:29 WET [2025/02/02 11:23:29 ET]
+Table 'Juno II' 6-max Seat #3 is the button
+Seat 6: Kiano187 ($0 in chips) is sitting out
+Seat 1: tintin641 ($141.48 in chips) 
+Seat 2: sta$igk ($179.52 in chips) 
+Seat 3: socito ($251.41 in chips) 
+Seat 4: Joe_Li7 ($231.69 in chips) 
+Seat 5: gig.gyty ($143.78 in chips) 
+Joe_Li7: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+sta$igk: folds 
+socito: raises $1.50 to $2.50
+Joe_Li7: folds 
+gig.gyty: calls $1.50
+*** FLOP *** [7h 2d 4s]
+gig.gyty: checks 
+Kiano187 is disconnected 
+socito: bets $1.72
+gig.gyty: folds 
+Uncalled bet ($1.72) returned to socito
+socito collected $5.22 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [7h 2d 4s]
+Seat 6: Kiano187
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito (button) collected ($5.22)
+Seat 4: Joe_Li7 (small blind) folded before Flop
+Seat 5: gig.gyty (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254671020845:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:24:11 WET [2025/02/02 11:24:11 ET]
+Table 'Juno II' 6-max Seat #4 is the button
+Seat 6: Kiano187 ($0 in chips) is sitting out
+Seat 1: tintin641 ($141.48 in chips) 
+Seat 2: sta$igk ($179.52 in chips) 
+Seat 3: socito ($254.13 in chips) 
+Seat 4: Joe_Li7 ($231.19 in chips) 
+Seat 5: gig.gyty ($141.28 in chips) 
+gig.gyty: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+socito: folds 
+Joe_Li7: folds 
+gig.gyty: folds 
+Uncalled bet ($0.50) returned to tintin641
+tintin641 collected $1 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: Kiano187
+Seat 1: tintin641 (big blind) collected ($1)
+Seat 2: sta$igk folded before Flop (didn't bet)
+Seat 3: socito folded before Flop (didn't bet)
+Seat 4: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 5: gig.gyty (small blind) folded before Flop
+
+
+
+PokerStars Hand #254671022848:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:24:18 WET [2025/02/02 11:24:18 ET]
+Table 'Juno II' 6-max Seat #5 is the button
+Seat 6: Kiano187 ($0 in chips) is sitting out
+Seat 1: tintin641 ($141.98 in chips) 
+Seat 2: sta$igk ($179.52 in chips) 
+Seat 3: socito ($254.13 in chips) 
+Seat 4: Joe_Li7 ($231.19 in chips) 
+Seat 5: gig.gyty ($140.78 in chips) 
+tintin641: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+Joe_Li7: folds 
+gig.gyty: raises $1.50 to $2.50
+tintin641: folds 
+sta$igk: folds 
+Uncalled bet ($1.50) returned to gig.gyty
+gig.gyty collected $2.50 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Kiano187
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: sta$igk (big blind) folded before Flop
+Seat 3: socito folded before Flop (didn't bet)
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty (button) collected ($2.50)
+
+
+
+PokerStars Hand #254671030421:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:24:45 WET [2025/02/02 11:24:45 ET]
+Table 'Juno II' 6-max Seat #1 is the button
+Seat 6: Kiano187 ($0 in chips) is sitting out
+Seat 1: tintin641 ($141.48 in chips) 
+Seat 2: sta$igk ($178.52 in chips) 
+Seat 3: socito ($254.13 in chips) 
+Seat 4: Joe_Li7 ($231.19 in chips) 
+Seat 5: gig.gyty ($142.28 in chips) 
+sta$igk: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+gig.gyty: folds 
+tintin641: folds 
+sta$igk: raises $2 to $3
+socito: calls $2
+*** FLOP *** [6d Js Ah]
+sta$igk: bets $1.88
+socito: calls $1.88
+*** TURN *** [6d Js Ah] [Th]
+sta$igk: checks 
+socito: checks 
+*** RIVER *** [6d Js Ah Th] [8d]
+sta$igk: bets $10.66
+socito: calls $10.66
+*** SHOW DOWN ***
+sta$igk: shows [3d 5d] (high card Ace)
+socito: shows [Jc Td] (two pair, Jacks and Tens)
+socito collected $29.53 from pot
+*** SUMMARY ***
+Total pot $31.08 | Rake $1.55 
+Board [6d Js Ah Th 8d]
+Seat 6: Kiano187
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: sta$igk (small blind) showed [3d 5d] and lost with high card Ace
+Seat 3: socito (big blind) showed [Jc Td] and won ($29.53) with two pair, Jacks and Tens
+Seat 4: Joe_Li7 folded before Flop (didn't bet)
+Seat 5: gig.gyty folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254671046519:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 16:25:42 WET [2025/02/02 11:25:42 ET]
+Table 'Juno II' 6-max Seat #2 is the button
+Seat 4: Joe_Li7 ($231.19 in chips) is sitting out
+Seat 5: gig.gyty ($142.28 in chips) is sitting out
+Seat 6: Kiano187 ($0 in chips) is sitting out
+Seat 1: tintin641 ($141.48 in chips) 
+Seat 2: sta$igk ($162.98 in chips) 
+Seat 3: socito ($268.12 in chips) 
+socito: posts small blind $0.50
+Joe_Li7: is sitting out 
+gig.gyty: is sitting out 
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+Joe_Li7 leaves the table
+gig.gyty leaves the table
+socito: folds 
+tintin641: folds 
+Uncalled bet ($1.50) returned to sta$igk
+sta$igk collected $2.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: Joe_Li7
+Seat 5: gig.gyty
+Seat 6: Kiano187
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: sta$igk (button) collected ($2.50)
+Seat 3: socito (small blind) folded before Flop
+
+
+

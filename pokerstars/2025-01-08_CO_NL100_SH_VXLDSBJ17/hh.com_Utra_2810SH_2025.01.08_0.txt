@@ -1,0 +1,3427 @@
+﻿PokerStars Hand #254265717454:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:14:35 WET [2025/01/08 14:14:35 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 2: ptolejmus ($10 in chips) 
+Seat 3: trueYes.3970 ($10 in chips) 
+trueYes.3970: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: calls $0.50
+ptolejmus: checks 
+*** FLOP *** [2c 9c 9s]
+willx56 joins the table at seat #4 
+ptolejmus: checks 
+willx56 is disconnected 
+trueYes.3970: checks 
+*** TURN *** [2c 9c 9s] [8c]
+ptolejmus: checks 
+trueYes.3970: checks 
+*** RIVER *** [2c 9c 9s 8c] [2d]
+ptolejmus: checks 
+Alinyr joins the table at seat #6 
+trueYes.3970: checks 
+*** SHOW DOWN ***
+ptolejmus: shows [Qd 4d] (two pair, Nines and Deuces)
+trueYes.3970: mucks hand 
+ptolejmus collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [2c 9c 9s 8c 2d]
+Seat 2: ptolejmus (big blind) showed [Qd 4d] and won ($1.90) with two pair, Nines and Deuces
+Seat 3: trueYes.3970 (button) (small blind) mucked
+
+
+
+PokerStars Hand #254265723084:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:14:53 WET [2025/01/08 14:14:53 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 6: Alinyr ($100 in chips) is sitting out
+Seat 2: ptolejmus ($10.90 in chips) 
+Seat 3: trueYes.3970 ($9 in chips) 
+Seat 4: willx56 ($94.35 in chips) 
+trueYes.3970: posts small blind $0.50
+willx56: posts big blind $1
+Alinyr: sits out 
+*** HOLE CARDS ***
+ptolejmus: folds 
+trueYes.3970: raises $6 to $7
+Zvst joins the table at seat #5 
+willx56: folds 
+Uncalled bet ($6) returned to trueYes.3970
+trueYes.3970 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: Alinyr
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (small blind) collected ($2)
+Seat 4: willx56 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254265727626:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:15:09 WET [2025/01/08 14:15:09 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 6: Alinyr ($100 in chips) is sitting out
+Seat 2: ptolejmus ($10.90 in chips) 
+Seat 3: trueYes.3970 ($10 in chips) 
+Seat 4: willx56 ($93.35 in chips) 
+Seat 5: Zvst ($100 in chips) 
+willx56: posts small blind $0.50
+Zvst: posts big blind $1
+Alinyr: sits out 
+*** HOLE CARDS ***
+ptolejmus: folds 
+trueYes.3970: folds 
+willx56: calls $0.50
+Zvst: checks 
+*** FLOP *** [Ac 9h 6s]
+willx56: bets $1.90
+Zvst: folds 
+Uncalled bet ($1.90) returned to willx56
+GuigaMan joins the table at seat #1 
+willx56 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Ac 9h 6s]
+Seat 6: Alinyr
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (button) folded before Flop (didn't bet)
+Seat 4: willx56 (small blind) collected ($1.90)
+Seat 5: Zvst (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254265736072:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:15:37 WET [2025/01/08 14:15:37 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($100 in chips) is sitting out
+Seat 2: ptolejmus ($10.90 in chips) 
+Seat 3: trueYes.3970 ($10 in chips) 
+Seat 4: willx56 ($94.25 in chips) 
+Seat 5: Zvst ($100 in chips) 
+Seat 6: Alinyr ($100 in chips) 
+Zvst: posts small blind $0.50
+Alinyr: posts big blind $1
+GuigaMan: sits out 
+*** HOLE CARDS ***
+ptolejmus: folds 
+trueYes.3970: raises $3.50 to $4.50
+willx56: calls $4.50
+Zvst: raises $20.50 to $25
+Alinyr: raises $75 to $100 and is all-in
+trueYes.3970: calls $5.50 and is all-in
+willx56: calls $89.75 and is all-in
+Zvst: calls $75 and is all-in
+*** FLOP *** [As 8s Jd]
+*** TURN *** [As 8s Jd] [9h]
+*** RIVER *** [As 8s Jd 9h] [6c]
+*** SHOW DOWN ***
+Zvst: shows [Th Tc] (a pair of Tens)
+Alinyr: shows [Kc Kd] (a pair of Kings)
+Alinyr collected $11.50 from side pot-2 
+willx56: shows [Qd Qh] (a pair of Queens)
+Alinyr collected $252.25 from side pot-1 
+trueYes.3970: shows [8h 8c] (three of a kind, Eights)
+trueYes.3970 collected $38 from main pot
+*** SUMMARY ***
+Total pot $304.25 Main pot $38. Side pot-1 $252.25. Side pot-2 $11.50. | Rake $2.50 
+Board [As 8s Jd 9h 6c]
+Seat 1: GuigaMan
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: trueYes.3970 showed [8h 8c] and won ($38) with three of a kind, Eights
+Seat 4: willx56 (button) showed [Qd Qh] and lost with a pair of Queens
+Seat 5: Zvst (small blind) showed [Th Tc] and lost with a pair of Tens
+Seat 6: Alinyr (big blind) showed [Kc Kd] and won ($263.75) with a pair of Kings
+
+
+
+PokerStars Hand #254265760957:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:16:59 WET [2025/01/08 14:16:59 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 4: willx56 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($100 in chips) 
+Seat 2: ptolejmus ($10.90 in chips) 
+Seat 3: trueYes.3970 ($38 in chips) 
+Seat 5: Zvst ($100 in chips) 
+Seat 6: Alinyr ($263.75 in chips) 
+Alinyr: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: raises $1 to $2
+trueYes.3970: folds 
+Zvst: folds 
+willx56 leaves the table
+Alinyr: folds 
+MaRKiToScoK joins the table at seat #4 
+GuigaMan: folds 
+Uncalled bet ($1) returned to ptolejmus
+ptolejmus collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: willx56
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 2: ptolejmus collected ($2.50)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 5: Zvst (button) folded before Flop (didn't bet)
+Seat 6: Alinyr (small blind) folded before Flop
+
+
+
+PokerStars Hand #254265770007:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:17:28 WET [2025/01/08 14:17:28 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 2: ptolejmus ($12.40 in chips) is sitting out
+Seat 4: MaRKiToScoK ($100 in chips) is sitting out
+Seat 1: GuigaMan ($100 in chips) 
+Seat 3: trueYes.3970 ($38 in chips) 
+Seat 5: Zvst ($100 in chips) 
+Seat 6: Alinyr ($263.25 in chips) 
+GuigaMan: posts small blind $0.50
+ptolejmus: is sitting out 
+trueYes.3970: posts big blind $1
+MaRKiToScoK: sits out 
+*** HOLE CARDS ***
+Zvst: raises $1.50 to $2.50
+ptolejmus leaves the table
+Alinyr: folds 
+GuigaMan: folds 
+trueYes.3970: calls $1.50
+*** FLOP *** [Td Qc Js]
+trueYes.3970: checks 
+Zvst: checks 
+*** TURN *** [Td Qc Js] [3d]
+trueYes.3970: bets $2.45
+Zvst: calls $2.45
+*** RIVER *** [Td Qc Js 3d] [8h]
+trueYes.3970: checks 
+Zvst: checks 
+*** SHOW DOWN ***
+trueYes.3970: shows [Ah Jd] (a pair of Jacks)
+Zvst: shows [Tc Jc] (two pair, Jacks and Tens)
+Zvst collected $9.88 from pot
+MaikonAll joins the table at seat #2 
+*** SUMMARY ***
+Total pot $10.40 | Rake $0.52 
+Board [Td Qc Js 3d 8h]
+Seat 2: ptolejmus
+Seat 4: MaRKiToScoK
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 3: trueYes.3970 (big blind) showed [Ah Jd] and lost with a pair of Jacks
+Seat 5: Zvst showed [Tc Jc] and won ($9.88) with two pair, Jacks and Tens
+Seat 6: Alinyr (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254265782867:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:18:10 WET [2025/01/08 14:18:10 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 2: MaikonAll ($100 in chips) is sitting out
+Seat 1: GuigaMan ($100 in chips) 
+Seat 3: trueYes.3970 ($33.05 in chips) 
+Seat 4: MaRKiToScoK ($100 in chips) 
+Seat 5: Zvst ($104.93 in chips) 
+Seat 6: Alinyr ($263.25 in chips) 
+trueYes.3970: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+Zvst: folds 
+Alinyr: folds 
+GuigaMan: folds 
+trueYes.3970: folds 
+Uncalled bet ($0.50) returned to MaRKiToScoK
+MaRKiToScoK collected $1 from pot
+Zvst leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: MaikonAll
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (small blind) folded before Flop
+Seat 4: MaRKiToScoK (big blind) collected ($1)
+Seat 5: Zvst folded before Flop (didn't bet)
+Seat 6: Alinyr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254265785156:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:18:18 WET [2025/01/08 14:18:18 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 2: MaikonAll ($100 in chips) is sitting out
+Seat 6: Alinyr ($263.25 in chips) is sitting out
+Seat 1: GuigaMan ($100 in chips) 
+Seat 3: trueYes.3970 ($32.55 in chips) 
+Seat 4: MaRKiToScoK ($100.50 in chips) 
+MaRKiToScoK: posts small blind $0.50
+Alinyr: is sitting out 
+GuigaMan: posts big blind $1
+MaikonAll: sits out 
+*** HOLE CARDS ***
+trueYes.3970: folds 
+Alinyr leaves the table
+MaRKiToScoK: raises $1.70 to $2.70
+GuigaMan: calls $1.70
+*** FLOP *** [5c 6c 3d]
+MaRKiToScoK: checks 
+GuigaMan: checks 
+*** TURN *** [5c 6c 3d] [Js]
+MaRKiToScoK: bets $3.85
+GuigaMan: calls $3.85
+*** RIVER *** [5c 6c 3d Js] [3s]
+MaRKiToScoK: bets $20
+GuigaMan: folds 
+Uncalled bet ($20) returned to MaRKiToScoK
+MaRKiToScoK collected $12.44 from pot
+*** SUMMARY ***
+Total pot $13.10 | Rake $0.66 
+Board [5c 6c 3d Js 3s]
+Seat 2: MaikonAll
+Seat 6: Alinyr
+Seat 1: GuigaMan (big blind) folded on the River
+Seat 3: trueYes.3970 (button) folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK (small blind) collected ($12.44)
+
+
+
+PokerStars Hand #254265798287:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:19:01 WET [2025/01/08 14:19:01 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($100 in chips) 
+Seat 2: MaikonAll ($100 in chips) 
+Seat 3: trueYes.3970 ($32.55 in chips) 
+Seat 4: MaRKiToScoK ($106.39 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: raises $1.22 to $2.22
+MaRKiToScoK: folds 
+GuigaMan: folds 
+MaikonAll: calls $1.22
+*** FLOP *** [7d 2c 6c]
+Gfoer joins the table at seat #5 
+MaikonAll: checks 
+trueYes.3970: checks 
+*** TURN *** [7d 2c 6c] [Qh]
+MaikonAll: checks 
+trueYes.3970: bets $3.32
+Hoochi75 joins the table at seat #6 
+Hoochi75 is disconnected 
+MaikonAll: raises $11.33 to $14.65
+trueYes.3970: folds 
+Uncalled bet ($11.33) returned to MaikonAll
+MaikonAll collected $11 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.58 | Rake $0.58 
+Board [7d 2c 6c Qh]
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: MaikonAll (big blind) collected ($11)
+Seat 3: trueYes.3970 folded on the Turn
+Seat 4: MaRKiToScoK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254265817942:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:20:06 WET [2025/01/08 14:20:06 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 5: Gfoer ($100 in chips) is sitting out
+Seat 6: Hoochi75 ($33.89 in chips) is sitting out
+Seat 1: GuigaMan ($100 in chips) 
+Seat 2: MaikonAll ($105.46 in chips) 
+Seat 3: trueYes.3970 ($27.01 in chips) 
+Seat 4: MaRKiToScoK ($106.39 in chips) 
+MaikonAll: posts small blind $0.50
+trueYes.3970: posts big blind $1
+Gfoer: sits out 
+Hoochi75: sits out 
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+GuigaMan: folds 
+MaikonAll: raises $2 to $3
+trueYes.3970: folds 
+Uncalled bet ($2) returned to MaikonAll
+MaikonAll collected $2 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: Gfoer
+Seat 6: Hoochi75
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: MaikonAll (small blind) collected ($2)
+Seat 3: trueYes.3970 (big blind) folded before Flop
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254265823953:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:20:25 WET [2025/01/08 14:20:25 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 5: Gfoer ($100 in chips) is sitting out
+Seat 1: GuigaMan ($100 in chips) 
+Seat 2: MaikonAll ($106.46 in chips) 
+Seat 3: trueYes.3970 ($26.01 in chips) 
+Seat 4: MaRKiToScoK ($106.39 in chips) 
+Seat 6: Hoochi75 ($33.89 in chips) 
+trueYes.3970: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+Gfoer: sits out 
+Hoochi75: posts big blind $1
+*** HOLE CARDS ***
+Hoochi75: checks 
+GuigaMan: folds 
+MaikonAll: raises $3 to $4
+trueYes.3970: folds 
+MaRKiToScoK: folds 
+Hoochi75: calls $3
+*** FLOP *** [Js 6s Qc]
+Hoochi75: checks 
+MaikonAll: bets $2.25
+Hoochi75: raises $6.76 to $9.01
+MaikonAll: folds 
+Uncalled bet ($6.76) returned to Hoochi75
+Hoochi75 collected $13.30 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Js 6s Qc]
+Seat 5: Gfoer
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll (button) folded on the Flop
+Seat 3: trueYes.3970 (small blind) folded before Flop
+Seat 4: MaRKiToScoK (big blind) folded before Flop
+Seat 6: Hoochi75 collected ($13.30)
+
+
+
+PokerStars Hand #254265840831:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:21:21 WET [2025/01/08 14:21:21 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($100 in chips) 
+Seat 2: MaikonAll ($100.21 in chips) 
+Seat 3: trueYes.3970 ($25.51 in chips) 
+Seat 4: MaRKiToScoK ($105.39 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($40.94 in chips) 
+MaRKiToScoK: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+Hoochi75: folds 
+GuigaMan: raises $1.10 to $2.10
+MaikonAll: folds 
+trueYes.3970: folds 
+MaRKiToScoK: folds 
+Gfoer: folds 
+Uncalled bet ($1.10) returned to GuigaMan
+GuigaMan collected $2.50 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: GuigaMan collected ($2.50)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (button) folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK (small blind) folded before Flop
+Seat 5: Gfoer (big blind) folded before Flop
+Seat 6: Hoochi75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254265846955:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:21:42 WET [2025/01/08 14:21:42 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($101.50 in chips) 
+Seat 2: MaikonAll ($100.21 in chips) 
+Seat 3: trueYes.3970 ($25.51 in chips) 
+Seat 4: MaRKiToScoK ($104.89 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($40.94 in chips) 
+Gfoer: posts small blind $0.50
+Hoochi75: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: folds 
+MaRKiToScoK: folds 
+Gfoer: folds 
+Uncalled bet ($0.50) returned to Hoochi75
+Hoochi75 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK (button) folded before Flop (didn't bet)
+Seat 5: Gfoer (small blind) folded before Flop
+Seat 6: Hoochi75 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254265849864:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:21:51 WET [2025/01/08 14:21:51 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 1: GuigaMan ($101.50 in chips) 
+Seat 2: MaikonAll ($100.21 in chips) 
+Seat 3: trueYes.3970 ($25.51 in chips) 
+Seat 4: MaRKiToScoK ($104.89 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($41.44 in chips) 
+Hoochi75: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll: folds 
+trueYes.3970: calls $1
+MaRKiToScoK: folds 
+Gfoer: folds 
+Hoochi75: raises $2 to $3
+GuigaMan: calls $2
+trueYes.3970: calls $2
+*** FLOP *** [Qd 9s 5c]
+Hoochi75: checks 
+GuigaMan: checks 
+trueYes.3970: checks 
+*** TURN *** [Qd 9s 5c] [Kh]
+Hoochi75: checks 
+GuigaMan: checks 
+trueYes.3970: bets $4.28
+Hoochi75: folds 
+GuigaMan: folds 
+Uncalled bet ($4.28) returned to trueYes.3970
+trueYes.3970 collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Qd 9s 5c Kh]
+Seat 1: GuigaMan (big blind) folded on the Turn
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 collected ($8.55)
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer (button) folded before Flop (didn't bet)
+Seat 6: Hoochi75 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254265866867:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:22:47 WET [2025/01/08 14:22:47 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 1: GuigaMan ($100 in chips) 
+Seat 2: MaikonAll ($100.21 in chips) 
+Seat 3: trueYes.3970 ($31.06 in chips) 
+Seat 4: MaRKiToScoK ($104.89 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($38.44 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: folds 
+MaRKiToScoK: folds 
+Gfoer: folds 
+Hoochi75: calls $1
+GuigaMan: raises $5 to $6
+MaikonAll: folds 
+Hoochi75: calls $5
+*** FLOP *** [6d 8s 2h]
+GuigaMan: bets $3.71
+Hoochi75: calls $3.71
+*** TURN *** [6d 8s 2h] [Jh]
+GuigaMan: bets $10.48
+Hoochi75: calls $10.48
+*** RIVER *** [6d 8s 2h Jh] [Kc]
+GuigaMan: bets $79.81 and is all-in
+Hoochi75: folds 
+Uncalled bet ($79.81) returned to GuigaMan
+GuigaMan collected $39.31 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $41.38 | Rake $2.07 
+Board [6d 8s 2h Jh Kc]
+Seat 1: GuigaMan (small blind) collected ($39.31)
+Seat 2: MaikonAll (big blind) folded before Flop
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: Hoochi75 (button) folded on the River
+
+
+
+PokerStars Hand #254265877309:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:23:22 WET [2025/01/08 14:23:22 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($119.12 in chips) 
+Seat 2: MaikonAll ($100 in chips) 
+Seat 3: trueYes.3970 ($31.06 in chips) 
+Seat 4: MaRKiToScoK ($104.89 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($18.25 in chips) 
+MaikonAll: posts small blind $0.50
+trueYes.3970: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+Gfoer: folds 
+Hoochi75: raises $17.25 to $18.25 and is all-in
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: folds 
+Uncalled bet ($17.25) returned to Hoochi75
+Hoochi75 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: MaikonAll (small blind) folded before Flop
+Seat 3: trueYes.3970 (big blind) folded before Flop
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: Hoochi75 collected ($2.50)
+
+
+
+PokerStars Hand #254265881814:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:23:37 WET [2025/01/08 14:23:37 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 1: GuigaMan ($119.12 in chips) 
+Seat 2: MaikonAll ($100 in chips) 
+Seat 3: trueYes.3970 ($30.06 in chips) 
+Seat 4: MaRKiToScoK ($104.89 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($19.75 in chips) 
+trueYes.3970: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+Hoochi75: raises $18.75 to $19.75 and is all-in
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: calls $19.25
+MaRKiToScoK: folds 
+*** FLOP *** [2s 3h 4c]
+*** TURN *** [2s 3h 4c] [5d]
+*** RIVER *** [2s 3h 4c 5d] [Js]
+*** SHOW DOWN ***
+trueYes.3970: shows [Qs Qh] (a pair of Queens)
+Hoochi75: shows [4d As] (a straight, Ace to Five)
+Hoochi75 collected $38.48 from pot
+*** SUMMARY ***
+Total pot $40.50 | Rake $2.02 
+Board [2s 3h 4c 5d Js]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll (button) folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (small blind) showed [Qs Qh] and lost with a pair of Queens
+Seat 4: MaRKiToScoK (big blind) folded before Flop
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: Hoochi75 showed [4d As] and won ($38.48) with a straight, Ace to Five
+
+
+
+PokerStars Hand #254265889639:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:24:02 WET [2025/01/08 14:24:02 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($119.12 in chips) 
+Seat 2: MaikonAll ($100 in chips) 
+Seat 3: trueYes.3970 ($10.31 in chips) 
+Seat 4: MaRKiToScoK ($103.89 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($38.48 in chips) 
+MaRKiToScoK: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+Hoochi75: folds 
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: raises $9.31 to $10.31 and is all-in
+MaRKiToScoK: folds 
+Gfoer: folds 
+Uncalled bet ($9.31) returned to trueYes.3970
+trueYes.3970 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (button) collected ($2.50)
+Seat 4: MaRKiToScoK (small blind) folded before Flop
+Seat 5: Gfoer (big blind) folded before Flop
+Seat 6: Hoochi75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254265899971:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:24:37 WET [2025/01/08 14:24:37 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($119.12 in chips) 
+Seat 2: MaikonAll ($100 in chips) 
+Seat 3: trueYes.3970 ($11.81 in chips) 
+Seat 4: MaRKiToScoK ($103.39 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($38.48 in chips) 
+Gfoer: posts small blind $0.50
+Hoochi75: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+MaikonAll: raises $1.30 to $2.30
+trueYes.3970: folds 
+MaRKiToScoK: folds 
+Gfoer: folds 
+Hoochi75: calls $1.30
+*** FLOP *** [3h 6d 8d]
+Hoochi75: checks 
+MaikonAll: bets $1.21
+Hoochi75: calls $1.21
+*** TURN *** [3h 6d 8d] [Jh]
+Hoochi75: checks 
+MaikonAll: bets $5.36
+Hoochi75: calls $5.36
+*** RIVER *** [3h 6d 8d Jh] [9s]
+Hoochi75: checks 
+MaikonAll: bets $8.67
+Hoochi75: folds 
+Uncalled bet ($8.67) returned to MaikonAll
+MaikonAll collected $17.33 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.24 | Rake $0.91 
+Board [3h 6d 8d Jh 9s]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll collected ($17.33)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK (button) folded before Flop (didn't bet)
+Seat 5: Gfoer (small blind) folded before Flop
+Seat 6: Hoochi75 (big blind) folded on the River
+
+
+
+PokerStars Hand #254265918638:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:25:38 WET [2025/01/08 14:25:38 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 1: GuigaMan ($119.12 in chips) 
+Seat 2: MaikonAll ($108.46 in chips) 
+Seat 3: trueYes.3970 ($11.81 in chips) 
+Seat 4: MaRKiToScoK ($103.39 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($29.61 in chips) 
+Hoochi75: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll: folds 
+trueYes.3970: calls $1
+MaRKiToScoK: folds 
+Gfoer: raises $3.50 to $4.50
+Hoochi75: calls $4
+GuigaMan: folds 
+trueYes.3970: calls $3.50
+*** FLOP *** [5h Js 4c]
+Hoochi75: checks 
+trueYes.3970: bets $6.89
+Gfoer: folds 
+Hoochi75: raises $6.89 to $13.78
+trueYes.3970: calls $0.42 and is all-in
+Uncalled bet ($6.47) returned to Hoochi75
+*** TURN *** [5h Js 4c] [Tc]
+*** RIVER *** [5h Js 4c Tc] [3d]
+*** SHOW DOWN ***
+Hoochi75: shows [Ts Jh] (two pair, Jacks and Tens)
+trueYes.3970: shows [7c 5c] (a pair of Fives)
+Hoochi75 collected $27.66 from pot
+*** SUMMARY ***
+Total pot $29.12 | Rake $1.46 
+Board [5h Js 4c Tc 3d]
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 showed [7c 5c] and lost with a pair of Fives
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer (button) folded on the Flop
+Seat 6: Hoochi75 (small blind) showed [Ts Jh] and won ($27.66) with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #254265933543:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:26:28 WET [2025/01/08 14:26:28 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 3: trueYes.3970 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($118.12 in chips) 
+Seat 2: MaikonAll ($108.46 in chips) 
+Seat 4: MaRKiToScoK ($103.39 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($45.46 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+Gfoer: folds 
+Hoochi75: raises $1 to $2
+GuigaMan: folds 
+MaikonAll: calls $1
+*** FLOP *** [4c 5c Qd]
+MaikonAll: checks 
+Hoochi75: bets $2.14
+MaikonAll: folds 
+Uncalled bet ($2.14) returned to Hoochi75
+Hoochi75 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [4c 5c Qd]
+Seat 3: trueYes.3970
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: MaikonAll (big blind) folded on the Flop
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: Hoochi75 (button) collected ($4.28)
+
+
+
+PokerStars Hand #254265952143:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:27:29 WET [2025/01/08 14:27:29 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($117.62 in chips) 
+Seat 2: MaikonAll ($106.46 in chips) 
+Seat 3: trueYes.3970 ($10.49 in chips) 
+Seat 4: MaRKiToScoK ($103.39 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($47.74 in chips) 
+MaikonAll: posts small blind $0.50
+trueYes.3970: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+Gfoer: folds 
+Hoochi75: calls $1
+GuigaMan: folds 
+MaikonAll: raises $4 to $5
+trueYes.3970: folds 
+Hoochi75: calls $4
+*** FLOP *** [9s Js Kc]
+MaikonAll: bets $2.63
+Hoochi75: folds 
+Uncalled bet ($2.63) returned to MaikonAll
+MaikonAll collected $10.45 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [9s Js Kc]
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: MaikonAll (small blind) collected ($10.45)
+Seat 3: trueYes.3970 (big blind) folded before Flop
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: Hoochi75 folded on the Flop
+
+
+
+PokerStars Hand #254265964899:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:28:11 WET [2025/01/08 14:28:11 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 1: GuigaMan ($117.62 in chips) 
+Seat 2: MaikonAll ($111.91 in chips) 
+Seat 3: trueYes.3970 ($9.49 in chips) 
+Seat 4: MaRKiToScoK ($103.39 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($42.74 in chips) 
+trueYes.3970: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+Hoochi75: folds 
+GuigaMan: folds 
+MaikonAll: raises $1.50 to $2.50
+trueYes.3970: calls $2
+MaRKiToScoK: folds 
+*** FLOP *** [Ah 6c Jc]
+trueYes.3970: checks 
+MaikonAll: checks 
+*** TURN *** [Ah 6c Jc] [6h]
+trueYes.3970: checks 
+MaikonAll: bets $2.85
+trueYes.3970: folds 
+Uncalled bet ($2.85) returned to MaikonAll
+MaikonAll collected $5.70 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ah 6c Jc 6h]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll (button) collected ($5.70)
+Seat 3: trueYes.3970 (small blind) folded on the Turn
+Seat 4: MaRKiToScoK (big blind) folded before Flop
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: Hoochi75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254265984913:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:29:17 WET [2025/01/08 14:29:17 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($117.62 in chips) 
+Seat 2: MaikonAll ($115.11 in chips) 
+Seat 3: trueYes.3970 ($6.99 in chips) 
+Seat 4: MaRKiToScoK ($102.39 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($42.74 in chips) 
+MaRKiToScoK: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+Hoochi75: raises $1 to $2
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: folds 
+MaRKiToScoK: calls $1.50
+Gfoer: folds 
+*** FLOP *** [4h 8h As]
+MaRKiToScoK: checks 
+Hoochi75: bets $2.38
+MaRKiToScoK: folds 
+Uncalled bet ($2.38) returned to Hoochi75
+Hoochi75 collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [4h 8h As]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (button) folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK (small blind) folded on the Flop
+Seat 5: Gfoer (big blind) folded before Flop
+Seat 6: Hoochi75 collected ($4.75)
+
+
+
+PokerStars Hand #254265995312:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:29:51 WET [2025/01/08 14:29:51 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($117.62 in chips) 
+Seat 2: MaikonAll ($115.11 in chips) 
+Seat 3: trueYes.3970 ($6.99 in chips) 
+Seat 4: MaRKiToScoK ($100.39 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($45.49 in chips) 
+Gfoer: posts small blind $0.50
+Hoochi75: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: folds 
+MaRKiToScoK: raises $1.05 to $2.05
+Gfoer: folds 
+Hoochi75: calls $1.05
+*** FLOP *** [5s Ac Jc]
+Hoochi75: bets $1
+MaRKiToScoK: raises $3.25 to $4.25
+Hoochi75: calls $3.25
+*** TURN *** [5s Ac Jc] [8s]
+Hoochi75: checks 
+MaRKiToScoK: checks 
+*** RIVER *** [5s Ac Jc 8s] [Td]
+Hoochi75: bets $12.44
+MaRKiToScoK: folds 
+Uncalled bet ($12.44) returned to Hoochi75
+Hoochi75 collected $12.44 from pot
+*** SUMMARY ***
+Total pot $13.10 | Rake $0.66 
+Board [5s Ac Jc 8s Td]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK (button) folded on the River
+Seat 5: Gfoer (small blind) folded before Flop
+Seat 6: Hoochi75 (big blind) collected ($12.44)
+
+
+
+PokerStars Hand #254266007487:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:30:31 WET [2025/01/08 14:30:31 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 1: GuigaMan ($117.62 in chips) 
+Seat 2: MaikonAll ($115.11 in chips) 
+Seat 3: trueYes.3970 ($6.99 in chips) 
+Seat 4: MaRKiToScoK ($100 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($51.63 in chips) 
+Hoochi75: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll: folds 
+trueYes.3970: folds 
+MaRKiToScoK has timed out
+MaRKiToScoK: folds 
+Gfoer: folds 
+Hoochi75: folds 
+Uncalled bet ($0.50) returned to GuigaMan
+GuigaMan collected $1 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: GuigaMan (big blind) collected ($1)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer (button) folded before Flop (didn't bet)
+Seat 6: Hoochi75 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266015465:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:30:57 WET [2025/01/08 14:30:57 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 1: GuigaMan ($118.12 in chips) 
+Seat 2: MaikonAll ($115.11 in chips) 
+Seat 3: trueYes.3970 ($17.37 in chips) 
+Seat 4: MaRKiToScoK ($100 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($51.13 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: folds 
+MaRKiToScoK: folds 
+Gfoer: folds 
+Hoochi75: folds 
+GuigaMan: folds 
+Uncalled bet ($0.50) returned to MaikonAll
+MaikonAll collected $1 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: MaikonAll (big blind) collected ($1)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: Hoochi75 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266019495:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:31:10 WET [2025/01/08 14:31:10 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($117.62 in chips) 
+Seat 2: MaikonAll ($115.61 in chips) 
+Seat 3: trueYes.3970 ($17.37 in chips) 
+Seat 4: MaRKiToScoK ($100 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($51.13 in chips) 
+MaikonAll: posts small blind $0.50
+trueYes.3970: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: raises $1.50 to $2.50
+Gfoer: folds 
+Hoochi75: folds 
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: calls $1.50
+*** FLOP *** [Jd Tc Kh]
+trueYes.3970: checks 
+MaRKiToScoK: checks 
+*** TURN *** [Jd Tc Kh] [6h]
+trueYes.3970: bets $2.61
+MaRKiToScoK: folds 
+Uncalled bet ($2.61) returned to trueYes.3970
+trueYes.3970 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Jd Tc Kh 6h]
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: MaikonAll (small blind) folded before Flop
+Seat 3: trueYes.3970 (big blind) collected ($5.22)
+Seat 4: MaRKiToScoK folded on the Turn
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: Hoochi75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266045552:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:32:35 WET [2025/01/08 14:32:35 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 1: GuigaMan ($117.62 in chips) 
+Seat 2: MaikonAll ($115.11 in chips) 
+Seat 3: trueYes.3970 ($20.09 in chips) 
+Seat 4: MaRKiToScoK ($100 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($51.13 in chips) 
+trueYes.3970: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+Hoochi75: folds 
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: folds 
+Uncalled bet ($0.50) returned to MaRKiToScoK
+MaRKiToScoK collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll (button) folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (small blind) folded before Flop
+Seat 4: MaRKiToScoK (big blind) collected ($1)
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: Hoochi75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266050709:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:32:51 WET [2025/01/08 14:32:51 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($117.62 in chips) 
+Seat 2: MaikonAll ($115.11 in chips) 
+Seat 3: trueYes.3970 ($19.59 in chips) 
+Seat 4: MaRKiToScoK ($100.50 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($51.13 in chips) 
+MaRKiToScoK: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+Hoochi75: raises $1 to $2
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: folds 
+MaRKiToScoK: folds 
+Gfoer: folds 
+Uncalled bet ($1) returned to Hoochi75
+Hoochi75 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (button) folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK (small blind) folded before Flop
+Seat 5: Gfoer (big blind) folded before Flop
+Seat 6: Hoochi75 collected ($2.50)
+
+
+
+PokerStars Hand #254266059023:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:33:19 WET [2025/01/08 14:33:19 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($117.62 in chips) 
+Seat 2: MaikonAll ($115.11 in chips) 
+Seat 3: trueYes.3970 ($19.59 in chips) 
+Seat 4: MaRKiToScoK ($100 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($52.63 in chips) 
+Gfoer: posts small blind $0.50
+Hoochi75: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: folds 
+MaRKiToScoK: folds 
+Gfoer: folds 
+Uncalled bet ($0.50) returned to Hoochi75
+Hoochi75 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK (button) folded before Flop (didn't bet)
+Seat 5: Gfoer (small blind) folded before Flop
+Seat 6: Hoochi75 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254266063383:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:33:33 WET [2025/01/08 14:33:33 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 1: GuigaMan ($117.62 in chips) 
+Seat 2: MaikonAll ($115.11 in chips) 
+Seat 3: trueYes.3970 ($19.59 in chips) 
+Seat 4: MaRKiToScoK ($100 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($53.13 in chips) 
+Hoochi75: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll: raises $1.30 to $2.30
+trueYes.3970: folds 
+MaRKiToScoK: folds 
+Gfoer: folds 
+Hoochi75: folds 
+GuigaMan: folds 
+Uncalled bet ($1.30) returned to MaikonAll
+MaikonAll collected $2.50 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 2: MaikonAll collected ($2.50)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer (button) folded before Flop (didn't bet)
+Seat 6: Hoochi75 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266068742:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:33:50 WET [2025/01/08 14:33:50 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 1: GuigaMan ($116.62 in chips) 
+Seat 2: MaikonAll ($116.61 in chips) 
+Seat 3: trueYes.3970 ($19.59 in chips) 
+Seat 4: MaRKiToScoK ($100 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($52.63 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: folds 
+MaRKiToScoK: folds 
+Gfoer: folds 
+Hoochi75: folds 
+GuigaMan: folds 
+Uncalled bet ($0.50) returned to MaikonAll
+MaikonAll collected $1 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: MaikonAll (big blind) collected ($1)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: Hoochi75 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266076289:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:34:15 WET [2025/01/08 14:34:15 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($116.12 in chips) 
+Seat 2: MaikonAll ($117.11 in chips) 
+Seat 3: trueYes.3970 ($19.59 in chips) 
+Seat 4: MaRKiToScoK ($100 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($52.63 in chips) 
+MaikonAll: posts small blind $0.50
+trueYes.3970: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+Gfoer: folds 
+Hoochi75: calls $1
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: checks 
+*** FLOP *** [Kc 4d Ad]
+trueYes.3970: checks 
+Hoochi75: checks 
+*** TURN *** [Kc 4d Ad] [6s]
+trueYes.3970: bets $2.38
+Hoochi75: calls $2.38
+*** RIVER *** [Kc 4d Ad 6s] [5c]
+trueYes.3970: checks 
+Hoochi75: bets $6.90
+trueYes.3970: calls $6.90
+*** SHOW DOWN ***
+Hoochi75: shows [6d 5h] (two pair, Sixes and Fives)
+trueYes.3970: mucks hand 
+Hoochi75 collected $20.01 from pot
+*** SUMMARY ***
+Total pot $21.06 | Rake $1.05 
+Board [Kc 4d Ad 6s 5c]
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: MaikonAll (small blind) folded before Flop
+Seat 3: trueYes.3970 (big blind) mucked
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: Hoochi75 showed [6d 5h] and won ($20.01) with two pair, Sixes and Fives
+
+
+
+PokerStars Hand #254266088024:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:34:53 WET [2025/01/08 14:34:53 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 1: GuigaMan ($116.12 in chips) 
+Seat 2: MaikonAll ($116.61 in chips) 
+Seat 3: trueYes.3970 ($9.31 in chips) 
+Seat 4: MaRKiToScoK ($100 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($62.36 in chips) 
+trueYes.3970: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: folds 
+Hoochi75: calls $1
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: folds 
+MaRKiToScoK: checks 
+*** FLOP *** [Ts Kd Ad]
+MaRKiToScoK: checks 
+Hoochi75: checks 
+*** TURN *** [Ts Kd Ad] [Js]
+MaRKiToScoK: checks 
+Hoochi75: checks 
+*** RIVER *** [Ts Kd Ad Js] [Qc]
+MaRKiToScoK: checks 
+Hoochi75: checks 
+*** SHOW DOWN ***
+MaRKiToScoK: shows [Kh 5c] (a straight, Ten to Ace)
+Hoochi75: shows [5h As] (a straight, Ten to Ace)
+MaRKiToScoK collected $1.19 from pot
+Hoochi75 collected $1.19 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Ts Kd Ad Js Qc]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll (button) folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (small blind) folded before Flop
+Seat 4: MaRKiToScoK (big blind) showed [Kh 5c] and won ($1.19) with a straight, Ten to Ace
+Seat 5: Gfoer folded before Flop (didn't bet)
+Seat 6: Hoochi75 showed [5h As] and won ($1.19) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #254266105546:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:35:51 WET [2025/01/08 14:35:51 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($116.12 in chips) 
+Seat 2: MaikonAll ($116.61 in chips) 
+Seat 3: trueYes.3970 ($8.81 in chips) 
+Seat 4: MaRKiToScoK ($100.19 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($62.55 in chips) 
+MaRKiToScoK: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+Hoochi75: folds 
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: folds 
+MaRKiToScoK: raises $1.70 to $2.70
+Gfoer: folds 
+Uncalled bet ($1.70) returned to MaRKiToScoK
+MaRKiToScoK collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (button) folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK (small blind) collected ($2)
+Seat 5: Gfoer (big blind) folded before Flop
+Seat 6: Hoochi75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266117979:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:36:31 WET [2025/01/08 14:36:31 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($116.12 in chips) 
+Seat 2: MaikonAll ($116.61 in chips) 
+Seat 3: trueYes.3970 ($8.81 in chips) 
+Seat 4: MaRKiToScoK ($101.19 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($62.55 in chips) 
+Gfoer: posts small blind $0.50
+Hoochi75: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: folds 
+MaRKiToScoK: raises $1.05 to $2.05
+Gfoer: folds 
+Hoochi75: folds 
+Uncalled bet ($1.05) returned to MaRKiToScoK
+MaRKiToScoK collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK (button) collected ($2.50)
+Seat 5: Gfoer (small blind) folded before Flop
+Seat 6: Hoochi75 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254266123231:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:36:48 WET [2025/01/08 14:36:48 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 1: GuigaMan ($116.12 in chips) 
+Seat 2: MaikonAll ($116.61 in chips) 
+Seat 3: trueYes.3970 ($8.81 in chips) 
+Seat 4: MaRKiToScoK ($102.69 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($61.55 in chips) 
+Hoochi75: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll: folds 
+trueYes.3970: folds 
+MaRKiToScoK: folds 
+Gfoer: folds 
+Hoochi75: folds 
+Uncalled bet ($0.50) returned to GuigaMan
+GuigaMan collected $1 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: GuigaMan (big blind) collected ($1)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer (button) folded before Flop (didn't bet)
+Seat 6: Hoochi75 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266132412:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:37:18 WET [2025/01/08 14:37:18 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 1: GuigaMan ($116.62 in chips) 
+Seat 2: MaikonAll ($116.61 in chips) 
+Seat 3: trueYes.3970 ($8.81 in chips) 
+Seat 4: MaRKiToScoK ($102.69 in chips) 
+Seat 5: Gfoer ($100 in chips) 
+Seat 6: Hoochi75 ($61.05 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: folds 
+MaRKiToScoK: folds 
+Gfoer: raises $1.20 to $2.20
+Hoochi75: calls $2.20
+GuigaMan: folds 
+MaikonAll: folds 
+*** FLOP *** [9s 5c Tc]
+Gfoer: checks 
+Hoochi75: bets $2.80
+Gfoer: raises $9.20 to $12
+Hoochi75: calls $9.20
+*** TURN *** [9s 5c Tc] [Ad]
+Gfoer: bets $22.30
+Hoochi75: folds 
+Uncalled bet ($22.30) returned to Gfoer
+Gfoer collected $28.40 from pot
+Gfoer: doesn't show hand 
+*** SUMMARY ***
+Total pot $29.90 | Rake $1.50 
+Board [9s 5c Tc Ad]
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: MaikonAll (big blind) folded before Flop
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer collected ($28.40)
+Seat 6: Hoochi75 (button) folded on the Turn
+
+
+
+PokerStars Hand #254266148607:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:38:11 WET [2025/01/08 14:38:11 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($116.12 in chips) 
+Seat 2: MaikonAll ($115.61 in chips) 
+Seat 3: trueYes.3970 ($8.81 in chips) 
+Seat 4: MaRKiToScoK ($102.69 in chips) 
+Seat 5: Gfoer ($114.20 in chips) 
+Seat 6: Hoochi75 ($46.85 in chips) 
+MaikonAll: posts small blind $0.50
+trueYes.3970: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+Gfoer: raises $1.20 to $2.20
+Hoochi75 is disconnected 
+Hoochi75 has timed out while disconnected
+Hoochi75: folds 
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: calls $1.20
+*** FLOP *** [Kh 2d Kd]
+trueYes.3970: checks 
+Gfoer: bets $7.05
+trueYes.3970: calls $6.61 and is all-in
+Uncalled bet ($0.44) returned to Gfoer
+*** TURN *** [Kh 2d Kd] [4h]
+*** RIVER *** [Kh 2d Kd 4h] [Ts]
+*** SHOW DOWN ***
+trueYes.3970: shows [3c Qh] (a pair of Kings)
+Gfoer: shows [Jh As] (a pair of Kings - Ace kicker)
+Gfoer collected $17.21 from pot
+*** SUMMARY ***
+Total pot $18.12 | Rake $0.91 
+Board [Kh 2d Kd 4h Ts]
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: MaikonAll (small blind) folded before Flop
+Seat 3: trueYes.3970 (big blind) showed [3c Qh] and lost with a pair of Kings
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+Seat 5: Gfoer showed [Jh As] and won ($17.21) with a pair of Kings
+Seat 6: Hoochi75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266173184:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:39:31 WET [2025/01/08 14:39:31 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 3: trueYes.3970 ($0 in chips) is sitting out
+Seat 5: Gfoer ($122.60 in chips) is sitting out
+Seat 6: Hoochi75 ($46.85 in chips) is sitting out
+Seat 1: GuigaMan ($116.12 in chips) 
+Seat 2: MaikonAll ($115.11 in chips) 
+Seat 4: MaRKiToScoK ($102.69 in chips) 
+MaRKiToScoK: posts small blind $0.50
+Gfoer: is sitting out 
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll: folds 
+Gfoer leaves the table
+MaRKiToScoK: raises $1.70 to $2.70
+GuigaMan: raises $6.30 to $9
+MaRKiToScoK: folds 
+Uncalled bet ($6.30) returned to GuigaMan
+GuigaMan collected $5.40 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 3: trueYes.3970
+Seat 5: Gfoer
+Seat 6: Hoochi75
+Seat 1: GuigaMan (big blind) collected ($5.40)
+Seat 2: MaikonAll (button) folded before Flop (didn't bet)
+Seat 4: MaRKiToScoK (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266183938:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:40:06 WET [2025/01/08 14:40:06 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 6: Hoochi75 ($46.85 in chips) is sitting out
+Seat 1: GuigaMan ($118.82 in chips) 
+Seat 2: MaikonAll ($115.11 in chips) 
+Seat 3: trueYes.3970 ($12.87 in chips) 
+Seat 4: MaRKiToScoK ($100 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: posts big blind $1
+trueYes.3970: posts small blind $0.50
+*** HOLE CARDS ***
+trueYes.3970: raises $11.37 to $12.37 and is all-in
+MaRKiToScoK: folds 
+GuigaMan: folds 
+MaikonAll: calls $11.37
+*** FLOP *** [Kd 3s Kc]
+*** TURN *** [Kd 3s Kc] [6d]
+*** RIVER *** [Kd 3s Kc 6d] [5h]
+*** SHOW DOWN ***
+MaikonAll: shows [8c As] (a pair of Kings)
+trueYes.3970: shows [Ac Th] (a pair of Kings - Ace+Ten kicker)
+trueYes.3970 collected $24.74 from pot
+*** SUMMARY ***
+Total pot $25.74 | Rake $1 
+Board [Kd 3s Kc 6d 5h]
+Seat 6: Hoochi75
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: MaikonAll (big blind) showed [8c As] and lost with a pair of Kings
+Seat 3: trueYes.3970 showed [Ac Th] and won ($24.74) with a pair of Kings
+Seat 4: MaRKiToScoK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266192275:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:40:34 WET [2025/01/08 14:40:34 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 6: Hoochi75 ($46.85 in chips) is sitting out
+Seat 1: GuigaMan ($118.32 in chips) 
+Seat 2: MaikonAll ($102.74 in chips) 
+Seat 3: trueYes.3970 ($24.74 in chips) 
+Seat 4: MaRKiToScoK ($100 in chips) 
+MaikonAll: posts small blind $0.50
+trueYes.3970: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+GuigaMan: raises $1.10 to $2.10
+MaikonAll: folds 
+MaRKiToScoK leaves the table
+trueYes.3970: calls $1.10
+*** FLOP *** [Ad 8s 4c]
+trueYes.3970: checks 
+GuigaMan: bets $3.35
+coeeeelho joins the table at seat #5 
+trueYes.3970: folds 
+Uncalled bet ($3.35) returned to GuigaMan
+GuigaMan collected $4.46 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.70 | Rake $0.24 
+Board [Ad 8s 4c]
+Seat 6: Hoochi75
+Seat 1: GuigaMan (button) collected ($4.46)
+Seat 2: MaikonAll (small blind) folded before Flop
+Seat 3: trueYes.3970 (big blind) folded on the Flop
+Seat 4: MaRKiToScoK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266201048:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:41:03 WET [2025/01/08 14:41:03 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 6: Hoochi75 ($46.85 in chips) is sitting out
+Seat 1: GuigaMan ($120.68 in chips) 
+Seat 2: MaikonAll ($102.24 in chips) 
+Seat 3: trueYes.3970 ($22.64 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+trueYes.3970: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: raises $2 to $3
+coeeeelho: folds 
+Uncalled bet ($2) returned to trueYes.3970
+trueYes.3970 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: Hoochi75
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll (button) folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (small blind) collected ($2)
+Seat 5: coeeeelho (big blind) folded before Flop
+
+
+
+PokerStars Hand #254266208511:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:41:27 WET [2025/01/08 14:41:27 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 6: Hoochi75 ($46.85 in chips) is sitting out
+Seat 1: GuigaMan ($120.68 in chips) 
+Seat 2: MaikonAll ($102.24 in chips) 
+Seat 3: trueYes.3970 ($23.64 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+coeeeelho: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll has timed out
+MaikonAll: folds 
+trueYes.3970: folds 
+coeeeelho: folds 
+Uncalled bet ($0.50) returned to GuigaMan
+GuigaMan collected $1 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: Hoochi75
+Seat 1: GuigaMan (big blind) collected ($1)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (button) folded before Flop (didn't bet)
+Seat 5: coeeeelho (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266214088:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:41:45 WET [2025/01/08 14:41:45 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 6: Hoochi75 ($46.85 in chips) is sitting out
+Seat 1: GuigaMan ($121.18 in chips) 
+Seat 2: MaikonAll ($102.24 in chips) 
+Seat 3: trueYes.3970 ($23.64 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: raises $1.55 to $2.55
+PokerShadow100 joins the table at seat #4 
+PokerShadow100 is disconnected 
+coeeeelho: folds 
+GuigaMan: folds 
+MaikonAll: folds 
+Uncalled bet ($1.55) returned to trueYes.3970
+trueYes.3970 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Hoochi75
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: MaikonAll (big blind) folded before Flop
+Seat 3: trueYes.3970 collected ($2.50)
+Seat 5: coeeeelho (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266222372:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:42:13 WET [2025/01/08 14:42:13 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 6: Hoochi75 ($46.85 in chips) is sitting out
+Seat 1: GuigaMan ($120.68 in chips) 
+Seat 2: MaikonAll ($101.24 in chips) 
+Seat 3: trueYes.3970 ($25.14 in chips) 
+Seat 4: PokerShadow100 ($54.88 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+MaikonAll: posts small blind $0.50
+trueYes.3970: posts big blind $1
+PokerShadow100: posts big blind $1
+*** HOLE CARDS ***
+PokerShadow100: checks 
+coeeeelho: raises $3 to $4
+GuigaMan: raises $8 to $12
+MaikonAll: folds 
+trueYes.3970: folds 
+PokerShadow100: folds 
+coeeeelho: folds 
+Uncalled bet ($8) returned to GuigaMan
+GuigaMan collected $10.50 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.50 | Rake $0 
+Seat 6: Hoochi75
+Seat 1: GuigaMan (button) collected ($10.50)
+Seat 2: MaikonAll (small blind) folded before Flop
+Seat 3: trueYes.3970 (big blind) folded before Flop
+Seat 4: PokerShadow100 folded before Flop (didn't bet)
+Seat 5: coeeeelho folded before Flop
+
+
+
+PokerStars Hand #254266234475:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:42:53 WET [2025/01/08 14:42:53 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 6: Hoochi75 ($46.85 in chips) is sitting out
+Seat 1: GuigaMan ($127.18 in chips) 
+Seat 2: MaikonAll ($100.74 in chips) 
+Seat 3: trueYes.3970 ($24.14 in chips) 
+Seat 4: PokerShadow100 ($53.88 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+trueYes.3970: posts small blind $0.50
+PokerShadow100: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: raises $2 to $3
+PokerShadow100: calls $2
+*** FLOP *** [Qc 4d Kh]
+trueYes.3970: checks 
+PokerShadow100: checks 
+*** TURN *** [Qc 4d Kh] [Tc]
+trueYes.3970: bets $3.10
+PokerShadow100: raises $3.10 to $6.20
+trueYes.3970: folds 
+Uncalled bet ($3.10) returned to PokerShadow100
+PokerShadow100 collected $11.59 from pot
+*** SUMMARY ***
+Total pot $12.20 | Rake $0.61 
+Board [Qc 4d Kh Tc]
+Seat 6: Hoochi75
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll (button) folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (small blind) folded on the Turn
+Seat 4: PokerShadow100 (big blind) collected ($11.59)
+Seat 5: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266250266:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:43:44 WET [2025/01/08 14:43:44 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 6: Hoochi75 ($46.85 in chips) is sitting out
+Seat 1: GuigaMan ($127.18 in chips) 
+Seat 2: MaikonAll ($100.74 in chips) 
+Seat 3: trueYes.3970 ($18.04 in chips) 
+Seat 4: PokerShadow100 ($59.37 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+PokerShadow100: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: calls $1
+PokerShadow100: calls $0.50
+coeeeelho: raises $5 to $6
+trueYes.3970: folds 
+PokerShadow100: folds 
+Uncalled bet ($5) returned to coeeeelho
+coeeeelho collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 6: Hoochi75
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (button) folded before Flop
+Seat 4: PokerShadow100 (small blind) folded before Flop
+Seat 5: coeeeelho (big blind) collected ($3)
+
+
+
+PokerStars Hand #254266374112:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:50:28 WET [2025/01/08 14:50:28 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 3: trueYes.3970 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($117.38 in chips) 
+Seat 2: MaikonAll ($106.47 in chips) 
+Seat 4: PokerShadow100 ($57.51 in chips) 
+Seat 5: coeeeelho ($138.49 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+coeeeelho: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+MaikonAll: folds 
+PokerShadow100: calls $1
+coeeeelho: raises $3.20 to $4.20
+YeeesMan: folds 
+PokerShadow100: calls $3.20
+*** FLOP *** [Td 8c Qd]
+coeeeelho: bets $2.95
+PokerShadow100: folds 
+Uncalled bet ($2.95) returned to coeeeelho
+coeeeelho collected $8.93 from pot
+*** SUMMARY ***
+Total pot $9.40 | Rake $0.47 
+Board [Td 8c Qd]
+Seat 3: trueYes.3970
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 4: PokerShadow100 (button) folded on the Flop
+Seat 5: coeeeelho (small blind) collected ($8.93)
+Seat 6: YeeesMan (big blind) folded before Flop
+
+
+
+PokerStars Hand #254266386820:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:51:10 WET [2025/01/08 14:51:10 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 1: GuigaMan ($117.38 in chips) 
+Seat 2: MaikonAll ($106.47 in chips) 
+Seat 3: trueYes.3970 ($10 in chips) 
+Seat 4: PokerShadow100 ($53.31 in chips) 
+Seat 5: coeeeelho ($143.22 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+YeeesMan: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll: folds 
+trueYes.3970: folds 
+PokerShadow100: calls $1
+coeeeelho: raises $3.20 to $4.20
+YeeesMan: folds 
+GuigaMan: raises $10.80 to $15
+PokerShadow100: folds 
+coeeeelho: folds 
+Uncalled bet ($10.80) returned to GuigaMan
+GuigaMan collected $9.90 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.90 | Rake $0 
+Seat 1: GuigaMan (big blind) collected ($9.90)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: PokerShadow100 folded before Flop
+Seat 5: coeeeelho (button) folded before Flop
+Seat 6: YeeesMan (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266394414:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:51:34 WET [2025/01/08 14:51:34 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 1: GuigaMan ($123.08 in chips) 
+Seat 2: MaikonAll ($106.47 in chips) 
+Seat 3: trueYes.3970 ($10 in chips) 
+Seat 4: PokerShadow100 ($52.31 in chips) 
+Seat 5: coeeeelho ($139.02 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: raises $2.50 to $3.50
+PokerShadow100: folds 
+coeeeelho: folds 
+YeeesMan: folds 
+GuigaMan: folds 
+MaikonAll: calls $2.50
+*** FLOP *** [5c 4s 4c]
+MaikonAll: checks 
+trueYes.3970: checks 
+*** TURN *** [5c 4s 4c] [2s]
+MaikonAll: bets $1.78
+trueYes.3970: calls $1.78
+*** RIVER *** [5c 4s 4c 2s] [Qh]
+MaikonAll: checks 
+trueYes.3970: bets $4.72 and is all-in
+MaikonAll: calls $4.72
+*** SHOW DOWN ***
+trueYes.3970: shows [5s 5d] (a full house, Fives full of Fours)
+MaikonAll: shows [3d 3s] (two pair, Fours and Threes)
+trueYes.3970 collected $19.48 from pot
+*** SUMMARY ***
+Total pot $20.50 | Rake $1.02 
+Board [5c 4s 4c 2s Qh]
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: MaikonAll (big blind) showed [3d 3s] and lost with two pair, Fours and Threes
+Seat 3: trueYes.3970 showed [5s 5d] and won ($19.48) with a full house, Fives full of Fours
+Seat 4: PokerShadow100 folded before Flop (didn't bet)
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: YeeesMan (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266422280:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:53:05 WET [2025/01/08 14:53:05 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($122.58 in chips) 
+Seat 2: MaikonAll ($100 in chips) 
+Seat 3: trueYes.3970 ($19.48 in chips) 
+Seat 4: PokerShadow100 ($52.31 in chips) 
+Seat 5: coeeeelho ($139.02 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+MaikonAll: posts small blind $0.50
+trueYes.3970: posts big blind $1
+*** HOLE CARDS ***
+PokerShadow100: raises $1 to $2
+coeeeelho: folds 
+YeeesMan: folds 
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: calls $1
+*** FLOP *** [Ac 9s Ad]
+trueYes.3970: checks 
+PokerShadow100: checks 
+*** TURN *** [Ac 9s Ad] [Qs]
+trueYes.3970: checks 
+PokerShadow100: checks 
+*** RIVER *** [Ac 9s Ad Qs] [Js]
+trueYes.3970: bets $1
+PokerShadow100: calls $1
+*** SHOW DOWN ***
+trueYes.3970: shows [Ks Qc] (two pair, Aces and Queens)
+PokerShadow100: mucks hand 
+trueYes.3970 collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Ac 9s Ad Qs Js]
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: MaikonAll (small blind) folded before Flop
+Seat 3: trueYes.3970 (big blind) showed [Ks Qc] and won ($6.18) with two pair, Aces and Queens
+Seat 4: PokerShadow100 mucked
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266435901:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:53:49 WET [2025/01/08 14:53:49 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 1: GuigaMan ($122.58 in chips) 
+Seat 2: MaikonAll ($100 in chips) 
+Seat 3: trueYes.3970 ($22.66 in chips) 
+Seat 4: PokerShadow100 ($49.31 in chips) 
+Seat 5: coeeeelho ($139.02 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+trueYes.3970: posts small blind $0.50
+PokerShadow100: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+YeeesMan: folds 
+GuigaMan: raises $1.10 to $2.10
+MaikonAll: folds 
+trueYes.3970: calls $1.60
+PokerShadow100: calls $1.10
+*** FLOP *** [Js Ks Kh]
+trueYes.3970: checks 
+PokerShadow100: bets $2
+GuigaMan: folds 
+trueYes.3970: calls $2
+*** TURN *** [Js Ks Kh] [5h]
+trueYes.3970: checks 
+PokerShadow100: bets $5
+trueYes.3970: calls $5
+*** RIVER *** [Js Ks Kh 5h] [5c]
+trueYes.3970: checks 
+PokerShadow100: bets $40.21 and is all-in
+trueYes.3970: calls $13.56 and is all-in
+Uncalled bet ($26.65) returned to PokerShadow100
+*** SHOW DOWN ***
+PokerShadow100: shows [Qd Tc] (two pair, Kings and Fives)
+trueYes.3970: shows [Jh Kd] (a full house, Kings full of Jacks)
+trueYes.3970 collected $45.05 from pot
+*** SUMMARY ***
+Total pot $47.42 | Rake $2.37 
+Board [Js Ks Kh 5h 5c]
+Seat 1: GuigaMan folded on the Flop
+Seat 2: MaikonAll (button) folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (small blind) showed [Jh Kd] and won ($45.05) with a full house, Kings full of Jacks
+Seat 4: PokerShadow100 (big blind) showed [Qd Tc] and lost with two pair, Kings and Fives
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266464497:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:55:27 WET [2025/01/08 14:55:27 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 5: coeeeelho ($139.02 in chips) is sitting out
+Seat 1: GuigaMan ($120.48 in chips) 
+Seat 2: MaikonAll ($100 in chips) 
+Seat 3: trueYes.3970 ($45.05 in chips) 
+Seat 4: PokerShadow100 ($26.65 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+PokerShadow100: posts small blind $0.50
+coeeeelho: is sitting out 
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: raises $1.10 to $2.10
+MaikonAll: raises $4.90 to $7
+trueYes.3970: folds 
+coeeeelho leaves the table
+PokerShadow100: calls $6.50
+YeeesMan: folds 
+GuigaMan: folds 
+*** FLOP *** [8s 7d Kc]
+magzi777 joins the table at seat #5 
+PokerShadow100: checks 
+MaikonAll: bets $4.05
+PokerShadow100: folds 
+Uncalled bet ($4.05) returned to MaikonAll
+MaikonAll collected $16.24 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.10 | Rake $0.86 
+Board [8s 7d Kc]
+Seat 5: coeeeelho
+Seat 1: GuigaMan folded before Flop
+Seat 2: MaikonAll collected ($16.24)
+Seat 3: trueYes.3970 (button) folded before Flop (didn't bet)
+Seat 4: PokerShadow100 (small blind) folded on the Flop
+Seat 6: YeeesMan (big blind) folded before Flop
+
+
+
+PokerStars Hand #254266475857:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:56:19 WET [2025/01/08 14:56:19 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 5: magzi777 ($100 in chips) is sitting out
+Seat 1: GuigaMan ($118.38 in chips) 
+Seat 2: MaikonAll ($109.24 in chips) 
+Seat 3: trueYes.3970 ($45.05 in chips) 
+Seat 4: PokerShadow100 ($19.65 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+YeeesMan: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll: folds 
+trueYes.3970: folds 
+PokerShadow100: raises $1 to $2
+YeeesMan: folds 
+GuigaMan: folds 
+Uncalled bet ($1) returned to PokerShadow100
+PokerShadow100 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: magzi777
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: PokerShadow100 (button) collected ($2.50)
+Seat 6: YeeesMan (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266479792:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:56:36 WET [2025/01/08 14:56:36 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 5: magzi777 ($100 in chips) is sitting out
+Seat 1: GuigaMan ($117.38 in chips) 
+Seat 2: MaikonAll ($109.24 in chips) 
+Seat 3: trueYes.3970 ($45.05 in chips) 
+Seat 4: PokerShadow100 ($21.15 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: posts big blind $1
+magzi777: sits out 
+*** HOLE CARDS ***
+trueYes.3970: folds 
+PokerShadow100: folds 
+YeeesMan: folds 
+GuigaMan: folds 
+Uncalled bet ($0.50) returned to MaikonAll
+MaikonAll collected $1 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: magzi777
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: MaikonAll (big blind) collected ($1)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: PokerShadow100 folded before Flop (didn't bet)
+Seat 6: YeeesMan (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266482339:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:56:48 WET [2025/01/08 14:56:48 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 5: magzi777 ($100 in chips) is sitting out
+Seat 1: GuigaMan ($116.88 in chips) 
+Seat 2: MaikonAll ($109.74 in chips) 
+Seat 3: trueYes.3970 ($45.05 in chips) 
+Seat 4: PokerShadow100 ($21.15 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+MaikonAll: posts small blind $0.50
+trueYes.3970: posts big blind $1
+magzi777: sits out 
+*** HOLE CARDS ***
+PokerShadow100: calls $1
+YeeesMan: folds 
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: checks 
+*** FLOP *** [9c Ac 8c]
+trueYes.3970: checks 
+PokerShadow100: checks 
+*** TURN *** [9c Ac 8c] [3h]
+trueYes.3970: checks 
+PokerShadow100: checks 
+*** RIVER *** [9c Ac 8c 3h] [8d]
+trueYes.3970: bets $2.38
+PokerShadow100: raises $17.77 to $20.15 and is all-in
+trueYes.3970: folds 
+Uncalled bet ($17.77) returned to PokerShadow100
+PokerShadow100 collected $6.90 from pot
+*** SUMMARY ***
+Total pot $7.26 | Rake $0.36 
+Board [9c Ac 8c 3h 8d]
+Seat 5: magzi777
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: MaikonAll (small blind) folded before Flop
+Seat 3: trueYes.3970 (big blind) folded on the River
+Seat 4: PokerShadow100 collected ($6.90)
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266498210:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:58:00 WET [2025/01/08 14:58:00 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 5: magzi777 ($100 in chips) is sitting out
+Seat 1: GuigaMan ($116.88 in chips) 
+Seat 2: MaikonAll ($109.24 in chips) 
+Seat 3: trueYes.3970 ($41.67 in chips) 
+Seat 4: PokerShadow100 ($24.67 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+trueYes.3970: posts small blind $0.50
+PokerShadow100: posts big blind $1
+magzi777: sits out 
+*** HOLE CARDS ***
+YeeesMan: folds 
+GuigaMan: folds 
+MaikonAll: raises $1.50 to $2.50
+trueYes.3970: calls $2
+PokerShadow100: calls $1.50
+*** FLOP *** [6s 5h As]
+trueYes.3970: checks 
+PokerShadow100: checks 
+MaikonAll: bets $1.78
+trueYes.3970: raises $4.37 to $6.15
+PokerShadow100: calls $6.15
+MaikonAll: raises $51.14 to $57.29
+trueYes.3970: folds 
+PokerShadow100: calls $16.02 and is all-in
+Uncalled bet ($35.12) returned to MaikonAll
+*** TURN *** [6s 5h As] [4h]
+*** RIVER *** [6s 5h As 4h] [Jc]
+*** SHOW DOWN ***
+PokerShadow100: shows [4s 7s] (a pair of Fours)
+MaikonAll: shows [Ks Ad] (a pair of Aces)
+MaikonAll collected $55.49 from pot
+PokerShadow100 cashed out the hand for $28.02 | Cash Out Fee $0.57
+*** SUMMARY ***
+Total pot $57.99 | Rake $2.50 
+Board [6s 5h As 4h Jc]
+Seat 5: magzi777
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll (button) showed [Ks Ad] and won ($55.49) with a pair of Aces
+Seat 3: trueYes.3970 (small blind) folded on the Flop
+Seat 4: PokerShadow100 (big blind) showed [4s 7s] and lost with a pair of Fours (cashed out).
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266524339:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 19:59:54 WET [2025/01/08 14:59:54 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($116.88 in chips) 
+Seat 2: MaikonAll ($140.06 in chips) 
+Seat 3: trueYes.3970 ($33.02 in chips) 
+Seat 4: PokerShadow100 ($28.02 in chips) 
+Seat 5: magzi777 ($100 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+PokerShadow100: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: folds 
+PokerShadow100: calls $0.50
+magzi777: checks 
+*** FLOP *** [5h 3s 7d]
+PokerShadow100: bets $1
+magzi777: folds 
+Uncalled bet ($1) returned to PokerShadow100
+PokerShadow100 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [5h 3s 7d]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (button) folded before Flop (didn't bet)
+Seat 4: PokerShadow100 (small blind) collected ($1.90)
+Seat 5: magzi777 (big blind) folded on the Flop
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266530314:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:00:20 WET [2025/01/08 15:00:20 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 1: GuigaMan ($116.88 in chips) 
+Seat 2: MaikonAll ($140.06 in chips) 
+Seat 3: trueYes.3970 ($33.02 in chips) 
+Seat 4: PokerShadow100 ($28.92 in chips) 
+Seat 5: magzi777 ($100 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+magzi777: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: folds 
+PokerShadow100: folds 
+magzi777: raises $2 to $3
+YeeesMan: calls $2
+*** FLOP *** [Ts Kh 4h]
+magzi777: checks 
+YeeesMan: checks 
+*** TURN *** [Ts Kh 4h] [8s]
+magzi777: checks 
+YeeesMan: checks 
+*** RIVER *** [Ts Kh 4h 8s] [Th]
+magzi777: bets $5.70
+YeeesMan: raises $11.40 to $17.10
+magzi777: folds 
+Uncalled bet ($11.40) returned to YeeesMan
+YeeesMan collected $16.53 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.40 | Rake $0.87 
+Board [Ts Kh 4h 8s Th]
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: PokerShadow100 (button) folded before Flop (didn't bet)
+Seat 5: magzi777 (small blind) folded on the River
+Seat 6: YeeesMan (big blind) collected ($16.53)
+
+
+
+PokerStars Hand #254266556501:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:01:57 WET [2025/01/08 15:01:57 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 1: GuigaMan ($116.88 in chips) 
+Seat 2: MaikonAll ($140.06 in chips) 
+Seat 3: trueYes.3970 ($33.02 in chips) 
+Seat 4: PokerShadow100 ($28.92 in chips) 
+Seat 5: magzi777 ($100 in chips) 
+Seat 6: YeeesMan ($107.83 in chips) 
+YeeesMan: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll: folds 
+trueYes.3970: folds 
+PokerShadow100: calls $1
+magzi777: folds 
+YeeesMan: raises $4 to $5
+GuigaMan: folds 
+PokerShadow100: raises $4 to $9
+YeeesMan: raises $19 to $28
+PokerShadow100: raises $0.92 to $28.92 and is all-in
+YeeesMan: calls $0.92
+*** FLOP *** [7d 7c 6d]
+*** TURN *** [7d 7c 6d] [9h]
+*** RIVER *** [7d 7c 6d 9h] [5h]
+*** SHOW DOWN ***
+YeeesMan: shows [Qs As] (a pair of Sevens)
+PokerShadow100: shows [Th Ad] (a pair of Sevens - lower kicker)
+YeeesMan collected $56.34 from pot
+*** SUMMARY ***
+Total pot $58.84 | Rake $2.50 
+Board [7d 7c 6d 9h 5h]
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 4: PokerShadow100 showed [Th Ad] and lost with a pair of Sevens
+Seat 5: magzi777 (button) folded before Flop (didn't bet)
+Seat 6: YeeesMan (small blind) showed [Qs As] and won ($56.34) with a pair of Sevens
+
+
+
+PokerStars Hand #254266575545:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:02:57 WET [2025/01/08 15:02:57 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($115.88 in chips) 
+Seat 2: MaikonAll ($140.06 in chips) 
+Seat 3: trueYes.3970 ($33.02 in chips) 
+Seat 5: magzi777 ($100 in chips) 
+Seat 6: YeeesMan ($135.25 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: folds 
+magzi777: raises $1.50 to $2.50
+YeeesMan: raises $5.50 to $8
+GuigaMan: folds 
+MaikonAll: folds 
+magzi777: folds 
+Uncalled bet ($5.50) returned to YeeesMan
+YeeesMan collected $6.50 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 4: PokerShadow100
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: MaikonAll (big blind) folded before Flop
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 5: magzi777 folded before Flop
+Seat 6: YeeesMan (button) collected ($6.50)
+
+
+
+PokerStars Hand #254266588347:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:03:38 WET [2025/01/08 15:03:38 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($115.38 in chips) 
+Seat 2: MaikonAll ($139.06 in chips) 
+Seat 3: trueYes.3970 ($33.02 in chips) 
+Seat 5: magzi777 ($100 in chips) 
+Seat 6: YeeesMan ($139.25 in chips) 
+MaikonAll: posts small blind $0.50
+trueYes.3970: posts big blind $1
+*** HOLE CARDS ***
+magzi777: folds 
+YeeesMan: folds 
+GuigaMan: folds 
+MaikonAll: raises $2 to $3
+trueYes.3970: raises $8 to $11
+MaikonAll: folds 
+Uncalled bet ($8) returned to trueYes.3970
+trueYes.3970 collected $6 from pot
+PokerShadow100 is disconnected 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: PokerShadow100
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: MaikonAll (small blind) folded before Flop
+Seat 3: trueYes.3970 (big blind) collected ($6)
+Seat 5: magzi777 folded before Flop (didn't bet)
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266597728:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:04:08 WET [2025/01/08 15:04:08 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($115.38 in chips) 
+Seat 2: MaikonAll ($136.06 in chips) 
+Seat 3: trueYes.3970 ($36.02 in chips) 
+Seat 5: magzi777 ($100 in chips) 
+Seat 6: YeeesMan ($139.25 in chips) 
+trueYes.3970: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+GuigaMan: folds 
+MaikonAll: raises $1.50 to $2.50
+trueYes.3970: folds 
+magzi777: folds 
+Uncalled bet ($1.50) returned to MaikonAll
+MaikonAll collected $2.50 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: PokerShadow100
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll (button) collected ($2.50)
+Seat 3: trueYes.3970 (small blind) folded before Flop
+Seat 5: magzi777 (big blind) folded before Flop
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266604190:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:04:27 WET [2025/01/08 15:04:27 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 6: YeeesMan ($139.25 in chips) is sitting out
+Seat 1: GuigaMan ($115.38 in chips) 
+Seat 2: MaikonAll ($137.56 in chips) 
+Seat 3: trueYes.3970 ($35.52 in chips) 
+Seat 5: magzi777 ($100 in chips) 
+magzi777: posts small blind $0.50
+YeeesMan: is sitting out 
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll: folds 
+trueYes.3970: raises $1.22 to $2.22
+magzi777: folds 
+YeeesMan leaves the table
+GuigaMan: folds 
+Uncalled bet ($1.22) returned to trueYes.3970
+trueYes.3970 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: PokerShadow100
+Seat 6: YeeesMan
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: trueYes.3970 (button) collected ($2.50)
+Seat 5: magzi777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266608987:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:04:42 WET [2025/01/08 15:04:42 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($114.38 in chips) 
+Seat 2: MaikonAll ($137.56 in chips) 
+Seat 3: trueYes.3970 ($37.02 in chips) 
+Seat 5: magzi777 ($100 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970: folds 
+magzi777: folds 
+kars0n joins the table at seat #6 
+GuigaMan: folds 
+Uncalled bet ($0.50) returned to MaikonAll
+MaikonAll collected $1 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: PokerShadow100
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: MaikonAll (big blind) collected ($1)
+Seat 3: trueYes.3970 folded before Flop (didn't bet)
+Seat 5: magzi777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266615493:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:05:01 WET [2025/01/08 15:05:01 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 6: kars0n ($100 in chips) is sitting out
+Seat 1: GuigaMan ($113.88 in chips) 
+Seat 2: MaikonAll ($138.06 in chips) 
+Seat 3: trueYes.3970 ($37.02 in chips) 
+Seat 5: magzi777 ($100 in chips) 
+MaikonAll: posts small blind $0.50
+trueYes.3970: posts big blind $1
+kars0n: sits out 
+*** HOLE CARDS ***
+magzi777: raises $1.50 to $2.50
+GuigaMan: folds 
+MaikonAll: folds 
+trueYes.3970: calls $1.50
+*** FLOP *** [4c Ks 3s]
+trueYes.3970: checks 
+magzi777: bets $3.45
+trueYes.3970: calls $3.45
+*** TURN *** [4c Ks 3s] [8s]
+trueYes.3970: checks 
+magzi777: bets $7.77
+trueYes.3970: calls $7.77
+*** RIVER *** [4c Ks 3s 8s] [Jh]
+trueYes.3970: checks 
+magzi777: bets $26.94
+trueYes.3970: calls $23.30 and is all-in
+Uncalled bet ($3.64) returned to magzi777
+*** SHOW DOWN ***
+magzi777: shows [Ah Ac] (a pair of Aces)
+trueYes.3970: shows [Kc 6s] (a pair of Kings)
+magzi777 collected $73.54 from pot
+*** SUMMARY ***
+Total pot $74.54 | Rake $1 
+Board [4c Ks 3s 8s Jh]
+Seat 4: PokerShadow100
+Seat 6: kars0n
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 2: MaikonAll (small blind) folded before Flop
+Seat 3: trueYes.3970 (big blind) showed [Kc 6s] and lost with a pair of Kings
+Seat 5: magzi777 showed [Ah Ac] and won ($73.54) with a pair of Aces
+
+
+
+PokerStars Hand #254266637902:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:06:08 WET [2025/01/08 15:06:08 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 3: trueYes.3970 ($0 in chips) is sitting out
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($113.88 in chips) 
+Seat 2: MaikonAll ($137.56 in chips) 
+Seat 5: magzi777 ($136.52 in chips) 
+Seat 6: kars0n ($100 in chips) 
+magzi777: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970 leaves the table
+GuigaMan: folds 
+MaikonAll: folds 
+magzi777: raises $2 to $3
+kars0n: calls $2
+*** FLOP *** [Th Qd 9c]
+magzi777: bets $3.76
+kars0n: folds 
+Uncalled bet ($3.76) returned to magzi777
+magzi777 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Th Qd 9c]
+Seat 3: trueYes.3970
+Seat 4: PokerShadow100
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll (button) folded before Flop (didn't bet)
+Seat 5: magzi777 (small blind) collected ($5.70)
+Seat 6: kars0n (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254266648566:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:06:40 WET [2025/01/08 15:06:40 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($113.88 in chips) 
+Seat 2: MaikonAll ($137.56 in chips) 
+Seat 5: magzi777 ($139.22 in chips) 
+Seat 6: kars0n ($100 in chips) 
+kars0n: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll: raises $1.30 to $2.30
+magzi777: folds 
+kars0n: folds 
+GuigaMan: folds 
+Uncalled bet ($1.30) returned to MaikonAll
+illarins joins the table at seat #3 
+MaikonAll collected $2.50 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: PokerShadow100
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 2: MaikonAll collected ($2.50)
+Seat 5: magzi777 (button) folded before Flop (didn't bet)
+Seat 6: kars0n (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266655636:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:07:00 WET [2025/01/08 15:07:00 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 3: illarins ($100 in chips) is sitting out
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($112.88 in chips) 
+Seat 2: MaikonAll ($139.06 in chips) 
+Seat 5: magzi777 ($139.22 in chips) 
+Seat 6: kars0n ($100 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: posts big blind $1
+illarins: sits out 
+*** HOLE CARDS ***
+magzi777: raises $1.50 to $2.50
+kars0n: folds 
+GuigaMan: folds 
+MaikonAll: folds 
+Uncalled bet ($1.50) returned to magzi777
+magzi777 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: illarins
+Seat 4: PokerShadow100
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 2: MaikonAll (big blind) folded before Flop
+Seat 5: magzi777 collected ($2.50)
+Seat 6: kars0n (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266659941:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:07:13 WET [2025/01/08 15:07:13 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($112.38 in chips) 
+Seat 2: MaikonAll ($138.06 in chips) 
+Seat 3: illarins ($100 in chips) 
+Seat 5: magzi777 ($140.72 in chips) 
+Seat 6: kars0n ($100 in chips) 
+MaikonAll: posts small blind $0.50
+illarins: posts big blind $1
+*** HOLE CARDS ***
+magzi777: folds 
+kars0n: folds 
+GuigaMan: raises $1.10 to $2.10
+MaikonAll: folds 
+illarins: folds 
+Uncalled bet ($1.10) returned to GuigaMan
+GuigaMan collected $2.50 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: PokerShadow100
+Seat 1: GuigaMan (button) collected ($2.50)
+Seat 2: MaikonAll (small blind) folded before Flop
+Seat 3: illarins (big blind) folded before Flop
+Seat 5: magzi777 folded before Flop (didn't bet)
+Seat 6: kars0n folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266666577:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:07:32 WET [2025/01/08 15:07:32 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 5: magzi777 ($140.72 in chips) is sitting out
+Seat 1: GuigaMan ($113.88 in chips) 
+Seat 2: MaikonAll ($137.56 in chips) 
+Seat 3: illarins ($100 in chips) 
+Seat 6: kars0n ($100 in chips) 
+illarins: posts small blind $0.50
+magzi777: is sitting out 
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+magzi777 leaves the table
+MaikonAll: folds 
+illarins: raises $2 to $3
+kars0n: calls $2
+*** FLOP *** [Td 9h 7h]
+illarins: checks 
+kars0n: checks 
+*** TURN *** [Td 9h 7h] [Jh]
+illarins: checks 
+kars0n: bets $4.28
+illarins: folds 
+Uncalled bet ($4.28) returned to kars0n
+kars0n collected $5.70 from pot
+kars0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Td 9h 7h Jh]
+Seat 4: PokerShadow100
+Seat 5: magzi777
+Seat 1: GuigaMan folded before Flop (didn't bet)
+Seat 2: MaikonAll (button) folded before Flop (didn't bet)
+Seat 3: illarins (small blind) folded on the Turn
+Seat 6: kars0n (big blind) collected ($5.70)
+
+
+
+PokerStars Hand #254266679737:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:08:12 WET [2025/01/08 15:08:12 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($113.88 in chips) 
+Seat 2: MaikonAll ($137.56 in chips) 
+Seat 3: illarins ($100 in chips) 
+Seat 6: kars0n ($102.70 in chips) 
+kars0n: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll: folds 
+illarins: folds 
+kars0n: folds 
+Uncalled bet ($0.50) returned to GuigaMan
+GuigaMan collected $1 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: PokerShadow100
+Seat 1: GuigaMan (big blind) collected ($1)
+Seat 2: MaikonAll folded before Flop (didn't bet)
+Seat 3: illarins (button) folded before Flop (didn't bet)
+Seat 6: kars0n (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266685515:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:08:29 WET [2025/01/08 15:08:29 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 2: MaikonAll ($137.56 in chips) is sitting out
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($114.38 in chips) 
+Seat 3: illarins ($100 in chips) 
+Seat 6: kars0n ($102.20 in chips) 
+GuigaMan: posts small blind $0.50
+MaikonAll: is sitting out 
+illarins: posts big blind $1
+*** HOLE CARDS ***
+kars0n: raises $1.50 to $2.50
+MaikonAll leaves the table
+GuigaMan: folds 
+illarins: folds 
+Uncalled bet ($1.50) returned to kars0n
+kars0n collected $2.50 from pot
+kars0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: MaikonAll
+Seat 4: PokerShadow100
+Seat 1: GuigaMan (small blind) folded before Flop
+Seat 3: illarins (big blind) folded before Flop
+Seat 6: kars0n (button) collected ($2.50)
+
+
+
+PokerStars Hand #254266690480:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:08:44 WET [2025/01/08 15:08:44 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 4: PokerShadow100 ($0 in chips) is sitting out
+Seat 1: GuigaMan ($113.88 in chips) 
+Seat 3: illarins ($100 in chips) 
+Seat 6: kars0n ($103.70 in chips) 
+illarins: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+illarins: folds 
+Uncalled bet ($0.50) returned to kars0n
+kars0n collected $1 from pot
+PokerShadow100 leaves the table
+kars0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: PokerShadow100
+Seat 1: GuigaMan (button) folded before Flop (didn't bet)
+Seat 3: illarins (small blind) folded before Flop
+Seat 6: kars0n (big blind) collected ($1)
+
+
+
+PokerStars Hand #254266695041:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:08:57 WET [2025/01/08 15:08:57 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 1: GuigaMan ($113.88 in chips) 
+Seat 3: illarins ($100 in chips) 
+Seat 6: kars0n ($104.20 in chips) 
+kars0n: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+illarins: raises $1.50 to $2.50
+kars0n: folds 
+GuigaMan: folds 
+Uncalled bet ($1.50) returned to illarins
+illarins collected $2.50 from pot
+illarins: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: GuigaMan (big blind) folded before Flop
+Seat 3: illarins (button) collected ($2.50)
+Seat 6: kars0n (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266700638:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:09:14 WET [2025/01/08 15:09:14 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 3: illarins ($101.50 in chips) is sitting out
+Seat 1: GuigaMan ($112.88 in chips) 
+Seat 6: kars0n ($103.70 in chips) 
+GuigaMan: posts small blind $0.50
+illarins: is sitting out 
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+illarins leaves the table
+GuigaMan: folds 
+Uncalled bet ($0.50) returned to kars0n
+kars0n collected $1 from pot
+kars0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: illarins
+Seat 1: GuigaMan (button) (small blind) folded before Flop
+Seat 6: kars0n (big blind) collected ($1)
+
+
+
+PokerStars Hand #254266707122:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:09:33 WET [2025/01/08 15:09:33 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 1: GuigaMan ($112.38 in chips) 
+Seat 6: kars0n ($104.20 in chips) 
+kars0n: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+kars0n: folds 
+Uncalled bet ($0.50) returned to GuigaMan
+GuigaMan collected $1 from pot
+GuigaMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: GuigaMan (big blind) collected ($1)
+Seat 6: kars0n (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266709322:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:09:39 WET [2025/01/08 15:09:39 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 1: GuigaMan ($112.88 in chips) 
+Seat 6: kars0n ($103.70 in chips) 
+GuigaMan: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+GuigaMan: folds 
+Uncalled bet ($0.50) returned to kars0n
+kars0n collected $1 from pot
+kars0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: GuigaMan (button) (small blind) folded before Flop
+Seat 6: kars0n (big blind) collected ($1)
+
+
+
+PokerStars Hand #254266727109:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:10:32 WET [2025/01/08 15:10:32 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 1: Critchees1983 ($100 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($104.20 in chips) 
+steepfell: posts small blind $0.50
+Twistenko: posts big blind $1
+*** HOLE CARDS ***
+kars0n: raises $1 to $2
+Critchees1983: folds 
+nastja336: folds 
+steepfell: folds 
+Twistenko: calls $1
+*** FLOP *** [8s 7c Qc]
+app1e_j@ck joins the table at seat #3 
+Twistenko: checks 
+kars0n: checks 
+*** TURN *** [8s 7c Qc] [6d]
+Twistenko: checks 
+kars0n: checks 
+*** RIVER *** [8s 7c Qc 6d] [9c]
+Twistenko: bets $3.21
+kars0n: folds 
+Uncalled bet ($3.21) returned to Twistenko
+Twistenko collected $4.28 from pot
+Twistenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [8s 7c Qc 6d 9c]
+Seat 1: Critchees1983 folded before Flop (didn't bet)
+Seat 2: nastja336 (button) folded before Flop (didn't bet)
+Seat 4: steepfell (small blind) folded before Flop
+Seat 5: Twistenko (big blind) collected ($4.28)
+Seat 6: kars0n folded on the River
+
+
+
+PokerStars Hand #254266747223:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:11:31 WET [2025/01/08 15:11:31 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 3: app1e_j@ck ($10 in chips) is sitting out
+Seat 1: Critchees1983 ($100 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($102.28 in chips) 
+Seat 6: kars0n ($102.20 in chips) 
+Twistenko: posts small blind $0.50
+kars0n: posts big blind $1
+app1e_j@ck: sits out 
+*** HOLE CARDS ***
+Critchees1983: folds 
+nastja336: folds 
+steepfell: raises $1.50 to $2.50
+Twistenko: folds 
+kars0n: folds 
+Uncalled bet ($1.50) returned to steepfell
+steepfell collected $2.50 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: app1e_j@ck
+Seat 1: Critchees1983 folded before Flop (didn't bet)
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 4: steepfell (button) collected ($2.50)
+Seat 5: Twistenko (small blind) folded before Flop
+Seat 6: kars0n (big blind) folded before Flop
+
+
+
+PokerStars Hand #254266753037:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:11:49 WET [2025/01/08 15:11:49 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 3: app1e_j@ck ($10 in chips) is sitting out
+Seat 1: Critchees1983 ($100 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 4: steepfell ($101.50 in chips) 
+Seat 5: Twistenko ($101.78 in chips) 
+Seat 6: kars0n ($101.20 in chips) 
+kars0n: posts small blind $0.50
+Critchees1983: posts big blind $1
+app1e_j@ck: sits out 
+*** HOLE CARDS ***
+nastja336: folds 
+steepfell: folds 
+Twistenko: raises $2 to $3
+kars0n: folds 
+Critchees1983: raises $6.50 to $9.50
+Twistenko: calls $6.50
+*** FLOP *** [Qd 9c 4d]
+Critchees1983: checks 
+Twistenko: checks 
+*** TURN *** [Qd 9c 4d] [5d]
+Critchees1983: bets $11
+Twistenko: folds 
+Uncalled bet ($11) returned to Critchees1983
+Critchees1983 collected $18.52 from pot
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [Qd 9c 4d 5d]
+Seat 3: app1e_j@ck
+Seat 1: Critchees1983 (big blind) collected ($18.52)
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 4: steepfell folded before Flop (didn't bet)
+Seat 5: Twistenko (button) folded on the Turn
+Seat 6: kars0n (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266765529:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:12:26 WET [2025/01/08 15:12:26 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 3: app1e_j@ck ($100 in chips) is sitting out
+Seat 1: Critchees1983 ($109.02 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 4: steepfell ($101.50 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($100.70 in chips) 
+Critchees1983: posts small blind $0.50
+nastja336: posts big blind $1
+app1e_j@ck: sits out 
+*** HOLE CARDS ***
+steepfell: folds 
+Twistenko: folds 
+kars0n: folds 
+Critchees1983: calls $0.50
+nastja336: checks 
+*** FLOP *** [Ts Jh 9d]
+Critchees1983: checks 
+nastja336: checks 
+*** TURN *** [Ts Jh 9d] [Qs]
+Critchees1983: checks 
+nastja336: checks 
+*** RIVER *** [Ts Jh 9d Qs] [7d]
+Critchees1983: checks 
+nastja336: checks 
+*** SHOW DOWN ***
+Critchees1983: shows [4h 6c] (high card Queen)
+nastja336: shows [Jc 5c] (a pair of Jacks)
+nastja336 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Ts Jh 9d Qs 7d]
+Seat 3: app1e_j@ck
+Seat 1: Critchees1983 (small blind) showed [4h 6c] and lost with high card Queen
+Seat 2: nastja336 (big blind) showed [Jc 5c] and won ($1.90) with a pair of Jacks
+Seat 4: steepfell folded before Flop (didn't bet)
+Seat 5: Twistenko folded before Flop (didn't bet)
+Seat 6: kars0n (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266779515:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:13:07 WET [2025/01/08 15:13:07 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 1: Critchees1983 ($108.02 in chips) 
+Seat 2: nastja336 ($100.90 in chips) 
+Seat 3: app1e_j@ck ($100 in chips) 
+Seat 4: steepfell ($101.50 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($100.70 in chips) 
+nastja336: posts small blind $0.50
+app1e_j@ck: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+Twistenko: folds 
+kars0n: raises $1.50 to $2.50
+Critchees1983: folds 
+nastja336: raises $9.50 to $12
+app1e_j@ck: folds 
+kars0n: raises $14 to $26
+nastja336: folds 
+Uncalled bet ($14) returned to kars0n
+kars0n collected $25 from pot
+kars0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $0 
+Seat 1: Critchees1983 (button) folded before Flop (didn't bet)
+Seat 2: nastja336 (small blind) folded before Flop
+Seat 3: app1e_j@ck (big blind) folded before Flop
+Seat 4: steepfell folded before Flop (didn't bet)
+Seat 5: Twistenko folded before Flop (didn't bet)
+Seat 6: kars0n collected ($25)
+
+
+
+PokerStars Hand #254266793726:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:13:49 WET [2025/01/08 15:13:49 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 1: Critchees1983 ($108.02 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: app1e_j@ck ($99 in chips) 
+Seat 4: steepfell ($101.50 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($113.70 in chips) 
+app1e_j@ck: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+Twistenko: folds 
+kars0n: folds 
+Critchees1983: folds 
+nastja336: raises $1.50 to $2.50
+app1e_j@ck: folds 
+steepfell: folds 
+Uncalled bet ($1.50) returned to nastja336
+nastja336 collected $2.50 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Critchees1983 folded before Flop (didn't bet)
+Seat 2: nastja336 (button) collected ($2.50)
+Seat 3: app1e_j@ck (small blind) folded before Flop
+Seat 4: steepfell (big blind) folded before Flop
+Seat 5: Twistenko folded before Flop (didn't bet)
+Seat 6: kars0n folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266798528:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:14:03 WET [2025/01/08 15:14:03 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 1: Critchees1983 ($108.02 in chips) 
+Seat 2: nastja336 ($101.50 in chips) 
+Seat 3: app1e_j@ck ($98.50 in chips) 
+Seat 4: steepfell ($100.50 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($113.70 in chips) 
+steepfell: posts small blind $0.50
+Twistenko: posts big blind $1
+*** HOLE CARDS ***
+kars0n: folds 
+Critchees1983: folds 
+nastja336: folds 
+app1e_j@ck: raises $1.50 to $2.50
+steepfell: folds 
+Twistenko: folds 
+Uncalled bet ($1.50) returned to app1e_j@ck
+app1e_j@ck collected $2.50 from pot
+app1e_j@ck: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Critchees1983 folded before Flop (didn't bet)
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 3: app1e_j@ck (button) collected ($2.50)
+Seat 4: steepfell (small blind) folded before Flop
+Seat 5: Twistenko (big blind) folded before Flop
+Seat 6: kars0n folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266803317:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:14:17 WET [2025/01/08 15:14:17 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 1: Critchees1983 ($108.02 in chips) 
+Seat 2: nastja336 ($101.50 in chips) 
+Seat 3: app1e_j@ck ($100 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($113.70 in chips) 
+Twistenko: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+Critchees1983: raises $2 to $3
+nastja336: folds 
+app1e_j@ck: folds 
+steepfell: folds 
+Twistenko: folds 
+kars0n: folds 
+Uncalled bet ($2) returned to Critchees1983
+Critchees1983 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Critchees1983 collected ($2.50)
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 3: app1e_j@ck folded before Flop (didn't bet)
+Seat 4: steepfell (button) folded before Flop (didn't bet)
+Seat 5: Twistenko (small blind) folded before Flop
+Seat 6: kars0n (big blind) folded before Flop
+
+
+
+PokerStars Hand #254266807242:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:14:29 WET [2025/01/08 15:14:29 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 1: Critchees1983 ($109.52 in chips) 
+Seat 2: nastja336 ($101.50 in chips) 
+Seat 3: app1e_j@ck ($100 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($112.70 in chips) 
+kars0n: posts small blind $0.50
+Critchees1983: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+app1e_j@ck: folds 
+steepfell: folds 
+Twistenko: raises $2 to $3
+kars0n: folds 
+Critchees1983: calls $2
+*** FLOP *** [8h 9h 8s]
+Critchees1983: checks 
+Twistenko: checks 
+*** TURN *** [8h 9h 8s] [Kc]
+Critchees1983: checks 
+Twistenko: checks 
+*** RIVER *** [8h 9h 8s Kc] [3c]
+Critchees1983: checks 
+Twistenko: bets $3.50
+Critchees1983: raises $8.50 to $12
+Twistenko: folds 
+Uncalled bet ($8.50) returned to Critchees1983
+Critchees1983 collected $12.82 from pot
+Critchees1983: shows [8c]
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.68 
+Board [8h 9h 8s Kc 3c]
+Seat 1: Critchees1983 (big blind) collected ($12.82)
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 3: app1e_j@ck folded before Flop (didn't bet)
+Seat 4: steepfell folded before Flop (didn't bet)
+Seat 5: Twistenko (button) folded on the River
+Seat 6: kars0n (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266823641:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:15:17 WET [2025/01/08 15:15:17 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 1: Critchees1983 ($115.84 in chips) 
+Seat 2: nastja336 ($101.50 in chips) 
+Seat 3: app1e_j@ck ($100 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($112.20 in chips) 
+Critchees1983: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+app1e_j@ck: folds 
+steepfell: folds 
+Twistenko: folds 
+kars0n: folds 
+Critchees1983: calls $0.50
+nastja336: raises $3 to $4
+Critchees1983: calls $3
+*** FLOP *** [2s Ad Qd]
+Critchees1983: checks 
+nastja336: checks 
+*** TURN *** [2s Ad Qd] [8d]
+Critchees1983: checks 
+nastja336: checks 
+*** RIVER *** [2s Ad Qd 8d] [6s]
+Critchees1983: bets $5
+nastja336: folds 
+Uncalled bet ($5) returned to Critchees1983
+Critchees1983 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [2s Ad Qd 8d 6s]
+Seat 1: Critchees1983 (small blind) collected ($7.60)
+Seat 2: nastja336 (big blind) folded on the River
+Seat 3: app1e_j@ck folded before Flop (didn't bet)
+Seat 4: steepfell folded before Flop (didn't bet)
+Seat 5: Twistenko folded before Flop (didn't bet)
+Seat 6: kars0n (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266841044:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:16:08 WET [2025/01/08 15:16:08 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 1: Critchees1983 ($119.44 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: app1e_j@ck ($100 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($112.20 in chips) 
+nastja336: posts small blind $0.50
+app1e_j@ck: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+Twistenko: folds 
+kars0n: raises $1.50 to $2.50
+Critchees1983: folds 
+nastja336: folds 
+app1e_j@ck: folds 
+Uncalled bet ($1.50) returned to kars0n
+kars0n collected $2.50 from pot
+kars0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Critchees1983 (button) folded before Flop (didn't bet)
+Seat 2: nastja336 (small blind) folded before Flop
+Seat 3: app1e_j@ck (big blind) folded before Flop
+Seat 4: steepfell folded before Flop (didn't bet)
+Seat 5: Twistenko folded before Flop (didn't bet)
+Seat 6: kars0n collected ($2.50)
+
+
+
+PokerStars Hand #254266845464:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:16:21 WET [2025/01/08 15:16:21 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 1: Critchees1983 ($119.44 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: app1e_j@ck ($99 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($113.70 in chips) 
+app1e_j@ck: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+Twistenko: raises $1.50 to $2.50
+kars0n: folds 
+Critchees1983: folds 
+nastja336: folds 
+app1e_j@ck: folds 
+steepfell: folds 
+Uncalled bet ($1.50) returned to Twistenko
+Twistenko collected $2.50 from pot
+Twistenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Critchees1983 folded before Flop (didn't bet)
+Seat 2: nastja336 (button) folded before Flop (didn't bet)
+Seat 3: app1e_j@ck (small blind) folded before Flop
+Seat 4: steepfell (big blind) folded before Flop
+Seat 5: Twistenko collected ($2.50)
+Seat 6: kars0n folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266850606:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:16:36 WET [2025/01/08 15:16:36 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 1: Critchees1983 ($119.44 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: app1e_j@ck ($98.50 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($101.50 in chips) 
+Seat 6: kars0n ($113.70 in chips) 
+steepfell: posts small blind $0.50
+Twistenko: posts big blind $1
+*** HOLE CARDS ***
+kars0n: folds 
+Critchees1983: calls $1
+nastja336: folds 
+app1e_j@ck: folds 
+steepfell: folds 
+Twistenko: checks 
+*** FLOP *** [9d Jd 5d]
+Twistenko: checks 
+Critchees1983: checks 
+*** TURN *** [9d Jd 5d] [Ks]
+Twistenko: checks 
+Critchees1983: checks 
+*** RIVER *** [9d Jd 5d Ks] [8d]
+Twistenko: checks 
+Critchees1983: checks 
+*** SHOW DOWN ***
+Twistenko: shows [3s 2h] (high card King)
+Critchees1983: shows [9c Tc] (a pair of Nines)
+Critchees1983 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [9d Jd 5d Ks 8d]
+Seat 1: Critchees1983 showed [9c Tc] and won ($2.38) with a pair of Nines
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 3: app1e_j@ck (button) folded before Flop (didn't bet)
+Seat 4: steepfell (small blind) folded before Flop
+Seat 5: Twistenko (big blind) showed [3s 2h] and lost with high card King
+Seat 6: kars0n folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266859712:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:17:03 WET [2025/01/08 15:17:03 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 1: Critchees1983 ($120.82 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: app1e_j@ck ($98.50 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($100.50 in chips) 
+Seat 6: kars0n ($113.70 in chips) 
+Twistenko: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+Critchees1983: raises $2 to $3
+nastja336: folds 
+app1e_j@ck: raises $6.50 to $9.50
+steepfell: folds 
+Twistenko: folds 
+kars0n: folds 
+Critchees1983: calls $6.50
+*** FLOP *** [3d Ts Qh]
+Critchees1983: checks 
+app1e_j@ck: bets $6.43
+Critchees1983: calls $6.43
+*** TURN *** [3d Ts Qh] [3h]
+Critchees1983: checks 
+app1e_j@ck: bets $19.63
+Critchees1983: folds 
+Uncalled bet ($19.63) returned to app1e_j@ck
+app1e_j@ck collected $31.69 from pot
+app1e_j@ck: doesn't show hand 
+*** SUMMARY ***
+Total pot $33.36 | Rake $1.67 
+Board [3d Ts Qh 3h]
+Seat 1: Critchees1983 folded on the Turn
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 3: app1e_j@ck collected ($31.69)
+Seat 4: steepfell (button) folded before Flop (didn't bet)
+Seat 5: Twistenko (small blind) folded before Flop
+Seat 6: kars0n (big blind) folded before Flop
+
+
+
+PokerStars Hand #254266876771:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:17:53 WET [2025/01/08 15:17:53 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 1: Critchees1983 ($104.89 in chips) 
+Seat 2: nastja336 ($100 in chips) 
+Seat 3: app1e_j@ck ($114.26 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($112.70 in chips) 
+kars0n: posts small blind $0.50
+Critchees1983: posts big blind $1
+*** HOLE CARDS ***
+nastja336: raises $1.50 to $2.50
+app1e_j@ck: folds 
+steepfell: folds 
+Twistenko: calls $2.50
+kars0n: folds 
+Critchees1983: raises $7.50 to $10
+nastja336: calls $7.50
+Twistenko: calls $7.50
+*** FLOP *** [6h Kc Jd]
+Critchees1983: checks 
+nastja336: checks 
+Twistenko: checks 
+*** TURN *** [6h Kc Jd] [Ts]
+Critchees1983: bets $12
+nastja336: raises $24 to $36
+Twistenko: folds 
+Critchees1983: raises $58.89 to $94.89 and is all-in
+nastja336: calls $54 and is all-in
+Uncalled bet ($4.89) returned to Critchees1983
+*** RIVER *** [6h Kc Jd Ts] [Ks]
+*** SHOW DOWN ***
+Critchees1983: shows [9h As] (a pair of Kings)
+nastja336: shows [Qh Ah] (a straight, Ten to Ace)
+nastja336 collected $208 from pot
+*** SUMMARY ***
+Total pot $210.50 | Rake $2.50 
+Board [6h Kc Jd Ts Ks]
+Seat 1: Critchees1983 (big blind) showed [9h As] and lost with a pair of Kings
+Seat 2: nastja336 showed [Qh Ah] and won ($208) with a straight, Ten to Ace
+Seat 3: app1e_j@ck folded before Flop (didn't bet)
+Seat 4: steepfell folded before Flop (didn't bet)
+Seat 5: Twistenko (button) folded on the Turn
+Seat 6: kars0n (small blind) folded before Flop
+
+
+
+PokerStars Hand #254266905132:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:19:16 WET [2025/01/08 15:19:16 ET]
+Table 'Utra II' 6-max Seat #6 is the button
+Seat 1: Critchees1983 ($4.89 in chips) 
+Seat 2: nastja336 ($208 in chips) 
+Seat 3: app1e_j@ck ($114.26 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($112.20 in chips) 
+Critchees1983: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+app1e_j@ck: folds 
+steepfell: folds 
+Twistenko: folds 
+kars0n: folds 
+Critchees1983: raises $3.89 to $4.89 and is all-in
+nastja336: folds 
+Uncalled bet ($3.89) returned to Critchees1983
+Critchees1983 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Critchees1983 (small blind) collected ($2)
+Seat 2: nastja336 (big blind) folded before Flop
+Seat 3: app1e_j@ck folded before Flop (didn't bet)
+Seat 4: steepfell folded before Flop (didn't bet)
+Seat 5: Twistenko folded before Flop (didn't bet)
+Seat 6: kars0n (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266910834:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:19:33 WET [2025/01/08 15:19:33 ET]
+Table 'Utra II' 6-max Seat #1 is the button
+Seat 1: Critchees1983 ($5.89 in chips) 
+Seat 2: nastja336 ($207 in chips) 
+Seat 3: app1e_j@ck ($114.26 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($112.20 in chips) 
+nastja336: posts small blind $0.50
+app1e_j@ck: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+Twistenko: folds 
+kars0n: folds 
+Critchees1983: raises $4.89 to $5.89 and is all-in
+nastja336: folds 
+app1e_j@ck: calls $4.89
+*** FLOP *** [As Jh 9c]
+*** TURN *** [As Jh 9c] [3d]
+*** RIVER *** [As Jh 9c 3d] [6s]
+*** SHOW DOWN ***
+app1e_j@ck: shows [6c 6h] (three of a kind, Sixes)
+Critchees1983: shows [Js Td] (a pair of Jacks)
+app1e_j@ck collected $11.67 from pot
+*** SUMMARY ***
+Total pot $12.28 | Rake $0.61 
+Board [As Jh 9c 3d 6s]
+Seat 1: Critchees1983 (button) showed [Js Td] and lost with a pair of Jacks
+Seat 2: nastja336 (small blind) folded before Flop
+Seat 3: app1e_j@ck (big blind) showed [6c 6h] and won ($11.67) with three of a kind, Sixes
+Seat 4: steepfell folded before Flop (didn't bet)
+Seat 5: Twistenko folded before Flop (didn't bet)
+Seat 6: kars0n folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266918010:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:19:54 WET [2025/01/08 15:19:54 ET]
+Table 'Utra II' 6-max Seat #2 is the button
+Seat 1: Critchees1983 ($0 in chips) is sitting out
+Seat 2: nastja336 ($206.50 in chips) 
+Seat 3: app1e_j@ck ($120.04 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($112.20 in chips) 
+app1e_j@ck: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+Twistenko: folds 
+kars0n: raises $1.50 to $2.50
+nastja336: folds 
+app1e_j@ck: folds 
+steepfell: calls $1.50
+*** FLOP *** [5c Ks 3h]
+steepfell: checks 
+kars0n: bets $1.72
+steepfell: folds 
+Uncalled bet ($1.72) returned to kars0n
+kars0n collected $5.22 from pot
+kars0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [5c Ks 3h]
+Seat 1: Critchees1983
+Seat 2: nastja336 (button) folded before Flop (didn't bet)
+Seat 3: app1e_j@ck (small blind) folded before Flop
+Seat 4: steepfell (big blind) folded on the Flop
+Seat 5: Twistenko folded before Flop (didn't bet)
+Seat 6: kars0n collected ($5.22)
+
+
+
+PokerStars Hand #254266927884:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:20:23 WET [2025/01/08 15:20:23 ET]
+Table 'Utra II' 6-max Seat #3 is the button
+Seat 1: Critchees1983 ($0 in chips) is sitting out
+Seat 2: nastja336 ($206.50 in chips) 
+Seat 3: app1e_j@ck ($119.54 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Seat 6: kars0n ($114.92 in chips) 
+steepfell: posts small blind $0.50
+Twistenko: posts big blind $1
+*** HOLE CARDS ***
+kars0n: folds 
+kars0n leaves the table
+nastja336: raises $1.50 to $2.50
+app1e_j@ck: folds 
+steepfell: folds 
+Critchees1983 is disconnected 
+Twistenko: folds 
+Uncalled bet ($1.50) returned to nastja336
+nastja336 collected $2.50 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Critchees1983
+Seat 2: nastja336 collected ($2.50)
+Seat 3: app1e_j@ck (button) folded before Flop (didn't bet)
+Seat 4: steepfell (small blind) folded before Flop
+Seat 5: Twistenko (big blind) folded before Flop
+Seat 6: kars0n folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254266940520:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:20:59 WET [2025/01/08 15:20:59 ET]
+Table 'Utra II' 6-max Seat #4 is the button
+Seat 1: Critchees1983 ($0 in chips) is sitting out
+Seat 2: nastja336 ($208 in chips) 
+Seat 3: app1e_j@ck ($119.54 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($100 in chips) 
+Twistenko: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+app1e_j@ck: folds 
+steepfell: folds 
+Twistenko: raises $2 to $3
+nastja336: folds 
+Uncalled bet ($2) returned to Twistenko
+Twistenko collected $2 from pot
+Twistenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Critchees1983
+Seat 2: nastja336 (big blind) folded before Flop
+Seat 3: app1e_j@ck folded before Flop (didn't bet)
+Seat 4: steepfell (button) folded before Flop (didn't bet)
+Seat 5: Twistenko (small blind) collected ($2)
+
+
+
+PokerStars Hand #254266944535:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 20:21:12 WET [2025/01/08 15:21:12 ET]
+Table 'Utra II' 6-max Seat #5 is the button
+Seat 1: Critchees1983 ($0 in chips) is sitting out
+Seat 3: app1e_j@ck ($119.54 in chips) is sitting out
+Seat 2: nastja336 ($207 in chips) 
+Seat 4: steepfell ($100 in chips) 
+Seat 5: Twistenko ($101 in chips) 
+nastja336: posts small blind $0.50
+app1e_j@ck: is sitting out 
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+app1e_j@ck leaves the table
+Twistenko: folds 
+nastja336: folds 
+Uncalled bet ($0.50) returned to steepfell
+steepfell collected $1 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Critchees1983
+Seat 3: app1e_j@ck
+Seat 2: nastja336 (small blind) folded before Flop
+Seat 4: steepfell (big blind) collected ($1)
+Seat 5: Twistenko (button) folded before Flop (didn't bet)
+
+
+

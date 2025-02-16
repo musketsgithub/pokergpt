@@ -1,0 +1,642 @@
+﻿PokerStars Hand #254312832446:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:01:21 WET [2025/01/11 9:01:21 ET]
+Table 'Alcyone III' 6-max Seat #6 is the button
+Seat 1: m17akaaa ($100.80 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: Sadyhov V.V. ($100 in chips) 
+Seat 4: Maximysss85 ($103.50 in chips) 
+Seat 5: jeilsons ($101.50 in chips) 
+Seat 6: Espada Fish ($100 in chips) 
+m17akaaa: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+Sadyhov V.V.: folds 
+Maximysss85: folds 
+jeilsons: folds 
+Espada Fish: folds 
+Sadyhov V.V. leaves the table
+m17akaaa: raises $2 to $3
+AlexPinsk1: calls $2
+*** FLOP *** [8c Kd 2h]
+m17akaaa: bets $2.85
+fobot21 joins the table at seat #3 
+AlexPinsk1: calls $2.85
+*** TURN *** [8c Kd 2h] [Th]
+m17akaaa: bets $4.56
+AlexPinsk1: calls $4.56
+*** RIVER *** [8c Kd 2h Th] [Kc]
+m17akaaa: bets $12.89
+AlexPinsk1: calls $12.89
+*** SHOW DOWN ***
+m17akaaa: shows [9c Ts] (two pair, Kings and Tens)
+AlexPinsk1: mucks hand 
+m17akaaa collected $44.27 from pot
+*** SUMMARY ***
+Total pot $46.60 | Rake $2.33 
+Board [8c Kd 2h Th Kc]
+Seat 1: m17akaaa (small blind) showed [9c Ts] and won ($44.27) with two pair, Kings and Tens
+Seat 2: AlexPinsk1 (big blind) mucked
+Seat 3: Sadyhov V.V. folded before Flop (didn't bet)
+Seat 4: Maximysss85 folded before Flop (didn't bet)
+Seat 5: jeilsons folded before Flop (didn't bet)
+Seat 6: Espada Fish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254312839770:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:01:58 WET [2025/01/11 9:01:58 ET]
+Table 'Alcyone III' 6-max Seat #1 is the button
+Seat 1: m17akaaa ($121.77 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($100 in chips) 
+Seat 4: Maximysss85 ($103.50 in chips) 
+Seat 5: jeilsons ($101.50 in chips) 
+Seat 6: Espada Fish ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+fobot21: posts big blind $1
+*** HOLE CARDS ***
+Maximysss85: folds 
+jeilsons: folds 
+Espada Fish: raises $1.20 to $2.20
+m17akaaa: raises $3.90 to $6.10
+AlexPinsk1: folds 
+fobot21: folds 
+Espada Fish: calls $3.90
+*** FLOP *** [8h Td 4d]
+Espada Fish: checks 
+m17akaaa: bets $5.51
+Espada Fish: calls $5.51
+*** TURN *** [8h Td 4d] [4s]
+Espada Fish: checks 
+m17akaaa: bets $12.74
+Espada Fish: calls $12.74
+*** RIVER *** [8h Td 4d 4s] [7d]
+Espada Fish: checks 
+m17akaaa: bets $47.70
+Espada Fish: folds 
+Uncalled bet ($47.70) returned to m17akaaa
+m17akaaa collected $47.70 from pot
+m17akaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $50.20 | Rake $2.50 
+Board [8h Td 4d 4s 7d]
+Seat 1: m17akaaa (button) collected ($47.70)
+Seat 2: AlexPinsk1 (small blind) folded before Flop
+Seat 3: fobot21 (big blind) folded before Flop
+Seat 4: Maximysss85 folded before Flop (didn't bet)
+Seat 5: jeilsons folded before Flop (didn't bet)
+Seat 6: Espada Fish folded on the River
+
+
+
+PokerStars Hand #254312862887:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:03:53 WET [2025/01/11 9:03:53 ET]
+Table 'Alcyone III' 6-max Seat #2 is the button
+Seat 1: m17akaaa ($145.12 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($100 in chips) 
+Seat 4: Maximysss85 ($103.50 in chips) 
+Seat 5: jeilsons ($101.50 in chips) 
+Seat 6: Espada Fish ($100 in chips) 
+fobot21: posts small blind $0.50
+Maximysss85: posts big blind $1
+*** HOLE CARDS ***
+jeilsons is connected 
+jeilsons has timed out
+jeilsons: folds 
+Espada Fish: raises $1.20 to $2.20
+m17akaaa: folds 
+AlexPinsk1: raises $4.80 to $7
+fobot21: folds 
+Maximysss85: folds 
+Espada Fish: raises $14 to $21
+AlexPinsk1: folds 
+Uncalled bet ($14) returned to Espada Fish
+Espada Fish collected $15.50 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.50 | Rake $0 
+Seat 1: m17akaaa folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 (button) folded before Flop
+Seat 3: fobot21 (small blind) folded before Flop
+Seat 4: Maximysss85 (big blind) folded before Flop
+Seat 5: jeilsons folded before Flop (didn't bet)
+Seat 6: Espada Fish collected ($15.50)
+
+
+
+PokerStars Hand #254312876863:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:05:00 WET [2025/01/11 9:05:00 ET]
+Table 'Alcyone III' 6-max Seat #3 is the button
+Seat 1: m17akaaa ($145.12 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($100 in chips) 
+Seat 4: Maximysss85 ($102.50 in chips) 
+Seat 5: jeilsons ($101.50 in chips) 
+Seat 6: Espada Fish ($108.50 in chips) 
+Maximysss85: posts small blind $0.50
+jeilsons: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+m17akaaa: folds 
+AlexPinsk1: folds 
+Espada Fish leaves the table
+fobot21: folds 
+Maximysss85: raises $2 to $3
+jeilsons: folds 
+Uncalled bet ($2) returned to Maximysss85
+Maximysss85 collected $2 from pot
+Maximysss85: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: m17akaaa folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: fobot21 (button) folded before Flop (didn't bet)
+Seat 4: Maximysss85 (small blind) collected ($2)
+Seat 5: jeilsons (big blind) folded before Flop
+Seat 6: Espada Fish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254312880064:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:05:16 WET [2025/01/11 9:05:16 ET]
+Table 'Alcyone III' 6-max Seat #4 is the button
+Seat 1: m17akaaa ($145.12 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($100 in chips) 
+Seat 4: Maximysss85 ($103.50 in chips) 
+Seat 5: jeilsons ($100.50 in chips) 
+jeilsons: posts small blind $0.50
+m17akaaa: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+fobot21: folds 
+Maximysss85: raises $2 to $3
+jeilsons: folds 
+m17akaaa: folds 
+Uncalled bet ($2) returned to Maximysss85
+Maximysss85 collected $2.50 from pot
+Maximysss85: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m17akaaa (big blind) folded before Flop
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: fobot21 folded before Flop (didn't bet)
+Seat 4: Maximysss85 (button) collected ($2.50)
+Seat 5: jeilsons (small blind) folded before Flop
+
+
+
+PokerStars Hand #254312883492:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:05:32 WET [2025/01/11 9:05:32 ET]
+Table 'Alcyone III' 6-max Seat #5 is the button
+Seat 1: m17akaaa ($144.12 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($100 in chips) 
+Seat 4: Maximysss85 ($105 in chips) 
+Seat 5: jeilsons ($100 in chips) 
+m17akaaa: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+fobot21: folds 
+Maximysss85: raises $1.50 to $2.50
+jeilsons: folds 
+m17akaaa: calls $2
+AlexPinsk1: folds 
+*** FLOP *** [Kc Jc 4d]
+m17akaaa: checks 
+Maximysss85: bets $7.13
+m17akaaa: calls $7.13
+*** TURN *** [Kc Jc 4d] [5s]
+m17akaaa: checks 
+Maximysss85: bets $24.06
+m17akaaa: raises $24.06 to $48.12
+Maximysss85: calls $24.06
+*** RIVER *** [Kc Jc 4d 5s] [7c]
+m17akaaa: bets $57
+Maximysss85: calls $47.25 and is all-in
+Uncalled bet ($9.75) returned to m17akaaa
+*** SHOW DOWN ***
+m17akaaa: shows [Js Jd] (three of a kind, Jacks)
+Maximysss85: shows [Ac 2c] (a flush, Ace high)
+Maximysss85 collected $208.50 from pot
+*** SUMMARY ***
+Total pot $211 | Rake $2.50 
+Board [Kc Jc 4d 5s 7c]
+Seat 1: m17akaaa (small blind) showed [Js Jd] and lost with three of a kind, Jacks
+Seat 2: AlexPinsk1 (big blind) folded before Flop
+Seat 3: fobot21 folded before Flop (didn't bet)
+Seat 4: Maximysss85 showed [Ac 2c] and won ($208.50) with a flush, Ace high
+Seat 5: jeilsons (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254312893777:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:06:22 WET [2025/01/11 9:06:22 ET]
+Table 'Alcyone III' 6-max Seat #1 is the button
+Seat 1: m17akaaa ($39.12 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($100 in chips) 
+Seat 4: Maximysss85 ($208.50 in chips) 
+Seat 5: jeilsons ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+fobot21: posts big blind $1
+*** HOLE CARDS ***
+Maximysss85: folds 
+jeilsons: folds 
+m17akaaa: folds 
+AlexPinsk1: folds 
+Uncalled bet ($0.50) returned to fobot21
+fobot21 collected $1 from pot
+fobot21: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m17akaaa (button) folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 (small blind) folded before Flop
+Seat 3: fobot21 (big blind) collected ($1)
+Seat 4: Maximysss85 folded before Flop (didn't bet)
+Seat 5: jeilsons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254312896325:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:06:34 WET [2025/01/11 9:06:34 ET]
+Table 'Alcyone III' 6-max Seat #2 is the button
+Seat 1: m17akaaa ($39.12 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($100.50 in chips) 
+Seat 4: Maximysss85 ($208.50 in chips) 
+Seat 5: jeilsons ($100 in chips) 
+fobot21: posts small blind $0.50
+Maximysss85: posts big blind $1
+*** HOLE CARDS ***
+Aescul@pius joins the table at seat #6 
+jeilsons: folds 
+m17akaaa: folds 
+AlexPinsk1: folds 
+fobot21: raises $1.90 to $2.90
+Maximysss85: raises $7.10 to $10
+fobot21: raises $90.50 to $100.50 and is all-in
+Maximysss85: folds 
+Uncalled bet ($90.50) returned to fobot21
+fobot21 collected $20 from pot
+fobot21: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $0 
+Seat 1: m17akaaa folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 3: fobot21 (small blind) collected ($20)
+Seat 4: Maximysss85 (big blind) folded before Flop
+Seat 5: jeilsons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254312902471:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:07:04 WET [2025/01/11 9:07:04 ET]
+Table 'Alcyone III' 6-max Seat #3 is the button
+Seat 6: Aescul@pius ($100 in chips) is sitting out
+Seat 1: m17akaaa ($100 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($110.50 in chips) 
+Seat 4: Maximysss85 ($198.50 in chips) 
+Seat 5: jeilsons ($100 in chips) 
+Maximysss85: posts small blind $0.50
+jeilsons: posts big blind $1
+Aescul@pius: sits out 
+*** HOLE CARDS ***
+m17akaaa: raises $2 to $3
+AlexPinsk1: folds 
+fobot21: folds 
+Maximysss85: folds 
+jeilsons: calls $2
+*** FLOP *** [Qh 9d Kc]
+jeilsons: checks 
+m17akaaa: bets $3.09
+jeilsons: folds 
+Uncalled bet ($3.09) returned to m17akaaa
+m17akaaa collected $6.18 from pot
+m17akaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Qh 9d Kc]
+Seat 6: Aescul@pius
+Seat 1: m17akaaa collected ($6.18)
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: fobot21 (button) folded before Flop (didn't bet)
+Seat 4: Maximysss85 (small blind) folded before Flop
+Seat 5: jeilsons (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254312908949:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:07:36 WET [2025/01/11 9:07:36 ET]
+Table 'Alcyone III' 6-max Seat #4 is the button
+Seat 1: m17akaaa ($103.18 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($110.50 in chips) 
+Seat 4: Maximysss85 ($198 in chips) 
+Seat 5: jeilsons ($97 in chips) 
+Seat 6: Aescul@pius ($100 in chips) 
+jeilsons: posts small blind $0.50
+Aescul@pius: posts big blind $1
+*** HOLE CARDS ***
+m17akaaa: folds 
+AlexPinsk1: folds 
+fobot21: folds 
+Maximysss85: raises $1.50 to $2.50
+jeilsons: folds 
+Aescul@pius: calls $1.50
+*** FLOP *** [7h Td 7d]
+Aescul@pius: bets $2.61
+Maximysss85: folds 
+Uncalled bet ($2.61) returned to Aescul@pius
+Aescul@pius collected $5.22 from pot
+Aescul@pius: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [7h Td 7d]
+Seat 1: m17akaaa folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: fobot21 folded before Flop (didn't bet)
+Seat 4: Maximysss85 (button) folded on the Flop
+Seat 5: jeilsons (small blind) folded before Flop
+Seat 6: Aescul@pius (big blind) collected ($5.22)
+
+
+
+PokerStars Hand #254312916300:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:08:12 WET [2025/01/11 9:08:12 ET]
+Table 'Alcyone III' 6-max Seat #5 is the button
+Seat 1: m17akaaa ($103.18 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($110.50 in chips) 
+Seat 4: Maximysss85 ($195.50 in chips) 
+Seat 5: jeilsons ($96.50 in chips) 
+Seat 6: Aescul@pius ($102.72 in chips) 
+Aescul@pius: posts small blind $0.50
+m17akaaa: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+fobot21: folds 
+Maximysss85: folds 
+jeilsons: raises $1.50 to $2.50
+Aescul@pius: folds 
+m17akaaa: raises $5.50 to $8
+jeilsons: calls $5.50
+*** FLOP *** [Ks 8c Kh]
+m17akaaa has timed out
+m17akaaa: checks 
+jeilsons: checks 
+*** TURN *** [Ks 8c Kh] [6h]
+m17akaaa has timed out
+m17akaaa: checks 
+jeilsons: bets $4.08
+m17akaaa: raises $9.92 to $14
+jeilsons: calls $9.92
+*** RIVER *** [Ks 8c Kh 6h] [Qd]
+m17akaaa: bets $24.14
+jeilsons: calls $24.14
+*** SHOW DOWN ***
+m17akaaa: shows [8s 4h] (two pair, Kings and Eights)
+jeilsons: shows [9h 9s] (two pair, Kings and Nines)
+jeilsons collected $90.28 from pot
+*** SUMMARY ***
+Total pot $92.78 | Rake $2.50 
+Board [Ks 8c Kh 6h Qd]
+Seat 1: m17akaaa (big blind) showed [8s 4h] and lost with two pair, Kings and Eights
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: fobot21 folded before Flop (didn't bet)
+Seat 4: Maximysss85 folded before Flop (didn't bet)
+Seat 5: jeilsons (button) showed [9h 9s] and won ($90.28) with two pair, Kings and Nines
+Seat 6: Aescul@pius (small blind) folded before Flop
+
+
+
+PokerStars Hand #254312938845:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:10:03 WET [2025/01/11 9:10:03 ET]
+Table 'Alcyone III' 6-max Seat #6 is the button
+Seat 1: m17akaaa ($57.04 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($110.50 in chips) 
+Seat 4: Maximysss85 ($195.50 in chips) 
+Seat 5: jeilsons ($140.64 in chips) 
+Seat 6: Aescul@pius ($102.22 in chips) 
+m17akaaa: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+fobot21: folds 
+Maximysss85: folds 
+jeilsons: folds 
+Aescul@pius: folds 
+m17akaaa: raises $2 to $3
+AlexPinsk1: folds 
+Uncalled bet ($2) returned to m17akaaa
+m17akaaa collected $2 from pot
+m17akaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: m17akaaa (small blind) collected ($2)
+Seat 2: AlexPinsk1 (big blind) folded before Flop
+Seat 3: fobot21 folded before Flop (didn't bet)
+Seat 4: Maximysss85 folded before Flop (didn't bet)
+Seat 5: jeilsons folded before Flop (didn't bet)
+Seat 6: Aescul@pius (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254312941671:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:10:17 WET [2025/01/11 9:10:17 ET]
+Table 'Alcyone III' 6-max Seat #1 is the button
+Seat 1: m17akaaa ($58.04 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($110.50 in chips) 
+Seat 4: Maximysss85 ($195.50 in chips) 
+Seat 5: jeilsons ($140.64 in chips) 
+Seat 6: Aescul@pius ($102.22 in chips) 
+AlexPinsk1: posts small blind $0.50
+fobot21: posts big blind $1
+*** HOLE CARDS ***
+Maximysss85: raises $1.25 to $2.25
+jeilsons: folds 
+Aescul@pius: folds 
+m17akaaa: folds 
+AlexPinsk1: folds 
+fobot21: folds 
+Uncalled bet ($1.25) returned to Maximysss85
+Maximysss85 collected $2.50 from pot
+Maximysss85: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m17akaaa (button) folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 (small blind) folded before Flop
+Seat 3: fobot21 (big blind) folded before Flop
+Seat 4: Maximysss85 collected ($2.50)
+Seat 5: jeilsons folded before Flop (didn't bet)
+Seat 6: Aescul@pius folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254312944450:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:10:31 WET [2025/01/11 9:10:31 ET]
+Table 'Alcyone III' 6-max Seat #2 is the button
+Seat 1: m17akaaa ($58.04 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($109.50 in chips) 
+Seat 4: Maximysss85 ($197 in chips) 
+Seat 5: jeilsons ($140.64 in chips) 
+Seat 6: Aescul@pius ($102.22 in chips) 
+fobot21: posts small blind $0.50
+Maximysss85: posts big blind $1
+*** HOLE CARDS ***
+jeilsons: folds 
+Aescul@pius: raises $1.20 to $2.20
+m17akaaa: folds 
+AlexPinsk1: folds 
+fobot21: raises $9.30 to $11.50
+Maximysss85: folds 
+Aescul@pius: folds 
+Uncalled bet ($9.30) returned to fobot21
+fobot21 collected $5.40 from pot
+fobot21: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 1: m17akaaa folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 3: fobot21 (small blind) collected ($5.40)
+Seat 4: Maximysss85 (big blind) folded before Flop
+Seat 5: jeilsons folded before Flop (didn't bet)
+Seat 6: Aescul@pius folded before Flop
+
+
+
+PokerStars Hand #254312951298:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:11:05 WET [2025/01/11 9:11:05 ET]
+Table 'Alcyone III' 6-max Seat #3 is the button
+Seat 1: m17akaaa ($58.04 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($112.70 in chips) 
+Seat 4: Maximysss85 ($196 in chips) 
+Seat 5: jeilsons ($140.64 in chips) 
+Seat 6: Aescul@pius ($100.02 in chips) 
+Maximysss85: posts small blind $0.50
+jeilsons: posts big blind $1
+*** HOLE CARDS ***
+Aescul@pius: folds 
+m17akaaa: raises $2 to $3
+AlexPinsk1: folds 
+fobot21: folds 
+Maximysss85: folds 
+jeilsons: folds 
+Uncalled bet ($2) returned to m17akaaa
+m17akaaa collected $2.50 from pot
+m17akaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m17akaaa collected ($2.50)
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: fobot21 (button) folded before Flop (didn't bet)
+Seat 4: Maximysss85 (small blind) folded before Flop
+Seat 5: jeilsons (big blind) folded before Flop
+Seat 6: Aescul@pius folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254312954335:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:11:20 WET [2025/01/11 9:11:20 ET]
+Table 'Alcyone III' 6-max Seat #4 is the button
+Seat 1: m17akaaa ($59.54 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($112.70 in chips) 
+Seat 4: Maximysss85 ($195.50 in chips) 
+Seat 5: jeilsons ($139.64 in chips) 
+Seat 6: Aescul@pius ($100.02 in chips) 
+jeilsons: posts small blind $0.50
+Aescul@pius: posts big blind $1
+*** HOLE CARDS ***
+m17akaaa: raises $2 to $3
+AlexPinsk1: raises $5.50 to $8.50
+fobot21: folds 
+Maximysss85: folds 
+jeilsons: folds 
+Aescul@pius: folds 
+m17akaaa: calls $5.50
+*** FLOP *** [4c Jd Kd]
+m17akaaa: checks 
+AlexPinsk1: checks 
+*** TURN *** [4c Jd Kd] [7c]
+m17akaaa: bets $8.79
+AlexPinsk1: calls $8.79
+*** RIVER *** [4c Jd Kd 7c] [Ac]
+m17akaaa: bets $17.14
+AlexPinsk1: folds 
+Uncalled bet ($17.14) returned to m17akaaa
+m17akaaa collected $34.28 from pot
+m17akaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $36.08 | Rake $1.80 
+Board [4c Jd Kd 7c Ac]
+Seat 1: m17akaaa collected ($34.28)
+Seat 2: AlexPinsk1 folded on the River
+Seat 3: fobot21 folded before Flop (didn't bet)
+Seat 4: Maximysss85 (button) folded before Flop (didn't bet)
+Seat 5: jeilsons (small blind) folded before Flop
+Seat 6: Aescul@pius (big blind) folded before Flop
+
+
+
+PokerStars Hand #254312966536:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:12:21 WET [2025/01/11 9:12:21 ET]
+Table 'Alcyone III' 6-max Seat #5 is the button
+Seat 1: m17akaaa ($76.53 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($112.70 in chips) 
+Seat 4: Maximysss85 ($195.50 in chips) 
+Seat 5: jeilsons ($139.14 in chips) 
+Seat 6: Aescul@pius ($100 in chips) 
+Aescul@pius: posts small blind $0.50
+m17akaaa: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+fobot21: folds 
+Maximysss85: raises $1.50 to $2.50
+jeilsons: calls $2.50
+Aescul@pius: folds 
+m17akaaa: folds 
+*** FLOP *** [Js 8h Qs]
+m17akaaa leaves the table
+Maximysss85: checks 
+jeilsons: checks 
+*** TURN *** [Js 8h Qs] [3c]
+Maximysss85: bets $4.14
+jeilsons: folds 
+Uncalled bet ($4.14) returned to Maximysss85
+Maximysss85 collected $6.18 from pot
+Maximysss85: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Js 8h Qs 3c]
+Seat 1: m17akaaa (big blind) folded before Flop
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: fobot21 folded before Flop (didn't bet)
+Seat 4: Maximysss85 collected ($6.18)
+Seat 5: jeilsons (button) folded on the Turn
+Seat 6: Aescul@pius (small blind) folded before Flop
+
+
+
+PokerStars Hand #254312971585:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/11 14:12:46 WET [2025/01/11 9:12:46 ET]
+Table 'Alcyone III' 6-max Seat #6 is the button
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: fobot21 ($112.70 in chips) 
+Seat 4: Maximysss85 ($199.18 in chips) 
+Seat 5: jeilsons ($136.64 in chips) 
+Seat 6: Aescul@pius ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+fobot21: posts big blind $1
+*** HOLE CARDS ***
+Maximysss85: folds 
+jeilsons: folds 
+Maximysss85 leaves the table
+Aescul@pius: folds 
+AlexPinsk1: raises $2 to $3
+fobot21: calls $2
+*** FLOP *** [Ks As Kh]
+AlexPinsk1: bets $1.88
+fobot21: folds 
+Uncalled bet ($1.88) returned to AlexPinsk1
+AlexPinsk1 collected $5.70 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ks As Kh]
+Seat 2: AlexPinsk1 (small blind) collected ($5.70)
+Seat 3: fobot21 (big blind) folded on the Flop
+Seat 4: Maximysss85 folded before Flop (didn't bet)
+Seat 5: jeilsons folded before Flop (didn't bet)
+Seat 6: Aescul@pius (button) folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,1196 @@
+﻿PokerStars Hand #254762528750:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:10:15 WET [2025/02/08 3:10:15 ET]
+Table 'Kienle' 6-max Seat #4 is the button
+Seat 1: Pon4uk.ua ($198.96 in chips) 
+Seat 2: Zane640 ($16.99 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($100 in chips) 
+Seat 5: 50CandyJoe ($100 in chips) 
+Seat 6: Y_19 ($100 in chips) 
+50CandyJoe: posts small blind $0.50
+Y_19: posts big blind $1
+*** HOLE CARDS ***
+Pon4uk.ua: folds 
+Zane640: calls $1
+NOTfishON: folds 
+b2k-Snick: folds 
+50CandyJoe: raises $3.50 to $4.50
+Y_19: folds 
+Zane640: calls $3.50
+*** FLOP *** [Th 8h 5h]
+50CandyJoe: checks 
+Zane640: checks 
+*** TURN *** [Th 8h 5h] [7d]
+50CandyJoe: checks 
+Zane640: checks 
+*** RIVER *** [Th 8h 5h 7d] [Ts]
+50CandyJoe: bets $1
+Zane640: calls $1
+*** SHOW DOWN ***
+50CandyJoe: shows [9c Ac] (a pair of Tens)
+Zane640: shows [Qc 8s] (two pair, Tens and Eights)
+Zane640 collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Th 8h 5h 7d Ts]
+Seat 1: Pon4uk.ua folded before Flop (didn't bet)
+Seat 2: Zane640 showed [Qc 8s] and won ($11.40) with two pair, Tens and Eights
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: 50CandyJoe (small blind) showed [9c Ac] and lost with a pair of Tens
+Seat 6: Y_19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254762533049:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:11:03 WET [2025/02/08 3:11:03 ET]
+Table 'Kienle' 6-max Seat #5 is the button
+Seat 1: Pon4uk.ua ($198.96 in chips) 
+Seat 2: Zane640 ($22.89 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($100 in chips) 
+Seat 5: 50CandyJoe ($100 in chips) 
+Seat 6: Y_19 ($100 in chips) 
+Y_19: posts small blind $0.50
+Pon4uk.ua: posts big blind $1
+*** HOLE CARDS ***
+Zane640: calls $1
+NOTfishON: folds 
+b2k-Snick: folds 
+50CandyJoe: folds 
+Y_19: folds 
+Pon4uk.ua: checks 
+*** FLOP *** [3d Kh 2s]
+Pon4uk.ua: checks 
+Zane640: checks 
+*** TURN *** [3d Kh 2s] [6h]
+Pon4uk.ua: checks 
+Zane640: checks 
+*** RIVER *** [3d Kh 2s 6h] [8s]
+Pon4uk.ua: bets $2
+Zane640: calls $2
+*** SHOW DOWN ***
+Pon4uk.ua: shows [8d As] (a pair of Eights)
+Zane640: mucks hand 
+Pon4uk.ua collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [3d Kh 2s 6h 8s]
+Seat 1: Pon4uk.ua (big blind) showed [8d As] and won ($6.18) with a pair of Eights
+Seat 2: Zane640 mucked
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: 50CandyJoe (button) folded before Flop (didn't bet)
+Seat 6: Y_19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254762538625:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:12:02 WET [2025/02/08 3:12:02 ET]
+Table 'Kienle' 6-max Seat #6 is the button
+Seat 1: Pon4uk.ua ($202.14 in chips) 
+Seat 2: Zane640 ($19.89 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($100 in chips) 
+Seat 5: 50CandyJoe ($100 in chips) 
+Seat 6: Y_19 ($100 in chips) 
+Pon4uk.ua: posts small blind $0.50
+Zane640: posts big blind $1
+*** HOLE CARDS ***
+NOTfishON: folds 
+b2k-Snick: raises $1.10 to $2.10
+50CandyJoe: folds 
+Y_19: folds 
+Pon4uk.ua: folds 
+Zane640: calls $1.10
+*** FLOP *** [Ac 9d Jh]
+Zane640: checks 
+b2k-Snick: checks 
+*** TURN *** [Ac 9d Jh] [Ah]
+Zane640: bets $1
+b2k-Snick: calls $1
+*** RIVER *** [Ac 9d Jh Ah] [7h]
+Zane640: bets $6.36
+b2k-Snick: folds 
+Uncalled bet ($6.36) returned to Zane640
+Zane640 collected $6.36 from pot
+*** SUMMARY ***
+Total pot $6.70 | Rake $0.34 
+Board [Ac 9d Jh Ah 7h]
+Seat 1: Pon4uk.ua (small blind) folded before Flop
+Seat 2: Zane640 (big blind) collected ($6.36)
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded on the River
+Seat 5: 50CandyJoe folded before Flop (didn't bet)
+Seat 6: Y_19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762543259:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:12:54 WET [2025/02/08 3:12:54 ET]
+Table 'Kienle' 6-max Seat #1 is the button
+Seat 1: Pon4uk.ua ($201.64 in chips) 
+Seat 2: Zane640 ($23.15 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($100 in chips) 
+Seat 5: 50CandyJoe ($100 in chips) 
+Seat 6: Y_19 ($100 in chips) 
+Zane640: posts small blind $0.50
+NOTfishON: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+50CandyJoe: folds 
+Y_19: raises $1.23 to $2.23
+Pon4uk.ua: raises $5.27 to $7.50
+Zane640: calls $7
+NOTfishON: folds 
+Y_19: folds 
+*** FLOP *** [8d 5c Qc]
+Zane640: checks 
+Pon4uk.ua: bets $26.85
+Zane640: calls $15.65 and is all-in
+Uncalled bet ($11.20) returned to Pon4uk.ua
+*** TURN *** [8d 5c Qc] [Kh]
+*** RIVER *** [8d 5c Qc Kh] [8s]
+*** SHOW DOWN ***
+Zane640: shows [6c Ac] (a pair of Eights)
+Pon4uk.ua: shows [Td As] (a pair of Eights)
+Zane640 collected $23.53 from pot
+Pon4uk.ua collected $23.52 from pot
+*** SUMMARY ***
+Total pot $49.53 | Rake $2.48 
+Board [8d 5c Qc Kh 8s]
+Seat 1: Pon4uk.ua (button) showed [Td As] and won ($23.52) with a pair of Eights
+Seat 2: Zane640 (small blind) showed [6c Ac] and won ($23.53) with a pair of Eights
+Seat 3: NOTfishON (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: 50CandyJoe folded before Flop (didn't bet)
+Seat 6: Y_19 folded before Flop
+
+
+
+PokerStars Hand #254762548774:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:13:54 WET [2025/02/08 3:13:54 ET]
+Table 'Kienle' 6-max Seat #2 is the button
+Seat 1: Pon4uk.ua ($202.01 in chips) 
+Seat 2: Zane640 ($23.53 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($100 in chips) 
+Seat 5: 50CandyJoe ($100 in chips) 
+Seat 6: Y_19 ($100 in chips) 
+NOTfishON: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+50CandyJoe: folds 
+Y_19: folds 
+Pon4uk.ua: folds 
+Zane640: folds 
+NOTfishON: raises $2 to $3
+b2k-Snick: calls $2
+*** FLOP *** [3d Qd 8d]
+NOTfishON: bets $1.77
+b2k-Snick: folds 
+Uncalled bet ($1.77) returned to NOTfishON
+NOTfishON collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [3d Qd 8d]
+Seat 1: Pon4uk.ua folded before Flop (didn't bet)
+Seat 2: Zane640 (button) folded before Flop (didn't bet)
+Seat 3: NOTfishON (small blind) collected ($5.70)
+Seat 4: b2k-Snick (big blind) folded on the Flop
+Seat 5: 50CandyJoe folded before Flop (didn't bet)
+Seat 6: Y_19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762551394:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:14:22 WET [2025/02/08 3:14:22 ET]
+Table 'Kienle' 6-max Seat #3 is the button
+Seat 1: Pon4uk.ua ($202.01 in chips) 
+Seat 2: Zane640 ($23.53 in chips) 
+Seat 3: NOTfishON ($102.70 in chips) 
+Seat 4: b2k-Snick ($100 in chips) 
+Seat 5: 50CandyJoe ($100 in chips) 
+Seat 6: Y_19 ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+50CandyJoe: posts big blind $1
+*** HOLE CARDS ***
+Y_19: folds 
+Pon4uk.ua: folds 
+Zane640: calls $1
+NOTfishON: folds 
+b2k-Snick: calls $0.50
+50CandyJoe: checks 
+*** FLOP *** [Jd 8d Ac]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** TURN *** [Jd 8d Ac] [7h]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** RIVER *** [Jd 8d Ac 7h] [2h]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** SHOW DOWN ***
+b2k-Snick: shows [2c 6c] (a pair of Deuces)
+50CandyJoe: shows [3d 2d] (a pair of Deuces)
+Zane640: mucks hand 
+b2k-Snick collected $1.43 from pot
+50CandyJoe collected $1.42 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Jd 8d Ac 7h 2h]
+Seat 1: Pon4uk.ua folded before Flop (didn't bet)
+Seat 2: Zane640 mucked
+Seat 3: NOTfishON (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) showed [2c 6c] and won ($1.43) with a pair of Deuces
+Seat 5: 50CandyJoe (big blind) showed [3d 2d] and won ($1.42) with a pair of Deuces
+Seat 6: Y_19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762554541:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:14:57 WET [2025/02/08 3:14:57 ET]
+Table 'Kienle' 6-max Seat #4 is the button
+Seat 1: Pon4uk.ua ($202.01 in chips) 
+Seat 2: Zane640 ($22.53 in chips) 
+Seat 3: NOTfishON ($102.70 in chips) 
+Seat 4: b2k-Snick ($100.43 in chips) 
+Seat 5: 50CandyJoe ($100.42 in chips) 
+Seat 6: Y_19 ($100 in chips) 
+50CandyJoe: posts small blind $0.50
+Y_19: posts big blind $1
+*** HOLE CARDS ***
+Pon4uk.ua: folds 
+Zane640: folds 
+NOTfishON: folds 
+b2k-Snick: raises $1.50 to $2.50
+50CandyJoe: folds 
+Y_19: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2.50 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Pon4uk.ua folded before Flop (didn't bet)
+Seat 2: Zane640 folded before Flop (didn't bet)
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) collected ($2.50)
+Seat 5: 50CandyJoe (small blind) folded before Flop
+Seat 6: Y_19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254762555959:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:15:13 WET [2025/02/08 3:15:13 ET]
+Table 'Kienle' 6-max Seat #5 is the button
+Seat 1: Pon4uk.ua ($202.01 in chips) 
+Seat 2: Zane640 ($22.53 in chips) 
+Seat 3: NOTfishON ($102.70 in chips) 
+Seat 4: b2k-Snick ($101.93 in chips) 
+Seat 5: 50CandyJoe ($100 in chips) 
+Seat 6: Y_19 ($100 in chips) 
+Y_19: posts small blind $0.50
+Pon4uk.ua: posts big blind $1
+*** HOLE CARDS ***
+Zane640: raises $1 to $2
+NOTfishON: folds 
+b2k-Snick: folds 
+50CandyJoe: folds 
+Y_19: folds 
+Pon4uk.ua: calls $1
+*** FLOP *** [Th 8d 6h]
+Pon4uk.ua: checks 
+Zane640: checks 
+*** TURN *** [Th 8d 6h] [2h]
+Pon4uk.ua: bets $3.21
+Zane640: raises $17.32 to $20.53 and is all-in
+Pon4uk.ua: calls $17.32
+*** RIVER *** [Th 8d 6h 2h] [Ah]
+*** SHOW DOWN ***
+Pon4uk.ua: shows [7h 9s] (a flush, Ace high)
+Zane640: shows [Td Tc] (three of a kind, Tens)
+Pon4uk.ua collected $43.28 from pot
+*** SUMMARY ***
+Total pot $45.56 | Rake $2.28 
+Board [Th 8d 6h 2h Ah]
+Seat 1: Pon4uk.ua (big blind) showed [7h 9s] and won ($43.28) with a flush, Ace high
+Seat 2: Zane640 showed [Td Tc] and lost with three of a kind, Tens
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: 50CandyJoe (button) folded before Flop (didn't bet)
+Seat 6: Y_19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254762560116:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:15:59 WET [2025/02/08 3:15:59 ET]
+Table 'Kienle' 6-max Seat #6 is the button
+Seat 2: Zane640 ($0 in chips) is sitting out
+Seat 1: Pon4uk.ua ($222.76 in chips) 
+Seat 3: NOTfishON ($102.70 in chips) 
+Seat 4: b2k-Snick ($101.93 in chips) 
+Seat 5: 50CandyJoe ($100 in chips) 
+Seat 6: Y_19 ($100 in chips) 
+Pon4uk.ua: posts small blind $0.50
+NOTfishON: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+50CandyJoe: raises $1.20 to $2.20
+Y_19: folds 
+Pon4uk.ua: folds 
+NOTfishON: folds 
+Uncalled bet ($1.20) returned to 50CandyJoe
+50CandyJoe collected $2.50 from pot
+50CandyJoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Zane640
+Seat 1: Pon4uk.ua (small blind) folded before Flop
+Seat 3: NOTfishON (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: 50CandyJoe collected ($2.50)
+Seat 6: Y_19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762562975:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:16:31 WET [2025/02/08 3:16:31 ET]
+Table 'Kienle' 6-max Seat #1 is the button
+Seat 2: Zane640 ($67.88 in chips) is sitting out
+Seat 4: b2k-Snick ($101.93 in chips) is sitting out
+Seat 1: Pon4uk.ua ($222.26 in chips) 
+Seat 3: NOTfishON ($101.70 in chips) 
+Seat 5: 50CandyJoe ($101.50 in chips) 
+Seat 6: Y_19 ($100 in chips) 
+NOTfishON: posts small blind $0.50
+b2k-Snick: is sitting out 
+50CandyJoe: posts big blind $1
+*** HOLE CARDS ***
+Y_19: folds 
+Pon4uk.ua: raises $1.50 to $2.50
+NOTfishON: folds 
+50CandyJoe: raises $10 to $12.50
+Pon4uk.ua: folds 
+Uncalled bet ($10) returned to 50CandyJoe
+50CandyJoe collected $5.50 from pot
+50CandyJoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 2: Zane640
+Seat 4: b2k-Snick
+Seat 1: Pon4uk.ua (button) folded before Flop
+Seat 3: NOTfishON (small blind) folded before Flop
+Seat 5: 50CandyJoe (big blind) collected ($5.50)
+Seat 6: Y_19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762564572:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:16:49 WET [2025/02/08 3:16:49 ET]
+Table 'Kienle' 6-max Seat #3 is the button
+Seat 4: b2k-Snick ($101.93 in chips) is sitting out
+Seat 1: Pon4uk.ua ($219.76 in chips) 
+Seat 2: Zane640 ($67.88 in chips) 
+Seat 3: NOTfishON ($101.20 in chips) 
+Seat 5: 50CandyJoe ($104.50 in chips) 
+Seat 6: Y_19 ($100 in chips) 
+50CandyJoe: posts small blind $0.50
+Y_19: posts big blind $1
+Zane640: posts small & big blinds $1.50
+*** HOLE CARDS ***
+Pon4uk.ua: raises $2 to $3
+Zane640: calls $2
+NOTfishON: folds 
+50CandyJoe: folds 
+Y_19: folds 
+*** FLOP *** [8d Tc 5c]
+Pon4uk.ua: bets $2.51
+Zane640: calls $2.51
+*** TURN *** [8d Tc 5c] [3c]
+Pon4uk.ua: bets $6.19
+Zane640: raises $55.68 to $61.87 and is all-in
+Pon4uk.ua: folds 
+Uncalled bet ($55.68) returned to Zane640
+Zane640 collected $24.13 from pot
+*** SUMMARY ***
+Total pot $25.40 | Rake $1.27 
+Board [8d Tc 5c 3c]
+Seat 4: b2k-Snick
+Seat 1: Pon4uk.ua folded on the Turn
+Seat 2: Zane640 collected ($24.13)
+Seat 3: NOTfishON (button) folded before Flop (didn't bet)
+Seat 5: 50CandyJoe (small blind) folded before Flop
+Seat 6: Y_19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254762569093:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:17:39 WET [2025/02/08 3:17:39 ET]
+Table 'Kienle' 6-max Seat #5 is the button
+Seat 4: b2k-Snick ($101.93 in chips) is sitting out
+Seat 1: Pon4uk.ua ($208.06 in chips) 
+Seat 2: Zane640 ($79.81 in chips) 
+Seat 3: NOTfishON ($101.20 in chips) 
+Seat 5: 50CandyJoe ($104 in chips) 
+Seat 6: Y_19 ($100 in chips) 
+Y_19: posts small blind $0.50
+Pon4uk.ua: posts big blind $1
+*** HOLE CARDS ***
+Zane640: calls $1
+NOTfishON: folds 
+50CandyJoe: raises $2.50 to $3.50
+Y_19: folds 
+Pon4uk.ua: folds 
+Zane640: calls $2.50
+*** FLOP *** [8d 2d Ac]
+Zane640: checks 
+50CandyJoe: bets $2.02
+Zane640: folds 
+Uncalled bet ($2.02) returned to 50CandyJoe
+50CandyJoe collected $8.08 from pot
+50CandyJoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [8d 2d Ac]
+Seat 4: b2k-Snick
+Seat 1: Pon4uk.ua (big blind) folded before Flop
+Seat 2: Zane640 folded on the Flop
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 5: 50CandyJoe (button) collected ($8.08)
+Seat 6: Y_19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254762572928:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:18:20 WET [2025/02/08 3:18:20 ET]
+Table 'Kienle' 6-max Seat #6 is the button
+Seat 4: b2k-Snick ($101.93 in chips) is sitting out
+Seat 1: Pon4uk.ua ($207.06 in chips) 
+Seat 2: Zane640 ($76.31 in chips) 
+Seat 3: NOTfishON ($101.20 in chips) 
+Seat 5: 50CandyJoe ($108.58 in chips) 
+Seat 6: Y_19 ($100 in chips) 
+Pon4uk.ua: posts small blind $0.50
+Zane640: posts big blind $1
+*** HOLE CARDS ***
+NOTfishON: folds 
+50CandyJoe: raises $1.20 to $2.20
+Y_19: raises $4.43 to $6.63
+Pon4uk.ua: folds 
+Zane640: folds 
+50CandyJoe: folds 
+Uncalled bet ($4.43) returned to Y_19
+Y_19 collected $5.90 from pot
+Y_19: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 4: b2k-Snick
+Seat 1: Pon4uk.ua (small blind) folded before Flop
+Seat 2: Zane640 (big blind) folded before Flop
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 5: 50CandyJoe folded before Flop
+Seat 6: Y_19 (button) collected ($5.90)
+
+
+
+PokerStars Hand #254762575707:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:18:50 WET [2025/02/08 3:18:50 ET]
+Table 'Kienle' 6-max Seat #1 is the button
+Seat 4: b2k-Snick ($101.93 in chips) is sitting out
+Seat 1: Pon4uk.ua ($206.56 in chips) 
+Seat 2: Zane640 ($75.31 in chips) 
+Seat 3: NOTfishON ($101.20 in chips) 
+Seat 5: 50CandyJoe ($106.38 in chips) 
+Seat 6: Y_19 ($103.70 in chips) 
+Zane640: posts small blind $0.50
+NOTfishON: posts big blind $1
+b2k-Snick: sits out 
+*** HOLE CARDS ***
+50CandyJoe: raises $1.20 to $2.20
+Y_19: raises $4.43 to $6.63
+Pon4uk.ua: folds 
+Zane640: calls $6.13
+NOTfishON: folds 
+50CandyJoe: calls $4.43
+*** FLOP *** [Qh 5d 2d]
+Zane640: checks 
+50CandyJoe: checks 
+Y_19: bets $6.55
+Zane640: calls $6.55
+50CandyJoe: folds 
+*** TURN *** [Qh 5d 2d] [7h]
+Zane640: checks 
+Y_19: bets $16.15
+Zane640: folds 
+Uncalled bet ($16.15) returned to Y_19
+Y_19 collected $32.29 from pot
+Y_19: doesn't show hand 
+*** SUMMARY ***
+Total pot $33.99 | Rake $1.70 
+Board [Qh 5d 2d 7h]
+Seat 4: b2k-Snick
+Seat 1: Pon4uk.ua (button) folded before Flop (didn't bet)
+Seat 2: Zane640 (small blind) folded on the Turn
+Seat 3: NOTfishON (big blind) folded before Flop
+Seat 5: 50CandyJoe folded on the Flop
+Seat 6: Y_19 collected ($32.29)
+
+
+
+PokerStars Hand #254762580637:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:19:42 WET [2025/02/08 3:19:42 ET]
+Table 'Kienle' 6-max Seat #2 is the button
+Seat 1: Pon4uk.ua ($206.56 in chips) 
+Seat 2: Zane640 ($62.13 in chips) 
+Seat 3: NOTfishON ($100.20 in chips) 
+Seat 4: b2k-Snick ($101.93 in chips) 
+Seat 5: 50CandyJoe ($100 in chips) 
+Seat 6: Y_19 ($122.81 in chips) 
+NOTfishON: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+50CandyJoe: raises $1.20 to $2.20
+Y_19: folds 
+Pon4uk.ua: folds 
+Zane640: calls $2.20
+NOTfishON: folds 
+b2k-Snick: calls $1.20
+*** FLOP *** [Jh As 8d]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** TURN *** [Jh As 8d] [2d]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: bets $1
+b2k-Snick: folds 
+50CandyJoe: folds 
+Uncalled bet ($1) returned to Zane640
+Zane640 collected $6.74 from pot
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.36 
+Board [Jh As 8d 2d]
+Seat 1: Pon4uk.ua folded before Flop (didn't bet)
+Seat 2: Zane640 (button) collected ($6.74)
+Seat 3: NOTfishON (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded on the Turn
+Seat 5: 50CandyJoe folded on the Turn
+Seat 6: Y_19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762585589:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:20:36 WET [2025/02/08 3:20:36 ET]
+Table 'Kienle' 6-max Seat #3 is the button
+Seat 1: Pon4uk.ua ($206.56 in chips) 
+Seat 2: Zane640 ($66.67 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($100 in chips) 
+Seat 5: 50CandyJoe ($100 in chips) 
+Seat 6: Y_19 ($122.81 in chips) 
+b2k-Snick: posts small blind $0.50
+50CandyJoe: posts big blind $1
+*** HOLE CARDS ***
+Y_19: folds 
+Pon4uk.ua: folds 
+Zane640: calls $1
+NOTfishON: folds 
+b2k-Snick: calls $0.50
+50CandyJoe: checks 
+*** FLOP *** [7s Qd 9h]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** TURN *** [7s Qd 9h] [Kd]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** RIVER *** [7s Qd 9h Kd] [4d]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** SHOW DOWN ***
+b2k-Snick: shows [3d Ah] (high card Ace)
+50CandyJoe: shows [7h Tc] (a pair of Sevens)
+Zane640: shows [9s 3c] (a pair of Nines)
+Zane640 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [7s Qd 9h Kd 4d]
+Seat 1: Pon4uk.ua folded before Flop (didn't bet)
+Seat 2: Zane640 showed [9s 3c] and won ($2.85) with a pair of Nines
+Seat 3: NOTfishON (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) showed [3d Ah] and lost with high card Ace
+Seat 5: 50CandyJoe (big blind) showed [7h Tc] and lost with a pair of Sevens
+Seat 6: Y_19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762589618:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:21:19 WET [2025/02/08 3:21:19 ET]
+Table 'Kienle' 6-max Seat #4 is the button
+Seat 1: Pon4uk.ua ($206.56 in chips) 
+Seat 2: Zane640 ($68.52 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($100 in chips) 
+Seat 5: 50CandyJoe ($100 in chips) 
+Seat 6: Y_19 ($122.81 in chips) 
+50CandyJoe: posts small blind $0.50
+Y_19: posts big blind $1
+*** HOLE CARDS ***
+Pon4uk.ua: raises $1 to $2
+Zane640: folds 
+NOTfishON: folds 
+b2k-Snick: folds 
+50CandyJoe: folds 
+Y_19: folds 
+Uncalled bet ($1) returned to Pon4uk.ua
+Pon4uk.ua collected $2.50 from pot
+Pon4uk.ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Pon4uk.ua collected ($2.50)
+Seat 2: Zane640 folded before Flop (didn't bet)
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: 50CandyJoe (small blind) folded before Flop
+Seat 6: Y_19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254762591989:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:21:45 WET [2025/02/08 3:21:45 ET]
+Table 'Kienle' 6-max Seat #5 is the button
+Seat 1: Pon4uk.ua ($208.06 in chips) 
+Seat 2: Zane640 ($68.52 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($100 in chips) 
+Seat 5: 50CandyJoe ($100 in chips) 
+Seat 6: Y_19 ($121.81 in chips) 
+Y_19: posts small blind $0.50
+Pon4uk.ua: posts big blind $1
+*** HOLE CARDS ***
+Zane640: folds 
+NOTfishON: folds 
+b2k-Snick: folds 
+50CandyJoe: raises $1.50 to $2.50
+Y_19: folds 
+Pon4uk.ua: calls $1.50
+*** FLOP *** [4h Ts Tc]
+Pon4uk.ua: checks 
+50CandyJoe: bets $1.31
+Pon4uk.ua: calls $1.31
+*** TURN *** [4h Ts Tc] [9s]
+Pon4uk.ua: checks 
+50CandyJoe: bets $5.09
+Pon4uk.ua: folds 
+Uncalled bet ($5.09) returned to 50CandyJoe
+50CandyJoe collected $7.71 from pot
+50CandyJoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.12 | Rake $0.41 
+Board [4h Ts Tc 9s]
+Seat 1: Pon4uk.ua (big blind) folded on the Turn
+Seat 2: Zane640 folded before Flop (didn't bet)
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: 50CandyJoe (button) collected ($7.71)
+Seat 6: Y_19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254762596657:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:22:35 WET [2025/02/08 3:22:35 ET]
+Table 'Kienle' 6-max Seat #6 is the button
+Seat 1: Pon4uk.ua ($204.25 in chips) 
+Seat 2: Zane640 ($68.52 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($100 in chips) 
+Seat 5: 50CandyJoe ($103.90 in chips) 
+Seat 6: Y_19 ($121.31 in chips) 
+Pon4uk.ua: posts small blind $0.50
+Zane640: posts big blind $1
+*** HOLE CARDS ***
+NOTfishON: folds 
+b2k-Snick: raises $2 to $3
+50CandyJoe: folds 
+Y_19: folds 
+Pon4uk.ua: calls $2.50
+Zane640: calls $2
+*** FLOP *** [2h Qs 6h]
+Pon4uk.ua: checks 
+Zane640: checks 
+b2k-Snick: checks 
+*** TURN *** [2h Qs 6h] [6d]
+Pon4uk.ua: bets $4.28
+Zane640: calls $4.28
+b2k-Snick: folds 
+*** RIVER *** [2h Qs 6h 6d] [3c]
+Pon4uk.ua: checks 
+Zane640: checks 
+*** SHOW DOWN ***
+Pon4uk.ua: shows [8d 8h] (two pair, Eights and Sixes)
+Zane640: mucks hand 
+Pon4uk.ua collected $16.68 from pot
+*** SUMMARY ***
+Total pot $17.56 | Rake $0.88 
+Board [2h Qs 6h 6d 3c]
+Seat 1: Pon4uk.ua (small blind) showed [8d 8h] and won ($16.68) with two pair, Eights and Sixes
+Seat 2: Zane640 (big blind) mucked
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded on the Turn
+Seat 5: 50CandyJoe folded before Flop (didn't bet)
+Seat 6: Y_19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762601619:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:23:28 WET [2025/02/08 3:23:28 ET]
+Table 'Kienle' 6-max Seat #1 is the button
+Seat 1: Pon4uk.ua ($213.65 in chips) 
+Seat 2: Zane640 ($61.24 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($100 in chips) 
+Seat 5: 50CandyJoe ($103.90 in chips) 
+Seat 6: Y_19 ($121.31 in chips) 
+Zane640: posts small blind $0.50
+NOTfishON: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+50CandyJoe: raises $1.20 to $2.20
+Y_19: folds 
+Pon4uk.ua: folds 
+Zane640: calls $1.70
+NOTfishON: folds 
+*** FLOP *** [8s Kc 5h]
+Zane640: checks 
+50CandyJoe: bets $1.69
+Zane640: calls $1.69
+*** TURN *** [8s Kc 5h] [Qc]
+Zane640: checks 
+50CandyJoe: checks 
+*** RIVER *** [8s Kc 5h Qc] [9d]
+Zane640: checks 
+50CandyJoe: bets $2.09
+Zane640: folds 
+Uncalled bet ($2.09) returned to 50CandyJoe
+50CandyJoe collected $8.34 from pot
+50CandyJoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.78 | Rake $0.44 
+Board [8s Kc 5h Qc 9d]
+Seat 1: Pon4uk.ua (button) folded before Flop (didn't bet)
+Seat 2: Zane640 (small blind) folded on the River
+Seat 3: NOTfishON (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: 50CandyJoe collected ($8.34)
+Seat 6: Y_19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762605184:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:24:06 WET [2025/02/08 3:24:06 ET]
+Table 'Kienle' 6-max Seat #2 is the button
+Seat 1: Pon4uk.ua ($213.65 in chips) 
+Seat 2: Zane640 ($57.35 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($100 in chips) 
+Seat 5: 50CandyJoe ($108.35 in chips) 
+Seat 6: Y_19 ($121.31 in chips) 
+NOTfishON: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+50CandyJoe: raises $1.20 to $2.20
+Y_19: folds 
+Pon4uk.ua: folds 
+Zane640: calls $2.20
+NOTfishON: folds 
+b2k-Snick: calls $1.20
+*** FLOP *** [3s 4s 2d]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** TURN *** [3s 4s 2d] [6d]
+b2k-Snick: bets $4
+50CandyJoe: calls $4
+Zane640: calls $4
+*** RIVER *** [3s 4s 2d 6d] [2h]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** SHOW DOWN ***
+b2k-Snick: shows [Qc 6c] (two pair, Sixes and Deuces)
+50CandyJoe: mucks hand 
+Zane640: mucks hand 
+b2k-Snick collected $18.14 from pot
+*** SUMMARY ***
+Total pot $19.10 | Rake $0.96 
+Board [3s 4s 2d 6d 2h]
+Seat 1: Pon4uk.ua folded before Flop (didn't bet)
+Seat 2: Zane640 (button) mucked
+Seat 3: NOTfishON (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) showed [Qc 6c] and won ($18.14) with two pair, Sixes and Deuces
+Seat 5: 50CandyJoe mucked
+Seat 6: Y_19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762610648:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:25:05 WET [2025/02/08 3:25:05 ET]
+Table 'Kienle' 6-max Seat #3 is the button
+Seat 1: Pon4uk.ua ($213.65 in chips) 
+Seat 2: Zane640 ($51.15 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($111.94 in chips) 
+Seat 5: 50CandyJoe ($102.15 in chips) 
+Seat 6: Y_19 ($121.31 in chips) 
+b2k-Snick: posts small blind $0.50
+50CandyJoe: posts big blind $1
+*** HOLE CARDS ***
+Y_19: folds 
+Pon4uk.ua: folds 
+Zane640: calls $1
+NOTfishON: folds 
+b2k-Snick: calls $0.50
+50CandyJoe: checks 
+*** FLOP *** [9d 4s 5s]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** TURN *** [9d 4s 5s] [Ts]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** RIVER *** [9d 4s 5s Ts] [6h]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** SHOW DOWN ***
+b2k-Snick: shows [Kd 5h] (a pair of Fives)
+50CandyJoe: shows [6d Kh] (a pair of Sixes)
+Zane640: mucks hand 
+50CandyJoe collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [9d 4s 5s Ts 6h]
+Seat 1: Pon4uk.ua folded before Flop (didn't bet)
+Seat 2: Zane640 mucked
+Seat 3: NOTfishON (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) showed [Kd 5h] and lost with a pair of Fives
+Seat 5: 50CandyJoe (big blind) showed [6d Kh] and won ($2.85) with a pair of Sixes
+Seat 6: Y_19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762614430:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:25:46 WET [2025/02/08 3:25:46 ET]
+Table 'Kienle' 6-max Seat #4 is the button
+Seat 1: Pon4uk.ua ($213.65 in chips) 
+Seat 2: Zane640 ($50.15 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($110.94 in chips) 
+Seat 5: 50CandyJoe ($104 in chips) 
+Seat 6: Y_19 ($121.31 in chips) 
+50CandyJoe: posts small blind $0.50
+Y_19: posts big blind $1
+*** HOLE CARDS ***
+Pon4uk.ua: folds 
+Zane640: calls $1
+NOTfishON: folds 
+b2k-Snick: folds 
+50CandyJoe: raises $3.50 to $4.50
+Y_19: folds 
+Zane640: folds 
+Uncalled bet ($3.50) returned to 50CandyJoe
+50CandyJoe collected $3 from pot
+50CandyJoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: Pon4uk.ua folded before Flop (didn't bet)
+Seat 2: Zane640 folded before Flop
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: 50CandyJoe (small blind) collected ($3)
+Seat 6: Y_19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254762617114:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:26:15 WET [2025/02/08 3:26:15 ET]
+Table 'Kienle' 6-max Seat #5 is the button
+Seat 1: Pon4uk.ua ($213.65 in chips) 
+Seat 2: Zane640 ($49.15 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($110.94 in chips) 
+Seat 5: 50CandyJoe ($106 in chips) 
+Seat 6: Y_19 ($120.31 in chips) 
+Y_19: posts small blind $0.50
+Pon4uk.ua: posts big blind $1
+*** HOLE CARDS ***
+Zane640: calls $1
+NOTfishON: folds 
+b2k-Snick: folds 
+50CandyJoe: folds 
+Y_19: folds 
+Pon4uk.ua: checks 
+*** FLOP *** [5d 8d 9h]
+Pon4uk.ua: checks 
+Zane640: bets $1
+Pon4uk.ua: folds 
+Uncalled bet ($1) returned to Zane640
+Zane640 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [5d 8d 9h]
+Seat 1: Pon4uk.ua (big blind) folded on the Flop
+Seat 2: Zane640 collected ($2.38)
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: 50CandyJoe (button) folded before Flop (didn't bet)
+Seat 6: Y_19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254762620766:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:26:55 WET [2025/02/08 3:26:55 ET]
+Table 'Kienle' 6-max Seat #6 is the button
+Seat 1: Pon4uk.ua ($212.65 in chips) 
+Seat 2: Zane640 ($50.53 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($110.94 in chips) 
+Seat 5: 50CandyJoe ($106 in chips) 
+Seat 6: Y_19 ($119.81 in chips) 
+Pon4uk.ua: posts small blind $0.50
+Zane640: posts big blind $1
+*** HOLE CARDS ***
+NOTfishON: folds 
+b2k-Snick: folds 
+50CandyJoe: raises $1.20 to $2.20
+Y_19: folds 
+Pon4uk.ua: folds 
+Zane640: folds 
+Uncalled bet ($1.20) returned to 50CandyJoe
+50CandyJoe collected $2.50 from pot
+50CandyJoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Pon4uk.ua (small blind) folded before Flop
+Seat 2: Zane640 (big blind) folded before Flop
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: 50CandyJoe collected ($2.50)
+Seat 6: Y_19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762622306:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:27:12 WET [2025/02/08 3:27:12 ET]
+Table 'Kienle' 6-max Seat #1 is the button
+Seat 1: Pon4uk.ua ($212.15 in chips) 
+Seat 2: Zane640 ($49.53 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($110.94 in chips) 
+Seat 5: 50CandyJoe ($107.50 in chips) 
+Seat 6: Y_19 ($119.81 in chips) 
+Zane640: posts small blind $0.50
+NOTfishON: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+50CandyJoe: folds 
+Y_19: folds 
+Pon4uk.ua: raises $1.50 to $2.50
+Zane640: raises $1.50 to $4
+NOTfishON: folds 
+Pon4uk.ua: calls $1.50
+*** FLOP *** [9d 9s 2s]
+Zane640: checks 
+Pon4uk.ua: checks 
+*** TURN *** [9d 9s 2s] [2c]
+Zane640: bets $4.28
+Pon4uk.ua: calls $4.28
+*** RIVER *** [9d 9s 2s 2c] [2h]
+Zane640: checks 
+Pon4uk.ua: checks 
+*** SHOW DOWN ***
+Zane640: shows [Ts Js] (a full house, Deuces full of Nines)
+Pon4uk.ua: shows [7d 7h] (a full house, Deuces full of Nines)
+Zane640 collected $8.34 from pot
+Pon4uk.ua collected $8.34 from pot
+*** SUMMARY ***
+Total pot $17.56 | Rake $0.88 
+Board [9d 9s 2s 2c 2h]
+Seat 1: Pon4uk.ua (button) showed [7d 7h] and won ($8.34) with a full house, Deuces full of Nines
+Seat 2: Zane640 (small blind) showed [Ts Js] and won ($8.34) with a full house, Deuces full of Nines
+Seat 3: NOTfishON (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: 50CandyJoe folded before Flop (didn't bet)
+Seat 6: Y_19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762628312:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:28:18 WET [2025/02/08 3:28:18 ET]
+Table 'Kienle' 6-max Seat #2 is the button
+Seat 1: Pon4uk.ua ($212.21 in chips) 
+Seat 2: Zane640 ($49.59 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($110.94 in chips) 
+Seat 5: 50CandyJoe ($107.50 in chips) 
+Seat 6: Y_19 ($119.81 in chips) 
+NOTfishON: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+50CandyJoe: folds 
+Y_19: folds 
+Pon4uk.ua: folds 
+Zane640: raises $1 to $2
+NOTfishON: folds 
+b2k-Snick: folds 
+Uncalled bet ($1) returned to Zane640
+Zane640 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Pon4uk.ua folded before Flop (didn't bet)
+Seat 2: Zane640 (button) collected ($2.50)
+Seat 3: NOTfishON (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: 50CandyJoe folded before Flop (didn't bet)
+Seat 6: Y_19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762631411:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:28:52 WET [2025/02/08 3:28:52 ET]
+Table 'Kienle' 6-max Seat #3 is the button
+Seat 1: Pon4uk.ua ($212.21 in chips) 
+Seat 2: Zane640 ($51.09 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($109.94 in chips) 
+Seat 5: 50CandyJoe ($107.50 in chips) 
+Seat 6: Y_19 ($119.81 in chips) 
+b2k-Snick: posts small blind $0.50
+50CandyJoe: posts big blind $1
+*** HOLE CARDS ***
+Y_19: folds 
+Pon4uk.ua: folds 
+Zane640: calls $1
+NOTfishON: folds 
+b2k-Snick: calls $0.50
+50CandyJoe: checks 
+*** FLOP *** [2s Ac 7c]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** TURN *** [2s Ac 7c] [Ah]
+b2k-Snick: checks 
+50CandyJoe has timed out
+50CandyJoe: checks 
+Zane640: checks 
+*** RIVER *** [2s Ac 7c Ah] [Qh]
+b2k-Snick: checks 
+50CandyJoe: checks 
+Zane640: checks 
+*** SHOW DOWN ***
+b2k-Snick: shows [8d 9h] (a pair of Aces)
+50CandyJoe: shows [Jd 5c] (a pair of Aces - Queen+Jack kicker)
+Zane640: mucks hand 
+50CandyJoe collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [2s Ac 7c Ah Qh]
+Seat 1: Pon4uk.ua folded before Flop (didn't bet)
+Seat 2: Zane640 mucked
+Seat 3: NOTfishON (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) showed [8d 9h] and lost with a pair of Aces
+Seat 5: 50CandyJoe (big blind) showed [Jd 5c] and won ($2.85) with a pair of Aces
+Seat 6: Y_19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254762639573:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:30:23 WET [2025/02/08 3:30:23 ET]
+Table 'Kienle' 6-max Seat #4 is the button
+Seat 1: Pon4uk.ua ($212.21 in chips) 
+Seat 2: Zane640 ($50.09 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($108.94 in chips) 
+Seat 5: 50CandyJoe ($109.35 in chips) 
+Seat 6: Y_19 ($119.81 in chips) 
+50CandyJoe: posts small blind $0.50
+Y_19: posts big blind $1
+*** HOLE CARDS ***
+Pon4uk.ua: folds 
+Zane640: calls $1
+NOTfishON: folds 
+b2k-Snick: raises $3 to $4
+50CandyJoe: folds 
+Y_19: folds 
+Zane640: calls $3
+*** FLOP *** [Td Qs Jd]
+Zane640: checks 
+b2k-Snick: bets $4.96
+Zane640: calls $4.96
+*** TURN *** [Td Qs Jd] [Ah]
+Zane640: checks 
+b2k-Snick: checks 
+*** RIVER *** [Td Qs Jd Ah] [4s]
+Zane640: bets $41.13 and is all-in
+b2k-Snick: calls $41.13
+*** SHOW DOWN ***
+Zane640: shows [3h 4c] (a pair of Fours)
+b2k-Snick: shows [Ad Kc] (a straight, Ten to Ace)
+b2k-Snick collected $99.18 from pot
+*** SUMMARY ***
+Total pot $101.68 | Rake $2.50 
+Board [Td Qs Jd Ah 4s]
+Seat 1: Pon4uk.ua folded before Flop (didn't bet)
+Seat 2: Zane640 showed [3h 4c] and lost with a pair of Fours
+Seat 3: NOTfishON folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) showed [Ad Kc] and won ($99.18) with a straight, Ten to Ace
+Seat 5: 50CandyJoe (small blind) folded before Flop
+Seat 6: Y_19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254762644611:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:31:17 WET [2025/02/08 3:31:17 ET]
+Table 'Kienle' 6-max Seat #5 is the button
+Seat 2: Zane640 ($0 in chips) is sitting out
+Seat 1: Pon4uk.ua ($212.21 in chips) 
+Seat 3: NOTfishON ($100 in chips) 
+Seat 4: b2k-Snick ($158.03 in chips) 
+Seat 5: 50CandyJoe ($108.85 in chips) 
+Seat 6: Y_19 ($118.81 in chips) 
+Y_19: posts small blind $0.50
+Pon4uk.ua: posts big blind $1
+*** HOLE CARDS ***
+NOTfishON: raises $1 to $2
+Zane640 leaves the table
+b2k-Snick: folds 
+50CandyJoe: folds 
+Y_19: raises $8 to $10
+Pon4uk.ua: folds 
+NOTfishON: folds 
+Uncalled bet ($8) returned to Y_19
+Y_19 collected $5 from pot
+Y_19: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 2: Zane640
+Seat 1: Pon4uk.ua (big blind) folded before Flop
+Seat 3: NOTfishON folded before Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: 50CandyJoe (button) folded before Flop (didn't bet)
+Seat 6: Y_19 (small blind) collected ($5)
+
+
+
+PokerStars Hand #254762648147:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 8:31:56 WET [2025/02/08 3:31:56 ET]
+Table 'Kienle' 6-max Seat #6 is the button
+Seat 4: b2k-Snick ($158.03 in chips) is sitting out
+Seat 3: NOTfishON ($100 in chips) 
+Seat 5: 50CandyJoe ($108.85 in chips) 
+Seat 6: Y_19 ($121.81 in chips) 
+NOTfishON: posts small blind $0.50
+Pon4uk.ua leaves the table
+b2k-Snick: is sitting out 
+50CandyJoe: posts big blind $1
+*** HOLE CARDS ***
+Y_19: raises $1.23 to $2.23
+NOTfishON: folds 
+50CandyJoe: calls $1.23
+*** FLOP *** [3d 4d 2c]
+50CandyJoe: checks 
+b2k-Snick leaves the table
+Y_19: checks 
+*** TURN *** [3d 4d 2c] [Jd]
+50CandyJoe: checks 
+Y_19: bets $1.55
+50CandyJoe: folds 
+Uncalled bet ($1.55) returned to Y_19
+Y_19 collected $4.71 from pot
+Y_19: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.96 | Rake $0.25 
+Board [3d 4d 2c Jd]
+Seat 4: b2k-Snick
+Seat 3: NOTfishON (small blind) folded before Flop
+Seat 5: 50CandyJoe (big blind) folded on the Turn
+Seat 6: Y_19 (button) collected ($4.71)
+
+
+

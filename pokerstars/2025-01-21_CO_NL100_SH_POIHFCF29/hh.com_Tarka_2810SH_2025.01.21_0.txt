@@ -1,0 +1,55 @@
+﻿PokerStars Hand #254490779547:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 21:59:22 WET [2025/01/21 16:59:22 ET]
+Table 'Tarka IV' 6-max Seat #5 is the button
+Seat 6: Sadyhov V.V. ($100 in chips) is sitting out
+Seat 3: nikalas22 ($100 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+ptolejmus: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: calls $0.50
+nikalas22: checks 
+*** FLOP *** [8d 6d 6c]
+nikalas22: checks 
+ptolejmus: bets $1
+nikalas22: calls $1
+*** TURN *** [8d 6d 6c] [7c]
+nikalas22: checks 
+ptolejmus: checks 
+*** RIVER *** [8d 6d 6c 7c] [6h]
+nikalas22: checks 
+ptolejmus: checks 
+*** SHOW DOWN ***
+nikalas22: shows [Qc Jd] (three of a kind, Sixes)
+ptolejmus: mucks hand 
+nikalas22 collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [8d 6d 6c 7c 6h]
+Seat 6: Sadyhov V.V.
+Seat 3: nikalas22 (big blind) showed [Qc Jd] and won ($3.80) with three of a kind, Sixes
+Seat 5: ptolejmus (button) (small blind) mucked
+
+
+
+PokerStars Hand #254490789550:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 22:00:09 WET [2025/01/21 17:00:09 ET]
+Table 'Tarka IV' 6-max Seat #3 is the button
+Seat 6: Sadyhov V.V. ($100 in chips) is sitting out
+Seat 3: nikalas22 ($101.80 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+nikalas22: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: raises $1.50 to $2.50
+ptolejmus: folds 
+Uncalled bet ($1.50) returned to nikalas22
+nikalas22 collected $2 from pot
+nikalas22: doesn't show hand 
+ptolejmus leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: Sadyhov V.V.
+Seat 3: nikalas22 (button) (small blind) collected ($2)
+Seat 5: ptolejmus (big blind) folded before Flop
+
+
+

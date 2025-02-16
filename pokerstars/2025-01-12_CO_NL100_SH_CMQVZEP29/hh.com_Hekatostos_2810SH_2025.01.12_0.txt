@@ -1,0 +1,860 @@
+﻿PokerStars Hand #254344141384:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:27:12 WET [2025/01/12 21:27:12 ET]
+Table 'Hekatostos' 6-max Seat #6 is the button
+Seat 1: m0nTTu ($80 in chips) 
+Seat 2: Nicedaymybro ($100 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: equilibrium_tv ($40 in chips) 
+Seat 5: Dimastrisch ($100 in chips) 
+Seat 6: SingingPancake ($100 in chips) 
+m0nTTu: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+equilibrium_tv: folds 
+Dimastrisch: raises $1.50 to $2.50
+SingingPancake: raises $5.50 to $8
+m0nTTu: folds 
+Nicedaymybro: folds 
+Dimastrisch: calls $5.50
+*** FLOP *** [Ad 6s 6d]
+Dimastrisch: checks 
+SingingPancake: checks 
+*** TURN *** [Ad 6s 6d] [Jc]
+Dimastrisch: bets $3.49
+SingingPancake: calls $3.49
+*** RIVER *** [Ad 6s 6d Jc] [Qc]
+Dimastrisch: checks 
+SingingPancake: checks 
+*** SHOW DOWN ***
+Dimastrisch: shows [Th Ts] (two pair, Tens and Sixes)
+SingingPancake: shows [Kh Kd] (two pair, Kings and Sixes)
+SingingPancake collected $23.26 from pot
+*** SUMMARY ***
+Total pot $24.48 | Rake $1.22 
+Board [Ad 6s 6d Jc Qc]
+Seat 1: m0nTTu (small blind) folded before Flop
+Seat 2: Nicedaymybro (big blind) folded before Flop
+Seat 3: Rysiff folded before Flop (didn't bet)
+Seat 4: equilibrium_tv folded before Flop (didn't bet)
+Seat 5: Dimastrisch showed [Th Ts] and lost with two pair, Tens and Sixes
+Seat 6: SingingPancake (button) showed [Kh Kd] and won ($23.26) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #254344150631:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:28:17 WET [2025/01/12 21:28:17 ET]
+Table 'Hekatostos' 6-max Seat #1 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: Nicedaymybro ($100 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: equilibrium_tv ($40 in chips) 
+Seat 5: Dimastrisch ($100 in chips) 
+Seat 6: SingingPancake ($111.77 in chips) 
+Nicedaymybro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: raises $1 to $2
+Dimastrisch: folds 
+SingingPancake: folds 
+m0nTTu: folds 
+Nicedaymybro: folds 
+Rysiff: folds 
+Uncalled bet ($1) returned to equilibrium_tv
+equilibrium_tv collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m0nTTu (button) folded before Flop (didn't bet)
+Seat 2: Nicedaymybro (small blind) folded before Flop
+Seat 3: Rysiff (big blind) folded before Flop
+Seat 4: equilibrium_tv collected ($2.50)
+Seat 5: Dimastrisch folded before Flop (didn't bet)
+Seat 6: SingingPancake folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254344152994:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:28:33 WET [2025/01/12 21:28:33 ET]
+Table 'Hekatostos' 6-max Seat #2 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: Nicedaymybro ($100 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: equilibrium_tv ($41.50 in chips) 
+Seat 5: Dimastrisch ($100 in chips) 
+Seat 6: SingingPancake ($111.77 in chips) 
+Rysiff: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+Dimastrisch: folds 
+SingingPancake: folds 
+m0nTTu: folds 
+Nicedaymybro: raises $1.50 to $2.50
+Rysiff: folds 
+equilibrium_tv: folds 
+Uncalled bet ($1.50) returned to Nicedaymybro
+Nicedaymybro collected $2.50 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: Nicedaymybro (button) collected ($2.50)
+Seat 3: Rysiff (small blind) folded before Flop
+Seat 4: equilibrium_tv (big blind) folded before Flop
+Seat 5: Dimastrisch folded before Flop (didn't bet)
+Seat 6: SingingPancake folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254344155457:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:28:50 WET [2025/01/12 21:28:50 ET]
+Table 'Hekatostos' 6-max Seat #3 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: Nicedaymybro ($101.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: equilibrium_tv ($40.50 in chips) 
+Seat 5: Dimastrisch ($100 in chips) 
+Seat 6: SingingPancake ($111.77 in chips) 
+equilibrium_tv: posts small blind $0.50
+Dimastrisch: posts big blind $1
+*** HOLE CARDS ***
+SingingPancake: folds 
+m0nTTu: folds 
+Nicedaymybro: folds 
+Rysiff: folds 
+equilibrium_tv: folds 
+Uncalled bet ($0.50) returned to Dimastrisch
+Dimastrisch collected $1 from pot
+Dimastrisch: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: Nicedaymybro folded before Flop (didn't bet)
+Seat 3: Rysiff (button) folded before Flop (didn't bet)
+Seat 4: equilibrium_tv (small blind) folded before Flop
+Seat 5: Dimastrisch (big blind) collected ($1)
+Seat 6: SingingPancake folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254344157096:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:29:02 WET [2025/01/12 21:29:02 ET]
+Table 'Hekatostos' 6-max Seat #4 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: Nicedaymybro ($101.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: equilibrium_tv ($40 in chips) 
+Seat 5: Dimastrisch ($100.50 in chips) 
+Seat 6: SingingPancake ($111.77 in chips) 
+Dimastrisch: posts small blind $0.50
+SingingPancake: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Nicedaymybro: folds 
+Rysiff: raises $1.50 to $2.50
+equilibrium_tv: folds 
+Dimastrisch: folds 
+SingingPancake: calls $1.50
+*** FLOP *** [4d Ah Kc]
+SingingPancake: checks 
+Rysiff: bets $1.72
+SingingPancake: calls $1.72
+*** TURN *** [4d Ah Kc] [Jd]
+SingingPancake: checks 
+Rysiff: checks 
+*** RIVER *** [4d Ah Kc Jd] [5d]
+SingingPancake: bets $4.25
+Rysiff: calls $4.25
+*** SHOW DOWN ***
+SingingPancake: shows [7s Ad] (a pair of Aces)
+Rysiff: mucks hand 
+SingingPancake collected $16.57 from pot
+*** SUMMARY ***
+Total pot $17.44 | Rake $0.87 
+Board [4d Ah Kc Jd 5d]
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: Nicedaymybro folded before Flop (didn't bet)
+Seat 3: Rysiff mucked
+Seat 4: equilibrium_tv (button) folded before Flop (didn't bet)
+Seat 5: Dimastrisch (small blind) folded before Flop
+Seat 6: SingingPancake (big blind) showed [7s Ad] and won ($16.57) with a pair of Aces
+
+
+
+PokerStars Hand #254344163454:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:29:46 WET [2025/01/12 21:29:46 ET]
+Table 'Hekatostos' 6-max Seat #5 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: Nicedaymybro ($101.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: equilibrium_tv ($40 in chips) 
+Seat 5: Dimastrisch ($100 in chips) 
+Seat 6: SingingPancake ($119.87 in chips) 
+SingingPancake: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: raises $1.50 to $2.50
+Rysiff: folds 
+equilibrium_tv: folds 
+Dimastrisch: folds 
+SingingPancake: folds 
+m0nTTu: folds 
+Uncalled bet ($1.50) returned to Nicedaymybro
+Nicedaymybro collected $2.50 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m0nTTu (big blind) folded before Flop
+Seat 2: Nicedaymybro collected ($2.50)
+Seat 3: Rysiff folded before Flop (didn't bet)
+Seat 4: equilibrium_tv folded before Flop (didn't bet)
+Seat 5: Dimastrisch (button) folded before Flop (didn't bet)
+Seat 6: SingingPancake (small blind) folded before Flop
+
+
+
+PokerStars Hand #254344166125:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:30:05 WET [2025/01/12 21:30:05 ET]
+Table 'Hekatostos' 6-max Seat #6 is the button
+Seat 1: m0nTTu ($99 in chips) 
+Seat 2: Nicedaymybro ($103 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: equilibrium_tv ($40 in chips) 
+Seat 5: Dimastrisch ($100 in chips) 
+Seat 6: SingingPancake ($119.37 in chips) 
+m0nTTu: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+equilibrium_tv: folds 
+Dimastrisch: folds 
+SingingPancake: calls $2.50
+m0nTTu: folds 
+Nicedaymybro: folds 
+*** FLOP *** [3s Jh Kh]
+Rysiff: checks 
+SingingPancake: bets $4
+Rysiff: calls $4
+*** TURN *** [3s Jh Kh] [4s]
+Rysiff: checks 
+SingingPancake: checks 
+*** RIVER *** [3s Jh Kh 4s] [Ks]
+Rysiff: bets $11.02
+SingingPancake: calls $11.02
+*** SHOW DOWN ***
+Rysiff: shows [8h Th] (a pair of Kings)
+SingingPancake: shows [Kd 2d] (three of a kind, Kings)
+SingingPancake collected $34.71 from pot
+*** SUMMARY ***
+Total pot $36.54 | Rake $1.83 
+Board [3s Jh Kh 4s Ks]
+Seat 1: m0nTTu (small blind) folded before Flop
+Seat 2: Nicedaymybro (big blind) folded before Flop
+Seat 3: Rysiff showed [8h Th] and lost with a pair of Kings
+Seat 4: equilibrium_tv folded before Flop (didn't bet)
+Seat 5: Dimastrisch folded before Flop (didn't bet)
+Seat 6: SingingPancake (button) showed [Kd 2d] and won ($34.71) with three of a kind, Kings
+
+
+
+PokerStars Hand #254344175698:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:31:11 WET [2025/01/12 21:31:11 ET]
+Table 'Hekatostos' 6-max Seat #1 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: Nicedaymybro ($102 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: equilibrium_tv ($40 in chips) 
+Seat 5: Dimastrisch ($100 in chips) 
+Seat 6: SingingPancake ($136.56 in chips) 
+Nicedaymybro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: raises $1 to $2
+Dimastrisch: folds 
+SingingPancake: folds 
+m0nTTu: folds 
+Nicedaymybro: raises $6 to $8
+Rysiff: folds 
+equilibrium_tv: folds 
+Uncalled bet ($6) returned to Nicedaymybro
+Nicedaymybro collected $5 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: m0nTTu (button) folded before Flop (didn't bet)
+Seat 2: Nicedaymybro (small blind) collected ($5)
+Seat 3: Rysiff (big blind) folded before Flop
+Seat 4: equilibrium_tv folded before Flop
+Seat 5: Dimastrisch folded before Flop (didn't bet)
+Seat 6: SingingPancake folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254344178118:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:31:28 WET [2025/01/12 21:31:28 ET]
+Table 'Hekatostos' 6-max Seat #2 is the button
+Seat 4: equilibrium_tv ($38 in chips) is sitting out
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: Nicedaymybro ($105 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 5: Dimastrisch ($100 in chips) 
+Seat 6: SingingPancake ($136.56 in chips) 
+Rysiff: posts small blind $0.50
+equilibrium_tv: is sitting out 
+Dimastrisch: posts big blind $1
+*** HOLE CARDS ***
+SingingPancake: raises $1.50 to $2.50
+m0nTTu: folds 
+Nicedaymybro: folds 
+Rysiff: folds 
+Dimastrisch: folds 
+Uncalled bet ($1.50) returned to SingingPancake
+SingingPancake collected $2.50 from pot
+SingingPancake: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: equilibrium_tv
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: Nicedaymybro (button) folded before Flop (didn't bet)
+Seat 3: Rysiff (small blind) folded before Flop
+Seat 5: Dimastrisch (big blind) folded before Flop
+Seat 6: SingingPancake collected ($2.50)
+
+
+
+PokerStars Hand #254344181547:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:31:52 WET [2025/01/12 21:31:52 ET]
+Table 'Hekatostos' 6-max Seat #3 is the button
+Seat 4: equilibrium_tv ($38 in chips) is sitting out
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: Nicedaymybro ($105 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 5: Dimastrisch ($99 in chips) 
+Seat 6: SingingPancake ($138.06 in chips) 
+Dimastrisch: posts small blind $0.50
+SingingPancake: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv leaves the table
+m0nTTu: folds 
+Nicedaymybro: raises $1.50 to $2.50
+Rysiff: folds 
+Dimastrisch: folds 
+SingingPancake: folds 
+Uncalled bet ($1.50) returned to Nicedaymybro
+Nicedaymybro collected $2.50 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: equilibrium_tv
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: Nicedaymybro collected ($2.50)
+Seat 3: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: Dimastrisch (small blind) folded before Flop
+Seat 6: SingingPancake (big blind) folded before Flop
+
+
+
+PokerStars Hand #254344185053:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:32:16 WET [2025/01/12 21:32:16 ET]
+Table 'Hekatostos' 6-max Seat #5 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: Nicedaymybro ($106.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 5: Dimastrisch ($100 in chips) 
+Seat 6: SingingPancake ($137.06 in chips) 
+SingingPancake: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+Rysiff: folds 
+Dimastrisch: raises $1.50 to $2.50
+SingingPancake: calls $2
+m0nTTu: calls $1.50
+*** FLOP *** [2c 8h Qh]
+SingingPancake: checks 
+m0nTTu: checks 
+Dimastrisch: bets $3.49
+B1GBankroll joins the table at seat #4 
+SingingPancake: calls $3.49
+m0nTTu: folds 
+*** TURN *** [2c 8h Qh] [4c]
+SingingPancake: checks 
+Dimastrisch: bets $16.42
+SingingPancake: folds 
+Uncalled bet ($16.42) returned to Dimastrisch
+Dimastrisch collected $13.76 from pot
+Dimastrisch: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.48 | Rake $0.72 
+Board [2c 8h Qh 4c]
+Seat 1: m0nTTu (big blind) folded on the Flop
+Seat 2: Nicedaymybro folded before Flop (didn't bet)
+Seat 3: Rysiff folded before Flop (didn't bet)
+Seat 5: Dimastrisch (button) collected ($13.76)
+Seat 6: SingingPancake (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254344193504:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:33:15 WET [2025/01/12 21:33:15 ET]
+Table 'Hekatostos' 6-max Seat #6 is the button
+Seat 4: B1GBankroll ($100 in chips) is sitting out
+Seat 1: m0nTTu ($97.50 in chips) 
+Seat 2: Nicedaymybro ($106.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 5: Dimastrisch ($107.77 in chips) 
+Seat 6: SingingPancake ($131.07 in chips) 
+m0nTTu: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+B1GBankroll: sits out 
+*** HOLE CARDS ***
+Rysiff: folds 
+Dimastrisch: folds 
+SingingPancake: raises $1.50 to $2.50
+m0nTTu: folds 
+Nicedaymybro: folds 
+Uncalled bet ($1.50) returned to SingingPancake
+SingingPancake collected $2.50 from pot
+SingingPancake: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: B1GBankroll
+Seat 1: m0nTTu (small blind) folded before Flop
+Seat 2: Nicedaymybro (big blind) folded before Flop
+Seat 3: Rysiff folded before Flop (didn't bet)
+Seat 5: Dimastrisch folded before Flop (didn't bet)
+Seat 6: SingingPancake (button) collected ($2.50)
+
+
+
+PokerStars Hand #254344195920:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:33:32 WET [2025/01/12 21:33:32 ET]
+Table 'Hekatostos' 6-max Seat #1 is the button
+Seat 4: B1GBankroll ($100 in chips) is sitting out
+Seat 1: m0nTTu ($97 in chips) 
+Seat 2: Nicedaymybro ($105.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 5: Dimastrisch ($107.77 in chips) 
+Seat 6: SingingPancake ($132.57 in chips) 
+Nicedaymybro: posts small blind $0.50
+Rysiff: posts big blind $1
+B1GBankroll: sits out 
+*** HOLE CARDS ***
+Dimastrisch: folds 
+SingingPancake: folds 
+m0nTTu: folds 
+Nicedaymybro: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: B1GBankroll
+Seat 1: m0nTTu (button) folded before Flop (didn't bet)
+Seat 2: Nicedaymybro (small blind) folded before Flop
+Seat 3: Rysiff (big blind) collected ($1)
+Seat 5: Dimastrisch folded before Flop (didn't bet)
+Seat 6: SingingPancake folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254344197814:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:33:45 WET [2025/01/12 21:33:45 ET]
+Table 'Hekatostos' 6-max Seat #2 is the button
+Seat 1: m0nTTu ($97 in chips) 
+Seat 2: Nicedaymybro ($105 in chips) 
+Seat 3: Rysiff ($100.50 in chips) 
+Seat 4: B1GBankroll ($100 in chips) 
+Seat 5: Dimastrisch ($107.77 in chips) 
+Seat 6: SingingPancake ($132.57 in chips) 
+Rysiff: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+Dimastrisch has timed out
+Dimastrisch: folds 
+SingingPancake: folds 
+m0nTTu: folds 
+Nicedaymybro: raises $1.50 to $2.50
+Rysiff: folds 
+B1GBankroll: raises $8.75 to $11.25
+Nicedaymybro: folds 
+Uncalled bet ($8.75) returned to B1GBankroll
+B1GBankroll collected $5.50 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: Nicedaymybro (button) folded before Flop
+Seat 3: Rysiff (small blind) folded before Flop
+Seat 4: B1GBankroll (big blind) collected ($5.50)
+Seat 5: Dimastrisch folded before Flop (didn't bet)
+Seat 6: SingingPancake folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254344202142:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:34:16 WET [2025/01/12 21:34:16 ET]
+Table 'Hekatostos' 6-max Seat #3 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: Nicedaymybro ($102.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: B1GBankroll ($103 in chips) 
+Seat 5: Dimastrisch ($107.77 in chips) 
+Seat 6: SingingPancake ($132.57 in chips) 
+B1GBankroll: posts small blind $0.50
+Dimastrisch: posts big blind $1
+*** HOLE CARDS ***
+SingingPancake: folds 
+m0nTTu: raises $1.50 to $2.50
+Nicedaymybro: folds 
+Rysiff: folds 
+B1GBankroll: folds 
+Dimastrisch: folds 
+Uncalled bet ($1.50) returned to m0nTTu
+m0nTTu collected $2.50 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m0nTTu collected ($2.50)
+Seat 2: Nicedaymybro folded before Flop (didn't bet)
+Seat 3: Rysiff (button) folded before Flop (didn't bet)
+Seat 4: B1GBankroll (small blind) folded before Flop
+Seat 5: Dimastrisch (big blind) folded before Flop
+Seat 6: SingingPancake folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254344205385:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:34:38 WET [2025/01/12 21:34:38 ET]
+Table 'Hekatostos' 6-max Seat #4 is the button
+Seat 1: m0nTTu ($101.50 in chips) 
+Seat 2: Nicedaymybro ($102.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: B1GBankroll ($102.50 in chips) 
+Seat 5: Dimastrisch ($106.77 in chips) 
+Seat 6: SingingPancake ($132.57 in chips) 
+Dimastrisch: posts small blind $0.50
+SingingPancake: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Nicedaymybro: folds 
+Rysiff: folds 
+B1GBankroll: folds 
+Dimastrisch: raises $2 to $3
+SingingPancake: calls $2
+*** FLOP *** [Kh 5c Td]
+Dimastrisch: checks 
+SingingPancake: checks 
+*** TURN *** [Kh 5c Td] [9s]
+Dimastrisch: bets $2.79
+SingingPancake: calls $2.79
+*** RIVER *** [Kh 5c Td 9s] [Qc]
+Dimastrisch: checks 
+SingingPancake: bets $16
+Dimastrisch: folds 
+Uncalled bet ($16) returned to SingingPancake
+SingingPancake collected $11 from pot
+SingingPancake: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.58 | Rake $0.58 
+Board [Kh 5c Td 9s Qc]
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: Nicedaymybro folded before Flop (didn't bet)
+Seat 3: Rysiff folded before Flop (didn't bet)
+Seat 4: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 5: Dimastrisch (small blind) folded on the River
+Seat 6: SingingPancake (big blind) collected ($11)
+
+
+
+PokerStars Hand #254344218559:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:36:10 WET [2025/01/12 21:36:10 ET]
+Table 'Hekatostos' 6-max Seat #5 is the button
+Seat 1: m0nTTu ($101.50 in chips) 
+Seat 2: Nicedaymybro ($102.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: B1GBankroll ($102.50 in chips) 
+Seat 5: Dimastrisch ($100.98 in chips) 
+Seat 6: SingingPancake ($137.78 in chips) 
+SingingPancake: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+Rysiff: folds 
+B1GBankroll: folds 
+Dimastrisch: raises $1.50 to $2.50
+SingingPancake: folds 
+m0nTTu: calls $1.50
+*** FLOP *** [4d 7d 8h]
+m0nTTu: checks 
+Dimastrisch: checks 
+*** TURN *** [4d 7d 8h] [8s]
+m0nTTu: checks 
+Dimastrisch: bets $2.56
+m0nTTu: calls $2.56
+*** RIVER *** [4d 7d 8h 8s] [Qh]
+m0nTTu: checks 
+Dimastrisch has timed out
+Dimastrisch: checks 
+*** SHOW DOWN ***
+m0nTTu: shows [Ad 6d] (a pair of Eights)
+Dimastrisch: shows [9s 7s] (two pair, Eights and Sevens)
+Dimastrisch collected $10.09 from pot
+*** SUMMARY ***
+Total pot $10.62 | Rake $0.53 
+Board [4d 7d 8h 8s Qh]
+Seat 1: m0nTTu (big blind) showed [Ad 6d] and lost with a pair of Eights
+Seat 2: Nicedaymybro folded before Flop (didn't bet)
+Seat 3: Rysiff folded before Flop (didn't bet)
+Seat 4: B1GBankroll folded before Flop (didn't bet)
+Seat 5: Dimastrisch (button) showed [9s 7s] and won ($10.09) with two pair, Eights and Sevens
+Seat 6: SingingPancake (small blind) folded before Flop
+
+
+
+PokerStars Hand #254344228588:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:37:21 WET [2025/01/12 21:37:21 ET]
+Table 'Hekatostos' 6-max Seat #6 is the button
+Seat 1: m0nTTu ($96.44 in chips) 
+Seat 2: Nicedaymybro ($102.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: B1GBankroll ($102.50 in chips) 
+Seat 5: Dimastrisch ($106.01 in chips) 
+Seat 6: SingingPancake ($137.28 in chips) 
+m0nTTu: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+B1GBankroll: folds 
+Dimastrisch: folds 
+SingingPancake: raises $1.50 to $2.50
+m0nTTu: folds 
+Nicedaymybro: folds 
+Uncalled bet ($1.50) returned to SingingPancake
+SingingPancake collected $2.50 from pot
+SingingPancake: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m0nTTu (small blind) folded before Flop
+Seat 2: Nicedaymybro (big blind) folded before Flop
+Seat 3: Rysiff folded before Flop (didn't bet)
+Seat 4: B1GBankroll folded before Flop (didn't bet)
+Seat 5: Dimastrisch folded before Flop (didn't bet)
+Seat 6: SingingPancake (button) collected ($2.50)
+
+
+
+PokerStars Hand #254344231021:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:37:38 WET [2025/01/12 21:37:38 ET]
+Table 'Hekatostos' 6-max Seat #1 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: Nicedaymybro ($101.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: B1GBankroll ($102.50 in chips) 
+Seat 5: Dimastrisch ($106.01 in chips) 
+Seat 6: SingingPancake ($138.78 in chips) 
+Nicedaymybro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+Dimastrisch: folds 
+SingingPancake: folds 
+m0nTTu: folds 
+Nicedaymybro: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m0nTTu (button) folded before Flop (didn't bet)
+Seat 2: Nicedaymybro (small blind) folded before Flop
+Seat 3: Rysiff (big blind) collected ($1)
+Seat 4: B1GBankroll folded before Flop (didn't bet)
+Seat 5: Dimastrisch folded before Flop (didn't bet)
+Seat 6: SingingPancake folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254344232692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:37:50 WET [2025/01/12 21:37:50 ET]
+Table 'Hekatostos' 6-max Seat #2 is the button
+Seat 1: m0nTTu ($100 in chips) 
+Seat 2: Nicedaymybro ($101 in chips) 
+Seat 3: Rysiff ($100.50 in chips) 
+Seat 4: B1GBankroll ($102.50 in chips) 
+Seat 5: Dimastrisch ($106.01 in chips) 
+Seat 6: SingingPancake ($138.78 in chips) 
+Rysiff: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+Dimastrisch: raises $1 to $2
+SingingPancake: calls $2
+m0nTTu: raises $6 to $8
+Nicedaymybro: folds 
+Rysiff: folds 
+B1GBankroll: folds 
+Dimastrisch: raises $18 to $26
+SingingPancake: folds 
+m0nTTu: raises $74 to $100 and is all-in
+Dimastrisch: folds 
+Uncalled bet ($74) returned to m0nTTu
+m0nTTu collected $55.50 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $55.50 | Rake $0 
+Seat 1: m0nTTu collected ($55.50)
+Seat 2: Nicedaymybro (button) folded before Flop (didn't bet)
+Seat 3: Rysiff (small blind) folded before Flop
+Seat 4: B1GBankroll (big blind) folded before Flop
+Seat 5: Dimastrisch folded before Flop
+Seat 6: SingingPancake folded before Flop
+
+
+
+PokerStars Hand #254344242389:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:38:57 WET [2025/01/12 21:38:57 ET]
+Table 'Hekatostos' 6-max Seat #3 is the button
+Seat 1: m0nTTu ($129.50 in chips) 
+Seat 2: Nicedaymybro ($101 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: B1GBankroll ($101.50 in chips) 
+Seat 5: Dimastrisch ($100 in chips) 
+Seat 6: SingingPancake ($136.78 in chips) 
+B1GBankroll: posts small blind $0.50
+Dimastrisch: posts big blind $1
+*** HOLE CARDS ***
+SingingPancake: folds 
+m0nTTu: folds 
+Nicedaymybro: raises $1.50 to $2.50
+Rysiff: folds 
+B1GBankroll: folds 
+Dimastrisch: folds 
+Uncalled bet ($1.50) returned to Nicedaymybro
+Nicedaymybro collected $2.50 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: Nicedaymybro collected ($2.50)
+Seat 3: Rysiff (button) folded before Flop (didn't bet)
+Seat 4: B1GBankroll (small blind) folded before Flop
+Seat 5: Dimastrisch (big blind) folded before Flop
+Seat 6: SingingPancake folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254344247691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:39:33 WET [2025/01/12 21:39:33 ET]
+Table 'Hekatostos' 6-max Seat #4 is the button
+Seat 1: m0nTTu ($129.50 in chips) 
+Seat 2: Nicedaymybro ($102.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: B1GBankroll ($101 in chips) 
+Seat 5: Dimastrisch ($99 in chips) 
+Seat 6: SingingPancake ($136.78 in chips) 
+Dimastrisch: posts small blind $0.50
+SingingPancake: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Nicedaymybro: folds 
+Rysiff: folds 
+B1GBankroll: raises $1.50 to $2.50
+Dimastrisch: calls $2
+SingingPancake: calls $1.50
+*** FLOP *** [5h Tc 5c]
+Dimastrisch: checks 
+SingingPancake: bets $4
+B1GBankroll: calls $4
+Dimastrisch: folds 
+*** TURN *** [5h Tc 5c] [Ac]
+SingingPancake: checks 
+B1GBankroll: checks 
+*** RIVER *** [5h Tc 5c Ac] [Qh]
+SingingPancake: bets $7.36
+B1GBankroll: raises $14.43 to $21.79
+SingingPancake: folds 
+Uncalled bet ($14.43) returned to B1GBankroll
+B1GBankroll collected $28.71 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.22 | Rake $1.51 
+Board [5h Tc 5c Ac Qh]
+Seat 1: m0nTTu folded before Flop (didn't bet)
+Seat 2: Nicedaymybro folded before Flop (didn't bet)
+Seat 3: Rysiff folded before Flop (didn't bet)
+Seat 4: B1GBankroll (button) collected ($28.71)
+Seat 5: Dimastrisch (small blind) folded on the Flop
+Seat 6: SingingPancake (big blind) folded on the River
+
+
+
+PokerStars Hand #254344259753:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:40:57 WET [2025/01/12 21:40:57 ET]
+Table 'Hekatostos' 6-max Seat #5 is the button
+Seat 1: m0nTTu ($129.50 in chips) 
+Seat 2: Nicedaymybro ($102.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: B1GBankroll ($115.85 in chips) 
+Seat 5: Dimastrisch ($100 in chips) 
+Seat 6: SingingPancake ($122.92 in chips) 
+SingingPancake: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+Rysiff: folds 
+B1GBankroll: folds 
+Dimastrisch has timed out
+Dimastrisch: folds 
+SingingPancake: folds 
+Uncalled bet ($0.50) returned to m0nTTu
+m0nTTu collected $1 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m0nTTu (big blind) collected ($1)
+Seat 2: Nicedaymybro folded before Flop (didn't bet)
+Seat 3: Rysiff folded before Flop (didn't bet)
+Seat 4: B1GBankroll folded before Flop (didn't bet)
+Seat 5: Dimastrisch (button) folded before Flop (didn't bet)
+Seat 6: SingingPancake (small blind) folded before Flop
+
+
+
+PokerStars Hand #254344263093:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:41:20 WET [2025/01/12 21:41:20 ET]
+Table 'Hekatostos' 6-max Seat #6 is the button
+Seat 1: m0nTTu ($130 in chips) 
+Seat 2: Nicedaymybro ($102.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: B1GBankroll ($115.85 in chips) 
+Seat 5: Dimastrisch ($100 in chips) 
+Seat 6: SingingPancake ($122.42 in chips) 
+m0nTTu: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+B1GBankroll: folds 
+Dimastrisch: raises $1.50 to $2.50
+SingingPancake: folds 
+SingingPancake leaves the table
+m0nTTu: folds 
+Nicedaymybro: folds 
+Uncalled bet ($1.50) returned to Dimastrisch
+Dimastrisch collected $2.50 from pot
+Dimastrisch: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m0nTTu (small blind) folded before Flop
+Seat 2: Nicedaymybro (big blind) folded before Flop
+Seat 3: Rysiff folded before Flop (didn't bet)
+Seat 4: B1GBankroll folded before Flop (didn't bet)
+Seat 5: Dimastrisch collected ($2.50)
+Seat 6: SingingPancake (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254344266459:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 2:41:44 WET [2025/01/12 21:41:44 ET]
+Table 'Hekatostos' 6-max Seat #1 is the button
+Seat 1: m0nTTu ($129.50 in chips) 
+Seat 2: Nicedaymybro ($101.50 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: B1GBankroll ($115.85 in chips) 
+Seat 5: Dimastrisch ($101.50 in chips) 
+Nicedaymybro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+B1GBankroll leaves the table
+Dimastrisch: raises $1.50 to $2.50
+m0nTTu: raises $5.50 to $8
+Nicedaymybro: folds 
+Rysiff: folds 
+Dimastrisch: folds 
+Uncalled bet ($5.50) returned to m0nTTu
+m0nTTu collected $6.50 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: m0nTTu (button) collected ($6.50)
+Seat 2: Nicedaymybro (small blind) folded before Flop
+Seat 3: Rysiff (big blind) folded before Flop
+Seat 4: B1GBankroll folded before Flop (didn't bet)
+Seat 5: Dimastrisch folded before Flop
+
+
+

@@ -1,0 +1,853 @@
+﻿PokerStars Hand #254635055377:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:04:00 WET [2025/01/31 6:04:00 ET]
+Table 'Pherkad' 6-max Seat #2 is the button
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($100 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: MauriFierro27 ($100 in chips) 
+Seat 5: big"mf"serg ($100 in chips) 
+Seat 6: Espada Fish ($100 in chips) 
+B1GBankroll: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+big"mf"serg: calls $1
+Espada Fish: folds 
+v.sting: raises $3.25 to $4.25
+VahTang_89: folds 
+B1GBankroll: folds 
+MauriFierro27: calls $3.25
+big"mf"serg: calls $3.25
+*** FLOP *** [Qs 7d 4c]
+MauriFierro27: checks 
+big"mf"serg: bets $12.59
+v.sting: folds 
+MauriFierro27: calls $12.59
+*** TURN *** [Qs 7d 4c] [8h]
+MauriFierro27: checks 
+big"mf"serg: checks 
+*** RIVER *** [Qs 7d 4c 8h] [2h]
+MauriFierro27: bets $12.04
+big"mf"serg: calls $12.04
+*** SHOW DOWN ***
+MauriFierro27: shows [Js Qh] (a pair of Queens)
+big"mf"serg: shows [Qd Ad] (a pair of Queens - Ace kicker)
+big"mf"serg collected $60.01 from pot
+*** SUMMARY ***
+Total pot $62.51 | Rake $2.50 
+Board [Qs 7d 4c 8h 2h]
+Seat 1: v.sting folded on the Flop
+Seat 2: VahTang_89 (button) folded before Flop (didn't bet)
+Seat 3: B1GBankroll (small blind) folded before Flop
+Seat 4: MauriFierro27 (big blind) showed [Js Qh] and lost with a pair of Queens
+Seat 5: big"mf"serg showed [Qd Ad] and won ($60.01) with a pair of Queens
+Seat 6: Espada Fish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635060024:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:04:40 WET [2025/01/31 6:04:40 ET]
+Table 'Pherkad' 6-max Seat #3 is the button
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($100 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: MauriFierro27 ($100 in chips) 
+Seat 5: big"mf"serg ($131.13 in chips) 
+Seat 6: Espada Fish ($100 in chips) 
+MauriFierro27: posts small blind $0.50
+big"mf"serg: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: raises $1.20 to $2.20
+v.sting: folds 
+VahTang_89: folds 
+B1GBankroll: folds 
+MauriFierro27: raises $8.30 to $10.50
+big"mf"serg: folds 
+Espada Fish: calls $8.30
+*** FLOP *** [8c 3c Tc]
+MauriFierro27: checks 
+Espada Fish: bets $10.45
+MauriFierro27: folds 
+Uncalled bet ($10.45) returned to Espada Fish
+Espada Fish collected $20.90 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [8c 3c Tc]
+Seat 1: v.sting folded before Flop (didn't bet)
+Seat 2: VahTang_89 folded before Flop (didn't bet)
+Seat 3: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 4: MauriFierro27 (small blind) folded on the Flop
+Seat 5: big"mf"serg (big blind) folded before Flop
+Seat 6: Espada Fish collected ($20.90)
+
+
+
+PokerStars Hand #254635068097:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:05:49 WET [2025/01/31 6:05:49 ET]
+Table 'Pherkad' 6-max Seat #4 is the button
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($100 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: MauriFierro27 ($100 in chips) 
+Seat 5: big"mf"serg ($130.13 in chips) 
+Seat 6: Espada Fish ($110.40 in chips) 
+big"mf"serg: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+v.sting: folds 
+VahTang_89: folds 
+B1GBankroll: folds 
+MauriFierro27: raises $1.20 to $2.20
+big"mf"serg: calls $1.70
+Espada Fish: raises $11.80 to $14
+MauriFierro27: folds 
+big"mf"serg: calls $11.80
+*** FLOP *** [2c 7d Ad]
+big"mf"serg: checks 
+Espada Fish: checks 
+*** TURN *** [2c 7d Ad] [Ac]
+big"mf"serg: checks 
+Espada Fish: bets $14.35
+big"mf"serg: calls $14.35
+*** RIVER *** [2c 7d Ad Ac] [4s]
+big"mf"serg: checks 
+Espada Fish: checks 
+*** SHOW DOWN ***
+big"mf"serg: shows [5d 5c] (two pair, Aces and Fives)
+Espada Fish: shows [Qh Qc] (two pair, Aces and Queens)
+Espada Fish collected $56.40 from pot
+*** SUMMARY ***
+Total pot $58.90 | Rake $2.50 
+Board [2c 7d Ad Ac 4s]
+Seat 1: v.sting folded before Flop (didn't bet)
+Seat 2: VahTang_89 folded before Flop (didn't bet)
+Seat 3: B1GBankroll folded before Flop (didn't bet)
+Seat 4: MauriFierro27 (button) folded before Flop
+Seat 5: big"mf"serg (small blind) showed [5d 5c] and lost with two pair, Aces and Fives
+Seat 6: Espada Fish (big blind) showed [Qh Qc] and won ($56.40) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #254635075212:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:06:50 WET [2025/01/31 6:06:50 ET]
+Table 'Pherkad' 6-max Seat #5 is the button
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($100 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: MauriFierro27 ($100 in chips) 
+Seat 5: big"mf"serg ($101.78 in chips) 
+Seat 6: Espada Fish ($138.45 in chips) 
+Espada Fish: posts small blind $0.50
+v.sting: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: raises $1.20 to $2.20
+B1GBankroll: folds 
+MauriFierro27: folds 
+big"mf"serg: folds 
+Espada Fish: folds 
+v.sting: folds 
+Uncalled bet ($1.20) returned to VahTang_89
+VahTang_89 collected $2.50 from pot
+VahTang_89: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: v.sting (big blind) folded before Flop
+Seat 2: VahTang_89 collected ($2.50)
+Seat 3: B1GBankroll folded before Flop (didn't bet)
+Seat 4: MauriFierro27 folded before Flop (didn't bet)
+Seat 5: big"mf"serg (button) folded before Flop (didn't bet)
+Seat 6: Espada Fish (small blind) folded before Flop
+
+
+
+PokerStars Hand #254635076971:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:07:06 WET [2025/01/31 6:07:06 ET]
+Table 'Pherkad' 6-max Seat #6 is the button
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($101.50 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: MauriFierro27 ($100 in chips) 
+Seat 5: big"mf"serg ($101.78 in chips) 
+Seat 6: Espada Fish ($137.95 in chips) 
+v.sting: posts small blind $0.50
+VahTang_89: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+MauriFierro27: raises $1.20 to $2.20
+big"mf"serg: folds 
+Espada Fish: folds 
+v.sting: folds 
+VahTang_89: folds 
+Uncalled bet ($1.20) returned to MauriFierro27
+MauriFierro27 collected $2.50 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: v.sting (small blind) folded before Flop
+Seat 2: VahTang_89 (big blind) folded before Flop
+Seat 3: B1GBankroll folded before Flop (didn't bet)
+Seat 4: MauriFierro27 collected ($2.50)
+Seat 5: big"mf"serg folded before Flop (didn't bet)
+Seat 6: Espada Fish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635079700:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:07:29 WET [2025/01/31 6:07:29 ET]
+Table 'Pherkad' 6-max Seat #1 is the button
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($100.50 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: MauriFierro27 ($101.50 in chips) 
+Seat 5: big"mf"serg ($101.78 in chips) 
+Seat 6: Espada Fish ($137.95 in chips) 
+VahTang_89: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: raises $1.20 to $2.20
+big"mf"serg: calls $2.20
+Espada Fish: folds 
+v.sting: folds 
+VahTang_89: folds 
+B1GBankroll: folds 
+*** FLOP *** [7h Jd 5s]
+MauriFierro27: bets $1.85
+big"mf"serg: calls $1.85
+*** TURN *** [7h Jd 5s] [Jc]
+MauriFierro27: bets $3.01
+big"mf"serg: calls $3.01
+*** RIVER *** [7h Jd 5s Jc] [6h]
+MauriFierro27: bets $4.88
+big"mf"serg: calls $4.88
+*** SHOW DOWN ***
+MauriFierro27: shows [9c 9d] (two pair, Jacks and Nines)
+big"mf"serg: mucks hand 
+MauriFierro27 collected $24.11 from pot
+*** SUMMARY ***
+Total pot $25.38 | Rake $1.27 
+Board [7h Jd 5s Jc 6h]
+Seat 1: v.sting (button) folded before Flop (didn't bet)
+Seat 2: VahTang_89 (small blind) folded before Flop
+Seat 3: B1GBankroll (big blind) folded before Flop
+Seat 4: MauriFierro27 showed [9c 9d] and won ($24.11) with two pair, Jacks and Nines
+Seat 5: big"mf"serg mucked
+Seat 6: Espada Fish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635083260:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:08:00 WET [2025/01/31 6:08:00 ET]
+Table 'Pherkad' 6-max Seat #2 is the button
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($100 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: MauriFierro27 ($113.67 in chips) 
+Seat 5: big"mf"serg ($89.84 in chips) 
+Seat 6: Espada Fish ($137.95 in chips) 
+B1GBankroll: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+big"mf"serg: folds 
+Espada Fish: folds 
+v.sting: folds 
+VahTang_89: raises $1.20 to $2.20
+B1GBankroll: folds 
+MauriFierro27: folds 
+Uncalled bet ($1.20) returned to VahTang_89
+VahTang_89 collected $2.50 from pot
+VahTang_89: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: v.sting folded before Flop (didn't bet)
+Seat 2: VahTang_89 (button) collected ($2.50)
+Seat 3: B1GBankroll (small blind) folded before Flop
+Seat 4: MauriFierro27 (big blind) folded before Flop
+Seat 5: big"mf"serg folded before Flop (didn't bet)
+Seat 6: Espada Fish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635097338:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:10:01 WET [2025/01/31 6:10:01 ET]
+Table 'Pherkad' 6-max Seat #6 is the button
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($100 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: MauriFierro27 ($115.10 in chips) 
+Seat 5: big"mf"serg ($91.48 in chips) 
+Seat 6: Espada Fish ($136.45 in chips) 
+v.sting: posts small blind $0.50
+VahTang_89: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+MauriFierro27: folds 
+big"mf"serg: calls $1
+Espada Fish: folds 
+v.sting: folds 
+VahTang_89: checks 
+*** FLOP *** [Qs 8d 8h]
+VahTang_89: bets $1
+big"mf"serg: folds 
+Uncalled bet ($1) returned to VahTang_89
+VahTang_89 collected $2.38 from pot
+VahTang_89: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Qs 8d 8h]
+Seat 1: v.sting (small blind) folded before Flop
+Seat 2: VahTang_89 (big blind) collected ($2.38)
+Seat 3: B1GBankroll folded before Flop (didn't bet)
+Seat 4: MauriFierro27 folded before Flop (didn't bet)
+Seat 5: big"mf"serg folded on the Flop
+Seat 6: Espada Fish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254634995188:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 10:54:17 WET [2025/01/31 5:54:17 ET]
+Table 'Pherkad' 6-max Seat #4 is the button
+Seat 1: Pippa83 ($100 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: raiseinthedarkk ($100 in chips) 
+Pippa83: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+raiseinthedarkk: folds 
+Pippa83: folds 
+Uncalled bet ($0.50) returned to B1GBankroll
+B1GBankroll collected $1 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Pippa83 (small blind) folded before Flop
+Seat 3: B1GBankroll (big blind) collected ($1)
+Seat 4: raiseinthedarkk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254634996630:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 10:54:30 WET [2025/01/31 5:54:30 ET]
+Table 'Pherkad' 6-max Seat #1 is the button
+Seat 1: Pippa83 ($100 in chips) 
+Seat 3: B1GBankroll ($100.50 in chips) 
+Seat 4: raiseinthedarkk ($100 in chips) 
+B1GBankroll: posts small blind $0.50
+raiseinthedarkk: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+B1GBankroll: folds 
+Uncalled bet ($0.50) returned to raiseinthedarkk
+raiseinthedarkk collected $1 from pot
+raiseinthedarkk: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Pippa83 (button) folded before Flop (didn't bet)
+Seat 3: B1GBankroll (small blind) folded before Flop
+Seat 4: raiseinthedarkk (big blind) collected ($1)
+
+
+
+PokerStars Hand #254634997981:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 10:54:42 WET [2025/01/31 5:54:42 ET]
+Table 'Pherkad' 6-max Seat #3 is the button
+Seat 1: Pippa83 ($100 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: raiseinthedarkk ($100.50 in chips) 
+raiseinthedarkk: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: raises $1.50 to $2.50
+raiseinthedarkk: folds 
+Pippa83: folds 
+Uncalled bet ($1.50) returned to B1GBankroll
+B1GBankroll collected $2.50 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Pippa83 (big blind) folded before Flop
+Seat 3: B1GBankroll (button) collected ($2.50)
+Seat 4: raiseinthedarkk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254634999291:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 10:54:54 WET [2025/01/31 5:54:54 ET]
+Table 'Pherkad' 6-max Seat #4 is the button
+Seat 1: Pippa83 ($100 in chips) 
+Seat 3: B1GBankroll ($101.50 in chips) 
+Seat 4: raiseinthedarkk ($100 in chips) 
+Pippa83: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+raiseinthedarkk: folds 
+Pippa83: raises $2 to $3
+B1GBankroll: folds 
+Uncalled bet ($2) returned to Pippa83
+Pippa83 collected $2 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Pippa83 (small blind) collected ($2)
+Seat 3: B1GBankroll (big blind) folded before Flop
+Seat 4: raiseinthedarkk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635001853:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 10:55:16 WET [2025/01/31 5:55:16 ET]
+Table 'Pherkad' 6-max Seat #1 is the button
+Seat 1: Pippa83 ($101 in chips) 
+Seat 3: B1GBankroll ($100.50 in chips) 
+Seat 4: raiseinthedarkk ($100 in chips) 
+B1GBankroll: posts small blind $0.50
+raiseinthedarkk: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+B1GBankroll: folds 
+Uncalled bet ($0.50) returned to raiseinthedarkk
+raiseinthedarkk collected $1 from pot
+raiseinthedarkk: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Pippa83 (button) folded before Flop (didn't bet)
+Seat 3: B1GBankroll (small blind) folded before Flop
+Seat 4: raiseinthedarkk (big blind) collected ($1)
+
+
+
+PokerStars Hand #254635003130:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 10:55:30 WET [2025/01/31 5:55:30 ET]
+Table 'Pherkad' 6-max Seat #3 is the button
+Seat 1: Pippa83 ($101 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: raiseinthedarkk ($100.50 in chips) 
+raiseinthedarkk: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+raiseinthedarkk: folds 
+Uncalled bet ($0.50) returned to Pippa83
+Pippa83 collected $1 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Pippa83 (big blind) collected ($1)
+Seat 3: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 4: raiseinthedarkk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254635003976:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 10:55:39 WET [2025/01/31 5:55:39 ET]
+Table 'Pherkad' 6-max Seat #4 is the button
+Seat 1: Pippa83 ($101.50 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: raiseinthedarkk ($100 in chips) 
+Pippa83: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+raiseinthedarkk: folds 
+Pippa83: raises $2 to $3
+B1GBankroll: folds 
+Uncalled bet ($2) returned to Pippa83
+Pippa83 collected $2 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Pippa83 (small blind) collected ($2)
+Seat 3: B1GBankroll (big blind) folded before Flop
+Seat 4: raiseinthedarkk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635005855:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 10:55:59 WET [2025/01/31 5:55:59 ET]
+Table 'Pherkad' 6-max Seat #1 is the button
+Seat 1: Pippa83 ($102.50 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: raiseinthedarkk ($100 in chips) 
+B1GBankroll: posts small blind $0.50
+raiseinthedarkk: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+B1GBankroll: folds 
+Uncalled bet ($0.50) returned to raiseinthedarkk
+raiseinthedarkk collected $1 from pot
+raiseinthedarkk: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Pippa83 (button) folded before Flop (didn't bet)
+Seat 3: B1GBankroll (small blind) folded before Flop
+Seat 4: raiseinthedarkk (big blind) collected ($1)
+
+
+
+PokerStars Hand #254635006748:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 10:56:09 WET [2025/01/31 5:56:09 ET]
+Table 'Pherkad' 6-max Seat #3 is the button
+Seat 1: Pippa83 ($102.50 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: raiseinthedarkk ($100.50 in chips) 
+raiseinthedarkk: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+raiseinthedarkk: raises $2 to $3
+Pippa83: calls $2
+*** FLOP *** [6s 2h Kd]
+raiseinthedarkk: bets $1.43
+Pippa83: folds 
+Uncalled bet ($1.43) returned to raiseinthedarkk
+raiseinthedarkk collected $5.70 from pot
+raiseinthedarkk: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6s 2h Kd]
+Seat 1: Pippa83 (big blind) folded on the Flop
+Seat 3: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 4: raiseinthedarkk (small blind) collected ($5.70)
+
+
+
+PokerStars Hand #254635009863:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 10:56:42 WET [2025/01/31 5:56:42 ET]
+Table 'Pherkad' 6-max Seat #1 is the button
+Seat 1: Pippa83 ($100 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Pippa83: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: raises $1.50 to $2.50
+B1GBankroll: folds 
+Uncalled bet ($1.50) returned to Pippa83
+Pippa83 collected $2 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Pippa83 (button) (small blind) collected ($2)
+Seat 3: B1GBankroll (big blind) folded before Flop
+
+
+
+PokerStars Hand #254635086457:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:08:28 WET [2025/01/31 6:08:28 ET]
+Table 'Pherkad' 6-max Seat #3 is the button
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($101.50 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: MauriFierro27 ($112.67 in chips) 
+Seat 5: big"mf"serg ($89.84 in chips) 
+Seat 6: Espada Fish ($137.95 in chips) 
+MauriFierro27: posts small blind $0.50
+big"mf"serg: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+v.sting: folds 
+VahTang_89: raises $1.20 to $2.20
+B1GBankroll: folds 
+MauriFierro27: folds 
+big"mf"serg: calls $1.20
+*** FLOP *** [6d 9h 3d]
+big"mf"serg: bets $2.33
+VahTang_89: folds 
+Uncalled bet ($2.33) returned to big"mf"serg
+big"mf"serg collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [6d 9h 3d]
+Seat 1: v.sting folded before Flop (didn't bet)
+Seat 2: VahTang_89 folded on the Flop
+Seat 3: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 4: MauriFierro27 (small blind) folded before Flop
+Seat 5: big"mf"serg (big blind) collected ($4.66)
+Seat 6: Espada Fish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635089430:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:08:53 WET [2025/01/31 6:08:53 ET]
+Table 'Pherkad' 6-max Seat #4 is the button
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($100 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: MauriFierro27 ($112.17 in chips) 
+Seat 5: big"mf"serg ($92.30 in chips) 
+Seat 6: Espada Fish ($137.95 in chips) 
+big"mf"serg: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+v.sting: folds 
+VahTang_89: folds 
+B1GBankroll: folds 
+MauriFierro27: raises $1.20 to $2.20
+big"mf"serg: calls $1.70
+Espada Fish: folds 
+*** FLOP *** [2s Kc 4d]
+big"mf"serg: checks 
+MauriFierro27: bets $1.69
+big"mf"serg: folds 
+Uncalled bet ($1.69) returned to MauriFierro27
+MauriFierro27 collected $5.13 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0.27 
+Board [2s Kc 4d]
+Seat 1: v.sting folded before Flop (didn't bet)
+Seat 2: VahTang_89 folded before Flop (didn't bet)
+Seat 3: B1GBankroll folded before Flop (didn't bet)
+Seat 4: MauriFierro27 (button) collected ($5.13)
+Seat 5: big"mf"serg (small blind) folded on the Flop
+Seat 6: Espada Fish (big blind) folded before Flop
+
+
+
+PokerStars Hand #254635094012:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:09:33 WET [2025/01/31 6:09:33 ET]
+Table 'Pherkad' 6-max Seat #5 is the button
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($100 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: MauriFierro27 ($115.10 in chips) 
+Seat 5: big"mf"serg ($90.10 in chips) 
+Seat 6: Espada Fish ($136.95 in chips) 
+Espada Fish: posts small blind $0.50
+v.sting: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: folds 
+B1GBankroll: folds 
+MauriFierro27: folds 
+big"mf"serg: calls $1
+Espada Fish: folds 
+v.sting: checks 
+*** FLOP *** [7h 4c 2d]
+v.sting: checks 
+big"mf"serg: bets $2.38
+v.sting: folds 
+Uncalled bet ($2.38) returned to big"mf"serg
+big"mf"serg collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [7h 4c 2d]
+Seat 1: v.sting (big blind) folded on the Flop
+Seat 2: VahTang_89 folded before Flop (didn't bet)
+Seat 3: B1GBankroll folded before Flop (didn't bet)
+Seat 4: MauriFierro27 folded before Flop (didn't bet)
+Seat 5: big"mf"serg (button) collected ($2.38)
+Seat 6: Espada Fish (small blind) folded before Flop
+
+
+
+PokerStars Hand #254635101825:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:10:40 WET [2025/01/31 6:10:40 ET]
+Table 'Pherkad' 6-max Seat #1 is the button
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($101.38 in chips) 
+Seat 3: B1GBankroll ($100 in chips) 
+Seat 4: MauriFierro27 ($115.10 in chips) 
+Seat 5: big"mf"serg ($90.48 in chips) 
+Seat 6: Espada Fish ($136.45 in chips) 
+VahTang_89: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: raises $1.20 to $2.20
+big"mf"serg: calls $2.20
+Espada Fish: folds 
+v.sting: folds 
+VahTang_89: folds 
+B1GBankroll: raises $9.70 to $11.90
+MauriFierro27: calls $9.70
+big"mf"serg: calls $9.70
+*** FLOP *** [Tc 7d 2s]
+B1GBankroll: bets $16.85
+MauriFierro27: calls $16.85
+big"mf"serg: calls $16.85
+*** TURN *** [Tc 7d 2s] [Ts]
+B1GBankroll: bets $28.65
+MauriFierro27: calls $28.65
+big"mf"serg: raises $33.08 to $61.73 and is all-in
+B1GBankroll: raises $9.52 to $71.25 and is all-in
+MauriFierro27: calls $42.60
+*** RIVER *** [Tc 7d 2s Ts] [Kc]
+*** SHOW DOWN ***
+B1GBankroll: shows [Kd Ks] (a full house, Kings full of Tens)
+MauriFierro27: shows [Ah Ac] (two pair, Aces and Tens)
+B1GBankroll collected $19.04 from side pot
+big"mf"serg: shows [As Td] (three of a kind, Tens)
+B1GBankroll collected $269.44 from main pot
+*** SUMMARY ***
+Total pot $290.98 Main pot $269.44. Side pot $19.04. | Rake $2.50 
+Board [Tc 7d 2s Ts Kc]
+Seat 1: v.sting (button) folded before Flop (didn't bet)
+Seat 2: VahTang_89 (small blind) folded before Flop
+Seat 3: B1GBankroll (big blind) showed [Kd Ks] and won ($288.48) with a full house, Kings full of Tens
+Seat 4: MauriFierro27 showed [Ah Ac] and lost with two pair, Aces and Tens
+Seat 5: big"mf"serg showed [As Td] and lost with three of a kind, Tens
+Seat 6: Espada Fish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635113325:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:12:19 WET [2025/01/31 6:12:19 ET]
+Table 'Pherkad' 6-max Seat #2 is the button
+Seat 5: big"mf"serg ($0 in chips) is sitting out
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($100.88 in chips) 
+Seat 3: B1GBankroll ($288.48 in chips) 
+Seat 4: MauriFierro27 ($100 in chips) 
+Seat 6: Espada Fish ($136.45 in chips) 
+B1GBankroll: posts small blind $0.50
+MauriFierro27: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+v.sting: folds 
+VahTang_89: folds 
+B1GBankroll: folds 
+Uncalled bet ($0.50) returned to MauriFierro27
+MauriFierro27 collected $1 from pot
+MauriFierro27: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: big"mf"serg
+Seat 1: v.sting folded before Flop (didn't bet)
+Seat 2: VahTang_89 (button) folded before Flop (didn't bet)
+Seat 3: B1GBankroll (small blind) folded before Flop
+Seat 4: MauriFierro27 (big blind) collected ($1)
+Seat 6: Espada Fish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635114879:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:12:32 WET [2025/01/31 6:12:32 ET]
+Table 'Pherkad' 6-max Seat #3 is the button
+Seat 5: big"mf"serg ($0 in chips) is sitting out
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($100.88 in chips) 
+Seat 3: B1GBankroll ($287.98 in chips) 
+Seat 4: MauriFierro27 ($100.50 in chips) 
+Seat 6: Espada Fish ($136.45 in chips) 
+MauriFierro27: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+v.sting: folds 
+VahTang_89: folds 
+B1GBankroll: folds 
+MauriFierro27: folds 
+Uncalled bet ($0.50) returned to Espada Fish
+Espada Fish collected $1 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: big"mf"serg
+Seat 1: v.sting folded before Flop (didn't bet)
+Seat 2: VahTang_89 folded before Flop (didn't bet)
+Seat 3: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 4: MauriFierro27 (small blind) folded before Flop
+Seat 6: Espada Fish (big blind) collected ($1)
+
+
+
+PokerStars Hand #254635116235:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:12:43 WET [2025/01/31 6:12:43 ET]
+Table 'Pherkad' 6-max Seat #4 is the button
+Seat 1: v.sting ($100 in chips) is sitting out
+Seat 5: big"mf"serg ($0 in chips) is sitting out
+Seat 2: VahTang_89 ($100.88 in chips) 
+Seat 3: B1GBankroll ($287.98 in chips) 
+Seat 4: MauriFierro27 ($100 in chips) 
+Seat 6: Espada Fish ($136.95 in chips) 
+Espada Fish: posts small blind $0.50
+v.sting: is sitting out 
+VahTang_89: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+MauriFierro27: folds 
+Espada Fish: folds 
+Uncalled bet ($0.50) returned to VahTang_89
+VahTang_89 collected $1 from pot
+VahTang_89: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: v.sting
+Seat 5: big"mf"serg
+Seat 2: VahTang_89 (big blind) collected ($1)
+Seat 3: B1GBankroll folded before Flop (didn't bet)
+Seat 4: MauriFierro27 (button) folded before Flop (didn't bet)
+Seat 6: Espada Fish (small blind) folded before Flop
+
+
+
+PokerStars Hand #254635117691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:12:56 WET [2025/01/31 6:12:56 ET]
+Table 'Pherkad' 6-max Seat #6 is the button
+Seat 1: v.sting ($100 in chips) is sitting out
+Seat 5: big"mf"serg ($0 in chips) is sitting out
+Seat 2: VahTang_89 ($101.38 in chips) 
+Seat 3: B1GBankroll ($287.98 in chips) 
+Seat 4: MauriFierro27 ($100 in chips) 
+Seat 6: Espada Fish ($136.45 in chips) 
+VahTang_89: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+MauriFierro27: folds 
+Espada Fish: folds 
+VahTang_89: folds 
+Uncalled bet ($0.50) returned to B1GBankroll
+B1GBankroll collected $1 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: v.sting
+Seat 5: big"mf"serg
+Seat 2: VahTang_89 (small blind) folded before Flop
+Seat 3: B1GBankroll (big blind) collected ($1)
+Seat 4: MauriFierro27 folded before Flop (didn't bet)
+Seat 6: Espada Fish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254635118956:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:13:06 WET [2025/01/31 6:13:06 ET]
+Table 'Pherkad' 6-max Seat #2 is the button
+Seat 1: v.sting ($100 in chips) is sitting out
+Seat 4: MauriFierro27 ($100 in chips) is sitting out
+Seat 5: big"mf"serg ($0 in chips) is sitting out
+Seat 2: VahTang_89 ($100.88 in chips) 
+Seat 3: B1GBankroll ($288.48 in chips) 
+Seat 6: Espada Fish ($136.45 in chips) 
+B1GBankroll: posts small blind $0.50
+MauriFierro27: is sitting out 
+Espada Fish: posts big blind $1
+v.sting: sits out 
+*** HOLE CARDS ***
+VahTang_89: folds 
+big"mf"serg leaves the table
+B1GBankroll: folds 
+Uncalled bet ($0.50) returned to Espada Fish
+MauriFierro27 leaves the table
+Espada Fish collected $1 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: v.sting
+Seat 4: MauriFierro27
+Seat 5: big"mf"serg
+Seat 2: VahTang_89 (button) folded before Flop (didn't bet)
+Seat 3: B1GBankroll (small blind) folded before Flop
+Seat 6: Espada Fish (big blind) collected ($1)
+
+
+
+PokerStars Hand #254635120350:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 11:13:18 WET [2025/01/31 6:13:18 ET]
+Table 'Pherkad' 6-max Seat #3 is the button
+Seat 1: v.sting ($100 in chips) 
+Seat 2: VahTang_89 ($100.88 in chips) 
+Seat 3: B1GBankroll ($287.98 in chips) 
+Seat 6: Espada Fish ($136.95 in chips) 
+Espada Fish: posts small blind $0.50
+v.sting: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: folds 
+raiseinthedarkk joins the table at seat #5 
+B1GBankroll: raises $1.50 to $2.50
+raiseinthedarkk leaves the table
+Espada Fish: folds 
+v.sting: calls $1.50
+*** FLOP *** [Ac 2d 3d]
+v.sting: checks 
+B1GBankroll: bets $1.77
+v.sting: calls $1.77
+*** TURN *** [Ac 2d 3d] [Td]
+v.sting: checks 
+B1GBankroll: bets $2.92
+v.sting: calls $2.92
+*** RIVER *** [Ac 2d 3d Td] [8d]
+v.sting: checks 
+B1GBankroll: bets $4.81
+v.sting: calls $4.81
+*** SHOW DOWN ***
+B1GBankroll: shows [9d Ad] (a flush, Ace high)
+v.sting: mucks hand 
+B1GBankroll collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24.50 | Rake $1 
+Board [Ac 2d 3d Td 8d]
+Seat 1: v.sting (big blind) mucked
+Seat 2: VahTang_89 folded before Flop (didn't bet)
+Seat 3: B1GBankroll (button) showed [9d Ad] and won ($23.50) with a flush, Ace high
+Seat 6: Espada Fish (small blind) folded before Flop
+
+
+

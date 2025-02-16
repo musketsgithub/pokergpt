@@ -1,0 +1,4461 @@
+﻿PokerStars Hand #254474001733:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:08:48 WET [2025/01/20 16:08:48 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 1: XneferX ($112.62 in chips) 
+Seat 2: taffy7272 ($75.45 in chips) 
+Seat 3: Espada Fish ($104.58 in chips) 
+Seat 4: CichiChanMarian ($194.99 in chips) 
+Seat 5: z00mba ($103.23 in chips) 
+Seat 6: mariofcd ($197.02 in chips) 
+z00mba: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+taffy7272: calls $1
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: calls $0.50
+mariofcd: checks 
+*** FLOP *** [6c Th Jd]
+z00mba: checks 
+mariofcd: checks 
+taffy7272: checks 
+*** TURN *** [6c Th Jd] [3c]
+z00mba: checks 
+mariofcd: checks 
+taffy7272: checks 
+*** RIVER *** [6c Th Jd 3c] [9s]
+z00mba: checks 
+mariofcd: checks 
+taffy7272: bets $1
+z00mba: folds 
+mariofcd: calls $1
+*** SHOW DOWN ***
+taffy7272: shows [Kd Kc] (a pair of Kings)
+mariofcd: mucks hand 
+taffy7272 collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [6c Th Jd 3c 9s]
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: taffy7272 showed [Kd Kc] and won ($4.75) with a pair of Kings
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (button) folded before Flop (didn't bet)
+Seat 5: z00mba (small blind) folded on the River
+Seat 6: mariofcd (big blind) mucked
+
+
+
+PokerStars Hand #254474029004:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:10:12 WET [2025/01/20 16:10:12 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 1: XneferX ($112.62 in chips) 
+Seat 2: taffy7272 ($78.20 in chips) 
+Seat 3: Espada Fish ($104.58 in chips) 
+Seat 4: CichiChanMarian ($194.99 in chips) 
+Seat 5: z00mba ($102.23 in chips) 
+Seat 6: mariofcd ($195.02 in chips) 
+mariofcd: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+taffy7272: calls $1
+Espada Fish: raises $2.50 to $3.50
+CichiChanMarian is disconnected 
+CichiChanMarian is connected 
+CichiChanMarian: folds 
+z00mba: folds 
+mariofcd: folds 
+XneferX: folds 
+taffy7272: calls $2.50
+*** FLOP *** [Js Tc 5d]
+taffy7272: checks 
+Espada Fish: checks 
+*** TURN *** [Js Tc 5d] [8c]
+taffy7272: checks 
+Espada Fish: checks 
+*** RIVER *** [Js Tc 5d 8c] [5s]
+taffy7272: checks 
+Espada Fish: checks 
+*** SHOW DOWN ***
+taffy7272: shows [7d Td] (two pair, Tens and Fives)
+Espada Fish: mucks hand 
+taffy7272 collected $8.08 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [Js Tc 5d 8c 5s]
+Seat 1: XneferX (big blind) folded before Flop
+Seat 2: taffy7272 showed [7d Td] and won ($8.08) with two pair, Tens and Fives
+Seat 3: Espada Fish mucked
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254474053516:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:11:27 WET [2025/01/20 16:11:27 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 1: XneferX ($111.62 in chips) 
+Seat 2: taffy7272 ($82.78 in chips) 
+Seat 3: Espada Fish ($101.08 in chips) 
+Seat 4: CichiChanMarian ($194.99 in chips) 
+Seat 5: z00mba ($102.23 in chips) 
+Seat 6: mariofcd ($194.52 in chips) 
+XneferX: posts small blind $0.50
+taffy7272: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+CichiChanMarian is disconnected 
+CichiChanMarian is connected 
+CichiChanMarian: raises $1.50 to $2.50
+z00mba: folds 
+mariofcd: folds 
+XneferX: folds 
+taffy7272: calls $1.50
+*** FLOP *** [2s 3s Jc]
+taffy7272: checks 
+CichiChanMarian: checks 
+*** TURN *** [2s 3s Jc] [Td]
+taffy7272: checks 
+CichiChanMarian: bets $3.92
+taffy7272: folds 
+Uncalled bet ($3.92) returned to CichiChanMarian
+CichiChanMarian collected $5.22 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [2s 3s Jc Td]
+Seat 1: XneferX (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) folded on the Turn
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian collected ($5.22)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: mariofcd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474079765:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:12:46 WET [2025/01/20 16:12:46 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 1: XneferX ($111.12 in chips) 
+Seat 2: taffy7272 ($80.28 in chips) 
+Seat 3: Espada Fish ($101.08 in chips) 
+Seat 4: CichiChanMarian ($197.71 in chips) 
+Seat 5: z00mba ($102.23 in chips) 
+Seat 6: mariofcd ($194.52 in chips) 
+taffy7272: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+z00mba: folds 
+mariofcd: folds 
+XneferX: folds 
+taffy7272: calls $0.50
+Espada Fish: checks 
+*** FLOP *** [5h 6d 2d]
+taffy7272: checks 
+Espada Fish: checks 
+*** TURN *** [5h 6d 2d] [3d]
+taffy7272: checks 
+Espada Fish: checks 
+*** RIVER *** [5h 6d 2d 3d] [Jd]
+taffy7272: checks 
+Espada Fish: checks 
+*** SHOW DOWN ***
+taffy7272: shows [8c 5c] (a pair of Fives)
+Espada Fish: shows [6c 9h] (a pair of Sixes)
+Espada Fish collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [5h 6d 2d 3d Jd]
+Seat 1: XneferX (button) folded before Flop (didn't bet)
+Seat 2: taffy7272 (small blind) showed [8c 5c] and lost with a pair of Fives
+Seat 3: Espada Fish (big blind) showed [6c 9h] and won ($1.90) with a pair of Sixes
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474099451:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:13:45 WET [2025/01/20 16:13:45 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 1: XneferX ($111.12 in chips) 
+Seat 2: taffy7272 ($79.28 in chips) 
+Seat 3: Espada Fish ($101.98 in chips) 
+Seat 4: CichiChanMarian ($197.71 in chips) 
+Seat 5: z00mba ($102.23 in chips) 
+Seat 6: mariofcd ($194.52 in chips) 
+Espada Fish: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+mariofcd: folds 
+XneferX: folds 
+taffy7272: calls $1
+Espada Fish: raises $4.50 to $5.50
+CichiChanMarian: folds 
+taffy7272: calls $4.50
+*** FLOP *** [Jc 3h Kh]
+Espada Fish: bets $5.70
+taffy7272: folds 
+Uncalled bet ($5.70) returned to Espada Fish
+Espada Fish collected $11.40 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Jc 3h Kh]
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: taffy7272 (button) folded on the Flop
+Seat 3: Espada Fish (small blind) collected ($11.40)
+Seat 4: CichiChanMarian (big blind) folded before Flop
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474114762:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:14:31 WET [2025/01/20 16:14:31 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 1: XneferX ($111.12 in chips) 
+Seat 2: taffy7272 ($73.78 in chips) 
+Seat 3: Espada Fish ($107.88 in chips) 
+Seat 4: CichiChanMarian ($196.71 in chips) 
+Seat 5: z00mba ($102.23 in chips) 
+Seat 6: mariofcd ($194.52 in chips) 
+CichiChanMarian: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: folds 
+XneferX: folds 
+taffy7272: calls $1
+Espada Fish: folds 
+CichiChanMarian: calls $0.50
+z00mba: checks 
+*** FLOP *** [7c Ah Js]
+CichiChanMarian: checks 
+z00mba: checks 
+taffy7272: checks 
+*** TURN *** [7c Ah Js] [3s]
+CichiChanMarian: checks 
+z00mba: checks 
+taffy7272: checks 
+*** RIVER *** [7c Ah Js 3s] [Ac]
+CichiChanMarian: checks 
+z00mba: checks 
+taffy7272: checks 
+*** SHOW DOWN ***
+CichiChanMarian: shows [Qs 7s] (two pair, Aces and Sevens)
+z00mba: mucks hand 
+taffy7272: shows [Jh Ts] (two pair, Aces and Jacks)
+taffy7272 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [7c Ah Js 3s Ac]
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: taffy7272 showed [Jh Ts] and won ($2.85) with two pair, Aces and Jacks
+Seat 3: Espada Fish (button) folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (small blind) showed [Qs 7s] and lost with two pair, Aces and Sevens
+Seat 5: z00mba (big blind) mucked
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474134935:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:15:31 WET [2025/01/20 16:15:31 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 1: XneferX ($111.12 in chips) 
+Seat 2: taffy7272 ($75.63 in chips) 
+Seat 3: Espada Fish ($107.88 in chips) 
+Seat 4: CichiChanMarian ($195.71 in chips) 
+Seat 5: z00mba ($101.23 in chips) 
+Seat 6: mariofcd ($194.52 in chips) 
+z00mba: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+taffy7272: calls $1
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: folds 
+mariofcd: checks 
+*** FLOP *** [Kd 8s Ah]
+mariofcd: checks 
+taffy7272: checks 
+*** TURN *** [Kd 8s Ah] [Qh]
+mariofcd: checks 
+taffy7272: checks 
+*** RIVER *** [Kd 8s Ah Qh] [3s]
+mariofcd: checks 
+taffy7272: checks 
+*** SHOW DOWN ***
+mariofcd: shows [6s Qd] (a pair of Queens)
+taffy7272: mucks hand 
+mariofcd collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Kd 8s Ah Qh 3s]
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: taffy7272 mucked
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (button) folded before Flop (didn't bet)
+Seat 5: z00mba (small blind) folded before Flop
+Seat 6: mariofcd (big blind) showed [6s Qd] and won ($2.38) with a pair of Queens
+
+
+
+PokerStars Hand #254474148550:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:16:12 WET [2025/01/20 16:16:12 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 1: XneferX ($111.12 in chips) 
+Seat 2: taffy7272 ($74.63 in chips) 
+Seat 3: Espada Fish ($107.88 in chips) 
+Seat 4: CichiChanMarian ($195.71 in chips) 
+Seat 5: z00mba ($100.73 in chips) 
+Seat 6: mariofcd ($195.90 in chips) 
+mariofcd: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+taffy7272: folds 
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: folds 
+mariofcd: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: XneferX (big blind) collected ($1)
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254474153479:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:16:27 WET [2025/01/20 16:16:27 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 1: XneferX ($111.62 in chips) 
+Seat 2: taffy7272 ($74.63 in chips) 
+Seat 3: Espada Fish ($107.88 in chips) 
+Seat 4: CichiChanMarian ($195.71 in chips) 
+Seat 5: z00mba ($100.73 in chips) 
+Seat 6: mariofcd ($195.40 in chips) 
+XneferX: posts small blind $0.50
+taffy7272: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: folds 
+mariofcd: folds 
+XneferX: folds 
+Uncalled bet ($0.50) returned to taffy7272
+taffy7272 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: XneferX (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) collected ($1)
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: mariofcd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474160931:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:16:49 WET [2025/01/20 16:16:49 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 1: XneferX ($111.12 in chips) 
+Seat 2: taffy7272 ($75.13 in chips) 
+Seat 3: Espada Fish ($107.88 in chips) 
+Seat 4: CichiChanMarian ($195.71 in chips) 
+Seat 5: z00mba ($100.73 in chips) 
+Seat 6: mariofcd ($195.40 in chips) 
+taffy7272: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+z00mba: folds 
+mariofcd: folds 
+XneferX: folds 
+taffy7272: calls $0.50
+Espada Fish is disconnected 
+Espada Fish has timed out while disconnected
+Espada Fish: checks 
+*** FLOP *** [2d 3c 7s]
+taffy7272: checks 
+Espada Fish: bets $1.43
+taffy7272: calls $1.43
+*** TURN *** [2d 3c 7s] [8h]
+taffy7272: checks 
+Espada Fish: checks 
+*** RIVER *** [2d 3c 7s 8h] [Jd]
+taffy7272: bets $4.62
+Espada Fish: folds 
+Uncalled bet ($4.62) returned to taffy7272
+taffy7272 collected $4.62 from pot
+*** SUMMARY ***
+Total pot $4.86 | Rake $0.24 
+Board [2d 3c 7s 8h Jd]
+Seat 1: XneferX (button) folded before Flop (didn't bet)
+Seat 2: taffy7272 (small blind) collected ($4.62)
+Seat 3: Espada Fish (big blind) folded on the River
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474186631:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:18:07 WET [2025/01/20 16:18:07 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 1: XneferX ($111.12 in chips) 
+Seat 2: taffy7272 ($77.32 in chips) 
+Seat 3: Espada Fish ($105.45 in chips) 
+Seat 4: CichiChanMarian ($195.71 in chips) 
+Seat 5: z00mba ($100.73 in chips) 
+Seat 6: mariofcd ($195.40 in chips) 
+Espada Fish: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+mariofcd: folds 
+XneferX: raises $1.30 to $2.30
+taffy7272: calls $2.30
+Espada Fish: raises $11.70 to $14
+CichiChanMarian: folds 
+XneferX: folds 
+taffy7272: folds 
+Uncalled bet ($11.70) returned to Espada Fish
+Espada Fish collected $7.90 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.90 | Rake $0 
+Seat 1: XneferX folded before Flop
+Seat 2: taffy7272 (button) folded before Flop
+Seat 3: Espada Fish (small blind) collected ($7.90)
+Seat 4: CichiChanMarian (big blind) folded before Flop
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474198461:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:18:43 WET [2025/01/20 16:18:43 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 1: XneferX ($108.82 in chips) 
+Seat 2: taffy7272 ($75.02 in chips) 
+Seat 3: Espada Fish ($111.05 in chips) 
+Seat 4: CichiChanMarian ($194.71 in chips) 
+Seat 5: z00mba ($100.73 in chips) 
+Seat 6: mariofcd ($195.40 in chips) 
+CichiChanMarian: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: raises $1.20 to $2.20
+XneferX: folds 
+taffy7272: folds 
+Espada Fish: raises $5.30 to $7.50
+CichiChanMarian: folds 
+z00mba: folds 
+mariofcd: folds 
+Uncalled bet ($5.30) returned to Espada Fish
+Espada Fish collected $5.90 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Espada Fish (button) collected ($5.90)
+Seat 4: CichiChanMarian (small blind) folded before Flop
+Seat 5: z00mba (big blind) folded before Flop
+Seat 6: mariofcd folded before Flop
+
+
+
+PokerStars Hand #254474215556:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:19:34 WET [2025/01/20 16:19:34 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 1: XneferX ($108.82 in chips) 
+Seat 2: taffy7272 ($75.02 in chips) 
+Seat 3: Espada Fish ($114.75 in chips) 
+Seat 4: CichiChanMarian ($194.21 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: mariofcd ($193.20 in chips) 
+z00mba: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+taffy7272: calls $1
+Espada Fish: raises $2.50 to $3.50
+CichiChanMarian: calls $3.50
+z00mba: folds 
+mariofcd: folds 
+taffy7272: calls $2.50
+*** FLOP *** [2s 6h Ad]
+taffy7272: checks 
+Espada Fish: checks 
+CichiChanMarian: checks 
+*** TURN *** [2s 6h Ad] [Qs]
+taffy7272: checks 
+Espada Fish: bets $8.55
+CichiChanMarian: folds 
+taffy7272: folds 
+Uncalled bet ($8.55) returned to Espada Fish
+Espada Fish collected $11.40 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [2s 6h Ad Qs]
+Seat 1: XneferX folded before Flop (didn't bet)
+Seat 2: taffy7272 folded on the Turn
+Seat 3: Espada Fish collected ($11.40)
+Seat 4: CichiChanMarian (button) folded on the Turn
+Seat 5: z00mba (small blind) folded before Flop
+Seat 6: mariofcd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254474238256:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:20:42 WET [2025/01/20 16:20:42 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 1: XneferX ($108.82 in chips) 
+Seat 2: taffy7272 ($71.52 in chips) 
+Seat 3: Espada Fish ($122.65 in chips) 
+Seat 4: CichiChanMarian ($190.71 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: mariofcd ($192.20 in chips) 
+mariofcd: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+taffy7272: calls $1
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: folds 
+mariofcd: folds 
+XneferX: checks 
+*** FLOP *** [Th 5s Tc]
+XneferX: checks 
+taffy7272: checks 
+*** TURN *** [Th 5s Tc] [4s]
+XneferX: checks 
+taffy7272: checks 
+*** RIVER *** [Th 5s Tc 4s] [8s]
+XneferX: bets $1.83
+taffy7272: folds 
+Uncalled bet ($1.83) returned to XneferX
+XneferX collected $2.38 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Th 5s Tc 4s 8s]
+Seat 1: XneferX (big blind) collected ($2.38)
+Seat 2: taffy7272 folded on the River
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254474253372:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:21:27 WET [2025/01/20 16:21:27 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 1: XneferX ($110.20 in chips) 
+Seat 2: taffy7272 ($70.52 in chips) 
+Seat 3: Espada Fish ($122.65 in chips) 
+Seat 4: CichiChanMarian ($190.71 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: mariofcd ($191.70 in chips) 
+XneferX: posts small blind $0.50
+taffy7272: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: raises $1.50 to $2.50
+mariofcd: folds 
+XneferX: folds 
+taffy7272: calls $1.50
+*** FLOP *** [2c 8s 4c]
+taffy7272: checks 
+z00mba: checks 
+*** TURN *** [2c 8s 4c] [Qc]
+taffy7272: checks 
+z00mba: bets $3
+taffy7272: folds 
+Uncalled bet ($3) returned to z00mba
+z00mba collected $5.22 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [2c 8s 4c Qc]
+Seat 1: XneferX (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) folded on the Turn
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba collected ($5.22)
+Seat 6: mariofcd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474263225:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:21:56 WET [2025/01/20 16:21:56 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 1: XneferX ($109.70 in chips) 
+Seat 2: taffy7272 ($68.02 in chips) 
+Seat 3: Espada Fish ($122.65 in chips) 
+Seat 4: CichiChanMarian ($190.71 in chips) 
+Seat 5: z00mba ($102.72 in chips) 
+Seat 6: mariofcd ($191.70 in chips) 
+taffy7272: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+z00mba: folds 
+mariofcd: folds 
+XneferX: raises $1.77 to $2.77
+taffy7272: calls $2.27
+Espada Fish: folds 
+*** FLOP *** [4d 7s Js]
+taffy7272: checks 
+XneferX: bets $1.20
+taffy7272: calls $1.20
+*** TURN *** [4d 7s Js] [Ts]
+taffy7272: checks 
+XneferX: checks 
+*** RIVER *** [4d 7s Js Ts] [8h]
+taffy7272: bets $8.49
+XneferX: calls $8.49
+*** SHOW DOWN ***
+taffy7272: shows [5c 3c] (high card Jack)
+XneferX: shows [9c Ac] (a straight, Seven to Jack)
+XneferX collected $24.62 from pot
+*** SUMMARY ***
+Total pot $25.92 | Rake $1.30 
+Board [4d 7s Js Ts 8h]
+Seat 1: XneferX (button) showed [9c Ac] and won ($24.62) with a straight, Seven to Jack
+Seat 2: taffy7272 (small blind) showed [5c 3c] and lost with high card Jack
+Seat 3: Espada Fish (big blind) folded before Flop
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474290346:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:23:17 WET [2025/01/20 16:23:17 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 2: taffy7272 ($55.56 in chips) 
+Seat 3: Espada Fish ($121.65 in chips) 
+Seat 4: CichiChanMarian ($190.71 in chips) 
+Seat 5: z00mba ($102.72 in chips) 
+Seat 6: mariofcd ($191.70 in chips) 
+Espada Fish: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+mariofcd: folds 
+taffy7272: folds 
+Espada Fish: folds 
+Uncalled bet ($0.50) returned to CichiChanMarian
+CichiChanMarian collected $1 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: taffy7272 (button) folded before Flop (didn't bet)
+Seat 3: Espada Fish (small blind) folded before Flop
+Seat 4: CichiChanMarian (big blind) collected ($1)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474294078:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:23:28 WET [2025/01/20 16:23:28 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 2: taffy7272 ($55.56 in chips) 
+Seat 3: Espada Fish ($121.15 in chips) 
+Seat 4: CichiChanMarian ($191.21 in chips) 
+Seat 5: z00mba ($102.72 in chips) 
+Seat 6: mariofcd ($191.70 in chips) 
+CichiChanMarian: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: folds 
+taffy7272: folds 
+Espada Fish: folds 
+CEPTT joins the table at seat #1 
+CichiChanMarian: raises $2 to $3
+z00mba: folds 
+Uncalled bet ($2) returned to CichiChanMarian
+CichiChanMarian collected $2 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Espada Fish (button) folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (small blind) collected ($2)
+Seat 5: z00mba (big blind) folded before Flop
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474302144:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:23:52 WET [2025/01/20 16:23:52 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 1: CEPTT ($100 in chips) is sitting out
+Seat 2: taffy7272 ($55.56 in chips) 
+Seat 3: Espada Fish ($121.15 in chips) 
+Seat 4: CichiChanMarian ($192.21 in chips) 
+Seat 5: z00mba ($101.72 in chips) 
+Seat 6: mariofcd ($191.70 in chips) 
+z00mba: posts small blind $0.50
+mariofcd: posts big blind $1
+CEPTT: sits out 
+*** HOLE CARDS ***
+taffy7272: folds 
+Espada Fish: raises $1.20 to $2.20
+CichiChanMarian: raises $4.84 to $7.04
+z00mba: folds 
+mariofcd: folds 
+Espada Fish: folds 
+Uncalled bet ($4.84) returned to CichiChanMarian
+CichiChanMarian collected $5.90 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: CEPTT
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Espada Fish folded before Flop
+Seat 4: CichiChanMarian (button) collected ($5.90)
+Seat 5: z00mba (small blind) folded before Flop
+Seat 6: mariofcd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254474310455:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:24:17 WET [2025/01/20 16:24:17 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($55.56 in chips) 
+Seat 3: Espada Fish ($118.95 in chips) 
+Seat 4: CichiChanMarian ($195.91 in chips) 
+Seat 5: z00mba ($101.22 in chips) 
+Seat 6: mariofcd ($190.70 in chips) 
+mariofcd: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+taffy7272: calls $1
+Espada Fish: folds 
+CichiChanMarian: raises $3 to $4
+z00mba: folds 
+mariofcd: folds 
+CEPTT: calls $3
+taffy7272: calls $3
+*** FLOP *** [Qd 6d Jd]
+CEPTT: checks 
+taffy7272: checks 
+CichiChanMarian: checks 
+*** TURN *** [Qd 6d Jd] [4h]
+CEPTT: bets $8.91
+taffy7272: calls $8.91
+CichiChanMarian: folds 
+*** RIVER *** [Qd 6d Jd 4h] [9s]
+CEPTT: checks 
+taffy7272: bets $28.80
+CEPTT: calls $28.80
+*** SHOW DOWN ***
+taffy7272: shows [Kd 8d] (a flush, King high)
+CEPTT: mucks hand 
+taffy7272 collected $85.42 from pot
+*** SUMMARY ***
+Total pot $87.92 | Rake $2.50 
+Board [Qd 6d Jd 4h 9s]
+Seat 1: CEPTT (big blind) mucked
+Seat 2: taffy7272 showed [Kd 8d] and won ($85.42) with a flush, King high
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded on the Turn
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254474340172:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:25:47 WET [2025/01/20 16:25:47 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($99.27 in chips) 
+Seat 3: Espada Fish ($118.95 in chips) 
+Seat 4: CichiChanMarian ($191.91 in chips) 
+Seat 5: z00mba ($101.22 in chips) 
+Seat 6: mariofcd ($190.20 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: raises $1.50 to $2.50
+mariofcd: folds 
+CEPTT: folds 
+taffy7272: calls $1.50
+*** FLOP *** [Kc 7c 4h]
+taffy7272: checks 
+z00mba: bets $3
+taffy7272: folds 
+Uncalled bet ($3) returned to z00mba
+z00mba collected $5.22 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Kc 7c 4h]
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) folded on the Flop
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba collected ($5.22)
+Seat 6: mariofcd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474352046:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:26:23 WET [2025/01/20 16:26:23 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($96.77 in chips) 
+Seat 3: Espada Fish ($118.95 in chips) 
+Seat 4: CichiChanMarian ($191.91 in chips) 
+Seat 5: z00mba ($103.94 in chips) 
+Seat 6: mariofcd ($190.20 in chips) 
+taffy7272: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+z00mba: raises $1.50 to $2.50
+mariofcd: raises $5.53 to $8.03
+CEPTT: folds 
+taffy7272: calls $7.53
+Espada Fish: folds 
+z00mba: folds 
+*** FLOP *** [5s 2c 5d]
+taffy7272: checks 
+mariofcd: bets $4
+taffy7272: calls $4
+*** TURN *** [5s 2c 5d] [Js]
+taffy7272: bets $13.09
+mariofcd: folds 
+Uncalled bet ($13.09) returned to taffy7272
+taffy7272 collected $26.18 from pot
+*** SUMMARY ***
+Total pot $27.56 | Rake $1.38 
+Board [5s 2c 5d Js]
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 2: taffy7272 (small blind) collected ($26.18)
+Seat 3: Espada Fish (big blind) folded before Flop
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop
+Seat 6: mariofcd folded on the Turn
+
+
+
+PokerStars Hand #254474369291:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:27:16 WET [2025/01/20 16:27:16 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($110.92 in chips) 
+Seat 3: Espada Fish ($117.95 in chips) 
+Seat 4: CichiChanMarian ($191.91 in chips) 
+Seat 5: z00mba ($101.44 in chips) 
+Seat 6: mariofcd ($178.17 in chips) 
+Espada Fish: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+mariofcd: folds 
+CEPTT: folds 
+taffy7272: calls $1
+Espada Fish: folds 
+CichiChanMarian: checks 
+*** FLOP *** [As 2s Td]
+CichiChanMarian: checks 
+taffy7272: checks 
+*** TURN *** [As 2s Td] [Th]
+CichiChanMarian: bets $1.78
+taffy7272: calls $1.78
+*** RIVER *** [As 2s Td Th] [Qc]
+CichiChanMarian: bets $5.76
+taffy7272: raises $5.76 to $11.52
+CichiChanMarian: folds 
+Uncalled bet ($5.76) returned to taffy7272
+taffy7272 collected $16.70 from pot
+*** SUMMARY ***
+Total pot $17.58 | Rake $0.88 
+Board [As 2s Td Th Qc]
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 (button) collected ($16.70)
+Seat 3: Espada Fish (small blind) folded before Flop
+Seat 4: CichiChanMarian (big blind) folded on the River
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474382664:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:27:56 WET [2025/01/20 16:27:56 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 5: z00mba ($101.44 in chips) is sitting out
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($119.08 in chips) 
+Seat 3: Espada Fish ($117.45 in chips) 
+Seat 4: CichiChanMarian ($183.37 in chips) 
+Seat 6: mariofcd ($178.17 in chips) 
+CichiChanMarian: posts small blind $0.50
+z00mba: is sitting out 
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+taffy7272: calls $1
+Espada Fish: folds 
+CichiChanMarian: raises $5 to $6
+mariofcd: folds 
+taffy7272: calls $5
+*** FLOP *** [4h 2h 2s]
+CichiChanMarian: bets $4.08
+taffy7272: folds 
+Uncalled bet ($4.08) returned to CichiChanMarian
+CichiChanMarian collected $12.35 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [4h 2h 2s]
+Seat 5: z00mba
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 folded on the Flop
+Seat 3: Espada Fish (button) folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (small blind) collected ($12.35)
+Seat 6: mariofcd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254474392945:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:28:28 WET [2025/01/20 16:28:28 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 5: z00mba ($101.44 in chips) is sitting out
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($113.08 in chips) 
+Seat 3: Espada Fish ($117.45 in chips) 
+Seat 4: CichiChanMarian ($189.72 in chips) 
+Seat 6: mariofcd ($177.17 in chips) 
+mariofcd: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+taffy7272: folds 
+Espada Fish: raises $1.20 to $2.20
+CichiChanMarian: raises $4.84 to $7.04
+mariofcd: folds 
+CEPTT: folds 
+Espada Fish: folds 
+Uncalled bet ($4.84) returned to CichiChanMarian
+CichiChanMarian collected $5.90 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 5: z00mba
+Seat 1: CEPTT (big blind) folded before Flop
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Espada Fish folded before Flop
+Seat 4: CichiChanMarian (button) collected ($5.90)
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254474406900:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:29:11 WET [2025/01/20 16:29:11 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 5: z00mba ($101.44 in chips) is sitting out
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($113.08 in chips) 
+Seat 3: Espada Fish ($115.25 in chips) 
+Seat 4: CichiChanMarian ($193.42 in chips) 
+Seat 6: mariofcd ($176.67 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+Espada Fish: folds 
+CichiChanMarian: raises $1.50 to $2.50
+mariofcd: raises $5.53 to $8.03
+CEPTT: folds 
+taffy7272: folds 
+CichiChanMarian: folds 
+Uncalled bet ($5.53) returned to mariofcd
+mariofcd collected $6.50 from pot
+mariofcd: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 5: z00mba
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) folded before Flop
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop
+Seat 6: mariofcd (button) collected ($6.50)
+
+
+
+PokerStars Hand #254474419292:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:29:49 WET [2025/01/20 16:29:49 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 5: z00mba ($101.44 in chips) is sitting out
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($112.08 in chips) 
+Seat 3: Espada Fish ($115.25 in chips) 
+Seat 4: CichiChanMarian ($190.92 in chips) 
+Seat 6: mariofcd ($180.67 in chips) 
+taffy7272: posts small blind $0.50
+Espada Fish: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+mariofcd: raises $1.25 to $2.25
+CEPTT: folds 
+taffy7272: calls $1.75
+Espada Fish: folds 
+*** FLOP *** [8d 3s Qh]
+taffy7272: checks 
+mariofcd: bets $1.57
+taffy7272: folds 
+Uncalled bet ($1.57) returned to mariofcd
+mariofcd collected $5.22 from pot
+mariofcd: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [8d 3s Qh]
+Seat 5: z00mba
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 2: taffy7272 (small blind) folded on the Flop
+Seat 3: Espada Fish (big blind) folded before Flop
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 6: mariofcd collected ($5.22)
+
+
+
+PokerStars Hand #254474430700:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:30:24 WET [2025/01/20 16:30:24 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 5: z00mba ($101.44 in chips) is sitting out
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($109.83 in chips) 
+Seat 3: Espada Fish ($114.25 in chips) 
+Seat 4: CichiChanMarian ($190.92 in chips) 
+Seat 6: mariofcd ($183.64 in chips) 
+Espada Fish: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+mariofcd: raises $1.20 to $2.20
+CEPTT: folds 
+taffy7272: folds 
+Espada Fish: folds 
+CichiChanMarian: folds 
+Uncalled bet ($1.20) returned to mariofcd
+mariofcd collected $2.50 from pot
+mariofcd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: z00mba
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 (button) folded before Flop (didn't bet)
+Seat 3: Espada Fish (small blind) folded before Flop
+Seat 4: CichiChanMarian (big blind) folded before Flop
+Seat 6: mariofcd collected ($2.50)
+
+
+
+PokerStars Hand #254474437108:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:30:43 WET [2025/01/20 16:30:43 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($109.83 in chips) 
+Seat 3: Espada Fish ($113.75 in chips) 
+Seat 4: CichiChanMarian ($189.92 in chips) 
+Seat 5: z00mba ($101.44 in chips) 
+Seat 6: mariofcd ($185.14 in chips) 
+CichiChanMarian: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: folds 
+CEPTT: raises $1.25 to $2.25
+taffy7272 is disconnected 
+taffy7272 has timed out while disconnected
+taffy7272: folds 
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: folds 
+Uncalled bet ($1.25) returned to CEPTT
+CEPTT collected $2.50 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: CEPTT collected ($2.50)
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Espada Fish (button) folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (small blind) folded before Flop
+Seat 5: z00mba (big blind) folded before Flop
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474455344:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:31:38 WET [2025/01/20 16:31:38 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 2: taffy7272 ($109.83 in chips) is sitting out
+Seat 1: CEPTT ($101.50 in chips) 
+Seat 3: Espada Fish ($113.75 in chips) 
+Seat 4: CichiChanMarian ($189.42 in chips) 
+Seat 5: z00mba ($100.44 in chips) 
+Seat 6: mariofcd ($185.14 in chips) 
+z00mba: posts small blind $0.50
+mariofcd: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: raises $2 to $3
+mariofcd: folds 
+Uncalled bet ($2) returned to z00mba
+z00mba collected $2 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: taffy7272
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (button) folded before Flop (didn't bet)
+Seat 5: z00mba (small blind) collected ($2)
+Seat 6: mariofcd (big blind) folded before Flop
+
+
+
+PokerStars Hand #254474463685:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:32:04 WET [2025/01/20 16:32:04 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 2: taffy7272 ($109.83 in chips) is sitting out
+Seat 1: CEPTT ($101.50 in chips) 
+Seat 3: Espada Fish ($113.75 in chips) 
+Seat 4: CichiChanMarian ($189.42 in chips) 
+Seat 5: z00mba ($101.44 in chips) 
+Seat 6: mariofcd ($184.14 in chips) 
+mariofcd: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+CichiChanMarian: raises $1.50 to $2.50
+z00mba: folds 
+mariofcd: folds 
+CEPTT: calls $1.50
+*** FLOP *** [4s 6d Ks]
+CEPTT: checks 
+CichiChanMarian: bets $1.72
+CEPTT: folds 
+Uncalled bet ($1.72) returned to CichiChanMarian
+CichiChanMarian collected $5.22 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [4s 6d Ks]
+Seat 2: taffy7272
+Seat 1: CEPTT (big blind) folded on the Flop
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian collected ($5.22)
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+Seat 6: mariofcd (small blind) folded before Flop
+
+
+
+PokerStars Hand #254474473513:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:32:34 WET [2025/01/20 16:32:34 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 2: taffy7272 ($109.83 in chips) is sitting out
+Seat 1: CEPTT ($100 in chips) 
+Seat 3: Espada Fish ($113.75 in chips) 
+Seat 4: CichiChanMarian ($192.14 in chips) 
+Seat 5: z00mba ($101.44 in chips) 
+Seat 6: mariofcd ($183.64 in chips) 
+CEPTT: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+z00mba: raises $1.50 to $2.50
+mariofcd: raises $5.53 to $8.03
+CEPTT: folds 
+Espada Fish: folds 
+z00mba: raises $13.97 to $22
+mariofcd: folds 
+Uncalled bet ($13.97) returned to z00mba
+z00mba collected $17.56 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.56 | Rake $0 
+Seat 2: taffy7272
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 3: Espada Fish (big blind) folded before Flop
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba collected ($17.56)
+Seat 6: mariofcd (button) folded before Flop
+
+
+
+PokerStars Hand #254474489125:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:33:22 WET [2025/01/20 16:33:22 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 2: taffy7272 ($109.83 in chips) is sitting out
+Seat 1: CEPTT ($100 in chips) 
+Seat 3: Espada Fish ($112.75 in chips) 
+Seat 4: CichiChanMarian ($192.14 in chips) 
+Seat 5: z00mba ($110.97 in chips) 
+Seat 6: mariofcd ($175.61 in chips) 
+Espada Fish: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+mariofcd: folds 
+CEPTT: raises $1.85 to $2.85
+Espada Fish: folds 
+CichiChanMarian: folds 
+Uncalled bet ($1.85) returned to CEPTT
+CEPTT collected $2.50 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: taffy7272
+Seat 1: CEPTT (button) collected ($2.50)
+Seat 3: Espada Fish (small blind) folded before Flop
+Seat 4: CichiChanMarian (big blind) folded before Flop
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474494735:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:33:38 WET [2025/01/20 16:33:38 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 2: taffy7272 ($109.83 in chips) is sitting out
+Seat 1: CEPTT ($101.50 in chips) 
+Seat 3: Espada Fish ($112.25 in chips) 
+Seat 4: CichiChanMarian ($191.14 in chips) 
+Seat 5: z00mba ($110.97 in chips) 
+Seat 6: mariofcd ($175.61 in chips) 
+CichiChanMarian: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+mariofcd: folds 
+CEPTT: folds 
+Espada Fish: folds 
+CichiChanMarian: raises $2 to $3
+z00mba: folds 
+Uncalled bet ($2) returned to CichiChanMarian
+CichiChanMarian collected $2 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: taffy7272
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 3: Espada Fish (button) folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (small blind) collected ($2)
+Seat 5: z00mba (big blind) folded before Flop
+Seat 6: mariofcd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474498815:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:33:51 WET [2025/01/20 16:33:51 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 2: taffy7272 ($109.83 in chips) is sitting out
+Seat 6: mariofcd ($175.61 in chips) is sitting out
+Seat 1: CEPTT ($101.50 in chips) 
+Seat 3: Espada Fish ($112.25 in chips) 
+Seat 4: CichiChanMarian ($192.14 in chips) 
+Seat 5: z00mba ($109.97 in chips) 
+z00mba: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+mariofcd leaves the table
+Espada Fish: folds 
+CichiChanMarian: raises $1.50 to $2.50
+z00mba: raises $9 to $11.50
+CEPTT: folds 
+tintin641 joins the table at seat #6 
+CichiChanMarian: folds 
+Uncalled bet ($9) returned to z00mba
+z00mba collected $6 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: taffy7272
+Seat 6: mariofcd
+Seat 1: CEPTT (big blind) folded before Flop
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (button) folded before Flop
+Seat 5: z00mba (small blind) collected ($6)
+
+
+
+PokerStars Hand #254474507038:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:34:16 WET [2025/01/20 16:34:16 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 2: taffy7272 ($109.83 in chips) is sitting out
+Seat 6: tintin641 ($100 in chips) is sitting out
+Seat 1: CEPTT ($100.50 in chips) 
+Seat 3: Espada Fish ($112.25 in chips) 
+Seat 4: CichiChanMarian ($189.64 in chips) 
+Seat 5: z00mba ($113.47 in chips) 
+CEPTT: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian is disconnected 
+CichiChanMarian is connected 
+CichiChanMarian: raises $1.50 to $2.50
+z00mba: folds 
+CEPTT: raises $9.50 to $12
+Espada Fish: folds 
+CichiChanMarian: folds 
+Uncalled bet ($9.50) returned to CEPTT
+CEPTT collected $6 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: taffy7272
+Seat 6: tintin641
+Seat 1: CEPTT (small blind) collected ($6)
+Seat 3: Espada Fish (big blind) folded before Flop
+Seat 4: CichiChanMarian folded before Flop
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474518575:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:34:52 WET [2025/01/20 16:34:52 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 2: taffy7272 ($109.83 in chips) is sitting out
+Seat 6: tintin641 ($100 in chips) is sitting out
+Seat 1: CEPTT ($104 in chips) 
+Seat 3: Espada Fish ($111.25 in chips) 
+Seat 4: CichiChanMarian ($187.14 in chips) 
+Seat 5: z00mba ($113.47 in chips) 
+Espada Fish: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+z00mba: folds 
+CEPTT: folds 
+Espada Fish: folds 
+Uncalled bet ($0.50) returned to CichiChanMarian
+CichiChanMarian collected $1 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: taffy7272
+Seat 6: tintin641
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 3: Espada Fish (small blind) folded before Flop
+Seat 4: CichiChanMarian (big blind) collected ($1)
+Seat 5: z00mba folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474522532:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:35:04 WET [2025/01/20 16:35:04 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 2: taffy7272 ($109.83 in chips) is sitting out
+Seat 6: tintin641 ($100 in chips) is sitting out
+Seat 1: CEPTT ($104 in chips) 
+Seat 3: Espada Fish ($110.75 in chips) 
+Seat 4: CichiChanMarian ($187.64 in chips) 
+Seat 5: z00mba ($113.47 in chips) 
+CichiChanMarian: posts small blind $0.50
+z00mba: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+CEPTT: folds 
+Espada Fish: folds 
+CichiChanMarian: raises $2 to $3
+z00mba: calls $2
+*** FLOP *** [2c Jd 7h]
+CichiChanMarian: checks 
+z00mba: checks 
+*** TURN *** [2c Jd 7h] [3h]
+CichiChanMarian: checks 
+z00mba: bets $8.32
+CichiChanMarian: folds 
+Uncalled bet ($8.32) returned to z00mba
+z00mba collected $5.70 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [2c Jd 7h 3h]
+Seat 2: taffy7272
+Seat 6: tintin641
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 3: Espada Fish (button) folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (small blind) folded on the Turn
+Seat 5: z00mba (big blind) collected ($5.70)
+
+
+
+PokerStars Hand #254474547470:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:36:20 WET [2025/01/20 16:36:20 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 1: CEPTT ($104 in chips) 
+Seat 2: taffy7272 ($109.83 in chips) 
+Seat 3: Espada Fish ($110.75 in chips) 
+Seat 4: CichiChanMarian ($184.64 in chips) 
+Seat 5: z00mba ($116.17 in chips) 
+Seat 6: tintin641 ($100 in chips) 
+z00mba: posts small blind $0.50
+tintin641: posts big blind $1
+taffy7272: posts small & big blinds $1.50
+*** HOLE CARDS ***
+CEPTT: folds 
+taffy7272: checks 
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: calls $0.50
+tintin641: checks 
+*** FLOP *** [Kh Jc 2d]
+z00mba: checks 
+tintin641: checks 
+taffy7272: checks 
+*** TURN *** [Kh Jc 2d] [Td]
+z00mba: checks 
+tintin641: checks 
+taffy7272: checks 
+*** RIVER *** [Kh Jc 2d Td] [3h]
+z00mba: checks 
+tintin641: checks 
+taffy7272: checks 
+*** SHOW DOWN ***
+z00mba: shows [2s 4h] (a pair of Deuces)
+tintin641: shows [Qd Ts] (a pair of Tens)
+taffy7272: mucks hand 
+tintin641 collected $3.32 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [Kh Jc 2d Td 3h]
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 mucked
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (button) folded before Flop (didn't bet)
+Seat 5: z00mba (small blind) showed [2s 4h] and lost with a pair of Deuces
+Seat 6: tintin641 (big blind) showed [Qd Ts] and won ($3.32) with a pair of Tens
+
+
+
+PokerStars Hand #254474568688:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:37:26 WET [2025/01/20 16:37:26 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 1: CEPTT ($104 in chips) 
+Seat 2: taffy7272 ($108.33 in chips) 
+Seat 3: Espada Fish ($110.75 in chips) 
+Seat 4: CichiChanMarian ($184.64 in chips) 
+Seat 5: z00mba ($115.17 in chips) 
+Seat 6: tintin641 ($102.32 in chips) 
+tintin641: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+taffy7272: folds 
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: raises $1.50 to $2.50
+tintin641: raises $8.50 to $11
+CEPTT: folds 
+z00mba: folds 
+Uncalled bet ($8.50) returned to tintin641
+tintin641 collected $6 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: CEPTT (big blind) folded before Flop
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba (button) folded before Flop
+Seat 6: tintin641 (small blind) collected ($6)
+
+
+
+PokerStars Hand #254474578134:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:37:55 WET [2025/01/20 16:37:55 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 1: CEPTT ($103 in chips) 
+Seat 2: taffy7272 ($108.33 in chips) 
+Seat 3: Espada Fish ($110.75 in chips) 
+Seat 4: CichiChanMarian ($184.64 in chips) 
+Seat 5: z00mba ($112.67 in chips) 
+Seat 6: tintin641 ($105.82 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+CichiChanMarian: raises $1.50 to $2.50
+z00mba: folds 
+tintin641: folds 
+CEPTT: folds 
+taffy7272: folds 
+Uncalled bet ($1.50) returned to CichiChanMarian
+CichiChanMarian collected $2.50 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) folded before Flop
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian collected ($2.50)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: tintin641 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474583801:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:38:13 WET [2025/01/20 16:38:13 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 1: CEPTT ($102.50 in chips) 
+Seat 2: taffy7272 ($107.33 in chips) 
+Seat 3: Espada Fish ($110.75 in chips) 
+Seat 4: CichiChanMarian ($186.14 in chips) 
+Seat 5: z00mba ($112.67 in chips) 
+Seat 6: tintin641 ($105.82 in chips) 
+taffy7272: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+z00mba: folds 
+tintin641: raises $1.50 to $2.50
+CEPTT: folds 
+taffy7272: calls $2
+Espada Fish: folds 
+*** FLOP *** [8d Ts Td]
+taffy7272: checks 
+tintin641: bets $1.88
+taffy7272: calls $1.88
+*** TURN *** [8d Ts Td] [4d]
+taffy7272: checks 
+tintin641: bets $6.95
+taffy7272: calls $6.95
+*** RIVER *** [8d Ts Td 4d] [Tc]
+taffy7272: bets $11.24
+tintin641: folds 
+Uncalled bet ($11.24) returned to taffy7272
+taffy7272 collected $22.48 from pot
+*** SUMMARY ***
+Total pot $23.66 | Rake $1.18 
+Board [8d Ts Td 4d Tc]
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 2: taffy7272 (small blind) collected ($22.48)
+Seat 3: Espada Fish (big blind) folded before Flop
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: tintin641 folded on the River
+
+
+
+PokerStars Hand #254474606017:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:39:22 WET [2025/01/20 16:39:22 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 1: CEPTT ($102.50 in chips) 
+Seat 2: taffy7272 ($118.48 in chips) 
+Seat 3: Espada Fish ($109.75 in chips) 
+Seat 4: CichiChanMarian ($186.14 in chips) 
+Seat 5: z00mba ($112.67 in chips) 
+Seat 6: tintin641 ($100 in chips) 
+Espada Fish: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+tintin641: raises $1.50 to $2.50
+CEPTT: folds 
+taffy7272: folds 
+Espada Fish: folds 
+CichiChanMarian: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 (button) folded before Flop (didn't bet)
+Seat 3: Espada Fish (small blind) folded before Flop
+Seat 4: CichiChanMarian (big blind) folded before Flop
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: tintin641 collected ($2.50)
+
+
+
+PokerStars Hand #254474617138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:39:56 WET [2025/01/20 16:39:56 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 1: CEPTT ($102.50 in chips) 
+Seat 2: taffy7272 ($118.48 in chips) 
+Seat 3: Espada Fish ($109.25 in chips) 
+Seat 4: CichiChanMarian ($185.14 in chips) 
+Seat 5: z00mba ($112.67 in chips) 
+Seat 6: tintin641 ($101.50 in chips) 
+CichiChanMarian: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+CEPTT: folds 
+taffy7272: calls $2.50
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: folds 
+*** FLOP *** [Qd Kh Ah]
+tintin641: checks 
+taffy7272: checks 
+*** TURN *** [Qd Kh Ah] [2d]
+tintin641: checks 
+taffy7272: checks 
+*** RIVER *** [Qd Kh Ah 2d] [Ac]
+tintin641: bets $2.04
+taffy7272: raises $2.04 to $4.08
+tintin641: calls $2.04
+*** SHOW DOWN ***
+taffy7272: shows [Js Kd] (two pair, Aces and Kings)
+tintin641: shows [7c Kc] (two pair, Aces and Kings)
+tintin641 collected $6.97 from pot
+taffy7272 collected $6.96 from pot
+*** SUMMARY ***
+Total pot $14.66 | Rake $0.73 
+Board [Qd Kh Ah 2d Ac]
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 showed [Js Kd] and won ($6.96) with two pair, Aces and Kings
+Seat 3: Espada Fish (button) folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (small blind) folded before Flop
+Seat 5: z00mba (big blind) folded before Flop
+Seat 6: tintin641 showed [7c Kc] and won ($6.97) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #254474638882:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:41:04 WET [2025/01/20 16:41:04 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 6: tintin641 ($101.89 in chips) is sitting out
+Seat 1: CEPTT ($102.50 in chips) 
+Seat 2: taffy7272 ($118.86 in chips) 
+Seat 3: Espada Fish ($109.25 in chips) 
+Seat 4: CichiChanMarian ($184.64 in chips) 
+Seat 5: z00mba ($111.67 in chips) 
+z00mba: posts small blind $0.50
+tintin641: is sitting out 
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+tintin641 leaves the table
+taffy7272: calls $1
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: calls $0.50
+XneferX joins the table at seat #6 
+CEPTT: checks 
+*** FLOP *** [2c 5s 4s]
+z00mba: checks 
+CEPTT: bets $2.14
+taffy7272: calls $2.14
+z00mba: folds 
+*** TURN *** [2c 5s 4s] [Qd]
+CEPTT: bets $5.19
+taffy7272: folds 
+Uncalled bet ($5.19) returned to CEPTT
+CEPTT collected $6.92 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.28 | Rake $0.36 
+Board [2c 5s 4s Qd]
+Seat 6: tintin641
+Seat 1: CEPTT (big blind) collected ($6.92)
+Seat 2: taffy7272 folded on the Turn
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (button) folded before Flop (didn't bet)
+Seat 5: z00mba (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254474661722:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:42:15 WET [2025/01/20 16:42:15 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 6: XneferX ($121.86 in chips) is sitting out
+Seat 1: CEPTT ($106.28 in chips) 
+Seat 2: taffy7272 ($115.72 in chips) 
+Seat 3: Espada Fish ($109.25 in chips) 
+Seat 4: CichiChanMarian ($184.64 in chips) 
+Seat 5: z00mba ($110.67 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: folds 
+CEPTT: folds 
+Uncalled bet ($0.50) returned to taffy7272
+taffy7272 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: XneferX
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) collected ($1)
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474668153:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:42:35 WET [2025/01/20 16:42:35 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 6: XneferX ($121.86 in chips) is sitting out
+Seat 1: CEPTT ($105.78 in chips) 
+Seat 2: taffy7272 ($116.22 in chips) 
+Seat 3: Espada Fish ($109.25 in chips) 
+Seat 4: CichiChanMarian ($184.64 in chips) 
+Seat 5: z00mba ($110.67 in chips) 
+taffy7272: posts small blind $0.50
+Espada Fish: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+CichiChanMarian: raises $1.50 to $2.50
+z00mba: folds 
+CEPTT: folds 
+taffy7272: folds 
+Espada Fish: folds 
+Uncalled bet ($1.50) returned to CichiChanMarian
+CichiChanMarian collected $2.50 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: XneferX
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 2: taffy7272 (small blind) folded before Flop
+Seat 3: Espada Fish (big blind) folded before Flop
+Seat 4: CichiChanMarian collected ($2.50)
+Seat 5: z00mba folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474678512:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:43:08 WET [2025/01/20 16:43:08 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 6: XneferX ($121.86 in chips) is sitting out
+Seat 1: CEPTT ($105.78 in chips) 
+Seat 2: taffy7272 ($115.72 in chips) 
+Seat 3: Espada Fish ($108.25 in chips) 
+Seat 4: CichiChanMarian ($186.14 in chips) 
+Seat 5: z00mba ($110.67 in chips) 
+Espada Fish: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+z00mba: folds 
+CEPTT: folds 
+taffy7272: folds 
+Espada Fish: raises $2 to $3
+CichiChanMarian: folds 
+Uncalled bet ($2) returned to Espada Fish
+Espada Fish collected $2 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: XneferX
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 (button) folded before Flop (didn't bet)
+Seat 3: Espada Fish (small blind) collected ($2)
+Seat 4: CichiChanMarian (big blind) folded before Flop
+Seat 5: z00mba folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474683212:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:43:23 WET [2025/01/20 16:43:23 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 6: XneferX ($121.86 in chips) is sitting out
+Seat 1: CEPTT ($105.78 in chips) 
+Seat 2: taffy7272 ($115.72 in chips) 
+Seat 3: Espada Fish ($109.25 in chips) 
+Seat 4: CichiChanMarian ($185.14 in chips) 
+Seat 5: z00mba ($110.67 in chips) 
+CichiChanMarian: posts small blind $0.50
+z00mba: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+CEPTT: raises $1.25 to $2.25
+taffy7272: folds 
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: calls $1.25
+*** FLOP *** [3s 9d 8d]
+z00mba: checks 
+CEPTT: bets $2.38
+z00mba: folds 
+Uncalled bet ($2.38) returned to CEPTT
+CEPTT collected $4.75 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [3s 9d 8d]
+Seat 6: XneferX
+Seat 1: CEPTT collected ($4.75)
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Espada Fish (button) folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (small blind) folded before Flop
+Seat 5: z00mba (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254474698546:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:44:10 WET [2025/01/20 16:44:10 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 1: CEPTT ($108.28 in chips) 
+Seat 2: taffy7272 ($115.72 in chips) 
+Seat 3: Espada Fish ($109.25 in chips) 
+Seat 4: CichiChanMarian ($184.64 in chips) 
+Seat 5: z00mba ($108.42 in chips) 
+Seat 6: XneferX ($121.86 in chips) 
+z00mba: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+taffy7272: calls $1
+Espada Fish: folds 
+CichiChanMarian: raises $3 to $4
+z00mba: folds 
+XneferX: folds 
+taffy7272: calls $3
+*** FLOP *** [Jh 5h Ks]
+taffy7272: checks 
+CichiChanMarian: bets $2.98
+taffy7272: folds 
+Uncalled bet ($2.98) returned to CichiChanMarian
+CichiChanMarian collected $9.02 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Jh 5h Ks]
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 folded on the Flop
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (button) collected ($9.02)
+Seat 5: z00mba (small blind) folded before Flop
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254474710502:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:44:48 WET [2025/01/20 16:44:48 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 1: CEPTT ($108.28 in chips) 
+Seat 2: taffy7272 ($111.72 in chips) 
+Seat 3: Espada Fish ($109.25 in chips) 
+Seat 4: CichiChanMarian ($189.66 in chips) 
+Seat 5: z00mba ($107.92 in chips) 
+Seat 6: XneferX ($120.86 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+taffy7272: folds 
+Espada Fish: folds 
+CichiChanMarian: raises $1.50 to $2.50
+z00mba: raises $5 to $7.50
+XneferX: folds 
+CEPTT: folds 
+CichiChanMarian: folds 
+Uncalled bet ($5) returned to z00mba
+z00mba collected $6.50 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: CEPTT (big blind) folded before Flop
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop
+Seat 5: z00mba (button) collected ($6.50)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254474722991:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:45:27 WET [2025/01/20 16:45:27 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 1: CEPTT ($107.28 in chips) 
+Seat 2: taffy7272 ($111.72 in chips) 
+Seat 3: Espada Fish ($109.25 in chips) 
+Seat 4: CichiChanMarian ($187.16 in chips) 
+Seat 5: z00mba ($111.92 in chips) 
+Seat 6: XneferX ($120.36 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: folds 
+XneferX: raises $1.77 to $2.77
+CEPTT: folds 
+taffy7272: calls $1.77
+*** FLOP *** [3h Ks 8s]
+taffy7272: checks 
+XneferX: bets $1.20
+taffy7272: folds 
+Uncalled bet ($1.20) returned to XneferX
+XneferX collected $5.74 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.04 | Rake $0.30 
+Board [3h Ks 8s]
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) folded on the Flop
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX (button) collected ($5.74)
+
+
+
+PokerStars Hand #254474739201:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:46:17 WET [2025/01/20 16:46:17 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 1: CEPTT ($106.78 in chips) 
+Seat 2: taffy7272 ($108.95 in chips) 
+Seat 3: Espada Fish ($109.25 in chips) 
+Seat 4: CichiChanMarian ($187.16 in chips) 
+Seat 5: z00mba ($111.92 in chips) 
+Seat 6: XneferX ($123.33 in chips) 
+taffy7272: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+z00mba: folds 
+XneferX: raises $1.30 to $2.30
+CEPTT: folds 
+taffy7272: calls $1.80
+Espada Fish: raises $11.70 to $14
+XneferX: folds 
+taffy7272: folds 
+Uncalled bet ($11.70) returned to Espada Fish
+Espada Fish collected $6.90 from pot
+Espada Fish: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.90 | Rake $0 
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 2: taffy7272 (small blind) folded before Flop
+Seat 3: Espada Fish (big blind) collected ($6.90)
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop
+
+
+
+PokerStars Hand #254474750844:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:46:54 WET [2025/01/20 16:46:54 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 1: CEPTT ($106.78 in chips) 
+Seat 2: taffy7272 ($106.65 in chips) 
+Seat 3: Espada Fish ($113.85 in chips) 
+Seat 4: CichiChanMarian ($187.16 in chips) 
+Seat 5: z00mba ($111.92 in chips) 
+Seat 6: XneferX ($121.03 in chips) 
+Espada Fish: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+XneferX: raises $1.10 to $2.10
+CEPTT: folds 
+taffy7272: folds 
+Espada Fish: folds 
+CichiChanMarian: folds 
+Uncalled bet ($1.10) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 (button) folded before Flop (didn't bet)
+Seat 3: Espada Fish (small blind) folded before Flop
+Seat 4: CichiChanMarian (big blind) folded before Flop
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX collected ($2.50)
+
+
+
+PokerStars Hand #254474759443:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:47:21 WET [2025/01/20 16:47:21 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 1: CEPTT ($106.78 in chips) 
+Seat 2: taffy7272 ($106.65 in chips) 
+Seat 3: Espada Fish ($113.35 in chips) 
+Seat 4: CichiChanMarian ($186.16 in chips) 
+Seat 5: z00mba ($111.92 in chips) 
+Seat 6: XneferX ($122.53 in chips) 
+CichiChanMarian: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+CEPTT: raises $1.25 to $2.25
+taffy7272: folds 
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: folds 
+Uncalled bet ($1.25) returned to CEPTT
+CEPTT collected $2.50 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: CEPTT collected ($2.50)
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Espada Fish (button) folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (small blind) folded before Flop
+Seat 5: z00mba (big blind) folded before Flop
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474770066:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:47:54 WET [2025/01/20 16:47:54 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 1: CEPTT ($108.28 in chips) 
+Seat 2: taffy7272 ($106.65 in chips) 
+Seat 3: Espada Fish ($113.35 in chips) 
+Seat 4: CichiChanMarian ($185.66 in chips) 
+Seat 5: z00mba ($110.92 in chips) 
+Seat 6: XneferX ($122.53 in chips) 
+z00mba: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+taffy7272: calls $1
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: folds 
+XneferX: checks 
+*** FLOP *** [5s 2h Jh]
+XneferX: checks 
+taffy7272: checks 
+*** TURN *** [5s 2h Jh] [5d]
+XneferX: checks 
+taffy7272: checks 
+*** RIVER *** [5s 2h Jh 5d] [4h]
+XneferX: bets $1.83
+taffy7272: calls $1.83
+*** SHOW DOWN ***
+XneferX: shows [8s Ks] (a pair of Fives)
+taffy7272: shows [6d 4d] (two pair, Fives and Fours)
+taffy7272 collected $5.85 from pot
+*** SUMMARY ***
+Total pot $6.16 | Rake $0.31 
+Board [5s 2h Jh 5d 4h]
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 showed [6d 4d] and won ($5.85) with two pair, Fives and Fours
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (button) folded before Flop (didn't bet)
+Seat 5: z00mba (small blind) folded before Flop
+Seat 6: XneferX (big blind) showed [8s Ks] and lost with a pair of Fives
+
+
+
+PokerStars Hand #254474788798:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:48:53 WET [2025/01/20 16:48:53 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 1: CEPTT ($108.28 in chips) 
+Seat 2: taffy7272 ($109.67 in chips) 
+Seat 3: Espada Fish ($113.35 in chips) 
+Seat 4: CichiChanMarian ($185.66 in chips) 
+Seat 5: z00mba ($110.42 in chips) 
+Seat 6: XneferX ($119.70 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+taffy7272: calls $1
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: folds 
+XneferX: folds 
+CEPTT: raises $2.50 to $3.50
+taffy7272: calls $2.50
+*** FLOP *** [Kh 6c 5s]
+CEPTT: bets $1.22
+taffy7272: calls $1.22
+*** TURN *** [Kh 6c 5s] [2d]
+CEPTT: checks 
+taffy7272: bets $4.72
+CEPTT: folds 
+Uncalled bet ($4.72) returned to taffy7272
+taffy7272 collected $9.44 from pot
+*** SUMMARY ***
+Total pot $9.94 | Rake $0.50 
+Board [Kh 6c 5s 2d]
+Seat 1: CEPTT (big blind) folded on the Turn
+Seat 2: taffy7272 collected ($9.44)
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254474804651:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:49:44 WET [2025/01/20 16:49:44 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 1: CEPTT ($103.56 in chips) 
+Seat 2: taffy7272 ($114.39 in chips) 
+Seat 3: Espada Fish ($113.35 in chips) 
+Seat 4: CichiChanMarian ($185.66 in chips) 
+Seat 5: z00mba ($110.42 in chips) 
+Seat 6: XneferX ($119.20 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+CichiChanMarian: folds 
+z00mba: folds 
+XneferX: raises $1.77 to $2.77
+CEPTT: raises $9.23 to $12
+taffy7272: calls $11
+XneferX: calls $9.23
+*** FLOP *** [As 3s 2h]
+CEPTT: bets $10.26
+taffy7272: folds 
+XneferX: folds 
+Uncalled bet ($10.26) returned to CEPTT
+CEPTT collected $34.20 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [As 3s 2h]
+Seat 1: CEPTT (small blind) collected ($34.20)
+Seat 2: taffy7272 (big blind) folded on the Flop
+Seat 3: Espada Fish folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded on the Flop
+
+
+
+PokerStars Hand #254474817464:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:50:25 WET [2025/01/20 16:50:25 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 3: Espada Fish ($113.35 in chips) is sitting out
+Seat 1: CEPTT ($125.76 in chips) 
+Seat 2: taffy7272 ($102.39 in chips) 
+Seat 4: CichiChanMarian ($185.66 in chips) 
+Seat 5: z00mba ($110.42 in chips) 
+Seat 6: XneferX ($107.20 in chips) 
+taffy7272: posts small blind $0.50
+Espada Fish: is sitting out 
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish leaves the table
+z00mba: folds 
+Mr_Dick666 joins the table at seat #3 
+XneferX: folds 
+CEPTT: raises $1.85 to $2.85
+taffy7272: folds 
+CichiChanMarian: folds 
+Uncalled bet ($1.85) returned to CEPTT
+CEPTT collected $2.50 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Espada Fish
+Seat 1: CEPTT (button) collected ($2.50)
+Seat 2: taffy7272 (small blind) folded before Flop
+Seat 4: CichiChanMarian (big blind) folded before Flop
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474825195:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:50:49 WET [2025/01/20 16:50:49 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 3: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: CEPTT ($127.26 in chips) 
+Seat 2: taffy7272 ($101.89 in chips) 
+Seat 4: CichiChanMarian ($184.66 in chips) 
+Seat 5: z00mba ($110.42 in chips) 
+Seat 6: XneferX ($107.20 in chips) 
+CichiChanMarian: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+CEPTT: folds 
+taffy7272: calls $1
+CichiChanMarian: folds 
+z00mba: checks 
+*** FLOP *** [Ac 9s 7s]
+z00mba: checks 
+taffy7272: checks 
+*** TURN *** [Ac 9s 7s] [5s]
+z00mba: bets $2
+taffy7272: calls $2
+*** RIVER *** [Ac 9s 7s 5s] [Qs]
+z00mba: checks 
+taffy7272: checks 
+*** SHOW DOWN ***
+z00mba: shows [Ad 9c] (two pair, Aces and Nines)
+taffy7272: mucks hand 
+z00mba collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Ac 9s 7s 5s Qs]
+Seat 3: Mr_Dick666
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 (button) mucked
+Seat 4: CichiChanMarian (small blind) folded before Flop
+Seat 5: z00mba (big blind) showed [Ad 9c] and won ($6.18) with two pair, Aces and Nines
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474837534:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:51:29 WET [2025/01/20 16:51:29 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 3: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: CEPTT ($127.26 in chips) 
+Seat 2: taffy7272 ($98.89 in chips) 
+Seat 4: CichiChanMarian ($184.16 in chips) 
+Seat 5: z00mba ($113.60 in chips) 
+Seat 6: XneferX ($107.20 in chips) 
+z00mba: posts small blind $0.50
+XneferX: posts big blind $1
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+CEPTT: folds 
+taffy7272: folds 
+CichiChanMarian: raises $1.50 to $2.50
+z00mba: folds 
+XneferX: folds 
+Uncalled bet ($1.50) returned to CichiChanMarian
+CichiChanMarian collected $2.50 from pot
+CichiChanMarian: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Mr_Dick666
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (button) collected ($2.50)
+Seat 5: z00mba (small blind) folded before Flop
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254474844063:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:51:49 WET [2025/01/20 16:51:49 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 3: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: CEPTT ($127.26 in chips) 
+Seat 2: taffy7272 ($98.89 in chips) 
+Seat 4: CichiChanMarian ($185.66 in chips) 
+Seat 5: z00mba ($113.10 in chips) 
+Seat 6: XneferX ($106.20 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+taffy7272: folds 
+CichiChanMarian: folds 
+z00mba: folds 
+XneferX: folds 
+Uncalled bet ($0.50) returned to CEPTT
+CEPTT collected $1 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Mr_Dick666
+Seat 1: CEPTT (big blind) collected ($1)
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254474852142:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:52:15 WET [2025/01/20 16:52:15 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 3: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: CEPTT ($127.76 in chips) 
+Seat 2: taffy7272 ($98.89 in chips) 
+Seat 4: CichiChanMarian ($185.66 in chips) 
+Seat 5: z00mba ($113.10 in chips) 
+Seat 6: XneferX ($105.70 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+CichiChanMarian: folds 
+z00mba: folds 
+XneferX: folds 
+CEPTT: raises $2 to $3
+taffy7272: calls $2
+*** FLOP *** [7c 9h Th]
+CEPTT: bets $4.27
+taffy7272: calls $4.27
+*** TURN *** [7c 9h Th] [8c]
+CEPTT: bets $6.91
+taffy7272: calls $6.91
+*** RIVER *** [7c 9h Th 8c] [Ah]
+CEPTT: checks 
+taffy7272: checks 
+*** SHOW DOWN ***
+CEPTT: shows [8d Jd] (a straight, Seven to Jack)
+taffy7272: mucks hand 
+CEPTT collected $26.94 from pot
+*** SUMMARY ***
+Total pot $28.36 | Rake $1.42 
+Board [7c 9h Th 8c Ah]
+Seat 3: Mr_Dick666
+Seat 1: CEPTT (small blind) showed [8d Jd] and won ($26.94) with a straight, Seven to Jack
+Seat 2: taffy7272 (big blind) mucked
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474873865:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:53:25 WET [2025/01/20 16:53:25 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 1: CEPTT ($140.52 in chips) 
+Seat 2: taffy7272 ($84.71 in chips) 
+Seat 3: Mr_Dick666 ($100 in chips) 
+Seat 4: CichiChanMarian ($185.66 in chips) 
+Seat 5: z00mba ($113.10 in chips) 
+Seat 6: XneferX ($105.70 in chips) 
+taffy7272: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+CichiChanMarian: raises $1.50 to $2.50
+z00mba: folds 
+XneferX: folds 
+CEPTT: folds 
+taffy7272: calls $2
+Mr_Dick666: calls $1.50
+*** FLOP *** [6c 3c Jh]
+taffy7272: checks 
+Mr_Dick666: checks 
+CichiChanMarian: checks 
+*** TURN *** [6c 3c Jh] [Tc]
+taffy7272: checks 
+Mr_Dick666: bets $5.34
+CichiChanMarian: calls $5.34
+taffy7272: folds 
+*** RIVER *** [6c 3c Jh Tc] [Js]
+Mr_Dick666: bets $8.63
+CichiChanMarian: folds 
+Uncalled bet ($8.63) returned to Mr_Dick666
+Mr_Dick666 collected $17.27 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.18 | Rake $0.91 
+Board [6c 3c Jh Tc Js]
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 2: taffy7272 (small blind) folded on the Turn
+Seat 3: Mr_Dick666 (big blind) collected ($17.27)
+Seat 4: CichiChanMarian folded on the River
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474907890:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:55:19 WET [2025/01/20 16:55:19 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 1: CEPTT ($140.52 in chips) 
+Seat 2: taffy7272 ($82.21 in chips) 
+Seat 3: Mr_Dick666 ($109.43 in chips) 
+Seat 4: CichiChanMarian ($177.82 in chips) 
+Seat 5: z00mba ($113.10 in chips) 
+Seat 6: XneferX ($105.70 in chips) 
+Mr_Dick666: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+z00mba: raises $1.50 to $2.50
+XneferX: folds 
+CEPTT: folds 
+taffy7272: folds 
+Mr_Dick666: folds 
+CichiChanMarian: folds 
+Uncalled bet ($1.50) returned to z00mba
+z00mba collected $2.50 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 (button) folded before Flop (didn't bet)
+Seat 3: Mr_Dick666 (small blind) folded before Flop
+Seat 4: CichiChanMarian (big blind) folded before Flop
+Seat 5: z00mba collected ($2.50)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474914006:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:55:47 WET [2025/01/20 16:55:47 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 1: CEPTT ($140.52 in chips) 
+Seat 2: taffy7272 ($82.21 in chips) 
+Seat 3: Mr_Dick666 ($108.93 in chips) 
+Seat 4: CichiChanMarian ($176.82 in chips) 
+Seat 5: z00mba ($114.60 in chips) 
+Seat 6: XneferX ($105.70 in chips) 
+CichiChanMarian: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+CEPTT: folds 
+taffy7272: folds 
+Mr_Dick666: folds 
+CichiChanMarian: folds 
+Uncalled bet ($0.50) returned to z00mba
+z00mba collected $1 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (small blind) folded before Flop
+Seat 5: z00mba (big blind) collected ($1)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254474918097:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:56:06 WET [2025/01/20 16:56:06 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 1: CEPTT ($140.52 in chips) 
+Seat 2: taffy7272 ($82.21 in chips) 
+Seat 3: Mr_Dick666 ($108.93 in chips) 
+Seat 4: CichiChanMarian ($176.32 in chips) 
+Seat 5: z00mba ($115.10 in chips) 
+Seat 6: XneferX ($105.70 in chips) 
+z00mba: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+taffy7272: calls $1
+Mr_Dick666: folds 
+CichiChanMarian: folds 
+z00mba: calls $0.50
+XneferX: checks 
+*** FLOP *** [3s 8c 6d]
+z00mba: checks 
+XneferX: bets $2.19
+taffy7272: folds 
+z00mba: folds 
+Uncalled bet ($2.19) returned to XneferX
+XneferX collected $2.85 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [3s 8c 6d]
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 folded on the Flop
+Seat 3: Mr_Dick666 folded before Flop (didn't bet)
+Seat 4: CichiChanMarian (button) folded before Flop (didn't bet)
+Seat 5: z00mba (small blind) folded on the Flop
+Seat 6: XneferX (big blind) collected ($2.85)
+
+
+
+PokerStars Hand #254474927360:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 21:56:48 WET [2025/01/20 16:56:48 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 1: CEPTT ($140.52 in chips) 
+Seat 2: taffy7272 ($81.21 in chips) 
+Seat 3: Mr_Dick666 ($108.93 in chips) 
+Seat 4: CichiChanMarian ($176.32 in chips) 
+Seat 5: z00mba ($114.10 in chips) 
+Seat 6: XneferX ($107.55 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+taffy7272: folds 
+Mr_Dick666: folds 
+CichiChanMarian: folds 
+z00mba: raises $1.50 to $2.50
+XneferX: folds 
+CEPTT: folds 
+Uncalled bet ($1.50) returned to z00mba
+z00mba collected $2.50 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: CEPTT (big blind) folded before Flop
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Mr_Dick666 folded before Flop (didn't bet)
+Seat 4: CichiChanMarian folded before Flop (didn't bet)
+Seat 5: z00mba (button) collected ($2.50)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254475942791:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 22:56:41 WET [2025/01/20 17:56:41 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($105.97 in chips) 
+Seat 3: Dante21b ($114.75 in chips) 
+Seat 4: M1k_DP ($102.72 in chips) 
+Seat 5: z00mba ($109 in chips) 
+Seat 6: XneferX ($184.77 in chips) 
+taffy7272: posts small blind $0.50
+Dante21b: posts big blind $1
+*** HOLE CARDS ***
+M1k_DP: folds 
+z00mba: folds 
+XneferX: folds 
+CEPTT: raises $1.85 to $2.85
+taffy7272: calls $2.35
+Dante21b: calls $1.85
+*** FLOP *** [3h 9d 8s]
+taffy7272: bets $4.06
+Dante21b: folds 
+CEPTT: raises $12.18 to $16.24
+taffy7272: folds 
+Uncalled bet ($12.18) returned to CEPTT
+CEPTT collected $15.84 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.67 | Rake $0.83 
+Board [3h 9d 8s]
+Seat 1: CEPTT (button) collected ($15.84)
+Seat 2: taffy7272 (small blind) folded on the Flop
+Seat 3: Dante21b (big blind) folded on the Flop
+Seat 4: M1k_DP folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254475954704:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 22:57:41 WET [2025/01/20 17:57:41 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 1: CEPTT ($108.93 in chips) 
+Seat 2: taffy7272 ($99.06 in chips) 
+Seat 3: Dante21b ($111.90 in chips) 
+Seat 4: M1k_DP ($102.72 in chips) 
+Seat 5: z00mba ($109 in chips) 
+Seat 6: XneferX ($184.77 in chips) 
+Dante21b: posts small blind $0.50
+M1k_DP: posts big blind $1
+*** HOLE CARDS ***
+z00mba: raises $1.50 to $2.50
+XneferX: folds 
+CEPTT: folds 
+taffy7272: calls $2.50
+Dante21b: folds 
+M1k_DP: folds 
+*** FLOP *** [5h 3d 2s]
+z00mba: checks 
+taffy7272: checks 
+*** TURN *** [5h 3d 2s] [2d]
+z00mba: bets $1.50
+taffy7272: calls $1.50
+*** RIVER *** [5h 3d 2s 2d] [4h]
+z00mba: checks 
+taffy7272: bets $9.02
+z00mba: folds 
+Uncalled bet ($9.02) returned to taffy7272
+taffy7272 collected $9.02 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [5h 3d 2s 2d 4h]
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 (button) collected ($9.02)
+Seat 3: Dante21b (small blind) folded before Flop
+Seat 4: M1k_DP (big blind) folded before Flop
+Seat 5: z00mba folded on the River
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254475966206:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 22:58:39 WET [2025/01/20 17:58:39 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 1: CEPTT ($108.93 in chips) 
+Seat 2: taffy7272 ($104.08 in chips) 
+Seat 3: Dante21b ($111.40 in chips) 
+Seat 4: M1k_DP ($101.72 in chips) 
+Seat 5: z00mba ($105 in chips) 
+Seat 6: XneferX ($184.77 in chips) 
+M1k_DP: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+XneferX: raises $1.10 to $2.10
+CEPTT: folds 
+taffy7272: calls $2.10
+Dante21b: folds 
+M1k_DP: folds 
+z00mba: folds 
+*** FLOP *** [Qh Jh 6c]
+XneferX: bets $3.63
+taffy7272: calls $3.63
+*** TURN *** [Qh Jh 6c] [3d]
+XneferX: bets $14.40
+taffy7272: folds 
+Uncalled bet ($14.40) returned to XneferX
+XneferX collected $12.31 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.96 | Rake $0.65 
+Board [Qh Jh 6c 3d]
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 folded on the Turn
+Seat 3: Dante21b (button) folded before Flop (didn't bet)
+Seat 4: M1k_DP (small blind) folded before Flop
+Seat 5: z00mba (big blind) folded before Flop
+Seat 6: XneferX collected ($12.31)
+
+
+
+PokerStars Hand #254475978242:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 22:59:40 WET [2025/01/20 17:59:40 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 1: CEPTT ($108.93 in chips) 
+Seat 2: taffy7272 ($98.35 in chips) 
+Seat 3: Dante21b ($111.40 in chips) 
+Seat 4: M1k_DP ($101.22 in chips) 
+Seat 5: z00mba ($104 in chips) 
+Seat 6: XneferX ($191.35 in chips) 
+z00mba: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: raises $1.25 to $2.25
+taffy7272: calls $2.25
+Dante21b: folds 
+M1k_DP: calls $2.25
+z00mba: folds 
+XneferX: calls $1.25
+*** FLOP *** [9c Qh Qc]
+XneferX: checks 
+CEPTT: bets $2.71
+taffy7272: folds 
+M1k_DP: folds 
+XneferX: calls $2.71
+*** TURN *** [9c Qh Qc] [4h]
+XneferX: checks 
+CEPTT: bets $10.63
+XneferX: folds 
+Uncalled bet ($10.63) returned to CEPTT
+CEPTT collected $14.17 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.92 | Rake $0.75 
+Board [9c Qh Qc 4h]
+Seat 1: CEPTT collected ($14.17)
+Seat 2: taffy7272 folded on the Flop
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 4: M1k_DP (button) folded on the Flop
+Seat 5: z00mba (small blind) folded before Flop
+Seat 6: XneferX (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254475998470:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:01:15 WET [2025/01/20 18:01:15 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 1: CEPTT ($118.14 in chips) 
+Seat 2: taffy7272 ($96.10 in chips) 
+Seat 3: Dante21b ($111.40 in chips) 
+Seat 4: M1k_DP ($100 in chips) 
+Seat 5: z00mba ($103.50 in chips) 
+Seat 6: XneferX ($186.39 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+taffy7272: folds 
+Dante21b has timed out
+Dante21b: folds 
+M1k_DP: folds 
+z00mba: folds 
+XneferX: raises $2 to $3
+CEPTT: calls $2
+*** FLOP *** [9c Ah 9d]
+XneferX: bets $1.48
+CEPTT: folds 
+Uncalled bet ($1.48) returned to XneferX
+XneferX collected $5.70 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [9c Ah 9d]
+Seat 1: CEPTT (big blind) folded on the Flop
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 4: M1k_DP folded before Flop (didn't bet)
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) collected ($5.70)
+
+
+
+PokerStars Hand #254476008916:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:01:56 WET [2025/01/20 18:01:56 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 1: CEPTT ($115.14 in chips) 
+Seat 2: taffy7272 ($96.10 in chips) 
+Seat 3: Dante21b ($111.40 in chips) 
+Seat 4: M1k_DP ($100 in chips) 
+Seat 5: z00mba ($103.50 in chips) 
+Seat 6: XneferX ($189.09 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+*** HOLE CARDS ***
+Dante21b: folds 
+M1k_DP: folds 
+z00mba: folds 
+XneferX: folds 
+CEPTT: folds 
+Uncalled bet ($0.50) returned to taffy7272
+taffy7272 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) collected ($1)
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 4: M1k_DP folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476013525:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:02:14 WET [2025/01/20 18:02:14 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 1: CEPTT ($114.64 in chips) 
+Seat 2: taffy7272 ($96.60 in chips) 
+Seat 3: Dante21b ($111.40 in chips) 
+Seat 4: M1k_DP ($100 in chips) 
+Seat 5: z00mba ($103.50 in chips) 
+Seat 6: XneferX ($189.09 in chips) 
+taffy7272: posts small blind $0.50
+Dante21b: posts big blind $1
+*** HOLE CARDS ***
+M1k_DP: folds 
+z00mba: folds 
+XneferX: folds 
+CEPTT: raises $1.85 to $2.85
+taffy7272: calls $2.35
+Dante21b: calls $1.85
+*** FLOP *** [5c Qh 2h]
+taffy7272: bets $4.06
+Dante21b: folds 
+CEPTT: raises $8.12 to $12.18
+taffy7272: calls $8.12
+*** TURN *** [5c Qh 2h] [As]
+taffy7272: bets $15.63
+CEPTT: folds 
+Uncalled bet ($15.63) returned to taffy7272
+taffy7272 collected $31.26 from pot
+*** SUMMARY ***
+Total pot $32.91 | Rake $1.65 
+Board [5c Qh 2h As]
+Seat 1: CEPTT (button) folded on the Turn
+Seat 2: taffy7272 (small blind) collected ($31.26)
+Seat 3: Dante21b (big blind) folded on the Flop
+Seat 4: M1k_DP folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476036192:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:03:41 WET [2025/01/20 18:03:41 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($112.83 in chips) 
+Seat 3: Dante21b ($108.55 in chips) 
+Seat 4: M1k_DP ($100 in chips) 
+Seat 5: z00mba ($103.50 in chips) 
+Seat 6: XneferX ($189.09 in chips) 
+Dante21b: posts small blind $0.50
+M1k_DP: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+XneferX: folds 
+CEPTT: folds 
+taffy7272: calls $1
+Dante21b: folds 
+M1k_DP: raises $4 to $5
+taffy7272: calls $4
+*** FLOP *** [9h 4h 3s]
+M1k_DP: bets $2
+taffy7272: raises $2 to $4
+M1k_DP: calls $2
+*** TURN *** [9h 4h 3s] [8d]
+M1k_DP: checks 
+taffy7272: bets $17.58
+M1k_DP: folds 
+Uncalled bet ($17.58) returned to taffy7272
+taffy7272 collected $17.58 from pot
+*** SUMMARY ***
+Total pot $18.50 | Rake $0.92 
+Board [9h 4h 3s 8d]
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 (button) collected ($17.58)
+Seat 3: Dante21b (small blind) folded before Flop
+Seat 4: M1k_DP (big blind) folded on the Turn
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476058011:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:05:04 WET [2025/01/20 18:05:04 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($121.41 in chips) 
+Seat 3: Dante21b ($108.05 in chips) 
+Seat 4: M1k_DP ($100 in chips) 
+Seat 5: z00mba ($103.50 in chips) 
+Seat 6: XneferX ($189.09 in chips) 
+M1k_DP: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+XneferX: raises $1.10 to $2.10
+CEPTT: folds 
+taffy7272: folds 
+Dante21b: raises $6.40 to $8.50
+M1k_DP: folds 
+z00mba: folds 
+XneferX: raises $14 to $22.50
+Dante21b: folds 
+Uncalled bet ($14) returned to XneferX
+XneferX collected $18.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.50 | Rake $0 
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Dante21b (button) folded before Flop
+Seat 4: M1k_DP (small blind) folded before Flop
+Seat 5: z00mba (big blind) folded before Flop
+Seat 6: XneferX collected ($18.50)
+
+
+
+PokerStars Hand #254476071310:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:05:55 WET [2025/01/20 18:05:55 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($121.41 in chips) 
+Seat 3: Dante21b ($99.55 in chips) 
+Seat 4: M1k_DP ($100 in chips) 
+Seat 5: z00mba ($102.50 in chips) 
+Seat 6: XneferX ($199.09 in chips) 
+z00mba: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+taffy7272: calls $1
+Dante21b: raises $3 to $4
+M1k_DP: folds 
+z00mba: folds 
+XneferX: folds 
+taffy7272: calls $3
+*** FLOP *** [Kh 4c Th]
+taffy7272: checks 
+Dante21b: checks 
+*** TURN *** [Kh 4c Th] [8s]
+taffy7272: checks 
+Dante21b: checks 
+*** RIVER *** [Kh 4c Th 8s] [7h]
+taffy7272: checks 
+Dante21b: bets $4.51
+taffy7272: folds 
+Uncalled bet ($4.51) returned to Dante21b
+Dante21b collected $9.02 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Kh 4c Th 8s 7h]
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 folded on the River
+Seat 3: Dante21b collected ($9.02)
+Seat 4: M1k_DP (button) folded before Flop (didn't bet)
+Seat 5: z00mba (small blind) folded before Flop
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254476087480:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:06:56 WET [2025/01/20 18:06:56 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 1: CEPTT ($100 in chips) 
+Seat 2: taffy7272 ($117.41 in chips) 
+Seat 3: Dante21b ($104.57 in chips) 
+Seat 4: M1k_DP ($100 in chips) 
+Seat 5: z00mba ($102 in chips) 
+Seat 6: XneferX ($198.09 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+taffy7272: calls $1
+Dante21b: folds 
+M1k_DP: folds 
+z00mba: folds 
+XneferX: calls $0.50
+CEPTT: checks 
+*** FLOP *** [4h 5d Kc]
+XneferX: checks 
+CEPTT: bets $1
+taffy7272: calls $1
+XneferX: folds 
+*** TURN *** [4h 5d Kc] [7d]
+CEPTT: checks 
+taffy7272: checks 
+*** RIVER *** [4h 5d Kc 7d] [3c]
+CEPTT: checks 
+taffy7272: bets $4.75
+CEPTT: calls $4.75
+*** SHOW DOWN ***
+taffy7272: shows [7h Ad] (a pair of Sevens)
+CEPTT: shows [3d Kh] (two pair, Kings and Threes)
+CEPTT collected $13.78 from pot
+*** SUMMARY ***
+Total pot $14.50 | Rake $0.72 
+Board [4h 5d Kc 7d 3c]
+Seat 1: CEPTT (big blind) showed [3d Kh] and won ($13.78) with two pair, Kings and Threes
+Seat 2: taffy7272 showed [7h Ad] and lost with a pair of Sevens
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 4: M1k_DP folded before Flop (didn't bet)
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254476105716:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:08:06 WET [2025/01/20 18:08:06 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 1: CEPTT ($107.03 in chips) 
+Seat 2: taffy7272 ($110.66 in chips) 
+Seat 3: Dante21b ($104.57 in chips) 
+Seat 4: M1k_DP ($100 in chips) 
+Seat 5: z00mba ($102 in chips) 
+Seat 6: XneferX ($197.09 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+*** HOLE CARDS ***
+Dante21b: folds 
+M1k_DP: raises $1.25 to $2.25
+z00mba: folds 
+XneferX: folds 
+CEPTT: folds 
+taffy7272: calls $1.25
+*** FLOP *** [9d 3h Qc]
+taffy7272: bets $2.38
+M1k_DP: raises $4.75 to $7.13
+taffy7272: calls $4.75
+*** TURN *** [9d 3h Qc] [Th]
+taffy7272: checks 
+M1k_DP: bets $17.50
+taffy7272: folds 
+Uncalled bet ($17.50) returned to M1k_DP
+M1k_DP collected $18.30 from pot
+M1k_DP: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.26 | Rake $0.96 
+Board [9d 3h Qc Th]
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) folded on the Turn
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 4: M1k_DP collected ($18.30)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476118296:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:08:54 WET [2025/01/20 18:08:54 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 1: CEPTT ($106.53 in chips) 
+Seat 2: taffy7272 ($101.28 in chips) 
+Seat 3: Dante21b ($104.57 in chips) 
+Seat 4: M1k_DP ($108.92 in chips) 
+Seat 5: z00mba ($102 in chips) 
+Seat 6: XneferX ($197.09 in chips) 
+taffy7272: posts small blind $0.50
+Dante21b: posts big blind $1
+*** HOLE CARDS ***
+M1k_DP: raises $1.25 to $2.25
+z00mba: folds 
+XneferX: folds 
+CEPTT: folds 
+taffy7272: calls $1.75
+Dante21b: raises $9.75 to $12
+M1k_DP: calls $9.75
+taffy7272: calls $9.75
+*** FLOP *** [Tc 8s 3h]
+taffy7272: checks 
+Dante21b: bets $24
+M1k_DP: folds 
+taffy7272: folds 
+Uncalled bet ($24) returned to Dante21b
+Dante21b collected $34.20 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [Tc 8s 3h]
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 2: taffy7272 (small blind) folded on the Flop
+Seat 3: Dante21b (big blind) collected ($34.20)
+Seat 4: M1k_DP folded on the Flop
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476132866:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:09:50 WET [2025/01/20 18:09:50 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 1: CEPTT ($106.53 in chips) 
+Seat 2: taffy7272 ($89.28 in chips) 
+Seat 3: Dante21b ($126.77 in chips) 
+Seat 4: M1k_DP ($100 in chips) 
+Seat 5: z00mba ($102 in chips) 
+Seat 6: XneferX ($197.09 in chips) 
+Dante21b: posts small blind $0.50
+M1k_DP: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+XneferX: folds 
+CEPTT: raises $1.25 to $2.25
+taffy7272: calls $2.25
+Dante21b: folds 
+M1k_DP: folds 
+*** FLOP *** [5s Ac 5d]
+CEPTT: checks 
+taffy7272: checks 
+*** TURN *** [5s Ac 5d] [Ts]
+CEPTT: checks 
+taffy7272: checks 
+*** RIVER *** [5s Ac 5d Ts] [9c]
+CEPTT: bets $1.71
+taffy7272: raises $1.71 to $3.42
+CEPTT: calls $1.71
+*** SHOW DOWN ***
+taffy7272: shows [6d 4d] (a pair of Fives)
+CEPTT: shows [Kd Tc] (two pair, Tens and Fives)
+CEPTT collected $12.20 from pot
+*** SUMMARY ***
+Total pot $12.84 | Rake $0.64 
+Board [5s Ac 5d Ts 9c]
+Seat 1: CEPTT showed [Kd Tc] and won ($12.20) with two pair, Tens and Fives
+Seat 2: taffy7272 (button) showed [6d 4d] and lost with a pair of Fives
+Seat 3: Dante21b (small blind) folded before Flop
+Seat 4: M1k_DP (big blind) folded before Flop
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476151300:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:11:00 WET [2025/01/20 18:11:00 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 5: z00mba ($102 in chips) is sitting out
+Seat 1: CEPTT ($113.06 in chips) 
+Seat 2: taffy7272 ($83.61 in chips) 
+Seat 3: Dante21b ($126.27 in chips) 
+Seat 4: M1k_DP ($100 in chips) 
+Seat 6: XneferX ($197.09 in chips) 
+M1k_DP: posts small blind $0.50
+z00mba: is sitting out 
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+taffy7272: folds 
+Dante21b: folds 
+M1k_DP: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: z00mba
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Dante21b (button) folded before Flop (didn't bet)
+Seat 4: M1k_DP (small blind) folded before Flop
+Seat 6: XneferX (big blind) collected ($1)
+
+
+
+PokerStars Hand #254476154535:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:11:13 WET [2025/01/20 18:11:13 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 5: z00mba ($102 in chips) is sitting out
+Seat 1: CEPTT ($113.06 in chips) 
+Seat 2: taffy7272 ($83.61 in chips) 
+Seat 3: Dante21b ($126.27 in chips) 
+Seat 4: M1k_DP ($100 in chips) 
+Seat 6: XneferX ($197.59 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+taffy7272: calls $1
+Dante21b: folds 
+M1k_DP: raises $3.50 to $4.50
+XneferX: folds 
+CEPTT: folds 
+taffy7272: calls $3.50
+*** FLOP *** [Jc 9c Qs]
+taffy7272: checks 
+M1k_DP: bets $9.86
+taffy7272: calls $9.86
+*** TURN *** [Jc 9c Qs] [Jd]
+taffy7272: checks 
+M1k_DP: checks 
+*** RIVER *** [Jc 9c Qs Jd] [Th]
+taffy7272: bets $14.36
+M1k_DP: calls $14.36
+*** SHOW DOWN ***
+taffy7272: shows [4h Qd] (two pair, Queens and Jacks)
+M1k_DP: shows [Ks Kd] (a straight, Nine to King)
+M1k_DP collected $56.44 from pot
+*** SUMMARY ***
+Total pot $58.94 | Rake $2.50 
+Board [Jc 9c Qs Jd Th]
+Seat 5: z00mba
+Seat 1: CEPTT (big blind) folded before Flop
+Seat 2: taffy7272 showed [4h Qd] and lost with two pair, Queens and Jacks
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 4: M1k_DP (button) showed [Ks Kd] and won ($56.44) with a straight, Nine to King
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254476167696:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:12:04 WET [2025/01/20 18:12:04 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 5: z00mba ($102 in chips) is sitting out
+Seat 1: CEPTT ($112.06 in chips) 
+Seat 2: taffy7272 ($54.89 in chips) 
+Seat 3: Dante21b ($126.27 in chips) 
+Seat 4: M1k_DP ($127.72 in chips) 
+Seat 6: XneferX ($197.09 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+*** HOLE CARDS ***
+Dante21b: folds 
+M1k_DP: raises $1.25 to $2.25
+XneferX: folds 
+CEPTT: folds 
+taffy7272: folds 
+Uncalled bet ($1.25) returned to M1k_DP
+M1k_DP collected $2.50 from pot
+M1k_DP: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: z00mba
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) folded before Flop
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 4: M1k_DP collected ($2.50)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476172491:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:12:22 WET [2025/01/20 18:12:22 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 5: z00mba ($102 in chips) is sitting out
+Seat 1: CEPTT ($111.56 in chips) 
+Seat 2: taffy7272 ($53.89 in chips) 
+Seat 3: Dante21b ($126.27 in chips) 
+Seat 4: M1k_DP ($129.22 in chips) 
+Seat 6: XneferX ($197.09 in chips) 
+taffy7272: posts small blind $0.50
+Dante21b: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+M1k_DP: folds 
+XneferX: raises $1.30 to $2.30
+CEPTT: raises $5.20 to $7.50
+taffy7272: folds 
+Dante21b: folds 
+XneferX: folds 
+Uncalled bet ($5.20) returned to CEPTT
+CEPTT collected $6.10 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.10 | Rake $0 
+Seat 5: z00mba
+Seat 1: CEPTT (button) collected ($6.10)
+Seat 2: taffy7272 (small blind) folded before Flop
+Seat 3: Dante21b (big blind) folded before Flop
+Seat 4: M1k_DP folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop
+
+
+
+PokerStars Hand #254476184036:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:13:07 WET [2025/01/20 18:13:07 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 5: z00mba ($102 in chips) is sitting out
+Seat 1: CEPTT ($115.36 in chips) 
+Seat 2: taffy7272 ($53.39 in chips) 
+Seat 3: Dante21b ($125.27 in chips) 
+Seat 4: M1k_DP ($129.22 in chips) 
+Seat 6: XneferX ($194.79 in chips) 
+Dante21b: posts small blind $0.50
+M1k_DP: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+XneferX: folds 
+CEPTT: folds 
+taffy7272: folds 
+Dante21b: raises $2 to $3
+M1k_DP: calls $2
+*** FLOP *** [2c 8d 6c]
+Dante21b: checks 
+M1k_DP: checks 
+*** TURN *** [2c 8d 6c] [5h]
+Dante21b: checks 
+M1k_DP: checks 
+*** RIVER *** [2c 8d 6c 5h] [4h]
+Dante21b: checks 
+M1k_DP: checks 
+*** SHOW DOWN ***
+Dante21b: shows [Kd Ad] (high card Ace)
+M1k_DP: mucks hand 
+Dante21b collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [2c 8d 6c 5h 4h]
+Seat 5: z00mba
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 (button) folded before Flop (didn't bet)
+Seat 3: Dante21b (small blind) showed [Kd Ad] and won ($5.70) with high card Ace
+Seat 4: M1k_DP (big blind) mucked
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476200878:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:14:14 WET [2025/01/20 18:14:14 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 1: CEPTT ($115.36 in chips) 
+Seat 2: taffy7272 ($53.39 in chips) 
+Seat 3: Dante21b ($127.97 in chips) 
+Seat 4: M1k_DP ($126.22 in chips) 
+Seat 5: z00mba ($102 in chips) 
+Seat 6: XneferX ($194.79 in chips) 
+M1k_DP: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+CEPTT: folds 
+taffy7272: calls $1
+Dante21b: raises $3 to $4
+M1k_DP: folds 
+z00mba: folds 
+taffy7272: calls $3
+*** FLOP *** [5c Jh 2c]
+taffy7272: checks 
+Dante21b: checks 
+*** TURN *** [5c Jh 2c] [2h]
+taffy7272: checks 
+Dante21b: bets $6
+taffy7272: calls $6
+*** RIVER *** [5c Jh 2c 2h] [Jd]
+taffy7272: bets $10.21
+Dante21b: folds 
+Uncalled bet ($10.21) returned to taffy7272
+taffy7272 collected $20.42 from pot
+*** SUMMARY ***
+Total pot $21.50 | Rake $1.08 
+Board [5c Jh 2c 2h Jd]
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 collected ($20.42)
+Seat 3: Dante21b (button) folded on the River
+Seat 4: M1k_DP (small blind) folded before Flop
+Seat 5: z00mba (big blind) folded before Flop
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476215647:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:15:11 WET [2025/01/20 18:15:11 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 1: CEPTT ($115.36 in chips) 
+Seat 2: taffy7272 ($63.81 in chips) 
+Seat 3: Dante21b ($117.97 in chips) 
+Seat 4: M1k_DP ($125.72 in chips) 
+Seat 5: z00mba ($101 in chips) 
+Seat 6: XneferX ($194.79 in chips) 
+z00mba: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+taffy7272: calls $1
+Dante21b: folds 
+M1k_DP: folds 
+z00mba: folds 
+XneferX: checks 
+*** FLOP *** [Th 9c 2s]
+XneferX: checks 
+taffy7272: checks 
+*** TURN *** [Th 9c 2s] [7d]
+XneferX: bets $1.20
+taffy7272: calls $1.20
+*** RIVER *** [Th 9c 2s 7d] [4h]
+XneferX: checks 
+taffy7272: bets $4.66
+XneferX: folds 
+Uncalled bet ($4.66) returned to taffy7272
+taffy7272 collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Th 9c 2s 7d 4h]
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 collected ($4.66)
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 4: M1k_DP (button) folded before Flop (didn't bet)
+Seat 5: z00mba (small blind) folded before Flop
+Seat 6: XneferX (big blind) folded on the River
+
+
+
+PokerStars Hand #254476232803:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:16:18 WET [2025/01/20 18:16:18 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 1: CEPTT ($115.36 in chips) 
+Seat 2: taffy7272 ($66.27 in chips) 
+Seat 3: Dante21b ($117.97 in chips) 
+Seat 4: M1k_DP ($125.72 in chips) 
+Seat 5: z00mba ($100.50 in chips) 
+Seat 6: XneferX ($192.59 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+taffy7272: folds 
+Dante21b: folds 
+M1k_DP: raises $1.25 to $2.25
+z00mba: folds 
+XneferX: raises $9.75 to $12
+CEPTT: raises $14 to $26
+M1k_DP: folds 
+XneferX: folds 
+Uncalled bet ($14) returned to CEPTT
+CEPTT collected $26.25 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.25 | Rake $0 
+Seat 1: CEPTT (big blind) collected ($26.25)
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 4: M1k_DP folded before Flop
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254476245282:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:17:07 WET [2025/01/20 18:17:07 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 1: CEPTT ($129.61 in chips) 
+Seat 2: taffy7272 ($66.27 in chips) 
+Seat 3: Dante21b ($117.97 in chips) 
+Seat 4: M1k_DP ($123.47 in chips) 
+Seat 5: z00mba ($100.50 in chips) 
+Seat 6: XneferX ($180.59 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+*** HOLE CARDS ***
+Dante21b has timed out
+Dante21b: folds 
+M1k_DP: folds 
+z00mba: folds 
+XneferX: folds 
+CEPTT: folds 
+Uncalled bet ($0.50) returned to taffy7272
+taffy7272 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) collected ($1)
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 4: M1k_DP folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476251793:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:17:33 WET [2025/01/20 18:17:33 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 1: CEPTT ($129.11 in chips) 
+Seat 2: taffy7272 ($66.77 in chips) 
+Seat 3: Dante21b ($117.97 in chips) 
+Seat 4: M1k_DP ($123.47 in chips) 
+Seat 5: z00mba ($100.50 in chips) 
+Seat 6: XneferX ($180.59 in chips) 
+taffy7272: posts small blind $0.50
+Dante21b: posts big blind $1
+*** HOLE CARDS ***
+M1k_DP: folds 
+z00mba: folds 
+XneferX: folds 
+CEPTT: folds 
+taffy7272: calls $0.50
+Dante21b: raises $4 to $5
+taffy7272: calls $4
+*** FLOP *** [3c Jd 5s]
+taffy7272: bets $4.75
+Dante21b: calls $4.75
+*** TURN *** [3c Jd 5s] [Ts]
+taffy7272: bets $9.26
+Dante21b has timed out
+Dante21b: folds 
+Uncalled bet ($9.26) returned to taffy7272
+taffy7272 collected $18.52 from pot
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [3c Jd 5s Ts]
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 2: taffy7272 (small blind) collected ($18.52)
+Seat 3: Dante21b (big blind) folded on the Turn
+Seat 4: M1k_DP folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476289154:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:20:01 WET [2025/01/20 18:20:01 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 3: Dante21b ($108.22 in chips) is sitting out
+Seat 1: CEPTT ($129.11 in chips) 
+Seat 2: taffy7272 ($80.99 in chips) 
+Seat 4: M1k_DP ($118.47 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($180.59 in chips) 
+z00mba: posts small blind $0.50
+XneferX: posts big blind $1
+Dante21b: sits out 
+*** HOLE CARDS ***
+CEPTT: folds 
+taffy7272: folds 
+M1k_DP: folds 
+z00mba: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Dante21b
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 4: M1k_DP (button) folded before Flop (didn't bet)
+Seat 5: z00mba (small blind) folded before Flop
+Seat 6: XneferX (big blind) collected ($1)
+
+
+
+PokerStars Hand #254476293667:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:20:18 WET [2025/01/20 18:20:18 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 3: Dante21b ($108.22 in chips) is sitting out
+Seat 1: CEPTT ($129.11 in chips) 
+Seat 2: taffy7272 ($80.99 in chips) 
+Seat 4: M1k_DP ($118.47 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($181.09 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+Dante21b: sits out 
+*** HOLE CARDS ***
+taffy7272: folds 
+M1k_DP: folds 
+z00mba: raises $1.50 to $2.50
+XneferX: folds 
+CEPTT: folds 
+Uncalled bet ($1.50) returned to z00mba
+z00mba collected $2.50 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Dante21b
+Seat 1: CEPTT (big blind) folded before Flop
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 4: M1k_DP folded before Flop (didn't bet)
+Seat 5: z00mba (button) collected ($2.50)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254476300643:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:20:46 WET [2025/01/20 18:20:46 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 3: Dante21b ($108.22 in chips) is sitting out
+Seat 1: CEPTT ($128.11 in chips) 
+Seat 2: taffy7272 ($80.99 in chips) 
+Seat 4: M1k_DP ($118.47 in chips) 
+Seat 5: z00mba ($101.50 in chips) 
+Seat 6: XneferX ($180.59 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+Dante21b: sits out 
+*** HOLE CARDS ***
+M1k_DP: folds 
+z00mba: folds 
+XneferX: raises $1.77 to $2.77
+CEPTT: folds 
+taffy7272: calls $1.77
+*** FLOP *** [Kd Js Tc]
+taffy7272: checks 
+XneferX: bets $4.42
+taffy7272: folds 
+Uncalled bet ($4.42) returned to XneferX
+XneferX collected $5.74 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.04 | Rake $0.30 
+Board [Kd Js Tc]
+Seat 3: Dante21b
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) folded on the Flop
+Seat 4: M1k_DP folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX (button) collected ($5.74)
+
+
+
+PokerStars Hand #254476308712:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:21:18 WET [2025/01/20 18:21:18 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 1: CEPTT ($127.61 in chips) 
+Seat 2: taffy7272 ($78.22 in chips) 
+Seat 3: Dante21b ($108.22 in chips) 
+Seat 4: M1k_DP ($118.47 in chips) 
+Seat 5: z00mba ($101.50 in chips) 
+Seat 6: XneferX ($183.56 in chips) 
+taffy7272: posts small blind $0.50
+Dante21b: posts big blind $1
+*** HOLE CARDS ***
+M1k_DP: folds 
+z00mba: folds 
+XneferX: folds 
+CEPTT: raises $1.85 to $2.85
+taffy7272: calls $2.35
+Dante21b: calls $1.85
+*** FLOP *** [3h 2c 8h]
+taffy7272: checks 
+Dante21b: checks 
+CEPTT: checks 
+*** TURN *** [3h 2c 8h] [9d]
+taffy7272: checks 
+Dante21b has timed out
+Dante21b: checks 
+CEPTT: bets $6.09
+taffy7272: folds 
+Dante21b: calls $6.09
+*** RIVER *** [3h 2c 8h 9d] [2d]
+M1k_DP leaves the table
+Dante21b: checks 
+CEPTT: checks 
+*** SHOW DOWN ***
+Dante21b: shows [9s Js] (two pair, Nines and Deuces)
+CEPTT: shows [9c Qh] (two pair, Nines and Deuces - Queen kicker)
+CEPTT collected $19.69 from pot
+*** SUMMARY ***
+Total pot $20.73 | Rake $1.04 
+Board [3h 2c 8h 9d 2d]
+Seat 1: CEPTT (button) showed [9c Qh] and won ($19.69) with two pair, Nines and Deuces
+Seat 2: taffy7272 (small blind) folded on the Turn
+Seat 3: Dante21b (big blind) showed [9s Js] and lost with two pair, Nines and Deuces
+Seat 4: M1k_DP folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476338627:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:23:15 WET [2025/01/20 18:23:15 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 1: CEPTT ($138.36 in chips) 
+Seat 2: taffy7272 ($75.37 in chips) 
+Seat 3: Dante21b ($99.28 in chips) 
+Seat 5: z00mba ($101.50 in chips) 
+Seat 6: XneferX ($183.56 in chips) 
+Dante21b: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+CEPTT: raises $1.25 to $2.25
+taffy7272: calls $2.25
+reiyser joins the table at seat #4 
+Dante21b: raises $8.75 to $11
+z00mba: folds 
+CEPTT: calls $8.75
+taffy7272: calls $8.75
+*** FLOP *** [2c 8s Tc]
+Dante21b: checks 
+CEPTT: checks 
+taffy7272: checks 
+*** TURN *** [2c 8s Tc] [Ac]
+Dante21b: bets $21
+CEPTT: folds 
+taffy7272: folds 
+Uncalled bet ($21) returned to Dante21b
+Dante21b collected $32.30 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $34 | Rake $1.70 
+Board [2c 8s Tc Ac]
+Seat 1: CEPTT folded on the Turn
+Seat 2: taffy7272 (button) folded on the Turn
+Seat 3: Dante21b (small blind) collected ($32.30)
+Seat 5: z00mba (big blind) folded before Flop
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476359679:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:24:39 WET [2025/01/20 18:24:39 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 4: reiyser ($100 in chips) is sitting out
+Seat 1: CEPTT ($127.36 in chips) 
+Seat 2: taffy7272 ($64.37 in chips) 
+Seat 3: Dante21b ($120.58 in chips) 
+Seat 5: z00mba ($100.50 in chips) 
+Seat 6: XneferX ($183.56 in chips) 
+z00mba: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+taffy7272: folds 
+Dante21b: raises $1.50 to $2.50
+z00mba: folds 
+XneferX: folds 
+Uncalled bet ($1.50) returned to Dante21b
+Dante21b collected $2.50 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: reiyser
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 folded before Flop (didn't bet)
+Seat 3: Dante21b (button) collected ($2.50)
+Seat 5: z00mba (small blind) folded before Flop
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254476365972:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:25:04 WET [2025/01/20 18:25:04 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 4: reiyser ($100 in chips) is sitting out
+Seat 1: CEPTT ($127.36 in chips) 
+Seat 2: taffy7272 ($64.37 in chips) 
+Seat 3: Dante21b ($122.08 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($182.56 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+reiyser: sits out 
+*** HOLE CARDS ***
+taffy7272: calls $1
+Dante21b: folds 
+z00mba: folds 
+XneferX: folds 
+CEPTT: checks 
+*** FLOP *** [Jd Ah 9h]
+CEPTT: checks 
+taffy7272: checks 
+*** TURN *** [Jd Ah 9h] [Ks]
+CEPTT: checks 
+taffy7272: checks 
+*** RIVER *** [Jd Ah 9h Ks] [6d]
+CEPTT: checks 
+taffy7272: checks 
+*** SHOW DOWN ***
+CEPTT: shows [Jh 2d] (a pair of Jacks)
+taffy7272: mucks hand 
+CEPTT collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Jd Ah 9h Ks 6d]
+Seat 4: reiyser
+Seat 1: CEPTT (big blind) showed [Jh 2d] and won ($2.38) with a pair of Jacks
+Seat 2: taffy7272 mucked
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254476379288:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:25:57 WET [2025/01/20 18:25:57 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 4: reiyser ($100 in chips) is sitting out
+Seat 1: CEPTT ($128.74 in chips) 
+Seat 2: taffy7272 ($63.37 in chips) 
+Seat 3: Dante21b ($122.08 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($182.06 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+reiyser: sits out 
+*** HOLE CARDS ***
+Dante21b: folds 
+z00mba: folds 
+XneferX: raises $1.77 to $2.77
+CEPTT: raises $9.23 to $12
+taffy7272: folds 
+XneferX: calls $9.23
+*** FLOP *** [9c 4h 5h]
+CEPTT: checks 
+XneferX: bets $8.08
+CEPTT: folds 
+Uncalled bet ($8.08) returned to XneferX
+XneferX collected $23.75 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [9c 4h 5h]
+Seat 4: reiyser
+Seat 1: CEPTT (small blind) folded on the Flop
+Seat 2: taffy7272 (big blind) folded before Flop
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX (button) collected ($23.75)
+
+
+
+PokerStars Hand #254476391679:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:26:47 WET [2025/01/20 18:26:47 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 4: reiyser ($100 in chips) is sitting out
+Seat 1: CEPTT ($116.74 in chips) 
+Seat 2: taffy7272 ($62.37 in chips) 
+Seat 3: Dante21b ($122.08 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($193.81 in chips) 
+taffy7272: posts small blind $0.50
+Dante21b: posts big blind $1
+reiyser: sits out 
+*** HOLE CARDS ***
+z00mba: folds 
+XneferX: raises $1.30 to $2.30
+CEPTT: folds 
+taffy7272 is disconnected 
+taffy7272 has timed out while disconnected
+taffy7272: folds 
+Dante21b: folds 
+Uncalled bet ($1.30) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: reiyser
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 2: taffy7272 (small blind) folded before Flop
+Seat 3: Dante21b (big blind) folded before Flop
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX collected ($2.50)
+
+
+
+PokerStars Hand #254476407303:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:27:50 WET [2025/01/20 18:27:50 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 2: taffy7272 ($61.87 in chips) is sitting out
+Seat 4: reiyser ($100 in chips) is sitting out
+Seat 1: CEPTT ($116.74 in chips) 
+Seat 3: Dante21b ($121.08 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($195.31 in chips) 
+z00mba: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+Dante21b: folds 
+z00mba: raises $2 to $3
+XneferX: folds 
+Uncalled bet ($2) returned to z00mba
+z00mba collected $2 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: taffy7272
+Seat 4: reiyser
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 3: Dante21b (button) folded before Flop (didn't bet)
+Seat 5: z00mba (small blind) collected ($2)
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254476410972:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:28:05 WET [2025/01/20 18:28:05 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 2: taffy7272 ($61.87 in chips) is sitting out
+Seat 4: reiyser ($100 in chips) is sitting out
+Seat 1: CEPTT ($116.74 in chips) 
+Seat 3: Dante21b ($121.08 in chips) 
+Seat 5: z00mba ($101 in chips) 
+Seat 6: XneferX ($194.31 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+reiyser: sits out 
+*** HOLE CARDS ***
+Dante21b: folds 
+z00mba: raises $1.50 to $2.50
+XneferX: folds 
+CEPTT: raises $9.50 to $12
+z00mba: folds 
+Uncalled bet ($9.50) returned to CEPTT
+CEPTT collected $5.50 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 2: taffy7272
+Seat 4: reiyser
+Seat 1: CEPTT (big blind) collected ($5.50)
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 5: z00mba (button) folded before Flop
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254476419162:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:28:39 WET [2025/01/20 18:28:39 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 2: taffy7272 ($61.87 in chips) is sitting out
+Seat 4: reiyser ($100 in chips) is sitting out
+Seat 1: CEPTT ($119.74 in chips) 
+Seat 3: Dante21b ($121.08 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($193.81 in chips) 
+CEPTT: posts small blind $0.50
+Dante21b: posts big blind $1
+reiyser: sits out 
+*** HOLE CARDS ***
+z00mba: folds 
+XneferX: folds 
+CEPTT: raises $2 to $3
+Dante21b: raises $6 to $9
+CEPTT: folds 
+Uncalled bet ($6) returned to Dante21b
+Dante21b collected $6 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: taffy7272
+Seat 4: reiyser
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 3: Dante21b (big blind) collected ($6)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476428055:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:29:15 WET [2025/01/20 18:29:15 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 2: taffy7272 ($61.87 in chips) is sitting out
+Seat 1: CEPTT ($116.74 in chips) 
+Seat 3: Dante21b ($124.08 in chips) 
+Seat 4: reiyser ($100 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($193.81 in chips) 
+Dante21b: posts small blind $0.50
+reiyser: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+XneferX: folds 
+CEPTT: folds 
+Dante21b: raises $2 to $3
+reiyser: folds 
+Uncalled bet ($2) returned to Dante21b
+Dante21b collected $2 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: taffy7272
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 3: Dante21b (small blind) collected ($2)
+Seat 4: reiyser (big blind) folded before Flop
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476435133:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:29:44 WET [2025/01/20 18:29:44 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 2: taffy7272 ($61.87 in chips) is sitting out
+Seat 5: z00mba ($100 in chips) is sitting out
+Seat 6: XneferX ($193.81 in chips) is sitting out
+Seat 1: CEPTT ($116.74 in chips) 
+Seat 3: Dante21b ($125.08 in chips) 
+Seat 4: reiyser ($100 in chips) 
+reiyser: posts small blind $0.50
+z00mba: is sitting out 
+XneferX: is sitting out 
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+Dante21b: folds 
+reiyser: raises $1.80 to $2.80
+CEPTT: calls $1.80
+*** FLOP *** [3s 4c Qs]
+reiyser: bets $1.54
+CEPTT: raises $6.30 to $7.84
+reiyser: folds 
+Uncalled bet ($6.30) returned to CEPTT
+CEPTT collected $8.25 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.68 | Rake $0.43 
+Board [3s 4c Qs]
+Seat 2: taffy7272
+Seat 5: z00mba
+Seat 6: XneferX
+Seat 1: CEPTT (big blind) collected ($8.25)
+Seat 3: Dante21b (button) folded before Flop (didn't bet)
+Seat 4: reiyser (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254476445057:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:30:24 WET [2025/01/20 18:30:24 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 2: taffy7272 ($61.87 in chips) is sitting out
+Seat 5: z00mba ($100 in chips) is sitting out
+Seat 6: XneferX ($193.81 in chips) is sitting out
+Seat 1: CEPTT ($120.65 in chips) 
+Seat 3: Dante21b ($125.08 in chips) 
+Seat 4: reiyser ($100 in chips) 
+CEPTT: posts small blind $0.50
+Dante21b: posts big blind $1
+*** HOLE CARDS ***
+reiyser: folds 
+CEPTT: raises $2 to $3
+Dante21b: folds 
+Uncalled bet ($2) returned to CEPTT
+CEPTT collected $2 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: taffy7272
+Seat 5: z00mba
+Seat 6: XneferX
+Seat 1: CEPTT (small blind) collected ($2)
+Seat 3: Dante21b (big blind) folded before Flop
+Seat 4: reiyser (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476449779:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:30:43 WET [2025/01/20 18:30:43 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 2: taffy7272 ($61.87 in chips) is sitting out
+Seat 5: z00mba ($100 in chips) is sitting out
+Seat 6: XneferX ($193.81 in chips) is sitting out
+Seat 1: CEPTT ($121.65 in chips) 
+Seat 3: Dante21b ($124.08 in chips) 
+Seat 4: reiyser ($100 in chips) 
+Dante21b: posts small blind $0.50
+reiyser: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+Dante21b: raises $2 to $3
+reiyser: raises $7 to $10
+Dante21b: folds 
+Uncalled bet ($7) returned to reiyser
+reiyser collected $6 from pot
+reiyser: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: taffy7272
+Seat 5: z00mba
+Seat 6: XneferX
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 3: Dante21b (small blind) folded before Flop
+Seat 4: reiyser (big blind) collected ($6)
+
+
+
+PokerStars Hand #254476454039:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:31:00 WET [2025/01/20 18:31:00 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 2: taffy7272 ($61.87 in chips) is sitting out
+Seat 5: z00mba ($100 in chips) is sitting out
+Seat 6: XneferX ($193.81 in chips) is sitting out
+Seat 1: CEPTT ($121.65 in chips) 
+Seat 3: Dante21b ($121.08 in chips) 
+Seat 4: reiyser ($103 in chips) 
+reiyser: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+Dante21b: raises $1.50 to $2.50
+reiyser: raises $9.50 to $12
+CEPTT: folds 
+Dante21b: calls $9.50
+*** FLOP *** [7s 9h 8s]
+reiyser: checks 
+Dante21b: bets $12
+reiyser: folds 
+Uncalled bet ($12) returned to Dante21b
+Dante21b collected $24 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1 
+Board [7s 9h 8s]
+Seat 2: taffy7272
+Seat 5: z00mba
+Seat 6: XneferX
+Seat 1: CEPTT (big blind) folded before Flop
+Seat 3: Dante21b (button) collected ($24)
+Seat 4: reiyser (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254476468597:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:31:59 WET [2025/01/20 18:31:59 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 5: z00mba ($100 in chips) is sitting out
+Seat 6: XneferX ($193.81 in chips) is sitting out
+Seat 1: CEPTT ($120.65 in chips) 
+Seat 2: taffy7272 ($61.87 in chips) 
+Seat 3: Dante21b ($133.08 in chips) 
+Seat 4: reiyser ($100 in chips) 
+CEPTT: posts small blind $0.50
+taffy7272: posts big blind $1
+*** HOLE CARDS ***
+Dante21b: folds 
+reiyser: raises $1.23 to $2.23
+CEPTT: folds 
+taffy7272: folds 
+Uncalled bet ($1.23) returned to reiyser
+reiyser collected $2.50 from pot
+reiyser: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: z00mba
+Seat 6: XneferX
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 2: taffy7272 (big blind) folded before Flop
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 4: reiyser (button) collected ($2.50)
+
+
+
+PokerStars Hand #254476476293:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:32:30 WET [2025/01/20 18:32:30 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 5: z00mba ($100 in chips) is sitting out
+Seat 6: XneferX ($193.81 in chips) is sitting out
+Seat 1: CEPTT ($120.15 in chips) 
+Seat 2: taffy7272 ($60.87 in chips) 
+Seat 3: Dante21b ($133.08 in chips) 
+Seat 4: reiyser ($101.50 in chips) 
+taffy7272: posts small blind $0.50
+Dante21b: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+reiyser: folds 
+CEPTT: folds 
+taffy7272: calls $0.50
+Dante21b: checks 
+*** FLOP *** [Qh 3c 7c]
+taffy7272: checks 
+Dante21b: checks 
+*** TURN *** [Qh 3c 7c] [3h]
+taffy7272: bets $1.90
+Dante21b: folds 
+Uncalled bet ($1.90) returned to taffy7272
+taffy7272 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Qh 3c 7c 3h]
+Seat 5: z00mba
+Seat 6: XneferX
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 2: taffy7272 (small blind) collected ($1.90)
+Seat 3: Dante21b (big blind) folded on the Turn
+Seat 4: reiyser folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476485873:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:33:09 WET [2025/01/20 18:33:09 ET]
+Table 'Aeolia IV' 6-max Seat #2 is the button
+Seat 5: z00mba ($100 in chips) is sitting out
+Seat 6: XneferX ($193.81 in chips) is sitting out
+Seat 1: CEPTT ($120.15 in chips) 
+Seat 2: taffy7272 ($61.77 in chips) 
+Seat 3: Dante21b ($132.08 in chips) 
+Seat 4: reiyser ($101.50 in chips) 
+Dante21b: posts small blind $0.50
+reiyser: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+CEPTT: folds 
+taffy7272 has timed out
+taffy7272: folds 
+Dante21b: folds 
+Uncalled bet ($0.50) returned to reiyser
+reiyser collected $1 from pot
+reiyser: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: z00mba
+Seat 6: XneferX
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 2: taffy7272 (button) folded before Flop (didn't bet)
+Seat 3: Dante21b (small blind) folded before Flop
+Seat 4: reiyser (big blind) collected ($1)
+
+
+
+PokerStars Hand #254476495356:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:33:48 WET [2025/01/20 18:33:48 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 6: XneferX ($193.81 in chips) is sitting out
+Seat 1: CEPTT ($120.15 in chips) 
+Seat 3: Dante21b ($131.58 in chips) 
+Seat 4: reiyser ($102 in chips) 
+Seat 5: z00mba ($100 in chips) 
+reiyser: posts small blind $0.50
+z00mba: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+CEPTT: folds 
+Dante21b: folds 
+reiyser: folds 
+Uncalled bet ($0.50) returned to z00mba
+z00mba collected $1 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: taffy7272
+Seat 6: XneferX
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 3: Dante21b (button) folded before Flop (didn't bet)
+Seat 4: reiyser (small blind) folded before Flop
+Seat 5: z00mba (big blind) collected ($1)
+
+
+
+PokerStars Hand #254476499987:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:34:07 WET [2025/01/20 18:34:07 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 1: CEPTT ($120.15 in chips) 
+Seat 3: Dante21b ($131.58 in chips) 
+Seat 4: reiyser ($101.50 in chips) 
+Seat 5: z00mba ($100.50 in chips) 
+Seat 6: XneferX ($193.81 in chips) 
+z00mba: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+Dante21b: folds 
+reiyser: folds 
+z00mba: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: taffy7272
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 4: reiyser (button) folded before Flop (didn't bet)
+Seat 5: z00mba (small blind) folded before Flop
+Seat 6: XneferX (big blind) collected ($1)
+
+
+
+PokerStars Hand #254476505326:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:34:29 WET [2025/01/20 18:34:29 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 1: CEPTT ($120.15 in chips) 
+Seat 3: Dante21b ($131.58 in chips) 
+Seat 4: reiyser ($101.50 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($194.31 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+Dante21b: folds 
+reiyser: folds 
+z00mba: folds 
+XneferX: raises $2 to $3
+CEPTT: calls $2
+*** FLOP *** [7h 3c 4h]
+XneferX: checks 
+CEPTT: bets $1.71
+XneferX: calls $1.71
+*** TURN *** [7h 3c 4h] [Ad]
+XneferX: checks 
+CEPTT: checks 
+*** RIVER *** [7h 3c 4h Ad] [9d]
+XneferX: checks 
+CEPTT: checks 
+*** SHOW DOWN ***
+XneferX: shows [Jh 9s] (a pair of Nines)
+CEPTT: mucks hand 
+XneferX collected $8.95 from pot
+*** SUMMARY ***
+Total pot $9.42 | Rake $0.47 
+Board [7h 3c 4h Ad 9d]
+Seat 2: taffy7272
+Seat 1: CEPTT (big blind) mucked
+Seat 3: Dante21b folded before Flop (didn't bet)
+Seat 4: reiyser folded before Flop (didn't bet)
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) showed [Jh 9s] and won ($8.95) with a pair of Nines
+
+
+
+PokerStars Hand #254476528796:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:36:05 WET [2025/01/20 18:36:05 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 1: CEPTT ($115.44 in chips) 
+Seat 3: Dante21b ($131.58 in chips) 
+Seat 4: reiyser ($101.50 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($198.55 in chips) 
+CEPTT: posts small blind $0.50
+Dante21b: posts big blind $1
+*** HOLE CARDS ***
+reiyser: folds 
+z00mba: folds 
+XneferX: folds 
+CEPTT: raises $2 to $3
+Dante21b: folds 
+Uncalled bet ($2) returned to CEPTT
+CEPTT collected $2 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: taffy7272
+Seat 1: CEPTT (small blind) collected ($2)
+Seat 3: Dante21b (big blind) folded before Flop
+Seat 4: reiyser folded before Flop (didn't bet)
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476533548:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:36:25 WET [2025/01/20 18:36:25 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 1: CEPTT ($116.44 in chips) 
+Seat 3: Dante21b ($130.58 in chips) 
+Seat 4: reiyser ($101.50 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($198.55 in chips) 
+Dante21b: posts small blind $0.50
+reiyser: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+XneferX: folds 
+CEPTT: raises $1.85 to $2.85
+Dante21b: folds 
+reiyser: folds 
+Uncalled bet ($1.85) returned to CEPTT
+CEPTT collected $2.50 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: taffy7272
+Seat 1: CEPTT (button) collected ($2.50)
+Seat 3: Dante21b (small blind) folded before Flop
+Seat 4: reiyser (big blind) folded before Flop
+Seat 5: z00mba folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476541622:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:36:58 WET [2025/01/20 18:36:58 ET]
+Table 'Aeolia IV' 6-max Seat #3 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 5: z00mba ($100 in chips) is sitting out
+Seat 1: CEPTT ($117.94 in chips) 
+Seat 3: Dante21b ($130.08 in chips) 
+Seat 4: reiyser ($100.50 in chips) 
+Seat 6: XneferX ($198.55 in chips) 
+reiyser: posts small blind $0.50
+z00mba: is sitting out 
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+Dante21b: folds 
+reiyser: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: taffy7272
+Seat 5: z00mba
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 3: Dante21b (button) folded before Flop (didn't bet)
+Seat 4: reiyser (small blind) folded before Flop
+Seat 6: XneferX (big blind) collected ($1)
+
+
+
+PokerStars Hand #254476545069:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:37:12 WET [2025/01/20 18:37:12 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 5: z00mba ($100 in chips) is sitting out
+Seat 1: CEPTT ($117.94 in chips) 
+Seat 3: Dante21b ($130.08 in chips) 
+Seat 4: reiyser ($100 in chips) 
+Seat 6: XneferX ($199.05 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+Dante21b: raises $1.50 to $2.50
+reiyser: folds 
+XneferX: folds 
+CEPTT: folds 
+Uncalled bet ($1.50) returned to Dante21b
+Dante21b collected $2.50 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: taffy7272
+Seat 5: z00mba
+Seat 1: CEPTT (big blind) folded before Flop
+Seat 3: Dante21b collected ($2.50)
+Seat 4: reiyser (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254476549073:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:37:29 WET [2025/01/20 18:37:29 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 3: Dante21b ($131.58 in chips) is sitting out
+Seat 5: z00mba ($100 in chips) is sitting out
+Seat 1: CEPTT ($116.94 in chips) 
+Seat 4: reiyser ($100 in chips) 
+Seat 6: XneferX ($198.55 in chips) 
+CEPTT: posts small blind $0.50
+Dante21b: is sitting out 
+reiyser: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+XneferX: raises $1.77 to $2.77
+CEPTT: folds 
+reiyser: folds 
+Uncalled bet ($1.77) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: taffy7272
+Seat 3: Dante21b
+Seat 5: z00mba
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 4: reiyser (big blind) folded before Flop
+Seat 6: XneferX (button) collected ($2.50)
+
+
+
+PokerStars Hand #254476551655:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:37:39 WET [2025/01/20 18:37:39 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 3: Dante21b ($131.58 in chips) is sitting out
+Seat 1: CEPTT ($116.44 in chips) 
+Seat 4: reiyser ($100 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($200.05 in chips) 
+reiyser: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+XneferX: raises $1.30 to $2.30
+CEPTT: folds 
+reiyser: folds 
+z00mba: folds 
+Uncalled bet ($1.30) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: taffy7272
+Seat 3: Dante21b
+Seat 1: CEPTT (button) folded before Flop (didn't bet)
+Seat 4: reiyser (small blind) folded before Flop
+Seat 5: z00mba (big blind) folded before Flop
+Seat 6: XneferX collected ($2.50)
+
+
+
+PokerStars Hand #254476554993:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:37:53 WET [2025/01/20 18:37:53 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 3: Dante21b ($131.58 in chips) is sitting out
+Seat 1: CEPTT ($116.44 in chips) 
+Seat 4: reiyser ($100 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($201.55 in chips) 
+z00mba: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+reiyser: folds 
+z00mba: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: taffy7272
+Seat 3: Dante21b
+Seat 1: CEPTT folded before Flop (didn't bet)
+Seat 4: reiyser (button) folded before Flop (didn't bet)
+Seat 5: z00mba (small blind) folded before Flop
+Seat 6: XneferX (big blind) collected ($1)
+
+
+
+PokerStars Hand #254476557114:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:38:02 WET [2025/01/20 18:38:02 ET]
+Table 'Aeolia IV' 6-max Seat #5 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 3: Dante21b ($131.58 in chips) is sitting out
+Seat 1: CEPTT ($116.44 in chips) 
+Seat 4: reiyser ($100 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($202.05 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+reiyser: folds 
+z00mba: folds 
+XneferX: folds 
+Uncalled bet ($0.50) returned to CEPTT
+CEPTT collected $1 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: taffy7272
+Seat 3: Dante21b
+Seat 1: CEPTT (big blind) collected ($1)
+Seat 4: reiyser folded before Flop (didn't bet)
+Seat 5: z00mba (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254476560150:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:38:14 WET [2025/01/20 18:38:14 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 3: Dante21b ($131.58 in chips) is sitting out
+Seat 1: CEPTT ($116.94 in chips) 
+Seat 4: reiyser ($100 in chips) 
+Seat 5: z00mba ($100 in chips) 
+Seat 6: XneferX ($201.55 in chips) 
+CEPTT: posts small blind $0.50
+reiyser: posts big blind $1
+*** HOLE CARDS ***
+z00mba: raises $1.50 to $2.50
+XneferX: folds 
+CEPTT: folds 
+reiyser: folds 
+Uncalled bet ($1.50) returned to z00mba
+z00mba collected $2.50 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: taffy7272
+Seat 3: Dante21b
+Seat 1: CEPTT (small blind) folded before Flop
+Seat 4: reiyser (big blind) folded before Flop
+Seat 5: z00mba collected ($2.50)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254476564135:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:38:30 WET [2025/01/20 18:38:30 ET]
+Table 'Aeolia IV' 6-max Seat #1 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 3: Dante21b ($131.58 in chips) is sitting out
+Seat 5: z00mba ($101.50 in chips) is sitting out
+Seat 1: CEPTT ($116.44 in chips) 
+Seat 4: reiyser ($100 in chips) 
+Seat 6: XneferX ($201.55 in chips) 
+reiyser: posts small blind $0.50
+z00mba: is sitting out 
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: raises $1.85 to $2.85
+reiyser: folds 
+XneferX: calls $1.85
+*** FLOP *** [9c Jh 5d]
+XneferX: checks 
+CEPTT: bets $4.42
+XneferX: folds 
+Uncalled bet ($4.42) returned to CEPTT
+CEPTT collected $5.89 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.20 | Rake $0.31 
+Board [9c Jh 5d]
+Seat 2: taffy7272
+Seat 3: Dante21b
+Seat 5: z00mba
+Seat 1: CEPTT (button) collected ($5.89)
+Seat 4: reiyser (small blind) folded before Flop
+Seat 6: XneferX (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254476576391:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:39:22 WET [2025/01/20 18:39:22 ET]
+Table 'Aeolia IV' 6-max Seat #4 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 3: Dante21b ($131.58 in chips) is sitting out
+Seat 5: z00mba ($101.50 in chips) is sitting out
+Seat 1: CEPTT ($119.48 in chips) 
+Seat 4: reiyser ($100 in chips) 
+Seat 6: XneferX ($198.70 in chips) 
+XneferX: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+reiyser: folds 
+XneferX: raises $2 to $3
+CEPTT: folds 
+Uncalled bet ($2) returned to XneferX
+XneferX collected $2 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: taffy7272
+Seat 3: Dante21b
+Seat 5: z00mba
+Seat 1: CEPTT (big blind) folded before Flop
+Seat 4: reiyser (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) collected ($2)
+
+
+
+PokerStars Hand #254476579589:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 23:39:35 WET [2025/01/20 18:39:35 ET]
+Table 'Aeolia IV' 6-max Seat #6 is the button
+Seat 2: taffy7272 ($61.77 in chips) is sitting out
+Seat 3: Dante21b ($131.58 in chips) is sitting out
+Seat 5: z00mba ($101.50 in chips) is sitting out
+Seat 1: CEPTT ($118.48 in chips) 
+Seat 4: reiyser ($100 in chips) 
+Seat 6: XneferX ($199.70 in chips) 
+CEPTT: posts small blind $0.50
+reiyser: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+CEPTT: raises $2 to $3
+z00mba leaves the table
+reiyser: folds 
+Uncalled bet ($2) returned to CEPTT
+CEPTT collected $2 from pot
+taffy7272 leaves the table
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: taffy7272
+Seat 3: Dante21b
+Seat 5: z00mba
+Seat 1: CEPTT (small blind) collected ($2)
+Seat 4: reiyser (big blind) folded before Flop
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+

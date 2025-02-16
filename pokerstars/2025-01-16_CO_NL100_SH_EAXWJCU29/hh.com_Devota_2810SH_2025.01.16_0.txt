@@ -1,0 +1,989 @@
+﻿PokerStars Hand #254397635658:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:50:01 WET [2025/01/16 8:50:01 ET]
+Table 'Devota III' 6-max Seat #6 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($82.42 in chips) 
+Seat 4: app1e_j@ck ($100 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($100 in chips) 
+Rysiff: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: calls $1
+app1e_j@ck: folds 
+VahTang_89: folds 
+Eredar5: folds 
+Rysiff: folds 
+AlexPinsk1: checks 
+*** FLOP *** [Jh 6s 7s]
+AlexPinsk1: checks 
+lukazs2: bets $1
+AlexPinsk1: calls $1
+*** TURN *** [Jh 6s 7s] [6d]
+AlexPinsk1: checks 
+lukazs2: bets $1
+AlexPinsk1: calls $1
+*** RIVER *** [Jh 6s 7s 6d] [5s]
+AlexPinsk1: checks 
+lukazs2: bets $2
+AlexPinsk1: calls $2
+*** SHOW DOWN ***
+lukazs2: shows [8h 9c] (a straight, Five to Nine)
+AlexPinsk1: mucks hand 
+lukazs2 collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [Jh 6s 7s 6d 5s]
+Seat 1: Rysiff (small blind) folded before Flop
+Seat 2: AlexPinsk1 (big blind) mucked
+Seat 3: lukazs2 showed [8h 9c] and won ($9.98) with a straight, Five to Nine
+Seat 4: app1e_j@ck folded before Flop (didn't bet)
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Eredar5 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397643107:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:50:45 WET [2025/01/16 8:50:45 ET]
+Table 'Devota III' 6-max Seat #1 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($87.40 in chips) 
+Seat 4: app1e_j@ck ($100 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+app1e_j@ck: folds 
+VahTang_89: folds 
+Eredar5: folds 
+Rysiff: raises $1.50 to $2.50
+AlexPinsk1: folds 
+lukazs2: calls $1.50
+*** FLOP *** [8c 6h 9c]
+lukazs2: checks 
+Rysiff: bets $2.61
+lukazs2: folds 
+Uncalled bet ($2.61) returned to Rysiff
+Rysiff collected $5.22 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [8c 6h 9c]
+Seat 1: Rysiff (button) collected ($5.22)
+Seat 2: AlexPinsk1 (small blind) folded before Flop
+Seat 3: lukazs2 (big blind) folded on the Flop
+Seat 4: app1e_j@ck folded before Flop (didn't bet)
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Eredar5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397649274:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:51:21 WET [2025/01/16 8:51:21 ET]
+Table 'Devota III' 6-max Seat #2 is the button
+Seat 1: Rysiff ($102.72 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($84.90 in chips) 
+Seat 4: app1e_j@ck ($100 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($100 in chips) 
+lukazs2: posts small blind $0.50
+app1e_j@ck: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: folds 
+Eredar5: raises $2 to $3
+Rysiff: folds 
+AlexPinsk1: folds 
+lukazs2: calls $2.50
+app1e_j@ck: calls $2
+*** FLOP *** [6c 3c 2c]
+lukazs2: bets $4.28
+app1e_j@ck: folds 
+Eredar5: calls $4.28
+*** TURN *** [6c 3c 2c] [5h]
+lukazs2: bets $2
+Eredar5: calls $2
+*** RIVER *** [6c 3c 2c 5h] [8d]
+lukazs2: checks 
+Eredar5: checks 
+*** SHOW DOWN ***
+lukazs2: shows [2d 6h] (two pair, Sixes and Deuces)
+Eredar5: mucks hand 
+lukazs2 collected $20.48 from pot
+*** SUMMARY ***
+Total pot $21.56 | Rake $1.08 
+Board [6c 3c 2c 5h 8d]
+Seat 1: Rysiff folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 3: lukazs2 (small blind) showed [2d 6h] and won ($20.48) with two pair, Sixes and Deuces
+Seat 4: app1e_j@ck (big blind) folded on the Flop
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Eredar5 mucked
+
+
+
+PokerStars Hand #254397661650:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:52:33 WET [2025/01/16 8:52:33 ET]
+Table 'Devota III' 6-max Seat #3 is the button
+Seat 1: Rysiff ($102.72 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($96.10 in chips) 
+Seat 4: app1e_j@ck ($100 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($100 in chips) 
+app1e_j@ck: posts small blind $0.50
+VahTang_89: posts big blind $1
+*** HOLE CARDS ***
+Eredar5: folds 
+Rysiff: raises $1.50 to $2.50
+AlexPinsk1: folds 
+lukazs2: folds 
+app1e_j@ck: folds 
+VahTang_89: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Rysiff collected ($2.50)
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: lukazs2 (button) folded before Flop (didn't bet)
+Seat 4: app1e_j@ck (small blind) folded before Flop
+Seat 5: VahTang_89 (big blind) folded before Flop
+Seat 6: Eredar5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397665648:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:52:56 WET [2025/01/16 8:52:56 ET]
+Table 'Devota III' 6-max Seat #4 is the button
+Seat 1: Rysiff ($104.22 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($96.10 in chips) 
+Seat 4: app1e_j@ck ($100 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($100 in chips) 
+VahTang_89: posts small blind $0.50
+Eredar5: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+AlexPinsk1: folds 
+lukazs2: raises $1.50 to $4
+app1e_j@ck: folds 
+VahTang_89: folds 
+Eredar5: folds 
+Rysiff: calls $1.50
+*** FLOP *** [Ah 6h Td]
+Rysiff: checks 
+lukazs2: bets $2
+Rysiff: calls $2
+*** TURN *** [Ah 6h Td] [2c]
+Rysiff: checks 
+lukazs2: bets $1
+Rysiff: raises $10 to $11
+lukazs2: folds 
+Uncalled bet ($10) returned to Rysiff
+Rysiff collected $14.72 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.78 
+Board [Ah 6h Td 2c]
+Seat 1: Rysiff collected ($14.72)
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: lukazs2 folded on the Turn
+Seat 4: app1e_j@ck (button) folded before Flop (didn't bet)
+Seat 5: VahTang_89 (small blind) folded before Flop
+Seat 6: Eredar5 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254397672706:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:53:38 WET [2025/01/16 8:53:38 ET]
+Table 'Devota III' 6-max Seat #5 is the button
+Seat 1: Rysiff ($111.94 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($89.10 in chips) 
+Seat 4: app1e_j@ck ($100 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($100 in chips) 
+Eredar5: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+lukazs2: folds 
+app1e_j@ck: folds 
+VahTang_89: folds 
+Eredar5: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Rysiff (big blind) collected ($1)
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: lukazs2 folded before Flop (didn't bet)
+Seat 4: app1e_j@ck folded before Flop (didn't bet)
+Seat 5: VahTang_89 (button) folded before Flop (didn't bet)
+Seat 6: Eredar5 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254397675094:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:53:52 WET [2025/01/16 8:53:52 ET]
+Table 'Devota III' 6-max Seat #6 is the button
+Seat 1: Rysiff ($112.44 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($89.10 in chips) 
+Seat 4: app1e_j@ck ($100 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($100 in chips) 
+Rysiff: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: folds 
+app1e_j@ck: folds 
+VahTang_89: raises $1.20 to $2.20
+Eredar5: folds 
+Rysiff: folds 
+AlexPinsk1: folds 
+Uncalled bet ($1.20) returned to VahTang_89
+VahTang_89 collected $2.50 from pot
+VahTang_89: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Rysiff (small blind) folded before Flop
+Seat 2: AlexPinsk1 (big blind) folded before Flop
+Seat 3: lukazs2 folded before Flop (didn't bet)
+Seat 4: app1e_j@ck folded before Flop (didn't bet)
+Seat 5: VahTang_89 collected ($2.50)
+Seat 6: Eredar5 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397678776:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:54:14 WET [2025/01/16 8:54:14 ET]
+Table 'Devota III' 6-max Seat #1 is the button
+Seat 1: Rysiff ($111.94 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($89.10 in chips) 
+Seat 4: app1e_j@ck ($100 in chips) 
+Seat 5: VahTang_89 ($101.50 in chips) 
+Seat 6: Eredar5 ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+app1e_j@ck: folds 
+VahTang_89: folds 
+Eredar5: folds 
+Rysiff: raises $1.50 to $2.50
+AlexPinsk1: folds 
+lukazs2: raises $2.50 to $5
+Rysiff: calls $2.50
+*** FLOP *** [Kd Ts 5d]
+lukazs2: bets $4.99
+Rysiff: folds 
+Uncalled bet ($4.99) returned to lukazs2
+lukazs2 collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [Kd Ts 5d]
+Seat 1: Rysiff (button) folded on the Flop
+Seat 2: AlexPinsk1 (small blind) folded before Flop
+Seat 3: lukazs2 (big blind) collected ($9.98)
+Seat 4: app1e_j@ck folded before Flop (didn't bet)
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Eredar5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397687180:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:55:03 WET [2025/01/16 8:55:03 ET]
+Table 'Devota III' 6-max Seat #2 is the button
+Seat 1: Rysiff ($106.94 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($94.08 in chips) 
+Seat 4: app1e_j@ck ($100 in chips) 
+Seat 5: VahTang_89 ($101.50 in chips) 
+Seat 6: Eredar5 ($100 in chips) 
+lukazs2: posts small blind $0.50
+app1e_j@ck: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: folds 
+Eredar5: folds 
+Rysiff: raises $1.50 to $2.50
+AlexPinsk1: folds 
+lukazs2: raises $3.50 to $6
+app1e_j@ck: folds 
+Rysiff: calls $3.50
+*** FLOP *** [9c 3s Tc]
+lukazs2: bets $12.35
+Rysiff: raises $22.65 to $35
+lukazs2: raises $53.08 to $88.08 and is all-in
+Rysiff: calls $53.08
+*** TURN *** [9c 3s Tc] [Kd]
+*** RIVER *** [9c 3s Tc Kd] [6s]
+*** SHOW DOWN ***
+lukazs2: shows [Jh Jc] (a pair of Jacks)
+Rysiff: shows [4c Ac] (high card Ace)
+lukazs2 collected $186.66 from pot
+*** SUMMARY ***
+Total pot $189.16 | Rake $2.50 
+Board [9c 3s Tc Kd 6s]
+Seat 1: Rysiff showed [4c Ac] and lost with high card Ace
+Seat 2: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 3: lukazs2 (small blind) showed [Jh Jc] and won ($186.66) with a pair of Jacks
+Seat 4: app1e_j@ck (big blind) folded before Flop
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Eredar5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397695973:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:56:07 WET [2025/01/16 8:56:07 ET]
+Table 'Devota III' 6-max Seat #3 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($186.66 in chips) 
+Seat 4: app1e_j@ck ($100 in chips) 
+Seat 5: VahTang_89 ($101.50 in chips) 
+Seat 6: Eredar5 ($100 in chips) 
+app1e_j@ck: posts small blind $0.50
+VahTang_89: posts big blind $1
+*** HOLE CARDS ***
+Eredar5: raises $2 to $3
+Rysiff: folds 
+AlexPinsk1: folds 
+lukazs2: calls $3
+app1e_j@ck: folds 
+VahTang_89: folds 
+*** FLOP *** [6h 7d 6d]
+Eredar5: bets $2.42
+lukazs2: calls $2.42
+*** TURN *** [6h 7d 6d] [Qh]
+Eredar5: bets $3.98
+lukazs2 has timed out
+lukazs2: folds 
+Uncalled bet ($3.98) returned to Eredar5
+Eredar5 collected $11.72 from pot
+Eredar5: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.34 | Rake $0.62 
+Board [6h 7d 6d Qh]
+Seat 1: Rysiff folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: lukazs2 (button) folded on the Turn
+Seat 4: app1e_j@ck (small blind) folded before Flop
+Seat 5: VahTang_89 (big blind) folded before Flop
+Seat 6: Eredar5 collected ($11.72)
+
+
+
+PokerStars Hand #254397706595:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:57:25 WET [2025/01/16 8:57:25 ET]
+Table 'Devota III' 6-max Seat #4 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($181.24 in chips) 
+Seat 4: app1e_j@ck ($100 in chips) 
+Seat 5: VahTang_89 ($100.50 in chips) 
+Seat 6: Eredar5 ($106.30 in chips) 
+VahTang_89: posts small blind $0.50
+Eredar5: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+AlexPinsk1: folds 
+lukazs2: folds 
+app1e_j@ck: folds 
+VahTang_89: raises $2 to $3
+Eredar5: raises $7 to $10
+VahTang_89: folds 
+Uncalled bet ($7) returned to Eredar5
+Eredar5 collected $6 from pot
+Eredar5: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Rysiff folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: lukazs2 folded before Flop (didn't bet)
+Seat 4: app1e_j@ck (button) folded before Flop (didn't bet)
+Seat 5: VahTang_89 (small blind) folded before Flop
+Seat 6: Eredar5 (big blind) collected ($6)
+
+
+
+PokerStars Hand #254397713877:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:58:18 WET [2025/01/16 8:58:18 ET]
+Table 'Devota III' 6-max Seat #5 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($181.24 in chips) 
+Seat 4: app1e_j@ck ($100 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($109.30 in chips) 
+Eredar5: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+lukazs2: calls $1
+app1e_j@ck: folds 
+VahTang_89: folds 
+Eredar5: folds 
+Rysiff: checks 
+*** FLOP *** [Js 5c Td]
+Rysiff: checks 
+lukazs2: checks 
+*** TURN *** [Js 5c Td] [7d]
+Rysiff: bets $3
+lukazs2: calls $3
+*** RIVER *** [Js 5c Td 7d] [9d]
+Rysiff: bets $4.04
+lukazs2: raises $10.04 to $14.08
+Rysiff: folds 
+Uncalled bet ($10.04) returned to lukazs2
+lukazs2 collected $15.75 from pot
+*** SUMMARY ***
+Total pot $16.58 | Rake $0.83 
+Board [Js 5c Td 7d 9d]
+Seat 1: Rysiff (big blind) folded on the River
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: lukazs2 collected ($15.75)
+Seat 4: app1e_j@ck folded before Flop (didn't bet)
+Seat 5: VahTang_89 (button) folded before Flop (didn't bet)
+Seat 6: Eredar5 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254397719822:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:59:03 WET [2025/01/16 8:59:03 ET]
+Table 'Devota III' 6-max Seat #6 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($188.95 in chips) 
+Seat 4: app1e_j@ck ($100 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($108.80 in chips) 
+Rysiff: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: raises $2 to $3
+app1e_j@ck: raises $6 to $9
+VahTang_89: folds 
+Eredar5: folds 
+Rysiff: folds 
+AlexPinsk1: folds 
+lukazs2: calls $6
+*** FLOP *** [Qs 3c 9d]
+lukazs2: checks 
+app1e_j@ck: bets $6.11
+lukazs2: calls $6.11
+*** TURN *** [Qs 3c 9d] [Qc]
+lukazs2: checks 
+app1e_j@ck: checks 
+*** RIVER *** [Qs 3c 9d Qc] [5s]
+lukazs2: checks 
+app1e_j@ck: checks 
+*** SHOW DOWN ***
+lukazs2: shows [Kh Th] (a pair of Queens)
+app1e_j@ck: shows [Ac Js] (a pair of Queens - Ace kicker)
+app1e_j@ck collected $30.13 from pot
+*** SUMMARY ***
+Total pot $31.72 | Rake $1.59 
+Board [Qs 3c 9d Qc 5s]
+Seat 1: Rysiff (small blind) folded before Flop
+Seat 2: AlexPinsk1 (big blind) folded before Flop
+Seat 3: lukazs2 showed [Kh Th] and lost with a pair of Queens
+Seat 4: app1e_j@ck showed [Ac Js] and won ($30.13) with a pair of Queens
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Eredar5 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397726168:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 13:59:49 WET [2025/01/16 8:59:49 ET]
+Table 'Devota III' 6-max Seat #1 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($173.84 in chips) 
+Seat 4: app1e_j@ck ($115.02 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($108.80 in chips) 
+AlexPinsk1: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+app1e_j@ck: folds 
+VahTang_89: raises $1.20 to $2.20
+Eredar5: folds 
+Rysiff: folds 
+AlexPinsk1: calls $1.70
+lukazs2: calls $1.20
+*** FLOP *** [7d 9h Qs]
+AlexPinsk1: checks 
+lukazs2: checks 
+VahTang_89: checks 
+*** TURN *** [7d 9h Qs] [As]
+AlexPinsk1: checks 
+lukazs2 has timed out
+lukazs2: checks 
+VahTang_89: bets $2.07
+AlexPinsk1: folds 
+lukazs2: calls $2.07
+*** RIVER *** [7d 9h Qs As] [4s]
+lukazs2: checks 
+VahTang_89: checks 
+*** SHOW DOWN ***
+lukazs2: shows [9c Th] (a pair of Nines)
+VahTang_89: mucks hand 
+lukazs2 collected $10.20 from pot
+*** SUMMARY ***
+Total pot $10.74 | Rake $0.54 
+Board [7d 9h Qs As 4s]
+Seat 1: Rysiff (button) folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 (small blind) folded on the Turn
+Seat 3: lukazs2 (big blind) showed [9c Th] and won ($10.20) with a pair of Nines
+Seat 4: app1e_j@ck folded before Flop (didn't bet)
+Seat 5: VahTang_89 mucked
+Seat 6: Eredar5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397735952:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 14:00:56 WET [2025/01/16 9:00:56 ET]
+Table 'Devota III' 6-max Seat #2 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($179.77 in chips) 
+Seat 4: app1e_j@ck ($115.02 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($108.80 in chips) 
+lukazs2: posts small blind $0.50
+app1e_j@ck: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: folds 
+Eredar5: folds 
+Rysiff: raises $1.50 to $2.50
+AlexPinsk1: folds 
+lukazs2: calls $2
+app1e_j@ck: folds 
+*** FLOP *** [Qh Jc 9s]
+lukazs2: checks 
+Rysiff: checks 
+*** TURN *** [Qh Jc 9s] [4s]
+lukazs2: checks 
+Rysiff: checks 
+*** RIVER *** [Qh Jc 9s 4s] [5s]
+lukazs2: checks 
+Rysiff: bets $6
+lukazs2: folds 
+Uncalled bet ($6) returned to Rysiff
+Rysiff collected $5.70 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Qh Jc 9s 4s 5s]
+Seat 1: Rysiff collected ($5.70)
+Seat 2: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 3: lukazs2 (small blind) folded on the River
+Seat 4: app1e_j@ck (big blind) folded before Flop
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Eredar5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397743219:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 14:01:40 WET [2025/01/16 9:01:40 ET]
+Table 'Devota III' 6-max Seat #3 is the button
+Seat 1: Rysiff ($103.20 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($177.27 in chips) 
+Seat 4: app1e_j@ck ($114.02 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($108.80 in chips) 
+app1e_j@ck: posts small blind $0.50
+VahTang_89: posts big blind $1
+*** HOLE CARDS ***
+Eredar5: folds 
+Rysiff: folds 
+AlexPinsk1: folds 
+lukazs2: folds 
+app1e_j@ck: folds 
+Uncalled bet ($0.50) returned to VahTang_89
+VahTang_89 collected $1 from pot
+VahTang_89: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Rysiff folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: lukazs2 (button) folded before Flop (didn't bet)
+Seat 4: app1e_j@ck (small blind) folded before Flop
+Seat 5: VahTang_89 (big blind) collected ($1)
+Seat 6: Eredar5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397746211:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 14:01:57 WET [2025/01/16 9:01:57 ET]
+Table 'Devota III' 6-max Seat #4 is the button
+Seat 1: Rysiff ($103.20 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($177.27 in chips) 
+Seat 4: app1e_j@ck ($113.52 in chips) 
+Seat 5: VahTang_89 ($100.50 in chips) 
+Seat 6: Eredar5 ($108.80 in chips) 
+VahTang_89: posts small blind $0.50
+Eredar5: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+AlexPinsk1: folds 
+lukazs2: calls $1
+app1e_j@ck: folds 
+VahTang_89: folds 
+Eredar5: checks 
+*** FLOP *** [Jh 7h 4d]
+Eredar5: checks 
+lukazs2: bets $2
+Eredar5: folds 
+Uncalled bet ($2) returned to lukazs2
+lukazs2 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Jh 7h 4d]
+Seat 1: Rysiff folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: lukazs2 collected ($2.38)
+Seat 4: app1e_j@ck (button) folded before Flop (didn't bet)
+Seat 5: VahTang_89 (small blind) folded before Flop
+Seat 6: Eredar5 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254397750158:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 14:02:22 WET [2025/01/16 9:02:22 ET]
+Table 'Devota III' 6-max Seat #5 is the button
+Seat 1: Rysiff ($103.20 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($178.65 in chips) 
+Seat 4: app1e_j@ck ($113.52 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($107.80 in chips) 
+Eredar5: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+lukazs2: calls $1
+app1e_j@ck: folds 
+VahTang_89: folds 
+Eredar5: raises $3.50 to $4.50
+Rysiff: calls $3.50
+lukazs2: folds 
+*** FLOP *** [9d Jc 8d]
+Eredar5: checks 
+Rysiff: checks 
+*** TURN *** [9d Jc 8d] [9c]
+Eredar5: bets $7.22
+Rysiff: folds 
+Uncalled bet ($7.22) returned to Eredar5
+Eredar5 collected $9.50 from pot
+Eredar5: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [9d Jc 8d 9c]
+Seat 1: Rysiff (big blind) folded on the Turn
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: lukazs2 folded before Flop
+Seat 4: app1e_j@ck folded before Flop (didn't bet)
+Seat 5: VahTang_89 (button) folded before Flop (didn't bet)
+Seat 6: Eredar5 (small blind) collected ($9.50)
+
+
+
+PokerStars Hand #254397762527:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 14:03:35 WET [2025/01/16 9:03:35 ET]
+Table 'Devota III' 6-max Seat #6 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($100 in chips) 
+Seat 3: lukazs2 ($177.65 in chips) 
+Seat 4: app1e_j@ck ($113.52 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($112.80 in chips) 
+Rysiff: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: calls $1
+app1e_j@ck: folds 
+VahTang_89: folds 
+Eredar5: folds 
+Rysiff: folds 
+AlexPinsk1: checks 
+*** FLOP *** [9s Qh 3s]
+AlexPinsk1: checks 
+lukazs2: bets $1
+AlexPinsk1: calls $1
+*** TURN *** [9s Qh 3s] [Td]
+AlexPinsk1: checks 
+lukazs2: bets $2
+AlexPinsk1: calls $2
+*** RIVER *** [9s Qh 3s Td] [Ks]
+AlexPinsk1: checks 
+lukazs2: checks 
+*** SHOW DOWN ***
+AlexPinsk1: shows [Th Jc] (a straight, Nine to King)
+lukazs2: mucks hand 
+AlexPinsk1 collected $8.08 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [9s Qh 3s Td Ks]
+Seat 1: Rysiff (small blind) folded before Flop
+Seat 2: AlexPinsk1 (big blind) showed [Th Jc] and won ($8.08) with a straight, Nine to King
+Seat 3: lukazs2 mucked
+Seat 4: app1e_j@ck folded before Flop (didn't bet)
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Eredar5 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397772409:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 14:04:33 WET [2025/01/16 9:04:33 ET]
+Table 'Devota III' 6-max Seat #1 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($104.08 in chips) 
+Seat 3: lukazs2 ($173.65 in chips) 
+Seat 4: app1e_j@ck ($113.52 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($112.80 in chips) 
+AlexPinsk1: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+app1e_j@ck: folds 
+VahTang_89: folds 
+Eredar5: folds 
+Rysiff: raises $1.50 to $2.50
+AlexPinsk1: folds 
+lukazs2: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Rysiff (button) collected ($2.50)
+Seat 2: AlexPinsk1 (small blind) folded before Flop
+Seat 3: lukazs2 (big blind) folded before Flop
+Seat 4: app1e_j@ck folded before Flop (didn't bet)
+Seat 5: VahTang_89 folded before Flop (didn't bet)
+Seat 6: Eredar5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397775227:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 14:04:50 WET [2025/01/16 9:04:50 ET]
+Table 'Devota III' 6-max Seat #2 is the button
+Seat 1: Rysiff ($101.50 in chips) 
+Seat 2: AlexPinsk1 ($103.58 in chips) 
+Seat 3: lukazs2 ($172.65 in chips) 
+Seat 4: app1e_j@ck ($113.52 in chips) 
+Seat 5: VahTang_89 ($100 in chips) 
+Seat 6: Eredar5 ($112.80 in chips) 
+lukazs2: posts small blind $0.50
+app1e_j@ck: posts big blind $1
+*** HOLE CARDS ***
+VahTang_89: raises $1.20 to $2.20
+Eredar5: folds 
+Rysiff: folds 
+AlexPinsk1: folds 
+lukazs2: folds 
+app1e_j@ck: folds 
+Uncalled bet ($1.20) returned to VahTang_89
+VahTang_89 collected $2.50 from pot
+VahTang_89: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Rysiff folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 3: lukazs2 (small blind) folded before Flop
+Seat 4: app1e_j@ck (big blind) folded before Flop
+Seat 5: VahTang_89 collected ($2.50)
+Seat 6: Eredar5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397778958:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 14:05:11 WET [2025/01/16 9:05:11 ET]
+Table 'Devota III' 6-max Seat #3 is the button
+Seat 1: Rysiff ($101.50 in chips) 
+Seat 2: AlexPinsk1 ($103.58 in chips) 
+Seat 3: lukazs2 ($172.15 in chips) 
+Seat 4: app1e_j@ck ($112.52 in chips) 
+Seat 5: VahTang_89 ($101.50 in chips) 
+Seat 6: Eredar5 ($112.80 in chips) 
+app1e_j@ck: posts small blind $0.50
+VahTang_89: posts big blind $1
+*** HOLE CARDS ***
+Eredar5: folds 
+Rysiff: raises $1.50 to $2.50
+AlexPinsk1: folds 
+lukazs2: folds 
+app1e_j@ck: folds 
+VahTang_89: calls $1.50
+*** FLOP *** [9h Qh 3h]
+VahTang_89: checks 
+Rysiff: bets $1.72
+VahTang_89: calls $1.72
+*** TURN *** [9h Qh 3h] [As]
+VahTang_89: checks 
+Rysiff: bets $6.79
+VahTang_89: calls $6.79
+*** RIVER *** [9h Qh 3h As] [6h]
+VahTang_89: checks 
+Rysiff: checks 
+*** SHOW DOWN ***
+VahTang_89: shows [Kh Qs] (a flush, King high)
+Rysiff: mucks hand 
+VahTang_89 collected $21.39 from pot
+*** SUMMARY ***
+Total pot $22.52 | Rake $1.13 
+Board [9h Qh 3h As 6h]
+Seat 1: Rysiff mucked
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: lukazs2 (button) folded before Flop (didn't bet)
+Seat 4: app1e_j@ck (small blind) folded before Flop
+Seat 5: VahTang_89 (big blind) showed [Kh Qs] and won ($21.39) with a flush, King high
+Seat 6: Eredar5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397788628:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 14:06:07 WET [2025/01/16 9:06:07 ET]
+Table 'Devota III' 6-max Seat #4 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($103.58 in chips) 
+Seat 3: lukazs2 ($172.15 in chips) 
+Seat 4: app1e_j@ck ($112.02 in chips) 
+Seat 5: VahTang_89 ($111.88 in chips) 
+Seat 6: Eredar5 ($112.80 in chips) 
+VahTang_89: posts small blind $0.50
+Eredar5: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+AlexPinsk1: folds 
+lukazs2: raises $2 to $3
+app1e_j@ck: folds 
+VahTang_89: folds 
+Eredar5: folds 
+Uncalled bet ($2) returned to lukazs2
+lukazs2 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Rysiff folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: lukazs2 collected ($2.50)
+Seat 4: app1e_j@ck (button) folded before Flop (didn't bet)
+Seat 5: VahTang_89 (small blind) folded before Flop
+Seat 6: Eredar5 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254397792664:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 14:06:30 WET [2025/01/16 9:06:30 ET]
+Table 'Devota III' 6-max Seat #5 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($103.58 in chips) 
+Seat 3: lukazs2 ($173.65 in chips) 
+Seat 4: app1e_j@ck ($112.02 in chips) 
+Seat 5: VahTang_89 ($111.38 in chips) 
+Seat 6: Eredar5 ($111.80 in chips) 
+Eredar5: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+lukazs2: calls $1
+app1e_j@ck: folds 
+VahTang_89: folds 
+Eredar5: folds 
+Rysiff: checks 
+*** FLOP *** [7h Qs Kc]
+Rysiff: checks 
+lukazs2: checks 
+*** TURN *** [7h Qs Kc] [Ks]
+Rysiff: checks 
+lukazs2: checks 
+*** RIVER *** [7h Qs Kc Ks] [Qc]
+Rysiff: checks 
+lukazs2: checks 
+*** SHOW DOWN ***
+Rysiff: shows [4h 5c] (two pair, Kings and Queens)
+lukazs2: shows [9h 2h] (two pair, Kings and Queens - Nine kicker)
+lukazs2 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [7h Qs Kc Ks Qc]
+Seat 1: Rysiff (big blind) showed [4h 5c] and lost with two pair, Kings and Queens
+Seat 2: AlexPinsk1 folded before Flop (didn't bet)
+Seat 3: lukazs2 showed [9h 2h] and won ($2.38) with two pair, Kings and Queens
+Seat 4: app1e_j@ck folded before Flop (didn't bet)
+Seat 5: VahTang_89 (button) folded before Flop (didn't bet)
+Seat 6: Eredar5 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254397799022:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 14:07:07 WET [2025/01/16 9:07:07 ET]
+Table 'Devota III' 6-max Seat #6 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($103.58 in chips) 
+Seat 3: lukazs2 ($175.03 in chips) 
+Seat 4: app1e_j@ck ($112.02 in chips) 
+Seat 5: VahTang_89 ($111.38 in chips) 
+Seat 6: Eredar5 ($111.30 in chips) 
+Rysiff: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: folds 
+app1e_j@ck: folds 
+lukazs2 leaves the table
+VahTang_89: raises $1.20 to $2.20
+Eredar5: folds 
+Rysiff: folds 
+AlexPinsk1: folds 
+Uncalled bet ($1.20) returned to VahTang_89
+VahTang_89 collected $2.50 from pot
+VahTang_89: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Rysiff (small blind) folded before Flop
+Seat 2: AlexPinsk1 (big blind) folded before Flop
+Seat 3: lukazs2 folded before Flop (didn't bet)
+Seat 4: app1e_j@ck folded before Flop (didn't bet)
+Seat 5: VahTang_89 collected ($2.50)
+Seat 6: Eredar5 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254397804039:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 14:07:37 WET [2025/01/16 9:07:37 ET]
+Table 'Devota III' 6-max Seat #1 is the button
+Seat 4: app1e_j@ck ($112.02 in chips) is sitting out
+Seat 5: VahTang_89 ($112.88 in chips) is sitting out
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($102.58 in chips) 
+Seat 6: Eredar5 ($111.30 in chips) 
+AlexPinsk1: posts small blind $0.50
+app1e_j@ck: is sitting out 
+VahTang_89: is sitting out 
+Eredar5: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+app1e_j@ck leaves the table
+AlexPinsk1: raises $2 to $3
+Eredar5: folds 
+Uncalled bet ($2) returned to AlexPinsk1
+AlexPinsk1 collected $2 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: app1e_j@ck
+Seat 5: VahTang_89
+Seat 1: Rysiff (button) folded before Flop (didn't bet)
+Seat 2: AlexPinsk1 (small blind) collected ($2)
+Seat 6: Eredar5 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254397805239:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 14:07:44 WET [2025/01/16 9:07:44 ET]
+Table 'Devota III' 6-max Seat #2 is the button
+Seat 5: VahTang_89 ($112.88 in chips) is sitting out
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: AlexPinsk1 ($103.58 in chips) 
+Seat 6: Eredar5 ($110.30 in chips) 
+Eredar5: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+Eredar5: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: VahTang_89
+Seat 1: Rysiff (big blind) collected ($1)
+Seat 2: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 6: Eredar5 (small blind) folded before Flop
+
+
+

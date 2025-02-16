@@ -1,0 +1,1485 @@
+﻿PokerStars Hand #254627410754:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:44:21 WET [2025/01/30 15:44:21 ET]
+Table 'Suleika' 6-max Seat #2 is the button
+Seat 1: IREQO ($50.63 in chips) 
+Seat 2: joaquin612 ($10 in chips) 
+Seat 3: Alinyr ($100 in chips) 
+Seat 4: TCK2 ($10 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+Alinyr: posts small blind $0.50
+TCK2: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+IREQO: folds 
+joaquin612: folds 
+ML51450 joins the table at seat #5 
+ML51450 is disconnected 
+Alinyr: raises $2 to $3
+TCK2: folds 
+Uncalled bet ($2) returned to Alinyr
+Alinyr collected $2 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 (button) folded before Flop (didn't bet)
+Seat 3: Alinyr (small blind) collected ($2)
+Seat 4: TCK2 (big blind) folded before Flop
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627418022:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:44:45 WET [2025/01/30 15:44:45 ET]
+Table 'Suleika' 6-max Seat #3 is the button
+Seat 1: IREQO ($50.63 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($101 in chips) 
+Seat 4: TCK2 ($9 in chips) 
+Seat 5: ML51450 ($32.61 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+TCK2: posts small blind $0.50
+ML51450: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+IREQO: folds 
+joaquin612: folds 
+Alinyr: raises $1.50 to $2.50
+TCK2: folds 
+ML51450: calls $1.50
+*** FLOP *** [6s Ts 2c]
+ML51450: checks 
+Alinyr: checks 
+*** TURN *** [6s Ts 2c] [3h]
+ML51450: checks 
+Alinyr: checks 
+*** RIVER *** [6s Ts 2c 3h] [9c]
+ML51450: bets $5.22
+Alinyr: folds 
+Uncalled bet ($5.22) returned to ML51450
+ML51450 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [6s Ts 2c 3h 9c]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Alinyr (button) folded on the River
+Seat 4: TCK2 (small blind) folded before Flop
+Seat 5: ML51450 (big blind) collected ($5.22)
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627440436:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:46:01 WET [2025/01/30 15:46:01 ET]
+Table 'Suleika' 6-max Seat #4 is the button
+Seat 1: IREQO ($50.63 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($100 in chips) 
+Seat 4: TCK2 ($8.50 in chips) 
+Seat 5: ML51450 ($35.33 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+ML51450: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+IREQO: folds 
+joaquin612: raises $1.50 to $2.50
+Alinyr: raises $5.50 to $8
+TCK2: folds 
+ML51450: folds 
+YeeesMan: folds 
+joaquin612: folds 
+Uncalled bet ($5.50) returned to Alinyr
+Alinyr collected $6.50 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 folded before Flop
+Seat 3: Alinyr collected ($6.50)
+Seat 4: TCK2 (button) folded before Flop (didn't bet)
+Seat 5: ML51450 (small blind) folded before Flop
+Seat 6: YeeesMan (big blind) folded before Flop
+
+
+
+PokerStars Hand #254627448274:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:46:26 WET [2025/01/30 15:46:26 ET]
+Table 'Suleika' 6-max Seat #5 is the button
+Seat 1: IREQO ($50.63 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($104 in chips) 
+Seat 4: TCK2 ($8.50 in chips) 
+Seat 5: ML51450 ($34.83 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+YeeesMan: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+joaquin612: folds 
+Alinyr: folds 
+TCK2: raises $7.50 to $8.50 and is all-in
+ML51450: calls $8.50
+YeeesMan: folds 
+IREQO: folds 
+*** FLOP *** [4c 4h As]
+*** TURN *** [4c 4h As] [Qs]
+*** RIVER *** [4c 4h As Qs] [8d]
+*** SHOW DOWN ***
+TCK2: shows [Js Ad] (two pair, Aces and Fours)
+ML51450: shows [Ac 2c] (two pair, Aces and Fours)
+TCK2 collected $8.79 from pot
+ML51450 collected $8.79 from pot
+*** SUMMARY ***
+Total pot $18.50 | Rake $0.92 
+Board [4c 4h As Qs 8d]
+Seat 1: IREQO (big blind) folded before Flop
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: TCK2 showed [Js Ad] and won ($8.79) with two pair, Aces and Fours
+Seat 5: ML51450 (button) showed [Ac 2c] and won ($8.79) with two pair, Aces and Fours
+Seat 6: YeeesMan (small blind) folded before Flop
+
+
+
+PokerStars Hand #254627461322:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:47:10 WET [2025/01/30 15:47:10 ET]
+Table 'Suleika' 6-max Seat #6 is the button
+Seat 1: IREQO ($49.63 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($104 in chips) 
+Seat 4: TCK2 ($8.79 in chips) 
+Seat 5: ML51450 ($35.12 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+IREQO: posts small blind $0.50
+joaquin612: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: folds 
+TCK2: folds 
+ML51450: folds 
+YeeesMan: raises $1.50 to $2.50
+IREQO: folds 
+joaquin612: calls $1.50
+*** FLOP *** [6c 2s 3h]
+joaquin612: checks 
+YeeesMan: checks 
+*** TURN *** [6c 2s 3h] [Tc]
+joaquin612: checks 
+YeeesMan: checks 
+*** RIVER *** [6c 2s 3h Tc] [5c]
+joaquin612: checks 
+YeeesMan: checks 
+*** SHOW DOWN ***
+joaquin612: shows [6s 9s] (a pair of Sixes)
+YeeesMan: mucks hand 
+joaquin612 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [6c 2s 3h Tc 5c]
+Seat 1: IREQO (small blind) folded before Flop
+Seat 2: joaquin612 (big blind) showed [6s 9s] and won ($5.22) with a pair of Sixes
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: TCK2 folded before Flop (didn't bet)
+Seat 5: ML51450 folded before Flop (didn't bet)
+Seat 6: YeeesMan (button) mucked
+
+
+
+PokerStars Hand #254627477017:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:48:02 WET [2025/01/30 15:48:02 ET]
+Table 'Suleika' 6-max Seat #1 is the button
+Seat 1: IREQO ($49.13 in chips) 
+Seat 2: joaquin612 ($102.72 in chips) 
+Seat 3: Alinyr ($104 in chips) 
+Seat 4: TCK2 ($8.79 in chips) 
+Seat 5: ML51450 ($35.12 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+joaquin612: posts small blind $0.50
+Alinyr: posts big blind $1
+*** HOLE CARDS ***
+TCK2: folds 
+TCK2 leaves the table
+ML51450: calls $1
+YeeesMan: folds 
+IREQO: folds 
+joaquin612: folds 
+Alinyr: checks 
+*** FLOP *** [Tc Jh 2h]
+Alinyr: checks 
+ML51450: bets $1.19
+Alinyr: calls $1.19
+*** TURN *** [Tc Jh 2h] [Td]
+Alinyr: checks 
+ML51450: bets $2.32
+socito joins the table at seat #4 
+Alinyr: calls $2.32
+*** RIVER *** [Tc Jh 2h Td] [8d]
+Alinyr: bets $6.78
+ML51450: raises $22.60 to $29.38
+Alinyr: raises $22.60 to $51.98
+ML51450: calls $1.23 and is all-in
+Uncalled bet ($21.37) returned to Alinyr
+*** SHOW DOWN ***
+Alinyr: shows [9d Qh] (a straight, Eight to Queen)
+ML51450: shows [8s 8c] (a full house, Eights full of Tens)
+ML51450 collected $68.24 from pot
+*** SUMMARY ***
+Total pot $70.74 | Rake $2.50 
+Board [Tc Jh 2h Td 8d]
+Seat 1: IREQO (button) folded before Flop (didn't bet)
+Seat 2: joaquin612 (small blind) folded before Flop
+Seat 3: Alinyr (big blind) showed [9d Qh] and lost with a straight, Eight to Queen
+Seat 4: TCK2 folded before Flop (didn't bet)
+Seat 5: ML51450 showed [8s 8c] and won ($68.24) with a full house, Eights full of Tens
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627500660:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:49:22 WET [2025/01/30 15:49:22 ET]
+Table 'Suleika' 6-max Seat #2 is the button
+Seat 1: IREQO ($49.13 in chips) 
+Seat 2: joaquin612 ($102.22 in chips) 
+Seat 3: Alinyr ($100 in chips) 
+Seat 4: socito ($100 in chips) 
+Seat 5: ML51450 ($68.24 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+Alinyr: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+ML51450: folds 
+YeeesMan: folds 
+IREQO: raises $1.50 to $2.50
+joaquin612: raises $4 to $6.50
+Alinyr: folds 
+socito: folds 
+IREQO: folds 
+Uncalled bet ($4) returned to joaquin612
+joaquin612 collected $6.50 from pot
+joaquin612: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: IREQO folded before Flop
+Seat 2: joaquin612 (button) collected ($6.50)
+Seat 3: Alinyr (small blind) folded before Flop
+Seat 4: socito (big blind) folded before Flop
+Seat 5: ML51450 folded before Flop (didn't bet)
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627511744:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:49:59 WET [2025/01/30 15:49:59 ET]
+Table 'Suleika' 6-max Seat #3 is the button
+Seat 1: IREQO ($46.63 in chips) 
+Seat 2: joaquin612 ($106.22 in chips) 
+Seat 3: Alinyr ($100 in chips) 
+Seat 4: socito ($100 in chips) 
+Seat 5: ML51450 ($68.24 in chips) 
+Seat 6: YeeesMan ($100 in chips) 
+socito: posts small blind $0.50
+ML51450: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+IREQO: folds 
+joaquin612: folds 
+Alinyr: raises $1.50 to $2.50
+socito: folds 
+ML51450: calls $1.50
+*** FLOP *** [3s 7c Ad]
+ML51450: checks 
+Alinyr: bets $1.72
+ML51450: folds 
+Uncalled bet ($1.72) returned to Alinyr
+Alinyr collected $5.22 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3s 7c Ad]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Alinyr (button) collected ($5.22)
+Seat 4: socito (small blind) folded before Flop
+Seat 5: ML51450 (big blind) folded on the Flop
+Seat 6: YeeesMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627523239:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:50:37 WET [2025/01/30 15:50:37 ET]
+Table 'Suleika' 6-max Seat #4 is the button
+Seat 6: YeeesMan ($100 in chips) is sitting out
+Seat 1: IREQO ($86.63 in chips) 
+Seat 2: joaquin612 ($106.22 in chips) 
+Seat 3: Alinyr ($102.72 in chips) 
+Seat 4: socito ($100 in chips) 
+Seat 5: ML51450 ($65.74 in chips) 
+ML51450: posts small blind $0.50
+YeeesMan: is sitting out 
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+joaquin612: folds 
+Alinyr: raises $1.28 to $2.28
+socito: folds 
+ML51450: folds 
+IREQO: folds 
+Uncalled bet ($1.28) returned to Alinyr
+Alinyr collected $2.50 from pot
+Alinyr: doesn't show hand 
+YeeesMan leaves the table
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: YeeesMan
+Seat 1: IREQO (big blind) folded before Flop
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Alinyr collected ($2.50)
+Seat 4: socito (button) folded before Flop (didn't bet)
+Seat 5: ML51450 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254627527941:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:50:53 WET [2025/01/30 15:50:53 ET]
+Table 'Suleika' 6-max Seat #5 is the button
+Seat 1: IREQO ($99 in chips) 
+Seat 2: joaquin612 ($106.22 in chips) 
+Seat 3: Alinyr ($104.22 in chips) 
+Seat 4: socito ($100 in chips) 
+Seat 5: ML51450 ($65.24 in chips) 
+IREQO: posts small blind $0.50
+joaquin612: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: folds 
+socito: raises $1.50 to $2.50
+ML51450: folds 
+IREQO: folds 
+joaquin612: folds 
+Uncalled bet ($1.50) returned to socito
+socito collected $2.50 from pot
+XneferX joins the table at seat #6 
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: IREQO (small blind) folded before Flop
+Seat 2: joaquin612 (big blind) folded before Flop
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: socito collected ($2.50)
+Seat 5: ML51450 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627533467:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:51:12 WET [2025/01/30 15:51:12 ET]
+Table 'Suleika' 6-max Seat #1 is the button
+Seat 6: XneferX ($100 in chips) is sitting out
+Seat 1: IREQO ($98.50 in chips) 
+Seat 2: joaquin612 ($105.22 in chips) 
+Seat 3: Alinyr ($104.22 in chips) 
+Seat 4: socito ($101.50 in chips) 
+Seat 5: ML51450 ($65.24 in chips) 
+joaquin612: posts small blind $0.50
+Alinyr: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+socito: folds 
+ML51450: calls $1
+IREQO: folds 
+joaquin612: folds 
+Alinyr: checks 
+*** FLOP *** [Ks 8d 2h]
+Alinyr: checks 
+ML51450: checks 
+*** TURN *** [Ks 8d 2h] [9c]
+Alinyr: bets $1.21
+ML51450: calls $1.21
+*** RIVER *** [Ks 8d 2h 9c] [Js]
+Alinyr: checks 
+ML51450: bets $4.67
+Alinyr: calls $4.67
+*** SHOW DOWN ***
+ML51450: shows [Ac Kd] (a pair of Kings)
+Alinyr: shows [2d 8s] (two pair, Eights and Deuces)
+Alinyr collected $13.55 from pot
+*** SUMMARY ***
+Total pot $14.26 | Rake $0.71 
+Board [Ks 8d 2h 9c Js]
+Seat 6: XneferX
+Seat 1: IREQO (button) folded before Flop (didn't bet)
+Seat 2: joaquin612 (small blind) folded before Flop
+Seat 3: Alinyr (big blind) showed [2d 8s] and won ($13.55) with two pair, Eights and Deuces
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: ML51450 showed [Ac Kd] and lost with a pair of Kings
+
+
+
+PokerStars Hand #254627544872:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:51:50 WET [2025/01/30 15:51:50 ET]
+Table 'Suleika' 6-max Seat #2 is the button
+Seat 6: XneferX ($100 in chips) is sitting out
+Seat 1: IREQO ($98.50 in chips) 
+Seat 2: joaquin612 ($104.72 in chips) 
+Seat 3: Alinyr ($110.89 in chips) 
+Seat 4: socito ($101.50 in chips) 
+Seat 5: ML51450 ($58.36 in chips) 
+Alinyr: posts small blind $0.50
+socito: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+ML51450: folds 
+IREQO: folds 
+joaquin612: folds 
+Alinyr: raises $2 to $3
+socito: folds 
+Uncalled bet ($2) returned to Alinyr
+Alinyr collected $2 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: XneferX
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 (button) folded before Flop (didn't bet)
+Seat 3: Alinyr (small blind) collected ($2)
+Seat 4: socito (big blind) folded before Flop
+Seat 5: ML51450 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627552236:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:52:15 WET [2025/01/30 15:52:15 ET]
+Table 'Suleika' 6-max Seat #3 is the button
+Seat 6: XneferX ($100 in chips) is sitting out
+Seat 1: IREQO ($98.50 in chips) 
+Seat 2: joaquin612 ($104.72 in chips) 
+Seat 3: Alinyr ($111.89 in chips) 
+Seat 4: socito ($100.50 in chips) 
+Seat 5: ML51450 ($58.36 in chips) 
+socito: posts small blind $0.50
+ML51450: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+IREQO: folds 
+joaquin612: folds 
+Alinyr: raises $1.50 to $2.50
+socito: folds 
+ML51450: calls $1.50
+*** FLOP *** [3h 9c 4d]
+ML51450: checks 
+Alinyr: bets $1.72
+ML51450: folds 
+Uncalled bet ($1.72) returned to Alinyr
+Alinyr collected $5.22 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3h 9c 4d]
+Seat 6: XneferX
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Alinyr (button) collected ($5.22)
+Seat 4: socito (small blind) folded before Flop
+Seat 5: ML51450 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254627562063:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:52:48 WET [2025/01/30 15:52:48 ET]
+Table 'Suleika' 6-max Seat #4 is the button
+Seat 1: IREQO ($98.50 in chips) 
+Seat 2: joaquin612 ($104.72 in chips) 
+Seat 3: Alinyr ($114.61 in chips) 
+Seat 4: socito ($100 in chips) 
+Seat 5: ML51450 ($55.86 in chips) 
+Seat 6: XneferX ($100 in chips) 
+ML51450: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+IREQO: folds 
+joaquin612: raises $2 to $3
+Alinyr: folds 
+socito: folds 
+ML51450: calls $2.50
+XneferX: folds 
+*** FLOP *** [Ts 2d 8c]
+ML51450: checks 
+joaquin612: bets $4.99
+ML51450: calls $4.99
+*** TURN *** [Ts 2d 8c] [9c]
+ML51450: checks 
+joaquin612: bets $8.07
+ML51450: folds 
+Uncalled bet ($8.07) returned to joaquin612
+joaquin612 collected $16.13 from pot
+joaquin612: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.98 | Rake $0.85 
+Board [Ts 2d 8c 9c]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 collected ($16.13)
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: socito (button) folded before Flop (didn't bet)
+Seat 5: ML51450 (small blind) folded on the Turn
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254627578776:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:53:44 WET [2025/01/30 15:53:44 ET]
+Table 'Suleika' 6-max Seat #5 is the button
+Seat 1: IREQO ($98.50 in chips) 
+Seat 2: joaquin612 ($112.86 in chips) 
+Seat 3: Alinyr ($114.61 in chips) 
+Seat 4: socito ($100 in chips) 
+Seat 5: ML51450 ($47.87 in chips) 
+Seat 6: XneferX ($100 in chips) 
+XneferX: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+joaquin612: folds 
+Alinyr: folds 
+socito: folds 
+ML51450: calls $1
+XneferX: folds 
+IREQO: checks 
+*** FLOP *** [As 8d 8c]
+IREQO: checks 
+ML51450: checks 
+*** TURN *** [As 8d 8c] [Qc]
+IREQO: checks 
+ML51450: bets $1.19
+IREQO: calls $1.19
+*** RIVER *** [As 8d 8c Qc] [3s]
+IREQO: checks 
+ML51450: checks 
+*** SHOW DOWN ***
+IREQO: shows [Qh 4d] (two pair, Queens and Eights)
+ML51450: mucks hand 
+IREQO collected $4.64 from pot
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.24 
+Board [As 8d 8c Qc 3s]
+Seat 1: IREQO (big blind) showed [Qh 4d] and won ($4.64) with two pair, Queens and Eights
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: ML51450 (button) mucked
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254627603553:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:55:08 WET [2025/01/30 15:55:08 ET]
+Table 'Suleika' 6-max Seat #6 is the button
+Seat 1: IREQO ($100.95 in chips) 
+Seat 2: joaquin612 ($112.86 in chips) 
+Seat 3: Alinyr ($114.61 in chips) 
+Seat 4: socito ($100 in chips) 
+Seat 5: ML51450 ($45.68 in chips) 
+Seat 6: XneferX ($100 in chips) 
+IREQO: posts small blind $0.50
+joaquin612: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: folds 
+socito: folds 
+ML51450: folds 
+XneferX: folds 
+IREQO: raises $1.50 to $2.50
+joaquin612: raises $6.50 to $9
+IREQO: raises $14 to $23
+joaquin612: folds 
+Uncalled bet ($14) returned to IREQO
+IREQO collected $18 from pot
+IREQO: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0 
+Seat 1: IREQO (small blind) collected ($18)
+Seat 2: joaquin612 (big blind) folded before Flop
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: ML51450 folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627613769:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:55:54 WET [2025/01/30 15:55:54 ET]
+Table 'Suleika' 6-max Seat #1 is the button
+Seat 1: IREQO ($109.95 in chips) 
+Seat 2: joaquin612 ($103.86 in chips) 
+Seat 3: Alinyr ($114.61 in chips) 
+Seat 4: socito ($100 in chips) 
+Seat 5: ML51450 ($45.68 in chips) 
+Seat 6: XneferX ($100 in chips) 
+joaquin612: posts small blind $0.50
+Alinyr: posts big blind $1
+*** HOLE CARDS ***
+socito: raises $1.50 to $2.50
+ML51450: calls $2.50
+XneferX: folds 
+IREQO: folds 
+joaquin612: folds 
+Alinyr: folds 
+*** FLOP *** [7s Qs Kc]
+socito: checks 
+ML51450: checks 
+*** TURN *** [7s Qs Kc] [3d]
+socito: checks 
+ML51450: bets $3.09
+socito: calls $3.09
+*** RIVER *** [7s Qs Kc 3d] [5c]
+socito: checks 
+ML51450: bets $6.03
+socito: calls $6.03
+*** SHOW DOWN ***
+ML51450: shows [Qh As] (a pair of Queens)
+socito: mucks hand 
+ML51450 collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24.74 | Rake $1.24 
+Board [7s Qs Kc 3d 5c]
+Seat 1: IREQO (button) folded before Flop (didn't bet)
+Seat 2: joaquin612 (small blind) folded before Flop
+Seat 3: Alinyr (big blind) folded before Flop
+Seat 4: socito mucked
+Seat 5: ML51450 showed [Qh As] and won ($23.50) with a pair of Queens
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627628603:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:57:06 WET [2025/01/30 15:57:06 ET]
+Table 'Suleika' 6-max Seat #2 is the button
+Seat 1: IREQO ($109.95 in chips) 
+Seat 2: joaquin612 ($103.36 in chips) 
+Seat 3: Alinyr ($113.61 in chips) 
+Seat 4: socito ($100 in chips) 
+Seat 5: ML51450 ($57.56 in chips) 
+Seat 6: XneferX ($100 in chips) 
+Alinyr: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+ML51450: folds 
+XneferX: folds 
+IREQO: raises $1.50 to $2.50
+joaquin612: folds 
+Alinyr: folds 
+socito: raises $9 to $11.50
+IREQO: folds 
+Uncalled bet ($9) returned to socito
+socito collected $5.50 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: IREQO folded before Flop
+Seat 2: joaquin612 (button) folded before Flop (didn't bet)
+Seat 3: Alinyr (small blind) folded before Flop
+Seat 4: socito (big blind) collected ($5.50)
+Seat 5: ML51450 folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627635047:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:57:36 WET [2025/01/30 15:57:36 ET]
+Table 'Suleika' 6-max Seat #3 is the button
+Seat 1: IREQO ($107.45 in chips) 
+Seat 2: joaquin612 ($103.36 in chips) 
+Seat 3: Alinyr ($113.11 in chips) 
+Seat 4: socito ($103 in chips) 
+Seat 5: ML51450 ($57.56 in chips) 
+Seat 6: XneferX ($100 in chips) 
+socito: posts small blind $0.50
+ML51450: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+IREQO: folds 
+joaquin612: folds 
+Alinyr: folds 
+socito: raises $2 to $3
+ML51450: calls $2
+*** FLOP *** [Th 7h 7s]
+socito: bets $1.43
+ML51450: calls $1.43
+*** TURN *** [Th 7h 7s] [9c]
+socito: checks 
+ML51450: checks 
+*** RIVER *** [Th 7h 7s 9c] [Qc]
+socito: bets $2.11
+ML51450: raises $7.89 to $10
+socito: folds 
+Uncalled bet ($7.89) returned to ML51450
+ML51450 collected $12.43 from pot
+*** SUMMARY ***
+Total pot $13.08 | Rake $0.65 
+Board [Th 7h 7s 9c Qc]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Alinyr (button) folded before Flop (didn't bet)
+Seat 4: socito (small blind) folded on the River
+Seat 5: ML51450 (big blind) collected ($12.43)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627650223:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:58:49 WET [2025/01/30 15:58:49 ET]
+Table 'Suleika' 6-max Seat #4 is the button
+Seat 1: IREQO ($107.45 in chips) 
+Seat 2: joaquin612 ($103.36 in chips) 
+Seat 3: Alinyr ($113.11 in chips) 
+Seat 4: socito ($100 in chips) 
+Seat 5: ML51450 ($63.45 in chips) 
+Seat 6: XneferX ($100 in chips) 
+ML51450: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+IREQO: folds 
+joaquin612: raises $1.50 to $2.50
+Alinyr: folds 
+socito: folds 
+ML51450: folds 
+XneferX: calls $1.50
+*** FLOP *** [8s 5s Qs]
+XneferX: checks 
+joaquin612: bets $1
+XneferX: calls $1
+*** TURN *** [8s 5s Qs] [5c]
+XneferX: checks 
+joaquin612: checks 
+*** RIVER *** [8s 5s Qs 5c] [Ks]
+XneferX: checks 
+joaquin612: bets $5.34
+XneferX: calls $5.34
+*** SHOW DOWN ***
+joaquin612: shows [4d 4h] (two pair, Fives and Fours)
+XneferX: shows [Js Ah] (a flush, King high)
+XneferX collected $17.27 from pot
+*** SUMMARY ***
+Total pot $18.18 | Rake $0.91 
+Board [8s 5s Qs 5c Ks]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 showed [4d 4h] and lost with two pair, Fives and Fours
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: socito (button) folded before Flop (didn't bet)
+Seat 5: ML51450 (small blind) folded before Flop
+Seat 6: XneferX (big blind) showed [Js Ah] and won ($17.27) with a flush, King high
+
+
+
+PokerStars Hand #254627669699:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:00:20 WET [2025/01/30 16:00:20 ET]
+Table 'Suleika' 6-max Seat #5 is the button
+Seat 1: IREQO ($107.45 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($113.11 in chips) 
+Seat 4: socito ($100 in chips) 
+Seat 5: ML51450 ($62.95 in chips) 
+Seat 6: XneferX ($108.43 in chips) 
+XneferX: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+joaquin612: folds 
+Alinyr: raises $1.05 to $2.05
+socito: raises $3.95 to $6
+ML51450: folds 
+XneferX: folds 
+IREQO: folds 
+Alinyr: folds 
+Uncalled bet ($3.95) returned to socito
+socito collected $5.60 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0 
+Seat 1: IREQO (big blind) folded before Flop
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Alinyr folded before Flop
+Seat 4: socito collected ($5.60)
+Seat 5: ML51450 (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254627676154:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:00:49 WET [2025/01/30 16:00:49 ET]
+Table 'Suleika' 6-max Seat #6 is the button
+Seat 1: IREQO ($106.45 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($111.06 in chips) 
+Seat 4: socito ($103.55 in chips) 
+Seat 5: ML51450 ($62.95 in chips) 
+Seat 6: XneferX ($107.93 in chips) 
+IREQO: posts small blind $0.50
+joaquin612: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: folds 
+socito: folds 
+ML51450: folds 
+XneferX: raises $1.77 to $2.77
+IREQO: raises $9.23 to $12
+joaquin612: folds 
+XneferX: folds 
+Uncalled bet ($9.23) returned to IREQO
+IREQO collected $6.54 from pot
+IREQO: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.54 | Rake $0 
+Seat 1: IREQO (small blind) collected ($6.54)
+Seat 2: joaquin612 (big blind) folded before Flop
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: ML51450 folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop
+
+
+
+PokerStars Hand #254627685493:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:01:26 WET [2025/01/30 16:01:26 ET]
+Table 'Suleika' 6-max Seat #1 is the button
+Seat 1: IREQO ($110.22 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($111.06 in chips) 
+Seat 4: socito ($103.55 in chips) 
+Seat 5: ML51450 ($62.95 in chips) 
+Seat 6: XneferX ($105.16 in chips) 
+joaquin612: posts small blind $0.50
+Alinyr: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+ML51450: calls $1
+XneferX: folds 
+IREQO: folds 
+joaquin612: calls $0.50
+Alinyr: checks 
+*** FLOP *** [6d 4d Kd]
+joaquin612: checks 
+Alinyr: checks 
+ML51450: checks 
+*** TURN *** [6d 4d Kd] [2d]
+joaquin612: checks 
+Alinyr: checks 
+ML51450: checks 
+*** RIVER *** [6d 4d Kd 2d] [3d]
+joaquin612: checks 
+Alinyr: checks 
+ML51450: checks 
+*** SHOW DOWN ***
+joaquin612: shows [5h 7d] (a flush, King high)
+Alinyr: shows [Th 5d] (a straight flush, Deuce to Six)
+ML51450: mucks hand 
+Alinyr collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [6d 4d Kd 2d 3d]
+Seat 1: IREQO (button) folded before Flop (didn't bet)
+Seat 2: joaquin612 (small blind) showed [5h 7d] and lost with a flush, King high
+Seat 3: Alinyr (big blind) showed [Th 5d] and won ($2.85) with a straight flush, Deuce to Six
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: ML51450 mucked
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627702977:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:02:29 WET [2025/01/30 16:02:29 ET]
+Table 'Suleika' 6-max Seat #2 is the button
+Seat 1: IREQO ($110.22 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($112.91 in chips) 
+Seat 4: socito ($103.55 in chips) 
+Seat 5: ML51450 ($61.95 in chips) 
+Seat 6: XneferX ($105.16 in chips) 
+Alinyr: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+ML51450: calls $1
+XneferX: folds 
+IREQO: folds 
+joaquin612: folds 
+Alinyr: calls $0.50
+socito: checks 
+*** FLOP *** [Qc Qd Js]
+Alinyr: checks 
+socito: checks 
+ML51450: checks 
+*** TURN *** [Qc Qd Js] [Ts]
+Alinyr: checks 
+socito: checks 
+ML51450: checks 
+*** RIVER *** [Qc Qd Js Ts] [3h]
+Alinyr: bets $1.45
+socito: folds 
+ML51450: folds 
+Uncalled bet ($1.45) returned to Alinyr
+Alinyr collected $2.85 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Qc Qd Js Ts 3h]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 (button) folded before Flop (didn't bet)
+Seat 3: Alinyr (small blind) collected ($2.85)
+Seat 4: socito (big blind) folded on the River
+Seat 5: ML51450 folded on the River
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627721444:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:03:31 WET [2025/01/30 16:03:31 ET]
+Table 'Suleika' 6-max Seat #3 is the button
+Seat 1: IREQO ($110.22 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($114.76 in chips) 
+Seat 4: socito ($102.55 in chips) 
+Seat 5: ML51450 ($60.95 in chips) 
+Seat 6: XneferX ($105.16 in chips) 
+socito: posts small blind $0.50
+ML51450: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+IREQO: folds 
+joaquin612: folds 
+Alinyr: folds 
+socito: raises $2 to $3
+ML51450: calls $2
+*** FLOP *** [Qh 7h 4c]
+socito: bets $1.88
+ML51450: folds 
+Uncalled bet ($1.88) returned to socito
+socito collected $5.70 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Qh 7h 4c]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Alinyr (button) folded before Flop (didn't bet)
+Seat 4: socito (small blind) collected ($5.70)
+Seat 5: ML51450 (big blind) folded on the Flop
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627729688:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:03:59 WET [2025/01/30 16:03:59 ET]
+Table 'Suleika' 6-max Seat #4 is the button
+Seat 1: IREQO ($110.22 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($114.76 in chips) 
+Seat 4: socito ($105.25 in chips) 
+Seat 5: ML51450 ($57.95 in chips) 
+Seat 6: XneferX ($105.16 in chips) 
+ML51450: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+IREQO: folds 
+joaquin612: folds 
+Alinyr: folds 
+socito: folds 
+ML51450: calls $0.50
+XneferX: raises $3 to $4
+ML51450: calls $3
+*** FLOP *** [Kc 5h Tc]
+ML51450: checks 
+XneferX: bets $3.88
+ML51450: calls $3.88
+*** TURN *** [Kc 5h Tc] [9h]
+ML51450: checks 
+XneferX: checks 
+*** RIVER *** [Kc 5h Tc 9h] [3d]
+ML51450: bets $7.49
+XneferX: calls $7.49
+*** SHOW DOWN ***
+ML51450: shows [9c 2c] (a pair of Nines)
+XneferX: shows [Qd Qs] (a pair of Queens)
+XneferX collected $29.20 from pot
+*** SUMMARY ***
+Total pot $30.74 | Rake $1.54 
+Board [Kc 5h Tc 9h 3d]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: socito (button) folded before Flop (didn't bet)
+Seat 5: ML51450 (small blind) showed [9c 2c] and lost with a pair of Nines
+Seat 6: XneferX (big blind) showed [Qd Qs] and won ($29.20) with a pair of Queens
+
+
+
+PokerStars Hand #254627750919:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:05:09 WET [2025/01/30 16:05:09 ET]
+Table 'Suleika' 6-max Seat #5 is the button
+Seat 1: IREQO ($110.22 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($114.76 in chips) 
+Seat 4: socito ($105.25 in chips) 
+Seat 5: ML51450 ($42.58 in chips) 
+Seat 6: XneferX ($118.99 in chips) 
+XneferX: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+joaquin612: folds 
+Alinyr: folds 
+socito: folds 
+ML51450: calls $1
+XneferX: folds 
+IREQO: checks 
+*** FLOP *** [Ad 5c 8h]
+IREQO: checks 
+ML51450: checks 
+*** TURN *** [Ad 5c 8h] [Js]
+IREQO: bets $2.38
+ML51450: folds 
+Uncalled bet ($2.38) returned to IREQO
+IREQO collected $2.38 from pot
+IREQO: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Ad 5c 8h Js]
+Seat 1: IREQO (big blind) collected ($2.38)
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: ML51450 (button) folded on the Turn
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254627767072:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:06:03 WET [2025/01/30 16:06:03 ET]
+Table 'Suleika' 6-max Seat #6 is the button
+Seat 1: IREQO ($111.60 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($114.76 in chips) 
+Seat 4: socito ($105.25 in chips) 
+Seat 5: ML51450 ($41.58 in chips) 
+Seat 6: XneferX ($118.49 in chips) 
+IREQO: posts small blind $0.50
+joaquin612: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: raises $1.05 to $2.05
+socito: folds 
+ML51450: calls $2.05
+XneferX: folds 
+IREQO: folds 
+joaquin612: folds 
+*** FLOP *** [7d Ac Th]
+Alinyr: checks 
+ML51450: checks 
+*** TURN *** [7d Ac Th] [Kd]
+Alinyr: bets $2.71
+ML51450: folds 
+Uncalled bet ($2.71) returned to Alinyr
+Alinyr collected $5.32 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.28 
+Board [7d Ac Th Kd]
+Seat 1: IREQO (small blind) folded before Flop
+Seat 2: joaquin612 (big blind) folded before Flop
+Seat 3: Alinyr collected ($5.32)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: ML51450 folded on the Turn
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627780204:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:06:47 WET [2025/01/30 16:06:47 ET]
+Table 'Suleika' 6-max Seat #1 is the button
+Seat 1: IREQO ($111.10 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($118.03 in chips) 
+Seat 4: socito ($105.25 in chips) 
+Seat 5: ML51450 ($39.53 in chips) 
+Seat 6: XneferX ($118.49 in chips) 
+joaquin612: posts small blind $0.50
+Alinyr: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+ML51450: calls $1
+XneferX: raises $3 to $4
+IREQO: folds 
+joaquin612: folds 
+Alinyr: folds 
+ML51450: calls $3
+*** FLOP *** [4s Ah 6d]
+ML51450: checks 
+XneferX: bets $3.07
+ML51450: calls $3.07
+*** TURN *** [4s Ah 6d] [4c]
+ML51450: checks 
+XneferX: checks 
+*** RIVER *** [4s Ah 6d 4c] [Tc]
+ML51450: bets $7.43
+XneferX: calls $7.43
+*** SHOW DOWN ***
+ML51450: shows [Qc 6c] (two pair, Sixes and Fours)
+XneferX: shows [Ad Jc] (two pair, Aces and Fours)
+XneferX collected $28.98 from pot
+*** SUMMARY ***
+Total pot $30.50 | Rake $1.52 
+Board [4s Ah 6d 4c Tc]
+Seat 1: IREQO (button) folded before Flop (didn't bet)
+Seat 2: joaquin612 (small blind) folded before Flop
+Seat 3: Alinyr (big blind) folded before Flop
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: ML51450 showed [Qc 6c] and lost with two pair, Sixes and Fours
+Seat 6: XneferX showed [Ad Jc] and won ($28.98) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #254627796425:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:07:41 WET [2025/01/30 16:07:41 ET]
+Table 'Suleika' 6-max Seat #2 is the button
+Seat 1: IREQO ($111.10 in chips) 
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Alinyr ($117.03 in chips) 
+Seat 4: socito ($105.25 in chips) 
+Seat 5: ML51450 ($25.03 in chips) 
+Seat 6: XneferX ($132.97 in chips) 
+Alinyr: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+ML51450: calls $1
+XneferX: folds 
+IREQO: folds 
+joaquin612: folds 
+Alinyr: folds 
+socito: checks 
+*** FLOP *** [2c 4s 9c]
+socito: checks 
+ML51450: bets $1.19
+socito: folds 
+Uncalled bet ($1.19) returned to ML51450
+ML51450 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [2c 4s 9c]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 (button) folded before Flop (didn't bet)
+Seat 3: Alinyr (small blind) folded before Flop
+Seat 4: socito (big blind) folded on the Flop
+Seat 5: ML51450 collected ($2.38)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627955193:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:16:23 WET [2025/01/30 16:16:23 ET]
+Table 'Suleika' 6-max Seat #1 is the button
+Seat 1: IREQO ($118.60 in chips) 
+Seat 2: joaquin612 ($111.50 in chips) 
+Seat 3: Alinyr ($111.30 in chips) 
+Seat 4: socito ($100 in chips) 
+Seat 5: ML51450 ($30.09 in chips) 
+Seat 6: XneferX ($129.97 in chips) 
+joaquin612: posts small blind $0.50
+Alinyr: posts big blind $1
+*** HOLE CARDS ***
+socito: raises $1.50 to $2.50
+ML51450: calls $2.50
+XneferX: folds 
+IREQO: folds 
+joaquin612: folds 
+Alinyr: folds 
+*** FLOP *** [5d Ad 9s]
+socito: checks 
+ML51450: checks 
+*** TURN *** [5d Ad 9s] [6c]
+socito: bets $2.04
+ML51450: calls $2.04
+*** RIVER *** [5d Ad 9s 6c] [As]
+socito: bets $6.63
+ML51450: folds 
+Uncalled bet ($6.63) returned to socito
+socito collected $10.05 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.58 | Rake $0.53 
+Board [5d Ad 9s 6c As]
+Seat 1: IREQO (button) folded before Flop (didn't bet)
+Seat 2: joaquin612 (small blind) folded before Flop
+Seat 3: Alinyr (big blind) folded before Flop
+Seat 4: socito collected ($10.05)
+Seat 5: ML51450 folded on the River
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627967216:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:17:02 WET [2025/01/30 16:17:02 ET]
+Table 'Suleika' 6-max Seat #2 is the button
+Seat 1: IREQO ($118.60 in chips) 
+Seat 2: joaquin612 ($111 in chips) 
+Seat 3: Alinyr ($110.30 in chips) 
+Seat 4: socito ($105.51 in chips) 
+Seat 5: ML51450 ($25.55 in chips) 
+Seat 6: XneferX ($129.97 in chips) 
+Alinyr: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+ML51450: folds 
+XneferX: folds 
+IREQO: folds 
+joaquin612: folds 
+Alinyr: raises $2 to $3
+socito: calls $2
+*** FLOP *** [Ks 4c 2h]
+Alinyr: bets $1.43
+socito: raises $6.42 to $7.85
+Alinyr: folds 
+Uncalled bet ($6.42) returned to socito
+socito collected $8.42 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.86 | Rake $0.44 
+Board [Ks 4c 2h]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 (button) folded before Flop (didn't bet)
+Seat 3: Alinyr (small blind) folded on the Flop
+Seat 4: socito (big blind) collected ($8.42)
+Seat 5: ML51450 folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627987677:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:18:08 WET [2025/01/30 16:18:08 ET]
+Table 'Suleika' 6-max Seat #3 is the button
+Seat 1: IREQO ($118.60 in chips) 
+Seat 2: joaquin612 ($111 in chips) 
+Seat 3: Alinyr ($105.87 in chips) 
+Seat 4: socito ($109.50 in chips) 
+Seat 5: ML51450 ($25.55 in chips) 
+Seat 6: XneferX ($129.97 in chips) 
+socito: posts small blind $0.50
+ML51450: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+IREQO: folds 
+joaquin612: raises $1.50 to $2.50
+Alinyr: folds 
+socito: folds 
+ML51450: calls $1.50
+*** FLOP *** [Qd 5s 5d]
+ML51450: checks 
+joaquin612: bets $1
+ML51450: raises $7.22 to $8.22
+joaquin612: calls $7.22
+*** TURN *** [Qd 5s 5d] [3s]
+ML51450: bets $14.83 and is all-in
+joaquin612: calls $14.83
+*** RIVER *** [Qd 5s 5d 3s] [4h]
+*** SHOW DOWN ***
+ML51450: shows [Qc 2c] (two pair, Queens and Fives)
+joaquin612: shows [Qs Td] (two pair, Queens and Fives - Ten kicker)
+joaquin612 collected $49.10 from pot
+*** SUMMARY ***
+Total pot $51.60 | Rake $2.50 
+Board [Qd 5s 5d 3s 4h]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 showed [Qs Td] and won ($49.10) with two pair, Queens and Fives
+Seat 3: Alinyr (button) folded before Flop (didn't bet)
+Seat 4: socito (small blind) folded before Flop
+Seat 5: ML51450 (big blind) showed [Qc 2c] and lost with two pair, Queens and Fives
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254628004447:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:19:03 WET [2025/01/30 16:19:03 ET]
+Table 'Suleika' 6-max Seat #4 is the button
+Seat 5: ML51450 ($0 in chips) is sitting out
+Seat 1: IREQO ($118.60 in chips) 
+Seat 2: joaquin612 ($134.55 in chips) 
+Seat 3: Alinyr ($105.87 in chips) 
+Seat 4: socito ($109 in chips) 
+Seat 6: XneferX ($129.97 in chips) 
+XneferX: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+joaquin612: folds 
+Alinyr: raises $1.28 to $2.28
+socito: folds 
+XneferX: raises $9.72 to $12
+IREQO: folds 
+Alinyr: folds 
+Uncalled bet ($9.72) returned to XneferX
+XneferX collected $5.56 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.56 | Rake $0 
+Seat 5: ML51450
+Seat 1: IREQO (big blind) folded before Flop
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Alinyr folded before Flop
+Seat 4: socito (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) collected ($5.56)
+
+
+
+PokerStars Hand #254628011451:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:19:25 WET [2025/01/30 16:19:25 ET]
+Table 'Suleika' 6-max Seat #6 is the button
+Seat 2: joaquin612 ($134.55 in chips) is sitting out
+Seat 1: IREQO ($117.60 in chips) 
+Seat 3: Alinyr ($103.59 in chips) 
+Seat 4: socito ($109 in chips) 
+Seat 5: ML51450 ($20.39 in chips) 
+Seat 6: XneferX ($133.25 in chips) 
+IREQO: posts small blind $0.50
+joaquin612: is sitting out 
+Alinyr: posts big blind $1
+ML51450: posts small blind $0.50
+*** HOLE CARDS ***
+socito: raises $1.50 to $2.50
+ML51450: raises $17.39 to $19.89 and is all-in
+XneferX: folds 
+IREQO: folds 
+Alinyr: folds 
+socito: folds 
+Uncalled bet ($17.39) returned to ML51450
+ML51450 collected $7 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 2: joaquin612
+Seat 1: IREQO (small blind) folded before Flop
+Seat 3: Alinyr (big blind) folded before Flop
+Seat 4: socito folded before Flop
+Seat 5: ML51450 collected ($7)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254628029968:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:20:25 WET [2025/01/30 16:20:25 ET]
+Table 'Suleika' 6-max Seat #1 is the button
+Seat 2: joaquin612 ($134.55 in chips) is sitting out
+Seat 1: IREQO ($117.10 in chips) 
+Seat 3: Alinyr ($102.59 in chips) 
+Seat 4: socito ($106.50 in chips) 
+Seat 5: ML51450 ($24.39 in chips) 
+Seat 6: XneferX ($133.25 in chips) 
+Alinyr: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+ML51450: folds 
+XneferX: folds 
+IREQO: raises $1.50 to $2.50
+Alinyr: raises $9.50 to $12
+socito: folds 
+IREQO: folds 
+Uncalled bet ($9.50) returned to Alinyr
+Alinyr collected $6 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: joaquin612
+Seat 1: IREQO (button) folded before Flop
+Seat 3: Alinyr (small blind) collected ($6)
+Seat 4: socito (big blind) folded before Flop
+Seat 5: ML51450 folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254628039810:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:20:56 WET [2025/01/30 16:20:56 ET]
+Table 'Suleika' 6-max Seat #3 is the button
+Seat 1: IREQO ($114.60 in chips) 
+Seat 2: joaquin612 ($134.55 in chips) 
+Seat 3: Alinyr ($106.09 in chips) 
+Seat 4: socito ($105.50 in chips) 
+Seat 5: ML51450 ($24.39 in chips) 
+Seat 6: XneferX ($133.25 in chips) 
+socito: posts small blind $0.50
+ML51450: posts big blind $1
+joaquin612: posts small & big blinds $1.50
+*** HOLE CARDS ***
+XneferX: folds 
+IREQO: folds 
+joaquin612: raises $1.50 to $2.50
+Alinyr: folds 
+socito: folds 
+ML51450: calls $1.50
+*** FLOP *** [8s 9s 7h]
+ML51450: bets $2.85
+joaquin612: raises $3.76 to $6.61
+ML51450: calls $3.76
+*** TURN *** [8s 9s 7h] [2s]
+ML51450: bets $9.13
+joaquin612: raises $18.26 to $27.39
+ML51450: calls $6.15 and is all-in
+Uncalled bet ($12.11) returned to joaquin612
+*** RIVER *** [8s 9s 7h 2s] [Qs]
+*** SHOW DOWN ***
+ML51450: shows [8h Ac] (a pair of Eights)
+joaquin612: shows [6d 5h] (a straight, Five to Nine)
+joaquin612 collected $47.29 from pot
+*** SUMMARY ***
+Total pot $49.78 | Rake $2.49 
+Board [8s 9s 7h 2s Qs]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: joaquin612 showed [6d 5h] and won ($47.29) with a straight, Five to Nine
+Seat 3: Alinyr (button) folded before Flop (didn't bet)
+Seat 4: socito (small blind) folded before Flop
+Seat 5: ML51450 (big blind) showed [8h Ac] and lost with a pair of Eights
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254628055797:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:21:48 WET [2025/01/30 16:21:48 ET]
+Table 'Suleika' 6-max Seat #4 is the button
+Seat 5: ML51450 ($0 in chips) is sitting out
+Seat 1: IREQO ($114.60 in chips) 
+Seat 2: joaquin612 ($156.95 in chips) 
+Seat 3: Alinyr ($106.09 in chips) 
+Seat 4: socito ($105 in chips) 
+Seat 6: XneferX ($133.25 in chips) 
+XneferX: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+joaquin612: folds 
+Alinyr: folds 
+ML51450 leaves the table
+socito: raises $1.50 to $2.50
+joaquin612 leaves the table
+sta$igk joins the table at seat #5 
+XneferX: folds 
+IREQO: calls $1.50
+*** FLOP *** [2c 3s 9s]
+IREQO: checks 
+socito: bets $1.72
+IREQO: folds 
+Uncalled bet ($1.72) returned to socito
+socito collected $5.22 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [2c 3s 9s]
+Seat 5: ML51450
+Seat 1: IREQO (big blind) folded on the Flop
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: socito (button) collected ($5.22)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254628076734:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:22:55 WET [2025/01/30 16:22:55 ET]
+Table 'Suleika' 6-max Seat #6 is the button
+Seat 3: Alinyr ($106.09 in chips) is sitting out
+Seat 5: sta$igk ($100 in chips) is sitting out
+Seat 1: IREQO ($112.10 in chips) 
+Seat 4: socito ($107.72 in chips) 
+Seat 6: XneferX ($132.75 in chips) 
+IREQO: posts small blind $0.50
+Alinyr: is sitting out 
+socito: posts big blind $1
+sta$igk: sits out 
+*** HOLE CARDS ***
+XneferX: folds 
+Alinyr leaves the table
+IREQO: raises $1.50 to $2.50
+socito: raises $6.50 to $9
+IREQO: folds 
+Uncalled bet ($6.50) returned to socito
+socito collected $5 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 3: Alinyr
+Seat 5: sta$igk
+Seat 1: IREQO (small blind) folded before Flop
+Seat 4: socito (big blind) collected ($5)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254628084680:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:23:21 WET [2025/01/30 16:23:21 ET]
+Table 'Suleika' 6-max Seat #1 is the button
+Seat 1: IREQO ($109.60 in chips) 
+Seat 4: socito ($110.22 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+Seat 6: XneferX ($132.75 in chips) 
+socito: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+XneferX leaves the table
+IREQO: raises $1.50 to $2.50
+socito: folds 
+sta$igk: folds 
+Uncalled bet ($1.50) returned to IREQO
+IREQO collected $2.50 from pot
+IREQO: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: IREQO (button) collected ($2.50)
+Seat 4: socito (small blind) folded before Flop
+Seat 5: sta$igk (big blind) folded before Flop
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+

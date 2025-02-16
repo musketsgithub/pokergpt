@@ -1,0 +1,946 @@
+﻿PokerStars Hand #254627959699:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:16:38 WET [2025/01/30 16:16:38 ET]
+Table 'Bojeva' 6-max Seat #6 is the button
+Seat 1: Manifestorr ($100 in chips) 
+Seat 2: YeeesMan ($101.50 in chips) 
+Seat 3: sta$igk ($103.78 in chips) 
+Seat 4: Alinyr ($102.20 in chips) 
+Seat 5: IREQO ($34.57 in chips) 
+Seat 6: etquoiici ($40.58 in chips) 
+Manifestorr: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+Alinyr: folds 
+IREQO: raises $1.50 to $2.50
+etquoiici: folds 
+Manifestorr: folds 
+YeeesMan: folds 
+Uncalled bet ($1.50) returned to IREQO
+IREQO collected $2.50 from pot
+IREQO: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Manifestorr (small blind) folded before Flop
+Seat 2: YeeesMan (big blind) folded before Flop
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: IREQO collected ($2.50)
+Seat 6: etquoiici (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627966667:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:17:00 WET [2025/01/30 16:17:00 ET]
+Table 'Bojeva' 6-max Seat #1 is the button
+Seat 1: Manifestorr ($100 in chips) 
+Seat 2: YeeesMan ($100.50 in chips) 
+Seat 3: sta$igk ($103.78 in chips) 
+Seat 4: Alinyr ($102.20 in chips) 
+Seat 5: IREQO ($36.07 in chips) 
+Seat 6: etquoiici ($40.58 in chips) 
+YeeesMan: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: raises $1.05 to $2.05
+IREQO: folds 
+etquoiici: calls $2.05
+Manifestorr: folds 
+YeeesMan: folds 
+sta$igk: folds 
+*** FLOP *** [7h 9s As]
+Alinyr: checks 
+etquoiici: checks 
+*** TURN *** [7h 9s As] [Qc]
+Alinyr: bets $5.37
+etquoiici: folds 
+Uncalled bet ($5.37) returned to Alinyr
+Alinyr collected $5.32 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.28 
+Board [7h 9s As Qc]
+Seat 1: Manifestorr (button) folded before Flop (didn't bet)
+Seat 2: YeeesMan (small blind) folded before Flop
+Seat 3: sta$igk (big blind) folded before Flop
+Seat 4: Alinyr collected ($5.32)
+Seat 5: IREQO folded before Flop (didn't bet)
+Seat 6: etquoiici folded on the Turn
+
+
+
+PokerStars Hand #254627986271:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:18:03 WET [2025/01/30 16:18:03 ET]
+Table 'Bojeva' 6-max Seat #2 is the button
+Seat 1: Manifestorr ($100 in chips) 
+Seat 2: YeeesMan ($100 in chips) 
+Seat 3: sta$igk ($102.78 in chips) 
+Seat 4: Alinyr ($105.47 in chips) 
+Seat 5: IREQO ($36.07 in chips) 
+Seat 6: etquoiici ($38.53 in chips) 
+sta$igk: posts small blind $0.50
+Alinyr: posts big blind $1
+*** HOLE CARDS ***
+IREQO: folds 
+etquoiici: calls $1
+Manifestorr: raises $4 to $5
+YeeesMan: folds 
+sta$igk: folds 
+Alinyr: folds 
+etquoiici: folds 
+Uncalled bet ($4) returned to Manifestorr
+Manifestorr collected $3.50 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: Manifestorr collected ($3.50)
+Seat 2: YeeesMan (button) folded before Flop (didn't bet)
+Seat 3: sta$igk (small blind) folded before Flop
+Seat 4: Alinyr (big blind) folded before Flop
+Seat 5: IREQO folded before Flop (didn't bet)
+Seat 6: etquoiici folded before Flop
+
+
+
+PokerStars Hand #254627993435:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:18:27 WET [2025/01/30 16:18:27 ET]
+Table 'Bojeva' 6-max Seat #3 is the button
+Seat 1: Manifestorr ($102.50 in chips) 
+Seat 2: YeeesMan ($100 in chips) 
+Seat 3: sta$igk ($102.28 in chips) 
+Seat 4: Alinyr ($104.47 in chips) 
+Seat 5: IREQO ($36.07 in chips) 
+Seat 6: etquoiici ($37.53 in chips) 
+Alinyr: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+etquoiici: raises $1 to $2
+Manifestorr: folds 
+YeeesMan: folds 
+sta$igk: folds 
+Alinyr: folds 
+IREQO: calls $1
+*** FLOP *** [4h 5h Ac]
+IREQO: checks 
+etquoiici: checks 
+*** TURN *** [4h 5h Ac] [9h]
+IREQO: bets $4
+etquoiici: folds 
+Uncalled bet ($4) returned to IREQO
+IREQO collected $4.28 from pot
+IREQO: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [4h 5h Ac 9h]
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 2: YeeesMan folded before Flop (didn't bet)
+Seat 3: sta$igk (button) folded before Flop (didn't bet)
+Seat 4: Alinyr (small blind) folded before Flop
+Seat 5: IREQO (big blind) collected ($4.28)
+Seat 6: etquoiici folded on the Turn
+
+
+
+PokerStars Hand #254628008241:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:19:15 WET [2025/01/30 16:19:15 ET]
+Table 'Bojeva' 6-max Seat #4 is the button
+Seat 1: Manifestorr ($102.50 in chips) 
+Seat 2: YeeesMan ($100 in chips) 
+Seat 3: sta$igk ($102.28 in chips) 
+Seat 4: Alinyr ($103.97 in chips) 
+Seat 5: IREQO ($38.35 in chips) 
+Seat 6: etquoiici ($35.53 in chips) 
+IREQO: posts small blind $0.50
+etquoiici: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+YeeesMan: folds 
+sta$igk: folds 
+Alinyr: raises $1.50 to $2.50
+IREQO: folds 
+etquoiici: folds 
+Uncalled bet ($1.50) returned to Alinyr
+Alinyr collected $2.50 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 2: YeeesMan folded before Flop (didn't bet)
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 4: Alinyr (button) collected ($2.50)
+Seat 5: IREQO (small blind) folded before Flop
+Seat 6: etquoiici (big blind) folded before Flop
+
+
+
+PokerStars Hand #254628016065:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:19:40 WET [2025/01/30 16:19:40 ET]
+Table 'Bojeva' 6-max Seat #5 is the button
+Seat 1: Manifestorr ($102.50 in chips) 
+Seat 2: YeeesMan ($100 in chips) 
+Seat 3: sta$igk ($102.28 in chips) 
+Seat 4: Alinyr ($105.47 in chips) 
+Seat 5: IREQO ($37.85 in chips) 
+Seat 6: etquoiici ($34.53 in chips) 
+etquoiici: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+sta$igk: raises $1.50 to $2.50
+Alinyr: folds 
+IREQO: raises $3.50 to $6
+etquoiici: folds 
+Manifestorr: folds 
+sta$igk: folds 
+Uncalled bet ($3.50) returned to IREQO
+IREQO collected $6.50 from pot
+IREQO: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: Manifestorr (big blind) folded before Flop
+Seat 2: YeeesMan folded before Flop (didn't bet)
+Seat 3: sta$igk folded before Flop
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: IREQO (button) collected ($6.50)
+Seat 6: etquoiici (small blind) folded before Flop
+
+
+
+PokerStars Hand #254628024458:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:20:07 WET [2025/01/30 16:20:07 ET]
+Table 'Bojeva' 6-max Seat #6 is the button
+Seat 1: Manifestorr ($101.50 in chips) 
+Seat 2: YeeesMan ($100 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 4: Alinyr ($105.47 in chips) 
+Seat 5: IREQO ($41.85 in chips) 
+Seat 6: etquoiici ($34.03 in chips) 
+Manifestorr: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+Alinyr: folds 
+IREQO: folds 
+etquoiici: calls $1
+Manifestorr: raises $4 to $5
+YeeesMan: folds 
+etquoiici: calls $4
+*** FLOP *** [Kd As 7s]
+Manifestorr: bets $9.41
+etquoiici: calls $9.41
+*** TURN *** [Kd As 7s] [Jh]
+Manifestorr: bets $14.17
+etquoiici: raises $5.45 to $19.62 and is all-in
+Manifestorr: calls $5.45
+*** RIVER *** [Kd As 7s Jh] [9c]
+*** SHOW DOWN ***
+Manifestorr: shows [Qh Ad] (a pair of Aces)
+etquoiici: shows [6c Kh] (a pair of Kings)
+Manifestorr collected $66.56 from pot
+*** SUMMARY ***
+Total pot $69.06 | Rake $2.50 
+Board [Kd As 7s Jh 9c]
+Seat 1: Manifestorr (small blind) showed [Qh Ad] and won ($66.56) with a pair of Aces
+Seat 2: YeeesMan (big blind) folded before Flop
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: IREQO folded before Flop (didn't bet)
+Seat 6: etquoiici (button) showed [6c Kh] and lost with a pair of Kings
+
+
+
+PokerStars Hand #254628042323:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:21:05 WET [2025/01/30 16:21:05 ET]
+Table 'Bojeva' 6-max Seat #1 is the button
+Seat 6: etquoiici ($0 in chips) is sitting out
+Seat 1: Manifestorr ($134.03 in chips) 
+Seat 2: YeeesMan ($100 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 4: Alinyr ($105.47 in chips) 
+Seat 5: IREQO ($41.85 in chips) 
+YeeesMan: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: folds 
+IREQO: folds 
+Manifestorr: raises $1.20 to $2.20
+etquoiici leaves the table
+YeeesMan: folds 
+sta$igk: folds 
+Uncalled bet ($1.20) returned to Manifestorr
+Manifestorr collected $2.50 from pot
+Kristo 914 joins the table at seat #6 
+YeeesMan leaves the table
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: etquoiici
+Seat 1: Manifestorr (button) collected ($2.50)
+Seat 2: YeeesMan (small blind) folded before Flop
+Seat 3: sta$igk (big blind) folded before Flop
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: IREQO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254628047861:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:21:23 WET [2025/01/30 16:21:23 ET]
+Table 'Bojeva' 6-max Seat #3 is the button
+Seat 5: IREQO ($41.85 in chips) is sitting out
+Seat 1: Manifestorr ($135.53 in chips) 
+Seat 3: sta$igk ($100 in chips) 
+Seat 4: Alinyr ($105.47 in chips) 
+Seat 6: Kristo 914 ($100 in chips) 
+Alinyr: posts small blind $0.50
+IREQO: is sitting out 
+Kristo 914: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+sta$igk: folds 
+Alinyr: raises $2 to $3
+Kristo 914: raises $6 to $9
+Alinyr: folds 
+Uncalled bet ($6) returned to Kristo 914
+Kristo 914 collected $6 from pot
+Kristo 914: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 5: IREQO
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 3: sta$igk (button) folded before Flop (didn't bet)
+Seat 4: Alinyr (small blind) folded before Flop
+Seat 6: Kristo 914 (big blind) collected ($6)
+
+
+
+PokerStars Hand #254628117056:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:25:06 WET [2025/01/30 16:25:06 ET]
+Table 'Bojeva' 6-max Seat #4 is the button
+Seat 4: Alinyr ($102.47 in chips) 
+Seat 6: Kristo 914 ($103 in chips) 
+Alinyr: posts small blind $0.50
+Kristo 914: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: raises $1.50 to $2.50
+Kristo 914: folds 
+Uncalled bet ($1.50) returned to Alinyr
+Alinyr collected $2 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: Alinyr (button) (small blind) collected ($2)
+Seat 6: Kristo 914 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254628150261:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:26:54 WET [2025/01/30 16:26:54 ET]
+Table 'Bojeva' 6-max Seat #5 is the button
+Seat 6: Kristo 914 ($102 in chips) is sitting out
+Seat 2: XneferX ($100 in chips) 
+Seat 4: Alinyr ($103.47 in chips) 
+Seat 5: Axoulabete ($95.97 in chips) 
+XneferX: posts small blind $0.50
+Alinyr: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho joins the table at seat #1 
+Axoulabete: folds 
+value_ftw joins the table at seat #3 
+XneferX: raises $2 to $3
+Alinyr: folds 
+Uncalled bet ($2) returned to XneferX
+XneferX collected $2 from pot
+XneferX: doesn't show hand 
+value_ftw leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: Kristo 914
+Seat 2: XneferX (small blind) collected ($2)
+Seat 4: Alinyr (big blind) folded before Flop
+Seat 5: Axoulabete (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254628154160:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:27:06 WET [2025/01/30 16:27:06 ET]
+Table 'Bojeva' 6-max Seat #2 is the button
+Seat 1: coeeeelho ($100 in chips) is sitting out
+Seat 6: Kristo 914 ($102 in chips) is sitting out
+Seat 2: XneferX ($101 in chips) 
+Seat 4: Alinyr ($102.47 in chips) 
+Seat 5: Axoulabete ($100 in chips) 
+Alinyr: posts small blind $0.50
+Axoulabete: posts big blind $1
+coeeeelho: sits out 
+*** HOLE CARDS ***
+XneferX: raises $1.77 to $2.77
+kvcsszblcs joins the table at seat #3 
+Alinyr: folds 
+Axoulabete: folds 
+Uncalled bet ($1.77) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: coeeeelho
+Seat 6: Kristo 914
+Seat 2: XneferX (button) collected ($2.50)
+Seat 4: Alinyr (small blind) folded before Flop
+Seat 5: Axoulabete (big blind) folded before Flop
+
+
+
+PokerStars Hand #254628159498:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:27:24 WET [2025/01/30 16:27:24 ET]
+Table 'Bojeva' 6-max Seat #4 is the button
+Seat 3: kvcsszblcs ($100 in chips) is sitting out
+Seat 6: Kristo 914 ($102 in chips) is sitting out
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: XneferX ($102.50 in chips) 
+Seat 4: Alinyr ($101.97 in chips) 
+Seat 5: Axoulabete ($99 in chips) 
+Axoulabete: posts small blind $0.50
+coeeeelho: posts big blind $1
+kvcsszblcs: sits out 
+*** HOLE CARDS ***
+XneferX: raises $1.30 to $2.30
+Alinyr: folds 
+Axoulabete: folds 
+coeeeelho: calls $1.30
+*** FLOP *** [As 2s 9h]
+coeeeelho: checks 
+XneferX: bets $1.65
+coeeeelho: calls $1.65
+*** TURN *** [As 2s 9h] [8c]
+coeeeelho: checks 
+XneferX: bets $6.14
+coeeeelho: calls $6.14
+*** RIVER *** [As 2s 9h 8c] [7h]
+coeeeelho: checks 
+XneferX: bets $29.91
+coeeeelho: folds 
+Uncalled bet ($29.91) returned to XneferX
+XneferX collected $19.68 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.68 | Rake $1 
+Board [As 2s 9h 8c 7h]
+Seat 3: kvcsszblcs
+Seat 6: Kristo 914
+Seat 1: coeeeelho (big blind) folded on the River
+Seat 2: XneferX collected ($19.68)
+Seat 4: Alinyr (button) folded before Flop (didn't bet)
+Seat 5: Axoulabete (small blind) folded before Flop
+
+
+
+PokerStars Hand #254628179511:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:28:29 WET [2025/01/30 16:28:29 ET]
+Table 'Bojeva' 6-max Seat #5 is the button
+Seat 3: kvcsszblcs ($100 in chips) is sitting out
+Seat 6: Kristo 914 ($102 in chips) is sitting out
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: XneferX ($112.09 in chips) 
+Seat 4: Alinyr ($101.97 in chips) 
+Seat 5: Axoulabete ($98.50 in chips) 
+coeeeelho: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: folds 
+Axoulabete: folds 
+coeeeelho: raises $2 to $3
+XneferX: folds 
+Uncalled bet ($2) returned to coeeeelho
+coeeeelho collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: kvcsszblcs
+Seat 6: Kristo 914
+Seat 1: coeeeelho (small blind) collected ($2)
+Seat 2: XneferX (big blind) folded before Flop
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: Axoulabete (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254628184466:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:28:45 WET [2025/01/30 16:28:45 ET]
+Table 'Bojeva' 6-max Seat #1 is the button
+Seat 3: kvcsszblcs ($100 in chips) is sitting out
+Seat 4: Alinyr ($101.97 in chips) is sitting out
+Seat 6: Kristo 914 ($102 in chips) is sitting out
+Seat 1: coeeeelho ($101 in chips) 
+Seat 2: XneferX ($111.09 in chips) 
+Seat 5: Axoulabete ($98.50 in chips) 
+XneferX: posts small blind $0.50
+Alinyr: is sitting out 
+Axoulabete: posts big blind $1
+Kristo 914: sits out 
+*** HOLE CARDS ***
+coeeeelho: raises $1.50 to $2.50
+Alinyr leaves the table
+XneferX: folds 
+Axoulabete: folds 
+Uncalled bet ($1.50) returned to coeeeelho
+coeeeelho collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: kvcsszblcs
+Seat 4: Alinyr
+Seat 6: Kristo 914
+Seat 1: coeeeelho (button) collected ($2.50)
+Seat 2: XneferX (small blind) folded before Flop
+Seat 5: Axoulabete (big blind) folded before Flop
+
+
+
+PokerStars Hand #254628188866:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:28:59 WET [2025/01/30 16:28:59 ET]
+Table 'Bojeva' 6-max Seat #2 is the button
+Seat 3: kvcsszblcs ($100 in chips) is sitting out
+Seat 1: coeeeelho ($102.50 in chips) 
+Seat 2: XneferX ($110.59 in chips) 
+Seat 5: Axoulabete ($97.50 in chips) 
+Seat 6: Kristo 914 ($102 in chips) 
+Axoulabete: posts small blind $0.50
+Kristo 914: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: raises $1.30 to $2.30
+XneferX: folds 
+Axoulabete: folds 
+YeeesMan joins the table at seat #4 
+Kristo 914: folds 
+Uncalled bet ($1.30) returned to coeeeelho
+coeeeelho collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: kvcsszblcs
+Seat 1: coeeeelho collected ($2.50)
+Seat 2: XneferX (button) folded before Flop (didn't bet)
+Seat 5: Axoulabete (small blind) folded before Flop
+Seat 6: Kristo 914 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254628197114:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:29:26 WET [2025/01/30 16:29:26 ET]
+Table 'Bojeva' 6-max Seat #5 is the button
+Seat 3: kvcsszblcs ($100 in chips) is sitting out
+Seat 4: YeeesMan ($100 in chips) is sitting out
+Seat 1: coeeeelho ($104 in chips) 
+Seat 2: XneferX ($110.59 in chips) 
+Seat 5: Axoulabete ($97 in chips) 
+Seat 6: Kristo 914 ($101 in chips) 
+Kristo 914: posts small blind $0.50
+coeeeelho: posts big blind $1
+YeeesMan: sits out 
+*** HOLE CARDS ***
+XneferX: raises $1.30 to $2.30
+Axoulabete: raises $6.10 to $8.40
+Kristo 914: folds 
+coeeeelho: folds 
+XneferX: folds 
+Uncalled bet ($6.10) returned to Axoulabete
+Axoulabete collected $6.10 from pot
+*** SUMMARY ***
+Total pot $6.10 | Rake $0 
+Seat 3: kvcsszblcs
+Seat 4: YeeesMan
+Seat 1: coeeeelho (big blind) folded before Flop
+Seat 2: XneferX folded before Flop
+Seat 5: Axoulabete (button) collected ($6.10)
+Seat 6: Kristo 914 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254628203862:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:29:48 WET [2025/01/30 16:29:48 ET]
+Table 'Bojeva' 6-max Seat #6 is the button
+Seat 3: kvcsszblcs ($100 in chips) is sitting out
+Seat 4: YeeesMan ($100 in chips) is sitting out
+Seat 1: coeeeelho ($103 in chips) 
+Seat 2: XneferX ($108.29 in chips) 
+Seat 5: Axoulabete ($100.80 in chips) 
+Seat 6: Kristo 914 ($100.50 in chips) 
+coeeeelho: posts small blind $0.50
+XneferX: posts big blind $1
+YeeesMan: sits out 
+*** HOLE CARDS ***
+Axoulabete: folds 
+Kristo 914: raises $1.40 to $2.40
+coeeeelho: folds 
+XneferX: folds 
+Uncalled bet ($1.40) returned to Kristo 914
+Kristo 914 collected $2.50 from pot
+Kristo 914: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: kvcsszblcs
+Seat 4: YeeesMan
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: XneferX (big blind) folded before Flop
+Seat 5: Axoulabete folded before Flop (didn't bet)
+Seat 6: Kristo 914 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254628210497:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:30:09 WET [2025/01/30 16:30:09 ET]
+Table 'Bojeva' 6-max Seat #1 is the button
+Seat 3: kvcsszblcs ($100 in chips) is sitting out
+Seat 1: coeeeelho ($102.50 in chips) 
+Seat 2: XneferX ($107.29 in chips) 
+Seat 4: YeeesMan ($100 in chips) 
+Seat 5: Axoulabete ($100.80 in chips) 
+Seat 6: Kristo 914 ($102 in chips) 
+XneferX: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+Axoulabete: raises $1.60 to $2.60
+Kristo 914: folds 
+coeeeelho: folds 
+XneferX: folds 
+YeeesMan: calls $1.60
+*** FLOP *** [7h Qc 7d]
+YeeesMan: checks 
+Axoulabete: bets $1.79
+YeeesMan: calls $1.79
+*** TURN *** [7h Qc 7d] [Jd]
+YeeesMan: checks 
+Axoulabete: bets $3
+YeeesMan: calls $3
+*** RIVER *** [7h Qc 7d Jd] [4c]
+YeeesMan: checks 
+Axoulabete: checks 
+*** SHOW DOWN ***
+YeeesMan: shows [Qd 3d] (two pair, Queens and Sevens)
+Axoulabete: mucks hand 
+YeeesMan collected $14.52 from pot
+*** SUMMARY ***
+Total pot $15.28 | Rake $0.76 
+Board [7h Qc 7d Jd 4c]
+Seat 3: kvcsszblcs
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 2: XneferX (small blind) folded before Flop
+Seat 4: YeeesMan (big blind) showed [Qd 3d] and won ($14.52) with two pair, Queens and Sevens
+Seat 5: Axoulabete mucked
+Seat 6: Kristo 914 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254628236343:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:31:32 WET [2025/01/30 16:31:32 ET]
+Table 'Bojeva' 6-max Seat #2 is the button
+Seat 3: kvcsszblcs ($100 in chips) is sitting out
+Seat 1: coeeeelho ($102.50 in chips) 
+Seat 2: XneferX ($106.79 in chips) 
+Seat 4: YeeesMan ($107.13 in chips) 
+Seat 5: Axoulabete ($93.41 in chips) 
+Seat 6: Kristo 914 ($102 in chips) 
+YeeesMan: posts small blind $0.50
+Axoulabete: posts big blind $1
+*** HOLE CARDS ***
+Kristo 914: folds 
+coeeeelho: folds 
+XneferX: folds 
+YeeesMan: raises $2 to $3
+Axoulabete: calls $2
+*** FLOP *** [Qd 7c Ah]
+YeeesMan: checks 
+Axoulabete: checks 
+*** TURN *** [Qd 7c Ah] [Td]
+YeeesMan: checks 
+Axoulabete: bets $1.88
+YeeesMan: calls $1.88
+*** RIVER *** [Qd 7c Ah Td] [2h]
+YeeesMan: checks 
+Axoulabete: checks 
+*** SHOW DOWN ***
+YeeesMan: shows [9c Qs] (a pair of Queens)
+Axoulabete: mucks hand 
+YeeesMan collected $9.27 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [Qd 7c Ah Td 2h]
+Seat 3: kvcsszblcs
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: XneferX (button) folded before Flop (didn't bet)
+Seat 4: YeeesMan (small blind) showed [9c Qs] and won ($9.27) with a pair of Queens
+Seat 5: Axoulabete (big blind) mucked
+Seat 6: Kristo 914 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254628255187:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:32:33 WET [2025/01/30 16:32:33 ET]
+Table 'Bojeva' 6-max Seat #4 is the button
+Seat 3: kvcsszblcs ($100 in chips) is sitting out
+Seat 1: coeeeelho ($102.50 in chips) 
+Seat 2: XneferX ($106.79 in chips) 
+Seat 4: YeeesMan ($111.52 in chips) 
+Seat 5: Axoulabete ($88.53 in chips) 
+Seat 6: Kristo 914 ($102 in chips) 
+Axoulabete: posts small blind $0.50
+Kristo 914: posts big blind $1
+kvcsszblcs: sits out 
+*** HOLE CARDS ***
+coeeeelho: folds 
+XneferX: raises $1.30 to $2.30
+YeeesMan: folds 
+Axoulabete: raises $6.70 to $9
+Kristo 914: folds 
+XneferX: folds 
+Uncalled bet ($6.70) returned to Axoulabete
+Axoulabete collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.60 | Rake $0 
+Seat 3: kvcsszblcs
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: XneferX folded before Flop
+Seat 4: YeeesMan (button) folded before Flop (didn't bet)
+Seat 5: Axoulabete (small blind) collected ($5.60)
+Seat 6: Kristo 914 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254628262559:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:32:57 WET [2025/01/30 16:32:57 ET]
+Table 'Bojeva' 6-max Seat #5 is the button
+Seat 3: kvcsszblcs ($100 in chips) is sitting out
+Seat 1: coeeeelho ($102.50 in chips) 
+Seat 2: XneferX ($104.49 in chips) 
+Seat 4: YeeesMan ($111.52 in chips) 
+Seat 5: Axoulabete ($91.83 in chips) 
+Seat 6: Kristo 914 ($101 in chips) 
+Kristo 914: posts small blind $0.50
+coeeeelho: posts big blind $1
+kvcsszblcs: sits out 
+*** HOLE CARDS ***
+XneferX: folds 
+YeeesMan: folds 
+Axoulabete: folds 
+Kristo 914: folds 
+Uncalled bet ($0.50) returned to coeeeelho
+coeeeelho collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: kvcsszblcs
+Seat 1: coeeeelho (big blind) collected ($1)
+Seat 2: XneferX folded before Flop (didn't bet)
+Seat 4: YeeesMan folded before Flop (didn't bet)
+Seat 5: Axoulabete (button) folded before Flop (didn't bet)
+Seat 6: Kristo 914 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254628266727:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:33:11 WET [2025/01/30 16:33:11 ET]
+Table 'Bojeva' 6-max Seat #6 is the button
+Seat 2: XneferX ($104.49 in chips) is sitting out
+Seat 1: coeeeelho ($103 in chips) 
+Seat 3: kvcsszblcs ($100 in chips) 
+Seat 4: YeeesMan ($111.52 in chips) 
+Seat 5: Axoulabete ($91.83 in chips) 
+Seat 6: Kristo 914 ($100.50 in chips) 
+coeeeelho: posts small blind $0.50
+XneferX: is sitting out 
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+Axoulabete: folds 
+Kristo 914: folds 
+XneferX leaves the table
+coeeeelho: raises $2 to $3
+kvcsszblcs: folds 
+Uncalled bet ($2) returned to coeeeelho
+coeeeelho collected $2 from pot
+tintin641 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: XneferX
+Seat 1: coeeeelho (small blind) collected ($2)
+Seat 3: kvcsszblcs (big blind) folded before Flop
+Seat 4: YeeesMan folded before Flop (didn't bet)
+Seat 5: Axoulabete folded before Flop (didn't bet)
+Seat 6: Kristo 914 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254628273302:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:33:32 WET [2025/01/30 16:33:32 ET]
+Table 'Bojeva' 6-max Seat #1 is the button
+Seat 2: tintin641 ($100 in chips) is sitting out
+Seat 1: coeeeelho ($104 in chips) 
+Seat 3: kvcsszblcs ($100 in chips) 
+Seat 4: YeeesMan ($111.52 in chips) 
+Seat 5: Axoulabete ($91.83 in chips) 
+Seat 6: Kristo 914 ($100.50 in chips) 
+kvcsszblcs: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+Axoulabete: folds 
+Kristo 914: folds 
+coeeeelho: folds 
+kvcsszblcs: raises $1.85 to $2.85
+YeeesMan: calls $1.85
+*** FLOP *** [5d 4h 4c]
+kvcsszblcs: checks 
+YeeesMan: bets $1.79
+kvcsszblcs: folds 
+Uncalled bet ($1.79) returned to YeeesMan
+YeeesMan collected $5.42 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.70 | Rake $0.28 
+Board [5d 4h 4c]
+Seat 2: tintin641
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 3: kvcsszblcs (small blind) folded on the Flop
+Seat 4: YeeesMan (big blind) collected ($5.42)
+Seat 5: Axoulabete folded before Flop (didn't bet)
+Seat 6: Kristo 914 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254628287259:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:34:17 WET [2025/01/30 16:34:17 ET]
+Table 'Bojeva' 6-max Seat #3 is the button
+Seat 2: tintin641 ($100 in chips) is sitting out
+Seat 1: coeeeelho ($104 in chips) 
+Seat 3: kvcsszblcs ($100 in chips) 
+Seat 4: YeeesMan ($114.09 in chips) 
+Seat 5: Axoulabete ($91.83 in chips) 
+Seat 6: Kristo 914 ($100.50 in chips) 
+YeeesMan: posts small blind $0.50
+Axoulabete: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+Kristo 914: raises $1.40 to $2.40
+coeeeelho: folds 
+kvcsszblcs: folds 
+YeeesMan: folds 
+Axoulabete: folds 
+Uncalled bet ($1.40) returned to Kristo 914
+Axoulabete leaves the table
+Kristo 914 collected $2.50 from pot
+Kristo 914: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: tintin641
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 3: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 4: YeeesMan (small blind) folded before Flop
+Seat 5: Axoulabete (big blind) folded before Flop
+Seat 6: Kristo 914 collected ($2.50)
+
+
+
+PokerStars Hand #254628294040:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:34:40 WET [2025/01/30 16:34:40 ET]
+Table 'Bojeva' 6-max Seat #4 is the button
+Seat 2: tintin641 ($100 in chips) is sitting out
+Seat 1: coeeeelho ($104 in chips) 
+Seat 3: kvcsszblcs ($100 in chips) 
+Seat 4: YeeesMan ($113.59 in chips) 
+Seat 6: Kristo 914 ($102 in chips) 
+Kristo 914: posts small blind $0.50
+coeeeelho: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+YeeesMan: folds 
+Kristo 914: folds 
+Uncalled bet ($0.50) returned to coeeeelho
+coeeeelho collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: tintin641
+Seat 1: coeeeelho (big blind) collected ($1)
+Seat 3: kvcsszblcs folded before Flop (didn't bet)
+Seat 4: YeeesMan (button) folded before Flop (didn't bet)
+Seat 6: Kristo 914 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254628300642:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:35:02 WET [2025/01/30 16:35:02 ET]
+Table 'Bojeva' 6-max Seat #6 is the button
+Seat 1: coeeeelho ($104.50 in chips) 
+Seat 2: tintin641 ($100 in chips) 
+Seat 3: kvcsszblcs ($100 in chips) 
+Seat 4: YeeesMan ($113.59 in chips) 
+Seat 6: Kristo 914 ($101.50 in chips) 
+coeeeelho: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+kvcsszblcs leaves the table
+YeeesMan: raises $1.50 to $2.50
+Kristo 914: folds 
+coeeeelho: folds 
+tintin641: raises $10 to $12.50
+YeeesMan: calls $10
+*** FLOP *** [7h 2h 5c]
+tintin641: checks 
+YeeesMan: checks 
+*** TURN *** [7h 2h 5c] [6h]
+tintin641: checks 
+YeeesMan: bets $7.99
+tintin641: calls $7.99
+*** RIVER *** [7h 2h 5c 6h] [Qh]
+tintin641: checks 
+YeeesMan: checks 
+*** SHOW DOWN ***
+tintin641: shows [Ah Ac] (a flush, Ace high)
+YeeesMan: mucks hand 
+tintin641 collected $39.41 from pot
+*** SUMMARY ***
+Total pot $41.48 | Rake $2.07 
+Board [7h 2h 5c 6h Qh]
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: tintin641 (big blind) showed [Ah Ac] and won ($39.41) with a flush, Ace high
+Seat 3: kvcsszblcs folded before Flop (didn't bet)
+Seat 4: YeeesMan mucked
+Seat 6: Kristo 914 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254628334262:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:36:52 WET [2025/01/30 16:36:52 ET]
+Table 'Bojeva' 6-max Seat #1 is the button
+Seat 4: YeeesMan ($100 in chips) is sitting out
+Seat 1: coeeeelho ($104 in chips) 
+Seat 2: tintin641 ($118.92 in chips) 
+Seat 6: Kristo 914 ($101.50 in chips) 
+tintin641: posts small blind $0.50
+YeeesMan: is sitting out 
+Kristo 914: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan leaves the table
+coeeeelho: folds 
+tintin641: raises $2 to $3
+Kristo 914: folds 
+Uncalled bet ($2) returned to tintin641
+tintin641 collected $2 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: YeeesMan
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 2: tintin641 (small blind) collected ($2)
+Seat 6: Kristo 914 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254628339977:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:37:11 WET [2025/01/30 16:37:11 ET]
+Table 'Bojeva' 6-max Seat #6 is the button
+Seat 1: coeeeelho ($104 in chips) is sitting out
+Seat 2: tintin641 ($119.92 in chips) 
+Seat 6: Kristo 914 ($100.50 in chips) 
+Kristo 914: posts small blind $0.50
+coeeeelho: is sitting out 
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho leaves the table
+Kristo 914: folds 
+Uncalled bet ($0.50) returned to tintin641
+tintin641 collected $1 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: coeeeelho
+Seat 2: tintin641 (big blind) collected ($1)
+Seat 6: Kristo 914 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254628342272:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 21:37:19 WET [2025/01/30 16:37:19 ET]
+Table 'Bojeva' 6-max Seat #2 is the button
+Seat 2: tintin641 ($120.42 in chips) 
+Seat 6: Kristo 914 ($100 in chips) 
+tintin641: posts small blind $0.50
+Kristo 914: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+Kristo 914: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2 from pot
+tintin641: doesn't show hand 
+Kristo 914 leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: tintin641 (button) (small blind) collected ($2)
+Seat 6: Kristo 914 (big blind) folded before Flop
+
+
+

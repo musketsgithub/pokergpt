@@ -1,0 +1,123 @@
+﻿PokerStars Hand #254769489339:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 18:21:58 WET [2025/02/08 13:21:58 ET]
+Table 'Fini II' 6-max Seat #6 is the button
+Seat 2: rao999 ($100 in chips) 
+Seat 3: SorinS28 ($120.66 in chips) 
+Seat 4: paramourx ($100 in chips) 
+Seat 5: whlzor ($179.25 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+rao999: posts small blind $0.50
+SorinS28: posts big blind $1
+*** HOLE CARDS ***
+paramourx: raises $2 to $3
+whlzor: folds 
+AlexPinsk1: folds 
+rao999: calls $2.50
+SorinS28: folds 
+*** FLOP *** [Kc Ks 9d]
+rao999: checks 
+paramourx: bets $2.06
+rao999: folds 
+Uncalled bet ($2.06) returned to paramourx
+paramourx collected $6.65 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Kc Ks 9d]
+Seat 2: rao999 (small blind) folded on the Flop
+Seat 3: SorinS28 (big blind) folded before Flop
+Seat 4: paramourx collected ($6.65)
+Seat 5: whlzor folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254769501287:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 18:22:38 WET [2025/02/08 13:22:38 ET]
+Table 'Fini II' 6-max Seat #2 is the button
+Seat 2: rao999 ($100 in chips) 
+Seat 3: SorinS28 ($119.66 in chips) 
+Seat 4: paramourx ($103.65 in chips) 
+Seat 5: whlzor ($179.25 in chips) 
+Seat 6: AlexPinsk1 ($100 in chips) 
+SorinS28: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+whlzor: folds 
+AlexPinsk1: folds 
+whlzor leaves the table
+rao999: raises $1.50 to $2.50
+SorinS28: folds 
+paramourx: folds 
+Uncalled bet ($1.50) returned to rao999
+rao999 collected $2.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: rao999 (button) collected ($2.50)
+Seat 3: SorinS28 (small blind) folded before Flop
+Seat 4: paramourx (big blind) folded before Flop
+Seat 5: whlzor folded before Flop (didn't bet)
+Seat 6: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254769506863:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 18:22:57 WET [2025/02/08 13:22:57 ET]
+Table 'Fini II' 6-max Seat #4 is the button
+Seat 2: rao999 ($101.50 in chips) is sitting out
+Seat 6: AlexPinsk1 ($100 in chips) is sitting out
+Seat 3: SorinS28 ($119.16 in chips) 
+Seat 4: paramourx ($102.65 in chips) 
+paramourx: posts small blind $0.50
+AlexPinsk1: is sitting out 
+rao999: is sitting out 
+SorinS28: posts big blind $1
+*** HOLE CARDS ***
+paramourx: raises $2 to $3
+SorinS28: calls $2
+*** FLOP *** [Kh 2d 6c]
+SorinS28: checks 
+AlexPinsk1 leaves the table
+paramourx: bets $1.77
+SorinS28: calls $1.77
+*** TURN *** [Kh 2d 6c] [9s]
+SorinS28: checks 
+paramourx: bets $14.04
+SorinS28: folds 
+Uncalled bet ($14.04) returned to paramourx
+paramourx collected $9.06 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.54 | Rake $0.48 
+Board [Kh 2d 6c 9s]
+Seat 2: rao999
+Seat 6: AlexPinsk1
+Seat 3: SorinS28 (big blind) folded on the Turn
+Seat 4: paramourx (button) (small blind) collected ($9.06)
+
+
+
+PokerStars Hand #254769527186:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 18:24:05 WET [2025/02/08 13:24:05 ET]
+Table 'Fini II' 6-max Seat #3 is the button
+Seat 2: rao999 ($101.50 in chips) is sitting out
+Seat 3: SorinS28 ($114.39 in chips) 
+Seat 4: paramourx ($106.94 in chips) 
+SorinS28: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+SorinS28: raises $2 to $3
+paramourx: raises $9 to $12
+SorinS28: calls $9
+*** FLOP *** [Kc Qs 3c]
+paramourx: bets $11.50
+SorinS28: folds 
+Uncalled bet ($11.50) returned to paramourx
+paramourx collected $23 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1 
+Board [Kc Qs 3c]
+Seat 2: rao999
+Seat 3: SorinS28 (button) (small blind) folded on the Flop
+Seat 4: paramourx (big blind) collected ($23)
+
+
+

@@ -1,0 +1,594 @@
+﻿PokerStars Hand #254327809588:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:42:01 WET [2025/01/12 3:42:01 ET]
+Table 'Lampland II' 6-max Seat #2 is the button
+Seat 1: Emily_GetMan ($100 in chips) is sitting out
+Seat 5: Ysiven ($100 in chips) is sitting out
+Seat 2: 3EPH ($100 in chips) 
+Seat 3: radu10101 ($48.23 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 6: stevoooo34 ($20.90 in chips) 
+radu10101: posts small blind $0.50
+Pon4uk.ua: posts big blind $1
+Ysiven: sits out 
+Emily_GetMan: sits out 
+*** HOLE CARDS ***
+stevoooo34: folds 
+3EPH: raises $1.50 to $2.50
+radu10101: folds 
+Pon4uk.ua: folds 
+Uncalled bet ($1.50) returned to 3EPH
+3EPH collected $2.50 from pot
+3EPH: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Emily_GetMan
+Seat 5: Ysiven
+Seat 2: 3EPH (button) collected ($2.50)
+Seat 3: radu10101 (small blind) folded before Flop
+Seat 4: Pon4uk.ua (big blind) folded before Flop
+Seat 6: stevoooo34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254327812022:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:42:27 WET [2025/01/12 3:42:27 ET]
+Table 'Lampland II' 6-max Seat #3 is the button
+Seat 1: Emily_GetMan ($100 in chips) is sitting out
+Seat 2: 3EPH ($101.50 in chips) 
+Seat 3: radu10101 ($47.73 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 5: Ysiven ($100 in chips) 
+Seat 6: stevoooo34 ($20.90 in chips) 
+Pon4uk.ua: posts small blind $0.50
+Ysiven: posts big blind $1
+Emily_GetMan: sits out 
+*** HOLE CARDS ***
+stevoooo34: calls $1
+3EPH: folds 
+radu10101: folds 
+Pon4uk.ua: calls $0.50
+Ysiven: raises $5 to $6
+stevoooo34: folds 
+Pon4uk.ua: folds 
+Uncalled bet ($5) returned to Ysiven
+Ysiven collected $3 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: Emily_GetMan
+Seat 2: 3EPH folded before Flop (didn't bet)
+Seat 3: radu10101 (button) folded before Flop (didn't bet)
+Seat 4: Pon4uk.ua (small blind) folded before Flop
+Seat 5: Ysiven (big blind) collected ($3)
+Seat 6: stevoooo34 folded before Flop
+
+
+
+PokerStars Hand #254327815974:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:43:09 WET [2025/01/12 3:43:09 ET]
+Table 'Lampland II' 6-max Seat #4 is the button
+Seat 1: Emily_GetMan ($100 in chips) is sitting out
+Seat 2: 3EPH ($101.50 in chips) 
+Seat 3: radu10101 ($47.73 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 5: Ysiven ($102 in chips) 
+Seat 6: stevoooo34 ($19.90 in chips) 
+Ysiven: posts small blind $0.50
+stevoooo34: posts big blind $1
+Emily_GetMan: sits out 
+*** HOLE CARDS ***
+3EPH: raises $1 to $2
+radu10101: raises $2 to $4
+Pon4uk.ua: folds 
+Ysiven: folds 
+stevoooo34: folds 
+3EPH: folds 
+Uncalled bet ($2) returned to radu10101
+radu10101 collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: Emily_GetMan
+Seat 2: 3EPH folded before Flop
+Seat 3: radu10101 collected ($5.50)
+Seat 4: Pon4uk.ua (button) folded before Flop (didn't bet)
+Seat 5: Ysiven (small blind) folded before Flop
+Seat 6: stevoooo34 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254327817533:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:43:26 WET [2025/01/12 3:43:26 ET]
+Table 'Lampland II' 6-max Seat #5 is the button
+Seat 1: Emily_GetMan ($100 in chips) 
+Seat 2: 3EPH ($100 in chips) 
+Seat 3: radu10101 ($51.23 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 5: Ysiven ($101.50 in chips) 
+Seat 6: stevoooo34 ($18.90 in chips) 
+stevoooo34: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+3EPH: folds 
+radu10101: folds 
+Pon4uk.ua: folds 
+Ysiven: raises $1.30 to $2.30
+stevoooo34: folds 
+Emily_GetMan: calls $1.30
+*** FLOP *** [Qc 2s 9s]
+Emily_GetMan: checks 
+Ysiven: checks 
+*** TURN *** [Qc 2s 9s] [Ac]
+Emily_GetMan: checks 
+Ysiven: checks 
+*** RIVER *** [Qc 2s 9s Ac] [Ts]
+Emily_GetMan: checks 
+Ysiven: checks 
+*** SHOW DOWN ***
+Emily_GetMan: shows [6c Tc] (a pair of Tens)
+Ysiven: mucks hand 
+Emily_GetMan collected $4.84 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.26 
+Board [Qc 2s 9s Ac Ts]
+Seat 1: Emily_GetMan (big blind) showed [6c Tc] and won ($4.84) with a pair of Tens
+Seat 2: 3EPH folded before Flop (didn't bet)
+Seat 3: radu10101 folded before Flop (didn't bet)
+Seat 4: Pon4uk.ua folded before Flop (didn't bet)
+Seat 5: Ysiven (button) mucked
+Seat 6: stevoooo34 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254327821665:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:44:10 WET [2025/01/12 3:44:10 ET]
+Table 'Lampland II' 6-max Seat #6 is the button
+Seat 2: 3EPH ($100 in chips) is sitting out
+Seat 1: Emily_GetMan ($102.54 in chips) 
+Seat 3: radu10101 ($51.23 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 5: Ysiven ($100 in chips) 
+Seat 6: stevoooo34 ($18.40 in chips) 
+Emily_GetMan: posts small blind $0.50
+3EPH: is sitting out 
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+Pon4uk.ua: folds 
+Ysiven: raises $1 to $2
+stevoooo34: folds 
+Emily_GetMan: folds 
+radu10101: folds 
+Uncalled bet ($1) returned to Ysiven
+Ysiven collected $2.50 from pot
+Ysiven: doesn't show hand 
+3EPH leaves the table
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: 3EPH
+Seat 1: Emily_GetMan (small blind) folded before Flop
+Seat 3: radu10101 (big blind) folded before Flop
+Seat 4: Pon4uk.ua folded before Flop (didn't bet)
+Seat 5: Ysiven collected ($2.50)
+Seat 6: stevoooo34 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254327823041:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:44:25 WET [2025/01/12 3:44:25 ET]
+Table 'Lampland II' 6-max Seat #1 is the button
+Seat 1: Emily_GetMan ($102.04 in chips) 
+Seat 3: radu10101 ($50.23 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 5: Ysiven ($101.50 in chips) 
+Seat 6: stevoooo34 ($18.40 in chips) 
+radu10101: posts small blind $0.50
+Pon4uk.ua: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: folds 
+stevoooo34: calls $1
+Emily_GetMan: calls $1
+radu10101: folds 
+MaRKiToScoK joins the table at seat #2 
+Pon4uk.ua: checks 
+*** FLOP *** [Tc 2c 9h]
+Pon4uk.ua: checks 
+stevoooo34: checks 
+Emily_GetMan: bets $1.10
+Pon4uk.ua: folds 
+stevoooo34: folds 
+Uncalled bet ($1.10) returned to Emily_GetMan
+Emily_GetMan collected $3.32 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [Tc 2c 9h]
+Seat 1: Emily_GetMan (button) collected ($3.32)
+Seat 3: radu10101 (small blind) folded before Flop
+Seat 4: Pon4uk.ua (big blind) folded on the Flop
+Seat 5: Ysiven folded before Flop (didn't bet)
+Seat 6: stevoooo34 folded on the Flop
+
+
+
+PokerStars Hand #254327828716:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:45:26 WET [2025/01/12 3:45:26 ET]
+Table 'Lampland II' 6-max Seat #3 is the button
+Seat 2: MaRKiToScoK ($100 in chips) is sitting out
+Seat 1: Emily_GetMan ($104.36 in chips) 
+Seat 3: radu10101 ($49.73 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 5: Ysiven ($101.50 in chips) 
+Seat 6: stevoooo34 ($17.40 in chips) 
+Pon4uk.ua: posts small blind $0.50
+Ysiven: posts big blind $1
+MaRKiToScoK: sits out 
+*** HOLE CARDS ***
+stevoooo34: folds 
+Emily_GetMan: raises $1 to $2
+radu10101: folds 
+Pon4uk.ua: folds 
+Ysiven: calls $1
+*** FLOP *** [Ad 5h 5c]
+Ysiven: checks 
+Emily_GetMan: bets $1.41
+Ysiven: folds 
+Uncalled bet ($1.41) returned to Emily_GetMan
+Emily_GetMan collected $4.28 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ad 5h 5c]
+Seat 2: MaRKiToScoK
+Seat 1: Emily_GetMan collected ($4.28)
+Seat 3: radu10101 (button) folded before Flop (didn't bet)
+Seat 4: Pon4uk.ua (small blind) folded before Flop
+Seat 5: Ysiven (big blind) folded on the Flop
+Seat 6: stevoooo34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254327831523:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:45:57 WET [2025/01/12 3:45:57 ET]
+Table 'Lampland II' 6-max Seat #4 is the button
+Seat 2: MaRKiToScoK ($100 in chips) is sitting out
+Seat 1: Emily_GetMan ($106.64 in chips) 
+Seat 3: radu10101 ($49.73 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 5: Ysiven ($100 in chips) 
+Seat 6: stevoooo34 ($17.40 in chips) 
+Ysiven: posts small blind $0.50
+stevoooo34: posts big blind $1
+MaRKiToScoK: sits out 
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+radu10101: folds 
+Pon4uk.ua: folds 
+Ysiven: folds 
+Uncalled bet ($0.50) returned to stevoooo34
+stevoooo34 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: MaRKiToScoK
+Seat 1: Emily_GetMan folded before Flop (didn't bet)
+Seat 3: radu10101 folded before Flop (didn't bet)
+Seat 4: Pon4uk.ua (button) folded before Flop (didn't bet)
+Seat 5: Ysiven (small blind) folded before Flop
+Seat 6: stevoooo34 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254327833025:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:46:13 WET [2025/01/12 3:46:13 ET]
+Table 'Lampland II' 6-max Seat #5 is the button
+Seat 2: MaRKiToScoK ($100 in chips) is sitting out
+Seat 1: Emily_GetMan ($106.64 in chips) 
+Seat 3: radu10101 ($49.73 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 5: Ysiven ($100 in chips) 
+Seat 6: stevoooo34 ($17.90 in chips) 
+stevoooo34: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+MaRKiToScoK: sits out 
+*** HOLE CARDS ***
+radu10101: calls $1
+Pon4uk.ua: raises $3 to $4
+Ysiven: folds 
+stevoooo34: folds 
+Emily_GetMan: folds 
+radu10101: folds 
+Uncalled bet ($3) returned to Pon4uk.ua
+Pon4uk.ua collected $3.50 from pot
+Pon4uk.ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 2: MaRKiToScoK
+Seat 1: Emily_GetMan (big blind) folded before Flop
+Seat 3: radu10101 folded before Flop
+Seat 4: Pon4uk.ua collected ($3.50)
+Seat 5: Ysiven (button) folded before Flop (didn't bet)
+Seat 6: stevoooo34 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254327834749:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:46:32 WET [2025/01/12 3:46:32 ET]
+Table 'Lampland II' 6-max Seat #6 is the button
+Seat 1: Emily_GetMan ($105.64 in chips) 
+Seat 2: MaRKiToScoK ($100 in chips) 
+Seat 3: radu10101 ($48.73 in chips) 
+Seat 4: Pon4uk.ua ($102.50 in chips) 
+Seat 5: Ysiven ($100 in chips) 
+Seat 6: stevoooo34 ($17.40 in chips) 
+Emily_GetMan: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+radu10101: calls $1
+Pon4uk.ua: folds 
+Ysiven: folds 
+stevoooo34: folds 
+Emily_GetMan: folds 
+MaRKiToScoK: raises $3.50 to $4.50
+radu10101: calls $3.50
+*** FLOP *** [Jh 6c 4s]
+MaRKiToScoK: checks 
+radu10101: bets $3
+MaRKiToScoK: folds 
+Uncalled bet ($3) returned to radu10101
+radu10101 collected $9.02 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Jh 6c 4s]
+Seat 1: Emily_GetMan (small blind) folded before Flop
+Seat 2: MaRKiToScoK (big blind) folded on the Flop
+Seat 3: radu10101 collected ($9.02)
+Seat 4: Pon4uk.ua folded before Flop (didn't bet)
+Seat 5: Ysiven folded before Flop (didn't bet)
+Seat 6: stevoooo34 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254327839355:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:47:23 WET [2025/01/12 3:47:23 ET]
+Table 'Lampland II' 6-max Seat #1 is the button
+Seat 1: Emily_GetMan ($105.14 in chips) 
+Seat 2: MaRKiToScoK ($100 in chips) 
+Seat 3: radu10101 ($53.25 in chips) 
+Seat 4: Pon4uk.ua ($102.50 in chips) 
+Seat 5: Ysiven ($100 in chips) 
+Seat 6: stevoooo34 ($17.40 in chips) 
+MaRKiToScoK: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+Pon4uk.ua: folds 
+Ysiven: folds 
+stevoooo34: raises $2 to $3
+Emily_GetMan: folds 
+MaRKiToScoK: folds 
+radu10101: folds 
+Uncalled bet ($2) returned to stevoooo34
+stevoooo34 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Emily_GetMan (button) folded before Flop (didn't bet)
+Seat 2: MaRKiToScoK (small blind) folded before Flop
+Seat 3: radu10101 (big blind) folded before Flop
+Seat 4: Pon4uk.ua folded before Flop (didn't bet)
+Seat 5: Ysiven folded before Flop (didn't bet)
+Seat 6: stevoooo34 collected ($2.50)
+
+
+
+PokerStars Hand #254327841557:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:47:46 WET [2025/01/12 3:47:46 ET]
+Table 'Lampland II' 6-max Seat #2 is the button
+Seat 1: Emily_GetMan ($105.14 in chips) 
+Seat 2: MaRKiToScoK ($100 in chips) 
+Seat 3: radu10101 ($52.25 in chips) 
+Seat 4: Pon4uk.ua ($102.50 in chips) 
+Seat 5: Ysiven ($100 in chips) 
+Seat 6: stevoooo34 ($18.90 in chips) 
+radu10101: posts small blind $0.50
+Pon4uk.ua: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: folds 
+stevoooo34: folds 
+Emily_GetMan: folds 
+MaRKiToScoK: folds 
+radu10101: raises $2 to $3
+Pon4uk.ua: calls $2
+*** FLOP *** [Qc 3c 4s]
+radu10101: bets $2
+Pon4uk.ua: folds 
+Uncalled bet ($2) returned to radu10101
+radu10101 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Qc 3c 4s]
+Seat 1: Emily_GetMan folded before Flop (didn't bet)
+Seat 2: MaRKiToScoK (button) folded before Flop (didn't bet)
+Seat 3: radu10101 (small blind) collected ($5.70)
+Seat 4: Pon4uk.ua (big blind) folded on the Flop
+Seat 5: Ysiven folded before Flop (didn't bet)
+Seat 6: stevoooo34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254327845096:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:48:25 WET [2025/01/12 3:48:25 ET]
+Table 'Lampland II' 6-max Seat #3 is the button
+Seat 1: Emily_GetMan ($105.14 in chips) 
+Seat 2: MaRKiToScoK ($100 in chips) 
+Seat 3: radu10101 ($54.95 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 5: Ysiven ($100 in chips) 
+Seat 6: stevoooo34 ($18.90 in chips) 
+Pon4uk.ua: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+stevoooo34: calls $1
+Emily_GetMan: raises $2.50 to $3.50
+MaRKiToScoK: folds 
+radu10101: folds 
+Pon4uk.ua: folds 
+Ysiven: folds 
+stevoooo34: calls $2.50
+*** FLOP *** [9d 4d 4s]
+stevoooo34: checks 
+Emily_GetMan: bets $2.67
+stevoooo34: calls $2.67
+*** TURN *** [9d 4d 4s] [Ah]
+stevoooo34: checks 
+Emily_GetMan: bets $13
+stevoooo34: folds 
+Uncalled bet ($13) returned to Emily_GetMan
+Emily_GetMan collected $13.15 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.84 | Rake $0.69 
+Board [9d 4d 4s Ah]
+Seat 1: Emily_GetMan collected ($13.15)
+Seat 2: MaRKiToScoK folded before Flop (didn't bet)
+Seat 3: radu10101 (button) folded before Flop (didn't bet)
+Seat 4: Pon4uk.ua (small blind) folded before Flop
+Seat 5: Ysiven (big blind) folded before Flop
+Seat 6: stevoooo34 folded on the Turn
+
+
+
+PokerStars Hand #254327849872:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:49:16 WET [2025/01/12 3:49:16 ET]
+Table 'Lampland II' 6-max Seat #4 is the button
+Seat 1: Emily_GetMan ($112.12 in chips) 
+Seat 2: MaRKiToScoK ($100 in chips) 
+Seat 3: radu10101 ($54.95 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 5: Ysiven ($100 in chips) 
+Seat 6: stevoooo34 ($12.73 in chips) 
+Ysiven: posts small blind $0.50
+stevoooo34: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: raises $1 to $2
+MaRKiToScoK: folds 
+radu10101: calls $2
+Pon4uk.ua: folds 
+Ysiven: folds 
+stevoooo34: calls $1
+*** FLOP *** [8d 4h Kd]
+stevoooo34: checks 
+Emily_GetMan: bets $2.04
+radu10101: folds 
+stevoooo34: calls $2.04
+*** TURN *** [8d 4h Kd] [5h]
+stevoooo34: checks 
+Emily_GetMan: bets $13.07
+stevoooo34: calls $8.69 and is all-in
+Uncalled bet ($4.38) returned to Emily_GetMan
+*** RIVER *** [8d 4h Kd 5h] [Kc]
+*** SHOW DOWN ***
+stevoooo34: shows [6c 8h] (two pair, Kings and Eights)
+Emily_GetMan: shows [Ks Jc] (three of a kind, Kings)
+Emily_GetMan collected $26.56 from pot
+*** SUMMARY ***
+Total pot $27.96 | Rake $1.40 
+Board [8d 4h Kd 5h Kc]
+Seat 1: Emily_GetMan showed [Ks Jc] and won ($26.56) with three of a kind, Kings
+Seat 2: MaRKiToScoK folded before Flop (didn't bet)
+Seat 3: radu10101 folded on the Flop
+Seat 4: Pon4uk.ua (button) folded before Flop (didn't bet)
+Seat 5: Ysiven (small blind) folded before Flop
+Seat 6: stevoooo34 (big blind) showed [6c 8h] and lost with two pair, Kings and Eights
+
+
+
+PokerStars Hand #254327853596:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:49:56 WET [2025/01/12 3:49:56 ET]
+Table 'Lampland II' 6-max Seat #5 is the button
+Seat 6: stevoooo34 ($0 in chips) is sitting out
+Seat 1: Emily_GetMan ($125.95 in chips) 
+Seat 2: MaRKiToScoK ($100 in chips) 
+Seat 3: radu10101 ($52.95 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 5: Ysiven ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+radu10101: folds 
+Pon4uk.ua: raises $1.50 to $2.50
+Ysiven: folds 
+radu10101 leaves the table
+Emily_GetMan: raises $9 to $11.50
+MaRKiToScoK: folds 
+Pon4uk.ua: folds 
+Uncalled bet ($9) returned to Emily_GetMan
+Emily_GetMan collected $6 from pot
+Emily_GetMan: doesn't show hand 
+MaRKiToScoK leaves the table
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 6: stevoooo34
+Seat 1: Emily_GetMan (small blind) collected ($6)
+Seat 2: MaRKiToScoK (big blind) folded before Flop
+Seat 3: radu10101 folded before Flop (didn't bet)
+Seat 4: Pon4uk.ua folded before Flop
+Seat 5: Ysiven (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254327855787:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:50:19 WET [2025/01/12 3:50:19 ET]
+Table 'Lampland II' 6-max Seat #1 is the button
+Seat 6: stevoooo34 ($0 in chips) is sitting out
+Seat 1: Emily_GetMan ($129.45 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 5: Ysiven ($100 in chips) 
+Pon4uk.ua: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: raises $1.50 to $2.50
+Pon4uk.ua: folds 
+Ysiven: calls $1.50
+*** FLOP *** [9h Qc 9s]
+Ysiven: checks 
+Emily_GetMan: bets $1.72
+Ysiven: folds 
+Uncalled bet ($1.72) returned to Emily_GetMan
+Emily_GetMan collected $5.22 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [9h Qc 9s]
+Seat 6: stevoooo34
+Seat 1: Emily_GetMan (button) collected ($5.22)
+Seat 4: Pon4uk.ua (small blind) folded before Flop
+Seat 5: Ysiven (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254327859648:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:51:00 WET [2025/01/12 3:51:00 ET]
+Table 'Lampland II' 6-max Seat #5 is the button
+Seat 1: Emily_GetMan ($132.17 in chips) is sitting out
+Seat 6: stevoooo34 ($0 in chips) is sitting out
+Seat 4: Pon4uk.ua ($100 in chips) 
+Seat 5: Ysiven ($100 in chips) 
+Ysiven: posts small blind $0.50
+Emily_GetMan: is sitting out 
+Pon4uk.ua: posts big blind $1
+*** HOLE CARDS ***
+stevoooo34 leaves the table
+Emily_GetMan leaves the table
+Ysiven: raises $1.50 to $2.50
+Pon4uk.ua: raises $8.50 to $11
+Ysiven: folds 
+Uncalled bet ($8.50) returned to Pon4uk.ua
+Pon4uk.ua collected $5 from pot
+Pon4uk.ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: Emily_GetMan
+Seat 6: stevoooo34
+Seat 4: Pon4uk.ua (big blind) collected ($5)
+Seat 5: Ysiven (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254327860998:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 8:51:15 WET [2025/01/12 3:51:15 ET]
+Table 'Lampland II' 6-max Seat #4 is the button
+Seat 4: Pon4uk.ua ($102.50 in chips) 
+Seat 5: Ysiven ($100 in chips) 
+Pon4uk.ua: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+Pon4uk.ua: folds 
+Uncalled bet ($0.50) returned to Ysiven
+Ysiven collected $1 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: Pon4uk.ua (button) (small blind) folded before Flop
+Seat 5: Ysiven (big blind) collected ($1)
+
+
+

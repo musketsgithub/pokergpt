@@ -1,0 +1,122 @@
+﻿PokerStars Hand #254591381087:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 8:56:08 WET [2025/01/28 3:56:08 ET]
+Table 'Bellona IV' 6-max Seat #5 is the button
+Seat 2: ptolejmus ($10 in chips) is sitting out
+Seat 4: valmble ($10 in chips) 
+Seat 5: Paco19bn ($100 in chips) 
+Paco19bn: posts small blind $0.50
+valmble: posts big blind $1
+*** HOLE CARDS ***
+Paco19bn: raises $2 to $3
+valmble: raises $7 to $10 and is all-in
+Paco19bn: calls $7
+valmble has timed out
+*** FLOP *** [8c As 8h]
+*** TURN *** [8c As 8h] [8s]
+*** RIVER *** [8c As 8h 8s] [2s]
+*** SHOW DOWN ***
+valmble: shows [Td Jh] (three of a kind, Eights)
+Paco19bn: shows [Qc 9d] (three of a kind, Eights - Ace+Queen kicker)
+Paco19bn collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [8c As 8h 8s 2s]
+Seat 2: ptolejmus
+Seat 4: valmble (big blind) showed [Td Jh] and lost with three of a kind, Eights
+Seat 5: Paco19bn (button) (small blind) showed [Qc 9d] and won ($19) with three of a kind, Eights
+
+
+
+PokerStars Hand #254591385576:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 8:57:04 WET [2025/01/28 3:57:04 ET]
+Table 'Bellona IV' 6-max Seat #4 is the button
+Seat 2: ptolejmus ($10 in chips) 
+Seat 4: valmble ($10 in chips) 
+Seat 5: Paco19bn ($109 in chips) 
+Paco19bn: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+valmble: folds 
+Paco19bn: raises $2 to $3
+ptolejmus: raises $7 to $10 and is all-in
+Paco19bn: calls $7
+*** FIRST FLOP *** [Th 2c Ad]
+*** FIRST TURN *** [Th 2c Ad] [Kc]
+*** FIRST RIVER *** [Th 2c Ad Kc] [Ts]
+*** SECOND FLOP *** [Js 9c 2h]
+*** SECOND TURN *** [Js 9c 2h] [Qc]
+*** SECOND RIVER *** [Js 9c 2h Qc] [Ah]
+*** FIRST SHOW DOWN ***
+Paco19bn: shows [8h Jc] (a pair of Tens)
+ptolejmus: shows [Tc As] (a full house, Tens full of Aces)
+ptolejmus collected $9.50 from pot
+*** SECOND SHOW DOWN ***
+Paco19bn: shows [8h Jc] (a pair of Jacks)
+ptolejmus: shows [Tc As] (a pair of Aces)
+ptolejmus collected $9.50 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Hand was run twice
+FIRST Board [Th 2c Ad Kc Ts]
+SECOND Board [Js 9c 2h Qc Ah]
+Seat 2: ptolejmus (big blind) showed [Tc As] and won ($9.50) with a full house, Tens full of Aces, and won ($9.50) with a pair of Aces
+Seat 4: valmble (button) folded before Flop (didn't bet)
+Seat 5: Paco19bn (small blind) showed [8h Jc] and lost with a pair of Tens, and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254591388703:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 8:57:43 WET [2025/01/28 3:57:43 ET]
+Table 'Bellona IV' 6-max Seat #2 is the button
+Seat 4: valmble ($10 in chips) is sitting out
+Seat 2: ptolejmus ($19 in chips) 
+Seat 5: Paco19bn ($100 in chips) 
+ptolejmus: posts small blind $0.50
+valmble: is sitting out 
+Paco19bn: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: calls $0.50
+Paco19bn: checks 
+*** FLOP *** [Qc Js 4d]
+Paco19bn: checks 
+ptolejmus: bets $1
+Paco19bn: calls $1
+*** TURN *** [Qc Js 4d] [Ac]
+Paco19bn: checks 
+ptolejmus: bets $3.80
+Paco19bn: folds 
+Uncalled bet ($3.80) returned to ptolejmus
+ptolejmus collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Qc Js 4d Ac]
+Seat 4: valmble
+Seat 2: ptolejmus (button) (small blind) collected ($3.80)
+Seat 5: Paco19bn (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254591392760:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 8:58:34 WET [2025/01/28 3:58:34 ET]
+Table 'Bellona IV' 6-max Seat #4 is the button
+Seat 4: valmble ($10 in chips) 
+Seat 5: Paco19bn ($100 in chips) 
+valmble: posts small blind $0.50
+Paco19bn: posts big blind $1
+*** HOLE CARDS ***
+valmble: raises $1 to $2
+Paco19bn: raises $9.50 to $11.50
+valmble: calls $8 and is all-in
+Uncalled bet ($1.50) returned to Paco19bn
+valmble has timed out
+*** FLOP *** [9s Ks As]
+*** TURN *** [9s Ks As] [5h]
+*** RIVER *** [9s Ks As 5h] [5c]
+*** SHOW DOWN ***
+Paco19bn: shows [Jd Ad] (two pair, Aces and Fives)
+valmble: shows [Ah 5s] (a full house, Fives full of Aces)
+valmble collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [9s Ks As 5h 5c]
+Seat 4: valmble (button) (small blind) showed [Ah 5s] and won ($19) with a full house, Fives full of Aces
+Seat 5: Paco19bn (big blind) showed [Jd Ad] and lost with two pair, Aces and Fives
+
+
+

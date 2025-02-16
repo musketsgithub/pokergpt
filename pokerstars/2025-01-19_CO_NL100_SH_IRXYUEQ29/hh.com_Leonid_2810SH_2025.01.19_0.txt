@@ -1,0 +1,4430 @@
+﻿PokerStars Hand #254453891701:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 19:39:44 WET [2025/01/19 14:39:44 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 2: Y_19 ($100 in chips) is sitting out
+Seat 1: ka100pka527 ($10 in chips) 
+Seat 5: AlexPinsk1 ($100 in chips) 
+ka100pka527: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+ka100pka527: calls $0.50
+AlexPinsk1: checks 
+*** FLOP *** [5h Qd Ad]
+AlexPinsk1: checks 
+ka100pka527: bets $1.27
+AlexPinsk1: raises $9.23 to $10.50
+Y_19 leaves the table
+ka100pka527: folds 
+Uncalled bet ($9.23) returned to AlexPinsk1
+AlexPinsk1 collected $4.31 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.54 | Rake $0.23 
+Board [5h Qd Ad]
+Seat 2: Y_19
+Seat 1: ka100pka527 (button) (small blind) folded on the Flop
+Seat 5: AlexPinsk1 (big blind) collected ($4.31)
+
+
+
+PokerStars Hand #254453906754:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 19:40:24 WET [2025/01/19 14:40:24 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: ka100pka527 ($100 in chips) 
+Seat 5: AlexPinsk1 ($102.04 in chips) 
+AlexPinsk1: posts small blind $0.50
+ka100pka527: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: raises $1.50 to $2.50
+ka100pka527: calls $1.50
+*** FLOP *** [7c Kh 6d]
+ka100pka527: checks 
+AlexPinsk1: checks 
+*** TURN *** [7c Kh 6d] [6s]
+ka100pka527: bets $6.65
+Lerix107 joins the table at seat #6 
+Lerix107 is disconnected 
+Joker007r joins the table at seat #2 
+AlexPinsk1: calls $6.65
+*** RIVER *** [7c Kh 6d 6s] [5c]
+z00mba joins the table at seat #4 
+ka100pka527: bets $21.33
+AlexPinsk1: calls $21.33
+*** SHOW DOWN ***
+ka100pka527: shows [Td 8d] (a pair of Sixes)
+AlexPinsk1: shows [6c Jh] (three of a kind, Sixes)
+AlexPinsk1 collected $59.96 from pot
+*** SUMMARY ***
+Total pot $60.96 | Rake $1 
+Board [7c Kh 6d 6s 5c]
+Seat 1: ka100pka527 (big blind) showed [Td 8d] and lost with a pair of Sixes
+Seat 5: AlexPinsk1 (button) (small blind) showed [6c Jh] and won ($59.96) with three of a kind, Sixes
+
+
+
+PokerStars Hand #254453939209:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 19:41:49 WET [2025/01/19 14:41:49 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 1: ka100pka527 ($100 in chips) 
+Seat 2: Joker007r ($100 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: AlexPinsk1 ($131.52 in chips) 
+Seat 6: Lerix107 ($10.27 in chips) 
+ka100pka527: posts small blind $0.50
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+AlexPinsk1: folds 
+Lerix107: calls $1
+ka100pka527: folds 
+Joker007r: checks 
+*** FLOP *** [Ac 8s Ks]
+Joker007r: checks 
+michasia joins the table at seat #3 
+Lerix107: bets $1
+Joker007r: calls $1
+*** TURN *** [Ac 8s Ks] [Th]
+Joker007r: checks 
+Lerix107: bets $2
+Joker007r: folds 
+Uncalled bet ($2) returned to Lerix107
+Lerix107 collected $4.22 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.28 
+Board [Ac 8s Ks Th]
+Seat 1: ka100pka527 (small blind) folded before Flop
+Seat 2: Joker007r (big blind) folded on the Turn
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: Lerix107 (button) collected ($4.22)
+
+
+
+PokerStars Hand #254453957973:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 19:42:39 WET [2025/01/19 14:42:39 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 1: ka100pka527 ($100 in chips) 
+Seat 2: Joker007r ($100 in chips) 
+Seat 3: michasia ($100 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: AlexPinsk1 ($131.52 in chips) 
+Seat 6: Lerix107 ($12.49 in chips) 
+Joker007r: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+AlexPinsk1: folds 
+Lerix107: calls $1
+ka100pka527: folds 
+Joker007r: folds 
+michasia: checks 
+*** FLOP *** [Qd As Ac]
+michasia: checks 
+Lerix107: checks 
+*** TURN *** [Qd As Ac] [7s]
+michasia: bets $1.59
+Lerix107: calls $1.59
+*** RIVER *** [Qd As Ac 7s] [6h]
+michasia: bets $3.60
+Lerix107: folds 
+Uncalled bet ($3.60) returned to michasia
+michasia collected $5.40 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.68 | Rake $0.28 
+Board [Qd As Ac 7s 6h]
+Seat 1: ka100pka527 (button) folded before Flop (didn't bet)
+Seat 2: Joker007r (small blind) folded before Flop
+Seat 3: michasia (big blind) collected ($5.40)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: Lerix107 folded on the River
+
+
+
+PokerStars Hand #254453976992:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 19:43:28 WET [2025/01/19 14:43:28 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 4: z00mba ($100 in chips) is sitting out
+Seat 1: ka100pka527 ($100 in chips) 
+Seat 2: Joker007r ($100 in chips) 
+Seat 3: michasia ($102.81 in chips) 
+Seat 5: AlexPinsk1 ($131.52 in chips) 
+Seat 6: Lerix107 ($9.90 in chips) 
+michasia: posts small blind $0.50
+z00mba: is sitting out 
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+Lerix107: raises $1 to $2
+ka100pka527: folds 
+Joker007r: raises $4 to $6
+michasia: folds 
+AlexPinsk1: folds 
+Lerix107: raises $3.90 to $9.90 and is all-in
+Joker007r: calls $3.90
+*** FLOP *** [9s Js Jc]
+*** TURN *** [9s Js Jc] [8s]
+*** RIVER *** [9s Js Jc 8s] [2h]
+*** SHOW DOWN ***
+Lerix107: shows [7s Ah] (a pair of Jacks)
+Joker007r: shows [Qs Jh] (three of a kind, Jacks)
+Joker007r collected $20.24 from pot
+*** SUMMARY ***
+Total pot $21.30 | Rake $1.06 
+Board [9s Js Jc 8s 2h]
+Seat 4: z00mba
+Seat 1: ka100pka527 folded before Flop (didn't bet)
+Seat 2: Joker007r (button) showed [Qs Jh] and won ($20.24) with three of a kind, Jacks
+Seat 3: michasia (small blind) folded before Flop
+Seat 5: AlexPinsk1 (big blind) folded before Flop
+Seat 6: Lerix107 showed [7s Ah] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254453995536:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 19:44:17 WET [2025/01/19 14:44:17 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 4: z00mba ($100 in chips) is sitting out
+Seat 6: Lerix107 ($0 in chips) is sitting out
+Seat 1: ka100pka527 ($100 in chips) 
+Seat 2: Joker007r ($110.34 in chips) 
+Seat 3: michasia ($102.31 in chips) 
+Seat 5: AlexPinsk1 ($130.52 in chips) 
+AlexPinsk1: posts small blind $0.50
+ka100pka527: posts big blind $1
+*** HOLE CARDS ***
+Joker007r: folds 
+michasia: folds 
+AlexPinsk1: folds 
+Uncalled bet ($0.50) returned to ka100pka527
+ka100pka527 collected $1 from pot
+ka100pka527: doesn't show hand 
+Lerix107 is disconnected 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: z00mba
+Seat 6: Lerix107
+Seat 1: ka100pka527 (big blind) collected ($1)
+Seat 2: Joker007r folded before Flop (didn't bet)
+Seat 3: michasia (button) folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254453999072:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 19:44:26 WET [2025/01/19 14:44:26 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 4: z00mba ($100 in chips) is sitting out
+Seat 6: Lerix107 ($0 in chips) is sitting out
+Seat 1: ka100pka527 ($100.50 in chips) 
+Seat 2: Joker007r ($110.34 in chips) 
+Seat 3: michasia ($102.31 in chips) 
+Seat 5: AlexPinsk1 ($130.02 in chips) 
+ka100pka527: posts small blind $0.50
+Joker007r: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+michasia: folds 
+AlexPinsk1: raises $1.50 to $2.50
+ka100pka527: folds 
+Joker007r: folds 
+Uncalled bet ($1.50) returned to AlexPinsk1
+AlexPinsk1 collected $2.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: z00mba
+Seat 6: Lerix107
+Seat 1: ka100pka527 (small blind) folded before Flop
+Seat 2: Joker007r (big blind) folded before Flop
+Seat 3: michasia folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254454003543:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 19:44:38 WET [2025/01/19 14:44:38 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 4: z00mba ($100 in chips) is sitting out
+Seat 6: Lerix107 ($0 in chips) is sitting out
+Seat 1: ka100pka527 ($100 in chips) 
+Seat 2: Joker007r ($109.34 in chips) 
+Seat 3: michasia ($102.31 in chips) 
+Seat 5: AlexPinsk1 ($131.52 in chips) 
+Joker007r: posts small blind $0.50
+michasia: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+ka100pka527: folds 
+Joker007r: raises $2 to $3
+michasia: folds 
+Uncalled bet ($2) returned to Joker007r
+Joker007r collected $2 from pot
+Joker007r: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: z00mba
+Seat 6: Lerix107
+Seat 1: ka100pka527 (button) folded before Flop (didn't bet)
+Seat 2: Joker007r (small blind) collected ($2)
+Seat 3: michasia (big blind) folded before Flop
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454009108:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 19:44:53 WET [2025/01/19 14:44:53 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 6: Lerix107 ($0 in chips) is sitting out
+Seat 1: ka100pka527 ($100 in chips) 
+Seat 2: Joker007r ($110.34 in chips) 
+Seat 3: michasia ($101.31 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: AlexPinsk1 ($131.52 in chips) 
+michasia: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+ka100pka527: raises $1.50 to $2.50
+Joker007r: folds 
+michasia: folds 
+z00mba: folds 
+Uncalled bet ($1.50) returned to ka100pka527
+ka100pka527 collected $2.50 from pot
+ka100pka527: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Lerix107
+Seat 1: ka100pka527 collected ($2.50)
+Seat 2: Joker007r (button) folded before Flop (didn't bet)
+Seat 3: michasia (small blind) folded before Flop
+Seat 4: z00mba (big blind) folded before Flop
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454015085:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 19:45:08 WET [2025/01/19 14:45:08 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 1: ka100pka527 ($101.50 in chips) is sitting out
+Seat 5: AlexPinsk1 ($131.52 in chips) is sitting out
+Seat 6: Lerix107 ($0 in chips) is sitting out
+Seat 2: Joker007r ($110.34 in chips) 
+Seat 3: michasia ($100.81 in chips) 
+Seat 4: z00mba ($100 in chips) 
+z00mba: posts small blind $0.50
+AlexPinsk1: is sitting out 
+ka100pka527: is sitting out 
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+ka100pka527 leaves the table
+z00mba: raises $2 to $3
+michasia leaves the table
+Joker007r: raises $6 to $9
+z00mba: folds 
+Uncalled bet ($6) returned to Joker007r
+Joker007r collected $6 from pot
+Joker007r: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: ka100pka527
+Seat 5: AlexPinsk1
+Seat 6: Lerix107
+Seat 2: Joker007r (big blind) collected ($6)
+Seat 3: michasia (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) folded before Flop
+
+
+
+PokerStars Hand #254454332198:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:01:43 WET [2025/01/19 15:01:43 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 6: z00mba ($100 in chips) is sitting out
+Seat 1: nastja336 ($104.62 in chips) 
+Seat 2: Joker007r ($105.61 in chips) 
+Seat 3: PIpenmeno95 ($95.28 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: AlexPinsk1 ($131.52 in chips) 
+XneferX: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+nastja336: folds 
+Joker007r: folds 
+PIpenmeno95: folds 
+XneferX: folds 
+Uncalled bet ($0.50) returned to AlexPinsk1
+AlexPinsk1 collected $1 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: z00mba
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: Joker007r folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (button) folded before Flop (didn't bet)
+Seat 4: XneferX (small blind) folded before Flop
+Seat 5: AlexPinsk1 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254454339258:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:02:05 WET [2025/01/19 15:02:05 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 1: nastja336 ($104.62 in chips) 
+Seat 2: Joker007r ($105.61 in chips) 
+Seat 3: PIpenmeno95 ($95.28 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: AlexPinsk1 ($132.02 in chips) 
+Seat 6: z00mba ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+Joker007r: folds 
+PIpenmeno95: folds 
+XneferX: folds 
+AlexPinsk1: folds 
+Uncalled bet ($0.50) returned to z00mba
+z00mba collected $1 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: Joker007r folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: XneferX (button) folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (small blind) folded before Flop
+Seat 6: z00mba (big blind) collected ($1)
+
+
+
+PokerStars Hand #254454343776:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:02:19 WET [2025/01/19 15:02:19 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: nastja336 ($104.62 in chips) 
+Seat 2: Joker007r ($105.61 in chips) 
+Seat 3: PIpenmeno95 ($95.28 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: AlexPinsk1 ($131.52 in chips) 
+Seat 6: z00mba ($100.50 in chips) 
+z00mba: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+Joker007r: folds 
+PIpenmeno95: folds 
+XneferX: folds 
+AlexPinsk1: raises $1.50 to $2.50
+z00mba: raises $9 to $11.50
+nastja336: folds 
+AlexPinsk1: folds 
+Uncalled bet ($9) returned to z00mba
+z00mba collected $6 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: nastja336 (big blind) folded before Flop
+Seat 2: Joker007r folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: XneferX folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (button) folded before Flop
+Seat 6: z00mba (small blind) collected ($6)
+
+
+
+PokerStars Hand #254454354642:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:02:50 WET [2025/01/19 15:02:50 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 2: Joker007r ($105.61 in chips) is sitting out
+Seat 1: nastja336 ($103.62 in chips) 
+Seat 3: PIpenmeno95 ($95.28 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: AlexPinsk1 ($129.02 in chips) 
+Seat 6: z00mba ($104 in chips) 
+nastja336: posts small blind $0.50
+Joker007r: is sitting out 
+PIpenmeno95: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+AlexPinsk1: raises $1.50 to $2.50
+z00mba: folds 
+nastja336: folds 
+PIpenmeno95: folds 
+Uncalled bet ($1.50) returned to AlexPinsk1
+AlexPinsk1 collected $2.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Joker007r
+Seat 1: nastja336 (small blind) folded before Flop
+Seat 3: PIpenmeno95 (big blind) folded before Flop
+Seat 4: XneferX folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 collected ($2.50)
+Seat 6: z00mba (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454360384:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:03:07 WET [2025/01/19 15:03:07 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 2: Joker007r ($105.61 in chips) is sitting out
+Seat 1: nastja336 ($103.12 in chips) 
+Seat 3: PIpenmeno95 ($94.28 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: AlexPinsk1 ($130.52 in chips) 
+Seat 6: z00mba ($104 in chips) 
+PIpenmeno95: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: raises $1.50 to $2.50
+z00mba: folds 
+nastja336: raises $5 to $7.50
+PIpenmeno95: folds 
+XneferX: folds 
+AlexPinsk1: folds 
+Uncalled bet ($5) returned to nastja336
+nastja336 collected $6.50 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 2: Joker007r
+Seat 1: nastja336 (button) collected ($6.50)
+Seat 3: PIpenmeno95 (small blind) folded before Flop
+Seat 4: XneferX (big blind) folded before Flop
+Seat 5: AlexPinsk1 folded before Flop
+Seat 6: z00mba folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454366400:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:03:23 WET [2025/01/19 15:03:23 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 2: Joker007r ($105.61 in chips) is sitting out
+Seat 1: nastja336 ($107.12 in chips) 
+Seat 3: PIpenmeno95 ($93.78 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: AlexPinsk1 ($128.02 in chips) 
+Seat 6: z00mba ($104 in chips) 
+XneferX: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+nastja336: raises $1.50 to $2.50
+PIpenmeno95: folds 
+Joker007r leaves the table
+XneferX: raises $9.50 to $12
+AlexPinsk1: folds 
+nastja336: raises $14 to $26
+vadjkeee joins the table at seat #2 
+XneferX: calls $14
+*** FLOP *** [Jd 2c 7h]
+XneferX: checks 
+nastja336: bets $16.67
+XneferX: calls $16.67
+*** TURN *** [Jd 2c 7h] [6s]
+XneferX: checks 
+nastja336: checks 
+*** RIVER *** [Jd 2c 7h 6s] [Qc]
+XneferX: checks 
+nastja336: bets $64.45 and is all-in
+XneferX: calls $57.33 and is all-in
+Uncalled bet ($7.12) returned to nastja336
+*** SHOW DOWN ***
+nastja336: shows [Ah Th] (high card Ace)
+XneferX: shows [9h 9s] (a pair of Nines)
+XneferX collected $198.50 from pot
+*** SUMMARY ***
+Total pot $201 | Rake $2.50 
+Board [Jd 2c 7h 6s Qc]
+Seat 2: Joker007r
+Seat 1: nastja336 showed [Ah Th] and lost with high card Ace
+Seat 3: PIpenmeno95 (button) folded before Flop (didn't bet)
+Seat 4: XneferX (small blind) showed [9h 9s] and won ($198.50) with a pair of Nines
+Seat 5: AlexPinsk1 (big blind) folded before Flop
+Seat 6: z00mba folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454413982:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:05:28 WET [2025/01/19 15:05:28 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 1: nastja336 ($100 in chips) is sitting out
+Seat 6: z00mba ($104 in chips) is sitting out
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($93.78 in chips) 
+Seat 4: XneferX ($198.50 in chips) 
+Seat 5: AlexPinsk1 ($127.02 in chips) 
+AlexPinsk1: posts small blind $0.50
+z00mba: is sitting out 
+nastja336: is sitting out 
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+nastja336 leaves the table
+PIpenmeno95: folds 
+XneferX: folds 
+tintin641 joins the table at seat #1 
+z00mba leaves the table
+AlexPinsk1: raises $2 to $3
+vadjkeee: calls $2
+*** FLOP *** [7d Tc Qs]
+AlexPinsk1: checks 
+vadjkeee: bets $1.88
+AlexPinsk1: calls $1.88
+*** TURN *** [7d Tc Qs] [6h]
+AlexPinsk1: checks 
+vadjkeee: checks 
+*** RIVER *** [7d Tc Qs 6h] [Ks]
+AlexPinsk1: bets $6.95
+vadjkeee: calls $6.95
+*** SHOW DOWN ***
+AlexPinsk1: shows [Qd Qc] (three of a kind, Queens)
+vadjkeee: mucks hand 
+AlexPinsk1 collected $22.66 from pot
+*** SUMMARY ***
+Total pot $23.66 | Rake $1 
+Board [7d Tc Qs 6h Ks]
+Seat 1: nastja336
+Seat 6: z00mba
+Seat 2: vadjkeee (big blind) mucked
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: XneferX (button) folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (small blind) showed [Qd Qc] and won ($22.66) with three of a kind, Queens
+
+
+
+PokerStars Hand #254454436437:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:06:26 WET [2025/01/19 15:06:26 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: tintin641 ($100 in chips) is sitting out
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($93.78 in chips) 
+Seat 4: XneferX ($198.50 in chips) 
+Seat 5: AlexPinsk1 ($137.85 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+*** HOLE CARDS ***
+XneferX: raises $1.30 to $2.30
+AlexPinsk1: raises $5.70 to $8
+vadjkeee: folds 
+PIpenmeno95: folds 
+XneferX: calls $5.70
+*** FLOP *** [Ts Kh 5s]
+XneferX: checks 
+michasia joins the table at seat #6 
+AlexPinsk1: bets $5.48
+XneferX: folds 
+Uncalled bet ($5.48) returned to AlexPinsk1
+AlexPinsk1 collected $16.62 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.88 
+Board [Ts Kh 5s]
+Seat 1: tintin641
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 3: PIpenmeno95 (big blind) folded before Flop
+Seat 4: XneferX folded on the Flop
+Seat 5: AlexPinsk1 (button) collected ($16.62)
+
+
+
+PokerStars Hand #254454453830:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:07:10 WET [2025/01/19 15:07:10 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 1: tintin641 ($100 in chips) is sitting out
+Seat 4: XneferX ($190.50 in chips) is sitting out
+Seat 6: michasia ($100.81 in chips) is sitting out
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($92.78 in chips) 
+Seat 5: AlexPinsk1 ($146.47 in chips) 
+PIpenmeno95: posts small blind $0.50
+XneferX: is sitting out 
+AlexPinsk1: posts big blind $1
+michasia: sits out 
+tintin641: sits out 
+*** HOLE CARDS ***
+vadjkeee: raises $1.50 to $2.50
+PIpenmeno95: calls $2
+XneferX leaves the table
+Dai5dop joins the table at seat #4 
+AlexPinsk1: folds 
+*** FLOP *** [9d Ad Ah]
+PIpenmeno95: checks 
+vadjkeee: bets $1.43
+PIpenmeno95: folds 
+Uncalled bet ($1.43) returned to vadjkeee
+vadjkeee collected $5.70 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [9d Ad Ah]
+Seat 1: tintin641
+Seat 4: XneferX
+Seat 6: michasia
+Seat 2: vadjkeee (button) collected ($5.70)
+Seat 3: PIpenmeno95 (small blind) folded on the Flop
+Seat 5: AlexPinsk1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254454464516:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:07:37 WET [2025/01/19 15:07:37 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 1: tintin641 ($100 in chips) is sitting out
+Seat 4: Dai5dop ($100 in chips) is sitting out
+Seat 2: vadjkeee ($103.20 in chips) 
+Seat 3: PIpenmeno95 ($90.28 in chips) 
+Seat 5: AlexPinsk1 ($145.47 in chips) 
+Seat 6: michasia ($100.81 in chips) 
+AlexPinsk1: posts small blind $0.50
+michasia: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+vadjkeee: folds 
+PIpenmeno95: folds 
+AlexPinsk1: raises $2 to $3
+michasia: folds 
+Uncalled bet ($2) returned to AlexPinsk1
+AlexPinsk1 collected $2 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: tintin641
+Seat 4: Dai5dop
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (button) folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (small blind) collected ($2)
+Seat 6: michasia (big blind) folded before Flop
+
+
+
+PokerStars Hand #254454472724:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:07:58 WET [2025/01/19 15:07:58 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 4: Dai5dop ($100 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($103.20 in chips) 
+Seat 3: PIpenmeno95 ($90.28 in chips) 
+Seat 5: AlexPinsk1 ($146.47 in chips) 
+Seat 6: michasia ($100 in chips) 
+michasia: posts small blind $0.50
+tintin641: posts big blind $1
+Dai5dop: sits out 
+*** HOLE CARDS ***
+vadjkeee: raises $1.50 to $2.50
+PIpenmeno95: folds 
+AlexPinsk1: raises $5 to $7.50
+michasia: folds 
+tintin641: folds 
+vadjkeee: folds 
+Uncalled bet ($5) returned to AlexPinsk1
+AlexPinsk1 collected $6.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 4: Dai5dop
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: vadjkeee folded before Flop
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (button) collected ($6.50)
+Seat 6: michasia (small blind) folded before Flop
+
+
+
+PokerStars Hand #254454491766:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:08:47 WET [2025/01/19 15:08:47 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 4: Dai5dop ($100 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($100.70 in chips) 
+Seat 3: PIpenmeno95 ($90.28 in chips) 
+Seat 5: AlexPinsk1 ($150.47 in chips) 
+Seat 6: michasia ($100 in chips) 
+tintin641: posts small blind $0.50
+vadjkeee: posts big blind $1
+Dai5dop: sits out 
+*** HOLE CARDS ***
+PIpenmeno95: folds 
+AlexPinsk1: folds 
+michasia: raises $1.80 to $2.80
+tintin641: folds 
+vadjkeee: folds 
+Uncalled bet ($1.80) returned to michasia
+michasia collected $2.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: Dai5dop
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) folded before Flop
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: michasia (button) collected ($2.50)
+
+
+
+PokerStars Hand #254454503692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:09:17 WET [2025/01/19 15:09:17 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 4: Dai5dop ($100 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($90.28 in chips) 
+Seat 5: AlexPinsk1 ($150.47 in chips) 
+Seat 6: michasia ($101.50 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+Dai5dop: sits out 
+*** HOLE CARDS ***
+AlexPinsk1: raises $1.50 to $2.50
+michasia: folds 
+tintin641: folds 
+vadjkeee: raises $8.50 to $11
+PIpenmeno95: folds 
+AlexPinsk1: folds 
+Uncalled bet ($8.50) returned to vadjkeee
+vadjkeee collected $6 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: Dai5dop
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: vadjkeee (small blind) collected ($6)
+Seat 3: PIpenmeno95 (big blind) folded before Flop
+Seat 5: AlexPinsk1 folded before Flop
+Seat 6: michasia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454510354:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:09:34 WET [2025/01/19 15:09:34 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($103.50 in chips) 
+Seat 3: PIpenmeno95 ($89.28 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: AlexPinsk1 ($147.97 in chips) 
+Seat 6: michasia ($101.50 in chips) 
+PIpenmeno95: posts small blind $0.50
+Dai5dop: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: raises $1.50 to $2.50
+michasia: folds 
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: calls $1.50
+*** FLOP *** [Kh Tc 8d]
+Dai5dop: checks 
+AlexPinsk1: bets $3.92
+Dai5dop: calls $3.92
+*** TURN *** [Kh Tc 8d] [9c]
+Dai5dop: checks 
+AlexPinsk1: checks 
+*** RIVER *** [Kh Tc 8d 9c] [4s]
+Dai5dop: bets $3.80
+AlexPinsk1: raises $13.70 to $17.50
+Dai5dop: raises $76.08 to $93.58 and is all-in
+AlexPinsk1: folds 
+Uncalled bet ($76.08) returned to Dai5dop
+Dai5dop collected $45.92 from pot
+Dai5dop: doesn't show hand 
+*** SUMMARY ***
+Total pot $48.34 | Rake $2.42 
+Board [Kh Tc 8d 9c 4s]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (small blind) folded before Flop
+Seat 4: Dai5dop (big blind) collected ($45.92)
+Seat 5: AlexPinsk1 folded on the River
+Seat 6: michasia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454566926:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:11:58 WET [2025/01/19 15:11:58 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($103.50 in chips) 
+Seat 3: PIpenmeno95 ($88.78 in chips) 
+Seat 4: Dai5dop ($122 in chips) 
+Seat 5: AlexPinsk1 ($124.05 in chips) 
+Seat 6: michasia ($101.50 in chips) 
+Dai5dop: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+Uncalled bet ($0.50) returned to AlexPinsk1
+AlexPinsk1 collected $1 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (button) folded before Flop (didn't bet)
+Seat 4: Dai5dop (small blind) folded before Flop
+Seat 5: AlexPinsk1 (big blind) collected ($1)
+Seat 6: michasia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454571271:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:12:09 WET [2025/01/19 15:12:09 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 6: michasia ($101.50 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($103.50 in chips) 
+Seat 3: PIpenmeno95 ($88.78 in chips) 
+Seat 4: Dai5dop ($121.50 in chips) 
+Seat 5: AlexPinsk1 ($124.55 in chips) 
+AlexPinsk1: posts small blind $0.50
+michasia: is sitting out 
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+michasia leaves the table
+vadjkeee: raises $1.50 to $2.50
+PIpenmeno95: folds 
+Dai5dop: folds 
+AlexPinsk1: folds 
+tintin641: folds 
+Uncalled bet ($1.50) returned to vadjkeee
+vadjkeee collected $2.50 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: michasia
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: vadjkeee collected ($2.50)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop (button) folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254454578763:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:12:28 WET [2025/01/19 15:12:28 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($105 in chips) 
+Seat 3: PIpenmeno95 ($88.78 in chips) 
+Seat 4: Dai5dop ($121.50 in chips) 
+Seat 5: AlexPinsk1 ($124.05 in chips) 
+tintin641: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+PIpenmeno95: raises $1 to $2
+Dai5dop: folds 
+milatopuddin joins the table at seat #6 
+AlexPinsk1: folds 
+milatopuddin is disconnected 
+tintin641: folds 
+vadjkeee: calls $1
+*** FLOP *** [3h 4h Js]
+vadjkeee: checks 
+PIpenmeno95: checks 
+*** TURN *** [3h 4h Js] [Kh]
+vadjkeee: checks 
+PIpenmeno95: checks 
+*** RIVER *** [3h 4h Js Kh] [Qc]
+vadjkeee: bets $3.21
+PIpenmeno95: folds 
+Uncalled bet ($3.21) returned to vadjkeee
+vadjkeee collected $4.28 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [3h 4h Js Kh Qc]
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) collected ($4.28)
+Seat 3: PIpenmeno95 folded on the River
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454599406:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:13:20 WET [2025/01/19 15:13:20 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($107.28 in chips) 
+Seat 3: PIpenmeno95 ($86.78 in chips) 
+Seat 4: Dai5dop ($121.50 in chips) 
+Seat 5: AlexPinsk1 ($124.05 in chips) 
+Seat 6: milatopuddin ($40.20 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+milatopuddin: posts big blind $1
+*** HOLE CARDS ***
+Dai5dop: folds 
+AlexPinsk1: folds 
+milatopuddin: checks 
+tintin641: raises $3 to $4
+vadjkeee: raises $11 to $15
+PIpenmeno95: folds 
+milatopuddin: folds 
+tintin641: folds 
+Uncalled bet ($11) returned to vadjkeee
+vadjkeee collected $10 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: tintin641 (button) folded before Flop
+Seat 2: vadjkeee (small blind) collected ($10)
+Seat 3: PIpenmeno95 (big blind) folded before Flop
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: milatopuddin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454612307:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:13:53 WET [2025/01/19 15:13:53 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($113.28 in chips) 
+Seat 3: PIpenmeno95 ($85.78 in chips) 
+Seat 4: Dai5dop ($121.50 in chips) 
+Seat 5: AlexPinsk1 ($124.05 in chips) 
+Seat 6: milatopuddin ($39.20 in chips) 
+PIpenmeno95: posts small blind $0.50
+Dai5dop: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+milatopuddin: folds 
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Uncalled bet ($0.50) returned to Dai5dop
+Dai5dop collected $1 from pot
+Dai5dop: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (small blind) folded before Flop
+Seat 4: Dai5dop (big blind) collected ($1)
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: milatopuddin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454620325:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:14:14 WET [2025/01/19 15:14:14 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($113.28 in chips) 
+Seat 3: PIpenmeno95 ($85.28 in chips) 
+Seat 4: Dai5dop ($122 in chips) 
+Seat 5: AlexPinsk1 ($124.05 in chips) 
+Seat 6: milatopuddin ($39.20 in chips) 
+Dai5dop: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+milatopuddin: folds 
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+Uncalled bet ($0.50) returned to AlexPinsk1
+AlexPinsk1 collected $1 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (button) folded before Flop (didn't bet)
+Seat 4: Dai5dop (small blind) folded before Flop
+Seat 5: AlexPinsk1 (big blind) collected ($1)
+Seat 6: milatopuddin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454626435:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:14:30 WET [2025/01/19 15:14:30 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($113.28 in chips) 
+Seat 3: PIpenmeno95 ($85.28 in chips) 
+Seat 4: Dai5dop ($121.50 in chips) 
+Seat 5: AlexPinsk1 ($124.55 in chips) 
+Seat 6: milatopuddin ($39.20 in chips) 
+AlexPinsk1: posts small blind $0.50
+milatopuddin: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+AlexPinsk1: raises $1.50 to $2.50
+milatopuddin: calls $1.50
+*** FLOP *** [7s 6c 6h]
+AlexPinsk1: checks 
+milatopuddin: bets $3
+AlexPinsk1: calls $3
+*** TURN *** [7s 6c 6h] [3s]
+AlexPinsk1: checks 
+milatopuddin: bets $6
+AlexPinsk1: folds 
+Uncalled bet ($6) returned to milatopuddin
+milatopuddin collected $10.45 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [7s 6c 6h 3s]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop (button) folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (small blind) folded on the Turn
+Seat 6: milatopuddin (big blind) collected ($10.45)
+
+
+
+PokerStars Hand #254454649057:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:15:25 WET [2025/01/19 15:15:25 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($113.28 in chips) 
+Seat 3: PIpenmeno95 ($85.28 in chips) 
+Seat 4: Dai5dop ($121.50 in chips) 
+Seat 5: AlexPinsk1 ($119.05 in chips) 
+Seat 6: milatopuddin ($44.15 in chips) 
+milatopuddin: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+AlexPinsk1: raises $1.50 to $2.50
+milatopuddin: folds 
+tintin641: calls $1.50
+*** FLOP *** [3c 2s 6s]
+tintin641: checks 
+AlexPinsk1: checks 
+*** TURN *** [3c 2s 6s] [Th]
+tintin641: bets $7.83
+AlexPinsk1: folds 
+Uncalled bet ($7.83) returned to tintin641
+tintin641 collected $5.22 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3c 2s 6s Th]
+Seat 1: tintin641 (big blind) collected ($5.22)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (button) folded on the Turn
+Seat 6: milatopuddin (small blind) folded before Flop
+
+
+
+PokerStars Hand #254454666341:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:16:08 WET [2025/01/19 15:16:08 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 1: tintin641 ($102.72 in chips) 
+Seat 2: vadjkeee ($113.28 in chips) 
+Seat 3: PIpenmeno95 ($85.28 in chips) 
+Seat 4: Dai5dop ($121.50 in chips) 
+Seat 5: AlexPinsk1 ($116.55 in chips) 
+Seat 6: milatopuddin ($43.65 in chips) 
+tintin641: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+PIpenmeno95: folds 
+Dai5dop: folds 
+AlexPinsk1: folds 
+milatopuddin: raises $2 to $3
+tintin641: folds 
+vadjkeee: folds 
+Uncalled bet ($2) returned to milatopuddin
+milatopuddin collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) folded before Flop
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: milatopuddin (button) collected ($2.50)
+
+
+
+PokerStars Hand #254454677094:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:16:35 WET [2025/01/19 15:16:35 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 1: tintin641 ($102.22 in chips) 
+Seat 2: vadjkeee ($112.28 in chips) 
+Seat 3: PIpenmeno95 ($85.28 in chips) 
+Seat 4: Dai5dop ($121.50 in chips) 
+Seat 5: AlexPinsk1 ($116.55 in chips) 
+Seat 6: milatopuddin ($45.15 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+*** HOLE CARDS ***
+Dai5dop: raises $1.20 to $2.20
+AlexPinsk1: folds 
+milatopuddin: folds 
+tintin641: raises $5.30 to $7.50
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+Uncalled bet ($5.30) returned to tintin641
+tintin641 collected $5.90 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: tintin641 (button) collected ($5.90)
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 3: PIpenmeno95 (big blind) folded before Flop
+Seat 4: Dai5dop folded before Flop
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: milatopuddin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454684292:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:16:53 WET [2025/01/19 15:16:53 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 1: tintin641 ($105.92 in chips) 
+Seat 2: vadjkeee ($111.78 in chips) 
+Seat 3: PIpenmeno95 ($84.28 in chips) 
+Seat 4: Dai5dop ($119.30 in chips) 
+Seat 5: AlexPinsk1 ($116.55 in chips) 
+Seat 6: milatopuddin ($45.15 in chips) 
+PIpenmeno95: posts small blind $0.50
+Dai5dop: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+milatopuddin: folds 
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: raises $1 to $2
+Dai5dop: raises $6 to $8
+PIpenmeno95: calls $6
+*** FLOP *** [5s 3c 8d]
+PIpenmeno95: bets $5.47
+Dai5dop: raises $13.07 to $18.54
+PIpenmeno95: calls $13.07
+*** TURN *** [5s 3c 8d] [3s]
+PIpenmeno95: checks 
+Dai5dop: bets $25.29
+PIpenmeno95: calls $25.29
+*** RIVER *** [5s 3c 8d 3s] [As]
+PIpenmeno95: bets $32.45 and is all-in
+Dai5dop: calls $32.45
+*** SHOW DOWN ***
+PIpenmeno95: shows [Ah 8h] (two pair, Aces and Eights)
+Dai5dop: shows [Qh Qc] (two pair, Queens and Threes)
+PIpenmeno95 collected $166.06 from pot
+*** SUMMARY ***
+Total pot $168.56 | Rake $2.50 
+Board [5s 3c 8d 3s As]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (small blind) showed [Ah 8h] and won ($166.06) with two pair, Aces and Eights
+Seat 4: Dai5dop (big blind) showed [Qh Qc] and lost with two pair, Queens and Threes
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: milatopuddin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454711547:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:18:02 WET [2025/01/19 15:18:02 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 1: tintin641 ($105.92 in chips) 
+Seat 2: vadjkeee ($111.78 in chips) 
+Seat 3: PIpenmeno95 ($166.06 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: AlexPinsk1 ($116.55 in chips) 
+Seat 6: milatopuddin ($45.15 in chips) 
+Dai5dop: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+milatopuddin: folds 
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+Uncalled bet ($0.50) returned to AlexPinsk1
+AlexPinsk1 collected $1 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (button) folded before Flop (didn't bet)
+Seat 4: Dai5dop (small blind) folded before Flop
+Seat 5: AlexPinsk1 (big blind) collected ($1)
+Seat 6: milatopuddin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454717331:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:18:17 WET [2025/01/19 15:18:17 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 1: tintin641 ($105.92 in chips) 
+Seat 2: vadjkeee ($111.78 in chips) 
+Seat 3: PIpenmeno95 ($166.06 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: AlexPinsk1 ($117.05 in chips) 
+Seat 6: milatopuddin ($45.15 in chips) 
+AlexPinsk1: posts small blind $0.50
+milatopuddin: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: raises $5 to $7.50
+AlexPinsk1: folds 
+milatopuddin: folds 
+tintin641: folds 
+Uncalled bet ($5) returned to Dai5dop
+Dai5dop collected $6.50 from pot
+Dai5dop: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: tintin641 folded before Flop
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop (button) collected ($6.50)
+Seat 5: AlexPinsk1 (small blind) folded before Flop
+Seat 6: milatopuddin (big blind) folded before Flop
+
+
+
+PokerStars Hand #254454733784:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:18:58 WET [2025/01/19 15:18:58 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: tintin641 ($103.42 in chips) 
+Seat 2: vadjkeee ($111.78 in chips) 
+Seat 3: PIpenmeno95 ($166.06 in chips) 
+Seat 4: Dai5dop ($104 in chips) 
+Seat 5: AlexPinsk1 ($116.55 in chips) 
+Seat 6: milatopuddin ($44.15 in chips) 
+milatopuddin: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: raises $1.50 to $2.50
+AlexPinsk1: folds 
+milatopuddin: folds 
+tintin641: raises $10 to $12.50
+Dai5dop: folds 
+Uncalled bet ($10) returned to tintin641
+tintin641 collected $5.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: tintin641 (big blind) collected ($5.50)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop folded before Flop
+Seat 5: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 6: milatopuddin (small blind) folded before Flop
+
+
+
+PokerStars Hand #254454742957:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:19:21 WET [2025/01/19 15:19:21 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 1: tintin641 ($106.42 in chips) 
+Seat 2: vadjkeee ($111.78 in chips) 
+Seat 3: PIpenmeno95 ($166.06 in chips) 
+Seat 4: Dai5dop ($101.50 in chips) 
+Seat 5: AlexPinsk1 ($116.55 in chips) 
+Seat 6: milatopuddin ($43.65 in chips) 
+tintin641: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+PIpenmeno95: raises $1 to $2
+Dai5dop: folds 
+AlexPinsk1: folds 
+milatopuddin: folds 
+tintin641: folds 
+vadjkeee: folds 
+Uncalled bet ($1) returned to PIpenmeno95
+PIpenmeno95 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) folded before Flop
+Seat 3: PIpenmeno95 collected ($2.50)
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: milatopuddin (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454749220:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:19:37 WET [2025/01/19 15:19:37 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 1: tintin641 ($105.92 in chips) 
+Seat 2: vadjkeee ($110.78 in chips) 
+Seat 3: PIpenmeno95 ($167.56 in chips) 
+Seat 4: Dai5dop ($101.50 in chips) 
+Seat 5: AlexPinsk1 ($116.55 in chips) 
+Seat 6: milatopuddin ($43.65 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+*** HOLE CARDS ***
+Dai5dop: folds 
+AlexPinsk1: folds 
+milatopuddin: folds 
+tintin641: folds 
+vadjkeee: raises $2 to $3
+PIpenmeno95: folds 
+Uncalled bet ($2) returned to vadjkeee
+vadjkeee collected $2 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: vadjkeee (small blind) collected ($2)
+Seat 3: PIpenmeno95 (big blind) folded before Flop
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: milatopuddin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454758812:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:20:01 WET [2025/01/19 15:20:01 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 1: tintin641 ($105.92 in chips) 
+Seat 2: vadjkeee ($111.78 in chips) 
+Seat 3: PIpenmeno95 ($166.56 in chips) 
+Seat 4: Dai5dop ($101.50 in chips) 
+Seat 5: AlexPinsk1 ($116.55 in chips) 
+Seat 6: milatopuddin ($43.65 in chips) 
+PIpenmeno95: posts small blind $0.50
+Dai5dop: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+milatopuddin: folds 
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: calls $0.50
+Dai5dop: raises $3 to $4
+PIpenmeno95: calls $3
+*** FLOP *** [2h Qs 9s]
+PIpenmeno95: checks 
+Dai5dop: checks 
+*** TURN *** [2h Qs 9s] [2s]
+PIpenmeno95: checks 
+Dai5dop: checks 
+*** RIVER *** [2h Qs 9s 2s] [8c]
+PIpenmeno95: checks 
+Dai5dop: checks 
+*** SHOW DOWN ***
+PIpenmeno95: shows [Ts 9d] (two pair, Nines and Deuces)
+Dai5dop: mucks hand 
+PIpenmeno95 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [2h Qs 9s 2s 8c]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (small blind) showed [Ts 9d] and won ($7.60) with two pair, Nines and Deuces
+Seat 4: Dai5dop (big blind) mucked
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: milatopuddin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454775890:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:20:44 WET [2025/01/19 15:20:44 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 1: tintin641 ($105.92 in chips) 
+Seat 2: vadjkeee ($111.78 in chips) 
+Seat 3: PIpenmeno95 ($170.16 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: AlexPinsk1 ($116.55 in chips) 
+Seat 6: milatopuddin ($43.65 in chips) 
+Dai5dop: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+milatopuddin: folds 
+tintin641: folds 
+vadjkeee: raises $1.50 to $2.50
+PIpenmeno95: calls $2.50
+Dai5dop: raises $11.50 to $14
+AlexPinsk1: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Uncalled bet ($11.50) returned to Dai5dop
+Dai5dop collected $8.50 from pot
+Dai5dop: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop
+Seat 3: PIpenmeno95 (button) folded before Flop
+Seat 4: Dai5dop (small blind) collected ($8.50)
+Seat 5: AlexPinsk1 (big blind) folded before Flop
+Seat 6: milatopuddin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454788120:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:21:15 WET [2025/01/19 15:21:15 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 1: tintin641 ($105.92 in chips) 
+Seat 2: vadjkeee ($109.28 in chips) 
+Seat 3: PIpenmeno95 ($167.66 in chips) 
+Seat 4: Dai5dop ($106 in chips) 
+Seat 5: AlexPinsk1 ($115.55 in chips) 
+Seat 6: milatopuddin ($43.65 in chips) 
+AlexPinsk1: posts small blind $0.50
+milatopuddin: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+AlexPinsk1: folds 
+Uncalled bet ($0.50) returned to milatopuddin
+milatopuddin collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop (button) folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (small blind) folded before Flop
+Seat 6: milatopuddin (big blind) collected ($1)
+
+
+
+PokerStars Hand #254454792017:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:21:25 WET [2025/01/19 15:21:25 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: tintin641 ($105.92 in chips) 
+Seat 2: vadjkeee ($109.28 in chips) 
+Seat 3: PIpenmeno95 ($167.66 in chips) 
+Seat 4: Dai5dop ($106 in chips) 
+Seat 5: AlexPinsk1 ($115.05 in chips) 
+Seat 6: milatopuddin ($44.15 in chips) 
+milatopuddin: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: raises $1.50 to $2.50
+PIpenmeno95: calls $2.50
+Dai5dop: folds 
+AlexPinsk1: folds 
+milatopuddin: folds 
+tintin641: raises $11 to $13.50
+vadjkeee: folds 
+PIpenmeno95: folds 
+Uncalled bet ($11) returned to tintin641
+tintin641 collected $8 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: tintin641 (big blind) collected ($8)
+Seat 2: vadjkeee folded before Flop
+Seat 3: PIpenmeno95 folded before Flop
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 6: milatopuddin (small blind) folded before Flop
+
+
+
+PokerStars Hand #254454808712:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:22:07 WET [2025/01/19 15:22:07 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 1: tintin641 ($111.42 in chips) 
+Seat 2: vadjkeee ($106.78 in chips) 
+Seat 3: PIpenmeno95 ($165.16 in chips) 
+Seat 4: Dai5dop ($106 in chips) 
+Seat 5: AlexPinsk1 ($115.05 in chips) 
+Seat 6: milatopuddin ($43.65 in chips) 
+tintin641: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+PIpenmeno95: folds 
+Dai5dop: folds 
+AlexPinsk1: folds 
+milatopuddin: folds 
+tintin641: raises $2 to $3
+vadjkeee: raises $6 to $9
+tintin641: folds 
+Uncalled bet ($6) returned to vadjkeee
+vadjkeee collected $6 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) collected ($6)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: milatopuddin (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454819738:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:22:34 WET [2025/01/19 15:22:34 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 1: tintin641 ($108.42 in chips) 
+Seat 2: vadjkeee ($109.78 in chips) 
+Seat 3: PIpenmeno95 ($165.16 in chips) 
+Seat 4: Dai5dop ($106 in chips) 
+Seat 5: AlexPinsk1 ($115.05 in chips) 
+Seat 6: milatopuddin ($43.65 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+*** HOLE CARDS ***
+Dai5dop: raises $1.20 to $2.20
+AlexPinsk1: folds 
+milatopuddin: folds 
+tintin641: folds 
+vadjkeee: raises $8.80 to $11
+PIpenmeno95: folds 
+Dai5dop: calls $8.80
+*** FLOP *** [9h 4s 7h]
+vadjkeee: bets $12.02
+Dai5dop: calls $12.02
+*** TURN *** [9h 4s 7h] [3s]
+vadjkeee: checks 
+Dai5dop: bets $22.35
+vadjkeee: folds 
+Uncalled bet ($22.35) returned to Dai5dop
+Dai5dop collected $44.69 from pot
+Dai5dop: doesn't show hand 
+*** SUMMARY ***
+Total pot $47.04 | Rake $2.35 
+Board [9h 4s 7h 3s]
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: vadjkeee (small blind) folded on the Turn
+Seat 3: PIpenmeno95 (big blind) folded before Flop
+Seat 4: Dai5dop collected ($44.69)
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: milatopuddin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454845491:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:23:39 WET [2025/01/19 15:23:39 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 1: tintin641 ($108.42 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($164.16 in chips) 
+Seat 4: Dai5dop ($127.67 in chips) 
+Seat 5: AlexPinsk1 ($115.05 in chips) 
+Seat 6: milatopuddin ($43.65 in chips) 
+PIpenmeno95: posts small blind $0.50
+Dai5dop: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+milatopuddin: folds 
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Uncalled bet ($0.50) returned to Dai5dop
+Dai5dop collected $1 from pot
+Dai5dop: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (small blind) folded before Flop
+Seat 4: Dai5dop (big blind) collected ($1)
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: milatopuddin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454849140:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:23:48 WET [2025/01/19 15:23:48 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 1: tintin641 ($108.42 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($163.66 in chips) 
+Seat 4: Dai5dop ($128.17 in chips) 
+Seat 5: AlexPinsk1 ($115.05 in chips) 
+Seat 6: milatopuddin ($43.65 in chips) 
+Dai5dop: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+milatopuddin: calls $1
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: raises $3.50 to $4.50
+AlexPinsk1: folds 
+milatopuddin: calls $3.50
+*** FLOP *** [Jh 9d Kc]
+Dai5dop: checks 
+milatopuddin: checks 
+*** TURN *** [Jh 9d Kc] [2h]
+Dai5dop: bets $12.35
+milatopuddin: calls $12.35
+*** RIVER *** [Jh 9d Kc 2h] [Kd]
+Dai5dop: bets $42.85
+milatopuddin: folds 
+Uncalled bet ($42.85) returned to Dai5dop
+Dai5dop collected $32.96 from pot
+Dai5dop: doesn't show hand 
+*** SUMMARY ***
+Total pot $34.70 | Rake $1.74 
+Board [Jh 9d Kc 2h Kd]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (button) folded before Flop (didn't bet)
+Seat 4: Dai5dop (small blind) collected ($32.96)
+Seat 5: AlexPinsk1 (big blind) folded before Flop
+Seat 6: milatopuddin folded on the River
+
+
+
+PokerStars Hand #254454868784:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:24:38 WET [2025/01/19 15:24:38 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 1: tintin641 ($108.42 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($163.66 in chips) 
+Seat 4: Dai5dop ($144.28 in chips) 
+Seat 5: AlexPinsk1 ($114.05 in chips) 
+Seat 6: milatopuddin ($26.80 in chips) 
+AlexPinsk1: posts small blind $0.50
+milatopuddin: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+AlexPinsk1: folds 
+milatopuddin: calls $1.50
+*** FLOP *** [Td 2c 4s]
+milatopuddin: checks 
+tintin641: bets $3.92
+milatopuddin: folds 
+Uncalled bet ($3.92) returned to tintin641
+tintin641 collected $5.22 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Td 2c 4s]
+Seat 1: tintin641 collected ($5.22)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop (button) folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (small blind) folded before Flop
+Seat 6: milatopuddin (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254454886890:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:25:24 WET [2025/01/19 15:25:24 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: tintin641 ($111.14 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($163.66 in chips) 
+Seat 4: Dai5dop ($144.28 in chips) 
+Seat 5: AlexPinsk1 ($113.55 in chips) 
+Seat 6: milatopuddin ($24.30 in chips) 
+milatopuddin: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+AlexPinsk1: raises $1.50 to $2.50
+milatopuddin: folds 
+tintin641: calls $1.50
+*** FLOP *** [Th Ad Td]
+milatopuddin leaves the table
+tintin641: checks 
+AlexPinsk1: checks 
+*** TURN *** [Th Ad Td] [5s]
+tintin641: bets $7.83
+AlexPinsk1: folds 
+Uncalled bet ($7.83) returned to tintin641
+tintin641 collected $5.22 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Th Ad Td 5s]
+Seat 1: tintin641 (big blind) collected ($5.22)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 (button) folded on the Turn
+Seat 6: milatopuddin (small blind) folded before Flop
+
+
+
+PokerStars Hand #254454906360:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:26:13 WET [2025/01/19 15:26:13 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 1: tintin641 ($113.86 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($163.66 in chips) 
+Seat 4: Dai5dop ($144.28 in chips) 
+Seat 5: AlexPinsk1 ($111.05 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+*** HOLE CARDS ***
+Dai5dop: folds 
+AlexPinsk1: folds 
+tintin641: folds 
+vadjkeee: folds 
+Uncalled bet ($0.50) returned to PIpenmeno95
+PIpenmeno95 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 3: PIpenmeno95 (big blind) collected ($1)
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: AlexPinsk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454910572:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:26:24 WET [2025/01/19 15:26:24 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 1: tintin641 ($113.86 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($164.16 in chips) 
+Seat 4: Dai5dop ($144.28 in chips) 
+Seat 5: AlexPinsk1 ($111.05 in chips) 
+PIpenmeno95: posts small blind $0.50
+Dai5dop: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: raises $1.50 to $2.50
+tintin641: folds 
+vadjkeee: folds 
+shootingGRID joins the table at seat #6 
+PIpenmeno95: folds 
+Dai5dop: folds 
+Uncalled bet ($1.50) returned to AlexPinsk1
+AlexPinsk1 collected $2.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (small blind) folded before Flop
+Seat 4: Dai5dop (big blind) folded before Flop
+Seat 5: AlexPinsk1 collected ($2.50)
+
+
+
+PokerStars Hand #254454916058:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:26:38 WET [2025/01/19 15:26:38 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($113.86 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($163.66 in chips) 
+Seat 4: Dai5dop ($143.28 in chips) 
+Seat 6: shootingGRID ($100 in chips) 
+Dai5dop: posts small blind $0.50
+AlexPinsk1: is sitting out 
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+vadjkeee: raises $1.50 to $2.50
+PIpenmeno95: folds 
+Dai5dop: folds 
+shootingGRID: folds 
+Uncalled bet ($1.50) returned to vadjkeee
+vadjkeee collected $2.50 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: AlexPinsk1
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee collected ($2.50)
+Seat 3: PIpenmeno95 (button) folded before Flop (didn't bet)
+Seat 4: Dai5dop (small blind) folded before Flop
+Seat 6: shootingGRID (big blind) folded before Flop
+
+
+
+PokerStars Hand #254454922059:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:26:53 WET [2025/01/19 15:26:53 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($113.86 in chips) 
+Seat 2: vadjkeee ($101.50 in chips) 
+Seat 3: PIpenmeno95 ($163.66 in chips) 
+Seat 4: Dai5dop ($142.78 in chips) 
+Seat 6: shootingGRID ($100 in chips) 
+shootingGRID: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: raises $1.50 to $2.50
+shootingGRID: folds 
+tintin641: calls $1.50
+*** FLOP *** [3d 2c Tc]
+tintin641: checks 
+Dai5dop: checks 
+*** TURN *** [3d 2c Tc] [3h]
+tintin641: checks 
+Dai5dop: bets $3.92
+tintin641: calls $3.92
+*** RIVER *** [3d 2c Tc 3h] [Ac]
+tintin641: checks 
+Dai5dop: bets $9.50
+tintin641: calls $9.50
+*** SHOW DOWN ***
+Dai5dop: shows [4c 3c] (a flush, Ace high)
+tintin641: mucks hand 
+Dai5dop collected $30.72 from pot
+*** SUMMARY ***
+Total pot $32.34 | Rake $1.62 
+Board [3d 2c Tc 3h Ac]
+Seat 5: AlexPinsk1
+Seat 1: tintin641 (big blind) mucked
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop (button) showed [4c 3c] and won ($30.72) with a flush, Ace high
+Seat 6: shootingGRID (small blind) folded before Flop
+
+
+
+PokerStars Hand #254454955375:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:28:17 WET [2025/01/19 15:28:17 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($101.50 in chips) 
+Seat 3: PIpenmeno95 ($163.66 in chips) 
+Seat 4: Dai5dop ($157.58 in chips) 
+Seat 6: shootingGRID ($100 in chips) 
+tintin641: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+PIpenmeno95: folds 
+Dai5dop: raises $1.50 to $2.50
+shootingGRID: folds 
+tintin641: folds 
+vadjkeee: folds 
+Uncalled bet ($1.50) returned to Dai5dop
+Dai5dop collected $2.50 from pot
+Dai5dop: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: AlexPinsk1
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) folded before Flop
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop collected ($2.50)
+Seat 6: shootingGRID (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454962059:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:28:34 WET [2025/01/19 15:28:34 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($100.50 in chips) 
+Seat 3: PIpenmeno95 ($163.66 in chips) 
+Seat 4: Dai5dop ($159.08 in chips) 
+Seat 6: shootingGRID ($100 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+*** HOLE CARDS ***
+Dai5dop: raises $1.20 to $2.20
+shootingGRID: folds 
+tintin641: raises $5.30 to $7.50
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+Uncalled bet ($5.30) returned to tintin641
+tintin641 collected $5.90 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 5: AlexPinsk1
+Seat 1: tintin641 (button) collected ($5.90)
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 3: PIpenmeno95 (big blind) folded before Flop
+Seat 4: Dai5dop folded before Flop
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454971787:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:28:59 WET [2025/01/19 15:28:59 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($103.70 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($162.66 in chips) 
+Seat 4: Dai5dop ($156.88 in chips) 
+Seat 6: shootingGRID ($100 in chips) 
+PIpenmeno95: posts small blind $0.50
+Dai5dop: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+tintin641: raises $1.50 to $2.50
+vadjkeee: folds 
+PIpenmeno95: calls $2
+Dai5dop: folds 
+*** FLOP *** [4c Ac 5c]
+PIpenmeno95: checks 
+tintin641: bets $1.88
+PIpenmeno95: calls $1.88
+*** TURN *** [4c Ac 5c] [2c]
+PIpenmeno95: checks 
+tintin641: checks 
+*** RIVER *** [4c Ac 5c 2c] [4s]
+PIpenmeno95: bets $7.05
+tintin641: folds 
+Uncalled bet ($7.05) returned to PIpenmeno95
+PIpenmeno95 collected $9.27 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [4c Ac 5c 2c 4s]
+Seat 5: AlexPinsk1
+Seat 1: tintin641 folded on the River
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (small blind) collected ($9.27)
+Seat 4: Dai5dop (big blind) folded before Flop
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254454991937:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:29:50 WET [2025/01/19 15:29:50 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($167.55 in chips) 
+Seat 4: Dai5dop ($155.88 in chips) 
+Seat 6: shootingGRID ($100 in chips) 
+Dai5dop: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+vadjkeee: raises $1.50 to $2.50
+PIpenmeno95: calls $2.50
+Dai5dop: folds 
+shootingGRID: calls $1.50
+*** FLOP *** [8h Qs 8s]
+shootingGRID: checks 
+vadjkeee: bets $1.90
+PIpenmeno95: calls $1.90
+shootingGRID: calls $1.90
+*** TURN *** [8h Qs 8s] [9s]
+shootingGRID: checks 
+vadjkeee: checks 
+PIpenmeno95: bets $4.69
+shootingGRID: calls $4.69
+vadjkeee: folds 
+*** RIVER *** [8h Qs 8s 9s] [4c]
+shootingGRID: checks 
+PIpenmeno95: bets $24.34
+shootingGRID: folds 
+Uncalled bet ($24.34) returned to PIpenmeno95
+PIpenmeno95 collected $21.93 from pot
+*** SUMMARY ***
+Total pot $23.08 | Rake $1.15 
+Board [8h Qs 8s 9s 4c]
+Seat 5: AlexPinsk1
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded on the Turn
+Seat 3: PIpenmeno95 (button) collected ($21.93)
+Seat 4: Dai5dop (small blind) folded before Flop
+Seat 6: shootingGRID (big blind) folded on the River
+
+
+
+PokerStars Hand #254455019589:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:31:00 WET [2025/01/19 15:31:00 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($180.39 in chips) 
+Seat 4: Dai5dop ($155.38 in chips) 
+Seat 6: shootingGRID ($100 in chips) 
+shootingGRID: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+shootingGRID: raises $2 to $3
+tintin641: folds 
+Uncalled bet ($2) returned to shootingGRID
+shootingGRID collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: AlexPinsk1
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop (button) folded before Flop (didn't bet)
+Seat 6: shootingGRID (small blind) collected ($2)
+
+
+
+PokerStars Hand #254455024370:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:31:12 WET [2025/01/19 15:31:12 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($180.39 in chips) 
+Seat 4: Dai5dop ($155.38 in chips) 
+Seat 6: shootingGRID ($101 in chips) 
+tintin641: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+PIpenmeno95: raises $1 to $2
+Dai5dop: folds 
+shootingGRID: folds 
+tintin641: folds 
+vadjkeee: calls $1
+*** FLOP *** [9h 2d 7s]
+vadjkeee: checks 
+PIpenmeno95: checks 
+*** TURN *** [9h 2d 7s] [8s]
+vadjkeee: bets $5.56
+PIpenmeno95: calls $5.56
+*** RIVER *** [9h 2d 7s 8s] [Kh]
+vadjkeee: bets $3.71
+PIpenmeno95: calls $3.71
+*** SHOW DOWN ***
+vadjkeee: shows [9s Ks] (two pair, Kings and Nines)
+PIpenmeno95: mucks hand 
+vadjkeee collected $21.89 from pot
+*** SUMMARY ***
+Total pot $23.04 | Rake $1.15 
+Board [9h 2d 7s 8s Kh]
+Seat 5: AlexPinsk1
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) showed [9s Ks] and won ($21.89) with two pair, Kings and Nines
+Seat 3: PIpenmeno95 mucked
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 6: shootingGRID (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455050721:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:32:19 WET [2025/01/19 15:32:19 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($110.62 in chips) 
+Seat 3: PIpenmeno95 ($169.12 in chips) 
+Seat 4: Dai5dop ($155.38 in chips) 
+Seat 6: shootingGRID ($101 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+*** HOLE CARDS ***
+Dai5dop: raises $1.20 to $2.20
+shootingGRID: folds 
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: calls $1.20
+*** FLOP *** [Qc 4c 2s]
+PIpenmeno95: checks 
+Dai5dop: checks 
+*** TURN *** [Qc 4c 2s] [7c]
+PIpenmeno95: checks 
+Dai5dop: checks 
+*** RIVER *** [Qc 4c 2s 7c] [Ad]
+PIpenmeno95: bets $1.68
+Dai5dop: folds 
+Uncalled bet ($1.68) returned to PIpenmeno95
+PIpenmeno95 collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Qc 4c 2s 7c Ad]
+Seat 5: AlexPinsk1
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 3: PIpenmeno95 (big blind) collected ($4.66)
+Seat 4: Dai5dop folded on the River
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455076010:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:33:23 WET [2025/01/19 15:33:23 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($110.12 in chips) 
+Seat 3: PIpenmeno95 ($171.58 in chips) 
+Seat 4: Dai5dop ($153.18 in chips) 
+Seat 6: shootingGRID ($101 in chips) 
+PIpenmeno95: posts small blind $0.50
+Dai5dop: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+tintin641: folds 
+vadjkeee: raises $1.50 to $2.50
+PIpenmeno95: calls $2
+Dai5dop: folds 
+*** FLOP *** [8c Td Jh]
+PIpenmeno95: checks 
+vadjkeee: bets $3.82
+PIpenmeno95: calls $3.82
+*** TURN *** [8c Td Jh] [As]
+PIpenmeno95: checks 
+vadjkeee: bets $9.72
+PIpenmeno95: calls $9.72
+*** RIVER *** [8c Td Jh As] [3h]
+PIpenmeno95: bets $23.89
+vadjkeee: folds 
+Uncalled bet ($23.89) returned to PIpenmeno95
+PIpenmeno95 collected $31.43 from pot
+*** SUMMARY ***
+Total pot $33.08 | Rake $1.65 
+Board [8c Td Jh As 3h]
+Seat 5: AlexPinsk1
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded on the River
+Seat 3: PIpenmeno95 (small blind) collected ($31.43)
+Seat 4: Dai5dop (big blind) folded before Flop
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455100738:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:34:27 WET [2025/01/19 15:34:27 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($186.97 in chips) 
+Seat 4: Dai5dop ($152.18 in chips) 
+Seat 6: shootingGRID ($101 in chips) 
+Dai5dop: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: raises $2 to $3
+shootingGRID: folds 
+Uncalled bet ($2) returned to Dai5dop
+Dai5dop collected $2 from pot
+Dai5dop: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: AlexPinsk1
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (button) folded before Flop (didn't bet)
+Seat 4: Dai5dop (small blind) collected ($2)
+Seat 6: shootingGRID (big blind) folded before Flop
+
+
+
+PokerStars Hand #254455107275:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:34:43 WET [2025/01/19 15:34:43 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($186.97 in chips) 
+Seat 4: Dai5dop ($153.18 in chips) 
+Seat 6: shootingGRID ($100 in chips) 
+shootingGRID: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+shootingGRID: raises $2 to $3
+tintin641: calls $2
+*** FLOP *** [7d 9d Ts]
+shootingGRID: checks 
+tintin641: bets $2.85
+shootingGRID: calls $2.85
+*** TURN *** [7d 9d Ts] [2c]
+shootingGRID: checks 
+tintin641: checks 
+*** RIVER *** [7d 9d Ts 2c] [8c]
+shootingGRID: bets $3.67
+tintin641: calls $3.67
+*** SHOW DOWN ***
+shootingGRID: shows [Tc 9c] (two pair, Tens and Nines)
+tintin641: shows [5d 6s] (a straight, Six to Ten)
+tintin641 collected $18.09 from pot
+*** SUMMARY ***
+Total pot $19.04 | Rake $0.95 
+Board [7d 9d Ts 2c 8c]
+Seat 5: AlexPinsk1
+Seat 1: tintin641 (big blind) showed [5d 6s] and won ($18.09) with a straight, Six to Ten
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop (button) folded before Flop (didn't bet)
+Seat 6: shootingGRID (small blind) showed [Tc 9c] and lost with two pair, Tens and Nines
+
+
+
+PokerStars Hand #254455145132:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:36:19 WET [2025/01/19 15:36:19 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($108.57 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($186.97 in chips) 
+Seat 4: Dai5dop ($153.18 in chips) 
+Seat 6: shootingGRID ($100 in chips) 
+tintin641: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+PIpenmeno95: folds 
+Dai5dop: folds 
+shootingGRID: folds 
+tintin641: raises $2 to $3
+vadjkeee: folds 
+Uncalled bet ($2) returned to tintin641
+tintin641 collected $2 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: AlexPinsk1
+Seat 1: tintin641 (small blind) collected ($2)
+Seat 2: vadjkeee (big blind) folded before Flop
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 6: shootingGRID (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455152557:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:36:38 WET [2025/01/19 15:36:38 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($109.57 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($186.97 in chips) 
+Seat 4: Dai5dop ($153.18 in chips) 
+Seat 6: shootingGRID ($100 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+*** HOLE CARDS ***
+Dai5dop: folds 
+shootingGRID: raises $1.25 to $2.25
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: calls $1.25
+*** FLOP *** [6c Ad 3d]
+PIpenmeno95: checks 
+shootingGRID: bets $1.57
+PIpenmeno95: calls $1.57
+*** TURN *** [6c Ad 3d] [6h]
+PIpenmeno95: checks 
+shootingGRID: checks 
+*** RIVER *** [6c Ad 3d 6h] [Td]
+PIpenmeno95: bets $8.58
+shootingGRID: folds 
+Uncalled bet ($8.58) returned to PIpenmeno95
+PIpenmeno95 collected $7.73 from pot
+*** SUMMARY ***
+Total pot $8.14 | Rake $0.41 
+Board [6c Ad 3d 6h Td]
+Seat 5: AlexPinsk1
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 3: PIpenmeno95 (big blind) collected ($7.73)
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 6: shootingGRID folded on the River
+
+
+
+PokerStars Hand #254455176260:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:37:38 WET [2025/01/19 15:37:38 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($109.57 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($190.88 in chips) 
+Seat 4: Dai5dop ($153.18 in chips) 
+Seat 6: shootingGRID ($100 in chips) 
+PIpenmeno95: posts small blind $0.50
+Dai5dop: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: raises $1.25 to $2.25
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: calls $1.25
+*** FLOP *** [9s 5d 7h]
+Dai5dop: checks 
+shootingGRID: checks 
+*** TURN *** [9s 5d 7h] [Qh]
+Dai5dop: bets $3.56
+shootingGRID: calls $3.56
+*** RIVER *** [9s 5d 7h Qh] [7d]
+Dai5dop: bets $8.63
+shootingGRID: raises $17.37 to $26
+Dai5dop: calls $17.37
+*** SHOW DOWN ***
+shootingGRID: shows [Qd Ah] (two pair, Queens and Sevens)
+Dai5dop: mucks hand 
+shootingGRID collected $61.62 from pot
+*** SUMMARY ***
+Total pot $64.12 | Rake $2.50 
+Board [9s 5d 7h Qh 7d]
+Seat 5: AlexPinsk1
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (small blind) folded before Flop
+Seat 4: Dai5dop (big blind) mucked
+Seat 6: shootingGRID showed [Qd Ah] and won ($61.62) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #254455203692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:38:48 WET [2025/01/19 15:38:48 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 5: AlexPinsk1 ($112.55 in chips) is sitting out
+Seat 1: tintin641 ($109.57 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($190.38 in chips) 
+Seat 4: Dai5dop ($121.37 in chips) 
+Seat 6: shootingGRID ($129.81 in chips) 
+Dai5dop: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: raises $2 to $3
+shootingGRID: folds 
+Uncalled bet ($2) returned to Dai5dop
+Dai5dop collected $2 from pot
+AlexPinsk1 leaves the table
+Dai5dop: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: AlexPinsk1
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (button) folded before Flop (didn't bet)
+Seat 4: Dai5dop (small blind) collected ($2)
+Seat 6: shootingGRID (big blind) folded before Flop
+
+
+
+PokerStars Hand #254455213781:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:39:14 WET [2025/01/19 15:39:14 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 1: tintin641 ($109.57 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($190.38 in chips) 
+Seat 4: Dai5dop ($122.37 in chips) 
+Seat 6: shootingGRID ($128.81 in chips) 
+shootingGRID: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: raises $1.50 to $2.50
+Mr_Dick666 joins the table at seat #5 
+PIpenmeno95: calls $2.50
+Dai5dop: folds 
+shootingGRID: folds 
+tintin641: calls $1.50
+*** FLOP *** [3h Jc 7d]
+tintin641: checks 
+vadjkeee: checks 
+PIpenmeno95: checks 
+*** TURN *** [3h Jc 7d] [8c]
+tintin641: checks 
+vadjkeee: checks 
+PIpenmeno95: checks 
+*** RIVER *** [3h Jc 7d 8c] [3c]
+tintin641: checks 
+vadjkeee: checks 
+PIpenmeno95: checks 
+*** SHOW DOWN ***
+tintin641: shows [As 8s] (two pair, Eights and Threes)
+vadjkeee: mucks hand 
+PIpenmeno95: mucks hand 
+tintin641 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [3h Jc 7d 8c 3c]
+Seat 1: tintin641 (big blind) showed [As 8s] and won ($7.60) with two pair, Eights and Threes
+Seat 2: vadjkeee mucked
+Seat 3: PIpenmeno95 mucked
+Seat 4: Dai5dop (button) folded before Flop (didn't bet)
+Seat 6: shootingGRID (small blind) folded before Flop
+
+
+
+PokerStars Hand #254455244786:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:40:33 WET [2025/01/19 15:40:33 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 5: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: tintin641 ($114.67 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: PIpenmeno95 ($187.88 in chips) 
+Seat 4: Dai5dop ($122.37 in chips) 
+Seat 6: shootingGRID ($128.31 in chips) 
+tintin641: posts small blind $0.50
+vadjkeee: posts big blind $1
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+PIpenmeno95: folds 
+Dai5dop: folds 
+shootingGRID: folds 
+tintin641: folds 
+Uncalled bet ($0.50) returned to vadjkeee
+vadjkeee collected $1 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: Mr_Dick666
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) collected ($1)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 6: shootingGRID (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455251892:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:40:51 WET [2025/01/19 15:40:51 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 5: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: tintin641 ($114.17 in chips) 
+Seat 2: vadjkeee ($100.50 in chips) 
+Seat 3: PIpenmeno95 ($187.88 in chips) 
+Seat 4: Dai5dop ($122.37 in chips) 
+Seat 6: shootingGRID ($128.31 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+Dai5dop: folds 
+shootingGRID: folds 
+tintin641: raises $1.50 to $2.50
+vadjkeee: raises $9.50 to $12
+PIpenmeno95: folds 
+tintin641: raises $14 to $26
+vadjkeee: calls $14
+*** FLOP *** [9d 8c 7d]
+vadjkeee: checks 
+tintin641: checks 
+*** TURN *** [9d 8c 7d] [Qc]
+vadjkeee: bets $74.50 and is all-in
+tintin641: folds 
+Uncalled bet ($74.50) returned to vadjkeee
+vadjkeee collected $50.50 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $53 | Rake $2.50 
+Board [9d 8c 7d Qc]
+Seat 5: Mr_Dick666
+Seat 1: tintin641 (button) folded on the Turn
+Seat 2: vadjkeee (small blind) collected ($50.50)
+Seat 3: PIpenmeno95 (big blind) folded before Flop
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455278660:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:41:59 WET [2025/01/19 15:41:59 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 5: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: tintin641 ($100 in chips) 
+Seat 2: vadjkeee ($125 in chips) 
+Seat 3: PIpenmeno95 ($186.88 in chips) 
+Seat 4: Dai5dop ($122.37 in chips) 
+Seat 6: shootingGRID ($128.31 in chips) 
+PIpenmeno95: posts small blind $0.50
+Dai5dop: posts big blind $1
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+shootingGRID: folds 
+tintin641: raises $1.50 to $2.50
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: raises $8 to $10.50
+tintin641: raises $12.50 to $23
+Dai5dop: folds 
+Uncalled bet ($12.50) returned to tintin641
+tintin641 collected $21.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.50 | Rake $0 
+Seat 5: Mr_Dick666
+Seat 1: tintin641 collected ($21.50)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (small blind) folded before Flop
+Seat 4: Dai5dop (big blind) folded before Flop
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455288596:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:42:24 WET [2025/01/19 15:42:24 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 1: tintin641 ($111 in chips) 
+Seat 2: vadjkeee ($125 in chips) 
+Seat 3: PIpenmeno95 ($186.38 in chips) 
+Seat 4: Dai5dop ($111.87 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($128.31 in chips) 
+Dai5dop: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: raises $1.25 to $2.25
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: calls $2.25
+Dai5dop: folds 
+Mr_Dick666: folds 
+*** FLOP *** [8h Ts 4d]
+shootingGRID: checks 
+PIpenmeno95: checks 
+*** TURN *** [8h Ts 4d] [8d]
+shootingGRID: checks 
+PIpenmeno95: checks 
+*** RIVER *** [8h Ts 4d 8d] [2c]
+shootingGRID: checks 
+PIpenmeno95: checks 
+*** SHOW DOWN ***
+shootingGRID: shows [As 4s] (two pair, Eights and Fours)
+PIpenmeno95: mucks hand 
+shootingGRID collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [8h Ts 4d 8d 2c]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (button) mucked
+Seat 4: Dai5dop (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) folded before Flop
+Seat 6: shootingGRID showed [As 4s] and won ($5.70) with two pair, Eights and Fours
+
+
+
+PokerStars Hand #254455311319:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:43:23 WET [2025/01/19 15:43:23 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 1: tintin641 ($111 in chips) 
+Seat 2: vadjkeee ($125 in chips) 
+Seat 3: PIpenmeno95 ($184.13 in chips) 
+Seat 4: Dai5dop ($111.37 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($131.76 in chips) 
+Mr_Dick666: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+Mr_Dick666: folds 
+shootingGRID: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 collected ($2.50)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop (button) folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: shootingGRID (big blind) folded before Flop
+
+
+
+PokerStars Hand #254455324066:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:43:55 WET [2025/01/19 15:43:55 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: tintin641 ($112.50 in chips) 
+Seat 2: vadjkeee ($125 in chips) 
+Seat 3: PIpenmeno95 ($184.13 in chips) 
+Seat 4: Dai5dop ($111.37 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($130.76 in chips) 
+shootingGRID: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: raises $1.50 to $2.50
+PIpenmeno95: folds 
+Dai5dop: folds 
+Mr_Dick666: folds 
+shootingGRID: folds 
+tintin641: folds 
+Uncalled bet ($1.50) returned to vadjkeee
+vadjkeee collected $2.50 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: vadjkeee collected ($2.50)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: shootingGRID (small blind) folded before Flop
+
+
+
+PokerStars Hand #254455332458:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:44:16 WET [2025/01/19 15:44:16 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 1: tintin641 ($111.50 in chips) 
+Seat 2: vadjkeee ($126.50 in chips) 
+Seat 3: PIpenmeno95 ($184.13 in chips) 
+Seat 4: Dai5dop ($111.37 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($130.26 in chips) 
+tintin641: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+PIpenmeno95: folds 
+Dai5dop: folds 
+Mr_Dick666: folds 
+shootingGRID: raises $1.50 to $2.50
+tintin641: folds 
+vadjkeee: folds 
+Uncalled bet ($1.50) returned to shootingGRID
+shootingGRID collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) folded before Flop
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: shootingGRID (button) collected ($2.50)
+
+
+
+PokerStars Hand #254455338624:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:44:32 WET [2025/01/19 15:44:32 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 1: tintin641 ($111 in chips) 
+Seat 2: vadjkeee ($125.50 in chips) 
+Seat 3: PIpenmeno95 ($184.13 in chips) 
+Seat 4: Dai5dop ($111.37 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($131.76 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+*** HOLE CARDS ***
+Dai5dop: raises $1.20 to $2.20
+Mr_Dick666: folds 
+shootingGRID: folds 
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: calls $1.20
+*** FLOP *** [Kd 3d 6s]
+PIpenmeno95: checks 
+Dai5dop: bets $1.40
+PIpenmeno95: calls $1.40
+*** TURN *** [Kd 3d 6s] [Jh]
+PIpenmeno95: checks 
+Dai5dop: checks 
+*** RIVER *** [Kd 3d 6s Jh] [4h]
+PIpenmeno95: bets $5.56
+Dai5dop: folds 
+Uncalled bet ($5.56) returned to PIpenmeno95
+PIpenmeno95 collected $7.32 from pot
+*** SUMMARY ***
+Total pot $7.70 | Rake $0.38 
+Board [Kd 3d 6s Jh 4h]
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 3: PIpenmeno95 (big blind) collected ($7.32)
+Seat 4: Dai5dop folded on the River
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455364422:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:45:39 WET [2025/01/19 15:45:39 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 1: tintin641 ($111 in chips) 
+Seat 2: vadjkeee ($125 in chips) 
+Seat 3: PIpenmeno95 ($187.85 in chips) 
+Seat 4: Dai5dop ($107.77 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($131.76 in chips) 
+PIpenmeno95: posts small blind $0.50
+Dai5dop: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+shootingGRID: folds 
+tintin641: raises $1.50 to $2.50
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 collected ($2.50)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (small blind) folded before Flop
+Seat 4: Dai5dop (big blind) folded before Flop
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455372638:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:46:00 WET [2025/01/19 15:46:00 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 1: tintin641 ($112.50 in chips) 
+Seat 2: vadjkeee ($125 in chips) 
+Seat 3: PIpenmeno95 ($187.35 in chips) 
+Seat 4: Dai5dop ($106.77 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($131.76 in chips) 
+Dai5dop: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+Uncalled bet ($0.50) returned to Mr_Dick666
+Mr_Dick666 collected $1 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (button) folded before Flop (didn't bet)
+Seat 4: Dai5dop (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) collected ($1)
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455379210:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:46:16 WET [2025/01/19 15:46:16 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 1: tintin641 ($112.50 in chips) 
+Seat 2: vadjkeee ($125 in chips) 
+Seat 3: PIpenmeno95 ($187.35 in chips) 
+Seat 4: Dai5dop ($106.27 in chips) 
+Seat 5: Mr_Dick666 ($100.50 in chips) 
+Seat 6: shootingGRID ($131.76 in chips) 
+Mr_Dick666: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: raises $1 to $2
+Dai5dop: raises $4.50 to $6.50
+Mr_Dick666: folds 
+shootingGRID: folds 
+PIpenmeno95: calls $4.50
+*** FLOP *** [Kh 9c Tc]
+PIpenmeno95: checks 
+Dai5dop: bets $6.89
+PIpenmeno95: calls $6.89
+*** TURN *** [Kh 9c Tc] [6h]
+PIpenmeno95: checks 
+Dai5dop: bets $20.15
+PIpenmeno95: calls $20.15
+*** RIVER *** [Kh 9c Tc 6h] [Jh]
+PIpenmeno95: checks 
+Dai5dop: checks 
+*** SHOW DOWN ***
+PIpenmeno95: shows [8h 7h] (a flush, King high)
+Dai5dop: mucks hand 
+PIpenmeno95 collected $66.08 from pot
+*** SUMMARY ***
+Total pot $68.58 | Rake $2.50 
+Board [Kh 9c Tc 6h Jh]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 showed [8h 7h] and won ($66.08) with a flush, King high
+Seat 4: Dai5dop (button) mucked
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: shootingGRID (big blind) folded before Flop
+
+
+
+PokerStars Hand #254455395355:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:46:58 WET [2025/01/19 15:46:58 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: tintin641 ($112.50 in chips) 
+Seat 2: vadjkeee ($125 in chips) 
+Seat 3: PIpenmeno95 ($219.89 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($130.76 in chips) 
+shootingGRID: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: raises $1.50 to $2.50
+PIpenmeno95: folds 
+Dai5dop: folds 
+Mr_Dick666: folds 
+shootingGRID: folds 
+tintin641: raises $10 to $12.50
+vadjkeee: calls $10
+*** FLOP *** [4h Ad 5h]
+tintin641: bets $7.99
+vadjkeee: folds 
+Uncalled bet ($7.99) returned to tintin641
+tintin641 collected $24.22 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $25.50 | Rake $1.28 
+Board [4h Ad 5h]
+Seat 1: tintin641 (big blind) collected ($24.22)
+Seat 2: vadjkeee folded on the Flop
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: shootingGRID (small blind) folded before Flop
+
+
+
+PokerStars Hand #254455416185:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:47:52 WET [2025/01/19 15:47:52 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 1: tintin641 ($124.22 in chips) 
+Seat 2: vadjkeee ($112.50 in chips) 
+Seat 3: PIpenmeno95 ($219.89 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($130.26 in chips) 
+tintin641: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+PIpenmeno95: folds 
+Dai5dop: raises $1.20 to $2.20
+Mr_Dick666: folds 
+shootingGRID: raises $4.80 to $7
+tintin641: folds 
+vadjkeee: folds 
+Dai5dop: folds 
+Uncalled bet ($4.80) returned to shootingGRID
+shootingGRID collected $5.90 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) folded before Flop
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop folded before Flop
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: shootingGRID (button) collected ($5.90)
+
+
+
+PokerStars Hand #254455425118:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:48:15 WET [2025/01/19 15:48:15 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 1: tintin641 ($123.72 in chips) 
+Seat 2: vadjkeee ($111.50 in chips) 
+Seat 3: PIpenmeno95 ($219.89 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($133.96 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+*** HOLE CARDS ***
+Dai5dop: folds 
+Mr_Dick666: folds 
+shootingGRID: folds 
+tintin641: folds 
+vadjkeee: raises $2 to $3
+PIpenmeno95: folds 
+Uncalled bet ($2) returned to vadjkeee
+vadjkeee collected $2 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: vadjkeee (small blind) collected ($2)
+Seat 3: PIpenmeno95 (big blind) folded before Flop
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455436605:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:48:44 WET [2025/01/19 15:48:44 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 1: tintin641 ($123.72 in chips) 
+Seat 2: vadjkeee ($112.50 in chips) 
+Seat 3: PIpenmeno95 ($218.89 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($133.96 in chips) 
+PIpenmeno95: posts small blind $0.50
+Dai5dop: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+shootingGRID: raises $1.25 to $2.25
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+Uncalled bet ($1.25) returned to shootingGRID
+shootingGRID collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (small blind) folded before Flop
+Seat 4: Dai5dop (big blind) folded before Flop
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: shootingGRID collected ($2.50)
+
+
+
+PokerStars Hand #254455442393:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:48:59 WET [2025/01/19 15:48:59 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 1: tintin641 ($123.72 in chips) 
+Seat 2: vadjkeee ($112.50 in chips) 
+Seat 3: PIpenmeno95 ($218.39 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($135.46 in chips) 
+Dai5dop: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+Uncalled bet ($0.50) returned to Mr_Dick666
+Mr_Dick666 collected $1 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (button) folded before Flop (didn't bet)
+Seat 4: Dai5dop (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) collected ($1)
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455447219:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:49:12 WET [2025/01/19 15:49:12 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 1: tintin641 ($123.72 in chips) 
+Seat 2: vadjkeee ($112.50 in chips) 
+Seat 3: PIpenmeno95 ($218.39 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: Mr_Dick666 ($100.50 in chips) 
+Seat 6: shootingGRID ($135.46 in chips) 
+Mr_Dick666: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: folds 
+Mr_Dick666: raises $2 to $3
+shootingGRID: folds 
+Uncalled bet ($2) returned to Mr_Dick666
+Mr_Dick666 collected $2 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop (button) folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (small blind) collected ($2)
+Seat 6: shootingGRID (big blind) folded before Flop
+
+
+
+PokerStars Hand #254455457342:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:49:38 WET [2025/01/19 15:49:38 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: tintin641 ($123.72 in chips) 
+Seat 2: vadjkeee ($112.50 in chips) 
+Seat 3: PIpenmeno95 ($218.39 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: shootingGRID ($134.46 in chips) 
+shootingGRID: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+PIpenmeno95: folds 
+Dai5dop: raises $1.50 to $2.50
+Mr_Dick666: folds 
+shootingGRID: folds 
+tintin641: folds 
+Uncalled bet ($1.50) returned to Dai5dop
+Dai5dop collected $2.50 from pot
+Dai5dop: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (big blind) folded before Flop
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop collected ($2.50)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: shootingGRID (small blind) folded before Flop
+
+
+
+PokerStars Hand #254455465103:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:49:58 WET [2025/01/19 15:49:58 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 1: tintin641 ($122.72 in chips) 
+Seat 2: vadjkeee ($112.50 in chips) 
+Seat 3: PIpenmeno95 ($218.39 in chips) 
+Seat 4: Dai5dop ($101.50 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: shootingGRID ($133.96 in chips) 
+tintin641: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+PIpenmeno95: folds 
+Dai5dop: folds 
+Mr_Dick666: raises $1.50 to $2.50
+shootingGRID: folds 
+tintin641: folds 
+vadjkeee: folds 
+Uncalled bet ($1.50) returned to Mr_Dick666
+Mr_Dick666 collected $2.50 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tintin641 (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) folded before Flop
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 collected ($2.50)
+Seat 6: shootingGRID (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455470576:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:50:13 WET [2025/01/19 15:50:13 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 1: tintin641 ($122.22 in chips) 
+Seat 2: vadjkeee ($111.50 in chips) 
+Seat 3: PIpenmeno95 ($218.39 in chips) 
+Seat 4: Dai5dop ($101.50 in chips) 
+Seat 5: Mr_Dick666 ($103 in chips) 
+Seat 6: shootingGRID ($133.96 in chips) 
+vadjkeee: posts small blind $0.50
+PIpenmeno95: posts big blind $1
+*** HOLE CARDS ***
+Dai5dop: folds 
+Mr_Dick666: folds 
+shootingGRID: raises $1.25 to $2.25
+tintin641: folds 
+vadjkeee: folds 
+PIpenmeno95: calls $1.25
+*** FLOP *** [Ad Jc Kh]
+PIpenmeno95: checks 
+shootingGRID: bets $1.57
+PIpenmeno95: folds 
+Uncalled bet ($1.57) returned to shootingGRID
+shootingGRID collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Ad Jc Kh]
+Seat 1: tintin641 (button) folded before Flop (didn't bet)
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 3: PIpenmeno95 (big blind) folded on the Flop
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: shootingGRID collected ($4.75)
+
+
+
+PokerStars Hand #254455483799:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:50:47 WET [2025/01/19 15:50:47 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 1: tintin641 ($122.22 in chips) 
+Seat 2: vadjkeee ($111 in chips) 
+Seat 3: PIpenmeno95 ($216.14 in chips) 
+Seat 4: Dai5dop ($101.50 in chips) 
+Seat 5: Mr_Dick666 ($103 in chips) 
+Seat 6: shootingGRID ($136.46 in chips) 
+PIpenmeno95: posts small blind $0.50
+Dai5dop: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+shootingGRID: raises $1.25 to $2.25
+tintin641: folds 
+tintin641 leaves the table
+vadjkeee: folds 
+PIpenmeno95: calls $1.75
+praclovekzig joins the table at seat #1 
+praclovekzig is disconnected 
+Dai5dop: calls $1.25
+*** FLOP *** [5h 8h Qh]
+PIpenmeno95: checks 
+Dai5dop: checks 
+shootingGRID: checks 
+*** TURN *** [5h 8h Qh] [Ts]
+PIpenmeno95: checks 
+Dai5dop: checks 
+shootingGRID: bets $3.21
+PIpenmeno95: folds 
+Dai5dop: folds 
+Uncalled bet ($3.21) returned to shootingGRID
+shootingGRID collected $6.41 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.34 
+Board [5h 8h Qh Ts]
+Seat 1: tintin641 folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (small blind) folded on the Turn
+Seat 4: Dai5dop (big blind) folded on the Turn
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: shootingGRID collected ($6.41)
+
+
+
+PokerStars Hand #254455501714:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:51:33 WET [2025/01/19 15:51:33 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 1: praclovekzig ($20.52 in chips) 
+Seat 2: vadjkeee ($111 in chips) 
+Seat 3: PIpenmeno95 ($213.89 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: Mr_Dick666 ($103 in chips) 
+Seat 6: shootingGRID ($140.62 in chips) 
+Dai5dop: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+praclovekzig: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+praclovekzig: checks 
+vadjkeee: folds 
+PIpenmeno95: raises $1 to $2
+Dai5dop: folds 
+Mr_Dick666: folds 
+praclovekzig: folds 
+Uncalled bet ($1) returned to PIpenmeno95
+PIpenmeno95 collected $3.50 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: praclovekzig folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 (button) collected ($3.50)
+Seat 4: Dai5dop (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) folded before Flop
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455508556:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:51:51 WET [2025/01/19 15:51:51 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 1: praclovekzig ($19.52 in chips) 
+Seat 2: vadjkeee ($111 in chips) 
+Seat 3: PIpenmeno95 ($216.39 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: Mr_Dick666 ($102 in chips) 
+Seat 6: shootingGRID ($140.62 in chips) 
+Mr_Dick666: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+praclovekzig: folds 
+vadjkeee: raises $1.50 to $2.50
+PIpenmeno95: folds 
+Dai5dop: folds 
+Mr_Dick666: folds 
+shootingGRID: calls $1.50
+*** FLOP *** [6h 4s 9s]
+PIpenmeno95 is disconnected 
+shootingGRID: checks 
+vadjkeee: checks 
+*** TURN *** [6h 4s 9s] [7c]
+shootingGRID: checks 
+vadjkeee: checks 
+*** RIVER *** [6h 4s 9s 7c] [2h]
+shootingGRID: checks 
+vadjkeee: checks 
+*** SHOW DOWN ***
+shootingGRID: shows [Th Ad] (high card Ace)
+vadjkeee: mucks hand 
+shootingGRID collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [6h 4s 9s 7c 2h]
+Seat 1: praclovekzig folded before Flop (didn't bet)
+Seat 2: vadjkeee mucked
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop (button) folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: shootingGRID (big blind) showed [Th Ad] and won ($5.22) with high card Ace
+
+
+
+PokerStars Hand #254455536774:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:53:04 WET [2025/01/19 15:53:04 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: praclovekzig ($19.52 in chips) 
+Seat 2: vadjkeee ($108.50 in chips) 
+Seat 3: PIpenmeno95 ($216.39 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: shootingGRID ($143.34 in chips) 
+shootingGRID: posts small blind $0.50
+praclovekzig: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+PIpenmeno95 has timed out while disconnected
+PIpenmeno95: folds 
+Dai5dop: raises $1.50 to $2.50
+Mr_Dick666: folds 
+shootingGRID: folds 
+praclovekzig: folds 
+Uncalled bet ($1.50) returned to Dai5dop
+Dai5dop collected $2.50 from pot
+Dai5dop: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: praclovekzig (big blind) folded before Flop
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: PIpenmeno95 folded before Flop (didn't bet)
+Seat 4: Dai5dop collected ($2.50)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: shootingGRID (small blind) folded before Flop
+
+
+
+PokerStars Hand #254455546259:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:53:29 WET [2025/01/19 15:53:29 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 3: PIpenmeno95 ($216.39 in chips) is sitting out
+Seat 1: praclovekzig ($18.52 in chips) 
+Seat 2: vadjkeee ($108.50 in chips) 
+Seat 4: Dai5dop ($101.50 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: shootingGRID ($142.84 in chips) 
+praclovekzig: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+Dai5dop: folds 
+Mr_Dick666: folds 
+shootingGRID: raises $1.50 to $2.50
+praclovekzig: folds 
+vadjkeee: folds 
+Uncalled bet ($1.50) returned to shootingGRID
+shootingGRID collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: PIpenmeno95
+Seat 1: praclovekzig (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) folded before Flop
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: shootingGRID (button) collected ($2.50)
+
+
+
+PokerStars Hand #254455552260:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:53:44 WET [2025/01/19 15:53:44 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 3: PIpenmeno95 ($216.39 in chips) is sitting out
+Seat 1: praclovekzig ($18.02 in chips) 
+Seat 2: vadjkeee ($107.50 in chips) 
+Seat 4: Dai5dop ($101.50 in chips) 
+Seat 5: Mr_Dick666 ($101.50 in chips) 
+Seat 6: shootingGRID ($144.34 in chips) 
+vadjkeee: posts small blind $0.50
+Dai5dop: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: raises $1 to $2
+shootingGRID: raises $4.50 to $6.50
+praclovekzig: folds 
+vadjkeee: folds 
+Dai5dop: folds 
+Mr_Dick666: calls $4.50
+*** FLOP *** [Qd 8c 6d]
+Mr_Dick666: checks 
+shootingGRID: checks 
+*** TURN *** [Qd 8c 6d] [6s]
+Mr_Dick666: bets $4.55
+shootingGRID: calls $4.55
+*** RIVER *** [Qd 8c 6d 6s] [6c]
+Mr_Dick666: bets $7.40
+shootingGRID: folds 
+Uncalled bet ($7.40) returned to Mr_Dick666
+Mr_Dick666 collected $22.42 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.60 | Rake $1.18 
+Board [Qd 8c 6d 6s 6c]
+Seat 3: PIpenmeno95
+Seat 1: praclovekzig (button) folded before Flop (didn't bet)
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 4: Dai5dop (big blind) folded before Flop
+Seat 5: Mr_Dick666 collected ($22.42)
+Seat 6: shootingGRID folded on the River
+
+
+
+PokerStars Hand #254455569935:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:54:30 WET [2025/01/19 15:54:30 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 3: PIpenmeno95 ($216.39 in chips) is sitting out
+Seat 1: praclovekzig ($18.02 in chips) 
+Seat 2: vadjkeee ($107 in chips) 
+Seat 4: Dai5dop ($100.50 in chips) 
+Seat 5: Mr_Dick666 ($112.87 in chips) 
+Seat 6: shootingGRID ($133.29 in chips) 
+Dai5dop: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+praclovekzig: raises $2 to $3
+vadjkeee: folds 
+Dai5dop: folds 
+Mr_Dick666: folds 
+Uncalled bet ($2) returned to praclovekzig
+praclovekzig collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: PIpenmeno95
+Seat 1: praclovekzig collected ($2.50)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 4: Dai5dop (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) folded before Flop
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455576944:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:54:49 WET [2025/01/19 15:54:49 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 3: PIpenmeno95 ($216.39 in chips) is sitting out
+Seat 1: praclovekzig ($19.52 in chips) 
+Seat 2: vadjkeee ($107 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: Mr_Dick666 ($111.87 in chips) 
+Seat 6: shootingGRID ($133.29 in chips) 
+Mr_Dick666: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+praclovekzig: folds 
+vadjkeee: folds 
+Dai5dop: raises $1.50 to $2.50
+Mr_Dick666: folds 
+shootingGRID: folds 
+Uncalled bet ($1.50) returned to Dai5dop
+Dai5dop collected $2.50 from pot
+Dai5dop: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: PIpenmeno95
+Seat 1: praclovekzig folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 4: Dai5dop (button) collected ($2.50)
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: shootingGRID (big blind) folded before Flop
+
+
+
+PokerStars Hand #254455582527:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:55:03 WET [2025/01/19 15:55:03 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 3: PIpenmeno95 ($216.39 in chips) is sitting out
+Seat 1: praclovekzig ($19.52 in chips) 
+Seat 2: vadjkeee ($107 in chips) 
+Seat 4: Dai5dop ($101.50 in chips) 
+Seat 5: Mr_Dick666 ($111.37 in chips) 
+Seat 6: shootingGRID ($132.29 in chips) 
+shootingGRID: posts small blind $0.50
+praclovekzig: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+Dai5dop: raises $1.50 to $2.50
+Mr_Dick666: raises $5 to $7.50
+shootingGRID: folds 
+praclovekzig: folds 
+Dai5dop: folds 
+Uncalled bet ($5) returned to Mr_Dick666
+Mr_Dick666 collected $6.50 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 3: PIpenmeno95
+Seat 1: praclovekzig (big blind) folded before Flop
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 4: Dai5dop folded before Flop
+Seat 5: Mr_Dick666 (button) collected ($6.50)
+Seat 6: shootingGRID (small blind) folded before Flop
+
+
+
+PokerStars Hand #254455586850:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:55:22 WET [2025/01/19 15:55:22 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 3: PIpenmeno95 ($216.39 in chips) is sitting out
+Seat 1: praclovekzig ($18.52 in chips) 
+Seat 2: vadjkeee ($107 in chips) 
+Seat 4: Dai5dop ($100 in chips) 
+Seat 5: Mr_Dick666 ($115.37 in chips) 
+Seat 6: shootingGRID ($131.79 in chips) 
+praclovekzig: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+Dai5dop: folds 
+Mr_Dick666: folds 
+shootingGRID: folds 
+praclovekzig: calls $0.50
+vadjkeee: checks 
+*** FLOP *** [6c 7c Ad]
+praclovekzig: bets $1
+vadjkeee: calls $1
+*** TURN *** [6c 7c Ad] [Qd]
+praclovekzig: checks 
+vadjkeee: checks 
+*** RIVER *** [6c 7c Ad Qd] [Ac]
+praclovekzig: checks 
+vadjkeee: checks 
+*** SHOW DOWN ***
+praclovekzig: shows [9s 6s] (two pair, Aces and Sixes)
+vadjkeee: mucks hand 
+praclovekzig collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [6c 7c Ad Qd Ac]
+Seat 3: PIpenmeno95
+Seat 1: praclovekzig (small blind) showed [9s 6s] and won ($3.80) with two pair, Aces and Sixes
+Seat 2: vadjkeee (big blind) mucked
+Seat 4: Dai5dop folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: shootingGRID (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455596673:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:56:06 WET [2025/01/19 15:56:06 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 3: PIpenmeno95 ($216.39 in chips) is sitting out
+Seat 4: Dai5dop ($100 in chips) is sitting out
+Seat 1: praclovekzig ($20.32 in chips) 
+Seat 2: vadjkeee ($105 in chips) 
+Seat 5: Mr_Dick666 ($115.37 in chips) 
+Seat 6: shootingGRID ($131.79 in chips) 
+vadjkeee: posts small blind $0.50
+Dai5dop: is sitting out 
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+Dai5dop leaves the table
+praclovekzig: folds 
+vadjkeee: folds 
+Uncalled bet ($0.50) returned to Mr_Dick666
+Mr_Dick666 collected $1 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: PIpenmeno95
+Seat 4: Dai5dop
+Seat 1: praclovekzig (button) folded before Flop (didn't bet)
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) collected ($1)
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455601990:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:56:30 WET [2025/01/19 15:56:30 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 3: PIpenmeno95 ($216.39 in chips) is sitting out
+Seat 1: praclovekzig ($20.32 in chips) 
+Seat 2: vadjkeee ($104.50 in chips) 
+Seat 5: Mr_Dick666 ($115.87 in chips) 
+Seat 6: shootingGRID ($131.79 in chips) 
+Mr_Dick666: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+praclovekzig: folds 
+vadjkeee: folds 
+Mr_Dick666: raises $2 to $3
+shootingGRID: raises $6 to $9
+Mr_Dick666: calls $6
+*** FLOP *** [5s Kh 4c]
+Mr_Dick666: checks 
+shootingGRID: bets $5.64
+Mr_Dick666: calls $5.64
+*** TURN *** [5s Kh 4c] [6c]
+Mr_Dick666: bets $9.33
+shootingGRID: raises $19.17 to $28.50
+Mr_Dick666: calls $19.17
+*** RIVER *** [5s Kh 4c 6c] [3d]
+Mr_Dick666: checks 
+Teddygram902 joins the table at seat #4 
+Teddygram902 is disconnected 
+shootingGRID: bets $88.65 and is all-in
+PIpenmeno95 leaves the table
+Mr_Dick666: folds 
+Uncalled bet ($88.65) returned to shootingGRID
+shootingGRID collected $85.28 from pot
+*** SUMMARY ***
+Total pot $86.28 | Rake $1 
+Board [5s Kh 4c 6c 3d]
+Seat 3: PIpenmeno95
+Seat 1: praclovekzig folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (small blind) folded on the River
+Seat 6: shootingGRID (big blind) collected ($85.28)
+
+
+
+PokerStars Hand #254455619804:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:57:49 WET [2025/01/19 15:57:49 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 4: Teddygram902 ($11.20 in chips) is sitting out
+Seat 1: praclovekzig ($20.32 in chips) 
+Seat 2: vadjkeee ($104.50 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($173.93 in chips) 
+shootingGRID: posts small blind $0.50
+praclovekzig: posts big blind $1
+Teddygram902: sits out 
+*** HOLE CARDS ***
+vadjkeee: folds 
+Mr_Dick666: folds 
+Teddygram902 leaves the table
+shootingGRID: raises $2 to $3
+praclovekzig: folds 
+Uncalled bet ($2) returned to shootingGRID
+shootingGRID collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: Teddygram902
+Seat 1: praclovekzig (big blind) folded before Flop
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: shootingGRID (small blind) collected ($2)
+
+
+
+PokerStars Hand #254455625601:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:58:14 WET [2025/01/19 15:58:14 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 2: vadjkeee ($104.50 in chips) is sitting out
+Seat 5: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: praclovekzig ($19.32 in chips) 
+Seat 6: shootingGRID ($174.93 in chips) 
+praclovekzig: posts small blind $0.50
+Dordor11 joins the table at seat #4 
+vadjkeee: is sitting out 
+Mr_Dick666: is sitting out 
+Dordor11 is disconnected 
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+praclovekzig: raises $2 to $3
+shootingGRID: folds 
+Uncalled bet ($2) returned to praclovekzig
+praclovekzig collected $2 from pot
+XneferX joins the table at seat #3 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: vadjkeee
+Seat 5: Mr_Dick666
+Seat 1: praclovekzig (button) (small blind) collected ($2)
+Seat 6: shootingGRID (big blind) folded before Flop
+
+
+
+PokerStars Hand #254455629365:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:58:31 WET [2025/01/19 15:58:31 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 5: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: praclovekzig ($20.32 in chips) 
+Seat 2: vadjkeee ($104.50 in chips) 
+Seat 3: XneferX ($190.50 in chips) 
+Seat 4: Dordor11 ($30.29 in chips) 
+Seat 6: shootingGRID ($173.93 in chips) 
+praclovekzig: posts small blind $0.50
+vadjkeee: posts big blind $1
+XneferX is connected 
+XneferX: posts big blind $1
+Dordor11: posts big blind $1
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+XneferX: checks 
+Dordor11: checks 
+shootingGRID: folds 
+praclovekzig: folds 
+vadjkeee: checks 
+*** FLOP *** [Th 5d 6d]
+vadjkeee: checks 
+XneferX: checks 
+Dordor11: checks 
+*** TURN *** [Th 5d 6d] [9s]
+vadjkeee: checks 
+XneferX: checks 
+Dordor11: checks 
+*** RIVER *** [Th 5d 6d 9s] [4d]
+vadjkeee: checks 
+XneferX: bets $2.56
+Dordor11: folds 
+vadjkeee: folds 
+Uncalled bet ($2.56) returned to XneferX
+XneferX collected $3.32 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [Th 5d 6d 9s 4d]
+Seat 5: Mr_Dick666
+Seat 1: praclovekzig (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) folded on the River
+Seat 3: XneferX collected ($3.32)
+Seat 4: Dordor11 folded on the River (didn't bet)
+Seat 6: shootingGRID (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455642697:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 20:59:30 WET [2025/01/19 15:59:30 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 5: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: praclovekzig ($19.82 in chips) 
+Seat 2: vadjkeee ($103.50 in chips) 
+Seat 3: XneferX ($192.82 in chips) 
+Seat 4: Dordor11 ($29.29 in chips) 
+Seat 6: shootingGRID ($173.93 in chips) 
+vadjkeee: posts small blind $0.50
+XneferX: posts big blind $1
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+Dordor11: calls $1
+shootingGRID: folds 
+praclovekzig: calls $1
+vadjkeee: folds 
+XneferX: checks 
+*** FLOP *** [5h Qd 9c]
+XneferX: checks 
+Dordor11: checks 
+praclovekzig: bets $3.32
+XneferX: folds 
+Dordor11: calls $3.32
+*** TURN *** [5h Qd 9c] [6s]
+Dordor11: checks 
+praclovekzig: checks 
+*** RIVER *** [5h Qd 9c 6s] [3c]
+Dordor11: bets $3
+praclovekzig: folds 
+Uncalled bet ($3) returned to Dordor11
+Dordor11 collected $9.63 from pot
+*** SUMMARY ***
+Total pot $10.14 | Rake $0.51 
+Board [5h Qd 9c 6s 3c]
+Seat 5: Mr_Dick666
+Seat 1: praclovekzig (button) folded on the River
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 3: XneferX (big blind) folded on the Flop
+Seat 4: Dordor11 collected ($9.63)
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455655622:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:00:26 WET [2025/01/19 16:00:26 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 5: Mr_Dick666 ($100 in chips) is sitting out
+Seat 1: praclovekzig ($15.50 in chips) 
+Seat 2: vadjkeee ($103 in chips) 
+Seat 3: XneferX ($191.82 in chips) 
+Seat 4: Dordor11 ($34.60 in chips) 
+Seat 6: shootingGRID ($173.93 in chips) 
+XneferX: posts small blind $0.50
+Dordor11: posts big blind $1
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+shootingGRID: folds 
+praclovekzig: folds 
+vadjkeee: raises $1.50 to $2.50
+XneferX: folds 
+Dordor11: calls $1.50
+*** FLOP *** [Jc Th Tc]
+Dordor11: checks 
+vadjkeee: bets $1.30
+Dordor11: calls $1.30
+*** TURN *** [Jc Th Tc] [5s]
+Dordor11: checks 
+vadjkeee: checks 
+*** RIVER *** [Jc Th Tc 5s] [7s]
+Dordor11: bets $3.85
+vadjkeee: folds 
+Uncalled bet ($3.85) returned to Dordor11
+Dordor11 collected $7.70 from pot
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.40 
+Board [Jc Th Tc 5s 7s]
+Seat 5: Mr_Dick666
+Seat 1: praclovekzig folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded on the River
+Seat 3: XneferX (small blind) folded before Flop
+Seat 4: Dordor11 (big blind) collected ($7.70)
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455668418:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:01:13 WET [2025/01/19 16:01:13 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 1: praclovekzig ($15.50 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($191.32 in chips) 
+Seat 4: Dordor11 ($38.50 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: shootingGRID ($173.93 in chips) 
+Dordor11: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+praclovekzig: folds 
+vadjkeee: folds 
+XneferX: raises $1.77 to $2.77
+Dordor11: calls $2.27
+Mr_Dick666: calls $1.77
+*** FLOP *** [Ah 2c 4c]
+Dordor11: checks 
+Mr_Dick666: checks 
+XneferX: checks 
+*** TURN *** [Ah 2c 4c] [3c]
+Dordor11: bets $2
+Mr_Dick666: folds 
+XneferX: folds 
+Uncalled bet ($2) returned to Dordor11
+Dordor11 collected $7.89 from pot
+*** SUMMARY ***
+Total pot $8.31 | Rake $0.42 
+Board [Ah 2c 4c 3c]
+Seat 1: praclovekzig folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: XneferX (button) folded on the Turn
+Seat 4: Dordor11 (small blind) collected ($7.89)
+Seat 5: Mr_Dick666 (big blind) folded on the Turn
+Seat 6: shootingGRID folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455685197:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:02:07 WET [2025/01/19 16:02:07 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 6: shootingGRID ($173.93 in chips) is sitting out
+Seat 1: praclovekzig ($15.50 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($188.55 in chips) 
+Seat 4: Dordor11 ($43.62 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Mr_Dick666: posts small blind $0.50
+shootingGRID: is sitting out 
+praclovekzig: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID leaves the table
+vadjkeee: folds 
+sändana joins the table at seat #6 
+XneferX: raises $1.30 to $2.30
+Dordor11: folds 
+Mr_Dick666: folds 
+praclovekzig: calls $1.30
+*** FLOP *** [Qd 6c 5d]
+praclovekzig: checks 
+XneferX: bets $1.65
+praclovekzig: folds 
+Uncalled bet ($1.65) returned to XneferX
+XneferX collected $4.84 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.26 
+Board [Qd 6c 5d]
+Seat 6: shootingGRID
+Seat 1: praclovekzig (big blind) folded on the Flop
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: XneferX collected ($4.84)
+Seat 4: Dordor11 (button) folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254455698610:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:02:44 WET [2025/01/19 16:02:44 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 6: sändana ($100 in chips) is sitting out
+Seat 1: praclovekzig ($13.20 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($191.09 in chips) 
+Seat 4: Dordor11 ($43.62 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+praclovekzig: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Dordor11: folds 
+Mr_Dick666: folds 
+praclovekzig: calls $0.50
+vadjkeee: checks 
+*** FLOP *** [2h 7c 6h]
+praclovekzig: bets $1.90
+vadjkeee: raises $11.60 to $13.50
+praclovekzig: calls $10.30 and is all-in
+Uncalled bet ($1.30) returned to vadjkeee
+*** TURN *** [2h 7c 6h] [Ah]
+*** RIVER *** [2h 7c 6h Ah] [Js]
+*** SHOW DOWN ***
+praclovekzig: shows [5d 4d] (high card Ace)
+vadjkeee: shows [4s 5h] (high card Ace)
+praclovekzig collected $12.54 from pot
+vadjkeee collected $12.54 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $1.32 
+Board [2h 7c 6h Ah Js]
+Seat 6: sändana
+Seat 1: praclovekzig (small blind) showed [5d 4d] and won ($12.54) with high card Ace
+Seat 2: vadjkeee (big blind) showed [4s 5h] and won ($12.54) with high card Ace
+Seat 3: XneferX folded before Flop (didn't bet)
+Seat 4: Dordor11 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455710457:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:03:16 WET [2025/01/19 16:03:16 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 6: sändana ($100 in chips) is sitting out
+Seat 1: praclovekzig ($12.54 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($191.09 in chips) 
+Seat 4: Dordor11 ($43.62 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+vadjkeee: posts small blind $0.50
+XneferX: posts big blind $1
+sändana: sits out 
+*** HOLE CARDS ***
+Dordor11: folds 
+Mr_Dick666: folds 
+praclovekzig: folds 
+vadjkeee: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: sändana
+Seat 1: praclovekzig (button) folded before Flop (didn't bet)
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 3: XneferX (big blind) collected ($1)
+Seat 4: Dordor11 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455715093:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:03:29 WET [2025/01/19 16:03:29 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 6: sändana ($100 in chips) is sitting out
+Seat 1: praclovekzig ($12.54 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($191.59 in chips) 
+Seat 4: Dordor11 ($43.62 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+XneferX: posts small blind $0.50
+Dordor11: posts big blind $1
+sändana: sits out 
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+praclovekzig: folds 
+vadjkeee: folds 
+XneferX: raises $2 to $3
+Dordor11: calls $2
+*** FLOP *** [Js 5d 3d]
+XneferX: bets $1.94
+Dordor11: folds 
+Uncalled bet ($1.94) returned to XneferX
+XneferX collected $5.70 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Js 5d 3d]
+Seat 6: sändana
+Seat 1: praclovekzig folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: XneferX (small blind) collected ($5.70)
+Seat 4: Dordor11 (big blind) folded on the Flop
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455727231:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:04:02 WET [2025/01/19 16:04:02 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 6: sändana ($100 in chips) is sitting out
+Seat 1: praclovekzig ($12.54 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($194.29 in chips) 
+Seat 4: Dordor11 ($40.62 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Dordor11: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+sändana: sits out 
+*** HOLE CARDS ***
+praclovekzig: folds 
+vadjkeee: folds 
+XneferX: folds 
+Dordor11: calls $0.50
+Mr_Dick666: checks 
+*** FLOP *** [5s Qd Kc]
+Dordor11: checks 
+Mr_Dick666: checks 
+*** TURN *** [5s Qd Kc] [Th]
+Dordor11: bets $1
+Mr_Dick666: folds 
+Uncalled bet ($1) returned to Dordor11
+Dordor11 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [5s Qd Kc Th]
+Seat 6: sändana
+Seat 1: praclovekzig folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: XneferX (button) folded before Flop (didn't bet)
+Seat 4: Dordor11 (small blind) collected ($1.90)
+Seat 5: Mr_Dick666 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254455739143:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:04:33 WET [2025/01/19 16:04:33 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 1: praclovekzig ($12.54 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($194.29 in chips) 
+Seat 4: Dordor11 ($41.52 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($100 in chips) 
+Mr_Dick666: posts small blind $0.50
+sändana: posts big blind $1
+*** HOLE CARDS ***
+praclovekzig: raises $2 to $3
+vadjkeee: folds 
+XneferX: folds 
+Dordor11: folds 
+Mr_Dick666: folds 
+sändana: folds 
+Uncalled bet ($2) returned to praclovekzig
+praclovekzig collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: praclovekzig collected ($2.50)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: XneferX folded before Flop (didn't bet)
+Seat 4: Dordor11 (button) folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: sändana (big blind) folded before Flop
+
+
+
+PokerStars Hand #254455750546:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:05:03 WET [2025/01/19 16:05:03 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: praclovekzig ($14.04 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($194.29 in chips) 
+Seat 4: Dordor11 ($41.52 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($100 in chips) 
+sändana: posts small blind $0.50
+praclovekzig: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+XneferX: folds 
+Dordor11: raises $1 to $2
+Mr_Dick666: folds 
+sändana: raises $5.50 to $7.50
+praclovekzig: folds 
+Dordor11: folds 
+Uncalled bet ($5.50) returned to sändana
+sändana collected $5 from pot
+sändana: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: praclovekzig (big blind) folded before Flop
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: XneferX folded before Flop (didn't bet)
+Seat 4: Dordor11 folded before Flop
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: sändana (small blind) collected ($5)
+
+
+
+PokerStars Hand #254455761115:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:05:32 WET [2025/01/19 16:05:32 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 1: praclovekzig ($13.04 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($194.29 in chips) 
+Seat 4: Dordor11 ($39.52 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($103 in chips) 
+praclovekzig: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Dordor11: raises $2 to $3
+Mr_Dick666: folds 
+sändana: folds 
+praclovekzig: folds 
+vadjkeee: folds 
+Uncalled bet ($2) returned to Dordor11
+Dordor11 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: praclovekzig (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) folded before Flop
+Seat 3: XneferX folded before Flop (didn't bet)
+Seat 4: Dordor11 collected ($2.50)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: sändana (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455768692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:05:51 WET [2025/01/19 16:05:51 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 1: praclovekzig ($12.54 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($194.29 in chips) 
+Seat 4: Dordor11 ($41.02 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($103 in chips) 
+vadjkeee: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Dordor11: calls $1
+Mr_Dick666: folds 
+sändana: raises $3 to $4
+praclovekzig: raises $8.54 to $12.54 and is all-in
+vadjkeee: folds 
+XneferX: folds 
+Dordor11: calls $11.54
+sändana: folds 
+Dordor11 has timed out
+*** FLOP *** [8s Qh 4s]
+*** TURN *** [8s Qh 4s] [Qd]
+*** RIVER *** [8s Qh 4s Qd] [Td]
+*** SHOW DOWN ***
+Dordor11: shows [Jd Jc] (two pair, Queens and Jacks)
+praclovekzig: shows [4d 4c] (a full house, Fours full of Queens)
+praclovekzig collected $29.05 from pot
+*** SUMMARY ***
+Total pot $30.58 | Rake $1.53 
+Board [8s Qh 4s Qd Td]
+Seat 1: praclovekzig (button) showed [4d 4c] and won ($29.05) with a full house, Fours full of Queens
+Seat 2: vadjkeee (small blind) folded before Flop
+Seat 3: XneferX (big blind) folded before Flop
+Seat 4: Dordor11 showed [Jd Jc] and lost with two pair, Queens and Jacks
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: sändana folded before Flop
+
+
+
+PokerStars Hand #254455790771:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:06:48 WET [2025/01/19 16:06:48 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 1: praclovekzig ($29.05 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($193.29 in chips) 
+Seat 4: Dordor11 ($28.48 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($100 in chips) 
+XneferX: posts small blind $0.50
+Dordor11: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+sändana: folds 
+praclovekzig: folds 
+vadjkeee: folds 
+XneferX: raises $2 to $3
+Dordor11: raises $4 to $7
+XneferX: folds 
+Uncalled bet ($4) returned to Dordor11
+Dordor11 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: praclovekzig folded before Flop (didn't bet)
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: XneferX (small blind) folded before Flop
+Seat 4: Dordor11 (big blind) collected ($6)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: sändana folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455810192:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:07:39 WET [2025/01/19 16:07:39 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 1: praclovekzig ($29.05 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($190.29 in chips) 
+Seat 4: Dordor11 ($31.48 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($100 in chips) 
+Dordor11: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+sändana: raises $1.20 to $2.20
+praclovekzig: folds 
+vadjkeee: folds 
+XneferX: folds 
+Dordor11: calls $1.70
+Mr_Dick666: folds 
+*** FLOP *** [6d 9d Jc]
+Dordor11: checks 
+sändana: bets $3.90
+Dordor11: calls $3.90
+*** TURN *** [6d 9d Jc] [Ac]
+Dordor11: checks 
+sändana: checks 
+*** RIVER *** [6d 9d Jc Ac] [5c]
+Dordor11: bets $5
+sändana: calls $5
+*** SHOW DOWN ***
+Dordor11: shows [Qc 9h] (a pair of Nines)
+sändana: shows [Qh Qs] (a pair of Queens)
+sändana collected $22.04 from pot
+*** SUMMARY ***
+Total pot $23.20 | Rake $1.16 
+Board [6d 9d Jc Ac 5c]
+Seat 1: praclovekzig folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: XneferX (button) folded before Flop (didn't bet)
+Seat 4: Dordor11 (small blind) showed [Qc 9h] and lost with a pair of Nines
+Seat 5: Mr_Dick666 (big blind) folded before Flop
+Seat 6: sändana showed [Qh Qs] and won ($22.04) with a pair of Queens
+
+
+
+PokerStars Hand #254455843400:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:09:06 WET [2025/01/19 16:09:06 ET]
+Table 'Leonid IV' 6-max Seat #4 is the button
+Seat 1: praclovekzig ($29.05 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($190.29 in chips) 
+Seat 4: Dordor11 ($20.38 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($110.94 in chips) 
+Mr_Dick666: posts small blind $0.50
+sändana: posts big blind $1
+*** HOLE CARDS ***
+praclovekzig: folds 
+vadjkeee: folds 
+XneferX: folds 
+Dordor11: calls $1
+Mr_Dick666: folds 
+sändana: checks 
+*** FLOP *** [2h 5h 3c]
+sändana: checks 
+Dordor11: checks 
+*** TURN *** [2h 5h 3c] [4d]
+sändana: checks 
+Dordor11: bets $1
+sändana: folds 
+Uncalled bet ($1) returned to Dordor11
+Dordor11 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [2h 5h 3c 4d]
+Seat 1: praclovekzig folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: XneferX folded before Flop (didn't bet)
+Seat 4: Dordor11 (button) collected ($2.38)
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: sändana (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254455870699:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:10:17 WET [2025/01/19 16:10:17 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: praclovekzig ($29.05 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($190.29 in chips) 
+Seat 4: Dordor11 ($21.76 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($109.94 in chips) 
+sändana: posts small blind $0.50
+praclovekzig: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+XneferX: folds 
+Dordor11: raises $2 to $3
+Mr_Dick666: folds 
+sändana: folds 
+praclovekzig: raises $6.50 to $9.50
+Dordor11: calls $6.50
+*** FLOP *** [2h 8d Qc]
+praclovekzig: bets $19.55 and is all-in
+Dordor11: folds 
+Uncalled bet ($19.55) returned to praclovekzig
+praclovekzig collected $18.52 from pot
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [2h 8d Qc]
+Seat 1: praclovekzig (big blind) collected ($18.52)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: XneferX folded before Flop (didn't bet)
+Seat 4: Dordor11 folded on the Flop
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: sändana (small blind) folded before Flop
+
+
+
+PokerStars Hand #254455880832:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:10:43 WET [2025/01/19 16:10:43 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 1: praclovekzig ($38.07 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($190.29 in chips) 
+Seat 4: Dordor11 ($12.26 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($109.44 in chips) 
+praclovekzig: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Dordor11: raises $11.26 to $12.26 and is all-in
+Mr_Dick666: folds 
+sändana: folds 
+praclovekzig: folds 
+vadjkeee: folds 
+Uncalled bet ($11.26) returned to Dordor11
+Dordor11 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: praclovekzig (small blind) folded before Flop
+Seat 2: vadjkeee (big blind) folded before Flop
+Seat 3: XneferX folded before Flop (didn't bet)
+Seat 4: Dordor11 collected ($2.50)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: sändana (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455891307:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:11:10 WET [2025/01/19 16:11:10 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 1: praclovekzig ($37.57 in chips) 
+Seat 2: vadjkeee ($100 in chips) 
+Seat 3: XneferX ($190.29 in chips) 
+Seat 4: Dordor11 ($13.76 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($109.44 in chips) 
+vadjkeee: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Dordor11: raises $1 to $2
+Mr_Dick666: folds 
+sändana: folds 
+praclovekzig: calls $2
+vadjkeee: raises $7.50 to $9.50
+XneferX: folds 
+Dordor11: raises $4.26 to $13.76 and is all-in
+praclovekzig: folds 
+vadjkeee: calls $4.26
+*** FLOP *** [5d Ts Ac]
+*** TURN *** [5d Ts Ac] [Jh]
+*** RIVER *** [5d Ts Ac Jh] [4c]
+*** SHOW DOWN ***
+vadjkeee: shows [Qd Qs] (a pair of Queens)
+Dordor11: shows [8d 5h] (a pair of Fives)
+vadjkeee collected $28.99 from pot
+Dordor11 cashed out the hand for $4.47 | Cash Out Fee $0.09
+*** SUMMARY ***
+Total pot $30.52 | Rake $1.53 
+Board [5d Ts Ac Jh 4c]
+Seat 1: praclovekzig (button) folded before Flop
+Seat 2: vadjkeee (small blind) showed [Qd Qs] and won ($28.99) with a pair of Queens
+Seat 3: XneferX (big blind) folded before Flop
+Seat 4: Dordor11 showed [8d 5h] and lost with a pair of Fives (cashed out).
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: sändana folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455904847:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:11:45 WET [2025/01/19 16:11:45 ET]
+Table 'Leonid IV' 6-max Seat #2 is the button
+Seat 1: praclovekzig ($35.57 in chips) 
+Seat 2: vadjkeee ($115.23 in chips) 
+Seat 3: XneferX ($189.29 in chips) 
+Seat 4: Dordor11 ($4.47 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($109.44 in chips) 
+XneferX: posts small blind $0.50
+Dordor11: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+sändana: folds 
+praclovekzig: calls $1
+vadjkeee: folds 
+XneferX: raises $4 to $5
+Dordor11: calls $3.47 and is all-in
+praclovekzig: folds 
+Uncalled bet ($0.53) returned to XneferX
+*** FLOP *** [Qd 5c Kd]
+*** TURN *** [Qd 5c Kd] [7s]
+*** RIVER *** [Qd 5c Kd 7s] [Jd]
+*** SHOW DOWN ***
+XneferX: shows [Ah Js] (a pair of Jacks)
+Dordor11: shows [9c 5d] (a pair of Fives)
+XneferX cashed out the hand for $6.09 | Cash Out Fee $0.12
+*** SUMMARY ***
+Total pot $9.94 | Rake $0.50 
+Board [Qd 5c Kd 7s Jd]
+Seat 1: praclovekzig folded before Flop
+Seat 2: vadjkeee (button) folded before Flop (didn't bet)
+Seat 3: XneferX (small blind) showed [Ah Js] and won ($9.44) with a pair of Jacks (pot not awarded as player cashed out)
+Seat 4: Dordor11 (big blind) showed [9c 5d] and lost with a pair of Fives
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: sändana folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455921792:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:12:29 WET [2025/01/19 16:12:29 ET]
+Table 'Leonid IV' 6-max Seat #3 is the button
+Seat 4: Dordor11 ($0 in chips) is sitting out
+Seat 1: praclovekzig ($34.57 in chips) 
+Seat 2: vadjkeee ($115.23 in chips) 
+Seat 3: XneferX ($190.91 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($109.44 in chips) 
+Mr_Dick666: posts small blind $0.50
+sändana: posts big blind $1
+*** HOLE CARDS ***
+praclovekzig: folds 
+vadjkeee: folds 
+XneferX: folds 
+Dordor11 leaves the table
+Mr_Dick666: folds 
+Uncalled bet ($0.50) returned to sändana
+sändana collected $1 from pot
+sändana: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: Dordor11
+Seat 1: praclovekzig folded before Flop (didn't bet)
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: XneferX (button) folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: sändana (big blind) collected ($1)
+
+
+
+PokerStars Hand #254455926525:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:12:41 WET [2025/01/19 16:12:41 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 1: praclovekzig ($34.57 in chips) 
+Seat 2: vadjkeee ($115.23 in chips) 
+Seat 3: XneferX ($190.91 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($109.94 in chips) 
+sändana: posts small blind $0.50
+praclovekzig: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+XneferX: raises $1.30 to $2.30
+Mr_Dick666: folds 
+sändana: folds 
+praclovekzig: folds 
+Uncalled bet ($1.30) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: praclovekzig (big blind) folded before Flop
+Seat 2: vadjkeee folded before Flop (didn't bet)
+Seat 3: XneferX collected ($2.50)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: sändana (small blind) folded before Flop
+
+
+
+PokerStars Hand #254455931923:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:12:55 WET [2025/01/19 16:12:55 ET]
+Table 'Leonid IV' 6-max Seat #6 is the button
+Seat 2: vadjkeee ($115.23 in chips) is sitting out
+Seat 3: XneferX ($192.41 in chips) is sitting out
+Seat 1: praclovekzig ($33.57 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+Seat 6: sändana ($109.44 in chips) 
+praclovekzig: posts small blind $0.50
+vadjkeee: is sitting out 
+XneferX: is sitting out 
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+sändana: folds 
+praclovekzig: folds 
+Uncalled bet ($0.50) returned to Mr_Dick666
+vadjkeee leaves the table
+Mr_Dick666 collected $1 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: vadjkeee
+Seat 3: XneferX
+Seat 1: praclovekzig (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) collected ($1)
+Seat 6: sändana (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254455934476:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:13:01 WET [2025/01/19 16:13:01 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 3: XneferX ($192.41 in chips) is sitting out
+Seat 6: sändana ($109.44 in chips) is sitting out
+Seat 1: praclovekzig ($33.07 in chips) 
+Seat 5: Mr_Dick666 ($100.50 in chips) 
+Mr_Dick666: posts small blind $0.50
+sändana: is sitting out 
+praclovekzig: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+Uncalled bet ($0.50) returned to praclovekzig
+sändana leaves the table
+praclovekzig collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: XneferX
+Seat 6: sändana
+Seat 1: praclovekzig (big blind) collected ($1)
+Seat 5: Mr_Dick666 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254455936919:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:13:08 WET [2025/01/19 16:13:08 ET]
+Table 'Leonid IV' 6-max Seat #1 is the button
+Seat 3: XneferX ($192.41 in chips) is sitting out
+Seat 1: praclovekzig ($33.57 in chips) 
+Seat 5: Mr_Dick666 ($100 in chips) 
+praclovekzig: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+praclovekzig: folds 
+Uncalled bet ($0.50) returned to Mr_Dick666
+Mr_Dick666 collected $1 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: XneferX
+Seat 1: praclovekzig (button) (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254455939237:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 21:13:14 WET [2025/01/19 16:13:14 ET]
+Table 'Leonid IV' 6-max Seat #5 is the button
+Seat 3: XneferX ($192.41 in chips) is sitting out
+Seat 1: praclovekzig ($33.07 in chips) 
+Seat 5: Mr_Dick666 ($100.50 in chips) 
+Mr_Dick666: posts small blind $0.50
+praclovekzig: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+Uncalled bet ($0.50) returned to praclovekzig
+praclovekzig collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: XneferX
+Seat 1: praclovekzig (big blind) collected ($1)
+Seat 5: Mr_Dick666 (button) (small blind) folded before Flop
+
+
+

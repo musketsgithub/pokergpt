@@ -1,0 +1,3002 @@
+﻿PokerStars Hand #254225514600:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:21:19 WET [2025/01/06 5:21:19 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: elcutez ($100 in chips) is sitting out
+Seat 3: Ysiven ($100 in chips) is sitting out
+Seat 2: blistein ($100 in chips) 
+Seat 4: chelsea16730 ($65.53 in chips) 
+Seat 5: Punzzzer ($102 in chips) 
+Seat 6: iNeverBluff398 ($100 in chips) 
+chelsea16730: posts small blind $0.50
+Punzzzer: posts big blind $1
+*** HOLE CARDS ***
+iNeverBluff398: raises $1.30 to $2.30
+blistein: folds 
+chelsea16730: calls $1.80
+Punzzzer: calls $1.30
+*** FLOP *** [5d 8c 3c]
+chelsea16730: checks 
+Punzzzer: checks 
+iNeverBluff398: bets $4.33
+chelsea16730: folds 
+Punzzzer: raises $10.17 to $14.50
+iNeverBluff398: raises $17 to $31.50
+Punzzzer: raises $68.20 to $99.70 and is all-in
+iNeverBluff398: calls $66.20 and is all-in
+Uncalled bet ($2) returned to Punzzzer
+*** TURN *** [5d 8c 3c] [5s]
+*** RIVER *** [5d 8c 3c 5s] [3d]
+*** SHOW DOWN ***
+Punzzzer: shows [3h 3s] (four of a kind, Threes)
+iNeverBluff398: shows [Ks Kd] (two pair, Kings and Fives)
+Punzzzer collected $201.30 from pot
+*** SUMMARY ***
+Total pot $202.30 | Rake $1 
+Board [5d 8c 3c 5s 3d]
+Seat 1: elcutez
+Seat 3: Ysiven
+Seat 2: blistein (button) folded before Flop (didn't bet)
+Seat 4: chelsea16730 (small blind) folded on the Flop
+Seat 5: Punzzzer (big blind) showed [3h 3s] and won ($201.30) with four of a kind, Threes
+Seat 6: iNeverBluff398 showed [Ks Kd] and lost with two pair, Kings and Fives
+
+
+
+PokerStars Hand #254225520301:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:22:07 WET [2025/01/06 5:22:07 ET]
+Table 'Sequoia II' 6-max Seat #4 is the button
+Seat 3: Ysiven ($100 in chips) is sitting out
+Seat 1: elcutez ($100 in chips) 
+Seat 2: blistein ($100 in chips) 
+Seat 4: chelsea16730 ($63.23 in chips) 
+Seat 5: Punzzzer ($203.30 in chips) 
+Seat 6: iNeverBluff398 ($100 in chips) 
+Punzzzer: posts small blind $0.50
+iNeverBluff398: posts big blind $1
+elcutez: posts small & big blinds $1.50
+Ysiven: sits out 
+*** HOLE CARDS ***
+elcutez: checks 
+blistein: folds 
+chelsea16730: calls $1
+Punzzzer: calls $0.50
+iNeverBluff398: checks 
+*** FLOP *** [Ts 4c 8h]
+Punzzzer: checks 
+iNeverBluff398: checks 
+elcutez: checks 
+chelsea16730: checks 
+*** TURN *** [Ts 4c 8h] [6h]
+Punzzzer: checks 
+iNeverBluff398: checks 
+elcutez: checks 
+chelsea16730: checks 
+*** RIVER *** [Ts 4c 8h 6h] [Kh]
+Punzzzer: checks 
+iNeverBluff398: checks 
+elcutez: checks 
+chelsea16730: checks 
+*** SHOW DOWN ***
+Punzzzer: shows [5s Qs] (high card King)
+iNeverBluff398: shows [Td 5h] (a pair of Tens)
+elcutez: mucks hand 
+chelsea16730: mucks hand 
+iNeverBluff398 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ts 4c 8h 6h Kh]
+Seat 3: Ysiven
+Seat 1: elcutez mucked
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 4: chelsea16730 (button) mucked
+Seat 5: Punzzzer (small blind) showed [5s Qs] and lost with high card King
+Seat 6: iNeverBluff398 (big blind) showed [Td 5h] and won ($4.28) with a pair of Tens
+
+
+
+PokerStars Hand #254225527110:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:23:05 WET [2025/01/06 5:23:05 ET]
+Table 'Sequoia II' 6-max Seat #5 is the button
+Seat 3: Ysiven ($100 in chips) is sitting out
+Seat 1: elcutez ($98.50 in chips) 
+Seat 2: blistein ($100 in chips) 
+Seat 4: chelsea16730 ($62.23 in chips) 
+Seat 5: Punzzzer ($202.30 in chips) 
+Seat 6: iNeverBluff398 ($103.28 in chips) 
+iNeverBluff398: posts small blind $0.50
+elcutez: posts big blind $1
+Ysiven: sits out 
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+chelsea16730: folds 
+Punzzzer: folds 
+iNeverBluff398: folds 
+elcutez: calls $1.20
+*** FLOP *** [2s Qh Js]
+elcutez: checks 
+blistein: bets $2.33
+elcutez: calls $2.33
+*** TURN *** [2s Qh Js] [2d]
+elcutez: checks 
+blistein: bets $6.81
+elcutez: calls $6.81
+*** RIVER *** [2s Qh Js 2d] [Jd]
+elcutez: bets $14
+blistein: folds 
+Uncalled bet ($14) returned to elcutez
+elcutez collected $22.02 from pot
+*** SUMMARY ***
+Total pot $23.18 | Rake $1.16 
+Board [2s Qh Js 2d Jd]
+Seat 3: Ysiven
+Seat 1: elcutez (big blind) collected ($22.02)
+Seat 2: blistein folded on the River
+Seat 4: chelsea16730 folded before Flop (didn't bet)
+Seat 5: Punzzzer (button) folded before Flop (didn't bet)
+Seat 6: iNeverBluff398 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225536666:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:24:26 WET [2025/01/06 5:24:26 ET]
+Table 'Sequoia II' 6-max Seat #6 is the button
+Seat 3: Ysiven ($100 in chips) is sitting out
+Seat 1: elcutez ($109.18 in chips) 
+Seat 2: blistein ($100 in chips) 
+Seat 4: chelsea16730 ($62.23 in chips) 
+Seat 5: Punzzzer ($202.30 in chips) 
+Seat 6: iNeverBluff398 ($102.78 in chips) 
+elcutez: posts small blind $0.50
+blistein: posts big blind $1
+Ysiven: sits out 
+*** HOLE CARDS ***
+chelsea16730: calls $1
+Punzzzer: raises $2 to $3
+iNeverBluff398: folds 
+elcutez: folds 
+blistein: folds 
+chelsea16730: calls $2
+*** FLOP *** [7h Td 3c]
+chelsea16730: checks 
+Punzzzer: bets $2.35
+chelsea16730: calls $2.35
+*** TURN *** [7h Td 3c] [Jd]
+chelsea16730: checks 
+Punzzzer: bets $8.69
+chelsea16730: calls $8.69
+*** RIVER *** [7h Td 3c Jd] [Ac]
+chelsea16730: checks 
+Punzzzer: bets $28.10
+chelsea16730: folds 
+Uncalled bet ($28.10) returned to Punzzzer
+Punzzzer collected $28.10 from pot
+Punzzzer: doesn't show hand 
+*** SUMMARY ***
+Total pot $29.58 | Rake $1.48 
+Board [7h Td 3c Jd Ac]
+Seat 3: Ysiven
+Seat 1: elcutez (small blind) folded before Flop
+Seat 2: blistein (big blind) folded before Flop
+Seat 4: chelsea16730 folded on the River
+Seat 5: Punzzzer collected ($28.10)
+Seat 6: iNeverBluff398 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225541661:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:25:08 WET [2025/01/06 5:25:08 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: elcutez ($108.68 in chips) 
+Seat 2: blistein ($100 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($48.19 in chips) 
+Seat 5: Punzzzer ($216.36 in chips) 
+Seat 6: iNeverBluff398 ($102.78 in chips) 
+blistein: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+chelsea16730: folds 
+Punzzzer: raises $1.20 to $2.20
+iNeverBluff398: calls $2.20
+elcutez is disconnected 
+elcutez is connected 
+elcutez: folds 
+blistein: folds 
+Ysiven: folds 
+*** FLOP *** [7h Ac 2c]
+Punzzzer: bets $2.91
+iNeverBluff398: folds 
+Uncalled bet ($2.91) returned to Punzzzer
+Punzzzer collected $5.60 from pot
+Punzzzer: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [7h Ac 2c]
+Seat 1: elcutez (button) folded before Flop (didn't bet)
+Seat 2: blistein (small blind) folded before Flop
+Seat 3: Ysiven (big blind) folded before Flop
+Seat 4: chelsea16730 folded before Flop (didn't bet)
+Seat 5: Punzzzer collected ($5.60)
+Seat 6: iNeverBluff398 folded on the Flop
+
+
+
+PokerStars Hand #254225545495:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:25:41 WET [2025/01/06 5:25:41 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: elcutez ($108.68 in chips) 
+Seat 2: blistein ($100 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($48.19 in chips) 
+Seat 5: Punzzzer ($219.76 in chips) 
+Seat 6: iNeverBluff398 ($100.58 in chips) 
+Ysiven: posts small blind $0.50
+chelsea16730: posts big blind $1
+*** HOLE CARDS ***
+Punzzzer: raises $1.20 to $2.20
+iNeverBluff398: folds 
+elcutez is disconnected 
+elcutez has timed out while disconnected
+elcutez: folds 
+blistein: folds 
+Ysiven: folds 
+chelsea16730: raises $4.20 to $6.40
+Punzzzer: calls $4.20
+*** FLOP *** [Jc 3s Ts]
+chelsea16730: bets $5
+Punzzzer: raises $11.77 to $16.77
+chelsea16730: raises $25.02 to $41.79 and is all-in
+Punzzzer: calls $25.02
+*** TURN *** [Jc 3s Ts] [Kd]
+*** RIVER *** [Jc 3s Ts Kd] [Qd]
+*** SHOW DOWN ***
+chelsea16730: shows [Th 9d] (a straight, Nine to King)
+Punzzzer: shows [Ks Jh] (two pair, Kings and Jacks)
+chelsea16730 collected $94.38 from pot
+*** SUMMARY ***
+Total pot $96.88 | Rake $2.50 
+Board [Jc 3s Ts Kd Qd]
+Seat 1: elcutez folded before Flop (didn't bet)
+Seat 2: blistein (button) folded before Flop (didn't bet)
+Seat 3: Ysiven (small blind) folded before Flop
+Seat 4: chelsea16730 (big blind) showed [Th 9d] and won ($94.38) with a straight, Nine to King
+Seat 5: Punzzzer showed [Ks Jh] and lost with two pair, Kings and Jacks
+Seat 6: iNeverBluff398 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225553830:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:26:51 WET [2025/01/06 5:26:51 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 1: elcutez ($108.68 in chips) 
+Seat 2: blistein ($100 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($94.38 in chips) 
+Seat 5: Punzzzer ($171.57 in chips) 
+Seat 6: iNeverBluff398 ($100.58 in chips) 
+chelsea16730: posts small blind $0.50
+Punzzzer: posts big blind $1
+*** HOLE CARDS ***
+iNeverBluff398: folds 
+elcutez: folds 
+blistein: raises $1.30 to $2.30
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: folds 
+Uncalled bet ($1.30) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: elcutez folded before Flop (didn't bet)
+Seat 2: blistein collected ($2.50)
+Seat 3: Ysiven (button) folded before Flop (didn't bet)
+Seat 4: chelsea16730 (small blind) folded before Flop
+Seat 5: Punzzzer (big blind) folded before Flop
+Seat 6: iNeverBluff398 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225555701:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:27:08 WET [2025/01/06 5:27:08 ET]
+Table 'Sequoia II' 6-max Seat #4 is the button
+Seat 1: elcutez ($108.68 in chips) 
+Seat 2: blistein ($101.50 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($93.88 in chips) 
+Seat 5: Punzzzer ($170.57 in chips) 
+Seat 6: iNeverBluff398 ($100.58 in chips) 
+Punzzzer: posts small blind $0.50
+iNeverBluff398: posts big blind $1
+*** HOLE CARDS ***
+elcutez: raises $2 to $3
+blistein: raises $6 to $9
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: folds 
+iNeverBluff398: folds 
+elcutez: folds 
+Uncalled bet ($6) returned to blistein
+blistein collected $7.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: elcutez folded before Flop
+Seat 2: blistein collected ($7.50)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 (button) folded before Flop (didn't bet)
+Seat 5: Punzzzer (small blind) folded before Flop
+Seat 6: iNeverBluff398 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225558571:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:27:32 WET [2025/01/06 5:27:32 ET]
+Table 'Sequoia II' 6-max Seat #5 is the button
+Seat 1: elcutez ($105.68 in chips) 
+Seat 2: blistein ($106 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($93.88 in chips) 
+Seat 5: Punzzzer ($170.07 in chips) 
+Seat 6: iNeverBluff398 ($100 in chips) 
+iNeverBluff398: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Ysiven: raises $1 to $2
+chelsea16730: calls $2
+Punzzzer: raises $7 to $9
+iNeverBluff398: folds 
+elcutez: raises $22.50 to $31.50
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: raises $138.57 to $170.07 and is all-in
+elcutez: calls $74.18 and is all-in
+Uncalled bet ($64.39) returned to Punzzzer
+*** FLOP *** [7d 3h 5h]
+*** TURN *** [7d 3h 5h] [5s]
+*** RIVER *** [7d 3h 5h 5s] [2c]
+*** SHOW DOWN ***
+elcutez: shows [Qd Qc] (two pair, Queens and Fives)
+Punzzzer: shows [Kh Ks] (two pair, Kings and Fives)
+Punzzzer collected $213.36 from pot
+*** SUMMARY ***
+Total pot $215.86 | Rake $2.50 
+Board [7d 3h 5h 5s 2c]
+Seat 1: elcutez (big blind) showed [Qd Qc] and lost with two pair, Queens and Fives
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop
+Seat 4: chelsea16730 folded before Flop
+Seat 5: Punzzzer (button) showed [Kh Ks] and won ($213.36) with two pair, Kings and Fives
+Seat 6: iNeverBluff398 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225563262:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:28:13 WET [2025/01/06 5:28:13 ET]
+Table 'Sequoia II' 6-max Seat #6 is the button
+Seat 2: blistein ($106 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($91.88 in chips) 
+Seat 5: Punzzzer ($277.75 in chips) 
+Seat 6: iNeverBluff398 ($100 in chips) 
+blistein: posts small blind $0.50
+elcutez leaves the table
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+chelsea16730: calls $1
+Punzzzer: raises $3 to $4
+janarr5 joins the table at seat #1 
+iNeverBluff398: raises $8 to $12
+blistein: folds 
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: calls $8
+*** FLOP *** [Js 2c 2s]
+Punzzzer: checks 
+iNeverBluff398: bets $8.31
+Punzzzer: calls $8.31
+*** TURN *** [Js 2c 2s] [2d]
+Punzzzer: checks 
+iNeverBluff398: bets $19
+Punzzzer: calls $19
+*** RIVER *** [Js 2c 2s 2d] [Th]
+Punzzzer: checks 
+iNeverBluff398: checks 
+*** SHOW DOWN ***
+Punzzzer: shows [Jc Kc] (a full house, Deuces full of Jacks)
+iNeverBluff398: shows [Qd Jd] (a full house, Deuces full of Jacks)
+Punzzzer collected $39.31 from pot
+iNeverBluff398 collected $39.31 from pot
+*** SUMMARY ***
+Total pot $81.12 | Rake $2.50 
+Board [Js 2c 2s 2d Th]
+Seat 2: blistein (small blind) folded before Flop
+Seat 3: Ysiven (big blind) folded before Flop
+Seat 4: chelsea16730 folded before Flop
+Seat 5: Punzzzer showed [Jc Kc] and won ($39.31) with a full house, Deuces full of Jacks
+Seat 6: iNeverBluff398 (button) showed [Qd Jd] and won ($39.31) with a full house, Deuces full of Jacks
+
+
+
+PokerStars Hand #254225569739:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:29:07 WET [2025/01/06 5:29:07 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: janarr5 ($100 in chips) is sitting out
+Seat 2: blistein ($105.50 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($90.88 in chips) 
+Seat 5: Punzzzer ($277.75 in chips) 
+Seat 6: iNeverBluff398 ($100 in chips) 
+Ysiven: posts small blind $0.50
+chelsea16730: posts big blind $1
+janarr5: sits out 
+*** HOLE CARDS ***
+Punzzzer: folds 
+iNeverBluff398: raises $1.30 to $2.30
+blistein: folds 
+Ysiven: folds 
+chelsea16730: calls $1.30
+*** FLOP *** [Kh 2c 4d]
+chelsea16730: checks 
+iNeverBluff398: bets $1.60
+chelsea16730: calls $1.60
+*** TURN *** [Kh 2c 4d] [4h]
+chelsea16730: checks 
+iNeverBluff398: checks 
+*** RIVER *** [Kh 2c 4d 4h] [5s]
+chelsea16730: bets $4
+iNeverBluff398: calls $4
+*** SHOW DOWN ***
+chelsea16730: shows [8s Ks] (two pair, Kings and Fours)
+iNeverBluff398: mucks hand 
+chelsea16730 collected $15.48 from pot
+*** SUMMARY ***
+Total pot $16.30 | Rake $0.82 
+Board [Kh 2c 4d 4h 5s]
+Seat 1: janarr5
+Seat 2: blistein (button) folded before Flop (didn't bet)
+Seat 3: Ysiven (small blind) folded before Flop
+Seat 4: chelsea16730 (big blind) showed [8s Ks] and won ($15.48) with two pair, Kings and Fours
+Seat 5: Punzzzer folded before Flop (didn't bet)
+Seat 6: iNeverBluff398 mucked
+
+
+
+PokerStars Hand #254225572563:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:29:30 WET [2025/01/06 5:29:30 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 1: janarr5 ($100 in chips) is sitting out
+Seat 2: blistein ($105.50 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($98.46 in chips) 
+Seat 5: Punzzzer ($277.75 in chips) 
+Seat 6: iNeverBluff398 ($100 in chips) 
+chelsea16730: posts small blind $0.50
+Punzzzer: posts big blind $1
+janarr5: sits out 
+*** HOLE CARDS ***
+iNeverBluff398: folds 
+blistein: folds 
+Ysiven: raises $1.50 to $2.50
+chelsea16730: calls $2
+Punzzzer: calls $1.50
+*** FLOP *** [Ks 5d Qs]
+chelsea16730: checks 
+Punzzzer: checks 
+Ysiven: checks 
+*** TURN *** [Ks 5d Qs] [5c]
+chelsea16730: checks 
+Punzzzer: bets $5.34
+iNeverBluff398 leaves the table
+radu10101 joins the table at seat #6 
+radu10101 is disconnected 
+Ysiven: folds 
+chelsea16730: calls $5.34
+*** RIVER *** [Ks 5d Qs 5c] [3c]
+chelsea16730: checks 
+Punzzzer: bets $12.95
+chelsea16730: folds 
+Uncalled bet ($12.95) returned to Punzzzer
+Punzzzer collected $17.27 from pot
+Punzzzer: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.18 | Rake $0.91 
+Board [Ks 5d Qs 5c 3c]
+Seat 1: janarr5
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven (button) folded on the Turn
+Seat 4: chelsea16730 (small blind) folded on the River
+Seat 5: Punzzzer (big blind) collected ($17.27)
+Seat 6: iNeverBluff398 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225578076:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:30:16 WET [2025/01/06 5:30:16 ET]
+Table 'Sequoia II' 6-max Seat #4 is the button
+Seat 1: janarr5 ($100 in chips) is sitting out
+Seat 2: blistein ($105.50 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($90.62 in chips) 
+Seat 5: Punzzzer ($287.18 in chips) 
+Seat 6: radu10101 ($29.59 in chips) 
+Punzzzer: posts small blind $0.50
+radu10101: posts big blind $1
+janarr5: sits out 
+*** HOLE CARDS ***
+blistein: folds 
+Ysiven: folds 
+chelsea16730: raises $1 to $2
+Punzzzer: folds 
+radu10101: calls $1
+*** FLOP *** [2d Ah Ad]
+radu10101: bets $2
+chelsea16730: folds 
+Uncalled bet ($2) returned to radu10101
+radu10101 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [2d Ah Ad]
+Seat 1: janarr5
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 (button) folded on the Flop
+Seat 5: Punzzzer (small blind) folded before Flop
+Seat 6: radu10101 (big blind) collected ($4.28)
+
+
+
+PokerStars Hand #254225579641:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:30:29 WET [2025/01/06 5:30:29 ET]
+Table 'Sequoia II' 6-max Seat #5 is the button
+Seat 1: janarr5 ($100 in chips) 
+Seat 2: blistein ($105.50 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($88.62 in chips) 
+Seat 5: Punzzzer ($286.68 in chips) 
+Seat 6: radu10101 ($31.87 in chips) 
+radu10101: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: folds 
+radu10101: calls $0.50
+janarr5: checks 
+*** FLOP *** [Jh 3c 3h]
+radu10101: checks 
+janarr5: bets $1
+radu10101: folds 
+Uncalled bet ($1) returned to janarr5
+janarr5 collected $1.90 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Jh 3c 3h]
+Seat 1: janarr5 (big blind) collected ($1.90)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 folded before Flop (didn't bet)
+Seat 5: Punzzzer (button) folded before Flop (didn't bet)
+Seat 6: radu10101 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254225582177:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:30:50 WET [2025/01/06 5:30:50 ET]
+Table 'Sequoia II' 6-max Seat #6 is the button
+Seat 1: janarr5 ($100.90 in chips) 
+Seat 2: blistein ($105.50 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($88.62 in chips) 
+Seat 5: Punzzzer ($286.68 in chips) 
+Seat 6: radu10101 ($30.87 in chips) 
+janarr5: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: raises $1.20 to $2.20
+radu10101: calls $2.20
+janarr5: raises $10.80 to $13
+blistein: folds 
+Punzzzer: raises $273.68 to $286.68 and is all-in
+radu10101: folds 
+janarr5: calls $87.90 and is all-in
+Uncalled bet ($185.78) returned to Punzzzer
+*** FLOP *** [9c Kc 6d]
+*** TURN *** [9c Kc 6d] [8d]
+*** RIVER *** [9c Kc 6d 8d] [Js]
+*** SHOW DOWN ***
+janarr5: shows [7h 7d] (a pair of Sevens)
+Punzzzer: shows [As Kd] (a pair of Kings)
+Punzzzer collected $202.50 from pot
+*** SUMMARY ***
+Total pot $205 | Rake $2.50 
+Board [9c Kc 6d 8d Js]
+Seat 1: janarr5 (small blind) showed [7h 7d] and lost with a pair of Sevens
+Seat 2: blistein (big blind) folded before Flop
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 folded before Flop (didn't bet)
+Seat 5: Punzzzer showed [As Kd] and won ($202.50) with a pair of Kings
+Seat 6: radu10101 (button) folded before Flop
+
+
+
+PokerStars Hand #254225586524:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:31:25 WET [2025/01/06 5:31:25 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: janarr5 ($100 in chips) 
+Seat 2: blistein ($104.50 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($88.62 in chips) 
+Seat 5: Punzzzer ($388.28 in chips) 
+Seat 6: radu10101 ($28.67 in chips) 
+blistein: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+chelsea16730: folds 
+Punzzzer: folds 
+radu10101: folds 
+janarr5: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to Ysiven
+Ysiven collected $1 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: janarr5 (button) folded before Flop (didn't bet)
+Seat 2: blistein (small blind) folded before Flop
+Seat 3: Ysiven (big blind) collected ($1)
+Seat 4: chelsea16730 folded before Flop (didn't bet)
+Seat 5: Punzzzer folded before Flop (didn't bet)
+Seat 6: radu10101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225587615:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:31:34 WET [2025/01/06 5:31:34 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: janarr5 ($100 in chips) 
+Seat 2: blistein ($104 in chips) 
+Seat 3: Ysiven ($100.50 in chips) 
+Seat 4: chelsea16730 ($88.62 in chips) 
+Seat 5: Punzzzer ($388.28 in chips) 
+Seat 6: radu10101 ($28.67 in chips) 
+Ysiven: posts small blind $0.50
+chelsea16730: posts big blind $1
+*** HOLE CARDS ***
+Punzzzer: folds 
+radu10101: calls $1
+janarr5: raises $2.50 to $3.50
+blistein: folds 
+Ysiven: folds 
+radu10101 is disconnected 
+chelsea16730: folds 
+radu10101 is connected 
+radu10101: folds 
+Uncalled bet ($2.50) returned to janarr5
+janarr5 collected $3.50 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: janarr5 collected ($3.50)
+Seat 2: blistein (button) folded before Flop (didn't bet)
+Seat 3: Ysiven (small blind) folded before Flop
+Seat 4: chelsea16730 (big blind) folded before Flop
+Seat 5: Punzzzer folded before Flop (didn't bet)
+Seat 6: radu10101 folded before Flop
+
+
+
+PokerStars Hand #254225591071:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:32:03 WET [2025/01/06 5:32:03 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 1: janarr5 ($102.50 in chips) 
+Seat 2: blistein ($104 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($87.62 in chips) 
+Seat 5: Punzzzer ($388.28 in chips) 
+Seat 6: radu10101 ($27.67 in chips) 
+chelsea16730: posts small blind $0.50
+Punzzzer: posts big blind $1
+*** HOLE CARDS ***
+radu10101: calls $1
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: checks 
+*** FLOP *** [8h 9d Js]
+Punzzzer: checks 
+radu10101: bets $1
+Punzzzer: calls $1
+*** TURN *** [8h 9d Js] [7s]
+Punzzzer: checks 
+radu10101: bets $3
+Punzzzer: raises $23.50 to $26.50
+radu10101: calls $22.67 and is all-in
+Uncalled bet ($0.83) returned to Punzzzer
+*** RIVER *** [8h 9d Js 7s] [Jc]
+*** SHOW DOWN ***
+Punzzzer: shows [9c Td] (a straight, Seven to Jack)
+radu10101: shows [Th 7h] (a straight, Seven to Jack)
+Punzzzer collected $26.67 from pot
+radu10101 collected $26.67 from pot
+*** SUMMARY ***
+Total pot $55.84 | Rake $2.50 
+Board [8h 9d Js 7s Jc]
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven (button) folded before Flop (didn't bet)
+Seat 4: chelsea16730 (small blind) folded before Flop
+Seat 5: Punzzzer (big blind) showed [9c Td] and won ($26.67) with a straight, Seven to Jack
+Seat 6: radu10101 showed [Th 7h] and won ($26.67) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #254225595391:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:32:39 WET [2025/01/06 5:32:39 ET]
+Table 'Sequoia II' 6-max Seat #4 is the button
+Seat 1: janarr5 ($102.50 in chips) 
+Seat 2: blistein ($104 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($87.12 in chips) 
+Seat 5: Punzzzer ($387.28 in chips) 
+Seat 6: radu10101 ($26.67 in chips) 
+Punzzzer: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+chelsea16730: calls $1
+Punzzzer: folds 
+radu10101: checks 
+*** FLOP *** [7c Ts Th]
+radu10101: checks 
+chelsea16730: checks 
+*** TURN *** [7c Ts Th] [Tc]
+radu10101: checks 
+chelsea16730: checks 
+*** RIVER *** [7c Ts Th Tc] [3s]
+radu10101: checks 
+chelsea16730: checks 
+*** SHOW DOWN ***
+radu10101: shows [Qs 4c] (three of a kind, Tens)
+chelsea16730: shows [Kh Ah] (three of a kind, Tens - Ace kicker)
+chelsea16730 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [7c Ts Th Tc 3s]
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 (button) showed [Kh Ah] and won ($2.38) with three of a kind, Tens
+Seat 5: Punzzzer (small blind) folded before Flop
+Seat 6: radu10101 (big blind) showed [Qs 4c] and lost with three of a kind, Tens
+
+
+
+PokerStars Hand #254225602271:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:33:36 WET [2025/01/06 5:33:36 ET]
+Table 'Sequoia II' 6-max Seat #5 is the button
+Seat 1: janarr5 ($102.50 in chips) 
+Seat 2: blistein ($104 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($88.50 in chips) 
+Seat 5: Punzzzer ($386.78 in chips) 
+Seat 6: radu10101 ($25.67 in chips) 
+radu10101: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Ysiven: folds 
+chelsea16730: raises $1 to $2
+Punzzzer: folds 
+radu10101: calls $1.50
+janarr5: folds 
+*** FLOP *** [As Jc 4s]
+radu10101: bets $1
+chelsea16730: calls $1
+*** TURN *** [As Jc 4s] [2d]
+radu10101: bets $3
+chelsea16730: folds 
+Uncalled bet ($3) returned to radu10101
+radu10101 collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [As Jc 4s 2d]
+Seat 1: janarr5 (big blind) folded before Flop
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 folded on the Turn
+Seat 5: Punzzzer (button) folded before Flop (didn't bet)
+Seat 6: radu10101 (small blind) collected ($6.65)
+
+
+
+PokerStars Hand #254225604743:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:33:56 WET [2025/01/06 5:33:56 ET]
+Table 'Sequoia II' 6-max Seat #6 is the button
+Seat 1: janarr5 ($101.50 in chips) 
+Seat 2: blistein ($104 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($85.50 in chips) 
+Seat 5: Punzzzer ($386.78 in chips) 
+Seat 6: radu10101 ($29.32 in chips) 
+janarr5: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: raises $1.20 to $2.20
+radu10101: calls $2.20
+janarr5: folds 
+blistein: folds 
+*** FLOP *** [2h 6c 7s]
+Punzzzer: bets $1.85
+radu10101: calls $1.85
+*** TURN *** [2h 6c 7s] [8c]
+Punzzzer: bets $7.48
+radu10101: folds 
+Uncalled bet ($7.48) returned to Punzzzer
+Punzzzer collected $9.12 from pot
+Punzzzer: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.60 | Rake $0.48 
+Board [2h 6c 7s 8c]
+Seat 1: janarr5 (small blind) folded before Flop
+Seat 2: blistein (big blind) folded before Flop
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 folded before Flop (didn't bet)
+Seat 5: Punzzzer collected ($9.12)
+Seat 6: radu10101 (button) folded on the Turn
+
+
+
+PokerStars Hand #254225608091:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:34:24 WET [2025/01/06 5:34:24 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: janarr5 ($101 in chips) 
+Seat 2: blistein ($103 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($85.50 in chips) 
+Seat 5: Punzzzer ($391.85 in chips) 
+Seat 6: radu10101 ($25.27 in chips) 
+blistein: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+chelsea16730: folds 
+Punzzzer: folds 
+radu10101: folds 
+janarr5: raises $1.50 to $2.50
+blistein: folds 
+Ysiven: folds 
+Uncalled bet ($1.50) returned to janarr5
+janarr5 collected $2.50 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: janarr5 (button) collected ($2.50)
+Seat 2: blistein (small blind) folded before Flop
+Seat 3: Ysiven (big blind) folded before Flop
+Seat 4: chelsea16730 folded before Flop (didn't bet)
+Seat 5: Punzzzer folded before Flop (didn't bet)
+Seat 6: radu10101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225610452:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:34:43 WET [2025/01/06 5:34:43 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: janarr5 ($102.50 in chips) 
+Seat 2: blistein ($102.50 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($85.50 in chips) 
+Seat 5: Punzzzer ($391.85 in chips) 
+Seat 6: radu10101 ($25.27 in chips) 
+Ysiven: posts small blind $0.50
+chelsea16730: posts big blind $1
+*** HOLE CARDS ***
+Punzzzer: folds 
+radu10101: calls $1
+janarr5: folds 
+blistein: raises $2.50 to $3.50
+Ysiven: folds 
+chelsea16730: calls $2.50
+radu10101: calls $2.50
+*** FLOP *** [Qh 9s 5h]
+chelsea16730: checks 
+radu10101: checks 
+blistein: bets $3.55
+chelsea16730: calls $3.55
+radu10101: folds 
+*** TURN *** [Qh 9s 5h] [Jc]
+chelsea16730: checks 
+blistein: bets $9.50
+chelsea16730: calls $9.50
+*** RIVER *** [Qh 9s 5h Jc] [7c]
+chelsea16730: checks 
+blistein: checks 
+*** SHOW DOWN ***
+chelsea16730: shows [3h Ah] (high card Ace)
+blistein: shows [8s Qs] (a pair of Queens)
+blistein collected $35.24 from pot
+*** SUMMARY ***
+Total pot $37.10 | Rake $1.86 
+Board [Qh 9s 5h Jc 7c]
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein (button) showed [8s Qs] and won ($35.24) with a pair of Queens
+Seat 3: Ysiven (small blind) folded before Flop
+Seat 4: chelsea16730 (big blind) showed [3h Ah] and lost with high card Ace
+Seat 5: Punzzzer folded before Flop (didn't bet)
+Seat 6: radu10101 folded on the Flop
+
+
+
+PokerStars Hand #254225616829:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:35:35 WET [2025/01/06 5:35:35 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 1: janarr5 ($102.50 in chips) 
+Seat 2: blistein ($121.19 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($68.95 in chips) 
+Seat 5: Punzzzer ($391.85 in chips) 
+Seat 6: radu10101 ($21.77 in chips) 
+chelsea16730: posts small blind $0.50
+Punzzzer: posts big blind $1
+*** HOLE CARDS ***
+radu10101: calls $1
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: checks 
+*** FLOP *** [6d 3c Qs]
+Punzzzer: checks 
+radu10101: checks 
+*** TURN *** [6d 3c Qs] [Jc]
+Punzzzer: bets $1.95
+radu10101: calls $1.95
+*** RIVER *** [6d 3c Qs Jc] [4d]
+Punzzzer: bets $6.08
+radu10101: folds 
+Uncalled bet ($6.08) returned to Punzzzer
+Punzzzer collected $6.08 from pot
+Punzzzer: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.40 | Rake $0.32 
+Board [6d 3c Qs Jc 4d]
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven (button) folded before Flop (didn't bet)
+Seat 4: chelsea16730 (small blind) folded before Flop
+Seat 5: Punzzzer (big blind) collected ($6.08)
+Seat 6: radu10101 folded on the River
+
+
+
+PokerStars Hand #254225619839:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:35:59 WET [2025/01/06 5:35:59 ET]
+Table 'Sequoia II' 6-max Seat #4 is the button
+Seat 1: janarr5 ($102.50 in chips) 
+Seat 2: blistein ($121.19 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($68.45 in chips) 
+Seat 5: Punzzzer ($394.98 in chips) 
+Seat 6: radu10101 ($18.82 in chips) 
+Punzzzer: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: folds 
+Uncalled bet ($0.50) returned to radu10101
+radu10101 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 (button) folded before Flop (didn't bet)
+Seat 5: Punzzzer (small blind) folded before Flop
+Seat 6: radu10101 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254225620746:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:36:07 WET [2025/01/06 5:36:07 ET]
+Table 'Sequoia II' 6-max Seat #5 is the button
+Seat 1: janarr5 ($102.50 in chips) 
+Seat 2: blistein ($121.19 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($68.45 in chips) 
+Seat 5: Punzzzer ($394.48 in chips) 
+Seat 6: radu10101 ($19.32 in chips) 
+radu10101: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: folds 
+radu10101: calls $0.50
+janarr5: checks 
+*** FLOP *** [9h As 8h]
+radu10101: bets $1
+janarr5: raises $1.95 to $2.95
+radu10101: calls $1.95
+*** TURN *** [9h As 8h] [Ks]
+radu10101: checks 
+janarr5: checks 
+*** RIVER *** [9h As 8h Ks] [8c]
+radu10101: bets $3
+janarr5: folds 
+Uncalled bet ($3) returned to radu10101
+radu10101 collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.90 | Rake $0.40 
+Board [9h As 8h Ks 8c]
+Seat 1: janarr5 (big blind) folded on the River
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 folded before Flop (didn't bet)
+Seat 5: Punzzzer (button) folded before Flop (didn't bet)
+Seat 6: radu10101 (small blind) collected ($7.50)
+
+
+
+PokerStars Hand #254225623806:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:36:32 WET [2025/01/06 5:36:32 ET]
+Table 'Sequoia II' 6-max Seat #6 is the button
+Seat 1: janarr5 ($100 in chips) 
+Seat 2: blistein ($121.19 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($68.45 in chips) 
+Seat 5: Punzzzer ($394.48 in chips) 
+Seat 6: radu10101 ($22.87 in chips) 
+janarr5: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: raises $1 to $2
+chelsea16730: folds 
+Punzzzer: raises $5 to $7
+radu10101: folds 
+janarr5: folds 
+blistein: folds 
+Ysiven: raises $11.50 to $18.50
+Punzzzer: folds 
+Uncalled bet ($11.50) returned to Ysiven
+Ysiven collected $15.50 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.50 | Rake $0 
+Seat 1: janarr5 (small blind) folded before Flop
+Seat 2: blistein (big blind) folded before Flop
+Seat 3: Ysiven collected ($15.50)
+Seat 4: chelsea16730 folded before Flop (didn't bet)
+Seat 5: Punzzzer folded before Flop
+Seat 6: radu10101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225627460:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:37:03 WET [2025/01/06 5:37:03 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: janarr5 ($100 in chips) 
+Seat 2: blistein ($120.19 in chips) 
+Seat 3: Ysiven ($108.50 in chips) 
+Seat 4: chelsea16730 ($68.45 in chips) 
+Seat 5: Punzzzer ($387.48 in chips) 
+Seat 6: radu10101 ($22.87 in chips) 
+blistein: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+chelsea16730: calls $1
+Punzzzer: folds 
+radu10101: folds 
+janarr5: folds 
+blistein: folds 
+Ysiven: raises $5 to $6
+chelsea16730: raises $62.45 to $68.45 and is all-in
+Ysiven: calls $62.45
+*** FLOP *** [Qc 5c 8s]
+*** TURN *** [Qc 5c 8s] [7h]
+*** RIVER *** [Qc 5c 8s 7h] [Jd]
+*** SHOW DOWN ***
+Ysiven: shows [Kd Ac] (high card Ace)
+chelsea16730: shows [As Qd] (a pair of Queens)
+chelsea16730 collected $134.90 from pot
+*** SUMMARY ***
+Total pot $137.40 | Rake $2.50 
+Board [Qc 5c 8s 7h Jd]
+Seat 1: janarr5 (button) folded before Flop (didn't bet)
+Seat 2: blistein (small blind) folded before Flop
+Seat 3: Ysiven (big blind) showed [Kd Ac] and lost with high card Ace
+Seat 4: chelsea16730 showed [As Qd] and won ($134.90) with a pair of Queens
+Seat 5: Punzzzer folded before Flop (didn't bet)
+Seat 6: radu10101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225632290:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:37:42 WET [2025/01/06 5:37:42 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: janarr5 ($100 in chips) 
+Seat 2: blistein ($119.69 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($134.90 in chips) 
+Seat 5: Punzzzer ($387.48 in chips) 
+Seat 6: radu10101 ($22.87 in chips) 
+Ysiven: posts small blind $0.50
+chelsea16730: posts big blind $1
+*** HOLE CARDS ***
+Punzzzer: folds 
+radu10101: folds 
+janarr5: raises $1.25 to $2.25
+blistein: raises $5.25 to $7.50
+Ysiven: folds 
+chelsea16730: folds 
+janarr5: folds 
+Uncalled bet ($5.25) returned to blistein
+blistein collected $6 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: janarr5 folded before Flop
+Seat 2: blistein (button) collected ($6)
+Seat 3: Ysiven (small blind) folded before Flop
+Seat 4: chelsea16730 (big blind) folded before Flop
+Seat 5: Punzzzer folded before Flop (didn't bet)
+Seat 6: radu10101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225634878:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:38:03 WET [2025/01/06 5:38:03 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 1: janarr5 ($100 in chips) 
+Seat 2: blistein ($123.44 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($133.90 in chips) 
+Seat 5: Punzzzer ($387.48 in chips) 
+Seat 6: radu10101 ($22.87 in chips) 
+chelsea16730: posts small blind $0.50
+Punzzzer: posts big blind $1
+*** HOLE CARDS ***
+radu10101: calls $1
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+chelsea16730: raises $1 to $2
+Punzzzer: folds 
+radu10101: calls $1
+*** FLOP *** [3d Qc Qd]
+chelsea16730: checks 
+radu10101: checks 
+*** TURN *** [3d Qc Qd] [Kc]
+chelsea16730: checks 
+radu10101: checks 
+*** RIVER *** [3d Qc Qd Kc] [6c]
+chelsea16730: bets $4
+radu10101: calls $4
+*** SHOW DOWN ***
+chelsea16730: shows [7s 9h] (a pair of Queens)
+radu10101: shows [Kh 9c] (two pair, Kings and Queens)
+radu10101 collected $12.35 from pot
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [3d Qc Qd Kc 6c]
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven (button) folded before Flop (didn't bet)
+Seat 4: chelsea16730 (small blind) showed [7s 9h] and lost with a pair of Queens
+Seat 5: Punzzzer (big blind) folded before Flop
+Seat 6: radu10101 showed [Kh 9c] and won ($12.35) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #254225637768:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:38:27 WET [2025/01/06 5:38:27 ET]
+Table 'Sequoia II' 6-max Seat #4 is the button
+Seat 1: janarr5 ($100 in chips) 
+Seat 2: blistein ($123.44 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($127.90 in chips) 
+Seat 5: Punzzzer ($386.48 in chips) 
+Seat 6: radu10101 ($29.22 in chips) 
+Punzzzer: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+janarr5: raises $1.25 to $2.25
+blistein: folds 
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: calls $1.75
+radu10101: calls $1.25
+*** FLOP *** [Tc 8d 9c]
+Punzzzer: checks 
+radu10101: checks 
+janarr5: checks 
+*** TURN *** [Tc 8d 9c] [Kc]
+Punzzzer: bets $3.33
+radu10101: folds 
+janarr5: calls $3.33
+*** RIVER *** [Tc 8d 9c Kc] [2h]
+Punzzzer: checks 
+janarr5: bets $9.55
+Punzzzer: calls $9.55
+*** SHOW DOWN ***
+janarr5: shows [4c Ac] (a flush, Ace high)
+Punzzzer: mucks hand 
+janarr5 collected $30.88 from pot
+*** SUMMARY ***
+Total pot $32.51 | Rake $1.63 
+Board [Tc 8d 9c Kc 2h]
+Seat 1: janarr5 showed [4c Ac] and won ($30.88) with a flush, Ace high
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 (button) folded before Flop (didn't bet)
+Seat 5: Punzzzer (small blind) mucked
+Seat 6: radu10101 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254225642288:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:39:04 WET [2025/01/06 5:39:04 ET]
+Table 'Sequoia II' 6-max Seat #5 is the button
+Seat 1: janarr5 ($115.75 in chips) 
+Seat 2: blistein ($123.44 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($127.90 in chips) 
+Seat 5: Punzzzer ($371.35 in chips) 
+Seat 6: radu10101 ($26.97 in chips) 
+radu10101: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: raises $1.20 to $2.20
+radu10101: calls $1.70
+janarr5: folds 
+*** FLOP *** [4h 7d Kc]
+radu10101: bets $1
+Punzzzer: calls $1
+*** TURN *** [4h 7d Kc] [2s]
+radu10101: checks 
+Punzzzer: checks 
+*** RIVER *** [4h 7d Kc 2s] [4d]
+radu10101: bets $3
+Punzzzer: folds 
+Uncalled bet ($3) returned to radu10101
+radu10101 collected $7.03 from pot
+*** SUMMARY ***
+Total pot $7.40 | Rake $0.37 
+Board [4h 7d Kc 2s 4d]
+Seat 1: janarr5 (big blind) folded before Flop
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 folded before Flop (didn't bet)
+Seat 5: Punzzzer (button) folded on the River
+Seat 6: radu10101 (small blind) collected ($7.03)
+
+
+
+PokerStars Hand #254225646643:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:39:39 WET [2025/01/06 5:39:39 ET]
+Table 'Sequoia II' 6-max Seat #6 is the button
+Seat 1: janarr5 ($114.75 in chips) 
+Seat 2: blistein ($123.44 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($127.90 in chips) 
+Seat 5: Punzzzer ($368.15 in chips) 
+Seat 6: radu10101 ($30.80 in chips) 
+janarr5: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: folds 
+radu10101: folds 
+janarr5: raises $2 to $3
+blistein: folds 
+Uncalled bet ($2) returned to janarr5
+janarr5 collected $2 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: janarr5 (small blind) collected ($2)
+Seat 2: blistein (big blind) folded before Flop
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 folded before Flop (didn't bet)
+Seat 5: Punzzzer folded before Flop (didn't bet)
+Seat 6: radu10101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225648164:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:39:51 WET [2025/01/06 5:39:51 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: janarr5 ($115.75 in chips) 
+Seat 2: blistein ($122.44 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($127.90 in chips) 
+Seat 5: Punzzzer ($368.15 in chips) 
+Seat 6: radu10101 ($30.80 in chips) 
+blistein: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+chelsea16730: calls $1
+Punzzzer: raises $2 to $3
+radu10101: calls $3
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+chelsea16730: calls $2
+*** FLOP *** [Qc 6h 9d]
+chelsea16730: checks 
+Punzzzer: checks 
+radu10101: bets $2
+chelsea16730: calls $2
+Punzzzer: folds 
+*** TURN *** [Qc 6h 9d] [9c]
+chelsea16730: checks 
+radu10101: bets $3
+chelsea16730: calls $3
+*** RIVER *** [Qc 6h 9d 9c] [6s]
+chelsea16730: checks 
+radu10101: bets $5
+chelsea16730: folds 
+Uncalled bet ($5) returned to radu10101
+radu10101 collected $19.48 from pot
+*** SUMMARY ***
+Total pot $20.50 | Rake $1.02 
+Board [Qc 6h 9d 9c 6s]
+Seat 1: janarr5 (button) folded before Flop (didn't bet)
+Seat 2: blistein (small blind) folded before Flop
+Seat 3: Ysiven (big blind) folded before Flop
+Seat 4: chelsea16730 folded on the River
+Seat 5: Punzzzer folded on the Flop
+Seat 6: radu10101 collected ($19.48)
+
+
+
+PokerStars Hand #254225652977:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:40:29 WET [2025/01/06 5:40:29 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: janarr5 ($115.75 in chips) 
+Seat 2: blistein ($121.94 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($119.90 in chips) 
+Seat 5: Punzzzer ($365.15 in chips) 
+Seat 6: radu10101 ($42.28 in chips) 
+Ysiven: posts small blind $0.50
+chelsea16730: posts big blind $1
+*** HOLE CARDS ***
+Punzzzer: raises $1.20 to $2.20
+radu10101: folds 
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+chelsea16730: calls $1.20
+*** FLOP *** [Tc Qc Kd]
+chelsea16730: checks 
+Punzzzer: bets $3.03
+chelsea16730: calls $3.03
+*** TURN *** [Tc Qc Kd] [6h]
+chelsea16730: checks 
+Punzzzer: bets $15.62
+chelsea16730: folds 
+Uncalled bet ($15.62) returned to Punzzzer
+Punzzzer collected $10.41 from pot
+Punzzzer: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.96 | Rake $0.55 
+Board [Tc Qc Kd 6h]
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein (button) folded before Flop (didn't bet)
+Seat 3: Ysiven (small blind) folded before Flop
+Seat 4: chelsea16730 (big blind) folded on the Turn
+Seat 5: Punzzzer collected ($10.41)
+Seat 6: radu10101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225657458:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:41:05 WET [2025/01/06 5:41:05 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 1: janarr5 ($115.75 in chips) 
+Seat 2: blistein ($121.94 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($114.67 in chips) 
+Seat 5: Punzzzer ($370.33 in chips) 
+Seat 6: radu10101 ($42.28 in chips) 
+chelsea16730: posts small blind $0.50
+Punzzzer: posts big blind $1
+*** HOLE CARDS ***
+radu10101: calls $1
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: checks 
+*** FLOP *** [8c Jd Qc]
+Punzzzer: checks 
+radu10101: bets $2
+Punzzzer: folds 
+Uncalled bet ($2) returned to radu10101
+radu10101 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [8c Jd Qc]
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven (button) folded before Flop (didn't bet)
+Seat 4: chelsea16730 (small blind) folded before Flop
+Seat 5: Punzzzer (big blind) folded on the Flop
+Seat 6: radu10101 collected ($2.38)
+
+
+
+PokerStars Hand #254225659955:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:41:26 WET [2025/01/06 5:41:26 ET]
+Table 'Sequoia II' 6-max Seat #4 is the button
+Seat 1: janarr5 ($115.75 in chips) 
+Seat 2: blistein ($121.94 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($114.17 in chips) 
+Seat 5: Punzzzer ($369.33 in chips) 
+Seat 6: radu10101 ($43.66 in chips) 
+Punzzzer: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+chelsea16730: raises $2 to $3
+Punzzzer: folds 
+radu10101: folds 
+Uncalled bet ($2) returned to chelsea16730
+chelsea16730 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 (button) collected ($2.50)
+Seat 5: Punzzzer (small blind) folded before Flop
+Seat 6: radu10101 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225661815:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:41:41 WET [2025/01/06 5:41:41 ET]
+Table 'Sequoia II' 6-max Seat #5 is the button
+Seat 1: janarr5 ($115.75 in chips) 
+Seat 2: blistein ($121.94 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($115.67 in chips) 
+Seat 5: Punzzzer ($368.83 in chips) 
+Seat 6: radu10101 ($42.66 in chips) 
+radu10101: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+Ysiven: folds 
+chelsea16730: folds 
+Punzzzer: folds 
+radu10101: calls $1.70
+janarr5: folds 
+*** FLOP *** [Qd 2c 8d]
+radu10101: checks 
+blistein: bets $1.28
+radu10101: calls $1.28
+*** TURN *** [Qd 2c 8d] [4s]
+radu10101: bets $2
+blistein: raises $7.75 to $9.75
+radu10101: folds 
+Uncalled bet ($7.75) returned to blistein
+blistein collected $11.36 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.96 | Rake $0.60 
+Board [Qd 2c 8d 4s]
+Seat 1: janarr5 (big blind) folded before Flop
+Seat 2: blistein collected ($11.36)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 folded before Flop (didn't bet)
+Seat 5: Punzzzer (button) folded before Flop (didn't bet)
+Seat 6: radu10101 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254225669204:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:42:41 WET [2025/01/06 5:42:41 ET]
+Table 'Sequoia II' 6-max Seat #6 is the button
+Seat 1: janarr5 ($114.75 in chips) 
+Seat 2: blistein ($127.82 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($115.67 in chips) 
+Seat 5: Punzzzer ($368.83 in chips) 
+Seat 6: radu10101 ($37.18 in chips) 
+janarr5: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: folds 
+chelsea16730: calls $1
+Punzzzer: raises $2 to $3
+radu10101: folds 
+janarr5: folds 
+blistein: folds 
+chelsea16730: calls $2
+*** FLOP *** [5s Ad 6h]
+chelsea16730: checks 
+Punzzzer: bets $2.35
+chelsea16730: calls $2.35
+*** TURN *** [5s Ad 6h] [2h]
+chelsea16730: checks 
+Punzzzer: bets $7.53
+chelsea16730: calls $7.53
+*** RIVER *** [5s Ad 6h 2h] [Qh]
+chelsea16730: checks 
+Punzzzer: bets $25.90
+chelsea16730: calls $25.90
+*** SHOW DOWN ***
+Punzzzer: shows [Jh Th] (a flush, Queen high)
+chelsea16730: mucks hand 
+Punzzzer collected $76.56 from pot
+*** SUMMARY ***
+Total pot $79.06 | Rake $2.50 
+Board [5s Ad 6h 2h Qh]
+Seat 1: janarr5 (small blind) folded before Flop
+Seat 2: blistein (big blind) folded before Flop
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: chelsea16730 mucked
+Seat 5: Punzzzer showed [Jh Th] and won ($76.56) with a flush, Queen high
+Seat 6: radu10101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225675029:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:43:28 WET [2025/01/06 5:43:28 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: janarr5 ($114.25 in chips) 
+Seat 2: blistein ($126.82 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($76.89 in chips) 
+Seat 5: Punzzzer ($406.61 in chips) 
+Seat 6: radu10101 ($37.18 in chips) 
+blistein: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+chelsea16730: calls $1
+Punzzzer: folds 
+radu10101: raises $1 to $2
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+chelsea16730: calls $1
+*** FLOP *** [8h Qs 2s]
+chelsea16730: checks 
+radu10101: bets $2
+chelsea16730: calls $2
+*** TURN *** [8h Qs 2s] [5c]
+chelsea16730: checks 
+radu10101: checks 
+*** RIVER *** [8h Qs 2s 5c] [Kc]
+chelsea16730: checks 
+radu10101: bets $4
+chelsea16730: calls $4
+*** SHOW DOWN ***
+radu10101: shows [Ac Kd] (a pair of Kings)
+chelsea16730: mucks hand 
+radu10101 collected $16.62 from pot
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.88 
+Board [8h Qs 2s 5c Kc]
+Seat 1: janarr5 (button) folded before Flop (didn't bet)
+Seat 2: blistein (small blind) folded before Flop
+Seat 3: Ysiven (big blind) folded before Flop
+Seat 4: chelsea16730 mucked
+Seat 5: Punzzzer folded before Flop (didn't bet)
+Seat 6: radu10101 showed [Ac Kd] and won ($16.62) with a pair of Kings
+
+
+
+PokerStars Hand #254225678958:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:44:00 WET [2025/01/06 5:44:00 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: janarr5 ($114.25 in chips) 
+Seat 2: blistein ($126.32 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($68.89 in chips) 
+Seat 5: Punzzzer ($406.61 in chips) 
+Seat 6: radu10101 ($45.80 in chips) 
+Ysiven: posts small blind $0.50
+chelsea16730: posts big blind $1
+*** HOLE CARDS ***
+Punzzzer: folds 
+radu10101: calls $1
+janarr5: raises $2.50 to $3.50
+blistein: folds 
+Ysiven: folds 
+chelsea16730: folds 
+radu10101: folds 
+Uncalled bet ($2.50) returned to janarr5
+janarr5 collected $3.50 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: janarr5 collected ($3.50)
+Seat 2: blistein (button) folded before Flop (didn't bet)
+Seat 3: Ysiven (small blind) folded before Flop
+Seat 4: chelsea16730 (big blind) folded before Flop
+Seat 5: Punzzzer folded before Flop (didn't bet)
+Seat 6: radu10101 folded before Flop
+
+
+
+PokerStars Hand #254225681040:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:44:16 WET [2025/01/06 5:44:16 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 1: janarr5 ($116.75 in chips) 
+Seat 2: blistein ($126.32 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: chelsea16730 ($67.89 in chips) 
+Seat 5: Punzzzer ($406.61 in chips) 
+Seat 6: radu10101 ($44.80 in chips) 
+chelsea16730: posts small blind $0.50
+Punzzzer: posts big blind $1
+*** HOLE CARDS ***
+radu10101: calls $1
+janarr5: raises $2.50 to $3.50
+blistein: folds 
+Ysiven: folds 
+chelsea16730: calls $3
+Punzzzer: folds 
+radu10101: folds 
+*** FLOP *** [As Qc Jc]
+chelsea16730: checks 
+janarr5: bets $4.28
+chelsea16730: raises $60.11 to $64.39 and is all-in
+janarr5: calls $60.11
+*** TURN *** [As Qc Jc] [7h]
+*** RIVER *** [As Qc Jc 7h] [Qs]
+*** SHOW DOWN ***
+chelsea16730: shows [7c 8c] (two pair, Queens and Sevens)
+janarr5: shows [Qd Jd] (a full house, Queens full of Jacks)
+janarr5 collected $135.28 from pot
+*** SUMMARY ***
+Total pot $137.78 | Rake $2.50 
+Board [As Qc Jc 7h Qs]
+Seat 1: janarr5 showed [Qd Jd] and won ($135.28) with a full house, Queens full of Jacks
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven (button) folded before Flop (didn't bet)
+Seat 4: chelsea16730 (small blind) showed [7c 8c] and lost with two pair, Queens and Sevens
+Seat 5: Punzzzer (big blind) folded before Flop
+Seat 6: radu10101 folded before Flop
+
+
+
+PokerStars Hand #254225685012:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:44:48 WET [2025/01/06 5:44:48 ET]
+Table 'Sequoia II' 6-max Seat #5 is the button
+Seat 4: chelsea16730 ($0 in chips) is sitting out
+Seat 1: janarr5 ($184.14 in chips) 
+Seat 2: blistein ($126.32 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 5: Punzzzer ($405.61 in chips) 
+Seat 6: radu10101 ($43.80 in chips) 
+radu10101: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+chelsea16730 leaves the table
+blistein: folds 
+Ysiven: folds 
+Punzzzer: raises $1.20 to $2.20
+S0M30LS3 joins the table at seat #4 
+S0M30LS3 is disconnected 
+radu10101: folds 
+janarr5: folds 
+Uncalled bet ($1.20) returned to Punzzzer
+Punzzzer collected $2.50 from pot
+Punzzzer: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: chelsea16730
+Seat 1: janarr5 (big blind) folded before Flop
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 5: Punzzzer (button) collected ($2.50)
+Seat 6: radu10101 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225686539:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:45:00 WET [2025/01/06 5:45:00 ET]
+Table 'Sequoia II' 6-max Seat #6 is the button
+Seat 1: janarr5 ($183.14 in chips) 
+Seat 2: blistein ($126.32 in chips) 
+Seat 3: Ysiven ($100 in chips) 
+Seat 4: S0M30LS3 ($47 in chips) 
+Seat 5: Punzzzer ($407.11 in chips) 
+Seat 6: radu10101 ($43.30 in chips) 
+janarr5: posts small blind $0.50
+blistein: posts big blind $1
+S0M30LS3: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: raises $3 to $4
+S0M30LS3: folds 
+Punzzzer: folds 
+radu10101: calls $4
+janarr5: folds 
+blistein: folds 
+*** FLOP *** [5s Jd Qc]
+Ysiven: checks 
+radu10101: checks 
+*** TURN *** [5s Jd Qc] [Ah]
+Ysiven: bets $3.29
+radu10101: calls $3.29
+*** RIVER *** [5s Jd Qc Ah] [9d]
+Ysiven: bets $9.74
+radu10101: folds 
+Uncalled bet ($9.74) returned to Ysiven
+Ysiven collected $16.23 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.08 | Rake $0.85 
+Board [5s Jd Qc Ah 9d]
+Seat 1: janarr5 (small blind) folded before Flop
+Seat 2: blistein (big blind) folded before Flop
+Seat 3: Ysiven collected ($16.23)
+Seat 4: S0M30LS3 folded before Flop (didn't bet)
+Seat 5: Punzzzer folded before Flop (didn't bet)
+Seat 6: radu10101 (button) folded on the River
+
+
+
+PokerStars Hand #254225695104:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:46:09 WET [2025/01/06 5:46:09 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: janarr5 ($182.64 in chips) 
+Seat 2: blistein ($125.32 in chips) 
+Seat 3: Ysiven ($108.94 in chips) 
+Seat 4: S0M30LS3 ($46 in chips) 
+Seat 5: Punzzzer ($407.11 in chips) 
+Seat 6: radu10101 ($36.01 in chips) 
+blistein: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+S0M30LS3: folds 
+Punzzzer: raises $1.20 to $2.20
+radu10101: calls $2.20
+janarr5: calls $2.20
+blistein: raises $14.80 to $17
+Ysiven: folds 
+Punzzzer: folds 
+radu10101: folds 
+janarr5: folds 
+Uncalled bet ($14.80) returned to blistein
+blistein collected $9.80 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.80 | Rake $0 
+Seat 1: janarr5 (button) folded before Flop
+Seat 2: blistein (small blind) collected ($9.80)
+Seat 3: Ysiven (big blind) folded before Flop
+Seat 4: S0M30LS3 folded before Flop (didn't bet)
+Seat 5: Punzzzer folded before Flop
+Seat 6: radu10101 folded before Flop
+
+
+
+PokerStars Hand #254225698050:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:46:34 WET [2025/01/06 5:46:34 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: janarr5 ($180.44 in chips) 
+Seat 2: blistein ($132.92 in chips) 
+Seat 3: Ysiven ($107.94 in chips) 
+Seat 4: S0M30LS3 ($46 in chips) 
+Seat 5: Punzzzer ($404.91 in chips) 
+Seat 6: radu10101 ($33.81 in chips) 
+Ysiven: posts small blind $0.50
+S0M30LS3: posts big blind $1
+*** HOLE CARDS ***
+Punzzzer: folds 
+radu10101: folds 
+janarr5: raises $1.25 to $2.25
+blistein: folds 
+Ysiven: folds 
+S0M30LS3: calls $1.25
+*** FLOP *** [8c 7s Kc]
+S0M30LS3: bets $3.38
+janarr5: folds 
+Uncalled bet ($3.38) returned to S0M30LS3
+S0M30LS3 collected $4.69 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.31 
+Board [8c 7s Kc]
+Seat 1: janarr5 folded on the Flop
+Seat 2: blistein (button) folded before Flop (didn't bet)
+Seat 3: Ysiven (small blind) folded before Flop
+Seat 4: S0M30LS3 (big blind) collected ($4.69)
+Seat 5: Punzzzer folded before Flop (didn't bet)
+Seat 6: radu10101 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225700300:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:46:52 WET [2025/01/06 5:46:52 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 1: janarr5 ($178.19 in chips) 
+Seat 2: blistein ($132.92 in chips) 
+Seat 3: Ysiven ($107.44 in chips) 
+Seat 4: S0M30LS3 ($48.44 in chips) 
+Seat 5: Punzzzer ($404.91 in chips) 
+Seat 6: radu10101 ($33.81 in chips) 
+S0M30LS3: posts small blind $0.50
+Punzzzer: posts big blind $1
+*** HOLE CARDS ***
+radu10101: calls $1
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+S0M30LS3: calls $0.50
+Punzzzer: checks 
+*** FLOP *** [7h 3h Th]
+S0M30LS3: checks 
+Punzzzer: checks 
+radu10101: checks 
+*** TURN *** [7h 3h Th] [Tc]
+S0M30LS3: bets $1.43
+Punzzzer: folds 
+radu10101: folds 
+Uncalled bet ($1.43) returned to S0M30LS3
+S0M30LS3 collected $2.81 from pot
+S0M30LS3: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.19 
+Board [7h 3h Th Tc]
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven (button) folded before Flop (didn't bet)
+Seat 4: S0M30LS3 (small blind) collected ($2.81)
+Seat 5: Punzzzer (big blind) folded on the Turn
+Seat 6: radu10101 folded on the Turn
+
+
+
+PokerStars Hand #254225703615:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:47:19 WET [2025/01/06 5:47:19 ET]
+Table 'Sequoia II' 6-max Seat #4 is the button
+Seat 1: janarr5 ($178.19 in chips) 
+Seat 2: blistein ($132.92 in chips) 
+Seat 3: Ysiven ($107.44 in chips) 
+Seat 4: S0M30LS3 ($50.25 in chips) 
+Seat 5: Punzzzer ($403.91 in chips) 
+Seat 6: radu10101 ($32.81 in chips) 
+Punzzzer: posts small blind $0.50
+radu10101: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+S0M30LS3: folds 
+Punzzzer: folds 
+Uncalled bet ($0.50) returned to radu10101
+radu10101 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: S0M30LS3 (button) folded before Flop (didn't bet)
+Seat 5: Punzzzer (small blind) folded before Flop
+Seat 6: radu10101 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254225705084:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:47:30 WET [2025/01/06 5:47:30 ET]
+Table 'Sequoia II' 6-max Seat #5 is the button
+Seat 1: janarr5 ($178.19 in chips) 
+Seat 2: blistein ($132.92 in chips) 
+Seat 3: Ysiven ($107.44 in chips) 
+Seat 4: S0M30LS3 ($50.25 in chips) 
+Seat 5: Punzzzer ($403.41 in chips) 
+Seat 6: radu10101 ($33.31 in chips) 
+radu10101: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Ysiven: folds 
+S0M30LS3: calls $1
+Punzzzer: folds 
+radu10101: calls $0.50
+janarr5: checks 
+*** FLOP *** [Th 8s Ac]
+radu10101: checks 
+janarr5: checks 
+S0M30LS3: bets $2.85
+radu10101: folds 
+janarr5: folds 
+Uncalled bet ($2.85) returned to S0M30LS3
+S0M30LS3 collected $2.81 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.19 
+Board [Th 8s Ac]
+Seat 1: janarr5 (big blind) folded on the Flop
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: S0M30LS3 collected ($2.81)
+Seat 5: Punzzzer (button) folded before Flop (didn't bet)
+Seat 6: radu10101 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254225708844:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:48:01 WET [2025/01/06 5:48:01 ET]
+Table 'Sequoia II' 6-max Seat #6 is the button
+Seat 1: janarr5 ($177.19 in chips) 
+Seat 2: blistein ($132.92 in chips) 
+Seat 3: Ysiven ($107.44 in chips) 
+Seat 4: S0M30LS3 ($52.06 in chips) 
+Seat 5: Punzzzer ($403.41 in chips) 
+Seat 6: radu10101 ($32.31 in chips) 
+janarr5: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: folds 
+S0M30LS3: folds 
+Punzzzer: folds 
+radu10101: raises $1 to $2
+janarr5: raises $7 to $9
+blistein: folds 
+radu10101: calls $7
+*** FLOP *** [Qh 9c 8s]
+janarr5: checks 
+radu10101: bets $3
+janarr5: calls $3
+*** TURN *** [Qh 9c 8s] [Th]
+janarr5: checks 
+radu10101: bets $5
+janarr5: raises $45.56 to $50.56
+radu10101: calls $15.31 and is all-in
+Uncalled bet ($30.25) returned to janarr5
+*** RIVER *** [Qh 9c 8s Th] [2c]
+*** SHOW DOWN ***
+janarr5: shows [Ac Jc] (a straight, Eight to Queen)
+radu10101: shows [As Tc] (a pair of Tens)
+janarr5 collected $63.12 from pot
+*** SUMMARY ***
+Total pot $65.62 | Rake $2.50 
+Board [Qh 9c 8s Th 2c]
+Seat 1: janarr5 (small blind) showed [Ac Jc] and won ($63.12) with a straight, Eight to Queen
+Seat 2: blistein (big blind) folded before Flop
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: S0M30LS3 folded before Flop (didn't bet)
+Seat 5: Punzzzer folded before Flop (didn't bet)
+Seat 6: radu10101 (button) showed [As Tc] and lost with a pair of Tens
+
+
+
+PokerStars Hand #254225714383:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:48:46 WET [2025/01/06 5:48:46 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 6: radu10101 ($0 in chips) is sitting out
+Seat 1: janarr5 ($208 in chips) 
+Seat 2: blistein ($131.92 in chips) 
+Seat 3: Ysiven ($107.44 in chips) 
+Seat 4: S0M30LS3 ($52.06 in chips) 
+Seat 5: Punzzzer ($403.41 in chips) 
+blistein: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+S0M30LS3: folds 
+Punzzzer: folds 
+janarr5: folds 
+radu10101 leaves the table
+blistein: folds 
+Uncalled bet ($0.50) returned to Ysiven
+Ysiven collected $1 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: radu10101
+Seat 1: janarr5 (button) folded before Flop (didn't bet)
+Seat 2: blistein (small blind) folded before Flop
+Seat 3: Ysiven (big blind) collected ($1)
+Seat 4: S0M30LS3 folded before Flop (didn't bet)
+Seat 5: Punzzzer folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225716848:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:49:06 WET [2025/01/06 5:49:06 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: janarr5 ($208 in chips) 
+Seat 2: blistein ($131.42 in chips) 
+Seat 3: Ysiven ($107.94 in chips) 
+Seat 4: S0M30LS3 ($52.06 in chips) 
+Seat 5: Punzzzer ($403.41 in chips) 
+Ysiven: posts small blind $0.50
+S0M30LS3: posts big blind $1
+*** HOLE CARDS ***
+Punzzzer: folds 
+janarr5: raises $1.25 to $2.25
+blistein: folds 
+Ysiven: raises $8.25 to $10.50
+S0M30LS3: folds 
+janarr5: folds 
+Uncalled bet ($8.25) returned to Ysiven
+Ysiven collected $5.50 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: janarr5 folded before Flop
+Seat 2: blistein (button) folded before Flop (didn't bet)
+Seat 3: Ysiven (small blind) collected ($5.50)
+Seat 4: S0M30LS3 (big blind) folded before Flop
+Seat 5: Punzzzer folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225719273:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:49:25 WET [2025/01/06 5:49:25 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 5: Punzzzer ($403.41 in chips) is sitting out
+Seat 1: janarr5 ($205.75 in chips) 
+Seat 2: blistein ($131.42 in chips) 
+Seat 3: Ysiven ($111.19 in chips) 
+Seat 4: S0M30LS3 ($51.06 in chips) 
+S0M30LS3: posts small blind $0.50
+Punzzzer: is sitting out 
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Ysiven: folds 
+Punzzzer leaves the table
+S0M30LS3: calls $0.50
+janarr5: raises $2.50 to $3.50
+S0M30LS3: folds 
+Uncalled bet ($2.50) returned to janarr5
+janarr5 collected $2 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: Punzzzer
+Seat 1: janarr5 (big blind) collected ($2)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven (button) folded before Flop (didn't bet)
+Seat 4: S0M30LS3 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225720724:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:49:36 WET [2025/01/06 5:49:36 ET]
+Table 'Sequoia II' 6-max Seat #4 is the button
+Seat 1: janarr5 ($206.75 in chips) 
+Seat 2: blistein ($131.42 in chips) 
+Seat 3: Ysiven ($111.19 in chips) 
+Seat 4: S0M30LS3 ($50.06 in chips) 
+janarr5: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: raises $1.30 to $2.30
+S0M30LS3: folds 
+janarr5: folds 
+blistein: folds 
+Uncalled bet ($1.30) returned to Ysiven
+Ysiven collected $2.50 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: janarr5 (small blind) folded before Flop
+Seat 2: blistein (big blind) folded before Flop
+Seat 3: Ysiven collected ($2.50)
+Seat 4: S0M30LS3 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225721950:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:49:46 WET [2025/01/06 5:49:46 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: janarr5 ($206.25 in chips) 
+Seat 2: blistein ($130.42 in chips) 
+Seat 3: Ysiven ($112.69 in chips) 
+Seat 4: S0M30LS3 ($50.06 in chips) 
+blistein: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+S0M30LS3: folds 
+janarr5: folds 
+blistein: raises $2 to $3
+Ysiven: raises $7 to $10
+blistein: folds 
+Uncalled bet ($7) returned to Ysiven
+Ysiven collected $6 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: janarr5 (button) folded before Flop (didn't bet)
+Seat 2: blistein (small blind) folded before Flop
+Seat 3: Ysiven (big blind) collected ($6)
+Seat 4: S0M30LS3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225724137:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:50:04 WET [2025/01/06 5:50:04 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: janarr5 ($206.25 in chips) 
+Seat 2: blistein ($127.42 in chips) 
+Seat 3: Ysiven ($115.69 in chips) 
+Seat 4: S0M30LS3 ($50.06 in chips) 
+Ysiven: posts small blind $0.50
+S0M30LS3: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+blistein: raises $1.50 to $2.50
+Ysiven: raises $8 to $10.50
+S0M30LS3: folds 
+blistein: calls $8
+*** FLOP *** [5c 8c Ks]
+Ysiven: bets $6.93
+Emily_GetMan joins the table at seat #5 
+blistein: folds 
+Uncalled bet ($6.93) returned to Ysiven
+Ysiven collected $21 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $1 
+Board [5c 8c Ks]
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein (button) folded on the Flop
+Seat 3: Ysiven (small blind) collected ($21)
+Seat 4: S0M30LS3 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225729936:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:50:49 WET [2025/01/06 5:50:49 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 1: janarr5 ($206.25 in chips) 
+Seat 2: blistein ($116.92 in chips) 
+Seat 3: Ysiven ($126.19 in chips) 
+Seat 4: S0M30LS3 ($49.06 in chips) 
+Seat 5: Emily_GetMan ($100 in chips) 
+S0M30LS3: posts small blind $0.50
+Emily_GetMan: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+blistein: folds 
+Ysiven: raises $1.50 to $2.50
+S0M30LS3: folds 
+Emily_GetMan: folds 
+Uncalled bet ($1.50) returned to Ysiven
+Ysiven collected $2.50 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven (button) collected ($2.50)
+Seat 4: S0M30LS3 (small blind) folded before Flop
+Seat 5: Emily_GetMan (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225731396:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:51:01 WET [2025/01/06 5:51:01 ET]
+Table 'Sequoia II' 6-max Seat #4 is the button
+Seat 1: janarr5 ($206.25 in chips) 
+Seat 2: blistein ($116.92 in chips) 
+Seat 3: Ysiven ($127.69 in chips) 
+Seat 4: S0M30LS3 ($48.56 in chips) 
+Seat 5: Emily_GetMan ($100 in chips) 
+Emily_GetMan: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+Ysiven: folds 
+S0M30LS3: calls $2.20
+Emily_GetMan: folds 
+janarr5: raises $10.80 to $13
+blistein: raises $15 to $28
+S0M30LS3: folds 
+janarr5: folds 
+Uncalled bet ($15) returned to blistein
+blistein collected $28.70 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $28.70 | Rake $0 
+Seat 1: janarr5 (big blind) folded before Flop
+Seat 2: blistein collected ($28.70)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: S0M30LS3 (button) folded before Flop
+Seat 5: Emily_GetMan (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225736149:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:51:39 WET [2025/01/06 5:51:39 ET]
+Table 'Sequoia II' 6-max Seat #5 is the button
+Seat 1: janarr5 ($193.25 in chips) 
+Seat 2: blistein ($132.62 in chips) 
+Seat 3: Ysiven ($127.69 in chips) 
+Seat 4: S0M30LS3 ($46.36 in chips) 
+Seat 5: Emily_GetMan ($100 in chips) 
+janarr5: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: folds 
+S0M30LS3: folds 
+Emily_GetMan: raises $1.50 to $2.50
+janarr5: raises $7.50 to $10
+blistein: raises $14 to $24
+Emily_GetMan: folds 
+janarr5: folds 
+Uncalled bet ($14) returned to blistein
+blistein collected $22.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.50 | Rake $0 
+Seat 1: janarr5 (small blind) folded before Flop
+Seat 2: blistein (big blind) collected ($22.50)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: S0M30LS3 folded before Flop (didn't bet)
+Seat 5: Emily_GetMan (button) folded before Flop
+
+
+
+PokerStars Hand #254225741360:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:52:20 WET [2025/01/06 5:52:20 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: janarr5 ($183.25 in chips) 
+Seat 2: blistein ($145.12 in chips) 
+Seat 3: Ysiven ($127.69 in chips) 
+Seat 4: S0M30LS3 ($46.36 in chips) 
+Seat 5: Emily_GetMan ($100 in chips) 
+blistein: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+S0M30LS3: folds 
+Emily_GetMan: raises $1 to $2
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+Uncalled bet ($1) returned to Emily_GetMan
+Emily_GetMan collected $2.50 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: janarr5 (button) folded before Flop (didn't bet)
+Seat 2: blistein (small blind) folded before Flop
+Seat 3: Ysiven (big blind) folded before Flop
+Seat 4: S0M30LS3 folded before Flop (didn't bet)
+Seat 5: Emily_GetMan collected ($2.50)
+
+
+
+PokerStars Hand #254225742553:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:52:30 WET [2025/01/06 5:52:30 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: janarr5 ($183.25 in chips) 
+Seat 2: blistein ($144.62 in chips) 
+Seat 3: Ysiven ($126.69 in chips) 
+Seat 4: S0M30LS3 ($46.36 in chips) 
+Seat 5: Emily_GetMan ($101.50 in chips) 
+Ysiven: posts small blind $0.50
+S0M30LS3: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: folds 
+janarr5: folds 
+blistein: folds 
+ddyyjj joins the table at seat #6 
+Ysiven: raises $2 to $3
+S0M30LS3: folds 
+Uncalled bet ($2) returned to Ysiven
+Ysiven collected $2 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein (button) folded before Flop (didn't bet)
+Seat 3: Ysiven (small blind) collected ($2)
+Seat 4: S0M30LS3 (big blind) folded before Flop
+Seat 5: Emily_GetMan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225744145:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:52:42 WET [2025/01/06 5:52:42 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 5: Emily_GetMan ($101.50 in chips) is sitting out
+Seat 1: janarr5 ($183.25 in chips) 
+Seat 2: blistein ($144.62 in chips) 
+Seat 3: Ysiven ($127.69 in chips) 
+Seat 4: S0M30LS3 ($45.36 in chips) 
+Seat 6: ddyyjj ($100 in chips) 
+S0M30LS3: posts small blind $0.50
+Emily_GetMan: is sitting out 
+ddyyjj: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+blistein: folds 
+Emily_GetMan leaves the table
+Ysiven: folds 
+S0M30LS3: raises $2 to $3
+ddyyjj: folds 
+Uncalled bet ($2) returned to S0M30LS3
+S0M30LS3 collected $2 from pot
+S0M30LS3: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: Emily_GetMan
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven (button) folded before Flop (didn't bet)
+Seat 4: S0M30LS3 (small blind) collected ($2)
+Seat 6: ddyyjj (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225746070:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:52:58 WET [2025/01/06 5:52:58 ET]
+Table 'Sequoia II' 6-max Seat #4 is the button
+Seat 1: janarr5 ($183.25 in chips) 
+Seat 2: blistein ($144.62 in chips) 
+Seat 3: Ysiven ($127.69 in chips) 
+Seat 4: S0M30LS3 ($46.36 in chips) 
+Seat 6: ddyyjj ($99 in chips) 
+ddyyjj: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Ysiven: folds 
+S0M30LS3: folds 
+ddyyjj: raises $2 to $3
+iNeverBluff398 joins the table at seat #5 
+janarr5: folds 
+Uncalled bet ($2) returned to ddyyjj
+ddyyjj collected $2 from pot
+ddyyjj: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: janarr5 (big blind) folded before Flop
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: S0M30LS3 (button) folded before Flop (didn't bet)
+Seat 6: ddyyjj (small blind) collected ($2)
+
+
+
+PokerStars Hand #254225748258:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:53:16 WET [2025/01/06 5:53:16 ET]
+Table 'Sequoia II' 6-max Seat #6 is the button
+Seat 5: iNeverBluff398 ($100 in chips) is sitting out
+Seat 1: janarr5 ($182.25 in chips) 
+Seat 2: blistein ($144.62 in chips) 
+Seat 3: Ysiven ($127.69 in chips) 
+Seat 4: S0M30LS3 ($46.36 in chips) 
+Seat 6: ddyyjj ($100 in chips) 
+janarr5: posts small blind $0.50
+blistein: posts big blind $1
+iNeverBluff398: sits out 
+*** HOLE CARDS ***
+Ysiven: folds 
+S0M30LS3 is disconnected 
+S0M30LS3 has timed out while disconnected
+S0M30LS3: folds 
+ddyyjj: raises $1.50 to $2.50
+janarr5: folds 
+blistein: folds 
+Uncalled bet ($1.50) returned to ddyyjj
+ddyyjj collected $2.50 from pot
+ddyyjj: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: iNeverBluff398
+Seat 1: janarr5 (small blind) folded before Flop
+Seat 2: blistein (big blind) folded before Flop
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 4: S0M30LS3 folded before Flop (didn't bet)
+Seat 6: ddyyjj (button) collected ($2.50)
+
+
+
+PokerStars Hand #254225751680:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:53:43 WET [2025/01/06 5:53:43 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 5: iNeverBluff398 ($100 in chips) is sitting out
+Seat 1: janarr5 ($181.75 in chips) 
+Seat 2: blistein ($143.62 in chips) 
+Seat 3: Ysiven ($127.69 in chips) 
+Seat 6: ddyyjj ($101.50 in chips) 
+blistein: posts small blind $0.50
+Ysiven: posts big blind $1
+iNeverBluff398: sits out 
+*** HOLE CARDS ***
+ddyyjj: folds 
+janarr5: folds 
+blistein: raises $2 to $3
+Ysiven: calls $2
+*** FLOP *** [Th 6c Kc]
+blistein: bets $1.94
+Ysiven: calls $1.94
+*** TURN *** [Th 6c Kc] [2h]
+blistein: checks 
+Ysiven: checks 
+*** RIVER *** [Th 6c Kc 2h] [4s]
+blistein: bets $3.19
+Ysiven: calls $3.19
+*** SHOW DOWN ***
+blistein: shows [5s Js] (high card King)
+Ysiven: shows [4d Ac] (a pair of Fours)
+Ysiven collected $15.45 from pot
+*** SUMMARY ***
+Total pot $16.26 | Rake $0.81 
+Board [Th 6c Kc 2h 4s]
+Seat 4: S0M30LS3
+Seat 5: iNeverBluff398
+Seat 1: janarr5 (button) folded before Flop (didn't bet)
+Seat 2: blistein (small blind) showed [5s Js] and lost with high card King
+Seat 3: Ysiven (big blind) showed [4d Ac] and won ($15.45) with a pair of Fours
+Seat 6: ddyyjj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225761122:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:55:01 WET [2025/01/06 5:55:01 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 1: janarr5 ($181.75 in chips) 
+Seat 2: blistein ($135.49 in chips) 
+Seat 3: Ysiven ($135.01 in chips) 
+Seat 5: iNeverBluff398 ($100 in chips) 
+Seat 6: ddyyjj ($101.50 in chips) 
+Ysiven: posts small blind $0.50
+iNeverBluff398: posts big blind $1
+*** HOLE CARDS ***
+ddyyjj: folds 
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+Uncalled bet ($0.50) returned to iNeverBluff398
+iNeverBluff398 collected $1 from pot
+iNeverBluff398: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: S0M30LS3
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein (button) folded before Flop (didn't bet)
+Seat 3: Ysiven (small blind) folded before Flop
+Seat 5: iNeverBluff398 (big blind) collected ($1)
+Seat 6: ddyyjj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225762889:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:55:15 WET [2025/01/06 5:55:15 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 1: janarr5 ($181.75 in chips) 
+Seat 2: blistein ($135.49 in chips) 
+Seat 3: Ysiven ($134.51 in chips) 
+Seat 5: iNeverBluff398 ($100.50 in chips) 
+Seat 6: ddyyjj ($101.50 in chips) 
+iNeverBluff398: posts small blind $0.50
+ddyyjj: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+iNeverBluff398: raises $2 to $3
+ddyyjj: folds 
+Uncalled bet ($2) returned to iNeverBluff398
+iNeverBluff398 collected $2 from pot
+iNeverBluff398: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: S0M30LS3
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven (button) folded before Flop (didn't bet)
+Seat 5: iNeverBluff398 (small blind) collected ($2)
+Seat 6: ddyyjj (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225764174:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:55:27 WET [2025/01/06 5:55:27 ET]
+Table 'Sequoia II' 6-max Seat #5 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 1: janarr5 ($181.75 in chips) 
+Seat 2: blistein ($135.49 in chips) 
+Seat 3: Ysiven ($134.51 in chips) 
+Seat 5: iNeverBluff398 ($101.50 in chips) 
+Seat 6: ddyyjj ($100.50 in chips) 
+ddyyjj: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Ysiven: folds 
+iNeverBluff398: raises $1.50 to $2.50
+ddyyjj: folds 
+janarr5: folds 
+Uncalled bet ($1.50) returned to iNeverBluff398
+iNeverBluff398 collected $2.50 from pot
+iNeverBluff398: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: S0M30LS3
+Seat 1: janarr5 (big blind) folded before Flop
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 5: iNeverBluff398 (button) collected ($2.50)
+Seat 6: ddyyjj (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225765217:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:55:37 WET [2025/01/06 5:55:37 ET]
+Table 'Sequoia II' 6-max Seat #6 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 1: janarr5 ($180.75 in chips) 
+Seat 2: blistein ($135.49 in chips) 
+Seat 3: Ysiven ($134.51 in chips) 
+Seat 5: iNeverBluff398 ($103 in chips) 
+Seat 6: ddyyjj ($100 in chips) 
+janarr5: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: folds 
+iNeverBluff398: folds 
+ddyyjj: folds 
+janarr5: raises $2 to $3
+blistein: folds 
+Uncalled bet ($2) returned to janarr5
+janarr5 collected $2 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: S0M30LS3
+Seat 1: janarr5 (small blind) collected ($2)
+Seat 2: blistein (big blind) folded before Flop
+Seat 3: Ysiven folded before Flop (didn't bet)
+Seat 5: iNeverBluff398 folded before Flop (didn't bet)
+Seat 6: ddyyjj (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225766935:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:55:53 WET [2025/01/06 5:55:53 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 1: janarr5 ($181.75 in chips) 
+Seat 2: blistein ($134.49 in chips) 
+Seat 3: Ysiven ($134.51 in chips) 
+Seat 5: iNeverBluff398 ($103 in chips) 
+Seat 6: ddyyjj ($100 in chips) 
+blistein: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+iNeverBluff398: folds 
+ddyyjj: folds 
+janarr5: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to Ysiven
+Ysiven collected $1 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: S0M30LS3
+Seat 1: janarr5 (button) folded before Flop (didn't bet)
+Seat 2: blistein (small blind) folded before Flop
+Seat 3: Ysiven (big blind) collected ($1)
+Seat 5: iNeverBluff398 folded before Flop (didn't bet)
+Seat 6: ddyyjj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225767855:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:56:02 WET [2025/01/06 5:56:02 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 5: iNeverBluff398 ($103 in chips) is sitting out
+Seat 1: janarr5 ($181.75 in chips) 
+Seat 2: blistein ($133.99 in chips) 
+Seat 3: Ysiven ($135.01 in chips) 
+Seat 6: ddyyjj ($100 in chips) 
+Ysiven: posts small blind $0.50
+iNeverBluff398: is sitting out 
+ddyyjj: posts big blind $1
+*** HOLE CARDS ***
+iNeverBluff398 leaves the table
+janarr5: folds 
+blistein: raises $1.50 to $2.50
+Ysiven: folds 
+ddyyjj: raises $7.50 to $10
+blistein: folds 
+Uncalled bet ($7.50) returned to ddyyjj
+ddyyjj collected $5.50 from pot
+ddyyjj: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 4: S0M30LS3
+Seat 5: iNeverBluff398
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein (button) folded before Flop
+Seat 3: Ysiven (small blind) folded before Flop
+Seat 6: ddyyjj (big blind) collected ($5.50)
+
+
+
+PokerStars Hand #254225769456:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:56:17 WET [2025/01/06 5:56:17 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 1: janarr5 ($181.75 in chips) 
+Seat 2: blistein ($131.49 in chips) 
+Seat 3: Ysiven ($134.51 in chips) 
+Seat 6: ddyyjj ($103 in chips) 
+ddyyjj: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.30 to $2.30
+Ysiven: folds 
+ddyyjj: raises $7.70 to $10
+janarr5: folds 
+blistein: folds 
+Uncalled bet ($7.70) returned to ddyyjj
+ddyyjj collected $5.60 from pot
+ddyyjj: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0 
+Seat 4: S0M30LS3
+Seat 1: janarr5 (big blind) folded before Flop
+Seat 2: blistein folded before Flop
+Seat 3: Ysiven (button) folded before Flop (didn't bet)
+Seat 6: ddyyjj (small blind) collected ($5.60)
+
+
+
+PokerStars Hand #254225771276:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:56:34 WET [2025/01/06 5:56:34 ET]
+Table 'Sequoia II' 6-max Seat #6 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 1: janarr5 ($180.75 in chips) 
+Seat 2: blistein ($129.19 in chips) 
+Seat 3: Ysiven ($134.51 in chips) 
+Seat 6: ddyyjj ($106.30 in chips) 
+janarr5: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: raises $1.30 to $2.30
+ddyyjj: folds 
+janarr5: folds 
+blistein: calls $1.30
+*** FLOP *** [5h Ah 7h]
+blistein: checks 
+Ysiven: checks 
+*** TURN *** [5h Ah 7h] [Kc]
+blistein: bets $1.65
+Ysiven: calls $1.65
+*** RIVER *** [5h Ah 7h Kc] [Ad]
+blistein: bets $2.71
+Ysiven: calls $2.71
+*** SHOW DOWN ***
+blistein: shows [8s 9s] (a pair of Aces)
+Ysiven: shows [Ac 6c] (three of a kind, Aces)
+Ysiven collected $13.13 from pot
+*** SUMMARY ***
+Total pot $13.82 | Rake $0.69 
+Board [5h Ah 7h Kc Ad]
+Seat 4: S0M30LS3
+Seat 1: janarr5 (small blind) folded before Flop
+Seat 2: blistein (big blind) showed [8s 9s] and lost with a pair of Aces
+Seat 3: Ysiven showed [Ac 6c] and won ($13.13) with three of a kind, Aces
+Seat 6: ddyyjj (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225778842:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:57:45 WET [2025/01/06 5:57:45 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 1: janarr5 ($180.25 in chips) 
+Seat 2: blistein ($122.53 in chips) 
+Seat 3: Ysiven ($140.98 in chips) 
+Seat 6: ddyyjj ($106.30 in chips) 
+blistein: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+ddyyjj: raises $1.50 to $2.50
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+Uncalled bet ($1.50) returned to ddyyjj
+ddyyjj collected $2.50 from pot
+ddyyjj: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: S0M30LS3
+Seat 1: janarr5 (button) folded before Flop (didn't bet)
+Seat 2: blistein (small blind) folded before Flop
+Seat 3: Ysiven (big blind) folded before Flop
+Seat 6: ddyyjj collected ($2.50)
+
+
+
+PokerStars Hand #254225780189:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:57:57 WET [2025/01/06 5:57:57 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 1: janarr5 ($180.25 in chips) 
+Seat 2: blistein ($122.03 in chips) 
+Seat 3: Ysiven ($139.98 in chips) 
+Seat 6: ddyyjj ($107.80 in chips) 
+Ysiven: posts small blind $0.50
+ddyyjj: posts big blind $1
+*** HOLE CARDS ***
+janarr5: folds 
+blistein: folds 
+Ysiven: folds 
+Uncalled bet ($0.50) returned to ddyyjj
+ddyyjj collected $1 from pot
+ddyyjj: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: S0M30LS3
+Seat 1: janarr5 folded before Flop (didn't bet)
+Seat 2: blistein (button) folded before Flop (didn't bet)
+Seat 3: Ysiven (small blind) folded before Flop
+Seat 6: ddyyjj (big blind) collected ($1)
+
+
+
+PokerStars Hand #254225780922:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:58:04 WET [2025/01/06 5:58:04 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 1: janarr5 ($180.25 in chips) 
+Seat 2: blistein ($122.03 in chips) 
+Seat 3: Ysiven ($139.48 in chips) 
+Seat 6: ddyyjj ($108.30 in chips) 
+ddyyjj: posts small blind $0.50
+janarr5: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Ysiven: folds 
+blistein leaves the table
+ddyyjj: raises $2 to $3
+janarr5: raises $7 to $10
+ddyyjj: folds 
+Uncalled bet ($7) returned to janarr5
+janarr5 collected $6 from pot
+janarr5: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: S0M30LS3
+Seat 1: janarr5 (big blind) collected ($6)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: Ysiven (button) folded before Flop (didn't bet)
+Seat 6: ddyyjj (small blind) folded before Flop
+
+
+
+PokerStars Hand #254225782692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:58:21 WET [2025/01/06 5:58:21 ET]
+Table 'Sequoia II' 6-max Seat #6 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 1: janarr5 ($183.25 in chips) 
+Seat 3: Ysiven ($139.48 in chips) 
+Seat 6: ddyyjj ($105.30 in chips) 
+janarr5: posts small blind $0.50
+Ysiven: posts big blind $1
+*** HOLE CARDS ***
+ddyyjj has timed out
+ddyyjj: folds 
+janarr5: folds 
+Uncalled bet ($0.50) returned to Ysiven
+Ysiven collected $1 from pot
+Ysiven: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: S0M30LS3
+Seat 1: janarr5 (small blind) folded before Flop
+Seat 3: Ysiven (big blind) collected ($1)
+Seat 6: ddyyjj (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254225786057:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 10:58:51 WET [2025/01/06 5:58:51 ET]
+Table 'Sequoia II' 6-max Seat #3 is the button
+Seat 4: S0M30LS3 ($46.36 in chips) is sitting out
+Seat 3: Ysiven ($139.98 in chips) 
+Seat 6: ddyyjj ($105.30 in chips) 
+Ysiven: posts small blind $0.50
+ddyyjj: posts big blind $1
+*** HOLE CARDS ***
+Ysiven: raises $1.50 to $2.50
+ddyyjj: folds 
+Uncalled bet ($1.50) returned to Ysiven
+Ysiven collected $2 from pot
+Ysiven: doesn't show hand 
+ddyyjj leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: S0M30LS3
+Seat 3: Ysiven (button) (small blind) collected ($2)
+Seat 6: ddyyjj (big blind) folded before Flop
+
+
+
+PokerStars Hand #254225830156:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 11:04:54 WET [2025/01/06 6:04:54 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: S0M30LS3 ($46.36 in chips) 
+Seat 2: blistein ($122.03 in chips) 
+S0M30LS3: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+S0M30LS3: calls $0.50
+blistein: checks 
+*** FLOP *** [6d Jh 5c]
+blistein: checks 
+S0M30LS3: bets $1
+blistein: calls $1
+*** TURN *** [6d Jh 5c] [6s]
+blistein: bets $1
+S0M30LS3: calls $1
+*** RIVER *** [6d Jh 5c 6s] [8h]
+blistein: checks 
+S0M30LS3: checks 
+*** SHOW DOWN ***
+blistein: shows [2h 5d] (two pair, Sixes and Fives)
+S0M30LS3: shows [8c 9s] (two pair, Eights and Sixes)
+S0M30LS3 collected $5.62 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.38 
+Board [6d Jh 5c 6s 8h]
+Seat 1: S0M30LS3 (button) (small blind) showed [8c 9s] and won ($5.62) with two pair, Eights and Sixes
+Seat 2: blistein (big blind) showed [2h 5d] and lost with two pair, Sixes and Fives
+
+
+
+PokerStars Hand #254225833152:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 11:05:16 WET [2025/01/06 6:05:16 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: S0M30LS3 ($48.98 in chips) 
+Seat 2: blistein ($119.03 in chips) 
+blistein: posts small blind $0.50
+S0M30LS3: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $2 to $3
+S0M30LS3: folds 
+Uncalled bet ($2) returned to blistein
+blistein collected $2 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: S0M30LS3 (big blind) folded before Flop
+Seat 2: blistein (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254225834152:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 11:05:24 WET [2025/01/06 6:05:24 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: S0M30LS3 ($47.98 in chips) 
+Seat 2: blistein ($120.03 in chips) 
+S0M30LS3: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+S0M30LS3: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: S0M30LS3 (button) (small blind) folded before Flop
+Seat 2: blistein (big blind) collected ($1)
+
+
+
+PokerStars Hand #254225834989:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 11:05:31 WET [2025/01/06 6:05:31 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: S0M30LS3 ($47.48 in chips) 
+Seat 2: blistein ($120.53 in chips) 
+blistein: posts small blind $0.50
+S0M30LS3: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.50 to $2.50
+S0M30LS3: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $2 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: S0M30LS3 (big blind) folded before Flop
+Seat 2: blistein (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254225836039:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 11:05:38 WET [2025/01/06 6:05:38 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: S0M30LS3 ($46.48 in chips) 
+Seat 2: blistein ($121.53 in chips) 
+S0M30LS3: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+S0M30LS3: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: S0M30LS3 (button) (small blind) folded before Flop
+Seat 2: blistein (big blind) collected ($1)
+
+
+
+PokerStars Hand #254225836880:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 11:05:45 WET [2025/01/06 6:05:45 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: S0M30LS3 ($45.98 in chips) 
+Seat 2: blistein ($122.03 in chips) 
+blistein: posts small blind $0.50
+S0M30LS3: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1 to $2
+S0M30LS3: calls $1
+*** FLOP *** [2s 8h 3s]
+S0M30LS3: checks 
+blistein: bets $1.29
+S0M30LS3: calls $1.29
+*** TURN *** [2s 8h 3s] [5s]
+S0M30LS3: checks 
+blistein: bets $2.13
+S0M30LS3: folds 
+Uncalled bet ($2.13) returned to blistein
+blistein collected $6.25 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.58 | Rake $0.33 
+Board [2s 8h 3s 5s]
+Seat 1: S0M30LS3 (big blind) folded on the Turn
+Seat 2: blistein (button) (small blind) collected ($6.25)
+
+
+
+PokerStars Hand #254225841043:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 11:06:17 WET [2025/01/06 6:06:17 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: S0M30LS3 ($42.69 in chips) 
+Seat 2: blistein ($124.99 in chips) 
+S0M30LS3: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+S0M30LS3: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: S0M30LS3 (button) (small blind) folded before Flop
+Seat 2: blistein (big blind) collected ($1)
+
+
+
+PokerStars Hand #254225841874:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 11:06:24 WET [2025/01/06 6:06:24 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: S0M30LS3 ($42.19 in chips) 
+Seat 2: blistein ($125.49 in chips) 
+blistein: posts small blind $0.50
+S0M30LS3: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.50 to $2.50
+S0M30LS3: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $2 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: S0M30LS3 (big blind) folded before Flop
+Seat 2: blistein (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254225842801:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 11:06:31 WET [2025/01/06 6:06:31 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: S0M30LS3 ($41.19 in chips) 
+Seat 2: blistein ($126.49 in chips) 
+S0M30LS3: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+S0M30LS3: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: S0M30LS3 (button) (small blind) folded before Flop
+Seat 2: blistein (big blind) collected ($1)
+
+
+
+PokerStars Hand #254225843619:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 11:06:37 WET [2025/01/06 6:06:37 ET]
+Table 'Sequoia II' 6-max Seat #2 is the button
+Seat 1: S0M30LS3 ($40.69 in chips) 
+Seat 2: blistein ($126.99 in chips) 
+blistein: posts small blind $0.50
+S0M30LS3: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1 to $2
+S0M30LS3: calls $1
+*** FLOP *** [Qd Tc 3s]
+S0M30LS3: checks 
+blistein: checks 
+*** TURN *** [Qd Tc 3s] [Kc]
+S0M30LS3: checks 
+blistein: bets $1.29
+S0M30LS3: calls $1.29
+*** RIVER *** [Qd Tc 3s Kc] [8d]
+S0M30LS3: checks 
+blistein: checks 
+*** SHOW DOWN ***
+S0M30LS3: shows [3h 2s] (a pair of Threes)
+blistein: shows [Qh 6d] (a pair of Queens)
+blistein collected $6.25 from pot
+*** SUMMARY ***
+Total pot $6.58 | Rake $0.33 
+Board [Qd Tc 3s Kc 8d]
+Seat 1: S0M30LS3 (big blind) showed [3h 2s] and lost with a pair of Threes
+Seat 2: blistein (button) (small blind) showed [Qh 6d] and won ($6.25) with a pair of Queens
+
+
+
+PokerStars Hand #254225846073:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/06 11:06:56 WET [2025/01/06 6:06:56 ET]
+Table 'Sequoia II' 6-max Seat #1 is the button
+Seat 1: S0M30LS3 ($37.40 in chips) 
+Seat 2: blistein ($129.95 in chips) 
+S0M30LS3: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+S0M30LS3: folds 
+Uncalled bet ($0.50) returned to blistein
+S0M30LS3 leaves the table
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: S0M30LS3 (button) (small blind) folded before Flop
+Seat 2: blistein (big blind) collected ($1)
+
+
+

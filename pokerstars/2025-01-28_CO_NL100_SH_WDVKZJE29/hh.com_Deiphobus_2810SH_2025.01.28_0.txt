@@ -1,0 +1,3706 @@
+﻿PokerStars Hand #254591760647:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:04:32 WET [2025/01/28 12:04:32 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: ilian_ivanov88 ($111.49 in chips) 
+Seat 3: Amara2009 ($5.94 in chips) 
+Seat 4: magzi777 ($100 in chips) 
+Seat 5: rafaelzin321 ($9 in chips) 
+Seat 6: enisgashi ($47.83 in chips) 
+rafaelzin321: posts small blind $0.50
+enisgashi: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+ilian_ivanov88: calls $2.20
+Amara2009: raises $3.74 to $5.94 and is all-in
+magzi777: folds 
+rafaelzin321: folds 
+enisgashi: calls $4.94
+blistein: calls $3.74
+ilian_ivanov88: calls $3.74
+*** FLOP *** [Qc 4h Tc]
+enisgashi: checks 
+blistein: checks 
+ilian_ivanov88: checks 
+*** TURN *** [Qc 4h Tc] [5c]
+enisgashi: checks 
+blistein: bets $11.53
+ilian_ivanov88: folds 
+enisgashi: calls $11.53
+*** RIVER *** [Qc 4h Tc 5c] [2s]
+enisgashi: checks 
+blistein: bets $36.71
+enisgashi: folds 
+Uncalled bet ($36.71) returned to blistein
+*** SHOW DOWN ***
+blistein: shows [7c 8c] (a flush, Queen high)
+blistein collected $21.90 from side pot
+Amara2009: shows [3h Ah] (a straight, Ace to Five)
+blistein collected $23.05 from main pot
+*** SUMMARY ***
+Total pot $47.32 Main pot $23.05. Side pot $21.90. | Rake $2.37 
+Board [Qc 4h Tc 5c 2s]
+Seat 1: blistein showed [7c 8c] and won ($44.95) with a flush, Queen high
+Seat 2: ilian_ivanov88 folded on the Turn
+Seat 3: Amara2009 showed [3h Ah] and lost with a straight, Ace to Five
+Seat 4: magzi777 (button) folded before Flop (didn't bet)
+Seat 5: rafaelzin321 (small blind) folded before Flop
+Seat 6: enisgashi (big blind) folded on the River
+
+
+
+PokerStars Hand #254591770263:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:05:49 WET [2025/01/28 12:05:49 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 1: blistein ($127.48 in chips) 
+Seat 2: ilian_ivanov88 ($105.55 in chips) 
+Seat 4: magzi777 ($100 in chips) 
+Seat 5: rafaelzin321 ($8.50 in chips) 
+Seat 6: enisgashi ($30.36 in chips) 
+enisgashi: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+ilian_ivanov88: raises $2 to $3
+magzi777: folds 
+rafaelzin321: calls $3
+enisgashi: calls $2.50
+blistein: folds 
+*** FLOP *** [7s 9h 5c]
+enisgashi: checks 
+ilian_ivanov88: checks 
+rafaelzin321: checks 
+*** TURN *** [7s 9h 5c] [3c]
+enisgashi: checks 
+ilian_ivanov88: checks 
+rafaelzin321: checks 
+*** RIVER *** [7s 9h 5c 3c] [9d]
+enisgashi: bets $5
+ilian_ivanov88: folds 
+rafaelzin321: folds 
+Uncalled bet ($5) returned to enisgashi
+enisgashi collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [7s 9h 5c 3c 9d]
+Seat 3: Amara2009
+Seat 1: blistein (big blind) folded before Flop
+Seat 2: ilian_ivanov88 folded on the River
+Seat 4: magzi777 folded before Flop (didn't bet)
+Seat 5: rafaelzin321 (button) folded on the River
+Seat 6: enisgashi (small blind) collected ($9.50)
+
+
+
+PokerStars Hand #254591774881:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:06:24 WET [2025/01/28 12:06:24 ET]
+Table 'Deiphobus' 6-max Seat #6 is the button
+Seat 1: blistein ($126.48 in chips) 
+Seat 2: ilian_ivanov88 ($102.55 in chips) 
+Seat 3: Amara2009 ($13.98 in chips) 
+Seat 4: magzi777 ($100 in chips) 
+Seat 5: rafaelzin321 ($5.50 in chips) 
+Seat 6: enisgashi ($36.86 in chips) 
+blistein: posts small blind $0.50
+ilian_ivanov88: posts big blind $1
+*** HOLE CARDS ***
+Amara2009: raises $2 to $3
+magzi777: folds 
+rafaelzin321: folds 
+enisgashi: calls $3
+blistein: folds 
+ilian_ivanov88: calls $2
+*** FLOP *** [As 9c 5c]
+ilian_ivanov88: checks 
+Amara2009: checks 
+enisgashi: checks 
+*** TURN *** [As 9c 5c] [4d]
+ilian_ivanov88: checks 
+Amara2009: checks 
+enisgashi: checks 
+*** RIVER *** [As 9c 5c 4d] [Ad]
+ilian_ivanov88: checks 
+Amara2009: checks 
+enisgashi: bets $11
+ilian_ivanov88: folds 
+Amara2009: folds 
+Uncalled bet ($11) returned to enisgashi
+enisgashi collected $9.02 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [As 9c 5c 4d Ad]
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: ilian_ivanov88 (big blind) folded on the River
+Seat 3: Amara2009 folded on the River
+Seat 4: magzi777 folded before Flop (didn't bet)
+Seat 5: rafaelzin321 folded before Flop (didn't bet)
+Seat 6: enisgashi (button) collected ($9.02)
+
+
+
+PokerStars Hand #254591780667:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:07:05 WET [2025/01/28 12:07:05 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 1: blistein ($125.98 in chips) 
+Seat 2: ilian_ivanov88 ($99.55 in chips) 
+Seat 3: Amara2009 ($10.98 in chips) 
+Seat 4: magzi777 ($100 in chips) 
+Seat 5: rafaelzin321 ($5.50 in chips) 
+Seat 6: enisgashi ($42.88 in chips) 
+ilian_ivanov88: posts small blind $0.50
+Amara2009: posts big blind $1
+*** HOLE CARDS ***
+magzi777: folds 
+rafaelzin321: folds 
+enisgashi: calls $1
+blistein: raises $2.50 to $3.50
+ilian_ivanov88: calls $3
+Amara2009: folds 
+enisgashi: calls $2.50
+*** FLOP *** [Qs 3h 4d]
+ilian_ivanov88: checks 
+enisgashi: checks 
+blistein: checks 
+*** TURN *** [Qs 3h 4d] [7s]
+ilian_ivanov88: checks 
+enisgashi: checks 
+blistein: checks 
+*** RIVER *** [Qs 3h 4d 7s] [5s]
+ilian_ivanov88: checks 
+enisgashi: bets $6
+blistein: folds 
+ilian_ivanov88: calls $6
+*** SHOW DOWN ***
+enisgashi: shows [7h 2s] (a pair of Sevens)
+ilian_ivanov88: mucks hand 
+enisgashi collected $22.32 from pot
+*** SUMMARY ***
+Total pot $23.50 | Rake $1.18 
+Board [Qs 3h 4d 7s 5s]
+Seat 1: blistein (button) folded on the River
+Seat 2: ilian_ivanov88 (small blind) mucked
+Seat 3: Amara2009 (big blind) folded before Flop
+Seat 4: magzi777 folded before Flop (didn't bet)
+Seat 5: rafaelzin321 folded before Flop (didn't bet)
+Seat 6: enisgashi showed [7h 2s] and won ($22.32) with a pair of Sevens
+
+
+
+PokerStars Hand #254591789701:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:08:07 WET [2025/01/28 12:08:07 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 1: blistein ($122.48 in chips) 
+Seat 2: ilian_ivanov88 ($90.05 in chips) 
+Seat 3: Amara2009 ($9.98 in chips) 
+Seat 4: magzi777 ($100 in chips) 
+Seat 5: rafaelzin321 ($5.50 in chips) 
+Seat 6: enisgashi ($55.70 in chips) 
+Amara2009: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+rafaelzin321: folds 
+enisgashi: calls $1
+blistein: folds 
+ilian_ivanov88: calls $1
+Amara2009: folds 
+magzi777: checks 
+*** FLOP *** [Kh 9d Ah]
+magzi777: checks 
+enisgashi: checks 
+ilian_ivanov88: checks 
+*** TURN *** [Kh 9d Ah] [Ad]
+magzi777: checks 
+enisgashi: bets $10
+ilian_ivanov88: folds 
+magzi777: folds 
+Uncalled bet ($10) returned to enisgashi
+enisgashi collected $3.32 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [Kh 9d Ah Ad]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: ilian_ivanov88 (button) folded on the Turn
+Seat 3: Amara2009 (small blind) folded before Flop
+Seat 4: magzi777 (big blind) folded on the Turn
+Seat 5: rafaelzin321 folded before Flop (didn't bet)
+Seat 6: enisgashi collected ($3.32)
+
+
+
+PokerStars Hand #254591794707:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:08:40 WET [2025/01/28 12:08:40 ET]
+Table 'Deiphobus' 6-max Seat #3 is the button
+Seat 1: blistein ($122.48 in chips) 
+Seat 2: ilian_ivanov88 ($89.05 in chips) 
+Seat 3: Amara2009 ($9.48 in chips) 
+Seat 4: magzi777 ($100 in chips) 
+Seat 5: rafaelzin321 ($5.50 in chips) 
+Seat 6: enisgashi ($58.02 in chips) 
+magzi777: posts small blind $0.50
+rafaelzin321: posts big blind $1
+*** HOLE CARDS ***
+enisgashi: calls $1
+blistein: folds 
+ilian_ivanov88: folds 
+Amara2009: calls $1
+magzi777: folds 
+rafaelzin321: checks 
+*** FLOP *** [7s Js Qd]
+rafaelzin321: checks 
+enisgashi: checks 
+Amara2009: bets $2
+rafaelzin321: folds 
+enisgashi: calls $2
+*** TURN *** [7s Js Qd] [9c]
+enisgashi: checks 
+Amara2009: bets $6.48 and is all-in
+enisgashi: calls $6.48
+*** RIVER *** [7s Js Qd 9c] [6d]
+*** SHOW DOWN ***
+enisgashi: shows [Ts 8c] (a straight, Eight to Queen)
+Amara2009: shows [4h Jd] (a pair of Jacks)
+enisgashi collected $19.44 from pot
+*** SUMMARY ***
+Total pot $20.46 | Rake $1.02 
+Board [7s Js Qd 9c 6d]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: ilian_ivanov88 folded before Flop (didn't bet)
+Seat 3: Amara2009 (button) showed [4h Jd] and lost with a pair of Jacks
+Seat 4: magzi777 (small blind) folded before Flop
+Seat 5: rafaelzin321 (big blind) folded on the Flop
+Seat 6: enisgashi showed [Ts 8c] and won ($19.44) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #254591800790:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:09:19 WET [2025/01/28 12:09:19 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 1: blistein ($122.48 in chips) 
+Seat 2: ilian_ivanov88 ($89.05 in chips) 
+Seat 4: magzi777 ($100 in chips) 
+Seat 5: rafaelzin321 ($4.50 in chips) 
+Seat 6: enisgashi ($67.98 in chips) 
+rafaelzin321: posts small blind $0.50
+enisgashi: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+ilian_ivanov88: folds 
+magzi777: folds 
+rafaelzin321: folds 
+enisgashi: calls $1.20
+*** FLOP *** [4s 9c Kc]
+Amara2009 is disconnected 
+enisgashi: checks 
+blistein: checks 
+*** TURN *** [4s 9c Kc] [7c]
+enisgashi: bets $12
+blistein: folds 
+Uncalled bet ($12) returned to enisgashi
+enisgashi collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [4s 9c Kc 7c]
+Seat 3: Amara2009
+Seat 1: blistein folded on the Turn
+Seat 2: ilian_ivanov88 folded before Flop (didn't bet)
+Seat 4: magzi777 (button) folded before Flop (didn't bet)
+Seat 5: rafaelzin321 (small blind) folded before Flop
+Seat 6: enisgashi (big blind) collected ($4.66)
+
+
+
+PokerStars Hand #254591806262:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:09:53 WET [2025/01/28 12:09:53 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 1: blistein ($120.28 in chips) 
+Seat 2: ilian_ivanov88 ($89.05 in chips) 
+Seat 4: magzi777 ($100 in chips) 
+Seat 5: rafaelzin321 ($4 in chips) 
+Seat 6: enisgashi ($70.44 in chips) 
+enisgashi: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+ilian_ivanov88: folds 
+magzi777: folds 
+rafaelzin321: raises $3 to $4 and is all-in
+enisgashi: calls $3.50
+blistein: folds 
+*** FLOP *** [2c Js 5h]
+*** TURN *** [2c Js 5h] [Ad]
+*** RIVER *** [2c Js 5h Ad] [4h]
+*** SHOW DOWN ***
+enisgashi: shows [7d 5c] (a pair of Fives)
+rafaelzin321: shows [Qs 9h] (high card Ace)
+enisgashi collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [2c Js 5h Ad 4h]
+Seat 3: Amara2009
+Seat 1: blistein (big blind) folded before Flop
+Seat 2: ilian_ivanov88 folded before Flop (didn't bet)
+Seat 4: magzi777 folded before Flop (didn't bet)
+Seat 5: rafaelzin321 (button) showed [Qs 9h] and lost with high card Ace
+Seat 6: enisgashi (small blind) showed [7d 5c] and won ($8.55) with a pair of Fives
+
+
+
+PokerStars Hand #254591810429:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:10:18 WET [2025/01/28 12:10:18 ET]
+Table 'Deiphobus' 6-max Seat #6 is the button
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 5: rafaelzin321 ($0 in chips) is sitting out
+Seat 1: blistein ($119.28 in chips) 
+Seat 2: ilian_ivanov88 ($89.05 in chips) 
+Seat 4: magzi777 ($100 in chips) 
+Seat 6: enisgashi ($74.99 in chips) 
+blistein: posts small blind $0.50
+ilian_ivanov88: posts big blind $1
+*** HOLE CARDS ***
+magzi777: raises $1.50 to $2.50
+enisgashi: calls $2.50
+rafaelzin321 leaves the table
+blistein: folds 
+ilian_ivanov88: calls $1.50
+*** FLOP *** [3s Qd 6d]
+ilian_ivanov88: checks 
+Burlica2013 joins the table at seat #5 
+magzi777: bets $4.50
+enisgashi: calls $4.50
+ilian_ivanov88: folds 
+*** TURN *** [3s Qd 6d] [6s]
+ilian_ivanov88 is disconnected 
+magzi777: bets $5.50
+enisgashi: calls $5.50
+*** RIVER *** [3s Qd 6d 6s] [Kd]
+magzi777: checks 
+enisgashi: bets $11
+magzi777: calls $11
+*** SHOW DOWN ***
+enisgashi: shows [2h As] (a pair of Sixes)
+magzi777: shows [Qh Jd] (two pair, Queens and Sixes)
+magzi777 collected $49 from pot
+*** SUMMARY ***
+Total pot $50 | Rake $1 
+Board [3s Qd 6d 6s Kd]
+Seat 3: Amara2009
+Seat 5: rafaelzin321
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: ilian_ivanov88 (big blind) folded on the Flop
+Seat 4: magzi777 showed [Qh Jd] and won ($49) with two pair, Queens and Sixes
+Seat 6: enisgashi (button) showed [2h As] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #254591820564:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:11:16 WET [2025/01/28 12:11:16 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 2: ilian_ivanov88 ($86.55 in chips) is sitting out
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 1: blistein ($118.78 in chips) 
+Seat 4: magzi777 ($125.50 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($51.49 in chips) 
+ilian_ivanov88 has timed out while disconnected
+ilian_ivanov88: is sitting out 
+magzi777: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+enisgashi: calls $1
+blistein: folds 
+magzi777: folds 
+Burlica2013: checks 
+*** FLOP *** [8c 6h Qh]
+Burlica2013: checks 
+enisgashi: checks 
+*** TURN *** [8c 6h Qh] [Jd]
+Burlica2013: checks 
+enisgashi: checks 
+*** RIVER *** [8c 6h Qh Jd] [Ks]
+Burlica2013: checks 
+enisgashi: bets $3
+Burlica2013: calls $3
+*** SHOW DOWN ***
+enisgashi: shows [Td 3d] (high card King)
+Burlica2013: shows [8h As] (a pair of Eights)
+Burlica2013 collected $8.08 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [8c 6h Qh Jd Ks]
+Seat 2: ilian_ivanov88
+Seat 3: Amara2009
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 4: magzi777 (small blind) folded before Flop
+Seat 5: Burlica2013 (big blind) showed [8h As] and won ($8.08) with a pair of Eights
+Seat 6: enisgashi showed [Td 3d] and lost with high card King
+
+
+
+PokerStars Hand #254591827329:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:11:54 WET [2025/01/28 12:11:54 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 2: ilian_ivanov88 ($86.55 in chips) is sitting out
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 1: blistein ($118.78 in chips) 
+Seat 4: magzi777 ($125 in chips) 
+Seat 5: Burlica2013 ($104.08 in chips) 
+Seat 6: enisgashi ($47.49 in chips) 
+Burlica2013: posts small blind $0.50
+enisgashi: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.30 to $2.30
+magzi777: folds 
+Burlica2013: folds 
+enisgashi: calls $1.30
+*** FLOP *** [Ad 6d 7h]
+enisgashi: checks 
+blistein: checks 
+*** TURN *** [Ad 6d 7h] [Qs]
+enisgashi: checks 
+blistein: checks 
+*** RIVER *** [Ad 6d 7h Qs] [4s]
+enisgashi: bets $13
+blistein: folds 
+Uncalled bet ($13) returned to enisgashi
+enisgashi collected $4.84 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.26 
+Board [Ad 6d 7h Qs 4s]
+Seat 2: ilian_ivanov88
+Seat 3: Amara2009
+Seat 1: blistein folded on the River
+Seat 4: magzi777 (button) folded before Flop (didn't bet)
+Seat 5: Burlica2013 (small blind) folded before Flop
+Seat 6: enisgashi (big blind) collected ($4.84)
+
+
+
+PokerStars Hand #254591838857:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:12:56 WET [2025/01/28 12:12:56 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 2: ilian_ivanov88 ($86.55 in chips) is sitting out
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 1: blistein ($116.48 in chips) 
+Seat 4: magzi777 ($125 in chips) 
+Seat 5: Burlica2013 ($103.58 in chips) 
+Seat 6: enisgashi ($50.03 in chips) 
+enisgashi: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+magzi777: raises $1.50 to $2.50
+Burlica2013: folds 
+enisgashi: calls $2
+blistein: folds 
+*** FLOP *** [6s 9h Ah]
+enisgashi: checks 
+magzi777: bets $2.85
+enisgashi: raises $2.85 to $5.70
+magzi777: calls $2.85
+*** TURN *** [6s 9h Ah] [8h]
+enisgashi: checks 
+magzi777: bets $10.91
+enisgashi: raises $10.91 to $21.82
+magzi777: raises $39.71 to $61.53
+enisgashi: calls $20.01 and is all-in
+Uncalled bet ($19.70) returned to magzi777
+*** RIVER *** [6s 9h Ah 8h] [Ts]
+*** SHOW DOWN ***
+enisgashi: shows [3h Qh] (a flush, Ace high)
+magzi777: shows [Kh 5h] (a flush, Ace high - King higher)
+magzi777 collected $100.06 from pot
+*** SUMMARY ***
+Total pot $101.06 | Rake $1 
+Board [6s 9h Ah 8h Ts]
+Seat 2: ilian_ivanov88
+Seat 3: Amara2009
+Seat 1: blistein (big blind) folded before Flop
+Seat 4: magzi777 showed [Kh 5h] and won ($100.06) with a flush, Ace high
+Seat 5: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 6: enisgashi (small blind) showed [3h Qh] and lost with a flush, Ace high
+
+
+
+PokerStars Hand #254591849870:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:13:54 WET [2025/01/28 12:13:54 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 2: ilian_ivanov88 ($86.55 in chips) is sitting out
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: blistein ($115.48 in chips) 
+Seat 4: magzi777 ($175.03 in chips) 
+Seat 5: Burlica2013 ($103.58 in chips) 
+magzi777: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+magzi777: folds 
+Uncalled bet ($0.50) returned to Burlica2013
+Burlica2013 collected $1 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: ilian_ivanov88
+Seat 3: Amara2009
+Seat 6: enisgashi
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 4: magzi777 (small blind) folded before Flop
+Seat 5: Burlica2013 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254591851344:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:14:01 WET [2025/01/28 12:14:01 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 2: ilian_ivanov88 ($86.55 in chips) is sitting out
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: blistein ($115.48 in chips) 
+Seat 4: magzi777 ($174.53 in chips) 
+Seat 5: Burlica2013 ($104.08 in chips) 
+Burlica2013: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+magzi777: folds 
+Burlica2013: raises $2 to $3
+blistein: raises $7 to $10
+Burlica2013: calls $7
+*** FLOP *** [9d 3d 3s]
+Burlica2013: checks 
+blistein: bets $9.50
+Burlica2013: folds 
+Uncalled bet ($9.50) returned to blistein
+blistein collected $19 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [9d 3d 3s]
+Seat 2: ilian_ivanov88
+Seat 3: Amara2009
+Seat 6: enisgashi
+Seat 1: blistein (big blind) collected ($19)
+Seat 4: magzi777 (button) folded before Flop (didn't bet)
+Seat 5: Burlica2013 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254591859761:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:14:44 WET [2025/01/28 12:14:44 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 2: ilian_ivanov88 ($86.55 in chips) is sitting out
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: blistein ($124.48 in chips) 
+Seat 4: magzi777 ($174.53 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+blistein: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: raises $1.45 to $2.45
+blistein: folds 
+magzi777: folds 
+Uncalled bet ($1.45) returned to Burlica2013
+Burlica2013 collected $2.50 from pot
+ilian_ivanov88 leaves the table
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: ilian_ivanov88
+Seat 3: Amara2009
+Seat 6: enisgashi
+Seat 1: blistein (small blind) folded before Flop
+Seat 4: magzi777 (big blind) folded before Flop
+Seat 5: Burlica2013 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254591864929:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:15:09 WET [2025/01/28 12:15:09 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 4: magzi777 ($173.53 in chips) is sitting out
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 5: Burlica2013 ($101.50 in chips) 
+sta$igk: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+magzi777 leaves the table
+sta$igk: raises $1.50 to $2.50
+Burlica2013: calls $1.50
+*** FLOP *** [Qd 3d 5h]
+Burlica2013: checks 
+sta$igk: checks 
+*** TURN *** [Qd 3d 5h] [Kd]
+BoyLoc0 joins the table at seat #2 
+Burlica2013: bets $2.38
+RAidakCo joins the table at seat #4 
+sta$igk: calls $2.38
+*** RIVER *** [Qd 3d 5h Kd] [2c]
+Burlica2013: checks 
+sta$igk: checks 
+*** SHOW DOWN ***
+Burlica2013: shows [2h Ah] (a pair of Deuces)
+sta$igk: mucks hand 
+Burlica2013 collected $9.27 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [Qd 3d 5h Kd 2c]
+Seat 3: Amara2009
+Seat 4: magzi777
+Seat 6: enisgashi
+Seat 1: sta$igk (button) (small blind) mucked
+Seat 5: Burlica2013 (big blind) showed [2h Ah] and won ($9.27) with a pair of Deuces
+
+
+
+PokerStars Hand #254591878847:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:16:18 WET [2025/01/28 12:16:18 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 4: RAidakCo ($100 in chips) is sitting out
+Seat 6: enisgashi ($55.23 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 5: Burlica2013 ($105.89 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: posts big blind $1
+RAidakCo: sits out 
+*** HOLE CARDS ***
+Burlica2013: raises $1.45 to $2.45
+sta$igk: folds 
+BoyLoc0: raises $10.55 to $13
+Burlica2013: folds 
+Uncalled bet ($10.55) returned to BoyLoc0
+BoyLoc0 collected $5.40 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 3: Amara2009
+Seat 4: RAidakCo
+Seat 6: enisgashi
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) collected ($5.40)
+Seat 5: Burlica2013 (button) folded before Flop
+
+
+
+PokerStars Hand #254591881336:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:16:30 WET [2025/01/28 12:16:30 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: BoyLoc0 ($102.95 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($103.44 in chips) 
+Seat 6: enisgashi ($55.23 in chips) 
+BoyLoc0: posts small blind $0.50
+RAidakCo: posts big blind $1
+enisgashi: posts small & big blinds $1.50
+*** HOLE CARDS ***
+Burlica2013: folds 
+enisgashi: checks 
+sta$igk: folds 
+BoyLoc0: calls $0.50
+RAidakCo: raises $5 to $6
+enisgashi: calls $5
+BoyLoc0: folds 
+*** FLOP *** [8s 4h Td]
+RAidakCo: checks 
+enisgashi: checks 
+*** TURN *** [8s 4h Td] [5h]
+RAidakCo: checks 
+enisgashi: checks 
+*** RIVER *** [8s 4h Td 5h] [Qh]
+RAidakCo: checks 
+enisgashi: bets $11
+RAidakCo: folds 
+Uncalled bet ($11) returned to enisgashi
+enisgashi collected $12.82 from pot
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.68 
+Board [8s 4h Td 5h Qh]
+Seat 3: Amara2009
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 4: RAidakCo (big blind) folded on the River
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi collected ($12.82)
+
+
+
+PokerStars Hand #254591889680:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:17:09 WET [2025/01/28 12:17:09 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: BoyLoc0 ($101.95 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($103.44 in chips) 
+Seat 6: enisgashi ($61.55 in chips) 
+RAidakCo: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: calls $1
+RAidakCo: calls $0.50
+Burlica2013: checks 
+*** FLOP *** [2d Ac Kh]
+RAidakCo: checks 
+Burlica2013: checks 
+enisgashi: checks 
+BoyLoc0: checks 
+*** TURN *** [2d Ac Kh] [5s]
+RAidakCo: checks 
+Burlica2013: checks 
+enisgashi: checks 
+BoyLoc0: checks 
+*** RIVER *** [2d Ac Kh 5s] [Ks]
+RAidakCo: checks 
+Burlica2013: checks 
+enisgashi: bets $7
+BoyLoc0: folds 
+RAidakCo: folds 
+Burlica2013: folds 
+Uncalled bet ($7) returned to enisgashi
+enisgashi collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [2d Ac Kh 5s Ks]
+Seat 3: Amara2009
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded on the River
+Seat 4: RAidakCo (small blind) folded on the River
+Seat 5: Burlica2013 (big blind) folded on the River
+Seat 6: enisgashi collected ($3.80)
+
+
+
+PokerStars Hand #254591911253:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:18:50 WET [2025/01/28 12:18:50 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: BoyLoc0 ($100.95 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($102.44 in chips) 
+Seat 6: enisgashi ($64.35 in chips) 
+Burlica2013: posts small blind $0.50
+enisgashi: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+BoyLoc0: folds 
+RAidakCo: folds 
+Burlica2013: folds 
+Uncalled bet ($0.50) returned to enisgashi
+enisgashi collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Amara2009
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) folded before Flop (didn't bet)
+Seat 5: Burlica2013 (small blind) folded before Flop
+Seat 6: enisgashi (big blind) collected ($1)
+
+
+
+PokerStars Hand #254591916144:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:19:12 WET [2025/01/28 12:19:12 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 3: Amara2009 ($0 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: BoyLoc0 ($100.95 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($101.94 in chips) 
+Seat 6: enisgashi ($64.85 in chips) 
+enisgashi: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+RAidakCo: folds 
+Burlica2013: raises $1.45 to $2.45
+enisgashi: calls $1.95
+sta$igk: folds 
+*** FLOP *** [6s Ac Jc]
+enisgashi: bets $4
+Amara2009 leaves the table
+magzi777 joins the table at seat #3 
+Burlica2013: folds 
+Uncalled bet ($4) returned to enisgashi
+enisgashi collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [6s Ac Jc]
+Seat 3: Amara2009
+Seat 1: sta$igk (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 (button) folded on the Flop
+Seat 6: enisgashi (small blind) collected ($5.60)
+
+
+
+PokerStars Hand #254591928820:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:20:09 WET [2025/01/28 12:20:09 ET]
+Table 'Deiphobus' 6-max Seat #6 is the button
+Seat 3: magzi777 ($173.53 in chips) is sitting out
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: BoyLoc0 ($100.95 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($68 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: posts big blind $1
+magzi777: sits out 
+*** HOLE CARDS ***
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: checks 
+*** FLOP *** [As Js Jc]
+BoyLoc0: checks 
+enisgashi: bets $14
+BoyLoc0: folds 
+Uncalled bet ($14) returned to enisgashi
+enisgashi collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [As Js Jc]
+Seat 3: magzi777
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) folded on the Flop
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi (button) collected ($2.38)
+
+
+
+PokerStars Hand #254591937672:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:20:48 WET [2025/01/28 12:20:48 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: magzi777 ($173.53 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($69.38 in chips) 
+BoyLoc0: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: calls $0.50
+magzi777: checks 
+*** FLOP *** [8h 5d 3h]
+BoyLoc0: checks 
+magzi777: checks 
+enisgashi: checks 
+*** TURN *** [8h 5d 3h] [3s]
+BoyLoc0: checks 
+magzi777: bets $2.14
+enisgashi: calls $2.14
+BoyLoc0: folds 
+*** RIVER *** [8h 5d 3h 3s] [4c]
+magzi777: checks 
+enisgashi: checks 
+*** SHOW DOWN ***
+magzi777: shows [9h 2d] (a pair of Threes)
+enisgashi: shows [Kd 2c] (a pair of Threes - King kicker)
+enisgashi collected $6.92 from pot
+*** SUMMARY ***
+Total pot $7.28 | Rake $0.36 
+Board [8h 5d 3h 3s 4c]
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) folded on the Turn
+Seat 3: magzi777 (big blind) showed [9h 2d] and lost with a pair of Threes
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi showed [Kd 2c] and won ($6.92) with a pair of Threes
+
+
+
+PokerStars Hand #254591952752:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:21:53 WET [2025/01/28 12:21:53 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: magzi777 ($170.39 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($73.16 in chips) 
+magzi777: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: raises $3 to $4
+enisgashi: calls $3
+*** FLOP *** [Tc 9h 6s]
+RAidakCo: bets $6.06
+enisgashi: calls $6.06
+*** TURN *** [Tc 9h 6s] [Ad]
+RAidakCo: bets $9.80
+enisgashi: calls $9.80
+*** RIVER *** [Tc 9h 6s Ad] [Jc]
+RAidakCo: checks 
+enisgashi: checks 
+*** SHOW DOWN ***
+RAidakCo: shows [Td Qc] (a pair of Tens)
+enisgashi: shows [Qd 8d] (a straight, Eight to Queen)
+enisgashi collected $38.21 from pot
+*** SUMMARY ***
+Total pot $40.22 | Rake $2.01 
+Board [Tc 9h 6s Ad Jc]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: magzi777 (small blind) folded before Flop
+Seat 4: RAidakCo (big blind) showed [Td Qc] and lost with a pair of Tens
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi showed [Qd 8d] and won ($38.21) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #254591961466:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:22:31 WET [2025/01/28 12:22:31 ET]
+Table 'Deiphobus' 6-max Seat #3 is the button
+Seat 1: sta$igk ($100 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: magzi777 ($169.89 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($91.51 in chips) 
+RAidakCo: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+enisgashi: calls $1
+sta$igk: raises $3 to $4
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $3
+*** FLOP *** [3c Jd 8c]
+enisgashi: checks 
+sta$igk: bets $2.98
+enisgashi: calls $2.98
+*** TURN *** [3c Jd 8c] [9d]
+enisgashi: bets $13
+sta$igk: raises $80.02 to $93.02 and is all-in
+enisgashi: folds 
+Uncalled bet ($80.02) returned to sta$igk
+sta$igk collected $39.39 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $41.46 | Rake $2.07 
+Board [3c Jd 8c 9d]
+Seat 1: sta$igk collected ($39.39)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: Burlica2013 (big blind) folded before Flop
+Seat 6: enisgashi folded on the Turn
+
+
+
+PokerStars Hand #254591978082:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:23:42 WET [2025/01/28 12:23:42 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 1: sta$igk ($119.41 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: magzi777 ($169.89 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($71.53 in chips) 
+Burlica2013: posts small blind $0.50
+enisgashi: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: raises $1.50 to $2.50
+Burlica2013: folds 
+enisgashi: calls $1.50
+*** FLOP *** [Qc 5d 7h]
+enisgashi: checks 
+RAidakCo: bets $1.72
+enisgashi: calls $1.72
+*** TURN *** [Qc 5d 7h] [6d]
+enisgashi: checks 
+RAidakCo: checks 
+*** RIVER *** [Qc 5d 7h 6d] [Jd]
+enisgashi: bets $7
+RAidakCo: folds 
+Uncalled bet ($7) returned to enisgashi
+enisgashi collected $8.49 from pot
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [Qc 5d 7h 6d Jd]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) folded on the River
+Seat 5: Burlica2013 (small blind) folded before Flop
+Seat 6: enisgashi (big blind) collected ($8.49)
+
+
+
+PokerStars Hand #254591992523:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:24:43 WET [2025/01/28 12:24:43 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 1: sta$igk ($119.41 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: magzi777 ($169.89 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($75.80 in chips) 
+enisgashi: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $0.50
+sta$igk: checks 
+*** FLOP *** [4c 9d 7s]
+enisgashi: checks 
+sta$igk: checks 
+*** TURN *** [4c 9d 7s] [3s]
+enisgashi: checks 
+sta$igk: bets $1.14
+enisgashi: raises $1.14 to $2.28
+sta$igk: folds 
+Uncalled bet ($1.14) returned to enisgashi
+enisgashi collected $4.07 from pot
+*** SUMMARY ***
+Total pot $4.28 | Rake $0.21 
+Board [4c 9d 7s 3s]
+Seat 1: sta$igk (big blind) folded on the Turn
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 6: enisgashi (small blind) collected ($4.07)
+
+
+
+PokerStars Hand #254592004736:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:25:34 WET [2025/01/28 12:25:34 ET]
+Table 'Deiphobus' 6-max Seat #6 is the button
+Seat 1: sta$igk ($117.27 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: magzi777 ($169.89 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($77.73 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+magzi777: folds 
+RAidakCo: raises $1.20 to $2.20
+Burlica2013: folds 
+enisgashi: calls $2.20
+sta$igk: folds 
+BoyLoc0: raises $12.80 to $15
+RAidakCo: folds 
+enisgashi: folds 
+Uncalled bet ($12.80) returned to BoyLoc0
+BoyLoc0 collected $7.10 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.10 | Rake $0 
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) collected ($7.10)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi (button) folded before Flop
+
+
+
+PokerStars Hand #254592011491:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:26:02 WET [2025/01/28 12:26:02 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 1: sta$igk ($116.77 in chips) 
+Seat 2: BoyLoc0 ($104.90 in chips) 
+Seat 3: magzi777 ($169.89 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($75.53 in chips) 
+BoyLoc0: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: folds 
+Burlica2013: raises $1.20 to $2.20
+enisgashi: calls $2.20
+sta$igk: folds 
+BoyLoc0: raises $11.80 to $14
+magzi777: raises $155.89 to $169.89 and is all-in
+Burlica2013: folds 
+enisgashi: calls $73.33 and is all-in
+BoyLoc0: folds 
+Uncalled bet ($94.36) returned to magzi777
+*** FLOP *** [Qd 5h 2h]
+*** TURN *** [Qd 5h 2h] [Qh]
+*** RIVER *** [Qd 5h 2h Qh] [6d]
+*** SHOW DOWN ***
+magzi777: shows [9s 9c] (two pair, Queens and Nines)
+enisgashi: shows [Td Jh] (a pair of Queens)
+magzi777 collected $164.76 from pot
+*** SUMMARY ***
+Total pot $167.26 | Rake $2.50 
+Board [Qd 5h 2h Qh 6d]
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: magzi777 (big blind) showed [9s 9c] and won ($164.76) with two pair, Queens and Nines
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop
+Seat 6: enisgashi showed [Td Jh] and lost with a pair of Queens
+
+
+
+PokerStars Hand #254592024581:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:26:56 WET [2025/01/28 12:26:56 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($116.77 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: magzi777 ($259.12 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+magzi777: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: folds 
+Uncalled bet ($0.50) returned to RAidakCo
+RAidakCo collected $1 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: enisgashi
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: magzi777 (small blind) folded before Flop
+Seat 4: RAidakCo (big blind) collected ($1)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592031849:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:27:26 WET [2025/01/28 12:27:26 ET]
+Table 'Deiphobus' 6-max Seat #3 is the button
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($116.77 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: magzi777 ($258.62 in chips) 
+Seat 4: RAidakCo ($100.50 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+RAidakCo: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: raises $2 to $3
+Burlica2013: calls $2
+*** FLOP *** [4c 6d Kd]
+RAidakCo: bets $1.88
+Burlica2013: calls $1.88
+*** TURN *** [4c 6d Kd] [4d]
+RAidakCo: checks 
+Burlica2013: checks 
+*** RIVER *** [4c 6d Kd 4d] [7d]
+RAidakCo: checks 
+Burlica2013: checks 
+*** SHOW DOWN ***
+RAidakCo: shows [9h Ks] (two pair, Kings and Fours)
+Burlica2013: mucks hand 
+RAidakCo collected $9.27 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [4c 6d Kd 4d 7d]
+Seat 6: enisgashi
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) showed [9h Ks] and won ($9.27) with two pair, Kings and Fours
+Seat 5: Burlica2013 (big blind) mucked
+
+
+
+PokerStars Hand #254592041067:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:28:03 WET [2025/01/28 12:28:03 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 1: sta$igk ($116.77 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: magzi777 ($258.62 in chips) 
+Seat 4: RAidakCo ($104.89 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($55.23 in chips) 
+Burlica2013: posts small blind $0.50
+enisgashi: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: raises $1.50 to $2.50
+Burlica2013: folds 
+enisgashi: calls $1.50
+*** FLOP *** [6c Kc 9c]
+enisgashi: checks 
+RAidakCo: checks 
+*** TURN *** [6c Kc 9c] [2h]
+enisgashi: checks 
+RAidakCo: checks 
+*** RIVER *** [6c Kc 9c 2h] [3s]
+enisgashi: checks 
+RAidakCo: checks 
+*** SHOW DOWN ***
+enisgashi: shows [8c 2s] (a pair of Deuces)
+RAidakCo: mucks hand 
+enisgashi collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [6c Kc 9c 2h 3s]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) mucked
+Seat 5: Burlica2013 (small blind) folded before Flop
+Seat 6: enisgashi (big blind) showed [8c 2s] and won ($5.22) with a pair of Deuces
+
+
+
+PokerStars Hand #254592051537:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:28:46 WET [2025/01/28 12:28:46 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 1: sta$igk ($116.77 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: magzi777 ($258.62 in chips) 
+Seat 4: RAidakCo ($102.39 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($57.95 in chips) 
+enisgashi: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+magzi777: raises $2 to $3
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $2.50
+sta$igk: folds 
+*** FLOP *** [2d Ks 5d]
+enisgashi: checks 
+magzi777: bets $4.99
+enisgashi: calls $4.99
+*** TURN *** [2d Ks 5d] [9s]
+enisgashi: checks 
+magzi777: bets $20.16
+enisgashi: folds 
+Uncalled bet ($20.16) returned to magzi777
+magzi777 collected $16.13 from pot
+*** SUMMARY ***
+Total pot $16.98 | Rake $0.85 
+Board [2d Ks 5d 9s]
+Seat 1: sta$igk (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 collected ($16.13)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 6: enisgashi (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254592066255:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:29:46 WET [2025/01/28 12:29:46 ET]
+Table 'Deiphobus' 6-max Seat #6 is the button
+Seat 1: sta$igk ($115.77 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: magzi777 ($266.76 in chips) 
+Seat 4: RAidakCo ($102.39 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($49.96 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+magzi777: folds 
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: checks 
+*** FLOP *** [3s Kd 5s]
+BoyLoc0: checks 
+enisgashi: checks 
+*** TURN *** [3s Kd 5s] [As]
+BoyLoc0: checks 
+enisgashi: checks 
+*** RIVER *** [3s Kd 5s As] [Qh]
+BoyLoc0: bets $1.19
+enisgashi: folds 
+Uncalled bet ($1.19) returned to BoyLoc0
+BoyLoc0 collected $2.38 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [3s Kd 5s As Qh]
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) collected ($2.38)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi (button) folded on the River
+
+
+
+PokerStars Hand #254592076120:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:30:23 WET [2025/01/28 12:30:23 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 1: sta$igk ($115.27 in chips) 
+Seat 2: BoyLoc0 ($101.38 in chips) 
+Seat 3: magzi777 ($266.76 in chips) 
+Seat 4: RAidakCo ($102.39 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($48.96 in chips) 
+BoyLoc0: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: checks 
+*** FLOP *** [9h Th Jd]
+magzi777: checks 
+enisgashi: checks 
+*** TURN *** [9h Th Jd] [2d]
+magzi777: bets $1.57
+enisgashi: calls $1.57
+*** RIVER *** [9h Th Jd 2d] [Ks]
+magzi777: checks 
+enisgashi: checks 
+*** SHOW DOWN ***
+magzi777: shows [Ts 6d] (a pair of Tens)
+enisgashi: mucks hand 
+magzi777 collected $5.36 from pot
+*** SUMMARY ***
+Total pot $5.64 | Rake $0.28 
+Board [9h Th Jd 2d Ks]
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: magzi777 (big blind) showed [Ts 6d] and won ($5.36) with a pair of Tens
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi mucked
+
+
+
+PokerStars Hand #254592084950:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:30:58 WET [2025/01/28 12:30:58 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 1: sta$igk ($115.27 in chips) 
+Seat 2: BoyLoc0 ($100.88 in chips) 
+Seat 3: magzi777 ($269.55 in chips) 
+Seat 4: RAidakCo ($102.39 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($46.39 in chips) 
+magzi777: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+enisgashi: calls $1
+sta$igk: raises $3 to $4
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: folds 
+enisgashi: calls $3
+*** FLOP *** [Ks Js 3d]
+enisgashi: checks 
+sta$igk: bets $2.98
+enisgashi: folds 
+Uncalled bet ($2.98) returned to sta$igk
+sta$igk collected $9.02 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Ks Js 3d]
+Seat 1: sta$igk collected ($9.02)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: magzi777 (small blind) folded before Flop
+Seat 4: RAidakCo (big blind) folded before Flop
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi folded on the Flop
+
+
+
+PokerStars Hand #254592093781:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:31:33 WET [2025/01/28 12:31:33 ET]
+Table 'Deiphobus' 6-max Seat #3 is the button
+Seat 1: sta$igk ($120.29 in chips) 
+Seat 2: BoyLoc0 ($100.88 in chips) 
+Seat 3: magzi777 ($269.05 in chips) 
+Seat 4: RAidakCo ($101.39 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($42.39 in chips) 
+RAidakCo: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+enisgashi: calls $1
+sta$igk: raises $3 to $4
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: calls $3.50
+Burlica2013: folds 
+enisgashi: calls $3
+*** FLOP *** [Js 7h Jc]
+RAidakCo: checks 
+enisgashi: checks 
+sta$igk: bets $3.09
+RAidakCo: calls $3.09
+enisgashi: calls $3.09
+*** TURN *** [Js 7h Jc] [2d]
+RAidakCo: checks 
+enisgashi: checks 
+sta$igk: checks 
+*** RIVER *** [Js 7h Jc 2d] [8s]
+RAidakCo: checks 
+enisgashi: checks 
+sta$igk: checks 
+*** SHOW DOWN ***
+RAidakCo: shows [Ac Td] (a pair of Jacks)
+enisgashi: mucks hand 
+sta$igk: shows [As Ah] (two pair, Aces and Jacks)
+sta$igk collected $21.16 from pot
+*** SUMMARY ***
+Total pot $22.27 | Rake $1.11 
+Board [Js 7h Jc 2d 8s]
+Seat 1: sta$igk showed [As Ah] and won ($21.16) with two pair, Aces and Jacks
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) showed [Ac Td] and lost with a pair of Jacks
+Seat 5: Burlica2013 (big blind) folded before Flop
+Seat 6: enisgashi mucked
+
+
+
+PokerStars Hand #254592122828:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:33:24 WET [2025/01/28 12:33:24 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 1: sta$igk ($134.36 in chips) 
+Seat 2: BoyLoc0 ($100.88 in chips) 
+Seat 3: magzi777 ($269.05 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($35.30 in chips) 
+Burlica2013: posts small blind $0.50
+enisgashi: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: raises $1.50 to $2.50
+Burlica2013: folds 
+enisgashi: calls $1.50
+*** FLOP *** [Kc 3h 8d]
+enisgashi: checks 
+RAidakCo: bets $1.72
+enisgashi: calls $1.72
+*** TURN *** [Kc 3h 8d] [6d]
+enisgashi: checks 
+RAidakCo: checks 
+*** RIVER *** [Kc 3h 8d 6d] [5h]
+enisgashi: checks 
+RAidakCo: checks 
+*** SHOW DOWN ***
+enisgashi: shows [5d Qh] (a pair of Fives)
+RAidakCo: mucks hand 
+enisgashi collected $8.49 from pot
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [Kc 3h 8d 6d 5h]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) mucked
+Seat 5: Burlica2013 (small blind) folded before Flop
+Seat 6: enisgashi (big blind) showed [5d Qh] and won ($8.49) with a pair of Fives
+
+
+
+PokerStars Hand #254592131581:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:33:57 WET [2025/01/28 12:33:57 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 1: sta$igk ($134.36 in chips) 
+Seat 2: BoyLoc0 ($100.88 in chips) 
+Seat 3: magzi777 ($269.05 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($39.57 in chips) 
+enisgashi: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: folds 
+Burlica2013: raises $1.45 to $2.45
+enisgashi: calls $1.95
+sta$igk: folds 
+*** FLOP *** [Jc 4c Qd]
+enisgashi: checks 
+Burlica2013: bets $1.85
+enisgashi: calls $1.85
+*** TURN *** [Jc 4c Qd] [8h]
+enisgashi: checks 
+Burlica2013: checks 
+*** RIVER *** [Jc 4c Qd 8h] [Ts]
+enisgashi: checks 
+Burlica2013: checks 
+*** SHOW DOWN ***
+enisgashi: shows [5c 6s] (high card Queen)
+Burlica2013: shows [Ks 4s] (a pair of Fours)
+Burlica2013 collected $9.12 from pot
+*** SUMMARY ***
+Total pot $9.60 | Rake $0.48 
+Board [Jc 4c Qd 8h Ts]
+Seat 1: sta$igk (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 (button) showed [Ks 4s] and won ($9.12) with a pair of Fours
+Seat 6: enisgashi (small blind) showed [5c 6s] and lost with high card Queen
+
+
+
+PokerStars Hand #254592140191:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:34:30 WET [2025/01/28 12:34:30 ET]
+Table 'Deiphobus' 6-max Seat #6 is the button
+Seat 1: sta$igk ($133.36 in chips) 
+Seat 2: BoyLoc0 ($100.88 in chips) 
+Seat 3: magzi777 ($269.05 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($104.82 in chips) 
+Seat 6: enisgashi ($35.27 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+magzi777: folds 
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: checks 
+*** FLOP *** [4s 8c Kd]
+BoyLoc0: checks 
+enisgashi: checks 
+*** TURN *** [4s 8c Kd] [7s]
+BoyLoc0: checks 
+enisgashi: checks 
+*** RIVER *** [4s 8c Kd 7s] [Tc]
+BoyLoc0: checks 
+enisgashi: checks 
+*** SHOW DOWN ***
+BoyLoc0: shows [3d 9h] (high card King)
+enisgashi: shows [3c 4h] (a pair of Fours)
+enisgashi collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [4s 8c Kd 7s Tc]
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) showed [3d 9h] and lost with high card King
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi (button) showed [3c 4h] and won ($2.38) with a pair of Fours
+
+
+
+PokerStars Hand #254592147742:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:34:59 WET [2025/01/28 12:34:59 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 1: sta$igk ($132.86 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: magzi777 ($269.05 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($104.82 in chips) 
+Seat 6: enisgashi ($36.65 in chips) 
+BoyLoc0: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: folds 
+Burlica2013: raises $1.20 to $2.20
+enisgashi: calls $2.20
+sta$igk: folds 
+BoyLoc0: raises $11.80 to $14
+magzi777: folds 
+Burlica2013: folds 
+enisgashi: calls $11.80
+*** FLOP *** [8d 3c Jh]
+BoyLoc0: checks 
+enisgashi: bets $22.65 and is all-in
+BoyLoc0: calls $22.65
+*** TURN *** [8d 3c Jh] [6c]
+*** RIVER *** [8d 3c Jh 6c] [2h]
+*** SHOW DOWN ***
+BoyLoc0: shows [Kc Kh] (a pair of Kings)
+enisgashi: shows [Ah 9c] (high card Ace)
+BoyLoc0 collected $74 from pot
+*** SUMMARY ***
+Total pot $76.50 | Rake $2.50 
+Board [8d 3c Jh 6c 2h]
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) showed [Kc Kh] and won ($74) with a pair of Kings
+Seat 3: magzi777 (big blind) folded before Flop
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop
+Seat 6: enisgashi showed [Ah 9c] and lost with high card Ace
+
+
+
+PokerStars Hand #254592162172:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:35:53 WET [2025/01/28 12:35:53 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($132.86 in chips) 
+Seat 2: BoyLoc0 ($137.35 in chips) 
+Seat 3: magzi777 ($268.05 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($102.62 in chips) 
+magzi777: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: raises $2 to $3
+RAidakCo: calls $2
+*** FLOP *** [Qd Js 7s]
+magzi777: checks 
+RAidakCo: checks 
+*** TURN *** [Qd Js 7s] [9h]
+magzi777: bets $11.40
+RAidakCo: folds 
+Uncalled bet ($11.40) returned to magzi777
+magzi777 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Qd Js 7s 9h]
+Seat 6: enisgashi
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: magzi777 (small blind) collected ($5.70)
+Seat 4: RAidakCo (big blind) folded on the Turn
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592171601:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:36:29 WET [2025/01/28 12:36:29 ET]
+Table 'Deiphobus' 6-max Seat #3 is the button
+Seat 5: Burlica2013 ($102.62 in chips) is sitting out
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($132.86 in chips) 
+Seat 2: BoyLoc0 ($137.35 in chips) 
+Seat 3: magzi777 ($270.75 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+RAidakCo: posts small blind $0.50
+Burlica2013: is sitting out 
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+magzi777: raises $1.50 to $2.50
+RAidakCo: raises $8.50 to $11
+sta$igk: folds 
+magzi777: folds 
+Uncalled bet ($8.50) returned to RAidakCo
+RAidakCo collected $6 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 5: Burlica2013
+Seat 6: enisgashi
+Seat 1: sta$igk (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 (button) folded before Flop
+Seat 4: RAidakCo (small blind) collected ($6)
+
+
+
+PokerStars Hand #254592176722:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:36:48 WET [2025/01/28 12:36:48 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 5: Burlica2013 ($102.62 in chips) is sitting out
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($131.86 in chips) 
+Seat 2: BoyLoc0 ($137.35 in chips) 
+Seat 3: magzi777 ($268.25 in chips) 
+Seat 4: RAidakCo ($103.50 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+magzi777: folds 
+RAidakCo: raises $1.50 to $2.50
+sta$igk: folds 
+BoyLoc0: calls $1.50
+*** FLOP *** [Ad Kc 7c]
+BoyLoc0: checks 
+RAidakCo: bets $7.83
+BoyLoc0: folds 
+Uncalled bet ($7.83) returned to RAidakCo
+RAidakCo collected $5.22 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Ad Kc 7c]
+Seat 5: Burlica2013
+Seat 6: enisgashi
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) folded on the Flop
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) collected ($5.22)
+
+
+
+PokerStars Hand #254592181381:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:37:06 WET [2025/01/28 12:37:06 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 5: Burlica2013 ($102.62 in chips) is sitting out
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($131.36 in chips) 
+Seat 2: BoyLoc0 ($134.85 in chips) 
+Seat 3: magzi777 ($268.25 in chips) 
+Seat 4: RAidakCo ($106.22 in chips) 
+BoyLoc0: posts small blind $0.50
+magzi777: posts big blind $1
+Burlica2013: sits out 
+*** HOLE CARDS ***
+RAidakCo: folds 
+sta$igk: folds 
+BoyLoc0: raises $2 to $3
+magzi777: folds 
+Uncalled bet ($2) returned to BoyLoc0
+BoyLoc0 collected $2 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: Burlica2013
+Seat 6: enisgashi
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) collected ($2)
+Seat 3: magzi777 (big blind) folded before Flop
+Seat 4: RAidakCo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592184005:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:37:16 WET [2025/01/28 12:37:16 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 5: Burlica2013 ($102.62 in chips) is sitting out
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($131.36 in chips) 
+Seat 2: BoyLoc0 ($135.85 in chips) 
+Seat 3: magzi777 ($267.25 in chips) 
+Seat 4: RAidakCo ($106.22 in chips) 
+magzi777: posts small blind $0.50
+RAidakCo: posts big blind $1
+Burlica2013: sits out 
+*** HOLE CARDS ***
+sta$igk: folds 
+BoyLoc0: raises $1.50 to $2.50
+magzi777: folds 
+RAidakCo: calls $1.50
+*** FLOP *** [Tc Js 5h]
+RAidakCo: checks 
+BoyLoc0: bets $1.72
+RAidakCo: folds 
+Uncalled bet ($1.72) returned to BoyLoc0
+BoyLoc0 collected $5.22 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Tc Js 5h]
+Seat 5: Burlica2013
+Seat 6: enisgashi
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) collected ($5.22)
+Seat 3: magzi777 (small blind) folded before Flop
+Seat 4: RAidakCo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254592190784:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:37:41 WET [2025/01/28 12:37:41 ET]
+Table 'Deiphobus' 6-max Seat #3 is the button
+Seat 1: sta$igk ($131.36 in chips) 
+Seat 2: BoyLoc0 ($138.57 in chips) 
+Seat 3: magzi777 ($266.75 in chips) 
+Seat 4: RAidakCo ($103.72 in chips) 
+Seat 5: Burlica2013 ($102.62 in chips) 
+Seat 6: enisgashi ($55.23 in chips) 
+RAidakCo: posts small blind $0.50
+Burlica2013: posts big blind $1
+enisgashi: posts small & big blinds $1.50
+*** HOLE CARDS ***
+enisgashi: checks 
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: raises $14 to $15
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $14
+*** FLOP *** [3s Jh 5d]
+enisgashi: checks 
+magzi777: bets $15.20
+enisgashi: folds 
+Uncalled bet ($15.20) returned to magzi777
+magzi777 collected $30.40 from pot
+*** SUMMARY ***
+Total pot $32 | Rake $1.60 
+Board [3s Jh 5d]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 (button) collected ($30.40)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: Burlica2013 (big blind) folded before Flop
+Seat 6: enisgashi folded on the Flop
+
+
+
+PokerStars Hand #254592201073:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:38:20 WET [2025/01/28 12:38:20 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 1: sta$igk ($131.36 in chips) 
+Seat 2: BoyLoc0 ($138.57 in chips) 
+Seat 3: magzi777 ($282.15 in chips) 
+Seat 4: RAidakCo ($103.22 in chips) 
+Seat 5: Burlica2013 ($101.62 in chips) 
+Seat 6: enisgashi ($39.73 in chips) 
+Burlica2013: posts small blind $0.50
+enisgashi: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+BoyLoc0: raises $1.50 to $2.50
+magzi777: folds 
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $1.50
+*** FLOP *** [Ac 8c Td]
+enisgashi: checks 
+BoyLoc0: bets $3.92
+enisgashi: calls $3.92
+*** TURN *** [Ac 8c Td] [8d]
+enisgashi: checks 
+BoyLoc0: bets $9.50
+enisgashi: folds 
+Uncalled bet ($9.50) returned to BoyLoc0
+BoyLoc0 collected $12.67 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [Ac 8c Td 8d]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 collected ($12.67)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) folded before Flop (didn't bet)
+Seat 5: Burlica2013 (small blind) folded before Flop
+Seat 6: enisgashi (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254592208096:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:38:46 WET [2025/01/28 12:38:46 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 1: sta$igk ($131.36 in chips) 
+Seat 2: BoyLoc0 ($144.82 in chips) 
+Seat 3: magzi777 ($282.15 in chips) 
+Seat 4: RAidakCo ($103.22 in chips) 
+Seat 5: Burlica2013 ($101.12 in chips) 
+Seat 6: enisgashi ($33.31 in chips) 
+enisgashi: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $0.50
+sta$igk: raises $3 to $4
+enisgashi: calls $3
+*** FLOP *** [9d Qh 5c]
+enisgashi: checks 
+sta$igk: bets $2.51
+enisgashi: calls $2.51
+*** TURN *** [9d Qh 5c] [Tc]
+enisgashi: checks 
+sta$igk: checks 
+*** RIVER *** [9d Qh 5c Tc] [Qd]
+enisgashi: checks 
+sta$igk: bets $9.28
+enisgashi: folds 
+Uncalled bet ($9.28) returned to sta$igk
+sta$igk collected $12.37 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.02 | Rake $0.65 
+Board [9d Qh 5c Tc Qd]
+Seat 1: sta$igk (big blind) collected ($12.37)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 6: enisgashi (small blind) folded on the River
+
+
+
+PokerStars Hand #254592222936:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:39:42 WET [2025/01/28 12:39:42 ET]
+Table 'Deiphobus' 6-max Seat #6 is the button
+Seat 1: sta$igk ($137.22 in chips) 
+Seat 2: BoyLoc0 ($144.82 in chips) 
+Seat 3: magzi777 ($282.15 in chips) 
+Seat 4: RAidakCo ($103.22 in chips) 
+Seat 5: Burlica2013 ($101.12 in chips) 
+Seat 6: enisgashi ($26.80 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+magzi777: folds 
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: checks 
+*** FLOP *** [9h 5d Kd]
+BoyLoc0: checks 
+enisgashi: checks 
+*** TURN *** [9h 5d Kd] [Jc]
+BoyLoc0: checks 
+enisgashi: bets $3
+BoyLoc0: folds 
+Uncalled bet ($3) returned to enisgashi
+enisgashi collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [9h 5d Kd Jc]
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) folded on the Turn
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi (button) collected ($2.38)
+
+
+
+PokerStars Hand #254592232158:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:40:17 WET [2025/01/28 12:40:17 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 1: sta$igk ($136.72 in chips) 
+Seat 2: BoyLoc0 ($143.82 in chips) 
+Seat 3: magzi777 ($282.15 in chips) 
+Seat 4: RAidakCo ($103.22 in chips) 
+Seat 5: Burlica2013 ($101.12 in chips) 
+Seat 6: enisgashi ($28.18 in chips) 
+BoyLoc0: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: calls $0.50
+magzi777: checks 
+*** FLOP *** [3c 9c 6s]
+BoyLoc0: bets $2.14
+magzi777: folds 
+enisgashi: raises $2.14 to $4.28
+BoyLoc0: raises $138.54 to $142.82 and is all-in
+enisgashi: calls $22.90 and is all-in
+Uncalled bet ($115.64) returned to BoyLoc0
+*** TURN *** [3c 9c 6s] [4h]
+*** RIVER *** [3c 9c 6s 4h] [8d]
+*** SHOW DOWN ***
+BoyLoc0: shows [9d 3d] (two pair, Nines and Threes)
+enisgashi: shows [6c Jc] (a pair of Sixes)
+BoyLoc0 collected $54.86 from pot
+enisgashi cashed out the hand for $25.69 | Cash Out Fee $0.52
+*** SUMMARY ***
+Total pot $57.36 | Rake $2.50 
+Board [3c 9c 6s 4h 8d]
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) showed [9d 3d] and won ($54.86) with two pair, Nines and Threes
+Seat 3: magzi777 (big blind) folded on the Flop
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi showed [6c Jc] and lost with a pair of Sixes (cashed out).
+
+
+
+PokerStars Hand #254592241533:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:40:51 WET [2025/01/28 12:40:51 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 1: sta$igk ($136.72 in chips) 
+Seat 2: BoyLoc0 ($170.50 in chips) 
+Seat 3: magzi777 ($281.15 in chips) 
+Seat 4: RAidakCo ($103.22 in chips) 
+Seat 5: Burlica2013 ($101.12 in chips) 
+Seat 6: enisgashi ($25.69 in chips) 
+magzi777: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: calls $0.50
+RAidakCo: raises $5 to $6
+enisgashi: calls $5
+magzi777: folds 
+*** FLOP *** [6h Js 9h]
+RAidakCo: bets $4.08
+enisgashi: calls $4.08
+*** TURN *** [6h Js 9h] [As]
+RAidakCo: checks 
+enisgashi: checks 
+*** RIVER *** [6h Js 9h As] [5c]
+RAidakCo: checks 
+enisgashi: checks 
+*** SHOW DOWN ***
+RAidakCo: shows [Th Tc] (a pair of Tens)
+enisgashi: mucks hand 
+RAidakCo collected $20.10 from pot
+*** SUMMARY ***
+Total pot $21.16 | Rake $1.06 
+Board [6h Js 9h As 5c]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: magzi777 (small blind) folded before Flop
+Seat 4: RAidakCo (big blind) showed [Th Tc] and won ($20.10) with a pair of Tens
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi mucked
+
+
+
+PokerStars Hand #254592255493:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:41:42 WET [2025/01/28 12:41:42 ET]
+Table 'Deiphobus' 6-max Seat #3 is the button
+Seat 1: sta$igk ($136.72 in chips) 
+Seat 2: BoyLoc0 ($170.50 in chips) 
+Seat 3: magzi777 ($280.15 in chips) 
+Seat 4: RAidakCo ($113.24 in chips) 
+Seat 5: Burlica2013 ($101.12 in chips) 
+Seat 6: enisgashi ($15.61 in chips) 
+RAidakCo: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: folds 
+Burlica2013: checks 
+*** FLOP *** [6h 2c Kh]
+Burlica2013: checks 
+enisgashi: checks 
+*** TURN *** [6h 2c Kh] [Ah]
+Burlica2013: checks 
+enisgashi: checks 
+*** RIVER *** [6h 2c Kh Ah] [4d]
+Burlica2013: bets $3.57
+enisgashi: raises $11.04 to $14.61 and is all-in
+Burlica2013: folds 
+Uncalled bet ($11.04) returned to enisgashi
+enisgashi collected $9.16 from pot
+*** SUMMARY ***
+Total pot $9.64 | Rake $0.48 
+Board [6h 2c Kh Ah 4d]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: Burlica2013 (big blind) folded on the River
+Seat 6: enisgashi collected ($9.16)
+
+
+
+PokerStars Hand #254592265626:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:42:19 WET [2025/01/28 12:42:19 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 1: sta$igk ($136.72 in chips) 
+Seat 2: BoyLoc0 ($170.50 in chips) 
+Seat 3: magzi777 ($280.15 in chips) 
+Seat 4: RAidakCo ($112.74 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($20.20 in chips) 
+Burlica2013: posts small blind $0.50
+enisgashi: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: raises $2 to $3
+RAidakCo: raises $6 to $9
+Burlica2013: folds 
+enisgashi: calls $8
+magzi777: raises $271.15 to $280.15 and is all-in
+RAidakCo: calls $103.74 and is all-in
+enisgashi: calls $11.20 and is all-in
+Uncalled bet ($167.41) returned to magzi777
+*** FLOP *** [4d 2c 2h]
+*** TURN *** [4d 2c 2h] [Kh]
+*** RIVER *** [4d 2c 2h Kh] [6h]
+*** SHOW DOWN ***
+magzi777: shows [Ad Kc] (two pair, Kings and Deuces)
+RAidakCo: shows [Ts Th] (two pair, Tens and Deuces)
+magzi777 collected $185.08 from side pot
+enisgashi: shows [2d Td] (three of a kind, Deuces)
+enisgashi collected $58.60 from main pot
+*** SUMMARY ***
+Total pot $246.18 Main pot $58.60. Side pot $185.08. | Rake $2.50 
+Board [4d 2c 2h Kh 6h]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 showed [Ad Kc] and won ($185.08) with two pair, Kings and Deuces
+Seat 4: RAidakCo (button) showed [Ts Th] and lost with two pair, Tens and Deuces
+Seat 5: Burlica2013 (small blind) folded before Flop
+Seat 6: enisgashi (big blind) showed [2d Td] and won ($58.60) with three of a kind, Deuces
+
+
+
+PokerStars Hand #254592280982:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:43:15 WET [2025/01/28 12:43:15 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 1: sta$igk ($136.72 in chips) 
+Seat 2: BoyLoc0 ($170.50 in chips) 
+Seat 3: magzi777 ($352.49 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($58.60 in chips) 
+enisgashi: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: calls $0.50
+sta$igk: raises $3 to $4
+enisgashi: calls $3
+*** FLOP *** [9c 5c Jc]
+enisgashi: checks 
+sta$igk: bets $2.51
+enisgashi: calls $2.51
+*** TURN *** [9c 5c Jc] [7h]
+enisgashi: checks 
+sta$igk: checks 
+*** RIVER *** [9c 5c Jc 7h] [5d]
+enisgashi: bets $11
+sta$igk: calls $11
+*** SHOW DOWN ***
+enisgashi: shows [8h Tc] (a straight, Seven to Jack)
+sta$igk: mucks hand 
+enisgashi collected $33.27 from pot
+*** SUMMARY ***
+Total pot $35.02 | Rake $1.75 
+Board [9c 5c Jc 7h 5d]
+Seat 1: sta$igk (big blind) mucked
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 6: enisgashi (small blind) showed [8h Tc] and won ($33.27) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #254592298172:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:44:17 WET [2025/01/28 12:44:17 ET]
+Table 'Deiphobus' 6-max Seat #6 is the button
+Seat 1: sta$igk ($119.21 in chips) 
+Seat 2: BoyLoc0 ($170.50 in chips) 
+Seat 3: magzi777 ($352.49 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($74.36 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+magzi777: folds 
+RAidakCo: raises $1.20 to $2.20
+Burlica2013: folds 
+enisgashi: calls $2.20
+sta$igk: raises $11.80 to $14
+BoyLoc0: folds 
+RAidakCo: folds 
+enisgashi: folds 
+Uncalled bet ($11.80) returned to sta$igk
+sta$igk collected $7.60 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.60 | Rake $0 
+Seat 1: sta$igk (small blind) collected ($7.60)
+Seat 2: BoyLoc0 (big blind) folded before Flop
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi (button) folded before Flop
+
+
+
+PokerStars Hand #254592305364:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:44:43 WET [2025/01/28 12:44:43 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 1: sta$igk ($124.61 in chips) 
+Seat 2: BoyLoc0 ($169.50 in chips) 
+Seat 3: magzi777 ($352.49 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($72.16 in chips) 
+BoyLoc0: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: folds 
+Burlica2013: folds 
+enisgashi: raises $1 to $2
+sta$igk: folds 
+BoyLoc0: raises $7 to $9
+magzi777: folds 
+enisgashi: calls $7
+*** FLOP *** [5h 6c Jc]
+BoyLoc0: checks 
+enisgashi: checks 
+*** TURN *** [5h 6c Jc] [2s]
+BoyLoc0: checks 
+enisgashi: checks 
+*** RIVER *** [5h 6c Jc 2s] [7s]
+BoyLoc0: bets $9.03
+enisgashi: calls $9.03
+*** SHOW DOWN ***
+BoyLoc0: shows [Ah 7d] (a pair of Sevens)
+enisgashi: mucks hand 
+BoyLoc0 collected $35.21 from pot
+*** SUMMARY ***
+Total pot $37.06 | Rake $1.85 
+Board [5h 6c Jc 2s 7s]
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) showed [Ah 7d] and won ($35.21) with a pair of Sevens
+Seat 3: magzi777 (big blind) folded before Flop
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi mucked
+
+
+
+PokerStars Hand #254592317175:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:45:25 WET [2025/01/28 12:45:25 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 1: sta$igk ($124.61 in chips) 
+Seat 2: BoyLoc0 ($186.68 in chips) 
+Seat 3: magzi777 ($351.49 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Burlica2013 ($100 in chips) 
+Seat 6: enisgashi ($54.13 in chips) 
+magzi777: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+enisgashi: calls $1
+sta$igk: folds 
+Burlica2013 leaves the table
+BoyLoc0: folds 
+magzi777: calls $0.50
+RAidakCo: checks 
+*** FLOP *** [3d 2c Qd]
+magzi777: checks 
+Paco19bn joins the table at seat #5 
+RAidakCo: checks 
+enisgashi: checks 
+*** TURN *** [3d 2c Qd] [Js]
+magzi777: checks 
+RAidakCo: checks 
+enisgashi: checks 
+*** RIVER *** [3d 2c Qd Js] [Qc]
+magzi777: checks 
+RAidakCo: checks 
+enisgashi: checks 
+*** SHOW DOWN ***
+magzi777: shows [Kh 2h] (two pair, Queens and Deuces)
+RAidakCo: mucks hand 
+enisgashi: mucks hand 
+magzi777 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [3d 2c Qd Js Qc]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: magzi777 (small blind) showed [Kh 2h] and won ($2.85) with two pair, Queens and Deuces
+Seat 4: RAidakCo (big blind) mucked
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: enisgashi mucked
+
+
+
+PokerStars Hand #254592329940:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:46:11 WET [2025/01/28 12:46:11 ET]
+Table 'Deiphobus' 6-max Seat #3 is the button
+Seat 1: sta$igk ($124.61 in chips) 
+Seat 2: BoyLoc0 ($186.68 in chips) 
+Seat 3: magzi777 ($353.34 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Paco19bn ($100 in chips) 
+Seat 6: enisgashi ($53.13 in chips) 
+RAidakCo: posts small blind $0.50
+Paco19bn: posts big blind $1
+*** HOLE CARDS ***
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: calls $0.50
+Paco19bn: checks 
+*** FLOP *** [3h Qh 6d]
+RAidakCo: checks 
+Paco19bn: checks 
+enisgashi: checks 
+*** TURN *** [3h Qh 6d] [8d]
+RAidakCo: checks 
+Paco19bn: checks 
+enisgashi: checks 
+*** RIVER *** [3h Qh 6d 8d] [Qc]
+RAidakCo: checks 
+Paco19bn: checks 
+enisgashi: checks 
+*** SHOW DOWN ***
+RAidakCo: shows [As 2c] (a pair of Queens)
+Paco19bn: mucks hand 
+enisgashi: shows [9c Ad] (a pair of Queens - Ace+Nine kicker)
+enisgashi collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [3h Qh 6d 8d Qc]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) showed [As 2c] and lost with a pair of Queens
+Seat 5: Paco19bn (big blind) mucked
+Seat 6: enisgashi showed [9c Ad] and won ($2.85) with a pair of Queens
+
+
+
+PokerStars Hand #254592345414:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:47:06 WET [2025/01/28 12:47:06 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 1: sta$igk ($124.61 in chips) 
+Seat 2: BoyLoc0 ($186.68 in chips) 
+Seat 3: magzi777 ($353.34 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Paco19bn ($100 in chips) 
+Seat 6: enisgashi ($54.98 in chips) 
+Paco19bn: posts small blind $0.50
+enisgashi: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: raises $1.50 to $2.50
+RAidakCo: folds 
+Paco19bn: raises $9 to $11.50
+enisgashi: calls $10.50
+magzi777: folds 
+*** FLOP *** [Qc 4d Jh]
+Paco19bn: checks 
+enisgashi: checks 
+*** TURN *** [Qc 4d Jh] [7c]
+Paco19bn: checks 
+enisgashi: checks 
+*** RIVER *** [Qc 4d Jh 7c] [6s]
+Paco19bn: checks 
+enisgashi: checks 
+*** SHOW DOWN ***
+Paco19bn: shows [Kd As] (high card Ace)
+enisgashi: mucks hand 
+Paco19bn collected $24.22 from pot
+*** SUMMARY ***
+Total pot $25.50 | Rake $1.28 
+Board [Qc 4d Jh 7c 6s]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 folded before Flop
+Seat 4: RAidakCo (button) folded before Flop (didn't bet)
+Seat 5: Paco19bn (small blind) showed [Kd As] and won ($24.22) with high card Ace
+Seat 6: enisgashi (big blind) mucked
+
+
+
+PokerStars Hand #254592358430:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:47:52 WET [2025/01/28 12:47:52 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 1: sta$igk ($124.61 in chips) 
+Seat 2: BoyLoc0 ($186.68 in chips) 
+Seat 3: magzi777 ($350.84 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Paco19bn ($112.72 in chips) 
+Seat 6: enisgashi ($43.48 in chips) 
+enisgashi: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: raises $1.20 to $2.20
+Paco19bn: folds 
+enisgashi: calls $1.70
+sta$igk: folds 
+*** FLOP *** [Td Th 4c]
+enisgashi: checks 
+RAidakCo: bets $1.69
+enisgashi: calls $1.69
+*** TURN *** [Td Th 4c] [8d]
+enisgashi: checks 
+RAidakCo: bets $4.17
+enisgashi: calls $4.17
+*** RIVER *** [Td Th 4c 8d] [Ac]
+enisgashi: checks 
+RAidakCo: bets $12.20
+enisgashi: raises $12.20 to $24.40
+RAidakCo: calls $12.20
+*** SHOW DOWN ***
+enisgashi: shows [Qh Tc] (three of a kind, Tens)
+RAidakCo: mucks hand 
+enisgashi collected $63.42 from pot
+*** SUMMARY ***
+Total pot $65.92 | Rake $2.50 
+Board [Td Th 4c 8d Ac]
+Seat 1: sta$igk (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo mucked
+Seat 5: Paco19bn (button) folded before Flop (didn't bet)
+Seat 6: enisgashi (small blind) showed [Qh Tc] and won ($63.42) with three of a kind, Tens
+
+
+
+PokerStars Hand #254592372526:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:48:41 WET [2025/01/28 12:48:41 ET]
+Table 'Deiphobus' 6-max Seat #6 is the button
+Seat 1: sta$igk ($123.61 in chips) 
+Seat 2: BoyLoc0 ($186.68 in chips) 
+Seat 3: magzi777 ($350.84 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Paco19bn ($112.72 in chips) 
+Seat 6: enisgashi ($74.44 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+magzi777: folds 
+RAidakCo: folds 
+Paco19bn: folds 
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: raises $4 to $5
+enisgashi: calls $4
+*** FLOP *** [6s Ad 6h]
+BoyLoc0: checks 
+enisgashi: checks 
+*** TURN *** [6s Ad 6h] [Ac]
+BoyLoc0: bets $3.29
+enisgashi: calls $3.29
+*** RIVER *** [6s Ad 6h Ac] [3s]
+BoyLoc0: checks 
+enisgashi: checks 
+*** SHOW DOWN ***
+BoyLoc0: shows [Kc 9s] (two pair, Aces and Sixes)
+enisgashi: mucks hand 
+BoyLoc0 collected $16.23 from pot
+*** SUMMARY ***
+Total pot $17.08 | Rake $0.85 
+Board [6s Ad 6h Ac 3s]
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) showed [Kc 9s] and won ($16.23) with two pair, Aces and Sixes
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Paco19bn folded before Flop (didn't bet)
+Seat 6: enisgashi (button) mucked
+
+
+
+PokerStars Hand #254592384174:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:49:21 WET [2025/01/28 12:49:21 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 1: sta$igk ($123.11 in chips) 
+Seat 2: BoyLoc0 ($194.62 in chips) 
+Seat 3: magzi777 ($350.84 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Paco19bn ($112.72 in chips) 
+Seat 6: enisgashi ($66.15 in chips) 
+BoyLoc0: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: raises $1 to $2
+Paco19bn: raises $4 to $6
+enisgashi: calls $6
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: calls $5
+RAidakCo: raises $94 to $100 and is all-in
+Paco19bn: folds 
+enisgashi: folds 
+magzi777: folds 
+Uncalled bet ($94) returned to RAidakCo
+RAidakCo collected $24.50 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.50 | Rake $0 
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: magzi777 (big blind) folded before Flop
+Seat 4: RAidakCo collected ($24.50)
+Seat 5: Paco19bn folded before Flop
+Seat 6: enisgashi folded before Flop
+
+
+
+PokerStars Hand #254592393863:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:49:55 WET [2025/01/28 12:49:55 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 1: sta$igk ($123.11 in chips) 
+Seat 2: BoyLoc0 ($194.12 in chips) 
+Seat 3: magzi777 ($344.84 in chips) 
+Seat 4: RAidakCo ($118.50 in chips) 
+Seat 5: Paco19bn ($106.72 in chips) 
+Seat 6: enisgashi ($60.15 in chips) 
+magzi777: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+Paco19bn: folds 
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: raises $6 to $7
+RAidakCo: folds 
+enisgashi: raises $6 to $13
+magzi777: raises $331.84 to $344.84 and is all-in
+enisgashi: calls $47.15 and is all-in
+Uncalled bet ($284.69) returned to magzi777
+*** FLOP *** [7d 3d Ah]
+*** TURN *** [7d 3d Ah] [Qc]
+*** RIVER *** [7d 3d Ah Qc] [7s]
+*** SHOW DOWN ***
+magzi777: shows [Kd Ad] (two pair, Aces and Sevens)
+enisgashi: shows [Ks Kc] (two pair, Kings and Sevens)
+magzi777 collected $118.80 from pot
+*** SUMMARY ***
+Total pot $121.30 | Rake $2.50 
+Board [7d 3d Ah Qc 7s]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: magzi777 (small blind) showed [Kd Ad] and won ($118.80) with two pair, Aces and Sevens
+Seat 4: RAidakCo (big blind) folded before Flop
+Seat 5: Paco19bn folded before Flop (didn't bet)
+Seat 6: enisgashi showed [Ks Kc] and lost with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #254592404078:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:50:30 WET [2025/01/28 12:50:30 ET]
+Table 'Deiphobus' 6-max Seat #3 is the button
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($123.11 in chips) 
+Seat 2: BoyLoc0 ($194.12 in chips) 
+Seat 3: magzi777 ($403.49 in chips) 
+Seat 4: RAidakCo ($117.50 in chips) 
+Seat 5: Paco19bn ($106.72 in chips) 
+RAidakCo: posts small blind $0.50
+Paco19bn: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+BoyLoc0: raises $1.50 to $2.50
+magzi777: folds 
+RAidakCo: folds 
+Paco19bn: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: enisgashi
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 collected ($2.50)
+Seat 3: magzi777 (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: Paco19bn (big blind) folded before Flop
+
+
+
+PokerStars Hand #254592409427:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:50:49 WET [2025/01/28 12:50:49 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($123.11 in chips) 
+Seat 2: BoyLoc0 ($195.62 in chips) 
+Seat 3: magzi777 ($403.49 in chips) 
+Seat 4: RAidakCo ($117 in chips) 
+Seat 5: Paco19bn ($105.72 in chips) 
+Paco19bn: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: raises $1.50 to $2.50
+Paco19bn: folds 
+sta$igk: folds 
+Uncalled bet ($1.50) returned to RAidakCo
+RAidakCo collected $2.50 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: enisgashi
+Seat 1: sta$igk (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) collected ($2.50)
+Seat 5: Paco19bn (small blind) folded before Flop
+
+
+
+PokerStars Hand #254592415838:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:51:11 WET [2025/01/28 12:51:11 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($122.11 in chips) 
+Seat 2: BoyLoc0 ($195.62 in chips) 
+Seat 3: magzi777 ($403.49 in chips) 
+Seat 4: RAidakCo ($118.50 in chips) 
+Seat 5: Paco19bn ($105.22 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+magzi777: folds 
+RAidakCo: folds 
+Paco19bn: raises $1.50 to $2.50
+sta$igk: folds 
+BoyLoc0: folds 
+Uncalled bet ($1.50) returned to Paco19bn
+Paco19bn collected $2.50 from pot
+Paco19bn: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: enisgashi
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) folded before Flop
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Paco19bn (button) collected ($2.50)
+
+
+
+PokerStars Hand #254592419221:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:51:23 WET [2025/01/28 12:51:23 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($121.61 in chips) 
+Seat 2: BoyLoc0 ($194.62 in chips) 
+Seat 3: magzi777 ($403.49 in chips) 
+Seat 4: RAidakCo ($118.50 in chips) 
+Seat 5: Paco19bn ($106.72 in chips) 
+BoyLoc0: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: folds 
+Paco19bn: folds 
+sta$igk: folds 
+BoyLoc0: folds 
+Uncalled bet ($0.50) returned to magzi777
+magzi777 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: enisgashi
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: magzi777 (big blind) collected ($1)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Paco19bn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592422023:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:51:33 WET [2025/01/28 12:51:33 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 1: sta$igk ($121.61 in chips) 
+Seat 2: BoyLoc0 ($194.12 in chips) 
+Seat 3: magzi777 ($403.99 in chips) 
+Seat 4: RAidakCo ($118.50 in chips) 
+Seat 5: Paco19bn ($106.72 in chips) 
+Seat 6: enisgashi ($82.86 in chips) 
+magzi777: posts small blind $0.50
+RAidakCo: posts big blind $1
+enisgashi: posts small & big blinds $1.50
+*** HOLE CARDS ***
+Paco19bn: folds 
+enisgashi: checks 
+sta$igk: folds 
+BoyLoc0: raises $3 to $4
+magzi777: raises $14 to $18
+RAidakCo: folds 
+enisgashi: raises $14 to $32
+BoyLoc0: folds 
+magzi777: raises $371.99 to $403.99 and is all-in
+enisgashi: folds 
+Uncalled bet ($371.99) returned to magzi777
+magzi777 collected $69.50 from pot
+*** SUMMARY ***
+Total pot $69.50 | Rake $0 
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded before Flop
+Seat 3: magzi777 (small blind) collected ($69.50)
+Seat 4: RAidakCo (big blind) folded before Flop
+Seat 5: Paco19bn folded before Flop (didn't bet)
+Seat 6: enisgashi folded before Flop
+
+
+
+PokerStars Hand #254592432086:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:52:07 WET [2025/01/28 12:52:07 ET]
+Table 'Deiphobus' 6-max Seat #3 is the button
+Seat 1: sta$igk ($121.61 in chips) 
+Seat 2: BoyLoc0 ($190.12 in chips) 
+Seat 3: magzi777 ($441.49 in chips) 
+Seat 4: RAidakCo ($117.50 in chips) 
+Seat 5: Paco19bn ($106.72 in chips) 
+Seat 6: enisgashi ($50.36 in chips) 
+RAidakCo: posts small blind $0.50
+Paco19bn: posts big blind $1
+*** HOLE CARDS ***
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: raises $3 to $4
+Paco19bn: folds 
+enisgashi: calls $3
+*** FLOP *** [Kc Ks 7s]
+RAidakCo: bets $4.28
+enisgashi: raises $4.28 to $8.56
+RAidakCo: calls $4.28
+*** TURN *** [Kc Ks 7s] [Qh]
+RAidakCo: checks 
+enisgashi: checks 
+*** RIVER *** [Kc Ks 7s Qh] [4h]
+RAidakCo: bets $12.41
+enisgashi: calls $12.41
+*** SHOW DOWN ***
+RAidakCo: shows [6s 8s] (a pair of Kings)
+enisgashi: shows [7d Ad] (two pair, Kings and Sevens)
+enisgashi collected $48.44 from pot
+*** SUMMARY ***
+Total pot $50.94 | Rake $2.50 
+Board [Kc Ks 7s Qh 4h]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) showed [6s 8s] and lost with a pair of Kings
+Seat 5: Paco19bn (big blind) folded before Flop
+Seat 6: enisgashi showed [7d Ad] and won ($48.44) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #254592446282:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:52:56 WET [2025/01/28 12:52:56 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 1: sta$igk ($121.61 in chips) 
+Seat 2: BoyLoc0 ($190.12 in chips) 
+Seat 3: magzi777 ($441.49 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Paco19bn ($105.72 in chips) 
+Seat 6: enisgashi ($73.83 in chips) 
+Paco19bn: posts small blind $0.50
+enisgashi: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: raises $1.50 to $2.50
+Paco19bn: folds 
+enisgashi: calls $1.50
+*** FLOP *** [4h 3d Js]
+enisgashi: checks 
+RAidakCo: bets $1.72
+enisgashi: calls $1.72
+*** TURN *** [4h 3d Js] [Ts]
+enisgashi: checks 
+RAidakCo: bets $6.37
+enisgashi: folds 
+Uncalled bet ($6.37) returned to RAidakCo
+RAidakCo collected $8.49 from pot
+RAidakCo: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [4h 3d Js Ts]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) collected ($8.49)
+Seat 5: Paco19bn (small blind) folded before Flop
+Seat 6: enisgashi (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254592456357:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:53:31 WET [2025/01/28 12:53:31 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 1: sta$igk ($121.61 in chips) 
+Seat 2: BoyLoc0 ($190.12 in chips) 
+Seat 3: magzi777 ($441.49 in chips) 
+Seat 4: RAidakCo ($104.27 in chips) 
+Seat 5: Paco19bn ($105.22 in chips) 
+Seat 6: enisgashi ($69.61 in chips) 
+enisgashi: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: folds 
+Paco19bn: folds 
+enisgashi: calls $0.50
+sta$igk: checks 
+*** FLOP *** [Jd Js Ac]
+enisgashi: checks 
+sta$igk: checks 
+*** TURN *** [Jd Js Ac] [8s]
+enisgashi: checks 
+sta$igk: checks 
+*** RIVER *** [Jd Js Ac 8s] [Qd]
+enisgashi: checks 
+sta$igk: bets $1.27
+enisgashi: calls $1.27
+*** SHOW DOWN ***
+sta$igk: shows [6s 5c] (a pair of Jacks)
+enisgashi: shows [4c Ts] (a pair of Jacks - Ace+Queen+Ten kicker)
+enisgashi collected $4.31 from pot
+*** SUMMARY ***
+Total pot $4.54 | Rake $0.23 
+Board [Jd Js Ac 8s Qd]
+Seat 1: sta$igk (big blind) showed [6s 5c] and lost with a pair of Jacks
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Paco19bn (button) folded before Flop (didn't bet)
+Seat 6: enisgashi (small blind) showed [4c Ts] and won ($4.31) with a pair of Jacks
+
+
+
+PokerStars Hand #254592471691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:54:24 WET [2025/01/28 12:54:24 ET]
+Table 'Deiphobus' 6-max Seat #6 is the button
+Seat 1: sta$igk ($119.34 in chips) 
+Seat 2: BoyLoc0 ($190.12 in chips) 
+Seat 3: magzi777 ($441.49 in chips) 
+Seat 4: RAidakCo ($104.27 in chips) 
+Seat 5: Paco19bn ($105.22 in chips) 
+Seat 6: enisgashi ($71.65 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+magzi777: raises $2 to $3
+RAidakCo: folds 
+Paco19bn: calls $3
+enisgashi: calls $3
+sta$igk: folds 
+BoyLoc0: raises $11 to $14
+magzi777: folds 
+Paco19bn: calls $11
+enisgashi: calls $11
+*** FLOP *** [5c Ad 7c]
+BoyLoc0: bets $14.26
+Paco19bn: folds 
+enisgashi: calls $14.26
+*** TURN *** [5c Ad 7c] [Kc]
+BoyLoc0: checks 
+enisgashi: checks 
+*** RIVER *** [5c Ad 7c Kc] [7h]
+BoyLoc0: checks 
+enisgashi: checks 
+*** SHOW DOWN ***
+BoyLoc0: shows [Js Ks] (two pair, Kings and Sevens)
+enisgashi: mucks hand 
+BoyLoc0 collected $71.52 from pot
+*** SUMMARY ***
+Total pot $74.02 | Rake $2.50 
+Board [5c Ad 7c Kc 7h]
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) showed [Js Ks] and won ($71.52) with two pair, Kings and Sevens
+Seat 3: magzi777 folded before Flop
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Paco19bn folded on the Flop
+Seat 6: enisgashi (button) mucked
+
+
+
+PokerStars Hand #254592490803:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:55:35 WET [2025/01/28 12:55:35 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 1: sta$igk ($118.84 in chips) 
+Seat 2: BoyLoc0 ($233.38 in chips) 
+Seat 3: magzi777 ($438.49 in chips) 
+Seat 4: RAidakCo ($104.27 in chips) 
+Seat 5: Paco19bn ($100 in chips) 
+Seat 6: enisgashi ($43.39 in chips) 
+BoyLoc0: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: folds 
+Paco19bn: folds 
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: raises $10 to $11
+enisgashi: calls $10
+*** FLOP *** [2h 9c 7h]
+magzi777: bets $10.69
+enisgashi: calls $10.69
+*** TURN *** [2h 9c 7h] [Ah]
+magzi777: checks 
+enisgashi: checks 
+*** RIVER *** [2h 9c 7h Ah] [9s]
+magzi777: checks 
+enisgashi: checks 
+*** SHOW DOWN ***
+magzi777: shows [Ts Tc] (two pair, Tens and Nines)
+enisgashi: mucks hand 
+magzi777 collected $41.69 from pot
+*** SUMMARY ***
+Total pot $43.88 | Rake $2.19 
+Board [2h 9c 7h Ah 9s]
+Seat 1: sta$igk (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: magzi777 (big blind) showed [Ts Tc] and won ($41.69) with two pair, Tens and Nines
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Paco19bn folded before Flop (didn't bet)
+Seat 6: enisgashi mucked
+
+
+
+PokerStars Hand #254592503839:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:56:29 WET [2025/01/28 12:56:29 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 1: sta$igk ($118.84 in chips) 
+Seat 2: BoyLoc0 ($232.88 in chips) 
+Seat 3: magzi777 ($458.49 in chips) 
+Seat 4: RAidakCo ($104.27 in chips) 
+Seat 5: Paco19bn ($100 in chips) 
+Seat 6: enisgashi ($21.70 in chips) 
+magzi777: posts small blind $0.50
+RAidakCo: posts big blind $1
+*** HOLE CARDS ***
+Paco19bn: folds 
+enisgashi: calls $1
+sta$igk: folds 
+BoyLoc0: raises $3 to $4
+magzi777: calls $3.50
+RAidakCo: folds 
+enisgashi: raises $17.70 to $21.70 and is all-in
+BoyLoc0: raises $22.30 to $44
+magzi777: folds 
+Uncalled bet ($22.30) returned to BoyLoc0
+*** FLOP *** [3s 7d 4d]
+*** TURN *** [3s 7d 4d] [6d]
+*** RIVER *** [3s 7d 4d 6d] [4s]
+*** SHOW DOWN ***
+enisgashi: shows [Th Ks] (a pair of Fours)
+BoyLoc0: shows [Ah Tc] (a pair of Fours - Ace kicker)
+BoyLoc0 collected $45.98 from pot
+*** SUMMARY ***
+Total pot $48.40 | Rake $2.42 
+Board [3s 7d 4d 6d 4s]
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) showed [Ah Tc] and won ($45.98) with a pair of Fours
+Seat 3: magzi777 (small blind) folded before Flop
+Seat 4: RAidakCo (big blind) folded before Flop
+Seat 5: Paco19bn folded before Flop (didn't bet)
+Seat 6: enisgashi showed [Th Ks] and lost with a pair of Fours
+
+
+
+PokerStars Hand #254592513407:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:57:08 WET [2025/01/28 12:57:08 ET]
+Table 'Deiphobus' 6-max Seat #3 is the button
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($118.84 in chips) 
+Seat 2: BoyLoc0 ($257.16 in chips) 
+Seat 3: magzi777 ($454.49 in chips) 
+Seat 4: RAidakCo ($103.27 in chips) 
+Seat 5: Paco19bn ($100 in chips) 
+RAidakCo: posts small blind $0.50
+Paco19bn: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: folds 
+Uncalled bet ($0.50) returned to Paco19bn
+Paco19bn collected $1 from pot
+Paco19bn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: enisgashi
+Seat 1: sta$igk folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: Paco19bn (big blind) collected ($1)
+
+
+
+PokerStars Hand #254592669714:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:06:43 WET [2025/01/28 13:06:43 ET]
+Table 'Deiphobus' 6-max Seat #6 is the button
+Seat 3: z00mba ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($106.95 in chips) 
+Seat 2: papa76828 ($37.38 in chips) 
+Seat 4: poker_soul11 ($100 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($100 in chips) 
+ImaPeppaPig: posts small blind $0.50
+papa76828: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+poker_soul11: folds 
+alexandr699: folds 
+app1e_j@ck: folds 
+ImaPeppaPig: raises $2 to $3
+papa76828: calls $2
+*** FLOP *** [6d 3s Ac]
+ImaPeppaPig: checks 
+papa76828: checks 
+*** TURN *** [6d 3s Ac] [6h]
+ImaPeppaPig: checks 
+papa76828: bets $2.85
+ImaPeppaPig: calls $2.85
+*** RIVER *** [6d 3s Ac 6h] [5c]
+ImaPeppaPig: checks 
+papa76828: checks 
+*** SHOW DOWN ***
+ImaPeppaPig: shows [Kh Qc] (a pair of Sixes)
+papa76828: shows [Qs Ah] (two pair, Aces and Sixes)
+papa76828 collected $11.12 from pot
+*** SUMMARY ***
+Total pot $11.70 | Rake $0.58 
+Board [6d 3s Ac 6h 5c]
+Seat 3: z00mba
+Seat 1: ImaPeppaPig (small blind) showed [Kh Qc] and lost with a pair of Sixes
+Seat 2: papa76828 (big blind) showed [Qs Ah] and won ($11.12) with two pair, Aces and Sixes
+Seat 4: poker_soul11 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: app1e_j@ck (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592678651:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:07:14 WET [2025/01/28 13:07:14 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 1: ImaPeppaPig ($101.10 in chips) 
+Seat 2: papa76828 ($42.65 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 4: poker_soul11 ($100 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($100 in chips) 
+papa76828: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+alexandr699: folds 
+app1e_j@ck: folds 
+ImaPeppaPig: folds 
+papa76828: calls $0.50
+z00mba: checks 
+*** FLOP *** [4c Ac 7h]
+papa76828: checks 
+z00mba: bets $1
+papa76828: folds 
+Uncalled bet ($1) returned to z00mba
+z00mba collected $1.90 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [4c Ac 7h]
+Seat 1: ImaPeppaPig (button) folded before Flop (didn't bet)
+Seat 2: papa76828 (small blind) folded on the Flop
+Seat 3: z00mba (big blind) collected ($1.90)
+Seat 4: poker_soul11 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: app1e_j@ck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592689875:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:07:53 WET [2025/01/28 13:07:53 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 1: ImaPeppaPig ($101.10 in chips) 
+Seat 2: papa76828 ($41.65 in chips) 
+Seat 3: z00mba ($100.90 in chips) 
+Seat 4: poker_soul11 ($100 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($100 in chips) 
+z00mba: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: folds 
+app1e_j@ck has timed out
+app1e_j@ck: folds 
+ImaPeppaPig: folds 
+papa76828: calls $1
+z00mba: calls $0.50
+poker_soul11: checks 
+*** FLOP *** [Tc Ah 8c]
+z00mba: checks 
+poker_soul11: checks 
+papa76828: checks 
+*** TURN *** [Tc Ah 8c] [As]
+z00mba: checks 
+poker_soul11: bets $1.43
+papa76828: folds 
+z00mba: folds 
+Uncalled bet ($1.43) returned to poker_soul11
+poker_soul11 collected $2.85 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Tc Ah 8c As]
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: papa76828 (button) folded on the Turn
+Seat 3: z00mba (small blind) folded on the Turn
+Seat 4: poker_soul11 (big blind) collected ($2.85)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: app1e_j@ck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592714748:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:09:18 WET [2025/01/28 13:09:18 ET]
+Table 'Deiphobus' 6-max Seat #3 is the button
+Seat 1: ImaPeppaPig ($101.10 in chips) 
+Seat 2: papa76828 ($40.65 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 4: poker_soul11 ($101.85 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($100 in chips) 
+poker_soul11: posts small blind $0.50
+alexandr699: posts big blind $1
+*** HOLE CARDS ***
+app1e_j@ck: folds 
+ImaPeppaPig: folds 
+papa76828: folds 
+z00mba: folds 
+poker_soul11: raises $2 to $3
+alexandr699: calls $2
+*** FLOP *** [5s Kd 4s]
+poker_soul11: bets $3.76
+alexandr699: folds 
+Uncalled bet ($3.76) returned to poker_soul11
+poker_soul11 collected $5.70 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [5s Kd 4s]
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: papa76828 folded before Flop (didn't bet)
+Seat 3: z00mba (button) folded before Flop (didn't bet)
+Seat 4: poker_soul11 (small blind) collected ($5.70)
+Seat 5: alexandr699 (big blind) folded on the Flop
+Seat 6: app1e_j@ck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592729011:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:10:07 WET [2025/01/28 13:10:07 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 1: ImaPeppaPig ($101.10 in chips) 
+Seat 2: papa76828 ($40.65 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 4: poker_soul11 ($104.55 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($100 in chips) 
+alexandr699: posts small blind $0.50
+app1e_j@ck: posts big blind $1
+*** HOLE CARDS ***
+ImaPeppaPig: raises $1 to $2
+papa76828: folds 
+z00mba: folds 
+poker_soul11: folds 
+alexandr699: folds 
+app1e_j@ck: folds 
+Uncalled bet ($1) returned to ImaPeppaPig
+ImaPeppaPig collected $2.50 from pot
+ImaPeppaPig: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ImaPeppaPig collected ($2.50)
+Seat 2: papa76828 folded before Flop (didn't bet)
+Seat 3: z00mba folded before Flop (didn't bet)
+Seat 4: poker_soul11 (button) folded before Flop (didn't bet)
+Seat 5: alexandr699 (small blind) folded before Flop
+Seat 6: app1e_j@ck (big blind) folded before Flop
+
+
+
+PokerStars Hand #254592733138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:10:22 WET [2025/01/28 13:10:22 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 1: ImaPeppaPig ($102.60 in chips) 
+Seat 2: papa76828 ($40.65 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 4: poker_soul11 ($104.55 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($100 in chips) 
+app1e_j@ck: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+papa76828: folds 
+z00mba: folds 
+poker_soul11: folds 
+alexandr699: raises $1.98 to $2.98
+app1e_j@ck: raises $10.02 to $13
+ImaPeppaPig: folds 
+alexandr699: folds 
+Uncalled bet ($10.02) returned to app1e_j@ck
+app1e_j@ck collected $6.96 from pot
+app1e_j@ck: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.96 | Rake $0 
+Seat 1: ImaPeppaPig (big blind) folded before Flop
+Seat 2: papa76828 folded before Flop (didn't bet)
+Seat 3: z00mba folded before Flop (didn't bet)
+Seat 4: poker_soul11 folded before Flop (didn't bet)
+Seat 5: alexandr699 (button) folded before Flop
+Seat 6: app1e_j@ck (small blind) collected ($6.96)
+
+
+
+PokerStars Hand #254592743688:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:10:57 WET [2025/01/28 13:10:57 ET]
+Table 'Deiphobus' 6-max Seat #6 is the button
+Seat 1: ImaPeppaPig ($101.60 in chips) 
+Seat 2: papa76828 ($40.65 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 4: poker_soul11 ($104.55 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($103.98 in chips) 
+ImaPeppaPig: posts small blind $0.50
+papa76828: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+poker_soul11: folds 
+alexandr699: folds 
+app1e_j@ck: folds 
+ImaPeppaPig: folds 
+Uncalled bet ($0.50) returned to papa76828
+papa76828 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ImaPeppaPig (small blind) folded before Flop
+Seat 2: papa76828 (big blind) collected ($1)
+Seat 3: z00mba folded before Flop (didn't bet)
+Seat 4: poker_soul11 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: app1e_j@ck (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592749274:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:11:16 WET [2025/01/28 13:11:16 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 1: ImaPeppaPig ($101.10 in chips) 
+Seat 2: papa76828 ($41.15 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 4: poker_soul11 ($104.55 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($103.98 in chips) 
+papa76828: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+alexandr699: folds 
+app1e_j@ck: folds 
+ImaPeppaPig: raises $1.50 to $2.50
+papa76828: folds 
+z00mba: calls $1.50
+*** FLOP *** [3d 7d Qs]
+z00mba: checks 
+ImaPeppaPig: bets $1.62
+z00mba: folds 
+Uncalled bet ($1.62) returned to ImaPeppaPig
+ImaPeppaPig collected $5.22 from pot
+ImaPeppaPig: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3d 7d Qs]
+Seat 1: ImaPeppaPig (button) collected ($5.22)
+Seat 2: papa76828 (small blind) folded before Flop
+Seat 3: z00mba (big blind) folded on the Flop
+Seat 4: poker_soul11 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: app1e_j@ck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592755659:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:11:38 WET [2025/01/28 13:11:38 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 1: ImaPeppaPig ($103.82 in chips) 
+Seat 2: papa76828 ($40.65 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 4: poker_soul11 ($104.55 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($103.98 in chips) 
+z00mba: posts small blind $0.50
+poker_soul11: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: folds 
+app1e_j@ck: raises $1.50 to $2.50
+ImaPeppaPig: folds 
+papa76828: folds 
+z00mba: folds 
+poker_soul11: folds 
+Uncalled bet ($1.50) returned to app1e_j@ck
+app1e_j@ck collected $2.50 from pot
+app1e_j@ck: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: papa76828 (button) folded before Flop (didn't bet)
+Seat 3: z00mba (small blind) folded before Flop
+Seat 4: poker_soul11 (big blind) folded before Flop
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: app1e_j@ck collected ($2.50)
+
+
+
+PokerStars Hand #254592760564:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:11:55 WET [2025/01/28 13:11:55 ET]
+Table 'Deiphobus' 6-max Seat #3 is the button
+Seat 1: ImaPeppaPig ($103.82 in chips) 
+Seat 2: papa76828 ($40.65 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 4: poker_soul11 ($103.55 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($105.48 in chips) 
+poker_soul11: posts small blind $0.50
+alexandr699: posts big blind $1
+*** HOLE CARDS ***
+app1e_j@ck: folds 
+ImaPeppaPig: folds 
+papa76828: calls $1
+z00mba: folds 
+poker_soul11: folds 
+alexandr699: checks 
+*** FLOP *** [6s 2s Ad]
+alexandr699: checks 
+papa76828: checks 
+*** TURN *** [6s 2s Ad] [Ts]
+alexandr699: checks 
+papa76828: checks 
+*** RIVER *** [6s 2s Ad Ts] [Jd]
+alexandr699: checks 
+papa76828: bets $1
+alexandr699: calls $1
+*** SHOW DOWN ***
+papa76828: shows [2d 2h] (three of a kind, Deuces)
+alexandr699: mucks hand 
+papa76828 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [6s 2s Ad Ts Jd]
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: papa76828 showed [2d 2h] and won ($4.28) with three of a kind, Deuces
+Seat 3: z00mba (button) folded before Flop (didn't bet)
+Seat 4: poker_soul11 (small blind) folded before Flop
+Seat 5: alexandr699 (big blind) mucked
+Seat 6: app1e_j@ck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592769501:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:12:25 WET [2025/01/28 13:12:25 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 1: ImaPeppaPig ($103.82 in chips) 
+Seat 2: papa76828 ($42.93 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 4: poker_soul11 ($103.05 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($105.48 in chips) 
+alexandr699: posts small blind $0.50
+app1e_j@ck: posts big blind $1
+*** HOLE CARDS ***
+ImaPeppaPig: folds 
+papa76828: folds 
+z00mba: raises $1.50 to $2.50
+poker_soul11: raises $5 to $7.50
+alexandr699: folds 
+app1e_j@ck: folds 
+z00mba: folds 
+Uncalled bet ($5) returned to poker_soul11
+poker_soul11 collected $6.50 from pot
+poker_soul11: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: papa76828 folded before Flop (didn't bet)
+Seat 3: z00mba folded before Flop
+Seat 4: poker_soul11 (button) collected ($6.50)
+Seat 5: alexandr699 (small blind) folded before Flop
+Seat 6: app1e_j@ck (big blind) folded before Flop
+
+
+
+PokerStars Hand #254592780641:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:13:02 WET [2025/01/28 13:13:02 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 1: ImaPeppaPig ($103.82 in chips) 
+Seat 2: papa76828 ($42.93 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 4: poker_soul11 ($107.05 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($104.48 in chips) 
+app1e_j@ck: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+papa76828: calls $1
+z00mba: folds 
+poker_soul11: folds 
+alexandr699: folds 
+app1e_j@ck: raises $3 to $4
+ImaPeppaPig: folds 
+papa76828: calls $3
+*** FLOP *** [9h 5h 8d]
+app1e_j@ck: checks 
+papa76828: checks 
+*** TURN *** [9h 5h 8d] [Kh]
+app1e_j@ck: checks 
+papa76828: checks 
+*** RIVER *** [9h 5h 8d Kh] [Qh]
+app1e_j@ck: checks 
+papa76828: checks 
+*** SHOW DOWN ***
+app1e_j@ck: shows [8c Ad] (a pair of Eights)
+papa76828: shows [Ac Qs] (a pair of Queens)
+papa76828 collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [9h 5h 8d Kh Qh]
+Seat 1: ImaPeppaPig (big blind) folded before Flop
+Seat 2: papa76828 showed [Ac Qs] and won ($8.55) with a pair of Queens
+Seat 3: z00mba folded before Flop (didn't bet)
+Seat 4: poker_soul11 folded before Flop (didn't bet)
+Seat 5: alexandr699 (button) folded before Flop (didn't bet)
+Seat 6: app1e_j@ck (small blind) showed [8c Ad] and lost with a pair of Eights
+
+
+
+PokerStars Hand #254592792186:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:13:42 WET [2025/01/28 13:13:42 ET]
+Table 'Deiphobus' 6-max Seat #6 is the button
+Seat 1: ImaPeppaPig ($102.82 in chips) 
+Seat 2: papa76828 ($47.48 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 4: poker_soul11 ($107.05 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($100.48 in chips) 
+ImaPeppaPig: posts small blind $0.50
+papa76828: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+poker_soul11: folds 
+alexandr699: folds 
+app1e_j@ck: folds 
+ImaPeppaPig: raises $2 to $3
+papa76828: calls $2
+*** FLOP *** [5h 2s 4d]
+ImaPeppaPig: checks 
+papa76828: bets $5.70
+ImaPeppaPig: folds 
+Uncalled bet ($5.70) returned to papa76828
+papa76828 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [5h 2s 4d]
+Seat 1: ImaPeppaPig (small blind) folded on the Flop
+Seat 2: papa76828 (big blind) collected ($5.70)
+Seat 3: z00mba folded before Flop (didn't bet)
+Seat 4: poker_soul11 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: app1e_j@ck (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592798976:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:14:05 WET [2025/01/28 13:14:05 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: papa76828 ($50.18 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 4: poker_soul11 ($107.05 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: app1e_j@ck ($100.48 in chips) 
+papa76828: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+poker_soul11: folds 
+alexandr699: folds 
+app1e_j@ck: folds 
+ImaPeppaPig: folds 
+papa76828: calls $0.50
+z00mba: checks 
+*** FLOP *** [7d Jc Ts]
+papa76828: checks 
+z00mba: bets $1.50
+papa76828: folds 
+Uncalled bet ($1.50) returned to z00mba
+z00mba collected $1.90 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [7d Jc Ts]
+Seat 1: ImaPeppaPig (button) folded before Flop (didn't bet)
+Seat 2: papa76828 (small blind) folded on the Flop
+Seat 3: z00mba (big blind) collected ($1.90)
+Seat 4: poker_soul11 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: app1e_j@ck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592515714:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:57:18 WET [2025/01/28 12:57:18 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($118.84 in chips) 
+Seat 2: BoyLoc0 ($257.16 in chips) 
+Seat 3: magzi777 ($454.49 in chips) 
+Seat 4: RAidakCo ($102.77 in chips) 
+Seat 5: Paco19bn ($100.50 in chips) 
+Paco19bn: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+magzi777: folds 
+RAidakCo: raises $1.50 to $2.50
+Paco19bn: folds 
+enisgashi is disconnected 
+sta$igk: raises $9.50 to $12
+RAidakCo: folds 
+Uncalled bet ($9.50) returned to sta$igk
+sta$igk collected $5.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 6: enisgashi
+Seat 1: sta$igk (big blind) collected ($5.50)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) folded before Flop
+Seat 5: Paco19bn (small blind) folded before Flop
+
+
+
+PokerStars Hand #254592525959:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:58:00 WET [2025/01/28 12:58:00 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($121.84 in chips) 
+Seat 2: BoyLoc0 ($257.16 in chips) 
+Seat 3: magzi777 ($454.49 in chips) 
+Seat 4: RAidakCo ($100.27 in chips) 
+Seat 5: Paco19bn ($100 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+magzi777: folds 
+RAidakCo: raises $1.20 to $2.20
+Paco19bn: calls $2.20
+sta$igk: folds 
+BoyLoc0: folds 
+*** FLOP *** [Qh 2d 3c]
+RAidakCo: checks 
+Paco19bn: checks 
+*** TURN *** [Qh 2d 3c] [Js]
+RAidakCo: bets $2.80
+Paco19bn: calls $2.80
+*** RIVER *** [Qh 2d 3c Js] [9h]
+RAidakCo: bets $5.46
+Paco19bn: raises $20.04 to $25.50
+RAidakCo: folds 
+Uncalled bet ($20.04) returned to Paco19bn
+Paco19bn collected $21.30 from pot
+Paco19bn: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.42 | Rake $1.12 
+Board [Qh 2d 3c Js 9h]
+Seat 6: enisgashi
+Seat 1: sta$igk (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) folded before Flop
+Seat 3: magzi777 folded before Flop (didn't bet)
+Seat 4: RAidakCo folded on the River
+Seat 5: Paco19bn (button) collected ($21.30)
+
+
+
+PokerStars Hand #254592543007:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 17:59:09 WET [2025/01/28 12:59:09 ET]
+Table 'Deiphobus' 6-max Seat #1 is the button
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 1: sta$igk ($121.34 in chips) 
+Seat 2: BoyLoc0 ($256.16 in chips) 
+Seat 3: magzi777 ($454.49 in chips) 
+Seat 4: RAidakCo ($100 in chips) 
+Seat 5: Paco19bn ($110.84 in chips) 
+BoyLoc0: posts small blind $0.50
+magzi777: posts big blind $1
+*** HOLE CARDS ***
+RAidakCo: folds 
+Paco19bn: folds 
+sta$igk: raises $1.50 to $2.50
+BoyLoc0: folds 
+magzi777: calls $1.50
+*** FLOP *** [Qc Qh 9s]
+magzi777: checks 
+sta$igk: bets $1.72
+RAidakCo leaves the table
+magzi777: calls $1.72
+*** TURN *** [Qc Qh 9s] [Kc]
+magzi777: checks 
+Supermegopro joins the table at seat #4 
+sta$igk: checks 
+*** RIVER *** [Qc Qh 9s Kc] [8c]
+enisgashi is disconnected 
+magzi777: bets $2.80
+sta$igk: calls $2.80
+*** SHOW DOWN ***
+magzi777: shows [Ah 9c] (two pair, Queens and Nines)
+sta$igk: shows [Ts Kd] (two pair, Kings and Queens)
+sta$igk collected $13.81 from pot
+*** SUMMARY ***
+Total pot $14.54 | Rake $0.73 
+Board [Qc Qh 9s Kc 8c]
+Seat 6: enisgashi
+Seat 1: sta$igk (button) showed [Ts Kd] and won ($13.81) with two pair, Kings and Queens
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: magzi777 (big blind) showed [Ah 9c] and lost with two pair, Queens and Nines
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: Paco19bn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592558489:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:00:12 WET [2025/01/28 13:00:12 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 1: sta$igk ($128.13 in chips) is sitting out
+Seat 4: Supermegopro ($100 in chips) is sitting out
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 2: BoyLoc0 ($255.66 in chips) 
+Seat 5: Paco19bn ($110.84 in chips) 
+Paco19bn: posts small blind $0.50
+sta$igk: is sitting out 
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+sta$igk leaves the table
+Paco19bn: raises $2 to $3
+BoyLoc0: folds 
+Uncalled bet ($2) returned to Paco19bn
+Paco19bn collected $2 from pot
+Paco19bn: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: sta$igk
+Seat 4: Supermegopro
+Seat 6: enisgashi
+Seat 2: BoyLoc0 (big blind) folded before Flop
+Seat 5: Paco19bn (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254592561650:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:00:25 WET [2025/01/28 13:00:25 ET]
+Table 'Deiphobus' 6-max Seat #5 is the button
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 2: BoyLoc0 ($254.66 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+Seat 5: Paco19bn ($111.84 in chips) 
+BoyLoc0: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Paco19bn: folds 
+BoyLoc0: folds 
+Uncalled bet ($0.50) returned to Supermegopro
+Supermegopro collected $1 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: enisgashi
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) collected ($1)
+Seat 5: Paco19bn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254592563286:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:00:31 WET [2025/01/28 13:00:31 ET]
+Table 'Deiphobus' 6-max Seat #4 is the button
+Seat 5: Paco19bn ($111.84 in chips) is sitting out
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 2: BoyLoc0 ($254.16 in chips) 
+Seat 4: Supermegopro ($100.50 in chips) 
+Supermegopro: posts small blind $0.50
+Paco19bn: is sitting out 
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $2 to $3
+Paco19bn leaves the table
+BoyLoc0: folds 
+Uncalled bet ($2) returned to Supermegopro
+Supermegopro collected $2 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: Paco19bn
+Seat 6: enisgashi
+Seat 2: BoyLoc0 (big blind) folded before Flop
+Seat 4: Supermegopro (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254592565321:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/28 18:00:39 WET [2025/01/28 13:00:39 ET]
+Table 'Deiphobus' 6-max Seat #2 is the button
+Seat 6: enisgashi ($0 in chips) is sitting out
+Seat 2: BoyLoc0 ($253.16 in chips) 
+Seat 4: Supermegopro ($101.50 in chips) 
+BoyLoc0: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+Supermegopro: calls $1.50
+*** FLOP *** [3h 7h Qs]
+Supermegopro: checks 
+BoyLoc0: bets $1.57
+Supermegopro: folds 
+Uncalled bet ($1.57) returned to BoyLoc0
+BoyLoc0 collected $4.75 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [3h 7h Qs]
+Seat 6: enisgashi
+Seat 2: BoyLoc0 (button) (small blind) collected ($4.75)
+Seat 4: Supermegopro (big blind) folded on the Flop
+
+
+

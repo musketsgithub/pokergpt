@@ -1,0 +1,371 @@
+﻿PokerStars Hand #254669446358:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 14:34:57 WET [2025/02/02 9:34:57 ET]
+Table 'Pongola' 6-max Seat #1 is the button
+Seat 1: Keine_AhnungAA ($50.02 in chips) 
+Seat 2: Burlica2013 ($100 in chips) 
+Seat 3: Desverdi ($10 in chips) 
+Seat 4: hag111 ($101 in chips) 
+Seat 5: MakoEv ($100 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+Burlica2013: posts small blind $0.50
+Desverdi: posts big blind $1
+*** HOLE CARDS ***
+hag111: folds 
+MakoEv: folds 
+sta$igk: raises $1.50 to $2.50
+Keine_AhnungAA: folds 
+Burlica2013: folds 
+Desverdi: raises $7.50 to $10 and is all-in
+sta$igk: calls $7.50
+*** FLOP *** [9h 4d Kh]
+*** TURN *** [9h 4d Kh] [3c]
+*** RIVER *** [9h 4d Kh 3c] [3h]
+*** SHOW DOWN ***
+Desverdi: shows [5h 5c] (two pair, Fives and Threes)
+sta$igk: shows [Qc Kc] (two pair, Kings and Threes)
+sta$igk collected $19.48 from pot
+*** SUMMARY ***
+Total pot $20.50 | Rake $1.02 
+Board [9h 4d Kh 3c 3h]
+Seat 1: Keine_AhnungAA (button) folded before Flop (didn't bet)
+Seat 2: Burlica2013 (small blind) folded before Flop
+Seat 3: Desverdi (big blind) showed [5h 5c] and lost with two pair, Fives and Threes
+Seat 4: hag111 folded before Flop (didn't bet)
+Seat 5: MakoEv folded before Flop (didn't bet)
+Seat 6: sta$igk showed [Qc Kc] and won ($19.48) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #254669453658:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 14:35:31 WET [2025/02/02 9:35:31 ET]
+Table 'Pongola' 6-max Seat #2 is the button
+Seat 3: Desverdi ($0 in chips) is sitting out
+Seat 1: Keine_AhnungAA ($50.02 in chips) 
+Seat 2: Burlica2013 ($100 in chips) 
+Seat 4: hag111 ($101 in chips) 
+Seat 5: MakoEv ($100 in chips) 
+Seat 6: sta$igk ($109.48 in chips) 
+hag111: posts small blind $0.50
+MakoEv: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+Keine_AhnungAA: raises $2.50 to $5
+Burlica2013: folds 
+hag111: calls $4.50
+MakoEv: folds 
+sta$igk: calls $2.50
+*** FLOP *** [8d 7c Td]
+hag111: checks 
+sta$igk: checks 
+Keine_AhnungAA: bets $4.56
+hag111: calls $4.56
+sta$igk: folds 
+*** TURN *** [8d 7c Td] [Kd]
+hag111: checks 
+Keine_AhnungAA: bets $11.93
+hag111: calls $11.93
+*** RIVER *** [8d 7c Td Kd] [7s]
+hag111: checks 
+Keine_AhnungAA: bets $28.53 and is all-in
+hag111: folds 
+Uncalled bet ($28.53) returned to Keine_AhnungAA
+Keine_AhnungAA collected $46.53 from pot
+Keine_AhnungAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $48.98 | Rake $2.45 
+Board [8d 7c Td Kd 7s]
+Seat 3: Desverdi
+Seat 1: Keine_AhnungAA collected ($46.53)
+Seat 2: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 4: hag111 (small blind) folded on the River
+Seat 5: MakoEv (big blind) folded before Flop
+Seat 6: sta$igk folded on the Flop
+
+
+
+PokerStars Hand #254669466341:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 14:36:31 WET [2025/02/02 9:36:31 ET]
+Table 'Pongola' 6-max Seat #4 is the button
+Seat 1: Keine_AhnungAA ($75.06 in chips) 
+Seat 2: Burlica2013 ($100 in chips) 
+Seat 3: Desverdi ($100 in chips) 
+Seat 4: hag111 ($100 in chips) 
+Seat 5: MakoEv ($100 in chips) 
+Seat 6: sta$igk ($104.48 in chips) 
+MakoEv: posts small blind $0.50
+sta$igk: posts big blind $1
+Desverdi: posts small blind $0.50
+*** HOLE CARDS ***
+Keine_AhnungAA: raises $1 to $2
+Burlica2013: folds 
+Desverdi: calls $2
+hag111: raises $8 to $10
+MakoEv: folds 
+sta$igk: folds 
+Keine_AhnungAA: raises $65.06 to $75.06 and is all-in
+Desverdi: folds 
+hag111: calls $65.06
+*** FLOP *** [8s 8d 4s]
+*** TURN *** [8s 8d 4s] [2s]
+*** RIVER *** [8s 8d 4s 2s] [6h]
+*** SHOW DOWN ***
+Keine_AhnungAA: shows [Qc Qh] (two pair, Queens and Eights)
+hag111: shows [Kc Jh] (a pair of Eights)
+Keine_AhnungAA collected $151.62 from pot
+*** SUMMARY ***
+Total pot $154.12 | Rake $2.50 
+Board [8s 8d 4s 2s 6h]
+Seat 1: Keine_AhnungAA showed [Qc Qh] and won ($151.62) with two pair, Queens and Eights
+Seat 2: Burlica2013 folded before Flop (didn't bet)
+Seat 3: Desverdi folded before Flop
+Seat 4: hag111 (button) showed [Kc Jh] and lost with a pair of Eights
+Seat 5: MakoEv (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254669474456:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 14:37:09 WET [2025/02/02 9:37:09 ET]
+Table 'Pongola' 6-max Seat #5 is the button
+Seat 1: Keine_AhnungAA ($151.62 in chips) 
+Seat 2: Burlica2013 ($100 in chips) 
+Seat 3: Desverdi ($97.50 in chips) 
+Seat 4: hag111 ($100 in chips) 
+Seat 5: MakoEv ($100 in chips) 
+Seat 6: sta$igk ($103.48 in chips) 
+sta$igk: posts small blind $0.50
+Keine_AhnungAA: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: folds 
+Desverdi: calls $1
+hag111: raises $5.50 to $6.50
+MakoEv: raises $6.50 to $13
+sta$igk: folds 
+Keine_AhnungAA: folds 
+Desverdi: folds 
+hag111: calls $6.50
+*** FLOP *** [6d 9s Ac]
+hag111: checks 
+MakoEv: bets $13.50
+hag111: calls $13.50
+*** TURN *** [6d 9s Ac] [3d]
+hag111: checks 
+MakoEv: checks 
+*** RIVER *** [6d 9s Ac 3d] [5s]
+hag111: checks 
+MakoEv: checks 
+*** SHOW DOWN ***
+hag111: shows [8c 8s] (a pair of Eights)
+MakoEv: mucks hand 
+hag111 collected $53 from pot
+*** SUMMARY ***
+Total pot $55.50 | Rake $2.50 
+Board [6d 9s Ac 3d 5s]
+Seat 1: Keine_AhnungAA (big blind) folded before Flop
+Seat 2: Burlica2013 folded before Flop (didn't bet)
+Seat 3: Desverdi folded before Flop
+Seat 4: hag111 showed [8c 8s] and won ($53) with a pair of Eights
+Seat 5: MakoEv (button) mucked
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254669486172:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 14:38:05 WET [2025/02/02 9:38:05 ET]
+Table 'Pongola' 6-max Seat #6 is the button
+Seat 1: Keine_AhnungAA ($150.62 in chips) 
+Seat 2: Burlica2013 ($100 in chips) 
+Seat 3: Desverdi ($96.50 in chips) 
+Seat 4: hag111 ($126.50 in chips) 
+Seat 5: MakoEv ($100 in chips) 
+Seat 6: sta$igk ($102.98 in chips) 
+Keine_AhnungAA: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+Desverdi: folds 
+hag111: folds 
+MakoEv: raises $1.50 to $2.50
+sta$igk: folds 
+Keine_AhnungAA: folds 
+Burlica2013: folds 
+Uncalled bet ($1.50) returned to MakoEv
+MakoEv collected $2.50 from pot
+MakoEv: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Keine_AhnungAA (small blind) folded before Flop
+Seat 2: Burlica2013 (big blind) folded before Flop
+Seat 3: Desverdi folded before Flop (didn't bet)
+Seat 4: hag111 folded before Flop (didn't bet)
+Seat 5: MakoEv collected ($2.50)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254669506028:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 14:39:38 WET [2025/02/02 9:39:38 ET]
+Table 'Pongola' 6-max Seat #3 is the button
+Seat 1: Keine_AhnungAA ($150.12 in chips) 
+Seat 2: Burlica2013 ($100 in chips) 
+Seat 3: Desverdi ($91.12 in chips) 
+Seat 4: hag111 ($127 in chips) 
+Seat 5: MakoEv ($101.50 in chips) 
+Seat 6: sta$igk ($107.87 in chips) 
+hag111: posts small blind $0.50
+MakoEv: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+Keine_AhnungAA: folds 
+Burlica2013: folds 
+Desverdi: calls $2.50
+hag111: folds 
+MakoEv: folds 
+*** FLOP *** [Kd As Ks]
+sta$igk: bets $2.04
+Desverdi: calls $2.04
+*** TURN *** [Kd As Ks] [8h]
+sta$igk: checks 
+Desverdi: checks 
+*** RIVER *** [Kd As Ks 8h] [Kc]
+sta$igk: bets $7.54
+Desverdi: raises $8.54 to $16.08
+sta$igk: folds 
+Uncalled bet ($8.54) returned to Desverdi
+Desverdi collected $24.38 from pot
+Desverdi: shows [Kh Jd] (four of a kind, Kings)
+*** SUMMARY ***
+Total pot $25.66 | Rake $1.28 
+Board [Kd As Ks 8h Kc]
+Seat 1: Keine_AhnungAA folded before Flop (didn't bet)
+Seat 2: Burlica2013 folded before Flop (didn't bet)
+Seat 3: Desverdi (button) collected ($24.38)
+Seat 4: hag111 (small blind) folded before Flop
+Seat 5: MakoEv (big blind) folded before Flop
+Seat 6: sta$igk folded on the River
+
+
+
+PokerStars Hand #254669520268:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 14:40:45 WET [2025/02/02 9:40:45 ET]
+Table 'Pongola' 6-max Seat #4 is the button
+Seat 1: Keine_AhnungAA ($150.12 in chips) 
+Seat 2: Burlica2013 ($100 in chips) 
+Seat 3: Desverdi ($103.42 in chips) 
+Seat 4: hag111 ($126.50 in chips) 
+Seat 5: MakoEv ($100.50 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+MakoEv: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+Keine_AhnungAA: folds 
+Keine_AhnungAA leaves the table
+Burlica2013: folds 
+Desverdi: folds 
+hag111: folds 
+MakoEv: folds 
+Uncalled bet ($0.50) returned to sta$igk
+sta$igk collected $1 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Keine_AhnungAA folded before Flop (didn't bet)
+Seat 2: Burlica2013 folded before Flop (didn't bet)
+Seat 3: Desverdi folded before Flop (didn't bet)
+Seat 4: hag111 (button) folded before Flop (didn't bet)
+Seat 5: MakoEv (small blind) folded before Flop
+Seat 6: sta$igk (big blind) collected ($1)
+
+
+
+PokerStars Hand #254669523474:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 14:40:59 WET [2025/02/02 9:40:59 ET]
+Table 'Pongola' 6-max Seat #5 is the button
+Seat 2: Burlica2013 ($100 in chips) 
+Seat 3: Desverdi ($103.42 in chips) 
+Seat 4: hag111 ($126.50 in chips) 
+Seat 5: MakoEv ($100 in chips) 
+Seat 6: sta$igk ($100.50 in chips) 
+sta$igk: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+Desverdi: folds 
+Desverdi leaves the table
+hag111: raises $2 to $3
+MakoEv: folds 
+sta$igk: raises $9 to $12
+Burlica2013: folds 
+hag111: calls $9
+*** FLOP *** [Kd 8d Qs]
+sta$igk: checks 
+hag111: bets $11.88
+sta$igk: calls $11.88
+*** TURN *** [Kd 8d Qs] [4s]
+sta$igk: checks 
+hag111: checks 
+*** RIVER *** [Kd 8d Qs 4s] [4h]
+CichiChanMarian joins the table at seat #1 
+Burlica2013 leaves the table
+sta$igk: bets $31.03
+hag111: calls $31.03
+*** SHOW DOWN ***
+sta$igk: shows [9h Kh] (two pair, Kings and Fours)
+hag111: mucks hand 
+sta$igk collected $108.32 from pot
+*** SUMMARY ***
+Total pot $110.82 | Rake $2.50 
+Board [Kd 8d Qs 4s 4h]
+Seat 2: Burlica2013 (big blind) folded before Flop
+Seat 3: Desverdi folded before Flop (didn't bet)
+Seat 4: hag111 mucked
+Seat 5: MakoEv (button) folded before Flop (didn't bet)
+Seat 6: sta$igk (small blind) showed [9h Kh] and won ($108.32) with two pair, Kings and Fours
+
+
+
+PokerStars Hand #254669537663:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 14:42:05 WET [2025/02/02 9:42:05 ET]
+Table 'Pongola' 6-max Seat #6 is the button
+Seat 1: CichiChanMarian ($100 in chips) is sitting out
+Seat 4: hag111 ($100 in chips) 
+Seat 5: MakoEv ($100 in chips) 
+Seat 6: sta$igk ($153.91 in chips) 
+hag111: posts small blind $0.50
+MakoEv: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+hag111: folds 
+MakoEv: folds 
+Uncalled bet ($1.50) returned to sta$igk
+hag111 leaves the table
+sta$igk collected $2.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: CichiChanMarian
+Seat 4: hag111 (small blind) folded before Flop
+Seat 5: MakoEv (big blind) folded before Flop
+Seat 6: sta$igk (button) collected ($2.50)
+
+
+
+PokerStars Hand #254669541028:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 14:42:20 WET [2025/02/02 9:42:20 ET]
+Table 'Pongola' 6-max Seat #5 is the button
+Seat 1: CichiChanMarian ($100 in chips) 
+Seat 5: MakoEv ($100 in chips) 
+Seat 6: sta$igk ($155.41 in chips) 
+sta$igk: posts small blind $0.50
+CichiChanMarian: posts big blind $1
+*** HOLE CARDS ***
+MakoEv: raises $1.50 to $2.50
+sta$igk: folds 
+CichiChanMarian: calls $1.50
+*** FLOP *** [Tc 6s 9h]
+CichiChanMarian: checks 
+MakoEv: checks 
+*** TURN *** [Tc 6s 9h] [4d]
+CichiChanMarian: checks 
+MakoEv: bets $5.70
+CichiChanMarian: folds 
+Uncalled bet ($5.70) returned to MakoEv
+MakoEv collected $5.22 from pot
+MakoEv: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Tc 6s 9h 4d]
+Seat 1: CichiChanMarian (big blind) folded on the Turn
+Seat 5: MakoEv (button) collected ($5.22)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+

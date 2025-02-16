@@ -1,0 +1,503 @@
+﻿PokerStars Hand #254610019268:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:45:52 WET [2025/01/29 13:45:52 ET]
+Table 'Janina' 6-max Seat #2 is the button
+Seat 1: przemasek ($21.88 in chips) 
+Seat 2: 3EPH ($100 in chips) 
+Seat 3: Poker9803 ($100 in chips) 
+Seat 4: MaikonAll ($100 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Poker9803: posts small blind $0.50
+MaikonAll: posts big blind $1
+*** HOLE CARDS ***
+DL1B: raises $1 to $2
+przemasek: raises $19.88 to $21.88 and is all-in
+MAO_DZEDYN_S joins the table at seat #6 
+3EPH: folds 
+Poker9803: folds 
+MaikonAll: folds 
+DL1B: calls $19.88
+*** FLOP *** [9d 6c 5c]
+*** TURN *** [9d 6c 5c] [Tc]
+*** RIVER *** [9d 6c 5c Tc] [Th]
+*** SHOW DOWN ***
+DL1B: shows [As 8s] (a pair of Tens)
+przemasek: shows [Qc Ah] (a pair of Tens - Ace+Queen kicker)
+przemasek collected $43 from pot
+*** SUMMARY ***
+Total pot $45.26 | Rake $2.26 
+Board [9d 6c 5c Tc Th]
+Seat 1: przemasek showed [Qc Ah] and won ($43) with a pair of Tens
+Seat 2: 3EPH (button) folded before Flop (didn't bet)
+Seat 3: Poker9803 (small blind) folded before Flop
+Seat 4: MaikonAll (big blind) folded before Flop
+Seat 5: DL1B showed [As 8s] and lost with a pair of Tens
+
+
+
+PokerStars Hand #254610030308:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:46:31 WET [2025/01/29 13:46:31 ET]
+Table 'Janina' 6-max Seat #3 is the button
+Seat 6: MAO_DZEDYN_S ($100 in chips) is sitting out
+Seat 1: przemasek ($43 in chips) 
+Seat 2: 3EPH ($100 in chips) 
+Seat 3: Poker9803 ($100 in chips) 
+Seat 4: MaikonAll ($100 in chips) 
+Seat 5: DL1B ($100 in chips) 
+MaikonAll: posts small blind $0.50
+DL1B: posts big blind $1
+MAO_DZEDYN_S: sits out 
+*** HOLE CARDS ***
+przemasek: folds 
+3EPH: raises $1.50 to $2.50
+Poker9803: folds 
+MaikonAll: folds 
+DL1B: folds 
+Uncalled bet ($1.50) returned to 3EPH
+3EPH collected $2.50 from pot
+3EPH: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: MAO_DZEDYN_S
+Seat 1: przemasek folded before Flop (didn't bet)
+Seat 2: 3EPH collected ($2.50)
+Seat 3: Poker9803 (button) folded before Flop (didn't bet)
+Seat 4: MaikonAll (small blind) folded before Flop
+Seat 5: DL1B (big blind) folded before Flop
+
+
+
+PokerStars Hand #254610034948:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:46:47 WET [2025/01/29 13:46:47 ET]
+Table 'Janina' 6-max Seat #4 is the button
+Seat 1: przemasek ($43 in chips) 
+Seat 2: 3EPH ($101.50 in chips) 
+Seat 3: Poker9803 ($100 in chips) 
+Seat 4: MaikonAll ($100 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+DL1B: posts small blind $0.50
+MAO_DZEDYN_S: posts big blind $1
+*** HOLE CARDS ***
+przemasek: folds 
+3EPH: folds 
+Poker9803: raises $1.50 to $2.50
+MaikonAll: folds 
+DL1B: folds 
+MAO_DZEDYN_S: folds 
+Uncalled bet ($1.50) returned to Poker9803
+Poker9803 collected $2.50 from pot
+Poker9803: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: przemasek folded before Flop (didn't bet)
+Seat 2: 3EPH folded before Flop (didn't bet)
+Seat 3: Poker9803 collected ($2.50)
+Seat 4: MaikonAll (button) folded before Flop (didn't bet)
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: MAO_DZEDYN_S (big blind) folded before Flop
+
+
+
+PokerStars Hand #254610041126:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:47:09 WET [2025/01/29 13:47:09 ET]
+Table 'Janina' 6-max Seat #5 is the button
+Seat 1: przemasek ($43 in chips) 
+Seat 2: 3EPH ($101.50 in chips) 
+Seat 3: Poker9803 ($101.50 in chips) 
+Seat 4: MaikonAll ($100 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+przemasek: posts big blind $1
+*** HOLE CARDS ***
+3EPH: folds 
+Poker9803: folds 
+MaikonAll: raises $1.30 to $2.30
+DL1B: folds 
+MAO_DZEDYN_S: folds 
+przemasek: calls $1.30
+*** FLOP *** [2h Js 8c]
+przemasek: checks 
+MaikonAll: bets $1.21
+przemasek: calls $1.21
+*** TURN *** [2h Js 8c] [Kh]
+przemasek: checks 
+MaikonAll: checks 
+*** RIVER *** [2h Js 8c Kh] [9h]
+przemasek: bets $5.39
+MaikonAll: calls $5.39
+*** SHOW DOWN ***
+przemasek: shows [4d Ks] (a pair of Kings)
+MaikonAll: mucks hand 
+przemasek collected $17.38 from pot
+*** SUMMARY ***
+Total pot $18.30 | Rake $0.92 
+Board [2h Js 8c Kh 9h]
+Seat 1: przemasek (big blind) showed [4d Ks] and won ($17.38) with a pair of Kings
+Seat 2: 3EPH folded before Flop (didn't bet)
+Seat 3: Poker9803 folded before Flop (didn't bet)
+Seat 4: MaikonAll mucked
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: MAO_DZEDYN_S (small blind) folded before Flop
+
+
+
+PokerStars Hand #254610055643:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:48:00 WET [2025/01/29 13:48:00 ET]
+Table 'Janina' 6-max Seat #6 is the button
+Seat 1: przemasek ($51.48 in chips) 
+Seat 2: 3EPH ($101.50 in chips) 
+Seat 3: Poker9803 ($101.50 in chips) 
+Seat 4: MaikonAll ($100 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+przemasek: posts small blind $0.50
+3EPH: posts big blind $1
+*** HOLE CARDS ***
+Poker9803: raises $1 to $2
+MaikonAll: folds 
+DL1B: folds 
+MAO_DZEDYN_S: folds 
+przemasek: calls $1.50
+3EPH: folds 
+*** FLOP *** [Kc 9d Qh]
+przemasek: checks 
+Poker9803: bets $2.38
+przemasek: folds 
+Uncalled bet ($2.38) returned to Poker9803
+Poker9803 collected $4.75 from pot
+Poker9803: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Kc 9d Qh]
+Seat 1: przemasek (small blind) folded on the Flop
+Seat 2: 3EPH (big blind) folded before Flop
+Seat 3: Poker9803 collected ($4.75)
+Seat 4: MaikonAll folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: MAO_DZEDYN_S (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610064096:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:48:30 WET [2025/01/29 13:48:30 ET]
+Table 'Janina' 6-max Seat #1 is the button
+Seat 1: przemasek ($49.48 in chips) 
+Seat 2: 3EPH ($100.50 in chips) 
+Seat 3: Poker9803 ($104.25 in chips) 
+Seat 4: MaikonAll ($100 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+3EPH: posts small blind $0.50
+Poker9803: posts big blind $1
+*** HOLE CARDS ***
+MaikonAll: folds 
+DL1B: folds 
+MAO_DZEDYN_S: raises $1.25 to $2.25
+przemasek: folds 
+3EPH: raises $8.75 to $11
+Poker9803: folds 
+MAO_DZEDYN_S: folds 
+Uncalled bet ($8.75) returned to 3EPH
+3EPH collected $5.50 from pot
+3EPH: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: przemasek (button) folded before Flop (didn't bet)
+Seat 2: 3EPH (small blind) collected ($5.50)
+Seat 3: Poker9803 (big blind) folded before Flop
+Seat 4: MaikonAll folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: MAO_DZEDYN_S folded before Flop
+
+
+
+PokerStars Hand #254610073420:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:49:03 WET [2025/01/29 13:49:03 ET]
+Table 'Janina' 6-max Seat #2 is the button
+Seat 1: przemasek ($49.48 in chips) 
+Seat 2: 3EPH ($103.75 in chips) 
+Seat 3: Poker9803 ($103.25 in chips) 
+Seat 4: MaikonAll ($100 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+Poker9803: posts small blind $0.50
+MaikonAll: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+MAO_DZEDYN_S: raises $1.25 to $2.25
+przemasek: calls $2.25
+3EPH: folds 
+Poker9803: folds 
+MaikonAll: calls $1.25
+*** FLOP *** [Jh Ts 4d]
+MaikonAll: checks 
+MAO_DZEDYN_S: checks 
+przemasek: bets $2.78
+MaikonAll: calls $2.78
+MAO_DZEDYN_S: folds 
+*** TURN *** [Jh Ts 4d] [5d]
+MaikonAll: checks 
+przemasek: bets $4.15
+MaikonAll: calls $4.15
+*** RIVER *** [Jh Ts 4d 5d] [7c]
+MaikonAll: checks 
+przemasek: checks 
+*** SHOW DOWN ***
+MaikonAll: shows [Ah Th] (a pair of Tens)
+przemasek: mucks hand 
+MaikonAll collected $20.05 from pot
+*** SUMMARY ***
+Total pot $21.11 | Rake $1.06 
+Board [Jh Ts 4d 5d 7c]
+Seat 1: przemasek mucked
+Seat 2: 3EPH (button) folded before Flop (didn't bet)
+Seat 3: Poker9803 (small blind) folded before Flop
+Seat 4: MaikonAll (big blind) showed [Ah Th] and won ($20.05) with a pair of Tens
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: MAO_DZEDYN_S folded on the Flop
+
+
+
+PokerStars Hand #254610104665:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:50:54 WET [2025/01/29 13:50:54 ET]
+Table 'Janina' 6-max Seat #3 is the button
+Seat 1: przemasek ($40.30 in chips) 
+Seat 2: 3EPH ($103.75 in chips) 
+Seat 3: Poker9803 ($102.75 in chips) 
+Seat 4: MaikonAll ($110.87 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+MaikonAll: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+przemasek: raises $1 to $2
+3EPH: folds 
+Poker9803: folds 
+MaikonAll: raises $5 to $7
+DL1B: folds 
+przemasek: calls $5
+*** FLOP *** [Jc 9c 2d]
+MaikonAll: bets $3.58
+przemasek: folds 
+Uncalled bet ($3.58) returned to MaikonAll
+MaikonAll collected $14.25 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [Jc 9c 2d]
+Seat 1: przemasek folded on the Flop
+Seat 2: 3EPH folded before Flop (didn't bet)
+Seat 3: Poker9803 (button) folded before Flop (didn't bet)
+Seat 4: MaikonAll (small blind) collected ($14.25)
+Seat 5: DL1B (big blind) folded before Flop
+Seat 6: MAO_DZEDYN_S folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610117370:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:51:39 WET [2025/01/29 13:51:39 ET]
+Table 'Janina' 6-max Seat #4 is the button
+Seat 1: przemasek ($33.30 in chips) 
+Seat 2: 3EPH ($103.75 in chips) 
+Seat 3: Poker9803 ($102.75 in chips) 
+Seat 4: MaikonAll ($118.12 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+DL1B: posts small blind $0.50
+MAO_DZEDYN_S: posts big blind $1
+*** HOLE CARDS ***
+przemasek: raises $1 to $2
+3EPH: folds 
+Poker9803: raises $4 to $6
+MaikonAll: folds 
+DL1B: folds 
+MAO_DZEDYN_S: folds 
+przemasek: calls $4
+*** FLOP *** [Kd 7d 8d]
+przemasek: checks 
+Poker9803: checks 
+*** TURN *** [Kd 7d 8d] [Td]
+przemasek: bets $6.38
+Poker9803: folds 
+Uncalled bet ($6.38) returned to przemasek
+przemasek collected $12.82 from pot
+przemasek: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.68 
+Board [Kd 7d 8d Td]
+Seat 1: przemasek collected ($12.82)
+Seat 2: 3EPH folded before Flop (didn't bet)
+Seat 3: Poker9803 folded on the Turn
+Seat 4: MaikonAll (button) folded before Flop (didn't bet)
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: MAO_DZEDYN_S (big blind) folded before Flop
+
+
+
+PokerStars Hand #254610125793:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:52:09 WET [2025/01/29 13:52:09 ET]
+Table 'Janina' 6-max Seat #5 is the button
+Seat 1: przemasek ($40.12 in chips) 
+Seat 2: 3EPH ($103.75 in chips) 
+Seat 3: Poker9803 ($100 in chips) 
+Seat 4: MaikonAll ($118.12 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+przemasek: posts big blind $1
+*** HOLE CARDS ***
+3EPH: folds 
+Poker9803: folds 
+MaikonAll: folds 
+DL1B: folds 
+MAO_DZEDYN_S: calls $0.50
+przemasek: raises $8.80 to $9.80
+MAO_DZEDYN_S: folds 
+Uncalled bet ($8.80) returned to przemasek
+przemasek collected $2 from pot
+przemasek: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: przemasek (big blind) collected ($2)
+Seat 2: 3EPH folded before Flop (didn't bet)
+Seat 3: Poker9803 folded before Flop (didn't bet)
+Seat 4: MaikonAll folded before Flop (didn't bet)
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: MAO_DZEDYN_S (small blind) folded before Flop
+
+
+
+PokerStars Hand #254610133799:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:52:37 WET [2025/01/29 13:52:37 ET]
+Table 'Janina' 6-max Seat #6 is the button
+Seat 1: przemasek ($41.12 in chips) 
+Seat 2: 3EPH ($103.75 in chips) 
+Seat 3: Poker9803 ($100 in chips) 
+Seat 4: MaikonAll ($118.12 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+przemasek: posts small blind $0.50
+3EPH: posts big blind $1
+*** HOLE CARDS ***
+Poker9803: folds 
+MaikonAll: folds 
+DL1B: raises $1.50 to $2.50
+MAO_DZEDYN_S: folds 
+przemasek: calls $2
+3EPH: folds 
+*** FLOP *** [2s 6d 7h]
+przemasek: checks 
+DL1B: checks 
+*** TURN *** [2s 6d 7h] [4c]
+przemasek: bets $2.73
+DL1B: folds 
+Uncalled bet ($2.73) returned to przemasek
+przemasek collected $5.70 from pot
+przemasek: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [2s 6d 7h 4c]
+Seat 1: przemasek (small blind) collected ($5.70)
+Seat 2: 3EPH (big blind) folded before Flop
+Seat 3: Poker9803 folded before Flop (didn't bet)
+Seat 4: MaikonAll folded before Flop (didn't bet)
+Seat 5: DL1B folded on the Turn
+Seat 6: MAO_DZEDYN_S (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254610177593:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:55:18 WET [2025/01/29 13:55:18 ET]
+Table 'Janina' 6-max Seat #4 is the button
+Seat 1: przemasek ($32.72 in chips) 
+Seat 2: 3EPH ($102.25 in chips) 
+Seat 3: Poker9803 ($100 in chips) 
+Seat 4: MaikonAll ($130.99 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+DL1B: posts small blind $0.50
+MAO_DZEDYN_S: posts big blind $1
+*** HOLE CARDS ***
+przemasek: folds 
+3EPH: folds 
+Poker9803: folds 
+MaikonAll: raises $1.50 to $2.50
+DL1B: folds 
+MAO_DZEDYN_S: folds 
+Uncalled bet ($1.50) returned to MaikonAll
+MaikonAll collected $2.50 from pot
+MaikonAll: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: przemasek folded before Flop (didn't bet)
+Seat 2: 3EPH folded before Flop (didn't bet)
+Seat 3: Poker9803 folded before Flop (didn't bet)
+Seat 4: MaikonAll (button) collected ($2.50)
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: MAO_DZEDYN_S (big blind) folded before Flop
+
+
+
+PokerStars Hand #254610180713:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:55:33 WET [2025/01/29 13:55:33 ET]
+Table 'Janina' 6-max Seat #5 is the button
+Seat 1: przemasek ($32.72 in chips) 
+Seat 2: 3EPH ($102.25 in chips) 
+Seat 3: Poker9803 ($100 in chips) 
+Seat 4: MaikonAll ($132.49 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+przemasek: posts big blind $1
+*** HOLE CARDS ***
+3EPH: folds 
+Poker9803: raises $1 to $2
+MaikonAll: folds 
+DL1B: raises $5.50 to $7.50
+MAO_DZEDYN_S: folds 
+przemasek: raises $11.40 to $18.90
+Poker9803: raises $81.10 to $100 and is all-in
+DL1B: folds 
+przemasek: calls $13.82 and is all-in
+Uncalled bet ($67.28) returned to Poker9803
+*** FLOP *** [6d Td Jd]
+*** TURN *** [6d Td Jd] [6c]
+*** RIVER *** [6d Td Jd 6c] [8d]
+*** SHOW DOWN ***
+przemasek: shows [Qh Qc] (two pair, Queens and Sixes)
+Poker9803: shows [Qd Qs] (a flush, Queen high)
+Poker9803 collected $70.94 from pot
+*** SUMMARY ***
+Total pot $73.44 | Rake $2.50 
+Board [6d Td Jd 6c 8d]
+Seat 1: przemasek (big blind) showed [Qh Qc] and lost with two pair, Queens and Sixes
+Seat 2: 3EPH folded before Flop (didn't bet)
+Seat 3: Poker9803 showed [Qd Qs] and won ($70.94) with a flush, Queen high
+Seat 4: MaikonAll folded before Flop (didn't bet)
+Seat 5: DL1B (button) folded before Flop
+Seat 6: MAO_DZEDYN_S (small blind) folded before Flop
+
+
+
+PokerStars Hand #254610187325:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/29 18:56:07 WET [2025/01/29 13:56:07 ET]
+Table 'Janina' 6-max Seat #6 is the button
+Seat 1: przemasek ($0 in chips) is sitting out
+Seat 2: 3EPH ($102.25 in chips) 
+Seat 3: Poker9803 ($138.22 in chips) 
+Seat 4: MaikonAll ($132.49 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: MAO_DZEDYN_S ($100 in chips) 
+3EPH: posts small blind $0.50
+Poker9803: posts big blind $1
+*** HOLE CARDS ***
+przemasek leaves the table
+MaikonAll: folds 
+DL1B: folds 
+MAO_DZEDYN_S: folds 
+3EPH: raises $2 to $3
+Poker9803: raises $6 to $9
+3EPH: raises $13.50 to $22.50
+Poker9803: folds 
+Uncalled bet ($13.50) returned to 3EPH
+3EPH collected $18 from pot
+3EPH: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0 
+Seat 1: przemasek
+Seat 2: 3EPH (small blind) collected ($18)
+Seat 3: Poker9803 (big blind) folded before Flop
+Seat 4: MaikonAll folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: MAO_DZEDYN_S (button) folded before Flop (didn't bet)
+
+
+

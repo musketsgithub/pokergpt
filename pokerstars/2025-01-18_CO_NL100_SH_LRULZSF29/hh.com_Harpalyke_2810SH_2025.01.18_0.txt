@@ -1,0 +1,3109 @@
+﻿PokerStars Hand #254434541539:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:15:53 WET [2025/01/18 13:15:53 ET]
+Table 'Harpalyke IV' 6-max Seat #6 is the button
+Seat 1: EvilReality ($100 in chips) 
+Seat 2: YeeesMan ($100 in chips) 
+Seat 4: J2DaMac ($107.71 in chips) 
+Seat 5: raketkasix ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+EvilReality: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+J2DaMac: folds 
+raketkasix: folds 
+aoish30: folds 
+vezis3 joins the table at seat #3 
+EvilReality: raises $2 to $3
+YeeesMan: calls $2
+*** FLOP *** [3s 4s 6c]
+EvilReality: bets $1.88
+YeeesMan: folds 
+Uncalled bet ($1.88) returned to EvilReality
+EvilReality collected $5.70 from pot
+EvilReality: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [3s 4s 6c]
+Seat 1: EvilReality (small blind) collected ($5.70)
+Seat 2: YeeesMan (big blind) folded on the Flop
+Seat 4: J2DaMac folded before Flop (didn't bet)
+Seat 5: raketkasix folded before Flop (didn't bet)
+Seat 6: aoish30 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434553771:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:16:34 WET [2025/01/18 13:16:34 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 1: EvilReality ($102.70 in chips) 
+Seat 2: YeeesMan ($100 in chips) 
+Seat 3: vezis3 ($100 in chips) 
+Seat 4: J2DaMac ($107.71 in chips) 
+Seat 5: raketkasix ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+YeeesMan: posts small blind $0.50
+vezis3: posts big blind $1
+*** HOLE CARDS ***
+J2DaMac: calls $1
+raketkasix: folds 
+aoish30: folds 
+EvilReality: folds 
+YeeesMan: folds 
+vezis3: checks 
+*** FLOP *** [Qh 6d 6h]
+vezis3: checks 
+J2DaMac: bets $1
+vezis3: folds 
+Uncalled bet ($1) returned to J2DaMac
+J2DaMac collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Qh 6d 6h]
+Seat 1: EvilReality (button) folded before Flop (didn't bet)
+Seat 2: YeeesMan (small blind) folded before Flop
+Seat 3: vezis3 (big blind) folded on the Flop
+Seat 4: J2DaMac collected ($2.38)
+Seat 5: raketkasix folded before Flop (didn't bet)
+Seat 6: aoish30 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434561186:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:16:59 WET [2025/01/18 13:16:59 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 1: EvilReality ($102.70 in chips) 
+Seat 2: YeeesMan ($100 in chips) 
+Seat 3: vezis3 ($100 in chips) 
+Seat 4: J2DaMac ($109.09 in chips) 
+Seat 5: raketkasix ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+vezis3: posts small blind $0.50
+J2DaMac: posts big blind $1
+*** HOLE CARDS ***
+raketkasix: raises $1.50 to $2.50
+aoish30: folds 
+EvilReality: folds 
+YeeesMan: folds 
+vezis3: raises $9.50 to $12
+J2DaMac: folds 
+raketkasix: folds 
+Uncalled bet ($9.50) returned to vezis3
+vezis3 collected $6 from pot
+vezis3: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: EvilReality folded before Flop (didn't bet)
+Seat 2: YeeesMan (button) folded before Flop (didn't bet)
+Seat 3: vezis3 (small blind) collected ($6)
+Seat 4: J2DaMac (big blind) folded before Flop
+Seat 5: raketkasix folded before Flop
+Seat 6: aoish30 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434571838:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:17:34 WET [2025/01/18 13:17:34 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 1: EvilReality ($102.70 in chips) 
+Seat 2: YeeesMan ($100 in chips) 
+Seat 3: vezis3 ($103.50 in chips) 
+Seat 4: J2DaMac ($108.09 in chips) 
+Seat 5: raketkasix ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+J2DaMac: posts small blind $0.50
+raketkasix: posts big blind $1
+*** HOLE CARDS ***
+aoish30: folds 
+EvilReality: folds 
+YeeesMan: folds 
+vezis3: folds 
+J2DaMac: calls $0.50
+raketkasix: raises $3 to $4
+J2DaMac: calls $3
+*** FLOP *** [3c Ts Qc]
+J2DaMac: checks 
+raketkasix: bets $2.51
+J2DaMac: calls $2.51
+*** TURN *** [3c Ts Qc] [8c]
+J2DaMac: checks 
+raketkasix: checks 
+*** RIVER *** [3c Ts Qc 8c] [6h]
+J2DaMac: checks 
+raketkasix: checks 
+*** SHOW DOWN ***
+J2DaMac: shows [2h Ac] (high card Ace)
+raketkasix: shows [9h 9d] (a pair of Nines)
+raketkasix collected $12.37 from pot
+*** SUMMARY ***
+Total pot $13.02 | Rake $0.65 
+Board [3c Ts Qc 8c 6h]
+Seat 1: EvilReality folded before Flop (didn't bet)
+Seat 2: YeeesMan folded before Flop (didn't bet)
+Seat 3: vezis3 (button) folded before Flop (didn't bet)
+Seat 4: J2DaMac (small blind) showed [2h Ac] and lost with high card Ace
+Seat 5: raketkasix (big blind) showed [9h 9d] and won ($12.37) with a pair of Nines
+Seat 6: aoish30 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434594664:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:18:50 WET [2025/01/18 13:18:50 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 1: EvilReality ($102.70 in chips) 
+Seat 2: YeeesMan ($100 in chips) 
+Seat 3: vezis3 ($103.50 in chips) 
+Seat 4: J2DaMac ($101.58 in chips) 
+Seat 5: raketkasix ($105.86 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+raketkasix: posts small blind $0.50
+aoish30: posts big blind $1
+*** HOLE CARDS ***
+EvilReality: folds 
+YeeesMan: folds 
+vezis3: folds 
+J2DaMac: raises $3 to $4
+raketkasix: folds 
+aoish30: folds 
+Uncalled bet ($3) returned to J2DaMac
+J2DaMac collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: EvilReality folded before Flop (didn't bet)
+Seat 2: YeeesMan folded before Flop (didn't bet)
+Seat 3: vezis3 folded before Flop (didn't bet)
+Seat 4: J2DaMac (button) collected ($2.50)
+Seat 5: raketkasix (small blind) folded before Flop
+Seat 6: aoish30 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254434603861:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:19:20 WET [2025/01/18 13:19:20 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 1: EvilReality ($102.70 in chips) is sitting out
+Seat 2: YeeesMan ($100 in chips) is sitting out
+Seat 3: vezis3 ($103.50 in chips) 
+Seat 4: J2DaMac ($103.08 in chips) 
+Seat 5: raketkasix ($105.36 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+aoish30: posts small blind $0.50
+EvilReality: is sitting out 
+YeeesMan: is sitting out 
+vezis3: posts big blind $1
+*** HOLE CARDS ***
+J2DaMac: folds 
+EvilReality leaves the table
+raketkasix: folds 
+YeeesMan leaves the table
+aoish30: folds 
+Uncalled bet ($0.50) returned to vezis3
+vezis3 collected $1 from pot
+vezis3: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: EvilReality
+Seat 2: YeeesMan
+Seat 3: vezis3 (big blind) collected ($1)
+Seat 4: J2DaMac folded before Flop (didn't bet)
+Seat 5: raketkasix (button) folded before Flop (didn't bet)
+Seat 6: aoish30 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254434608774:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:19:37 WET [2025/01/18 13:19:37 ET]
+Table 'Harpalyke IV' 6-max Seat #6 is the button
+Seat 3: vezis3 ($104 in chips) 
+Seat 4: J2DaMac ($103.08 in chips) 
+Seat 5: raketkasix ($105.36 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+vezis3: posts small blind $0.50
+J2DaMac: posts big blind $1
+*** HOLE CARDS ***
+blistein joins the table at seat #2 
+raketkasix: raises $1.50 to $2.50
+BoyLoc0 joins the table at seat #1 
+aoish30: folds 
+vezis3: folds 
+J2DaMac: calls $1.50
+*** FLOP *** [4s As 2c]
+J2DaMac: bets $3
+raketkasix: calls $3
+*** TURN *** [4s As 2c] [5c]
+J2DaMac: bets $7
+raketkasix: calls $7
+*** RIVER *** [4s As 2c 5c] [Kd]
+J2DaMac: bets $15
+raketkasix: folds 
+Uncalled bet ($15) returned to J2DaMac
+J2DaMac collected $24.50 from pot
+*** SUMMARY ***
+Total pot $25.50 | Rake $1 
+Board [4s As 2c 5c Kd]
+Seat 3: vezis3 (small blind) folded before Flop
+Seat 4: J2DaMac (big blind) collected ($24.50)
+Seat 5: raketkasix folded on the River
+Seat 6: aoish30 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434625824:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:20:33 WET [2025/01/18 13:20:33 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 1: BoyLoc0 ($100 in chips) is sitting out
+Seat 2: blistein ($100 in chips) is sitting out
+Seat 5: raketkasix ($100 in chips) is sitting out
+Seat 3: vezis3 ($103.50 in chips) 
+Seat 4: J2DaMac ($115.08 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+J2DaMac: posts small blind $0.50
+raketkasix: is sitting out 
+aoish30: posts big blind $1
+BoyLoc0: sits out 
+blistein: sits out 
+*** HOLE CARDS ***
+vezis3: raises $1.40 to $2.40
+J2DaMac: folds 
+raketkasix leaves the table
+aoish30: folds 
+Uncalled bet ($1.40) returned to vezis3
+vezis3 collected $2.50 from pot
+vezis3: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: BoyLoc0
+Seat 2: blistein
+Seat 5: raketkasix
+Seat 3: vezis3 (button) collected ($2.50)
+Seat 4: J2DaMac (small blind) folded before Flop
+Seat 6: aoish30 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254434628997:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:20:44 WET [2025/01/18 13:20:44 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 2: blistein ($100 in chips) is sitting out
+Seat 1: BoyLoc0 ($100 in chips) 
+Seat 3: vezis3 ($105 in chips) 
+Seat 4: J2DaMac ($114.58 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+aoish30: posts small blind $0.50
+BoyLoc0: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+vezis3: folds 
+J2DaMac: calls $1
+aoish30: raises $4 to $5
+Bejondeiala joins the table at seat #5 
+BoyLoc0: raises $9 to $14
+J2DaMac: folds 
+aoish30: calls $9
+*** FLOP *** [3d 2h 8d]
+aoish30: checks 
+BoyLoc0: bets $19
+aoish30: folds 
+Uncalled bet ($19) returned to BoyLoc0
+BoyLoc0 collected $28 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $29 | Rake $1 
+Board [3d 2h 8d]
+Seat 2: blistein
+Seat 1: BoyLoc0 (big blind) collected ($28)
+Seat 3: vezis3 folded before Flop (didn't bet)
+Seat 4: J2DaMac (button) folded before Flop
+Seat 6: aoish30 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254434647785:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:21:46 WET [2025/01/18 13:21:46 ET]
+Table 'Harpalyke IV' 6-max Seat #6 is the button
+Seat 5: Bejondeiala ($100 in chips) is sitting out
+Seat 1: BoyLoc0 ($114 in chips) 
+Seat 2: blistein ($100 in chips) 
+Seat 3: vezis3 ($105 in chips) 
+Seat 4: J2DaMac ($113.58 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+blistein: posts big blind $1
+Bejondeiala: sits out 
+*** HOLE CARDS ***
+vezis3: folds 
+J2DaMac: raises $1 to $2
+aoish30: calls $2
+BoyLoc0: folds 
+blistein: folds 
+*** FLOP *** [3h Ah 7d]
+J2DaMac: bets $1
+aoish30: calls $1
+*** TURN *** [3h Ah 7d] [3d]
+J2DaMac: bets $1
+aoish30: calls $1
+*** RIVER *** [3h Ah 7d 3d] [3c]
+J2DaMac: bets $3
+aoish30: calls $3
+*** SHOW DOWN ***
+J2DaMac: shows [As Kd] (a full house, Threes full of Aces)
+aoish30: mucks hand 
+J2DaMac collected $14.72 from pot
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.78 
+Board [3h Ah 7d 3d 3c]
+Seat 5: Bejondeiala
+Seat 1: BoyLoc0 (small blind) folded before Flop
+Seat 2: blistein (big blind) folded before Flop
+Seat 3: vezis3 folded before Flop (didn't bet)
+Seat 4: J2DaMac showed [As Kd] and won ($14.72) with a full house, Threes full of Aces
+Seat 6: aoish30 (button) mucked
+
+
+
+PokerStars Hand #254434663934:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:22:39 WET [2025/01/18 13:22:39 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 5: Bejondeiala ($100 in chips) is sitting out
+Seat 1: BoyLoc0 ($113.50 in chips) 
+Seat 2: blistein ($100 in chips) 
+Seat 3: vezis3 ($105 in chips) 
+Seat 4: J2DaMac ($121.30 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+blistein: posts small blind $0.50
+vezis3: posts big blind $1
+Bejondeiala: sits out 
+*** HOLE CARDS ***
+J2DaMac: calls $1
+aoish30: raises $3 to $4
+BoyLoc0: folds 
+blistein: raises $11 to $15
+vezis3: folds 
+J2DaMac: folds 
+aoish30: folds 
+Uncalled bet ($11) returned to blistein
+blistein collected $10 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 5: Bejondeiala
+Seat 1: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 2: blistein (small blind) collected ($10)
+Seat 3: vezis3 (big blind) folded before Flop
+Seat 4: J2DaMac folded before Flop
+Seat 6: aoish30 folded before Flop
+
+
+
+PokerStars Hand #254434675193:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:23:16 WET [2025/01/18 13:23:16 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 4: J2DaMac ($120.30 in chips) is sitting out
+Seat 1: BoyLoc0 ($113.50 in chips) 
+Seat 2: blistein ($106 in chips) 
+Seat 3: vezis3 ($104 in chips) 
+Seat 5: Bejondeiala ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+vezis3: posts small blind $0.50
+Bejondeiala: posts big blind $1
+*** HOLE CARDS ***
+aoish30: folds 
+BoyLoc0: raises $1.50 to $2.50
+blistein: folds 
+vezis3: raises $9.50 to $12
+Bejondeiala: folds 
+BoyLoc0: calls $9.50
+*** FLOP *** [6c Td 5h]
+vezis3: checks 
+BoyLoc0: checks 
+*** TURN *** [6c Td 5h] [3s]
+vezis3: checks 
+BoyLoc0: checks 
+*** RIVER *** [6c Td 5h 3s] [5d]
+vezis3: checks 
+BoyLoc0: bets $17.81
+vezis3: calls $17.81
+*** SHOW DOWN ***
+BoyLoc0: shows [8c 8h] (two pair, Eights and Fives)
+vezis3: mucks hand 
+BoyLoc0 collected $58.12 from pot
+*** SUMMARY ***
+Total pot $60.62 | Rake $2.50 
+Board [6c Td 5h 3s 5d]
+Seat 4: J2DaMac
+Seat 1: BoyLoc0 showed [8c 8h] and won ($58.12) with two pair, Eights and Fives
+Seat 2: blistein (button) folded before Flop (didn't bet)
+Seat 3: vezis3 (small blind) mucked
+Seat 5: Bejondeiala (big blind) folded before Flop
+Seat 6: aoish30 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434701003:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:24:42 WET [2025/01/18 13:24:42 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 4: J2DaMac ($120.30 in chips) is sitting out
+Seat 1: BoyLoc0 ($141.81 in chips) 
+Seat 2: blistein ($106 in chips) 
+Seat 3: vezis3 ($100 in chips) 
+Seat 5: Bejondeiala ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+Bejondeiala: posts small blind $0.50
+aoish30: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+blistein: folds 
+vezis3: folds 
+Bejondeiala: folds 
+aoish30: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: J2DaMac
+Seat 1: BoyLoc0 collected ($2.50)
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: vezis3 (button) folded before Flop (didn't bet)
+Seat 5: Bejondeiala (small blind) folded before Flop
+Seat 6: aoish30 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254434705762:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:24:58 WET [2025/01/18 13:24:58 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 4: J2DaMac ($120.30 in chips) is sitting out
+Seat 1: BoyLoc0 ($143.31 in chips) 
+Seat 2: blistein ($106 in chips) 
+Seat 3: vezis3 ($100 in chips) 
+Seat 5: Bejondeiala ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+aoish30: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+blistein leaves the table
+vezis3: raises $1 to $2
+Bejondeiala: folds 
+aoish30: folds 
+BoyLoc0: folds 
+Uncalled bet ($1) returned to vezis3
+vezis3 collected $2.50 from pot
+vezis3: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: J2DaMac
+Seat 1: BoyLoc0 (big blind) folded before Flop
+Seat 2: blistein folded before Flop (didn't bet)
+Seat 3: vezis3 collected ($2.50)
+Seat 5: Bejondeiala (button) folded before Flop (didn't bet)
+Seat 6: aoish30 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254434715506:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:25:31 WET [2025/01/18 13:25:31 ET]
+Table 'Harpalyke IV' 6-max Seat #6 is the button
+Seat 4: J2DaMac ($120.30 in chips) is sitting out
+Seat 1: BoyLoc0 ($142.31 in chips) 
+Seat 3: vezis3 ($101.50 in chips) 
+Seat 5: Bejondeiala ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+BoyLoc0: posts small blind $0.50
+vezis3: posts big blind $1
+*** HOLE CARDS ***
+foxy184184 joins the table at seat #2 
+foxy184184 is disconnected 
+Bejondeiala: folds 
+aoish30: folds 
+BoyLoc0: raises $2 to $3
+vezis3: folds 
+Uncalled bet ($2) returned to BoyLoc0
+BoyLoc0 collected $2 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: J2DaMac
+Seat 1: BoyLoc0 (small blind) collected ($2)
+Seat 3: vezis3 (big blind) folded before Flop
+Seat 5: Bejondeiala folded before Flop (didn't bet)
+Seat 6: aoish30 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434729621:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:26:18 WET [2025/01/18 13:26:18 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 2: foxy184184 ($10 in chips) is sitting out
+Seat 4: J2DaMac ($120.30 in chips) is sitting out
+Seat 1: BoyLoc0 ($143.31 in chips) 
+Seat 3: vezis3 ($100.50 in chips) 
+Seat 5: Bejondeiala ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+vezis3: posts small blind $0.50
+Bejondeiala: posts big blind $1
+*** HOLE CARDS ***
+aoish30: folds 
+BoyLoc0: folds 
+vezis3: raises $2 to $3
+Bejondeiala: raises $6 to $9
+vezis3: folds 
+Uncalled bet ($6) returned to Bejondeiala
+Bejondeiala collected $6 from pot
+Bejondeiala: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: foxy184184
+Seat 4: J2DaMac
+Seat 1: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: vezis3 (small blind) folded before Flop
+Seat 5: Bejondeiala (big blind) collected ($6)
+Seat 6: aoish30 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434737656:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:26:45 WET [2025/01/18 13:26:45 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 2: foxy184184 ($10 in chips) is sitting out
+Seat 4: J2DaMac ($120.30 in chips) is sitting out
+Seat 6: aoish30 ($100 in chips) is sitting out
+Seat 1: BoyLoc0 ($143.31 in chips) 
+Seat 3: vezis3 ($100 in chips) 
+Seat 5: Bejondeiala ($103 in chips) 
+Bejondeiala: posts small blind $0.50
+aoish30: is sitting out 
+BoyLoc0: posts big blind $1
+foxy184184: sits out 
+*** HOLE CARDS ***
+vezis3: raises $1.40 to $2.40
+Bejondeiala: folds 
+BoyLoc0: folds 
+Uncalled bet ($1.40) returned to vezis3
+vezis3 collected $2.50 from pot
+vezis3: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: foxy184184
+Seat 4: J2DaMac
+Seat 6: aoish30
+Seat 1: BoyLoc0 (big blind) folded before Flop
+Seat 3: vezis3 (button) collected ($2.50)
+Seat 5: Bejondeiala (small blind) folded before Flop
+
+
+
+PokerStars Hand #254434743836:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:27:06 WET [2025/01/18 13:27:06 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 4: J2DaMac ($120.30 in chips) is sitting out
+Seat 6: aoish30 ($100 in chips) is sitting out
+Seat 1: BoyLoc0 ($142.31 in chips) 
+Seat 2: foxy184184 ($10 in chips) 
+Seat 3: vezis3 ($101.50 in chips) 
+Seat 5: Bejondeiala ($102.50 in chips) 
+BoyLoc0: posts small blind $0.50
+foxy184184: posts big blind $1
+*** HOLE CARDS ***
+vezis3: folds 
+Bejondeiala: raises $1.50 to $2.50
+BoyLoc0: folds 
+foxy184184: calls $1.50
+*** FLOP *** [4c 7h 9d]
+foxy184184: checks 
+Bejondeiala: bets $7.31
+foxy184184: folds 
+Uncalled bet ($7.31) returned to Bejondeiala
+Bejondeiala collected $5.22 from pot
+Bejondeiala: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [4c 7h 9d]
+Seat 4: J2DaMac
+Seat 6: aoish30
+Seat 1: BoyLoc0 (small blind) folded before Flop
+Seat 2: foxy184184 (big blind) folded on the Flop
+Seat 3: vezis3 folded before Flop (didn't bet)
+Seat 5: Bejondeiala (button) collected ($5.22)
+
+
+
+PokerStars Hand #254434753428:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:27:38 WET [2025/01/18 13:27:38 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 4: J2DaMac ($120.30 in chips) is sitting out
+Seat 6: aoish30 ($100 in chips) is sitting out
+Seat 1: BoyLoc0 ($141.81 in chips) 
+Seat 2: foxy184184 ($7.50 in chips) 
+Seat 3: vezis3 ($101.50 in chips) 
+Seat 5: Bejondeiala ($105.22 in chips) 
+foxy184184: posts small blind $0.50
+vezis3: posts big blind $1
+aoish30: sits out 
+*** HOLE CARDS ***
+Bejondeiala: raises $1.10 to $2.10
+BoyLoc0: folds 
+foxy184184: folds 
+vezis3: calls $1.10
+*** FLOP *** [4c Jc 9c]
+vezis3: checks 
+Bejondeiala: bets $1.56
+vezis3: folds 
+Uncalled bet ($1.56) returned to Bejondeiala
+Bejondeiala collected $4.46 from pot
+Bejondeiala: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.70 | Rake $0.24 
+Board [4c Jc 9c]
+Seat 4: J2DaMac
+Seat 6: aoish30
+Seat 1: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 2: foxy184184 (small blind) folded before Flop
+Seat 3: vezis3 (big blind) folded on the Flop
+Seat 5: Bejondeiala collected ($4.46)
+
+
+
+PokerStars Hand #254434760034:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:28:00 WET [2025/01/18 13:28:00 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 4: J2DaMac ($120.30 in chips) is sitting out
+Seat 5: Bejondeiala ($107.58 in chips) is sitting out
+Seat 1: BoyLoc0 ($141.81 in chips) 
+Seat 2: foxy184184 ($7 in chips) 
+Seat 3: vezis3 ($100 in chips) 
+Seat 6: aoish30 ($100 in chips) 
+vezis3: posts small blind $0.50
+Bejondeiala: is sitting out 
+aoish30: posts big blind $1
+*** HOLE CARDS ***
+Bejondeiala leaves the table
+BoyLoc0: raises $1.50 to $2.50
+foxy184184: folds 
+foxy184184 leaves the table
+vezis3: folds 
+aoish30 has timed out
+aoish30: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: J2DaMac
+Seat 5: Bejondeiala
+Seat 1: BoyLoc0 collected ($2.50)
+Seat 2: foxy184184 (button) folded before Flop (didn't bet)
+Seat 3: vezis3 (small blind) folded before Flop
+Seat 6: aoish30 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254434773301:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:28:44 WET [2025/01/18 13:28:44 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 4: J2DaMac ($120.30 in chips) is sitting out
+Seat 6: aoish30 ($100 in chips) is sitting out
+Seat 1: BoyLoc0 ($143.31 in chips) 
+Seat 3: vezis3 ($100 in chips) 
+vezis3: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+vezis3: raises $1 to $2
+BoyLoc0: raises $8 to $10
+vezis3: calls $8
+*** FLOP *** [Jh 6c 6d]
+BoyLoc0: bets $14.25
+vezis3: calls $14.25
+*** TURN *** [Jh 6c 6d] [4h]
+BoyLoc0: bets $15.68
+vezis3: calls $15.68
+*** RIVER *** [Jh 6c 6d 4h] [3d]
+BoyLoc0: bets $103.38 and is all-in
+vezis3: calls $60.07 and is all-in
+Uncalled bet ($43.31) returned to BoyLoc0
+*** SHOW DOWN ***
+BoyLoc0: shows [Js 9s] (two pair, Jacks and Sixes)
+vezis3: shows [8h 6h] (three of a kind, Sixes)
+vezis3 collected $199 from pot
+sosatime96 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $200 | Rake $1 
+Board [Jh 6c 6d 4h 3d]
+Seat 4: J2DaMac
+Seat 6: aoish30
+Seat 1: BoyLoc0 (big blind) showed [Js 9s] and lost with two pair, Jacks and Sixes
+Seat 3: vezis3 (button) (small blind) showed [8h 6h] and won ($199) with three of a kind, Sixes
+
+
+
+PokerStars Hand #254434789205:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:29:37 WET [2025/01/18 13:29:37 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 4: J2DaMac ($120.30 in chips) is sitting out
+Seat 6: aoish30 ($100 in chips) is sitting out
+Seat 1: BoyLoc0 ($100 in chips) 
+Seat 2: sosatime96 ($100 in chips) 
+Seat 3: vezis3 ($199 in chips) 
+BoyLoc0: posts small blind $0.50
+sosatime96: posts big blind $1
+*** HOLE CARDS ***
+sta$igk joins the table at seat #5 
+vezis3: folds 
+BoyLoc0: folds 
+Uncalled bet ($0.50) returned to sosatime96
+sosatime96 collected $1 from pot
+sosatime96: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: J2DaMac
+Seat 6: aoish30
+Seat 1: BoyLoc0 (small blind) folded before Flop
+Seat 2: sosatime96 (big blind) collected ($1)
+Seat 3: vezis3 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434792098:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:29:46 WET [2025/01/18 13:29:46 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 3: vezis3 ($199 in chips) is sitting out
+Seat 4: J2DaMac ($120.30 in chips) is sitting out
+Seat 6: aoish30 ($100 in chips) is sitting out
+Seat 1: BoyLoc0 ($100 in chips) 
+Seat 2: sosatime96 ($100.50 in chips) 
+Seat 5: sta$igk ($100 in chips) 
+sosatime96: posts small blind $0.50
+vezis3: is sitting out 
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+vezis3 leaves the table
+sosatime96: folds 
+Uncalled bet ($0.50) returned to sta$igk
+sta$igk collected $1 from pot
+J2DaMac leaves the table
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: vezis3
+Seat 4: J2DaMac
+Seat 6: aoish30
+Seat 1: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 2: sosatime96 (small blind) folded before Flop
+Seat 5: sta$igk (big blind) collected ($1)
+
+
+
+PokerStars Hand #254434800878:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:30:15 WET [2025/01/18 13:30:15 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 6: aoish30 ($100 in chips) is sitting out
+Seat 1: BoyLoc0 ($100 in chips) 
+Seat 2: sosatime96 ($100 in chips) 
+Seat 5: sta$igk ($100.50 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+sosatime96: folds 
+sta$igk: raises $2 to $3
+BoyLoc0: folds 
+Uncalled bet ($2) returned to sta$igk
+sta$igk collected $2 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: aoish30
+Seat 1: BoyLoc0 (big blind) folded before Flop
+Seat 2: sosatime96 (button) folded before Flop (didn't bet)
+Seat 5: sta$igk (small blind) collected ($2)
+
+
+
+PokerStars Hand #254434804980:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:30:28 WET [2025/01/18 13:30:28 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 6: aoish30 ($100 in chips) is sitting out
+Seat 1: BoyLoc0 ($100 in chips) 
+Seat 2: sosatime96 ($100 in chips) 
+Seat 5: sta$igk ($101.50 in chips) 
+BoyLoc0: posts small blind $0.50
+sosatime96: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+BoyLoc0: folds 
+sosatime96: raises $10 to $12.50
+fataleggs13 joins the table at seat #3 
+blistein joins the table at seat #4 
+sta$igk: calls $10
+*** FLOP *** [Td 9s 5s]
+sosatime96: bets $12.25
+sta$igk: calls $12.25
+*** TURN *** [Td 9s 5s] [7d]
+sosatime96: checks 
+fataleggs13 leaves the table
+sta$igk: bets $24.50
+sosatime96: folds 
+Uncalled bet ($24.50) returned to sta$igk
+sta$igk collected $49 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $50 | Rake $1 
+Board [Td 9s 5s 7d]
+Seat 6: aoish30
+Seat 1: BoyLoc0 (small blind) folded before Flop
+Seat 2: sosatime96 (big blind) folded on the Turn
+Seat 5: sta$igk (button) collected ($49)
+
+
+
+PokerStars Hand #254434829718:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:31:49 WET [2025/01/18 13:31:49 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 6: aoish30 ($100 in chips) is sitting out
+Seat 1: BoyLoc0 ($100 in chips) 
+Seat 2: sosatime96 ($100 in chips) 
+Seat 4: blistein ($106 in chips) 
+Seat 5: sta$igk ($125.75 in chips) 
+sosatime96: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+BoyLoc0: folds 
+sosatime96: folds 
+blistein: folds 
+Uncalled bet ($1.50) returned to sta$igk
+sta$igk collected $2.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: aoish30
+Seat 1: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 2: sosatime96 (small blind) folded before Flop
+Seat 4: blistein (big blind) folded before Flop
+Seat 5: sta$igk collected ($2.50)
+
+
+
+PokerStars Hand #254434832996:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:32:00 WET [2025/01/18 13:32:00 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 6: aoish30 ($100 in chips) is sitting out
+Seat 1: BoyLoc0 ($100 in chips) 
+Seat 2: sosatime96 ($100 in chips) 
+Seat 4: blistein ($105 in chips) 
+Seat 5: sta$igk ($127.25 in chips) 
+blistein: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+sosatime96: folds 
+blistein: folds 
+sta$igk: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+elcutez joins the table at seat #3 
+elcutez is disconnected 
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: aoish30
+Seat 1: BoyLoc0 collected ($2.50)
+Seat 2: sosatime96 (button) folded before Flop (didn't bet)
+Seat 4: blistein (small blind) folded before Flop
+Seat 5: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254434836392:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:32:11 WET [2025/01/18 13:32:11 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 1: BoyLoc0 ($101.50 in chips) is sitting out
+Seat 6: aoish30 ($100 in chips) is sitting out
+Seat 2: sosatime96 ($100 in chips) 
+Seat 3: elcutez ($96.22 in chips) 
+Seat 4: blistein ($104.50 in chips) 
+Seat 5: sta$igk ($126.25 in chips) 
+sta$igk: posts small blind $0.50
+BoyLoc0: is sitting out 
+sosatime96: posts big blind $1
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+elcutez: raises $2 to $3
+blistein: folds 
+BoyLoc0 leaves the table
+sta$igk: folds 
+sosatime96: folds 
+Uncalled bet ($2) returned to elcutez
+elcutez collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: BoyLoc0
+Seat 6: aoish30
+Seat 2: sosatime96 (big blind) folded before Flop
+Seat 3: elcutez collected ($2.50)
+Seat 4: blistein (button) folded before Flop (didn't bet)
+Seat 5: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254434842057:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:32:29 WET [2025/01/18 13:32:29 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 6: aoish30 ($100 in chips) is sitting out
+Seat 2: sosatime96 ($100 in chips) 
+Seat 3: elcutez ($97.72 in chips) 
+Seat 4: blistein ($104.50 in chips) 
+Seat 5: sta$igk ($125.75 in chips) 
+sosatime96: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.30 to $2.30
+sta$igk: folds 
+sosatime96: folds 
+elcutez: folds 
+Uncalled bet ($1.30) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: aoish30
+Seat 2: sosatime96 (small blind) folded before Flop
+Seat 3: elcutez (big blind) folded before Flop
+Seat 4: blistein collected ($2.50)
+Seat 5: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434847804:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:32:47 WET [2025/01/18 13:32:47 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 4: blistein ($106 in chips) is sitting out
+Seat 5: sta$igk ($125.75 in chips) is sitting out
+Seat 6: aoish30 ($100 in chips) is sitting out
+Seat 2: sosatime96 ($100 in chips) 
+Seat 3: elcutez ($96.72 in chips) 
+elcutez: posts small blind $0.50
+blistein: is sitting out 
+sta$igk: is sitting out 
+sosatime96: posts big blind $1
+*** HOLE CARDS ***
+blistein leaves the table
+elcutez: raises $2 to $3
+sta$igk leaves the table
+sosatime96: folds 
+Uncalled bet ($2) returned to elcutez
+elcutez collected $2 from pot
+aoish30 leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: blistein
+Seat 5: sta$igk
+Seat 6: aoish30
+Seat 2: sosatime96 (big blind) folded before Flop
+Seat 3: elcutez (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254434851370:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:32:59 WET [2025/01/18 13:32:59 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 2: sosatime96 ($100 in chips) 
+Seat 3: elcutez ($97.72 in chips) 
+sosatime96: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+sosatime96: raises $1.50 to $2.50
+PhoenixAssassin joins the table at seat #4 
+elcutez: folds 
+Uncalled bet ($1.50) returned to sosatime96
+blistein joins the table at seat #5 
+sosatime96 collected $2 from pot
+sosatime96: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: sosatime96 (button) (small blind) collected ($2)
+Seat 3: elcutez (big blind) folded before Flop
+
+
+
+PokerStars Hand #254434854971:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:33:11 WET [2025/01/18 13:33:11 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 5: blistein ($106 in chips) is sitting out
+Seat 2: sosatime96 ($101 in chips) 
+Seat 3: elcutez ($96.72 in chips) 
+Seat 4: PhoenixAssassin ($100 in chips) 
+elcutez: posts small blind $0.50
+PhoenixAssassin: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+sosatime96: raises $1.50 to $2.50
+elcutez: folds 
+PhoenixAssassin: calls $1.50
+*** FLOP *** [Qc 8h 8c]
+PhoenixAssassin: checks 
+sosatime96: bets $1.72
+PhoenixAssassin: folds 
+Uncalled bet ($1.72) returned to sosatime96
+sosatime96 collected $5.22 from pot
+sosatime96: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Qc 8h 8c]
+Seat 5: blistein
+Seat 2: sosatime96 (button) collected ($5.22)
+Seat 3: elcutez (small blind) folded before Flop
+Seat 4: PhoenixAssassin (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254434861275:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:33:31 WET [2025/01/18 13:33:31 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 2: sosatime96 ($103.72 in chips) 
+Seat 3: elcutez ($96.22 in chips) 
+Seat 4: PhoenixAssassin ($100 in chips) 
+Seat 5: blistein ($106 in chips) 
+PhoenixAssassin: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+sosatime96: folds 
+elcutez: raises $1.80 to $2.80
+PhoenixAssassin: folds 
+blistein: folds 
+Uncalled bet ($1.80) returned to elcutez
+elcutez collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 3: elcutez (button) collected ($2.50)
+Seat 4: PhoenixAssassin (small blind) folded before Flop
+Seat 5: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254434866776:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:33:49 WET [2025/01/18 13:33:49 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 2: sosatime96 ($103.72 in chips) 
+Seat 3: elcutez ($97.72 in chips) 
+Seat 4: PhoenixAssassin ($100 in chips) 
+Seat 5: blistein ($105 in chips) 
+blistein: posts small blind $0.50
+sosatime96: posts big blind $1
+*** HOLE CARDS ***
+elcutez: raises $2 to $3
+PhoenixAssassin: folds 
+blistein: raises $9 to $12
+sosatime96: folds 
+elcutez: folds 
+Uncalled bet ($9) returned to blistein
+blistein collected $7 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 2: sosatime96 (big blind) folded before Flop
+Seat 3: elcutez folded before Flop
+Seat 4: PhoenixAssassin (button) folded before Flop (didn't bet)
+Seat 5: blistein (small blind) collected ($7)
+
+
+
+PokerStars Hand #254434875574:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:34:17 WET [2025/01/18 13:34:17 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 2: sosatime96 ($102.72 in chips) 
+Seat 3: elcutez ($94.72 in chips) 
+Seat 4: PhoenixAssassin ($100 in chips) 
+Seat 5: blistein ($109 in chips) 
+sosatime96: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+PhoenixAssassin: folds 
+blistein: raises $1.50 to $2.50
+sosatime96: folds 
+elcutez: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: sosatime96 (small blind) folded before Flop
+Seat 3: elcutez (big blind) folded before Flop
+Seat 4: PhoenixAssassin folded before Flop (didn't bet)
+Seat 5: blistein (button) collected ($2.50)
+
+
+
+PokerStars Hand #254434880543:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:34:33 WET [2025/01/18 13:34:33 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 2: sosatime96 ($102.22 in chips) 
+Seat 3: elcutez ($93.72 in chips) 
+Seat 4: PhoenixAssassin ($100 in chips) 
+Seat 5: blistein ($110.50 in chips) 
+elcutez: posts small blind $0.50
+PhoenixAssassin: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+sosatime96: folds 
+elcutez: folds 
+Uncalled bet ($0.50) returned to PhoenixAssassin
+PhoenixAssassin collected $1 from pot
+PhoenixAssassin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: sosatime96 (button) folded before Flop (didn't bet)
+Seat 3: elcutez (small blind) folded before Flop
+Seat 4: PhoenixAssassin (big blind) collected ($1)
+Seat 5: blistein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434887154:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:34:55 WET [2025/01/18 13:34:55 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 5: blistein ($110.50 in chips) is sitting out
+Seat 2: sosatime96 ($102.22 in chips) 
+Seat 3: elcutez ($93.22 in chips) 
+Seat 4: PhoenixAssassin ($100.50 in chips) 
+PhoenixAssassin: posts small blind $0.50
+blistein: is sitting out 
+sosatime96: posts big blind $1
+*** HOLE CARDS ***
+blistein leaves the table
+elcutez: raises $1.60 to $2.60
+PhoenixAssassin: folds 
+sosatime96: folds 
+Uncalled bet ($1.60) returned to elcutez
+elcutez collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: blistein
+Seat 2: sosatime96 (big blind) folded before Flop
+Seat 3: elcutez (button) collected ($2.50)
+Seat 4: PhoenixAssassin (small blind) folded before Flop
+
+
+
+PokerStars Hand #254434890150:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:35:05 WET [2025/01/18 13:35:05 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 2: sosatime96 ($101.22 in chips) 
+Seat 3: elcutez ($94.72 in chips) 
+Seat 4: PhoenixAssassin ($100 in chips) 
+Pigumelis joins the table at seat #5 
+sosatime96: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+PhoenixAssassin: raises $1.50 to $2.50
+sosatime96: folds 
+elcutez: folds 
+Uncalled bet ($1.50) returned to PhoenixAssassin
+PhoenixAssassin collected $2.50 from pot
+PhoenixAssassin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: sosatime96 (small blind) folded before Flop
+Seat 3: elcutez (big blind) folded before Flop
+Seat 4: PhoenixAssassin (button) collected ($2.50)
+
+
+
+PokerStars Hand #254434893381:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:35:15 WET [2025/01/18 13:35:15 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 5: Pigumelis ($100 in chips) is sitting out
+Seat 2: sosatime96 ($100.72 in chips) 
+Seat 3: elcutez ($93.72 in chips) 
+Seat 4: PhoenixAssassin ($101.50 in chips) 
+elcutez: posts small blind $0.50
+PhoenixAssassin: posts big blind $1
+Pigumelis: sits out 
+*** HOLE CARDS ***
+sosatime96: folds 
+elcutez: folds 
+Uncalled bet ($0.50) returned to PhoenixAssassin
+PhoenixAssassin collected $1 from pot
+PhoenixAssassin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: Pigumelis
+Seat 2: sosatime96 (button) folded before Flop (didn't bet)
+Seat 3: elcutez (small blind) folded before Flop
+Seat 4: PhoenixAssassin (big blind) collected ($1)
+
+
+
+PokerStars Hand #254434895596:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:35:22 WET [2025/01/18 13:35:22 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 2: sosatime96 ($100.72 in chips) 
+Seat 3: elcutez ($93.22 in chips) 
+Seat 4: PhoenixAssassin ($102 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+PhoenixAssassin: posts small blind $0.50
+Pigumelis: posts big blind $1
+*** HOLE CARDS ***
+sosatime96: folds 
+elcutez: folds 
+PhoenixAssassin: raises $2 to $3
+Pigumelis: calls $2
+*** FLOP *** [5d Kd As]
+PhoenixAssassin: bets $1.88
+Pigumelis: calls $1.88
+*** TURN *** [5d Kd As] [5s]
+PhoenixAssassin: bets $6.12
+Pigumelis: folds 
+Uncalled bet ($6.12) returned to PhoenixAssassin
+PhoenixAssassin collected $9.27 from pot
+PhoenixAssassin: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [5d Kd As 5s]
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 3: elcutez (button) folded before Flop (didn't bet)
+Seat 4: PhoenixAssassin (small blind) collected ($9.27)
+Seat 5: Pigumelis (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254434907043:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:36:00 WET [2025/01/18 13:36:00 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 2: sosatime96 ($100.72 in chips) 
+Seat 3: elcutez ($93.22 in chips) 
+Seat 4: PhoenixAssassin ($106.39 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+Pigumelis: posts small blind $0.50
+sosatime96: posts big blind $1
+*** HOLE CARDS ***
+elcutez: folds 
+PhoenixAssassin: raises $1.50 to $2.50
+Pigumelis: folds 
+sosatime96: folds 
+Uncalled bet ($1.50) returned to PhoenixAssassin
+PhoenixAssassin collected $2.50 from pot
+PhoenixAssassin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: sosatime96 (big blind) folded before Flop
+Seat 3: elcutez folded before Flop (didn't bet)
+Seat 4: PhoenixAssassin (button) collected ($2.50)
+Seat 5: Pigumelis (small blind) folded before Flop
+
+
+
+PokerStars Hand #254434910547:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:36:11 WET [2025/01/18 13:36:11 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 2: sosatime96 ($100 in chips) 
+Seat 3: elcutez ($93.22 in chips) 
+Seat 4: PhoenixAssassin ($107.89 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+sosatime96: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+PhoenixAssassin: folds 
+Pigumelis: folds 
+sosatime96: raises $2 to $3
+elcutez: raises $6 to $9
+sosatime96: calls $6
+*** FLOP *** [2c 5c 3d]
+sosatime96: checks 
+elcutez: checks 
+*** TURN *** [2c 5c 3d] [8c]
+sosatime96: checks 
+elcutez: bets $17.10
+sosatime96: folds 
+Uncalled bet ($17.10) returned to elcutez
+elcutez collected $17.10 from pot
+blistein joins the table at seat #1 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [2c 5c 3d 8c]
+Seat 2: sosatime96 (small blind) folded on the Turn
+Seat 3: elcutez (big blind) collected ($17.10)
+Seat 4: PhoenixAssassin folded before Flop (didn't bet)
+Seat 5: Pigumelis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434923889:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:36:55 WET [2025/01/18 13:36:55 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 1: blistein ($110.50 in chips) is sitting out
+Seat 2: sosatime96 ($100 in chips) 
+Seat 3: elcutez ($101.32 in chips) 
+Seat 4: PhoenixAssassin ($107.89 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+elcutez: posts small blind $0.50
+PhoenixAssassin: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+Pigumelis: folds 
+sosatime96: raises $1.50 to $2.50
+elcutez: folds 
+PhoenixAssassin: folds 
+Uncalled bet ($1.50) returned to sosatime96
+sosatime96 collected $2.50 from pot
+sosatime96: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein
+Seat 2: sosatime96 (button) collected ($2.50)
+Seat 3: elcutez (small blind) folded before Flop
+Seat 4: PhoenixAssassin (big blind) folded before Flop
+Seat 5: Pigumelis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434927866:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:37:07 WET [2025/01/18 13:37:07 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 1: blistein ($110.50 in chips) is sitting out
+Seat 2: sosatime96 ($101.50 in chips) 
+Seat 3: elcutez ($100.82 in chips) 
+Seat 4: PhoenixAssassin ($106.89 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+PhoenixAssassin: posts small blind $0.50
+Pigumelis: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+sosatime96: raises $1.30 to $2.30
+elcutez: calls $2.30
+PhoenixAssassin: folds 
+Pigumelis: folds 
+*** FLOP *** [5d 7d Kd]
+sosatime96: bets $1.45
+elcutez: calls $1.45
+*** TURN *** [5d 7d Kd] [9c]
+sosatime96: bets $6.41
+elcutez: calls $6.41
+*** RIVER *** [5d 7d Kd 9c] [As]
+sosatime96: bets $15.62
+elcutez: calls $15.62
+*** SHOW DOWN ***
+sosatime96: shows [5h 5c] (three of a kind, Fives)
+elcutez: mucks hand 
+sosatime96 collected $52.06 from pot
+*** SUMMARY ***
+Total pot $53.06 | Rake $1 
+Board [5d 7d Kd 9c As]
+Seat 1: blistein
+Seat 2: sosatime96 showed [5h 5c] and won ($52.06) with three of a kind, Fives
+Seat 3: elcutez (button) mucked
+Seat 4: PhoenixAssassin (small blind) folded before Flop
+Seat 5: Pigumelis (big blind) folded before Flop
+
+
+
+PokerStars Hand #254434941846:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:37:53 WET [2025/01/18 13:37:53 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 1: blistein ($110.50 in chips) 
+Seat 2: sosatime96 ($127.78 in chips) 
+Seat 3: elcutez ($75.04 in chips) 
+Seat 4: PhoenixAssassin ($106.39 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+Pigumelis: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+sosatime96: folds 
+elcutez: folds 
+PhoenixAssassin: folds 
+Pigumelis: raises $1.50 to $2.50
+blistein: raises $6.50 to $9
+Pigumelis: folds 
+Uncalled bet ($6.50) returned to blistein
+blistein collected $5 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: blistein (big blind) collected ($5)
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 3: elcutez folded before Flop (didn't bet)
+Seat 4: PhoenixAssassin (button) folded before Flop (didn't bet)
+Seat 5: Pigumelis (small blind) folded before Flop
+
+
+
+PokerStars Hand #254434949979:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:38:19 WET [2025/01/18 13:38:19 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 1: blistein ($113 in chips) 
+Seat 2: sosatime96 ($127.78 in chips) 
+Seat 3: elcutez ($75.04 in chips) 
+Seat 4: PhoenixAssassin ($106.39 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+blistein: posts small blind $0.50
+sosatime96: posts big blind $1
+*** HOLE CARDS ***
+elcutez: folds 
+PhoenixAssassin: folds 
+Pigumelis: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to sosatime96
+sosatime96 collected $1 from pot
+sosatime96: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: sosatime96 (big blind) collected ($1)
+Seat 3: elcutez folded before Flop (didn't bet)
+Seat 4: PhoenixAssassin folded before Flop (didn't bet)
+Seat 5: Pigumelis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434952856:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:38:28 WET [2025/01/18 13:38:28 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 1: blistein ($112.50 in chips) 
+Seat 2: sosatime96 ($128.28 in chips) 
+Seat 3: elcutez ($75.04 in chips) 
+Seat 4: PhoenixAssassin ($106.39 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+sosatime96: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+PhoenixAssassin: folds 
+Pigumelis: folds 
+blistein: raises $1.50 to $2.50
+sosatime96: folds 
+elcutez: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein (button) collected ($2.50)
+Seat 2: sosatime96 (small blind) folded before Flop
+Seat 3: elcutez (big blind) folded before Flop
+Seat 4: PhoenixAssassin folded before Flop (didn't bet)
+Seat 5: Pigumelis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434957728:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:38:44 WET [2025/01/18 13:38:44 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 1: blistein ($114 in chips) 
+Seat 2: sosatime96 ($127.78 in chips) 
+Seat 3: elcutez ($74.04 in chips) 
+Seat 4: PhoenixAssassin ($106.39 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+elcutez: posts small blind $0.50
+PhoenixAssassin: posts big blind $1
+*** HOLE CARDS ***
+Pigumelis: folds 
+blistein: raises $1.30 to $2.30
+sosatime96: folds 
+elcutez: folds 
+PhoenixAssassin: calls $1.30
+*** FLOP *** [Qd 8h 3h]
+PhoenixAssassin: checks 
+blistein: bets $1.65
+Armin1992550 joins the table at seat #6 
+Armin1992550 is disconnected 
+PhoenixAssassin: calls $1.65
+*** TURN *** [Qd 8h 3h] [8c]
+PhoenixAssassin: checks 
+blistein: checks 
+*** RIVER *** [Qd 8h 3h 8c] [9h]
+PhoenixAssassin: bets $12
+blistein: folds 
+Uncalled bet ($12) returned to PhoenixAssassin
+PhoenixAssassin collected $7.98 from pot
+PhoenixAssassin: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.40 | Rake $0.42 
+Board [Qd 8h 3h 8c 9h]
+Seat 1: blistein folded on the River
+Seat 2: sosatime96 (button) folded before Flop (didn't bet)
+Seat 3: elcutez (small blind) folded before Flop
+Seat 4: PhoenixAssassin (big blind) collected ($7.98)
+Seat 5: Pigumelis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254434982678:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:40:05 WET [2025/01/18 13:40:05 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 6: Armin1992550 ($10 in chips) is sitting out
+Seat 1: blistein ($110.05 in chips) 
+Seat 2: sosatime96 ($127.78 in chips) 
+Seat 3: elcutez ($73.54 in chips) 
+Seat 4: PhoenixAssassin ($110.42 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+PhoenixAssassin: posts small blind $0.50
+Pigumelis: posts big blind $1
+Armin1992550: sits out 
+*** HOLE CARDS ***
+blistein: folds 
+sosatime96: raises $1.30 to $2.30
+elcutez: folds 
+PhoenixAssassin: folds 
+Pigumelis: calls $1.30
+*** FLOP *** [6d 3d 8s]
+Pigumelis: checks 
+sosatime96: checks 
+*** TURN *** [6d 3d 8s] [Jd]
+Pigumelis: checks 
+sosatime96: checks 
+*** RIVER *** [6d 3d 8s Jd] [2d]
+Pigumelis: checks 
+sosatime96: bets $3.19
+Pigumelis: folds 
+Uncalled bet ($3.19) returned to sosatime96
+sosatime96 collected $4.84 from pot
+sosatime96: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.26 
+Board [6d 3d 8s Jd 2d]
+Seat 6: Armin1992550
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: sosatime96 collected ($4.84)
+Seat 3: elcutez (button) folded before Flop (didn't bet)
+Seat 4: PhoenixAssassin (small blind) folded before Flop
+Seat 5: Pigumelis (big blind) folded on the River
+
+
+
+PokerStars Hand #254435002584:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:41:10 WET [2025/01/18 13:41:10 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 1: blistein ($110.05 in chips) 
+Seat 2: sosatime96 ($130.32 in chips) 
+Seat 3: elcutez ($73.54 in chips) 
+Seat 4: PhoenixAssassin ($109.92 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+Seat 6: Armin1992550 ($10 in chips) 
+Pigumelis: posts small blind $0.50
+Armin1992550: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+sosatime96: folds 
+elcutez: folds 
+PhoenixAssassin: folds 
+Pigumelis: raises $9.50 to $10.50
+Armin1992550: folds 
+Uncalled bet ($9.50) returned to Pigumelis
+Pigumelis collected $2 from pot
+Pigumelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 3: elcutez folded before Flop (didn't bet)
+Seat 4: PhoenixAssassin (button) folded before Flop (didn't bet)
+Seat 5: Pigumelis (small blind) collected ($2)
+Seat 6: Armin1992550 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254435009075:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:41:31 WET [2025/01/18 13:41:31 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 1: blistein ($110.05 in chips) 
+Seat 2: sosatime96 ($130.32 in chips) 
+Seat 3: elcutez ($73.54 in chips) 
+Seat 4: PhoenixAssassin ($109.92 in chips) 
+Seat 5: Pigumelis ($101 in chips) 
+Seat 6: Armin1992550 ($9 in chips) 
+Armin1992550: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+sosatime96: folds 
+elcutez: folds 
+PhoenixAssassin: raises $1.50 to $2.50
+Pigumelis: folds 
+Armin1992550: raises $6.50 to $9 and is all-in
+blistein: folds 
+PhoenixAssassin: calls $6.50
+*** FLOP *** [Ks Jc Jh]
+*** TURN *** [Ks Jc Jh] [4h]
+*** RIVER *** [Ks Jc Jh 4h] [8c]
+*** SHOW DOWN ***
+Armin1992550: shows [Ac 5c] (a pair of Jacks)
+PhoenixAssassin: shows [4s As] (two pair, Jacks and Fours)
+PhoenixAssassin collected $18.05 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [Ks Jc Jh 4h 8c]
+Seat 1: blistein (big blind) folded before Flop
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 3: elcutez folded before Flop (didn't bet)
+Seat 4: PhoenixAssassin showed [4s As] and won ($18.05) with two pair, Jacks and Fours
+Seat 5: Pigumelis (button) folded before Flop (didn't bet)
+Seat 6: Armin1992550 (small blind) showed [Ac 5c] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254435017634:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:42:00 WET [2025/01/18 13:42:00 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: blistein ($109.05 in chips) 
+Seat 2: sosatime96 ($130.32 in chips) 
+Seat 3: elcutez ($73.54 in chips) 
+Seat 4: PhoenixAssassin ($118.97 in chips) 
+Seat 5: Pigumelis ($101 in chips) 
+sosatime96: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+PhoenixAssassin: raises $1.20 to $2.20
+Pigumelis: folds 
+blistein: folds 
+sosatime96: folds 
+elcutez: calls $1.20
+*** FLOP *** [Qd 9d Ts]
+elcutez: checks 
+PhoenixAssassin: checks 
+*** TURN *** [Qd 9d Ts] [Js]
+elcutez: bets $4.66
+PhoenixAssassin: calls $4.66
+*** RIVER *** [Qd 9d Ts Js] [Ac]
+elcutez: checks 
+PhoenixAssassin: checks 
+*** SHOW DOWN ***
+elcutez: shows [4d 6d] (high card Ace)
+PhoenixAssassin: shows [As Jh] (two pair, Aces and Jacks)
+PhoenixAssassin collected $13.51 from pot
+*** SUMMARY ***
+Total pot $14.22 | Rake $0.71 
+Board [Qd 9d Ts Js Ac]
+Seat 6: Armin1992550
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: sosatime96 (small blind) folded before Flop
+Seat 3: elcutez (big blind) showed [4d 6d] and lost with high card Ace
+Seat 4: PhoenixAssassin showed [As Jh] and won ($13.51) with two pair, Aces and Jacks
+Seat 5: Pigumelis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435028843:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:42:36 WET [2025/01/18 13:42:36 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 1: blistein ($109.05 in chips) 
+Seat 2: sosatime96 ($129.82 in chips) 
+Seat 3: elcutez ($66.68 in chips) 
+Seat 4: PhoenixAssassin ($125.62 in chips) 
+Seat 5: Pigumelis ($101 in chips) 
+Seat 6: Armin1992550 ($20.70 in chips) 
+elcutez: posts small blind $0.50
+PhoenixAssassin: posts big blind $1
+*** HOLE CARDS ***
+Pigumelis: raises $1.10 to $2.10
+Armin1992550: calls $2.10
+blistein: folds 
+sosatime96: raises $7.80 to $9.90
+elcutez: folds 
+PhoenixAssassin: folds 
+Pigumelis: folds 
+Armin1992550: raises $10.80 to $20.70 and is all-in
+sosatime96: calls $10.80
+*** FLOP *** [4s 8s 4c]
+*** TURN *** [4s 8s 4c] [Td]
+*** RIVER *** [4s 8s 4c Td] [Qh]
+*** SHOW DOWN ***
+Armin1992550: shows [Ks 7c] (a pair of Fours)
+sosatime96: shows [Jh As] (a pair of Fours - Ace kicker)
+sosatime96 collected $42.75 from pot
+*** SUMMARY ***
+Total pot $45 | Rake $2.25 
+Board [4s 8s 4c Td Qh]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: sosatime96 (button) showed [Jh As] and won ($42.75) with a pair of Fours
+Seat 3: elcutez (small blind) folded before Flop
+Seat 4: PhoenixAssassin (big blind) folded before Flop
+Seat 5: Pigumelis folded before Flop
+Seat 6: Armin1992550 showed [Ks 7c] and lost with a pair of Fours
+
+
+
+PokerStars Hand #254435043584:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:43:25 WET [2025/01/18 13:43:25 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: blistein ($109.05 in chips) 
+Seat 2: sosatime96 ($151.87 in chips) 
+Seat 3: elcutez ($66.18 in chips) 
+Seat 4: PhoenixAssassin ($124.62 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+PhoenixAssassin: posts small blind $0.50
+Pigumelis: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+sosatime96: folds 
+elcutez: raises $5.90 to $8.10
+PhoenixAssassin: folds 
+Pigumelis: folds 
+blistein: raises $100.95 to $109.05 and is all-in
+elcutez: calls $58.08 and is all-in
+Uncalled bet ($42.87) returned to blistein
+*** FLOP *** [Qs Jc 3c]
+*** TURN *** [Qs Jc 3c] [Ad]
+*** RIVER *** [Qs Jc 3c Ad] [2d]
+*** SHOW DOWN ***
+blistein: shows [Qh Qc] (three of a kind, Queens)
+elcutez: shows [Td Tc] (a pair of Tens)
+blistein collected $131.36 from pot
+*** SUMMARY ***
+Total pot $133.86 | Rake $2.50 
+Board [Qs Jc 3c Ad 2d]
+Seat 6: Armin1992550
+Seat 1: blistein showed [Qh Qc] and won ($131.36) with three of a kind, Queens
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 3: elcutez (button) showed [Td Tc] and lost with a pair of Tens
+Seat 4: PhoenixAssassin (small blind) folded before Flop
+Seat 5: Pigumelis (big blind) folded before Flop
+
+
+
+PokerStars Hand #254435056183:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:44:06 WET [2025/01/18 13:44:06 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 3: elcutez ($0 in chips) is sitting out
+Seat 1: blistein ($174.23 in chips) 
+Seat 2: sosatime96 ($151.87 in chips) 
+Seat 4: PhoenixAssassin ($124.12 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+Seat 6: Armin1992550 ($94.84 in chips) 
+Pigumelis: posts small blind $0.50
+Armin1992550: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+sosatime96: folds 
+PhoenixAssassin: calls $2.20
+Pigumelis: folds 
+elcutez leaves the table
+sta$igk joins the table at seat #3 
+Armin1992550: calls $1.20
+*** FLOP *** [Js Ks 4d]
+Armin1992550: checks 
+blistein: checks 
+PhoenixAssassin: bets $3.37
+Armin1992550: folds 
+blistein: calls $3.37
+*** TURN *** [Js Ks 4d] [7h]
+blistein: checks 
+PhoenixAssassin: checks 
+*** RIVER *** [Js Ks 4d 7h] [Jd]
+blistein: bets $9.86
+PhoenixAssassin: calls $9.86
+*** SHOW DOWN ***
+blistein: shows [Kd As] (two pair, Kings and Jacks)
+PhoenixAssassin: mucks hand 
+blistein collected $31.88 from pot
+*** SUMMARY ***
+Total pot $33.56 | Rake $1.68 
+Board [Js Ks 4d 7h Jd]
+Seat 3: elcutez
+Seat 1: blistein showed [Kd As] and won ($31.88) with two pair, Kings and Jacks
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 4: PhoenixAssassin (button) mucked
+Seat 5: Pigumelis (small blind) folded before Flop
+Seat 6: Armin1992550 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254435082639:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:45:31 WET [2025/01/18 13:45:31 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 3: sta$igk ($125.75 in chips) is sitting out
+Seat 1: blistein ($190.68 in chips) 
+Seat 2: sosatime96 ($151.87 in chips) 
+Seat 4: PhoenixAssassin ($108.69 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+Seat 6: Armin1992550 ($92.64 in chips) 
+Armin1992550: posts small blind $0.50
+blistein: posts big blind $1
+sta$igk: sits out 
+*** HOLE CARDS ***
+sosatime96: folds 
+PhoenixAssassin: raises $1.50 to $2.50
+Pigumelis: folds 
+Armin1992550: calls $2
+blistein: folds 
+*** FLOP *** [Qc 8c 9s]
+Armin1992550: checks 
+PhoenixAssassin: checks 
+*** TURN *** [Qc 8c 9s] [7c]
+Armin1992550: bets $2
+PhoenixAssassin: folds 
+Uncalled bet ($2) returned to Armin1992550
+Armin1992550 collected $5.62 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.38 
+Board [Qc 8c 9s 7c]
+Seat 3: sta$igk
+Seat 1: blistein (big blind) folded before Flop
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 4: PhoenixAssassin folded on the Turn
+Seat 5: Pigumelis (button) folded before Flop (didn't bet)
+Seat 6: Armin1992550 (small blind) collected ($5.62)
+
+
+
+PokerStars Hand #254435095214:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:46:13 WET [2025/01/18 13:46:13 ET]
+Table 'Harpalyke IV' 6-max Seat #6 is the button
+Seat 3: sta$igk ($125.75 in chips) is sitting out
+Seat 1: blistein ($189.68 in chips) 
+Seat 2: sosatime96 ($151.87 in chips) 
+Seat 4: PhoenixAssassin ($106.19 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+Seat 6: Armin1992550 ($95.76 in chips) 
+blistein: posts small blind $0.50
+sosatime96: posts big blind $1
+sta$igk: sits out 
+*** HOLE CARDS ***
+PhoenixAssassin: raises $1.20 to $2.20
+Pigumelis: raises $4.80 to $7
+Armin1992550: calls $7
+blistein: folds 
+sosatime96: folds 
+PhoenixAssassin: calls $4.80
+*** FLOP *** [6d 5s 2h]
+PhoenixAssassin: checks 
+Pigumelis: checks 
+Armin1992550: bets $7
+PhoenixAssassin: calls $7
+Pigumelis: folds 
+*** TURN *** [6d 5s 2h] [7s]
+PhoenixAssassin: checks 
+Armin1992550: bets $10
+PhoenixAssassin: raises $82.19 to $92.19 and is all-in
+Armin1992550: folds 
+Uncalled bet ($82.19) returned to PhoenixAssassin
+PhoenixAssassin collected $54 from pot
+PhoenixAssassin: doesn't show hand 
+*** SUMMARY ***
+Total pot $56.50 | Rake $2.50 
+Board [6d 5s 2h 7s]
+Seat 3: sta$igk
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: sosatime96 (big blind) folded before Flop
+Seat 4: PhoenixAssassin collected ($54)
+Seat 5: Pigumelis folded on the Flop
+Seat 6: Armin1992550 (button) folded on the Turn
+
+
+
+PokerStars Hand #254435120002:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:47:34 WET [2025/01/18 13:47:34 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 1: blistein ($189.18 in chips) 
+Seat 2: sosatime96 ($150.87 in chips) 
+Seat 3: sta$igk ($125.75 in chips) 
+Seat 4: PhoenixAssassin ($136.19 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+Seat 6: Armin1992550 ($71.76 in chips) 
+sosatime96: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+PhoenixAssassin: folds 
+Pigumelis: raises $1.10 to $2.10
+Armin1992550: folds 
+blistein: folds 
+sosatime96: folds 
+sta$igk: folds 
+Uncalled bet ($1.10) returned to Pigumelis
+Pigumelis collected $2.50 from pot
+Pigumelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: sosatime96 (small blind) folded before Flop
+Seat 3: sta$igk (big blind) folded before Flop
+Seat 4: PhoenixAssassin folded before Flop (didn't bet)
+Seat 5: Pigumelis collected ($2.50)
+Seat 6: Armin1992550 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435123187:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:47:45 WET [2025/01/18 13:47:45 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 1: blistein ($189.18 in chips) 
+Seat 2: sosatime96 ($150.37 in chips) 
+Seat 3: sta$igk ($124.75 in chips) 
+Seat 4: PhoenixAssassin ($136.19 in chips) 
+Seat 5: Pigumelis ($101.50 in chips) 
+Seat 6: Armin1992550 ($71.76 in chips) 
+sta$igk: posts small blind $0.50
+PhoenixAssassin: posts big blind $1
+*** HOLE CARDS ***
+Pigumelis: folds 
+Armin1992550: raises $4 to $5
+blistein: folds 
+sosatime96: folds 
+sta$igk: folds 
+PhoenixAssassin: folds 
+Uncalled bet ($4) returned to Armin1992550
+Armin1992550 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: sosatime96 (button) folded before Flop (didn't bet)
+Seat 3: sta$igk (small blind) folded before Flop
+Seat 4: PhoenixAssassin (big blind) folded before Flop
+Seat 5: Pigumelis folded before Flop (didn't bet)
+Seat 6: Armin1992550 collected ($2.50)
+
+
+
+PokerStars Hand #254435128022:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:48:01 WET [2025/01/18 13:48:01 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 1: blistein ($189.18 in chips) 
+Seat 2: sosatime96 ($150.37 in chips) 
+Seat 3: sta$igk ($124.25 in chips) 
+Seat 4: PhoenixAssassin ($135.19 in chips) 
+Seat 5: Pigumelis ($101.50 in chips) 
+Seat 6: Armin1992550 ($73.26 in chips) 
+PhoenixAssassin: posts small blind $0.50
+Pigumelis: posts big blind $1
+*** HOLE CARDS ***
+Armin1992550: raises $4 to $5
+blistein: folds 
+sosatime96: folds 
+sta$igk: folds 
+PhoenixAssassin: folds 
+Pigumelis: folds 
+Uncalled bet ($4) returned to Armin1992550
+Armin1992550 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 3: sta$igk (button) folded before Flop (didn't bet)
+Seat 4: PhoenixAssassin (small blind) folded before Flop
+Seat 5: Pigumelis (big blind) folded before Flop
+Seat 6: Armin1992550 collected ($2.50)
+
+
+
+PokerStars Hand #254435132157:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:48:14 WET [2025/01/18 13:48:14 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 1: blistein ($189.18 in chips) 
+Seat 2: sosatime96 ($150.37 in chips) 
+Seat 3: sta$igk ($124.25 in chips) 
+Seat 4: PhoenixAssassin ($134.69 in chips) 
+Seat 5: Pigumelis ($100.50 in chips) 
+Seat 6: Armin1992550 ($74.76 in chips) 
+Pigumelis: posts small blind $0.50
+Armin1992550: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+sosatime96: folds 
+sta$igk: folds 
+PhoenixAssassin: raises $1.50 to $2.50
+Pigumelis: folds 
+Armin1992550: calls $1.50
+*** FLOP *** [Kc Kd 4d]
+Armin1992550: checks 
+PhoenixAssassin: bets $1.72
+Armin1992550: calls $1.72
+*** TURN *** [Kc Kd 4d] [2h]
+Armin1992550: checks 
+PhoenixAssassin: bets $5.60
+Armin1992550: calls $5.60
+*** RIVER *** [Kc Kd 4d 2h] [7s]
+Armin1992550: checks 
+PhoenixAssassin: checks 
+*** SHOW DOWN ***
+Armin1992550: shows [Ks Ah] (three of a kind, Kings)
+PhoenixAssassin: mucks hand 
+Armin1992550 collected $18.88 from pot
+*** SUMMARY ***
+Total pot $20.14 | Rake $1.26 
+Board [Kc Kd 4d 2h 7s]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 4: PhoenixAssassin (button) mucked
+Seat 5: Pigumelis (small blind) folded before Flop
+Seat 6: Armin1992550 (big blind) showed [Ks Ah] and won ($18.88) with three of a kind, Kings
+
+
+
+PokerStars Hand #254435150449:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:49:15 WET [2025/01/18 13:49:15 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 1: blistein ($189.18 in chips) 
+Seat 2: sosatime96 ($150.37 in chips) 
+Seat 3: sta$igk ($124.25 in chips) 
+Seat 4: PhoenixAssassin ($124.87 in chips) 
+Seat 5: Pigumelis ($100 in chips) 
+Seat 6: Armin1992550 ($83.82 in chips) 
+Armin1992550: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+sosatime96: folds 
+sta$igk: folds 
+PhoenixAssassin: raises $1.50 to $2.50
+Pigumelis: calls $2.50
+Armin1992550: calls $2
+blistein: folds 
+*** FLOP *** [3s Jd Ks]
+Armin1992550: checks 
+PhoenixAssassin: bets $2.67
+Pigumelis: raises $9.39 to $12.06
+Armin1992550: raises $69.26 to $81.32 and is all-in
+PhoenixAssassin: folds 
+Pigumelis: calls $69.26
+*** TURN *** [3s Jd Ks] [8s]
+*** RIVER *** [3s Jd Ks 8s] [7c]
+*** SHOW DOWN ***
+Armin1992550: shows [Kd 3d] (two pair, Kings and Threes)
+Pigumelis: shows [3c 3h] (three of a kind, Threes)
+Pigumelis collected $171.31 from pot
+*** SUMMARY ***
+Total pot $173.81 | Rake $2.50 
+Board [3s Jd Ks 8s 7c]
+Seat 1: blistein (big blind) folded before Flop
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 4: PhoenixAssassin folded on the Flop
+Seat 5: Pigumelis (button) showed [3c 3h] and won ($171.31) with three of a kind, Threes
+Seat 6: Armin1992550 (small blind) showed [Kd 3d] and lost with two pair, Kings and Threes
+
+
+
+PokerStars Hand #254435172891:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:50:31 WET [2025/01/18 13:50:31 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: blistein ($188.18 in chips) 
+Seat 2: sosatime96 ($150.37 in chips) 
+Seat 3: sta$igk ($124.25 in chips) 
+Seat 4: PhoenixAssassin ($119.70 in chips) 
+Seat 5: Pigumelis ($187.49 in chips) 
+sosatime96: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+PhoenixAssassin: folds 
+Pigumelis: raises $1.10 to $2.10
+blistein: folds 
+sosatime96: folds 
+sta$igk: folds 
+Uncalled bet ($1.10) returned to Pigumelis
+Pigumelis collected $2.50 from pot
+Pigumelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Armin1992550
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: sosatime96 (small blind) folded before Flop
+Seat 3: sta$igk (big blind) folded before Flop
+Seat 4: PhoenixAssassin folded before Flop (didn't bet)
+Seat 5: Pigumelis collected ($2.50)
+
+
+
+PokerStars Hand #254435176518:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:50:43 WET [2025/01/18 13:50:43 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 4: PhoenixAssassin ($119.70 in chips) is sitting out
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: blistein ($188.18 in chips) 
+Seat 2: sosatime96 ($149.87 in chips) 
+Seat 3: sta$igk ($123.25 in chips) 
+Seat 5: Pigumelis ($188.99 in chips) 
+sta$igk: posts small blind $0.50
+PhoenixAssassin: is sitting out 
+Pigumelis: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.30 to $2.30
+sosatime96: folds 
+sta$igk: folds 
+Pigumelis: folds 
+Uncalled bet ($1.30) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: PhoenixAssassin
+Seat 6: Armin1992550
+Seat 1: blistein collected ($2.50)
+Seat 2: sosatime96 (button) folded before Flop (didn't bet)
+Seat 3: sta$igk (small blind) folded before Flop
+Seat 5: Pigumelis (big blind) folded before Flop
+
+
+
+PokerStars Hand #254435181576:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:50:59 WET [2025/01/18 13:50:59 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 4: PhoenixAssassin ($119.70 in chips) is sitting out
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: blistein ($189.68 in chips) 
+Seat 2: sosatime96 ($149.87 in chips) 
+Seat 3: sta$igk ($122.75 in chips) 
+Seat 5: Pigumelis ($187.99 in chips) 
+Pigumelis: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+sosatime96: folds 
+sta$igk: folds 
+Pigumelis: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: PhoenixAssassin
+Seat 6: Armin1992550
+Seat 1: blistein (big blind) collected ($1)
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 3: sta$igk (button) folded before Flop (didn't bet)
+Seat 5: Pigumelis (small blind) folded before Flop
+
+
+
+PokerStars Hand #254435184482:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:51:09 WET [2025/01/18 13:51:09 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 4: PhoenixAssassin ($119.70 in chips) is sitting out
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: blistein ($190.18 in chips) 
+Seat 2: sosatime96 ($149.87 in chips) 
+Seat 3: sta$igk ($122.75 in chips) 
+Seat 5: Pigumelis ($187.49 in chips) 
+blistein: posts small blind $0.50
+sosatime96: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+Pigumelis: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to sosatime96
+sosatime96 collected $1 from pot
+sosatime96: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: PhoenixAssassin
+Seat 6: Armin1992550
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: sosatime96 (big blind) collected ($1)
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 5: Pigumelis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435187213:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:51:18 WET [2025/01/18 13:51:18 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 4: PhoenixAssassin ($119.70 in chips) is sitting out
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: blistein ($189.68 in chips) 
+Seat 2: sosatime96 ($150.37 in chips) 
+Seat 3: sta$igk ($122.75 in chips) 
+Seat 5: Pigumelis ($187.49 in chips) 
+sosatime96: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+Pigumelis: raises $1.10 to $2.10
+blistein: folds 
+sosatime96: folds 
+sta$igk: folds 
+Uncalled bet ($1.10) returned to Pigumelis
+Pigumelis collected $2.50 from pot
+Pigumelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: PhoenixAssassin
+Seat 6: Armin1992550
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: sosatime96 (small blind) folded before Flop
+Seat 3: sta$igk (big blind) folded before Flop
+Seat 5: Pigumelis collected ($2.50)
+
+
+
+PokerStars Hand #254435190365:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:51:29 WET [2025/01/18 13:51:29 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 4: PhoenixAssassin ($119.70 in chips) is sitting out
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: blistein ($189.68 in chips) 
+Seat 2: sosatime96 ($149.87 in chips) 
+Seat 3: sta$igk ($121.75 in chips) 
+Seat 5: Pigumelis ($188.99 in chips) 
+sta$igk: posts small blind $0.50
+Pigumelis: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+sosatime96: raises $1.50 to $2.50
+sta$igk: folds 
+Pigumelis: calls $1.50
+*** FLOP *** [Ah Kh 6s]
+Pigumelis: checks 
+blistein leaves the table
+michasia joins the table at seat #1 
+sosatime96: bets $5.22
+Pigumelis: folds 
+Uncalled bet ($5.22) returned to sosatime96
+sosatime96 collected $5.22 from pot
+sosatime96: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Ah Kh 6s]
+Seat 4: PhoenixAssassin
+Seat 6: Armin1992550
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: sosatime96 (button) collected ($5.22)
+Seat 3: sta$igk (small blind) folded before Flop
+Seat 5: Pigumelis (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254435203412:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:52:12 WET [2025/01/18 13:52:12 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 4: PhoenixAssassin ($119.70 in chips) is sitting out
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: michasia ($100 in chips) 
+Seat 2: sosatime96 ($152.59 in chips) 
+Seat 3: sta$igk ($121.25 in chips) 
+Seat 5: Pigumelis ($186.49 in chips) 
+Pigumelis: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+sosatime96: folds 
+sta$igk: folds 
+Pigumelis: raises $1.50 to $2.50
+michasia: calls $1.50
+*** FLOP *** [Th Ad 7h]
+Pigumelis: checks 
+michasia: bets $5.94
+Pigumelis: calls $5.94
+*** TURN *** [Th Ad 7h] [Td]
+Pigumelis: checks 
+michasia: checks 
+*** RIVER *** [Th Ad 7h Td] [Qd]
+Pigumelis: checks 
+michasia: checks 
+*** SHOW DOWN ***
+Pigumelis: shows [Qh Kh] (two pair, Queens and Tens)
+michasia: mucks hand 
+Pigumelis collected $16.04 from pot
+*** SUMMARY ***
+Total pot $16.88 | Rake $0.84 
+Board [Th Ad 7h Td Qd]
+Seat 4: PhoenixAssassin
+Seat 6: Armin1992550
+Seat 1: michasia (big blind) mucked
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 3: sta$igk (button) folded before Flop (didn't bet)
+Seat 5: Pigumelis (small blind) showed [Qh Kh] and won ($16.04) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #254435222318:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:53:15 WET [2025/01/18 13:53:15 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 4: PhoenixAssassin ($119.70 in chips) is sitting out
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: michasia ($100 in chips) 
+Seat 2: sosatime96 ($152.59 in chips) 
+Seat 3: sta$igk ($121.25 in chips) 
+Seat 5: Pigumelis ($194.09 in chips) 
+michasia: posts small blind $0.50
+sosatime96: posts big blind $1
+*** HOLE CARDS ***
+PhoenixAssassin leaves the table
+sta$igk: folds 
+Pigumelis: raises $1.50 to $2.50
+michasia: folds 
+sosatime96: folds 
+Uncalled bet ($1.50) returned to Pigumelis
+Pigumelis collected $2.50 from pot
+Pigumelis: doesn't show hand 
+IREQO joins the table at seat #4 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: PhoenixAssassin
+Seat 6: Armin1992550
+Seat 1: michasia (small blind) folded before Flop
+Seat 2: sosatime96 (big blind) folded before Flop
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 5: Pigumelis (button) collected ($2.50)
+
+
+
+PokerStars Hand #254435225965:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:53:27 WET [2025/01/18 13:53:27 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 4: IREQO ($92.17 in chips) is sitting out
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: michasia ($100 in chips) 
+Seat 2: sosatime96 ($151.59 in chips) 
+Seat 3: sta$igk ($121.25 in chips) 
+Seat 5: Pigumelis ($195.59 in chips) 
+sosatime96: posts small blind $0.50
+sta$igk: posts big blind $1
+IREQO: sits out 
+*** HOLE CARDS ***
+Pigumelis: folds 
+michasia: raises $1.80 to $2.80
+sosatime96: raises $9.20 to $12
+sta$igk: folds 
+michasia: folds 
+Uncalled bet ($9.20) returned to sosatime96
+sosatime96 collected $6.60 from pot
+sosatime96: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.60 | Rake $0 
+Seat 4: IREQO
+Seat 6: Armin1992550
+Seat 1: michasia (button) folded before Flop
+Seat 2: sosatime96 (small blind) collected ($6.60)
+Seat 3: sta$igk (big blind) folded before Flop
+Seat 5: Pigumelis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435232618:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:53:49 WET [2025/01/18 13:53:49 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: michasia ($100 in chips) 
+Seat 2: sosatime96 ($155.39 in chips) 
+Seat 3: sta$igk ($120.25 in chips) 
+Seat 4: IREQO ($92.17 in chips) 
+Seat 5: Pigumelis ($195.59 in chips) 
+sta$igk: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+Pigumelis: folds 
+michasia: raises $1.80 to $2.80
+sosatime96: folds 
+sta$igk: folds 
+Armin1992550 is disconnected 
+IREQO: calls $1.80
+*** FLOP *** [6c 6d 9s]
+IREQO: checks 
+michasia: bets $1.91
+IREQO: raises $4.09 to $6
+michasia: folds 
+Uncalled bet ($4.09) returned to IREQO
+IREQO collected $9.42 from pot
+IREQO: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.92 | Rake $0.50 
+Board [6c 6d 9s]
+Seat 6: Armin1992550
+Seat 1: michasia folded on the Flop
+Seat 2: sosatime96 (button) folded before Flop (didn't bet)
+Seat 3: sta$igk (small blind) folded before Flop
+Seat 4: IREQO (big blind) collected ($9.42)
+Seat 5: Pigumelis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435251825:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:54:53 WET [2025/01/18 13:54:53 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: michasia ($100 in chips) 
+Seat 2: sosatime96 ($155.39 in chips) 
+Seat 3: sta$igk ($119.75 in chips) 
+Seat 4: IREQO ($96.88 in chips) 
+Seat 5: Pigumelis ($195.59 in chips) 
+IREQO: posts small blind $0.50
+Pigumelis: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+sosatime96: folds 
+sta$igk: folds 
+IREQO: folds 
+Uncalled bet ($0.50) returned to Pigumelis
+Pigumelis collected $1 from pot
+Pigumelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: Armin1992550
+Seat 1: michasia folded before Flop (didn't bet)
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 3: sta$igk (button) folded before Flop (didn't bet)
+Seat 4: IREQO (small blind) folded before Flop
+Seat 5: Pigumelis (big blind) collected ($1)
+
+
+
+PokerStars Hand #254435254480:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:55:02 WET [2025/01/18 13:55:02 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 1: michasia ($100 in chips) is sitting out
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 2: sosatime96 ($155.39 in chips) 
+Seat 3: sta$igk ($119.75 in chips) 
+Seat 4: IREQO ($96.38 in chips) 
+Seat 5: Pigumelis ($196.09 in chips) 
+Pigumelis: posts small blind $0.50
+michasia: is sitting out 
+sosatime96: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+michasia leaves the table
+IREQO: raises $1.50 to $2.50
+Pigumelis: folds 
+sosatime96: folds 
+Uncalled bet ($1.50) returned to IREQO
+IREQO collected $2.50 from pot
+IREQO: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: michasia
+Seat 6: Armin1992550
+Seat 2: sosatime96 (big blind) folded before Flop
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 4: IREQO (button) collected ($2.50)
+Seat 5: Pigumelis (small blind) folded before Flop
+
+
+
+PokerStars Hand #254435258672:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:55:22 WET [2025/01/18 13:55:22 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 2: sosatime96 ($154.39 in chips) 
+Seat 3: sta$igk ($119.75 in chips) 
+Seat 4: IREQO ($97.88 in chips) 
+Seat 5: Pigumelis ($195.59 in chips) 
+sosatime96: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+IREQO: folds 
+Pigumelis: raises $1.10 to $2.10
+sosatime96: folds 
+sta$igk: folds 
+Uncalled bet ($1.10) returned to Pigumelis
+Pigumelis collected $2.50 from pot
+Pigumelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Armin1992550
+Seat 2: sosatime96 (small blind) folded before Flop
+Seat 3: sta$igk (big blind) folded before Flop
+Seat 4: IREQO folded before Flop (didn't bet)
+Seat 5: Pigumelis (button) collected ($2.50)
+
+
+
+PokerStars Hand #254435510064:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:11:05 WET [2025/01/18 14:11:05 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 4: AllRaise101 ($100 in chips) 
+Seat 5: vadjkeee ($103 in chips) 
+AllRaise101: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: folds 
+Uncalled bet ($0.50) returned to vadjkeee
+vadjkeee collected $1 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: AllRaise101 (button) (small blind) folded before Flop
+Seat 5: vadjkeee (big blind) collected ($1)
+
+
+
+PokerStars Hand #254435512140:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:11:11 WET [2025/01/18 14:11:11 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 4: AllRaise101 ($100 in chips) 
+Seat 5: vadjkeee ($103.50 in chips) 
+vadjkeee: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: raises $1.50 to $2.50
+AllRaise101: calls $1.50
+*** FLOP *** [Th 6s Ac]
+AllRaise101: checks 
+vadjkeee: bets $1.57
+AllRaise101: calls $1.57
+*** TURN *** [Th 6s Ac] [7d]
+AllRaise101: checks 
+vadjkeee: checks 
+*** RIVER *** [Th 6s Ac 7d] [9c]
+AllRaise101: checks 
+vadjkeee: checks 
+*** SHOW DOWN ***
+AllRaise101: shows [6h 8c] (a straight, Six to Ten)
+vadjkeee: mucks hand 
+AllRaise101 collected $7.73 from pot
+*** SUMMARY ***
+Total pot $8.14 | Rake $0.41 
+Board [Th 6s Ac 7d 9c]
+Seat 4: AllRaise101 (big blind) showed [6h 8c] and won ($7.73) with a straight, Six to Ten
+Seat 5: vadjkeee (button) (small blind) mucked
+
+
+
+PokerStars Hand #254435523468:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:11:48 WET [2025/01/18 14:11:48 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 4: AllRaise101 ($103.66 in chips) 
+Seat 5: vadjkeee ($100 in chips) 
+AllRaise101: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: folds 
+Uncalled bet ($0.50) returned to vadjkeee
+vadjkeee collected $1 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: AllRaise101 (button) (small blind) folded before Flop
+Seat 5: vadjkeee (big blind) collected ($1)
+
+
+
+PokerStars Hand #254435525794:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:11:55 WET [2025/01/18 14:11:55 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 4: AllRaise101 ($103.16 in chips) 
+Seat 5: vadjkeee ($100.50 in chips) 
+vadjkeee: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: raises $1.50 to $2.50
+AllRaise101: calls $1.50
+*** FLOP *** [Qh 9h Kd]
+AllRaise101: checks 
+vadjkeee: bets $1.57
+AllRaise101: folds 
+Uncalled bet ($1.57) returned to vadjkeee
+vadjkeee collected $4.75 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Qh 9h Kd]
+Seat 4: AllRaise101 (big blind) folded on the Flop
+Seat 5: vadjkeee (button) (small blind) collected ($4.75)
+
+
+
+PokerStars Hand #254435533810:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:12:22 WET [2025/01/18 14:12:22 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 4: AllRaise101 ($100.66 in chips) 
+Seat 5: vadjkeee ($102.75 in chips) 
+AllRaise101: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: raises $1 to $2
+vadjkeee: calls $1
+*** FLOP *** [3h Qh 9c]
+vadjkeee: checks 
+AllRaise101: bets $1
+vadjkeee: calls $1
+*** TURN *** [3h Qh 9c] [5d]
+vadjkeee: checks 
+AllRaise101: bets $7.70
+vadjkeee: calls $7.70
+*** RIVER *** [3h Qh 9c 5d] [Jc]
+vadjkeee: checks 
+AllRaise101: bets $22.40
+vadjkeee: calls $22.40
+*** SHOW DOWN ***
+AllRaise101: shows [3d 3s] (three of a kind, Threes)
+vadjkeee: mucks hand 
+AllRaise101 collected $65.20 from pot
+*** SUMMARY ***
+Total pot $66.20 | Rake $1 
+Board [3h Qh 9c 5d Jc]
+Seat 4: AllRaise101 (button) (small blind) showed [3d 3s] and won ($65.20) with three of a kind, Threes
+Seat 5: vadjkeee (big blind) mucked
+
+
+
+PokerStars Hand #254435555310:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:13:31 WET [2025/01/18 14:13:31 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 4: AllRaise101 ($132.76 in chips) 
+Seat 5: vadjkeee ($100 in chips) 
+vadjkeee: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: raises $1.50 to $2.50
+AllRaise101: folds 
+Uncalled bet ($1.50) returned to vadjkeee
+vadjkeee collected $2 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: AllRaise101 (big blind) folded before Flop
+Seat 5: vadjkeee (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254435261626:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:55:37 WET [2025/01/18 13:55:37 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 2: sosatime96 ($153.89 in chips) 
+Seat 3: sta$igk ($118.75 in chips) 
+Seat 4: IREQO ($97.88 in chips) 
+Seat 5: Pigumelis ($197.09 in chips) 
+sta$igk: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+Pigumelis: raises $1.10 to $2.10
+sosatime96: raises $5.40 to $7.50
+sta$igk: folds 
+IREQO: folds 
+Pigumelis: calls $5.40
+*** FLOP *** [Qc Kh Jh]
+Pigumelis: checks 
+sosatime96: bets $5.18
+Pigumelis: calls $5.18
+*** TURN *** [Qc Kh Jh] [3c]
+Diamondplaces joins the table at seat #1 
+Diamondplaces is disconnected 
+Pigumelis: checks 
+sosatime96: bets $31.34
+Pigumelis: folds 
+Uncalled bet ($31.34) returned to sosatime96
+sosatime96 collected $25.86 from pot
+sosatime96: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.86 | Rake $1 
+Board [Qc Kh Jh 3c]
+Seat 6: Armin1992550
+Seat 2: sosatime96 (button) collected ($25.86)
+Seat 3: sta$igk (small blind) folded before Flop
+Seat 4: IREQO (big blind) folded before Flop
+Seat 5: Pigumelis folded on the Turn
+
+
+
+PokerStars Hand #254435278725:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:57:06 WET [2025/01/18 13:57:06 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: Diamondplaces ($26.45 in chips) 
+Seat 2: sosatime96 ($167.07 in chips) 
+Seat 3: sta$igk ($118.25 in chips) 
+Seat 4: IREQO ($96.88 in chips) 
+Seat 5: Pigumelis ($184.41 in chips) 
+IREQO: posts small blind $0.50
+Pigumelis: posts big blind $1
+Diamondplaces: posts big blind $1
+*** HOLE CARDS ***
+Diamondplaces: checks 
+sosatime96: raises $3 to $4
+sta$igk: folds 
+IREQO: folds 
+Pigumelis: folds 
+Diamondplaces: folds 
+Uncalled bet ($3) returned to sosatime96
+sosatime96 collected $3.50 from pot
+sosatime96: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 6: Armin1992550
+Seat 1: Diamondplaces folded before Flop (didn't bet)
+Seat 2: sosatime96 collected ($3.50)
+Seat 3: sta$igk (button) folded before Flop (didn't bet)
+Seat 4: IREQO (small blind) folded before Flop
+Seat 5: Pigumelis (big blind) folded before Flop
+
+
+
+PokerStars Hand #254435282495:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:57:26 WET [2025/01/18 13:57:26 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 6: Armin1992550 ($0 in chips) is sitting out
+Seat 1: Diamondplaces ($25.45 in chips) 
+Seat 2: sosatime96 ($169.57 in chips) 
+Seat 3: sta$igk ($118.25 in chips) 
+Seat 4: IREQO ($96.38 in chips) 
+Seat 5: Pigumelis ($183.41 in chips) 
+Pigumelis: posts small blind $0.50
+Diamondplaces: posts big blind $1
+*** HOLE CARDS ***
+sosatime96: folds 
+sta$igk: folds 
+IREQO: raises $1.50 to $2.50
+Pigumelis: folds 
+Diamondplaces: folds 
+Uncalled bet ($1.50) returned to IREQO
+IREQO collected $2.50 from pot
+Armin1992550 leaves the table
+IREQO: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Armin1992550
+Seat 1: Diamondplaces (big blind) folded before Flop
+Seat 2: sosatime96 folded before Flop (didn't bet)
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 4: IREQO (button) collected ($2.50)
+Seat 5: Pigumelis (small blind) folded before Flop
+
+
+
+PokerStars Hand #254435286401:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:57:46 WET [2025/01/18 13:57:46 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 1: Diamondplaces ($24.45 in chips) 
+Seat 2: sosatime96 ($169.57 in chips) 
+Seat 3: sta$igk ($118.25 in chips) 
+Seat 4: IREQO ($97.88 in chips) 
+Seat 5: Pigumelis ($182.91 in chips) 
+Diamondplaces: posts small blind $0.50
+sosatime96: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+sta$igk leaves the table
+IREQO: folds 
+Pigumelis: folds 
+Diamondplaces: folds 
+Uncalled bet ($0.50) returned to sosatime96
+sosatime96 collected $1 from pot
+sosatime96: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Diamondplaces (small blind) folded before Flop
+Seat 2: sosatime96 (big blind) collected ($1)
+Seat 3: sta$igk folded before Flop (didn't bet)
+Seat 4: IREQO folded before Flop (didn't bet)
+Seat 5: Pigumelis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435288739:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:57:58 WET [2025/01/18 13:57:58 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 1: Diamondplaces ($23.95 in chips) 
+Seat 2: sosatime96 ($170.07 in chips) 
+Seat 4: IREQO ($97.88 in chips) 
+Seat 5: Pigumelis ($182.91 in chips) 
+sosatime96: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+Pigumelis: folds 
+Diamondplaces: folds 
+sosatime96: folds 
+Uncalled bet ($0.50) returned to IREQO
+IREQO collected $1 from pot
+IREQO: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Diamondplaces (button) folded before Flop (didn't bet)
+Seat 2: sosatime96 (small blind) folded before Flop
+Seat 4: IREQO (big blind) collected ($1)
+Seat 5: Pigumelis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435291929:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:58:14 WET [2025/01/18 13:58:14 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 1: Diamondplaces ($23.95 in chips) 
+Seat 2: sosatime96 ($169.57 in chips) 
+Seat 4: IREQO ($98.38 in chips) 
+Seat 5: Pigumelis ($182.91 in chips) 
+IREQO: posts small blind $0.50
+Pigumelis: posts big blind $1
+*** HOLE CARDS ***
+Diamondplaces: folds 
+sosatime96: raises $1.50 to $2.50
+IREQO: raises $8.50 to $11
+Pigumelis: folds 
+sosatime96: raises $13 to $24
+IREQO: raises $74.38 to $98.38 and is all-in
+sosatime96: calls $74.38
+Diamondplaces leaves the table
+*** FLOP *** [6c 5s 4h]
+*** TURN *** [6c 5s 4h] [9d]
+*** RIVER *** [6c 5s 4h 9d] [Jc]
+*** SHOW DOWN ***
+IREQO: shows [Ad Kc] (high card Ace)
+sosatime96: shows [Ah Kd] (high card Ace)
+IREQO collected $98.38 from pot
+sosatime96 collected $98.38 from pot
+*** SUMMARY ***
+Total pot $197.76 | Rake $1 
+Board [6c 5s 4h 9d Jc]
+Seat 1: Diamondplaces folded before Flop (didn't bet)
+Seat 2: sosatime96 (button) showed [Ah Kd] and won ($98.38) with high card Ace
+Seat 4: IREQO (small blind) showed [Ad Kc] and won ($98.38) with high card Ace
+Seat 5: Pigumelis (big blind) folded before Flop
+
+
+
+PokerStars Hand #254435305382:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 18:59:22 WET [2025/01/18 13:59:22 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 2: sosatime96 ($169.57 in chips) 
+Seat 4: IREQO ($98.38 in chips) 
+Seat 5: Pigumelis ($181.91 in chips) 
+Pigumelis: posts small blind $0.50
+sosatime96: posts big blind $1
+*** HOLE CARDS ***
+IREQO: folds 
+Pigumelis: raises $1.50 to $2.50
+sosatime96: folds 
+Uncalled bet ($1.50) returned to Pigumelis
+Pigumelis collected $2 from pot
+Pigumelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: sosatime96 (big blind) folded before Flop
+Seat 4: IREQO (button) folded before Flop (didn't bet)
+Seat 5: Pigumelis (small blind) collected ($2)
+
+
+
+PokerStars Hand #254435342209:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:02:00 WET [2025/01/18 14:02:00 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 4: IREQO ($98.38 in chips) is sitting out
+Seat 3: rico5510 ($11.80 in chips) 
+Seat 5: blistein ($189.68 in chips) 
+blistein: posts small blind $0.50
+rico5510: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $12 to $13
+rico5510: folds 
+Uncalled bet ($12) returned to blistein
+blistein collected $2 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: IREQO
+Seat 3: rico5510 (big blind) folded before Flop
+Seat 5: blistein (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254435345665:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:02:11 WET [2025/01/18 14:02:11 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 4: IREQO ($98.38 in chips) is sitting out
+Seat 3: rico5510 ($10.80 in chips) 
+Seat 5: blistein ($190.68 in chips) 
+rico5510: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+rico5510: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: IREQO
+Seat 3: rico5510 (button) (small blind) folded before Flop
+Seat 5: blistein (big blind) collected ($1)
+
+
+
+PokerStars Hand #254435347644:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:02:18 WET [2025/01/18 14:02:18 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 4: IREQO ($98.38 in chips) is sitting out
+Seat 3: rico5510 ($10.30 in chips) 
+Seat 5: blistein ($191.18 in chips) 
+blistein: posts small blind $0.50
+rico5510: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Uncalled bet ($0.50) returned to rico5510
+rico5510 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: IREQO
+Seat 3: rico5510 (big blind) collected ($1)
+Seat 5: blistein (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254435446376:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:07:39 WET [2025/01/18 14:07:39 ET]
+Table 'Harpalyke IV' 6-max Seat #6 is the button
+Seat 2: itaba ($10 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 5: Desverdi ($10 in chips) 
+Seat 6: sta$igk ($118.25 in chips) 
+itaba: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+Desverdi: raises $9 to $10 and is all-in
+sta$igk: folds 
+itaba: folds 
+z00mba: folds 
+Uncalled bet ($9) returned to Desverdi
+Desverdi collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: itaba (small blind) folded before Flop
+Seat 3: z00mba (big blind) folded before Flop
+Seat 5: Desverdi collected ($2.50)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435456179:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:08:11 WET [2025/01/18 14:08:11 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 2: itaba ($9.50 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 5: Desverdi ($11.50 in chips) 
+Seat 6: sta$igk ($118.25 in chips) 
+z00mba: posts small blind $0.50
+Desverdi: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+itaba: raises $8.50 to $9.50 and is all-in
+z00mba: folds 
+Desverdi: calls $8.50
+*** FLOP *** [Ah 6d Js]
+*** TURN *** [Ah 6d Js] [5s]
+*** RIVER *** [Ah 6d Js 5s] [4d]
+*** SHOW DOWN ***
+Desverdi: shows [Kd Ac] (a pair of Aces)
+itaba: shows [9d Td] (high card Ace)
+Desverdi collected $18.52 from pot
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [Ah 6d Js 5s 4d]
+Seat 2: itaba (button) showed [9d Td] and lost with high card Ace
+Seat 3: z00mba (small blind) folded before Flop
+Seat 5: Desverdi (big blind) showed [Kd Ac] and won ($18.52) with a pair of Aces
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435463317:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:08:34 WET [2025/01/18 14:08:34 ET]
+Table 'Harpalyke IV' 6-max Seat #3 is the button
+Seat 2: itaba ($10 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 5: Desverdi ($20.52 in chips) 
+Seat 6: sta$igk ($118.25 in chips) 
+Desverdi: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+itaba: raises $9 to $10 and is all-in
+z00mba is connected 
+AllRaise101 joins the table at seat #4 
+z00mba is connected 
+AllRaise101 is disconnected 
+M1k_DP joins the table at seat #1 
+z00mba: folds 
+Desverdi: folds 
+sta$igk: folds 
+Uncalled bet ($9) returned to itaba
+itaba collected $2.50 from pot
+itaba: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: itaba collected ($2.50)
+Seat 3: z00mba (button) folded before Flop (didn't bet)
+Seat 5: Desverdi (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254435470578:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:08:57 WET [2025/01/18 14:08:57 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 4: AllRaise101 ($100 in chips) is sitting out
+Seat 1: M1k_DP ($100 in chips) 
+Seat 2: itaba ($11.50 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 5: Desverdi ($20.02 in chips) 
+Seat 6: sta$igk ($117.25 in chips) 
+sta$igk: posts small blind $0.50
+M1k_DP: posts big blind $1
+AllRaise101: sits out 
+*** HOLE CARDS ***
+itaba: folds 
+z00mba: folds 
+Desverdi: folds 
+sta$igk: raises $2 to $3
+Desverdi leaves the table
+M1k_DP: folds 
+Uncalled bet ($2) returned to sta$igk
+sta$igk collected $2 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: AllRaise101
+Seat 1: M1k_DP (big blind) folded before Flop
+Seat 2: itaba folded before Flop (didn't bet)
+Seat 3: z00mba folded before Flop (didn't bet)
+Seat 5: Desverdi (button) folded before Flop (didn't bet)
+Seat 6: sta$igk (small blind) collected ($2)
+
+
+
+PokerStars Hand #254435477967:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:09:21 WET [2025/01/18 14:09:21 ET]
+Table 'Harpalyke IV' 6-max Seat #6 is the button
+Seat 4: AllRaise101 ($100 in chips) is sitting out
+Seat 1: M1k_DP ($100 in chips) 
+Seat 2: itaba ($11.50 in chips) 
+Seat 3: z00mba ($100 in chips) 
+Seat 6: sta$igk ($118.25 in chips) 
+M1k_DP: posts small blind $0.50
+itaba: posts big blind $1
+AllRaise101: sits out 
+*** HOLE CARDS ***
+z00mba: folds 
+sta$igk: folds 
+M1k_DP: raises $2 to $3
+z00mba leaves the table
+itaba: folds 
+Uncalled bet ($2) returned to M1k_DP
+M1k_DP collected $2 from pot
+M1k_DP: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: AllRaise101
+Seat 1: M1k_DP (small blind) collected ($2)
+Seat 2: itaba (big blind) folded before Flop
+Seat 3: z00mba folded before Flop (didn't bet)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435483852:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:09:40 WET [2025/01/18 14:09:40 ET]
+Table 'Harpalyke IV' 6-max Seat #1 is the button
+Seat 1: M1k_DP ($101 in chips) 
+Seat 2: itaba ($10.50 in chips) 
+Seat 4: AllRaise101 ($100 in chips) 
+Seat 6: sta$igk ($118.25 in chips) 
+itaba: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+M1k_DP: folds 
+itaba: folds 
+AllRaise101: calls $1.50
+*** FLOP *** [9s 6c Qd]
+AllRaise101: checks 
+sta$igk: checks 
+*** TURN *** [9s 6c Qd] [3h]
+vadjkeee joins the table at seat #5 
+AllRaise101: bets $4.22
+sta$igk: folds 
+Uncalled bet ($4.22) returned to AllRaise101
+AllRaise101 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [9s 6c Qd 3h]
+Seat 1: M1k_DP (button) folded before Flop (didn't bet)
+Seat 2: itaba (small blind) folded before Flop
+Seat 4: AllRaise101 (big blind) collected ($5.22)
+Seat 6: sta$igk folded on the Turn
+
+
+
+PokerStars Hand #254435496303:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:10:20 WET [2025/01/18 14:10:20 ET]
+Table 'Harpalyke IV' 6-max Seat #2 is the button
+Seat 1: M1k_DP ($101 in chips) 
+Seat 2: itaba ($10 in chips) 
+Seat 4: AllRaise101 ($102.72 in chips) 
+Seat 5: vadjkeee ($100 in chips) 
+Seat 6: sta$igk ($115.75 in chips) 
+AllRaise101: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+M1k_DP: folds 
+itaba: folds 
+AllRaise101: folds 
+Uncalled bet ($0.50) returned to vadjkeee
+vadjkeee collected $1 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: M1k_DP folded before Flop (didn't bet)
+Seat 2: itaba (button) folded before Flop (didn't bet)
+Seat 4: AllRaise101 (small blind) folded before Flop
+Seat 5: vadjkeee (big blind) collected ($1)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254435500885:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:10:35 WET [2025/01/18 14:10:35 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 1: M1k_DP ($101 in chips) is sitting out
+Seat 2: itaba ($10 in chips) is sitting out
+Seat 6: sta$igk ($115.75 in chips) is sitting out
+Seat 4: AllRaise101 ($102.22 in chips) 
+Seat 5: vadjkeee ($100.50 in chips) 
+vadjkeee: posts small blind $0.50
+sta$igk: is sitting out 
+M1k_DP: is sitting out 
+itaba: is sitting out 
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: raises $1.50 to $2.50
+AllRaise101: folds 
+Uncalled bet ($1.50) returned to vadjkeee
+itaba leaves the table
+sta$igk leaves the table
+vadjkeee collected $2 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: M1k_DP
+Seat 2: itaba
+Seat 6: sta$igk
+Seat 4: AllRaise101 (big blind) folded before Flop
+Seat 5: vadjkeee (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254435503375:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:10:43 WET [2025/01/18 14:10:43 ET]
+Table 'Harpalyke IV' 6-max Seat #4 is the button
+Seat 1: M1k_DP ($101 in chips) is sitting out
+Seat 4: AllRaise101 ($101.22 in chips) 
+Seat 5: vadjkeee ($101.50 in chips) 
+AllRaise101: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+AllRaise101: folds 
+Uncalled bet ($0.50) returned to vadjkeee
+M1k_DP leaves the table
+vadjkeee collected $1 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: M1k_DP
+Seat 4: AllRaise101 (button) (small blind) folded before Flop
+Seat 5: vadjkeee (big blind) collected ($1)
+
+
+
+PokerStars Hand #254435505856:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 19:10:51 WET [2025/01/18 14:10:51 ET]
+Table 'Harpalyke IV' 6-max Seat #5 is the button
+Seat 4: AllRaise101 ($100.72 in chips) 
+Seat 5: vadjkeee ($102 in chips) 
+vadjkeee: posts small blind $0.50
+AllRaise101: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: raises $1.50 to $2.50
+AllRaise101: folds 
+Uncalled bet ($1.50) returned to vadjkeee
+vadjkeee collected $2 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: AllRaise101 (big blind) folded before Flop
+Seat 5: vadjkeee (button) (small blind) collected ($2)
+
+
+

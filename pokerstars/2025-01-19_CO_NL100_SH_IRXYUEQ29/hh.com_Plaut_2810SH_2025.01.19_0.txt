@@ -1,0 +1,28 @@
+﻿PokerStars Hand #254453123048:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 19:05:39 WET [2025/01/19 14:05:39 ET]
+Table 'Plaut III' 6-max Seat #1 is the button
+Seat 1: PhoenixAssassin ($111.15 in chips) 
+Seat 5: elcutez ($131.65 in chips) 
+PhoenixAssassin: posts small blind $0.50
+elcutez: posts big blind $1
+*** HOLE CARDS ***
+PhoenixAssassin: raises $1.50 to $2.50
+elcutez: calls $1.50
+*** FLOP *** [Jc Ks 9h]
+elcutez: checks 
+PhoenixAssassin: bets $3.14
+elcutez: calls $3.14
+*** TURN *** [Jc Ks 9h] [2c]
+elcutez: checks 
+PhoenixAssassin: bets $15
+elcutez: folds 
+Uncalled bet ($15) returned to PhoenixAssassin
+PhoenixAssassin collected $10.72 from pot
+PhoenixAssassin: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.28 | Rake $0.56 
+Board [Jc Ks 9h 2c]
+Seat 1: PhoenixAssassin (button) (small blind) collected ($10.72)
+Seat 5: elcutez (big blind) folded on the Turn
+
+
+

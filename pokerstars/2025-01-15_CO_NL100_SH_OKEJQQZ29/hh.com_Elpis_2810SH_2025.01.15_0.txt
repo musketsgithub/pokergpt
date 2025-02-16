@@ -1,0 +1,1504 @@
+﻿PokerStars Hand #254390474141:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:39:32 WET [2025/01/15 17:39:32 ET]
+Table 'Elpis IV' 6-max Seat #6 is the button
+Seat 3: ryuma-11 ($100 in chips) is sitting out
+Seat 1: kuca86 ($100 in chips) 
+Seat 6: CEPTT ($100 in chips) 
+CEPTT: posts small blind $0.50
+kuca86: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: raises $1.50 to $2.50
+kuca86: calls $1.50
+*** FLOP *** [8h Qs 5d]
+kuca86: checks 
+CEPTT: checks 
+*** TURN *** [8h Qs 5d] [4h]
+kuca86: bets $1.19
+CEPTT: calls $1.19
+*** RIVER *** [8h Qs 5d 4h] [Kh]
+kuca86: bets $1.75
+CEPTT: calls $1.75
+*** SHOW DOWN ***
+kuca86: shows [8s Jc] (a pair of Eights)
+CEPTT: mucks hand 
+kuca86 collected $10.34 from pot
+*** SUMMARY ***
+Total pot $10.88 | Rake $0.54 
+Board [8h Qs 5d 4h Kh]
+Seat 3: ryuma-11
+Seat 1: kuca86 (big blind) showed [8s Jc] and won ($10.34) with a pair of Eights
+Seat 6: CEPTT (button) (small blind) mucked
+
+
+
+PokerStars Hand #254390492674:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:40:37 WET [2025/01/15 17:40:37 ET]
+Table 'Elpis IV' 6-max Seat #1 is the button
+Seat 3: ryuma-11 ($100 in chips) is sitting out
+Seat 1: kuca86 ($104.90 in chips) 
+Seat 6: CEPTT ($100 in chips) 
+kuca86: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+kuca86: raises $1.50 to $2.50
+ryuma-11 leaves the table
+CEPTT: calls $1.50
+*** FLOP *** [6s 7c As]
+CEPTT: checks 
+kuca86: checks 
+*** TURN *** [6s 7c As] [8d]
+CEPTT: bets $1.43
+kuca86: calls $1.43
+*** RIVER *** [6s 7c As 8d] [6d]
+CEPTT: checks 
+kuca86: checks 
+*** SHOW DOWN ***
+CEPTT: shows [8s Jd] (two pair, Eights and Sixes)
+kuca86: mucks hand 
+CEPTT collected $7.47 from pot
+*** SUMMARY ***
+Total pot $7.86 | Rake $0.39 
+Board [6s 7c As 8d 6d]
+Seat 3: ryuma-11
+Seat 1: kuca86 (button) (small blind) mucked
+Seat 6: CEPTT (big blind) showed [8s Jd] and won ($7.47) with two pair, Eights and Sixes
+
+
+
+PokerStars Hand #254390517614:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:42:04 WET [2025/01/15 17:42:04 ET]
+Table 'Elpis IV' 6-max Seat #3 is the button
+Seat 3: CEPTT ($103.54 in chips) 
+Seat 4: kuca86 ($100.97 in chips) 
+Seat 5: EvilReality ($100 in chips) 
+kuca86: posts small blind $0.50
+EvilReality: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+kuca86: folds 
+Uncalled bet ($0.50) returned to EvilReality
+EvilReality collected $1 from pot
+EvilReality: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: CEPTT (button) folded before Flop (didn't bet)
+Seat 4: kuca86 (small blind) folded before Flop
+Seat 5: EvilReality (big blind) collected ($1)
+
+
+
+PokerStars Hand #254390520925:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:42:16 WET [2025/01/15 17:42:16 ET]
+Table 'Elpis IV' 6-max Seat #4 is the button
+Seat 3: CEPTT ($103.54 in chips) 
+Seat 4: kuca86 ($100.47 in chips) 
+Seat 5: EvilReality ($100.50 in chips) 
+EvilReality: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+kuca86: raises $1.50 to $2.50
+EvilReality: raises $7.50 to $10
+CEPTT: folds 
+kuca86: calls $7.50
+*** FLOP *** [2h 6s 9h]
+EvilReality: bets $10.60
+kuca86: calls $10.60
+*** TURN *** [2h 6s 9h] [Ad]
+EvilReality: checks 
+kuca86: bets $20.60
+EvilReality: raises $59.30 to $79.90 and is all-in
+kuca86: calls $59.27 and is all-in
+Uncalled bet ($0.03) returned to EvilReality
+*** FIRST RIVER *** [2h 6s 9h Ad] [8d]
+*** SECOND RIVER *** [2h 6s 9h Ad] [8c]
+*** FIRST SHOW DOWN ***
+EvilReality: shows [6h 5h] (a pair of Sixes)
+kuca86: shows [Ks Ah] (a pair of Aces)
+kuca86 collected $100.47 from pot
+*** SECOND SHOW DOWN ***
+EvilReality: shows [6h 5h] (a pair of Sixes)
+kuca86: shows [Ks Ah] (a pair of Aces)
+kuca86 collected $100.47 from pot
+*** SUMMARY ***
+Total pot $201.94 | Rake $1 
+Hand was run twice
+FIRST Board [2h 6s 9h Ad 8d]
+SECOND Board [2h 6s 9h Ad 8c]
+Seat 3: CEPTT (big blind) folded before Flop
+Seat 4: kuca86 (button) showed [Ks Ah] and won ($100.47) with a pair of Aces, and won ($100.47) with a pair of Aces
+Seat 5: EvilReality (small blind) showed [6h 5h] and lost with a pair of Sixes, and lost with a pair of Sixes
+
+
+
+PokerStars Hand #254390654488:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:50:06 WET [2025/01/15 17:50:06 ET]
+Table 'Elpis IV' 6-max Seat #5 is the button
+Seat 1: kuca86 ($200.94 in chips) 
+Seat 3: CEPTT ($102.54 in chips) 
+Seat 5: nikalas22 ($100 in chips) 
+kuca86: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+kuca86: folds 
+Uncalled bet ($0.50) returned to CEPTT
+CEPTT collected $1 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kuca86 (small blind) folded before Flop
+Seat 3: CEPTT (big blind) collected ($1)
+Seat 5: nikalas22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390656960:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:50:14 WET [2025/01/15 17:50:14 ET]
+Table 'Elpis IV' 6-max Seat #1 is the button
+Seat 1: kuca86 ($200.44 in chips) 
+Seat 3: CEPTT ($103.04 in chips) 
+Seat 5: nikalas22 ($100 in chips) 
+CEPTT: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+kuca86: folds 
+CEPTT: folds 
+Uncalled bet ($0.50) returned to nikalas22
+nikalas22 collected $1 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kuca86 (button) folded before Flop (didn't bet)
+Seat 3: CEPTT (small blind) folded before Flop
+Seat 5: nikalas22 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254390660065:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:50:25 WET [2025/01/15 17:50:25 ET]
+Table 'Elpis IV' 6-max Seat #3 is the button
+Seat 1: kuca86 ($200.44 in chips) 
+Seat 3: CEPTT ($102.54 in chips) 
+Seat 5: nikalas22 ($100.50 in chips) 
+nikalas22: posts small blind $0.50
+kuca86: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: raises $1.85 to $2.85
+nikalas22: folds 
+kuca86: folds 
+Uncalled bet ($1.85) returned to CEPTT
+CEPTT collected $2.50 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kuca86 (big blind) folded before Flop
+Seat 3: CEPTT (button) collected ($2.50)
+Seat 5: nikalas22 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254390664311:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:50:40 WET [2025/01/15 17:50:40 ET]
+Table 'Elpis IV' 6-max Seat #5 is the button
+Seat 1: kuca86 ($199.44 in chips) 
+Seat 3: CEPTT ($104.04 in chips) 
+Seat 5: nikalas22 ($100 in chips) 
+kuca86: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: raises $1.50 to $2.50
+kuca86: folds 
+CEPTT: folds 
+Uncalled bet ($1.50) returned to nikalas22
+nikalas22 collected $2.50 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kuca86 (small blind) folded before Flop
+Seat 3: CEPTT (big blind) folded before Flop
+Seat 5: nikalas22 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254390669905:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:51:00 WET [2025/01/15 17:51:00 ET]
+Table 'Elpis IV' 6-max Seat #1 is the button
+Seat 1: kuca86 ($198.94 in chips) 
+Seat 3: CEPTT ($103.04 in chips) 
+Seat 5: nikalas22 ($101.50 in chips) 
+CEPTT: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+kuca86: folds 
+CEPTT: folds 
+Uncalled bet ($0.50) returned to nikalas22
+nikalas22 collected $1 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kuca86 (button) folded before Flop (didn't bet)
+Seat 3: CEPTT (small blind) folded before Flop
+Seat 5: nikalas22 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254390676162:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:51:22 WET [2025/01/15 17:51:22 ET]
+Table 'Elpis IV' 6-max Seat #3 is the button
+Seat 1: kuca86 ($198.94 in chips) 
+Seat 3: CEPTT ($102.54 in chips) 
+Seat 5: nikalas22 ($102 in chips) 
+nikalas22: posts small blind $0.50
+kuca86: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+nikalas22: folds 
+Uncalled bet ($0.50) returned to kuca86
+kuca86 collected $1 from pot
+kuca86: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kuca86 (big blind) collected ($1)
+Seat 3: CEPTT (button) folded before Flop (didn't bet)
+Seat 5: nikalas22 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254390679280:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:51:33 WET [2025/01/15 17:51:33 ET]
+Table 'Elpis IV' 6-max Seat #5 is the button
+Seat 1: kuca86 ($199.44 in chips) 
+Seat 3: CEPTT ($102.54 in chips) 
+Seat 5: nikalas22 ($101.50 in chips) 
+kuca86: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+kuca86: folds 
+Uncalled bet ($0.50) returned to CEPTT
+CEPTT collected $1 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kuca86 (small blind) folded before Flop
+Seat 3: CEPTT (big blind) collected ($1)
+Seat 5: nikalas22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390682502:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:51:45 WET [2025/01/15 17:51:45 ET]
+Table 'Elpis IV' 6-max Seat #1 is the button
+Seat 1: kuca86 ($198.94 in chips) 
+Seat 3: CEPTT ($103.04 in chips) 
+Seat 5: nikalas22 ($101.50 in chips) 
+CEPTT: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+kuca86: raises $1.50 to $2.50
+CEPTT: folds 
+nikalas22: calls $1.50
+*** FLOP *** [7d Qh 5h]
+nikalas22: checks 
+kuca86: bets $3.65
+nikalas22: folds 
+Uncalled bet ($3.65) returned to kuca86
+kuca86 collected $5.22 from pot
+kuca86: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [7d Qh 5h]
+Seat 1: kuca86 (button) collected ($5.22)
+Seat 3: CEPTT (small blind) folded before Flop
+Seat 5: nikalas22 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254390696419:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:52:35 WET [2025/01/15 17:52:35 ET]
+Table 'Elpis IV' 6-max Seat #3 is the button
+Seat 1: kuca86 ($201.66 in chips) 
+Seat 3: CEPTT ($102.54 in chips) 
+Seat 5: nikalas22 ($100 in chips) 
+nikalas22: posts small blind $0.50
+kuca86: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+nikalas22: raises $2 to $3
+kuca86: folds 
+Uncalled bet ($2) returned to nikalas22
+nikalas22 collected $2 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: kuca86 (big blind) folded before Flop
+Seat 3: CEPTT (button) folded before Flop (didn't bet)
+Seat 5: nikalas22 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254390700824:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:52:51 WET [2025/01/15 17:52:51 ET]
+Table 'Elpis IV' 6-max Seat #5 is the button
+Seat 1: kuca86 ($200.66 in chips) 
+Seat 3: CEPTT ($102.54 in chips) 
+Seat 5: nikalas22 ($101 in chips) 
+kuca86: posts small blind $0.50
+CEPTT: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+kuca86: raises $2 to $3
+CEPTT: folds 
+Uncalled bet ($2) returned to kuca86
+kuca86 collected $2 from pot
+kuca86: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: kuca86 (small blind) collected ($2)
+Seat 3: CEPTT (big blind) folded before Flop
+Seat 5: nikalas22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390706723:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:53:11 WET [2025/01/15 17:53:11 ET]
+Table 'Elpis IV' 6-max Seat #1 is the button
+Seat 1: kuca86 ($201.66 in chips) 
+Seat 3: CEPTT ($101.54 in chips) 
+Seat 5: nikalas22 ($101 in chips) 
+CEPTT: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+kuca86: raises $1.50 to $2.50
+CEPTT: folds 
+nikalas22: calls $1.50
+*** FLOP *** [4c 6s 8d]
+nikalas22: checks 
+kuca86: checks 
+*** TURN *** [4c 6s 8d] [8s]
+nikalas22: checks 
+Shorshus joins the table at seat #6 
+Gfoer joins the table at seat #2 
+tintin641 joins the table at seat #4 
+kuca86: checks 
+*** RIVER *** [4c 6s 8d 8s] [5s]
+nikalas22: checks 
+kuca86: bets $3.65
+nikalas22: calls $3.65
+*** SHOW DOWN ***
+kuca86: shows [As 6c] (two pair, Eights and Sixes)
+nikalas22: mucks hand 
+kuca86 collected $12.16 from pot
+*** SUMMARY ***
+Total pot $12.80 | Rake $0.64 
+Board [4c 6s 8d 8s 5s]
+Seat 1: kuca86 (button) showed [As 6c] and won ($12.16) with two pair, Eights and Sixes
+Seat 3: CEPTT (small blind) folded before Flop
+Seat 5: nikalas22 (big blind) mucked
+
+
+
+PokerStars Hand #254390723293:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:54:12 WET [2025/01/15 17:54:12 ET]
+Table 'Elpis IV' 6-max Seat #3 is the button
+Seat 2: Gfoer ($100 in chips) is sitting out
+Seat 4: tintin641 ($100 in chips) is sitting out
+Seat 1: kuca86 ($207.67 in chips) 
+Seat 3: CEPTT ($101.04 in chips) 
+Seat 5: nikalas22 ($100 in chips) 
+Seat 6: Shorshus ($100 in chips) 
+nikalas22: posts small blind $0.50
+Shorshus: posts big blind $1
+Gfoer: sits out 
+*** HOLE CARDS ***
+kuca86: folds 
+CEPTT: folds 
+nikalas22: raises $2 to $3
+Shorshus: calls $2
+*** FLOP *** [3s Kc 9s]
+nikalas22: bets $1.71
+Shorshus: calls $1.71
+*** TURN *** [3s Kc 9s] [Tc]
+nikalas22: bets $6.71
+Shorshus: raises $13.29 to $20
+nikalas22: folds 
+Uncalled bet ($13.29) returned to Shorshus
+Shorshus collected $21.84 from pot
+Shorshus: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.84 | Rake $1 
+Board [3s Kc 9s Tc]
+Seat 2: Gfoer
+Seat 4: tintin641
+Seat 1: kuca86 folded before Flop (didn't bet)
+Seat 3: CEPTT (button) folded before Flop (didn't bet)
+Seat 5: nikalas22 (small blind) folded on the Turn
+Seat 6: Shorshus (big blind) collected ($21.84)
+
+
+
+PokerStars Hand #254390740146:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:55:13 WET [2025/01/15 17:55:13 ET]
+Table 'Elpis IV' 6-max Seat #5 is the button
+Seat 2: Gfoer ($100 in chips) is sitting out
+Seat 4: tintin641 ($100 in chips) is sitting out
+Seat 1: kuca86 ($207.67 in chips) 
+Seat 3: CEPTT ($101.04 in chips) 
+Seat 5: nikalas22 ($100 in chips) 
+Seat 6: Shorshus ($110.42 in chips) 
+Shorshus: posts small blind $0.50
+kuca86: posts big blind $1
+Gfoer: sits out 
+tintin641: sits out 
+*** HOLE CARDS ***
+CEPTT: raises $1.25 to $2.25
+nikalas22: folds 
+Shorshus: folds 
+kuca86: folds 
+Uncalled bet ($1.25) returned to CEPTT
+CEPTT collected $2.50 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Gfoer
+Seat 4: tintin641
+Seat 1: kuca86 (big blind) folded before Flop
+Seat 3: CEPTT collected ($2.50)
+Seat 5: nikalas22 (button) folded before Flop (didn't bet)
+Seat 6: Shorshus (small blind) folded before Flop
+
+
+
+PokerStars Hand #254390744760:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:55:35 WET [2025/01/15 17:55:35 ET]
+Table 'Elpis IV' 6-max Seat #6 is the button
+Seat 4: tintin641 ($100 in chips) is sitting out
+Seat 1: kuca86 ($206.67 in chips) 
+Seat 2: Gfoer ($100 in chips) 
+Seat 3: CEPTT ($102.54 in chips) 
+Seat 5: nikalas22 ($100 in chips) 
+Seat 6: Shorshus ($109.92 in chips) 
+kuca86: posts small blind $0.50
+Gfoer: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+CEPTT: raises $1.25 to $2.25
+nikalas22: folds 
+Shorshus: folds 
+kuca86: folds 
+Gfoer: folds 
+Uncalled bet ($1.25) returned to CEPTT
+CEPTT collected $2.50 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: tintin641
+Seat 1: kuca86 (small blind) folded before Flop
+Seat 2: Gfoer (big blind) folded before Flop
+Seat 3: CEPTT collected ($2.50)
+Seat 5: nikalas22 folded before Flop (didn't bet)
+Seat 6: Shorshus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390747725:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:55:50 WET [2025/01/15 17:55:50 ET]
+Table 'Elpis IV' 6-max Seat #1 is the button
+Seat 4: tintin641 ($100 in chips) is sitting out
+Seat 1: kuca86 ($206.17 in chips) 
+Seat 2: Gfoer ($100 in chips) 
+Seat 3: CEPTT ($104.04 in chips) 
+Seat 5: nikalas22 ($100 in chips) 
+Seat 6: Shorshus ($109.92 in chips) 
+Gfoer: posts small blind $0.50
+CEPTT: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+nikalas22: folds 
+Shorshus: folds 
+kuca86: folds 
+Gfoer: folds 
+Uncalled bet ($0.50) returned to CEPTT
+CEPTT collected $1 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: tintin641
+Seat 1: kuca86 (button) folded before Flop (didn't bet)
+Seat 2: Gfoer (small blind) folded before Flop
+Seat 3: CEPTT (big blind) collected ($1)
+Seat 5: nikalas22 folded before Flop (didn't bet)
+Seat 6: Shorshus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390752261:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:56:12 WET [2025/01/15 17:56:12 ET]
+Table 'Elpis IV' 6-max Seat #2 is the button
+Seat 1: kuca86 ($206.17 in chips) 
+Seat 2: Gfoer ($100 in chips) 
+Seat 3: CEPTT ($104.54 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 5: nikalas22 ($100 in chips) 
+Seat 6: Shorshus ($109.92 in chips) 
+CEPTT: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+Shorshus: folds 
+kuca86: folds 
+Gfoer: folds 
+nikalas22 leaves the table
+CEPTT: folds 
+Uncalled bet ($0.50) returned to tintin641
+tintin641 collected $1 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kuca86 folded before Flop (didn't bet)
+Seat 2: Gfoer (button) folded before Flop (didn't bet)
+Seat 3: CEPTT (small blind) folded before Flop
+Seat 4: tintin641 (big blind) collected ($1)
+Seat 5: nikalas22 folded before Flop (didn't bet)
+Seat 6: Shorshus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390755155:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:56:26 WET [2025/01/15 17:56:26 ET]
+Table 'Elpis IV' 6-max Seat #3 is the button
+Seat 1: kuca86 ($206.17 in chips) 
+Seat 2: Gfoer ($100 in chips) 
+Seat 3: CEPTT ($104.04 in chips) 
+Seat 4: tintin641 ($100.50 in chips) 
+Seat 6: Shorshus ($109.92 in chips) 
+tintin641: posts small blind $0.50
+Shorshus: posts big blind $1
+*** HOLE CARDS ***
+avstero joins the table at seat #5 
+kuca86: folds 
+Gfoer: folds 
+CEPTT: folds 
+tintin641: folds 
+Uncalled bet ($0.50) returned to Shorshus
+Shorshus collected $1 from pot
+Shorshus: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kuca86 folded before Flop (didn't bet)
+Seat 2: Gfoer folded before Flop (didn't bet)
+Seat 3: CEPTT (button) folded before Flop (didn't bet)
+Seat 4: tintin641 (small blind) folded before Flop
+Seat 6: Shorshus (big blind) collected ($1)
+
+
+
+PokerStars Hand #254390757532:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:56:37 WET [2025/01/15 17:56:37 ET]
+Table 'Elpis IV' 6-max Seat #4 is the button
+Seat 5: avstero ($100 in chips) is sitting out
+Seat 1: kuca86 ($206.17 in chips) 
+Seat 2: Gfoer ($100 in chips) 
+Seat 3: CEPTT ($104.04 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 6: Shorshus ($110.42 in chips) 
+Shorshus: posts small blind $0.50
+kuca86: posts big blind $1
+*** HOLE CARDS ***
+Gfoer: raises $1.20 to $2.20
+CEPTT: folds 
+tintin641: folds 
+Shorshus: calls $1.70
+kuca86: folds 
+*** FLOP *** [As 7d Qs]
+Shorshus: checks 
+Gfoer: bets $3.85
+Shorshus: calls $3.85
+*** TURN *** [As 7d Qs] [3s]
+Shorshus: checks 
+Gfoer: checks 
+*** RIVER *** [As 7d Qs 3s] [Ts]
+Shorshus: bets $4
+Gfoer: calls $4
+*** SHOW DOWN ***
+Shorshus: shows [Td Kd] (a pair of Tens)
+Gfoer: shows [Ad 8d] (a pair of Aces)
+Gfoer collected $20.04 from pot
+*** SUMMARY ***
+Total pot $21.10 | Rake $1.06 
+Board [As 7d Qs 3s Ts]
+Seat 5: avstero
+Seat 1: kuca86 (big blind) folded before Flop
+Seat 2: Gfoer showed [Ad 8d] and won ($20.04) with a pair of Aces
+Seat 3: CEPTT folded before Flop (didn't bet)
+Seat 4: tintin641 (button) folded before Flop (didn't bet)
+Seat 6: Shorshus (small blind) showed [Td Kd] and lost with a pair of Tens
+
+
+
+PokerStars Hand #254390772450:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:57:50 WET [2025/01/15 17:57:50 ET]
+Table 'Elpis IV' 6-max Seat #6 is the button
+Seat 2: Gfoer ($109.99 in chips) is sitting out
+Seat 5: avstero ($100 in chips) is sitting out
+Seat 1: kuca86 ($205.17 in chips) 
+Seat 3: CEPTT ($104.04 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 6: Shorshus ($100.37 in chips) 
+kuca86: posts small blind $0.50
+Gfoer: is sitting out 
+CEPTT: posts big blind $1
+avstero: sits out 
+*** HOLE CARDS ***
+tintin641: folds 
+Shorshus: folds 
+kuca86: folds 
+Uncalled bet ($0.50) returned to CEPTT
+CEPTT collected $1 from pot
+CEPTT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Gfoer
+Seat 5: avstero
+Seat 1: kuca86 (small blind) folded before Flop
+Seat 3: CEPTT (big blind) collected ($1)
+Seat 4: tintin641 folded before Flop (didn't bet)
+Seat 6: Shorshus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390774511:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:58:00 WET [2025/01/15 17:58:00 ET]
+Table 'Elpis IV' 6-max Seat #1 is the button
+Seat 2: Gfoer ($109.99 in chips) is sitting out
+Seat 5: avstero ($100 in chips) is sitting out
+Seat 1: kuca86 ($204.67 in chips) 
+Seat 3: CEPTT ($104.54 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 6: Shorshus ($100.37 in chips) 
+CEPTT: posts small blind $0.50
+tintin641: posts big blind $1
+avstero: sits out 
+*** HOLE CARDS ***
+Shorshus: folds 
+kuca86: folds 
+CEPTT: folds 
+Uncalled bet ($0.50) returned to tintin641
+tintin641 collected $1 from pot
+tintin641: doesn't show hand 
+Gfoer leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Gfoer
+Seat 5: avstero
+Seat 1: kuca86 (button) folded before Flop (didn't bet)
+Seat 3: CEPTT (small blind) folded before Flop
+Seat 4: tintin641 (big blind) collected ($1)
+Seat 6: Shorshus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390777181:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:58:13 WET [2025/01/15 17:58:13 ET]
+Table 'Elpis IV' 6-max Seat #3 is the button
+Seat 1: kuca86 ($204.67 in chips) 
+Seat 3: CEPTT ($104.04 in chips) 
+Seat 4: tintin641 ($100.50 in chips) 
+Seat 5: avstero ($100 in chips) 
+Seat 6: Shorshus ($100.37 in chips) 
+tintin641: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+Shorshus: raises $3 to $4
+Joe_Li7 joins the table at seat #2 
+kuca86: folds 
+CEPTT: folds 
+tintin641: folds 
+avstero: folds 
+Uncalled bet ($3) returned to Shorshus
+Shorshus collected $2.50 from pot
+Shorshus: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kuca86 folded before Flop (didn't bet)
+Seat 3: CEPTT (button) folded before Flop (didn't bet)
+Seat 4: tintin641 (small blind) folded before Flop
+Seat 5: avstero (big blind) folded before Flop
+Seat 6: Shorshus collected ($2.50)
+
+
+
+PokerStars Hand #254390782299:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:58:38 WET [2025/01/15 17:58:38 ET]
+Table 'Elpis IV' 6-max Seat #4 is the button
+Seat 2: Joe_Li7 ($100 in chips) is sitting out
+Seat 1: kuca86 ($204.67 in chips) 
+Seat 3: CEPTT ($104.04 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 5: avstero ($99 in chips) 
+Seat 6: Shorshus ($101.87 in chips) 
+avstero: posts small blind $0.50
+Shorshus: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+kuca86: folds 
+CEPTT: folds 
+tintin641: raises $1.50 to $2.50
+avstero: folds 
+Shorshus: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Joe_Li7
+Seat 1: kuca86 folded before Flop (didn't bet)
+Seat 3: CEPTT folded before Flop (didn't bet)
+Seat 4: tintin641 (button) collected ($2.50)
+Seat 5: avstero (small blind) folded before Flop
+Seat 6: Shorshus (big blind) folded before Flop
+
+
+
+PokerStars Hand #254390788323:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:59:07 WET [2025/01/15 17:59:07 ET]
+Table 'Elpis IV' 6-max Seat #5 is the button
+Seat 2: Joe_Li7 ($100 in chips) is sitting out
+Seat 1: kuca86 ($204.67 in chips) 
+Seat 3: CEPTT ($104.04 in chips) 
+Seat 4: tintin641 ($101.50 in chips) 
+Seat 5: avstero ($100 in chips) 
+Seat 6: Shorshus ($100.87 in chips) 
+Shorshus: posts small blind $0.50
+kuca86: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+CEPTT: folds 
+tintin641: raises $1.50 to $2.50
+avstero: folds 
+Shorshus: folds 
+kuca86: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Joe_Li7
+Seat 1: kuca86 (big blind) folded before Flop
+Seat 3: CEPTT folded before Flop (didn't bet)
+Seat 4: tintin641 collected ($2.50)
+Seat 5: avstero (button) folded before Flop (didn't bet)
+Seat 6: Shorshus (small blind) folded before Flop
+
+
+
+PokerStars Hand #254390791590:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:59:23 WET [2025/01/15 17:59:23 ET]
+Table 'Elpis IV' 6-max Seat #6 is the button
+Seat 1: kuca86 ($203.67 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 3: CEPTT ($104.04 in chips) 
+Seat 4: tintin641 ($103 in chips) 
+Seat 5: avstero ($100 in chips) 
+Seat 6: Shorshus ($100.37 in chips) 
+kuca86: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+CEPTT: folds 
+tintin641: raises $1.50 to $2.50
+avstero: folds 
+Shorshus: folds 
+kuca86: folds 
+Joe_Li7: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kuca86 (small blind) folded before Flop
+Seat 2: Joe_Li7 (big blind) folded before Flop
+Seat 3: CEPTT folded before Flop (didn't bet)
+Seat 4: tintin641 collected ($2.50)
+Seat 5: avstero folded before Flop (didn't bet)
+Seat 6: Shorshus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390794783:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:59:38 WET [2025/01/15 17:59:38 ET]
+Table 'Elpis IV' 6-max Seat #1 is the button
+Seat 3: CEPTT ($104.04 in chips) is sitting out
+Seat 1: kuca86 ($203.17 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 4: tintin641 ($104.50 in chips) 
+Seat 5: avstero ($100 in chips) 
+Seat 6: Shorshus ($100.37 in chips) 
+Joe_Li7: posts small blind $0.50
+CEPTT: is sitting out 
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+Shorshus: folds 
+kuca86: folds 
+Joe_Li7: folds 
+Uncalled bet ($0.50) returned to tintin641
+tintin641 collected $1 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: CEPTT
+Seat 1: kuca86 (button) folded before Flop (didn't bet)
+Seat 2: Joe_Li7 (small blind) folded before Flop
+Seat 4: tintin641 (big blind) collected ($1)
+Seat 5: avstero folded before Flop (didn't bet)
+Seat 6: Shorshus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390796709:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 22:59:48 WET [2025/01/15 17:59:48 ET]
+Table 'Elpis IV' 6-max Seat #2 is the button
+Seat 3: CEPTT ($104.04 in chips) is sitting out
+Seat 1: kuca86 ($203.17 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 4: tintin641 ($105 in chips) 
+Seat 5: avstero ($100 in chips) 
+Seat 6: Shorshus ($100.37 in chips) 
+tintin641: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+Shorshus: folds 
+kuca86: folds 
+Joe_Li7: raises $1.50 to $2.50
+CEPTT leaves the table
+tintin641: folds 
+avstero: folds 
+Uncalled bet ($1.50) returned to Joe_Li7
+Joe_Li7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: CEPTT
+Seat 1: kuca86 folded before Flop (didn't bet)
+Seat 2: Joe_Li7 (button) collected ($2.50)
+Seat 4: tintin641 (small blind) folded before Flop
+Seat 5: avstero (big blind) folded before Flop
+Seat 6: Shorshus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390800390:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:00:06 WET [2025/01/15 18:00:06 ET]
+Table 'Elpis IV' 6-max Seat #4 is the button
+Seat 1: kuca86 ($203.17 in chips) 
+Seat 2: Joe_Li7 ($101.50 in chips) 
+Seat 4: tintin641 ($104.50 in chips) 
+Seat 5: avstero ($99 in chips) 
+Seat 6: Shorshus ($100.37 in chips) 
+avstero: posts small blind $0.50
+Shorshus: posts big blind $1
+*** HOLE CARDS ***
+kuca86: folds 
+Joe_Li7: raises $1.50 to $2.50
+Kristo 914 joins the table at seat #3 
+tintin641: folds 
+avstero: folds 
+Shorshus: calls $1.50
+*** FLOP *** [5h 4h 3c]
+Shorshus: bets $2.50
+Joe_Li7: calls $2.50
+*** TURN *** [5h 4h 3c] [Ah]
+Shorshus: bets $7
+Joe_Li7: calls $7
+*** RIVER *** [5h 4h 3c Ah] [5c]
+Shorshus: bets $16
+Joe_Li7: folds 
+Uncalled bet ($16) returned to Shorshus
+Shorshus collected $23.28 from pot
+Shorshus: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.50 | Rake $1.22 
+Board [5h 4h 3c Ah 5c]
+Seat 1: kuca86 folded before Flop (didn't bet)
+Seat 2: Joe_Li7 folded on the River
+Seat 4: tintin641 (button) folded before Flop (didn't bet)
+Seat 5: avstero (small blind) folded before Flop
+Seat 6: Shorshus (big blind) collected ($23.28)
+
+
+
+PokerStars Hand #254390822716:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:01:43 WET [2025/01/15 18:01:43 ET]
+Table 'Elpis IV' 6-max Seat #5 is the button
+Seat 3: Kristo 914 ($100 in chips) is sitting out
+Seat 1: kuca86 ($203.17 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 4: tintin641 ($104.50 in chips) 
+Seat 5: avstero ($100 in chips) 
+Seat 6: Shorshus ($111.65 in chips) 
+Shorshus: posts small blind $0.50
+kuca86: posts big blind $1
+Kristo 914: sits out 
+*** HOLE CARDS ***
+Joe_Li7: folds 
+tintin641: raises $1.50 to $2.50
+avstero: folds 
+Shorshus: folds 
+kuca86: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Kristo 914
+Seat 1: kuca86 (big blind) folded before Flop
+Seat 2: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: tintin641 collected ($2.50)
+Seat 5: avstero (button) folded before Flop (didn't bet)
+Seat 6: Shorshus (small blind) folded before Flop
+
+
+
+PokerStars Hand #254390827876:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:02:02 WET [2025/01/15 18:02:02 ET]
+Table 'Elpis IV' 6-max Seat #6 is the button
+Seat 3: Kristo 914 ($100 in chips) is sitting out
+Seat 1: kuca86 ($202.17 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 4: tintin641 ($106 in chips) 
+Seat 5: avstero ($100 in chips) 
+Seat 6: Shorshus ($111.15 in chips) 
+kuca86: posts small blind $0.50
+Joe_Li7: posts big blind $1
+Kristo 914: sits out 
+*** HOLE CARDS ***
+tintin641: folds 
+avstero: raises $1.20 to $2.20
+Shorshus: calls $2.20
+kuca86: folds 
+Joe_Li7: raises $11.80 to $14
+avstero: raises $15 to $29
+Shorshus: folds 
+Joe_Li7: folds 
+Uncalled bet ($15) returned to avstero
+avstero collected $30.70 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.70 | Rake $0 
+Seat 3: Kristo 914
+Seat 1: kuca86 (small blind) folded before Flop
+Seat 2: Joe_Li7 (big blind) folded before Flop
+Seat 4: tintin641 folded before Flop (didn't bet)
+Seat 5: avstero collected ($30.70)
+Seat 6: Shorshus (button) folded before Flop
+
+
+
+PokerStars Hand #254390841670:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:02:53 WET [2025/01/15 18:02:53 ET]
+Table 'Elpis IV' 6-max Seat #1 is the button
+Seat 1: kuca86 ($201.67 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 3: Kristo 914 ($100 in chips) 
+Seat 4: tintin641 ($106 in chips) 
+Seat 5: avstero ($116.70 in chips) 
+Seat 6: Shorshus ($108.95 in chips) 
+Joe_Li7: posts small blind $0.50
+Kristo 914: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+avstero: folds 
+Shorshus: folds 
+kuca86: raises $1.50 to $2.50
+Joe_Li7: folds 
+Kristo 914: folds 
+Uncalled bet ($1.50) returned to kuca86
+kuca86 collected $2.50 from pot
+kuca86: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kuca86 (button) collected ($2.50)
+Seat 2: Joe_Li7 (small blind) folded before Flop
+Seat 3: Kristo 914 (big blind) folded before Flop
+Seat 4: tintin641 folded before Flop (didn't bet)
+Seat 5: avstero folded before Flop (didn't bet)
+Seat 6: Shorshus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390847914:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:03:16 WET [2025/01/15 18:03:16 ET]
+Table 'Elpis IV' 6-max Seat #2 is the button
+Seat 3: Kristo 914 ($100 in chips) is sitting out
+Seat 1: kuca86 ($203.17 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 4: tintin641 ($106 in chips) 
+Seat 5: avstero ($116.70 in chips) 
+Seat 6: Shorshus ($108.95 in chips) 
+Kristo 914 has timed out
+Kristo 914: is sitting out 
+tintin641: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+Shorshus: folds 
+Kristo 914 is disconnected 
+kuca86: raises $1.50 to $2.50
+Joe_Li7: folds 
+tintin641: folds 
+avstero: calls $1.50
+*** FLOP *** [4c 9h 4d]
+avstero: checks 
+kuca86: bets $1.30
+avstero: calls $1.30
+*** TURN *** [4c 9h 4d] [As]
+avstero: checks 
+kuca86: bets $11.55
+avstero: folds 
+Uncalled bet ($11.55) returned to kuca86
+kuca86 collected $7.70 from pot
+kuca86: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.40 
+Board [4c 9h 4d As]
+Seat 3: Kristo 914
+Seat 1: kuca86 collected ($7.70)
+Seat 2: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 4: tintin641 (small blind) folded before Flop
+Seat 5: avstero (big blind) folded on the Turn
+Seat 6: Shorshus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390868943:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:04:34 WET [2025/01/15 18:04:34 ET]
+Table 'Elpis IV' 6-max Seat #4 is the button
+Seat 3: Kristo 914 ($100 in chips) is sitting out
+Seat 1: kuca86 ($207.07 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 4: tintin641 ($105.50 in chips) 
+Seat 5: avstero ($112.90 in chips) 
+Seat 6: Shorshus ($108.95 in chips) 
+avstero: posts small blind $0.50
+Shorshus: posts big blind $1
+Kristo 914: sits out 
+*** HOLE CARDS ***
+kuca86: raises $1.50 to $2.50
+Joe_Li7: folds 
+tintin641: folds 
+avstero: folds 
+Shorshus: folds 
+Uncalled bet ($1.50) returned to kuca86
+kuca86 collected $2.50 from pot
+kuca86: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Kristo 914
+Seat 1: kuca86 collected ($2.50)
+Seat 2: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: tintin641 (button) folded before Flop (didn't bet)
+Seat 5: avstero (small blind) folded before Flop
+Seat 6: Shorshus (big blind) folded before Flop
+
+
+
+PokerStars Hand #254390871777:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:04:44 WET [2025/01/15 18:04:44 ET]
+Table 'Elpis IV' 6-max Seat #5 is the button
+Seat 3: Kristo 914 ($100 in chips) is sitting out
+Seat 1: kuca86 ($208.57 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 4: tintin641 ($105.50 in chips) 
+Seat 5: avstero ($112.40 in chips) 
+Seat 6: Shorshus ($107.95 in chips) 
+Shorshus: posts small blind $0.50
+kuca86: posts big blind $1
+Kristo 914: sits out 
+*** HOLE CARDS ***
+Joe_Li7: folds 
+tintin641: folds 
+avstero: folds 
+Shorshus: raises $3 to $4
+kuca86: calls $3
+*** FLOP *** [Qd 2d 4c]
+Shorshus: checks 
+kuca86: checks 
+*** TURN *** [Qd 2d 4c] [5s]
+Shorshus: checks 
+kuca86: checks 
+*** RIVER *** [Qd 2d 4c 5s] [Ad]
+Shorshus: bets $3
+kuca86: folds 
+Uncalled bet ($3) returned to Shorshus
+Shorshus collected $7.60 from pot
+Shorshus: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Qd 2d 4c 5s Ad]
+Seat 3: Kristo 914
+Seat 1: kuca86 (big blind) folded on the River
+Seat 2: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: tintin641 folded before Flop (didn't bet)
+Seat 5: avstero (button) folded before Flop (didn't bet)
+Seat 6: Shorshus (small blind) collected ($7.60)
+
+
+
+PokerStars Hand #254390897827:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:06:20 WET [2025/01/15 18:06:20 ET]
+Table 'Elpis IV' 6-max Seat #6 is the button
+Seat 3: Kristo 914 ($100 in chips) is sitting out
+Seat 1: kuca86 ($204.57 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 4: tintin641 ($105.50 in chips) 
+Seat 5: avstero ($112.40 in chips) 
+Seat 6: Shorshus ($111.55 in chips) 
+kuca86: posts small blind $0.50
+Joe_Li7: posts big blind $1
+Kristo 914: sits out 
+*** HOLE CARDS ***
+tintin641: folds 
+avstero: folds 
+Shorshus: folds 
+kuca86: raises $2 to $3
+Joe_Li7: calls $2
+*** FLOP *** [Ad 9c Js]
+kuca86: bets $1.43
+Joe_Li7: folds 
+Uncalled bet ($1.43) returned to kuca86
+kuca86 collected $5.70 from pot
+kuca86: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ad 9c Js]
+Seat 3: Kristo 914
+Seat 1: kuca86 (small blind) collected ($5.70)
+Seat 2: Joe_Li7 (big blind) folded on the Flop
+Seat 4: tintin641 folded before Flop (didn't bet)
+Seat 5: avstero folded before Flop (didn't bet)
+Seat 6: Shorshus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390905578:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:06:48 WET [2025/01/15 18:06:48 ET]
+Table 'Elpis IV' 6-max Seat #1 is the button
+Seat 1: kuca86 ($207.27 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 3: Kristo 914 ($100 in chips) 
+Seat 4: tintin641 ($105.50 in chips) 
+Seat 5: avstero ($112.40 in chips) 
+Seat 6: Shorshus ($111.55 in chips) 
+Joe_Li7: posts small blind $0.50
+Kristo 914: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+avstero: folds 
+Shorshus: folds 
+kuca86: raises $1.50 to $2.50
+Joe_Li7: raises $8 to $10.50
+Kristo 914: folds 
+kuca86: folds 
+Uncalled bet ($8) returned to Joe_Li7
+Joe_Li7 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: kuca86 (button) folded before Flop
+Seat 2: Joe_Li7 (small blind) collected ($6)
+Seat 3: Kristo 914 (big blind) folded before Flop
+Seat 4: tintin641 folded before Flop (didn't bet)
+Seat 5: avstero folded before Flop (didn't bet)
+Seat 6: Shorshus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390914468:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:07:21 WET [2025/01/15 18:07:21 ET]
+Table 'Elpis IV' 6-max Seat #2 is the button
+Seat 1: kuca86 ($204.77 in chips) 
+Seat 2: Joe_Li7 ($103.50 in chips) 
+Seat 3: Kristo 914 ($100 in chips) 
+Seat 4: tintin641 ($105.50 in chips) 
+Seat 5: avstero ($112.40 in chips) 
+Seat 6: Shorshus ($111.55 in chips) 
+Kristo 914: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+Shorshus: folds 
+kuca86: folds 
+Joe_Li7: raises $1.50 to $2.50
+Kristo 914: folds 
+tintin641: folds 
+Uncalled bet ($1.50) returned to Joe_Li7
+Joe_Li7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kuca86 folded before Flop (didn't bet)
+Seat 2: Joe_Li7 (button) collected ($2.50)
+Seat 3: Kristo 914 (small blind) folded before Flop
+Seat 4: tintin641 (big blind) folded before Flop
+Seat 5: avstero folded before Flop (didn't bet)
+Seat 6: Shorshus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390920106:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:07:42 WET [2025/01/15 18:07:42 ET]
+Table 'Elpis IV' 6-max Seat #3 is the button
+Seat 1: kuca86 ($204.77 in chips) 
+Seat 2: Joe_Li7 ($105 in chips) 
+Seat 3: Kristo 914 ($100 in chips) 
+Seat 4: tintin641 ($104.50 in chips) 
+Seat 5: avstero ($112.40 in chips) 
+Seat 6: Shorshus ($111.55 in chips) 
+tintin641: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+Shorshus: raises $3 to $4
+kuca86: raises $7 to $11
+Joe_Li7: folds 
+Kristo 914: folds 
+tintin641: folds 
+avstero: folds 
+Shorshus: raises $11 to $22
+kuca86: folds 
+Uncalled bet ($11) returned to Shorshus
+Shorshus collected $23.50 from pot
+Shorshus: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.50 | Rake $0 
+Seat 1: kuca86 folded before Flop
+Seat 2: Joe_Li7 folded before Flop (didn't bet)
+Seat 3: Kristo 914 (button) folded before Flop (didn't bet)
+Seat 4: tintin641 (small blind) folded before Flop
+Seat 5: avstero (big blind) folded before Flop
+Seat 6: Shorshus collected ($23.50)
+
+
+
+PokerStars Hand #254390929490:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:08:17 WET [2025/01/15 18:08:17 ET]
+Table 'Elpis IV' 6-max Seat #4 is the button
+Seat 1: kuca86 ($193.77 in chips) 
+Seat 2: Joe_Li7 ($105 in chips) 
+Seat 3: Kristo 914 ($100 in chips) 
+Seat 4: tintin641 ($104 in chips) 
+Seat 5: avstero ($111.40 in chips) 
+Seat 6: Shorshus ($124.05 in chips) 
+avstero: posts small blind $0.50
+Shorshus: posts big blind $1
+*** HOLE CARDS ***
+kuca86: folds 
+Joe_Li7: raises $1.50 to $2.50
+Kristo 914: folds 
+tintin641: folds 
+avstero: folds 
+Shorshus: calls $1.50
+*** FLOP *** [5d 2s 7h]
+Shorshus: bets $3
+Joe_Li7: calls $3
+*** TURN *** [5d 2s 7h] [Ts]
+Shorshus: checks 
+Joe_Li7: checks 
+*** RIVER *** [5d 2s 7h Ts] [6c]
+Shorshus: checks 
+Joe_Li7: checks 
+*** SHOW DOWN ***
+Shorshus: shows [3s 3h] (a pair of Threes)
+Joe_Li7: mucks hand 
+Shorshus collected $10.92 from pot
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.58 
+Board [5d 2s 7h Ts 6c]
+Seat 1: kuca86 folded before Flop (didn't bet)
+Seat 2: Joe_Li7 mucked
+Seat 3: Kristo 914 folded before Flop (didn't bet)
+Seat 4: tintin641 (button) folded before Flop (didn't bet)
+Seat 5: avstero (small blind) folded before Flop
+Seat 6: Shorshus (big blind) showed [3s 3h] and won ($10.92) with a pair of Threes
+
+
+
+PokerStars Hand #254390949973:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:09:34 WET [2025/01/15 18:09:34 ET]
+Table 'Elpis IV' 6-max Seat #5 is the button
+Seat 1: kuca86 ($193.77 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 3: Kristo 914 ($100 in chips) 
+Seat 4: tintin641 ($104 in chips) 
+Seat 5: avstero ($110.90 in chips) 
+Seat 6: Shorshus ($129.47 in chips) 
+Shorshus: posts small blind $0.50
+kuca86: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+Kristo 914: folds 
+tintin641: folds 
+avstero: folds 
+Shorshus: raises $2 to $3
+kuca86: folds 
+Uncalled bet ($2) returned to Shorshus
+Shorshus collected $2 from pot
+Shorshus: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: kuca86 (big blind) folded before Flop
+Seat 2: Joe_Li7 folded before Flop (didn't bet)
+Seat 3: Kristo 914 folded before Flop (didn't bet)
+Seat 4: tintin641 folded before Flop (didn't bet)
+Seat 5: avstero (button) folded before Flop (didn't bet)
+Seat 6: Shorshus (small blind) collected ($2)
+
+
+
+PokerStars Hand #254390957904:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:10:03 WET [2025/01/15 18:10:03 ET]
+Table 'Elpis IV' 6-max Seat #6 is the button
+Seat 1: kuca86 ($192.77 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 3: Kristo 914 ($100 in chips) 
+Seat 4: tintin641 ($104 in chips) 
+Seat 5: avstero ($110.90 in chips) 
+Seat 6: Shorshus ($130.47 in chips) 
+kuca86: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+Kristo 914: folds 
+tintin641: folds 
+avstero: folds 
+Shorshus: raises $1 to $2
+kuca86: folds 
+Joe_Li7: folds 
+Uncalled bet ($1) returned to Shorshus
+Shorshus collected $2.50 from pot
+Shorshus: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: kuca86 (small blind) folded before Flop
+Seat 2: Joe_Li7 (big blind) folded before Flop
+Seat 3: Kristo 914 folded before Flop (didn't bet)
+Seat 4: tintin641 folded before Flop (didn't bet)
+Seat 5: avstero folded before Flop (didn't bet)
+Seat 6: Shorshus (button) collected ($2.50)
+
+
+
+PokerStars Hand #254390964550:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:10:28 WET [2025/01/15 18:10:28 ET]
+Table 'Elpis IV' 6-max Seat #1 is the button
+Seat 1: kuca86 ($192.27 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 3: Kristo 914 ($100 in chips) 
+Seat 4: tintin641 ($104 in chips) 
+Seat 5: avstero ($110.90 in chips) 
+Seat 6: Shorshus ($131.97 in chips) 
+Joe_Li7: posts small blind $0.50
+Kristo 914: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+avstero: folds 
+Shorshus: folds 
+Shorshus leaves the table
+kuca86: raises $1.50 to $2.50
+Joe_Li7: folds 
+GuigaMan joins the table at seat #6 
+Kristo 914: calls $1.50
+*** FLOP *** [Tc 7s 2s]
+Kristo 914: checks 
+kuca86: checks 
+*** TURN *** [Tc 7s 2s] [5c]
+Kristo 914: bets $7.42
+kuca86: calls $7.42
+*** RIVER *** [Tc 7s 2s 5c] [2h]
+Kristo 914: bets $28.73
+kuca86: folds 
+Uncalled bet ($28.73) returned to Kristo 914
+Kristo 914 collected $19.32 from pot
+Kristo 914: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.34 | Rake $1.02 
+Board [Tc 7s 2s 5c 2h]
+Seat 1: kuca86 (button) folded on the River
+Seat 2: Joe_Li7 (small blind) folded before Flop
+Seat 3: Kristo 914 (big blind) collected ($19.32)
+Seat 4: tintin641 folded before Flop (didn't bet)
+Seat 5: avstero folded before Flop (didn't bet)
+Seat 6: Shorshus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254390995477:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:12:25 WET [2025/01/15 18:12:25 ET]
+Table 'Elpis IV' 6-max Seat #2 is the button
+Seat 6: GuigaMan ($100 in chips) is sitting out
+Seat 1: kuca86 ($182.35 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 3: Kristo 914 ($109.40 in chips) 
+Seat 4: tintin641 ($104 in chips) 
+Seat 5: avstero ($110.90 in chips) 
+Kristo 914: posts small blind $0.50
+tintin641: posts big blind $1
+GuigaMan: sits out 
+*** HOLE CARDS ***
+avstero: raises $1.20 to $2.20
+kuca86: folds 
+Joe_Li7: folds 
+Kristo 914: folds 
+tintin641: folds 
+Uncalled bet ($1.20) returned to avstero
+avstero collected $2.50 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: GuigaMan
+Seat 1: kuca86 folded before Flop (didn't bet)
+Seat 2: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 3: Kristo 914 (small blind) folded before Flop
+Seat 4: tintin641 (big blind) folded before Flop
+Seat 5: avstero collected ($2.50)
+
+
+
+PokerStars Hand #254391000805:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:12:45 WET [2025/01/15 18:12:45 ET]
+Table 'Elpis IV' 6-max Seat #3 is the button
+Seat 6: GuigaMan ($100 in chips) is sitting out
+Seat 1: kuca86 ($182.35 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 3: Kristo 914 ($108.90 in chips) 
+Seat 4: tintin641 ($103 in chips) 
+Seat 5: avstero ($112.40 in chips) 
+tintin641: posts small blind $0.50
+avstero: posts big blind $1
+GuigaMan: sits out 
+*** HOLE CARDS ***
+kuca86: folds 
+Joe_Li7: folds 
+Kristo 914: folds 
+tintin641: raises $2 to $3
+avstero: folds 
+Uncalled bet ($2) returned to tintin641
+tintin641 collected $2 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: GuigaMan
+Seat 1: kuca86 folded before Flop (didn't bet)
+Seat 2: Joe_Li7 folded before Flop (didn't bet)
+Seat 3: Kristo 914 (button) folded before Flop (didn't bet)
+Seat 4: tintin641 (small blind) collected ($2)
+Seat 5: avstero (big blind) folded before Flop
+
+
+
+PokerStars Hand #254391006104:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:13:05 WET [2025/01/15 18:13:05 ET]
+Table 'Elpis IV' 6-max Seat #4 is the button
+Seat 1: kuca86 ($182.35 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 3: Kristo 914 ($108.90 in chips) 
+Seat 4: tintin641 ($104 in chips) 
+Seat 5: avstero ($111.40 in chips) 
+Seat 6: GuigaMan ($100 in chips) 
+avstero: posts small blind $0.50
+GuigaMan: posts big blind $1
+*** HOLE CARDS ***
+kuca86: folds 
+Joe_Li7: folds 
+Kristo 914: folds 
+tintin641: folds 
+avstero: folds 
+Uncalled bet ($0.50) returned to GuigaMan
+GuigaMan collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: kuca86 folded before Flop (didn't bet)
+Seat 2: Joe_Li7 folded before Flop (didn't bet)
+Seat 3: Kristo 914 folded before Flop (didn't bet)
+Seat 4: tintin641 (button) folded before Flop (didn't bet)
+Seat 5: avstero (small blind) folded before Flop
+Seat 6: GuigaMan (big blind) collected ($1)
+
+
+
+PokerStars Hand #254391010707:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 23:13:22 WET [2025/01/15 18:13:22 ET]
+Table 'Elpis IV' 6-max Seat #5 is the button
+Seat 1: kuca86 ($182.35 in chips) 
+Seat 2: Joe_Li7 ($100 in chips) 
+Seat 3: Kristo 914 ($108.90 in chips) 
+Seat 4: tintin641 ($104 in chips) 
+Seat 5: avstero ($110.90 in chips) 
+Seat 6: GuigaMan ($100.50 in chips) 
+GuigaMan: posts small blind $0.50
+kuca86: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+Kristo 914: folds 
+tintin641: folds 
+avstero: folds 
+GuigaMan: raises $2 to $3
+kuca86: folds 
+Uncalled bet ($2) returned to GuigaMan
+GuigaMan collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: kuca86 (big blind) folded before Flop
+Seat 2: Joe_Li7 folded before Flop (didn't bet)
+Seat 3: Kristo 914 folded before Flop (didn't bet)
+Seat 4: tintin641 folded before Flop (didn't bet)
+Seat 5: avstero (button) folded before Flop (didn't bet)
+Seat 6: GuigaMan (small blind) collected ($2)
+
+
+

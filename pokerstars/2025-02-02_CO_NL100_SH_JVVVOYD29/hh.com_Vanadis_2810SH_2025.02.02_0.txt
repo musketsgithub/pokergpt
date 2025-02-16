@@ -1,0 +1,523 @@
+﻿PokerStars Hand #254665987790:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:14:23 WET [2025/02/02 2:14:23 ET]
+Table 'Vanadis' 6-max Seat #6 is the button
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: sutata ($100 in chips) 
+Seat 3: carpadeum ($87.71 in chips) 
+Seat 4: ptolejmus ($18 in chips) 
+Seat 5: CashfishT ($101 in chips) 
+Seat 6: steelNike ($110.85 in chips) 
+AlexEliseev7: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+carpadeum: calls $1
+ptolejmus: raises $1 to $2
+CashfishT: folds 
+steelNike: folds 
+AlexEliseev7: folds 
+sutata: calls $1
+carpadeum: calls $1
+*** FLOP *** [Jc 3d Td]
+sutata: checks 
+carpadeum: checks 
+ptolejmus: bets $4.64
+sutata: folds 
+carpadeum: folds 
+Uncalled bet ($4.64) returned to ptolejmus
+ptolejmus collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Jc 3d Td]
+Seat 1: AlexEliseev7 (small blind) folded before Flop
+Seat 2: sutata (big blind) folded on the Flop
+Seat 3: carpadeum folded on the Flop
+Seat 4: ptolejmus collected ($6.18)
+Seat 5: CashfishT folded before Flop (didn't bet)
+Seat 6: steelNike (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254665991521:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:15:10 WET [2025/02/02 2:15:10 ET]
+Table 'Vanadis' 6-max Seat #1 is the button
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: sutata ($100 in chips) 
+Seat 3: carpadeum ($85.71 in chips) 
+Seat 4: ptolejmus ($22.18 in chips) 
+Seat 5: CashfishT ($101 in chips) 
+Seat 6: steelNike ($110.85 in chips) 
+sutata: posts small blind $0.50
+carpadeum: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+CashfishT: raises $1.20 to $2.20
+steelNike: folds 
+AlexEliseev7: folds 
+sutata: folds 
+carpadeum: calls $1.20
+*** FLOP *** [Th 2d 5d]
+carpadeum: checks 
+CashfishT: bets $3.50
+carpadeum: calls $3.50
+*** TURN *** [Th 2d 5d] [9c]
+carpadeum: checks 
+CashfishT: bets $8.48
+carpadeum: folds 
+Uncalled bet ($8.48) returned to CashfishT
+CashfishT collected $11.30 from pot
+CashfishT: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.90 | Rake $0.60 
+Board [Th 2d 5d 9c]
+Seat 1: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 2: sutata (small blind) folded before Flop
+Seat 3: carpadeum (big blind) folded on the Turn
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: CashfishT collected ($11.30)
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254665997910:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:16:28 WET [2025/02/02 2:16:28 ET]
+Table 'Vanadis' 6-max Seat #2 is the button
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: sutata ($100 in chips) 
+Seat 3: carpadeum ($80.01 in chips) 
+Seat 4: ptolejmus ($22.18 in chips) 
+Seat 5: CashfishT ($106.60 in chips) 
+Seat 6: steelNike ($110.85 in chips) 
+carpadeum: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+CashfishT: folds 
+steelNike: folds 
+AlexEliseev7: folds 
+sutata: folds 
+carpadeum: calls $0.50
+ptolejmus: raises $21.18 to $22.18 and is all-in
+carpadeum: folds 
+Uncalled bet ($21.18) returned to ptolejmus
+ptolejmus collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: AlexEliseev7 folded before Flop (didn't bet)
+Seat 2: sutata (button) folded before Flop (didn't bet)
+Seat 3: carpadeum (small blind) folded before Flop
+Seat 4: ptolejmus (big blind) collected ($2)
+Seat 5: CashfishT folded before Flop (didn't bet)
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254665999977:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:16:53 WET [2025/02/02 2:16:53 ET]
+Table 'Vanadis' 6-max Seat #3 is the button
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: sutata ($100 in chips) 
+Seat 3: carpadeum ($79.01 in chips) 
+Seat 4: ptolejmus ($23.18 in chips) 
+Seat 5: CashfishT ($106.60 in chips) 
+Seat 6: steelNike ($110.85 in chips) 
+ptolejmus: posts small blind $0.50
+CashfishT: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+AlexEliseev7: folds 
+sutata: raises $1.50 to $2.50
+carpadeum: folds 
+ptolejmus: folds 
+CashfishT: folds 
+Uncalled bet ($1.50) returned to sutata
+sutata collected $2.50 from pot
+sutata: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AlexEliseev7 folded before Flop (didn't bet)
+Seat 2: sutata collected ($2.50)
+Seat 3: carpadeum (button) folded before Flop (didn't bet)
+Seat 4: ptolejmus (small blind) folded before Flop
+Seat 5: CashfishT (big blind) folded before Flop
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254666001010:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:17:05 WET [2025/02/02 2:17:05 ET]
+Table 'Vanadis' 6-max Seat #4 is the button
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: sutata ($101.50 in chips) 
+Seat 3: carpadeum ($79.01 in chips) 
+Seat 4: ptolejmus ($22.68 in chips) 
+Seat 5: CashfishT ($105.60 in chips) 
+Seat 6: steelNike ($110.85 in chips) 
+CashfishT: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+AlexEliseev7: folds 
+sutata: folds 
+carpadeum: folds 
+ptolejmus: raises $1 to $2
+CashfishT: folds 
+steelNike: folds 
+Uncalled bet ($1) returned to ptolejmus
+ptolejmus collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: AlexEliseev7 folded before Flop (didn't bet)
+Seat 2: sutata folded before Flop (didn't bet)
+Seat 3: carpadeum folded before Flop (didn't bet)
+Seat 4: ptolejmus (button) collected ($2.50)
+Seat 5: CashfishT (small blind) folded before Flop
+Seat 6: steelNike (big blind) folded before Flop
+
+
+
+PokerStars Hand #254666003944:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:17:41 WET [2025/02/02 2:17:41 ET]
+Table 'Vanadis' 6-max Seat #5 is the button
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: sutata ($101.50 in chips) 
+Seat 3: carpadeum ($79.01 in chips) 
+Seat 4: ptolejmus ($24.18 in chips) 
+Seat 5: CashfishT ($105.10 in chips) 
+Seat 6: steelNike ($109.85 in chips) 
+steelNike: posts small blind $0.50
+AlexEliseev7: posts big blind $1
+*** HOLE CARDS ***
+sutata: folds 
+carpadeum: raises $4 to $5
+ptolejmus: folds 
+CashfishT: calls $5
+steelNike: folds 
+AlexEliseev7: folds 
+*** FLOP *** [Ts 4c 5s]
+carpadeum: bets $5
+CashfishT: raises $15 to $20
+carpadeum: calls $15
+*** TURN *** [Ts 4c 5s] [5c]
+carpadeum: bets $54.01 and is all-in
+CashfishT: calls $54.01
+*** RIVER *** [Ts 4c 5s 5c] [Kh]
+*** SHOW DOWN ***
+carpadeum: shows [8s 3d] (a pair of Fives)
+CashfishT: shows [Ac Th] (two pair, Tens and Fives)
+CashfishT collected $157.02 from pot
+*** SUMMARY ***
+Total pot $159.52 | Rake $2.50 
+Board [Ts 4c 5s 5c Kh]
+Seat 1: AlexEliseev7 (big blind) folded before Flop
+Seat 2: sutata folded before Flop (didn't bet)
+Seat 3: carpadeum showed [8s 3d] and lost with a pair of Fives
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: CashfishT (button) showed [Ac Th] and won ($157.02) with two pair, Tens and Fives
+Seat 6: steelNike (small blind) folded before Flop
+
+
+
+PokerStars Hand #254666009019:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:18:42 WET [2025/02/02 2:18:42 ET]
+Table 'Vanadis' 6-max Seat #6 is the button
+Seat 3: carpadeum ($0 in chips) is sitting out
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: sutata ($101.50 in chips) 
+Seat 4: ptolejmus ($24.18 in chips) 
+Seat 5: CashfishT ($183.11 in chips) 
+Seat 6: steelNike ($109.35 in chips) 
+AlexEliseev7: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: raises $1 to $2
+CashfishT: folds 
+carpadeum is disconnected 
+steelNike: folds 
+AlexEliseev7: folds 
+sutata: calls $1
+*** FLOP *** [9s 3c 6s]
+sutata: checks 
+ptolejmus: checks 
+*** TURN *** [9s 3c 6s] [5h]
+sutata: checks 
+ptolejmus: bets $4.28
+sutata: folds 
+Uncalled bet ($4.28) returned to ptolejmus
+ptolejmus collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [9s 3c 6s 5h]
+Seat 3: carpadeum
+Seat 1: AlexEliseev7 (small blind) folded before Flop
+Seat 2: sutata (big blind) folded on the Turn
+Seat 4: ptolejmus collected ($4.28)
+Seat 5: CashfishT folded before Flop (didn't bet)
+Seat 6: steelNike (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254666014163:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:19:45 WET [2025/02/02 2:19:45 ET]
+Table 'Vanadis' 6-max Seat #1 is the button
+Seat 3: carpadeum ($0 in chips) is sitting out
+Seat 4: ptolejmus ($26.46 in chips) is sitting out
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: sutata ($100 in chips) 
+Seat 5: CashfishT ($183.11 in chips) 
+Seat 6: steelNike ($109.35 in chips) 
+sutata: posts small blind $0.50
+ptolejmus: is sitting out 
+CashfishT: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus leaves the table
+steelNike: raises $1.30 to $2.30
+AlexEliseev7: raises $5.20 to $7.50
+sutata: folds 
+CashfishT: folds 
+steelNike: raises $13.50 to $21
+AlexEliseev7: folds 
+Uncalled bet ($13.50) returned to steelNike
+steelNike collected $16.50 from pot
+*** SUMMARY ***
+Total pot $16.50 | Rake $0 
+Seat 3: carpadeum
+Seat 4: ptolejmus
+Seat 1: AlexEliseev7 (button) folded before Flop
+Seat 2: sutata (small blind) folded before Flop
+Seat 5: CashfishT (big blind) folded before Flop
+Seat 6: steelNike collected ($16.50)
+
+
+
+PokerStars Hand #254666019239:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:20:49 WET [2025/02/02 2:20:49 ET]
+Table 'Vanadis' 6-max Seat #2 is the button
+Seat 3: carpadeum ($0 in chips) is sitting out
+Seat 6: steelNike ($118.35 in chips) is sitting out
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: sutata ($100 in chips) 
+Seat 5: CashfishT ($182.11 in chips) 
+CashfishT: posts small blind $0.50
+steelNike: is sitting out 
+AlexEliseev7: posts big blind $1
+*** HOLE CARDS ***
+sutata: raises $2 to $3
+steelNike leaves the table
+CashfishT: folds 
+AlexEliseev7: raises $10 to $13
+sutata: folds 
+Uncalled bet ($10) returned to AlexEliseev7
+AlexEliseev7 collected $6.50 from pot
+AlexEliseev7: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 3: carpadeum
+Seat 6: steelNike
+Seat 1: AlexEliseev7 (big blind) collected ($6.50)
+Seat 2: sutata (button) folded before Flop
+Seat 5: CashfishT (small blind) folded before Flop
+
+
+
+PokerStars Hand #254666021237:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:21:13 WET [2025/02/02 2:21:13 ET]
+Table 'Vanadis' 6-max Seat #5 is the button
+Seat 3: carpadeum ($0 in chips) is sitting out
+Seat 1: AlexEliseev7 ($103.50 in chips) 
+Seat 2: sutata ($100 in chips) 
+Seat 5: CashfishT ($181.61 in chips) 
+AlexEliseev7: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+CashfishT: folds 
+AlexEliseev7: raises $2 to $3
+sutata: calls $2
+*** FLOP *** [5h Ks 7d]
+AlexEliseev7: bets $1.88
+sutata: calls $1.88
+*** TURN *** [5h Ks 7d] [4s]
+AlexEliseev7: checks 
+sutata: checks 
+*** RIVER *** [5h Ks 7d 4s] [8h]
+AlexEliseev7: checks 
+sutata: bets $4.64
+AlexEliseev7: folds 
+Uncalled bet ($4.64) returned to sutata
+sutata collected $9.27 from pot
+sutata: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [5h Ks 7d 4s 8h]
+Seat 3: carpadeum
+Seat 1: AlexEliseev7 (small blind) folded on the River
+Seat 2: sutata (big blind) collected ($9.27)
+Seat 5: CashfishT (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254666026657:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:22:21 WET [2025/02/02 2:22:21 ET]
+Table 'Vanadis' 6-max Seat #1 is the button
+Seat 3: carpadeum ($0 in chips) is sitting out
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 2: sutata ($104.39 in chips) 
+Seat 5: CashfishT ($181.61 in chips) 
+sutata: posts small blind $0.50
+CashfishT: posts big blind $1
+*** HOLE CARDS ***
+AlexEliseev7: raises $1.50 to $2.50
+sutata: folds 
+CashfishT: folds 
+Uncalled bet ($1.50) returned to AlexEliseev7
+AlexEliseev7 collected $2.50 from pot
+AlexEliseev7: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: carpadeum
+Seat 1: AlexEliseev7 (button) collected ($2.50)
+Seat 2: sutata (small blind) folded before Flop
+Seat 5: CashfishT (big blind) folded before Flop
+
+
+
+PokerStars Hand #254665975495:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:11:49 WET [2025/02/02 2:11:49 ET]
+Table 'Vanadis' 6-max Seat #1 is the button
+Seat 2: sutata ($100 in chips) is sitting out
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 3: carpadeum ($104.39 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: CashfishT ($100 in chips) 
+Seat 6: steelNike ($100 in chips) 
+carpadeum: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+CashfishT: folds 
+steelNike: folds 
+AlexEliseev7: folds 
+carpadeum: calls $0.50
+ptolejmus: checks 
+*** FLOP *** [Jh 7s Td]
+carpadeum: bets $1.90
+ptolejmus: raises $7.10 to $9 and is all-in
+carpadeum: calls $7.10
+*** TURN *** [Jh 7s Td] [Ac]
+*** RIVER *** [Jh 7s Td Ac] [2s]
+*** SHOW DOWN ***
+carpadeum: shows [Th 3s] (a pair of Tens)
+ptolejmus: shows [Jc 5s] (a pair of Jacks)
+ptolejmus collected $19 from pot
+carpadeum cashed out the hand for $3.58 | Cash Out Fee $0.07
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Jh 7s Td Ac 2s]
+Seat 2: sutata
+Seat 1: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 3: carpadeum (small blind) showed [Th 3s] and lost with a pair of Tens (cashed out).
+Seat 4: ptolejmus (big blind) showed [Jc 5s] and won ($19) with a pair of Jacks
+Seat 5: CashfishT folded before Flop (didn't bet)
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254665978612:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:12:28 WET [2025/02/02 2:12:28 ET]
+Table 'Vanadis' 6-max Seat #3 is the button
+Seat 2: sutata ($100 in chips) is sitting out
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 3: carpadeum ($97.97 in chips) 
+Seat 4: ptolejmus ($19 in chips) 
+Seat 5: CashfishT ($100 in chips) 
+Seat 6: steelNike ($100 in chips) 
+ptolejmus: posts small blind $0.50
+CashfishT: posts big blind $1
+sutata: sits out 
+*** HOLE CARDS ***
+steelNike: folds 
+AlexEliseev7: folds 
+carpadeum: calls $1
+ptolejmus: calls $0.50
+CashfishT: checks 
+*** FLOP *** [7h 3s Qd]
+ptolejmus: checks 
+CashfishT: checks 
+carpadeum: bets $1.43
+ptolejmus: folds 
+CashfishT: folds 
+Uncalled bet ($1.43) returned to carpadeum
+carpadeum collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [7h 3s Qd]
+Seat 2: sutata
+Seat 1: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: carpadeum (button) collected ($2.85)
+Seat 4: ptolejmus (small blind) folded on the Flop
+Seat 5: CashfishT (big blind) folded on the Flop
+Seat 6: steelNike folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254665981745:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:13:07 WET [2025/02/02 2:13:07 ET]
+Table 'Vanadis' 6-max Seat #4 is the button
+Seat 2: sutata ($100 in chips) is sitting out
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 3: carpadeum ($99.82 in chips) 
+Seat 4: ptolejmus ($18 in chips) 
+Seat 5: CashfishT ($100 in chips) 
+Seat 6: steelNike ($100 in chips) 
+CashfishT: posts small blind $0.50
+steelNike: posts big blind $1
+sutata: sits out 
+*** HOLE CARDS ***
+AlexEliseev7: folds 
+carpadeum: folds 
+ptolejmus: folds 
+CashfishT: raises $2 to $3
+steelNike: folds 
+Uncalled bet ($2) returned to CashfishT
+CashfishT collected $2 from pot
+CashfishT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: sutata
+Seat 1: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: carpadeum folded before Flop (didn't bet)
+Seat 4: ptolejmus (button) folded before Flop (didn't bet)
+Seat 5: CashfishT (small blind) collected ($2)
+Seat 6: steelNike (big blind) folded before Flop
+
+
+
+PokerStars Hand #254665983428:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/02 7:13:29 WET [2025/02/02 2:13:29 ET]
+Table 'Vanadis' 6-max Seat #5 is the button
+Seat 2: sutata ($100 in chips) is sitting out
+Seat 1: AlexEliseev7 ($100 in chips) 
+Seat 3: carpadeum ($99.82 in chips) 
+Seat 4: ptolejmus ($18 in chips) 
+Seat 5: CashfishT ($101 in chips) 
+Seat 6: steelNike ($99 in chips) 
+steelNike: posts small blind $0.50
+AlexEliseev7: posts big blind $1
+sutata: sits out 
+*** HOLE CARDS ***
+carpadeum: calls $1
+ptolejmus: folds 
+CashfishT: folds 
+steelNike: calls $0.50
+AlexEliseev7: checks 
+*** FLOP *** [8d Td Ac]
+steelNike: checks 
+AlexEliseev7: checks 
+carpadeum: checks 
+*** TURN *** [8d Td Ac] [Qd]
+steelNike: checks 
+AlexEliseev7: checks 
+carpadeum: bets $2.85
+steelNike: calls $2.85
+AlexEliseev7: folds 
+*** RIVER *** [8d Td Ac Qd] [7h]
+steelNike: checks 
+carpadeum: bets $8.26
+steelNike: calls $8.26
+*** SHOW DOWN ***
+carpadeum: shows [Jc 6c] (high card Ace)
+steelNike: shows [Ah 2d] (a pair of Aces)
+steelNike collected $23.96 from pot
+*** SUMMARY ***
+Total pot $25.22 | Rake $1.26 
+Board [8d Td Ac Qd 7h]
+Seat 2: sutata
+Seat 1: AlexEliseev7 (big blind) folded on the Turn
+Seat 3: carpadeum showed [Jc 6c] and lost with high card Ace
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: CashfishT (button) folded before Flop (didn't bet)
+Seat 6: steelNike (small blind) showed [Ah 2d] and won ($23.96) with a pair of Aces
+
+
+

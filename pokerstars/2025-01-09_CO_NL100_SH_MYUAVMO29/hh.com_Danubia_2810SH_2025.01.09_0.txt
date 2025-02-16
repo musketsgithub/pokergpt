@@ -1,0 +1,128 @@
+﻿PokerStars Hand #254275534276:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 9:40:27 WET [2025/01/09 4:40:27 ET]
+Table 'Danubia II' 6-max Seat #5 is the button
+Seat 1: Burlica2013 ($100 in chips) 
+Seat 5: Joker007r ($100 in chips) 
+Seat 6: Marqbern ($10 in chips) 
+Marqbern: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+Joker007r: raises $1 to $2
+Marqbern: calls $1.50
+Burlica2013: raises $10 to $12
+fobot21 joins the table at seat #2 
+Marqbern is disconnected 
+Joker007r: calls $10
+Emily_GetMan joins the table at seat #4 
+Marqbern has timed out while disconnected
+Marqbern: folds 
+*** FLOP *** [2h Kd Qc]
+Burlica2013: bets $8.25
+Joker007r: folds 
+Uncalled bet ($8.25) returned to Burlica2013
+Burlica2013 collected $25 from pot
+Burlica2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $26 | Rake $1 
+Board [2h Kd Qc]
+Seat 1: Burlica2013 (big blind) collected ($25)
+Seat 5: Joker007r (button) folded on the Flop
+Seat 6: Marqbern (small blind) folded before Flop
+
+
+
+PokerStars Hand #254275546846:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 9:42:32 WET [2025/01/09 4:42:32 ET]
+Table 'Danubia II' 6-max Seat #1 is the button
+Seat 2: fobot21 ($100 in chips) is sitting out
+Seat 4: Emily_GetMan ($100 in chips) is sitting out
+Seat 6: Marqbern ($8 in chips) is sitting out
+Seat 1: Burlica2013 ($113 in chips) 
+Seat 5: Joker007r ($100 in chips) 
+Burlica2013: posts small blind $0.50
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: raises $2 to $3
+Joker007r: calls $2
+*** FLOP *** [Kh 2c 6s]
+Joker007r: checks 
+Burlica2013 has timed out
+Burlica2013: checks 
+*** TURN *** [Kh 2c 6s] [Th]
+Joker007r: bets $9.01
+Burlica2013: calls $9.01
+*** RIVER *** [Kh 2c 6s Th] [7h]
+Joker007r: checks 
+Burlica2013: checks 
+*** SHOW DOWN ***
+Joker007r: shows [Qs 9c] (high card King)
+Burlica2013: shows [Td 9s] (a pair of Tens)
+Burlica2013 collected $23.02 from pot
+*** SUMMARY ***
+Total pot $24.02 | Rake $1 
+Board [Kh 2c 6s Th 7h]
+Seat 2: fobot21
+Seat 4: Emily_GetMan
+Seat 6: Marqbern
+Seat 1: Burlica2013 (button) (small blind) showed [Td 9s] and won ($23.02) with a pair of Tens
+Seat 5: Joker007r (big blind) showed [Qs 9c] and lost with high card King
+
+
+
+PokerStars Hand #254275554857:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 9:43:50 WET [2025/01/09 4:43:50 ET]
+Table 'Danubia II' 6-max Seat #5 is the button
+Seat 4: Emily_GetMan ($100 in chips) is sitting out
+Seat 6: Marqbern ($8 in chips) is sitting out
+Seat 1: Burlica2013 ($124.01 in chips) 
+Seat 2: fobot21 ($100 in chips) 
+Seat 5: Joker007r ($100 in chips) 
+Burlica2013: posts small blind $0.50
+fobot21: posts big blind $1
+Emily_GetMan: sits out 
+*** HOLE CARDS ***
+Joker007r: folds 
+Burlica2013: folds 
+Uncalled bet ($0.50) returned to fobot21
+fobot21 collected $1 from pot
+fobot21: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: Emily_GetMan
+Seat 6: Marqbern
+Seat 1: Burlica2013 (small blind) folded before Flop
+Seat 2: fobot21 (big blind) collected ($1)
+Seat 5: Joker007r (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254275574594:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 9:46:59 WET [2025/01/09 4:46:59 ET]
+Table 'Danubia II' 6-max Seat #4 is the button
+Seat 1: Burlica2013 ($122.01 in chips) is sitting out
+Seat 6: Marqbern ($8 in chips) is sitting out
+Seat 4: Emily_GetMan ($109.01 in chips) 
+Seat 5: Joker007r ($105.99 in chips) 
+Emily_GetMan: posts small blind $0.50
+Joker007r: posts big blind $1
+*** HOLE CARDS ***
+Emily_GetMan: raises $1 to $2
+Burlica2013 leaves the table
+Joker007r: calls $1
+*** FLOP *** [Ac 6s Ad]
+Joker007r: checks 
+Emily_GetMan: bets $1.25
+Joker007r: calls $1.25
+*** TURN *** [Ac 6s Ad] [8h]
+Joker007r: checks 
+Emily_GetMan: bets $2.04
+Joker007r: folds 
+Uncalled bet ($2.04) returned to Emily_GetMan
+Emily_GetMan collected $6.18 from pot
+Emily_GetMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Ac 6s Ad 8h]
+Seat 1: Burlica2013
+Seat 6: Marqbern
+Seat 4: Emily_GetMan (button) (small blind) collected ($6.18)
+Seat 5: Joker007r (big blind) folded on the Turn
+
+
+

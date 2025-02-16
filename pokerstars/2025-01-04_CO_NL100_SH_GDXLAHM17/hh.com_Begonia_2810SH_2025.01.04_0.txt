@@ -1,0 +1,420 @@
+﻿PokerStars Hand #254189646117:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 14:38:03 WET [2025/01/04 9:38:03 ET]
+Table 'Begonia II' 6-max Seat #6 is the button
+Seat 3: Rysiff ($100 in chips) is sitting out
+Seat 1: Burlica2013 ($100 in chips) 
+Seat 2: whlzor ($100 in chips) 
+Seat 4: Kaecy14 ($64.67 in chips) 
+Seat 5: easy_sarcasm ($113.71 in chips) 
+Seat 6: mr.Jckpot ($107.74 in chips) 
+Burlica2013: posts small blind $0.50
+whlzor: posts big blind $1
+Rysiff: sits out 
+*** HOLE CARDS ***
+Kaecy14: calls $1
+easy_sarcasm: folds 
+mr.Jckpot: folds 
+Burlica2013: folds 
+whlzor: raises $4 to $5
+Kaecy14: calls $4
+*** FLOP *** [Jh 5s 5h]
+whlzor: bets $4.99
+Kaecy14: calls $4.99
+*** TURN *** [Jh 5s 5h] [Tc]
+whlzor: checks 
+Kaecy14: checks 
+*** RIVER *** [Jh 5s 5h Tc] [4s]
+whlzor: bets $6.42
+Kaecy14: raises $6.42 to $12.84
+whlzor: folds 
+Uncalled bet ($6.42) returned to Kaecy14
+Kaecy14 collected $31.65 from pot
+*** SUMMARY ***
+Total pot $33.32 | Rake $1.67 
+Board [Jh 5s 5h Tc 4s]
+Seat 3: Rysiff
+Seat 1: Burlica2013 (small blind) folded before Flop
+Seat 2: whlzor (big blind) folded on the River
+Seat 4: Kaecy14 collected ($31.65)
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: mr.Jckpot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254189657086:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 14:38:52 WET [2025/01/04 9:38:52 ET]
+Table 'Begonia II' 6-max Seat #1 is the button
+Seat 1: Burlica2013 ($100 in chips) 
+Seat 2: whlzor ($100 in chips) 
+Seat 3: Rysiff ($100 in chips) 
+Seat 4: Kaecy14 ($79.91 in chips) 
+Seat 5: easy_sarcasm ($113.71 in chips) 
+Seat 6: mr.Jckpot ($107.74 in chips) 
+whlzor: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Kaecy14: calls $1
+easy_sarcasm: folds 
+mr.Jckpot: raises $2.50 to $3.50
+Burlica2013: folds 
+whlzor: folds 
+Rysiff: raises $10.50 to $14
+Kaecy14: folds 
+mr.Jckpot: calls $10.50
+*** FLOP *** [3h 8d Td]
+Rysiff: bets $9.25
+mr.Jckpot: calls $9.25
+*** TURN *** [3h 8d Td] [4c]
+Rysiff: bets $22.80
+mr.Jckpot: calls $22.80
+*** RIVER *** [3h 8d Td 4c] [Th]
+Rysiff: bets $53.95 and is all-in
+mr.Jckpot: calls $53.95
+*** SHOW DOWN ***
+Rysiff: shows [Kc Kd] (two pair, Kings and Tens)
+mr.Jckpot: shows [Jd Jh] (two pair, Jacks and Tens)
+Rysiff collected $199 from pot
+*** SUMMARY ***
+Total pot $201.50 | Rake $2.50 
+Board [3h 8d Td 4c Th]
+Seat 1: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 2: whlzor (small blind) folded before Flop
+Seat 3: Rysiff (big blind) showed [Kc Kd] and won ($199) with two pair, Kings and Tens
+Seat 4: Kaecy14 folded before Flop
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: mr.Jckpot showed [Jd Jh] and lost with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #254189677923:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 14:40:26 WET [2025/01/04 9:40:26 ET]
+Table 'Begonia II' 6-max Seat #2 is the button
+Seat 1: Burlica2013 ($100 in chips) 
+Seat 2: whlzor ($100 in chips) 
+Seat 3: Rysiff ($199 in chips) 
+Seat 4: Kaecy14 ($78.91 in chips) 
+Seat 5: easy_sarcasm ($113.71 in chips) 
+Seat 6: mr.Jckpot ($100 in chips) 
+Rysiff: posts small blind $0.50
+Kaecy14: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+mr.Jckpot: folds 
+Burlica2013: folds 
+whlzor: raises $2 to $3
+Rysiff: folds 
+Kaecy14: calls $2
+*** FLOP *** [As Qd Th]
+Kaecy14: bets $1
+whlzor: calls $1
+*** TURN *** [As Qd Th] [9s]
+Kaecy14: bets $8.08
+whlzor: calls $8.08
+*** RIVER *** [As Qd Th 9s] [5h]
+Kaecy14: bets $23.43
+whlzor: calls $23.43
+*** SHOW DOWN ***
+Kaecy14: shows [Js 8s] (a straight, Eight to Queen)
+whlzor: mucks hand 
+Kaecy14 collected $69.02 from pot
+*** SUMMARY ***
+Total pot $71.52 | Rake $2.50 
+Board [As Qd Th 9s 5h]
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: whlzor (button) mucked
+Seat 3: Rysiff (small blind) folded before Flop
+Seat 4: Kaecy14 (big blind) showed [Js 8s] and won ($69.02) with a straight, Eight to Queen
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: mr.Jckpot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254189688359:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 14:41:12 WET [2025/01/04 9:41:12 ET]
+Table 'Begonia II' 6-max Seat #3 is the button
+Seat 1: Burlica2013 ($100 in chips) 
+Seat 2: whlzor ($100 in chips) 
+Seat 3: Rysiff ($198.50 in chips) 
+Seat 4: Kaecy14 ($112.42 in chips) 
+Seat 5: easy_sarcasm ($113.71 in chips) 
+Seat 6: mr.Jckpot ($100 in chips) 
+Kaecy14: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: raises $1.50 to $2.50
+Burlica2013: folds 
+whlzor: folds 
+Rysiff: folds 
+Kaecy14: calls $2
+easy_sarcasm: folds 
+*** FLOP *** [3d 3h Kd]
+Kaecy14: checks 
+mr.Jckpot: bets $1.88
+Kaecy14: calls $1.88
+*** TURN *** [3d 3h Kd] [8d]
+Kaecy14: checks 
+mr.Jckpot: checks 
+*** RIVER *** [3d 3h Kd 8d] [6s]
+Kaecy14: checks 
+mr.Jckpot: checks 
+*** SHOW DOWN ***
+Kaecy14: shows [Th Qd] (a pair of Threes)
+mr.Jckpot: shows [As Ts] (a pair of Threes - Ace kicker)
+mr.Jckpot collected $9.27 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [3d 3h Kd 8d 6s]
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: whlzor folded before Flop (didn't bet)
+Seat 3: Rysiff (button) folded before Flop (didn't bet)
+Seat 4: Kaecy14 (small blind) showed [Th Qd] and lost with a pair of Threes
+Seat 5: easy_sarcasm (big blind) folded before Flop
+Seat 6: mr.Jckpot showed [As Ts] and won ($9.27) with a pair of Threes
+
+
+
+PokerStars Hand #254189696006:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 14:41:46 WET [2025/01/04 9:41:46 ET]
+Table 'Begonia II' 6-max Seat #4 is the button
+Seat 1: Burlica2013 ($100 in chips) 
+Seat 2: whlzor ($100 in chips) 
+Seat 3: Rysiff ($198.50 in chips) 
+Seat 4: Kaecy14 ($108.04 in chips) 
+Seat 5: easy_sarcasm ($112.71 in chips) 
+Seat 6: mr.Jckpot ($104.89 in chips) 
+easy_sarcasm: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+Burlica2013: raises $1.20 to $2.20
+whlzor: folds 
+Rysiff: folds 
+Kaecy14: calls $2.20
+easy_sarcasm: folds 
+mr.Jckpot: folds 
+*** FLOP *** [Td Th 9d]
+Burlica2013: checks 
+Kaecy14: bets $1
+Burlica2013: calls $1
+*** TURN *** [Td Th 9d] [3d]
+Burlica2013: checks 
+Kaecy14: bets $1
+Burlica2013: calls $1
+*** RIVER *** [Td Th 9d 3d] [Kh]
+Burlica2013: checks 
+Kaecy14: checks 
+*** SHOW DOWN ***
+Burlica2013: shows [Ks Ah] (two pair, Kings and Tens)
+Kaecy14: mucks hand 
+Burlica2013 collected $9.40 from pot
+*** SUMMARY ***
+Total pot $9.90 | Rake $0.50 
+Board [Td Th 9d 3d Kh]
+Seat 1: Burlica2013 showed [Ks Ah] and won ($9.40) with two pair, Kings and Tens
+Seat 2: whlzor folded before Flop (didn't bet)
+Seat 3: Rysiff folded before Flop (didn't bet)
+Seat 4: Kaecy14 (button) mucked
+Seat 5: easy_sarcasm (small blind) folded before Flop
+Seat 6: mr.Jckpot (big blind) folded before Flop
+
+
+
+PokerStars Hand #254189705018:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 14:42:26 WET [2025/01/04 9:42:26 ET]
+Table 'Begonia II' 6-max Seat #5 is the button
+Seat 1: Burlica2013 ($105.20 in chips) 
+Seat 2: whlzor ($100 in chips) 
+Seat 3: Rysiff ($198.50 in chips) 
+Seat 4: Kaecy14 ($103.84 in chips) 
+Seat 5: easy_sarcasm ($112.21 in chips) 
+Seat 6: mr.Jckpot ($103.89 in chips) 
+mr.Jckpot: posts small blind $0.50
+Burlica2013: posts big blind $1
+*** HOLE CARDS ***
+whlzor: raises $1.50 to $2.50
+Rysiff: folds 
+Kaecy14: raises $1.50 to $4
+easy_sarcasm: folds 
+mr.Jckpot: folds 
+Burlica2013: folds 
+whlzor: raises $11.20 to $15.20
+Kaecy14: calls $11.20
+*** FLOP *** [7d Tc 6h]
+whlzor: checks 
+Kaecy14: bets $30.30
+whlzor: raises $31.70 to $62
+Kaecy14: calls $31.70
+*** TURN *** [7d Tc 6h] [Jd]
+whlzor: bets $22.80 and is all-in
+Kaecy14: calls $22.80
+*** RIVER *** [7d Tc 6h Jd] [Qc]
+*** SHOW DOWN ***
+whlzor: shows [Jh Js] (three of a kind, Jacks)
+Kaecy14: shows [7h 7c] (three of a kind, Sevens)
+whlzor collected $199 from pot
+Kaecy14 cashed out the hand for $4.43 | Cash Out Fee $0.09
+*** SUMMARY ***
+Total pot $201.50 | Rake $2.50 
+Board [7d Tc 6h Jd Qc]
+Seat 1: Burlica2013 (big blind) folded before Flop
+Seat 2: whlzor showed [Jh Js] and won ($199) with three of a kind, Jacks
+Seat 3: Rysiff folded before Flop (didn't bet)
+Seat 4: Kaecy14 showed [7h 7c] and lost with three of a kind, Sevens (cashed out).
+Seat 5: easy_sarcasm (button) folded before Flop (didn't bet)
+Seat 6: mr.Jckpot (small blind) folded before Flop
+
+
+
+PokerStars Hand #254189722940:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 14:43:45 WET [2025/01/04 9:43:45 ET]
+Table 'Begonia II' 6-max Seat #6 is the button
+Seat 1: Burlica2013 ($104.20 in chips) 
+Seat 2: whlzor ($199 in chips) 
+Seat 3: Rysiff ($198.50 in chips) 
+Seat 4: Kaecy14 ($8.27 in chips) 
+Seat 5: easy_sarcasm ($112.21 in chips) 
+Seat 6: mr.Jckpot ($103.39 in chips) 
+Burlica2013: posts small blind $0.50
+whlzor: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+Kaecy14: raises $1.50 to $4
+easy_sarcasm: folds 
+mr.Jckpot: folds 
+Burlica2013: folds 
+whlzor: raises $11 to $15
+Rysiff: folds 
+Kaecy14: calls $4.27 and is all-in
+Uncalled bet ($6.73) returned to whlzor
+*** FLOP *** [Kd 2h Qh]
+*** TURN *** [Kd 2h Qh] [Ac]
+*** RIVER *** [Kd 2h Qh Ac] [5s]
+*** SHOW DOWN ***
+whlzor: shows [Qc Ah] (two pair, Aces and Queens)
+Kaecy14: shows [Qs Kh] (two pair, Kings and Queens)
+whlzor collected $18.56 from pot
+Kaecy14 cashed out the hand for $4.58 | Cash Out Fee $0.09
+*** SUMMARY ***
+Total pot $19.54 | Rake $0.98 
+Board [Kd 2h Qh Ac 5s]
+Seat 1: Burlica2013 (small blind) folded before Flop
+Seat 2: whlzor (big blind) showed [Qc Ah] and won ($18.56) with two pair, Aces and Queens
+Seat 3: Rysiff folded before Flop
+Seat 4: Kaecy14 showed [Qs Kh] and lost with two pair, Kings and Queens (cashed out).
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: mr.Jckpot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254189730692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 14:44:19 WET [2025/01/04 9:44:19 ET]
+Table 'Begonia II' 6-max Seat #1 is the button
+Seat 1: Burlica2013 ($103.70 in chips) 
+Seat 2: whlzor ($209.29 in chips) 
+Seat 3: Rysiff ($196 in chips) 
+Seat 4: Kaecy14 ($4.58 in chips) 
+Seat 5: easy_sarcasm ($112.21 in chips) 
+Seat 6: mr.Jckpot ($103.39 in chips) 
+whlzor: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Kaecy14: folds 
+easy_sarcasm: raises $2 to $3
+mr.Jckpot: folds 
+Burlica2013: folds 
+whlzor: folds 
+Rysiff: folds 
+Uncalled bet ($2) returned to easy_sarcasm
+Kaecy14 leaves the table
+easy_sarcasm collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 2: whlzor (small blind) folded before Flop
+Seat 3: Rysiff (big blind) folded before Flop
+Seat 4: Kaecy14 folded before Flop (didn't bet)
+Seat 5: easy_sarcasm collected ($2.50)
+Seat 6: mr.Jckpot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254189733857:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 14:44:33 WET [2025/01/04 9:44:33 ET]
+Table 'Begonia II' 6-max Seat #2 is the button
+Seat 1: Burlica2013 ($103.70 in chips) 
+Seat 2: whlzor ($208.79 in chips) 
+Seat 3: Rysiff ($195 in chips) 
+Seat 5: easy_sarcasm ($113.71 in chips) 
+Seat 6: mr.Jckpot ($103.39 in chips) 
+Rysiff: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+Burlica2013: folds 
+whlzor: folds 
+Rysiff: raises $2 to $3
+easy_sarcasm: folds 
+Uncalled bet ($2) returned to Rysiff
+Rysiff collected $2 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Burlica2013 folded before Flop (didn't bet)
+Seat 2: whlzor (button) folded before Flop (didn't bet)
+Seat 3: Rysiff (small blind) collected ($2)
+Seat 5: easy_sarcasm (big blind) folded before Flop
+Seat 6: mr.Jckpot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254189737366:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 14:44:48 WET [2025/01/04 9:44:48 ET]
+Table 'Begonia II' 6-max Seat #5 is the button
+Seat 1: Burlica2013 ($103.70 in chips) is sitting out
+Seat 2: whlzor ($208.79 in chips) is sitting out
+Seat 6: mr.Jckpot ($103.39 in chips) is sitting out
+Seat 3: Rysiff ($196 in chips) 
+Seat 5: easy_sarcasm ($112.71 in chips) 
+easy_sarcasm: posts small blind $0.50
+mr.Jckpot: is sitting out 
+Burlica2013: is sitting out 
+whlzor: is sitting out 
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+whlzor leaves the table
+easy_sarcasm: raises $2 to $3
+BoyLoc0 joins the table at seat #4 
+mr.Jckpot leaves the table
+Burlica2013 leaves the table
+BoyLoc0 leaves the table
+Rysiff: raises $9 to $12
+easy_sarcasm: folds 
+Uncalled bet ($9) returned to Rysiff
+Rysiff collected $6 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Burlica2013
+Seat 2: whlzor
+Seat 6: mr.Jckpot
+Seat 3: Rysiff (big blind) collected ($6)
+Seat 5: easy_sarcasm (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254189741034:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/04 14:45:04 WET [2025/01/04 9:45:04 ET]
+Table 'Begonia II' 6-max Seat #3 is the button
+Seat 3: Rysiff ($199 in chips) 
+Seat 5: easy_sarcasm ($109.71 in chips) 
+Rysiff: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+easy_sarcasm: calls $1.50
+*** FLOP *** [Td Qd 9h]
+easy_sarcasm: checks 
+Rysiff: checks 
+*** TURN *** [Td Qd 9h] [Qc]
+easy_sarcasm: bets $2.50
+Rysiff: raises $7.80 to $10.30
+easy_sarcasm: folds 
+Uncalled bet ($7.80) returned to Rysiff
+Rysiff collected $9.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Td Qd 9h Qc]
+Seat 3: Rysiff (button) (small blind) collected ($9.50)
+Seat 5: easy_sarcasm (big blind) folded on the Turn
+
+
+

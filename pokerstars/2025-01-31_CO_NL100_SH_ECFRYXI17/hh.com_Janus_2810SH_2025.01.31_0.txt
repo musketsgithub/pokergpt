@@ -1,0 +1,5457 @@
+﻿PokerStars Hand #254641792223:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:25:23 WET [2025/01/31 15:25:23 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: ghc_2 ($101.50 in chips) 
+Seat 3: leozaur ($189.20 in chips) 
+Seat 4: kvcsszblcs ($110.01 in chips) 
+Seat 5: coeeeelho ($100.48 in chips) 
+Seat 6: Birdy318 ($143.53 in chips) 
+kvcsszblcs: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Birdy318: raises $2 to $3
+ghc_2: folds 
+leozaur: folds 
+kvcsszblcs: folds 
+coeeeelho: calls $2
+*** FLOP *** [Kd 3d Jd]
+coeeeelho: checks 
+BGS013 joins the table at seat #2 
+Birdy318: bets $2
+coeeeelho: folds 
+Uncalled bet ($2) returned to Birdy318
+Birdy318 collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Kd 3d Jd]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: kvcsszblcs (small blind) folded before Flop
+Seat 5: coeeeelho (big blind) folded on the Flop
+Seat 6: Birdy318 collected ($6.18)
+
+
+
+PokerStars Hand #254641807522:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:26:15 WET [2025/01/31 15:26:15 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 2: BGS013 ($100 in chips) is sitting out
+Seat 1: ghc_2 ($101.50 in chips) 
+Seat 3: leozaur ($189.20 in chips) 
+Seat 4: kvcsszblcs ($109.51 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($146.71 in chips) 
+coeeeelho: posts small blind $0.50
+Birdy318: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+ghc_2: raises $1 to $2
+leozaur: folds 
+kvcsszblcs: folds 
+coeeeelho: folds 
+Birdy318: folds 
+Uncalled bet ($1) returned to ghc_2
+ghc_2 collected $2.50 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: BGS013
+Seat 1: ghc_2 collected ($2.50)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 5: coeeeelho (small blind) folded before Flop
+Seat 6: Birdy318 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254641815808:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:26:43 WET [2025/01/31 15:26:43 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 2: BGS013 ($100 in chips) is sitting out
+Seat 1: ghc_2 ($103 in chips) 
+Seat 3: leozaur ($189.20 in chips) 
+Seat 4: kvcsszblcs ($109.51 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($145.71 in chips) 
+Birdy318: posts small blind $0.50
+ghc_2: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+leozaur: raises $2 to $3
+kvcsszblcs: folds 
+coeeeelho: folds 
+Birdy318: folds 
+ghc_2: folds 
+Uncalled bet ($2) returned to leozaur
+leozaur collected $2.50 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: BGS013
+Seat 1: ghc_2 (big blind) folded before Flop
+Seat 3: leozaur collected ($2.50)
+Seat 4: kvcsszblcs folded before Flop (didn't bet)
+Seat 5: coeeeelho (button) folded before Flop (didn't bet)
+Seat 6: Birdy318 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254641823000:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:27:07 WET [2025/01/31 15:27:07 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: ghc_2 ($102 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: leozaur ($190.70 in chips) 
+Seat 4: kvcsszblcs ($109.51 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($145.21 in chips) 
+ghc_2: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+kvcsszblcs: folds 
+coeeeelho: folds 
+Birdy318: folds 
+ghc_2: raises $2 to $3
+BGS013: calls $2
+*** FLOP *** [Kc Th Jd]
+ghc_2: bets $1.43
+BGS013: calls $1.43
+*** TURN *** [Kc Th Jd] [5s]
+ghc_2: bets $5.56
+BGS013: calls $5.56
+*** RIVER *** [Kc Th Jd 5s] [Tc]
+ghc_2: bets $14.24
+BGS013: folds 
+Uncalled bet ($14.24) returned to ghc_2
+ghc_2 collected $18.98 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.98 | Rake $1 
+Board [Kc Th Jd 5s Tc]
+Seat 1: ghc_2 (small blind) collected ($18.98)
+Seat 2: BGS013 (big blind) folded on the River
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: kvcsszblcs folded before Flop (didn't bet)
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Birdy318 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254641838216:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:27:58 WET [2025/01/31 15:27:58 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: ghc_2 ($110.99 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: leozaur ($190.70 in chips) 
+Seat 4: kvcsszblcs ($109.51 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($145.21 in chips) 
+BGS013: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+coeeeelho: raises $1.10 to $2.10
+Birdy318: folds 
+ghc_2: folds 
+BGS013: folds 
+leozaur: folds 
+Uncalled bet ($1.10) returned to coeeeelho
+coeeeelho collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: kvcsszblcs folded before Flop (didn't bet)
+Seat 5: coeeeelho collected ($2.50)
+Seat 6: Birdy318 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254641846287:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:28:26 WET [2025/01/31 15:28:26 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: ghc_2 ($110.99 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: leozaur ($189.70 in chips) 
+Seat 4: kvcsszblcs ($109.51 in chips) 
+Seat 5: coeeeelho ($101.50 in chips) 
+Seat 6: Birdy318 ($145.21 in chips) 
+leozaur: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Birdy318: folds 
+ghc_2: raises $1.30 to $2.30
+BGS013: folds 
+leozaur: folds 
+kvcsszblcs: folds 
+Uncalled bet ($1.30) returned to ghc_2
+ghc_2 collected $2.50 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 collected ($2.50)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: kvcsszblcs (big blind) folded before Flop
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Birdy318 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254641851729:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:28:44 WET [2025/01/31 15:28:44 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: ghc_2 ($112.49 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: leozaur ($189.20 in chips) 
+Seat 4: kvcsszblcs ($108.51 in chips) 
+Seat 5: coeeeelho ($101.50 in chips) 
+Seat 6: Birdy318 ($145.21 in chips) 
+kvcsszblcs: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Birdy318: folds 
+ghc_2: folds 
+BGS013: raises $1.50 to $2.50
+leozaur: folds 
+kvcsszblcs: raises $8.50 to $11
+coeeeelho: folds 
+BGS013: calls $8.50
+*** FLOP *** [6c Qd 5c]
+kvcsszblcs: bets $10.95
+BGS013: calls $10.95
+*** TURN *** [6c Qd 5c] [5h]
+kvcsszblcs: bets $28.18
+BGS013: calls $28.18
+*** RIVER *** [6c Qd 5c 5h] [7c]
+kvcsszblcs: checks 
+BGS013: bets $49.87 and is all-in
+kvcsszblcs: calls $49.87
+*** SHOW DOWN ***
+BGS013: shows [Kc Tc] (a flush, King high)
+kvcsszblcs: shows [Ac Qc] (a flush, Ace high)
+kvcsszblcs collected $198.50 from pot
+*** SUMMARY ***
+Total pot $201 | Rake $2.50 
+Board [6c Qd 5c 5h 7c]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: BGS013 showed [Kc Tc] and lost with a flush, King high
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: kvcsszblcs (small blind) showed [Ac Qc] and won ($198.50) with a flush, Ace high
+Seat 5: coeeeelho (big blind) folded before Flop
+Seat 6: Birdy318 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254641883921:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:30:32 WET [2025/01/31 15:30:32 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: ghc_2 ($112.49 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: leozaur ($189.20 in chips) 
+Seat 4: kvcsszblcs ($207.01 in chips) 
+Seat 5: coeeeelho ($100.50 in chips) 
+Seat 6: Birdy318 ($145.21 in chips) 
+coeeeelho: posts small blind $0.50
+Birdy318: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: raises $1 to $2
+BGS013: folds 
+leozaur: folds 
+kvcsszblcs: folds 
+coeeeelho: folds 
+Birdy318: folds 
+Uncalled bet ($1) returned to ghc_2
+ghc_2 collected $2.50 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 collected ($2.50)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 5: coeeeelho (small blind) folded before Flop
+Seat 6: Birdy318 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254641888193:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:30:47 WET [2025/01/31 15:30:47 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: ghc_2 ($113.99 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: leozaur ($189.20 in chips) 
+Seat 4: kvcsszblcs ($207.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($144.21 in chips) 
+Birdy318: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+leozaur: raises $1.50 to $2.50
+kvcsszblcs: folds 
+coeeeelho: folds 
+Birdy318: folds 
+ghc_2: calls $1.50
+*** FLOP *** [7c Jd Js]
+ghc_2: checks 
+leozaur: checks 
+*** TURN *** [7c Jd Js] [Td]
+ghc_2: checks 
+leozaur: checks 
+*** RIVER *** [7c Jd Js Td] [7h]
+ghc_2: checks 
+leozaur: checks 
+*** SHOW DOWN ***
+ghc_2: shows [Ad Qs] (two pair, Jacks and Sevens)
+leozaur: mucks hand 
+ghc_2 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [7c Jd Js Td 7h]
+Seat 1: ghc_2 (big blind) showed [Ad Qs] and won ($5.22) with two pair, Jacks and Sevens
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: leozaur mucked
+Seat 4: kvcsszblcs folded before Flop (didn't bet)
+Seat 5: coeeeelho (button) folded before Flop (didn't bet)
+Seat 6: Birdy318 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254641902265:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:31:34 WET [2025/01/31 15:31:34 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: ghc_2 ($116.71 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: leozaur ($186.70 in chips) 
+Seat 4: kvcsszblcs ($207.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($143.71 in chips) 
+ghc_2: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+kvcsszblcs: folds 
+coeeeelho: folds 
+Birdy318: folds 
+ghc_2: raises $2 to $3
+BGS013: calls $2
+*** FLOP *** [8h 9d 2s]
+ghc_2: checks 
+BGS013: bets $1.48
+ghc_2: folds 
+Uncalled bet ($1.48) returned to BGS013
+BGS013 collected $5.70 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [8h 9d 2s]
+Seat 1: ghc_2 (small blind) folded on the Flop
+Seat 2: BGS013 (big blind) collected ($5.70)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: kvcsszblcs folded before Flop (didn't bet)
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Birdy318 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254641914443:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:32:14 WET [2025/01/31 15:32:14 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: ghc_2 ($113.71 in chips) 
+Seat 2: BGS013 ($102.70 in chips) 
+Seat 3: leozaur ($186.70 in chips) 
+Seat 4: kvcsszblcs ($207.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($143.71 in chips) 
+BGS013: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: raises $1 to $2
+coeeeelho: folds 
+Birdy318: raises $5 to $7
+ghc_2: folds 
+BGS013: folds 
+leozaur: folds 
+kvcsszblcs: folds 
+Uncalled bet ($5) returned to Birdy318
+Birdy318 collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: ghc_2 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: kvcsszblcs folded before Flop
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Birdy318 collected ($5.50)
+
+
+
+PokerStars Hand #254641924902:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:32:49 WET [2025/01/31 15:32:49 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: ghc_2 ($113.71 in chips) 
+Seat 2: BGS013 ($102.20 in chips) 
+Seat 3: leozaur ($185.70 in chips) 
+Seat 4: kvcsszblcs ($205.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($147.21 in chips) 
+leozaur: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: raises $1.20 to $2.20
+Birdy318: folds 
+ghc_2: folds 
+BGS013: folds 
+leozaur: folds 
+kvcsszblcs: folds 
+Uncalled bet ($1.20) returned to coeeeelho
+coeeeelho collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: kvcsszblcs (big blind) folded before Flop
+Seat 5: coeeeelho collected ($2.50)
+Seat 6: Birdy318 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254641933426:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:33:18 WET [2025/01/31 15:33:18 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: ghc_2 ($113.71 in chips) 
+Seat 2: BGS013 ($102.20 in chips) 
+Seat 3: leozaur ($185.20 in chips) 
+Seat 4: kvcsszblcs ($204.01 in chips) 
+Seat 5: coeeeelho ($101.50 in chips) 
+Seat 6: Birdy318 ($147.21 in chips) 
+kvcsszblcs: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Birdy318: folds 
+ghc_2: folds 
+BGS013: raises $1.50 to $2.50
+leozaur: folds 
+kvcsszblcs: folds 
+coeeeelho: folds 
+Uncalled bet ($1.50) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: BGS013 collected ($2.50)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: kvcsszblcs (small blind) folded before Flop
+Seat 5: coeeeelho (big blind) folded before Flop
+Seat 6: Birdy318 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254641941702:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:33:45 WET [2025/01/31 15:33:45 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: ghc_2 ($113.71 in chips) 
+Seat 2: BGS013 ($103.70 in chips) 
+Seat 3: leozaur ($185.20 in chips) 
+Seat 4: kvcsszblcs ($203.51 in chips) 
+Seat 5: coeeeelho ($100.50 in chips) 
+Seat 6: Birdy318 ($147.21 in chips) 
+coeeeelho: posts small blind $0.50
+Birdy318: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+BGS013: folds 
+leozaur: folds 
+kvcsszblcs: raises $1.25 to $2.25
+coeeeelho: folds 
+Birdy318: calls $1.25
+*** FLOP *** [Ad Kh Td]
+Birdy318: checks 
+kvcsszblcs: bets $3.56
+Birdy318: folds 
+Uncalled bet ($3.56) returned to kvcsszblcs
+kvcsszblcs collected $4.75 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Ad Kh Td]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: kvcsszblcs (button) collected ($4.75)
+Seat 5: coeeeelho (small blind) folded before Flop
+Seat 6: Birdy318 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254641950757:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:34:15 WET [2025/01/31 15:34:15 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: ghc_2 ($113.71 in chips) 
+Seat 2: BGS013 ($103.70 in chips) 
+Seat 3: leozaur ($185.20 in chips) 
+Seat 4: kvcsszblcs ($206.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($144.96 in chips) 
+Birdy318: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+BGS013 leaves the table
+leozaur: raises $1.50 to $2.50
+kvcsszblcs: folds 
+coeeeelho: folds 
+Birdy318: raises $8.50 to $11
+ghc_2: folds 
+leozaur: folds 
+Uncalled bet ($8.50) returned to Birdy318
+Birdy318 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: ghc_2 (big blind) folded before Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop
+Seat 4: kvcsszblcs folded before Flop (didn't bet)
+Seat 5: coeeeelho (button) folded before Flop (didn't bet)
+Seat 6: Birdy318 (small blind) collected ($6)
+
+
+
+PokerStars Hand #254641966292:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:35:07 WET [2025/01/31 15:35:07 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: ghc_2 ($112.71 in chips) 
+Seat 3: leozaur ($182.70 in chips) 
+Seat 4: kvcsszblcs ($206.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($148.46 in chips) 
+ghc_2: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+psiga71 joins the table at seat #2 
+coeeeelho: folds 
+Birdy318: folds 
+ghc_2: folds 
+Uncalled bet ($0.50) returned to leozaur
+leozaur collected $1 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ghc_2 (small blind) folded before Flop
+Seat 3: leozaur (big blind) collected ($1)
+Seat 4: kvcsszblcs folded before Flop (didn't bet)
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Birdy318 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254641970141:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:35:20 WET [2025/01/31 15:35:20 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 2: psiga71 ($80 in chips) is sitting out
+Seat 1: ghc_2 ($112.21 in chips) 
+Seat 3: leozaur ($183.20 in chips) 
+Seat 4: kvcsszblcs ($206.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($148.46 in chips) 
+leozaur: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Birdy318: folds 
+ghc_2: folds 
+leozaur: raises $2 to $3
+kvcsszblcs: raises $7 to $10
+leozaur: folds 
+Uncalled bet ($7) returned to kvcsszblcs
+kvcsszblcs collected $6 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: psiga71
+Seat 1: ghc_2 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: kvcsszblcs (big blind) collected ($6)
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Birdy318 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254641976829:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:35:42 WET [2025/01/31 15:35:42 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: ghc_2 ($112.21 in chips) 
+Seat 2: psiga71 ($80 in chips) 
+Seat 3: leozaur ($180.20 in chips) 
+Seat 4: kvcsszblcs ($209.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($148.46 in chips) 
+kvcsszblcs: posts small blind $0.50
+coeeeelho: posts big blind $1
+psiga71: posts big blind $1
+*** HOLE CARDS ***
+Birdy318: folds 
+ghc_2: folds 
+psiga71: checks 
+leozaur: folds 
+kvcsszblcs: folds 
+coeeeelho: checks 
+*** FLOP *** [3s 9c As]
+coeeeelho: checks 
+psiga71: bets $4
+coeeeelho: folds 
+Uncalled bet ($4) returned to psiga71
+psiga71 collected $2.38 from pot
+psiga71: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [3s 9c As]
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: psiga71 collected ($2.38)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: kvcsszblcs (small blind) folded before Flop
+Seat 5: coeeeelho (big blind) folded on the Flop
+Seat 6: Birdy318 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254641991113:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:36:30 WET [2025/01/31 15:36:30 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: ghc_2 ($112.21 in chips) 
+Seat 2: psiga71 ($81.38 in chips) 
+Seat 3: leozaur ($180.20 in chips) 
+Seat 4: kvcsszblcs ($208.51 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($148.46 in chips) 
+coeeeelho: posts small blind $0.50
+Birdy318: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+psiga71: folds 
+leozaur: folds 
+kvcsszblcs: raises $1.25 to $2.25
+coeeeelho: folds 
+Birdy318: folds 
+Uncalled bet ($1.25) returned to kvcsszblcs
+kvcsszblcs collected $2.50 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: psiga71 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: kvcsszblcs (button) collected ($2.50)
+Seat 5: coeeeelho (small blind) folded before Flop
+Seat 6: Birdy318 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254641996827:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:36:49 WET [2025/01/31 15:36:49 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: ghc_2 ($112.21 in chips) 
+Seat 2: psiga71 ($81.38 in chips) 
+Seat 3: leozaur ($180.20 in chips) 
+Seat 4: kvcsszblcs ($210.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($147.46 in chips) 
+Birdy318: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+psiga71: folds 
+leozaur: folds 
+kvcsszblcs: folds 
+coeeeelho: folds 
+Birdy318: raises $2 to $3
+ghc_2: calls $2
+*** FLOP *** [Ad Tc Th]
+Birdy318: bets $2
+ghc_2: raises $4.85 to $6.85
+Birdy318: folds 
+Uncalled bet ($4.85) returned to ghc_2
+ghc_2 collected $9.50 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Ad Tc Th]
+Seat 1: ghc_2 (big blind) collected ($9.50)
+Seat 2: psiga71 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: kvcsszblcs folded before Flop (didn't bet)
+Seat 5: coeeeelho (button) folded before Flop (didn't bet)
+Seat 6: Birdy318 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254642010464:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:37:34 WET [2025/01/31 15:37:34 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: ghc_2 ($116.71 in chips) 
+Seat 2: psiga71 ($81.38 in chips) 
+Seat 3: leozaur ($180.20 in chips) 
+Seat 4: kvcsszblcs ($210.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Birdy318 ($142.46 in chips) 
+ghc_2: posts small blind $0.50
+psiga71: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+kvcsszblcs: folds 
+coeeeelho: raises $1.20 to $2.20
+Birdy318: folds 
+ghc_2: folds 
+psiga71: calls $1.20
+*** FLOP *** [5s 7h 3d]
+psiga71: checks 
+coeeeelho: bets $3.12
+psiga71: calls $3.12
+*** TURN *** [5s 7h 3d] [5h]
+psiga71: checks 
+coeeeelho: checks 
+*** RIVER *** [5s 7h 3d 5h] [4h]
+psiga71: bets $8
+coeeeelho: calls $8
+*** SHOW DOWN ***
+psiga71: shows [2s Ts] (a pair of Fives)
+coeeeelho: shows [9d 7d] (two pair, Sevens and Fives)
+coeeeelho collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27.14 | Rake $1.36 
+Board [5s 7h 3d 5h 4h]
+Seat 1: ghc_2 (small blind) folded before Flop
+Seat 2: psiga71 (big blind) showed [2s Ts] and lost with a pair of Fives
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: kvcsszblcs folded before Flop (didn't bet)
+Seat 5: coeeeelho showed [9d 7d] and won ($25.78) with two pair, Sevens and Fives
+Seat 6: Birdy318 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642030675:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:38:41 WET [2025/01/31 15:38:41 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: ghc_2 ($116.21 in chips) 
+Seat 2: psiga71 ($68.06 in chips) 
+Seat 3: leozaur ($180.20 in chips) 
+Seat 4: kvcsszblcs ($210.01 in chips) 
+Seat 5: coeeeelho ($112.46 in chips) 
+Seat 6: Birdy318 ($142.46 in chips) 
+psiga71: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+coeeeelho: folds 
+Birdy318: raises $2 to $3
+ghc_2: raises $6 to $9
+psiga71: folds 
+leozaur: folds 
+Birdy318: folds 
+Uncalled bet ($6) returned to ghc_2
+ghc_2 collected $7.50 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: ghc_2 (button) collected ($7.50)
+Seat 2: psiga71 (small blind) folded before Flop
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: kvcsszblcs folded before Flop (didn't bet)
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Birdy318 folded before Flop
+
+
+
+PokerStars Hand #254642038757:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:39:08 WET [2025/01/31 15:39:08 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 4: kvcsszblcs ($210.01 in chips) is sitting out
+Seat 1: ghc_2 ($120.71 in chips) 
+Seat 2: psiga71 ($67.56 in chips) 
+Seat 3: leozaur ($179.20 in chips) 
+Seat 5: coeeeelho ($112.46 in chips) 
+Seat 6: Birdy318 ($139.46 in chips) 
+leozaur: posts small blind $0.50
+kvcsszblcs: is sitting out 
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Birdy318: folds 
+ghc_2: raises $1.30 to $2.30
+psiga71: folds 
+leozaur: folds 
+coeeeelho: calls $1.30
+*** FLOP *** [2h 7h Qs]
+coeeeelho: checks 
+ghc_2: bets $3.19
+coeeeelho: calls $3.19
+*** TURN *** [2h 7h Qs] [2d]
+coeeeelho: checks 
+ghc_2: bets $8.18
+coeeeelho: folds 
+Uncalled bet ($8.18) returned to ghc_2
+ghc_2 collected $10.91 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.48 | Rake $0.57 
+Board [2h 7h Qs 2d]
+Seat 4: kvcsszblcs
+Seat 1: ghc_2 collected ($10.91)
+Seat 2: psiga71 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 5: coeeeelho (big blind) folded on the Turn
+Seat 6: Birdy318 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642056778:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:40:07 WET [2025/01/31 15:40:07 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 4: kvcsszblcs ($210.01 in chips) is sitting out
+Seat 1: ghc_2 ($126.13 in chips) 
+Seat 2: psiga71 ($67.56 in chips) 
+Seat 3: leozaur ($178.70 in chips) 
+Seat 5: coeeeelho ($106.97 in chips) 
+Seat 6: Birdy318 ($139.46 in chips) 
+coeeeelho: posts small blind $0.50
+Birdy318: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+psiga71: calls $1
+leozaur: folds 
+coeeeelho: raises $3.20 to $4.20
+Birdy318: folds 
+psiga71: calls $3.20
+*** FLOP *** [8c 7s 5h]
+coeeeelho: checks 
+psiga71: bets $5
+coeeeelho: folds 
+Uncalled bet ($5) returned to psiga71
+psiga71 collected $8.93 from pot
+psiga71: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.40 | Rake $0.47 
+Board [8c 7s 5h]
+Seat 4: kvcsszblcs
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: psiga71 collected ($8.93)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 5: coeeeelho (small blind) folded on the Flop
+Seat 6: Birdy318 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254642194505:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:47:46 WET [2025/01/31 15:47:46 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 2: psiga71 ($47.29 in chips) 
+Seat 3: leozaur ($295.79 in chips) 
+Seat 4: kvcsszblcs ($210.01 in chips) 
+Seat 5: coeeeelho ($110.78 in chips) 
+Seat 6: Magnodive ($100.50 in chips) 
+socito joins the table at seat #1 
+Magnodive: posts small blind $0.50
+psiga71: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+kvcsszblcs: folds 
+coeeeelho: raises $1.50 to $2.50
+Magnodive: folds 
+psiga71: calls $1.50
+*** FLOP *** [2h Ts Kc]
+psiga71: checks 
+coeeeelho: bets $1.30
+psiga71: folds 
+Uncalled bet ($1.30) returned to coeeeelho
+coeeeelho collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [2h Ts Kc]
+Seat 2: psiga71 (big blind) folded on the Flop
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: kvcsszblcs folded before Flop (didn't bet)
+Seat 5: coeeeelho (button) collected ($5.22)
+Seat 6: Magnodive (small blind) folded before Flop
+
+
+
+PokerStars Hand #254642201578:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:48:10 WET [2025/01/31 15:48:10 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: socito ($100 in chips) is sitting out
+Seat 2: psiga71 ($44.79 in chips) 
+Seat 3: leozaur ($295.79 in chips) 
+Seat 4: kvcsszblcs ($210.01 in chips) 
+Seat 5: coeeeelho ($113.50 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+psiga71: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+coeeeelho: folds 
+Magnodive: folds 
+psiga71: folds 
+Uncalled bet ($0.50) returned to leozaur
+leozaur collected $1 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: socito
+Seat 2: psiga71 (small blind) folded before Flop
+Seat 3: leozaur (big blind) collected ($1)
+Seat 4: kvcsszblcs folded before Flop (didn't bet)
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Magnodive (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642205790:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:48:24 WET [2025/01/31 15:48:24 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: socito ($100 in chips) is sitting out
+Seat 4: kvcsszblcs ($210.01 in chips) is sitting out
+Seat 2: psiga71 ($44.29 in chips) 
+Seat 3: leozaur ($296.29 in chips) 
+Seat 5: coeeeelho ($113.50 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+leozaur: posts small blind $0.50
+kvcsszblcs: is sitting out 
+coeeeelho: posts big blind $1
+socito: sits out 
+*** HOLE CARDS ***
+Magnodive: folds 
+psiga71: folds 
+leozaur: raises $2 to $3
+coeeeelho: folds 
+Uncalled bet ($2) returned to leozaur
+leozaur collected $2 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: socito
+Seat 4: kvcsszblcs
+Seat 2: psiga71 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) collected ($2)
+Seat 5: coeeeelho (big blind) folded before Flop
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642211357:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:48:42 WET [2025/01/31 15:48:42 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: socito ($100 in chips) is sitting out
+Seat 4: kvcsszblcs ($210.01 in chips) is sitting out
+Seat 2: psiga71 ($44.29 in chips) 
+Seat 3: leozaur ($297.29 in chips) 
+Seat 5: coeeeelho ($112.50 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+coeeeelho: posts small blind $0.50
+Magnodive: posts big blind $1
+socito: sits out 
+*** HOLE CARDS ***
+psiga71: folds 
+leozaur: folds 
+coeeeelho: folds 
+Uncalled bet ($0.50) returned to Magnodive
+Magnodive collected $1 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: socito
+Seat 4: kvcsszblcs
+Seat 2: psiga71 folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 5: coeeeelho (small blind) folded before Flop
+Seat 6: Magnodive (big blind) collected ($1)
+
+
+
+PokerStars Hand #254642214552:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:48:53 WET [2025/01/31 15:48:53 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 4: kvcsszblcs ($210.01 in chips) is sitting out
+Seat 1: socito ($100 in chips) 
+Seat 2: psiga71 ($44.29 in chips) 
+Seat 3: leozaur ($297.29 in chips) 
+Seat 5: coeeeelho ($112 in chips) 
+Seat 6: Magnodive ($100.50 in chips) 
+Magnodive: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+psiga71: folds 
+leozaur: folds 
+kvcsszblcs leaves the table
+coeeeelho: folds 
+Magnodive: folds 
+Uncalled bet ($0.50) returned to socito
+socito collected $1 from pot
+socito: doesn't show hand 
+AlexPinsk1 joins the table at seat #4 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: kvcsszblcs
+Seat 1: socito (big blind) collected ($1)
+Seat 2: psiga71 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 5: coeeeelho (button) folded before Flop (didn't bet)
+Seat 6: Magnodive (small blind) folded before Flop
+
+
+
+PokerStars Hand #254642218812:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:49:07 WET [2025/01/31 15:49:07 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 4: AlexPinsk1 ($100 in chips) is sitting out
+Seat 1: socito ($100.50 in chips) 
+Seat 2: psiga71 ($44.29 in chips) 
+Seat 3: leozaur ($297.29 in chips) 
+Seat 5: coeeeelho ($112 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+socito: posts small blind $0.50
+psiga71: posts big blind $1
+AlexPinsk1: sits out 
+*** HOLE CARDS ***
+leozaur: raises $1.50 to $2.50
+coeeeelho: folds 
+Magnodive: folds 
+socito: folds 
+psiga71: calls $1.50
+*** FLOP *** [3s Qc 9c]
+psiga71: checks 
+leozaur: bets $6.89
+psiga71: calls $6.89
+*** TURN *** [3s Qc 9c] [Jh]
+psiga71: checks 
+leozaur: bets $287.90 and is all-in
+psiga71: folds 
+Uncalled bet ($287.90) returned to leozaur
+leozaur collected $18.32 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.28 | Rake $0.96 
+Board [3s Qc 9c Jh]
+Seat 4: AlexPinsk1
+Seat 1: socito (small blind) folded before Flop
+Seat 2: psiga71 (big blind) folded on the Turn
+Seat 3: leozaur collected ($18.32)
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Magnodive (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642230457:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:49:46 WET [2025/01/31 15:49:46 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 4: AlexPinsk1 ($100 in chips) is sitting out
+Seat 1: socito ($100 in chips) 
+Seat 2: psiga71 ($34.90 in chips) 
+Seat 3: leozaur ($306.22 in chips) 
+Seat 5: coeeeelho ($112 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+psiga71: posts small blind $0.50
+leozaur: posts big blind $1
+AlexPinsk1: sits out 
+*** HOLE CARDS ***
+coeeeelho: raises $1.20 to $2.20
+Magnodive: folds 
+socito: folds 
+psiga71: calls $1.70
+leozaur: folds 
+*** FLOP *** [Kc 2s 9c]
+psiga71: checks 
+coeeeelho: bets $3.44
+psiga71: raises $29.26 to $32.70 and is all-in
+coeeeelho: folds 
+Uncalled bet ($29.26) returned to psiga71
+psiga71 collected $11.67 from pot
+psiga71: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.28 | Rake $0.61 
+Board [Kc 2s 9c]
+Seat 4: AlexPinsk1
+Seat 1: socito (button) folded before Flop (didn't bet)
+Seat 2: psiga71 (small blind) collected ($11.67)
+Seat 3: leozaur (big blind) folded before Flop
+Seat 5: coeeeelho folded on the Flop
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642244234:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:50:32 WET [2025/01/31 15:50:32 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: socito ($100 in chips) 
+Seat 2: psiga71 ($40.93 in chips) 
+Seat 3: leozaur ($305.22 in chips) 
+Seat 4: AlexPinsk1 ($100 in chips) 
+Seat 5: coeeeelho ($106.36 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Magnodive: raises $1.50 to $2.50
+socito: folds 
+psiga71: folds 
+leozaur: raises $8.50 to $11
+AlexPinsk1: folds 
+Magnodive: folds 
+Uncalled bet ($8.50) returned to leozaur
+leozaur collected $6 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: socito folded before Flop (didn't bet)
+Seat 2: psiga71 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) collected ($6)
+Seat 4: AlexPinsk1 (big blind) folded before Flop
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop
+
+
+
+PokerStars Hand #254642253107:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:51:02 WET [2025/01/31 15:51:02 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: socito ($100 in chips) 
+Seat 2: psiga71 ($40.93 in chips) 
+Seat 3: leozaur ($308.72 in chips) 
+Seat 4: AlexPinsk1 ($100 in chips) 
+Seat 5: coeeeelho ($106.36 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Magnodive: folds 
+socito: folds 
+psiga71: folds 
+leozaur: folds 
+AlexPinsk1: raises $2 to $3
+coeeeelho: folds 
+Uncalled bet ($2) returned to AlexPinsk1
+AlexPinsk1 collected $2 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: socito folded before Flop (didn't bet)
+Seat 2: psiga71 folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (small blind) collected ($2)
+Seat 5: coeeeelho (big blind) folded before Flop
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642259416:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:51:23 WET [2025/01/31 15:51:23 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: socito ($100 in chips) 
+Seat 2: psiga71 ($40.93 in chips) 
+Seat 3: leozaur ($308.72 in chips) 
+Seat 4: AlexPinsk1 ($101 in chips) 
+Seat 5: coeeeelho ($105.36 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+coeeeelho: posts small blind $0.50
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+psiga71: folds 
+leozaur: folds 
+AlexPinsk1: raises $1.50 to $2.50
+coeeeelho: folds 
+Magnodive: folds 
+Uncalled bet ($1.50) returned to AlexPinsk1
+AlexPinsk1 collected $2.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: socito folded before Flop (didn't bet)
+Seat 2: psiga71 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) collected ($2.50)
+Seat 5: coeeeelho (small blind) folded before Flop
+Seat 6: Magnodive (big blind) folded before Flop
+
+
+
+PokerStars Hand #254642265556:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:51:44 WET [2025/01/31 15:51:44 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: socito ($100 in chips) is sitting out
+Seat 2: psiga71 ($40.93 in chips) 
+Seat 3: leozaur ($308.72 in chips) 
+Seat 4: AlexPinsk1 ($102.50 in chips) 
+Seat 5: coeeeelho ($104.86 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Magnodive: posts small blind $0.50
+socito: is sitting out 
+psiga71: posts big blind $1
+*** HOLE CARDS ***
+socito leaves the table
+leozaur: raises $1.50 to $2.50
+AlexPinsk1: folds 
+coeeeelho: folds 
+Magnodive: folds 
+psiga71: calls $1.50
+*** FLOP *** [Qs Js Ks]
+psiga71: checks 
+leozaur: checks 
+*** TURN *** [Qs Js Ks] [9d]
+psiga71: checks 
+leozaur: bets $3.60
+psiga71: folds 
+Uncalled bet ($3.60) returned to leozaur
+leozaur collected $5.22 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Qs Js Ks 9d]
+Seat 1: socito
+Seat 2: psiga71 (big blind) folded on the Turn
+Seat 3: leozaur collected ($5.22)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: coeeeelho (button) folded before Flop (didn't bet)
+Seat 6: Magnodive (small blind) folded before Flop
+
+
+
+PokerStars Hand #254642275105:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:52:16 WET [2025/01/31 15:52:16 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 2: psiga71 ($38.43 in chips) 
+Seat 3: leozaur ($311.44 in chips) 
+Seat 4: AlexPinsk1 ($102.50 in chips) 
+Seat 5: coeeeelho ($104.86 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+psiga71: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: raises $1.50 to $2.50
+coeeeelho: folds 
+Magnodive: folds 
+psiga71: folds 
+leozaur: folds 
+Uncalled bet ($1.50) returned to AlexPinsk1
+AlexPinsk1 collected $2.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: psiga71 (small blind) folded before Flop
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: AlexPinsk1 collected ($2.50)
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Magnodive (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642279692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:52:32 WET [2025/01/31 15:52:32 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 2: psiga71 ($37.93 in chips) 
+Seat 3: leozaur ($310.44 in chips) 
+Seat 4: AlexPinsk1 ($104 in chips) 
+Seat 5: coeeeelho ($104.86 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Magnodive: folds 
+psiga71: calls $1
+leozaur: folds 
+AlexPinsk1: raises $5 to $6
+psiga71: calls $5
+*** FLOP *** [Th 4c 8s]
+AlexPinsk1: checks 
+psiga71: bets $10
+Onnes600 joins the table at seat #1 
+Onnes600 is disconnected 
+AlexPinsk1: calls $10
+*** TURN *** [Th 4c 8s] [5h]
+AlexPinsk1: checks 
+psiga71: bets $21.93 and is all-in
+AlexPinsk1: calls $21.93
+psiga71 has timed out
+*** RIVER *** [Th 4c 8s 5h] [6s]
+*** SHOW DOWN ***
+AlexPinsk1: shows [As Ad] (a pair of Aces)
+psiga71: shows [Jh 9c] (high card Jack)
+AlexPinsk1 collected $73.86 from pot
+*** SUMMARY ***
+Total pot $76.36 | Rake $2.50 
+Board [Th 4c 8s 5h 6s]
+Seat 2: psiga71 (button) showed [Jh 9c] and lost with high card Jack
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: AlexPinsk1 (big blind) showed [As Ad] and won ($73.86) with a pair of Aces
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642304788:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:53:56 WET [2025/01/31 15:53:56 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Onnes600 ($42.84 in chips) is sitting out
+Seat 2: psiga71 ($0 in chips) is sitting out
+Seat 3: leozaur ($309.94 in chips) 
+Seat 4: AlexPinsk1 ($139.93 in chips) 
+Seat 5: coeeeelho ($104.86 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+coeeeelho: posts big blind $1
+Onnes600: sits out 
+*** HOLE CARDS ***
+Magnodive: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+Uncalled bet ($0.50) returned to coeeeelho
+coeeeelho collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Onnes600
+Seat 2: psiga71
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (small blind) folded before Flop
+Seat 5: coeeeelho (big blind) collected ($1)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642308081:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:54:07 WET [2025/01/31 15:54:07 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Onnes600 ($42.84 in chips) is sitting out
+Seat 3: leozaur ($309.94 in chips) 
+Seat 4: AlexPinsk1 ($139.43 in chips) 
+Seat 5: coeeeelho ($105.36 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+coeeeelho: posts small blind $0.50
+psiga71 leaves the table
+Magnodive: posts big blind $1
+Onnes600: sits out 
+*** HOLE CARDS ***
+98steff joins the table at seat #2 
+98steff is disconnected 
+leozaur: folds 
+AlexPinsk1: folds 
+coeeeelho: raises $2 to $3
+Magnodive: calls $2
+*** FLOP *** [Kc Tc Qh]
+coeeeelho: bets $1.43
+Magnodive: calls $1.43
+*** TURN *** [Kc Tc Qh] [As]
+coeeeelho: checks 
+Magnodive: checks 
+*** RIVER *** [Kc Tc Qh As] [Ks]
+coeeeelho has timed out
+coeeeelho: checks 
+Magnodive: checks 
+*** SHOW DOWN ***
+coeeeelho: shows [8c Ad] (two pair, Aces and Kings)
+Magnodive: shows [6h Ac] (two pair, Aces and Kings)
+coeeeelho collected $4.21 from pot
+Magnodive collected $4.21 from pot
+*** SUMMARY ***
+Total pot $8.86 | Rake $0.44 
+Board [Kc Tc Qh As Ks]
+Seat 1: Onnes600
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 5: coeeeelho (small blind) showed [8c Ad] and won ($4.21) with two pair, Aces and Kings
+Seat 6: Magnodive (big blind) showed [6h Ac] and won ($4.21) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #254642329186:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:55:19 WET [2025/01/31 15:55:19 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Onnes600 ($42.84 in chips) 
+Seat 2: 98steff ($80 in chips) 
+Seat 3: leozaur ($309.94 in chips) 
+Seat 4: AlexPinsk1 ($139.43 in chips) 
+Seat 5: coeeeelho ($105.14 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+98steff: posts big blind $1
+*** HOLE CARDS ***
+98steff: checks 
+leozaur: folds 
+AlexPinsk1: folds 
+coeeeelho: folds 
+Magnodive: folds 
+Onnes600: checks 
+*** FLOP *** [Tc 9h 6c]
+Onnes600: checks 
+98steff: bets $2.38
+Onnes600: folds 
+Uncalled bet ($2.38) returned to 98steff
+98steff collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [Tc 9h 6c]
+Seat 1: Onnes600 (big blind) folded on the Flop
+Seat 2: 98steff collected ($2.35)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: coeeeelho (button) folded before Flop (didn't bet)
+Seat 6: Magnodive (small blind) folded before Flop
+
+
+
+PokerStars Hand #254642336849:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:55:56 WET [2025/01/31 15:55:56 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($41.84 in chips) 
+Seat 2: 98steff ($81.35 in chips) 
+Seat 3: leozaur ($309.94 in chips) 
+Seat 4: AlexPinsk1 ($139.43 in chips) 
+Seat 5: coeeeelho ($105.14 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Onnes600: posts small blind $0.50
+98steff: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+AlexPinsk1: folds 
+coeeeelho: raises $1.20 to $2.20
+Magnodive: raises $5.80 to $8
+Onnes600: folds 
+98steff: folds 
+coeeeelho: calls $5.80
+*** FLOP *** [7s 5d 4h]
+coeeeelho: checks 
+Magnodive: checks 
+*** TURN *** [7s 5d 4h] [6d]
+coeeeelho: bets $8.31
+Magnodive: folds 
+Uncalled bet ($8.31) returned to coeeeelho
+coeeeelho collected $16.62 from pot
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.88 
+Board [7s 5d 4h 6d]
+Seat 1: Onnes600 (small blind) folded before Flop
+Seat 2: 98steff (big blind) folded before Flop
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: coeeeelho collected ($16.62)
+Seat 6: Magnodive (button) folded on the Turn
+
+
+
+PokerStars Hand #254642348333:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:56:52 WET [2025/01/31 15:56:52 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: Onnes600 ($41.34 in chips) 
+Seat 2: 98steff ($80.35 in chips) 
+Seat 3: leozaur ($309.94 in chips) 
+Seat 4: AlexPinsk1 ($139.43 in chips) 
+Seat 5: coeeeelho ($113.76 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+98steff: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: raises $1.50 to $2.50
+coeeeelho: folds 
+Magnodive: folds 
+Onnes600: folds 
+98steff: calls $2
+leozaur: folds 
+*** FLOP *** [Js Kc 8d]
+98steff: bets $5.70
+AlexPinsk1: calls $5.70
+*** TURN *** [Js Kc 8d] [8s]
+98steff: bets $8.27
+AlexPinsk1: calls $8.27
+*** RIVER *** [Js Kc 8d 8s] [4d]
+98steff: checks 
+AlexPinsk1: bets $10
+98steff: calls $10
+*** SHOW DOWN ***
+AlexPinsk1: shows [Kh Ts] (two pair, Kings and Eights)
+98steff: shows [7h Ks] (two pair, Kings and Eights)
+98steff collected $25.41 from pot
+AlexPinsk1 collected $25.72 from pot
+*** SUMMARY ***
+Total pot $53.94 | Rake $2.81 
+Board [Js Kc 8d 8s 4d]
+Seat 1: Onnes600 (button) folded before Flop (didn't bet)
+Seat 2: 98steff (small blind) showed [7h Ks] and won ($25.41) with two pair, Kings and Eights
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: AlexPinsk1 showed [Kh Ts] and won ($25.72) with two pair, Kings and Eights
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642368353:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:58:29 WET [2025/01/31 15:58:29 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Onnes600 ($41.34 in chips) 
+Seat 2: 98steff ($79.29 in chips) 
+Seat 3: leozaur ($308.94 in chips) 
+Seat 4: AlexPinsk1 ($138.68 in chips) 
+Seat 5: coeeeelho ($113.76 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Magnodive: folds 
+Onnes600: folds 
+98steff: calls $1
+leozaur: folds 
+AlexPinsk1: checks 
+*** FLOP *** [2s 6c 7c]
+AlexPinsk1: checks 
+98steff: checks 
+*** TURN *** [2s 6c 7c] [Jc]
+AlexPinsk1: checks 
+98steff: checks 
+*** RIVER *** [2s 6c 7c Jc] [5c]
+AlexPinsk1: checks 
+98steff: checks 
+*** SHOW DOWN ***
+AlexPinsk1: shows [Td Js] (a pair of Jacks)
+98steff: mucks hand 
+AlexPinsk1 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [2s 6c 7c Jc 5c]
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: 98steff (button) mucked
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: AlexPinsk1 (big blind) showed [Td Js] and won ($2.38) with a pair of Jacks
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642375109:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:59:01 WET [2025/01/31 15:59:01 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 5: coeeeelho ($113.76 in chips) is sitting out
+Seat 1: Onnes600 ($41.34 in chips) 
+Seat 2: 98steff ($78.29 in chips) 
+Seat 3: leozaur ($308.44 in chips) 
+Seat 4: AlexPinsk1 ($140.06 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+coeeeelho: is sitting out 
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+Onnes600: raises $1 to $2
+98steff: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+Magnodive: folds 
+Uncalled bet ($1) returned to Onnes600
+Onnes600 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: coeeeelho
+Seat 1: Onnes600 collected ($2.50)
+Seat 2: 98steff folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (small blind) folded before Flop
+Seat 6: Magnodive (big blind) folded before Flop
+
+
+
+PokerStars Hand #254642378307:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:59:16 WET [2025/01/31 15:59:16 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 5: coeeeelho ($113.76 in chips) is sitting out
+Seat 1: Onnes600 ($42.84 in chips) 
+Seat 2: 98steff ($78.29 in chips) 
+Seat 3: leozaur ($308.44 in chips) 
+Seat 4: AlexPinsk1 ($139.56 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+*** HOLE CARDS ***
+98steff: folds 
+leozaur: folds 
+AlexPinsk1: raises $1.50 to $2.50
+Magnodive: folds 
+Onnes600: folds 
+Uncalled bet ($1.50) returned to AlexPinsk1
+AlexPinsk1 collected $2.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: coeeeelho
+Seat 1: Onnes600 (big blind) folded before Flop
+Seat 2: 98steff folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) collected ($2.50)
+Seat 6: Magnodive (small blind) folded before Flop
+
+
+
+PokerStars Hand #254642065478:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:40:35 WET [2025/01/31 15:40:35 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 4: kvcsszblcs ($210.01 in chips) is sitting out
+Seat 1: ghc_2 ($126.13 in chips) 
+Seat 2: psiga71 ($72.29 in chips) 
+Seat 3: leozaur ($178.70 in chips) 
+Seat 5: coeeeelho ($102.77 in chips) 
+Seat 6: Birdy318 ($138.46 in chips) 
+Birdy318: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+psiga71: folds 
+leozaur: folds 
+coeeeelho: folds 
+Birdy318: raises $2 to $3
+ghc_2: calls $2
+*** FLOP *** [6h 3c 3d]
+Birdy318: checks 
+ghc_2: bets $2.28
+Birdy318: raises $5.72 to $8
+ghc_2: calls $5.72
+*** TURN *** [6h 3c 3d] [9d]
+Birdy318: bets $13
+ghc_2: calls $13
+*** RIVER *** [6h 3c 3d 9d] [7d]
+Birdy318: checks 
+ghc_2: checks 
+*** SHOW DOWN ***
+Birdy318: shows [9h Tc] (two pair, Nines and Threes)
+ghc_2: shows [Qc 9c] (two pair, Nines and Threes - Queen kicker)
+ghc_2 collected $45.60 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $2.40 
+Board [6h 3c 3d 9d 7d]
+Seat 4: kvcsszblcs
+Seat 1: ghc_2 (big blind) showed [Qc 9c] and won ($45.60) with two pair, Nines and Threes
+Seat 2: psiga71 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 5: coeeeelho (button) folded before Flop (didn't bet)
+Seat 6: Birdy318 (small blind) showed [9h Tc] and lost with two pair, Nines and Threes
+
+
+
+PokerStars Hand #254642095965:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:42:17 WET [2025/01/31 15:42:17 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 4: kvcsszblcs ($210.01 in chips) is sitting out
+Seat 1: ghc_2 ($147.73 in chips) 
+Seat 2: psiga71 ($72.29 in chips) 
+Seat 3: leozaur ($178.70 in chips) 
+Seat 5: coeeeelho ($102.77 in chips) 
+Seat 6: Birdy318 ($114.46 in chips) 
+ghc_2: posts small blind $0.50
+psiga71: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+coeeeelho: folds 
+Birdy318: folds 
+Birdy318 leaves the table
+ghc_2: folds 
+Uncalled bet ($0.50) returned to psiga71
+psiga71 collected $1 from pot
+psiga71: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: kvcsszblcs
+Seat 1: ghc_2 (small blind) folded before Flop
+Seat 2: psiga71 (big blind) collected ($1)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Birdy318 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642101891:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:42:36 WET [2025/01/31 15:42:36 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 4: kvcsszblcs ($210.01 in chips) is sitting out
+Seat 1: ghc_2 ($147.23 in chips) 
+Seat 2: psiga71 ($72.79 in chips) 
+Seat 3: leozaur ($178.70 in chips) 
+Seat 5: coeeeelho ($102.77 in chips) 
+psiga71: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+ghc_2: folds 
+psiga71: calls $0.50
+leozaur: checks 
+*** FLOP *** [4c Ad Qc]
+psiga71: checks 
+leozaur: checks 
+*** TURN *** [4c Ad Qc] [6s]
+psiga71: bets $1
+leozaur: calls $1
+*** RIVER *** [4c Ad Qc 6s] [4d]
+psiga71: bets $1
+Magnodive joins the table at seat #6 
+leozaur: calls $1
+*** SHOW DOWN ***
+psiga71: shows [3h 6h] (two pair, Sixes and Fours)
+leozaur: shows [Qd 8d] (two pair, Queens and Fours)
+leozaur collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4c Ad Qc 6s 4d]
+Seat 4: kvcsszblcs
+Seat 1: ghc_2 (button) folded before Flop (didn't bet)
+Seat 2: psiga71 (small blind) showed [3h 6h] and lost with two pair, Sixes and Fours
+Seat 3: leozaur (big blind) showed [Qd 8d] and won ($5.70) with two pair, Queens and Fours
+Seat 5: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642110628:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:43:06 WET [2025/01/31 15:43:06 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 4: kvcsszblcs ($210.01 in chips) is sitting out
+Seat 6: Magnodive ($100 in chips) is sitting out
+Seat 1: ghc_2 ($147.23 in chips) 
+Seat 2: psiga71 ($69.79 in chips) 
+Seat 3: leozaur ($181.40 in chips) 
+Seat 5: coeeeelho ($102.77 in chips) 
+leozaur: posts small blind $0.50
+coeeeelho: posts big blind $1
+Magnodive: sits out 
+*** HOLE CARDS ***
+ghc_2: folds 
+psiga71: folds 
+leozaur: raises $2 to $3
+coeeeelho: calls $2
+*** FLOP *** [4s 5h Ks]
+leozaur: checks 
+coeeeelho: bets $2.85
+leozaur: calls $2.85
+*** TURN *** [4s 5h Ks] [8h]
+leozaur: checks 
+coeeeelho: bets $19
+leozaur: raises $19 to $38
+coeeeelho: raises $58.92 to $96.92 and is all-in
+leozaur: calls $58.92
+*** RIVER *** [4s 5h Ks 8h] [3c]
+*** SHOW DOWN ***
+leozaur: shows [Kc 8c] (two pair, Kings and Eights)
+coeeeelho: shows [4d Kd] (two pair, Kings and Fours)
+leozaur collected $204.54 from pot
+*** SUMMARY ***
+Total pot $205.54 | Rake $1 
+Board [4s 5h Ks 8h 3c]
+Seat 4: kvcsszblcs
+Seat 6: Magnodive
+Seat 1: ghc_2 folded before Flop (didn't bet)
+Seat 2: psiga71 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) showed [Kc 8c] and won ($204.54) with two pair, Kings and Eights
+Seat 5: coeeeelho (big blind) showed [4d Kd] and lost with two pair, Kings and Fours
+
+
+
+PokerStars Hand #254642142719:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:44:53 WET [2025/01/31 15:44:53 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 4: kvcsszblcs ($210.01 in chips) is sitting out
+Seat 1: ghc_2 ($147.23 in chips) 
+Seat 2: psiga71 ($69.79 in chips) 
+Seat 3: leozaur ($283.17 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+coeeeelho: posts small blind $0.50
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: raises $1 to $2
+psiga71: calls $2
+leozaur: calls $2
+coeeeelho: folds 
+Magnodive: folds 
+*** FLOP *** [Kd 5d 8h]
+ghc_2: checks 
+psiga71: bets $4
+leozaur: calls $4
+ghc_2: folds 
+*** TURN *** [Kd 5d 8h] [4s]
+psiga71: bets $6
+leozaur: raises $11.50 to $17.50
+psiga71: folds 
+Uncalled bet ($11.50) returned to leozaur
+leozaur collected $26.12 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $27.50 | Rake $1.38 
+Board [Kd 5d 8h 4s]
+Seat 4: kvcsszblcs
+Seat 1: ghc_2 folded on the Flop
+Seat 2: psiga71 folded on the Turn
+Seat 3: leozaur (button) collected ($26.12)
+Seat 5: coeeeelho (small blind) folded before Flop
+Seat 6: Magnodive (big blind) folded before Flop
+
+
+
+PokerStars Hand #254642163220:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:46:01 WET [2025/01/31 15:46:01 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: ghc_2 ($145.23 in chips) is sitting out
+Seat 4: kvcsszblcs ($210.01 in chips) is sitting out
+Seat 2: psiga71 ($57.79 in chips) 
+Seat 3: leozaur ($297.29 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Magnodive: posts small blind $0.50
+ghc_2: is sitting out 
+psiga71: posts big blind $1
+kvcsszblcs: sits out 
+*** HOLE CARDS ***
+leozaur: folds 
+coeeeelho: folds 
+ghc_2 leaves the table
+Magnodive: folds 
+Uncalled bet ($0.50) returned to psiga71
+psiga71 collected $1 from pot
+psiga71: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ghc_2
+Seat 4: kvcsszblcs
+Seat 2: psiga71 (big blind) collected ($1)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 5: coeeeelho (button) folded before Flop (didn't bet)
+Seat 6: Magnodive (small blind) folded before Flop
+
+
+
+PokerStars Hand #254642166404:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:46:12 WET [2025/01/31 15:46:12 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 4: kvcsszblcs ($210.01 in chips) is sitting out
+Seat 2: psiga71 ($58.29 in chips) 
+Seat 3: leozaur ($297.29 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+psiga71: posts small blind $0.50
+leozaur: posts big blind $1
+kvcsszblcs: sits out 
+*** HOLE CARDS ***
+coeeeelho: folds 
+Magnodive: raises $1.50 to $2.50
+psiga71: folds 
+leozaur: folds 
+Uncalled bet ($1.50) returned to Magnodive
+Magnodive collected $2.50 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: kvcsszblcs
+Seat 2: psiga71 (small blind) folded before Flop
+Seat 3: leozaur (big blind) folded before Flop
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Magnodive (button) collected ($2.50)
+
+
+
+PokerStars Hand #254642171290:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:46:29 WET [2025/01/31 15:46:29 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 2: psiga71 ($57.79 in chips) 
+Seat 3: leozaur ($296.29 in chips) 
+Seat 4: kvcsszblcs ($210.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Magnodive ($101.50 in chips) 
+leozaur: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Magnodive: folds 
+psiga71: folds 
+leozaur: folds 
+Uncalled bet ($0.50) returned to kvcsszblcs
+kvcsszblcs collected $1 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: psiga71 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: kvcsszblcs (big blind) collected ($1)
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642175068:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:46:41 WET [2025/01/31 15:46:41 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 2: psiga71 ($57.79 in chips) 
+Seat 3: leozaur ($295.79 in chips) 
+Seat 4: kvcsszblcs ($210.51 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: Magnodive ($101.50 in chips) 
+kvcsszblcs: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Magnodive: folds 
+psiga71: raises $3 to $4
+leozaur: folds 
+kvcsszblcs: folds 
+coeeeelho: raises $8 to $12
+psiga71: calls $8
+*** FLOP *** [Js 5h 5d]
+coeeeelho: bets $8
+psiga71: folds 
+Uncalled bet ($8) returned to coeeeelho
+coeeeelho collected $23.28 from pot
+*** SUMMARY ***
+Total pot $24.50 | Rake $1.22 
+Board [Js 5h 5d]
+Seat 2: psiga71 folded on the Flop
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: kvcsszblcs (small blind) folded before Flop
+Seat 5: coeeeelho (big blind) collected ($23.28)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642189730:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:47:30 WET [2025/01/31 15:47:30 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 2: psiga71 ($45.79 in chips) 
+Seat 3: leozaur ($295.79 in chips) 
+Seat 4: kvcsszblcs ($210.01 in chips) 
+Seat 5: coeeeelho ($111.28 in chips) 
+Seat 6: Magnodive ($101.50 in chips) 
+coeeeelho: posts small blind $0.50
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+psiga71: raises $3 to $4
+leozaur: folds 
+kvcsszblcs: folds 
+coeeeelho: folds 
+Magnodive: folds 
+Uncalled bet ($3) returned to psiga71
+psiga71 collected $2.50 from pot
+psiga71: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: psiga71 collected ($2.50)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 5: coeeeelho (small blind) folded before Flop
+Seat 6: Magnodive (big blind) folded before Flop
+
+
+
+PokerStars Hand #254642381070:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:59:30 WET [2025/01/31 15:59:30 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 5: coeeeelho ($113.76 in chips) is sitting out
+Seat 1: Onnes600 ($41.84 in chips) 
+Seat 2: 98steff ($78.29 in chips) 
+Seat 3: leozaur ($308.44 in chips) 
+Seat 4: AlexPinsk1 ($141.06 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Onnes600: posts small blind $0.50
+98steff: posts big blind $1
+*** HOLE CARDS ***
+leozaur: raises $2 to $3
+AlexPinsk1: folds 
+Magnodive: folds 
+Onnes600: folds 
+98steff: folds 
+Uncalled bet ($2) returned to leozaur
+leozaur collected $2.50 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: coeeeelho
+Seat 1: Onnes600 (small blind) folded before Flop
+Seat 2: 98steff (big blind) folded before Flop
+Seat 3: leozaur collected ($2.50)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: Magnodive (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642384496:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 20:59:46 WET [2025/01/31 15:59:46 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 5: coeeeelho ($113.76 in chips) is sitting out
+Seat 1: Onnes600 ($41.34 in chips) 
+Seat 2: 98steff ($77.29 in chips) 
+Seat 3: leozaur ($309.94 in chips) 
+Seat 4: AlexPinsk1 ($141.06 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+98steff: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+Magnodive: raises $1.50 to $2.50
+Onnes600: folds 
+98steff: calls $2
+leozaur: folds 
+*** FLOP *** [9s 2c 4s]
+98steff: checks 
+Magnodive: bets $1.88
+98steff: folds 
+Uncalled bet ($1.88) returned to Magnodive
+Magnodive collected $5.70 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [9s 2c 4s]
+Seat 5: coeeeelho
+Seat 1: Onnes600 (button) folded before Flop (didn't bet)
+Seat 2: 98steff (small blind) folded on the Flop
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: Magnodive collected ($5.70)
+
+
+
+PokerStars Hand #254642391884:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:00:21 WET [2025/01/31 16:00:21 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 5: coeeeelho ($113.76 in chips) is sitting out
+Seat 1: Onnes600 ($41.34 in chips) 
+Seat 2: 98steff ($74.79 in chips) 
+Seat 3: leozaur ($308.94 in chips) 
+Seat 4: AlexPinsk1 ($141.06 in chips) 
+Seat 6: Magnodive ($103.20 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+Magnodive: folds 
+Onnes600: folds 
+98steff: folds 
+leozaur: folds 
+Uncalled bet ($0.50) returned to AlexPinsk1
+AlexPinsk1 collected $1 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: coeeeelho
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: 98steff (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: AlexPinsk1 (big blind) collected ($1)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642395642:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:00:38 WET [2025/01/31 16:00:38 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 5: coeeeelho ($113.76 in chips) is sitting out
+Seat 1: Onnes600 ($41.34 in chips) 
+Seat 2: 98steff ($74.79 in chips) 
+Seat 3: leozaur ($308.44 in chips) 
+Seat 4: AlexPinsk1 ($141.56 in chips) 
+Seat 6: Magnodive ($103.20 in chips) 
+AlexPinsk1: posts small blind $0.50
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+Onnes600: folds 
+98steff: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+Uncalled bet ($0.50) returned to Magnodive
+Magnodive collected $1 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: coeeeelho
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: 98steff folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (small blind) folded before Flop
+Seat 6: Magnodive (big blind) collected ($1)
+
+
+
+PokerStars Hand #254642398962:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:00:52 WET [2025/01/31 16:00:52 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 5: coeeeelho ($113.76 in chips) is sitting out
+Seat 1: Onnes600 ($41.34 in chips) 
+Seat 2: 98steff ($74.79 in chips) 
+Seat 3: leozaur ($308.44 in chips) 
+Seat 4: AlexPinsk1 ($141.06 in chips) 
+Seat 6: Magnodive ($103.70 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+*** HOLE CARDS ***
+98steff: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+Magnodive: folds 
+Uncalled bet ($0.50) returned to Onnes600
+Onnes600 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: coeeeelho
+Seat 1: Onnes600 (big blind) collected ($1)
+Seat 2: 98steff folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 6: Magnodive (small blind) folded before Flop
+
+
+
+PokerStars Hand #254642401537:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:01:02 WET [2025/01/31 16:01:02 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 5: coeeeelho ($113.76 in chips) is sitting out
+Seat 1: Onnes600 ($41.84 in chips) 
+Seat 2: 98steff ($74.79 in chips) 
+Seat 3: leozaur ($308.44 in chips) 
+Seat 4: AlexPinsk1 ($141.06 in chips) 
+Seat 6: Magnodive ($103.20 in chips) 
+Onnes600: posts small blind $0.50
+98steff: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+AlexPinsk1: folds 
+coeeeelho leaves the table
+Magnodive: raises $1.50 to $2.50
+alexandr699 joins the table at seat #5 
+Onnes600: folds 
+98steff: folds 
+Uncalled bet ($1.50) returned to Magnodive
+Magnodive collected $2.50 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: coeeeelho
+Seat 1: Onnes600 (small blind) folded before Flop
+Seat 2: 98steff (big blind) folded before Flop
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: Magnodive (button) collected ($2.50)
+
+
+
+PokerStars Hand #254642406144:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:01:20 WET [2025/01/31 16:01:20 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 5: alexandr699 ($100 in chips) is sitting out
+Seat 1: Onnes600 ($41.34 in chips) 
+Seat 2: 98steff ($73.79 in chips) 
+Seat 3: leozaur ($308.44 in chips) 
+Seat 4: AlexPinsk1 ($141.06 in chips) 
+Seat 6: Magnodive ($104.70 in chips) 
+98steff: posts small blind $0.50
+leozaur: posts big blind $1
+alexandr699: sits out 
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+Magnodive: folds 
+Onnes600: calls $1
+98steff: calls $0.50
+leozaur: checks 
+*** FLOP *** [Kh 3d 4c]
+98steff: checks 
+leozaur: checks 
+Onnes600: bets $2
+98steff: folds 
+leozaur: folds 
+Uncalled bet ($2) returned to Onnes600
+Onnes600 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Kh 3d 4c]
+Seat 5: alexandr699
+Seat 1: Onnes600 (button) collected ($2.85)
+Seat 2: 98steff (small blind) folded on the Flop
+Seat 3: leozaur (big blind) folded on the Flop
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642417315:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:02:01 WET [2025/01/31 16:02:01 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 5: alexandr699 ($100 in chips) is sitting out
+Seat 1: Onnes600 ($43.19 in chips) 
+Seat 2: 98steff ($72.79 in chips) 
+Seat 3: leozaur ($307.44 in chips) 
+Seat 4: AlexPinsk1 ($141.06 in chips) 
+Seat 6: Magnodive ($104.70 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+alexandr699: sits out 
+*** HOLE CARDS ***
+Magnodive: folds 
+Onnes600: raises $1 to $2
+98steff: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+Uncalled bet ($1) returned to Onnes600
+Onnes600 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: alexandr699
+Seat 1: Onnes600 collected ($2.50)
+Seat 2: 98steff (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: AlexPinsk1 (big blind) folded before Flop
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642422742:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:02:20 WET [2025/01/31 16:02:20 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Onnes600 ($44.69 in chips) 
+Seat 2: 98steff ($72.79 in chips) 
+Seat 3: leozaur ($306.94 in chips) 
+Seat 4: AlexPinsk1 ($140.06 in chips) 
+Seat 5: alexandr699 ($100 in chips) 
+Seat 6: Magnodive ($104.70 in chips) 
+AlexPinsk1: posts small blind $0.50
+alexandr699: posts big blind $1
+*** HOLE CARDS ***
+Magnodive: folds 
+Onnes600: folds 
+98steff: raises $2 to $3
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: calls $2
+*** FLOP *** [Ts 6s 5d]
+alexandr699: checks 
+98steff: bets $3.09
+alexandr699: calls $3.09
+*** TURN *** [Ts 6s 5d] [8d]
+alexandr699: checks 
+98steff: bets $6.03
+alexandr699: raises $17.97 to $24
+98steff: calls $17.97
+*** RIVER *** [Ts 6s 5d 8d] [Kc]
+alexandr699: bets $69.91 and is all-in
+98steff: folds 
+Uncalled bet ($69.91) returned to alexandr699
+alexandr699 collected $58.18 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $60.68 | Rake $2.50 
+Board [Ts 6s 5d 8d Kc]
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: 98steff folded on the River
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (small blind) folded before Flop
+Seat 5: alexandr699 (big blind) collected ($58.18)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642448070:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:03:46 WET [2025/01/31 16:03:46 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Onnes600 ($44.69 in chips) 
+Seat 2: 98steff ($42.70 in chips) 
+Seat 3: leozaur ($306.94 in chips) 
+Seat 4: AlexPinsk1 ($139.56 in chips) 
+Seat 5: alexandr699 ($128.09 in chips) 
+Seat 6: Magnodive ($104.70 in chips) 
+alexandr699: posts small blind $0.50
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+Onnes600: folds 
+98steff: calls $1
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: checks 
+*** FLOP *** [Jd 7h As]
+Magnodive: checks 
+98steff: checks 
+*** TURN *** [Jd 7h As] [2c]
+Magnodive: bets $2.38
+98steff: folds 
+Uncalled bet ($2.38) returned to Magnodive
+Magnodive collected $2.38 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Jd 7h As 2c]
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: 98steff folded on the Turn
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 5: alexandr699 (small blind) folded before Flop
+Seat 6: Magnodive (big blind) collected ($2.38)
+
+
+
+PokerStars Hand #254642458330:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:04:19 WET [2025/01/31 16:04:19 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Onnes600 ($44.69 in chips) 
+Seat 2: 98steff ($41.70 in chips) 
+Seat 3: leozaur ($306.94 in chips) 
+Seat 4: AlexPinsk1 ($139.56 in chips) 
+Seat 5: alexandr699 ($127.59 in chips) 
+Seat 6: Magnodive ($106.08 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+*** HOLE CARDS ***
+98steff: folds 
+leozaur: folds 
+AlexPinsk1: raises $1.50 to $2.50
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: raises $3.50 to $6
+AlexPinsk1: calls $3.50
+*** FLOP *** [4c 8s 6d]
+Onnes600: bets $12.88
+AlexPinsk1: folds 
+Uncalled bet ($12.88) returned to Onnes600
+Onnes600 collected $11.88 from pot
+*** SUMMARY ***
+Total pot $12.50 | Rake $0.62 
+Board [4c 8s 6d]
+Seat 1: Onnes600 (big blind) collected ($11.88)
+Seat 2: 98steff folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded on the Flop
+Seat 5: alexandr699 (button) folded before Flop (didn't bet)
+Seat 6: Magnodive (small blind) folded before Flop
+
+
+
+PokerStars Hand #254642481416:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:05:35 WET [2025/01/31 16:05:35 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($50.57 in chips) 
+Seat 2: 98steff ($41.70 in chips) 
+Seat 3: leozaur ($306.94 in chips) 
+Seat 4: AlexPinsk1 ($133.56 in chips) 
+Seat 5: alexandr699 ($127.59 in chips) 
+Seat 6: Magnodive ($105.58 in chips) 
+Onnes600: posts small blind $0.50
+98steff: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: raises $1.50 to $2.50
+Onnes600: folds 
+98steff: calls $1.50
+*** FLOP *** [Kh Kd Qd]
+98steff: checks 
+Magnodive: bets $1.72
+98steff: calls $1.72
+*** TURN *** [Kh Kd Qd] [Ts]
+98steff: checks 
+Magnodive: bets $8.49
+98steff: calls $8.49
+*** RIVER *** [Kh Kd Qd Ts] [As]
+98steff: checks 
+Magnodive: checks 
+*** SHOW DOWN ***
+98steff: shows [6h Jh] (a straight, Ten to Ace)
+Magnodive: mucks hand 
+98steff collected $24.30 from pot
+*** SUMMARY ***
+Total pot $25.92 | Rake $1.62 
+Board [Kh Kd Qd Ts As]
+Seat 1: Onnes600 (small blind) folded before Flop
+Seat 2: 98steff (big blind) showed [6h Jh] and won ($24.30) with a straight, Ten to Ace
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive (button) mucked
+
+
+
+PokerStars Hand #254642498228:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:06:31 WET [2025/01/31 16:06:31 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: Onnes600 ($50.07 in chips) 
+Seat 2: 98steff ($53.29 in chips) 
+Seat 3: leozaur ($306.94 in chips) 
+Seat 4: AlexPinsk1 ($133.56 in chips) 
+Seat 5: alexandr699 ($127.59 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+98steff: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: raises $2 to $3
+98steff: folds 
+leozaur: calls $2
+*** FLOP *** [6s 7s 3s]
+leozaur: checks 
+Onnes600: bets $6.18
+leozaur: raises $297.76 to $303.94 and is all-in
+Onnes600: folds 
+Uncalled bet ($297.76) returned to leozaur
+leozaur collected $17.92 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.86 | Rake $0.94 
+Board [6s 7s 3s]
+Seat 1: Onnes600 (button) folded on the Flop
+Seat 2: 98steff (small blind) folded before Flop
+Seat 3: leozaur (big blind) collected ($17.92)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642511917:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:07:16 WET [2025/01/31 16:07:16 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Onnes600 ($40.89 in chips) 
+Seat 2: 98steff ($52.79 in chips) 
+Seat 3: leozaur ($315.68 in chips) 
+Seat 4: AlexPinsk1 ($133.56 in chips) 
+Seat 5: alexandr699 ($127.59 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: folds 
+98steff: folds 
+leozaur: folds 
+Uncalled bet ($0.50) returned to AlexPinsk1
+AlexPinsk1 collected $1 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: 98steff (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: AlexPinsk1 (big blind) collected ($1)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642517834:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:07:35 WET [2025/01/31 16:07:35 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Onnes600 ($40.89 in chips) 
+Seat 2: 98steff ($52.79 in chips) 
+Seat 3: leozaur ($315.18 in chips) 
+Seat 4: AlexPinsk1 ($134.06 in chips) 
+Seat 5: alexandr699 ($127.59 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+alexandr699: posts big blind $1
+*** HOLE CARDS ***
+Magnodive: folds 
+Onnes600: raises $2 to $3
+98steff: folds 
+leozaur: raises $5.50 to $8.50
+AlexPinsk1: folds 
+alexandr699: folds 
+Onnes600: calls $5.50
+*** FLOP *** [Qh 4d Ts]
+Onnes600: checks 
+leozaur: checks 
+*** TURN *** [Qh 4d Ts] [5h]
+Onnes600: checks 
+leozaur: checks 
+*** RIVER *** [Qh 4d Ts 5h] [5c]
+Onnes600: checks 
+leozaur: checks 
+*** SHOW DOWN ***
+Onnes600: shows [Jc 9c] (a pair of Fives)
+leozaur: shows [Ad Kh] (a pair of Fives - Ace kicker)
+leozaur collected $17.58 from pot
+*** SUMMARY ***
+Total pot $18.50 | Rake $0.92 
+Board [Qh 4d Ts 5h 5c]
+Seat 1: Onnes600 showed [Jc 9c] and lost with a pair of Fives
+Seat 2: 98steff folded before Flop (didn't bet)
+Seat 3: leozaur (button) showed [Ad Kh] and won ($17.58) with a pair of Fives
+Seat 4: AlexPinsk1 (small blind) folded before Flop
+Seat 5: alexandr699 (big blind) folded before Flop
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642538018:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:08:42 WET [2025/01/31 16:08:42 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Onnes600 ($32.39 in chips) 
+Seat 2: 98steff ($52.79 in chips) 
+Seat 3: leozaur ($324.26 in chips) 
+Seat 4: AlexPinsk1 ($133.56 in chips) 
+Seat 5: alexandr699 ($126.59 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+alexandr699: posts small blind $0.50
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+Onnes600: calls $1
+98steff: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: calls $0.50
+Magnodive: checks 
+*** FLOP *** [Qd 7c 9d]
+alexandr699: checks 
+Magnodive: bets $1.43
+Onnes600: raises $1.43 to $2.86
+alexandr699: calls $2.86
+Magnodive: calls $1.43
+*** TURN *** [Qd 7c 9d] [5h]
+alexandr699: checks 
+Magnodive: checks 
+Onnes600: checks 
+*** RIVER *** [Qd 7c 9d 5h] [2s]
+alexandr699: bets $8.25
+Magnodive: folds 
+Onnes600: folds 
+Uncalled bet ($8.25) returned to alexandr699
+alexandr699 collected $11 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.58 | Rake $0.58 
+Board [Qd 7c 9d 5h 2s]
+Seat 1: Onnes600 folded on the River
+Seat 2: 98steff folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 5: alexandr699 (small blind) collected ($11)
+Seat 6: Magnodive (big blind) folded on the River
+
+
+
+PokerStars Hand #254642570114:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:10:28 WET [2025/01/31 16:10:28 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Onnes600 ($28.53 in chips) 
+Seat 2: 98steff ($52.79 in chips) 
+Seat 3: leozaur ($324.26 in chips) 
+Seat 4: AlexPinsk1 ($133.56 in chips) 
+Seat 5: alexandr699 ($133.73 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+*** HOLE CARDS ***
+98steff: folds 
+leozaur: folds 
+AlexPinsk1: raises $1.50 to $2.50
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: folds 
+Uncalled bet ($1.50) returned to AlexPinsk1
+AlexPinsk1 collected $2.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 (big blind) folded before Flop
+Seat 2: 98steff folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 collected ($2.50)
+Seat 5: alexandr699 (button) folded before Flop (didn't bet)
+Seat 6: Magnodive (small blind) folded before Flop
+
+
+
+PokerStars Hand #254642585474:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:11:17 WET [2025/01/31 16:11:17 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($27.53 in chips) 
+Seat 2: 98steff ($52.79 in chips) 
+Seat 3: leozaur ($324.26 in chips) 
+Seat 4: AlexPinsk1 ($135.06 in chips) 
+Seat 5: alexandr699 ($133.73 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Onnes600: posts small blind $0.50
+98steff: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: raises $2 to $3
+98steff: calls $2
+*** FLOP *** [Jd Ah 5c]
+Onnes600: bets $5.70
+98steff: folds 
+Uncalled bet ($5.70) returned to Onnes600
+Onnes600 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Jd Ah 5c]
+Seat 1: Onnes600 (small blind) collected ($5.70)
+Seat 2: 98steff (big blind) folded on the Flop
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642594908:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:11:47 WET [2025/01/31 16:11:47 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: Onnes600 ($30.23 in chips) 
+Seat 2: 98steff ($49.79 in chips) 
+Seat 3: leozaur ($324.26 in chips) 
+Seat 4: AlexPinsk1 ($135.06 in chips) 
+Seat 5: alexandr699 ($133.73 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+98steff: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: folds 
+98steff: calls $0.50
+leozaur: checks 
+*** FLOP *** [6h 7s Kd]
+98steff: bets $1
+leozaur: folds 
+Uncalled bet ($1) returned to 98steff
+98steff collected $1.88 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.12 
+Board [6h 7s Kd]
+Seat 1: Onnes600 (button) folded before Flop (didn't bet)
+Seat 2: 98steff (small blind) collected ($1.88)
+Seat 3: leozaur (big blind) folded on the Flop
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642601639:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:12:09 WET [2025/01/31 16:12:09 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Onnes600 ($30.23 in chips) 
+Seat 2: 98steff ($50.67 in chips) 
+Seat 3: leozaur ($323.26 in chips) 
+Seat 4: AlexPinsk1 ($135.06 in chips) 
+Seat 5: alexandr699 ($133.73 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: raises $1.98 to $2.98
+Magnodive: folds 
+Onnes600: folds 
+98steff: calls $2.98
+leozaur: folds 
+AlexPinsk1: calls $1.98
+*** FLOP *** [7c Jd Th]
+AlexPinsk1: checks 
+alexandr699: bets $7.62
+98steff: raises $24.21 to $31.83
+AlexPinsk1: folds 
+alexandr699: raises $98.92 to $130.75 and is all-in
+98steff: calls $15.86 and is all-in
+Uncalled bet ($83.06) returned to alexandr699
+*** TURN *** [7c Jd Th] [Tc]
+*** RIVER *** [7c Jd Th Tc] [Qs]
+*** SHOW DOWN ***
+alexandr699: shows [Ac Jc] (two pair, Jacks and Tens)
+98steff: shows [Ad Jh] (two pair, Jacks and Tens)
+alexandr699 collected $51.16 from pot
+98steff collected $50.85 from pot
+*** SUMMARY ***
+Total pot $104.82 | Rake $2.81 
+Board [7c Jd Th Tc Qs]
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: 98steff (button) showed [Ad Jh] and won ($50.85) with two pair, Jacks and Tens
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: AlexPinsk1 (big blind) folded on the Flop
+Seat 5: alexandr699 showed [Ac Jc] and won ($51.16) with two pair, Jacks and Tens
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642623670:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:13:19 WET [2025/01/31 16:13:19 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Onnes600 ($30.23 in chips) 
+Seat 2: 98steff ($50.85 in chips) 
+Seat 3: leozaur ($322.76 in chips) 
+Seat 4: AlexPinsk1 ($132.08 in chips) 
+Seat 5: alexandr699 ($134.22 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+alexandr699: posts big blind $1
+*** HOLE CARDS ***
+Magnodive: raises $1.50 to $2.50
+Onnes600: folds 
+98steff: folds 
+leozaur: folds 
+AlexPinsk1: raises $9 to $11.50
+alexandr699: folds 
+Magnodive: folds 
+Uncalled bet ($9) returned to AlexPinsk1
+AlexPinsk1 collected $6 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: 98steff folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (small blind) collected ($6)
+Seat 5: alexandr699 (big blind) folded before Flop
+Seat 6: Magnodive folded before Flop
+
+
+
+PokerStars Hand #254642633029:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:13:49 WET [2025/01/31 16:13:49 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Onnes600 ($30.23 in chips) 
+Seat 2: 98steff ($50.85 in chips) 
+Seat 3: leozaur ($322.76 in chips) 
+Seat 4: AlexPinsk1 ($135.58 in chips) 
+Seat 5: alexandr699 ($133.22 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+alexandr699: posts small blind $0.50
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+Onnes600: raises $2 to $3
+98steff: calls $3
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: folds 
+*** FLOP *** [9h 7d Kc]
+Onnes600: checks 
+98steff: checks 
+*** TURN *** [9h 7d Kc] [4c]
+Onnes600: checks 
+98steff: checks 
+*** RIVER *** [9h 7d Kc 4c] [9c]
+Onnes600: checks 
+98steff: checks 
+*** SHOW DOWN ***
+Onnes600: shows [Qh As] (a pair of Nines)
+98steff: mucks hand 
+Onnes600 collected $7.12 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [9h 7d Kc 4c 9c]
+Seat 1: Onnes600 showed [Qh As] and won ($7.12) with a pair of Nines
+Seat 2: 98steff mucked
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 5: alexandr699 (small blind) folded before Flop
+Seat 6: Magnodive (big blind) folded before Flop
+
+
+
+PokerStars Hand #254642651362:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:14:48 WET [2025/01/31 16:14:48 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Onnes600 ($34.35 in chips) 
+Seat 2: 98steff ($47.85 in chips) 
+Seat 3: leozaur ($322.76 in chips) 
+Seat 4: AlexPinsk1 ($135.58 in chips) 
+Seat 5: alexandr699 ($132.72 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+*** HOLE CARDS ***
+98steff: folds 
+leozaur: folds 
+AlexPinsk1: raises $1.50 to $2.50
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: folds 
+Uncalled bet ($1.50) returned to AlexPinsk1
+AlexPinsk1 collected $2.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 (big blind) folded before Flop
+Seat 2: 98steff folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 collected ($2.50)
+Seat 5: alexandr699 (button) folded before Flop (didn't bet)
+Seat 6: Magnodive (small blind) folded before Flop
+
+
+
+PokerStars Hand #254642657508:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:15:07 WET [2025/01/31 16:15:07 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($33.35 in chips) 
+Seat 2: 98steff ($47.85 in chips) 
+Seat 3: leozaur ($322.76 in chips) 
+Seat 4: AlexPinsk1 ($137.08 in chips) 
+Seat 5: alexandr699 ($132.72 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Onnes600: posts small blind $0.50
+98steff: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+AlexPinsk1: raises $1.50 to $2.50
+alexandr699: folds 
+Magnodive: calls $2.50
+Onnes600: folds 
+98steff: calls $1.50
+*** FLOP *** [5d Js 9s]
+98steff: bets $3.80
+AlexPinsk1: raises $9.70 to $13.50
+Magnodive: folds 
+98steff: calls $9.70
+*** TURN *** [5d Js 9s] [7c]
+98steff: checks 
+AlexPinsk1: bets $34
+98steff: calls $31.85 and is all-in
+Uncalled bet ($2.15) returned to AlexPinsk1
+*** RIVER *** [5d Js 9s 7c] [Jd]
+*** SHOW DOWN ***
+98steff: shows [9c Kc] (two pair, Jacks and Nines)
+AlexPinsk1: shows [Kd Kh] (two pair, Kings and Jacks)
+AlexPinsk1 collected $96.20 from pot
+*** SUMMARY ***
+Total pot $98.70 | Rake $2.50 
+Board [5d Js 9s 7c Jd]
+Seat 1: Onnes600 (small blind) folded before Flop
+Seat 2: 98steff (big blind) showed [9c Kc] and lost with two pair, Jacks and Nines
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 showed [Kd Kh] and won ($96.20) with two pair, Kings and Jacks
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive (button) folded on the Flop
+
+
+
+PokerStars Hand #254642685529:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:16:35 WET [2025/01/31 16:16:35 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 2: 98steff ($0 in chips) is sitting out
+Seat 1: Onnes600 ($32.85 in chips) 
+Seat 3: leozaur ($322.76 in chips) 
+Seat 4: AlexPinsk1 ($185.43 in chips) 
+Seat 5: alexandr699 ($132.72 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: folds 
+98steff leaves the table
+leozaur: raises $2 to $3
+JUANS2 joins the table at seat #2 
+AlexPinsk1: folds 
+Uncalled bet ($2) returned to leozaur
+leozaur collected $2 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: 98steff
+Seat 1: Onnes600 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) collected ($2)
+Seat 4: AlexPinsk1 (big blind) folded before Flop
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642691440:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:16:53 WET [2025/01/31 16:16:53 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 2: JUANS2 ($100 in chips) is sitting out
+Seat 1: Onnes600 ($32.85 in chips) 
+Seat 3: leozaur ($323.76 in chips) 
+Seat 4: AlexPinsk1 ($184.43 in chips) 
+Seat 5: alexandr699 ($132.72 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+alexandr699: posts big blind $1
+JUANS2: sits out 
+*** HOLE CARDS ***
+Magnodive: folds 
+Onnes600: folds 
+leozaur: raises $1.50 to $2.50
+AlexPinsk1: raises $9.50 to $12
+alexandr699: folds 
+leozaur: folds 
+Uncalled bet ($9.50) returned to AlexPinsk1
+AlexPinsk1 collected $6 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: JUANS2
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop
+Seat 4: AlexPinsk1 (small blind) collected ($6)
+Seat 5: alexandr699 (big blind) folded before Flop
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642700288:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:17:21 WET [2025/01/31 16:17:21 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 2: JUANS2 ($100 in chips) is sitting out
+Seat 1: Onnes600 ($32.85 in chips) 
+Seat 3: leozaur ($321.26 in chips) 
+Seat 4: AlexPinsk1 ($187.93 in chips) 
+Seat 5: alexandr699 ($131.72 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+alexandr699: posts small blind $0.50
+Magnodive: posts big blind $1
+JUANS2: sits out 
+*** HOLE CARDS ***
+Onnes600: folds 
+leozaur: folds 
+AlexPinsk1: raises $1.50 to $2.50
+alexandr699: raises $9.50 to $12
+Magnodive: folds 
+AlexPinsk1: folds 
+Uncalled bet ($9.50) returned to alexandr699
+alexandr699 collected $6 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: JUANS2
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) folded before Flop
+Seat 5: alexandr699 (small blind) collected ($6)
+Seat 6: Magnodive (big blind) folded before Flop
+
+
+
+PokerStars Hand #254642711165:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:17:55 WET [2025/01/31 16:17:55 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 2: JUANS2 ($100 in chips) is sitting out
+Seat 1: Onnes600 ($32.85 in chips) 
+Seat 3: leozaur ($321.26 in chips) 
+Seat 4: AlexPinsk1 ($185.43 in chips) 
+Seat 5: alexandr699 ($135.22 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+JUANS2: sits out 
+*** HOLE CARDS ***
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: raises $2 to $3
+Onnes600: calls $2
+*** FLOP *** [2d 3c 4h]
+Magnodive: checks 
+Onnes600: bets $5.70
+Magnodive: calls $5.70
+*** TURN *** [2d 3c 4h] [4s]
+Magnodive: checks 
+Onnes600: bets $16.53
+Magnodive: folds 
+Uncalled bet ($16.53) returned to Onnes600
+Onnes600 collected $16.53 from pot
+*** SUMMARY ***
+Total pot $17.40 | Rake $0.87 
+Board [2d 3c 4h 4s]
+Seat 2: JUANS2
+Seat 1: Onnes600 (big blind) collected ($16.53)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 (button) folded before Flop (didn't bet)
+Seat 6: Magnodive (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254642730033:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:18:55 WET [2025/01/31 16:18:55 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($40.68 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($321.26 in chips) 
+Seat 4: AlexPinsk1 ($185.43 in chips) 
+Seat 5: alexandr699 ($135.22 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Onnes600: posts small blind $0.50
+JUANS2: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: raises $1.50 to $2.50
+Onnes600: folds 
+JUANS2: calls $1.50
+*** FLOP *** [6c Qd 4c]
+JUANS2: checks 
+Magnodive: bets $1.72
+JUANS2: raises $4.33 to $6.05
+Magnodive: folds 
+Uncalled bet ($4.33) returned to JUANS2
+JUANS2 collected $8.49 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [6c Qd 4c]
+Seat 1: Onnes600 (small blind) folded before Flop
+Seat 2: JUANS2 (big blind) collected ($8.49)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive (button) folded on the Flop
+
+
+
+PokerStars Hand #254642747195:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:19:49 WET [2025/01/31 16:19:49 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: Onnes600 ($40.18 in chips) 
+Seat 2: JUANS2 ($104.27 in chips) 
+Seat 3: leozaur ($321.26 in chips) 
+Seat 4: AlexPinsk1 ($185.43 in chips) 
+Seat 5: alexandr699 ($135.22 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+JUANS2: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: raises $2 to $3
+leozaur: folds 
+Uncalled bet ($2) returned to JUANS2
+JUANS2 collected $2 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Onnes600 (button) folded before Flop (didn't bet)
+Seat 2: JUANS2 (small blind) collected ($2)
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642753230:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:20:07 WET [2025/01/31 16:20:07 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Onnes600 ($40.18 in chips) 
+Seat 2: JUANS2 ($105.27 in chips) 
+Seat 3: leozaur ($320.26 in chips) 
+Seat 4: AlexPinsk1 ($185.43 in chips) 
+Seat 5: alexandr699 ($135.22 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+Uncalled bet ($0.50) returned to AlexPinsk1
+AlexPinsk1 collected $1 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: AlexPinsk1 (big blind) collected ($1)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642758253:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:20:23 WET [2025/01/31 16:20:23 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Onnes600 ($40.18 in chips) 
+Seat 2: JUANS2 ($105.27 in chips) 
+Seat 3: leozaur ($319.76 in chips) 
+Seat 4: AlexPinsk1 ($185.93 in chips) 
+Seat 5: alexandr699 ($135.22 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+alexandr699: posts big blind $1
+*** HOLE CARDS ***
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: folds 
+leozaur: raises $1.50 to $2.50
+AlexPinsk1: folds 
+alexandr699: folds 
+Uncalled bet ($1.50) returned to leozaur
+leozaur collected $2.50 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur (button) collected ($2.50)
+Seat 4: AlexPinsk1 (small blind) folded before Flop
+Seat 5: alexandr699 (big blind) folded before Flop
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642766122:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:20:48 WET [2025/01/31 16:20:48 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Onnes600 ($40.18 in chips) 
+Seat 2: JUANS2 ($105.27 in chips) 
+Seat 3: leozaur ($321.26 in chips) 
+Seat 4: AlexPinsk1 ($185.43 in chips) 
+Seat 5: alexandr699 ($134.22 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+alexandr699: posts small blind $0.50
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+Onnes600: calls $1
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: raises $2.98 to $3.98
+Magnodive: folds 
+Onnes600: calls $2.98
+*** FLOP *** [Qh 4s 3c]
+alexandr699: bets $2.13
+Onnes600: folds 
+Uncalled bet ($2.13) returned to alexandr699
+alexandr699 collected $8.51 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.96 | Rake $0.45 
+Board [Qh 4s 3c]
+Seat 1: Onnes600 folded on the Flop
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 5: alexandr699 (small blind) collected ($8.51)
+Seat 6: Magnodive (big blind) folded before Flop
+
+
+
+PokerStars Hand #254642778765:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:21:28 WET [2025/01/31 16:21:28 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Onnes600 ($36.20 in chips) 
+Seat 2: JUANS2 ($105.27 in chips) 
+Seat 3: leozaur ($321.26 in chips) 
+Seat 4: AlexPinsk1 ($185.43 in chips) 
+Seat 5: alexandr699 ($138.75 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+*** HOLE CARDS ***
+JUANS2: raises $1.50 to $2.50
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: folds 
+Uncalled bet ($1.50) returned to JUANS2
+JUANS2 collected $2.50 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 (big blind) folded before Flop
+Seat 2: JUANS2 collected ($2.50)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 (button) folded before Flop (didn't bet)
+Seat 6: Magnodive (small blind) folded before Flop
+
+
+
+PokerStars Hand #254642786876:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:21:54 WET [2025/01/31 16:21:54 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($35.20 in chips) 
+Seat 2: JUANS2 ($106.77 in chips) 
+Seat 3: leozaur ($321.26 in chips) 
+Seat 4: AlexPinsk1 ($185.43 in chips) 
+Seat 5: alexandr699 ($138.75 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+Onnes600: posts small blind $0.50
+JUANS2: posts big blind $1
+*** HOLE CARDS ***
+leozaur: raises $1.50 to $2.50
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: folds 
+Uncalled bet ($1.50) returned to leozaur
+leozaur collected $2.50 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 (small blind) folded before Flop
+Seat 2: JUANS2 (big blind) folded before Flop
+Seat 3: leozaur collected ($2.50)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642793878:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:22:17 WET [2025/01/31 16:22:17 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: Onnes600 ($34.70 in chips) 
+Seat 2: JUANS2 ($105.77 in chips) 
+Seat 3: leozaur ($322.76 in chips) 
+Seat 4: AlexPinsk1 ($185.43 in chips) 
+Seat 5: alexandr699 ($138.75 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+JUANS2: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+alexandr699: raises $1.98 to $2.98
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+Uncalled bet ($1.98) returned to alexandr699
+alexandr699 collected $2.50 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 (button) folded before Flop (didn't bet)
+Seat 2: JUANS2 (small blind) folded before Flop
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 collected ($2.50)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642798670:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:22:32 WET [2025/01/31 16:22:32 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Onnes600 ($34.70 in chips) 
+Seat 2: JUANS2 ($105.27 in chips) 
+Seat 3: leozaur ($321.76 in chips) 
+Seat 4: AlexPinsk1 ($185.43 in chips) 
+Seat 5: alexandr699 ($140.25 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: raises $1.98 to $2.98
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+Uncalled bet ($1.98) returned to alexandr699
+alexandr699 collected $2.50 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: AlexPinsk1 (big blind) folded before Flop
+Seat 5: alexandr699 collected ($2.50)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642804406:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:22:50 WET [2025/01/31 16:22:50 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Onnes600 ($34.70 in chips) 
+Seat 2: JUANS2 ($105.27 in chips) 
+Seat 3: leozaur ($321.26 in chips) 
+Seat 4: AlexPinsk1 ($184.43 in chips) 
+Seat 5: alexandr699 ($141.75 in chips) 
+Seat 6: Magnodive ($100 in chips) 
+AlexPinsk1: posts small blind $0.50
+alexandr699: posts big blind $1
+*** HOLE CARDS ***
+Magnodive: raises $1.50 to $2.50
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: folds 
+Uncalled bet ($1.50) returned to Magnodive
+Magnodive collected $2.50 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (small blind) folded before Flop
+Seat 5: alexandr699 (big blind) folded before Flop
+Seat 6: Magnodive collected ($2.50)
+
+
+
+PokerStars Hand #254642813154:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:23:18 WET [2025/01/31 16:23:18 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Onnes600 ($34.70 in chips) 
+Seat 2: JUANS2 ($105.27 in chips) 
+Seat 3: leozaur ($321.26 in chips) 
+Seat 4: AlexPinsk1 ($183.93 in chips) 
+Seat 5: alexandr699 ($140.75 in chips) 
+Seat 6: Magnodive ($101.50 in chips) 
+alexandr699: posts small blind $0.50
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: raises $1.50 to $2.50
+alexandr699: raises $9.50 to $12
+Magnodive: folds 
+AlexPinsk1: folds 
+Uncalled bet ($9.50) returned to alexandr699
+alexandr699 collected $6 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) folded before Flop
+Seat 5: alexandr699 (small blind) collected ($6)
+Seat 6: Magnodive (big blind) folded before Flop
+
+
+
+PokerStars Hand #254642821158:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:23:44 WET [2025/01/31 16:23:44 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Onnes600 ($34.70 in chips) 
+Seat 2: JUANS2 ($105.27 in chips) 
+Seat 3: leozaur ($321.26 in chips) 
+Seat 4: AlexPinsk1 ($181.43 in chips) 
+Seat 5: alexandr699 ($144.25 in chips) 
+Seat 6: Magnodive ($100.50 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+*** HOLE CARDS ***
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: raises $1.98 to $2.98
+Magnodive: raises $9.02 to $12
+Onnes600: folds 
+alexandr699: folds 
+Uncalled bet ($9.02) returned to Magnodive
+Magnodive collected $6.96 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.96 | Rake $0 
+Seat 1: Onnes600 (big blind) folded before Flop
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 (button) folded before Flop
+Seat 6: Magnodive (small blind) collected ($6.96)
+
+
+
+PokerStars Hand #254642828923:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:24:08 WET [2025/01/31 16:24:08 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($33.70 in chips) 
+Seat 2: JUANS2 ($105.27 in chips) 
+Seat 3: leozaur ($321.26 in chips) 
+Seat 4: AlexPinsk1 ($181.43 in chips) 
+Seat 5: alexandr699 ($141.27 in chips) 
+Seat 6: Magnodive ($104.48 in chips) 
+Onnes600: posts small blind $0.50
+JUANS2: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: raises $1.98 to $2.98
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: calls $1.98
+*** FLOP *** [9d 2c 9s]
+JUANS2: checks 
+alexandr699: bets $1.54
+JUANS2: folds 
+Uncalled bet ($1.54) returned to alexandr699
+alexandr699 collected $6.14 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.46 | Rake $0.32 
+Board [9d 2c 9s]
+Seat 1: Onnes600 (small blind) folded before Flop
+Seat 2: JUANS2 (big blind) folded on the Flop
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 collected ($6.14)
+Seat 6: Magnodive (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642842442:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:24:51 WET [2025/01/31 16:24:51 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: Onnes600 ($33.20 in chips) 
+Seat 2: JUANS2 ($102.29 in chips) 
+Seat 3: leozaur ($321.26 in chips) 
+Seat 4: AlexPinsk1 ($181.43 in chips) 
+Seat 5: alexandr699 ($144.43 in chips) 
+Seat 6: Magnodive ($104.48 in chips) 
+JUANS2: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: raises $2 to $3
+leozaur: folds 
+Uncalled bet ($2) returned to JUANS2
+JUANS2 collected $2 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Onnes600 (button) folded before Flop (didn't bet)
+Seat 2: JUANS2 (small blind) collected ($2)
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642849376:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:25:13 WET [2025/01/31 16:25:13 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Onnes600 ($33.20 in chips) 
+Seat 2: JUANS2 ($103.29 in chips) 
+Seat 3: leozaur ($320.26 in chips) 
+Seat 4: AlexPinsk1 ($181.43 in chips) 
+Seat 5: alexandr699 ($144.43 in chips) 
+Seat 6: Magnodive ($104.48 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: raises $1.50 to $2.50
+leozaur: folds 
+AlexPinsk1: folds 
+Uncalled bet ($1.50) returned to JUANS2
+JUANS2 collected $2.50 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 (button) collected ($2.50)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: AlexPinsk1 (big blind) folded before Flop
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642855240:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:25:32 WET [2025/01/31 16:25:32 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Onnes600 ($33.20 in chips) 
+Seat 2: JUANS2 ($104.79 in chips) 
+Seat 3: leozaur ($319.76 in chips) 
+Seat 4: AlexPinsk1 ($180.43 in chips) 
+Seat 5: alexandr699 ($144.43 in chips) 
+Seat 6: Magnodive ($104.48 in chips) 
+AlexPinsk1: posts small blind $0.50
+alexandr699: posts big blind $1
+*** HOLE CARDS ***
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: raises $2 to $3
+alexandr699: calls $2
+*** FLOP *** [Tc Ac Qd]
+AlexPinsk1: bets $1.88
+alexandr699: raises $11.34 to $13.22
+AlexPinsk1: calls $11.34
+*** TURN *** [Tc Ac Qd] [9c]
+AlexPinsk1: checks 
+alexandr699: bets $7.71
+AlexPinsk1: folds 
+Uncalled bet ($7.71) returned to alexandr699
+alexandr699 collected $30.82 from pot
+alexandr699: doesn't show hand 
+*** SUMMARY ***
+Total pot $32.44 | Rake $1.62 
+Board [Tc Ac Qd 9c]
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (small blind) folded on the Turn
+Seat 5: alexandr699 (big blind) collected ($30.82)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642883041:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:27:01 WET [2025/01/31 16:27:01 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Onnes600 ($33.20 in chips) 
+Seat 2: JUANS2 ($104.79 in chips) 
+Seat 3: leozaur ($319.76 in chips) 
+Seat 4: AlexPinsk1 ($164.21 in chips) 
+Seat 5: alexandr699 ($159.03 in chips) 
+Seat 6: Magnodive ($104.48 in chips) 
+alexandr699: posts small blind $0.50
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+Onnes600: folds 
+JUANS2: raises $1.20 to $2.20
+leozaur: folds 
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: folds 
+Uncalled bet ($1.20) returned to JUANS2
+JUANS2 collected $2.50 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 collected ($2.50)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 5: alexandr699 (small blind) folded before Flop
+Seat 6: Magnodive (big blind) folded before Flop
+
+
+
+PokerStars Hand #254642889293:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:27:21 WET [2025/01/31 16:27:21 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Onnes600 ($33.20 in chips) 
+Seat 2: JUANS2 ($106.29 in chips) 
+Seat 3: leozaur ($319.76 in chips) 
+Seat 4: AlexPinsk1 ($164.21 in chips) 
+Seat 5: alexandr699 ($158.53 in chips) 
+Seat 6: Magnodive ($103.48 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+*** HOLE CARDS ***
+JUANS2: folds 
+leozaur: raises $1.50 to $2.50
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: folds 
+Uncalled bet ($1.50) returned to leozaur
+leozaur collected $2.50 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 (big blind) folded before Flop
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur collected ($2.50)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 (button) folded before Flop (didn't bet)
+Seat 6: Magnodive (small blind) folded before Flop
+
+
+
+PokerStars Hand #254642899219:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:27:53 WET [2025/01/31 16:27:53 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($32.20 in chips) 
+Seat 2: JUANS2 ($106.29 in chips) 
+Seat 3: leozaur ($321.26 in chips) 
+Seat 4: AlexPinsk1 ($164.21 in chips) 
+Seat 5: alexandr699 ($158.53 in chips) 
+Seat 6: Magnodive ($102.98 in chips) 
+Onnes600: posts small blind $0.50
+JUANS2: posts big blind $1
+*** HOLE CARDS ***
+leozaur: raises $1.50 to $2.50
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: raises $5.50 to $8
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+Uncalled bet ($5.50) returned to Magnodive
+Magnodive collected $6.50 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: Onnes600 (small blind) folded before Flop
+Seat 2: JUANS2 (big blind) folded before Flop
+Seat 3: leozaur folded before Flop
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive (button) collected ($6.50)
+
+
+
+PokerStars Hand #254642910109:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:28:28 WET [2025/01/31 16:28:28 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: Onnes600 ($31.70 in chips) 
+Seat 2: JUANS2 ($105.29 in chips) 
+Seat 3: leozaur ($318.76 in chips) 
+Seat 4: AlexPinsk1 ($164.21 in chips) 
+Seat 5: alexandr699 ($158.53 in chips) 
+Seat 6: Magnodive ($106.98 in chips) 
+JUANS2: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: calls $1
+JUANS2: raises $3 to $4
+leozaur: folds 
+Onnes600: calls $3
+*** FLOP *** [7h 3d 2c]
+JUANS2: bets $2.82
+Onnes600: raises $6.82 to $9.64
+JUANS2: folds 
+Uncalled bet ($6.82) returned to Onnes600
+Onnes600 collected $13.91 from pot
+*** SUMMARY ***
+Total pot $14.64 | Rake $0.73 
+Board [7h 3d 2c]
+Seat 1: Onnes600 (button) collected ($13.91)
+Seat 2: JUANS2 (small blind) folded on the Flop
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642930542:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:29:33 WET [2025/01/31 16:29:33 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Onnes600 ($38.79 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($317.76 in chips) 
+Seat 4: AlexPinsk1 ($164.21 in chips) 
+Seat 5: alexandr699 ($158.53 in chips) 
+Seat 6: Magnodive ($106.98 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+alexandr699: folds 
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+Uncalled bet ($0.50) returned to AlexPinsk1
+AlexPinsk1 collected $1 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: AlexPinsk1 (big blind) collected ($1)
+Seat 5: alexandr699 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642934627:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:29:47 WET [2025/01/31 16:29:47 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 5: alexandr699 ($158.53 in chips) is sitting out
+Seat 1: Onnes600 ($38.79 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($317.26 in chips) 
+Seat 4: AlexPinsk1 ($164.71 in chips) 
+Seat 6: Magnodive ($106.98 in chips) 
+AlexPinsk1: posts small blind $0.50
+alexandr699: is sitting out 
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+Onnes600: folds 
+JUANS2: raises $1.50 to $2.50
+leozaur: folds 
+AlexPinsk1: folds 
+Magnodive: folds 
+Uncalled bet ($1.50) returned to JUANS2
+JUANS2 collected $2.50 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: alexandr699
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 collected ($2.50)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (small blind) folded before Flop
+Seat 6: Magnodive (big blind) folded before Flop
+
+
+
+PokerStars Hand #254642938152:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:29:58 WET [2025/01/31 16:29:58 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 5: alexandr699 ($158.53 in chips) is sitting out
+Seat 1: Onnes600 ($38.79 in chips) 
+Seat 2: JUANS2 ($101.50 in chips) 
+Seat 3: leozaur ($317.26 in chips) 
+Seat 4: AlexPinsk1 ($164.21 in chips) 
+Seat 6: Magnodive ($105.98 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+*** HOLE CARDS ***
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+Magnodive: raises $2 to $3
+alexandr699 leaves the table
+Onnes600: folds 
+Uncalled bet ($2) returned to Magnodive
+Magnodive collected $2 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: alexandr699
+Seat 1: Onnes600 (big blind) folded before Flop
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 6: Magnodive (small blind) collected ($2)
+
+
+
+PokerStars Hand #254642944021:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:30:16 WET [2025/01/31 16:30:16 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($37.79 in chips) 
+Seat 2: JUANS2 ($101.50 in chips) 
+Seat 3: leozaur ($317.26 in chips) 
+Seat 4: AlexPinsk1 ($164.21 in chips) 
+Seat 6: Magnodive ($106.98 in chips) 
+Onnes600: posts small blind $0.50
+ghc_2 joins the table at seat #5 
+JUANS2: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+AlexPinsk1: folds 
+Magnodive: raises $1.50 to $2.50
+Onnes600: folds 
+JUANS2: folds 
+Uncalled bet ($1.50) returned to Magnodive
+Magnodive collected $2.50 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 (small blind) folded before Flop
+Seat 2: JUANS2 (big blind) folded before Flop
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 6: Magnodive (button) collected ($2.50)
+
+
+
+PokerStars Hand #254642951086:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:30:39 WET [2025/01/31 16:30:39 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 5: ghc_2 ($145.23 in chips) is sitting out
+Seat 1: Onnes600 ($37.29 in chips) 
+Seat 2: JUANS2 ($100.50 in chips) 
+Seat 3: leozaur ($317.26 in chips) 
+Seat 4: AlexPinsk1 ($164.21 in chips) 
+Seat 6: Magnodive ($108.48 in chips) 
+JUANS2: posts small blind $0.50
+leozaur: posts big blind $1
+ghc_2: sits out 
+*** HOLE CARDS ***
+AlexPinsk1: raises $1.50 to $2.50
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+Uncalled bet ($1.50) returned to AlexPinsk1
+AlexPinsk1 collected $2.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: ghc_2
+Seat 1: Onnes600 (button) folded before Flop (didn't bet)
+Seat 2: JUANS2 (small blind) folded before Flop
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: AlexPinsk1 collected ($2.50)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642959039:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:31:05 WET [2025/01/31 16:31:05 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 5: ghc_2 ($145.23 in chips) is sitting out
+Seat 1: Onnes600 ($37.29 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($316.26 in chips) 
+Seat 4: AlexPinsk1 ($165.71 in chips) 
+Seat 6: Magnodive ($108.48 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+ghc_2: sits out 
+*** HOLE CARDS ***
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+Uncalled bet ($0.50) returned to AlexPinsk1
+AlexPinsk1 collected $1 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: ghc_2
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: AlexPinsk1 (big blind) collected ($1)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642963121:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:31:18 WET [2025/01/31 16:31:18 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Onnes600 ($37.29 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($315.76 in chips) 
+Seat 4: AlexPinsk1 ($166.21 in chips) 
+Seat 5: ghc_2 ($145.23 in chips) 
+Seat 6: Magnodive ($108.48 in chips) 
+AlexPinsk1: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+Magnodive: folds 
+Onnes600: raises $2 to $3
+JUANS2: folds 
+leozaur: raises $5.50 to $8.50
+AlexPinsk1: folds 
+ghc_2: folds 
+Onnes600: calls $5.50
+*** FLOP *** [3h 6h As]
+Onnes600: checks 
+leozaur: checks 
+*** TURN *** [3h 6h As] [2s]
+Onnes600: checks 
+leozaur: bets $4.40
+Onnes600: folds 
+Uncalled bet ($4.40) returned to leozaur
+leozaur collected $17.58 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.50 | Rake $0.92 
+Board [3h 6h As 2s]
+Seat 1: Onnes600 folded on the Turn
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur (button) collected ($17.58)
+Seat 4: AlexPinsk1 (small blind) folded before Flop
+Seat 5: ghc_2 (big blind) folded before Flop
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254642980093:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:32:12 WET [2025/01/31 16:32:12 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Onnes600 ($28.79 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($324.84 in chips) 
+Seat 4: AlexPinsk1 ($165.71 in chips) 
+Seat 5: ghc_2 ($144.23 in chips) 
+Seat 6: Magnodive ($108.48 in chips) 
+ghc_2: posts small blind $0.50
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+Onnes600: raises $1 to $2
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: raises $3.50 to $5.50
+ghc_2: folds 
+Magnodive: folds 
+Onnes600: folds 
+Uncalled bet ($3.50) returned to AlexPinsk1
+AlexPinsk1 collected $5.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: Onnes600 folded before Flop
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) collected ($5.50)
+Seat 5: ghc_2 (small blind) folded before Flop
+Seat 6: Magnodive (big blind) folded before Flop
+
+
+
+PokerStars Hand #254642987773:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:32:38 WET [2025/01/31 16:32:38 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Onnes600 ($26.79 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($324.84 in chips) 
+Seat 4: AlexPinsk1 ($169.21 in chips) 
+Seat 5: ghc_2 ($143.73 in chips) 
+Seat 6: Magnodive ($107.48 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+*** HOLE CARDS ***
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+ghc_2: raises $1.40 to $2.40
+Magnodive: raises $8.60 to $11
+Onnes600: folds 
+ghc_2: folds 
+Uncalled bet ($8.60) returned to Magnodive
+Magnodive collected $5.80 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.80 | Rake $0 
+Seat 1: Onnes600 (big blind) folded before Flop
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: ghc_2 (button) folded before Flop
+Seat 6: Magnodive (small blind) collected ($5.80)
+
+
+
+PokerStars Hand #254642992865:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:32:54 WET [2025/01/31 16:32:54 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($25.79 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($324.84 in chips) 
+Seat 4: AlexPinsk1 ($169.21 in chips) 
+Seat 5: ghc_2 ($141.33 in chips) 
+Seat 6: Magnodive ($110.88 in chips) 
+Onnes600: posts small blind $0.50
+JUANS2: posts big blind $1
+*** HOLE CARDS ***
+leozaur: raises $2 to $3
+AlexPinsk1: folds 
+ghc_2: calls $3
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: folds 
+*** FLOP *** [Qs 5d 3s]
+leozaur: bets $1.78
+ghc_2: folds 
+Uncalled bet ($1.78) returned to leozaur
+leozaur collected $7.12 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [Qs 5d 3s]
+Seat 1: Onnes600 (small blind) folded before Flop
+Seat 2: JUANS2 (big blind) folded before Flop
+Seat 3: leozaur collected ($7.12)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: ghc_2 folded on the Flop
+Seat 6: Magnodive (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643003398:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:33:28 WET [2025/01/31 16:33:28 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: Onnes600 ($25.29 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($328.96 in chips) 
+Seat 4: AlexPinsk1 ($169.21 in chips) 
+Seat 5: ghc_2 ($138.33 in chips) 
+Seat 6: Magnodive ($110.88 in chips) 
+JUANS2: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+ghc_2: raises $1 to $2
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+Uncalled bet ($1) returned to ghc_2
+ghc_2 collected $2.50 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 (button) folded before Flop (didn't bet)
+Seat 2: JUANS2 (small blind) folded before Flop
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: ghc_2 collected ($2.50)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643008232:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:33:44 WET [2025/01/31 16:33:44 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Onnes600 ($25.29 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($327.96 in chips) 
+Seat 4: AlexPinsk1 ($169.21 in chips) 
+Seat 5: ghc_2 ($139.83 in chips) 
+Seat 6: Magnodive ($110.88 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: raises $1.50 to $2.50
+leozaur: folds 
+AlexPinsk1: raises $9.50 to $12
+JUANS2: folds 
+Uncalled bet ($9.50) returned to AlexPinsk1
+AlexPinsk1 collected $5.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 (button) folded before Flop
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: AlexPinsk1 (big blind) collected ($5.50)
+Seat 5: ghc_2 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643017225:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:34:13 WET [2025/01/31 16:34:13 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Onnes600 ($25.29 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($327.46 in chips) 
+Seat 4: AlexPinsk1 ($172.21 in chips) 
+Seat 5: ghc_2 ($139.83 in chips) 
+Seat 6: Magnodive ($110.88 in chips) 
+AlexPinsk1: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+Uncalled bet ($0.50) returned to ghc_2
+ghc_2 collected $1 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (small blind) folded before Flop
+Seat 5: ghc_2 (big blind) collected ($1)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643022084:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:34:28 WET [2025/01/31 16:34:28 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Onnes600 ($25.29 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($327.46 in chips) 
+Seat 4: AlexPinsk1 ($171.71 in chips) 
+Seat 5: ghc_2 ($140.33 in chips) 
+Seat 6: Magnodive ($110.88 in chips) 
+ghc_2: posts small blind $0.50
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+Onnes600: folds 
+JUANS2: raises $1.20 to $2.20
+leozaur: folds 
+AlexPinsk1: folds 
+ghc_2: folds 
+Magnodive: folds 
+Uncalled bet ($1.20) returned to JUANS2
+JUANS2 collected $2.50 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 collected ($2.50)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 5: ghc_2 (small blind) folded before Flop
+Seat 6: Magnodive (big blind) folded before Flop
+
+
+
+PokerStars Hand #254643031100:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:34:58 WET [2025/01/31 16:34:58 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Onnes600 ($25.29 in chips) 
+Seat 2: JUANS2 ($101.50 in chips) 
+Seat 3: leozaur ($327.46 in chips) 
+Seat 4: AlexPinsk1 ($171.71 in chips) 
+Seat 5: ghc_2 ($139.83 in chips) 
+Seat 6: Magnodive ($109.88 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+*** HOLE CARDS ***
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+ghc_2: raises $1.40 to $2.40
+Magnodive: folds 
+Onnes600: folds 
+Uncalled bet ($1.40) returned to ghc_2
+ghc_2 collected $2.50 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 (big blind) folded before Flop
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: ghc_2 (button) collected ($2.50)
+Seat 6: Magnodive (small blind) folded before Flop
+
+
+
+PokerStars Hand #254643038293:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:35:21 WET [2025/01/31 16:35:21 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($24.29 in chips) 
+Seat 2: JUANS2 ($101.50 in chips) 
+Seat 3: leozaur ($327.46 in chips) 
+Seat 4: AlexPinsk1 ($171.71 in chips) 
+Seat 5: ghc_2 ($141.33 in chips) 
+Seat 6: Magnodive ($109.38 in chips) 
+Onnes600: posts small blind $0.50
+JUANS2: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+AlexPinsk1: folds 
+ghc_2: folds 
+Magnodive: folds 
+Onnes600: calls $0.50
+JUANS2: checks 
+*** FLOP *** [Jc Qd 9c]
+Onnes600: checks 
+JUANS2: checks 
+*** TURN *** [Jc Qd 9c] [Jd]
+Onnes600: bets $1.90
+JUANS2: folds 
+Uncalled bet ($1.90) returned to Onnes600
+Onnes600 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Jc Qd 9c Jd]
+Seat 1: Onnes600 (small blind) collected ($1.90)
+Seat 2: JUANS2 (big blind) folded on the Turn
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: ghc_2 folded before Flop (didn't bet)
+Seat 6: Magnodive (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643050921:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:36:02 WET [2025/01/31 16:36:02 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: Onnes600 ($25.19 in chips) 
+Seat 2: JUANS2 ($100.50 in chips) 
+Seat 3: leozaur ($327.46 in chips) 
+Seat 4: AlexPinsk1 ($171.71 in chips) 
+Seat 5: ghc_2 ($141.33 in chips) 
+Seat 6: Magnodive ($109.38 in chips) 
+JUANS2: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+ghc_2: folds 
+Magnodive: folds 
+Onnes600: calls $1
+JUANS2: raises $6.80 to $7.80
+leozaur: folds 
+Onnes600: folds 
+Uncalled bet ($6.80) returned to JUANS2
+JUANS2 collected $3 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: Onnes600 (button) folded before Flop
+Seat 2: JUANS2 (small blind) collected ($3)
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: ghc_2 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643061615:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:36:36 WET [2025/01/31 16:36:36 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Onnes600 ($24.19 in chips) 
+Seat 2: JUANS2 ($102.50 in chips) 
+Seat 3: leozaur ($326.46 in chips) 
+Seat 4: AlexPinsk1 ($171.71 in chips) 
+Seat 5: ghc_2 ($141.33 in chips) 
+Seat 6: Magnodive ($109.38 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+Magnodive: raises $1.50 to $2.50
+Onnes600: folds 
+JUANS2: folds 
+leozaur: raises $8.50 to $11
+AlexPinsk1: folds 
+Magnodive: calls $8.50
+*** FLOP *** [8d 3h Jd]
+leozaur: checks 
+Magnodive: bets $7.21
+leozaur: raises $13.29 to $20.50
+Magnodive: calls $13.29
+*** TURN *** [8d 3h Jd] [Qd]
+leozaur: checks 
+Magnodive: bets $17.95
+leozaur: folds 
+Uncalled bet ($17.95) returned to Magnodive
+Magnodive collected $61.50 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $64 | Rake $2.50 
+Board [8d 3h Jd Qd]
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded on the Turn
+Seat 4: AlexPinsk1 (big blind) folded before Flop
+Seat 5: ghc_2 folded before Flop (didn't bet)
+Seat 6: Magnodive collected ($61.50)
+
+
+
+PokerStars Hand #254643254673:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:47:00 WET [2025/01/31 16:47:00 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: Onnes600 ($24.21 in chips) 
+Seat 2: JUANS2 ($102.80 in chips) 
+Seat 3: leozaur ($291.96 in chips) 
+Seat 4: AlexPinsk1 ($171.71 in chips) 
+Seat 5: ghc_2 ($141.65 in chips) 
+Seat 6: Magnodive ($138 in chips) 
+JUANS2: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+ghc_2: folds 
+Magnodive: folds 
+Onnes600: folds 
+JUANS2: raises $2 to $3
+leozaur: folds 
+Uncalled bet ($2) returned to JUANS2
+JUANS2 collected $2 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Onnes600 (button) folded before Flop (didn't bet)
+Seat 2: JUANS2 (small blind) collected ($2)
+Seat 3: leozaur (big blind) folded before Flop
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: ghc_2 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643262692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:47:26 WET [2025/01/31 16:47:26 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Onnes600 ($24.21 in chips) 
+Seat 2: JUANS2 ($103.80 in chips) 
+Seat 3: leozaur ($290.96 in chips) 
+Seat 4: AlexPinsk1 ($171.71 in chips) 
+Seat 5: ghc_2 ($141.65 in chips) 
+Seat 6: Magnodive ($138 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: folds 
+Magnodive: folds 
+Onnes600: raises $2 to $3
+JUANS2: folds 
+leozaur: raises $7 to $10
+AlexPinsk1: folds 
+Onnes600: raises $14.21 to $24.21 and is all-in
+leozaur: calls $14.21
+*** FLOP *** [Kh 3d 6c]
+*** TURN *** [Kh 3d 6c] [2d]
+*** RIVER *** [Kh 3d 6c 2d] [9c]
+*** SHOW DOWN ***
+leozaur: shows [8c Ac] (high card Ace)
+Onnes600: shows [Qd Kc] (a pair of Kings)
+Onnes600 collected $46.95 from pot
+*** SUMMARY ***
+Total pot $49.42 | Rake $2.47 
+Board [Kh 3d 6c 2d 9c]
+Seat 1: Onnes600 showed [Qd Kc] and won ($46.95) with a pair of Kings
+Seat 2: JUANS2 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) showed [8c Ac] and lost with high card Ace
+Seat 4: AlexPinsk1 (big blind) folded before Flop
+Seat 5: ghc_2 folded before Flop (didn't bet)
+Seat 6: Magnodive folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643276322:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:48:11 WET [2025/01/31 16:48:11 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Onnes600 ($46.95 in chips) 
+Seat 2: JUANS2 ($103.80 in chips) 
+Seat 3: leozaur ($266.75 in chips) 
+Seat 4: AlexPinsk1 ($170.71 in chips) 
+Seat 5: ghc_2 ($141.65 in chips) 
+Seat 6: Magnodive ($138 in chips) 
+AlexPinsk1: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+Magnodive: raises $1.50 to $2.50
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+ghc_2: calls $1.50
+*** FLOP *** [Ah 2h 5h]
+ghc_2: checks 
+Magnodive: bets $1
+ghc_2: calls $1
+*** TURN *** [Ah 2h 5h] [2d]
+ghc_2: checks 
+Magnodive: checks 
+*** RIVER *** [Ah 2h 5h 2d] [9h]
+ghc_2: bets $2.85
+Magnodive: calls $2.85
+*** SHOW DOWN ***
+ghc_2: shows [Tc Kd] (a pair of Deuces)
+Magnodive: shows [Jc Ad] (two pair, Aces and Deuces)
+Magnodive collected $12.54 from pot
+*** SUMMARY ***
+Total pot $13.20 | Rake $0.66 
+Board [Ah 2h 5h 2d 9h]
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (small blind) folded before Flop
+Seat 5: ghc_2 (big blind) showed [Tc Kd] and lost with a pair of Deuces
+Seat 6: Magnodive showed [Jc Ad] and won ($12.54) with two pair, Aces and Deuces
+
+
+
+PokerStars Hand #254643293928:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:49:08 WET [2025/01/31 16:49:08 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Onnes600 ($46.95 in chips) 
+Seat 2: JUANS2 ($103.80 in chips) 
+Seat 3: leozaur ($266.75 in chips) 
+Seat 4: AlexPinsk1 ($170.21 in chips) 
+Seat 5: ghc_2 ($135.30 in chips) 
+Seat 6: Magnodive ($144.19 in chips) 
+ghc_2: posts small blind $0.50
+Magnodive: posts big blind $1
+*** HOLE CARDS ***
+Onnes600: calls $1
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+ghc_2: raises $4 to $5
+Magnodive: folds 
+Onnes600: folds 
+Uncalled bet ($4) returned to ghc_2
+ghc_2 collected $3 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: Onnes600 folded before Flop
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 5: ghc_2 (small blind) collected ($3)
+Seat 6: Magnodive (big blind) folded before Flop
+
+
+
+PokerStars Hand #254643303396:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:49:39 WET [2025/01/31 16:49:39 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Onnes600 ($45.95 in chips) 
+Seat 2: JUANS2 ($103.80 in chips) 
+Seat 3: leozaur ($266.75 in chips) 
+Seat 4: AlexPinsk1 ($170.21 in chips) 
+Seat 5: ghc_2 ($137.30 in chips) 
+Seat 6: Magnodive ($143.19 in chips) 
+Magnodive: posts small blind $0.50
+Onnes600: posts big blind $1
+*** HOLE CARDS ***
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: folds 
+ghc_2: folds 
+Magnodive: raises $2 to $3
+Onnes600: folds 
+Uncalled bet ($2) returned to Magnodive
+Magnodive collected $2 from pot
+Magnodive: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Onnes600 (big blind) folded before Flop
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: ghc_2 (button) folded before Flop (didn't bet)
+Seat 6: Magnodive (small blind) collected ($2)
+
+
+
+PokerStars Hand #254643312063:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:50:07 WET [2025/01/31 16:50:07 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: Onnes600 ($44.95 in chips) 
+Seat 2: JUANS2 ($103.80 in chips) 
+Seat 3: leozaur ($266.75 in chips) 
+Seat 4: AlexPinsk1 ($170.21 in chips) 
+Seat 5: ghc_2 ($137.30 in chips) 
+JUANS2: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+AlexPinsk1: folds 
+ghc_2: folds 
+Onnes600: folds 
+JUANS2: raises $2 to $3
+leozaur: raises $6 to $9
+JUANS2: folds 
+Uncalled bet ($6) returned to leozaur
+leozaur collected $6 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Onnes600 (button) folded before Flop (didn't bet)
+Seat 2: JUANS2 (small blind) folded before Flop
+Seat 3: leozaur (big blind) collected ($6)
+Seat 4: AlexPinsk1 folded before Flop (didn't bet)
+Seat 5: ghc_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643318125:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:50:27 WET [2025/01/31 16:50:27 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Onnes600 ($44.95 in chips) 
+Seat 2: JUANS2 ($100.80 in chips) 
+Seat 3: leozaur ($269.75 in chips) 
+Seat 4: AlexPinsk1 ($170.21 in chips) 
+Seat 5: ghc_2 ($137.30 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: posts big blind $1
+*** HOLE CARDS ***
+XneferX joins the table at seat #6 
+ghc_2: folds 
+Onnes600: folds 
+JUANS2: folds 
+leozaur: raises $1 to $2
+AlexPinsk1: calls $1
+*** FLOP *** [7s Th Ts]
+leozaur: bets $1.25
+AlexPinsk1: raises $3.75 to $5
+leozaur: folds 
+Uncalled bet ($3.75) returned to AlexPinsk1
+AlexPinsk1 collected $6.18 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [7s Th Ts]
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded on the Flop
+Seat 4: AlexPinsk1 (big blind) collected ($6.18)
+Seat 5: ghc_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643330183:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:51:06 WET [2025/01/31 16:51:06 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 6: XneferX ($100 in chips) is sitting out
+Seat 1: Onnes600 ($44.95 in chips) 
+Seat 2: JUANS2 ($100.80 in chips) 
+Seat 3: leozaur ($266.50 in chips) 
+Seat 4: AlexPinsk1 ($173.14 in chips) 
+Seat 5: ghc_2 ($137.30 in chips) 
+AlexPinsk1: posts small blind $0.50
+ghc_2: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+Onnes600: folds 
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: raises $2 to $3
+ghc_2: raises $6 to $9
+AlexPinsk1: folds 
+Uncalled bet ($6) returned to ghc_2
+ghc_2 collected $6 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 6: XneferX
+Seat 1: Onnes600 folded before Flop (didn't bet)
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 (small blind) folded before Flop
+Seat 5: ghc_2 (big blind) collected ($6)
+
+
+
+PokerStars Hand #254643338183:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:51:32 WET [2025/01/31 16:51:32 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Onnes600 ($44.95 in chips) 
+Seat 2: JUANS2 ($100.80 in chips) 
+Seat 3: leozaur ($266.50 in chips) 
+Seat 4: AlexPinsk1 ($170.14 in chips) 
+Seat 5: ghc_2 ($140.30 in chips) 
+Seat 6: XneferX ($100 in chips) 
+ghc_2: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Onnes600: calls $1
+JUANS2: folds 
+leozaur: raises $3.50 to $4.50
+AlexPinsk1: folds 
+ghc_2: folds 
+XneferX: folds 
+Onnes600: calls $3.50
+*** FLOP *** [3s 6c 8c]
+Onnes600: checks 
+leozaur: bets $8.50
+Onnes600: folds 
+Uncalled bet ($8.50) returned to leozaur
+leozaur collected $9.98 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [3s 6c 8c]
+Seat 1: Onnes600 folded on the Flop
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur collected ($9.98)
+Seat 4: AlexPinsk1 (button) folded before Flop (didn't bet)
+Seat 5: ghc_2 (small blind) folded before Flop
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254643355765:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:52:29 WET [2025/01/31 16:52:29 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Onnes600 ($40.45 in chips) 
+Seat 2: JUANS2 ($100.80 in chips) 
+Seat 3: leozaur ($271.98 in chips) 
+Seat 4: AlexPinsk1 ($170.14 in chips) 
+Seat 5: ghc_2 ($139.80 in chips) 
+Seat 6: XneferX ($100 in chips) 
+XneferX: posts small blind $0.50
+Onnes600: posts big blind $1
+*** HOLE CARDS ***
+JUANS2: folds 
+leozaur: folds 
+AlexPinsk1: raises $1.50 to $2.50
+ghc_2: folds 
+XneferX: folds 
+Onnes600: folds 
+Uncalled bet ($1.50) returned to AlexPinsk1
+AlexPinsk1 collected $2.50 from pot
+AlexPinsk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600 (big blind) folded before Flop
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 collected ($2.50)
+Seat 5: ghc_2 (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254643360510:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:52:44 WET [2025/01/31 16:52:44 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($39.45 in chips) 
+Seat 2: JUANS2 ($100.80 in chips) 
+Seat 3: leozaur ($271.98 in chips) 
+Seat 4: AlexPinsk1 ($171.64 in chips) 
+Seat 5: ghc_2 ($139.80 in chips) 
+Seat 6: XneferX ($100 in chips) 
+Onnes600: posts small blind $0.50
+JUANS2: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+AlexPinsk1: raises $1.50 to $2.50
+ghc_2: folds 
+XneferX: folds 
+Onnes600: calls $2
+JUANS2: folds 
+*** FLOP *** [6h Jd 8s]
+Onnes600: bets $5.70
+AlexPinsk1: calls $5.70
+*** TURN *** [6h Jd 8s] [5d]
+Onnes600: bets $16.53
+AlexPinsk1: raises $18.97 to $35.50
+Onnes600: calls $14.72 and is all-in
+Uncalled bet ($4.25) returned to AlexPinsk1
+*** RIVER *** [6h Jd 8s 5d] [Ac]
+*** SHOW DOWN ***
+Onnes600: shows [9c 9d] (a pair of Nines)
+AlexPinsk1: shows [Qh Js] (a pair of Jacks)
+AlexPinsk1 collected $77.40 from pot
+*** SUMMARY ***
+Total pot $79.90 | Rake $2.50 
+Board [6h Jd 8s 5d Ac]
+Seat 1: Onnes600 (small blind) showed [9c 9d] and lost with a pair of Nines
+Seat 2: JUANS2 (big blind) folded before Flop
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: AlexPinsk1 showed [Qh Js] and won ($77.40) with a pair of Jacks
+Seat 5: ghc_2 folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643380704:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:53:50 WET [2025/01/31 16:53:50 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Onnes600 ($0 in chips) is sitting out
+Seat 4: AlexPinsk1 ($209.59 in chips) is sitting out
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($271.98 in chips) 
+Seat 5: ghc_2 ($139.80 in chips) 
+Seat 6: XneferX ($100 in chips) 
+leozaur: posts small blind $0.50
+AlexPinsk1: is sitting out 
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+JUANS2: folds 
+leozaur: raises $2 to $3
+ghc_2: folds 
+Uncalled bet ($2) returned to leozaur
+leozaur collected $2 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Onnes600
+Seat 4: AlexPinsk1
+Seat 2: JUANS2 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) collected ($2)
+Seat 5: ghc_2 (big blind) folded before Flop
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643384193:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:54:02 WET [2025/01/31 16:54:02 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Onnes600 ($0 in chips) is sitting out
+Seat 4: AlexPinsk1 ($209.59 in chips) is sitting out
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($272.98 in chips) 
+Seat 5: ghc_2 ($138.80 in chips) 
+Seat 6: XneferX ($100 in chips) 
+ghc_2: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+JUANS2: folds 
+Onnes600 is disconnected 
+leozaur: folds 
+ghc_2: raises $2 to $3
+XneferX: raises $6 to $9
+ghc_2: folds 
+Uncalled bet ($6) returned to XneferX
+XneferX collected $6 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Onnes600
+Seat 4: AlexPinsk1
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 5: ghc_2 (small blind) folded before Flop
+Seat 6: XneferX (big blind) collected ($6)
+
+
+
+PokerStars Hand #254643394134:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:54:34 WET [2025/01/31 16:54:34 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Onnes600 ($0 in chips) is sitting out
+Seat 4: AlexPinsk1 ($209.59 in chips) is sitting out
+Seat 2: JUANS2 ($100 in chips) 
+Seat 3: leozaur ($272.98 in chips) 
+Seat 5: ghc_2 ($135.80 in chips) 
+Seat 6: XneferX ($103 in chips) 
+XneferX: posts small blind $0.50
+JUANS2: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+ghc_2: raises $1.40 to $2.40
+AlexPinsk1 leaves the table
+XneferX: folds 
+JUANS2: raises $9.10 to $11.50
+ghc_2: folds 
+Uncalled bet ($9.10) returned to JUANS2
+JUANS2 collected $5.30 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.30 | Rake $0 
+Seat 1: Onnes600
+Seat 4: AlexPinsk1
+Seat 2: JUANS2 (big blind) collected ($5.30)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 5: ghc_2 (button) folded before Flop
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254643403502:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:55:05 WET [2025/01/31 16:55:05 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($0 in chips) is sitting out
+Seat 2: JUANS2 ($102.90 in chips) 
+Seat 3: leozaur ($272.98 in chips) 
+Seat 5: ghc_2 ($133.40 in chips) 
+Seat 6: XneferX ($102.50 in chips) 
+JUANS2: posts small blind $0.50
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan joins the table at seat #4 
+ghc_2: folds 
+XneferX: folds 
+JUANS2: raises $2 to $3
+leozaur: calls $2
+*** FLOP *** [As Qd 3h]
+JUANS2: bets $1.88
+leozaur: folds 
+Uncalled bet ($1.88) returned to JUANS2
+JUANS2 collected $5.70 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [As Qd 3h]
+Seat 1: Onnes600
+Seat 2: JUANS2 (small blind) collected ($5.70)
+Seat 3: leozaur (big blind) folded on the Flop
+Seat 5: ghc_2 folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643412155:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:55:41 WET [2025/01/31 16:55:41 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Onnes600 ($0 in chips) is sitting out
+Seat 2: JUANS2 ($105.60 in chips) 
+Seat 3: leozaur ($269.98 in chips) 
+Seat 4: YeeesMan ($100 in chips) 
+Seat 5: ghc_2 ($133.40 in chips) 
+Seat 6: XneferX ($102.50 in chips) 
+leozaur: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+ghc_2: raises $1 to $2
+XneferX: folds 
+JUANS2: folds 
+leozaur: folds 
+YeeesMan: folds 
+Uncalled bet ($1) returned to ghc_2
+ghc_2 collected $2.50 from pot
+ghc_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600
+Seat 2: JUANS2 (button) folded before Flop (didn't bet)
+Seat 3: leozaur (small blind) folded before Flop
+Seat 4: YeeesMan (big blind) folded before Flop
+Seat 5: ghc_2 collected ($2.50)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643417571:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:56:05 WET [2025/01/31 16:56:05 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Onnes600 ($0 in chips) is sitting out
+Seat 2: JUANS2 ($105.60 in chips) 
+Seat 3: leozaur ($269.48 in chips) 
+Seat 4: YeeesMan ($100 in chips) 
+Seat 5: ghc_2 ($134.90 in chips) 
+Seat 6: XneferX ($102.50 in chips) 
+YeeesMan: posts small blind $0.50
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+XneferX: raises $1.10 to $2.10
+JUANS2: folds 
+leozaur: folds 
+YeeesMan: folds 
+ghc_2: folds 
+Uncalled bet ($1.10) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 4: YeeesMan (small blind) folded before Flop
+Seat 5: ghc_2 (big blind) folded before Flop
+Seat 6: XneferX collected ($2.50)
+
+
+
+PokerStars Hand #254643420037:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:56:17 WET [2025/01/31 16:56:17 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Onnes600 ($0 in chips) is sitting out
+Seat 2: JUANS2 ($105.60 in chips) 
+Seat 3: leozaur ($269.48 in chips) 
+Seat 4: YeeesMan ($100 in chips) 
+Seat 5: ghc_2 ($133.90 in chips) 
+Seat 6: XneferX ($104 in chips) 
+ghc_2: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+JUANS2: raises $1.20 to $2.20
+leozaur: folds 
+YeeesMan: folds 
+ghc_2: folds 
+XneferX: folds 
+Uncalled bet ($1.20) returned to JUANS2
+JUANS2 collected $2.50 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Onnes600
+Seat 2: JUANS2 collected ($2.50)
+Seat 3: leozaur folded before Flop (didn't bet)
+Seat 4: YeeesMan (button) folded before Flop (didn't bet)
+Seat 5: ghc_2 (small blind) folded before Flop
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254643424989:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:56:40 WET [2025/01/31 16:56:40 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Onnes600 ($0 in chips) is sitting out
+Seat 2: JUANS2 ($107.10 in chips) is sitting out
+Seat 3: leozaur ($269.48 in chips) 
+Seat 4: YeeesMan ($100 in chips) 
+Seat 5: ghc_2 ($133.40 in chips) 
+Seat 6: XneferX ($103 in chips) 
+XneferX: posts small blind $0.50
+JUANS2: is sitting out 
+leozaur: posts big blind $1
+*** HOLE CARDS ***
+JUANS2 leaves the table
+YeeesMan: folds 
+ghc_2: raises $1.40 to $2.40
+XneferX: folds 
+leozaur: calls $1.40
+*** FLOP *** [4d Ad Qh]
+leozaur: checks 
+ghc_2: checks 
+*** TURN *** [4d Ad Qh] [8d]
+leozaur: bets $1.26
+ghc_2: folds 
+Uncalled bet ($1.26) returned to leozaur
+leozaur collected $5.04 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.30 | Rake $0.26 
+Board [4d Ad Qh 8d]
+Seat 1: Onnes600
+Seat 2: JUANS2
+Seat 3: leozaur (big blind) collected ($5.04)
+Seat 4: YeeesMan folded before Flop (didn't bet)
+Seat 5: ghc_2 (button) folded on the Turn
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254643433538:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:57:19 WET [2025/01/31 16:57:19 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Onnes600 ($0 in chips) is sitting out
+Seat 4: YeeesMan ($100 in chips) is sitting out
+Seat 3: leozaur ($272.12 in chips) 
+Seat 5: ghc_2 ($131 in chips) 
+Seat 6: XneferX ($102.50 in chips) 
+leozaur: posts small blind $0.50
+YeeesMan: is sitting out 
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+leozaur: raises $2 to $3
+ghc_2: calls $2
+*** FLOP *** [Tc Qc 4s]
+leozaur: bets $7.52
+ghc_2: folds 
+Uncalled bet ($7.52) returned to leozaur
+leozaur collected $5.70 from pot
+leozaur: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Tc Qc 4s]
+Seat 1: Onnes600
+Seat 4: YeeesMan
+Seat 3: leozaur (small blind) collected ($5.70)
+Seat 5: ghc_2 (big blind) folded on the Flop
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254643438881:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 21:57:43 WET [2025/01/31 16:57:43 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Onnes600 ($0 in chips) is sitting out
+Seat 4: YeeesMan ($100 in chips) is sitting out
+Seat 3: leozaur ($274.82 in chips) 
+Seat 5: ghc_2 ($128 in chips) 
+Seat 6: XneferX ($102.50 in chips) 
+ghc_2: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+leozaur: folds 
+ghc_2: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Onnes600
+Seat 4: YeeesMan
+Seat 3: leozaur (button) folded before Flop (didn't bet)
+Seat 5: ghc_2 (small blind) folded before Flop
+Seat 6: XneferX (big blind) collected ($1)
+
+
+
+PokerStars Hand #254644289457:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:46:52 WET [2025/01/31 17:46:52 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Manifestorr ($101.50 in chips) 
+Seat 2: Deekyboy603 ($124.71 in chips) 
+Seat 3: andutu34 ($100.78 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Pippa83 ($106.13 in chips) 
+SorinS28: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+Deekyboy603: calls $1
+andutu34: raises $3 to $4
+z00mba: folds 
+SorinS28: folds 
+Pippa83: folds 
+Deekyboy603: calls $3
+*** FLOP *** [Qh 3s 2h]
+Deekyboy603: checks 
+andutu34: bets $2.98
+Deekyboy603: calls $2.98
+*** TURN *** [Qh 3s 2h] [Th]
+Deekyboy603: checks 
+andutu34: checks 
+*** RIVER *** [Qh 3s 2h Th] [Ah]
+Deekyboy603: bets $7.35
+andutu34: calls $7.35
+*** SHOW DOWN ***
+Deekyboy603: shows [Qs 9d] (a pair of Queens)
+andutu34: shows [Ac 2c] (two pair, Aces and Deuces)
+andutu34 collected $28.65 from pot
+*** SUMMARY ***
+Total pot $30.16 | Rake $1.51 
+Board [Qh 3s 2h Th Ah]
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 2: Deekyboy603 showed [Qs 9d] and lost with a pair of Queens
+Seat 3: andutu34 showed [Ac 2c] and won ($28.65) with two pair, Aces and Deuces
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 5: SorinS28 (small blind) folded before Flop
+Seat 6: Pippa83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254644303730:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:47:42 WET [2025/01/31 17:47:42 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Manifestorr ($101.50 in chips) 
+Seat 2: Deekyboy603 ($110.38 in chips) 
+Seat 3: andutu34 ($115.10 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Pippa83 ($105.13 in chips) 
+Pippa83: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+Deekyboy603: folds 
+andutu34: folds 
+z00mba: folds 
+SorinS28: raises $1.50 to $2.50
+Pippa83: folds 
+Manifestorr: calls $1.50
+*** FLOP *** [5h Ts Th]
+Manifestorr: checks 
+SorinS28: bets $1.46
+Manifestorr: raises $3.54 to $5
+SorinS28: folds 
+Uncalled bet ($3.54) returned to Manifestorr
+Manifestorr collected $8 from pot
+*** SUMMARY ***
+Total pot $8.42 | Rake $0.42 
+Board [5h Ts Th]
+Seat 1: Manifestorr (big blind) collected ($8)
+Seat 2: Deekyboy603 folded before Flop (didn't bet)
+Seat 3: andutu34 folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: SorinS28 (button) folded on the Flop
+Seat 6: Pippa83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254644314615:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:48:21 WET [2025/01/31 17:48:21 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Manifestorr ($105.54 in chips) 
+Seat 2: Deekyboy603 ($110.38 in chips) 
+Seat 3: andutu34 ($115.10 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Pippa83 ($104.63 in chips) 
+Manifestorr: posts small blind $0.50
+Deekyboy603: posts big blind $1
+*** HOLE CARDS ***
+andutu34: folds 
+z00mba: raises $1.50 to $2.50
+SorinS28: folds 
+Pippa83: folds 
+Manifestorr: folds 
+Deekyboy603: calls $1.50
+*** FLOP *** [6c 2c 9c]
+Deekyboy603: checks 
+z00mba: bets $2.56
+Deekyboy603: raises $2.56 to $5.12
+z00mba: calls $2.56
+*** TURN *** [6c 2c 9c] [3s]
+Deekyboy603: checks 
+z00mba: checks 
+*** RIVER *** [6c 2c 9c 3s] [3h]
+Deekyboy603: checks 
+z00mba: checks 
+*** SHOW DOWN ***
+Deekyboy603: shows [Ad 3c] (three of a kind, Threes)
+z00mba: mucks hand 
+Deekyboy603 collected $14.95 from pot
+*** SUMMARY ***
+Total pot $15.74 | Rake $0.79 
+Board [6c 2c 9c 3s 3h]
+Seat 1: Manifestorr (small blind) folded before Flop
+Seat 2: Deekyboy603 (big blind) showed [Ad 3c] and won ($14.95) with three of a kind, Threes
+Seat 3: andutu34 folded before Flop (didn't bet)
+Seat 4: z00mba mucked
+Seat 5: SorinS28 folded before Flop (didn't bet)
+Seat 6: Pippa83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254644328768:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:49:10 WET [2025/01/31 17:49:10 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: Manifestorr ($105.04 in chips) 
+Seat 2: Deekyboy603 ($117.71 in chips) 
+Seat 3: andutu34 ($115.10 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Pippa83 ($104.63 in chips) 
+Deekyboy603: posts small blind $0.50
+andutu34: posts big blind $1
+*** HOLE CARDS ***
+z00mba: raises $1.50 to $2.50
+SorinS28: calls $2.50
+Pippa83: folds 
+Manifestorr: folds 
+Deekyboy603: calls $2
+andutu34: calls $1.50
+*** FLOP *** [3s Qh 6h]
+Deekyboy603: checks 
+andutu34: checks 
+z00mba: checks 
+SorinS28: bets $4.75
+Deekyboy603: calls $4.75
+andutu34: calls $4.75
+z00mba: folds 
+*** TURN *** [3s Qh 6h] [Qs]
+Deekyboy603: checks 
+andutu34: checks 
+SorinS28: checks 
+*** RIVER *** [3s Qh 6h Qs] [3d]
+Deekyboy603: bets $23.04
+andutu34: raises $84.81 to $107.85 and is all-in
+SorinS28: folds 
+Deekyboy603: calls $84.81
+*** SHOW DOWN ***
+andutu34: shows [Qc 9c] (a full house, Queens full of Threes)
+Deekyboy603: shows [Qd 8c] (a full house, Queens full of Threes)
+Deekyboy603 collected $118.73 from pot
+andutu34 collected $118.72 from pot
+*** SUMMARY ***
+Total pot $239.95 | Rake $2.50 
+Board [3s Qh 6h Qs 3d]
+Seat 1: Manifestorr (button) folded before Flop (didn't bet)
+Seat 2: Deekyboy603 (small blind) showed [Qd 8c] and won ($118.73) with a full house, Queens full of Threes
+Seat 3: andutu34 (big blind) showed [Qc 9c] and won ($118.72) with a full house, Queens full of Threes
+Seat 4: z00mba folded on the Flop
+Seat 5: SorinS28 folded on the River
+Seat 6: Pippa83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254644354721:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:50:42 WET [2025/01/31 17:50:42 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Manifestorr ($105.04 in chips) 
+Seat 2: Deekyboy603 ($121.34 in chips) 
+Seat 3: andutu34 ($118.72 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Pippa83 ($104.63 in chips) 
+andutu34: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+SorinS28: folds 
+Pippa83: folds 
+Manifestorr: folds 
+Deekyboy603: calls $1
+andutu34: folds 
+z00mba: raises $4 to $5
+Deekyboy603: calls $4
+*** FLOP *** [Ks 3s 4d]
+z00mba: checks 
+Deekyboy603: bets $9.98
+z00mba: calls $9.98
+*** TURN *** [Ks 3s 4d] [4s]
+z00mba: checks 
+Deekyboy603: bets $28.94
+z00mba: folds 
+Uncalled bet ($28.94) returned to Deekyboy603
+Deekyboy603 collected $28.94 from pot
+Deekyboy603: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.46 | Rake $1.52 
+Board [Ks 3s 4d 4s]
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 2: Deekyboy603 (button) collected ($28.94)
+Seat 3: andutu34 (small blind) folded before Flop
+Seat 4: z00mba (big blind) folded on the Turn
+Seat 5: SorinS28 folded before Flop (didn't bet)
+Seat 6: Pippa83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254644365683:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:51:21 WET [2025/01/31 17:51:21 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Manifestorr ($105.04 in chips) 
+Seat 2: Deekyboy603 ($135.30 in chips) 
+Seat 3: andutu34 ($118.22 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: SorinS28 ($100 in chips) 
+Seat 6: Pippa83 ($104.63 in chips) 
+z00mba: posts small blind $0.50
+SorinS28: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+Manifestorr: folds 
+Deekyboy603: calls $1
+andutu34: folds 
+z00mba: calls $0.50
+SorinS28: checks 
+*** FLOP *** [Ac Jd 9h]
+z00mba: checks 
+SorinS28: checks 
+Deekyboy603: bets $2.85
+z00mba: folds 
+SorinS28: calls $2.85
+*** TURN *** [Ac Jd 9h] [8s]
+SorinS28: checks 
+Deekyboy603: checks 
+*** RIVER *** [Ac Jd 9h 8s] [5s]
+SorinS28: checks 
+Deekyboy603: bets $8.26
+SorinS28: calls $8.26
+*** SHOW DOWN ***
+Deekyboy603: shows [3h 6h] (high card Ace)
+SorinS28: shows [Qc 7c] (high card Ace - Queen kicker)
+SorinS28 collected $23.96 from pot
+*** SUMMARY ***
+Total pot $25.22 | Rake $1.26 
+Board [Ac Jd 9h 8s 5s]
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 2: Deekyboy603 showed [3h 6h] and lost with high card Ace
+Seat 3: andutu34 (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) folded on the Flop
+Seat 5: SorinS28 (big blind) showed [Qc 7c] and won ($23.96) with high card Ace
+Seat 6: Pippa83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254644381591:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:52:18 WET [2025/01/31 17:52:18 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Manifestorr ($105.04 in chips) 
+Seat 2: Deekyboy603 ($123.19 in chips) 
+Seat 3: andutu34 ($118.22 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: SorinS28 ($111.85 in chips) 
+Seat 6: Pippa83 ($104.63 in chips) 
+SorinS28: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: raises $1.20 to $2.20
+Deekyboy603: folds 
+andutu34: folds 
+z00mba: folds 
+SorinS28: raises $8.10 to $10.30
+Pippa83: folds 
+Manifestorr: folds 
+Uncalled bet ($8.10) returned to SorinS28
+SorinS28 collected $5.40 from pot
+SorinS28: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 1: Manifestorr folded before Flop
+Seat 2: Deekyboy603 folded before Flop (didn't bet)
+Seat 3: andutu34 folded before Flop (didn't bet)
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 5: SorinS28 (small blind) collected ($5.40)
+Seat 6: Pippa83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254644392623:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:52:56 WET [2025/01/31 17:52:56 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Manifestorr ($102.84 in chips) 
+Seat 2: Deekyboy603 ($123.19 in chips) 
+Seat 3: andutu34 ($118.22 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: SorinS28 ($115.05 in chips) 
+Seat 6: Pippa83 ($103.63 in chips) 
+Pippa83: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+Deekyboy603: calls $1
+andutu34: folds 
+z00mba: raises $3 to $4
+SorinS28: folds 
+Pippa83: folds 
+Manifestorr: folds 
+Deekyboy603: calls $3
+*** FLOP *** [Ad 7s Qh]
+Deekyboy603: checks 
+z00mba: checks 
+*** TURN *** [Ad 7s Qh] [7h]
+Deekyboy603: checks 
+z00mba: bets $4.42
+Deekyboy603: calls $4.42
+*** RIVER *** [Ad 7s Qh 7h] [Kc]
+Deekyboy603: checks 
+z00mba: bets $8.54
+Deekyboy603: raises $34.50 to $43.04
+z00mba: folds 
+Uncalled bet ($34.50) returned to Deekyboy603
+Deekyboy603 collected $33.65 from pot
+Deekyboy603: doesn't show hand 
+*** SUMMARY ***
+Total pot $35.42 | Rake $1.77 
+Board [Ad 7s Qh 7h Kc]
+Seat 1: Manifestorr (big blind) folded before Flop
+Seat 2: Deekyboy603 collected ($33.65)
+Seat 3: andutu34 folded before Flop (didn't bet)
+Seat 4: z00mba folded on the River
+Seat 5: SorinS28 (button) folded before Flop (didn't bet)
+Seat 6: Pippa83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254644414198:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:54:13 WET [2025/01/31 17:54:13 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Manifestorr ($101.84 in chips) 
+Seat 2: Deekyboy603 ($139.88 in chips) 
+Seat 3: andutu34 ($118.22 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: SorinS28 ($115.05 in chips) 
+Seat 6: Pippa83 ($103.13 in chips) 
+Manifestorr: posts small blind $0.50
+Deekyboy603: posts big blind $1
+*** HOLE CARDS ***
+andutu34: folds 
+z00mba: raises $1.50 to $2.50
+SorinS28: folds 
+Pippa83: folds 
+Manifestorr: folds 
+Deekyboy603: calls $1.50
+*** FLOP *** [4h Kc Qs]
+Deekyboy603: checks 
+z00mba: bets $3
+Deekyboy603: calls $3
+*** TURN *** [4h Kc Qs] [Qh]
+Deekyboy603: checks 
+z00mba: checks 
+*** RIVER *** [4h Kc Qs Qh] [2c]
+Deekyboy603: bets $10.92
+z00mba: calls $10.92
+*** SHOW DOWN ***
+Deekyboy603: shows [As 2s] (two pair, Queens and Deuces)
+z00mba: shows [Ad Ac] (two pair, Aces and Queens)
+z00mba collected $31.67 from pot
+*** SUMMARY ***
+Total pot $33.34 | Rake $1.67 
+Board [4h Kc Qs Qh 2c]
+Seat 1: Manifestorr (small blind) folded before Flop
+Seat 2: Deekyboy603 (big blind) showed [As 2s] and lost with two pair, Queens and Deuces
+Seat 3: andutu34 folded before Flop (didn't bet)
+Seat 4: z00mba showed [Ad Ac] and won ($31.67) with two pair, Aces and Queens
+Seat 5: SorinS28 folded before Flop (didn't bet)
+Seat 6: Pippa83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254644427813:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:55:02 WET [2025/01/31 17:55:02 ET]
+Table 'Janus II' 6-max Seat #1 is the button
+Seat 1: Manifestorr ($101.34 in chips) 
+Seat 2: Deekyboy603 ($123.46 in chips) 
+Seat 3: andutu34 ($118.22 in chips) 
+Seat 4: z00mba ($115.25 in chips) 
+Seat 5: SorinS28 ($115.05 in chips) 
+Seat 6: Pippa83 ($103.13 in chips) 
+Deekyboy603: posts small blind $0.50
+andutu34: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+SorinS28: folds 
+Pippa83: folds 
+Manifestorr: raises $1.20 to $2.20
+Deekyboy603: calls $1.70
+andutu34: folds 
+*** FLOP *** [Ks 7s 3h]
+Deekyboy603: checks 
+Manifestorr: bets $3.85
+Deekyboy603: folds 
+Uncalled bet ($3.85) returned to Manifestorr
+Manifestorr collected $5.13 from pot
+*** SUMMARY ***
+Total pot $5.40 | Rake $0.27 
+Board [Ks 7s 3h]
+Seat 1: Manifestorr (button) collected ($5.13)
+Seat 2: Deekyboy603 (small blind) folded on the Flop
+Seat 3: andutu34 (big blind) folded before Flop
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: SorinS28 folded before Flop (didn't bet)
+Seat 6: Pippa83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254644435834:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:55:37 WET [2025/01/31 17:55:37 ET]
+Table 'Janus II' 6-max Seat #2 is the button
+Seat 1: Manifestorr ($104.27 in chips) 
+Seat 2: Deekyboy603 ($121.26 in chips) 
+Seat 3: andutu34 ($117.22 in chips) 
+Seat 4: z00mba ($115.25 in chips) 
+Seat 5: SorinS28 ($115.05 in chips) 
+Seat 6: Pippa83 ($103.13 in chips) 
+andutu34: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+SorinS28: folds 
+Pippa83: folds 
+Manifestorr: raises $1.20 to $2.20
+Deekyboy603: folds 
+andutu34: folds 
+z00mba: calls $1.20
+*** FLOP *** [Td 5c Jc]
+z00mba: checks 
+Manifestorr: checks 
+*** TURN *** [Td 5c Jc] [Th]
+z00mba: checks 
+Manifestorr: bets $3.50
+z00mba: folds 
+Uncalled bet ($3.50) returned to Manifestorr
+Manifestorr collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Td 5c Jc Th]
+Seat 1: Manifestorr collected ($4.66)
+Seat 2: Deekyboy603 (button) folded before Flop (didn't bet)
+Seat 3: andutu34 (small blind) folded before Flop
+Seat 4: z00mba (big blind) folded on the Turn
+Seat 5: SorinS28 folded before Flop (didn't bet)
+Seat 6: Pippa83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254644444153:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:56:18 WET [2025/01/31 17:56:18 ET]
+Table 'Janus II' 6-max Seat #3 is the button
+Seat 1: Manifestorr ($106.73 in chips) 
+Seat 2: Deekyboy603 ($121.26 in chips) 
+Seat 3: andutu34 ($116.72 in chips) 
+Seat 4: z00mba ($113.05 in chips) 
+Seat 5: SorinS28 ($115.05 in chips) 
+Seat 6: Pippa83 ($103.13 in chips) 
+z00mba: posts small blind $0.50
+SorinS28: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+Manifestorr: folds 
+Deekyboy603: raises $1 to $2
+andutu34: raises $6 to $8
+z00mba: folds 
+SorinS28: folds 
+Deekyboy603: calls $6
+*** FLOP *** [3h 9h 4d]
+Deekyboy603: checks 
+andutu34: bets $10.97
+Deekyboy603: calls $10.97
+*** TURN *** [3h 9h 4d] [Td]
+Deekyboy603: bets $18.74
+andutu34: raises $24.73 to $43.47
+Deekyboy603: folds 
+Uncalled bet ($24.73) returned to andutu34
+andutu34 collected $74.42 from pot
+andutu34: doesn't show hand 
+*** SUMMARY ***
+Total pot $76.92 | Rake $2.50 
+Board [3h 9h 4d Td]
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 2: Deekyboy603 folded on the Turn
+Seat 3: andutu34 (button) collected ($74.42)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 5: SorinS28 (big blind) folded before Flop
+Seat 6: Pippa83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254644462221:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:57:48 WET [2025/01/31 17:57:48 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 1: Manifestorr ($106.73 in chips) 
+Seat 2: Deekyboy603 ($83.55 in chips) 
+Seat 3: andutu34 ($153.43 in chips) 
+Seat 4: z00mba ($112.55 in chips) 
+Seat 5: SorinS28 ($114.05 in chips) 
+Seat 6: Pippa83 ($103.13 in chips) 
+SorinS28: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+Deekyboy603: calls $1
+andutu34: folds 
+z00mba: raises $2.50 to $3.50
+SorinS28: folds 
+Pippa83: folds 
+Deekyboy603: calls $2.50
+*** FLOP *** [7h 9c 8d]
+Deekyboy603: checks 
+z00mba: checks 
+*** TURN *** [7h 9c 8d] [4c]
+Deekyboy603: bets $8.08
+z00mba: calls $8.08
+*** RIVER *** [7h 9c 8d 4c] [Jc]
+Deekyboy603: checks 
+z00mba: bets $11.48
+Deekyboy603: folds 
+Uncalled bet ($11.48) returned to z00mba
+z00mba collected $23.43 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.66 | Rake $1.23 
+Board [7h 9c 8d 4c Jc]
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 2: Deekyboy603 folded on the River
+Seat 3: andutu34 folded before Flop (didn't bet)
+Seat 4: z00mba (button) collected ($23.43)
+Seat 5: SorinS28 (small blind) folded before Flop
+Seat 6: Pippa83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254644473194:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:58:41 WET [2025/01/31 17:58:41 ET]
+Table 'Janus II' 6-max Seat #5 is the button
+Seat 1: Manifestorr ($106.73 in chips) 
+Seat 2: Deekyboy603 ($71.97 in chips) 
+Seat 3: andutu34 ($153.43 in chips) 
+Seat 4: z00mba ($124.40 in chips) 
+Seat 5: SorinS28 ($113.55 in chips) 
+Seat 6: Pippa83 ($102.13 in chips) 
+Pippa83: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+Deekyboy603: folds 
+andutu34: folds 
+z00mba: folds 
+SorinS28: raises $1.50 to $2.50
+Pippa83: folds 
+Manifestorr: folds 
+Uncalled bet ($1.50) returned to SorinS28
+SorinS28 collected $2.50 from pot
+SorinS28: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Manifestorr (big blind) folded before Flop
+Seat 2: Deekyboy603 folded before Flop (didn't bet)
+Seat 3: andutu34 folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: SorinS28 (button) collected ($2.50)
+Seat 6: Pippa83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254644475376:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 22:58:51 WET [2025/01/31 17:58:51 ET]
+Table 'Janus II' 6-max Seat #6 is the button
+Seat 1: Manifestorr ($105.73 in chips) 
+Seat 2: Deekyboy603 ($71.97 in chips) 
+Seat 3: andutu34 ($153.43 in chips) 
+Seat 4: z00mba ($124.40 in chips) 
+Seat 5: SorinS28 ($115.05 in chips) 
+Seat 6: Pippa83 ($101.63 in chips) 
+Manifestorr: posts small blind $0.50
+Deekyboy603: posts big blind $1
+*** HOLE CARDS ***
+andutu34: raises $1 to $2
+z00mba: folds 
+SorinS28: raises $4.50 to $6.50
+Pippa83: folds 
+Manifestorr: folds 
+Deekyboy603: folds 
+andutu34: calls $4.50
+*** FLOP *** [8d Td 7d]
+andutu34: checks 
+SorinS28: bets $2.07
+Deekyboy603 leaves the table
+andutu34: calls $2.07
+*** TURN *** [8d Td 7d] [5c]
+andutu34: checks 
+SorinS28: bets $7.62
+andutu34: calls $7.62
+*** RIVER *** [8d Td 7d 5c] [5h]
+andutu34: checks 
+SorinS28: checks 
+*** SHOW DOWN ***
+andutu34: shows [Ad Jd] (a flush, Ace high)
+SorinS28: mucks hand 
+andutu34 collected $32.19 from pot
+*** SUMMARY ***
+Total pot $33.88 | Rake $1.69 
+Board [8d Td 7d 5c 5h]
+Seat 1: Manifestorr (small blind) folded before Flop
+Seat 2: Deekyboy603 (big blind) folded before Flop
+Seat 3: andutu34 showed [Ad Jd] and won ($32.19) with a flush, Ace high
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: SorinS28 mucked
+Seat 6: Pippa83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254644490332:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 23:00:03 WET [2025/01/31 18:00:03 ET]
+Table 'Janus II' 6-max Seat #4 is the button
+Seat 3: andutu34 ($169.43 in chips) is sitting out
+Seat 5: SorinS28 ($100 in chips) is sitting out
+Seat 6: Pippa83 ($101.63 in chips) is sitting out
+Seat 1: Manifestorr ($105.23 in chips) 
+Seat 4: z00mba ($124.40 in chips) 
+z00mba: posts small blind $0.50
+SorinS28: is sitting out 
+Pippa83: is sitting out 
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+SorinS28 leaves the table
+z00mba: folds 
+Uncalled bet ($0.50) returned to Manifestorr
+andutu34 leaves the table
+Pippa83 leaves the table
+Manifestorr collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: andutu34
+Seat 5: SorinS28
+Seat 6: Pippa83
+Seat 1: Manifestorr (big blind) collected ($1)
+Seat 4: z00mba (button) (small blind) folded before Flop
+
+
+

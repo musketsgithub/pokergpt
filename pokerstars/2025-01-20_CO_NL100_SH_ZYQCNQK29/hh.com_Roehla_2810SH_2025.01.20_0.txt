@@ -1,0 +1,2814 @@
+﻿PokerStars Hand #254472518852:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:49:08 WET [2025/01/20 14:49:08 ET]
+Table 'Roehla IV' 6-max Seat #5 is the button
+Seat 2: MAO_DZEDYN_S ($102.50 in chips) 
+Seat 5: YeeesMan ($102.50 in chips) 
+YeeesMan: posts small blind $0.50
+MAO_DZEDYN_S: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: raises $1.50 to $2.50
+MAO_DZEDYN_S: calls $1.50
+*** FLOP *** [7c 3c Jh]
+MAO_DZEDYN_S: checks 
+YeeesMan: checks 
+*** TURN *** [7c 3c Jh] [Jd]
+MAO_DZEDYN_S: checks 
+YeeesMan: bets $3.56
+MAO_DZEDYN_S: folds 
+Uncalled bet ($3.56) returned to YeeesMan
+YeeesMan collected $4.75 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [7c 3c Jh Jd]
+Seat 2: MAO_DZEDYN_S (big blind) folded on the Turn
+Seat 5: YeeesMan (button) (small blind) collected ($4.75)
+
+
+
+PokerStars Hand #254472538947:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:50:13 WET [2025/01/20 14:50:13 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: MAO_DZEDYN_S ($100 in chips) 
+Seat 5: YeeesMan ($104.75 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+MAO_DZEDYN_S: raises $1.25 to $2.25
+YeeesMan: calls $1.25
+*** FLOP *** [7h Kc 8c]
+YeeesMan: checks 
+MAO_DZEDYN_S: checks 
+*** TURN *** [7h Kc 8c] [9c]
+YeeesMan: checks 
+MAO_DZEDYN_S: checks 
+*** RIVER *** [7h Kc 8c 9c] [Ts]
+YeeesMan: checks 
+MAO_DZEDYN_S: bets $3.21
+YeeesMan: calls $3.21
+*** SHOW DOWN ***
+MAO_DZEDYN_S: shows [3h 2h] (high card King)
+YeeesMan: shows [Tc 9s] (two pair, Tens and Nines)
+YeeesMan collected $10.37 from pot
+*** SUMMARY ***
+Total pot $10.92 | Rake $0.55 
+Board [7h Kc 8c 9c Ts]
+Seat 2: MAO_DZEDYN_S (button) (small blind) showed [3h 2h] and lost with high card King
+Seat 5: YeeesMan (big blind) showed [Tc 9s] and won ($10.37) with two pair, Tens and Nines
+
+
+
+PokerStars Hand #254472584954:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:52:42 WET [2025/01/20 14:52:42 ET]
+Table 'Roehla IV' 6-max Seat #3 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($100 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: Alinyr ($100 in chips) 
+Seat 5: YeeesMan ($109.66 in chips) 
+Seat 6: ivaylo888 ($72 in chips) 
+Alinyr: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+ivaylo888: calls $1
+nastja336: folds 
+MAO_DZEDYN_S: folds 
+easy_sarcasm: raises $3.50 to $4.50
+Alinyr: folds 
+YeeesMan: folds 
+ivaylo888: calls $3.50
+*** FLOP *** [Qd 6c Th]
+ivaylo888: checks 
+easy_sarcasm: bets $5.50
+ivaylo888: calls $5.50
+*** TURN *** [Qd 6c Th] [5h]
+ivaylo888: bets $9
+easy_sarcasm: raises $15.50 to $24.50
+ivaylo888: folds 
+Uncalled bet ($15.50) returned to easy_sarcasm
+easy_sarcasm collected $37.52 from pot
+*** SUMMARY ***
+Total pot $39.50 | Rake $1.98 
+Board [Qd 6c Th 5h]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 3: easy_sarcasm (button) collected ($37.52)
+Seat 4: Alinyr (small blind) folded before Flop
+Seat 5: YeeesMan (big blind) folded before Flop
+Seat 6: ivaylo888 folded on the Turn
+
+
+
+PokerStars Hand #254472601967:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:53:37 WET [2025/01/20 14:53:37 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($100 in chips) 
+Seat 3: easy_sarcasm ($118.52 in chips) 
+Seat 4: Alinyr ($100 in chips) 
+Seat 5: YeeesMan ($108.66 in chips) 
+Seat 6: ivaylo888 ($53 in chips) 
+YeeesMan: posts small blind $0.50
+ivaylo888: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+MAO_DZEDYN_S: raises $1.25 to $2.25
+easy_sarcasm: folds 
+Alinyr: raises $5.25 to $7.50
+YeeesMan: folds 
+ivaylo888: raises $5.25 to $12.75
+MAO_DZEDYN_S: folds 
+Alinyr: calls $5.25
+*** FLOP *** [Td 7c Jd]
+ivaylo888: bets $26
+Alinyr: raises $61.25 to $87.25 and is all-in
+ivaylo888: calls $14.25 and is all-in
+Uncalled bet ($47) returned to Alinyr
+*** TURN *** [Td 7c Jd] [4h]
+*** RIVER *** [Td 7c Jd 4h] [3d]
+*** SHOW DOWN ***
+ivaylo888: shows [Kd Kh] (a pair of Kings)
+Alinyr: shows [Tc Ts] (three of a kind, Tens)
+Alinyr collected $106.25 from pot
+*** SUMMARY ***
+Total pot $108.75 | Rake $2.50 
+Board [Td 7c Jd 4h 3d]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: MAO_DZEDYN_S folded before Flop
+Seat 3: easy_sarcasm folded before Flop (didn't bet)
+Seat 4: Alinyr (button) showed [Tc Ts] and won ($106.25) with three of a kind, Tens
+Seat 5: YeeesMan (small blind) folded before Flop
+Seat 6: ivaylo888 (big blind) showed [Kd Kh] and lost with a pair of Kings
+
+
+
+PokerStars Hand #254472623119:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:54:46 WET [2025/01/20 14:54:46 ET]
+Table 'Roehla IV' 6-max Seat #5 is the button
+Seat 6: ivaylo888 ($0 in chips) is sitting out
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($100 in chips) 
+Seat 3: easy_sarcasm ($118.52 in chips) 
+Seat 4: Alinyr ($153.25 in chips) 
+Seat 5: YeeesMan ($108.16 in chips) 
+nastja336: posts small blind $0.50
+MAO_DZEDYN_S: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+Alinyr: folds 
+YeeesMan: raises $1.50 to $2.50
+nastja336: folds 
+MAO_DZEDYN_S: raises $9.68 to $12.18
+YeeesMan: raises $13.82 to $26
+MAO_DZEDYN_S: calls $13.82
+*** FLOP *** [8c Kh Td]
+MAO_DZEDYN_S: checks 
+YeeesMan: bets $12.50
+MAO_DZEDYN_S: calls $12.50
+*** TURN *** [8c Kh Td] [6c]
+MAO_DZEDYN_S: checks 
+YeeesMan: bets $69.66 and is all-in
+MAO_DZEDYN_S: calls $61.50 and is all-in
+Uncalled bet ($8.16) returned to YeeesMan
+*** FIRST RIVER *** [8c Kh Td 6c] [Ac]
+*** SECOND RIVER *** [8c Kh Td 6c] [2c]
+*** FIRST SHOW DOWN ***
+MAO_DZEDYN_S: shows [Jc Kc] (a flush, Ace high)
+YeeesMan: shows [Qs Kd] (a pair of Kings)
+MAO_DZEDYN_S collected $99 from pot
+*** SECOND SHOW DOWN ***
+MAO_DZEDYN_S: shows [Jc Kc] (a flush, King high)
+YeeesMan: shows [Qs Kd] (a pair of Kings)
+MAO_DZEDYN_S collected $99 from pot
+*** SUMMARY ***
+Total pot $200.50 | Rake $2.50 
+Hand was run twice
+FIRST Board [8c Kh Td 6c Ac]
+SECOND Board [8c Kh Td 6c 2c]
+Seat 6: ivaylo888
+Seat 1: nastja336 (small blind) folded before Flop
+Seat 2: MAO_DZEDYN_S (big blind) showed [Jc Kc] and won ($99) with a flush, Ace high, and won ($99) with a flush, King high
+Seat 3: easy_sarcasm folded before Flop (didn't bet)
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: YeeesMan (button) showed [Qs Kd] and lost with a pair of Kings, and lost with a pair of Kings
+
+
+
+PokerStars Hand #254472648979:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:56:36 WET [2025/01/20 14:56:36 ET]
+Table 'Roehla IV' 6-max Seat #1 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($198 in chips) 
+Seat 3: easy_sarcasm ($118.52 in chips) 
+Seat 4: Alinyr ($153.25 in chips) 
+Seat 5: YeeesMan ($100 in chips) 
+Seat 6: ivaylo888 ($41.10 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+ivaylo888: posts small blind $0.50
+*** HOLE CARDS ***
+Alinyr: folds 
+YeeesMan: raises $1.50 to $2.50
+ivaylo888: calls $2.50
+nastja336: folds 
+MAO_DZEDYN_S: folds 
+easy_sarcasm: folds 
+*** FLOP *** [4d Ts Jh]
+YeeesMan: checks 
+ivaylo888: checks 
+*** TURN *** [4d Ts Jh] [7c]
+YeeesMan: checks 
+ivaylo888: bets $3
+YeeesMan: calls $3
+*** RIVER *** [4d Ts Jh 7c] [Qs]
+YeeesMan: bets $9.26
+ivaylo888: raises $9.26 to $18.52
+YeeesMan: raises $24.70 to $43.22
+ivaylo888: folds 
+Uncalled bet ($24.70) returned to YeeesMan
+YeeesMan collected $47.54 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $50.04 | Rake $2.50 
+Board [4d Ts Jh 7c Qs]
+Seat 1: nastja336 (button) folded before Flop (didn't bet)
+Seat 2: MAO_DZEDYN_S (small blind) folded before Flop
+Seat 3: easy_sarcasm (big blind) folded before Flop
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: YeeesMan collected ($47.54)
+Seat 6: ivaylo888 folded on the River
+
+
+
+PokerStars Hand #254472668445:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:58:04 WET [2025/01/20 14:58:04 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($197.50 in chips) 
+Seat 3: easy_sarcasm ($117.52 in chips) 
+Seat 4: Alinyr ($153.25 in chips) 
+Seat 5: YeeesMan ($123.52 in chips) 
+Seat 6: ivaylo888 ($16.58 in chips) 
+easy_sarcasm: posts small blind $0.50
+Alinyr: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+ivaylo888: raises $1 to $2
+nastja336: folds 
+MAO_DZEDYN_S: folds 
+easy_sarcasm: folds 
+Alinyr: calls $1
+*** FLOP *** [Ts Ac Qs]
+Alinyr: checks 
+ivaylo888: bets $6
+Alinyr: folds 
+Uncalled bet ($6) returned to ivaylo888
+ivaylo888 collected $4.28 from pot
+ivaylo888: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ts Ac Qs]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: MAO_DZEDYN_S (button) folded before Flop (didn't bet)
+Seat 3: easy_sarcasm (small blind) folded before Flop
+Seat 4: Alinyr (big blind) folded on the Flop
+Seat 5: YeeesMan folded before Flop (didn't bet)
+Seat 6: ivaylo888 collected ($4.28)
+
+
+
+PokerStars Hand #254472676446:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:58:40 WET [2025/01/20 14:58:40 ET]
+Table 'Roehla IV' 6-max Seat #3 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($197.50 in chips) 
+Seat 3: easy_sarcasm ($117.02 in chips) 
+Seat 4: Alinyr ($151.25 in chips) 
+Seat 5: YeeesMan ($123.52 in chips) 
+Seat 6: ivaylo888 ($18.86 in chips) 
+Alinyr: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+ivaylo888: folds 
+nastja336: folds 
+MAO_DZEDYN_S: folds 
+easy_sarcasm: folds 
+Alinyr: raises $2 to $3
+YeeesMan: folds 
+Uncalled bet ($2) returned to Alinyr
+Alinyr collected $2 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 3: easy_sarcasm (button) folded before Flop (didn't bet)
+Seat 4: Alinyr (small blind) collected ($2)
+Seat 5: YeeesMan (big blind) folded before Flop
+Seat 6: ivaylo888 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254472681816:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:59:05 WET [2025/01/20 14:59:05 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($197.50 in chips) 
+Seat 3: easy_sarcasm ($117.02 in chips) 
+Seat 4: Alinyr ($152.25 in chips) 
+Seat 5: YeeesMan ($122.52 in chips) 
+Seat 6: ivaylo888 ($18.86 in chips) 
+YeeesMan: posts small blind $0.50
+ivaylo888: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+MAO_DZEDYN_S: folds 
+easy_sarcasm: folds 
+Alinyr: folds 
+YeeesMan: folds 
+Uncalled bet ($0.50) returned to ivaylo888
+ivaylo888 collected $1 from pot
+ivaylo888: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 3: easy_sarcasm folded before Flop (didn't bet)
+Seat 4: Alinyr (button) folded before Flop (didn't bet)
+Seat 5: YeeesMan (small blind) folded before Flop
+Seat 6: ivaylo888 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254472684838:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:59:18 WET [2025/01/20 14:59:18 ET]
+Table 'Roehla IV' 6-max Seat #5 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($197.50 in chips) 
+Seat 3: easy_sarcasm ($117.02 in chips) 
+Seat 4: Alinyr ($152.25 in chips) 
+Seat 5: YeeesMan ($122.02 in chips) 
+Seat 6: ivaylo888 ($19.36 in chips) 
+ivaylo888: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+easy_sarcasm: folds 
+Alinyr: folds 
+YeeesMan: folds 
+ivaylo888: raises $1 to $2
+nastja336: folds 
+Uncalled bet ($1) returned to ivaylo888
+ivaylo888 collected $2 from pot
+ivaylo888: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: nastja336 (big blind) folded before Flop
+Seat 2: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 3: easy_sarcasm folded before Flop (didn't bet)
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: YeeesMan (button) folded before Flop (didn't bet)
+Seat 6: ivaylo888 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254472689670:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:59:40 WET [2025/01/20 14:59:40 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($197.50 in chips) 
+Seat 3: easy_sarcasm ($117.02 in chips) 
+Seat 4: Alinyr ($152.25 in chips) 
+Seat 5: YeeesMan ($122.02 in chips) 
+Seat 6: ivaylo888 ($20.36 in chips) 
+nastja336: posts small blind $0.50
+MAO_DZEDYN_S: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+Alinyr: folds 
+YeeesMan: folds 
+ivaylo888: raises $1 to $2
+nastja336: raises $98 to $100 and is all-in
+MAO_DZEDYN_S: folds 
+ivaylo888: calls $18.36 and is all-in
+Uncalled bet ($79.64) returned to nastja336
+*** FLOP *** [4s Ah 3c]
+*** TURN *** [4s Ah 3c] [Ks]
+*** RIVER *** [4s Ah 3c Ks] [5s]
+*** SHOW DOWN ***
+nastja336: shows [Kh Ad] (two pair, Aces and Kings)
+ivaylo888: shows [Js Qs] (a flush, King high)
+ivaylo888 collected $39.63 from pot
+*** SUMMARY ***
+Total pot $41.72 | Rake $2.09 
+Board [4s Ah 3c Ks 5s]
+Seat 1: nastja336 (small blind) showed [Kh Ad] and lost with two pair, Aces and Kings
+Seat 2: MAO_DZEDYN_S (big blind) folded before Flop
+Seat 3: easy_sarcasm folded before Flop (didn't bet)
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: YeeesMan folded before Flop (didn't bet)
+Seat 6: ivaylo888 (button) showed [Js Qs] and won ($39.63) with a flush, King high
+
+
+
+PokerStars Hand #254472695077:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:00:01 WET [2025/01/20 15:00:01 ET]
+Table 'Roehla IV' 6-max Seat #1 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($196.50 in chips) 
+Seat 3: easy_sarcasm ($117.02 in chips) 
+Seat 4: Alinyr ($152.25 in chips) 
+Seat 5: YeeesMan ($122.02 in chips) 
+Seat 6: ivaylo888 ($39.63 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: folds 
+YeeesMan: folds 
+ivaylo888: folds 
+nastja336: folds 
+MAO_DZEDYN_S: raises $2 to $3
+easy_sarcasm: calls $2
+*** FLOP *** [2s 9s Tc]
+MAO_DZEDYN_S: bets $1.71
+easy_sarcasm: raises $7.29 to $9
+MAO_DZEDYN_S: calls $7.29
+*** TURN *** [2s 9s Tc] [Jh]
+MAO_DZEDYN_S: checks 
+easy_sarcasm: bets $16.50
+MAO_DZEDYN_S: raises $24.36 to $40.86
+easy_sarcasm: calls $24.36
+*** RIVER *** [2s 9s Tc Jh] [2c]
+MAO_DZEDYN_S: bets $143.64 and is all-in
+easy_sarcasm: folds 
+Uncalled bet ($143.64) returned to MAO_DZEDYN_S
+MAO_DZEDYN_S collected $103.22 from pot
+MAO_DZEDYN_S: doesn't show hand 
+*** SUMMARY ***
+Total pot $105.72 | Rake $2.50 
+Board [2s 9s Tc Jh 2c]
+Seat 1: nastja336 (button) folded before Flop (didn't bet)
+Seat 2: MAO_DZEDYN_S (small blind) collected ($103.22)
+Seat 3: easy_sarcasm (big blind) folded on the River
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: YeeesMan folded before Flop (didn't bet)
+Seat 6: ivaylo888 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254472724758:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:01:54 WET [2025/01/20 15:01:54 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($246.86 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: Alinyr ($152.25 in chips) 
+Seat 5: YeeesMan ($122.02 in chips) 
+Seat 6: ivaylo888 ($39.63 in chips) 
+easy_sarcasm: posts small blind $0.50
+Alinyr: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+ivaylo888: calls $1
+nastja336: folds 
+MAO_DZEDYN_S: raises $2.50 to $3.50
+easy_sarcasm: folds 
+Alinyr: folds 
+ivaylo888: calls $2.50
+*** FLOP *** [3s As Ad]
+ivaylo888: checks 
+MAO_DZEDYN_S: checks 
+*** TURN *** [3s As Ad] [Kh]
+ivaylo888: checks 
+MAO_DZEDYN_S: bets $6.06
+ivaylo888: calls $6.06
+*** RIVER *** [3s As Ad Kh] [Qh]
+ivaylo888: checks 
+MAO_DZEDYN_S: checks 
+*** SHOW DOWN ***
+ivaylo888: shows [4h 4c] (two pair, Aces and Fours)
+MAO_DZEDYN_S: shows [Qc Js] (two pair, Aces and Queens)
+MAO_DZEDYN_S collected $19.59 from pot
+*** SUMMARY ***
+Total pot $20.62 | Rake $1.03 
+Board [3s As Ad Kh Qh]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: MAO_DZEDYN_S (button) showed [Qc Js] and won ($19.59) with two pair, Aces and Queens
+Seat 3: easy_sarcasm (small blind) folded before Flop
+Seat 4: Alinyr (big blind) folded before Flop
+Seat 5: YeeesMan folded before Flop (didn't bet)
+Seat 6: ivaylo888 showed [4h 4c] and lost with two pair, Aces and Fours
+
+
+
+PokerStars Hand #254472755576:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:03:31 WET [2025/01/20 15:03:31 ET]
+Table 'Roehla IV' 6-max Seat #3 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($256.89 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: Alinyr ($151.25 in chips) 
+Seat 5: YeeesMan ($122.02 in chips) 
+Seat 6: ivaylo888 ($30.07 in chips) 
+Alinyr: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+ivaylo888: calls $1
+nastja336: folds 
+MAO_DZEDYN_S: folds 
+easy_sarcasm: folds 
+Alinyr: folds 
+YeeesMan: checks 
+*** FLOP *** [Kh Jc Th]
+YeeesMan: checks 
+ivaylo888: bets $3
+YeeesMan: folds 
+Uncalled bet ($3) returned to ivaylo888
+ivaylo888 collected $2.38 from pot
+ivaylo888: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Kh Jc Th]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 3: easy_sarcasm (button) folded before Flop (didn't bet)
+Seat 4: Alinyr (small blind) folded before Flop
+Seat 5: YeeesMan (big blind) folded on the Flop
+Seat 6: ivaylo888 collected ($2.38)
+
+
+
+PokerStars Hand #254472769362:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:04:14 WET [2025/01/20 15:04:14 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($256.89 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: Alinyr ($150.75 in chips) 
+Seat 5: YeeesMan ($121.02 in chips) 
+Seat 6: ivaylo888 ($31.45 in chips) 
+YeeesMan: posts small blind $0.50
+ivaylo888: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+MAO_DZEDYN_S: folds 
+easy_sarcasm: folds 
+Alinyr: raises $1.50 to $2.50
+YeeesMan: folds 
+ivaylo888: folds 
+Uncalled bet ($1.50) returned to Alinyr
+Alinyr collected $2.50 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 3: easy_sarcasm folded before Flop (didn't bet)
+Seat 4: Alinyr (button) collected ($2.50)
+Seat 5: YeeesMan (small blind) folded before Flop
+Seat 6: ivaylo888 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254472775909:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:04:34 WET [2025/01/20 15:04:34 ET]
+Table 'Roehla IV' 6-max Seat #5 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($256.89 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: Alinyr ($152.25 in chips) 
+Seat 5: YeeesMan ($120.52 in chips) 
+Seat 6: ivaylo888 ($30.45 in chips) 
+ivaylo888: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+easy_sarcasm: raises $2 to $3
+Alinyr: folds 
+YeeesMan: folds 
+ivaylo888: folds 
+nastja336: folds 
+Uncalled bet ($2) returned to easy_sarcasm
+easy_sarcasm collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 (big blind) folded before Flop
+Seat 2: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 3: easy_sarcasm collected ($2.50)
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: YeeesMan (button) folded before Flop (didn't bet)
+Seat 6: ivaylo888 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254472780256:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:04:48 WET [2025/01/20 15:04:48 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($256.89 in chips) 
+Seat 3: easy_sarcasm ($101.50 in chips) 
+Seat 4: Alinyr ($152.25 in chips) 
+Seat 5: YeeesMan ($120.52 in chips) 
+Seat 6: ivaylo888 ($29.95 in chips) 
+nastja336: posts small blind $0.50
+MAO_DZEDYN_S: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+Alinyr: raises $1.05 to $2.05
+YeeesMan: folds 
+ivaylo888: folds 
+nastja336: folds 
+MAO_DZEDYN_S: folds 
+Uncalled bet ($1.05) returned to Alinyr
+Alinyr collected $2.50 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 (small blind) folded before Flop
+Seat 2: MAO_DZEDYN_S (big blind) folded before Flop
+Seat 3: easy_sarcasm folded before Flop (didn't bet)
+Seat 4: Alinyr collected ($2.50)
+Seat 5: YeeesMan folded before Flop (didn't bet)
+Seat 6: ivaylo888 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254472786562:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:05:06 WET [2025/01/20 15:05:06 ET]
+Table 'Roehla IV' 6-max Seat #1 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($255.89 in chips) 
+Seat 3: easy_sarcasm ($101.50 in chips) 
+Seat 4: Alinyr ($153.75 in chips) 
+Seat 5: YeeesMan ($120.52 in chips) 
+Seat 6: ivaylo888 ($29.95 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: raises $1.05 to $2.05
+YeeesMan: folds 
+ivaylo888: folds 
+nastja336: folds 
+MAO_DZEDYN_S: folds 
+easy_sarcasm: folds 
+Uncalled bet ($1.05) returned to Alinyr
+Alinyr collected $2.50 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 (button) folded before Flop (didn't bet)
+Seat 2: MAO_DZEDYN_S (small blind) folded before Flop
+Seat 3: easy_sarcasm (big blind) folded before Flop
+Seat 4: Alinyr collected ($2.50)
+Seat 5: YeeesMan folded before Flop (didn't bet)
+Seat 6: ivaylo888 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254472790654:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:05:19 WET [2025/01/20 15:05:19 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($255.39 in chips) 
+Seat 3: easy_sarcasm ($100.50 in chips) 
+Seat 4: Alinyr ($155.25 in chips) 
+Seat 5: YeeesMan ($120.52 in chips) 
+Seat 6: ivaylo888 ($29.95 in chips) 
+easy_sarcasm: posts small blind $0.50
+Alinyr: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: raises $1.50 to $2.50
+ivaylo888: calls $2.50
+nastja336: folds 
+MAO_DZEDYN_S: folds 
+easy_sarcasm: calls $2
+Alinyr: folds 
+*** FLOP *** [Ts 8h 8d]
+easy_sarcasm: checks 
+YeeesMan: bets $2.67
+ivaylo888: raises $24.78 to $27.45 and is all-in
+easy_sarcasm: folds 
+YeeesMan: calls $24.78
+*** TURN *** [Ts 8h 8d] [2s]
+*** RIVER *** [Ts 8h 8d 2s] [2h]
+*** SHOW DOWN ***
+YeeesMan: shows [8s Ks] (a full house, Eights full of Deuces)
+ivaylo888: shows [Qs 3s] (two pair, Eights and Deuces)
+YeeesMan collected $60.90 from pot
+*** SUMMARY ***
+Total pot $63.40 | Rake $2.50 
+Board [Ts 8h 8d 2s 2h]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: MAO_DZEDYN_S (button) folded before Flop (didn't bet)
+Seat 3: easy_sarcasm (small blind) folded on the Flop
+Seat 4: Alinyr (big blind) folded before Flop
+Seat 5: YeeesMan showed [8s Ks] and won ($60.90) with a full house, Eights full of Deuces
+Seat 6: ivaylo888 showed [Qs 3s] and lost with two pair, Eights and Deuces
+
+
+
+PokerStars Hand #254472809814:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:06:16 WET [2025/01/20 15:06:16 ET]
+Table 'Roehla IV' 6-max Seat #3 is the button
+Seat 6: ivaylo888 ($0 in chips) is sitting out
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($255.39 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: Alinyr ($154.25 in chips) 
+Seat 5: YeeesMan ($151.47 in chips) 
+Alinyr: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+ivaylo888 leaves the table
+michasia joins the table at seat #6 
+nastja336: folds 
+MAO_DZEDYN_S: folds 
+easy_sarcasm: folds 
+Alinyr: folds 
+Uncalled bet ($0.50) returned to YeeesMan
+YeeesMan collected $1 from pot
+YeeesMan: doesn't show hand 
+nastja336 leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: ivaylo888
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 3: easy_sarcasm (button) folded before Flop (didn't bet)
+Seat 4: Alinyr (small blind) folded before Flop
+Seat 5: YeeesMan (big blind) collected ($1)
+
+
+
+PokerStars Hand #254472816182:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:06:36 WET [2025/01/20 15:06:36 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 2: MAO_DZEDYN_S ($255.39 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: Alinyr ($153.75 in chips) 
+Seat 5: YeeesMan ($151.97 in chips) 
+Seat 6: michasia ($100 in chips) 
+YeeesMan: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+easy_sarcasm: folds 
+Alinyr: raises $1.50 to $2.50
+YeeesMan: folds 
+michasia: raises $9.50 to $12
+Alinyr: folds 
+Uncalled bet ($9.50) returned to michasia
+michasia collected $5.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 2: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 3: easy_sarcasm folded before Flop (didn't bet)
+Seat 4: Alinyr (button) folded before Flop
+Seat 5: YeeesMan (small blind) folded before Flop
+Seat 6: michasia (big blind) collected ($5.50)
+
+
+
+PokerStars Hand #254472827148:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:07:09 WET [2025/01/20 15:07:09 ET]
+Table 'Roehla IV' 6-max Seat #5 is the button
+Seat 2: MAO_DZEDYN_S ($255.39 in chips) is sitting out
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 4: Alinyr ($151.25 in chips) 
+Seat 5: YeeesMan ($151.47 in chips) 
+Seat 6: michasia ($103 in chips) 
+michasia: posts small blind $0.50
+MAO_DZEDYN_S: is sitting out 
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+MAO_DZEDYN_S leaves the table
+Alinyr: raises $1.28 to $2.28
+YeeesMan: folds 
+michasia: folds 
+easy_sarcasm: calls $1.28
+*** FLOP *** [Kh 5c Ks]
+easy_sarcasm: checks 
+Alinyr: bets $1.20
+easy_sarcasm: folds 
+Uncalled bet ($1.20) returned to Alinyr
+Alinyr collected $4.81 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.06 | Rake $0.25 
+Board [Kh 5c Ks]
+Seat 2: MAO_DZEDYN_S
+Seat 3: easy_sarcasm (big blind) folded on the Flop
+Seat 4: Alinyr collected ($4.81)
+Seat 5: YeeesMan (button) folded before Flop (didn't bet)
+Seat 6: michasia (small blind) folded before Flop
+
+
+
+PokerStars Hand #254472835741:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:07:35 WET [2025/01/20 15:07:35 ET]
+Table 'Roehla IV' 6-max Seat #3 is the button
+Seat 4: Alinyr ($153.78 in chips) is sitting out
+Seat 5: YeeesMan ($151.47 in chips) is sitting out
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 6: michasia ($102.50 in chips) 
+easy_sarcasm: posts small blind $0.50
+Alinyr: is sitting out 
+YeeesMan: is sitting out 
+michasia: posts big blind $1
+*** HOLE CARDS ***
+Alinyr leaves the table
+easy_sarcasm: raises $2 to $3
+michasia: calls $2
+*** FLOP *** [Qh Ks Jd]
+michasia: checks 
+YeeesMan leaves the table
+easy_sarcasm: bets $2.85
+michasia: calls $2.85
+*** TURN *** [Qh Ks Jd] [Jh]
+michasia: checks 
+easy_sarcasm: checks 
+*** RIVER *** [Qh Ks Jd Jh] [7h]
+michasia: bets $7.41
+easy_sarcasm: folds 
+Uncalled bet ($7.41) returned to michasia
+franco232315 joins the table at seat #2 
+michasia collected $11.12 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.70 | Rake $0.58 
+Board [Qh Ks Jd Jh 7h]
+Seat 4: Alinyr
+Seat 5: YeeesMan
+Seat 3: easy_sarcasm (button) (small blind) folded on the River
+Seat 6: michasia (big blind) collected ($11.12)
+
+
+
+PokerStars Hand #254472848867:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:08:15 WET [2025/01/20 15:08:15 ET]
+Table 'Roehla IV' 6-max Seat #3 is the button
+Seat 2: franco232315 ($100 in chips) 
+Seat 3: easy_sarcasm ($100 in chips) 
+Seat 6: michasia ($107.77 in chips) 
+michasia: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+michasia: folds 
+Uncalled bet ($0.50) returned to franco232315
+easy_sarcasm leaves the table
+franco232315 collected $1 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: franco232315 (big blind) collected ($1)
+Seat 3: easy_sarcasm (button) folded before Flop (didn't bet)
+Seat 6: michasia (small blind) folded before Flop
+
+
+
+PokerStars Hand #254472850866:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:08:21 WET [2025/01/20 15:08:21 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($100.50 in chips) 
+Seat 6: michasia ($107.27 in chips) 
+franco232315: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.20 to $2.20
+michasia: folds 
+Uncalled bet ($1.20) returned to franco232315
+franco232315 collected $2 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: franco232315 (button) (small blind) collected ($2)
+Seat 6: michasia (big blind) folded before Flop
+
+
+
+PokerStars Hand #254472854822:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:08:33 WET [2025/01/20 15:08:33 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($101.50 in chips) 
+Seat 6: michasia ($106.27 in chips) 
+michasia: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+Uncalled bet ($0.50) returned to franco232315
+franco232315 collected $1 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: franco232315 (big blind) collected ($1)
+Seat 6: michasia (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254472856912:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:08:39 WET [2025/01/20 15:08:39 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($102 in chips) 
+Seat 6: michasia ($105.77 in chips) 
+franco232315: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+michasia: calls $1.50
+*** FLOP *** [Td 7c Ts]
+michasia: checks 
+franco232315: bets $1.57
+michasia: folds 
+Uncalled bet ($1.57) returned to franco232315
+franco232315 collected $4.75 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Td 7c Ts]
+Seat 2: franco232315 (button) (small blind) collected ($4.75)
+Seat 6: michasia (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254472865681:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:09:06 WET [2025/01/20 15:09:06 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($104.25 in chips) 
+Seat 6: michasia ($103.27 in chips) 
+michasia: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+michasia: raises $1.80 to $2.80
+franco232315: calls $1.80
+*** FLOP *** [4h 7s Jd]
+franco232315: checks 
+michasia: bets $1.76
+franco232315: folds 
+Uncalled bet ($1.76) returned to michasia
+michasia collected $5.32 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.28 
+Board [4h 7s Jd]
+Seat 2: franco232315 (big blind) folded on the Flop
+Seat 6: michasia (button) (small blind) collected ($5.32)
+
+
+
+PokerStars Hand #254472878802:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:09:46 WET [2025/01/20 15:09:46 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($101.45 in chips) 
+Seat 6: michasia ($105.79 in chips) 
+franco232315: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+michasia: folds 
+Uncalled bet ($1.50) returned to franco232315
+franco232315 collected $2 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: franco232315 (button) (small blind) collected ($2)
+Seat 6: michasia (big blind) folded before Flop
+
+
+
+PokerStars Hand #254472407135:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:43:00 WET [2025/01/20 14:43:00 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 5: YeeesMan ($100 in chips) is sitting out
+Seat 2: MAO_DZEDYN_S ($100 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+Supermegopro: posts small blind $0.50
+MAO_DZEDYN_S: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+Uncalled bet ($0.50) returned to MAO_DZEDYN_S
+MAO_DZEDYN_S collected $1 from pot
+MAO_DZEDYN_S: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: YeeesMan
+Seat 2: MAO_DZEDYN_S (big blind) collected ($1)
+Seat 4: Supermegopro (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254472408973:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:43:07 WET [2025/01/20 14:43:07 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 5: YeeesMan ($100 in chips) is sitting out
+Seat 2: MAO_DZEDYN_S ($100.50 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Hasse8852 joins the table at seat #3 
+Hasse8852 is disconnected 
+reiyser joins the table at seat #6 
+Gfoer joins the table at seat #1 
+MAO_DZEDYN_S: raises $1.25 to $2.25
+Supermegopro: folds 
+Uncalled bet ($1.25) returned to MAO_DZEDYN_S
+MAO_DZEDYN_S collected $2 from pot
+MAO_DZEDYN_S: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: YeeesMan
+Seat 2: MAO_DZEDYN_S (button) (small blind) collected ($2)
+Seat 4: Supermegopro (big blind) folded before Flop
+
+
+
+PokerStars Hand #254472415331:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:43:28 WET [2025/01/20 14:43:28 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 1: Gfoer ($100 in chips) is sitting out
+Seat 5: YeeesMan ($100 in chips) is sitting out
+Seat 6: reiyser ($100 in chips) is sitting out
+Seat 2: MAO_DZEDYN_S ($101.50 in chips) 
+Seat 3: Hasse8852 ($61.43 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+Hasse8852: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+MAO_DZEDYN_S: raises $2 to $3
+Hasse8852: folds 
+Uncalled bet ($2) returned to MAO_DZEDYN_S
+MAO_DZEDYN_S collected $2 from pot
+MAO_DZEDYN_S: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Gfoer
+Seat 5: YeeesMan
+Seat 6: reiyser
+Seat 2: MAO_DZEDYN_S (small blind) collected ($2)
+Seat 3: Hasse8852 (big blind) folded before Flop
+Seat 4: Supermegopro (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254472418241:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:43:38 WET [2025/01/20 14:43:38 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 1: Gfoer ($100 in chips) is sitting out
+Seat 5: YeeesMan ($100 in chips) is sitting out
+Seat 6: reiyser ($100 in chips) is sitting out
+Seat 2: MAO_DZEDYN_S ($102.50 in chips) 
+Seat 3: Hasse8852 ($60.43 in chips) 
+Seat 4: Supermegopro ($100 in chips) 
+Hasse8852: posts small blind $0.50
+Supermegopro: posts big blind $1
+reiyser: sits out 
+Gfoer: sits out 
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+Hasse8852: folds 
+Uncalled bet ($0.50) returned to Supermegopro
+Supermegopro collected $1 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Gfoer
+Seat 5: YeeesMan
+Seat 6: reiyser
+Seat 2: MAO_DZEDYN_S (button) folded before Flop (didn't bet)
+Seat 3: Hasse8852 (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) collected ($1)
+
+
+
+PokerStars Hand #254472421305:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:43:48 WET [2025/01/20 14:43:48 ET]
+Table 'Roehla IV' 6-max Seat #3 is the button
+Seat 1: Gfoer ($100 in chips) is sitting out
+Seat 5: YeeesMan ($100 in chips) is sitting out
+Seat 2: MAO_DZEDYN_S ($102.50 in chips) 
+Seat 3: Hasse8852 ($59.93 in chips) 
+Seat 4: Supermegopro ($100.50 in chips) 
+Seat 6: reiyser ($100 in chips) 
+Supermegopro: posts small blind $0.50
+reiyser: posts big blind $1
+Gfoer: sits out 
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+Hasse8852: calls $1
+Supermegopro: raises $3 to $4
+reiyser: folds 
+Hasse8852: folds 
+Uncalled bet ($3) returned to Supermegopro
+Supermegopro collected $3 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: Gfoer
+Seat 5: YeeesMan
+Seat 2: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 3: Hasse8852 (button) folded before Flop
+Seat 4: Supermegopro (small blind) collected ($3)
+Seat 6: reiyser (big blind) folded before Flop
+
+
+
+PokerStars Hand #254472427116:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:44:07 WET [2025/01/20 14:44:07 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 5: YeeesMan ($100 in chips) is sitting out
+Seat 1: Gfoer ($100 in chips) 
+Seat 2: MAO_DZEDYN_S ($102.50 in chips) 
+Seat 3: Hasse8852 ($58.93 in chips) 
+Seat 4: Supermegopro ($102.50 in chips) 
+Seat 6: reiyser ($100 in chips) 
+reiyser: posts small blind $0.50
+Gfoer: posts big blind $1
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+Hasse8852: calls $1
+Supermegopro: raises $3 to $4
+reiyser: folds 
+Gfoer: folds 
+MAO_DZEDYN_S leaves the table
+Hasse8852: calls $3
+*** FLOP *** [Kh 3d 3c]
+Hasse8852: checks 
+Supermegopro: checks 
+*** TURN *** [Kh 3d 3c] [2h]
+JUANS2 joins the table at seat #2 
+Hasse8852: checks 
+Supermegopro: bets $7.67
+Hasse8852: folds 
+Uncalled bet ($7.67) returned to Supermegopro
+Supermegopro collected $9.02 from pot
+Supermegopro: doesn't show hand 
+Hasse8852 leaves the table
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Kh 3d 3c 2h]
+Seat 5: YeeesMan
+Seat 1: Gfoer (big blind) folded before Flop
+Seat 2: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 3: Hasse8852 folded on the Turn
+Seat 4: Supermegopro (button) collected ($9.02)
+Seat 6: reiyser (small blind) folded before Flop
+
+
+
+PokerStars Hand #254472437543:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:44:42 WET [2025/01/20 14:44:42 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 5: YeeesMan ($100 in chips) is sitting out
+Seat 1: Gfoer ($100 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 4: Supermegopro ($107.52 in chips) 
+Seat 6: reiyser ($100 in chips) 
+Gfoer: posts small blind $0.50
+JUANS2: posts big blind $1
+YeeesMan: sits out 
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+reiyser: folds 
+Gfoer: folds 
+JUANS2: calls $1.50
+*** FLOP *** [9c Kh 3s]
+JUANS2: checks 
+Supermegopro: bets $2.61
+JUANS2: folds 
+Uncalled bet ($2.61) returned to Supermegopro
+Supermegopro collected $5.22 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [9c Kh 3s]
+Seat 5: YeeesMan
+Seat 1: Gfoer (small blind) folded before Flop
+Seat 2: JUANS2 (big blind) folded on the Flop
+Seat 4: Supermegopro collected ($5.22)
+Seat 6: reiyser (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254472448885:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:45:19 WET [2025/01/20 14:45:19 ET]
+Table 'Roehla IV' 6-max Seat #1 is the button
+Seat 5: YeeesMan ($100 in chips) is sitting out
+Seat 1: Gfoer ($100 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 4: Supermegopro ($110.24 in chips) 
+Seat 6: reiyser ($100 in chips) 
+JUANS2: posts small blind $0.50
+Supermegopro: posts big blind $1
+YeeesMan: sits out 
+*** HOLE CARDS ***
+reiyser: folds 
+Gfoer: raises $1 to $2
+JUANS2: folds 
+Supermegopro: folds 
+Uncalled bet ($1) returned to Gfoer
+Gfoer collected $2.50 from pot
+Gfoer: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: YeeesMan
+Seat 1: Gfoer (button) collected ($2.50)
+Seat 2: JUANS2 (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) folded before Flop
+Seat 6: reiyser folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254472452004:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:45:29 WET [2025/01/20 14:45:29 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 1: Gfoer ($101.50 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 4: Supermegopro ($109.24 in chips) 
+Seat 5: YeeesMan ($100 in chips) 
+Seat 6: reiyser ($100 in chips) 
+Supermegopro: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+reiyser: folds 
+Gfoer: folds 
+JUANS2: folds 
+Supermegopro: folds 
+Uncalled bet ($0.50) returned to YeeesMan
+YeeesMan collected $1 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Gfoer folded before Flop (didn't bet)
+Seat 2: JUANS2 (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: YeeesMan (big blind) collected ($1)
+Seat 6: reiyser folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254472454639:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:45:38 WET [2025/01/20 14:45:38 ET]
+Table 'Roehla IV' 6-max Seat #5 is the button
+Seat 1: Gfoer ($101.50 in chips) is sitting out
+Seat 2: JUANS2 ($100 in chips) is sitting out
+Seat 6: reiyser ($100 in chips) is sitting out
+Seat 4: Supermegopro ($108.74 in chips) 
+Seat 5: YeeesMan ($100.50 in chips) 
+YeeesMan: posts small blind $0.50
+reiyser: is sitting out 
+Gfoer: is sitting out 
+JUANS2: is sitting out 
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+reiyser leaves the table
+Gfoer leaves the table
+JUANS2 leaves the table
+YeeesMan: raises $1.50 to $2.50
+Supermegopro: raises $7.50 to $10
+YeeesMan: calls $7.50
+*** FLOP *** [9c Qh 7d]
+Supermegopro: checks 
+YeeesMan: checks 
+*** TURN *** [9c Qh 7d] [6d]
+Supermegopro: checks 
+YeeesMan: checks 
+*** RIVER *** [9c Qh 7d 6d] [2h]
+Supermegopro: bets $12.67
+YeeesMan: calls $12.67
+*** SHOW DOWN ***
+Supermegopro: shows [As Ah] (a pair of Aces)
+YeeesMan: mucks hand 
+Supermegopro collected $44.34 from pot
+*** SUMMARY ***
+Total pot $45.34 | Rake $1 
+Board [9c Qh 7d 6d 2h]
+Seat 1: Gfoer
+Seat 2: JUANS2
+Seat 6: reiyser
+Seat 4: Supermegopro (big blind) showed [As Ah] and won ($44.34) with a pair of Aces
+Seat 5: YeeesMan (button) (small blind) mucked
+
+
+
+PokerStars Hand #254472476162:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:46:48 WET [2025/01/20 14:46:48 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 4: Supermegopro ($130.41 in chips) 
+Seat 5: YeeesMan ($100 in chips) 
+Supermegopro: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+YeeesMan: raises $7.50 to $10
+Supermegopro: folds 
+Uncalled bet ($7.50) returned to YeeesMan
+YeeesMan collected $5 from pot
+YeeesMan: doesn't show hand 
+Supermegopro leaves the table
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 4: Supermegopro (button) (small blind) folded before Flop
+Seat 5: YeeesMan (big blind) collected ($5)
+
+
+
+PokerStars Hand #254472510708:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:48:42 WET [2025/01/20 14:48:42 ET]
+Table 'Roehla IV' 6-max Seat #5 is the button
+Seat 2: MAO_DZEDYN_S ($102.50 in chips) 
+Seat 5: YeeesMan ($102.50 in chips) 
+YeeesMan: posts small blind $0.50
+MAO_DZEDYN_S: posts big blind $1
+*** HOLE CARDS ***
+YeeesMan: folds 
+Uncalled bet ($0.50) returned to MAO_DZEDYN_S
+MAO_DZEDYN_S collected $1 from pot
+MAO_DZEDYN_S: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: MAO_DZEDYN_S (big blind) collected ($1)
+Seat 5: YeeesMan (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254472515301:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 19:48:56 WET [2025/01/20 14:48:56 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: MAO_DZEDYN_S ($103 in chips) 
+Seat 5: YeeesMan ($102 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+YeeesMan: posts big blind $1
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+Uncalled bet ($0.50) returned to YeeesMan
+YeeesMan collected $1 from pot
+YeeesMan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: MAO_DZEDYN_S (button) (small blind) folded before Flop
+Seat 5: YeeesMan (big blind) collected ($1)
+
+
+
+PokerStars Hand #254472907532:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:11:14 WET [2025/01/20 15:11:14 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 2: franco232315 ($102.45 in chips) 
+Seat 4: easy_sarcasm ($100 in chips) 
+Seat 6: michasia ($104.79 in chips) 
+michasia: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: raises $1.20 to $2.20
+michasia: folds 
+franco232315: folds 
+Uncalled bet ($1.20) returned to easy_sarcasm
+easy_sarcasm collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: franco232315 (big blind) folded before Flop
+Seat 4: easy_sarcasm (button) collected ($2.50)
+Seat 6: michasia (small blind) folded before Flop
+
+
+
+PokerStars Hand #254472911411:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:11:26 WET [2025/01/20 15:11:26 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($101.45 in chips) 
+Seat 4: easy_sarcasm ($101.50 in chips) 
+Seat 6: michasia ($104.29 in chips) 
+franco232315: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+franco232315: folds 
+Uncalled bet ($0.50) returned to easy_sarcasm
+easy_sarcasm collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: franco232315 (small blind) folded before Flop
+Seat 4: easy_sarcasm (big blind) collected ($1)
+Seat 6: michasia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254472915107:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:11:37 WET [2025/01/20 15:11:37 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($100.95 in chips) 
+Seat 4: easy_sarcasm ($102 in chips) 
+Seat 6: michasia ($104.29 in chips) 
+easy_sarcasm: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+easy_sarcasm: folds 
+michasia: calls $1.50
+*** FLOP *** [3c 4d 5c]
+michasia: checks 
+franco232315: checks 
+*** TURN *** [3c 4d 5c] [2h]
+michasia: bets $3.48
+franco232315: calls $3.48
+*** RIVER *** [3c 4d 5c 2h] [3s]
+michasia: checks 
+franco232315: checks 
+*** SHOW DOWN ***
+michasia: shows [Ts 8d] (a pair of Threes)
+franco232315: shows [Ad Ah] (a straight, Ace to Five)
+franco232315 collected $11.84 from pot
+*** SUMMARY ***
+Total pot $12.46 | Rake $0.62 
+Board [3c 4d 5c 2h 3s]
+Seat 2: franco232315 (button) showed [Ad Ah] and won ($11.84) with a straight, Ace to Five
+Seat 4: easy_sarcasm (small blind) folded before Flop
+Seat 6: michasia (big blind) showed [Ts 8d] and lost with a pair of Threes
+
+
+
+PokerStars Hand #254472929668:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:12:21 WET [2025/01/20 15:12:21 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 2: franco232315 ($106.81 in chips) 
+Seat 4: easy_sarcasm ($101.50 in chips) 
+Seat 6: michasia ($100 in chips) 
+michasia: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: raises $1.20 to $2.20
+michasia: folds 
+franco232315: calls $1.20
+*** FLOP *** [4s Kh Ks]
+franco232315: checks 
+easy_sarcasm: bets $2.38
+franco232315: folds 
+Uncalled bet ($2.38) returned to easy_sarcasm
+easy_sarcasm collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [4s Kh Ks]
+Seat 2: franco232315 (big blind) folded on the Flop
+Seat 4: easy_sarcasm (button) collected ($4.66)
+Seat 6: michasia (small blind) folded before Flop
+
+
+
+PokerStars Hand #254472937391:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:12:44 WET [2025/01/20 15:12:44 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($104.61 in chips) 
+Seat 4: easy_sarcasm ($103.96 in chips) 
+Seat 6: michasia ($100 in chips) 
+franco232315: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+franco232315: raises $2 to $3
+easy_sarcasm: folds 
+Uncalled bet ($2) returned to franco232315
+franco232315 collected $2 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: franco232315 (small blind) collected ($2)
+Seat 4: easy_sarcasm (big blind) folded before Flop
+Seat 6: michasia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254472941219:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:12:56 WET [2025/01/20 15:12:56 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($105.61 in chips) 
+Seat 4: easy_sarcasm ($102.96 in chips) 
+Seat 6: michasia ($100 in chips) 
+easy_sarcasm: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+franco232315: folds 
+easy_sarcasm: folds 
+Uncalled bet ($0.50) returned to michasia
+michasia collected $1 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: franco232315 (button) folded before Flop (didn't bet)
+Seat 4: easy_sarcasm (small blind) folded before Flop
+Seat 6: michasia (big blind) collected ($1)
+
+
+
+PokerStars Hand #254472946444:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:13:12 WET [2025/01/20 15:13:12 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 2: franco232315 ($105.61 in chips) 
+Seat 4: easy_sarcasm ($102.46 in chips) 
+Seat 6: michasia ($100.50 in chips) 
+michasia: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: raises $1.20 to $2.20
+michasia: folds 
+franco232315: folds 
+Uncalled bet ($1.20) returned to easy_sarcasm
+easy_sarcasm collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: franco232315 (big blind) folded before Flop
+Seat 4: easy_sarcasm (button) collected ($2.50)
+Seat 6: michasia (small blind) folded before Flop
+
+
+
+PokerStars Hand #254472949513:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:13:21 WET [2025/01/20 15:13:21 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($104.61 in chips) 
+Seat 4: easy_sarcasm ($103.96 in chips) 
+Seat 6: michasia ($100 in chips) 
+franco232315: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+franco232315: raises $2 to $3
+easy_sarcasm: folds 
+Uncalled bet ($2) returned to franco232315
+franco232315 collected $2 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: franco232315 (small blind) collected ($2)
+Seat 4: easy_sarcasm (big blind) folded before Flop
+Seat 6: michasia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254472953406:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:13:33 WET [2025/01/20 15:13:33 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($105.61 in chips) 
+Seat 4: easy_sarcasm ($102.96 in chips) 
+Seat 6: michasia ($100 in chips) 
+easy_sarcasm: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+easy_sarcasm: folds 
+michasia: folds 
+Uncalled bet ($1.50) returned to franco232315
+franco232315 collected $2.50 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: franco232315 (button) collected ($2.50)
+Seat 4: easy_sarcasm (small blind) folded before Flop
+Seat 6: michasia (big blind) folded before Flop
+
+
+
+PokerStars Hand #254472957249:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:13:44 WET [2025/01/20 15:13:44 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 2: franco232315 ($107.11 in chips) 
+Seat 4: easy_sarcasm ($102.46 in chips) 
+Seat 6: michasia ($100 in chips) 
+michasia: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: raises $1.20 to $2.20
+michasia: folds 
+franco232315: folds 
+Uncalled bet ($1.20) returned to easy_sarcasm
+easy_sarcasm collected $2.50 from pot
+michasia leaves the table
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: franco232315 (big blind) folded before Flop
+Seat 4: easy_sarcasm (button) collected ($2.50)
+Seat 6: michasia (small blind) folded before Flop
+
+
+
+PokerStars Hand #254472963267:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:14:03 WET [2025/01/20 15:14:03 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($106.11 in chips) 
+Seat 4: easy_sarcasm ($103.96 in chips) 
+franco232315: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+easy_sarcasm: folds 
+Uncalled bet ($1.50) returned to franco232315
+franco232315 collected $2 from pot
+franco232315: doesn't show hand 
+Supermegopro joins the table at seat #6 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: franco232315 (button) (small blind) collected ($2)
+Seat 4: easy_sarcasm (big blind) folded before Flop
+
+
+
+PokerStars Hand #254472967799:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:14:17 WET [2025/01/20 15:14:17 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($107.11 in chips) 
+Seat 4: easy_sarcasm ($102.96 in chips) 
+Seat 6: Supermegopro ($127.91 in chips) 
+easy_sarcasm: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+franco232315: folds 
+easy_sarcasm: folds 
+Uncalled bet ($0.50) returned to Supermegopro
+Supermegopro collected $1 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: franco232315 (button) folded before Flop (didn't bet)
+Seat 4: easy_sarcasm (small blind) folded before Flop
+Seat 6: Supermegopro (big blind) collected ($1)
+
+
+
+PokerStars Hand #254472969841:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:14:23 WET [2025/01/20 15:14:23 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 2: franco232315 ($107.11 in chips) 
+Seat 4: easy_sarcasm ($102.46 in chips) 
+Seat 6: Supermegopro ($128.41 in chips) 
+Supermegopro: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+Supermegopro: folds 
+Uncalled bet ($0.50) returned to franco232315
+franco232315 collected $1 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: franco232315 (big blind) collected ($1)
+Seat 4: easy_sarcasm (button) folded before Flop (didn't bet)
+Seat 6: Supermegopro (small blind) folded before Flop
+
+
+
+PokerStars Hand #254472973110:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:14:33 WET [2025/01/20 15:14:33 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($107.61 in chips) 
+Seat 4: easy_sarcasm ($102.46 in chips) 
+Seat 6: Supermegopro ($127.91 in chips) 
+franco232315: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+franco232315: raises $2 to $3
+easy_sarcasm: calls $2
+*** FLOP *** [6s 9c Qc]
+franco232315: checks 
+easy_sarcasm: checks 
+*** TURN *** [6s 9c Qc] [8d]
+franco232315: bets $4.28
+easy_sarcasm: folds 
+Uncalled bet ($4.28) returned to franco232315
+franco232315 collected $5.70 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6s 9c Qc 8d]
+Seat 2: franco232315 (small blind) collected ($5.70)
+Seat 4: easy_sarcasm (big blind) folded on the Turn
+Seat 6: Supermegopro (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254472984200:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:15:06 WET [2025/01/20 15:15:06 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($110.31 in chips) 
+Seat 4: easy_sarcasm ($100 in chips) 
+Seat 6: Supermegopro ($127.91 in chips) 
+easy_sarcasm: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+easy_sarcasm: folds 
+Supermegopro: folds 
+Uncalled bet ($1.50) returned to franco232315
+franco232315 collected $2.50 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: franco232315 (button) collected ($2.50)
+Seat 4: easy_sarcasm (small blind) folded before Flop
+Seat 6: Supermegopro (big blind) folded before Flop
+
+
+
+PokerStars Hand #254472988454:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:15:19 WET [2025/01/20 15:15:19 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 2: franco232315 ($111.81 in chips) 
+Seat 4: easy_sarcasm ($100 in chips) 
+Seat 6: Supermegopro ($126.91 in chips) 
+Supermegopro: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+Supermegopro: raises $2 to $3
+franco232315: calls $2
+*** FLOP *** [9s 9h 8s]
+Supermegopro: checks 
+franco232315: bets $1.88
+Supermegopro: calls $1.88
+*** TURN *** [9s 9h 8s] [2h]
+Supermegopro: checks 
+franco232315: bets $9.27
+Supermegopro: raises $112.76 to $122.03 and is all-in
+franco232315: folds 
+Uncalled bet ($112.76) returned to Supermegopro
+Supermegopro collected $27.30 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $28.30 | Rake $1 
+Board [9s 9h 8s 2h]
+Seat 2: franco232315 (big blind) folded on the Turn
+Seat 4: easy_sarcasm (button) folded before Flop (didn't bet)
+Seat 6: Supermegopro (small blind) collected ($27.30)
+
+
+
+PokerStars Hand #254473007491:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:16:16 WET [2025/01/20 15:16:16 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($100 in chips) 
+Seat 4: easy_sarcasm ($100 in chips) 
+Seat 6: Supermegopro ($140.06 in chips) 
+franco232315: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+franco232315: folds 
+easy_sarcasm: folds 
+Uncalled bet ($1.50) returned to Supermegopro
+Supermegopro collected $2.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: franco232315 (small blind) folded before Flop
+Seat 4: easy_sarcasm (big blind) folded before Flop
+Seat 6: Supermegopro (button) collected ($2.50)
+
+
+
+PokerStars Hand #254473010746:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:16:26 WET [2025/01/20 15:16:26 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($100 in chips) 
+Seat 4: easy_sarcasm ($100 in chips) 
+Seat 6: Supermegopro ($141.56 in chips) 
+easy_sarcasm: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+franco232315: folds 
+easy_sarcasm: folds 
+Uncalled bet ($0.50) returned to Supermegopro
+Supermegopro collected $1 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: franco232315 (button) folded before Flop (didn't bet)
+Seat 4: easy_sarcasm (small blind) folded before Flop
+Seat 6: Supermegopro (big blind) collected ($1)
+
+
+
+PokerStars Hand #254473013395:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:16:34 WET [2025/01/20 15:16:34 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 2: franco232315 ($100 in chips) 
+Seat 4: easy_sarcasm ($100 in chips) 
+Seat 6: Supermegopro ($142.06 in chips) 
+Supermegopro: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: raises $1.20 to $2.20
+Supermegopro: folds 
+franco232315: raises $8.80 to $11
+easy_sarcasm: folds 
+Uncalled bet ($8.80) returned to franco232315
+franco232315 collected $4.90 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0 
+Seat 2: franco232315 (big blind) collected ($4.90)
+Seat 4: easy_sarcasm (button) folded before Flop
+Seat 6: Supermegopro (small blind) folded before Flop
+
+
+
+PokerStars Hand #254473021247:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:16:58 WET [2025/01/20 15:16:58 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($102.70 in chips) 
+Seat 4: easy_sarcasm ($100 in chips) 
+Seat 6: Supermegopro ($141.56 in chips) 
+franco232315: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+franco232315: raises $2 to $3
+easy_sarcasm: folds 
+Uncalled bet ($2) returned to franco232315
+franco232315 collected $2 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: franco232315 (small blind) collected ($2)
+Seat 4: easy_sarcasm (big blind) folded before Flop
+Seat 6: Supermegopro (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254473024874:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:17:09 WET [2025/01/20 15:17:09 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($103.70 in chips) 
+Seat 4: easy_sarcasm ($100 in chips) 
+Seat 6: Supermegopro ($141.56 in chips) 
+easy_sarcasm: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+easy_sarcasm: folds 
+Supermegopro: calls $1.50
+*** FLOP *** [Kh 8s 6c]
+Supermegopro: checks 
+franco232315: checks 
+*** TURN *** [Kh 8s 6c] [Jd]
+Supermegopro: checks 
+franco232315: bets $3.92
+Supermegopro: calls $3.92
+*** RIVER *** [Kh 8s 6c Jd] [Qh]
+Supermegopro: checks 
+franco232315: bets $9.50
+Supermegopro: folds 
+Uncalled bet ($9.50) returned to franco232315
+franco232315 collected $12.67 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [Kh 8s 6c Jd Qh]
+Seat 2: franco232315 (button) collected ($12.67)
+Seat 4: easy_sarcasm (small blind) folded before Flop
+Seat 6: Supermegopro (big blind) folded on the River
+
+
+
+PokerStars Hand #254473046893:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:18:15 WET [2025/01/20 15:18:15 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 2: franco232315 ($109.95 in chips) 
+Seat 4: easy_sarcasm ($100 in chips) 
+Seat 6: Supermegopro ($135.14 in chips) 
+Supermegopro: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+Supermegopro: raises $2 to $3
+franco232315: raises $6 to $9
+Supermegopro: folds 
+Uncalled bet ($6) returned to franco232315
+franco232315 collected $6 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: franco232315 (big blind) collected ($6)
+Seat 4: easy_sarcasm (button) folded before Flop (didn't bet)
+Seat 6: Supermegopro (small blind) folded before Flop
+
+
+
+PokerStars Hand #254473052763:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:18:33 WET [2025/01/20 15:18:33 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 4: easy_sarcasm ($100 in chips) is sitting out
+Seat 2: franco232315 ($112.95 in chips) 
+Seat 6: Supermegopro ($132.14 in chips) 
+franco232315: posts small blind $0.50
+easy_sarcasm: is sitting out 
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm leaves the table
+franco232315: raises $1.50 to $2.50
+Supermegopro: folds 
+Uncalled bet ($1.50) returned to franco232315
+franco232315 collected $2 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: easy_sarcasm
+Seat 2: franco232315 (button) (small blind) collected ($2)
+Seat 6: Supermegopro (big blind) folded before Flop
+
+
+
+PokerStars Hand #254473056012:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:18:43 WET [2025/01/20 15:18:43 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($113.95 in chips) 
+Seat 6: Supermegopro ($131.14 in chips) 
+Supermegopro: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $2 to $3
+franco232315: folds 
+Uncalled bet ($2) returned to Supermegopro
+Supermegopro collected $2 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: franco232315 (big blind) folded before Flop
+Seat 6: Supermegopro (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254473058832:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:18:51 WET [2025/01/20 15:18:51 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($112.95 in chips) 
+Seat 6: Supermegopro ($132.14 in chips) 
+franco232315: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+Supermegopro: calls $1.50
+*** FLOP *** [Ac 6h 2h]
+Supermegopro: checks 
+franco232315: bets $1.57
+Supermegopro: raises $6.43 to $8
+franco232315: folds 
+Uncalled bet ($6.43) returned to Supermegopro
+Supermegopro collected $7.73 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.14 | Rake $0.41 
+Board [Ac 6h 2h]
+Seat 2: franco232315 (button) (small blind) folded on the Flop
+Seat 6: Supermegopro (big blind) collected ($7.73)
+
+
+
+PokerStars Hand #254473066761:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:19:15 WET [2025/01/20 15:19:15 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($108.88 in chips) 
+Seat 6: Supermegopro ($135.80 in chips) 
+Supermegopro: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+franco232315: folds 
+Uncalled bet ($1.50) returned to Supermegopro
+Supermegopro collected $2 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: franco232315 (big blind) folded before Flop
+Seat 6: Supermegopro (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254473069471:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:19:24 WET [2025/01/20 15:19:24 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($107.88 in chips) 
+Seat 6: Supermegopro ($136.80 in chips) 
+franco232315: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+Supermegopro: folds 
+Uncalled bet ($1.50) returned to franco232315
+franco232315 collected $2 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: franco232315 (button) (small blind) collected ($2)
+Seat 6: Supermegopro (big blind) folded before Flop
+
+
+
+PokerStars Hand #254473072006:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:19:31 WET [2025/01/20 15:19:31 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($108.88 in chips) 
+Seat 6: Supermegopro ($135.80 in chips) 
+Supermegopro: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $2 to $3
+franco232315: calls $2
+*** FLOP *** [Ks Td 4s]
+franco232315: checks 
+Supermegopro: checks 
+*** TURN *** [Ks Td 4s] [6c]
+franco232315: bets $4.28
+Supermegopro: calls $4.28
+*** RIVER *** [Ks Td 4s 6c] [Ts]
+franco232315: bets $33
+Supermegopro: folds 
+Uncalled bet ($33) returned to franco232315
+franco232315 collected $13.83 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.56 | Rake $0.73 
+Board [Ks Td 4s 6c Ts]
+Seat 2: franco232315 (big blind) collected ($13.83)
+Seat 6: Supermegopro (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #254473088749:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:20:22 WET [2025/01/20 15:20:22 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($115.43 in chips) 
+Seat 6: Supermegopro ($128.52 in chips) 
+franco232315: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+Supermegopro: raises $7.50 to $10
+franco232315: folds 
+Uncalled bet ($7.50) returned to Supermegopro
+Supermegopro collected $5 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 2: franco232315 (button) (small blind) folded before Flop
+Seat 6: Supermegopro (big blind) collected ($5)
+
+
+
+PokerStars Hand #254473092754:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:20:34 WET [2025/01/20 15:20:34 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($112.93 in chips) 
+Seat 6: Supermegopro ($131.02 in chips) 
+Supermegopro: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $2 to $3
+franco232315: raises $9 to $12
+Supermegopro: folds 
+Uncalled bet ($9) returned to franco232315
+franco232315 collected $6 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: franco232315 (big blind) collected ($6)
+Seat 6: Supermegopro (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254473096967:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:20:46 WET [2025/01/20 15:20:46 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($115.93 in chips) 
+Seat 6: Supermegopro ($128.02 in chips) 
+franco232315: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+franco232315: folds 
+Uncalled bet ($0.50) returned to Supermegopro
+Supermegopro collected $1 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: franco232315 (button) (small blind) folded before Flop
+Seat 6: Supermegopro (big blind) collected ($1)
+
+
+
+PokerStars Hand #254473099093:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:20:53 WET [2025/01/20 15:20:53 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($115.43 in chips) 
+Seat 6: Supermegopro ($128.52 in chips) 
+Supermegopro: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $2 to $3
+franco232315: raises $9 to $12
+Supermegopro: calls $9
+*** FLOP *** [4d 9c Ah]
+franco232315: bets $5.75
+Supermegopro: folds 
+Uncalled bet ($5.75) returned to franco232315
+franco232315 collected $23 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1 
+Board [4d 9c Ah]
+Seat 2: franco232315 (big blind) collected ($23)
+Seat 6: Supermegopro (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254473106987:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:21:17 WET [2025/01/20 15:21:17 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($126.43 in chips) 
+Seat 6: Supermegopro ($116.52 in chips) 
+franco232315: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+Supermegopro: calls $1.50
+*** FLOP *** [Tc Ac 7c]
+Supermegopro: checks 
+franco232315: bets $1.19
+Supermegopro: folds 
+Uncalled bet ($1.19) returned to franco232315
+franco232315 collected $4.75 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Tc Ac 7c]
+Seat 2: franco232315 (button) (small blind) collected ($4.75)
+Seat 6: Supermegopro (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254473112966:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:21:35 WET [2025/01/20 15:21:35 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($128.68 in chips) 
+Seat 6: Supermegopro ($114.02 in chips) 
+Supermegopro: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $2 to $3
+franco232315: raises $9 to $12
+Supermegopro: folds 
+Uncalled bet ($9) returned to franco232315
+franco232315 collected $6 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: franco232315 (big blind) collected ($6)
+Seat 6: Supermegopro (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254473116932:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:21:47 WET [2025/01/20 15:21:47 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($131.68 in chips) 
+Seat 6: Supermegopro ($111.02 in chips) 
+franco232315: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+Supermegopro: raises $9.50 to $12
+franco232315: calls $9.50
+*** FLOP *** [2c Js 2s]
+Supermegopro: bets $5.75
+franco232315: calls $5.75
+*** TURN *** [2c Js 2s] [7s]
+Supermegopro: bets $11.39
+franco232315: calls $11.39
+*** RIVER *** [2c Js 2s 7s] [3s]
+Supermegopro: checks 
+franco232315: bets $102.54 and is all-in
+Supermegopro: folds 
+Uncalled bet ($102.54) returned to franco232315
+franco232315 collected $57.28 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $58.28 | Rake $1 
+Board [2c Js 2s 7s 3s]
+Seat 2: franco232315 (button) (small blind) collected ($57.28)
+Seat 6: Supermegopro (big blind) folded on the River
+
+
+
+PokerStars Hand #254473144615:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:23:11 WET [2025/01/20 15:23:11 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($159.82 in chips) 
+Seat 6: Supermegopro ($100 in chips) 
+Supermegopro: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $2 to $3
+franco232315: calls $2
+*** FLOP *** [Ad 6s As]
+franco232315: checks 
+Supermegopro: bets $2.85
+AIien Hand joins the table at seat #4 
+franco232315: folds 
+Uncalled bet ($2.85) returned to Supermegopro
+Supermegopro collected $5.70 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ad 6s As]
+Seat 2: franco232315 (big blind) folded on the Flop
+Seat 6: Supermegopro (button) (small blind) collected ($5.70)
+
+
+
+PokerStars Hand #254473149922:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:23:27 WET [2025/01/20 15:23:27 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($156.82 in chips) 
+Seat 4: AIien Hand ($100 in chips) 
+Seat 6: Supermegopro ($102.70 in chips) 
+franco232315: posts small blind $0.50
+AIien Hand: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+franco232315: folds 
+Uncalled bet ($0.50) returned to AIien Hand
+AIien Hand collected $1 from pot
+AIien Hand: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: franco232315 (small blind) folded before Flop
+Seat 4: AIien Hand (big blind) collected ($1)
+Seat 6: Supermegopro (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254473155689:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:23:44 WET [2025/01/20 15:23:44 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 2: franco232315 ($156.32 in chips) 
+Seat 4: AIien Hand ($100.50 in chips) 
+Seat 6: Supermegopro ($102.70 in chips) 
+AIien Hand: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+AIien Hand: folds 
+Supermegopro: raises $10.50 to $13
+franco232315: folds 
+Uncalled bet ($10.50) returned to Supermegopro
+Supermegopro collected $5.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 2: franco232315 (button) folded before Flop
+Seat 4: AIien Hand (small blind) folded before Flop
+Seat 6: Supermegopro (big blind) collected ($5.50)
+
+
+
+PokerStars Hand #254473159519:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:23:56 WET [2025/01/20 15:23:56 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 2: franco232315 ($153.82 in chips) 
+Seat 4: AIien Hand ($100 in chips) 
+Seat 6: Supermegopro ($105.70 in chips) 
+Supermegopro: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+AIien Hand: folds 
+Supermegopro: folds 
+Uncalled bet ($0.50) returned to franco232315
+franco232315 collected $1 from pot
+franco232315: doesn't show hand 
+Espada Fish joins the table at seat #1 
+XneferX joins the table at seat #5 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: franco232315 (big blind) collected ($1)
+Seat 4: AIien Hand (button) folded before Flop (didn't bet)
+Seat 6: Supermegopro (small blind) folded before Flop
+
+
+
+PokerStars Hand #254473162785:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:24:06 WET [2025/01/20 15:24:06 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 1: Espada Fish ($100 in chips) is sitting out
+Seat 5: XneferX ($100 in chips) is sitting out
+Seat 2: franco232315 ($154.32 in chips) 
+Seat 4: AIien Hand ($100 in chips) 
+Seat 6: Supermegopro ($105.20 in chips) 
+franco232315: posts small blind $0.50
+AIien Hand: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+worker0k joins the table at seat #3 
+Supermegopro: folds 
+franco232315: raises $2 to $3
+Espada Fish leaves the table
+AIien Hand: raises $6 to $9
+franco232315: folds 
+Uncalled bet ($6) returned to AIien Hand
+AIien Hand collected $6 from pot
+AIien Hand: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Espada Fish
+Seat 5: XneferX
+Seat 2: franco232315 (small blind) folded before Flop
+Seat 4: AIien Hand (big blind) collected ($6)
+Seat 6: Supermegopro (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254473171680:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:24:32 WET [2025/01/20 15:24:32 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 3: worker0k ($100 in chips) is sitting out
+Seat 2: franco232315 ($151.32 in chips) 
+Seat 4: AIien Hand ($103 in chips) 
+Seat 5: XneferX ($100 in chips) 
+Seat 6: Supermegopro ($105.20 in chips) 
+AIien Hand: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+franco232315: folds 
+AIien Hand: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: worker0k
+Seat 2: franco232315 (button) folded before Flop (didn't bet)
+Seat 4: AIien Hand (small blind) folded before Flop
+Seat 5: XneferX (big blind) collected ($1)
+Seat 6: Supermegopro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254473175572:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:24:44 WET [2025/01/20 15:24:44 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 3: worker0k ($100 in chips) is sitting out
+Seat 2: franco232315 ($151.32 in chips) 
+Seat 4: AIien Hand ($102.50 in chips) 
+Seat 5: XneferX ($100.50 in chips) 
+Seat 6: Supermegopro ($105.20 in chips) 
+XneferX: posts small blind $0.50
+Supermegopro: posts big blind $1
+worker0k: sits out 
+*** HOLE CARDS ***
+franco232315: folds 
+AIien Hand: raises $1.50 to $2.50
+XneferX: folds 
+Supermegopro: calls $1.50
+*** FLOP *** [2d 4s 9c]
+Supermegopro: checks 
+Bejondeiala joins the table at seat #1 
+AIien Hand: bets $5.59
+Supermegopro: folds 
+Uncalled bet ($5.59) returned to AIien Hand
+AIien Hand collected $5.22 from pot
+AIien Hand: doesn't show hand 
+Bejondeiala leaves the table
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [2d 4s 9c]
+Seat 3: worker0k
+Seat 2: franco232315 folded before Flop (didn't bet)
+Seat 4: AIien Hand (button) collected ($5.22)
+Seat 5: XneferX (small blind) folded before Flop
+Seat 6: Supermegopro (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254473187790:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:25:21 WET [2025/01/20 15:25:21 ET]
+Table 'Roehla IV' 6-max Seat #5 is the button
+Seat 3: worker0k ($100 in chips) is sitting out
+Seat 2: franco232315 ($151.32 in chips) 
+Seat 4: AIien Hand ($105.22 in chips) 
+Seat 5: XneferX ($100 in chips) 
+Seat 6: Supermegopro ($102.70 in chips) 
+Supermegopro: posts small blind $0.50
+franco232315: posts big blind $1
+worker0k: sits out 
+*** HOLE CARDS ***
+afizola joins the table at seat #1 
+afizola is disconnected 
+AIien Hand: folds 
+XneferX: raises $1.77 to $2.77
+Supermegopro: folds 
+franco232315: folds 
+Uncalled bet ($1.77) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: worker0k
+Seat 2: franco232315 (big blind) folded before Flop
+Seat 4: AIien Hand folded before Flop (didn't bet)
+Seat 5: XneferX (button) collected ($2.50)
+Seat 6: Supermegopro (small blind) folded before Flop
+
+
+
+PokerStars Hand #254473194862:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:25:43 WET [2025/01/20 15:25:43 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 1: afizola ($48.03 in chips) is sitting out
+Seat 2: franco232315 ($150.32 in chips) 
+Seat 3: worker0k ($100 in chips) 
+Seat 4: AIien Hand ($105.22 in chips) 
+Seat 5: XneferX ($101.50 in chips) 
+Seat 6: Supermegopro ($102.20 in chips) 
+franco232315: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+AIien Hand: folds 
+XneferX: raises $1.30 to $2.30
+Supermegopro: folds 
+franco232315: folds 
+worker0k: raises $8.70 to $11
+XneferX: folds 
+Uncalled bet ($8.70) returned to worker0k
+worker0k collected $5.10 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0 
+Seat 1: afizola
+Seat 2: franco232315 (small blind) folded before Flop
+Seat 3: worker0k (big blind) collected ($5.10)
+Seat 4: AIien Hand folded before Flop (didn't bet)
+Seat 5: XneferX folded before Flop
+Seat 6: Supermegopro (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254473204087:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:26:11 WET [2025/01/20 15:26:11 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 1: afizola ($48.03 in chips) 
+Seat 2: franco232315 ($149.82 in chips) 
+Seat 3: worker0k ($102.80 in chips) 
+Seat 4: AIien Hand ($105.22 in chips) 
+Seat 5: XneferX ($100 in chips) 
+Seat 6: Supermegopro ($102.20 in chips) 
+worker0k: posts small blind $0.50
+AIien Hand: posts big blind $1
+afizola: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Supermegopro: folds 
+afizola: checks 
+franco232315: raises $3 to $4
+worker0k: folds 
+AIien Hand: folds 
+afizola: folds 
+Uncalled bet ($3) returned to franco232315
+franco232315 collected $3.50 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: afizola folded before Flop (didn't bet)
+Seat 2: franco232315 (button) collected ($3.50)
+Seat 3: worker0k (small blind) folded before Flop
+Seat 4: AIien Hand (big blind) folded before Flop
+Seat 5: XneferX folded before Flop (didn't bet)
+Seat 6: Supermegopro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254473210313:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:26:29 WET [2025/01/20 15:26:29 ET]
+Table 'Roehla IV' 6-max Seat #3 is the button
+Seat 1: afizola ($47.03 in chips) 
+Seat 2: franco232315 ($152.32 in chips) 
+Seat 3: worker0k ($102.30 in chips) 
+Seat 4: AIien Hand ($104.22 in chips) 
+Seat 5: XneferX ($100 in chips) 
+Seat 6: Supermegopro ($102.20 in chips) 
+AIien Hand: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+afizola: calls $2.50
+franco232315: folds 
+worker0k: folds 
+AIien Hand: folds 
+XneferX: folds 
+*** FLOP *** [Jc Td 2c]
+Supermegopro: checks 
+afizola: bets $3.09
+Supermegopro: calls $3.09
+*** TURN *** [Jc Td 2c] [Ts]
+Supermegopro: checks 
+afizola: checks 
+*** RIVER *** [Jc Td 2c Ts] [4h]
+Supermegopro: checks 
+afizola: bets $6.03
+Supermegopro: folds 
+Uncalled bet ($6.03) returned to afizola
+afizola collected $12.05 from pot
+afizola: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.68 | Rake $0.63 
+Board [Jc Td 2c Ts 4h]
+Seat 1: afizola collected ($12.05)
+Seat 2: franco232315 folded before Flop (didn't bet)
+Seat 3: worker0k (button) folded before Flop (didn't bet)
+Seat 4: AIien Hand (small blind) folded before Flop
+Seat 5: XneferX (big blind) folded before Flop
+Seat 6: Supermegopro folded on the River
+
+
+
+PokerStars Hand #254473221088:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:27:02 WET [2025/01/20 15:27:02 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 1: afizola ($53.49 in chips) 
+Seat 2: franco232315 ($152.32 in chips) 
+Seat 3: worker0k ($102.30 in chips) 
+Seat 4: AIien Hand ($103.72 in chips) 
+Seat 5: XneferX ($100 in chips) 
+Seat 6: Supermegopro ($100 in chips) 
+XneferX: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+afizola: calls $1
+franco232315: folds 
+worker0k: folds 
+AIien Hand: folds 
+XneferX: calls $0.50
+Supermegopro: checks 
+*** FLOP *** [7d 8c Th]
+XneferX: checks 
+Supermegopro: checks 
+afizola: checks 
+*** TURN *** [7d 8c Th] [9s]
+XneferX: checks 
+Supermegopro: bets $1.90
+afizola: calls $1.90
+XneferX: calls $1.90
+*** RIVER *** [7d 8c Th 9s] [4s]
+XneferX: checks 
+Supermegopro: bets $2.73
+afizola: raises $6.86 to $9.59
+XneferX: folds 
+Supermegopro: calls $6.86
+*** SHOW DOWN ***
+afizola: shows [Qs Td] (a pair of Tens)
+Supermegopro: shows [Jd 4d] (a straight, Seven to Jack)
+Supermegopro collected $26.49 from pot
+*** SUMMARY ***
+Total pot $27.88 | Rake $1.39 
+Board [7d 8c Th 9s 4s]
+Seat 1: afizola showed [Qs Td] and lost with a pair of Tens
+Seat 2: franco232315 folded before Flop (didn't bet)
+Seat 3: worker0k folded before Flop (didn't bet)
+Seat 4: AIien Hand (button) folded before Flop (didn't bet)
+Seat 5: XneferX (small blind) folded on the River
+Seat 6: Supermegopro (big blind) showed [Jd 4d] and won ($26.49) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #254473243432:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:28:10 WET [2025/01/20 15:28:10 ET]
+Table 'Roehla IV' 6-max Seat #5 is the button
+Seat 1: afizola ($41 in chips) 
+Seat 2: franco232315 ($152.32 in chips) 
+Seat 3: worker0k ($102.30 in chips) 
+Seat 4: AIien Hand ($103.72 in chips) 
+Seat 5: XneferX ($100 in chips) 
+Seat 6: Supermegopro ($114 in chips) 
+Supermegopro: posts small blind $0.50
+afizola: posts big blind $1
+*** HOLE CARDS ***
+franco232315: raises $1.20 to $2.20
+worker0k: folds 
+AIien Hand: folds 
+XneferX: folds 
+Supermegopro: folds 
+afizola: folds 
+Uncalled bet ($1.20) returned to franco232315
+franco232315 collected $2.50 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: afizola (big blind) folded before Flop
+Seat 2: franco232315 collected ($2.50)
+Seat 3: worker0k folded before Flop (didn't bet)
+Seat 4: AIien Hand folded before Flop (didn't bet)
+Seat 5: XneferX (button) folded before Flop (didn't bet)
+Seat 6: Supermegopro (small blind) folded before Flop
+
+
+
+PokerStars Hand #254473248227:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:28:24 WET [2025/01/20 15:28:24 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 1: afizola ($40 in chips) 
+Seat 2: franco232315 ($153.82 in chips) 
+Seat 3: worker0k ($102.30 in chips) 
+Seat 4: AIien Hand ($103.72 in chips) 
+Seat 5: XneferX ($100 in chips) 
+Seat 6: Supermegopro ($113.50 in chips) 
+afizola: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+worker0k: folds 
+AIien Hand: folds 
+XneferX: folds 
+Supermegopro: folds 
+afizola: folds 
+Uncalled bet ($0.50) returned to franco232315
+franco232315 collected $1 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: afizola (small blind) folded before Flop
+Seat 2: franco232315 (big blind) collected ($1)
+Seat 3: worker0k folded before Flop (didn't bet)
+Seat 4: AIien Hand folded before Flop (didn't bet)
+Seat 5: XneferX folded before Flop (didn't bet)
+Seat 6: Supermegopro (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254473410696:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:36:39 WET [2025/01/20 15:36:39 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 1: afizola ($22.53 in chips) 
+Seat 2: franco232315 ($163.90 in chips) 
+Seat 3: worker0k ($120.86 in chips) 
+Seat 4: AIien Hand ($103.47 in chips) 
+Seat 5: XneferX ($115.40 in chips) 
+Seat 6: BoyLoc0 ($100 in chips) 
+afizola: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+worker0k: folds 
+AIien Hand: folds 
+XneferX: folds 
+BoyLoc0: raises $1.50 to $2.50
+afizola: folds 
+franco232315: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: afizola (small blind) folded before Flop
+Seat 2: franco232315 (big blind) folded before Flop
+Seat 3: worker0k folded before Flop (didn't bet)
+Seat 4: AIien Hand folded before Flop (didn't bet)
+Seat 5: XneferX folded before Flop (didn't bet)
+Seat 6: BoyLoc0 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254473417118:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:36:58 WET [2025/01/20 15:36:58 ET]
+Table 'Roehla IV' 6-max Seat #1 is the button
+Seat 1: afizola ($22.03 in chips) 
+Seat 2: franco232315 ($162.90 in chips) 
+Seat 3: worker0k ($120.86 in chips) 
+Seat 4: AIien Hand ($103.47 in chips) 
+Seat 5: XneferX ($115.40 in chips) 
+Seat 6: BoyLoc0 ($101.50 in chips) 
+franco232315: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+AIien Hand: folds 
+XneferX: raises $1.10 to $2.10
+BoyLoc0: folds 
+afizola: folds 
+franco232315: folds 
+worker0k: folds 
+Uncalled bet ($1.10) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: afizola (button) folded before Flop (didn't bet)
+Seat 2: franco232315 (small blind) folded before Flop
+Seat 3: worker0k (big blind) folded before Flop
+Seat 4: AIien Hand folded before Flop (didn't bet)
+Seat 5: XneferX collected ($2.50)
+Seat 6: BoyLoc0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254473424592:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:37:21 WET [2025/01/20 15:37:21 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 1: afizola ($22.03 in chips) 
+Seat 2: franco232315 ($162.40 in chips) 
+Seat 3: worker0k ($119.86 in chips) 
+Seat 4: AIien Hand ($103.47 in chips) 
+Seat 5: XneferX ($116.90 in chips) 
+Seat 6: BoyLoc0 ($101.50 in chips) 
+worker0k: posts small blind $0.50
+AIien Hand: posts big blind $1
+*** HOLE CARDS ***
+XneferX: raises $1.10 to $2.10
+BoyLoc0: folds 
+afizola: raises $1.10 to $3.20
+franco232315: folds 
+worker0k: folds 
+AIien Hand: folds 
+XneferX: calls $1.10
+*** FLOP *** [6s 5d 6d]
+XneferX: checks 
+afizola: bets $7.50
+XneferX: folds 
+Uncalled bet ($7.50) returned to afizola
+afizola collected $7.50 from pot
+afizola: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.90 | Rake $0.40 
+Board [6s 5d 6d]
+Seat 1: afizola collected ($7.50)
+Seat 2: franco232315 (button) folded before Flop (didn't bet)
+Seat 3: worker0k (small blind) folded before Flop
+Seat 4: AIien Hand (big blind) folded before Flop
+Seat 5: XneferX folded on the Flop
+Seat 6: BoyLoc0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254473438260:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:38:03 WET [2025/01/20 15:38:03 ET]
+Table 'Roehla IV' 6-max Seat #3 is the button
+Seat 1: afizola ($26.33 in chips) 
+Seat 2: franco232315 ($162.40 in chips) 
+Seat 3: worker0k ($119.36 in chips) 
+Seat 4: AIien Hand ($102.47 in chips) 
+Seat 5: XneferX ($113.70 in chips) 
+Seat 6: BoyLoc0 ($101.50 in chips) 
+AIien Hand: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+afizola: calls $1
+franco232315: folds 
+worker0k: folds 
+AIien Hand: raises $1 to $2
+XneferX: calls $1
+afizola: calls $1
+*** FLOP *** [3d 8d 5d]
+AIien Hand: checks 
+XneferX: bets $1.94
+afizola: raises $9.58 to $11.52
+AIien Hand: raises $20.48 to $32
+XneferX: folds 
+afizola: calls $12.81 and is all-in
+Uncalled bet ($7.67) returned to AIien Hand
+*** TURN *** [3d 8d 5d] [5s]
+*** RIVER *** [3d 8d 5d 5s] [6c]
+*** SHOW DOWN ***
+AIien Hand: shows [Ad 4d] (a flush, Ace high)
+afizola: shows [Qc Qh] (two pair, Queens and Fives)
+AIien Hand collected $54.10 from pot
+*** SUMMARY ***
+Total pot $56.60 | Rake $2.50 
+Board [3d 8d 5d 5s 6c]
+Seat 1: afizola showed [Qc Qh] and lost with two pair, Queens and Fives
+Seat 2: franco232315 folded before Flop (didn't bet)
+Seat 3: worker0k (button) folded before Flop (didn't bet)
+Seat 4: AIien Hand (small blind) showed [Ad 4d] and won ($54.10) with a flush, Ace high
+Seat 5: XneferX (big blind) folded on the Flop
+Seat 6: BoyLoc0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254473467963:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:39:34 WET [2025/01/20 15:39:34 ET]
+Table 'Roehla IV' 6-max Seat #4 is the button
+Seat 1: afizola ($0 in chips) is sitting out
+Seat 2: franco232315 ($162.40 in chips) 
+Seat 3: worker0k ($119.36 in chips) 
+Seat 4: AIien Hand ($130.24 in chips) 
+Seat 5: XneferX ($109.76 in chips) 
+Seat 6: BoyLoc0 ($101.50 in chips) 
+XneferX: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+franco232315: folds 
+worker0k: raises $1.30 to $2.30
+AIien Hand: folds 
+XneferX: folds 
+BoyLoc0: folds 
+Uncalled bet ($1.30) returned to worker0k
+worker0k collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: afizola
+Seat 2: franco232315 folded before Flop (didn't bet)
+Seat 3: worker0k collected ($2.50)
+Seat 4: AIien Hand (button) folded before Flop (didn't bet)
+Seat 5: XneferX (small blind) folded before Flop
+Seat 6: BoyLoc0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254473473063:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:39:50 WET [2025/01/20 15:39:50 ET]
+Table 'Roehla IV' 6-max Seat #5 is the button
+Seat 1: afizola ($0 in chips) is sitting out
+Seat 2: franco232315 ($162.40 in chips) 
+Seat 3: worker0k ($120.86 in chips) 
+Seat 4: AIien Hand ($130.24 in chips) 
+Seat 5: XneferX ($109.26 in chips) 
+Seat 6: BoyLoc0 ($100.50 in chips) 
+BoyLoc0: posts small blind $0.50
+franco232315: posts big blind $1
+*** HOLE CARDS ***
+worker0k: folds 
+AIien Hand: folds 
+XneferX: folds 
+BoyLoc0: folds 
+Uncalled bet ($0.50) returned to franco232315
+franco232315 collected $1 from pot
+afizola leaves the table
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: afizola
+Seat 2: franco232315 (big blind) collected ($1)
+Seat 3: worker0k folded before Flop (didn't bet)
+Seat 4: AIien Hand folded before Flop (didn't bet)
+Seat 5: XneferX (button) folded before Flop (didn't bet)
+Seat 6: BoyLoc0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254473476960:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:40:02 WET [2025/01/20 15:40:02 ET]
+Table 'Roehla IV' 6-max Seat #6 is the button
+Seat 2: franco232315 ($162.90 in chips) 
+Seat 3: worker0k ($120.86 in chips) 
+Seat 4: AIien Hand ($130.24 in chips) 
+Seat 5: XneferX ($109.26 in chips) 
+Seat 6: BoyLoc0 ($100 in chips) 
+michasia joins the table at seat #1 
+franco232315: posts small blind $0.50
+worker0k: posts big blind $1
+*** HOLE CARDS ***
+AIien Hand: folds 
+XneferX: folds 
+BoyLoc0: raises $1.50 to $2.50
+franco232315: folds 
+worker0k: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: franco232315 (small blind) folded before Flop
+Seat 3: worker0k (big blind) folded before Flop
+Seat 4: AIien Hand folded before Flop (didn't bet)
+Seat 5: XneferX folded before Flop (didn't bet)
+Seat 6: BoyLoc0 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254473483271:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 20:40:21 WET [2025/01/20 15:40:21 ET]
+Table 'Roehla IV' 6-max Seat #2 is the button
+Seat 1: michasia ($100 in chips) is sitting out
+Seat 3: worker0k ($119.86 in chips) is sitting out
+Seat 5: XneferX ($109.26 in chips) is sitting out
+Seat 2: franco232315 ($162.40 in chips) 
+Seat 4: AIien Hand ($130.24 in chips) 
+Seat 6: BoyLoc0 ($101.50 in chips) 
+AIien Hand: posts small blind $0.50
+XneferX: is sitting out 
+BoyLoc0: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+franco232315: raises $1.50 to $2.50
+AIien Hand: folds 
+worker0k leaves the table
+BoyLoc0: folds 
+Uncalled bet ($1.50) returned to franco232315
+franco232315 collected $2.50 from pot
+franco232315: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: michasia
+Seat 3: worker0k
+Seat 5: XneferX
+Seat 2: franco232315 (button) collected ($2.50)
+Seat 4: AIien Hand (small blind) folded before Flop
+Seat 6: BoyLoc0 (big blind) folded before Flop
+
+
+

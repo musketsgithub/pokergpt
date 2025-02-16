@@ -1,0 +1,469 @@
+﻿PokerStars Hand #254743304807:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:41:27 WET [2025/02/06 19:41:27 ET]
+Table 'Pele' 6-max Seat #2 is the button
+Seat 1: tinkode22 ($51.14 in chips) 
+Seat 2: Espada Fish ($100 in chips) 
+Seat 3: SorinS28 ($101 in chips) 
+Seat 4: ReVeu710 ($104.50 in chips) 
+Seat 5: avlee1 ($101.50 in chips) 
+Seat 6: pr0tecto ($101.50 in chips) 
+SorinS28: posts small blind $0.50
+ReVeu710: posts big blind $1
+*** HOLE CARDS ***
+avlee1: raises $1.50 to $2.50
+pr0tecto: folds 
+tinkode22: calls $2.50
+Espada Fish: folds 
+SorinS28: folds 
+ReVeu710: folds 
+*** FLOP *** [2d Qd 2s]
+avlee1: bets $2.04
+tinkode22: calls $2.04
+*** TURN *** [2d Qd 2s] [Ts]
+avlee1: bets $6.63
+tinkode22: calls $6.63
+*** RIVER *** [2d Qd 2s Ts] [4s]
+avlee1: checks 
+tinkode22: bets $11.33
+avlee1: folds 
+Uncalled bet ($11.33) returned to tinkode22
+tinkode22 collected $22.65 from pot
+*** SUMMARY ***
+Total pot $23.84 | Rake $1.19 
+Board [2d Qd 2s Ts 4s]
+Seat 1: tinkode22 collected ($22.65)
+Seat 2: Espada Fish (button) folded before Flop (didn't bet)
+Seat 3: SorinS28 (small blind) folded before Flop
+Seat 4: ReVeu710 (big blind) folded before Flop
+Seat 5: avlee1 folded on the River
+Seat 6: pr0tecto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254743321745:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:42:57 WET [2025/02/06 19:42:57 ET]
+Table 'Pele' 6-max Seat #3 is the button
+Seat 5: avlee1 ($100 in chips) is sitting out
+Seat 1: tinkode22 ($62.62 in chips) 
+Seat 2: Espada Fish ($100 in chips) 
+Seat 3: SorinS28 ($100.50 in chips) 
+Seat 4: ReVeu710 ($103.50 in chips) 
+Seat 6: pr0tecto ($101.50 in chips) 
+ReVeu710: posts small blind $0.50
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+tinkode22: calls $1
+Espada Fish: raises $2.50 to $3.50
+SorinS28: folds 
+ReVeu710: folds 
+pr0tecto: folds 
+tinkode22: calls $2.50
+*** FLOP *** [Ac 4c 3s]
+tinkode22: checks 
+Espada Fish: checks 
+*** TURN *** [Ac 4c 3s] [2d]
+tinkode22: checks 
+Espada Fish: checks 
+*** RIVER *** [Ac 4c 3s 2d] [7s]
+tinkode22: bets $2
+Espada Fish: calls $2
+*** SHOW DOWN ***
+tinkode22: shows [7h 8s] (a pair of Sevens)
+Espada Fish: mucks hand 
+tinkode22 collected $11.88 from pot
+*** SUMMARY ***
+Total pot $12.50 | Rake $0.62 
+Board [Ac 4c 3s 2d 7s]
+Seat 5: avlee1
+Seat 1: tinkode22 showed [7h 8s] and won ($11.88) with a pair of Sevens
+Seat 2: Espada Fish mucked
+Seat 3: SorinS28 (button) folded before Flop (didn't bet)
+Seat 4: ReVeu710 (small blind) folded before Flop
+Seat 6: pr0tecto (big blind) folded before Flop
+
+
+
+PokerStars Hand #254743331939:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:43:53 WET [2025/02/06 19:43:53 ET]
+Table 'Pele' 6-max Seat #4 is the button
+Seat 5: avlee1 ($100 in chips) is sitting out
+Seat 1: tinkode22 ($69 in chips) 
+Seat 2: Espada Fish ($100 in chips) 
+Seat 3: SorinS28 ($100.50 in chips) 
+Seat 4: ReVeu710 ($103 in chips) 
+Seat 6: pr0tecto ($100.50 in chips) 
+pr0tecto: posts small blind $0.50
+tinkode22: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+SorinS28: raises $1.30 to $2.30
+ReVeu710: calls $2.30
+pr0tecto: folds 
+tinkode22: calls $1.30
+*** FLOP *** [Jc 3d 9h]
+tinkode22: checks 
+SorinS28: checks 
+ReVeu710: checks 
+*** TURN *** [Jc 3d 9h] [Qs]
+tinkode22: checks 
+SorinS28: checks 
+ReVeu710: checks 
+*** RIVER *** [Jc 3d 9h Qs] [Qc]
+tinkode22: checks 
+SorinS28: bets $3.52
+ReVeu710: calls $3.52
+tinkode22: folds 
+*** SHOW DOWN ***
+SorinS28: shows [Jd Th] (two pair, Queens and Jacks)
+ReVeu710: mucks hand 
+SorinS28 collected $13.72 from pot
+*** SUMMARY ***
+Total pot $14.44 | Rake $0.72 
+Board [Jc 3d 9h Qs Qc]
+Seat 5: avlee1
+Seat 1: tinkode22 (big blind) folded on the River
+Seat 2: Espada Fish folded before Flop (didn't bet)
+Seat 3: SorinS28 showed [Jd Th] and won ($13.72) with two pair, Queens and Jacks
+Seat 4: ReVeu710 (button) mucked
+Seat 6: pr0tecto (small blind) folded before Flop
+
+
+
+PokerStars Hand #254743343606:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:44:55 WET [2025/02/06 19:44:55 ET]
+Table 'Pele' 6-max Seat #6 is the button
+Seat 5: avlee1 ($100 in chips) is sitting out
+Seat 1: tinkode22 ($66.70 in chips) 
+Seat 2: Espada Fish ($100 in chips) 
+Seat 3: SorinS28 ($108.40 in chips) 
+Seat 4: ReVeu710 ($100 in chips) 
+Seat 6: pr0tecto ($100 in chips) 
+tinkode22: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+SorinS28: folds 
+ReVeu710: folds 
+pr0tecto: raises $2 to $3
+tinkode22: folds 
+Espada Fish: folds 
+Uncalled bet ($2) returned to pr0tecto
+pr0tecto collected $2.50 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: avlee1
+Seat 1: tinkode22 (small blind) folded before Flop
+Seat 2: Espada Fish (big blind) folded before Flop
+Seat 3: SorinS28 folded before Flop (didn't bet)
+Seat 4: ReVeu710 folded before Flop (didn't bet)
+Seat 6: pr0tecto (button) collected ($2.50)
+
+
+
+PokerStars Hand #254743345968:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:45:08 WET [2025/02/06 19:45:08 ET]
+Table 'Pele' 6-max Seat #1 is the button
+Seat 5: avlee1 ($100 in chips) is sitting out
+Seat 1: tinkode22 ($66.20 in chips) 
+Seat 2: Espada Fish ($100 in chips) 
+Seat 3: SorinS28 ($108.40 in chips) 
+Seat 4: ReVeu710 ($100 in chips) 
+Seat 6: pr0tecto ($101.50 in chips) 
+Espada Fish: posts small blind $0.50
+SorinS28: posts big blind $1
+*** HOLE CARDS ***
+ReVeu710: folds 
+pr0tecto: folds 
+tinkode22: calls $1
+Espada Fish: folds 
+SorinS28: checks 
+*** FLOP *** [8s Kc 8h]
+SorinS28: checks 
+tinkode22: checks 
+*** TURN *** [8s Kc 8h] [7h]
+SorinS28: checks 
+tinkode22: checks 
+*** RIVER *** [8s Kc 8h 7h] [3d]
+SorinS28: bets $1.19
+tinkode22: calls $1.19
+*** SHOW DOWN ***
+SorinS28: shows [Th 4d] (a pair of Eights)
+tinkode22: shows [4h 3h] (two pair, Eights and Threes)
+tinkode22 collected $4.64 from pot
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.24 
+Board [8s Kc 8h 7h 3d]
+Seat 5: avlee1
+Seat 1: tinkode22 (button) showed [4h 3h] and won ($4.64) with two pair, Eights and Threes
+Seat 2: Espada Fish (small blind) folded before Flop
+Seat 3: SorinS28 (big blind) showed [Th 4d] and lost with a pair of Eights
+Seat 4: ReVeu710 folded before Flop (didn't bet)
+Seat 6: pr0tecto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254743353020:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:45:47 WET [2025/02/06 19:45:47 ET]
+Table 'Pele' 6-max Seat #2 is the button
+Seat 5: avlee1 ($100 in chips) is sitting out
+Seat 1: tinkode22 ($68.65 in chips) 
+Seat 2: Espada Fish ($100 in chips) 
+Seat 3: SorinS28 ($106.21 in chips) 
+Seat 4: ReVeu710 ($100 in chips) 
+Seat 6: pr0tecto ($101.50 in chips) 
+SorinS28: posts small blind $0.50
+ReVeu710: posts big blind $1
+avlee1: sits out 
+*** HOLE CARDS ***
+pr0tecto: raises $1.10 to $2.10
+tinkode22: calls $2.10
+Espada Fish: raises $9.90 to $12
+SorinS28: folds 
+ReVeu710: folds 
+pr0tecto: folds 
+tinkode22: folds 
+Uncalled bet ($9.90) returned to Espada Fish
+Espada Fish collected $7.80 from pot
+Espada Fish: doesn't show hand 
+SorinS28 leaves the table
+*** SUMMARY ***
+Total pot $7.80 | Rake $0 
+Seat 5: avlee1
+Seat 1: tinkode22 folded before Flop
+Seat 2: Espada Fish (button) collected ($7.80)
+Seat 3: SorinS28 (small blind) folded before Flop
+Seat 4: ReVeu710 (big blind) folded before Flop
+Seat 6: pr0tecto folded before Flop
+
+
+
+PokerStars Hand #254743360478:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:46:26 WET [2025/02/06 19:46:26 ET]
+Table 'Pele' 6-max Seat #4 is the button
+Seat 5: avlee1 ($100 in chips) is sitting out
+Seat 1: tinkode22 ($66.55 in chips) 
+Seat 2: Espada Fish ($105.70 in chips) 
+Seat 4: ReVeu710 ($100 in chips) 
+Seat 6: pr0tecto ($99.40 in chips) 
+pr0tecto: posts small blind $0.50
+tinkode22: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+ReVeu710: folds 
+pr0tecto: raises $1.24 to $2.24
+tinkode22: folds 
+Uncalled bet ($1.24) returned to pr0tecto
+pr0tecto collected $2 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: avlee1
+Seat 1: tinkode22 (big blind) folded before Flop
+Seat 2: Espada Fish folded before Flop (didn't bet)
+Seat 4: ReVeu710 (button) folded before Flop (didn't bet)
+Seat 6: pr0tecto (small blind) collected ($2)
+
+
+
+PokerStars Hand #254743362378:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:46:36 WET [2025/02/06 19:46:36 ET]
+Table 'Pele' 6-max Seat #6 is the button
+Seat 5: avlee1 ($100 in chips) is sitting out
+Seat 1: tinkode22 ($65.55 in chips) 
+Seat 2: Espada Fish ($105.70 in chips) 
+Seat 4: ReVeu710 ($100 in chips) 
+Seat 6: pr0tecto ($100.40 in chips) 
+tinkode22: posts small blind $0.50
+Espada Fish: posts big blind $1
+avlee1: sits out 
+*** HOLE CARDS ***
+ReVeu710: raises $1.30 to $2.30
+pr0tecto: folds 
+tinkode22: folds 
+Espada Fish: folds 
+Uncalled bet ($1.30) returned to ReVeu710
+ReVeu710 collected $2.50 from pot
+ReVeu710: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: avlee1
+Seat 1: tinkode22 (small blind) folded before Flop
+Seat 2: Espada Fish (big blind) folded before Flop
+Seat 4: ReVeu710 collected ($2.50)
+Seat 6: pr0tecto (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254743366437:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:46:58 WET [2025/02/06 19:46:58 ET]
+Table 'Pele' 6-max Seat #1 is the button
+Seat 4: ReVeu710 ($101.50 in chips) is sitting out
+Seat 1: tinkode22 ($65.05 in chips) 
+Seat 2: Espada Fish ($104.70 in chips) 
+Seat 5: avlee1 ($100 in chips) 
+Seat 6: pr0tecto ($100.40 in chips) 
+Espada Fish: posts small blind $0.50
+ReVeu710: is sitting out 
+avlee1: posts big blind $1
+*** HOLE CARDS ***
+pr0tecto: raises $1.20 to $2.20
+ReVeu710 leaves the table
+tinkode22: calls $2.20
+Espada Fish: folds 
+avlee1: calls $1.20
+*** FLOP *** [2d Ah Ad]
+avlee1: checks 
+Sadyhov V.V. joins the table at seat #4 
+pr0tecto: bets $2.22
+tinkode22: folds 
+tinkode22 leaves the table
+avlee1: folds 
+Uncalled bet ($2.22) returned to pr0tecto
+pr0tecto collected $6.74 from pot
+pr0tecto: doesn't show hand 
+ghc_2 joins the table at seat #3 
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.36 
+Board [2d Ah Ad]
+Seat 4: ReVeu710
+Seat 1: tinkode22 (button) folded on the Flop
+Seat 2: Espada Fish (small blind) folded before Flop
+Seat 5: avlee1 (big blind) folded on the Flop
+Seat 6: pr0tecto collected ($6.74)
+
+
+
+PokerStars Hand #254743373636:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:47:37 WET [2025/02/06 19:47:37 ET]
+Table 'Pele' 6-max Seat #2 is the button
+Seat 3: ghc_2 ($100 in chips) is sitting out
+Seat 4: Sadyhov V.V. ($100 in chips) is sitting out
+Seat 2: Espada Fish ($104.20 in chips) 
+Seat 5: avlee1 ($100 in chips) 
+Seat 6: pr0tecto ($104.94 in chips) 
+avlee1: posts small blind $0.50
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+Espada Fish: folds 
+avlee1: raises $2 to $3
+pr0tecto: raises $6 to $9
+avlee1: folds 
+Uncalled bet ($6) returned to pr0tecto
+pr0tecto collected $6 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: ghc_2
+Seat 4: Sadyhov V.V.
+Seat 2: Espada Fish (button) folded before Flop (didn't bet)
+Seat 5: avlee1 (small blind) folded before Flop
+Seat 6: pr0tecto (big blind) collected ($6)
+
+
+
+PokerStars Hand #254743377135:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:47:56 WET [2025/02/06 19:47:56 ET]
+Table 'Pele' 6-max Seat #5 is the button
+Seat 2: Espada Fish ($104.20 in chips) is sitting out
+Seat 4: Sadyhov V.V. ($100 in chips) is sitting out
+Seat 3: ghc_2 ($100 in chips) 
+Seat 5: avlee1 ($100 in chips) 
+Seat 6: pr0tecto ($107.94 in chips) 
+pr0tecto: posts small blind $0.50
+Espada Fish: is sitting out 
+ghc_2: posts big blind $1
+*** HOLE CARDS ***
+avlee1: folds 
+Espada Fish leaves the table
+pr0tecto: raises $1.24 to $2.24
+ghc_2: folds 
+Uncalled bet ($1.24) returned to pr0tecto
+pr0tecto collected $2 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: Espada Fish
+Seat 4: Sadyhov V.V.
+Seat 3: ghc_2 (big blind) folded before Flop
+Seat 5: avlee1 (button) folded before Flop (didn't bet)
+Seat 6: pr0tecto (small blind) collected ($2)
+
+
+
+PokerStars Hand #254743381429:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:48:19 WET [2025/02/06 19:48:19 ET]
+Table 'Pele' 6-max Seat #3 is the button
+Seat 4: Sadyhov V.V. ($100 in chips) is sitting out
+Seat 5: avlee1 ($100 in chips) is sitting out
+Seat 3: ghc_2 ($100 in chips) 
+Seat 6: pr0tecto ($108.94 in chips) 
+ghc_2: posts small blind $0.50
+avlee1: is sitting out 
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+avlee1 leaves the table
+ghc_2: raises $1.40 to $2.40
+pr0tecto: raises $8.60 to $11
+ghc_2: folds 
+Uncalled bet ($8.60) returned to pr0tecto
+pr0tecto collected $4.80 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.80 | Rake $0 
+Seat 4: Sadyhov V.V.
+Seat 5: avlee1
+Seat 3: ghc_2 (button) (small blind) folded before Flop
+Seat 6: pr0tecto (big blind) collected ($4.80)
+
+
+
+PokerStars Hand #254743298251:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:40:51 WET [2025/02/06 19:40:51 ET]
+Table 'Pele' 6-max Seat #6 is the button
+Seat 1: tinkode22 ($51.64 in chips) 
+Seat 2: Espada Fish ($100 in chips) 
+Seat 3: SorinS28 ($102 in chips) 
+Seat 4: ReVeu710 ($104.50 in chips) 
+Seat 5: avlee1 ($100 in chips) 
+Seat 6: pr0tecto ($100 in chips) 
+tinkode22: posts small blind $0.50
+Espada Fish: posts big blind $1
+*** HOLE CARDS ***
+SorinS28: folds 
+ReVeu710: folds 
+avlee1: raises $1.50 to $2.50
+pr0tecto: folds 
+tinkode22: folds 
+Espada Fish: folds 
+Uncalled bet ($1.50) returned to avlee1
+avlee1 collected $2.50 from pot
+avlee1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tinkode22 (small blind) folded before Flop
+Seat 2: Espada Fish (big blind) folded before Flop
+Seat 3: SorinS28 folded before Flop (didn't bet)
+Seat 4: ReVeu710 folded before Flop (didn't bet)
+Seat 5: avlee1 collected ($2.50)
+Seat 6: pr0tecto (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254743301626:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 0:41:10 WET [2025/02/06 19:41:10 ET]
+Table 'Pele' 6-max Seat #1 is the button
+Seat 1: tinkode22 ($51.14 in chips) 
+Seat 2: Espada Fish ($100 in chips) 
+Seat 3: SorinS28 ($102 in chips) 
+Seat 4: ReVeu710 ($104.50 in chips) 
+Seat 5: avlee1 ($101.50 in chips) 
+Seat 6: pr0tecto ($100 in chips) 
+Espada Fish: posts small blind $0.50
+SorinS28: posts big blind $1
+*** HOLE CARDS ***
+ReVeu710: folds 
+avlee1: folds 
+pr0tecto: raises $1.20 to $2.20
+tinkode22: folds 
+Espada Fish: folds 
+SorinS28: folds 
+Uncalled bet ($1.20) returned to pr0tecto
+pr0tecto collected $2.50 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: tinkode22 (button) folded before Flop (didn't bet)
+Seat 2: Espada Fish (small blind) folded before Flop
+Seat 3: SorinS28 (big blind) folded before Flop
+Seat 4: ReVeu710 folded before Flop (didn't bet)
+Seat 5: avlee1 folded before Flop (didn't bet)
+Seat 6: pr0tecto collected ($2.50)
+
+
+

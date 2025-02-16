@@ -1,0 +1,2474 @@
+﻿PokerStars Hand #254732885070:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:07:09 WET [2025/02/06 8:07:09 ET]
+Table 'Melete II' 6-max Seat #2 is the button
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 5: vitalik_sw ($80 in chips) 
+BoyLoc0: posts small blind $0.50
+vitalik_sw: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+vitalik_sw: calls $1.50
+*** FLOP *** [As 7h 9c]
+vitalik_sw: checks 
+BoyLoc0: checks 
+*** TURN *** [As 7h 9c] [Qc]
+vitalik_sw: bets $3.61
+BoyLoc0: calls $3.61
+*** RIVER *** [As 7h 9c Qc] [8d]
+vitalik_sw: bets $17.41
+BoyLoc0: calls $17.41
+*** SHOW DOWN ***
+vitalik_sw: shows [5h 6h] (a straight, Five to Nine)
+BoyLoc0: mucks hand 
+vitalik_sw collected $46.04 from pot
+*** SUMMARY ***
+Total pot $47.04 | Rake $1 
+Board [As 7h 9c Qc 8d]
+Seat 2: BoyLoc0 (button) (small blind) mucked
+Seat 5: vitalik_sw (big blind) showed [5h 6h] and won ($46.04) with a straight, Five to Nine
+
+
+
+PokerStars Hand #254732891010:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:07:48 WET [2025/02/06 8:07:48 ET]
+Table 'Melete II' 6-max Seat #5 is the button
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 5: vitalik_sw ($102.52 in chips) 
+vitalik_sw: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+vitalik_sw: raises $1.50 to $2.50
+BoyLoc0: raises $8.50 to $11
+vitalik_sw: calls $8.50
+*** FLOP *** [Ad 9s 2h]
+BoyLoc0: bets $6.93
+vitalik_sw: calls $6.93
+*** TURN *** [Ad 9s 2h] [4c]
+BoyLoc0: checks 
+vitalik_sw: checks 
+*** RIVER *** [Ad 9s 2h 4c] [5s]
+BoyLoc0: checks 
+vitalik_sw: bets $26.49
+BoyLoc0: folds 
+Uncalled bet ($26.49) returned to vitalik_sw
+vitalik_sw collected $34.86 from pot
+vitalik_sw: doesn't show hand 
+*** SUMMARY ***
+Total pot $35.86 | Rake $1 
+Board [Ad 9s 2h 4c 5s]
+Seat 2: BoyLoc0 (big blind) folded on the River
+Seat 5: vitalik_sw (button) (small blind) collected ($34.86)
+
+
+
+PokerStars Hand #254733131967:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:33:40 WET [2025/02/06 8:33:40 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: DL1B ($100 in chips) 
+Seat 5: vitalik_sw ($119.45 in chips) 
+Seat 6: Bauab2025 ($100 in chips) 
+blistein: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: raises $1.20 to $2.20
+DL1B: folds 
+vitalik_sw: folds 
+Bauab2025: raises $2.20 to $4.40
+blistein: folds 
+BoyLoc0: folds 
+Pippa83: calls $2.20
+*** FLOP *** [7d 7h 4d]
+Pippa83: checks 
+Bauab2025: bets $4.89
+Pippa83: calls $4.89
+*** TURN *** [7d 7h 4d] [Ah]
+Pippa83: checks 
+Bauab2025: bets $10.71
+Pippa83: folds 
+Uncalled bet ($10.71) returned to Bauab2025
+Bauab2025 collected $19.08 from pot
+Bauab2025: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.08 | Rake $1 
+Board [7d 7h 4d Ah]
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) folded before Flop
+Seat 3: Pippa83 folded on the Turn
+Seat 4: DL1B folded before Flop (didn't bet)
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: Bauab2025 (button) collected ($19.08)
+
+
+
+PokerStars Hand #254733142036:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:34:42 WET [2025/02/06 8:34:42 ET]
+Table 'Melete II' 6-max Seat #1 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: DL1B ($100 in chips) 
+Seat 5: vitalik_sw ($119.45 in chips) 
+Seat 6: Bauab2025 ($109.79 in chips) 
+BoyLoc0: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+vitalik_sw: folds 
+Bauab2025: folds 
+blistein: folds 
+BoyLoc0: folds 
+Uncalled bet ($0.50) returned to Pippa83
+Pippa83 collected $1 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) collected ($1)
+Seat 4: DL1B folded before Flop (didn't bet)
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: Bauab2025 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733143935:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:34:53 WET [2025/02/06 8:34:53 ET]
+Table 'Melete II' 6-max Seat #2 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($100.50 in chips) 
+Seat 4: DL1B ($100 in chips) 
+Seat 5: vitalik_sw ($119.45 in chips) 
+Seat 6: Bauab2025 ($109.79 in chips) 
+Pippa83: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+vitalik_sw: folds 
+Bauab2025: folds 
+blistein: folds 
+BoyLoc0: raises $1.50 to $2.50
+Pippa83: folds 
+DL1B: folds 
+Uncalled bet ($1.50) returned to BoyLoc0
+BoyLoc0 collected $2.50 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) collected ($2.50)
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 4: DL1B (big blind) folded before Flop
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: Bauab2025 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733146999:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:35:12 WET [2025/02/06 8:35:12 ET]
+Table 'Melete II' 6-max Seat #3 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: BoyLoc0 ($101.50 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: DL1B ($100 in chips) 
+Seat 5: vitalik_sw ($119.45 in chips) 
+Seat 6: Bauab2025 ($109.79 in chips) 
+DL1B: posts small blind $0.50
+vitalik_sw: posts big blind $1
+*** HOLE CARDS ***
+Bauab2025: raises $2 to $3
+blistein: folds 
+BoyLoc0: folds 
+Pippa83: folds 
+DL1B: raises $9 to $12
+vitalik_sw: folds 
+Bauab2025: calls $9
+*** FLOP *** [Ks 3h Tc]
+DL1B: bets $7.84
+Bauab2025: calls $7.84
+*** TURN *** [Ks 3h Tc] [7s]
+DL1B: bets $28.62
+Bauab2025: folds 
+Uncalled bet ($28.62) returned to DL1B
+DL1B collected $38.65 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $40.68 | Rake $2.03 
+Board [Ks 3h Tc 7s]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: Pippa83 (button) folded before Flop (didn't bet)
+Seat 4: DL1B (small blind) collected ($38.65)
+Seat 5: vitalik_sw (big blind) folded before Flop
+Seat 6: Bauab2025 folded on the Turn
+
+
+
+PokerStars Hand #254733154600:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:35:59 WET [2025/02/06 8:35:59 ET]
+Table 'Melete II' 6-max Seat #4 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: BoyLoc0 ($101.50 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: DL1B ($118.81 in chips) 
+Seat 5: vitalik_sw ($118.45 in chips) 
+Seat 6: Bauab2025 ($89.95 in chips) 
+vitalik_sw: posts small blind $0.50
+Bauab2025: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+BoyLoc0: folds 
+Pippa83: raises $1.50 to $2.50
+DL1B: calls $2.50
+vitalik_sw: folds 
+Bauab2025: calls $1.50
+*** FLOP *** [Th Qc 5c]
+Bauab2025: checks 
+Pippa83: checks 
+DL1B: checks 
+*** TURN *** [Th Qc 5c] [Kc]
+Bauab2025: bets $3.80
+Pippa83: calls $3.80
+DL1B: folds 
+*** RIVER *** [Th Qc 5c Kc] [9c]
+Bauab2025: bets $7.65
+Pippa83: raises $42.85 to $50.50
+Bauab2025: folds 
+Uncalled bet ($42.85) returned to Pippa83
+Pippa83 collected $29.36 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.90 | Rake $1.54 
+Board [Th Qc 5c Kc 9c]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: Pippa83 collected ($29.36)
+Seat 4: DL1B (button) folded on the Turn
+Seat 5: vitalik_sw (small blind) folded before Flop
+Seat 6: Bauab2025 (big blind) folded on the River
+
+
+
+PokerStars Hand #254733166970:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:37:15 WET [2025/02/06 8:37:15 ET]
+Table 'Melete II' 6-max Seat #5 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: BoyLoc0 ($101.50 in chips) 
+Seat 3: Pippa83 ($115.41 in chips) 
+Seat 4: DL1B ($116.31 in chips) 
+Seat 5: vitalik_sw ($117.95 in chips) 
+Seat 6: Bauab2025 ($76 in chips) 
+Bauab2025: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+Pippa83: folds 
+DL1B: folds 
+vitalik_sw: raises $1.50 to $2.50
+Bauab2025: raises $2.50 to $5
+blistein: folds 
+vitalik_sw: calls $2.50
+*** FLOP *** [Th 4s Qs]
+Bauab2025: bets $5.23
+vitalik_sw: folds 
+Uncalled bet ($5.23) returned to Bauab2025
+Bauab2025 collected $10.45 from pot
+Bauab2025: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [Th 4s Qs]
+Seat 1: blistein (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: DL1B folded before Flop (didn't bet)
+Seat 5: vitalik_sw (button) folded on the Flop
+Seat 6: Bauab2025 (small blind) collected ($10.45)
+
+
+
+PokerStars Hand #254733172940:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:37:51 WET [2025/02/06 8:37:51 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: BoyLoc0 ($101.50 in chips) 
+Seat 3: Pippa83 ($115.41 in chips) 
+Seat 4: DL1B ($116.31 in chips) 
+Seat 5: vitalik_sw ($112.95 in chips) 
+Seat 6: Bauab2025 ($81.45 in chips) 
+blistein: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+DL1B: raises $1 to $2
+vitalik_sw: folds 
+Bauab2025: folds 
+blistein: folds 
+BoyLoc0: calls $1
+*** FLOP *** [4h 8h 4d]
+BoyLoc0: checks 
+DL1B: bets $1.16
+BoyLoc0: folds 
+Uncalled bet ($1.16) returned to DL1B
+DL1B collected $4.28 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [4h 8h 4d]
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) folded on the Flop
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: DL1B collected ($4.28)
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: Bauab2025 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733180056:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:38:35 WET [2025/02/06 8:38:35 ET]
+Table 'Melete II' 6-max Seat #1 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($115.41 in chips) 
+Seat 4: DL1B ($118.59 in chips) 
+Seat 5: vitalik_sw ($112.95 in chips) 
+Seat 6: Bauab2025 ($81.45 in chips) 
+BoyLoc0: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+vitalik_sw: folds 
+Bauab2025: folds 
+blistein: raises $1.50 to $2.50
+BoyLoc0: folds 
+Pippa83: calls $1.50
+*** FLOP *** [9d 2s Jh]
+Pippa83: checks 
+blistein: checks 
+*** TURN *** [9d 2s Jh] [3s]
+Pippa83: checks 
+blistein: checks 
+*** RIVER *** [9d 2s Jh 3s] [6h]
+Pippa83: bets $1.72
+blistein: raises $8.60 to $10.32
+Pippa83: folds 
+Uncalled bet ($8.60) returned to blistein
+blistein collected $8.49 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [9d 2s Jh 3s 6h]
+Seat 1: blistein (button) collected ($8.49)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) folded on the River
+Seat 4: DL1B folded before Flop (didn't bet)
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: Bauab2025 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733195398:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:40:07 WET [2025/02/06 8:40:07 ET]
+Table 'Melete II' 6-max Seat #2 is the button
+Seat 1: blistein ($104.27 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($111.19 in chips) 
+Seat 4: DL1B ($118.59 in chips) 
+Seat 5: vitalik_sw ($112.95 in chips) 
+Seat 6: Bauab2025 ($81.45 in chips) 
+Pippa83: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+vitalik_sw: folds 
+Bauab2025: raises $1 to $2
+blistein: folds 
+BoyLoc0: folds 
+Pippa83: folds 
+DL1B: calls $1
+*** FLOP *** [2c Kh 4c]
+DL1B: checks 
+Bauab2025: bets $2.14
+DL1B: folds 
+Uncalled bet ($2.14) returned to Bauab2025
+Bauab2025 collected $4.28 from pot
+Bauab2025: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [2c Kh 4c]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 4: DL1B (big blind) folded on the Flop
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: Bauab2025 collected ($4.28)
+
+
+
+PokerStars Hand #254733198492:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:40:26 WET [2025/02/06 8:40:26 ET]
+Table 'Melete II' 6-max Seat #3 is the button
+Seat 1: blistein ($104.27 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($110.69 in chips) 
+Seat 4: DL1B ($116.59 in chips) 
+Seat 5: vitalik_sw ($112.95 in chips) 
+Seat 6: Bauab2025 ($83.73 in chips) 
+DL1B: posts small blind $0.50
+vitalik_sw: posts big blind $1
+*** HOLE CARDS ***
+Bauab2025: raises $1 to $2
+blistein: folds 
+BoyLoc0: folds 
+Pippa83: raises $5 to $7
+DL1B: folds 
+vitalik_sw: folds 
+Bauab2025: calls $5
+*** FLOP *** [9c 7d 8h]
+Bauab2025: bets $6.73
+Pippa83: folds 
+Uncalled bet ($6.73) returned to Bauab2025
+Bauab2025 collected $14.72 from pot
+Bauab2025: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.78 
+Board [9c 7d 8h]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: Pippa83 (button) folded on the Flop
+Seat 4: DL1B (small blind) folded before Flop
+Seat 5: vitalik_sw (big blind) folded before Flop
+Seat 6: Bauab2025 collected ($14.72)
+
+
+
+PokerStars Hand #254733205444:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:41:08 WET [2025/02/06 8:41:08 ET]
+Table 'Melete II' 6-max Seat #4 is the button
+Seat 1: blistein ($104.27 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($103.69 in chips) 
+Seat 4: DL1B ($116.09 in chips) 
+Seat 5: vitalik_sw ($111.95 in chips) 
+Seat 6: Bauab2025 ($91.45 in chips) 
+vitalik_sw: posts small blind $0.50
+Bauab2025: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+BoyLoc0: raises $1.50 to $2.50
+Pippa83: folds 
+DL1B: raises $5 to $7.50
+vitalik_sw: folds 
+Bauab2025: folds 
+BoyLoc0: raises $12.50 to $20
+DL1B: raises $96.09 to $116.09 and is all-in
+BoyLoc0: folds 
+Uncalled bet ($96.09) returned to DL1B
+DL1B collected $41.50 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $41.50 | Rake $0 
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: DL1B (button) collected ($41.50)
+Seat 5: vitalik_sw (small blind) folded before Flop
+Seat 6: Bauab2025 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254733211174:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:41:43 WET [2025/02/06 8:41:43 ET]
+Table 'Melete II' 6-max Seat #5 is the button
+Seat 1: blistein ($104.27 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($103.69 in chips) 
+Seat 4: DL1B ($137.59 in chips) 
+Seat 5: vitalik_sw ($111.45 in chips) 
+Seat 6: Bauab2025 ($90.45 in chips) 
+Bauab2025: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+Pippa83: folds 
+DL1B: folds 
+vitalik_sw: raises $1.50 to $2.50
+Bauab2025: folds 
+blistein: folds 
+Uncalled bet ($1.50) returned to vitalik_sw
+vitalik_sw collected $2.50 from pot
+vitalik_sw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: DL1B folded before Flop (didn't bet)
+Seat 5: vitalik_sw (button) collected ($2.50)
+Seat 6: Bauab2025 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254733213878:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:41:59 WET [2025/02/06 8:41:59 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 1: blistein ($103.27 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($103.69 in chips) 
+Seat 4: DL1B ($137.59 in chips) 
+Seat 5: vitalik_sw ($112.95 in chips) 
+Seat 6: Bauab2025 ($89.95 in chips) 
+blistein: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+DL1B: folds 
+vitalik_sw: folds 
+Bauab2025: folds 
+blistein: raises $2 to $3
+BoyLoc0: raises $7 to $10
+blistein: folds 
+Uncalled bet ($7) returned to BoyLoc0
+BoyLoc0 collected $6 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) collected ($6)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: DL1B folded before Flop (didn't bet)
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: Bauab2025 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733217816:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:42:23 WET [2025/02/06 8:42:23 ET]
+Table 'Melete II' 6-max Seat #1 is the button
+Seat 1: blistein ($100.27 in chips) 
+Seat 2: BoyLoc0 ($103 in chips) 
+Seat 3: Pippa83 ($103.69 in chips) 
+Seat 4: DL1B ($137.59 in chips) 
+Seat 5: vitalik_sw ($112.95 in chips) 
+Seat 6: Bauab2025 ($89.95 in chips) 
+BoyLoc0: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+DL1B: raises $1 to $2
+vitalik_sw: folds 
+Bauab2025: folds 
+blistein: folds 
+BoyLoc0: folds 
+Pippa83: folds 
+Uncalled bet ($1) returned to DL1B
+DL1B collected $2.50 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) folded before Flop
+Seat 4: DL1B collected ($2.50)
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: Bauab2025 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733221139:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:42:43 WET [2025/02/06 8:42:43 ET]
+Table 'Melete II' 6-max Seat #2 is the button
+Seat 1: blistein ($100.27 in chips) 
+Seat 2: BoyLoc0 ($102.50 in chips) 
+Seat 3: Pippa83 ($102.69 in chips) 
+Seat 4: DL1B ($139.09 in chips) 
+Seat 5: vitalik_sw ($112.95 in chips) 
+Seat 6: Bauab2025 ($89.95 in chips) 
+Pippa83: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+vitalik_sw: folds 
+Bauab2025: raises $1 to $2
+blistein: folds 
+BoyLoc0: raises $5.50 to $7.50
+Pippa83: folds 
+DL1B: folds 
+Bauab2025: calls $5.50
+*** FLOP *** [9h Js As]
+Bauab2025: bets $7.84
+BoyLoc0: calls $7.84
+*** TURN *** [9h Js As] [2c]
+Bauab2025: bets $14.61
+BoyLoc0: calls $14.61
+*** RIVER *** [9h Js As 2c] [9c]
+Bauab2025: bets $23
+BoyLoc0: calls $23
+*** SHOW DOWN ***
+Bauab2025: shows [9d Ah] (a full house, Nines full of Aces)
+BoyLoc0: mucks hand 
+Bauab2025 collected $104.90 from pot
+*** SUMMARY ***
+Total pot $107.40 | Rake $2.50 
+Board [9h Js As 2c 9c]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) mucked
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 4: DL1B (big blind) folded before Flop
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: Bauab2025 showed [9d Ah] and won ($104.90) with a full house, Nines full of Aces
+
+
+
+PokerStars Hand #254733231616:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:43:47 WET [2025/02/06 8:43:47 ET]
+Table 'Melete II' 6-max Seat #3 is the button
+Seat 1: blistein ($100.27 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($102.19 in chips) 
+Seat 4: DL1B ($138.09 in chips) 
+Seat 5: vitalik_sw ($112.95 in chips) 
+Seat 6: Bauab2025 ($141.90 in chips) 
+DL1B: posts small blind $0.50
+vitalik_sw: posts big blind $1
+*** HOLE CARDS ***
+Bauab2025: folds 
+blistein: raises $1.20 to $2.20
+BoyLoc0: folds 
+Pippa83: folds 
+DL1B: folds 
+vitalik_sw: folds 
+Uncalled bet ($1.20) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein collected ($2.50)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: Pippa83 (button) folded before Flop (didn't bet)
+Seat 4: DL1B (small blind) folded before Flop
+Seat 5: vitalik_sw (big blind) folded before Flop
+Seat 6: Bauab2025 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733235585:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:44:12 WET [2025/02/06 8:44:12 ET]
+Table 'Melete II' 6-max Seat #4 is the button
+Seat 1: blistein ($101.77 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($102.19 in chips) 
+Seat 4: DL1B ($137.59 in chips) 
+Seat 5: vitalik_sw ($111.95 in chips) 
+Seat 6: Bauab2025 ($141.90 in chips) 
+vitalik_sw: posts small blind $0.50
+Bauab2025: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+BoyLoc0: folds 
+Pippa83: raises $1.50 to $2.50
+DL1B: folds 
+vitalik_sw: raises $8.50 to $11
+Bauab2025: folds 
+Pippa83: folds 
+Uncalled bet ($8.50) returned to vitalik_sw
+vitalik_sw collected $6 from pot
+vitalik_sw: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: Pippa83 folded before Flop
+Seat 4: DL1B (button) folded before Flop (didn't bet)
+Seat 5: vitalik_sw (small blind) collected ($6)
+Seat 6: Bauab2025 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254733241222:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:44:46 WET [2025/02/06 8:44:46 ET]
+Table 'Melete II' 6-max Seat #5 is the button
+Seat 1: blistein ($101.77 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: DL1B ($137.59 in chips) 
+Seat 5: vitalik_sw ($115.45 in chips) 
+Seat 6: Bauab2025 ($140.90 in chips) 
+Bauab2025: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+Pippa83: folds 
+DL1B: folds 
+vitalik_sw: folds 
+Bauab2025: raises $1 to $2
+blistein: calls $1
+*** FLOP *** [9s 9h Qs]
+Bauab2025: bets $2.90
+blistein: calls $2.90
+*** TURN *** [9s 9h Qs] [Jd]
+Bauab2025: bets $4.66
+blistein: calls $4.66
+*** RIVER *** [9s 9h Qs Jd] [Jc]
+Bauab2025: bets $6.34
+blistein: folds 
+Uncalled bet ($6.34) returned to Bauab2025
+Bauab2025 collected $18.16 from pot
+Bauab2025: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.12 | Rake $0.96 
+Board [9s 9h Qs Jd Jc]
+Seat 1: blistein (big blind) folded on the River
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: DL1B folded before Flop (didn't bet)
+Seat 5: vitalik_sw (button) folded before Flop (didn't bet)
+Seat 6: Bauab2025 (small blind) collected ($18.16)
+
+
+
+PokerStars Hand #254733257818:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:46:25 WET [2025/02/06 8:46:25 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: DL1B ($137.59 in chips) 
+Seat 5: vitalik_sw ($115.45 in chips) 
+Seat 6: Bauab2025 ($149.50 in chips) 
+blistein: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+DL1B: folds 
+vitalik_sw: folds 
+Bauab2025: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+BoyLoc0 collected $1 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: blistein (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) collected ($1)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: DL1B folded before Flop (didn't bet)
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: Bauab2025 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733260051:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:46:39 WET [2025/02/06 8:46:39 ET]
+Table 'Melete II' 6-max Seat #1 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 2: BoyLoc0 ($100.50 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: DL1B ($137.59 in chips) 
+Seat 5: vitalik_sw ($115.45 in chips) 
+Seat 6: Bauab2025 ($149.50 in chips) 
+BoyLoc0: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+vitalik_sw: folds 
+Bauab2025: folds 
+blistein: raises $1.50 to $2.50
+BoyLoc0: folds 
+Pippa83: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein (button) collected ($2.50)
+Seat 2: BoyLoc0 (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) folded before Flop
+Seat 4: DL1B folded before Flop (didn't bet)
+Seat 5: vitalik_sw folded before Flop (didn't bet)
+Seat 6: Bauab2025 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733263765:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:47:01 WET [2025/02/06 8:47:01 ET]
+Table 'Melete II' 6-max Seat #2 is the button
+Seat 1: blistein ($101.50 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: DL1B ($137.59 in chips) 
+Seat 5: vitalik_sw ($115.45 in chips) 
+Seat 6: Bauab2025 ($149.50 in chips) 
+Pippa83: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+vitalik_sw: raises $1.20 to $2.20
+Bauab2025: folds 
+blistein: folds 
+BoyLoc0: folds 
+Pippa83: folds 
+DL1B: folds 
+Uncalled bet ($1.20) returned to vitalik_sw
+vitalik_sw collected $2.50 from pot
+vitalik_sw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: BoyLoc0 (button) folded before Flop (didn't bet)
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 4: DL1B (big blind) folded before Flop
+Seat 5: vitalik_sw collected ($2.50)
+Seat 6: Bauab2025 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733266286:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:47:16 WET [2025/02/06 8:47:16 ET]
+Table 'Melete II' 6-max Seat #3 is the button
+Seat 1: blistein ($101.50 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: DL1B ($136.59 in chips) 
+Seat 5: vitalik_sw ($116.95 in chips) 
+Seat 6: Bauab2025 ($149.50 in chips) 
+DL1B: posts small blind $0.50
+vitalik_sw: posts big blind $1
+*** HOLE CARDS ***
+Bauab2025: folds 
+blistein: folds 
+BoyLoc0: raises $1.50 to $2.50
+Bauab2025 leaves the table
+sta$igk joins the table at seat #6 
+Pippa83: folds 
+DL1B: folds 
+vitalik_sw: calls $1.50
+*** FLOP *** [9h Tc Ac]
+vitalik_sw: checks 
+BoyLoc0: checks 
+*** TURN *** [9h Tc Ac] [7h]
+vitalik_sw: checks 
+BoyLoc0: checks 
+*** RIVER *** [9h Tc Ac 7h] [2s]
+vitalik_sw: bets $1.72
+BoyLoc0: folds 
+Uncalled bet ($1.72) returned to vitalik_sw
+vitalik_sw collected $5.22 from pot
+vitalik_sw: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [9h Tc Ac 7h 2s]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded on the River
+Seat 3: Pippa83 (button) folded before Flop (didn't bet)
+Seat 4: DL1B (small blind) folded before Flop
+Seat 5: vitalik_sw (big blind) collected ($5.22)
+Seat 6: Bauab2025 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733273082:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:47:57 WET [2025/02/06 8:47:57 ET]
+Table 'Melete II' 6-max Seat #4 is the button
+Seat 1: blistein ($101.50 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: DL1B ($136.09 in chips) 
+Seat 5: vitalik_sw ($119.67 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+vitalik_sw: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+blistein leaves the table
+BoyLoc0: raises $1.50 to $2.50
+Pippa83: folds 
+RAidakCo joins the table at seat #1 
+RAidakCo leaves the table
+DL1B: folds 
+vitalik_sw: folds 
+sta$igk: calls $1.50
+*** FLOP *** [7h 6d 3s]
+m1lkdud joins the table at seat #1 
+m1lkdud is disconnected 
+sta$igk: checks 
+BoyLoc0: checks 
+*** TURN *** [7h 6d 3s] [2h]
+sta$igk: bets $3.92
+BoyLoc0: folds 
+Uncalled bet ($3.92) returned to sta$igk
+sta$igk collected $5.22 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [7h 6d 3s 2h]
+Seat 1: blistein folded before Flop (didn't bet)
+Seat 2: BoyLoc0 folded on the Turn
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: DL1B (button) folded before Flop (didn't bet)
+Seat 5: vitalik_sw (small blind) folded before Flop
+Seat 6: sta$igk (big blind) collected ($5.22)
+
+
+
+PokerStars Hand #254733280844:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:48:44 WET [2025/02/06 8:48:44 ET]
+Table 'Melete II' 6-max Seat #5 is the button
+Seat 1: m1lkdud ($100 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: DL1B ($136.09 in chips) 
+Seat 5: vitalik_sw ($119.17 in chips) 
+Seat 6: sta$igk ($102.72 in chips) 
+sta$igk: posts small blind $0.50
+m1lkdud: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0: folds 
+Pippa83: folds 
+DL1B: folds 
+vitalik_sw: raises $1.50 to $2.50
+sta$igk: folds 
+m1lkdud: folds 
+Uncalled bet ($1.50) returned to vitalik_sw
+vitalik_sw collected $2.50 from pot
+vitalik_sw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: DL1B folded before Flop (didn't bet)
+Seat 5: vitalik_sw (button) collected ($2.50)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254733282877:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:48:56 WET [2025/02/06 8:48:56 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 2: BoyLoc0 ($100 in chips) is sitting out
+Seat 1: m1lkdud ($99 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 4: DL1B ($136.09 in chips) 
+Seat 5: vitalik_sw ($120.67 in chips) 
+Seat 6: sta$igk ($102.22 in chips) 
+m1lkdud: posts small blind $0.50
+BoyLoc0: is sitting out 
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+BoyLoc0 leaves the table
+DL1B: folds 
+vitalik_sw: raises $1.50 to $2.50
+sta$igk: folds 
+m1lkdud: folds 
+Pippa83: folds 
+Uncalled bet ($1.50) returned to vitalik_sw
+vitalik_sw collected $2.50 from pot
+vitalik_sw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: BoyLoc0
+Seat 1: m1lkdud (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) folded before Flop
+Seat 4: DL1B folded before Flop (didn't bet)
+Seat 5: vitalik_sw collected ($2.50)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733285138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:49:09 WET [2025/02/06 8:49:09 ET]
+Table 'Melete II' 6-max Seat #1 is the button
+Seat 4: DL1B ($136.09 in chips) is sitting out
+Seat 5: vitalik_sw ($122.17 in chips) is sitting out
+Seat 1: m1lkdud ($98.50 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 6: sta$igk ($102.22 in chips) 
+Pippa83: posts small blind $0.50
+DL1B: is sitting out 
+vitalik_sw: is sitting out 
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+m1lkdud: raises $2.50 to $3.50
+Pippa83: folds 
+DL1B leaves the table
+vitalik_sw leaves the table
+sta$igk: folds 
+Uncalled bet ($2.50) returned to m1lkdud
+m1lkdud collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: DL1B
+Seat 5: vitalik_sw
+Seat 1: m1lkdud (button) collected ($2.50)
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254733286728:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:49:19 WET [2025/02/06 8:49:19 ET]
+Table 'Melete II' 6-max Seat #3 is the button
+Seat 1: m1lkdud ($100 in chips) 
+Seat 3: Pippa83 ($100 in chips) 
+Seat 6: sta$igk ($101.22 in chips) 
+sta$igk: posts small blind $0.50
+m1lkdud: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: raises $1.50 to $2.50
+sta$igk: folds 
+m1lkdud: calls $1.50
+*** FLOP *** [Qs 2s 6h]
+m1lkdud: checks 
+Pippa83: bets $1.31
+m1lkdud: folds 
+Uncalled bet ($1.31) returned to Pippa83
+Pippa83 collected $5.22 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Qs 2s 6h]
+Seat 1: m1lkdud (big blind) folded on the Flop
+Seat 3: Pippa83 (button) collected ($5.22)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254733289778:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:49:37 WET [2025/02/06 8:49:37 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 1: m1lkdud ($97.50 in chips) 
+Seat 3: Pippa83 ($102.72 in chips) 
+Seat 6: sta$igk ($100.72 in chips) 
+m1lkdud: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+m1lkdud: folds 
+Uncalled bet ($0.50) returned to Pippa83
+Pippa83 collected $1 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m1lkdud (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) collected ($1)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733290907:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:49:44 WET [2025/02/06 8:49:44 ET]
+Table 'Melete II' 6-max Seat #1 is the button
+Seat 1: m1lkdud ($97 in chips) 
+Seat 3: Pippa83 ($103.22 in chips) 
+Seat 6: sta$igk ($100.72 in chips) 
+Pippa83: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+m1lkdud: folds 
+Pippa83: folds 
+Uncalled bet ($0.50) returned to sta$igk
+sta$igk collected $1 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m1lkdud (button) folded before Flop (didn't bet)
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 6: sta$igk (big blind) collected ($1)
+
+
+
+PokerStars Hand #254733313963:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:52:02 WET [2025/02/06 8:52:02 ET]
+Table 'Melete II' 6-max Seat #3 is the button
+Seat 1: m1lkdud ($82.26 in chips) 
+Seat 2: ponchua ($116.91 in chips) 
+Seat 3: Pippa83 ($102.72 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+Ydys20: posts small blind $0.50
+xcinaz: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+m1lkdud: folds 
+ponchua: folds 
+Pippa83: raises $1.50 to $2.50
+Ydys20: folds 
+xcinaz: folds 
+Uncalled bet ($1.50) returned to Pippa83
+Pippa83 collected $2.50 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud folded before Flop (didn't bet)
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 (button) collected ($2.50)
+Seat 4: Ydys20 (small blind) folded before Flop
+Seat 5: xcinaz (big blind) folded before Flop
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733291916:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:49:50 WET [2025/02/06 8:49:50 ET]
+Table 'Melete II' 6-max Seat #3 is the button
+Seat 1: m1lkdud ($97 in chips) 
+Seat 3: Pippa83 ($102.72 in chips) 
+Seat 6: sta$igk ($101.22 in chips) 
+sta$igk: posts small blind $0.50
+m1lkdud: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: raises $1.50 to $2.50
+ponchua joins the table at seat #2 
+sta$igk: folds 
+m1lkdud: folds 
+Uncalled bet ($1.50) returned to Pippa83
+Pippa83 collected $2.50 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud (big blind) folded before Flop
+Seat 3: Pippa83 (button) collected ($2.50)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254733317533:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:52:23 WET [2025/02/06 8:52:23 ET]
+Table 'Melete II' 6-max Seat #4 is the button
+Seat 1: m1lkdud ($85.32 in chips) 
+Seat 2: ponchua ($116.91 in chips) 
+Seat 3: Pippa83 ($104.22 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+xcinaz: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+m1lkdud: folds 
+ponchua: raises $1.50 to $2.50
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: calls $1.50
+*** FLOP *** [7c 8h Ad]
+sta$igk: checks 
+ponchua: checks 
+*** TURN *** [7c 8h Ad] [6s]
+sta$igk: checks 
+ponchua: bets $3.81
+sta$igk: calls $3.81
+*** RIVER *** [7c 8h Ad 6s] [7h]
+sta$igk: checks 
+ponchua: bets $9.35
+sta$igk: calls $9.35
+*** SHOW DOWN ***
+ponchua: shows [Jh Ac] (two pair, Aces and Sevens)
+sta$igk: shows [As Qc] (two pair, Aces and Sevens - Queen kicker)
+sta$igk collected $30.23 from pot
+*** SUMMARY ***
+Total pot $31.82 | Rake $1.59 
+Board [7c 8h Ad 6s 7h]
+Seat 1: m1lkdud folded before Flop (didn't bet)
+Seat 2: ponchua showed [Jh Ac] and lost with two pair, Aces and Sevens
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 (button) folded before Flop (didn't bet)
+Seat 5: xcinaz (small blind) folded before Flop
+Seat 6: sta$igk (big blind) showed [As Qc] and won ($30.23) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #254733329387:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:53:34 WET [2025/02/06 8:53:34 ET]
+Table 'Melete II' 6-max Seat #5 is the button
+Seat 1: m1lkdud ($85.32 in chips) 
+Seat 2: ponchua ($101.25 in chips) 
+Seat 3: Pippa83 ($104.22 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($114.57 in chips) 
+sta$igk: posts small blind $0.50
+m1lkdud: posts big blind $1
+*** HOLE CARDS ***
+ponchua: folds 
+Pippa83: raises $1.20 to $2.20
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: folds 
+m1lkdud: folds 
+Uncalled bet ($1.20) returned to Pippa83
+Pippa83 collected $2.50 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud (big blind) folded before Flop
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 collected ($2.50)
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz (button) folded before Flop (didn't bet)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254733331674:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:53:48 WET [2025/02/06 8:53:48 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 1: m1lkdud ($84.32 in chips) 
+Seat 2: ponchua ($101.25 in chips) 
+Seat 3: Pippa83 ($105.72 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($114.07 in chips) 
+m1lkdud: posts small blind $0.50
+ponchua: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: raises $1.20 to $2.20
+sta$igk: folds 
+m1lkdud: folds 
+ponchua: folds 
+Uncalled bet ($1.20) returned to xcinaz
+xcinaz collected $2.50 from pot
+xcinaz: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud (small blind) folded before Flop
+Seat 2: ponchua (big blind) folded before Flop
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz collected ($2.50)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733335107:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:54:09 WET [2025/02/06 8:54:09 ET]
+Table 'Melete II' 6-max Seat #1 is the button
+Seat 1: m1lkdud ($83.82 in chips) 
+Seat 2: ponchua ($100.25 in chips) 
+Seat 3: Pippa83 ($105.72 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($101.50 in chips) 
+Seat 6: sta$igk ($114.07 in chips) 
+ponchua: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+Ydys20: raises $1.20 to $2.20
+xcinaz: folds 
+sta$igk: folds 
+m1lkdud: calls $2.20
+ponchua: folds 
+Pippa83: folds 
+*** FLOP *** [9h 3s 2d]
+Ydys20: checks 
+m1lkdud: checks 
+*** TURN *** [9h 3s 2d] [3d]
+Ydys20: bets $1.85
+m1lkdud: raises $9.30 to $11.15
+Ydys20: calls $9.30
+*** RIVER *** [9h 3s 2d 3d] [Td]
+Ydys20: checks 
+m1lkdud: bets $70.47 and is all-in
+Ydys20: folds 
+Uncalled bet ($70.47) returned to m1lkdud
+m1lkdud collected $26.79 from pot
+*** SUMMARY ***
+Total pot $28.20 | Rake $1.41 
+Board [9h 3s 2d 3d Td]
+Seat 1: m1lkdud (button) collected ($26.79)
+Seat 2: ponchua (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) folded before Flop
+Seat 4: Ydys20 folded on the River
+Seat 5: xcinaz folded before Flop (didn't bet)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733349146:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:55:39 WET [2025/02/06 8:55:39 ET]
+Table 'Melete II' 6-max Seat #2 is the button
+Seat 1: m1lkdud ($97.26 in chips) 
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($104.72 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($101.50 in chips) 
+Seat 6: sta$igk ($114.07 in chips) 
+Pippa83: posts small blind $0.50
+Ydys20: posts big blind $1
+*** HOLE CARDS ***
+xcinaz: raises $1 to $2
+sta$igk: raises $5 to $7
+m1lkdud: folds 
+ponchua: folds 
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: calls $5
+*** FLOP *** [6c 3s 3d]
+xcinaz: checks 
+sta$igk: bets $7.36
+xcinaz: folds 
+Uncalled bet ($7.36) returned to sta$igk
+sta$igk collected $14.72 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.78 
+Board [6c 3s 3d]
+Seat 1: m1lkdud folded before Flop (didn't bet)
+Seat 2: ponchua (button) folded before Flop (didn't bet)
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 4: Ydys20 (big blind) folded before Flop
+Seat 5: xcinaz folded on the Flop
+Seat 6: sta$igk collected ($14.72)
+
+
+
+PokerStars Hand #254733358913:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:56:54 WET [2025/02/06 8:56:54 ET]
+Table 'Melete II' 6-max Seat #3 is the button
+Seat 1: m1lkdud ($97.26 in chips) 
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($104.22 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($121.79 in chips) 
+Ydys20: posts small blind $0.50
+xcinaz: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+m1lkdud: folds 
+ponchua: folds 
+Pippa83: raises $1.50 to $2.50
+Ydys20: folds 
+xcinaz: calls $1.50
+*** FLOP *** [2d 3c Qc]
+xcinaz: checks 
+Pippa83: bets $1.72
+xcinaz: calls $1.72
+*** TURN *** [2d 3c Qc] [Kh]
+xcinaz: checks 
+Pippa83: checks 
+*** RIVER *** [2d 3c Qc Kh] [9s]
+xcinaz: checks 
+Pippa83: bets $6.37
+xcinaz: folds 
+Uncalled bet ($6.37) returned to Pippa83
+Pippa83 collected $8.49 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [2d 3c Qc Kh 9s]
+Seat 1: m1lkdud folded before Flop (didn't bet)
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 (button) collected ($8.49)
+Seat 4: Ydys20 (small blind) folded before Flop
+Seat 5: xcinaz (big blind) folded on the River
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733368602:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:58:07 WET [2025/02/06 8:58:07 ET]
+Table 'Melete II' 6-max Seat #4 is the button
+Seat 1: m1lkdud ($97.26 in chips) 
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($108.49 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($121.79 in chips) 
+xcinaz: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+m1lkdud: raises $2.50 to $3.50
+ponchua: folds 
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: folds 
+Uncalled bet ($2.50) returned to m1lkdud
+m1lkdud collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud collected ($2.50)
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 (button) folded before Flop (didn't bet)
+Seat 5: xcinaz (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254733370417:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:58:21 WET [2025/02/06 8:58:21 ET]
+Table 'Melete II' 6-max Seat #5 is the button
+Seat 1: m1lkdud ($98.76 in chips) 
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($108.49 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($120.79 in chips) 
+sta$igk: posts small blind $0.50
+m1lkdud: posts big blind $1
+*** HOLE CARDS ***
+ponchua: folds 
+Pippa83: raises $1.20 to $2.20
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: folds 
+m1lkdud: folds 
+Uncalled bet ($1.20) returned to Pippa83
+Pippa83 collected $2.50 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud (big blind) folded before Flop
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 collected ($2.50)
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz (button) folded before Flop (didn't bet)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254733372067:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:58:33 WET [2025/02/06 8:58:33 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 1: m1lkdud ($97.76 in chips) 
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($109.99 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($120.29 in chips) 
+m1lkdud: posts small blind $0.50
+ponchua: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: raises $1.20 to $2.20
+sta$igk: folds 
+m1lkdud: folds 
+ponchua: folds 
+Uncalled bet ($1.20) returned to xcinaz
+xcinaz collected $2.50 from pot
+xcinaz: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud (small blind) folded before Flop
+Seat 2: ponchua (big blind) folded before Flop
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz collected ($2.50)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733374798:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:58:53 WET [2025/02/06 8:58:53 ET]
+Table 'Melete II' 6-max Seat #1 is the button
+Seat 1: m1lkdud ($97.26 in chips) 
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($109.99 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($101.50 in chips) 
+Seat 6: sta$igk ($120.29 in chips) 
+ponchua: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: folds 
+m1lkdud: folds 
+ponchua: folds 
+Uncalled bet ($0.50) returned to Pippa83
+Pippa83 collected $1 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m1lkdud (button) folded before Flop (didn't bet)
+Seat 2: ponchua (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) collected ($1)
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz folded before Flop (didn't bet)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733377462:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:59:13 WET [2025/02/06 8:59:13 ET]
+Table 'Melete II' 6-max Seat #2 is the button
+Seat 1: m1lkdud ($97.26 in chips) 
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($110.49 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($101.50 in chips) 
+Seat 6: sta$igk ($120.29 in chips) 
+Pippa83: posts small blind $0.50
+Ydys20: posts big blind $1
+*** HOLE CARDS ***
+xcinaz: folds 
+sta$igk: folds 
+m1lkdud: folds 
+ponchua: folds 
+Pippa83: folds 
+Uncalled bet ($0.50) returned to Ydys20
+Ydys20 collected $1 from pot
+Ydys20: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m1lkdud folded before Flop (didn't bet)
+Seat 2: ponchua (button) folded before Flop (didn't bet)
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 4: Ydys20 (big blind) collected ($1)
+Seat 5: xcinaz folded before Flop (didn't bet)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733378773:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:59:23 WET [2025/02/06 8:59:23 ET]
+Table 'Melete II' 6-max Seat #3 is the button
+Seat 1: m1lkdud ($97.26 in chips) 
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($109.99 in chips) 
+Seat 4: Ydys20 ($100.50 in chips) 
+Seat 5: xcinaz ($101.50 in chips) 
+Seat 6: sta$igk ($120.29 in chips) 
+Ydys20: posts small blind $0.50
+xcinaz: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+m1lkdud: raises $2.50 to $3.50
+ponchua: raises $5.50 to $9
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: folds 
+m1lkdud: calls $5.50
+*** FLOP *** [2s Ah 5c]
+m1lkdud: checks 
+ponchua: checks 
+*** TURN *** [2s Ah 5c] [Ks]
+m1lkdud: bets $9.26
+ponchua: calls $9.26
+*** RIVER *** [2s Ah 5c Ks] [3s]
+m1lkdud: checks 
+ponchua: checks 
+*** SHOW DOWN ***
+m1lkdud: shows [9s Ad] (a pair of Aces)
+ponchua: shows [Tc Ac] (a pair of Aces - King+Ten kicker)
+ponchua collected $36.12 from pot
+*** SUMMARY ***
+Total pot $38.02 | Rake $1.90 
+Board [2s Ah 5c Ks 3s]
+Seat 1: m1lkdud showed [9s Ad] and lost with a pair of Aces
+Seat 2: ponchua showed [Tc Ac] and won ($36.12) with a pair of Aces
+Seat 3: Pippa83 (button) folded before Flop (didn't bet)
+Seat 4: Ydys20 (small blind) folded before Flop
+Seat 5: xcinaz (big blind) folded before Flop
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733384703:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:00:07 WET [2025/02/06 9:00:07 ET]
+Table 'Melete II' 6-max Seat #4 is the button
+Seat 1: m1lkdud ($79 in chips) 
+Seat 2: ponchua ($117.86 in chips) 
+Seat 3: Pippa83 ($109.99 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($100.50 in chips) 
+Seat 6: sta$igk ($120.29 in chips) 
+xcinaz: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+m1lkdud: raises $2.50 to $3.50
+ponchua: folds 
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: folds 
+Uncalled bet ($2.50) returned to m1lkdud
+m1lkdud collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud collected ($2.50)
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 (button) folded before Flop (didn't bet)
+Seat 5: xcinaz (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254733387929:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:00:31 WET [2025/02/06 9:00:31 ET]
+Table 'Melete II' 6-max Seat #5 is the button
+Seat 1: m1lkdud ($80.50 in chips) 
+Seat 2: ponchua ($117.86 in chips) 
+Seat 3: Pippa83 ($109.99 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($119.29 in chips) 
+sta$igk: posts small blind $0.50
+m1lkdud: posts big blind $1
+*** HOLE CARDS ***
+ponchua: folds 
+Pippa83: folds 
+Ydys20: raises $1 to $2
+xcinaz: folds 
+sta$igk: folds 
+m1lkdud: folds 
+Uncalled bet ($1) returned to Ydys20
+Ydys20 collected $2.50 from pot
+Ydys20: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud (big blind) folded before Flop
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 collected ($2.50)
+Seat 5: xcinaz (button) folded before Flop (didn't bet)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254733390432:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:00:48 WET [2025/02/06 9:00:48 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 1: m1lkdud ($79.50 in chips) 
+Seat 2: ponchua ($117.86 in chips) 
+Seat 3: Pippa83 ($109.99 in chips) 
+Seat 4: Ydys20 ($101.50 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($118.79 in chips) 
+m1lkdud: posts small blind $0.50
+ponchua: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: raises $1.20 to $2.20
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: folds 
+m1lkdud: folds 
+ponchua: folds 
+Uncalled bet ($1.20) returned to Pippa83
+Pippa83 collected $2.50 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud (small blind) folded before Flop
+Seat 2: ponchua (big blind) folded before Flop
+Seat 3: Pippa83 collected ($2.50)
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz folded before Flop (didn't bet)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733393781:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:01:09 WET [2025/02/06 9:01:09 ET]
+Table 'Melete II' 6-max Seat #1 is the button
+Seat 1: m1lkdud ($79 in chips) 
+Seat 2: ponchua ($116.86 in chips) 
+Seat 3: Pippa83 ($111.49 in chips) 
+Seat 4: Ydys20 ($101.50 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($118.79 in chips) 
+ponchua: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: raises $1.50 to $2.50
+m1lkdud: folds 
+ponchua: raises $8.50 to $11
+Pippa83: folds 
+sta$igk: raises $13 to $24
+ponchua: folds 
+Uncalled bet ($13) returned to sta$igk
+sta$igk collected $23 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $0 
+Seat 1: m1lkdud (button) folded before Flop (didn't bet)
+Seat 2: ponchua (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) folded before Flop
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz folded before Flop (didn't bet)
+Seat 6: sta$igk collected ($23)
+
+
+
+PokerStars Hand #254733400999:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:01:54 WET [2025/02/06 9:01:54 ET]
+Table 'Melete II' 6-max Seat #2 is the button
+Seat 1: m1lkdud ($79 in chips) 
+Seat 2: ponchua ($105.86 in chips) 
+Seat 3: Pippa83 ($110.49 in chips) 
+Seat 4: Ydys20 ($101.50 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($130.79 in chips) 
+Pippa83: posts small blind $0.50
+Ydys20: posts big blind $1
+*** HOLE CARDS ***
+xcinaz: folds 
+sta$igk: folds 
+m1lkdud: folds 
+ponchua: raises $1.50 to $2.50
+Pippa83: folds 
+Ydys20: raises $9.50 to $12
+ponchua: folds 
+Uncalled bet ($9.50) returned to Ydys20
+Ydys20 collected $5.50 from pot
+Ydys20: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: m1lkdud folded before Flop (didn't bet)
+Seat 2: ponchua (button) folded before Flop
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 4: Ydys20 (big blind) collected ($5.50)
+Seat 5: xcinaz folded before Flop (didn't bet)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733404859:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:02:17 WET [2025/02/06 9:02:17 ET]
+Table 'Melete II' 6-max Seat #3 is the button
+Seat 1: m1lkdud ($79 in chips) 
+Seat 2: ponchua ($103.36 in chips) 
+Seat 3: Pippa83 ($109.99 in chips) 
+Seat 4: Ydys20 ($104.50 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($130.79 in chips) 
+Ydys20: posts small blind $0.50
+xcinaz: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+m1lkdud: folds 
+ponchua: folds 
+Pippa83: raises $1.50 to $2.50
+Ydys20: raises $8.50 to $11
+xcinaz: folds 
+Pippa83: folds 
+Uncalled bet ($8.50) returned to Ydys20
+Ydys20 collected $6 from pot
+Ydys20: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: m1lkdud folded before Flop (didn't bet)
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 (button) folded before Flop
+Seat 4: Ydys20 (small blind) collected ($6)
+Seat 5: xcinaz (big blind) folded before Flop
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733408597:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:02:40 WET [2025/02/06 9:02:40 ET]
+Table 'Melete II' 6-max Seat #4 is the button
+Seat 1: m1lkdud ($79 in chips) 
+Seat 2: ponchua ($103.36 in chips) 
+Seat 3: Pippa83 ($107.49 in chips) 
+Seat 4: Ydys20 ($108 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($130.79 in chips) 
+xcinaz: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+m1lkdud: raises $2.50 to $3.50
+ponchua: folds 
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: calls $2.50
+*** FLOP *** [4d 2c 2h]
+sta$igk: checks 
+m1lkdud: bets $3.56
+sta$igk: folds 
+Uncalled bet ($3.56) returned to m1lkdud
+m1lkdud collected $7.12 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [4d 2c 2h]
+Seat 1: m1lkdud collected ($7.12)
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 (button) folded before Flop (didn't bet)
+Seat 5: xcinaz (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254733412912:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:03:06 WET [2025/02/06 9:03:06 ET]
+Table 'Melete II' 6-max Seat #5 is the button
+Seat 1: m1lkdud ($82.62 in chips) 
+Seat 2: ponchua ($103.36 in chips) 
+Seat 3: Pippa83 ($107.49 in chips) 
+Seat 4: Ydys20 ($108 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($127.29 in chips) 
+sta$igk: posts small blind $0.50
+m1lkdud: posts big blind $1
+*** HOLE CARDS ***
+ponchua: folds 
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: raises $1.50 to $2.50
+sta$igk: raises $8.50 to $11
+m1lkdud: folds 
+xcinaz: folds 
+Uncalled bet ($8.50) returned to sta$igk
+sta$igk collected $6 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: m1lkdud (big blind) folded before Flop
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz (button) folded before Flop
+Seat 6: sta$igk (small blind) collected ($6)
+
+
+
+PokerStars Hand #254733415383:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:03:21 WET [2025/02/06 9:03:21 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 1: m1lkdud ($81.62 in chips) 
+Seat 2: ponchua ($103.36 in chips) 
+Seat 3: Pippa83 ($107.49 in chips) 
+Seat 4: Ydys20 ($108 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($130.79 in chips) 
+m1lkdud: posts small blind $0.50
+ponchua: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: raises $1.50 to $2.50
+m1lkdud: raises $7 to $9.50
+ponchua: folds 
+sta$igk: calls $7
+*** FLOP *** [Ah 9d 5s]
+m1lkdud: bets $9.50
+sta$igk: folds 
+Uncalled bet ($9.50) returned to m1lkdud
+m1lkdud collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Ah 9d 5s]
+Seat 1: m1lkdud (small blind) collected ($19)
+Seat 2: ponchua (big blind) folded before Flop
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz folded before Flop (didn't bet)
+Seat 6: sta$igk (button) folded on the Flop
+
+
+
+PokerStars Hand #254733421760:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:03:58 WET [2025/02/06 9:03:58 ET]
+Table 'Melete II' 6-max Seat #1 is the button
+Seat 1: m1lkdud ($91.12 in chips) 
+Seat 2: ponchua ($102.36 in chips) 
+Seat 3: Pippa83 ($107.49 in chips) 
+Seat 4: Ydys20 ($108 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($121.29 in chips) 
+ponchua: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+Ydys20: folds 
+xcinaz: raises $1 to $2
+sta$igk: raises $5 to $7
+m1lkdud: folds 
+ponchua: folds 
+Pippa83: folds 
+xcinaz: folds 
+Uncalled bet ($5) returned to sta$igk
+sta$igk collected $5.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: m1lkdud (button) folded before Flop (didn't bet)
+Seat 2: ponchua (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) folded before Flop
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz folded before Flop
+Seat 6: sta$igk collected ($5.50)
+
+
+
+PokerStars Hand #254733293413:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:49:58 WET [2025/02/06 8:49:58 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 1: m1lkdud ($96 in chips) 
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($104.22 in chips) 
+Seat 6: sta$igk ($100.72 in chips) 
+m1lkdud: posts small blind $0.50
+ponchua: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+sta$igk: raises $1.50 to $2.50
+m1lkdud: folds 
+ponchua: calls $1.50
+*** FLOP *** [2s 9d 8c]
+ponchua: checks 
+sta$igk: checks 
+*** TURN *** [2s 9d 8c] [Ts]
+Ydys20 joins the table at seat #4 
+ponchua: bets $3.81
+sta$igk: folds 
+Uncalled bet ($3.81) returned to ponchua
+ponchua collected $5.22 from pot
+ponchua: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [2s 9d 8c Ts]
+Seat 1: m1lkdud (small blind) folded before Flop
+Seat 2: ponchua (big blind) collected ($5.22)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 6: sta$igk (button) folded on the Turn
+
+
+
+PokerStars Hand #254733302323:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:50:52 WET [2025/02/06 8:50:52 ET]
+Table 'Melete II' 6-max Seat #1 is the button
+Seat 4: Ydys20 ($100 in chips) is sitting out
+Seat 1: m1lkdud ($95.50 in chips) 
+Seat 2: ponchua ($102.72 in chips) 
+Seat 3: Pippa83 ($104.22 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+ponchua: posts small blind $0.50
+Pippa83: posts big blind $1
+Ydys20: sits out 
+*** HOLE CARDS ***
+sta$igk: folds 
+m1lkdud: raises $2.50 to $3.50
+ponchua: folds 
+Pippa83: folds 
+Uncalled bet ($2.50) returned to m1lkdud
+m1lkdud collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: Ydys20
+Seat 1: m1lkdud (button) collected ($2.50)
+Seat 2: ponchua (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) folded before Flop
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733306177:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 13:51:15 WET [2025/02/06 8:51:15 ET]
+Table 'Melete II' 6-max Seat #2 is the button
+Seat 1: m1lkdud ($97 in chips) 
+Seat 2: ponchua ($102.22 in chips) 
+Seat 3: Pippa83 ($103.22 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 6: sta$igk ($100 in chips) 
+Pippa83: posts small blind $0.50
+Ydys20: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+m1lkdud: raises $2.50 to $3.50
+xcinaz joins the table at seat #5 
+ponchua: raises $5.50 to $9
+Pippa83: folds 
+Ydys20: folds 
+m1lkdud: calls $5.50
+*** FLOP *** [5c 4d 4s]
+m1lkdud: checks 
+ponchua: bets $5.74
+m1lkdud: calls $5.74
+*** TURN *** [5c 4d 4s] [As]
+m1lkdud: checks 
+ponchua: checks 
+*** RIVER *** [5c 4d 4s As] [4h]
+m1lkdud: checks 
+ponchua: bets $22.07
+m1lkdud: folds 
+Uncalled bet ($22.07) returned to ponchua
+ponchua collected $29.43 from pot
+ponchua: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.98 | Rake $1.55 
+Board [5c 4d 4s As 4h]
+Seat 1: m1lkdud folded on the River
+Seat 2: ponchua (button) collected ($29.43)
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 4: Ydys20 (big blind) folded before Flop
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733427371:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:04:31 WET [2025/02/06 9:04:31 ET]
+Table 'Melete II' 6-max Seat #2 is the button
+Seat 1: m1lkdud ($91.12 in chips) 
+Seat 2: ponchua ($101.86 in chips) 
+Seat 3: Pippa83 ($106.49 in chips) 
+Seat 4: Ydys20 ($108 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($124.79 in chips) 
+Pippa83: posts small blind $0.50
+Ydys20: posts big blind $1
+*** HOLE CARDS ***
+xcinaz: raises $1 to $2
+sta$igk: folds 
+m1lkdud: folds 
+ponchua: folds 
+Pippa83: folds 
+Ydys20: calls $1
+*** FLOP *** [7h 2s 9h]
+Ydys20: checks 
+xcinaz: bets $1.07
+Ydys20: folds 
+Uncalled bet ($1.07) returned to xcinaz
+xcinaz collected $4.28 from pot
+xcinaz: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [7h 2s 9h]
+Seat 1: m1lkdud folded before Flop (didn't bet)
+Seat 2: ponchua (button) folded before Flop (didn't bet)
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 4: Ydys20 (big blind) folded on the Flop
+Seat 5: xcinaz collected ($4.28)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733435654:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:05:21 WET [2025/02/06 9:05:21 ET]
+Table 'Melete II' 6-max Seat #3 is the button
+Seat 1: m1lkdud ($91.12 in chips) 
+Seat 2: ponchua ($101.86 in chips) 
+Seat 3: Pippa83 ($105.99 in chips) 
+Seat 4: Ydys20 ($106 in chips) 
+Seat 5: xcinaz ($102.28 in chips) 
+Seat 6: sta$igk ($124.79 in chips) 
+Ydys20: posts small blind $0.50
+xcinaz: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+m1lkdud: raises $2.50 to $3.50
+ponchua: folds 
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: folds 
+Uncalled bet ($2.50) returned to m1lkdud
+m1lkdud collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud collected ($2.50)
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 (button) folded before Flop (didn't bet)
+Seat 4: Ydys20 (small blind) folded before Flop
+Seat 5: xcinaz (big blind) folded before Flop
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733437909:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:05:35 WET [2025/02/06 9:05:35 ET]
+Table 'Melete II' 6-max Seat #4 is the button
+Seat 1: m1lkdud ($92.62 in chips) 
+Seat 2: ponchua ($101.86 in chips) 
+Seat 3: Pippa83 ($105.99 in chips) 
+Seat 4: Ydys20 ($105.50 in chips) 
+Seat 5: xcinaz ($101.28 in chips) 
+Seat 6: sta$igk ($124.79 in chips) 
+xcinaz: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+m1lkdud: raises $2.50 to $3.50
+ponchua: folds 
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: folds 
+Uncalled bet ($2.50) returned to m1lkdud
+m1lkdud collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud collected ($2.50)
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 (button) folded before Flop (didn't bet)
+Seat 5: xcinaz (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254733439823:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:05:46 WET [2025/02/06 9:05:46 ET]
+Table 'Melete II' 6-max Seat #5 is the button
+Seat 1: m1lkdud ($94.12 in chips) 
+Seat 2: ponchua ($101.86 in chips) 
+Seat 3: Pippa83 ($105.99 in chips) 
+Seat 4: Ydys20 ($105.50 in chips) 
+Seat 5: xcinaz ($100.78 in chips) 
+Seat 6: sta$igk ($123.79 in chips) 
+sta$igk: posts small blind $0.50
+m1lkdud: posts big blind $1
+*** HOLE CARDS ***
+ponchua: folds 
+Pippa83: raises $1.20 to $2.20
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: folds 
+m1lkdud: calls $1.20
+*** FLOP *** [Ts Jc 5s]
+m1lkdud: checks 
+Pippa83: bets $1.54
+m1lkdud: folds 
+Uncalled bet ($1.54) returned to Pippa83
+Pippa83 collected $4.66 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Ts Jc 5s]
+Seat 1: m1lkdud (big blind) folded on the Flop
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 collected ($4.66)
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz (button) folded before Flop (didn't bet)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254733444053:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:06:12 WET [2025/02/06 9:06:12 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 1: m1lkdud ($91.92 in chips) 
+Seat 2: ponchua ($101.86 in chips) 
+Seat 3: Pippa83 ($108.45 in chips) 
+Seat 4: Ydys20 ($105.50 in chips) 
+Seat 5: xcinaz ($100.78 in chips) 
+Seat 6: sta$igk ($123.29 in chips) 
+m1lkdud: posts small blind $0.50
+ponchua: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+Ydys20: raises $1.20 to $2.20
+xcinaz: folds 
+sta$igk: folds 
+m1lkdud: raises $7.40 to $9.60
+ponchua: folds 
+Ydys20: calls $7.40
+*** FLOP *** [Ts Tc Kd]
+m1lkdud: bets $9.60
+Ydys20: folds 
+Uncalled bet ($9.60) returned to m1lkdud
+m1lkdud collected $19.19 from pot
+*** SUMMARY ***
+Total pot $20.20 | Rake $1.01 
+Board [Ts Tc Kd]
+Seat 1: m1lkdud (small blind) collected ($19.19)
+Seat 2: ponchua (big blind) folded before Flop
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 folded on the Flop
+Seat 5: xcinaz folded before Flop (didn't bet)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733451672:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:06:57 WET [2025/02/06 9:06:57 ET]
+Table 'Melete II' 6-max Seat #1 is the button
+Seat 1: m1lkdud ($101.51 in chips) 
+Seat 2: ponchua ($100.86 in chips) 
+Seat 3: Pippa83 ($108.45 in chips) 
+Seat 4: Ydys20 ($100 in chips) 
+Seat 5: xcinaz ($100.78 in chips) 
+Seat 6: sta$igk ($123.29 in chips) 
+ponchua: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: raises $1.50 to $2.50
+m1lkdud: folds 
+ponchua: folds 
+Pippa83: calls $1.50
+*** FLOP *** [2d Ad 2c]
+Pippa83: checks 
+sta$igk: bets $1.72
+Pippa83: calls $1.72
+*** TURN *** [2d Ad 2c] [Kd]
+Pippa83: checks 
+sta$igk: checks 
+*** RIVER *** [2d Ad 2c Kd] [6s]
+Pippa83: bets $6.37
+sta$igk: calls $6.37
+*** SHOW DOWN ***
+Pippa83: shows [Qd 3d] (a flush, Ace high)
+sta$igk: mucks hand 
+Pippa83 collected $20.60 from pot
+*** SUMMARY ***
+Total pot $21.68 | Rake $1.08 
+Board [2d Ad 2c Kd 6s]
+Seat 1: m1lkdud (button) folded before Flop (didn't bet)
+Seat 2: ponchua (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) showed [Qd 3d] and won ($20.60) with a flush, Ace high
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz folded before Flop (didn't bet)
+Seat 6: sta$igk mucked
+
+
+
+PokerStars Hand #254733479163:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:09:42 WET [2025/02/06 9:09:42 ET]
+Table 'Melete II' 6-max Seat #5 is the button
+Seat 1: m1lkdud ($101.51 in chips) 
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($115.46 in chips) 
+Seat 4: Ydys20 ($108 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($111.70 in chips) 
+sta$igk: posts small blind $0.50
+m1lkdud: posts big blind $1
+*** HOLE CARDS ***
+ponchua: folds 
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: raises $1.50 to $2.50
+sta$igk: folds 
+m1lkdud: folds 
+Uncalled bet ($1.50) returned to xcinaz
+xcinaz collected $2.50 from pot
+xcinaz: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud (big blind) folded before Flop
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz (button) collected ($2.50)
+Seat 6: sta$igk (small blind) folded before Flop
+
+
+
+PokerStars Hand #254733481308:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:09:54 WET [2025/02/06 9:09:54 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 1: m1lkdud ($100.51 in chips) 
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($115.46 in chips) 
+Seat 4: Ydys20 ($108 in chips) 
+Seat 5: xcinaz ($101.50 in chips) 
+Seat 6: sta$igk ($111.20 in chips) 
+m1lkdud: posts small blind $0.50
+ponchua: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: folds 
+m1lkdud: folds 
+Uncalled bet ($0.50) returned to ponchua
+ponchua collected $1 from pot
+ponchua: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m1lkdud (small blind) folded before Flop
+Seat 2: ponchua (big blind) collected ($1)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz folded before Flop (didn't bet)
+Seat 6: sta$igk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733482722:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:10:03 WET [2025/02/06 9:10:03 ET]
+Table 'Melete II' 6-max Seat #1 is the button
+Seat 1: m1lkdud ($100.01 in chips) 
+Seat 2: ponchua ($100.50 in chips) 
+Seat 3: Pippa83 ($115.46 in chips) 
+Seat 4: Ydys20 ($108 in chips) 
+Seat 5: xcinaz ($101.50 in chips) 
+Seat 6: sta$igk ($111.20 in chips) 
+ponchua: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+Ydys20: raises $1.20 to $2.20
+xcinaz: folds 
+sta$igk: folds 
+m1lkdud: folds 
+ponchua: folds 
+Pippa83: calls $1.20
+*** FLOP *** [9h Jd 4c]
+Pippa83: checks 
+Ydys20: bets $3.50
+Pippa83: calls $3.50
+*** TURN *** [9h Jd 4c] [Kd]
+Pippa83: checks 
+Ydys20: bets $8.48
+Pippa83: folds 
+Uncalled bet ($8.48) returned to Ydys20
+Ydys20 collected $11.30 from pot
+Ydys20: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.90 | Rake $0.60 
+Board [9h Jd 4c Kd]
+Seat 1: m1lkdud (button) folded before Flop (didn't bet)
+Seat 2: ponchua (small blind) folded before Flop
+Seat 3: Pippa83 (big blind) folded on the Turn
+Seat 4: Ydys20 collected ($11.30)
+Seat 5: xcinaz folded before Flop (didn't bet)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733493062:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:11:04 WET [2025/02/06 9:11:04 ET]
+Table 'Melete II' 6-max Seat #2 is the button
+Seat 1: m1lkdud ($100.01 in chips) 
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($109.76 in chips) 
+Seat 4: Ydys20 ($113.60 in chips) 
+Seat 5: xcinaz ($101.50 in chips) 
+Seat 6: sta$igk ($111.20 in chips) 
+Pippa83: posts small blind $0.50
+Ydys20: posts big blind $1
+*** HOLE CARDS ***
+xcinaz: folds 
+sta$igk: folds 
+m1lkdud: raises $2.50 to $3.50
+ponchua: folds 
+Pippa83: raises $8.50 to $12
+Ydys20: folds 
+m1lkdud: calls $8.50
+*** FLOP *** [3c 3d Qd]
+Pippa83: bets $7.84
+m1lkdud: calls $7.84
+*** TURN *** [3c 3d Qd] [Kh]
+Pippa83: checks 
+m1lkdud: bets $19.33
+Pippa83: calls $19.33
+*** RIVER *** [3c 3d Qd Kh] [Jc]
+Pippa83: checks 
+m1lkdud: bets $60.84 and is all-in
+Pippa83: calls $60.84
+*** SHOW DOWN ***
+m1lkdud: shows [Tc 8c] (a pair of Threes)
+Pippa83: shows [Ts Qs] (two pair, Queens and Threes)
+Pippa83 collected $198.52 from pot
+*** SUMMARY ***
+Total pot $201.02 | Rake $2.50 
+Board [3c 3d Qd Kh Jc]
+Seat 1: m1lkdud showed [Tc 8c] and lost with a pair of Threes
+Seat 2: ponchua (button) folded before Flop (didn't bet)
+Seat 3: Pippa83 (small blind) showed [Ts Qs] and won ($198.52) with two pair, Queens and Threes
+Seat 4: Ydys20 (big blind) folded before Flop
+Seat 5: xcinaz folded before Flop (didn't bet)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733501897:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:11:56 WET [2025/02/06 9:11:56 ET]
+Table 'Melete II' 6-max Seat #3 is the button
+Seat 1: m1lkdud ($0 in chips) is sitting out
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($208.27 in chips) 
+Seat 4: Ydys20 ($112.60 in chips) 
+Seat 5: xcinaz ($101.50 in chips) 
+Seat 6: sta$igk ($111.20 in chips) 
+Ydys20: posts small blind $0.50
+xcinaz: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: folds 
+ponchua: folds 
+Pippa83: folds 
+Ydys20: folds 
+Uncalled bet ($0.50) returned to xcinaz
+xcinaz collected $1 from pot
+xcinaz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m1lkdud
+Seat 2: ponchua folded before Flop (didn't bet)
+Seat 3: Pippa83 (button) folded before Flop (didn't bet)
+Seat 4: Ydys20 (small blind) folded before Flop
+Seat 5: xcinaz (big blind) collected ($1)
+Seat 6: sta$igk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254733504151:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:12:10 WET [2025/02/06 9:12:10 ET]
+Table 'Melete II' 6-max Seat #4 is the button
+Seat 1: m1lkdud ($0 in chips) is sitting out
+Seat 2: ponchua ($100 in chips) 
+Seat 3: Pippa83 ($208.27 in chips) 
+Seat 4: Ydys20 ($112.10 in chips) 
+Seat 5: xcinaz ($102 in chips) 
+Seat 6: sta$igk ($111.20 in chips) 
+xcinaz: posts small blind $0.50
+sta$igk: posts big blind $1
+*** HOLE CARDS ***
+ponchua: raises $1.50 to $2.50
+Pippa83: folds 
+Ydys20: folds 
+m1lkdud is disconnected 
+xcinaz: raises $9 to $11.50
+sta$igk: folds 
+ponchua: raises $12.50 to $24
+xcinaz: folds 
+Uncalled bet ($12.50) returned to ponchua
+ponchua collected $24 from pot
+ponchua: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: m1lkdud
+Seat 2: ponchua collected ($24)
+Seat 3: Pippa83 folded before Flop (didn't bet)
+Seat 4: Ydys20 (button) folded before Flop (didn't bet)
+Seat 5: xcinaz (small blind) folded before Flop
+Seat 6: sta$igk (big blind) folded before Flop
+
+
+
+PokerStars Hand #254733513830:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:13:08 WET [2025/02/06 9:13:08 ET]
+Table 'Melete II' 6-max Seat #5 is the button
+Seat 1: m1lkdud ($0 in chips) is sitting out
+Seat 2: ponchua ($112.50 in chips) is sitting out
+Seat 3: Pippa83 ($208.27 in chips) 
+Seat 4: Ydys20 ($112.10 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($110.20 in chips) 
+sta$igk: posts small blind $0.50
+ponchua: is sitting out 
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+Ydys20: folds 
+xcinaz: folds 
+sta$igk: raises $2 to $3
+Pippa83: calls $2
+*** FLOP *** [4d 7c Qh]
+sta$igk: bets $1.88
+Pippa83: calls $1.88
+*** TURN *** [4d 7c Qh] [3c]
+sta$igk: checks 
+Ydys20 leaves the table
+Pippa83: bets $6.95
+sta$igk: folds 
+Uncalled bet ($6.95) returned to Pippa83
+ponchua leaves the table
+Pippa83 collected $9.27 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [4d 7c Qh 3c]
+Seat 1: m1lkdud
+Seat 2: ponchua
+Seat 3: Pippa83 (big blind) collected ($9.27)
+Seat 4: Ydys20 folded before Flop (didn't bet)
+Seat 5: xcinaz (button) folded before Flop (didn't bet)
+Seat 6: sta$igk (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254733523714:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:14:06 WET [2025/02/06 9:14:06 ET]
+Table 'Melete II' 6-max Seat #6 is the button
+Seat 1: m1lkdud ($0 in chips) is sitting out
+Seat 3: Pippa83 ($212.66 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Seat 6: sta$igk ($105.32 in chips) 
+Pippa83: posts small blind $0.50
+xcinaz: posts big blind $1
+*** HOLE CARDS ***
+sta$igk: raises $1.50 to $2.50
+Pippa83: folds 
+xcinaz: folds 
+Uncalled bet ($1.50) returned to sta$igk
+sta$igk collected $2.50 from pot
+sta$igk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: m1lkdud
+Seat 3: Pippa83 (small blind) folded before Flop
+Seat 5: xcinaz (big blind) folded before Flop
+Seat 6: sta$igk (button) collected ($2.50)
+
+
+
+PokerStars Hand #254733525605:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:14:17 WET [2025/02/06 9:14:17 ET]
+Table 'Melete II' 6-max Seat #5 is the button
+Seat 1: m1lkdud ($0 in chips) is sitting out
+Seat 6: sta$igk ($106.82 in chips) is sitting out
+Seat 3: Pippa83 ($212.16 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+xcinaz: posts small blind $0.50
+sta$igk: is sitting out 
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+sta$igk leaves the table
+xcinaz: folds 
+Uncalled bet ($0.50) returned to Pippa83
+Pippa83 collected $1 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m1lkdud
+Seat 6: sta$igk
+Seat 3: Pippa83 (big blind) collected ($1)
+Seat 5: xcinaz (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254733528102:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 14:14:32 WET [2025/02/06 9:14:32 ET]
+Table 'Melete II' 6-max Seat #3 is the button
+Seat 1: m1lkdud ($0 in chips) is sitting out
+Seat 3: Pippa83 ($212.66 in chips) 
+Seat 5: xcinaz ($100 in chips) 
+Pippa83: posts small blind $0.50
+xcinaz: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+Uncalled bet ($0.50) returned to xcinaz
+xcinaz collected $1 from pot
+xcinaz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m1lkdud
+Seat 3: Pippa83 (button) (small blind) folded before Flop
+Seat 5: xcinaz (big blind) collected ($1)
+
+
+

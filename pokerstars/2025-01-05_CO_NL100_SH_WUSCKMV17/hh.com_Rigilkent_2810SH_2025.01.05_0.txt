@@ -1,0 +1,485 @@
+﻿PokerStars Hand #254222519453:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 2:51:30 WET [2025/01/05 21:51:30 ET]
+Table 'Rigilkent II' 6-max Seat #5 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 4: Be_castelo1 ($96.88 in chips) 
+Seat 5: joaquin612 ($102.65 in chips) 
+Seat 6: equilibrium_tv ($100 in chips) 
+equilibrium_tv: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Be_castelo1: calls $1
+joaquin612: folds 
+equilibrium_tv: folds 
+Rysiff: checks 
+*** FLOP *** [3s Js 9d]
+Rysiff: checks 
+Be_castelo1: checks 
+*** TURN *** [3s Js 9d] [9s]
+Rysiff: checks 
+Be_castelo1: checks 
+*** RIVER *** [3s Js 9d 9s] [Kc]
+Rysiff: checks 
+Be_castelo1: bets $1
+Rysiff: folds 
+Uncalled bet ($1) returned to Be_castelo1
+Be_castelo1 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [3s Js 9d 9s Kc]
+Seat 1: Rysiff (big blind) folded on the River
+Seat 4: Be_castelo1 collected ($2.38)
+Seat 5: joaquin612 (button) folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254222523606:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 2:51:56 WET [2025/01/05 21:51:56 ET]
+Table 'Rigilkent II' 6-max Seat #6 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 4: Be_castelo1 ($98.26 in chips) 
+Seat 5: joaquin612 ($102.65 in chips) 
+Seat 6: equilibrium_tv ($99.50 in chips) 
+Rysiff: posts small blind $0.50
+Be_castelo1: posts big blind $1
+*** HOLE CARDS ***
+joaquin612: raises $2.50 to $3.50
+equilibrium_tv: folds 
+m0nTTu joins the table at seat #2 
+Rysiff: folds 
+Be_castelo1: folds 
+Uncalled bet ($2.50) returned to joaquin612
+joaquin612 collected $2.50 from pot
+joaquin612: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Rysiff (small blind) folded before Flop
+Seat 4: Be_castelo1 (big blind) folded before Flop
+Seat 5: joaquin612 collected ($2.50)
+Seat 6: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254222525954:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 2:52:10 WET [2025/01/05 21:52:10 ET]
+Table 'Rigilkent II' 6-max Seat #1 is the button
+Seat 2: m0nTTu ($10 in chips) is sitting out
+Seat 1: Rysiff ($100 in chips) 
+Seat 4: Be_castelo1 ($97.26 in chips) 
+Seat 5: joaquin612 ($104.15 in chips) 
+Seat 6: equilibrium_tv ($99.50 in chips) 
+Be_castelo1: posts small blind $0.50
+joaquin612: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+Rysiff: folds 
+Be_castelo1: calls $0.50
+joaquin612: raises $2.50 to $3.50
+Be_castelo1: calls $2.50
+*** FLOP *** [5h 3h 9h]
+Be_castelo1: bets $7
+joaquin612: folds 
+Uncalled bet ($7) returned to Be_castelo1
+Be_castelo1 collected $6.65 from pot
+danuuutz joins the table at seat #3 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [5h 3h 9h]
+Seat 2: m0nTTu
+Seat 1: Rysiff (button) folded before Flop (didn't bet)
+Seat 4: Be_castelo1 (small blind) collected ($6.65)
+Seat 5: joaquin612 (big blind) folded on the Flop
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254222529184:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 2:52:30 WET [2025/01/05 21:52:30 ET]
+Table 'Rigilkent II' 6-max Seat #4 is the button
+Seat 2: m0nTTu ($10 in chips) is sitting out
+Seat 3: danuuutz ($100 in chips) is sitting out
+Seat 1: Rysiff ($100 in chips) 
+Seat 4: Be_castelo1 ($100.41 in chips) 
+Seat 5: joaquin612 ($100.65 in chips) 
+Seat 6: equilibrium_tv ($99.50 in chips) 
+joaquin612: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+m0nTTu: sits out 
+danuuutz: sits out 
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+Be_castelo1: calls $2.50
+joaquin612: folds 
+equilibrium_tv: folds 
+*** FLOP *** [2s 2d 9d]
+Rysiff: bets $3.09
+Be_castelo1: calls $3.09
+*** TURN *** [2s 2d 9d] [4d]
+Rysiff: bets $6.03
+Be_castelo1: folds 
+Uncalled bet ($6.03) returned to Rysiff
+Rysiff collected $12.05 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.68 | Rake $0.63 
+Board [2s 2d 9d 4d]
+Seat 2: m0nTTu
+Seat 3: danuuutz
+Seat 1: Rysiff collected ($12.05)
+Seat 4: Be_castelo1 (button) folded on the Turn
+Seat 5: joaquin612 (small blind) folded before Flop
+Seat 6: equilibrium_tv (big blind) folded before Flop
+
+
+
+PokerStars Hand #254222534134:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 2:53:00 WET [2025/01/05 21:53:00 ET]
+Table 'Rigilkent II' 6-max Seat #5 is the button
+Seat 2: m0nTTu ($10 in chips) is sitting out
+Seat 3: danuuutz ($100 in chips) is sitting out
+Seat 1: Rysiff ($106.46 in chips) 
+Seat 4: Be_castelo1 ($94.82 in chips) 
+Seat 5: joaquin612 ($100.15 in chips) 
+Seat 6: equilibrium_tv ($98.50 in chips) 
+equilibrium_tv: posts small blind $0.50
+Rysiff: posts big blind $1
+m0nTTu: sits out 
+danuuutz: sits out 
+*** HOLE CARDS ***
+Be_castelo1: calls $1
+joaquin612: folds 
+equilibrium_tv: raises $4 to $5
+Rysiff: folds 
+Be_castelo1: calls $4
+*** FLOP *** [7d 9d 8h]
+equilibrium_tv: bets $3.45
+Be_castelo1: calls $3.45
+*** TURN *** [7d 9d 8h] [Ts]
+equilibrium_tv: bets $8.50
+Be_castelo1: calls $8.50
+*** RIVER *** [7d 9d 8h Ts] [Kh]
+equilibrium_tv: bets $22.37
+Be_castelo1: folds 
+Uncalled bet ($22.37) returned to equilibrium_tv
+equilibrium_tv collected $33.90 from pot
+*** SUMMARY ***
+Total pot $34.90 | Rake $1 
+Board [7d 9d 8h Ts Kh]
+Seat 2: m0nTTu
+Seat 3: danuuutz
+Seat 1: Rysiff (big blind) folded before Flop
+Seat 4: Be_castelo1 folded on the River
+Seat 5: joaquin612 (button) folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (small blind) collected ($33.90)
+
+
+
+PokerStars Hand #254222543037:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 2:53:56 WET [2025/01/05 21:53:56 ET]
+Table 'Rigilkent II' 6-max Seat #6 is the button
+Seat 3: danuuutz ($100 in chips) is sitting out
+Seat 1: Rysiff ($105.46 in chips) 
+Seat 2: m0nTTu ($10 in chips) 
+Seat 4: Be_castelo1 ($77.87 in chips) 
+Seat 5: joaquin612 ($100.15 in chips) 
+Seat 6: equilibrium_tv ($115.45 in chips) 
+Rysiff: posts small blind $0.50
+m0nTTu: posts big blind $1
+danuuutz: sits out 
+*** HOLE CARDS ***
+Be_castelo1: calls $1
+joaquin612: folds 
+equilibrium_tv: folds 
+Rysiff: folds 
+m0nTTu: checks 
+*** FLOP *** [6h 4d Tc]
+m0nTTu: checks 
+Be_castelo1: checks 
+*** TURN *** [6h 4d Tc] [9h]
+m0nTTu: checks 
+Be_castelo1: checks 
+*** RIVER *** [6h 4d Tc 9h] [Kh]
+m0nTTu: checks 
+Be_castelo1: bets $1
+m0nTTu: folds 
+Uncalled bet ($1) returned to Be_castelo1
+Be_castelo1 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [6h 4d Tc 9h Kh]
+Seat 3: danuuutz
+Seat 1: Rysiff (small blind) folded before Flop
+Seat 2: m0nTTu (big blind) folded on the River
+Seat 4: Be_castelo1 collected ($2.38)
+Seat 5: joaquin612 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254222548853:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 2:54:34 WET [2025/01/05 21:54:34 ET]
+Table 'Rigilkent II' 6-max Seat #1 is the button
+Seat 1: Rysiff ($104.96 in chips) 
+Seat 2: m0nTTu ($10 in chips) 
+Seat 3: danuuutz ($100 in chips) 
+Seat 4: Be_castelo1 ($79.25 in chips) 
+Seat 5: joaquin612 ($100.15 in chips) 
+Seat 6: equilibrium_tv ($115.45 in chips) 
+m0nTTu: posts small blind $0.50
+danuuutz: posts big blind $1
+*** HOLE CARDS ***
+Be_castelo1: folds 
+joaquin612: folds 
+equilibrium_tv: raises $1.50 to $2.50
+Rysiff: raises $5.50 to $8
+m0nTTu: folds 
+danuuutz: folds 
+equilibrium_tv: folds 
+Uncalled bet ($5.50) returned to Rysiff
+Rysiff collected $6.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: Rysiff (button) collected ($6.50)
+Seat 2: m0nTTu (small blind) folded before Flop
+Seat 3: danuuutz (big blind) folded before Flop
+Seat 4: Be_castelo1 folded before Flop (didn't bet)
+Seat 5: joaquin612 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv folded before Flop
+
+
+
+PokerStars Hand #254222552336:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 2:54:56 WET [2025/01/05 21:54:56 ET]
+Table 'Rigilkent II' 6-max Seat #2 is the button
+Seat 1: Rysiff ($108.96 in chips) 
+Seat 2: m0nTTu ($100 in chips) 
+Seat 3: danuuutz ($100 in chips) 
+Seat 4: Be_castelo1 ($79.25 in chips) 
+Seat 5: joaquin612 ($100.15 in chips) 
+Seat 6: equilibrium_tv ($112.95 in chips) 
+danuuutz: posts small blind $0.50
+Be_castelo1: posts big blind $1
+*** HOLE CARDS ***
+joaquin612: folds 
+equilibrium_tv: folds 
+Rysiff: folds 
+m0nTTu: raises $1.50 to $2.50
+danuuutz: calls $2
+Be_castelo1: calls $1.50
+*** FLOP *** [8s 6c 4h]
+danuuutz: bets $5.34
+Be_castelo1: folds 
+m0nTTu: calls $5.34
+*** TURN *** [8s 6c 4h] [7h]
+danuuutz: checks 
+m0nTTu: checks 
+*** RIVER *** [8s 6c 4h 7h] [5c]
+danuuutz: checks 
+m0nTTu: bets $25.95
+danuuutz: folds 
+Uncalled bet ($25.95) returned to m0nTTu
+m0nTTu collected $17.27 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.18 | Rake $0.91 
+Board [8s 6c 4h 7h 5c]
+Seat 1: Rysiff folded before Flop (didn't bet)
+Seat 2: m0nTTu (button) collected ($17.27)
+Seat 3: danuuutz (small blind) folded on the River
+Seat 4: Be_castelo1 (big blind) folded on the Flop
+Seat 5: joaquin612 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254222562083:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 2:56:11 WET [2025/01/05 21:56:11 ET]
+Table 'Rigilkent II' 6-max Seat #3 is the button
+Seat 1: Rysiff ($108.96 in chips) 
+Seat 2: m0nTTu ($109.43 in chips) 
+Seat 3: danuuutz ($100 in chips) 
+Seat 4: Be_castelo1 ($76.75 in chips) 
+Seat 5: joaquin612 ($100.15 in chips) 
+Seat 6: equilibrium_tv ($112.95 in chips) 
+Be_castelo1: posts small blind $0.50
+joaquin612: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+Rysiff: raises $1.50 to $2.50
+m0nTTu: folds 
+danuuutz: folds 
+Be_castelo1: calls $2
+joaquin612: folds 
+*** FLOP *** [9d 6h 3h]
+Be_castelo1: checks 
+Rysiff: bets $4.56
+Be_castelo1: calls $4.56
+*** TURN *** [9d 6h 3h] [Qs]
+Be_castelo1: checks 
+Rysiff: bets $11.49
+Be_castelo1: raises $11.49 to $22.98
+Rysiff: calls $11.49
+*** RIVER *** [9d 6h 3h Qs] [6s]
+Be_castelo1: bets $29.29
+Rysiff: calls $29.29
+*** SHOW DOWN ***
+Be_castelo1: shows [9h 9s] (a full house, Nines full of Sixes)
+Rysiff: mucks hand 
+Be_castelo1 collected $117.16 from pot
+*** SUMMARY ***
+Total pot $119.66 | Rake $2.50 
+Board [9d 6h 3h Qs 6s]
+Seat 1: Rysiff mucked
+Seat 2: m0nTTu folded before Flop (didn't bet)
+Seat 3: danuuutz (button) folded before Flop (didn't bet)
+Seat 4: Be_castelo1 (small blind) showed [9h 9s] and won ($117.16) with a full house, Nines full of Sixes
+Seat 5: joaquin612 (big blind) folded before Flop
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254222569923:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 2:57:13 WET [2025/01/05 21:57:13 ET]
+Table 'Rigilkent II' 6-max Seat #4 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: m0nTTu ($109.43 in chips) 
+Seat 3: danuuutz ($100 in chips) 
+Seat 4: Be_castelo1 ($134.58 in chips) 
+Seat 5: joaquin612 ($100 in chips) 
+Seat 6: equilibrium_tv ($112.95 in chips) 
+joaquin612: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+m0nTTu: folds 
+danuuutz: folds 
+Be_castelo1: calls $1
+joaquin612: calls $0.50
+equilibrium_tv: checks 
+*** FLOP *** [3s Th 2c]
+joaquin612: checks 
+equilibrium_tv: checks 
+Be_castelo1: checks 
+*** TURN *** [3s Th 2c] [Ks]
+joaquin612: checks 
+equilibrium_tv: checks 
+Be_castelo1: bets $2
+joaquin612: folds 
+equilibrium_tv: calls $2
+*** RIVER *** [3s Th 2c Ks] [3c]
+equilibrium_tv: checks 
+Be_castelo1: bets $4
+equilibrium_tv: calls $4
+*** SHOW DOWN ***
+Be_castelo1: shows [Kh 6h] (two pair, Kings and Threes)
+equilibrium_tv: shows [5h Kc] (two pair, Kings and Threes)
+equilibrium_tv collected $7.13 from pot
+Be_castelo1 collected $7.12 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [3s Th 2c Ks 3c]
+Seat 1: Rysiff folded before Flop (didn't bet)
+Seat 2: m0nTTu folded before Flop (didn't bet)
+Seat 3: danuuutz folded before Flop (didn't bet)
+Seat 4: Be_castelo1 (button) showed [Kh 6h] and won ($7.12) with two pair, Kings and Threes
+Seat 5: joaquin612 (small blind) folded on the Turn
+Seat 6: equilibrium_tv (big blind) showed [5h Kc] and won ($7.13) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #254222578260:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 2:58:20 WET [2025/01/05 21:58:20 ET]
+Table 'Rigilkent II' 6-max Seat #5 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: m0nTTu ($109.43 in chips) 
+Seat 3: danuuutz ($100 in chips) 
+Seat 4: Be_castelo1 ($134.70 in chips) 
+Seat 5: joaquin612 ($100 in chips) 
+Seat 6: equilibrium_tv ($113.08 in chips) 
+equilibrium_tv: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: raises $1.50 to $2.50
+danuuutz: folds 
+Be_castelo1: folds 
+joaquin612: folds 
+equilibrium_tv: folds 
+Rysiff: folds 
+Uncalled bet ($1.50) returned to m0nTTu
+m0nTTu collected $2.50 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Rysiff (big blind) folded before Flop
+Seat 2: m0nTTu collected ($2.50)
+Seat 3: danuuutz folded before Flop (didn't bet)
+Seat 4: Be_castelo1 folded before Flop (didn't bet)
+Seat 5: joaquin612 (button) folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254222579944:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 2:58:33 WET [2025/01/05 21:58:33 ET]
+Table 'Rigilkent II' 6-max Seat #6 is the button
+Seat 1: Rysiff ($100 in chips) 
+Seat 2: m0nTTu ($110.93 in chips) 
+Seat 3: danuuutz ($100 in chips) 
+Seat 4: Be_castelo1 ($134.70 in chips) 
+Seat 5: joaquin612 ($100 in chips) 
+Seat 6: equilibrium_tv ($112.58 in chips) 
+Rysiff: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+danuuutz: raises $2 to $3
+Be_castelo1: calls $3
+joaquin612: folds 
+equilibrium_tv: folds 
+Rysiff: folds 
+m0nTTu: folds 
+*** FLOP *** [9h Qc 6s]
+danuuutz: bets $1
+Be_castelo1: raises $4 to $5
+danuuutz: folds 
+Uncalled bet ($4) returned to Be_castelo1
+Be_castelo1 collected $9.02 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [9h Qc 6s]
+Seat 1: Rysiff (small blind) folded before Flop
+Seat 2: m0nTTu (big blind) folded before Flop
+Seat 3: danuuutz folded on the Flop
+Seat 4: Be_castelo1 collected ($9.02)
+Seat 5: joaquin612 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254222903580:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 3:36:48 WET [2025/01/05 22:36:48 ET]
+Table 'Rigilkent II' 6-max Seat #4 is the button
+Seat 1: joaquin612 ($161.71 in chips) 
+Seat 4: LuckyShikari ($10 in chips) 
+LuckyShikari: posts small blind $0.50
+joaquin612: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: raises $9 to $10 and is all-in
+joaquin612: folds 
+Uncalled bet ($9) returned to LuckyShikari
+LuckyShikari collected $2 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: joaquin612 (big blind) folded before Flop
+Seat 4: LuckyShikari (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254222906885:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/05 3:37:14 WET [2025/01/05 22:37:14 ET]
+Table 'Rigilkent II' 6-max Seat #1 is the button
+Seat 1: joaquin612 ($160.71 in chips) 
+Seat 4: LuckyShikari ($100 in chips) 
+joaquin612: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+joaquin612: raises $1.50 to $2.50
+LuckyShikari: folds 
+Uncalled bet ($1.50) returned to joaquin612
+joaquin612 collected $2 from pot
+joaquin612: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: joaquin612 (button) (small blind) collected ($2)
+Seat 4: LuckyShikari (big blind) folded before Flop
+
+
+

@@ -1,0 +1,635 @@
+﻿PokerStars Hand #254386262372:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:39:57 WET [2025/01/15 13:39:57 ET]
+Table 'Imprinetta III' 6-max Seat #3 is the button
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: avstero ($100 in chips) 
+Seat 3: Alamights ($80.65 in chips) 
+Seat 5: nastja336 ($100 in chips) 
+Seat 6: Evelexy1 ($101.50 in chips) 
+nastja336: posts small blind $0.50
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+ImaPeppaPig: folds 
+avstero: folds 
+Alamights: folds 
+tintin641 joins the table at seat #4 
+nastja336: raises $2 to $3
+Evelexy1: folds 
+Uncalled bet ($2) returned to nastja336
+nastja336 collected $2 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: avstero folded before Flop (didn't bet)
+Seat 3: Alamights (button) folded before Flop (didn't bet)
+Seat 5: nastja336 (small blind) collected ($2)
+Seat 6: Evelexy1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254386265197:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:40:06 WET [2025/01/15 13:40:06 ET]
+Table 'Imprinetta III' 6-max Seat #5 is the button
+Seat 4: tintin641 ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: avstero ($100 in chips) 
+Seat 3: Alamights ($80.65 in chips) 
+Seat 5: nastja336 ($101 in chips) 
+Seat 6: Evelexy1 ($100.50 in chips) 
+Evelexy1: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+avstero: folds 
+Alamights: folds 
+nastja336: folds 
+Evelexy1: raises $1.50 to $2.50
+ImaPeppaPig: calls $1.50
+*** FLOP *** [7c 5c Jc]
+Evelexy1: bets $1.58
+ImaPeppaPig: calls $1.58
+*** TURN *** [7c 5c Jc] [Qd]
+Evelexy1: checks 
+ImaPeppaPig: checks 
+*** RIVER *** [7c 5c Jc Qd] [Kd]
+Evelexy1: bets $11.63
+ImaPeppaPig: folds 
+Uncalled bet ($11.63) returned to Evelexy1
+Evelexy1 collected $7.75 from pot
+Evelexy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.16 | Rake $0.41 
+Board [7c 5c Jc Qd Kd]
+Seat 4: tintin641
+Seat 1: ImaPeppaPig (big blind) folded on the River
+Seat 2: avstero folded before Flop (didn't bet)
+Seat 3: Alamights folded before Flop (didn't bet)
+Seat 5: nastja336 (button) folded before Flop (didn't bet)
+Seat 6: Evelexy1 (small blind) collected ($7.75)
+
+
+
+PokerStars Hand #254386275603:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:40:41 WET [2025/01/15 13:40:41 ET]
+Table 'Imprinetta III' 6-max Seat #6 is the button
+Seat 4: tintin641 ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: avstero ($100 in chips) 
+Seat 3: Alamights ($80.65 in chips) 
+Seat 5: nastja336 ($101 in chips) 
+Seat 6: Evelexy1 ($104.17 in chips) 
+ImaPeppaPig: posts small blind $0.50
+avstero: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+Alamights: folds 
+nastja336: folds 
+Evelexy1: folds 
+ImaPeppaPig: folds 
+Uncalled bet ($0.50) returned to avstero
+avstero collected $1 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: tintin641
+Seat 1: ImaPeppaPig (small blind) folded before Flop
+Seat 2: avstero (big blind) collected ($1)
+Seat 3: Alamights folded before Flop (didn't bet)
+Seat 5: nastja336 folded before Flop (didn't bet)
+Seat 6: Evelexy1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254386278431:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:40:51 WET [2025/01/15 13:40:51 ET]
+Table 'Imprinetta III' 6-max Seat #1 is the button
+Seat 4: tintin641 ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: avstero ($100.50 in chips) 
+Seat 3: Alamights ($80.65 in chips) 
+Seat 5: nastja336 ($101 in chips) 
+Seat 6: Evelexy1 ($104.17 in chips) 
+avstero: posts small blind $0.50
+Alamights: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+nastja336: folds 
+Evelexy1: folds 
+ImaPeppaPig: raises $1.50 to $2.50
+avstero: folds 
+Alamights: calls $1.50
+*** FLOP *** [7s 3c 9c]
+Alamights: checks 
+ImaPeppaPig: bets $3
+Alamights: calls $3
+*** TURN *** [7s 3c 9c] [Qc]
+Alamights: checks 
+ImaPeppaPig: checks 
+*** RIVER *** [7s 3c 9c Qc] [Qs]
+Alamights: bets $10.92
+ImaPeppaPig: calls $10.92
+*** SHOW DOWN ***
+Alamights: shows [Kc Ts] (a pair of Queens)
+ImaPeppaPig: shows [9d 5d] (two pair, Queens and Nines)
+ImaPeppaPig collected $31.67 from pot
+*** SUMMARY ***
+Total pot $33.34 | Rake $1.67 
+Board [7s 3c 9c Qc Qs]
+Seat 4: tintin641
+Seat 1: ImaPeppaPig (button) showed [9d 5d] and won ($31.67) with two pair, Queens and Nines
+Seat 2: avstero (small blind) folded before Flop
+Seat 3: Alamights (big blind) showed [Kc Ts] and lost with a pair of Queens
+Seat 5: nastja336 folded before Flop (didn't bet)
+Seat 6: Evelexy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254386290293:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:41:30 WET [2025/01/15 13:41:30 ET]
+Table 'Imprinetta III' 6-max Seat #2 is the button
+Seat 1: ImaPeppaPig ($115.25 in chips) 
+Seat 2: avstero ($100 in chips) 
+Seat 3: Alamights ($64.23 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 5: nastja336 ($101 in chips) 
+Seat 6: Evelexy1 ($104.17 in chips) 
+Alamights: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+nastja336: raises $1.50 to $2.50
+Evelexy1: folds 
+ImaPeppaPig: folds 
+avstero: raises $5.30 to $7.80
+Alamights: folds 
+tintin641: folds 
+nastja336: folds 
+Uncalled bet ($5.30) returned to avstero
+avstero collected $6.50 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: avstero (button) collected ($6.50)
+Seat 3: Alamights (small blind) folded before Flop
+Seat 4: tintin641 (big blind) folded before Flop
+Seat 5: nastja336 folded before Flop
+Seat 6: Evelexy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254386297572:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:41:55 WET [2025/01/15 13:41:55 ET]
+Table 'Imprinetta III' 6-max Seat #3 is the button
+Seat 1: ImaPeppaPig ($115.25 in chips) 
+Seat 2: avstero ($104 in chips) 
+Seat 3: Alamights ($63.73 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 5: nastja336 ($100 in chips) 
+Seat 6: Evelexy1 ($104.17 in chips) 
+tintin641: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+Evelexy1: folds 
+ImaPeppaPig: folds 
+avstero: folds 
+Alamights: raises $2 to $3
+tintin641: folds 
+nastja336: folds 
+Uncalled bet ($2) returned to Alamights
+Alamights collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: avstero folded before Flop (didn't bet)
+Seat 3: Alamights (button) collected ($2.50)
+Seat 4: tintin641 (small blind) folded before Flop
+Seat 5: nastja336 (big blind) folded before Flop
+Seat 6: Evelexy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254386305389:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:42:21 WET [2025/01/15 13:42:21 ET]
+Table 'Imprinetta III' 6-max Seat #4 is the button
+Seat 1: ImaPeppaPig ($115.25 in chips) 
+Seat 2: avstero ($104 in chips) 
+Seat 3: Alamights ($65.23 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 5: nastja336 ($100 in chips) 
+Seat 6: Evelexy1 ($104.17 in chips) 
+nastja336: posts small blind $0.50
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+ImaPeppaPig: folds 
+avstero: folds 
+Alamights: folds 
+tintin641: raises $1.50 to $2.50
+nastja336: raises $9.50 to $12
+Evelexy1: folds 
+tintin641: folds 
+Uncalled bet ($9.50) returned to nastja336
+nastja336 collected $6 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: avstero folded before Flop (didn't bet)
+Seat 3: Alamights folded before Flop (didn't bet)
+Seat 4: tintin641 (button) folded before Flop
+Seat 5: nastja336 (small blind) collected ($6)
+Seat 6: Evelexy1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254386311659:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:42:42 WET [2025/01/15 13:42:42 ET]
+Table 'Imprinetta III' 6-max Seat #5 is the button
+Seat 1: ImaPeppaPig ($115.25 in chips) 
+Seat 2: avstero ($104 in chips) 
+Seat 3: Alamights ($65.23 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 5: nastja336 ($103.50 in chips) 
+Seat 6: Evelexy1 ($103.17 in chips) 
+Evelexy1: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+Alamights: raises $2.50 to $3.50
+tintin641: folds 
+nastja336: folds 
+Evelexy1: folds 
+ImaPeppaPig: folds 
+Uncalled bet ($2.50) returned to Alamights
+Alamights collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ImaPeppaPig (big blind) folded before Flop
+Seat 2: avstero folded before Flop (didn't bet)
+Seat 3: Alamights collected ($2.50)
+Seat 4: tintin641 folded before Flop (didn't bet)
+Seat 5: nastja336 (button) folded before Flop (didn't bet)
+Seat 6: Evelexy1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254386318077:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:43:04 WET [2025/01/15 13:43:04 ET]
+Table 'Imprinetta III' 6-max Seat #6 is the button
+Seat 1: ImaPeppaPig ($114.25 in chips) 
+Seat 2: avstero ($104 in chips) 
+Seat 3: Alamights ($66.73 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 5: nastja336 ($103.50 in chips) 
+Seat 6: Evelexy1 ($102.67 in chips) 
+ImaPeppaPig: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+Alamights: folds 
+tintin641: folds 
+nastja336: folds 
+Evelexy1: folds 
+ImaPeppaPig: folds 
+Uncalled bet ($0.50) returned to avstero
+avstero collected $1 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ImaPeppaPig (small blind) folded before Flop
+Seat 2: avstero (big blind) collected ($1)
+Seat 3: Alamights folded before Flop (didn't bet)
+Seat 4: tintin641 folded before Flop (didn't bet)
+Seat 5: nastja336 folded before Flop (didn't bet)
+Seat 6: Evelexy1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254386322166:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:43:17 WET [2025/01/15 13:43:17 ET]
+Table 'Imprinetta III' 6-max Seat #1 is the button
+Seat 1: ImaPeppaPig ($113.75 in chips) 
+Seat 2: avstero ($104.50 in chips) 
+Seat 3: Alamights ($66.73 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 5: nastja336 ($103.50 in chips) 
+Seat 6: Evelexy1 ($102.67 in chips) 
+avstero: posts small blind $0.50
+Alamights: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+nastja336: folds 
+Evelexy1: folds 
+ImaPeppaPig: folds 
+avstero: calls $2
+Alamights: folds 
+*** FLOP *** [Tc Jh Jc]
+avstero: checks 
+tintin641: bets $1.88
+avstero: folds 
+Uncalled bet ($1.88) returned to tintin641
+tintin641 collected $5.70 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Tc Jh Jc]
+Seat 1: ImaPeppaPig (button) folded before Flop (didn't bet)
+Seat 2: avstero (small blind) folded on the Flop
+Seat 3: Alamights (big blind) folded before Flop
+Seat 4: tintin641 collected ($5.70)
+Seat 5: nastja336 folded before Flop (didn't bet)
+Seat 6: Evelexy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254386338247:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:44:11 WET [2025/01/15 13:44:11 ET]
+Table 'Imprinetta III' 6-max Seat #2 is the button
+Seat 1: ImaPeppaPig ($113.75 in chips) 
+Seat 2: avstero ($102 in chips) 
+Seat 3: Alamights ($65.73 in chips) 
+Seat 4: tintin641 ($103.20 in chips) 
+Seat 5: nastja336 ($103.50 in chips) 
+Seat 6: Evelexy1 ($102.67 in chips) 
+Alamights: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+Evelexy1: folds 
+ImaPeppaPig: folds 
+avstero: folds 
+Alamights: folds 
+Uncalled bet ($0.50) returned to tintin641
+tintin641 collected $1 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: avstero (button) folded before Flop (didn't bet)
+Seat 3: Alamights (small blind) folded before Flop
+Seat 4: tintin641 (big blind) collected ($1)
+Seat 5: nastja336 folded before Flop (didn't bet)
+Seat 6: Evelexy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254386340417:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:44:19 WET [2025/01/15 13:44:19 ET]
+Table 'Imprinetta III' 6-max Seat #3 is the button
+Seat 1: ImaPeppaPig ($113.75 in chips) 
+Seat 2: avstero ($102 in chips) 
+Seat 3: Alamights ($65.23 in chips) 
+Seat 4: tintin641 ($103.70 in chips) 
+Seat 5: nastja336 ($103.50 in chips) 
+Seat 6: Evelexy1 ($102.67 in chips) 
+tintin641: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+Evelexy1: folds 
+ImaPeppaPig: folds 
+avstero: folds 
+Alamights: folds 
+tintin641: raises $2 to $3
+nastja336: calls $2
+*** FLOP *** [6c Kc Ac]
+tintin641: checks 
+nastja336: bets $1.88
+tintin641: calls $1.88
+*** TURN *** [6c Kc Ac] [2d]
+tintin641: checks 
+nastja336: bets $3.06
+tintin641: calls $3.06
+*** RIVER *** [6c Kc Ac 2d] [8c]
+tintin641: checks 
+nastja336: bets $11.40
+tintin641: folds 
+Uncalled bet ($11.40) returned to nastja336
+nastja336 collected $15.09 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.88 | Rake $0.79 
+Board [6c Kc Ac 2d 8c]
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: avstero folded before Flop (didn't bet)
+Seat 3: Alamights (button) folded before Flop (didn't bet)
+Seat 4: tintin641 (small blind) folded on the River
+Seat 5: nastja336 (big blind) collected ($15.09)
+Seat 6: Evelexy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254386362129:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:45:31 WET [2025/01/15 13:45:31 ET]
+Table 'Imprinetta III' 6-max Seat #4 is the button
+Seat 1: ImaPeppaPig ($113.75 in chips) 
+Seat 2: avstero ($102 in chips) 
+Seat 3: Alamights ($65.23 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 5: nastja336 ($110.65 in chips) 
+Seat 6: Evelexy1 ($102.67 in chips) 
+nastja336: posts small blind $0.50
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+ImaPeppaPig: raises $1.50 to $2.50
+avstero: folds 
+Alamights: raises $6.50 to $9
+tintin641: folds 
+nastja336: folds 
+Evelexy1: folds 
+ImaPeppaPig: raises $104.75 to $113.75 and is all-in
+Alamights: calls $56.23 and is all-in
+Uncalled bet ($48.52) returned to ImaPeppaPig
+*** FLOP *** [Ac 8h 4c]
+*** TURN *** [Ac 8h 4c] [Kh]
+*** RIVER *** [Ac 8h 4c Kh] [8c]
+*** SHOW DOWN ***
+ImaPeppaPig: shows [Qd Qh] (two pair, Queens and Eights)
+Alamights: shows [Jd Js] (two pair, Jacks and Eights)
+ImaPeppaPig collected $129.46 from pot
+*** SUMMARY ***
+Total pot $131.96 | Rake $2.50 
+Board [Ac 8h 4c Kh 8c]
+Seat 1: ImaPeppaPig showed [Qd Qh] and won ($129.46) with two pair, Queens and Eights
+Seat 2: avstero folded before Flop (didn't bet)
+Seat 3: Alamights showed [Jd Js] and lost with two pair, Jacks and Eights
+Seat 4: tintin641 (button) folded before Flop (didn't bet)
+Seat 5: nastja336 (small blind) folded before Flop
+Seat 6: Evelexy1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254386372315:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:46:05 WET [2025/01/15 13:46:05 ET]
+Table 'Imprinetta III' 6-max Seat #5 is the button
+Seat 3: Alamights ($0 in chips) is sitting out
+Seat 1: ImaPeppaPig ($177.98 in chips) 
+Seat 2: avstero ($102 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 5: nastja336 ($110.15 in chips) 
+Seat 6: Evelexy1 ($101.67 in chips) 
+Evelexy1: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+tintin641: folds 
+nastja336: raises $1.50 to $2.50
+Evelexy1: raises $9.45 to $11.95
+Alamights is disconnected 
+ImaPeppaPig: folds 
+nastja336: folds 
+Uncalled bet ($9.45) returned to Evelexy1
+Evelexy1 collected $6 from pot
+Evelexy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: Alamights
+Seat 1: ImaPeppaPig (big blind) folded before Flop
+Seat 2: avstero folded before Flop (didn't bet)
+Seat 4: tintin641 folded before Flop (didn't bet)
+Seat 5: nastja336 (button) folded before Flop
+Seat 6: Evelexy1 (small blind) collected ($6)
+
+
+
+PokerStars Hand #254386376716:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:46:20 WET [2025/01/15 13:46:20 ET]
+Table 'Imprinetta III' 6-max Seat #6 is the button
+Seat 3: Alamights ($0 in chips) is sitting out
+Seat 1: ImaPeppaPig ($176.98 in chips) 
+Seat 2: avstero ($102 in chips) 
+Seat 4: tintin641 ($100 in chips) 
+Seat 5: nastja336 ($107.65 in chips) 
+Seat 6: Evelexy1 ($105.17 in chips) 
+ImaPeppaPig: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+nastja336: folds 
+Evelexy1: folds 
+ImaPeppaPig: folds 
+nastja336 leaves the table
+avstero: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Alamights
+Seat 1: ImaPeppaPig (small blind) folded before Flop
+Seat 2: avstero (big blind) folded before Flop
+Seat 4: tintin641 collected ($2.50)
+Seat 5: nastja336 folded before Flop (didn't bet)
+Seat 6: Evelexy1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254386384313:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:46:46 WET [2025/01/15 13:46:46 ET]
+Table 'Imprinetta III' 6-max Seat #1 is the button
+Seat 3: Alamights ($0 in chips) is sitting out
+Seat 4: tintin641 ($101.50 in chips) is sitting out
+Seat 1: ImaPeppaPig ($176.48 in chips) 
+Seat 2: avstero ($101 in chips) 
+Seat 6: Evelexy1 ($105.17 in chips) 
+avstero: posts small blind $0.50
+tintin641: is sitting out 
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+tintin641 leaves the table
+ImaPeppaPig: folds 
+avstero: raises $1.80 to $2.80
+Evelexy1: calls $1.80
+*** FLOP *** [Ah Ts 5d]
+avstero: checks 
+Evelexy1: checks 
+*** TURN *** [Ah Ts 5d] [9h]
+avstero: checks 
+Evelexy1: checks 
+*** RIVER *** [Ah Ts 5d 9h] [2d]
+avstero: checks 
+Evelexy1: checks 
+*** SHOW DOWN ***
+avstero: shows [Qh Kc] (high card Ace)
+Evelexy1: shows [Jd 9d] (a pair of Nines)
+Evelexy1 collected $5.32 from pot
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.28 
+Board [Ah Ts 5d 9h 2d]
+Seat 3: Alamights
+Seat 4: tintin641
+Seat 1: ImaPeppaPig (button) folded before Flop (didn't bet)
+Seat 2: avstero (small blind) showed [Qh Kc] and lost with high card Ace
+Seat 6: Evelexy1 (big blind) showed [Jd 9d] and won ($5.32) with a pair of Nines
+
+
+
+PokerStars Hand #254386396651:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:47:27 WET [2025/01/15 13:47:27 ET]
+Table 'Imprinetta III' 6-max Seat #2 is the button
+Seat 3: Alamights ($0 in chips) is sitting out
+Seat 1: ImaPeppaPig ($176.48 in chips) 
+Seat 2: avstero ($100 in chips) 
+Seat 6: Evelexy1 ($107.69 in chips) 
+Evelexy1: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+Evelexy1: folds 
+Uncalled bet ($0.50) returned to ImaPeppaPig
+ImaPeppaPig collected $1 from pot
+ImaPeppaPig: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Alamights
+Seat 1: ImaPeppaPig (big blind) collected ($1)
+Seat 2: avstero (button) folded before Flop (didn't bet)
+Seat 6: Evelexy1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254386398973:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:47:35 WET [2025/01/15 13:47:35 ET]
+Table 'Imprinetta III' 6-max Seat #1 is the button
+Seat 2: avstero ($100 in chips) is sitting out
+Seat 3: Alamights ($0 in chips) is sitting out
+Seat 1: ImaPeppaPig ($176.98 in chips) 
+Seat 6: Evelexy1 ($107.19 in chips) 
+ImaPeppaPig: posts small blind $0.50
+avstero: is sitting out 
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+avstero leaves the table
+ImaPeppaPig: folds 
+Uncalled bet ($0.50) returned to Evelexy1
+Evelexy1 collected $1 from pot
+Evelexy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: avstero
+Seat 3: Alamights
+Seat 1: ImaPeppaPig (button) (small blind) folded before Flop
+Seat 6: Evelexy1 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254386401086:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:47:42 WET [2025/01/15 13:47:42 ET]
+Table 'Imprinetta III' 6-max Seat #6 is the button
+Seat 3: Alamights ($0 in chips) is sitting out
+Seat 1: ImaPeppaPig ($176.48 in chips) 
+Seat 6: Evelexy1 ($107.69 in chips) 
+Evelexy1: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+Evelexy1: folds 
+Uncalled bet ($0.50) returned to ImaPeppaPig
+ImaPeppaPig collected $1 from pot
+ImaPeppaPig: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Alamights
+Seat 1: ImaPeppaPig (big blind) collected ($1)
+Seat 6: Evelexy1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254386403249:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/15 18:47:49 WET [2025/01/15 13:47:49 ET]
+Table 'Imprinetta III' 6-max Seat #1 is the button
+Seat 3: Alamights ($0 in chips) is sitting out
+Seat 1: ImaPeppaPig ($176.98 in chips) 
+Seat 6: Evelexy1 ($107.19 in chips) 
+ImaPeppaPig: posts small blind $0.50
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+ImaPeppaPig: folds 
+Uncalled bet ($0.50) returned to Evelexy1
+Evelexy1 collected $1 from pot
+Evelexy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Alamights
+Seat 1: ImaPeppaPig (button) (small blind) folded before Flop
+Seat 6: Evelexy1 (big blind) collected ($1)
+
+
+

@@ -1,0 +1,1790 @@
+﻿PokerStars Hand #254290819999:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 3:58:39 WET [2025/01/09 22:58:39 ET]
+Table 'Erfordia III' 6-max Seat #1 is the button
+Seat 1: LuckyShikari ($165.98 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 5: ImaPeppaPig ($138.32 in chips) 
+Seat 6: Cloudtiger ($341.53 in chips) 
+BeauParleur: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+BeauParleur: folds 
+ImaPeppaPig: calls $2
+*** FLOP *** [Qs 3d 9s]
+ImaPeppaPig: checks 
+Cloudtiger: checks 
+*** TURN *** [Qs 3d 9s] [5h]
+ImaPeppaPig: checks 
+Cloudtiger: bets $3.09
+ImaPeppaPig: calls $3.09
+*** RIVER *** [Qs 3d 9s 5h] [As]
+ImaPeppaPig: checks 
+Cloudtiger: checks 
+*** SHOW DOWN ***
+ImaPeppaPig: shows [3c 4c] (a pair of Threes)
+Cloudtiger: mucks hand 
+ImaPeppaPig collected $12.05 from pot
+*** SUMMARY ***
+Total pot $12.68 | Rake $0.63 
+Board [Qs 3d 9s 5h As]
+Seat 1: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 5: ImaPeppaPig (big blind) showed [3c 4c] and won ($12.05) with a pair of Threes
+Seat 6: Cloudtiger mucked
+
+
+
+PokerStars Hand #254290824264:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 3:59:23 WET [2025/01/09 22:59:23 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($165.98 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 5: ImaPeppaPig ($144.28 in chips) 
+Seat 6: Cloudtiger ($335.44 in chips) 
+ImaPeppaPig: posts small blind $0.50
+Cloudtiger: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+BeauParleur: folds 
+ImaPeppaPig: folds 
+Uncalled bet ($0.50) returned to Cloudtiger
+Cloudtiger collected $1 from pot
+Jhonnyspa12 joins the table at seat #2 
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 5: ImaPeppaPig (small blind) folded before Flop
+Seat 6: Cloudtiger (big blind) collected ($1)
+
+
+
+PokerStars Hand #254290825670:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 3:59:38 WET [2025/01/09 22:59:38 ET]
+Table 'Erfordia III' 6-max Seat #5 is the button
+Seat 2: Jhonnyspa12 ($47.74 in chips) is sitting out
+Seat 1: LuckyShikari ($165.98 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 5: ImaPeppaPig ($143.78 in chips) 
+Seat 6: Cloudtiger ($335.94 in chips) 
+Cloudtiger: posts small blind $0.50
+LuckyShikari: posts big blind $1
+Jhonnyspa12: sits out 
+*** HOLE CARDS ***
+BeauParleur: folds 
+Rysiff joins the table at seat #4 
+Jhonnyspa12 leaves the table
+ImaPeppaPig: folds 
+Cloudtiger: raises $2 to $3
+LuckyShikari: calls $2
+*** FLOP *** [2c 3c 5s]
+Cloudtiger: bets $2.85
+LuckyShikari: raises $6.65 to $9.50
+Cloudtiger: folds 
+Uncalled bet ($6.65) returned to LuckyShikari
+LuckyShikari collected $11.12 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.70 | Rake $0.58 
+Board [2c 3c 5s]
+Seat 2: Jhonnyspa12
+Seat 1: LuckyShikari (big blind) collected ($11.12)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 5: ImaPeppaPig (button) folded before Flop (didn't bet)
+Seat 6: Cloudtiger (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254290830112:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:00:22 WET [2025/01/09 23:00:22 ET]
+Table 'Erfordia III' 6-max Seat #6 is the button
+Seat 4: Rysiff ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($171.25 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 5: ImaPeppaPig ($143.78 in chips) 
+Seat 6: Cloudtiger ($330.09 in chips) 
+LuckyShikari: posts small blind $0.50
+BeauParleur: posts big blind $1
+Rysiff: sits out 
+*** HOLE CARDS ***
+ImaPeppaPig: folds 
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+BeauParleur: calls $2
+*** FLOP *** [6h Ah 2h]
+BeauParleur: checks 
+Cloudtiger: bets $3.09
+BeauParleur: calls $3.09
+*** TURN *** [6h Ah 2h] [Jh]
+BeauParleur: checks 
+Cloudtiger: checks 
+*** RIVER *** [6h Ah 2h Jh] [7s]
+BeauParleur: bets $2.50
+Cloudtiger: calls $2.50
+*** SHOW DOWN ***
+BeauParleur: shows [3c 3h] (a flush, Ace high)
+Cloudtiger: shows [9c 8h] (a flush, Ace high - Eight higher)
+Cloudtiger collected $16.80 from pot
+*** SUMMARY ***
+Total pot $17.68 | Rake $0.88 
+Board [6h Ah 2h Jh 7s]
+Seat 4: Rysiff
+Seat 1: LuckyShikari (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) showed [3c 3h] and lost with a flush, Ace high
+Seat 5: ImaPeppaPig folded before Flop (didn't bet)
+Seat 6: Cloudtiger (button) showed [9c 8h] and won ($16.80) with a flush, Ace high
+
+
+
+PokerStars Hand #254290835444:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:01:11 WET [2025/01/09 23:01:11 ET]
+Table 'Erfordia III' 6-max Seat #1 is the button
+Seat 1: LuckyShikari ($170.75 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: Rysiff ($100 in chips) 
+Seat 5: ImaPeppaPig ($143.78 in chips) 
+Seat 6: Cloudtiger ($338.30 in chips) 
+BeauParleur: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+ImaPeppaPig: folds 
+Cloudtiger: folds 
+LuckyShikari: folds 
+BeauParleur: raises $2 to $3
+Rysiff: folds 
+Uncalled bet ($2) returned to BeauParleur
+BeauParleur collected $2 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) collected ($2)
+Seat 4: Rysiff (big blind) folded before Flop
+Seat 5: ImaPeppaPig folded before Flop (didn't bet)
+Seat 6: Cloudtiger folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254290836863:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:01:24 WET [2025/01/09 23:01:24 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($170.75 in chips) 
+Seat 3: BeauParleur ($101 in chips) 
+Seat 4: Rysiff ($100 in chips) 
+Seat 5: ImaPeppaPig ($143.78 in chips) 
+Seat 6: Cloudtiger ($338.30 in chips) 
+Rysiff: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+BeauParleur: raises $6 to $9
+Rysiff: folds 
+ImaPeppaPig: folds 
+Cloudtiger: calls $6
+*** FLOP *** [4s Js Qh]
+Cloudtiger: checks 
+BeauParleur: bets $4.50
+Cloudtiger: calls $4.50
+*** TURN *** [4s Js Qh] [5s]
+Cloudtiger: checks 
+BeauParleur: checks 
+*** RIVER *** [4s Js Qh 5s] [Ad]
+Cloudtiger: bets $14
+BeauParleur: folds 
+Uncalled bet ($14) returned to Cloudtiger
+Cloudtiger collected $27.08 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $28.50 | Rake $1.42 
+Board [4s Js Qh 5s Ad]
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded on the River
+Seat 4: Rysiff (small blind) folded before Flop
+Seat 5: ImaPeppaPig (big blind) folded before Flop
+Seat 6: Cloudtiger collected ($27.08)
+
+
+
+PokerStars Hand #254290844304:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:02:30 WET [2025/01/09 23:02:30 ET]
+Table 'Erfordia III' 6-max Seat #4 is the button
+Seat 1: LuckyShikari ($170.75 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: Rysiff ($100 in chips) 
+Seat 5: ImaPeppaPig ($142.78 in chips) 
+Seat 6: Cloudtiger ($351.88 in chips) 
+ImaPeppaPig: posts small blind $0.50
+Cloudtiger: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+BeauParleur: folds 
+Rysiff: folds 
+ImaPeppaPig: folds 
+Uncalled bet ($0.50) returned to Cloudtiger
+Cloudtiger collected $1 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: ImaPeppaPig (small blind) folded before Flop
+Seat 6: Cloudtiger (big blind) collected ($1)
+
+
+
+PokerStars Hand #254290848182:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:03:04 WET [2025/01/09 23:03:04 ET]
+Table 'Erfordia III' 6-max Seat #5 is the button
+Seat 1: LuckyShikari ($170.75 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: Rysiff ($100 in chips) 
+Seat 5: ImaPeppaPig ($142.28 in chips) 
+Seat 6: Cloudtiger ($352.38 in chips) 
+Cloudtiger: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: raises $1 to $2
+Rysiff: folds 
+ImaPeppaPig: folds 
+Cloudtiger: folds 
+LuckyShikari: calls $1
+*** FLOP *** [9h Qd Qc]
+LuckyShikari: bets $1.20
+BeauParleur: raises $3.34 to $4.54
+LuckyShikari: folds 
+Uncalled bet ($3.34) returned to BeauParleur
+BeauParleur collected $6.56 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.90 | Rake $0.34 
+Board [9h Qd Qc]
+Seat 1: LuckyShikari (big blind) folded on the Flop
+Seat 3: BeauParleur collected ($6.56)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: ImaPeppaPig (button) folded before Flop (didn't bet)
+Seat 6: Cloudtiger (small blind) folded before Flop
+
+
+
+PokerStars Hand #254290853490:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:03:51 WET [2025/01/09 23:03:51 ET]
+Table 'Erfordia III' 6-max Seat #6 is the button
+Seat 1: LuckyShikari ($167.55 in chips) 
+Seat 3: BeauParleur ($103.36 in chips) 
+Seat 4: Rysiff ($100 in chips) 
+Seat 5: ImaPeppaPig ($142.28 in chips) 
+Seat 6: Cloudtiger ($351.88 in chips) 
+LuckyShikari: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+ImaPeppaPig: folds 
+Cloudtiger has timed out
+Cloudtiger: folds 
+LuckyShikari: calls $0.50
+BeauParleur: raises $4 to $5
+LuckyShikari: folds 
+Uncalled bet ($4) returned to BeauParleur
+BeauParleur collected $2 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: LuckyShikari (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) collected ($2)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: ImaPeppaPig folded before Flop (didn't bet)
+Seat 6: Cloudtiger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254290857413:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:04:25 WET [2025/01/09 23:04:25 ET]
+Table 'Erfordia III' 6-max Seat #1 is the button
+Seat 4: Rysiff ($100 in chips) is sitting out
+Seat 5: ImaPeppaPig ($142.28 in chips) is sitting out
+Seat 1: LuckyShikari ($166.55 in chips) 
+Seat 3: BeauParleur ($104.36 in chips) 
+Seat 6: Cloudtiger ($351.88 in chips) 
+BeauParleur: posts small blind $0.50
+Rysiff: is sitting out 
+ImaPeppaPig: is sitting out 
+Cloudtiger: posts big blind $1
+*** HOLE CARDS ***
+ImaPeppaPig leaves the table
+Rysiff leaves the table
+LuckyShikari: folds 
+BeauParleur: folds 
+Uncalled bet ($0.50) returned to Cloudtiger
+Cloudtiger collected $1 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: Rysiff
+Seat 5: ImaPeppaPig
+Seat 1: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 6: Cloudtiger (big blind) collected ($1)
+
+
+
+PokerStars Hand #254290858601:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:04:36 WET [2025/01/09 23:04:36 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($166.55 in chips) 
+Seat 3: BeauParleur ($103.86 in chips) 
+Seat 6: Cloudtiger ($352.38 in chips) 
+Cloudtiger: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: raises $1.50 to $2.50
+Cloudtiger: raises $3.50 to $6
+LuckyShikari: folds 
+BeauParleur: folds 
+Uncalled bet ($3.50) returned to Cloudtiger
+Cloudtiger collected $6 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyShikari (big blind) folded before Flop
+Seat 3: BeauParleur (button) folded before Flop
+Seat 6: Cloudtiger (small blind) collected ($6)
+
+
+
+PokerStars Hand #254290862596:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:05:11 WET [2025/01/09 23:05:11 ET]
+Table 'Erfordia III' 6-max Seat #6 is the button
+Seat 1: LuckyShikari ($165.55 in chips) 
+Seat 3: BeauParleur ($101.36 in chips) 
+Seat 6: Cloudtiger ($355.88 in chips) 
+LuckyShikari: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+BeauParleur: calls $2
+*** FLOP *** [7h As Th]
+BeauParleur: checks 
+Cloudtiger: bets $3.09
+BeauParleur: calls $3.09
+*** TURN *** [7h As Th] [9c]
+BeauParleur: checks 
+Cloudtiger: bets $8
+BeauParleur: folds 
+Uncalled bet ($8) returned to Cloudtiger
+Cloudtiger collected $12.05 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.68 | Rake $0.63 
+Board [7h As Th 9c]
+Seat 1: LuckyShikari (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) folded on the Turn
+Seat 6: Cloudtiger (button) collected ($12.05)
+
+
+
+PokerStars Hand #254290868169:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:06:00 WET [2025/01/09 23:06:00 ET]
+Table 'Erfordia III' 6-max Seat #1 is the button
+Seat 1: LuckyShikari ($165.05 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 6: Cloudtiger ($361.84 in chips) 
+BeauParleur: posts small blind $0.50
+Cloudtiger: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+BeauParleur: folds 
+Uncalled bet ($0.50) returned to Cloudtiger
+Cloudtiger collected $1 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 6: Cloudtiger (big blind) collected ($1)
+
+
+
+PokerStars Hand #254290870500:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:06:21 WET [2025/01/09 23:06:21 ET]
+Table 'Erfordia III' 6-max Seat #6 is the button
+Seat 1: LuckyShikari ($165.05 in chips) is sitting out
+Seat 3: BeauParleur ($100 in chips) 
+Seat 6: Cloudtiger ($362.34 in chips) 
+Cloudtiger: posts small blind $0.50
+LuckyShikari: is sitting out 
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Cloudtiger: raises $2 to $3
+BeauParleur: raises $10 to $13
+Cloudtiger: folds 
+Uncalled bet ($10) returned to BeauParleur
+BeauParleur collected $6 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyShikari
+Seat 3: BeauParleur (big blind) collected ($6)
+Seat 6: Cloudtiger (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254290873011:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:06:44 WET [2025/01/09 23:06:44 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($165.05 in chips) is sitting out
+Seat 3: BeauParleur ($103 in chips) 
+Seat 6: Cloudtiger ($359.34 in chips) 
+BeauParleur: posts small blind $0.50
+Cloudtiger: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: raises $1 to $2
+Cloudtiger: calls $1
+*** FLOP *** [Qc Qs 7c]
+Cloudtiger: checks 
+BeauParleur: bets $1.25
+Cloudtiger: calls $1.25
+*** TURN *** [Qc Qs 7c] [2s]
+Cloudtiger: checks 
+BeauParleur: bets $4.64
+Cloudtiger: calls $4.64
+*** RIVER *** [Qc Qs 7c 2s] [4d]
+Cloudtiger: checks 
+BeauParleur: checks 
+*** SHOW DOWN ***
+Cloudtiger: shows [9c Kc] (a pair of Queens)
+BeauParleur: shows [7s Ks] (two pair, Queens and Sevens)
+BeauParleur collected $14.99 from pot
+*** SUMMARY ***
+Total pot $15.78 | Rake $0.79 
+Board [Qc Qs 7c 2s 4d]
+Seat 1: LuckyShikari
+Seat 3: BeauParleur (button) (small blind) showed [7s Ks] and won ($14.99) with two pair, Queens and Sevens
+Seat 6: Cloudtiger (big blind) showed [9c Kc] and lost with a pair of Queens
+
+
+
+PokerStars Hand #254290878040:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:07:29 WET [2025/01/09 23:07:29 ET]
+Table 'Erfordia III' 6-max Seat #6 is the button
+Seat 1: LuckyShikari ($165.05 in chips) is sitting out
+Seat 3: BeauParleur ($110.10 in chips) 
+Seat 6: Cloudtiger ($351.45 in chips) 
+Cloudtiger: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Cloudtiger: folds 
+Uncalled bet ($0.50) returned to BeauParleur
+BeauParleur collected $1 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: LuckyShikari
+Seat 3: BeauParleur (big blind) collected ($1)
+Seat 6: Cloudtiger (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254290878891:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:07:36 WET [2025/01/09 23:07:36 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($165.05 in chips) is sitting out
+Seat 3: BeauParleur ($110.60 in chips) 
+Seat 6: Cloudtiger ($350.95 in chips) 
+BeauParleur: posts small blind $0.50
+Cloudtiger: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: raises $1 to $2
+Cloudtiger: raises $1 to $3
+BeauParleur: calls $1
+*** FLOP *** [Th 6d Kc]
+Cloudtiger: bets $2.85
+BeauParleur: calls $2.85
+*** TURN *** [Th 6d Kc] [6c]
+Cloudtiger: bets $4
+BeauParleur: calls $4
+*** RIVER *** [Th 6d Kc 6c] [Js]
+Cloudtiger: bets $12
+BeauParleur: calls $12
+*** SHOW DOWN ***
+Cloudtiger: shows [6s 4s] (three of a kind, Sixes)
+BeauParleur: mucks hand 
+Cloudtiger collected $42.70 from pot
+*** SUMMARY ***
+Total pot $43.70 | Rake $1 
+Board [Th 6d Kc 6c Js]
+Seat 1: LuckyShikari
+Seat 3: BeauParleur (button) (small blind) mucked
+Seat 6: Cloudtiger (big blind) showed [6s 4s] and won ($42.70) with three of a kind, Sixes
+
+
+
+PokerStars Hand #254290888553:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:09:03 WET [2025/01/09 23:09:03 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($165.05 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 6: Cloudtiger ($371.80 in chips) 
+Cloudtiger: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+Cloudtiger: raises $2 to $3
+LuckyShikari: calls $2
+*** FLOP *** [5c 6h 5d]
+Cloudtiger: bets $2.85
+LuckyShikari: calls $2.85
+*** TURN *** [5c 6h 5d] [9h]
+Cloudtiger: checks 
+LuckyShikari: bets $2.67
+Cloudtiger: folds 
+Uncalled bet ($2.67) returned to LuckyShikari
+LuckyShikari collected $11.12 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.70 | Rake $0.58 
+Board [5c 6h 5d 9h]
+Seat 1: LuckyShikari (big blind) collected ($11.12)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 6: Cloudtiger (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254290893366:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:09:47 WET [2025/01/09 23:09:47 ET]
+Table 'Erfordia III' 6-max Seat #6 is the button
+Seat 1: LuckyShikari ($170.32 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 6: Cloudtiger ($365.95 in chips) 
+LuckyShikari: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+BeauParleur: calls $2
+*** FLOP *** [9h 2d 3d]
+BeauParleur: checks 
+Cloudtiger: bets $3.09
+BeauParleur: calls $3.09
+*** TURN *** [9h 2d 3d] [Tc]
+BeauParleur: checks 
+Cloudtiger: bets $8
+BeauParleur: folds 
+Uncalled bet ($8) returned to Cloudtiger
+Cloudtiger collected $12.05 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.68 | Rake $0.63 
+Board [9h 2d 3d Tc]
+Seat 1: LuckyShikari (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) folded on the Turn
+Seat 6: Cloudtiger (button) collected ($12.05)
+
+
+
+PokerStars Hand #254290898939:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:10:38 WET [2025/01/09 23:10:38 ET]
+Table 'Erfordia III' 6-max Seat #1 is the button
+Seat 1: LuckyShikari ($169.82 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 6: Cloudtiger ($371.91 in chips) 
+BeauParleur: posts small blind $0.50
+Cloudtiger: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: raises $1.25 to $2.25
+BeauParleur: folds 
+Cloudtiger: calls $1.25
+*** FLOP *** [2c 8h 3c]
+Cloudtiger: checks 
+LuckyShikari: checks 
+*** TURN *** [2c 8h 3c] [8d]
+Cloudtiger: checks 
+LuckyShikari: checks 
+*** RIVER *** [2c 8h 3c 8d] [2d]
+Cloudtiger: bets $3
+LuckyShikari: calls $3
+*** SHOW DOWN ***
+Cloudtiger: shows [7h 8c] (a full house, Eights full of Deuces)
+LuckyShikari: mucks hand 
+Cloudtiger collected $10.45 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [2c 8h 3c 8d 2d]
+Seat 1: LuckyShikari (button) mucked
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 6: Cloudtiger (big blind) showed [7h 8c] and won ($10.45) with a full house, Eights full of Deuces
+
+
+
+PokerStars Hand #254290902676:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:11:13 WET [2025/01/09 23:11:13 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($164.57 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 6: Cloudtiger ($377.11 in chips) 
+Cloudtiger: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+Uncalled bet ($2) returned to Cloudtiger
+Cloudtiger collected $2 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: LuckyShikari (big blind) folded before Flop
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 6: Cloudtiger (small blind) collected ($2)
+
+
+
+PokerStars Hand #254290903799:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:11:23 WET [2025/01/09 23:11:23 ET]
+Table 'Erfordia III' 6-max Seat #6 is the button
+Seat 1: LuckyShikari ($163.57 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 6: Cloudtiger ($378.11 in chips) 
+LuckyShikari: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+BeauParleur: raises $10 to $13
+Cloudtiger: folds 
+Uncalled bet ($10) returned to BeauParleur
+BeauParleur collected $6.50 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: LuckyShikari (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) collected ($6.50)
+Seat 6: Cloudtiger (button) folded before Flop
+
+
+
+PokerStars Hand #254290905577:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:11:39 WET [2025/01/09 23:11:39 ET]
+Table 'Erfordia III' 6-max Seat #1 is the button
+Seat 1: LuckyShikari ($163.07 in chips) 
+Seat 3: BeauParleur ($103.50 in chips) 
+Seat 6: Cloudtiger ($375.11 in chips) 
+BeauParleur: posts small blind $0.50
+Cloudtiger: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: raises $3.75 to $4.75
+BeauParleur: folds 
+Cloudtiger: folds 
+Uncalled bet ($3.75) returned to LuckyShikari
+LuckyShikari collected $2.50 from pot
+LuckyShikari: doesn't show hand 
+Palacios777 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: LuckyShikari (button) collected ($2.50)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 6: Cloudtiger (big blind) folded before Flop
+
+
+
+PokerStars Hand #254290906988:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:11:52 WET [2025/01/09 23:11:52 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 2: Palacios777 ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($164.57 in chips) 
+Seat 3: BeauParleur ($103 in chips) 
+Seat 6: Cloudtiger ($374.11 in chips) 
+Cloudtiger: posts small blind $0.50
+LuckyShikari: posts big blind $1
+Palacios777 is connected 
+Palacios777: sits out 
+*** HOLE CARDS ***
+BeauParleur: folds 
+Cloudtiger: calls $0.50
+LuckyShikari: checks 
+*** FLOP *** [2s Ah 7c]
+Cloudtiger: checks 
+LuckyShikari: bets $1
+Cloudtiger: folds 
+Uncalled bet ($1) returned to LuckyShikari
+LuckyShikari collected $1.90 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [2s Ah 7c]
+Seat 2: Palacios777
+Seat 1: LuckyShikari (big blind) collected ($1.90)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 6: Cloudtiger (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254290909227:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:12:12 WET [2025/01/09 23:12:12 ET]
+Table 'Erfordia III' 6-max Seat #6 is the button
+Seat 1: LuckyShikari ($165.47 in chips) 
+Seat 2: Palacios777 ($100 in chips) 
+Seat 3: BeauParleur ($103 in chips) 
+Seat 6: Cloudtiger ($373.11 in chips) 
+LuckyShikari: posts small blind $0.50
+Palacios777: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+Palacios777: folds 
+Uncalled bet ($2) returned to Cloudtiger
+Cloudtiger collected $2.50 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: LuckyShikari (small blind) folded before Flop
+Seat 2: Palacios777 (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 6: Cloudtiger (button) collected ($2.50)
+
+
+
+PokerStars Hand #254290911249:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:12:31 WET [2025/01/09 23:12:31 ET]
+Table 'Erfordia III' 6-max Seat #1 is the button
+Seat 1: LuckyShikari ($164.97 in chips) 
+Seat 2: Palacios777 ($100 in chips) 
+Seat 3: BeauParleur ($103 in chips) 
+Seat 6: Cloudtiger ($374.61 in chips) 
+Palacios777: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Cloudtiger: folds 
+LuckyShikari: raises $3.75 to $4.75
+Palacios777: folds 
+BeauParleur: folds 
+Uncalled bet ($3.75) returned to LuckyShikari
+LuckyShikari collected $2.50 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: LuckyShikari (button) collected ($2.50)
+Seat 2: Palacios777 (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 6: Cloudtiger folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254290913526:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:12:52 WET [2025/01/09 23:12:52 ET]
+Table 'Erfordia III' 6-max Seat #2 is the button
+Seat 1: LuckyShikari ($166.47 in chips) 
+Seat 2: Palacios777 ($100 in chips) 
+Seat 3: BeauParleur ($102 in chips) 
+Seat 6: Cloudtiger ($374.61 in chips) 
+BeauParleur: posts small blind $0.50
+Cloudtiger: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Palacios777: raises $1.50 to $2.50
+BeauParleur: raises $9.50 to $12
+Cloudtiger: folds 
+Palacios777: folds 
+Uncalled bet ($9.50) returned to BeauParleur
+BeauParleur collected $6 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: Palacios777 (button) folded before Flop
+Seat 3: BeauParleur (small blind) collected ($6)
+Seat 6: Cloudtiger (big blind) folded before Flop
+
+
+
+PokerStars Hand #254290917372:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:13:26 WET [2025/01/09 23:13:26 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($166.47 in chips) 
+Seat 2: Palacios777 ($100 in chips) 
+Seat 3: BeauParleur ($105.50 in chips) 
+Seat 6: Cloudtiger ($373.61 in chips) 
+Cloudtiger: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+Palacios777: folds 
+BeauParleur: folds 
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+Uncalled bet ($2) returned to Cloudtiger
+Cloudtiger collected $2 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: LuckyShikari (big blind) folded before Flop
+Seat 2: Palacios777 folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 6: Cloudtiger (small blind) collected ($2)
+
+
+
+PokerStars Hand #254290918958:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:13:41 WET [2025/01/09 23:13:41 ET]
+Table 'Erfordia III' 6-max Seat #6 is the button
+Seat 1: LuckyShikari ($165.47 in chips) 
+Seat 2: Palacios777 ($100 in chips) 
+Seat 3: BeauParleur ($105.50 in chips) 
+Seat 6: Cloudtiger ($374.61 in chips) 
+LuckyShikari: posts small blind $0.50
+Palacios777: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: raises $1.25 to $2.25
+Cloudtiger: folds 
+LuckyShikari: folds 
+Palacios777: calls $1.25
+*** FLOP *** [4s Ts 3c]
+Palacios777: checks 
+BeauParleur: bets $2.38
+Palacios777: raises $5.12 to $7.50
+BeauParleur: folds 
+Uncalled bet ($5.12) returned to Palacios777
+Palacios777 collected $9.27 from pot
+Palacios777: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [4s Ts 3c]
+Seat 1: LuckyShikari (small blind) folded before Flop
+Seat 2: Palacios777 (big blind) collected ($9.27)
+Seat 3: BeauParleur folded on the Flop
+Seat 6: Cloudtiger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254290924727:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:14:33 WET [2025/01/09 23:14:33 ET]
+Table 'Erfordia III' 6-max Seat #1 is the button
+Seat 1: LuckyShikari ($164.97 in chips) 
+Seat 2: Palacios777 ($104.64 in chips) 
+Seat 3: BeauParleur ($100.87 in chips) 
+Seat 6: Cloudtiger ($374.61 in chips) 
+Palacios777: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Cloudtiger: raises $2 to $3
+LuckyShikari: calls $3
+Palacios777: raises $12 to $15
+BeauParleur: folds 
+Cloudtiger: folds 
+LuckyShikari: folds 
+Uncalled bet ($12) returned to Palacios777
+Palacios777 collected $10 from pot
+Palacios777: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: LuckyShikari (button) folded before Flop
+Seat 2: Palacios777 (small blind) collected ($10)
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 6: Cloudtiger folded before Flop
+
+
+
+PokerStars Hand #254290929431:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:15:16 WET [2025/01/09 23:15:16 ET]
+Table 'Erfordia III' 6-max Seat #2 is the button
+Seat 1: LuckyShikari ($161.97 in chips) 
+Seat 2: Palacios777 ($111.64 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 6: Cloudtiger ($371.61 in chips) 
+BeauParleur: posts small blind $0.50
+Cloudtiger: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Palacios777: raises $1.50 to $2.50
+BeauParleur: folds 
+Cloudtiger: calls $1.50
+*** FLOP *** [As Qs Ks]
+Cloudtiger: checks 
+Palacios777: checks 
+*** TURN *** [As Qs Ks] [Js]
+Cloudtiger: bets $3
+Melenya joins the table at seat #4 
+Palacios777: calls $3
+*** RIVER *** [As Qs Ks Js] [Ah]
+Cloudtiger: checks 
+Palacios777: checks 
+*** SHOW DOWN ***
+Cloudtiger: shows [5d 4c] (a pair of Aces)
+Palacios777: shows [6h Th] (a straight, Ten to Ace)
+Palacios777 collected $10.92 from pot
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.58 
+Board [As Qs Ks Js Ah]
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: Palacios777 (button) showed [6h Th] and won ($10.92) with a straight, Ten to Ace
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 6: Cloudtiger (big blind) showed [5d 4c] and lost with a pair of Aces
+
+
+
+PokerStars Hand #254290937417:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:16:30 WET [2025/01/09 23:16:30 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 4: Melenya ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($161.97 in chips) 
+Seat 2: Palacios777 ($117.06 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 6: Cloudtiger ($366.11 in chips) 
+Cloudtiger: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+Palacios777: folds 
+BeauParleur: raises $1.50 to $2.50
+Cloudtiger: folds 
+LuckyShikari: raises $7.50 to $10
+BeauParleur: folds 
+Uncalled bet ($7.50) returned to LuckyShikari
+LuckyShikari collected $5.50 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 4: Melenya
+Seat 1: LuckyShikari (big blind) collected ($5.50)
+Seat 2: Palacios777 folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop
+Seat 6: Cloudtiger (small blind) folded before Flop
+
+
+
+PokerStars Hand #254290939998:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:16:54 WET [2025/01/09 23:16:54 ET]
+Table 'Erfordia III' 6-max Seat #6 is the button
+Seat 4: Melenya ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($164.97 in chips) 
+Seat 2: Palacios777 ($117.06 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 6: Cloudtiger ($365.61 in chips) 
+LuckyShikari: posts small blind $0.50
+Palacios777: posts big blind $1
+Melenya: sits out 
+*** HOLE CARDS ***
+BeauParleur: folds 
+Pumuking joins the table at seat #5 
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+Palacios777: calls $2
+*** FLOP *** [5c Kc Qc]
+Palacios777: checks 
+Cloudtiger: bets $2
+Palacios777: folds 
+Uncalled bet ($2) returned to Cloudtiger
+Cloudtiger collected $6.18 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [5c Kc Qc]
+Seat 4: Melenya
+Seat 1: LuckyShikari (small blind) folded before Flop
+Seat 2: Palacios777 (big blind) folded on the Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 6: Cloudtiger (button) collected ($6.18)
+
+
+
+PokerStars Hand #254290943014:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:17:22 WET [2025/01/09 23:17:22 ET]
+Table 'Erfordia III' 6-max Seat #1 is the button
+Seat 4: Melenya ($100 in chips) is sitting out
+Seat 5: Pumuking ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($164.47 in chips) 
+Seat 2: Palacios777 ($114.06 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 6: Cloudtiger ($368.79 in chips) 
+Palacios777: posts small blind $0.50
+BeauParleur: posts big blind $1
+Melenya: sits out 
+Pumuking: sits out 
+*** HOLE CARDS ***
+Cloudtiger: folds 
+LuckyShikari: raises $2.50 to $3.50
+Palacios777: folds 
+BeauParleur: folds 
+Uncalled bet ($2.50) returned to LuckyShikari
+LuckyShikari collected $2.50 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: Melenya
+Seat 5: Pumuking
+Seat 1: LuckyShikari (button) collected ($2.50)
+Seat 2: Palacios777 (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 6: Cloudtiger folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254290945215:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:17:42 WET [2025/01/09 23:17:42 ET]
+Table 'Erfordia III' 6-max Seat #2 is the button
+Seat 5: Pumuking ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($165.97 in chips) 
+Seat 2: Palacios777 ($113.56 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: Melenya ($100 in chips) 
+Seat 6: Cloudtiger ($368.79 in chips) 
+BeauParleur: posts small blind $0.50
+Melenya: posts big blind $1
+Pumuking: sits out 
+*** HOLE CARDS ***
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+Palacios777: raises $6 to $9
+BeauParleur: folds 
+Melenya: folds 
+Cloudtiger: calls $6
+*** FLOP *** [Ts 9c 3s]
+Cloudtiger: checks 
+Palacios777: bets $4.63
+Cloudtiger: folds 
+Uncalled bet ($4.63) returned to Palacios777
+Palacios777 collected $18.52 from pot
+Palacios777: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [Ts 9c 3s]
+Seat 5: Pumuking
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: Palacios777 (button) collected ($18.52)
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: Melenya (big blind) folded before Flop
+Seat 6: Cloudtiger folded on the Flop
+
+
+
+PokerStars Hand #254290950530:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:18:32 WET [2025/01/09 23:18:32 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($165.97 in chips) 
+Seat 2: Palacios777 ($123.08 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: Melenya ($100 in chips) 
+Seat 5: Pumuking ($100 in chips) 
+Seat 6: Cloudtiger ($359.79 in chips) 
+Melenya: posts small blind $0.50
+Pumuking: posts big blind $1
+*** HOLE CARDS ***
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+Palacios777: raises $6 to $9
+BeauParleur: folds 
+Melenya: folds 
+Pumuking: folds 
+Cloudtiger: calls $6
+*** FLOP *** [8c 6d 9h]
+Cloudtiger: checks 
+Palacios777: checks 
+*** TURN *** [8c 6d 9h] [Jh]
+Cloudtiger: bets $8
+Palacios777: folds 
+Uncalled bet ($8) returned to Cloudtiger
+Cloudtiger collected $18.52 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [8c 6d 9h Jh]
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: Palacios777 folded on the Turn
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: Melenya (small blind) folded before Flop
+Seat 5: Pumuking (big blind) folded before Flop
+Seat 6: Cloudtiger collected ($18.52)
+
+
+
+PokerStars Hand #254290957811:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:19:41 WET [2025/01/09 23:19:41 ET]
+Table 'Erfordia III' 6-max Seat #4 is the button
+Seat 1: LuckyShikari ($165.97 in chips) 
+Seat 2: Palacios777 ($114.08 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: Melenya ($100 in chips) 
+Seat 5: Pumuking ($100 in chips) 
+Seat 6: Cloudtiger ($369.31 in chips) 
+Pumuking: posts small blind $0.50
+Cloudtiger: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Palacios777: folds 
+BeauParleur: folds 
+Melenya: folds 
+Pumuking: raises $1.50 to $2.50
+Cloudtiger: calls $1.50
+*** FLOP *** [6h 2h Qc]
+Pumuking: bets $1.57
+Cloudtiger: calls $1.57
+*** TURN *** [6h 2h Qc] [6s]
+Pumuking: checks 
+Cloudtiger: bets $3.87
+Pumuking: calls $3.87
+*** RIVER *** [6h 2h Qc 6s] [9c]
+Pumuking: checks 
+Cloudtiger: bets $12
+Pumuking: calls $12
+*** SHOW DOWN ***
+Cloudtiger: shows [8c Ks] (a pair of Sixes)
+Pumuking: shows [Qh 8d] (two pair, Queens and Sixes)
+Pumuking collected $37.89 from pot
+*** SUMMARY ***
+Total pot $39.88 | Rake $1.99 
+Board [6h 2h Qc 6s 9c]
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: Palacios777 folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: Melenya (button) folded before Flop (didn't bet)
+Seat 5: Pumuking (small blind) showed [Qh 8d] and won ($37.89) with two pair, Queens and Sixes
+Seat 6: Cloudtiger (big blind) showed [8c Ks] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #254290963784:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:20:36 WET [2025/01/09 23:20:36 ET]
+Table 'Erfordia III' 6-max Seat #5 is the button
+Seat 1: LuckyShikari ($165.97 in chips) 
+Seat 2: Palacios777 ($114.08 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: Melenya ($100 in chips) 
+Seat 5: Pumuking ($117.95 in chips) 
+Seat 6: Cloudtiger ($349.37 in chips) 
+Cloudtiger: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+Palacios777: folds 
+BeauParleur: folds 
+Melenya: folds 
+Pumuking: folds 
+Cloudtiger: raises $2 to $3
+LuckyShikari: raises $9 to $12
+Cloudtiger: folds 
+Uncalled bet ($9) returned to LuckyShikari
+LuckyShikari collected $6 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyShikari (big blind) collected ($6)
+Seat 2: Palacios777 folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: Melenya folded before Flop (didn't bet)
+Seat 5: Pumuking (button) folded before Flop (didn't bet)
+Seat 6: Cloudtiger (small blind) folded before Flop
+
+
+
+PokerStars Hand #254290966808:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:21:04 WET [2025/01/09 23:21:04 ET]
+Table 'Erfordia III' 6-max Seat #6 is the button
+Seat 1: LuckyShikari ($168.97 in chips) 
+Seat 2: Palacios777 ($114.08 in chips) 
+Seat 3: BeauParleur ($100 in chips) 
+Seat 4: Melenya ($100 in chips) 
+Seat 5: Pumuking ($117.95 in chips) 
+Seat 6: Cloudtiger ($346.37 in chips) 
+LuckyShikari: posts small blind $0.50
+Palacios777: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: raises $1 to $2
+Melenya: folds 
+Pumuking: folds 
+Cloudtiger: folds 
+LuckyShikari: folds 
+Palacios777: folds 
+Uncalled bet ($1) returned to BeauParleur
+BeauParleur collected $2.50 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: LuckyShikari (small blind) folded before Flop
+Seat 2: Palacios777 (big blind) folded before Flop
+Seat 3: BeauParleur collected ($2.50)
+Seat 4: Melenya folded before Flop (didn't bet)
+Seat 5: Pumuking folded before Flop (didn't bet)
+Seat 6: Cloudtiger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254290968251:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:21:17 WET [2025/01/09 23:21:17 ET]
+Table 'Erfordia III' 6-max Seat #1 is the button
+Seat 1: LuckyShikari ($168.47 in chips) 
+Seat 2: Palacios777 ($113.08 in chips) 
+Seat 3: BeauParleur ($101.50 in chips) 
+Seat 4: Melenya ($100 in chips) 
+Seat 5: Pumuking ($117.95 in chips) 
+Seat 6: Cloudtiger ($346.37 in chips) 
+Palacios777: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Melenya: folds 
+Pumuking: raises $1.25 to $2.25
+Cloudtiger: folds 
+LuckyShikari: folds 
+Palacios777: folds 
+BeauParleur: folds 
+Uncalled bet ($1.25) returned to Pumuking
+Pumuking collected $2.50 from pot
+Pumuking: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 2: Palacios777 (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: Melenya folded before Flop (didn't bet)
+Seat 5: Pumuking collected ($2.50)
+Seat 6: Cloudtiger folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254290972081:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:21:52 WET [2025/01/09 23:21:52 ET]
+Table 'Erfordia III' 6-max Seat #2 is the button
+Seat 1: LuckyShikari ($168.47 in chips) 
+Seat 2: Palacios777 ($112.58 in chips) 
+Seat 3: BeauParleur ($100.50 in chips) 
+Seat 4: Melenya ($100 in chips) 
+Seat 5: Pumuking ($119.45 in chips) 
+Seat 6: Cloudtiger ($346.37 in chips) 
+BeauParleur: posts small blind $0.50
+Melenya: posts big blind $1
+*** HOLE CARDS ***
+Pumuking: folds 
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+Palacios777: folds 
+BeauParleur: raises $9 to $12
+Melenya: folds 
+Cloudtiger: folds 
+Uncalled bet ($9) returned to BeauParleur
+BeauParleur collected $7 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: Palacios777 (button) folded before Flop (didn't bet)
+Seat 3: BeauParleur (small blind) collected ($7)
+Seat 4: Melenya (big blind) folded before Flop
+Seat 5: Pumuking folded before Flop (didn't bet)
+Seat 6: Cloudtiger folded before Flop
+
+
+
+PokerStars Hand #254290975432:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:22:23 WET [2025/01/09 23:22:23 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($168.47 in chips) 
+Seat 2: Palacios777 ($112.58 in chips) 
+Seat 3: BeauParleur ($104.50 in chips) 
+Seat 4: Melenya ($100 in chips) 
+Seat 5: Pumuking ($119.45 in chips) 
+Seat 6: Cloudtiger ($343.37 in chips) 
+Melenya: posts small blind $0.50
+Pumuking: posts big blind $1
+*** HOLE CARDS ***
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+Palacios777: folds 
+BeauParleur: folds 
+Melenya: folds 
+Pumuking: calls $2
+*** FLOP *** [2c Jh Td]
+Pumuking: checks 
+Cloudtiger: bets $4
+Pumuking: folds 
+Uncalled bet ($4) returned to Cloudtiger
+Cloudtiger collected $6.18 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [2c Jh Td]
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: Palacios777 folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: Melenya (small blind) folded before Flop
+Seat 5: Pumuking (big blind) folded on the Flop
+Seat 6: Cloudtiger collected ($6.18)
+
+
+
+PokerStars Hand #254290980172:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:23:06 WET [2025/01/09 23:23:06 ET]
+Table 'Erfordia III' 6-max Seat #4 is the button
+Seat 1: LuckyShikari ($168.47 in chips) 
+Seat 2: Palacios777 ($112.58 in chips) 
+Seat 3: BeauParleur ($104.50 in chips) 
+Seat 4: Melenya ($100 in chips) 
+Seat 5: Pumuking ($116.45 in chips) 
+Seat 6: Cloudtiger ($346.55 in chips) 
+Pumuking: posts small blind $0.50
+Cloudtiger: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Palacios777: folds 
+BeauParleur: folds 
+Melenya: folds 
+Pumuking: folds 
+Uncalled bet ($0.50) returned to Cloudtiger
+Cloudtiger collected $1 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: Palacios777 folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: Melenya (button) folded before Flop (didn't bet)
+Seat 5: Pumuking (small blind) folded before Flop
+Seat 6: Cloudtiger (big blind) collected ($1)
+
+
+
+PokerStars Hand #254290981623:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:23:20 WET [2025/01/09 23:23:20 ET]
+Table 'Erfordia III' 6-max Seat #5 is the button
+Seat 1: LuckyShikari ($168.47 in chips) 
+Seat 2: Palacios777 ($112.58 in chips) 
+Seat 3: BeauParleur ($104.50 in chips) 
+Seat 4: Melenya ($100 in chips) 
+Seat 5: Pumuking ($115.95 in chips) 
+Seat 6: Cloudtiger ($347.05 in chips) 
+Cloudtiger: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+Palacios777: folds 
+BeauParleur: folds 
+Melenya: folds 
+Pumuking: folds 
+Cloudtiger: raises $2 to $3
+LuckyShikari: raises $9 to $12
+Cloudtiger: raises $21 to $33
+LuckyShikari: folds 
+Uncalled bet ($21) returned to Cloudtiger
+Cloudtiger collected $24 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: LuckyShikari (big blind) folded before Flop
+Seat 2: Palacios777 folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: Melenya folded before Flop (didn't bet)
+Seat 5: Pumuking (button) folded before Flop (didn't bet)
+Seat 6: Cloudtiger (small blind) collected ($24)
+
+
+
+PokerStars Hand #254290986033:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:24:00 WET [2025/01/09 23:24:00 ET]
+Table 'Erfordia III' 6-max Seat #6 is the button
+Seat 1: LuckyShikari ($156.47 in chips) 
+Seat 2: Palacios777 ($112.58 in chips) 
+Seat 3: BeauParleur ($104.50 in chips) 
+Seat 4: Melenya ($100 in chips) 
+Seat 5: Pumuking ($115.95 in chips) 
+Seat 6: Cloudtiger ($359.05 in chips) 
+LuckyShikari: posts small blind $0.50
+Palacios777: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+Melenya: folds 
+Pumuking: raises $1.25 to $2.25
+Cloudtiger: raises $3.75 to $6
+LuckyShikari: calls $5.50
+Palacios777: folds 
+Pumuking: raises $17.50 to $23.50
+Cloudtiger: folds 
+LuckyShikari: folds 
+Uncalled bet ($17.50) returned to Pumuking
+Pumuking collected $19 from pot
+Pumuking: doesn't show hand 
+*** SUMMARY ***
+Total pot $19 | Rake $0 
+Seat 1: LuckyShikari (small blind) folded before Flop
+Seat 2: Palacios777 (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: Melenya folded before Flop (didn't bet)
+Seat 5: Pumuking collected ($19)
+Seat 6: Cloudtiger (button) folded before Flop
+
+
+
+PokerStars Hand #254290992908:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:25:04 WET [2025/01/09 23:25:04 ET]
+Table 'Erfordia III' 6-max Seat #1 is the button
+Seat 1: LuckyShikari ($150.47 in chips) 
+Seat 2: Palacios777 ($111.58 in chips) 
+Seat 3: BeauParleur ($104.50 in chips) 
+Seat 4: Melenya ($100 in chips) 
+Seat 5: Pumuking ($128.95 in chips) 
+Seat 6: Cloudtiger ($353.05 in chips) 
+Palacios777: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Melenya: folds 
+Pumuking: raises $1.25 to $2.25
+Cloudtiger: folds 
+LuckyShikari: folds 
+Palacios777: folds 
+BeauParleur: calls $1.25
+*** FLOP *** [Kh 5s 4d]
+BeauParleur: checks 
+Pumuking: bets $1.57
+BeauParleur: calls $1.57
+*** TURN *** [Kh 5s 4d] [Th]
+BeauParleur: checks 
+Pumuking: bets $15.50
+BeauParleur: raises $29.05 to $44.55
+Pumuking: folds 
+Uncalled bet ($29.05) returned to BeauParleur
+BeauParleur collected $37.18 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $39.14 | Rake $1.96 
+Board [Kh 5s 4d Th]
+Seat 1: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 2: Palacios777 (small blind) folded before Flop
+Seat 3: BeauParleur (big blind) collected ($37.18)
+Seat 4: Melenya folded before Flop (didn't bet)
+Seat 5: Pumuking folded on the Turn
+Seat 6: Cloudtiger folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254291004117:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:26:50 WET [2025/01/09 23:26:50 ET]
+Table 'Erfordia III' 6-max Seat #2 is the button
+Seat 1: LuckyShikari ($150.47 in chips) 
+Seat 2: Palacios777 ($111.08 in chips) 
+Seat 3: BeauParleur ($122.36 in chips) 
+Seat 4: Melenya ($100 in chips) 
+Seat 5: Pumuking ($109.63 in chips) 
+Seat 6: Cloudtiger ($353.05 in chips) 
+BeauParleur: posts small blind $0.50
+Melenya: posts big blind $1
+*** HOLE CARDS ***
+Pumuking: folds 
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+Palacios777: raises $6 to $9
+BeauParleur: folds 
+Melenya: raises $13 to $22
+Cloudtiger: folds 
+Palacios777: folds 
+Uncalled bet ($13) returned to Melenya
+Melenya collected $21.50 from pot
+Melenya: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.50 | Rake $0 
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: Palacios777 (button) folded before Flop
+Seat 3: BeauParleur (small blind) folded before Flop
+Seat 4: Melenya (big blind) collected ($21.50)
+Seat 5: Pumuking folded before Flop (didn't bet)
+Seat 6: Cloudtiger folded before Flop
+
+
+
+PokerStars Hand #254291007752:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:27:24 WET [2025/01/09 23:27:24 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($150.47 in chips) 
+Seat 2: Palacios777 ($102.08 in chips) 
+Seat 3: BeauParleur ($121.86 in chips) 
+Seat 4: Melenya ($112.50 in chips) 
+Seat 5: Pumuking ($109.63 in chips) 
+Seat 6: Cloudtiger ($350.05 in chips) 
+Melenya: posts small blind $0.50
+Pumuking: posts big blind $1
+*** HOLE CARDS ***
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+Palacios777: folds 
+BeauParleur: folds 
+Melenya: folds 
+Pumuking: folds 
+Uncalled bet ($2) returned to Cloudtiger
+Cloudtiger collected $2.50 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: Palacios777 folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) folded before Flop (didn't bet)
+Seat 4: Melenya (small blind) folded before Flop
+Seat 5: Pumuking (big blind) folded before Flop
+Seat 6: Cloudtiger collected ($2.50)
+
+
+
+PokerStars Hand #254291008973:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:27:36 WET [2025/01/09 23:27:36 ET]
+Table 'Erfordia III' 6-max Seat #4 is the button
+Seat 1: LuckyShikari ($150.47 in chips) 
+Seat 2: Palacios777 ($102.08 in chips) 
+Seat 3: BeauParleur ($121.86 in chips) 
+Seat 4: Melenya ($112 in chips) 
+Seat 5: Pumuking ($108.63 in chips) 
+Seat 6: Cloudtiger ($351.55 in chips) 
+Pumuking: posts small blind $0.50
+Cloudtiger: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Palacios777: folds 
+BeauParleur: raises $1.25 to $2.25
+Melenya: folds 
+Pumuking: folds 
+Cloudtiger: calls $1.25
+*** FLOP *** [5h Qc 2c]
+Cloudtiger: checks 
+BeauParleur: bets $1.57
+Cloudtiger: folds 
+Uncalled bet ($1.57) returned to BeauParleur
+BeauParleur collected $4.75 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [5h Qc 2c]
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: Palacios777 folded before Flop (didn't bet)
+Seat 3: BeauParleur collected ($4.75)
+Seat 4: Melenya (button) folded before Flop (didn't bet)
+Seat 5: Pumuking (small blind) folded before Flop
+Seat 6: Cloudtiger (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254291015210:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:28:35 WET [2025/01/09 23:28:35 ET]
+Table 'Erfordia III' 6-max Seat #5 is the button
+Seat 1: LuckyShikari ($150.47 in chips) 
+Seat 2: Palacios777 ($102.08 in chips) 
+Seat 3: BeauParleur ($124.36 in chips) 
+Seat 4: Melenya ($112 in chips) 
+Seat 5: Pumuking ($108.13 in chips) 
+Seat 6: Cloudtiger ($349.30 in chips) 
+Cloudtiger: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+Palacios777: folds 
+BeauParleur: folds 
+Melenya: folds 
+Pumuking: raises $1.50 to $2.50
+Cloudtiger: raises $3.50 to $6
+LuckyShikari: folds 
+Pumuking: calls $3.50
+*** FLOP *** [Kc Ks 4d]
+Cloudtiger: checks 
+Pumuking: checks 
+*** TURN *** [Kc Ks 4d] [2s]
+Cloudtiger: bets $7
+Pumuking: calls $7
+*** RIVER *** [Kc Ks 4d 2s] [Jd]
+Cloudtiger: bets $13
+Pumuking: calls $13
+*** SHOW DOWN ***
+Cloudtiger: shows [5d 9d] (a pair of Kings)
+Pumuking: shows [8h 8d] (two pair, Kings and Eights)
+Pumuking collected $50.50 from pot
+*** SUMMARY ***
+Total pot $53 | Rake $2.50 
+Board [Kc Ks 4d 2s Jd]
+Seat 1: LuckyShikari (big blind) folded before Flop
+Seat 2: Palacios777 folded before Flop (didn't bet)
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: Melenya folded before Flop (didn't bet)
+Seat 5: Pumuking (button) showed [8h 8d] and won ($50.50) with two pair, Kings and Eights
+Seat 6: Cloudtiger (small blind) showed [5d 9d] and lost with a pair of Kings
+
+
+
+PokerStars Hand #254291024298:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:30:01 WET [2025/01/09 23:30:01 ET]
+Table 'Erfordia III' 6-max Seat #6 is the button
+Seat 1: LuckyShikari ($149.47 in chips) 
+Seat 2: Palacios777 ($102.08 in chips) 
+Seat 3: BeauParleur ($124.36 in chips) 
+Seat 4: Melenya ($112 in chips) 
+Seat 5: Pumuking ($132.63 in chips) 
+Seat 6: Cloudtiger ($323.30 in chips) 
+LuckyShikari: posts small blind $0.50
+Palacios777: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: folds 
+Melenya: raises $1 to $2
+Pumuking: folds 
+Cloudtiger: calls $2
+LuckyShikari: calls $1.50
+Palacios777: folds 
+*** FLOP *** [3d 2d 7s]
+LuckyShikari: checks 
+Melenya: checks 
+Cloudtiger: bets $3.33
+LuckyShikari: folds 
+Melenya: folds 
+Uncalled bet ($3.33) returned to Cloudtiger
+Cloudtiger collected $6.65 from pot
+Cloudtiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [3d 2d 7s]
+Seat 1: LuckyShikari (small blind) folded on the Flop
+Seat 2: Palacios777 (big blind) folded before Flop
+Seat 3: BeauParleur folded before Flop (didn't bet)
+Seat 4: Melenya folded on the Flop
+Seat 5: Pumuking folded before Flop (didn't bet)
+Seat 6: Cloudtiger (button) collected ($6.65)
+
+
+
+PokerStars Hand #254291029148:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:30:47 WET [2025/01/09 23:30:47 ET]
+Table 'Erfordia III' 6-max Seat #1 is the button
+Seat 1: LuckyShikari ($147.47 in chips) 
+Seat 2: Palacios777 ($101.08 in chips) 
+Seat 3: BeauParleur ($124.36 in chips) 
+Seat 4: Melenya ($110 in chips) 
+Seat 5: Pumuking ($132.63 in chips) 
+Seat 6: Cloudtiger ($327.95 in chips) 
+Palacios777: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Melenya: folds 
+Pumuking: folds 
+Cloudtiger: raises $2 to $3
+LuckyShikari: folds 
+Palacios777: raises $6.50 to $9.50
+BeauParleur: folds 
+Cloudtiger: calls $6.50
+*** FLOP *** [7d 9c 8s]
+Palacios777: checks 
+Cloudtiger: bets $9.50
+Palacios777: calls $9.50
+*** TURN *** [7d 9c 8s] [4h]
+Palacios777: checks 
+Cloudtiger: bets $308.95 and is all-in
+Palacios777: calls $82.08 and is all-in
+Uncalled bet ($226.87) returned to Cloudtiger
+*** RIVER *** [7d 9c 8s 4h] [6h]
+*** SHOW DOWN ***
+Palacios777: shows [9d Td] (a straight, Six to Ten)
+Cloudtiger: shows [9h Qs] (a pair of Nines)
+Palacios777 collected $200.66 from pot
+*** SUMMARY ***
+Total pot $203.16 | Rake $2.50 
+Board [7d 9c 8s 4h 6h]
+Seat 1: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 2: Palacios777 (small blind) showed [9d Td] and won ($200.66) with a straight, Six to Ten
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: Melenya folded before Flop (didn't bet)
+Seat 5: Pumuking folded before Flop (didn't bet)
+Seat 6: Cloudtiger showed [9h Qs] and lost with a pair of Nines
+
+
+
+PokerStars Hand #254291039805:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:32:29 WET [2025/01/09 23:32:29 ET]
+Table 'Erfordia III' 6-max Seat #2 is the button
+Seat 1: LuckyShikari ($147.47 in chips) 
+Seat 2: Palacios777 ($200.66 in chips) 
+Seat 3: BeauParleur ($123.36 in chips) 
+Seat 4: Melenya ($110 in chips) 
+Seat 5: Pumuking ($132.63 in chips) 
+Seat 6: Cloudtiger ($226.87 in chips) 
+BeauParleur: posts small blind $0.50
+Melenya: posts big blind $1
+*** HOLE CARDS ***
+Pumuking: folds 
+Cloudtiger: folds 
+LuckyShikari: folds 
+Cloudtiger leaves the table
+Palacios777: raises $1.50 to $2.50
+BeauParleur: raises $9.50 to $12
+Melenya: folds 
+Palacios777: folds 
+Uncalled bet ($9.50) returned to BeauParleur
+BeauParleur collected $6 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: Palacios777 (button) folded before Flop
+Seat 3: BeauParleur (small blind) collected ($6)
+Seat 4: Melenya (big blind) folded before Flop
+Seat 5: Pumuking folded before Flop (didn't bet)
+Seat 6: Cloudtiger folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254291045556:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:33:24 WET [2025/01/09 23:33:24 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($147.47 in chips) 
+Seat 2: Palacios777 ($198.16 in chips) 
+Seat 3: BeauParleur ($126.86 in chips) 
+Seat 4: Melenya ($109 in chips) 
+Seat 5: Pumuking ($132.63 in chips) 
+Melenya: posts small blind $0.50
+Pumuking: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+Palacios777: folds 
+BeauParleur: raises $1.50 to $2.50
+Melenya: folds 
+Pumuking: folds 
+Uncalled bet ($1.50) returned to BeauParleur
+BeauParleur collected $2.50 from pot
+BeauParleur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: Palacios777 folded before Flop (didn't bet)
+Seat 3: BeauParleur (button) collected ($2.50)
+Seat 4: Melenya (small blind) folded before Flop
+Seat 5: Pumuking (big blind) folded before Flop
+
+
+
+PokerStars Hand #254291047783:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:33:46 WET [2025/01/09 23:33:46 ET]
+Table 'Erfordia III' 6-max Seat #4 is the button
+Seat 1: LuckyShikari ($147.47 in chips) is sitting out
+Seat 2: Palacios777 ($198.16 in chips) is sitting out
+Seat 3: BeauParleur ($128.36 in chips) 
+Seat 4: Melenya ($108.50 in chips) 
+Seat 5: Pumuking ($131.63 in chips) 
+Pumuking: posts small blind $0.50
+LuckyShikari: is sitting out 
+Palacios777: is sitting out 
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Melenya: folds 
+Pumuking: raises $2 to $3
+BeauParleur: folds 
+Uncalled bet ($2) returned to Pumuking
+Pumuking collected $2 from pot
+Pumuking: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: LuckyShikari
+Seat 2: Palacios777
+Seat 3: BeauParleur (big blind) folded before Flop
+Seat 4: Melenya (button) folded before Flop (didn't bet)
+Seat 5: Pumuking (small blind) collected ($2)
+
+
+
+PokerStars Hand #254291049476:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:34:02 WET [2025/01/09 23:34:02 ET]
+Table 'Erfordia III' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($147.47 in chips) is sitting out
+Seat 2: Palacios777 ($198.16 in chips) is sitting out
+Seat 4: Melenya ($108.50 in chips) is sitting out
+Seat 3: BeauParleur ($127.36 in chips) 
+Seat 5: Pumuking ($132.63 in chips) 
+BeauParleur: posts small blind $0.50
+Melenya: is sitting out 
+Pumuking: posts big blind $1
+*** HOLE CARDS ***
+BeauParleur: raises $1 to $2
+Melenya leaves the table
+Pumuking: raises $7.50 to $9.50
+BeauParleur: calls $7.50
+*** FLOP *** [Tc Kd 9c]
+Pumuking: bets $7.22
+BeauParleur: folds 
+Uncalled bet ($7.22) returned to Pumuking
+Pumuking collected $18.05 from pot
+Pumuking: doesn't show hand 
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [Tc Kd 9c]
+Seat 1: LuckyShikari
+Seat 2: Palacios777
+Seat 4: Melenya
+Seat 3: BeauParleur (button) (small blind) folded on the Flop
+Seat 5: Pumuking (big blind) collected ($18.05)
+
+
+
+PokerStars Hand #254291052427:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/10 4:34:30 WET [2025/01/09 23:34:30 ET]
+Table 'Erfordia III' 6-max Seat #5 is the button
+Seat 1: LuckyShikari ($147.47 in chips) is sitting out
+Seat 2: Palacios777 ($198.16 in chips) is sitting out
+Seat 3: BeauParleur ($117.86 in chips) 
+Seat 5: Pumuking ($141.18 in chips) 
+Pumuking: posts small blind $0.50
+BeauParleur: posts big blind $1
+*** HOLE CARDS ***
+Pumuking: raises $1.50 to $2.50
+BeauParleur: calls $1.50
+*** FLOP *** [Qs 7h 8c]
+BeauParleur: checks 
+Pumuking: bets $1.57
+LuckyShikari leaves the table
+BeauParleur: calls $1.57
+*** TURN *** [Qs 7h 8c] [4h]
+BeauParleur: checks 
+Pumuking: bets $5.18
+BeauParleur: folds 
+Uncalled bet ($5.18) returned to Pumuking
+Pumuking collected $7.73 from pot
+Pumuking: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.14 | Rake $0.41 
+Board [Qs 7h 8c 4h]
+Seat 1: LuckyShikari
+Seat 2: Palacios777
+Seat 3: BeauParleur (big blind) folded on the Turn
+Seat 5: Pumuking (button) (small blind) collected ($7.73)
+
+
+

@@ -1,0 +1,424 @@
+﻿PokerStars Hand #254405171073:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 21:46:05 WET [2025/01/16 16:46:05 ET]
+Table 'Ueta III' 6-max Seat #6 is the button
+Seat 2: CaHek-Ty3 ($100 in chips) is sitting out
+Seat 1: Manifestorr ($106.32 in chips) 
+Seat 3: mustangride7 ($100 in chips) 
+Seat 4: ReVeu710 ($100 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: BelSv ($100 in chips) 
+Manifestorr: posts small blind $0.50
+CaHek-Ty3: is sitting out 
+mustangride7: posts big blind $1
+*** HOLE CARDS ***
+CaHek-Ty3 leaves the table
+ReVeu710: folds 
+easy_sarcasm: folds 
+BelSv: raises $1.50 to $2.50
+Manifestorr: folds 
+mustangride7: folds 
+Uncalled bet ($1.50) returned to BelSv
+BelSv collected $2.50 from pot
+BelSv: doesn't show hand 
+BGS013 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: CaHek-Ty3
+Seat 1: Manifestorr (small blind) folded before Flop
+Seat 3: mustangride7 (big blind) folded before Flop
+Seat 4: ReVeu710 folded before Flop (didn't bet)
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: BelSv (button) collected ($2.50)
+
+
+
+PokerStars Hand #254405175457:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 21:46:19 WET [2025/01/16 16:46:19 ET]
+Table 'Ueta III' 6-max Seat #1 is the button
+Seat 2: BGS013 ($100 in chips) is sitting out
+Seat 1: Manifestorr ($105.82 in chips) 
+Seat 3: mustangride7 ($99 in chips) 
+Seat 4: ReVeu710 ($100 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: BelSv ($101.50 in chips) 
+mustangride7: posts small blind $0.50
+ReVeu710: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: raises $2 to $3
+BelSv: folds 
+Manifestorr: folds 
+mustangride7: calls $2.50
+ReVeu710: folds 
+*** FLOP *** [5d Kd Ts]
+mustangride7: checks 
+easy_sarcasm: bets $3.33
+mustangride7: calls $3.33
+*** TURN *** [5d Kd Ts] [9c]
+mustangride7: checks 
+easy_sarcasm: checks 
+*** RIVER *** [5d Kd Ts 9c] [2c]
+mustangride7: checks 
+easy_sarcasm: checks 
+*** SHOW DOWN ***
+mustangride7: shows [4s 5s] (a pair of Fives)
+easy_sarcasm: mucks hand 
+mustangride7 collected $12.98 from pot
+*** SUMMARY ***
+Total pot $13.66 | Rake $0.68 
+Board [5d Kd Ts 9c 2c]
+Seat 2: BGS013
+Seat 1: Manifestorr (button) folded before Flop (didn't bet)
+Seat 3: mustangride7 (small blind) showed [4s 5s] and won ($12.98) with a pair of Fives
+Seat 4: ReVeu710 (big blind) folded before Flop
+Seat 5: easy_sarcasm mucked
+Seat 6: BelSv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254405190783:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 21:47:08 WET [2025/01/16 16:47:08 ET]
+Table 'Ueta III' 6-max Seat #3 is the button
+Seat 2: BGS013 ($100 in chips) is sitting out
+Seat 1: Manifestorr ($105.82 in chips) 
+Seat 3: mustangride7 ($105.65 in chips) 
+Seat 4: ReVeu710 ($100 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: BelSv ($101.50 in chips) 
+ReVeu710: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+BelSv: folds 
+Manifestorr: folds 
+mustangride7: folds 
+ReVeu710: raises $2 to $3
+easy_sarcasm: folds 
+Uncalled bet ($2) returned to ReVeu710
+ReVeu710 collected $2 from pot
+ReVeu710: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: BGS013
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 3: mustangride7 (button) folded before Flop (didn't bet)
+Seat 4: ReVeu710 (small blind) collected ($2)
+Seat 5: easy_sarcasm (big blind) folded before Flop
+Seat 6: BelSv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254405196702:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 21:47:27 WET [2025/01/16 16:47:27 ET]
+Table 'Ueta III' 6-max Seat #4 is the button
+Seat 2: BGS013 ($100 in chips) is sitting out
+Seat 1: Manifestorr ($105.82 in chips) 
+Seat 3: mustangride7 ($105.65 in chips) 
+Seat 4: ReVeu710 ($101 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: BelSv ($101.50 in chips) 
+easy_sarcasm: posts small blind $0.50
+BelSv: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+Manifestorr: folds 
+mustangride7: raises $2 to $3
+ReVeu710: calls $3
+easy_sarcasm: folds 
+BelSv: folds 
+*** FLOP *** [2h 3c 6s]
+mustangride7: bets $4.56
+ReVeu710: calls $4.56
+*** TURN *** [2h 3c 6s] [Tc]
+mustangride7: bets $7.90
+ReVeu710: calls $7.90
+*** RIVER *** [2h 3c 6s Tc] [9h]
+mustangride7: checks 
+ReVeu710: checks 
+*** SHOW DOWN ***
+mustangride7: shows [Ts Qd] (a pair of Tens)
+ReVeu710: mucks hand 
+mustangride7 collected $30.80 from pot
+*** SUMMARY ***
+Total pot $32.42 | Rake $1.62 
+Board [2h 3c 6s Tc 9h]
+Seat 2: BGS013
+Seat 1: Manifestorr folded before Flop (didn't bet)
+Seat 3: mustangride7 showed [Ts Qd] and won ($30.80) with a pair of Tens
+Seat 4: ReVeu710 (button) mucked
+Seat 5: easy_sarcasm (small blind) folded before Flop
+Seat 6: BelSv (big blind) folded before Flop
+
+
+
+PokerStars Hand #254405209750:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 21:48:10 WET [2025/01/16 16:48:10 ET]
+Table 'Ueta III' 6-max Seat #5 is the button
+Seat 1: Manifestorr ($105.82 in chips) is sitting out
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: mustangride7 ($120.99 in chips) 
+Seat 4: ReVeu710 ($100 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: BelSv ($100.50 in chips) 
+BelSv: posts small blind $0.50
+Manifestorr: is sitting out 
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr leaves the table
+mustangride7: folds 
+ReVeu710: raises $1.30 to $2.30
+easy_sarcasm: folds 
+BelSv: folds 
+BGS013: folds 
+Uncalled bet ($1.30) returned to ReVeu710
+ReVeu710 collected $2.50 from pot
+ReVeu710: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Manifestorr
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: mustangride7 folded before Flop (didn't bet)
+Seat 4: ReVeu710 collected ($2.50)
+Seat 5: easy_sarcasm (button) folded before Flop (didn't bet)
+Seat 6: BelSv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254405214691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 21:48:26 WET [2025/01/16 16:48:26 ET]
+Table 'Ueta III' 6-max Seat #6 is the button
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: mustangride7 ($120.99 in chips) 
+Seat 4: ReVeu710 ($101.50 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: BelSv ($100 in chips) 
+BGS013: posts small blind $0.50
+mustangride7: posts big blind $1
+*** HOLE CARDS ***
+ReVeu710: folds 
+easy_sarcasm: folds 
+ReVeu710 leaves the table
+BelSv: raises $1.50 to $2.50
+BGS013: folds 
+mustangride7: folds 
+Uncalled bet ($1.50) returned to BelSv
+BelSv collected $2.50 from pot
+BelSv: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: mustangride7 (big blind) folded before Flop
+Seat 4: ReVeu710 folded before Flop (didn't bet)
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: BelSv (button) collected ($2.50)
+
+
+
+PokerStars Hand #254405218573:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 21:48:38 WET [2025/01/16 16:48:38 ET]
+Table 'Ueta III' 6-max Seat #2 is the button
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: mustangride7 ($119.99 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: BelSv ($101.50 in chips) 
+mustangride7: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+BelSv: folds 
+BGS013: raises $1.50 to $2.50
+mustangride7: folds 
+easy_sarcasm: folds 
+Uncalled bet ($1.50) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: BGS013 (button) collected ($2.50)
+Seat 3: mustangride7 (small blind) folded before Flop
+Seat 5: easy_sarcasm (big blind) folded before Flop
+Seat 6: BelSv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254405221842:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 21:48:49 WET [2025/01/16 16:48:49 ET]
+Table 'Ueta III' 6-max Seat #3 is the button
+Seat 2: BGS013 ($101.50 in chips) 
+Seat 3: mustangride7 ($119.49 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: BelSv ($101.50 in chips) 
+easy_sarcasm: posts small blind $0.50
+BelSv: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+BGS013 leaves the table
+mustangride7: raises $2 to $3
+easy_sarcasm: folds 
+BelSv: calls $2
+*** FLOP *** [Ad 4c 7c]
+BelSv: checks 
+mustangride7: checks 
+*** TURN *** [Ad 4c 7c] [Js]
+BelSv: checks 
+BGS013 joins the table at seat #4 
+mustangride7: bets $3
+AndreaBsAs joins the table at seat #2 
+BelSv: calls $3
+*** RIVER *** [Ad 4c 7c Js] [2c]
+BelSv: checks 
+mustangride7: checks 
+*** SHOW DOWN ***
+BelSv: shows [9c Kc] (a flush, King high)
+mustangride7: mucks hand 
+BelSv collected $11.88 from pot
+*** SUMMARY ***
+Total pot $12.50 | Rake $0.62 
+Board [Ad 4c 7c Js 2c]
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: mustangride7 (button) mucked
+Seat 5: easy_sarcasm (small blind) folded before Flop
+Seat 6: BelSv (big blind) showed [9c Kc] and won ($11.88) with a flush, King high
+
+
+
+PokerStars Hand #254405238595:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 21:49:43 WET [2025/01/16 16:49:43 ET]
+Table 'Ueta III' 6-max Seat #5 is the button
+Seat 4: BGS013 ($101.50 in chips) is sitting out
+Seat 2: AndreaBsAs ($100 in chips) 
+Seat 3: mustangride7 ($113.49 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: BelSv ($107.38 in chips) 
+BelSv: posts small blind $0.50
+AndreaBsAs: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+mustangride7: folds 
+easy_sarcasm: raises $1.20 to $2.20
+BelSv: folds 
+AndreaBsAs: folds 
+Uncalled bet ($1.20) returned to easy_sarcasm
+easy_sarcasm collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: BGS013
+Seat 2: AndreaBsAs (big blind) folded before Flop
+Seat 3: mustangride7 folded before Flop (didn't bet)
+Seat 5: easy_sarcasm (button) collected ($2.50)
+Seat 6: BelSv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254405244223:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 21:50:02 WET [2025/01/16 16:50:02 ET]
+Table 'Ueta III' 6-max Seat #6 is the button
+Seat 4: BGS013 ($101.50 in chips) is sitting out
+Seat 2: AndreaBsAs ($100 in chips) 
+Seat 3: mustangride7 ($113.49 in chips) 
+Seat 5: easy_sarcasm ($101.50 in chips) 
+Seat 6: BelSv ($106.88 in chips) 
+AndreaBsAs: posts small blind $0.50
+mustangride7: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+BelSv: folds 
+AndreaBsAs: raises $2 to $3
+mustangride7: folds 
+Uncalled bet ($2) returned to AndreaBsAs
+AndreaBsAs collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: BGS013
+Seat 2: AndreaBsAs (small blind) collected ($2)
+Seat 3: mustangride7 (big blind) folded before Flop
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: BelSv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254405249787:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 21:50:19 WET [2025/01/16 16:50:19 ET]
+Table 'Ueta III' 6-max Seat #2 is the button
+Seat 2: AndreaBsAs ($101 in chips) 
+Seat 3: mustangride7 ($112.49 in chips) 
+Seat 4: BGS013 ($101.50 in chips) 
+Seat 5: easy_sarcasm ($101.50 in chips) 
+Seat 6: BelSv ($106.88 in chips) 
+mustangride7: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+BelSv: folds 
+AndreaBsAs: folds 
+mustangride7: folds 
+Uncalled bet ($0.50) returned to BGS013
+BGS013 collected $1 from pot
+BGS013: doesn't show hand 
+Cositorto joins the table at seat #1 
+mustangride7 leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: AndreaBsAs (button) folded before Flop (didn't bet)
+Seat 3: mustangride7 (small blind) folded before Flop
+Seat 4: BGS013 (big blind) collected ($1)
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: BelSv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254405253878:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 21:50:32 WET [2025/01/16 16:50:32 ET]
+Table 'Ueta III' 6-max Seat #4 is the button
+Seat 1: Cositorto ($100 in chips) is sitting out
+Seat 2: AndreaBsAs ($101 in chips) 
+Seat 4: BGS013 ($102 in chips) 
+Seat 5: easy_sarcasm ($101.50 in chips) 
+Seat 6: BelSv ($106.88 in chips) 
+easy_sarcasm: posts small blind $0.50
+BelSv: posts big blind $1
+Cositorto: sits out 
+*** HOLE CARDS ***
+AndreaBsAs: folds 
+BGS013: raises $1.50 to $2.50
+easy_sarcasm: folds 
+BelSv: calls $1.50
+*** FLOP *** [9d 5s 8c]
+BelSv: checks 
+BGS013: checks 
+*** TURN *** [9d 5s 8c] [3s]
+BelSv: checks 
+BGS013: checks 
+*** RIVER *** [9d 5s 8c 3s] [7d]
+BelSv: bets $3.92
+BGS013: folds 
+Uncalled bet ($3.92) returned to BelSv
+BelSv collected $5.22 from pot
+BelSv: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [9d 5s 8c 3s 7d]
+Seat 1: Cositorto
+Seat 2: AndreaBsAs folded before Flop (didn't bet)
+Seat 4: BGS013 (button) folded on the River
+Seat 5: easy_sarcasm (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($5.22)
+
+
+
+PokerStars Hand #254405268369:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/16 21:51:19 WET [2025/01/16 16:51:19 ET]
+Table 'Ueta III' 6-max Seat #5 is the button
+Seat 1: Cositorto ($100 in chips) is sitting out
+Seat 2: AndreaBsAs ($101 in chips) is sitting out
+Seat 4: BGS013 ($100 in chips) 
+Seat 5: easy_sarcasm ($101 in chips) 
+Seat 6: BelSv ($109.60 in chips) 
+BelSv: posts small blind $0.50
+Cositorto: is sitting out 
+AndreaBsAs: is sitting out 
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: raises $1.20 to $2.20
+BelSv: raises $7.80 to $10
+BGS013: folds 
+easy_sarcasm: folds 
+Uncalled bet ($7.80) returned to BelSv
+BelSv collected $5.40 from pot
+BelSv: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 1: Cositorto
+Seat 2: AndreaBsAs
+Seat 4: BGS013 (big blind) folded before Flop
+Seat 5: easy_sarcasm (button) folded before Flop
+Seat 6: BelSv (small blind) collected ($5.40)
+
+
+

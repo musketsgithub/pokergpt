@@ -1,0 +1,765 @@
+﻿PokerStars Hand #254461583221:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:25:45 WET [2025/01/19 23:25:45 ET]
+Table 'Draco IV' 6-max Seat #6 is the button
+Seat 1: Eredar5 ($100 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($10 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: ivan77769 ($24.41 in chips) 
+Seat 6: m0nTTu ($10 in chips) 
+Eredar5 is connected 
+Eredar5: posts small blind $0.50
+vezis3: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+ptolejmus: folds 
+ivan77769: raises $1 to $2
+m0nTTu: folds 
+Eredar5: folds 
+vezis3: folds 
+Uncalled bet ($1) returned to ivan77769
+ivan77769 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Eredar5 (small blind) folded before Flop
+Seat 2: vezis3 (big blind) folded before Flop
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: ivan77769 collected ($2.50)
+Seat 6: m0nTTu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254461584460:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:25:59 WET [2025/01/19 23:25:59 ET]
+Table 'Draco IV' 6-max Seat #1 is the button
+Seat 1: Eredar5 ($100 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($10 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: ivan77769 ($25.91 in chips) 
+Seat 6: m0nTTu ($10 in chips) 
+vezis3: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+ivan77769: calls $1
+m0nTTu: raises $9 to $10 and is all-in
+Eredar5: folds 
+vezis3: folds 
+steelNike: calls $9 and is all-in
+ivan77769: folds 
+*** FIRST FLOP *** [4s Tc Ks]
+*** FIRST TURN *** [4s Tc Ks] [8c]
+*** FIRST RIVER *** [4s Tc Ks 8c] [Td]
+*** SECOND FLOP *** [Qh Ah 7s]
+*** SECOND TURN *** [Qh Ah 7s] [Js]
+*** SECOND RIVER *** [Qh Ah 7s Js] [Th]
+*** FIRST SHOW DOWN ***
+steelNike: shows [8h 8s] (a full house, Eights full of Tens)
+m0nTTu: shows [As 9d] (a pair of Tens)
+steelNike collected $10.21 from pot
+*** SECOND SHOW DOWN ***
+steelNike: shows [8h 8s] (a pair of Eights)
+m0nTTu: shows [As 9d] (a pair of Aces)
+m0nTTu collected $10.21 from pot
+*** SUMMARY ***
+Total pot $21.50 | Rake $1.08 
+Hand was run twice
+FIRST Board [4s Tc Ks 8c Td]
+SECOND Board [Qh Ah 7s Js Th]
+Seat 1: Eredar5 (button) folded before Flop (didn't bet)
+Seat 2: vezis3 (small blind) folded before Flop
+Seat 3: steelNike (big blind) showed [8h 8s] and won ($10.21) with a full house, Eights full of Tens, and lost with a pair of Eights
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: ivan77769 folded before Flop
+Seat 6: m0nTTu showed [As 9d] and lost with a pair of Tens, and won ($10.21) with a pair of Aces
+
+
+
+PokerStars Hand #254461587862:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:26:37 WET [2025/01/19 23:26:37 ET]
+Table 'Draco IV' 6-max Seat #2 is the button
+Seat 1: Eredar5 ($100 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($10.21 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: ivan77769 ($24.91 in chips) 
+Seat 6: m0nTTu ($10.21 in chips) 
+steelNike: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+ivan77769: folds 
+m0nTTu: folds 
+Eredar5: raises $1.50 to $2.50
+vezis3: folds 
+steelNike: raises $7.71 to $10.21 and is all-in
+ptolejmus: folds 
+Eredar5: calls $7.71
+*** FIRST FLOP *** [7d 3h 3s]
+*** FIRST TURN *** [7d 3h 3s] [8c]
+*** FIRST RIVER *** [7d 3h 3s 8c] [6s]
+*** SECOND FLOP *** [9d 4s Tc]
+*** SECOND TURN *** [9d 4s Tc] [4d]
+*** SECOND RIVER *** [9d 4s Tc 4d] [Kc]
+*** FIRST SHOW DOWN ***
+steelNike: shows [Ad Ks] (a pair of Threes)
+Eredar5: shows [Ah Kh] (a pair of Threes)
+steelNike collected $5.09 from pot
+Eredar5 collected $5.09 from pot
+*** SECOND SHOW DOWN ***
+steelNike: shows [Ad Ks] (two pair, Kings and Fours)
+Eredar5: shows [Ah Kh] (two pair, Kings and Fours)
+steelNike collected $5.09 from pot
+Eredar5 collected $5.08 from pot
+*** SUMMARY ***
+Total pot $21.42 | Rake $1.07 
+Hand was run twice
+FIRST Board [7d 3h 3s 8c 6s]
+SECOND Board [9d 4s Tc 4d Kc]
+Seat 1: Eredar5 showed [Ah Kh] and won ($5.09) with a pair of Threes, and won ($5.08) with two pair, Kings and Fours
+Seat 2: vezis3 (button) folded before Flop (didn't bet)
+Seat 3: steelNike (small blind) showed [Ad Ks] and won ($5.09) with a pair of Threes, and won ($5.09) with two pair, Kings and Fours
+Seat 4: ptolejmus (big blind) folded before Flop
+Seat 5: ivan77769 folded before Flop (didn't bet)
+Seat 6: m0nTTu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254461590987:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:27:12 WET [2025/01/19 23:27:12 ET]
+Table 'Draco IV' 6-max Seat #3 is the button
+Seat 1: Eredar5 ($100 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($10.18 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: ivan77769 ($24.91 in chips) 
+Seat 6: m0nTTu ($10.21 in chips) 
+ptolejmus: posts small blind $0.50
+ivan77769: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: raises $9.21 to $10.21 and is all-in
+Eredar5: folds 
+vezis3: folds 
+steelNike: folds 
+ptolejmus: folds 
+ivan77769: calls $9.21
+*** FLOP *** [4h 8c 8d]
+*** TURN *** [4h 8c 8d] [5h]
+*** RIVER *** [4h 8c 8d 5h] [Ad]
+*** SHOW DOWN ***
+ivan77769: shows [Js As] (two pair, Aces and Eights)
+m0nTTu: shows [Jd Qd] (a pair of Eights)
+ivan77769 collected $19.87 from pot
+*** SUMMARY ***
+Total pot $20.92 | Rake $1.05 
+Board [4h 8c 8d 5h Ad]
+Seat 1: Eredar5 folded before Flop (didn't bet)
+Seat 2: vezis3 folded before Flop (didn't bet)
+Seat 3: steelNike (button) folded before Flop (didn't bet)
+Seat 4: ptolejmus (small blind) folded before Flop
+Seat 5: ivan77769 (big blind) showed [Js As] and won ($19.87) with two pair, Aces and Eights
+Seat 6: m0nTTu showed [Jd Qd] and lost with a pair of Eights
+
+
+
+PokerStars Hand #254461593865:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:27:44 WET [2025/01/19 23:27:44 ET]
+Table 'Draco IV' 6-max Seat #4 is the button
+Seat 1: Eredar5 ($100 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($20.18 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: ivan77769 ($34.57 in chips) 
+Seat 6: m0nTTu ($10 in chips) 
+ivan77769: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Eredar5: folds 
+vezis3: folds 
+steelNike: folds 
+ptolejmus: folds 
+ivan77769: calls $0.50
+m0nTTu: checks 
+*** FLOP *** [Qh 2s Td]
+ivan77769: checks 
+m0nTTu: bets $1
+ivan77769: folds 
+Uncalled bet ($1) returned to m0nTTu
+m0nTTu collected $1.90 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Qh 2s Td]
+Seat 1: Eredar5 folded before Flop (didn't bet)
+Seat 2: vezis3 folded before Flop (didn't bet)
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 4: ptolejmus (button) folded before Flop (didn't bet)
+Seat 5: ivan77769 (small blind) folded on the Flop
+Seat 6: m0nTTu (big blind) collected ($1.90)
+
+
+
+PokerStars Hand #254461599276:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:28:44 WET [2025/01/19 23:28:44 ET]
+Table 'Draco IV' 6-max Seat #5 is the button
+Seat 1: Eredar5 ($100 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($40.18 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: ivan77769 ($33.57 in chips) 
+Seat 6: m0nTTu ($10.90 in chips) 
+m0nTTu: posts small blind $0.50
+Eredar5: posts big blind $1
+*** HOLE CARDS ***
+vezis3: folds 
+steelNike: folds 
+ptolejmus: folds 
+ivan77769: calls $1
+m0nTTu: folds 
+Eredar5: checks 
+*** FLOP *** [Jd 4h 7c]
+Eredar5: checks 
+ivan77769: bets $1
+Eredar5: calls $1
+*** TURN *** [Jd 4h 7c] [6c]
+Eredar5: checks 
+ivan77769: checks 
+*** RIVER *** [Jd 4h 7c 6c] [6s]
+Eredar5: checks 
+ivan77769: bets $9
+Eredar5: folds 
+Uncalled bet ($9) returned to ivan77769
+ivan77769 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Jd 4h 7c 6c 6s]
+Seat 1: Eredar5 (big blind) folded on the River
+Seat 2: vezis3 folded before Flop (didn't bet)
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: ivan77769 (button) collected ($4.28)
+Seat 6: m0nTTu (small blind) folded before Flop
+
+
+
+PokerStars Hand #254461606110:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:30:01 WET [2025/01/19 23:30:01 ET]
+Table 'Draco IV' 6-max Seat #6 is the button
+Seat 1: Eredar5 ($100 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($40.18 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: ivan77769 ($35.85 in chips) 
+Seat 6: m0nTTu ($10.40 in chips) 
+Eredar5: posts small blind $0.50
+vezis3: posts big blind $1
+*** HOLE CARDS ***
+steelNike: raises $1 to $2
+ptolejmus: folds 
+ivan77769: calls $2
+m0nTTu: folds 
+Eredar5: folds 
+vezis3: folds 
+*** FLOP *** [3h Jd Jc]
+steelNike: checks 
+ivan77769: bets $3
+steelNike: raises $8.42 to $11.42
+ivan77769: folds 
+Uncalled bet ($8.42) returned to steelNike
+steelNike collected $10.92 from pot
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.58 
+Board [3h Jd Jc]
+Seat 1: Eredar5 (small blind) folded before Flop
+Seat 2: vezis3 (big blind) folded before Flop
+Seat 3: steelNike collected ($10.92)
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: ivan77769 folded on the Flop
+Seat 6: m0nTTu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254461611243:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:30:59 WET [2025/01/19 23:30:59 ET]
+Table 'Draco IV' 6-max Seat #1 is the button
+Seat 1: Eredar5 ($100 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($46.10 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: ivan77769 ($30.85 in chips) 
+Seat 6: m0nTTu ($10.40 in chips) 
+vezis3: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+ivan77769: calls $1
+ptolejmus leaves the table
+m0nTTu: folds 
+Eredar5: folds 
+vezis3: folds 
+steelNike: checks 
+*** FLOP *** [8d Qc 7d]
+steelNike: checks 
+ivan77769: bets $1
+steelNike: folds 
+Uncalled bet ($1) returned to ivan77769
+ivan77769 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [8d Qc 7d]
+Seat 1: Eredar5 (button) folded before Flop (didn't bet)
+Seat 2: vezis3 (small blind) folded before Flop
+Seat 3: steelNike (big blind) folded on the Flop
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: ivan77769 collected ($2.38)
+Seat 6: m0nTTu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254461613143:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:31:21 WET [2025/01/19 23:31:21 ET]
+Table 'Draco IV' 6-max Seat #2 is the button
+Seat 1: Eredar5 ($100 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($45.10 in chips) 
+Seat 5: ivan77769 ($32.23 in chips) 
+Seat 6: m0nTTu ($10.40 in chips) 
+steelNike: posts small blind $0.50
+ivan77769: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Eredar5: folds 
+vezis3: folds 
+steelNike: calls $0.50
+ivan77769: raises $1 to $2
+steelNike: calls $1
+*** FLOP *** [8s Td Kc]
+steelNike: checks 
+ivan77769: bets $1
+rrrro joins the table at seat #4 
+steelNike: raises $11.50 to $12.50
+ivan77769: folds 
+Uncalled bet ($11.50) returned to steelNike
+steelNike collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [8s Td Kc]
+Seat 1: Eredar5 folded before Flop (didn't bet)
+Seat 2: vezis3 (button) folded before Flop (didn't bet)
+Seat 3: steelNike (small blind) collected ($5.70)
+Seat 5: ivan77769 (big blind) folded on the Flop
+Seat 6: m0nTTu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254461616212:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:31:56 WET [2025/01/19 23:31:56 ET]
+Table 'Draco IV' 6-max Seat #3 is the button
+Seat 4: rrrro ($100 in chips) is sitting out
+Seat 1: Eredar5 ($100 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($47.80 in chips) 
+Seat 5: ivan77769 ($29.23 in chips) 
+Seat 6: m0nTTu ($10.40 in chips) 
+ivan77769: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Eredar5: folds 
+vezis3: raises $1 to $2
+steelNike: folds 
+ivan77769: calls $1.50
+m0nTTu: folds 
+*** FLOP *** [Ks Td 8d]
+ivan77769: bets $1
+vezis3: raises $3 to $4
+ivan77769: folds 
+Uncalled bet ($3) returned to vezis3
+vezis3 collected $6.65 from pot
+vezis3: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Ks Td 8d]
+Seat 4: rrrro
+Seat 1: Eredar5 folded before Flop (didn't bet)
+Seat 2: vezis3 collected ($6.65)
+Seat 3: steelNike (button) folded before Flop (didn't bet)
+Seat 5: ivan77769 (small blind) folded on the Flop
+Seat 6: m0nTTu (big blind) folded before Flop
+
+
+
+PokerStars Hand #254461618424:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:32:23 WET [2025/01/19 23:32:23 ET]
+Table 'Draco IV' 6-max Seat #5 is the button
+Seat 4: rrrro ($100 in chips) is sitting out
+Seat 1: Eredar5 ($100 in chips) 
+Seat 2: vezis3 ($103.65 in chips) 
+Seat 3: steelNike ($47.80 in chips) 
+Seat 5: ivan77769 ($26.23 in chips) 
+Seat 6: m0nTTu ($10 in chips) 
+m0nTTu: posts small blind $0.50
+Eredar5: posts big blind $1
+rrrro: sits out 
+*** HOLE CARDS ***
+vezis3: folds 
+steelNike: folds 
+ivan77769: calls $1
+m0nTTu: raises $9 to $10 and is all-in
+Eredar5: folds 
+ivan77769: folds 
+Uncalled bet ($9) returned to m0nTTu
+m0nTTu collected $3 from pot
+m0nTTu: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 4: rrrro
+Seat 1: Eredar5 (big blind) folded before Flop
+Seat 2: vezis3 folded before Flop (didn't bet)
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 5: ivan77769 (button) folded before Flop
+Seat 6: m0nTTu (small blind) collected ($3)
+
+
+
+PokerStars Hand #254461620190:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:32:43 WET [2025/01/19 23:32:43 ET]
+Table 'Draco IV' 6-max Seat #6 is the button
+Seat 4: rrrro ($100 in chips) is sitting out
+Seat 1: Eredar5 ($100 in chips) 
+Seat 2: vezis3 ($103.65 in chips) 
+Seat 3: steelNike ($47.80 in chips) 
+Seat 5: ivan77769 ($25.23 in chips) 
+Seat 6: m0nTTu ($12 in chips) 
+Eredar5: posts small blind $0.50
+vezis3: posts big blind $1
+rrrro: sits out 
+*** HOLE CARDS ***
+steelNike: folds 
+ivan77769: raises $1 to $2
+m0nTTu: folds 
+Eredar5: folds 
+vezis3: folds 
+Uncalled bet ($1) returned to ivan77769
+ivan77769 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: rrrro
+Seat 1: Eredar5 (small blind) folded before Flop
+Seat 2: vezis3 (big blind) folded before Flop
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 5: ivan77769 collected ($2.50)
+Seat 6: m0nTTu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254461621469:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:32:57 WET [2025/01/19 23:32:57 ET]
+Table 'Draco IV' 6-max Seat #1 is the button
+Seat 4: rrrro ($100 in chips) is sitting out
+Seat 1: Eredar5 ($100 in chips) 
+Seat 2: vezis3 ($102.65 in chips) 
+Seat 3: steelNike ($47.80 in chips) 
+Seat 5: ivan77769 ($26.73 in chips) 
+Seat 6: m0nTTu ($12 in chips) 
+vezis3: posts small blind $0.50
+steelNike: posts big blind $1
+rrrro: sits out 
+*** HOLE CARDS ***
+ivan77769: calls $1
+m0nTTu: folds 
+Eredar5: raises $3 to $4
+vezis3: folds 
+steelNike: folds 
+ivan77769: calls $3
+*** FLOP *** [Qd 6s 7d]
+ivan77769: checks 
+Eredar5: bets $6.50
+ivan77769: folds 
+Uncalled bet ($6.50) returned to Eredar5
+Eredar5 collected $9.02 from pot
+Eredar5: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Qd 6s 7d]
+Seat 4: rrrro
+Seat 1: Eredar5 (button) collected ($9.02)
+Seat 2: vezis3 (small blind) folded before Flop
+Seat 3: steelNike (big blind) folded before Flop
+Seat 5: ivan77769 folded on the Flop
+Seat 6: m0nTTu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254461625322:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:33:43 WET [2025/01/19 23:33:43 ET]
+Table 'Draco IV' 6-max Seat #2 is the button
+Seat 1: Eredar5 ($105.02 in chips) 
+Seat 2: vezis3 ($102.15 in chips) 
+Seat 3: steelNike ($46.80 in chips) 
+Seat 4: rrrro ($100 in chips) 
+Seat 5: ivan77769 ($22.73 in chips) 
+Seat 6: m0nTTu ($12 in chips) 
+steelNike: posts small blind $0.50
+rrrro: posts big blind $1
+*** HOLE CARDS ***
+ivan77769: calls $1
+m0nTTu: folds 
+Eredar5: folds 
+vezis3: raises $3 to $4
+steelNike: folds 
+rrrro: folds 
+ivan77769: calls $3
+*** FLOP *** [Qh 8d 7h]
+ivan77769: bets $4.51
+vezis3: folds 
+Uncalled bet ($4.51) returned to ivan77769
+ivan77769 collected $9.02 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Qh 8d 7h]
+Seat 1: Eredar5 folded before Flop (didn't bet)
+Seat 2: vezis3 (button) folded on the Flop
+Seat 3: steelNike (small blind) folded before Flop
+Seat 4: rrrro (big blind) folded before Flop
+Seat 5: ivan77769 collected ($9.02)
+Seat 6: m0nTTu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254461628635:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:34:21 WET [2025/01/19 23:34:21 ET]
+Table 'Draco IV' 6-max Seat #3 is the button
+Seat 1: Eredar5 ($105.02 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($46.30 in chips) 
+Seat 4: rrrro ($100 in chips) 
+Seat 5: ivan77769 ($27.75 in chips) 
+Seat 6: m0nTTu ($12 in chips) 
+rrrro: posts small blind $0.50
+ivan77769: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+Eredar5: folds 
+vezis3: raises $1.40 to $2.40
+steelNike: folds 
+rrrro: folds 
+ivan77769: calls $1.40
+*** FLOP *** [As 6s 2c]
+ivan77769: checks 
+vezis3: bets $1.66
+ivan77769: calls $1.66
+*** TURN *** [As 6s 2c] [7d]
+ivan77769: checks 
+vezis3: checks 
+*** RIVER *** [As 6s 2c 7d] [Kd]
+ivan77769: bets $23.69 and is all-in
+vezis3: folds 
+Uncalled bet ($23.69) returned to ivan77769
+ivan77769 collected $8.19 from pot
+*** SUMMARY ***
+Total pot $8.62 | Rake $0.43 
+Board [As 6s 2c 7d Kd]
+Seat 1: Eredar5 folded before Flop (didn't bet)
+Seat 2: vezis3 folded on the River
+Seat 3: steelNike (button) folded before Flop (didn't bet)
+Seat 4: rrrro (small blind) folded before Flop
+Seat 5: ivan77769 (big blind) collected ($8.19)
+Seat 6: m0nTTu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254461634025:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:35:23 WET [2025/01/19 23:35:23 ET]
+Table 'Draco IV' 6-max Seat #4 is the button
+Seat 1: Eredar5 ($105.02 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($46.30 in chips) 
+Seat 4: rrrro ($100 in chips) 
+Seat 5: ivan77769 ($31.88 in chips) 
+Seat 6: m0nTTu ($12 in chips) 
+ivan77769: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Eredar5: folds 
+vezis3: folds 
+steelNike: raises $1 to $2
+rrrro: folds 
+ivan77769: calls $1.50
+m0nTTu: calls $1
+*** FLOP *** [6d 2c Qc]
+ivan77769: checks 
+m0nTTu: bets $10 and is all-in
+steelNike: calls $10
+ivan77769: folds 
+*** FIRST TURN *** [6d 2c Qc] [9s]
+*** FIRST RIVER *** [6d 2c Qc 9s] [Jc]
+*** SECOND TURN *** [6d 2c Qc] [Qd]
+*** SECOND RIVER *** [6d 2c Qc Qd] [2d]
+*** FIRST SHOW DOWN ***
+m0nTTu: shows [Ac 6c] (a flush, Ace high)
+steelNike: shows [Kd Kc] (a pair of Kings)
+m0nTTu collected $12.35 from pot
+*** SECOND SHOW DOWN ***
+m0nTTu: shows [Ac 6c] (two pair, Queens and Sixes)
+steelNike: shows [Kd Kc] (two pair, Kings and Queens)
+steelNike collected $12.35 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $1.30 
+Hand was run twice
+FIRST Board [6d 2c Qc 9s Jc]
+SECOND Board [6d 2c Qc Qd 2d]
+Seat 1: Eredar5 folded before Flop (didn't bet)
+Seat 2: vezis3 folded before Flop (didn't bet)
+Seat 3: steelNike showed [Kd Kc] and lost with a pair of Kings, and won ($12.35) with two pair, Kings and Queens
+Seat 4: rrrro (button) folded before Flop (didn't bet)
+Seat 5: ivan77769 (small blind) folded on the Flop
+Seat 6: m0nTTu (big blind) showed [Ac 6c] and won ($12.35) with a flush, Ace high, and lost with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #254461638593:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:36:16 WET [2025/01/19 23:36:16 ET]
+Table 'Draco IV' 6-max Seat #5 is the button
+Seat 1: Eredar5 ($105.02 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($46.65 in chips) 
+Seat 4: rrrro ($100 in chips) 
+Seat 5: ivan77769 ($29.88 in chips) 
+Seat 6: m0nTTu ($12.35 in chips) 
+m0nTTu: posts small blind $0.50
+Eredar5: posts big blind $1
+*** HOLE CARDS ***
+vezis3: folds 
+steelNike: folds 
+rrrro: folds 
+ivan77769: raises $1 to $2
+m0nTTu: folds 
+Eredar5: calls $1
+*** FLOP *** [8h Js 5d]
+Eredar5: checks 
+ivan77769: checks 
+*** TURN *** [8h Js 5d] [Ts]
+Eredar5: bets $2.35
+ivan77769: calls $2.35
+*** RIVER *** [8h Js 5d Ts] [3h]
+Eredar5: bets $4.81
+ivan77769: folds 
+Uncalled bet ($4.81) returned to Eredar5
+Eredar5 collected $8.74 from pot
+Eredar5: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.20 | Rake $0.46 
+Board [8h Js 5d Ts 3h]
+Seat 1: Eredar5 (big blind) collected ($8.74)
+Seat 2: vezis3 folded before Flop (didn't bet)
+Seat 3: steelNike folded before Flop (didn't bet)
+Seat 4: rrrro folded before Flop (didn't bet)
+Seat 5: ivan77769 (button) folded on the River
+Seat 6: m0nTTu (small blind) folded before Flop
+
+
+
+PokerStars Hand #254461643791:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:37:16 WET [2025/01/19 23:37:16 ET]
+Table 'Draco IV' 6-max Seat #6 is the button
+Seat 1: Eredar5 ($109.41 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($46.65 in chips) 
+Seat 4: rrrro ($100 in chips) 
+Seat 5: ivan77769 ($25.53 in chips) 
+Seat 6: m0nTTu ($11.85 in chips) 
+Eredar5: posts small blind $0.50
+vezis3: posts big blind $1
+*** HOLE CARDS ***
+steelNike: raises $1 to $2
+rrrro: folds 
+ivan77769: calls $2
+m0nTTu: folds 
+Eredar5: folds 
+vezis3: folds 
+*** FLOP *** [2d Ts 8s]
+steelNike: checks 
+ivan77769: checks 
+*** TURN *** [2d Ts 8s] [9s]
+steelNike: checks 
+ivan77769: checks 
+*** RIVER *** [2d Ts 8s 9s] [4h]
+steelNike: checks 
+ivan77769: checks 
+*** SHOW DOWN ***
+steelNike: shows [Td As] (a pair of Tens)
+ivan77769: mucks hand 
+steelNike collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [2d Ts 8s 9s 4h]
+Seat 1: Eredar5 (small blind) folded before Flop
+Seat 2: vezis3 (big blind) folded before Flop
+Seat 3: steelNike showed [Td As] and won ($5.22) with a pair of Tens
+Seat 4: rrrro folded before Flop (didn't bet)
+Seat 5: ivan77769 mucked
+Seat 6: m0nTTu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254461648874:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:38:15 WET [2025/01/19 23:38:15 ET]
+Table 'Draco IV' 6-max Seat #1 is the button
+Seat 1: Eredar5 ($108.91 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($49.87 in chips) 
+Seat 4: rrrro ($100 in chips) 
+Seat 5: ivan77769 ($23.53 in chips) 
+Seat 6: m0nTTu ($11.85 in chips) 
+vezis3: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+rrrro: folds 
+ivan77769: calls $1
+m0nTTu: folds 
+Eredar5: folds 
+vezis3: folds 
+steelNike: checks 
+*** FLOP *** [5d Kh Jh]
+steelNike: checks 
+ivan77769: bets $1
+steelNike: calls $1
+*** TURN *** [5d Kh Jh] [8c]
+steelNike: checks 
+ivan77769: bets $1
+steelNike: calls $1
+*** RIVER *** [5d Kh Jh 8c] [Ad]
+steelNike: checks 
+ivan77769: checks 
+*** SHOW DOWN ***
+steelNike: shows [3c Jd] (a pair of Jacks)
+ivan77769: mucks hand 
+steelNike collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [5d Kh Jh 8c Ad]
+Seat 1: Eredar5 (button) folded before Flop (didn't bet)
+Seat 2: vezis3 (small blind) folded before Flop
+Seat 3: steelNike (big blind) showed [3c Jd] and won ($6.18) with a pair of Jacks
+Seat 4: rrrro folded before Flop (didn't bet)
+Seat 5: ivan77769 mucked
+Seat 6: m0nTTu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254461653092:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/20 4:39:03 WET [2025/01/19 23:39:03 ET]
+Table 'Draco IV' 6-max Seat #2 is the button
+Seat 1: Eredar5 ($108.91 in chips) 
+Seat 2: vezis3 ($100 in chips) 
+Seat 3: steelNike ($53.05 in chips) 
+Seat 4: rrrro ($100 in chips) 
+Seat 5: ivan77769 ($20.53 in chips) 
+Seat 6: m0nTTu ($11.85 in chips) 
+steelNike: posts small blind $0.50
+rrrro: posts big blind $1
+*** HOLE CARDS ***
+ivan77769: folds 
+ivan77769 leaves the table
+m0nTTu: folds 
+Eredar5: folds 
+vezis3: raises $1.40 to $2.40
+steelNike: folds 
+rrrro: raises $10.60 to $13
+vezis3: folds 
+Uncalled bet ($10.60) returned to rrrro
+vezis3 leaves the table
+rrrro collected $5.30 from pot
+rrrro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.30 | Rake $0 
+Seat 1: Eredar5 folded before Flop (didn't bet)
+Seat 2: vezis3 (button) folded before Flop
+Seat 3: steelNike (small blind) folded before Flop
+Seat 4: rrrro (big blind) collected ($5.30)
+Seat 5: ivan77769 folded before Flop (didn't bet)
+Seat 6: m0nTTu folded before Flop (didn't bet)
+
+
+

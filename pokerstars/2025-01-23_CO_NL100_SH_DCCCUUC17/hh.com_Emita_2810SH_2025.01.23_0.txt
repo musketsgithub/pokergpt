@@ -1,0 +1,2822 @@
+﻿PokerStars Hand #254521408792:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:53:49 WET [2025/01/23 17:53:49 ET]
+Table 'Emita IV' 6-max Seat #3 is the button
+Seat 1: Trakhus ($7 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 3: Manifestorr ($101.90 in chips) 
+Trakhus: posts small blind $0.50
+value_ftw: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: raises $1.20 to $2.20
+numapu_33 joins the table at seat #6 
+Trakhus: raises $4.80 to $7 and is all-in
+value_ftw: folds 
+Manifestorr: folds 
+Uncalled bet ($4.80) returned to Trakhus
+Trakhus collected $5.40 from pot
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 1: Trakhus (small blind) collected ($5.40)
+Seat 2: value_ftw (big blind) folded before Flop
+Seat 3: Manifestorr (button) folded before Flop
+
+
+
+PokerStars Hand #254521412150:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:54:02 WET [2025/01/23 17:54:02 ET]
+Table 'Emita IV' 6-max Seat #1 is the button
+Seat 3: Manifestorr ($100 in chips) is sitting out
+Seat 1: Trakhus ($10.20 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 6: numapu_33 ($100 in chips) 
+value_ftw: posts small blind $0.50
+Manifestorr: is sitting out 
+numapu_33: posts big blind $1
+*** HOLE CARDS ***
+Trakhus: folds 
+Manifestorr leaves the table
+value_ftw: raises $2 to $3
+numapu_33: folds 
+Uncalled bet ($2) returned to value_ftw
+value_ftw collected $2 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: Manifestorr
+Seat 1: Trakhus (button) folded before Flop (didn't bet)
+Seat 2: value_ftw (small blind) collected ($2)
+Seat 6: numapu_33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254521414976:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:54:13 WET [2025/01/23 17:54:13 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 1: Trakhus ($10.20 in chips) 
+Seat 2: value_ftw ($101 in chips) 
+Seat 6: numapu_33 ($100 in chips) 
+numapu_33: posts small blind $0.50
+Trakhus: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: folds 
+numapu_33: folds 
+Uncalled bet ($0.50) returned to Trakhus
+Trakhus collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Trakhus (big blind) collected ($1)
+Seat 2: value_ftw (button) folded before Flop (didn't bet)
+Seat 6: numapu_33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254521417026:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:54:20 WET [2025/01/23 17:54:20 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 1: Trakhus ($10.70 in chips) 
+Seat 2: value_ftw ($101 in chips) 
+Seat 6: numapu_33 ($100 in chips) 
+Trakhus: posts small blind $0.50
+value_ftw: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: folds 
+Trakhus: calls $0.50
+value_ftw: checks 
+*** FLOP *** [4s 5h 6d]
+Trakhus: checks 
+value_ftw: bets $1.90
+Trakhus: calls $1.90
+*** TURN *** [4s 5h 6d] [6h]
+Trakhus: checks 
+value_ftw: bets $98.10 and is all-in
+Trakhus: calls $7.80 and is all-in
+Uncalled bet ($90.30) returned to value_ftw
+*** RIVER *** [4s 5h 6d 6h] [Ad]
+*** SHOW DOWN ***
+Trakhus: shows [2h Ah] (two pair, Aces and Sixes)
+value_ftw: shows [Jd 5c] (two pair, Sixes and Fives)
+Trakhus collected $20.40 from pot
+*** SUMMARY ***
+Total pot $21.40 | Rake $1 
+Board [4s 5h 6d 6h Ad]
+Seat 1: Trakhus (small blind) showed [2h Ah] and won ($20.40) with two pair, Aces and Sixes
+Seat 2: value_ftw (big blind) showed [Jd 5c] and lost with two pair, Sixes and Fives
+Seat 6: numapu_33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521425819:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:54:54 WET [2025/01/23 17:54:54 ET]
+Table 'Emita IV' 6-max Seat #1 is the button
+Seat 1: Trakhus ($20.40 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 6: numapu_33 ($100 in chips) 
+value_ftw: posts small blind $0.50
+numapu_33: posts big blind $1
+*** HOLE CARDS ***
+Trakhus: calls $1
+value_ftw: folds 
+numapu_33: checks 
+*** FLOP *** [Tc 2s 3c]
+numapu_33: checks 
+Trakhus: bets $1
+numapu_33: calls $1
+*** TURN *** [Tc 2s 3c] [Qd]
+numapu_33: checks 
+Trakhus: checks 
+*** RIVER *** [Tc 2s 3c Qd] [9c]
+numapu_33: bets $3
+Trakhus: folds 
+Uncalled bet ($3) returned to numapu_33
+numapu_33 collected $4.28 from pot
+numapu_33: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Tc 2s 3c Qd 9c]
+Seat 1: Trakhus (button) folded on the River
+Seat 2: value_ftw (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) collected ($4.28)
+
+
+
+PokerStars Hand #254521434552:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:55:32 WET [2025/01/23 17:55:32 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 1: Trakhus ($18.40 in chips) 
+Seat 2: value_ftw ($100 in chips) 
+Seat 6: numapu_33 ($102.28 in chips) 
+numapu_33: posts small blind $0.50
+Trakhus: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: raises $1.50 to $2.50
+numapu_33: folds 
+Trakhus: folds 
+Uncalled bet ($1.50) returned to value_ftw
+value_ftw collected $2.50 from pot
+value_ftw: doesn't show hand 
+ptolejmus joins the table at seat #3 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Trakhus (big blind) folded before Flop
+Seat 2: value_ftw (button) collected ($2.50)
+Seat 6: numapu_33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254521437432:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:55:47 WET [2025/01/23 17:55:47 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 3: ptolejmus ($10 in chips) is sitting out
+Seat 1: Trakhus ($17.40 in chips) 
+Seat 2: value_ftw ($101.50 in chips) 
+Seat 6: numapu_33 ($101.78 in chips) 
+Trakhus: posts small blind $0.50
+value_ftw: posts big blind $1
+ptolejmus: sits out 
+*** HOLE CARDS ***
+numapu_33: folds 
+Trakhus: calls $0.50
+value_ftw: checks 
+*** FLOP *** [4c 9d 3d]
+Trakhus: checks 
+value_ftw: checks 
+*** TURN *** [4c 9d 3d] [Kh]
+Trakhus: bets $1
+value_ftw: raises $2.93 to $3.93
+Trakhus: folds 
+Uncalled bet ($2.93) returned to value_ftw
+value_ftw collected $3.80 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [4c 9d 3d Kh]
+Seat 3: ptolejmus
+Seat 1: Trakhus (small blind) folded on the Turn
+Seat 2: value_ftw (big blind) collected ($3.80)
+Seat 6: numapu_33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521442951:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:56:15 WET [2025/01/23 17:56:15 ET]
+Table 'Emita IV' 6-max Seat #1 is the button
+Seat 1: Trakhus ($15.40 in chips) 
+Seat 2: value_ftw ($103.30 in chips) 
+Seat 3: ptolejmus ($10 in chips) 
+Seat 6: numapu_33 ($101.78 in chips) 
+value_ftw: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: raises $1.50 to $2.50
+Trakhus: folds 
+value_ftw: raises $8 to $10.50
+icolated joins the table at seat #4 
+icolated is disconnected 
+pr0tecto joins the table at seat #5 
+ptolejmus: folds 
+numapu_33: folds 
+Uncalled bet ($8) returned to value_ftw
+value_ftw collected $6 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Trakhus (button) folded before Flop (didn't bet)
+Seat 2: value_ftw (small blind) collected ($6)
+Seat 3: ptolejmus (big blind) folded before Flop
+Seat 6: numapu_33 folded before Flop
+
+
+
+PokerStars Hand #254521447725:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:56:39 WET [2025/01/23 17:56:39 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 5: pr0tecto ($100 in chips) is sitting out
+Seat 1: Trakhus ($15.40 in chips) 
+Seat 2: value_ftw ($106.80 in chips) 
+Seat 3: ptolejmus ($10 in chips) 
+Seat 4: icolated ($45.48 in chips) 
+Seat 6: numapu_33 ($100 in chips) 
+ptolejmus: posts small blind $0.50
+icolated: posts big blind $1
+pr0tecto: sits out 
+*** HOLE CARDS ***
+numapu_33: folds 
+Trakhus: calls $1
+value_ftw: folds 
+ptolejmus: raises $9 to $10 and is all-in
+icolated: calls $9
+Trakhus: calls $9
+*** FLOP *** [Qc Ad 2c]
+icolated: bets $6
+Trakhus: calls $5.40 and is all-in
+Uncalled bet ($0.60) returned to icolated
+*** TURN *** [Qc Ad 2c] [5s]
+*** RIVER *** [Qc Ad 2c 5s] [9h]
+*** SHOW DOWN ***
+icolated: shows [3c Ac] (a pair of Aces)
+Trakhus: shows [8h Ah] (a pair of Aces - Queen+Nine+Eight kicker)
+Trakhus collected $10.26 from side pot
+ptolejmus: shows [2s 2h] (three of a kind, Deuces)
+ptolejmus collected $28.50 from main pot
+*** SUMMARY ***
+Total pot $40.80 Main pot $28.50. Side pot $10.26. | Rake $2.04 
+Board [Qc Ad 2c 5s 9h]
+Seat 5: pr0tecto
+Seat 1: Trakhus showed [8h Ah] and won ($10.26) with a pair of Aces
+Seat 2: value_ftw (button) folded before Flop (didn't bet)
+Seat 3: ptolejmus (small blind) showed [2s 2h] and won ($28.50) with three of a kind, Deuces
+Seat 4: icolated (big blind) showed [3c Ac] and lost with a pair of Aces
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521454878:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:57:16 WET [2025/01/23 17:57:16 ET]
+Table 'Emita IV' 6-max Seat #3 is the button
+Seat 1: Trakhus ($10.26 in chips) 
+Seat 2: value_ftw ($106.80 in chips) 
+Seat 3: ptolejmus ($28.50 in chips) 
+Seat 4: icolated ($30.08 in chips) 
+Seat 5: pr0tecto ($100 in chips) 
+Seat 6: numapu_33 ($100 in chips) 
+icolated: posts small blind $0.50
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: folds 
+Trakhus: folds 
+value_ftw: raises $1.20 to $2.20
+ptolejmus: folds 
+icolated: folds 
+pr0tecto: folds 
+Uncalled bet ($1.20) returned to value_ftw
+value_ftw collected $2.50 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Trakhus folded before Flop (didn't bet)
+Seat 2: value_ftw collected ($2.50)
+Seat 3: ptolejmus (button) folded before Flop (didn't bet)
+Seat 4: icolated (small blind) folded before Flop
+Seat 5: pr0tecto (big blind) folded before Flop
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521458410:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:57:34 WET [2025/01/23 17:57:34 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 1: Trakhus ($10.26 in chips) 
+Seat 2: value_ftw ($108.30 in chips) 
+Seat 3: ptolejmus ($28.50 in chips) 
+Seat 4: icolated ($29.58 in chips) 
+Seat 5: pr0tecto ($99 in chips) 
+Seat 6: numapu_33 ($100 in chips) 
+pr0tecto: posts small blind $0.50
+numapu_33: posts big blind $1
+*** HOLE CARDS ***
+Trakhus: folds 
+value_ftw: folds 
+ptolejmus: folds 
+icolated: folds 
+pr0tecto: folds 
+Uncalled bet ($0.50) returned to numapu_33
+numapu_33 collected $1 from pot
+numapu_33: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Trakhus folded before Flop (didn't bet)
+Seat 2: value_ftw folded before Flop (didn't bet)
+Seat 3: ptolejmus folded before Flop (didn't bet)
+Seat 4: icolated (button) folded before Flop (didn't bet)
+Seat 5: pr0tecto (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254521460411:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:57:43 WET [2025/01/23 17:57:43 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 1: Trakhus ($10.26 in chips) 
+Seat 2: value_ftw ($108.30 in chips) 
+Seat 3: ptolejmus ($28.50 in chips) 
+Seat 4: icolated ($29.58 in chips) 
+Seat 5: pr0tecto ($100 in chips) 
+Seat 6: numapu_33 ($100.50 in chips) 
+numapu_33: posts small blind $0.50
+Trakhus: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: folds 
+ptolejmus: folds 
+icolated: raises $2 to $3
+pr0tecto: folds 
+numapu_33: folds 
+Trakhus: calls $2
+*** FLOP *** [Qh 5c 2c]
+Trakhus: checks 
+icolated: bets $18
+Trakhus: folds 
+Uncalled bet ($18) returned to icolated
+icolated collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Qh 5c 2c]
+Seat 1: Trakhus (big blind) folded on the Flop
+Seat 2: value_ftw folded before Flop (didn't bet)
+Seat 3: ptolejmus folded before Flop (didn't bet)
+Seat 4: icolated collected ($6.18)
+Seat 5: pr0tecto (button) folded before Flop (didn't bet)
+Seat 6: numapu_33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254521466411:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:58:14 WET [2025/01/23 17:58:14 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 1: Trakhus ($7.26 in chips) 
+Seat 2: value_ftw ($108.30 in chips) 
+Seat 3: ptolejmus ($28.50 in chips) 
+Seat 4: icolated ($32.76 in chips) 
+Seat 5: pr0tecto ($100 in chips) 
+Seat 6: numapu_33 ($100 in chips) 
+Trakhus: posts small blind $0.50
+value_ftw: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+icolated: raises $2 to $3
+pr0tecto: raises $6 to $9
+numapu_33: folds 
+Trakhus: folds 
+value_ftw: folds 
+icolated: calls $6
+*** FLOP *** [8c 4c Ts]
+icolated: bets $7
+pr0tecto: folds 
+Uncalled bet ($7) returned to icolated
+icolated collected $18.52 from pot
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [8c 4c Ts]
+Seat 1: Trakhus (small blind) folded before Flop
+Seat 2: value_ftw (big blind) folded before Flop
+Seat 3: ptolejmus folded before Flop (didn't bet)
+Seat 4: icolated collected ($18.52)
+Seat 5: pr0tecto folded on the Flop
+Seat 6: numapu_33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521477881:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:59:13 WET [2025/01/23 17:59:13 ET]
+Table 'Emita IV' 6-max Seat #1 is the button
+Seat 3: ptolejmus ($28.50 in chips) is sitting out
+Seat 1: Trakhus ($6.76 in chips) 
+Seat 2: value_ftw ($107.30 in chips) 
+Seat 4: icolated ($42.28 in chips) 
+Seat 5: pr0tecto ($100 in chips) 
+Seat 6: numapu_33 ($100 in chips) 
+value_ftw: posts small blind $0.50
+ptolejmus: is sitting out 
+icolated: posts big blind $1
+*** HOLE CARDS ***
+pr0tecto: folds 
+numapu_33: folds 
+Trakhus: folds 
+value_ftw: folds 
+Uncalled bet ($0.50) returned to icolated
+ptolejmus leaves the table
+icolated collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: ptolejmus
+Seat 1: Trakhus (button) folded before Flop (didn't bet)
+Seat 2: value_ftw (small blind) folded before Flop
+Seat 4: icolated (big blind) collected ($1)
+Seat 5: pr0tecto folded before Flop (didn't bet)
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521480650:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:59:27 WET [2025/01/23 17:59:27 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 1: Trakhus ($6.76 in chips) 
+Seat 2: value_ftw ($106.80 in chips) 
+Seat 4: icolated ($42.78 in chips) 
+Seat 5: pr0tecto ($100 in chips) 
+Seat 6: numapu_33 ($100 in chips) 
+icolated: posts small blind $0.50
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: folds 
+Trakhus: raises $5.76 to $6.76 and is all-in
+value_ftw: folds 
+icolated: folds 
+pr0tecto: folds 
+Uncalled bet ($5.76) returned to Trakhus
+Trakhus collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Trakhus collected ($2.50)
+Seat 2: value_ftw (button) folded before Flop (didn't bet)
+Seat 4: icolated (small blind) folded before Flop
+Seat 5: pr0tecto (big blind) folded before Flop
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521485679:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 22:59:53 WET [2025/01/23 17:59:53 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 1: Trakhus ($8.26 in chips) 
+Seat 2: value_ftw ($106.80 in chips) 
+Seat 4: icolated ($42.28 in chips) 
+Seat 5: pr0tecto ($99 in chips) 
+Seat 6: numapu_33 ($100 in chips) 
+pr0tecto: posts small blind $0.50
+numapu_33: posts big blind $1
+*** HOLE CARDS ***
+Trakhus: folds 
+value_ftw: folds 
+icolated: folds 
+pr0tecto: folds 
+Uncalled bet ($0.50) returned to numapu_33
+numapu_33 collected $1 from pot
+numapu_33: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Trakhus folded before Flop (didn't bet)
+Seat 2: value_ftw folded before Flop (didn't bet)
+Seat 4: icolated (button) folded before Flop (didn't bet)
+Seat 5: pr0tecto (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254521487812:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:00:03 WET [2025/01/23 18:00:03 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 1: Trakhus ($8.26 in chips) 
+Seat 2: value_ftw ($106.80 in chips) 
+Seat 4: icolated ($42.28 in chips) 
+Seat 5: pr0tecto ($100 in chips) 
+Seat 6: numapu_33 ($100.50 in chips) 
+numapu_33: posts small blind $0.50
+Trakhus: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: raises $1.20 to $2.20
+icolated: folds 
+pr0tecto: folds 
+numapu_33: folds 
+Trakhus: folds 
+Uncalled bet ($1.20) returned to value_ftw
+value_ftw collected $2.50 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Trakhus (big blind) folded before Flop
+Seat 2: value_ftw collected ($2.50)
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: pr0tecto (button) folded before Flop (didn't bet)
+Seat 6: numapu_33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254521610948:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:08:19 WET [2025/01/23 18:08:19 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 3: BuzaCR7 ($13.50 in chips) is sitting out
+Seat 1: michasia ($100 in chips) 
+Seat 2: nastja336 ($131.22 in chips) 
+Seat 4: icolated ($45.92 in chips) 
+Seat 5: Rdalonso ($112.92 in chips) 
+Seat 6: numapu_33 ($102.22 in chips) 
+michasia: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+icolated: raises $2 to $3
+Rdalonso: folds 
+numapu_33: folds 
+michasia: folds 
+nastja336: folds 
+Uncalled bet ($2) returned to icolated
+icolated collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: BuzaCR7
+Seat 1: michasia (small blind) folded before Flop
+Seat 2: nastja336 (big blind) folded before Flop
+Seat 4: icolated collected ($2.50)
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521614260:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:08:32 WET [2025/01/23 18:08:32 ET]
+Table 'Emita IV' 6-max Seat #1 is the button
+Seat 1: michasia ($100 in chips) 
+Seat 2: nastja336 ($130.22 in chips) 
+Seat 3: BuzaCR7 ($13.50 in chips) 
+Seat 4: icolated ($47.42 in chips) 
+Seat 5: Rdalonso ($112.92 in chips) 
+Seat 6: numapu_33 ($102.22 in chips) 
+nastja336: posts small blind $0.50
+BuzaCR7: posts big blind $1
+*** HOLE CARDS ***
+icolated: folds 
+Rdalonso: folds 
+numapu_33: folds 
+michasia: raises $1.80 to $2.80
+nastja336: folds 
+BuzaCR7: raises $10.70 to $13.50 and is all-in
+michasia: folds 
+Uncalled bet ($10.70) returned to BuzaCR7
+BuzaCR7 collected $6.10 from pot
+*** SUMMARY ***
+Total pot $6.10 | Rake $0 
+Seat 1: michasia (button) folded before Flop
+Seat 2: nastja336 (small blind) folded before Flop
+Seat 3: BuzaCR7 (big blind) collected ($6.10)
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521618741:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:08:50 WET [2025/01/23 18:08:50 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 1: michasia ($100 in chips) 
+Seat 2: nastja336 ($129.72 in chips) 
+Seat 3: BuzaCR7 ($16.80 in chips) 
+Seat 4: icolated ($47.42 in chips) 
+Seat 5: Rdalonso ($112.92 in chips) 
+Seat 6: numapu_33 ($102.22 in chips) 
+BuzaCR7: posts small blind $0.50
+icolated: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+numapu_33: folds 
+michasia: folds 
+nastja336: raises $1.50 to $2.50
+BuzaCR7: folds 
+icolated: calls $1.50
+*** FLOP *** [3h 2s 3d]
+icolated: checks 
+nastja336: bets $1.72
+icolated: folds 
+Uncalled bet ($1.72) returned to nastja336
+nastja336 collected $5.22 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3h 2s 3d]
+Seat 1: michasia folded before Flop (didn't bet)
+Seat 2: nastja336 (button) collected ($5.22)
+Seat 3: BuzaCR7 (small blind) folded before Flop
+Seat 4: icolated (big blind) folded on the Flop
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521625774:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:09:17 WET [2025/01/23 18:09:17 ET]
+Table 'Emita IV' 6-max Seat #3 is the button
+Seat 1: michasia ($100 in chips) 
+Seat 2: nastja336 ($132.44 in chips) 
+Seat 3: BuzaCR7 ($16.30 in chips) 
+Seat 4: icolated ($44.92 in chips) 
+Seat 5: Rdalonso ($112.92 in chips) 
+Seat 6: numapu_33 ($102.22 in chips) 
+icolated: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: raises $1.50 to $2.50
+michasia: raises $5 to $7.50
+nastja336: folds 
+BuzaCR7: raises $8.80 to $16.30 and is all-in
+icolated: folds 
+Rdalonso: folds 
+numapu_33: folds 
+michasia: calls $8.80
+*** FLOP *** [Ts Ah 4s]
+*** TURN *** [Ts Ah 4s] [7h]
+*** RIVER *** [Ts Ah 4s 7h] [5h]
+*** SHOW DOWN ***
+michasia: shows [Kh Kd] (a pair of Kings)
+BuzaCR7: shows [8s Js] (high card Ace)
+michasia collected $34.77 from pot
+*** SUMMARY ***
+Total pot $36.60 | Rake $1.83 
+Board [Ts Ah 4s 7h 5h]
+Seat 1: michasia showed [Kh Kd] and won ($34.77) with a pair of Kings
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 3: BuzaCR7 (button) showed [8s Js] and lost with high card Ace
+Seat 4: icolated (small blind) folded before Flop
+Seat 5: Rdalonso (big blind) folded before Flop
+Seat 6: numapu_33 folded before Flop
+
+
+
+PokerStars Hand #254521632403:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:09:43 WET [2025/01/23 18:09:43 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 1: michasia ($118.47 in chips) 
+Seat 2: nastja336 ($132.44 in chips) 
+Seat 4: icolated ($44.42 in chips) 
+Seat 5: Rdalonso ($111.92 in chips) 
+Seat 6: numapu_33 ($100 in chips) 
+Rdalonso: posts small blind $0.50
+numapu_33: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+BuzaCR7 is disconnected 
+nastja336: folds 
+icolated: raises $1 to $2
+Rdalonso: folds 
+numapu_33: raises $7 to $9
+icolated: calls $7
+*** FLOP *** [Qd 8d 4d]
+numapu_33: bets $6
+icolated: calls $6
+*** TURN *** [Qd 8d 4d] [8h]
+numapu_33: checks 
+icolated: checks 
+*** RIVER *** [Qd 8d 4d 8h] [8s]
+numapu_33: bets $85 and is all-in
+icolated: folds 
+Uncalled bet ($85) returned to numapu_33
+numapu_33 collected $28.98 from pot
+numapu_33: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.50 | Rake $1.52 
+Board [Qd 8d 4d 8h 8s]
+Seat 3: BuzaCR7
+Seat 1: michasia folded before Flop (didn't bet)
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 4: icolated (button) folded on the River
+Seat 5: Rdalonso (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) collected ($28.98)
+
+
+
+PokerStars Hand #254521658997:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:11:27 WET [2025/01/23 18:11:27 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 1: michasia ($118.47 in chips) 
+Seat 2: nastja336 ($132.44 in chips) 
+Seat 4: icolated ($29.42 in chips) 
+Seat 5: Rdalonso ($111.42 in chips) 
+Seat 6: numapu_33 ($113.98 in chips) 
+numapu_33: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+icolated: folds 
+Rdalonso: raises $1.50 to $2.50
+numapu_33: folds 
+michasia: folds 
+Uncalled bet ($1.50) returned to Rdalonso
+Rdalonso collected $2.50 from pot
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: BuzaCR7
+Seat 1: michasia (big blind) folded before Flop
+Seat 2: nastja336 folded before Flop (didn't bet)
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso (button) collected ($2.50)
+Seat 6: numapu_33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254521662943:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:11:42 WET [2025/01/23 18:11:42 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 2: nastja336 ($132.44 in chips) is sitting out
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 1: michasia ($117.47 in chips) 
+Seat 4: icolated ($29.42 in chips) 
+Seat 5: Rdalonso ($112.92 in chips) 
+Seat 6: numapu_33 ($113.48 in chips) 
+michasia: posts small blind $0.50
+nastja336: is sitting out 
+icolated: posts big blind $1
+*** HOLE CARDS ***
+nastja336 leaves the table
+Rdalonso: raises $1.50 to $2.50
+numapu_33: folds 
+JUANS2 joins the table at seat #2 
+michasia: folds 
+icolated: calls $1.50
+*** FLOP *** [Td 4d Tc]
+icolated: checks 
+Rdalonso: bets $1.72
+icolated: calls $1.72
+*** TURN *** [Td 4d Tc] [2d]
+icolated: checks 
+Rdalonso: checks 
+*** RIVER *** [Td 4d Tc 2d] [Jd]
+icolated: bets $6
+Rdalonso: folds 
+Uncalled bet ($6) returned to icolated
+icolated collected $8.49 from pot
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [Td 4d Tc 2d Jd]
+Seat 2: nastja336
+Seat 3: BuzaCR7
+Seat 1: michasia (small blind) folded before Flop
+Seat 4: icolated (big blind) collected ($8.49)
+Seat 5: Rdalonso folded on the River
+Seat 6: numapu_33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521680015:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:12:49 WET [2025/01/23 18:12:49 ET]
+Table 'Emita IV' 6-max Seat #1 is the button
+Seat 2: JUANS2 ($100 in chips) is sitting out
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 1: michasia ($116.97 in chips) 
+Seat 4: icolated ($33.69 in chips) 
+Seat 5: Rdalonso ($108.70 in chips) 
+Seat 6: numapu_33 ($113.48 in chips) 
+icolated: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: folds 
+michasia: folds 
+icolated: raises $2 to $3
+Rdalonso: calls $2
+*** FLOP *** [Kh Tc Jd]
+icolated: bets $3.85
+Rdalonso: folds 
+Uncalled bet ($3.85) returned to icolated
+icolated collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Kh Tc Jd]
+Seat 2: JUANS2
+Seat 3: BuzaCR7
+Seat 1: michasia (button) folded before Flop (didn't bet)
+Seat 4: icolated (small blind) collected ($5.70)
+Seat 5: Rdalonso (big blind) folded on the Flop
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521689541:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:13:27 WET [2025/01/23 18:13:27 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 2: JUANS2 ($100 in chips) is sitting out
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 1: michasia ($116.97 in chips) 
+Seat 4: icolated ($36.39 in chips) 
+Seat 5: Rdalonso ($105.70 in chips) 
+Seat 6: numapu_33 ($113.48 in chips) 
+Rdalonso: posts small blind $0.50
+numapu_33: posts big blind $1
+JUANS2: sits out 
+*** HOLE CARDS ***
+michasia: raises $1.60 to $2.60
+icolated: calls $2.60
+Rdalonso: folds 
+numapu_33: folds 
+*** FLOP *** [9d 3c Ah]
+michasia: bets $4.24
+icolated: folds 
+Uncalled bet ($4.24) returned to michasia
+michasia collected $6.36 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.70 | Rake $0.34 
+Board [9d 3c Ah]
+Seat 2: JUANS2
+Seat 3: BuzaCR7
+Seat 1: michasia collected ($6.36)
+Seat 4: icolated (button) folded on the Flop
+Seat 5: Rdalonso (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254521695513:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:13:50 WET [2025/01/23 18:13:50 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 1: michasia ($120.73 in chips) is sitting out
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 2: JUANS2 ($100 in chips) 
+Seat 4: icolated ($33.79 in chips) 
+Seat 5: Rdalonso ($105.20 in chips) 
+Seat 6: numapu_33 ($112.48 in chips) 
+numapu_33: posts small blind $0.50
+michasia: is sitting out 
+JUANS2: posts big blind $1
+*** HOLE CARDS ***
+icolated: folds 
+michasia leaves the table
+Rdalonso: raises $1.50 to $2.50
+lucajb11 joins the table at seat #1 
+lucajb11 is disconnected 
+numapu_33: raises $9.50 to $12
+JUANS2: folds 
+Rdalonso: raises $13 to $25
+numapu_33: raises $87.48 to $112.48 and is all-in
+Rdalonso: folds 
+Uncalled bet ($87.48) returned to numapu_33
+numapu_33 collected $51 from pot
+numapu_33: doesn't show hand 
+*** SUMMARY ***
+Total pot $51 | Rake $0 
+Seat 1: michasia
+Seat 3: BuzaCR7
+Seat 2: JUANS2 (big blind) folded before Flop
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso (button) folded before Flop
+Seat 6: numapu_33 (small blind) collected ($51)
+
+
+
+PokerStars Hand #254521705003:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:14:27 WET [2025/01/23 18:14:27 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 1: lucajb11 ($23.96 in chips) is sitting out
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 2: JUANS2 ($100 in chips) 
+Seat 4: icolated ($33.79 in chips) 
+Seat 5: Rdalonso ($100 in chips) 
+Seat 6: numapu_33 ($138.48 in chips) 
+JUANS2: posts small blind $0.50
+icolated: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+numapu_33: raises $1.50 to $2.50
+JUANS2: folds 
+icolated: raises $5.50 to $8
+numapu_33: folds 
+Uncalled bet ($5.50) returned to icolated
+icolated collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: lucajb11
+Seat 3: BuzaCR7
+Seat 2: JUANS2 (small blind) folded before Flop
+Seat 4: icolated (big blind) collected ($5.50)
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 (button) folded before Flop
+
+
+
+PokerStars Hand #254521709263:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:14:44 WET [2025/01/23 18:14:44 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 1: lucajb11 ($23.96 in chips) 
+Seat 2: JUANS2 ($100 in chips) 
+Seat 4: icolated ($36.79 in chips) 
+Seat 5: Rdalonso ($100 in chips) 
+Seat 6: numapu_33 ($135.98 in chips) 
+icolated: posts small blind $0.50
+Rdalonso: posts big blind $1
+lucajb11: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: folds 
+lucajb11: checks 
+JUANS2: raises $3 to $4
+icolated: folds 
+Rdalonso: folds 
+lucajb11: folds 
+Uncalled bet ($3) returned to JUANS2
+JUANS2 collected $3.50 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 3: BuzaCR7
+Seat 1: lucajb11 folded before Flop (didn't bet)
+Seat 2: JUANS2 (button) collected ($3.50)
+Seat 4: icolated (small blind) folded before Flop
+Seat 5: Rdalonso (big blind) folded before Flop
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521713821:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:15:02 WET [2025/01/23 18:15:02 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 1: lucajb11 ($22.96 in chips) 
+Seat 2: JUANS2 ($102.50 in chips) 
+Seat 4: icolated ($36.29 in chips) 
+Seat 5: Rdalonso ($100 in chips) 
+Seat 6: numapu_33 ($135.98 in chips) 
+Rdalonso: posts small blind $0.50
+numapu_33: posts big blind $1
+*** HOLE CARDS ***
+lucajb11: folds 
+JUANS2: folds 
+icolated: folds 
+Rdalonso: folds 
+Uncalled bet ($0.50) returned to numapu_33
+numapu_33 collected $1 from pot
+numapu_33: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: BuzaCR7
+Seat 1: lucajb11 folded before Flop (didn't bet)
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 4: icolated (button) folded before Flop (didn't bet)
+Seat 5: Rdalonso (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254521716390:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:15:12 WET [2025/01/23 18:15:12 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 1: lucajb11 ($22.96 in chips) 
+Seat 2: JUANS2 ($102.50 in chips) 
+Seat 4: icolated ($36.29 in chips) 
+Seat 5: Rdalonso ($100 in chips) 
+Seat 6: numapu_33 ($136.48 in chips) 
+numapu_33: posts small blind $0.50
+lucajb11: posts big blind $1
+*** HOLE CARDS ***
+JUANS2: folds 
+icolated: raises $2 to $3
+Rdalonso: folds 
+numapu_33: raises $7 to $10
+lucajb11: folds 
+icolated: calls $7
+*** FLOP *** [Tc Ac 5h]
+numapu_33: bets $5
+icolated: calls $5
+*** TURN *** [Tc Ac 5h] [Th]
+numapu_33: checks 
+icolated: bets $21.29 and is all-in
+numapu_33: folds 
+Uncalled bet ($21.29) returned to icolated
+icolated collected $29.45 from pot
+*** SUMMARY ***
+Total pot $31 | Rake $1.55 
+Board [Tc Ac 5h Th]
+Seat 3: BuzaCR7
+Seat 1: lucajb11 (big blind) folded before Flop
+Seat 2: JUANS2 folded before Flop (didn't bet)
+Seat 4: icolated collected ($29.45)
+Seat 5: Rdalonso (button) folded before Flop (didn't bet)
+Seat 6: numapu_33 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254521735217:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:16:27 WET [2025/01/23 18:16:27 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 2: JUANS2 ($102.50 in chips) is sitting out
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 1: lucajb11 ($21.96 in chips) 
+Seat 4: icolated ($50.74 in chips) 
+Seat 5: Rdalonso ($100 in chips) 
+Seat 6: numapu_33 ($121.48 in chips) 
+lucajb11: posts small blind $0.50
+JUANS2: is sitting out 
+icolated: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: raises $1.50 to $2.50
+numapu_33: calls $2.50
+lucajb11: raises $3.50 to $6
+icolated: folds 
+Rdalonso: folds 
+numapu_33: calls $3.50
+*** FLOP *** [Kh 6h Jd]
+lucajb11: bets $4
+JUANS2 leaves the table
+numapu_33: raises $111.48 to $115.48 and is all-in
+Mr_Dick666 joins the table at seat #2 
+lucajb11: calls $11.96 and is all-in
+Uncalled bet ($99.52) returned to numapu_33
+*** TURN *** [Kh 6h Jd] [2c]
+*** RIVER *** [Kh 6h Jd 2c] [4s]
+*** SHOW DOWN ***
+lucajb11: shows [Ad Jc] (a pair of Jacks)
+numapu_33: shows [Kc Tc] (a pair of Kings)
+numapu_33 collected $46.42 from pot
+*** SUMMARY ***
+Total pot $47.42 | Rake $1 
+Board [Kh 6h Jd 2c 4s]
+Seat 2: JUANS2
+Seat 3: BuzaCR7
+Seat 1: lucajb11 (small blind) showed [Ad Jc] and lost with a pair of Jacks
+Seat 4: icolated (big blind) folded before Flop
+Seat 5: Rdalonso folded before Flop
+Seat 6: numapu_33 (button) showed [Kc Tc] and won ($46.42) with a pair of Kings
+
+
+
+PokerStars Hand #254521748472:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:17:19 WET [2025/01/23 18:17:19 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 1: lucajb11 ($0 in chips) is sitting out
+Seat 2: Mr_Dick666 ($100 in chips) is sitting out
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 4: icolated ($49.74 in chips) 
+Seat 5: Rdalonso ($100 in chips) 
+Seat 6: numapu_33 ($145.94 in chips) 
+Rdalonso: posts small blind $0.50
+numapu_33: posts big blind $1
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+icolated: raises $2 to $3
+Rdalonso: folds 
+numapu_33: folds 
+Uncalled bet ($2) returned to icolated
+icolated collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: lucajb11
+Seat 2: Mr_Dick666
+Seat 3: BuzaCR7
+Seat 4: icolated (button) collected ($2.50)
+Seat 5: Rdalonso (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254521751611:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:17:32 WET [2025/01/23 18:17:32 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 1: lucajb11 ($0 in chips) is sitting out
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 4: icolated ($51.24 in chips) 
+Seat 5: Rdalonso ($100 in chips) 
+Seat 6: numapu_33 ($144.94 in chips) 
+numapu_33: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+icolated: folds 
+lucajb11 leaves the table
+Rdalonso: raises $1.50 to $2.50
+numapu_33: folds 
+Mr_Dick666: folds 
+Uncalled bet ($1.50) returned to Rdalonso
+Rdalonso collected $2.50 from pot
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: lucajb11
+Seat 3: BuzaCR7
+Seat 2: Mr_Dick666 (big blind) folded before Flop
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso (button) collected ($2.50)
+Seat 6: numapu_33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254521754576:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:17:44 WET [2025/01/23 18:17:44 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 4: icolated ($51.24 in chips) 
+Seat 5: Rdalonso ($101.50 in chips) 
+Seat 6: numapu_33 ($144.44 in chips) 
+Mr_Dick666: posts small blind $0.50
+icolated: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+numapu_33: raises $1.50 to $2.50
+Mr_Dick666: folds 
+icolated: calls $1.50
+*** FLOP *** [2c Jc 6c]
+icolated: checks 
+numapu_33: bets $1.57
+icolated: calls $1.57
+*** TURN *** [2c Jc 6c] [8h]
+icolated: checks 
+numapu_33: checks 
+*** RIVER *** [2c Jc 6c 8h] [4s]
+icolated: bets $11
+numapu_33: folds 
+Uncalled bet ($11) returned to icolated
+icolated collected $8.21 from pot
+*** SUMMARY ***
+Total pot $8.64 | Rake $0.43 
+Board [2c Jc 6c 8h 4s]
+Seat 3: BuzaCR7
+Seat 2: Mr_Dick666 (small blind) folded before Flop
+Seat 4: icolated (big blind) collected ($8.21)
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 (button) folded on the River
+
+
+
+PokerStars Hand #254521771519:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:18:50 WET [2025/01/23 18:18:50 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 4: icolated ($55.38 in chips) 
+Seat 5: Rdalonso ($101.50 in chips) 
+Seat 6: numapu_33 ($140.37 in chips) 
+icolated: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: folds 
+Mr_Dick666: folds 
+icolated: folds 
+Uncalled bet ($0.50) returned to Rdalonso
+Rdalonso collected $1 from pot
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: BuzaCR7
+Seat 2: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 4: icolated (small blind) folded before Flop
+Seat 5: Rdalonso (big blind) collected ($1)
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521777480:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:19:14 WET [2025/01/23 18:19:14 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 4: icolated ($54.88 in chips) 
+Seat 5: Rdalonso ($102 in chips) 
+Seat 6: numapu_33 ($140.37 in chips) 
+Rdalonso: posts small blind $0.50
+numapu_33: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: raises $1.50 to $2.50
+icolated: folds 
+Rdalonso: folds 
+numapu_33: folds 
+Uncalled bet ($1.50) returned to Mr_Dick666
+Mr_Dick666 collected $2.50 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: BuzaCR7
+Seat 2: Mr_Dick666 collected ($2.50)
+Seat 4: icolated (button) folded before Flop (didn't bet)
+Seat 5: Rdalonso (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254521781202:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:19:28 WET [2025/01/23 18:19:28 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 3: BuzaCR7 ($0 in chips) is sitting out
+Seat 2: Mr_Dick666 ($101.50 in chips) 
+Seat 4: icolated ($54.88 in chips) 
+Seat 5: Rdalonso ($101.50 in chips) 
+Seat 6: numapu_33 ($139.37 in chips) 
+numapu_33: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+icolated: raises $2 to $3
+Rdalonso: calls $3
+numapu_33: folds 
+Mr_Dick666: folds 
+*** FLOP *** [8d 2d Ac]
+BuzaCR7 leaves the table
+icolated: bets $4
+giusmasc joins the table at seat #3 
+pr0tecto joins the table at seat #1 
+Rdalonso: folds 
+Uncalled bet ($4) returned to icolated
+icolated collected $7.12 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [8d 2d Ac]
+Seat 3: BuzaCR7
+Seat 2: Mr_Dick666 (big blind) folded before Flop
+Seat 4: icolated collected ($7.12)
+Seat 5: Rdalonso (button) folded on the Flop
+Seat 6: numapu_33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254521790440:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:20:05 WET [2025/01/23 18:20:05 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 1: pr0tecto ($100 in chips) is sitting out
+Seat 2: Mr_Dick666 ($100.50 in chips) 
+Seat 3: giusmasc ($10 in chips) 
+Seat 4: icolated ($59 in chips) 
+Seat 5: Rdalonso ($100 in chips) 
+Seat 6: numapu_33 ($138.87 in chips) 
+Mr_Dick666: posts small blind $0.50
+giusmasc: posts big blind $1
+*** HOLE CARDS ***
+icolated: folds 
+Rdalonso: raises $1.50 to $2.50
+numapu_33: folds 
+Mr_Dick666: folds 
+giusmasc: folds 
+Uncalled bet ($1.50) returned to Rdalonso
+Rdalonso collected $2.50 from pot
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: pr0tecto
+Seat 2: Mr_Dick666 (small blind) folded before Flop
+Seat 3: giusmasc (big blind) folded before Flop
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso collected ($2.50)
+Seat 6: numapu_33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521797279:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:20:32 WET [2025/01/23 18:20:32 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 1: pr0tecto ($100 in chips) is sitting out
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: giusmasc ($9 in chips) 
+Seat 4: icolated ($59 in chips) 
+Seat 5: Rdalonso ($101.50 in chips) 
+Seat 6: numapu_33 ($138.87 in chips) 
+giusmasc: posts small blind $0.50
+icolated: posts big blind $1
+pr0tecto: sits out 
+*** HOLE CARDS ***
+Rdalonso: raises $1.50 to $2.50
+numapu_33: folds 
+Mr_Dick666: folds 
+giusmasc: folds 
+icolated: folds 
+Uncalled bet ($1.50) returned to Rdalonso
+Rdalonso collected $2.50 from pot
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: pr0tecto
+Seat 2: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 3: giusmasc (small blind) folded before Flop
+Seat 4: icolated (big blind) folded before Flop
+Seat 5: Rdalonso collected ($2.50)
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521801701:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:20:49 WET [2025/01/23 18:20:49 ET]
+Table 'Emita IV' 6-max Seat #3 is the button
+Seat 1: pr0tecto ($100 in chips) is sitting out
+Seat 2: Mr_Dick666 ($100 in chips) 
+Seat 3: giusmasc ($8.50 in chips) 
+Seat 4: icolated ($58 in chips) 
+Seat 5: Rdalonso ($103 in chips) 
+Seat 6: numapu_33 ($138.87 in chips) 
+icolated: posts small blind $0.50
+Rdalonso: posts big blind $1
+pr0tecto: sits out 
+*** HOLE CARDS ***
+numapu_33: folds 
+Mr_Dick666: raises $1.50 to $2.50
+giusmasc: folds 
+icolated: folds 
+Rdalonso: folds 
+Uncalled bet ($1.50) returned to Mr_Dick666
+Mr_Dick666 collected $2.50 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: pr0tecto
+Seat 2: Mr_Dick666 collected ($2.50)
+Seat 3: giusmasc (button) folded before Flop (didn't bet)
+Seat 4: icolated (small blind) folded before Flop
+Seat 5: Rdalonso (big blind) folded before Flop
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521806596:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:21:08 WET [2025/01/23 18:21:08 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 1: pr0tecto ($100 in chips) is sitting out
+Seat 2: Mr_Dick666 ($101.50 in chips) 
+Seat 3: giusmasc ($8.50 in chips) 
+Seat 4: icolated ($57.50 in chips) 
+Seat 5: Rdalonso ($102 in chips) 
+Seat 6: numapu_33 ($138.87 in chips) 
+Rdalonso: posts small blind $0.50
+numapu_33: posts big blind $1
+pr0tecto: sits out 
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+giusmasc: calls $1
+icolated: folds 
+Rdalonso: folds 
+numapu_33: raises $9 to $10
+giusmasc: folds 
+Uncalled bet ($9) returned to numapu_33
+numapu_33 collected $2.50 from pot
+numapu_33: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: pr0tecto
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: giusmasc folded before Flop
+Seat 4: icolated (button) folded before Flop (didn't bet)
+Seat 5: Rdalonso (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) collected ($2.50)
+
+
+
+PokerStars Hand #254521813692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:21:36 WET [2025/01/23 18:21:36 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 1: pr0tecto ($100 in chips) 
+Seat 2: Mr_Dick666 ($101.50 in chips) 
+Seat 3: giusmasc ($7.50 in chips) 
+Seat 4: icolated ($57.50 in chips) 
+Seat 5: Rdalonso ($101.50 in chips) 
+Seat 6: numapu_33 ($140.37 in chips) 
+numapu_33: posts small blind $0.50
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+giusmasc: calls $1
+icolated: folds 
+Rdalonso: raises $4 to $5
+numapu_33: folds 
+pr0tecto: folds 
+giusmasc: calls $4
+*** FLOP *** [2h 4h 3d]
+giusmasc: bets $2.50 and is all-in
+Rdalonso: calls $2.50
+*** TURN *** [2h 4h 3d] [3c]
+*** RIVER *** [2h 4h 3d 3c] [Jd]
+*** SHOW DOWN ***
+giusmasc: shows [4s Qs] (two pair, Fours and Threes)
+Rdalonso: shows [Ad 5d] (a straight, Ace to Five)
+Rdalonso collected $15.68 from pot
+giusmasc cashed out the hand for $0.59 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.82 
+Board [2h 4h 3d 3c Jd]
+Seat 1: pr0tecto (big blind) folded before Flop
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: giusmasc showed [4s Qs] and lost with two pair, Fours and Threes (cashed out).
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso (button) showed [Ad 5d] and won ($15.68) with a straight, Ace to Five
+Seat 6: numapu_33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254521827774:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:22:31 WET [2025/01/23 18:22:31 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 3: giusmasc ($0.59 in chips) is sitting out
+Seat 1: pr0tecto ($99 in chips) 
+Seat 2: Mr_Dick666 ($101.50 in chips) 
+Seat 4: icolated ($57.50 in chips) 
+Seat 5: Rdalonso ($109.68 in chips) 
+Seat 6: numapu_33 ($139.87 in chips) 
+pr0tecto: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+icolated: folds 
+Rdalonso: folds 
+numapu_33: raises $1.50 to $2.50
+pr0tecto: raises $7.50 to $10
+Mr_Dick666: folds 
+numapu_33: calls $7.50
+*** FLOP *** [3c 5d 7h]
+pr0tecto: bets $10.17
+numapu_33: folds 
+Uncalled bet ($10.17) returned to pr0tecto
+pr0tecto collected $19.95 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [3c 5d 7h]
+Seat 3: giusmasc
+Seat 1: pr0tecto (small blind) collected ($19.95)
+Seat 2: Mr_Dick666 (big blind) folded before Flop
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 (button) folded on the Flop
+
+
+
+PokerStars Hand #254521841529:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:23:26 WET [2025/01/23 18:23:26 ET]
+Table 'Emita IV' 6-max Seat #1 is the button
+Seat 1: pr0tecto ($108.95 in chips) 
+Seat 2: Mr_Dick666 ($100.50 in chips) 
+Seat 3: giusmasc ($40.59 in chips) 
+Seat 4: icolated ($57.50 in chips) 
+Seat 5: Rdalonso ($109.68 in chips) 
+Seat 6: numapu_33 ($129.87 in chips) 
+Mr_Dick666: posts small blind $0.50
+giusmasc: posts big blind $1
+*** HOLE CARDS ***
+icolated: folds 
+Rdalonso: folds 
+numapu_33: folds 
+pr0tecto: folds 
+Mr_Dick666: raises $1.50 to $2.50
+giusmasc: folds 
+Uncalled bet ($1.50) returned to Mr_Dick666
+Mr_Dick666 collected $2 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: pr0tecto (button) folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 (small blind) collected ($2)
+Seat 3: giusmasc (big blind) folded before Flop
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521846999:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:23:48 WET [2025/01/23 18:23:48 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 1: pr0tecto ($108.95 in chips) 
+Seat 2: Mr_Dick666 ($101.50 in chips) 
+Seat 3: giusmasc ($39.59 in chips) 
+Seat 4: icolated ($57.50 in chips) 
+Seat 5: Rdalonso ($109.68 in chips) 
+Seat 6: numapu_33 ($129.87 in chips) 
+giusmasc: posts small blind $0.50
+icolated: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+numapu_33: raises $1.50 to $2.50
+pr0tecto: folds 
+Mr_Dick666: folds 
+giusmasc: calls $2
+icolated: calls $1.50
+*** FLOP *** [Ah As 8c]
+giusmasc: checks 
+icolated: checks 
+numapu_33: bets $2.14
+giusmasc: folds 
+icolated: folds 
+Uncalled bet ($2.14) returned to numapu_33
+numapu_33 collected $7.12 from pot
+numapu_33: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [Ah As 8c]
+Seat 1: pr0tecto folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 3: giusmasc (small blind) folded on the Flop
+Seat 4: icolated (big blind) folded on the Flop
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 collected ($7.12)
+
+
+
+PokerStars Hand #254521860738:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:24:43 WET [2025/01/23 18:24:43 ET]
+Table 'Emita IV' 6-max Seat #3 is the button
+Seat 1: pr0tecto ($108.95 in chips) 
+Seat 2: Mr_Dick666 ($101.50 in chips) 
+Seat 3: giusmasc ($37.09 in chips) 
+Seat 4: icolated ($55 in chips) 
+Seat 5: Rdalonso ($109.68 in chips) 
+Seat 6: numapu_33 ($134.49 in chips) 
+icolated: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: folds 
+pr0tecto: folds 
+Mr_Dick666: folds 
+giusmasc: calls $1
+icolated: calls $0.50
+Rdalonso: checks 
+*** FLOP *** [Js Qh As]
+icolated: checks 
+Rdalonso: checks 
+giusmasc: checks 
+*** TURN *** [Js Qh As] [8h]
+icolated: checks 
+Rdalonso: checks 
+giusmasc: checks 
+*** RIVER *** [Js Qh As 8h] [Kc]
+icolated: checks 
+Rdalonso: bets $4.28
+giusmasc: calls $4.28
+icolated: folds 
+*** SHOW DOWN ***
+Rdalonso: shows [Tc Jh] (a straight, Ten to Ace)
+giusmasc: mucks hand 
+Rdalonso collected $10.98 from pot
+*** SUMMARY ***
+Total pot $11.56 | Rake $0.58 
+Board [Js Qh As 8h Kc]
+Seat 1: pr0tecto folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: giusmasc (button) mucked
+Seat 4: icolated (small blind) folded on the River
+Seat 5: Rdalonso (big blind) showed [Tc Jh] and won ($10.98) with a straight, Ten to Ace
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521875677:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:25:42 WET [2025/01/23 18:25:42 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 1: pr0tecto ($108.95 in chips) 
+Seat 2: Mr_Dick666 ($101.50 in chips) 
+Seat 3: giusmasc ($31.81 in chips) 
+Seat 4: icolated ($54 in chips) 
+Seat 5: Rdalonso ($115.38 in chips) 
+Seat 6: numapu_33 ($134.49 in chips) 
+Rdalonso: posts small blind $0.50
+numapu_33: posts big blind $1
+*** HOLE CARDS ***
+pr0tecto: raises $1.10 to $2.10
+Mr_Dick666: folds 
+giusmasc: calls $2.10
+icolated: folds 
+Rdalonso: folds 
+numapu_33: folds 
+*** FLOP *** [Qd 9d Jd]
+pr0tecto: checks 
+giusmasc: bets $5.42
+pr0tecto: folds 
+Uncalled bet ($5.42) returned to giusmasc
+giusmasc collected $5.42 from pot
+giusmasc: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.70 | Rake $0.28 
+Board [Qd 9d Jd]
+Seat 1: pr0tecto folded on the Flop
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: giusmasc collected ($5.42)
+Seat 4: icolated (button) folded before Flop (didn't bet)
+Seat 5: Rdalonso (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254521885605:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:26:22 WET [2025/01/23 18:26:22 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 1: pr0tecto ($106.85 in chips) 
+Seat 2: Mr_Dick666 ($101.50 in chips) 
+Seat 3: giusmasc ($35.13 in chips) 
+Seat 4: icolated ($54 in chips) 
+Seat 5: Rdalonso ($114.88 in chips) 
+Seat 6: numapu_33 ($133.49 in chips) 
+numapu_33: posts small blind $0.50
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: raises $1 to $2
+giusmasc: calls $2
+icolated: calls $2
+Rdalonso: folds 
+numapu_33: folds 
+pr0tecto: folds 
+*** FLOP *** [Qd 7h 6d]
+Mr_Dick666: bets $5.34
+giusmasc: folds 
+icolated: folds 
+Uncalled bet ($5.34) returned to Mr_Dick666
+Mr_Dick666 collected $7.12 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [Qd 7h 6d]
+Seat 1: pr0tecto (big blind) folded before Flop
+Seat 2: Mr_Dick666 collected ($7.12)
+Seat 3: giusmasc folded on the Flop
+Seat 4: icolated folded on the Flop
+Seat 5: Rdalonso (button) folded before Flop (didn't bet)
+Seat 6: numapu_33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254521892323:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:26:48 WET [2025/01/23 18:26:48 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 1: pr0tecto ($105.85 in chips) 
+Seat 2: Mr_Dick666 ($106.62 in chips) 
+Seat 3: giusmasc ($33.13 in chips) 
+Seat 4: icolated ($52 in chips) 
+Seat 5: Rdalonso ($114.88 in chips) 
+Seat 6: numapu_33 ($132.99 in chips) 
+pr0tecto: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+giusmasc: calls $1
+icolated: folds 
+Rdalonso: folds 
+numapu_33: folds 
+pr0tecto: folds 
+Mr_Dick666: checks 
+*** FLOP *** [Ad 4c 3h]
+Mr_Dick666: checks 
+giusmasc: bets $2.38
+Mr_Dick666: folds 
+Uncalled bet ($2.38) returned to giusmasc
+giusmasc collected $2.38 from pot
+giusmasc: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Ad 4c 3h]
+Seat 1: pr0tecto (small blind) folded before Flop
+Seat 2: Mr_Dick666 (big blind) folded on the Flop
+Seat 3: giusmasc collected ($2.38)
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521900395:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:27:20 WET [2025/01/23 18:27:20 ET]
+Table 'Emita IV' 6-max Seat #1 is the button
+Seat 1: pr0tecto ($105.35 in chips) 
+Seat 2: Mr_Dick666 ($105.62 in chips) 
+Seat 3: giusmasc ($34.51 in chips) 
+Seat 4: icolated ($52 in chips) 
+Seat 5: Rdalonso ($114.88 in chips) 
+Seat 6: numapu_33 ($132.99 in chips) 
+Mr_Dick666: posts small blind $0.50
+giusmasc: posts big blind $1
+*** HOLE CARDS ***
+icolated: folds 
+Rdalonso: folds 
+numapu_33: raises $1.50 to $2.50
+pr0tecto: folds 
+Mr_Dick666: folds 
+giusmasc: calls $1.50
+*** FLOP *** [3d 2c Qd]
+giusmasc: bets $1
+numapu_33: folds 
+Uncalled bet ($1) returned to giusmasc
+giusmasc collected $5.22 from pot
+giusmasc: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3d 2c Qd]
+Seat 1: pr0tecto (button) folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 (small blind) folded before Flop
+Seat 3: giusmasc (big blind) collected ($5.22)
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 folded on the Flop
+
+
+
+PokerStars Hand #254521907969:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:27:49 WET [2025/01/23 18:27:49 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 1: pr0tecto ($105.35 in chips) 
+Seat 2: Mr_Dick666 ($105.12 in chips) 
+Seat 3: giusmasc ($37.23 in chips) 
+Seat 4: icolated ($52 in chips) 
+Seat 5: Rdalonso ($114.88 in chips) 
+Seat 6: numapu_33 ($130.49 in chips) 
+giusmasc: posts small blind $0.50
+icolated: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+numapu_33: folds 
+pr0tecto: folds 
+Mr_Dick666: raises $1.50 to $2.50
+giusmasc: calls $2
+icolated: folds 
+*** FLOP *** [Js Ad 2s]
+giusmasc: checks 
+Mr_Dick666: bets $1.88
+giusmasc: calls $1.88
+*** TURN *** [Js Ad 2s] [8h]
+giusmasc: checks 
+Mr_Dick666: checks 
+*** RIVER *** [Js Ad 2s 8h] [Ks]
+giusmasc: checks 
+Mr_Dick666: bets $6.95
+giusmasc: folds 
+Uncalled bet ($6.95) returned to Mr_Dick666
+Mr_Dick666 collected $9.27 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [Js Ad 2s 8h Ks]
+Seat 1: pr0tecto folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 (button) collected ($9.27)
+Seat 3: giusmasc (small blind) folded on the River
+Seat 4: icolated (big blind) folded before Flop
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521921126:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:28:42 WET [2025/01/23 18:28:42 ET]
+Table 'Emita IV' 6-max Seat #3 is the button
+Seat 1: pr0tecto ($105.35 in chips) 
+Seat 2: Mr_Dick666 ($110.01 in chips) 
+Seat 3: giusmasc ($32.85 in chips) 
+Seat 4: icolated ($51 in chips) 
+Seat 5: Rdalonso ($114.88 in chips) 
+Seat 6: numapu_33 ($130.49 in chips) 
+icolated: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: folds 
+pr0tecto: raises $1.10 to $2.10
+Mr_Dick666: folds 
+giusmasc: folds 
+icolated: folds 
+Rdalonso: folds 
+Uncalled bet ($1.10) returned to pr0tecto
+pr0tecto collected $2.50 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: pr0tecto collected ($2.50)
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: giusmasc (button) folded before Flop (didn't bet)
+Seat 4: icolated (small blind) folded before Flop
+Seat 5: Rdalonso (big blind) folded before Flop
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521926759:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:29:04 WET [2025/01/23 18:29:04 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 1: pr0tecto ($106.85 in chips) 
+Seat 2: Mr_Dick666 ($110.01 in chips) 
+Seat 3: giusmasc ($32.85 in chips) 
+Seat 4: icolated ($50.50 in chips) 
+Seat 5: Rdalonso ($113.88 in chips) 
+Seat 6: numapu_33 ($130.49 in chips) 
+Rdalonso: posts small blind $0.50
+numapu_33: posts big blind $1
+*** HOLE CARDS ***
+pr0tecto: raises $1.10 to $2.10
+Mr_Dick666: folds 
+giusmasc: calls $2.10
+icolated: folds 
+Rdalonso: folds 
+numapu_33: folds 
+*** FLOP *** [7d 7h 5c]
+pr0tecto: bets $1.35
+giusmasc: raises $1.35 to $2.70
+pr0tecto: calls $1.35
+*** TURN *** [7d 7h 5c] [4h]
+pr0tecto: checks 
+giusmasc: bets $5.27
+pr0tecto: folds 
+Uncalled bet ($5.27) returned to giusmasc
+giusmasc collected $10.54 from pot
+giusmasc: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.10 | Rake $0.56 
+Board [7d 7h 5c 4h]
+Seat 1: pr0tecto folded on the Turn
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: giusmasc collected ($10.54)
+Seat 4: icolated (button) folded before Flop (didn't bet)
+Seat 5: Rdalonso (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254521940921:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:30:01 WET [2025/01/23 18:30:01 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 1: pr0tecto ($102.05 in chips) 
+Seat 2: Mr_Dick666 ($110.01 in chips) 
+Seat 3: giusmasc ($38.59 in chips) 
+Seat 4: icolated ($50.50 in chips) 
+Seat 5: Rdalonso ($113.38 in chips) 
+Seat 6: numapu_33 ($129.49 in chips) 
+numapu_33: posts small blind $0.50
+pr0tecto: posts big blind $1
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+giusmasc: raises $2 to $3
+icolated: folds 
+Rdalonso: folds 
+numapu_33: folds 
+pr0tecto: folds 
+Uncalled bet ($2) returned to giusmasc
+giusmasc collected $2.50 from pot
+giusmasc: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: pr0tecto (big blind) folded before Flop
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 3: giusmasc collected ($2.50)
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso (button) folded before Flop (didn't bet)
+Seat 6: numapu_33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254521945256:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:30:18 WET [2025/01/23 18:30:18 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 1: pr0tecto ($101.05 in chips) 
+Seat 2: Mr_Dick666 ($110.01 in chips) 
+Seat 3: giusmasc ($40.09 in chips) 
+Seat 4: icolated ($50.50 in chips) 
+Seat 5: Rdalonso ($113.38 in chips) 
+Seat 6: numapu_33 ($128.99 in chips) 
+pr0tecto: posts small blind $0.50
+Mr_Dick666: posts big blind $1
+*** HOLE CARDS ***
+giusmasc: calls $1
+icolated: folds 
+Rdalonso: folds 
+numapu_33: folds 
+pr0tecto: folds 
+Mr_Dick666: checks 
+*** FLOP *** [4c 8c 3c]
+Mr_Dick666: bets $1
+giusmasc: folds 
+Uncalled bet ($1) returned to Mr_Dick666
+Mr_Dick666 collected $2.38 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [4c 8c 3c]
+Seat 1: pr0tecto (small blind) folded before Flop
+Seat 2: Mr_Dick666 (big blind) collected ($2.38)
+Seat 3: giusmasc folded on the Flop
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521978331:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:32:32 WET [2025/01/23 18:32:32 ET]
+Table 'Emita IV' 6-max Seat #3 is the button
+Seat 1: pr0tecto ($100 in chips) 
+Seat 2: Mr_Dick666 ($110.89 in chips) 
+Seat 3: giusmasc ($17.59 in chips) 
+Seat 4: icolated ($65.70 in chips) 
+Seat 5: Rdalonso ($113.38 in chips) 
+Seat 6: numapu_33 ($135.11 in chips) 
+icolated: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: folds 
+pr0tecto: folds 
+Mr_Dick666: raises $1.50 to $2.50
+giusmasc: calls $2.50
+icolated: calls $2
+Rdalonso: folds 
+*** FLOP *** [2d 3s 9c]
+icolated: checks 
+Mr_Dick666: bets $4.04
+giusmasc: folds 
+giusmasc leaves the table
+icolated: calls $4.04
+*** TURN *** [2d 3s 9c] [3h]
+icolated: checks 
+Mr_Dick666: bets $11.81
+BGS013 joins the table at seat #3 
+icolated: folds 
+Uncalled bet ($11.81) returned to Mr_Dick666
+Mr_Dick666 collected $15.75 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.58 | Rake $0.83 
+Board [2d 3s 9c 3h]
+Seat 1: pr0tecto folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 collected ($15.75)
+Seat 3: giusmasc (button) folded on the Flop
+Seat 4: icolated (small blind) folded on the Turn
+Seat 5: Rdalonso (big blind) folded before Flop
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254521993671:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:33:34 WET [2025/01/23 18:33:34 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 3: BGS013 ($100 in chips) is sitting out
+Seat 1: pr0tecto ($100 in chips) 
+Seat 2: Mr_Dick666 ($120.10 in chips) 
+Seat 4: icolated ($59.16 in chips) 
+Seat 5: Rdalonso ($112.38 in chips) 
+Seat 6: numapu_33 ($135.11 in chips) 
+Rdalonso: posts small blind $0.50
+numapu_33: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+pr0tecto: folds 
+Mr_Dick666: raises $1.50 to $2.50
+icolated: folds 
+Rdalonso: folds 
+numapu_33: folds 
+Uncalled bet ($1.50) returned to Mr_Dick666
+Mr_Dick666 collected $2.50 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: BGS013
+Seat 1: pr0tecto folded before Flop (didn't bet)
+Seat 2: Mr_Dick666 collected ($2.50)
+Seat 4: icolated (button) folded before Flop (didn't bet)
+Seat 5: Rdalonso (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254521996195:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:33:44 WET [2025/01/23 18:33:44 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 3: BGS013 ($100 in chips) is sitting out
+Seat 1: pr0tecto ($100 in chips) 
+Seat 2: Mr_Dick666 ($121.60 in chips) 
+Seat 4: icolated ($59.16 in chips) 
+Seat 5: Rdalonso ($111.88 in chips) 
+Seat 6: numapu_33 ($134.11 in chips) 
+numapu_33: posts small blind $0.50
+pr0tecto: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+Mr_Dick666: folds 
+icolated: folds 
+Rdalonso: folds 
+numapu_33: raises $2 to $3
+pr0tecto: folds 
+Uncalled bet ($2) returned to numapu_33
+numapu_33 collected $2 from pot
+numapu_33: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: BGS013
+Seat 1: pr0tecto (big blind) folded before Flop
+Seat 2: Mr_Dick666 folded before Flop (didn't bet)
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso (button) folded before Flop (didn't bet)
+Seat 6: numapu_33 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254521999802:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:33:59 WET [2025/01/23 18:33:59 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 2: Mr_Dick666 ($121.60 in chips) is sitting out
+Seat 1: pr0tecto ($99 in chips) 
+Seat 3: BGS013 ($100 in chips) 
+Seat 4: icolated ($59.16 in chips) 
+Seat 5: Rdalonso ($111.88 in chips) 
+Seat 6: numapu_33 ($135.11 in chips) 
+pr0tecto: posts small blind $0.50
+Mr_Dick666: is sitting out 
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+icolated: folds 
+Mr_Dick666 leaves the table
+Rdalonso: folds 
+numapu_33: folds 
+pr0tecto: raises $1.24 to $2.24
+BGS013: raises $6.76 to $9
+pr0tecto: folds 
+Uncalled bet ($6.76) returned to BGS013
+BGS013 collected $4.48 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.48 | Rake $0 
+Seat 2: Mr_Dick666
+Seat 1: pr0tecto (small blind) folded before Flop
+Seat 3: BGS013 (big blind) collected ($4.48)
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254522003787:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:34:15 WET [2025/01/23 18:34:15 ET]
+Table 'Emita IV' 6-max Seat #1 is the button
+Seat 1: pr0tecto ($100 in chips) 
+Seat 3: BGS013 ($102.24 in chips) 
+Seat 4: icolated ($59.16 in chips) 
+Seat 5: Rdalonso ($111.88 in chips) 
+Seat 6: numapu_33 ($135.11 in chips) 
+BGS013: posts small blind $0.50
+icolated: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+numapu_33: folds 
+pr0tecto: folds 
+BGS013: folds 
+Uncalled bet ($0.50) returned to icolated
+icolated collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: pr0tecto (button) folded before Flop (didn't bet)
+Seat 3: BGS013 (small blind) folded before Flop
+Seat 4: icolated (big blind) collected ($1)
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254522006209:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:34:25 WET [2025/01/23 18:34:25 ET]
+Table 'Emita IV' 6-max Seat #3 is the button
+Seat 1: pr0tecto ($100 in chips) 
+Seat 3: BGS013 ($101.74 in chips) 
+Seat 4: icolated ($59.66 in chips) 
+Seat 5: Rdalonso ($111.88 in chips) 
+Seat 6: numapu_33 ($135.11 in chips) 
+icolated: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: folds 
+pr0tecto: folds 
+BGS013: raises $1.50 to $2.50
+icolated: calls $2
+Rdalonso: folds 
+*** FLOP *** [8h 7d Qc]
+icolated: checks 
+BGS013: bets $1.48
+icolated: calls $1.48
+*** TURN *** [8h 7d Qc] [Qd]
+icolated: checks 
+BGS013: checks 
+*** RIVER *** [8h 7d Qc Qd] [8d]
+icolated: bets $4
+nikalas22 joins the table at seat #2 
+BGS013: calls $4
+*** SHOW DOWN ***
+icolated: shows [Kc 9c] (two pair, Queens and Eights)
+BGS013: shows [4h As] (two pair, Queens and Eights - Ace kicker)
+BGS013 collected $16.11 from pot
+*** SUMMARY ***
+Total pot $16.96 | Rake $0.85 
+Board [8h 7d Qc Qd 8d]
+Seat 1: pr0tecto folded before Flop (didn't bet)
+Seat 3: BGS013 (button) showed [4h As] and won ($16.11) with two pair, Queens and Eights
+Seat 4: icolated (small blind) showed [Kc 9c] and lost with two pair, Queens and Eights
+Seat 5: Rdalonso (big blind) folded before Flop
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254522020940:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:35:25 WET [2025/01/23 18:35:25 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 2: nikalas22 ($100 in chips) is sitting out
+Seat 1: pr0tecto ($100 in chips) 
+Seat 3: BGS013 ($109.87 in chips) 
+Seat 4: icolated ($51.68 in chips) 
+Seat 5: Rdalonso ($110.88 in chips) 
+Seat 6: numapu_33 ($135.11 in chips) 
+Rdalonso: posts small blind $0.50
+numapu_33: posts big blind $1
+nikalas22: sits out 
+*** HOLE CARDS ***
+pr0tecto: raises $1.10 to $2.10
+BGS013: folds 
+icolated: folds 
+Rdalonso: folds 
+numapu_33: folds 
+Uncalled bet ($1.10) returned to pr0tecto
+pr0tecto collected $2.50 from pot
+pr0tecto: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: nikalas22
+Seat 1: pr0tecto collected ($2.50)
+Seat 3: BGS013 folded before Flop (didn't bet)
+Seat 4: icolated (button) folded before Flop (didn't bet)
+Seat 5: Rdalonso (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254522025073:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:35:42 WET [2025/01/23 18:35:42 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 1: pr0tecto ($101.50 in chips) is sitting out
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($109.87 in chips) 
+Seat 4: icolated ($51.68 in chips) 
+Seat 5: Rdalonso ($110.38 in chips) 
+Seat 6: numapu_33 ($134.11 in chips) 
+numapu_33: posts small blind $0.50
+pr0tecto: is sitting out 
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+pr0tecto leaves the table
+BGS013: folds 
+icolated: folds 
+Rdalonso: raises $1.50 to $2.50
+numapu_33: folds 
+nikalas22: folds 
+Uncalled bet ($1.50) returned to Rdalonso
+Rdalonso collected $2.50 from pot
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: pr0tecto
+Seat 2: nikalas22 (big blind) folded before Flop
+Seat 3: BGS013 folded before Flop (didn't bet)
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso (button) collected ($2.50)
+Seat 6: numapu_33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254522028615:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:35:56 WET [2025/01/23 18:35:56 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($109.87 in chips) 
+Seat 4: icolated ($51.68 in chips) 
+Seat 5: Rdalonso ($111.88 in chips) 
+Seat 6: numapu_33 ($133.61 in chips) 
+nikalas22: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+icolated: folds 
+Rdalonso: folds 
+numapu_33: raises $1.50 to $2.50
+nikalas22: folds 
+BGS013: raises $8.50 to $11
+numapu_33: raises $14 to $25
+BGS013: calls $14
+*** FLOP *** [3h Qd 2d]
+BGS013: checks 
+numapu_33: bets $12
+BGS013: calls $12
+*** TURN *** [3h Qd 2d] [Th]
+BGS013: checks 
+Xenicide joins the table at seat #1 
+numapu_33: bets $24
+BGS013: calls $24
+*** RIVER *** [3h Qd 2d Th] [8d]
+BGS013: bets $48.87 and is all-in
+numapu_33: calls $48.87
+*** SHOW DOWN ***
+BGS013: shows [Jh Ah] (high card Ace)
+numapu_33: shows [Tc Td] (three of a kind, Tens)
+numapu_33 collected $217.74 from pot
+*** SUMMARY ***
+Total pot $220.24 | Rake $2.50 
+Board [3h Qd 2d Th 8d]
+Seat 2: nikalas22 (small blind) folded before Flop
+Seat 3: BGS013 (big blind) showed [Jh Ah] and lost with high card Ace
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 (button) showed [Tc Td] and won ($217.74) with three of a kind, Tens
+
+
+
+PokerStars Hand #254522052005:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:37:32 WET [2025/01/23 18:37:32 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 1: Xenicide ($100 in chips) is sitting out
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($100 in chips) 
+Seat 4: icolated ($51.68 in chips) 
+Seat 5: Rdalonso ($111.88 in chips) 
+Seat 6: numapu_33 ($241.48 in chips) 
+BGS013: posts small blind $0.50
+icolated: posts big blind $1
+Xenicide: sits out 
+*** HOLE CARDS ***
+Rdalonso: folds 
+numapu_33: folds 
+nikalas22: raises $1.50 to $2.50
+BGS013: folds 
+icolated: folds 
+Uncalled bet ($1.50) returned to nikalas22
+nikalas22 collected $2.50 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Xenicide
+Seat 2: nikalas22 (button) collected ($2.50)
+Seat 3: BGS013 (small blind) folded before Flop
+Seat 4: icolated (big blind) folded before Flop
+Seat 5: Rdalonso folded before Flop (didn't bet)
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254522056348:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:37:50 WET [2025/01/23 18:37:50 ET]
+Table 'Emita IV' 6-max Seat #3 is the button
+Seat 1: Xenicide ($100 in chips) is sitting out
+Seat 5: Rdalonso ($111.88 in chips) is sitting out
+Seat 2: nikalas22 ($101.50 in chips) 
+Seat 3: BGS013 ($100 in chips) 
+Seat 4: icolated ($50.68 in chips) 
+Seat 6: numapu_33 ($241.48 in chips) 
+icolated: posts small blind $0.50
+Rdalonso: is sitting out 
+numapu_33: posts big blind $1
+Xenicide: sits out 
+*** HOLE CARDS ***
+Rdalonso leaves the table
+nikalas22: folds 
+BGS013: folds 
+Joe_Li7 joins the table at seat #5 
+icolated: calls $0.50
+numapu_33: raises $4 to $5
+icolated: calls $4
+*** FLOP *** [8h 8d 3s]
+icolated: checks 
+numapu_33: bets $2.85
+icolated: folds 
+Uncalled bet ($2.85) returned to numapu_33
+numapu_33 collected $9.50 from pot
+numapu_33: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [8h 8d 3s]
+Seat 1: Xenicide
+Seat 5: Rdalonso
+Seat 2: nikalas22 folded before Flop (didn't bet)
+Seat 3: BGS013 (button) folded before Flop (didn't bet)
+Seat 4: icolated (small blind) folded on the Flop
+Seat 6: numapu_33 (big blind) collected ($9.50)
+
+
+
+PokerStars Hand #254522067576:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:38:36 WET [2025/01/23 18:38:36 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 5: Joe_Li7 ($100 in chips) is sitting out
+Seat 1: Xenicide ($100 in chips) 
+Seat 2: nikalas22 ($101.50 in chips) 
+Seat 3: BGS013 ($100 in chips) 
+Seat 4: icolated ($45.68 in chips) 
+Seat 6: numapu_33 ($245.98 in chips) 
+numapu_33: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+BGS013: folds 
+icolated: folds 
+numapu_33: folds 
+Uncalled bet ($0.50) returned to Xenicide
+Xenicide collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: Joe_Li7
+Seat 1: Xenicide (big blind) collected ($1)
+Seat 2: nikalas22 folded before Flop (didn't bet)
+Seat 3: BGS013 folded before Flop (didn't bet)
+Seat 4: icolated (button) folded before Flop (didn't bet)
+Seat 6: numapu_33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254522069276:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:38:43 WET [2025/01/23 18:38:43 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 5: Joe_Li7 ($100 in chips) is sitting out
+Seat 1: Xenicide ($100.50 in chips) 
+Seat 2: nikalas22 ($101.50 in chips) 
+Seat 3: BGS013 ($100 in chips) 
+Seat 4: icolated ($45.68 in chips) 
+Seat 6: numapu_33 ($245.48 in chips) 
+Xenicide: posts small blind $0.50
+nikalas22: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+BGS013: raises $1 to $2
+icolated: folds 
+numapu_33: folds 
+Xenicide: folds 
+nikalas22: folds 
+Uncalled bet ($1) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: Joe_Li7
+Seat 1: Xenicide (small blind) folded before Flop
+Seat 2: nikalas22 (big blind) folded before Flop
+Seat 3: BGS013 collected ($2.50)
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 6: numapu_33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254522073111:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:38:59 WET [2025/01/23 18:38:59 ET]
+Table 'Emita IV' 6-max Seat #1 is the button
+Seat 5: Joe_Li7 ($100 in chips) is sitting out
+Seat 1: Xenicide ($100 in chips) 
+Seat 2: nikalas22 ($100.50 in chips) 
+Seat 3: BGS013 ($101.50 in chips) 
+Seat 4: icolated ($45.68 in chips) 
+Seat 6: numapu_33 ($245.48 in chips) 
+nikalas22: posts small blind $0.50
+BGS013: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+icolated: folds 
+numapu_33: folds 
+Xenicide: folds 
+nikalas22: folds 
+Uncalled bet ($0.50) returned to BGS013
+BGS013 collected $1 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: Joe_Li7
+Seat 1: Xenicide (button) folded before Flop (didn't bet)
+Seat 2: nikalas22 (small blind) folded before Flop
+Seat 3: BGS013 (big blind) collected ($1)
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254522076812:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:39:15 WET [2025/01/23 18:39:15 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 5: Joe_Li7 ($100 in chips) is sitting out
+Seat 1: Xenicide ($100 in chips) 
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($102 in chips) 
+Seat 4: icolated ($45.68 in chips) 
+Seat 6: numapu_33 ($245.48 in chips) 
+BGS013: posts small blind $0.50
+icolated: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+numapu_33: folds 
+Xenicide: folds 
+nikalas22: folds 
+BGS013: folds 
+Uncalled bet ($0.50) returned to icolated
+icolated collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: Joe_Li7
+Seat 1: Xenicide folded before Flop (didn't bet)
+Seat 2: nikalas22 (button) folded before Flop (didn't bet)
+Seat 3: BGS013 (small blind) folded before Flop
+Seat 4: icolated (big blind) collected ($1)
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254522079805:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:39:27 WET [2025/01/23 18:39:27 ET]
+Table 'Emita IV' 6-max Seat #3 is the button
+Seat 1: Xenicide ($100 in chips) 
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($101.50 in chips) 
+Seat 4: icolated ($46.18 in chips) 
+Seat 5: Joe_Li7 ($100 in chips) 
+Seat 6: numapu_33 ($245.48 in chips) 
+icolated: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: folds 
+Xenicide: folds 
+nikalas22: folds 
+BGS013: folds 
+icolated: folds 
+Uncalled bet ($0.50) returned to Joe_Li7
+Joe_Li7 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Xenicide folded before Flop (didn't bet)
+Seat 2: nikalas22 folded before Flop (didn't bet)
+Seat 3: BGS013 (button) folded before Flop (didn't bet)
+Seat 4: icolated (small blind) folded before Flop
+Seat 5: Joe_Li7 (big blind) collected ($1)
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254522082541:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:39:39 WET [2025/01/23 18:39:39 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 1: Xenicide ($100 in chips) 
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($101.50 in chips) 
+Seat 4: icolated ($45.68 in chips) 
+Seat 5: Joe_Li7 ($100.50 in chips) 
+Seat 6: numapu_33 ($245.48 in chips) 
+Joe_Li7: posts small blind $0.50
+numapu_33: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: raises $1 to $2
+nikalas22: raises $6 to $8
+BGS013: folds 
+icolated: folds 
+Joe_Li7: folds 
+numapu_33: folds 
+Xenicide: raises $92 to $100 and is all-in
+nikalas22: folds 
+Uncalled bet ($92) returned to Xenicide
+Xenicide collected $17.50 from pot
+Xenicide: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.50 | Rake $0 
+Seat 1: Xenicide collected ($17.50)
+Seat 2: nikalas22 folded before Flop
+Seat 3: BGS013 folded before Flop (didn't bet)
+Seat 4: icolated (button) folded before Flop (didn't bet)
+Seat 5: Joe_Li7 (small blind) folded before Flop
+Seat 6: numapu_33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254522091236:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:40:15 WET [2025/01/23 18:40:15 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 1: Xenicide ($109.50 in chips) 
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($101.50 in chips) 
+Seat 4: icolated ($45.68 in chips) 
+Seat 5: Joe_Li7 ($100 in chips) 
+Seat 6: numapu_33 ($244.48 in chips) 
+numapu_33: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: raises $1.50 to $2.50
+BGS013: folds 
+icolated: calls $2.50
+Joe_Li7: folds 
+numapu_33: calls $2
+Xenicide: raises $11.50 to $14
+nikalas22: folds 
+icolated: folds 
+numapu_33: folds 
+Uncalled bet ($11.50) returned to Xenicide
+Xenicide collected $10 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: Xenicide (big blind) collected ($10)
+Seat 2: nikalas22 folded before Flop
+Seat 3: BGS013 folded before Flop (didn't bet)
+Seat 4: icolated folded before Flop
+Seat 5: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 6: numapu_33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254522098682:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:40:46 WET [2025/01/23 18:40:46 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 1: Xenicide ($117 in chips) 
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($101.50 in chips) 
+Seat 4: icolated ($43.18 in chips) 
+Seat 5: Joe_Li7 ($100 in chips) 
+Seat 6: numapu_33 ($241.98 in chips) 
+Xenicide: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+icolated: folds 
+Joe_Li7: folds 
+numapu_33: raises $1.50 to $2.50
+Xenicide: folds 
+nikalas22: folds 
+Uncalled bet ($1.50) returned to numapu_33
+numapu_33 collected $2.50 from pot
+numapu_33: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Xenicide (small blind) folded before Flop
+Seat 2: nikalas22 (big blind) folded before Flop
+Seat 3: BGS013 folded before Flop (didn't bet)
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Joe_Li7 folded before Flop (didn't bet)
+Seat 6: numapu_33 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254522101680:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:40:59 WET [2025/01/23 18:40:59 ET]
+Table 'Emita IV' 6-max Seat #1 is the button
+Seat 1: Xenicide ($116.50 in chips) 
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($101.50 in chips) 
+Seat 4: icolated ($43.18 in chips) 
+Seat 5: Joe_Li7 ($100 in chips) 
+Seat 6: numapu_33 ($243.48 in chips) 
+nikalas22: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+icolated: folds 
+Joe_Li7: folds 
+numapu_33: raises $1.50 to $2.50
+Xenicide: folds 
+nikalas22: folds 
+BGS013: folds 
+Uncalled bet ($1.50) returned to numapu_33
+numapu_33 collected $2.50 from pot
+numapu_33: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Xenicide (button) folded before Flop (didn't bet)
+Seat 2: nikalas22 (small blind) folded before Flop
+Seat 3: BGS013 (big blind) folded before Flop
+Seat 4: icolated folded before Flop (didn't bet)
+Seat 5: Joe_Li7 folded before Flop (didn't bet)
+Seat 6: numapu_33 collected ($2.50)
+
+
+
+PokerStars Hand #254522108208:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:41:26 WET [2025/01/23 18:41:26 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 1: Xenicide ($116.50 in chips) 
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($100.50 in chips) 
+Seat 4: icolated ($43.18 in chips) 
+Seat 5: Joe_Li7 ($100 in chips) 
+Seat 6: numapu_33 ($244.98 in chips) 
+BGS013: posts small blind $0.50
+icolated: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+numapu_33: raises $1.50 to $2.50
+Xenicide: folds 
+nikalas22: folds 
+BGS013: folds 
+icolated: calls $1.50
+*** FLOP *** [6h 2h 6d]
+icolated: checks 
+numapu_33: bets $1.57
+icolated: calls $1.57
+*** TURN *** [6h 2h 6d] [8h]
+icolated: checks 
+numapu_33: checks 
+*** RIVER *** [6h 2h 6d 8h] [Ad]
+icolated: bets $4
+numapu_33: raises $8 to $12
+icolated: calls $8
+*** SHOW DOWN ***
+numapu_33: shows [6c Kc] (three of a kind, Sixes)
+icolated: mucks hand 
+numapu_33 collected $31.01 from pot
+*** SUMMARY ***
+Total pot $32.64 | Rake $1.63 
+Board [6h 2h 6d 8h Ad]
+Seat 1: Xenicide folded before Flop (didn't bet)
+Seat 2: nikalas22 (button) folded before Flop (didn't bet)
+Seat 3: BGS013 (small blind) folded before Flop
+Seat 4: icolated (big blind) mucked
+Seat 5: Joe_Li7 folded before Flop (didn't bet)
+Seat 6: numapu_33 showed [6c Kc] and won ($31.01) with three of a kind, Sixes
+
+
+
+PokerStars Hand #254522132201:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:43:08 WET [2025/01/23 18:43:08 ET]
+Table 'Emita IV' 6-max Seat #3 is the button
+Seat 1: Xenicide ($116.50 in chips) 
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($100 in chips) 
+Seat 4: icolated ($27.11 in chips) 
+Seat 5: Joe_Li7 ($100 in chips) 
+Seat 6: numapu_33 ($259.92 in chips) 
+icolated: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+numapu_33: folds 
+Xenicide: folds 
+nikalas22: folds 
+BGS013: raises $1.50 to $2.50
+icolated: folds 
+Joe_Li7: folds 
+Uncalled bet ($1.50) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Xenicide folded before Flop (didn't bet)
+Seat 2: nikalas22 folded before Flop (didn't bet)
+Seat 3: BGS013 (button) collected ($2.50)
+Seat 4: icolated (small blind) folded before Flop
+Seat 5: Joe_Li7 (big blind) folded before Flop
+Seat 6: numapu_33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254522136839:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:43:27 WET [2025/01/23 18:43:27 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 1: Xenicide ($116.50 in chips) is sitting out
+Seat 6: numapu_33 ($259.92 in chips) is sitting out
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($101.50 in chips) 
+Seat 4: icolated ($26.61 in chips) 
+Seat 5: Joe_Li7 ($100 in chips) 
+Joe_Li7: posts small blind $0.50
+numapu_33: is sitting out 
+Xenicide: is sitting out 
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+Xenicide leaves the table
+BGS013: folds 
+icolated: folds 
+Joe_Li7: raises $2 to $3
+numapu_33 leaves the table
+nikalas22: folds 
+Uncalled bet ($2) returned to Joe_Li7
+Joe_Li7 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Xenicide
+Seat 6: numapu_33
+Seat 2: nikalas22 (big blind) folded before Flop
+Seat 3: BGS013 folded before Flop (didn't bet)
+Seat 4: icolated (button) folded before Flop (didn't bet)
+Seat 5: Joe_Li7 (small blind) collected ($2)
+
+
+
+PokerStars Hand #254522140538:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:43:43 WET [2025/01/23 18:43:43 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($101.50 in chips) 
+Seat 4: icolated ($26.61 in chips) 
+Seat 5: Joe_Li7 ($101 in chips) 
+nikalas22: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+papatango123 joins the table at seat #6 
+icolated: raises $2 to $3
+Joe_Li7: folds 
+nikalas22: folds 
+BumHuntKing joins the table at seat #1 
+BGS013: calls $2
+*** FLOP *** [Ks 2c 9h]
+BGS013: checks 
+icolated: checks 
+*** TURN *** [Ks 2c 9h] [6s]
+BGS013: checks 
+icolated: bets $3
+BGS013: calls $3
+*** RIVER *** [Ks 2c 9h 6s] [8h]
+BGS013: checks 
+icolated: bets $5.94
+BGS013: calls $5.94
+*** SHOW DOWN ***
+icolated: shows [Ac Tc] (high card Ace)
+BGS013: shows [9d Td] (a pair of Nines)
+BGS013 collected $23.38 from pot
+*** SUMMARY ***
+Total pot $24.38 | Rake $1 
+Board [Ks 2c 9h 6s 8h]
+Seat 2: nikalas22 (small blind) folded before Flop
+Seat 3: BGS013 (big blind) showed [9d Td] and won ($23.38) with a pair of Nines
+Seat 4: icolated showed [Ac Tc] and lost with high card Ace
+Seat 5: Joe_Li7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254522151562:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:44:30 WET [2025/01/23 18:44:30 ET]
+Table 'Emita IV' 6-max Seat #2 is the button
+Seat 1: BumHuntKing ($100 in chips) is sitting out
+Seat 6: papatango123 ($100 in chips) is sitting out
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($112.94 in chips) 
+Seat 4: icolated ($14.67 in chips) 
+Seat 5: Joe_Li7 ($101 in chips) 
+BGS013: posts small blind $0.50
+icolated: posts big blind $1
+papatango123: sits out 
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+Joe_Li7: folds 
+nikalas22: raises $1.50 to $2.50
+BGS013: folds 
+icolated: raises $12.17 to $14.67 and is all-in
+nikalas22: folds 
+Uncalled bet ($12.17) returned to icolated
+icolated collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: BumHuntKing
+Seat 6: papatango123
+Seat 2: nikalas22 (button) folded before Flop
+Seat 3: BGS013 (small blind) folded before Flop
+Seat 4: icolated (big blind) collected ($5.50)
+Seat 5: Joe_Li7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254522155670:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:44:47 WET [2025/01/23 18:44:47 ET]
+Table 'Emita IV' 6-max Seat #3 is the button
+Seat 1: BumHuntKing ($100 in chips) is sitting out
+Seat 6: papatango123 ($100 in chips) is sitting out
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($112.44 in chips) 
+Seat 4: icolated ($17.67 in chips) 
+Seat 5: Joe_Li7 ($101 in chips) 
+icolated: posts small blind $0.50
+Joe_Li7: posts big blind $1
+papatango123: sits out 
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+nikalas22: folds 
+BGS013: raises $1.50 to $2.50
+icolated: folds 
+Joe_Li7: calls $1.50
+*** FLOP *** [6d Qh Ts]
+Joe_Li7: checks 
+BGS013: bets $2.87
+Joe_Li7: folds 
+Uncalled bet ($2.87) returned to BGS013
+BGS013 collected $5.22 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [6d Qh Ts]
+Seat 1: BumHuntKing
+Seat 6: papatango123
+Seat 2: nikalas22 folded before Flop (didn't bet)
+Seat 3: BGS013 (button) collected ($5.22)
+Seat 4: icolated (small blind) folded before Flop
+Seat 5: Joe_Li7 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254522165572:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:45:30 WET [2025/01/23 18:45:30 ET]
+Table 'Emita IV' 6-max Seat #4 is the button
+Seat 1: BumHuntKing ($100 in chips) is sitting out
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($115.16 in chips) 
+Seat 4: icolated ($17.17 in chips) 
+Seat 5: Joe_Li7 ($100 in chips) 
+Seat 6: papatango123 ($100 in chips) 
+Joe_Li7: posts small blind $0.50
+papatango123: posts big blind $1
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+nikalas22: folds 
+BGS013: folds 
+icolated: raises $2 to $3
+Joe_Li7: raises $8 to $11
+papatango123: folds 
+icolated: raises $6.17 to $17.17 and is all-in
+Joe_Li7: calls $6.17
+*** FLOP *** [4d Qs Ks]
+*** TURN *** [4d Qs Ks] [9c]
+*** RIVER *** [4d Qs Ks 9c] [8h]
+*** SHOW DOWN ***
+Joe_Li7: shows [Kc Ad] (a pair of Kings)
+icolated: shows [9h Ac] (a pair of Nines)
+Joe_Li7 collected $33.57 from pot
+*** SUMMARY ***
+Total pot $35.34 | Rake $1.77 
+Board [4d Qs Ks 9c 8h]
+Seat 1: BumHuntKing
+Seat 2: nikalas22 folded before Flop (didn't bet)
+Seat 3: BGS013 folded before Flop (didn't bet)
+Seat 4: icolated (button) showed [9h Ac] and lost with a pair of Nines
+Seat 5: Joe_Li7 (small blind) showed [Kc Ad] and won ($33.57) with a pair of Kings
+Seat 6: papatango123 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254522174028:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:46:06 WET [2025/01/23 18:46:06 ET]
+Table 'Emita IV' 6-max Seat #5 is the button
+Seat 4: icolated ($0 in chips) is sitting out
+Seat 1: BumHuntKing ($100 in chips) 
+Seat 2: nikalas22 ($100 in chips) 
+Seat 3: BGS013 ($115.16 in chips) 
+Seat 5: Joe_Li7 ($116.40 in chips) 
+Seat 6: papatango123 ($100 in chips) 
+papatango123: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+icolated leaves the table
+nikalas22: folds 
+BGS013: folds 
+Joe_Li7: folds 
+nikalas22 leaves the table
+papatango123: folds 
+Uncalled bet ($0.50) returned to BumHuntKing
+BumHuntKing collected $1 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: icolated
+Seat 1: BumHuntKing (big blind) collected ($1)
+Seat 2: nikalas22 folded before Flop (didn't bet)
+Seat 3: BGS013 folded before Flop (didn't bet)
+Seat 5: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 6: papatango123 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254522176596:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/23 23:46:17 WET [2025/01/23 18:46:17 ET]
+Table 'Emita IV' 6-max Seat #6 is the button
+Seat 1: BumHuntKing ($100.50 in chips) 
+Seat 3: BGS013 ($115.16 in chips) 
+Seat 5: Joe_Li7 ($116.40 in chips) 
+Seat 6: papatango123 ($100 in chips) 
+BumHuntKing: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+papatango123: raises $1.50 to $2.50
+BumHuntKing: folds 
+BGS013: raises $8.50 to $11
+Joe_Li7 leaves the table
+papatango123: calls $8.50
+*** FLOP *** [9c 7s As]
+BGS013: checks 
+papatango123: checks 
+*** TURN *** [9c 7s As] [9s]
+BGS013: checks 
+papatango123: checks 
+*** RIVER *** [9c 7s As 9s] [7d]
+BGS013: bets $11.83
+papatango123: folds 
+Uncalled bet ($11.83) returned to BGS013
+BGS013 collected $21.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.50 | Rake $1 
+Board [9c 7s As 9s 7d]
+Seat 1: BumHuntKing (small blind) folded before Flop
+Seat 3: BGS013 (big blind) collected ($21.50)
+Seat 5: Joe_Li7 folded before Flop (didn't bet)
+Seat 6: papatango123 (button) folded on the River
+
+
+

@@ -1,0 +1,645 @@
+﻿PokerStars Hand #254688501080:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:42:46 WET [2025/02/03 11:42:46 ET]
+Table 'Hansa II' 6-max Seat #4 is the button
+Seat 1: paramourx ($104.58 in chips) 
+Seat 2: steepfell ($109 in chips) 
+Seat 3: ru_ruu_ru ($100 in chips) 
+Seat 4: kuhclemO ($15 in chips) 
+Seat 5: $LuckerMax1$ ($12.99 in chips) 
+Seat 6: Andrei123653 ($9.73 in chips) 
+$LuckerMax1$: posts small blind $0.50
+Andrei123653: posts big blind $1
+*** HOLE CARDS ***
+paramourx: raises $1 to $2
+steepfell: folds 
+ru_ruu_ru: folds 
+kuhclemO: folds 
+$LuckerMax1$: folds 
+Andrei123653: folds 
+Uncalled bet ($1) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: paramourx collected ($2.50)
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: ru_ruu_ru folded before Flop (didn't bet)
+Seat 4: kuhclemO (button) folded before Flop (didn't bet)
+Seat 5: $LuckerMax1$ (small blind) folded before Flop
+Seat 6: Andrei123653 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254688503345:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:42:56 WET [2025/02/03 11:42:56 ET]
+Table 'Hansa II' 6-max Seat #5 is the button
+Seat 1: paramourx ($106.08 in chips) 
+Seat 2: steepfell ($109 in chips) 
+Seat 3: ru_ruu_ru ($100 in chips) 
+Seat 4: kuhclemO ($15 in chips) 
+Seat 5: $LuckerMax1$ ($12.49 in chips) 
+Seat 6: Andrei123653 ($8.73 in chips) 
+Andrei123653: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+kuhclemO: folds 
+$LuckerMax1$: calls $2.50
+Andrei123653: folds 
+paramourx: folds 
+*** FLOP *** [4c Jd 5d]
+ru_ruu_ru: checks 
+$LuckerMax1$: checks 
+*** TURN *** [4c Jd 5d] [9d]
+ru_ruu_ru: checks 
+$LuckerMax1$: bets $1.16
+ru_ruu_ru: calls $1.16
+*** RIVER *** [4c Jd 5d 9d] [4d]
+ru_ruu_ru: checks 
+$LuckerMax1$: checks 
+*** SHOW DOWN ***
+ru_ruu_ru: shows [Ac Qs] (a pair of Fours)
+$LuckerMax1$: shows [Ah 9s] (two pair, Nines and Fours)
+$LuckerMax1$ collected $8.38 from pot
+*** SUMMARY ***
+Total pot $8.82 | Rake $0.44 
+Board [4c Jd 5d 9d 4d]
+Seat 1: paramourx (big blind) folded before Flop
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: ru_ruu_ru showed [Ac Qs] and lost with a pair of Fours
+Seat 4: kuhclemO folded before Flop (didn't bet)
+Seat 5: $LuckerMax1$ (button) showed [Ah 9s] and won ($8.38) with two pair, Nines and Fours
+Seat 6: Andrei123653 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254688511927:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:43:34 WET [2025/02/03 11:43:34 ET]
+Table 'Hansa II' 6-max Seat #6 is the button
+Seat 1: paramourx ($105.08 in chips) 
+Seat 2: steepfell ($109 in chips) 
+Seat 3: ru_ruu_ru ($100 in chips) 
+Seat 4: kuhclemO ($15 in chips) 
+Seat 5: $LuckerMax1$ ($17.21 in chips) 
+Seat 6: Andrei123653 ($8.23 in chips) 
+paramourx: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+kuhclemO: folds 
+$LuckerMax1$: calls $1
+Andrei123653: calls $1
+paramourx: folds 
+steepfell: checks 
+*** FLOP *** [3d 2c Qh]
+steepfell: checks 
+$LuckerMax1$: checks 
+Andrei123653: checks 
+*** TURN *** [3d 2c Qh] [2d]
+steepfell: checks 
+$LuckerMax1$: checks 
+Andrei123653: checks 
+*** RIVER *** [3d 2c Qh 2d] [5h]
+steepfell: checks 
+$LuckerMax1$: checks 
+Andrei123653: checks 
+*** SHOW DOWN ***
+steepfell: shows [7s Jd] (a pair of Deuces)
+$LuckerMax1$: shows [Th Kc] (a pair of Deuces - King kicker)
+Andrei123653: mucks hand 
+$LuckerMax1$ collected $3.32 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [3d 2c Qh 2d 5h]
+Seat 1: paramourx (small blind) folded before Flop
+Seat 2: steepfell (big blind) showed [7s Jd] and lost with a pair of Deuces
+Seat 3: ru_ruu_ru folded before Flop (didn't bet)
+Seat 4: kuhclemO folded before Flop (didn't bet)
+Seat 5: $LuckerMax1$ showed [Th Kc] and won ($3.32) with a pair of Deuces
+Seat 6: Andrei123653 (button) mucked
+
+
+
+PokerStars Hand #254688523000:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:44:22 WET [2025/02/03 11:44:22 ET]
+Table 'Hansa II' 6-max Seat #1 is the button
+Seat 1: paramourx ($104.58 in chips) 
+Seat 2: steepfell ($108 in chips) 
+Seat 3: ru_ruu_ru ($100 in chips) 
+Seat 4: kuhclemO ($15 in chips) 
+Seat 5: $LuckerMax1$ ($19.53 in chips) 
+Seat 6: Andrei123653 ($7.23 in chips) 
+steepfell: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+kuhclemO: folds 
+$LuckerMax1$: folds 
+Andrei123653: calls $1
+paramourx: folds 
+steepfell: folds 
+ru_ruu_ru: raises $2 to $3
+Andrei123653: calls $2
+*** FLOP *** [3c Js Jc]
+kuhclemO leaves the table
+ru_ruu_ru: checks 
+Andrei123653: bets $4.23 and is all-in
+ru_ruu_ru: calls $4.23
+*** TURN *** [3c Js Jc] [7c]
+*** RIVER *** [3c Js Jc 7c] [6c]
+*** SHOW DOWN ***
+ru_ruu_ru: shows [Kc Ks] (a flush, King high)
+Andrei123653: shows [8h As] (a pair of Jacks)
+ru_ruu_ru collected $14.21 from pot
+*** SUMMARY ***
+Total pot $14.96 | Rake $0.75 
+Board [3c Js Jc 7c 6c]
+Seat 1: paramourx (button) folded before Flop (didn't bet)
+Seat 2: steepfell (small blind) folded before Flop
+Seat 3: ru_ruu_ru (big blind) showed [Kc Ks] and won ($14.21) with a flush, King high
+Seat 4: kuhclemO folded before Flop (didn't bet)
+Seat 5: $LuckerMax1$ folded before Flop (didn't bet)
+Seat 6: Andrei123653 showed [8h As] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254688529824:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:44:52 WET [2025/02/03 11:44:52 ET]
+Table 'Hansa II' 6-max Seat #2 is the button
+Seat 6: Andrei123653 ($0 in chips) is sitting out
+Seat 1: paramourx ($104.58 in chips) 
+Seat 2: steepfell ($107.50 in chips) 
+Seat 3: ru_ruu_ru ($106.98 in chips) 
+Seat 5: $LuckerMax1$ ($19.53 in chips) 
+ru_ruu_ru: posts small blind $0.50
+$LuckerMax1$: posts big blind $1
+*** HOLE CARDS ***
+paramourx: raises $2 to $3
+steepfell: folds 
+Raimondas09 joins the table at seat #4 
+Andrei123653 leaves the table
+Raimondas09 is disconnected 
+ru_ruu_ru: folds 
+$LuckerMax1$: folds 
+Uncalled bet ($2) returned to paramourx
+paramourx collected $2.50 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Andrei123653
+Seat 1: paramourx collected ($2.50)
+Seat 2: steepfell (button) folded before Flop (didn't bet)
+Seat 3: ru_ruu_ru (small blind) folded before Flop
+Seat 5: $LuckerMax1$ (big blind) folded before Flop
+
+
+
+PokerStars Hand #254688533103:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:45:06 WET [2025/02/03 11:45:06 ET]
+Table 'Hansa II' 6-max Seat #3 is the button
+Seat 4: Raimondas09 ($56.62 in chips) is sitting out
+Seat 1: paramourx ($106.08 in chips) 
+Seat 2: steepfell ($107.50 in chips) 
+Seat 3: ru_ruu_ru ($106.48 in chips) 
+Seat 5: $LuckerMax1$ ($18.53 in chips) 
+$LuckerMax1$: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+DAKARis joins the table at seat #6 
+steepfell: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+$LuckerMax1$: folds 
+paramourx: folds 
+Uncalled bet ($1.50) returned to ru_ruu_ru
+ru_ruu_ru collected $2.50 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: Raimondas09
+Seat 1: paramourx (big blind) folded before Flop
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: ru_ruu_ru (button) collected ($2.50)
+Seat 5: $LuckerMax1$ (small blind) folded before Flop
+
+
+
+PokerStars Hand #254688535015:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:45:14 WET [2025/02/03 11:45:14 ET]
+Table 'Hansa II' 6-max Seat #5 is the button
+Seat 4: Raimondas09 ($56.62 in chips) is sitting out
+Seat 6: DAKARis ($100 in chips) is sitting out
+Seat 1: paramourx ($105.08 in chips) 
+Seat 2: steepfell ($107.50 in chips) 
+Seat 3: ru_ruu_ru ($107.98 in chips) 
+Seat 5: $LuckerMax1$ ($18.03 in chips) 
+paramourx: posts small blind $0.50
+steepfell: posts big blind $1
+Raimondas09: sits out 
+*** HOLE CARDS ***
+ru_ruu_ru: raises $1.50 to $2.50
+$LuckerMax1$: folds 
+paramourx: folds 
+steepfell: folds 
+Uncalled bet ($1.50) returned to ru_ruu_ru
+ru_ruu_ru collected $2.50 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: Raimondas09
+Seat 6: DAKARis
+Seat 1: paramourx (small blind) folded before Flop
+Seat 2: steepfell (big blind) folded before Flop
+Seat 3: ru_ruu_ru collected ($2.50)
+Seat 5: $LuckerMax1$ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254688537123:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:45:23 WET [2025/02/03 11:45:23 ET]
+Table 'Hansa II' 6-max Seat #1 is the button
+Seat 4: Raimondas09 ($56.62 in chips) is sitting out
+Seat 6: DAKARis ($100 in chips) is sitting out
+Seat 1: paramourx ($104.58 in chips) 
+Seat 2: steepfell ($106.50 in chips) 
+Seat 3: ru_ruu_ru ($109.48 in chips) 
+Seat 5: $LuckerMax1$ ($18.03 in chips) 
+steepfell: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+Raimondas09: sits out 
+DAKARis: sits out 
+*** HOLE CARDS ***
+$LuckerMax1$: folds 
+paramourx: raises $2 to $3
+steepfell: folds 
+ru_ruu_ru: calls $2
+*** FLOP *** [4d 9c 7h]
+ru_ruu_ru: checks 
+paramourx: bets $3.09
+ru_ruu_ru: folds 
+Uncalled bet ($3.09) returned to paramourx
+paramourx collected $6.18 from pot
+paramourx: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [4d 9c 7h]
+Seat 4: Raimondas09
+Seat 6: DAKARis
+Seat 1: paramourx (button) collected ($6.18)
+Seat 2: steepfell (small blind) folded before Flop
+Seat 3: ru_ruu_ru (big blind) folded on the Flop
+Seat 5: $LuckerMax1$ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254688547758:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:46:09 WET [2025/02/03 11:46:09 ET]
+Table 'Hansa II' 6-max Seat #2 is the button
+Seat 6: DAKARis ($100 in chips) is sitting out
+Seat 1: paramourx ($107.76 in chips) 
+Seat 2: steepfell ($106 in chips) 
+Seat 3: ru_ruu_ru ($106.48 in chips) 
+Seat 4: Raimondas09 ($56.62 in chips) 
+Seat 5: $LuckerMax1$ ($18.03 in chips) 
+ru_ruu_ru: posts small blind $0.50
+Raimondas09: posts big blind $1
+DAKARis: sits out 
+*** HOLE CARDS ***
+$LuckerMax1$: calls $1
+paramourx: raises $2.50 to $3.50
+steepfell: folds 
+ru_ruu_ru: folds 
+Raimondas09: calls $2.50
+$LuckerMax1$: calls $2.50
+*** FLOP *** [Jd 8h 5d]
+Raimondas09: bets $4.23
+$LuckerMax1$: raises $10.30 to $14.53 and is all-in
+paramourx: folds 
+Raimondas09: calls $10.30
+*** TURN *** [Jd 8h 5d] [7h]
+*** RIVER *** [Jd 8h 5d 7h] [2d]
+*** SHOW DOWN ***
+Raimondas09: shows [Ad 4d] (a flush, Ace high)
+$LuckerMax1$: shows [Jc Ah] (a pair of Jacks)
+Raimondas09 collected $38.06 from pot
+*** SUMMARY ***
+Total pot $40.06 | Rake $2 
+Board [Jd 8h 5d 7h 2d]
+Seat 6: DAKARis
+Seat 1: paramourx folded on the Flop
+Seat 2: steepfell (button) folded before Flop (didn't bet)
+Seat 3: ru_ruu_ru (small blind) folded before Flop
+Seat 4: Raimondas09 (big blind) showed [Ad 4d] and won ($38.06) with a flush, Ace high
+Seat 5: $LuckerMax1$ showed [Jc Ah] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254688559490:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:47:00 WET [2025/02/03 11:47:00 ET]
+Table 'Hansa II' 6-max Seat #3 is the button
+Seat 5: $LuckerMax1$ ($0 in chips) is sitting out
+Seat 1: paramourx ($104.26 in chips) 
+Seat 2: steepfell ($106 in chips) 
+Seat 3: ru_ruu_ru ($105.98 in chips) 
+Seat 4: Raimondas09 ($76.65 in chips) 
+Seat 6: DAKARis ($100 in chips) 
+Raimondas09: posts small blind $0.50
+DAKARis: posts big blind $1
+*** HOLE CARDS ***
+paramourx: folds 
+$LuckerMax1$ leaves the table
+steepfell: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+Raimondas09: folds 
+DAKARis: folds 
+Uncalled bet ($1.50) returned to ru_ruu_ru
+ru_ruu_ru collected $2.50 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: $LuckerMax1$
+Seat 1: paramourx folded before Flop (didn't bet)
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: ru_ruu_ru (button) collected ($2.50)
+Seat 4: Raimondas09 (small blind) folded before Flop
+Seat 6: DAKARis (big blind) folded before Flop
+
+
+
+PokerStars Hand #254688565473:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:47:26 WET [2025/02/03 11:47:26 ET]
+Table 'Hansa II' 6-max Seat #4 is the button
+Seat 1: paramourx ($104.26 in chips) 
+Seat 2: steepfell ($106 in chips) 
+Seat 3: ru_ruu_ru ($107.48 in chips) 
+Seat 4: Raimondas09 ($76.15 in chips) 
+Seat 6: DAKARis ($100 in chips) 
+DAKARis: posts small blind $0.50
+paramourx: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+ru_ruu_ru: folds 
+Raimondas09: calls $1
+DAKARis: folds 
+paramourx: checks 
+*** FLOP *** [Ad 7h 3s]
+paramourx: checks 
+Raimondas09: checks 
+*** TURN *** [Ad 7h 3s] [7d]
+paramourx: checks 
+Raimondas09: checks 
+*** RIVER *** [Ad 7h 3s 7d] [5h]
+paramourx: bets $1
+coeeeelho joins the table at seat #5 
+Raimondas09: calls $1
+*** SHOW DOWN ***
+paramourx: shows [5d 8h] (two pair, Sevens and Fives)
+Raimondas09: mucks hand 
+paramourx collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ad 7h 3s 7d 5h]
+Seat 1: paramourx (big blind) showed [5d 8h] and won ($4.28) with two pair, Sevens and Fives
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 3: ru_ruu_ru folded before Flop (didn't bet)
+Seat 4: Raimondas09 (button) mucked
+Seat 6: DAKARis (small blind) folded before Flop
+
+
+
+PokerStars Hand #254688576179:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:48:13 WET [2025/02/03 11:48:13 ET]
+Table 'Hansa II' 6-max Seat #6 is the button
+Seat 5: coeeeelho ($100 in chips) is sitting out
+Seat 1: paramourx ($106.54 in chips) 
+Seat 2: steepfell ($106 in chips) 
+Seat 3: ru_ruu_ru ($107.48 in chips) 
+Seat 4: Raimondas09 ($74.15 in chips) 
+Seat 6: DAKARis ($100 in chips) 
+paramourx: posts small blind $0.50
+steepfell: posts big blind $1
+coeeeelho: sits out 
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+Raimondas09: raises $2 to $3
+DAKARis: folds 
+paramourx: folds 
+steepfell: folds 
+Uncalled bet ($2) returned to Raimondas09
+Raimondas09 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: coeeeelho
+Seat 1: paramourx (small blind) folded before Flop
+Seat 2: steepfell (big blind) folded before Flop
+Seat 3: ru_ruu_ru folded before Flop (didn't bet)
+Seat 4: Raimondas09 collected ($2.50)
+Seat 6: DAKARis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254688582671:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:48:41 WET [2025/02/03 11:48:41 ET]
+Table 'Hansa II' 6-max Seat #1 is the button
+Seat 3: ru_ruu_ru ($107.48 in chips) is sitting out
+Seat 5: coeeeelho ($100 in chips) is sitting out
+Seat 1: paramourx ($106.04 in chips) 
+Seat 2: steepfell ($105 in chips) 
+Seat 4: Raimondas09 ($75.65 in chips) 
+Seat 6: DAKARis ($100 in chips) 
+steepfell: posts small blind $0.50
+ru_ruu_ru: is sitting out 
+Raimondas09: posts big blind $1
+coeeeelho: sits out 
+*** HOLE CARDS ***
+ru_ruu_ru leaves the table
+DAKARis: raises $1.20 to $2.20
+paramourx: folds 
+steepfell: folds 
+Rdalonso joins the table at seat #3 
+Raimondas09: calls $1.20
+*** FLOP *** [Ad Qs Ks]
+Raimondas09: checks 
+DAKARis: bets $1.17
+Raimondas09: calls $1.17
+*** TURN *** [Ad Qs Ks] [Qc]
+Raimondas09: checks 
+DAKARis: checks 
+*** RIVER *** [Ad Qs Ks Qc] [9c]
+Raimondas09: checks 
+DAKARis: bets $4.54
+Raimondas09: folds 
+Uncalled bet ($4.54) returned to DAKARis
+DAKARis collected $6.88 from pot
+DAKARis: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.24 | Rake $0.36 
+Board [Ad Qs Ks Qc 9c]
+Seat 3: ru_ruu_ru
+Seat 5: coeeeelho
+Seat 1: paramourx (button) folded before Flop (didn't bet)
+Seat 2: steepfell (small blind) folded before Flop
+Seat 4: Raimondas09 (big blind) folded on the River
+Seat 6: DAKARis collected ($6.88)
+
+
+
+PokerStars Hand #254688600766:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:49:59 WET [2025/02/03 11:49:59 ET]
+Table 'Hansa II' 6-max Seat #2 is the button
+Seat 3: Rdalonso ($100 in chips) is sitting out
+Seat 1: paramourx ($106.04 in chips) 
+Seat 2: steepfell ($104.50 in chips) 
+Seat 4: Raimondas09 ($72.28 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: DAKARis ($103.51 in chips) 
+Raimondas09: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+DAKARis: folds 
+paramourx: folds 
+steepfell: folds 
+Raimondas09: raises $2 to $3
+coeeeelho: raises $7 to $10
+Raimondas09: raises $62.28 to $72.28 and is all-in
+coeeeelho: calls $62.28
+*** FLOP *** [6s 8c Ad]
+*** TURN *** [6s 8c Ad] [7d]
+*** RIVER *** [6s 8c Ad 7d] [Td]
+*** SHOW DOWN ***
+Raimondas09: shows [Kh Ah] (a pair of Aces)
+coeeeelho: shows [Kc As] (a pair of Aces)
+Raimondas09 collected $71.03 from pot
+coeeeelho collected $71.03 from pot
+*** SUMMARY ***
+Total pot $144.56 | Rake $2.50 
+Board [6s 8c Ad 7d Td]
+Seat 3: Rdalonso
+Seat 1: paramourx folded before Flop (didn't bet)
+Seat 2: steepfell (button) folded before Flop (didn't bet)
+Seat 4: Raimondas09 (small blind) showed [Kh Ah] and won ($71.03) with a pair of Aces
+Seat 5: coeeeelho (big blind) showed [Kc As] and won ($71.03) with a pair of Aces
+Seat 6: DAKARis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254688609630:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:50:37 WET [2025/02/03 11:50:37 ET]
+Table 'Hansa II' 6-max Seat #4 is the button
+Seat 3: Rdalonso ($100 in chips) is sitting out
+Seat 1: paramourx ($106.04 in chips) 
+Seat 2: steepfell ($104.50 in chips) 
+Seat 4: Raimondas09 ($71.03 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: DAKARis ($103.51 in chips) 
+coeeeelho: posts small blind $0.50
+DAKARis: posts big blind $1
+Rdalonso: sits out 
+*** HOLE CARDS ***
+paramourx: folds 
+steepfell: folds 
+Raimondas09: calls $1
+coeeeelho: folds 
+DAKARis: raises $4 to $5
+Raimondas09: calls $4
+*** FLOP *** [5s 9s 7c]
+DAKARis: checks 
+Raimondas09: bets $3.99
+DAKARis: folds 
+Uncalled bet ($3.99) returned to Raimondas09
+Raimondas09 collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [5s 9s 7c]
+Seat 3: Rdalonso
+Seat 1: paramourx folded before Flop (didn't bet)
+Seat 2: steepfell folded before Flop (didn't bet)
+Seat 4: Raimondas09 (button) collected ($9.98)
+Seat 5: coeeeelho (small blind) folded before Flop
+Seat 6: DAKARis (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254688623487:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:51:36 WET [2025/02/03 11:51:36 ET]
+Table 'Hansa II' 6-max Seat #5 is the button
+Seat 3: Rdalonso ($100 in chips) is sitting out
+Seat 1: paramourx ($106.04 in chips) 
+Seat 2: steepfell ($104.50 in chips) 
+Seat 4: Raimondas09 ($76.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: DAKARis ($100 in chips) 
+DAKARis: posts small blind $0.50
+paramourx: posts big blind $1
+Rdalonso: sits out 
+*** HOLE CARDS ***
+steepfell: raises $1.50 to $2.50
+Raimondas09: folds 
+coeeeelho: folds 
+DAKARis: folds 
+paramourx: folds 
+Uncalled bet ($1.50) returned to steepfell
+steepfell collected $2.50 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: Rdalonso
+Seat 1: paramourx (big blind) folded before Flop
+Seat 2: steepfell collected ($2.50)
+Seat 4: Raimondas09 folded before Flop (didn't bet)
+Seat 5: coeeeelho (button) folded before Flop (didn't bet)
+Seat 6: DAKARis (small blind) folded before Flop
+
+
+
+PokerStars Hand #254688627932:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:51:55 WET [2025/02/03 11:51:55 ET]
+Table 'Hansa II' 6-max Seat #6 is the button
+Seat 3: Rdalonso ($100 in chips) is sitting out
+Seat 1: paramourx ($105.04 in chips) 
+Seat 2: steepfell ($106 in chips) 
+Seat 4: Raimondas09 ($76.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: DAKARis ($100 in chips) 
+paramourx: posts small blind $0.50
+steepfell: posts big blind $1
+Rdalonso: sits out 
+*** HOLE CARDS ***
+Raimondas09: folds 
+coeeeelho: folds 
+DAKARis: raises $1.50 to $2.50
+paramourx: folds 
+steepfell: calls $1.50
+*** FLOP *** [6c 5s 2s]
+steepfell: checks 
+DAKARis: checks 
+*** TURN *** [6c 5s 2s] [2h]
+steepfell: bets $2.61
+DAKARis: folds 
+Uncalled bet ($2.61) returned to steepfell
+steepfell collected $5.22 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [6c 5s 2s 2h]
+Seat 3: Rdalonso
+Seat 1: paramourx (small blind) folded before Flop
+Seat 2: steepfell (big blind) collected ($5.22)
+Seat 4: Raimondas09 folded before Flop (didn't bet)
+Seat 5: coeeeelho folded before Flop (didn't bet)
+Seat 6: DAKARis (button) folded on the Turn
+
+
+
+PokerStars Hand #254688643169:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 16:53:00 WET [2025/02/03 11:53:00 ET]
+Table 'Hansa II' 6-max Seat #1 is the button
+Seat 1: paramourx ($104.54 in chips) 
+Seat 2: steepfell ($108.72 in chips) 
+Seat 3: Rdalonso ($100 in chips) 
+Seat 4: Raimondas09 ($76.01 in chips) 
+Seat 5: coeeeelho ($100 in chips) 
+Seat 6: DAKARis ($100 in chips) 
+steepfell: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+Raimondas09: folds 
+coeeeelho: raises $1.20 to $2.20
+DAKARis: folds 
+paramourx: folds 
+steepfell: folds 
+Rdalonso: folds 
+Uncalled bet ($1.20) returned to coeeeelho
+coeeeelho collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: paramourx (button) folded before Flop (didn't bet)
+Seat 2: steepfell (small blind) folded before Flop
+Seat 3: Rdalonso (big blind) folded before Flop
+Seat 4: Raimondas09 folded before Flop (didn't bet)
+Seat 5: coeeeelho collected ($2.50)
+Seat 6: DAKARis folded before Flop (didn't bet)
+
+
+

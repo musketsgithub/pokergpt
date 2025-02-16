@@ -1,0 +1,4361 @@
+﻿PokerStars Hand #254582082753:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:29:57 WET [2025/01/27 13:29:57 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 1: ARCTlCkiss ($100 in chips) 
+Seat 2: Manifestorr ($100 in chips) 
+Seat 3: i.corbu ($10 in chips) 
+Seat 4: diegoatj7 ($97.34 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: elcutez ($101.14 in chips) 
+Manifestorr: posts small blind $0.50
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: raises $2 to $3
+DL1B: raises $5 to $8
+elcutez: folds 
+ARCTlCkiss: folds 
+Manifestorr: folds 
+i.corbu: raises $2 to $10 and is all-in
+diegoatj7: calls $7
+DL1B: calls $2
+*** FLOP *** [6h 3c 4c]
+diegoatj7: checks 
+DL1B: checks 
+*** TURN *** [6h 3c 4c] [Qs]
+diegoatj7: checks 
+DL1B: bets $14.49
+diegoatj7: folds 
+Uncalled bet ($14.49) returned to DL1B
+*** RIVER *** [6h 3c 4c Qs] [As]
+*** SHOW DOWN ***
+i.corbu: shows [Ts Kc] (high card Ace)
+DL1B: shows [Th Qh] (a pair of Queens)
+DL1B collected $28.98 from pot
+*** SUMMARY ***
+Total pot $30.50 | Rake $1.52 
+Board [6h 3c 4c Qs As]
+Seat 1: ARCTlCkiss (button) folded before Flop (didn't bet)
+Seat 2: Manifestorr (small blind) folded before Flop
+Seat 3: i.corbu (big blind) showed [Ts Kc] and lost with high card Ace
+Seat 4: diegoatj7 folded on the Turn
+Seat 5: DL1B showed [Th Qh] and won ($28.98) with a pair of Queens
+Seat 6: elcutez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582098132:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:30:52 WET [2025/01/27 13:30:52 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 1: ARCTlCkiss ($100 in chips) 
+Seat 2: Manifestorr ($100 in chips) 
+Seat 4: diegoatj7 ($87.34 in chips) 
+Seat 5: DL1B ($118.98 in chips) 
+Seat 6: elcutez ($101.14 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+elcutez: folds 
+ARCTlCkiss: folds 
+Manifestorr: raises $1.20 to $2.20
+diegoatj7: folds 
+DL1B: calls $1.20
+*** FLOP *** [Ks 2c Tc]
+DL1B: checks 
+Manifestorr: bets $6.29
+DL1B: folds 
+Uncalled bet ($6.29) returned to Manifestorr
+Manifestorr collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Ks 2c Tc]
+Seat 3: i.corbu
+Seat 1: ARCTlCkiss folded before Flop (didn't bet)
+Seat 2: Manifestorr (button) collected ($4.66)
+Seat 4: diegoatj7 (small blind) folded before Flop
+Seat 5: DL1B (big blind) folded on the Flop
+Seat 6: elcutez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582104395:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:31:14 WET [2025/01/27 13:31:14 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 1: ARCTlCkiss ($100 in chips) 
+Seat 2: Manifestorr ($102.46 in chips) 
+Seat 3: i.corbu ($100 in chips) 
+Seat 4: diegoatj7 ($86.84 in chips) 
+Seat 5: DL1B ($116.78 in chips) 
+Seat 6: elcutez ($101.14 in chips) 
+DL1B: posts small blind $0.50
+elcutez: posts big blind $1
+i.corbu: posts small blind $0.50
+*** HOLE CARDS ***
+ARCTlCkiss: folds 
+Manifestorr: raises $1.20 to $2.20
+i.corbu: raises $6.40 to $8.60
+diegoatj7: calls $8.60
+DL1B: folds 
+elcutez: folds 
+Manifestorr: calls $6.40
+*** FLOP *** [3c Th Jd]
+Manifestorr: checks 
+i.corbu: checks 
+diegoatj7: bets $13.21
+Manifestorr: calls $13.21
+i.corbu: calls $13.21
+*** TURN *** [3c Th Jd] [9s]
+Manifestorr: checks 
+i.corbu: checks 
+diegoatj7: bets $19.47
+Manifestorr: calls $19.47
+i.corbu: calls $19.47
+*** RIVER *** [3c Th Jd 9s] [Ks]
+Manifestorr: checks 
+i.corbu: bets $57.22
+diegoatj7: calls $45.56 and is all-in
+Manifestorr: folds 
+Uncalled bet ($11.66) returned to i.corbu
+*** SHOW DOWN ***
+i.corbu: shows [Qh Ah] (a straight, Ten to Ace)
+diegoatj7: shows [Kc Qc] (a straight, Nine to King)
+i.corbu collected $214.46 from pot
+*** SUMMARY ***
+Total pot $216.96 | Rake $2.50 
+Board [3c Th Jd 9s Ks]
+Seat 1: ARCTlCkiss folded before Flop (didn't bet)
+Seat 2: Manifestorr folded on the River
+Seat 3: i.corbu showed [Qh Ah] and won ($214.46) with a straight, Ten to Ace
+Seat 4: diegoatj7 (button) showed [Kc Qc] and lost with a straight, Nine to King
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: elcutez (big blind) folded before Flop
+
+
+
+PokerStars Hand #254582132866:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:32:54 WET [2025/01/27 13:32:54 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 1: ARCTlCkiss ($100 in chips) is sitting out
+Seat 4: diegoatj7 ($0 in chips) is sitting out
+Seat 2: Manifestorr ($100 in chips) 
+Seat 3: i.corbu ($227.12 in chips) 
+Seat 5: DL1B ($116.28 in chips) 
+Seat 6: elcutez ($100.14 in chips) 
+elcutez: posts small blind $0.50
+ARCTlCkiss: is sitting out 
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+ARCTlCkiss leaves the table
+i.corbu: raises $2 to $3
+DL1B: folds 
+elcutez: folds 
+Manifestorr: calls $2
+*** FLOP *** [7s Jd Qc]
+Manifestorr: checks 
+i.corbu: bets $6.18
+Manifestorr: folds 
+Uncalled bet ($6.18) returned to i.corbu
+i.corbu collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [7s Jd Qc]
+Seat 1: ARCTlCkiss
+Seat 4: diegoatj7
+Seat 2: Manifestorr (big blind) folded on the Flop
+Seat 3: i.corbu collected ($6.18)
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: elcutez (small blind) folded before Flop
+
+
+
+PokerStars Hand #254582143233:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:33:31 WET [2025/01/27 13:33:31 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 2: Manifestorr ($100 in chips) 
+Seat 3: i.corbu ($230.30 in chips) 
+Seat 4: diegoatj7 ($100 in chips) 
+Seat 5: DL1B ($116.28 in chips) 
+Seat 6: elcutez ($99.64 in chips) 
+Manifestorr: posts small blind $0.50
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: folds 
+DL1B: folds 
+elcutez: raises $2 to $3
+Manifestorr: folds 
+coeeeelho joins the table at seat #1 
+i.corbu has timed out
+i.corbu: folds 
+Uncalled bet ($2) returned to elcutez
+elcutez collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Manifestorr (small blind) folded before Flop
+Seat 3: i.corbu (big blind) folded before Flop
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: elcutez (button) collected ($2.50)
+
+
+
+PokerStars Hand #254582152230:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:34:02 WET [2025/01/27 13:34:02 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 1: coeeeelho ($100 in chips) is sitting out
+Seat 3: i.corbu ($229.30 in chips) is sitting out
+Seat 2: Manifestorr ($100 in chips) 
+Seat 4: diegoatj7 ($100 in chips) 
+Seat 5: DL1B ($116.28 in chips) 
+Seat 6: elcutez ($101.14 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+coeeeelho: sits out 
+*** HOLE CARDS ***
+elcutez: folds 
+Manifestorr: raises $1.20 to $2.20
+diegoatj7: calls $1.70
+DL1B: calls $1.20
+*** FLOP *** [7h Qd Qc]
+diegoatj7: checks 
+DL1B: checks 
+Manifestorr: checks 
+*** TURN *** [7h Qd Qc] [6s]
+diegoatj7: checks 
+DL1B: checks 
+Manifestorr: checks 
+*** RIVER *** [7h Qd Qc 6s] [Jc]
+diegoatj7: checks 
+DL1B: bets $3.14
+Manifestorr: calls $3.14
+diegoatj7: folds 
+*** SHOW DOWN ***
+DL1B: shows [5c Tc] (a pair of Queens)
+Manifestorr: shows [Js Kh] (two pair, Queens and Jacks)
+Manifestorr collected $12.24 from pot
+*** SUMMARY ***
+Total pot $12.88 | Rake $0.64 
+Board [7h Qd Qc 6s Jc]
+Seat 1: coeeeelho
+Seat 3: i.corbu
+Seat 2: Manifestorr (button) showed [Js Kh] and won ($12.24) with two pair, Queens and Jacks
+Seat 4: diegoatj7 (small blind) folded on the River
+Seat 5: DL1B (big blind) showed [5c Tc] and lost with a pair of Queens
+Seat 6: elcutez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582164263:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:34:44 WET [2025/01/27 13:34:44 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: Manifestorr ($106.90 in chips) 
+Seat 3: i.corbu ($229.30 in chips) 
+Seat 4: diegoatj7 ($97.80 in chips) 
+Seat 5: DL1B ($110.94 in chips) 
+DL1B: posts small blind $0.50
+coeeeelho: posts big blind $1
+i.corbu: posts small blind $0.50
+*** HOLE CARDS ***
+Manifestorr: folds 
+i.corbu has timed out
+i.corbu: folds 
+diegoatj7: raises $3 to $4
+DL1B: folds 
+coeeeelho: folds 
+Uncalled bet ($3) returned to diegoatj7
+diegoatj7 collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 6: elcutez
+Seat 1: coeeeelho (big blind) folded before Flop
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 (button) collected ($3)
+Seat 5: DL1B (small blind) folded before Flop
+
+
+
+PokerStars Hand #254582170784:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:35:07 WET [2025/01/27 13:35:07 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 3: i.corbu ($228.80 in chips) is sitting out
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: Manifestorr ($106.90 in chips) 
+Seat 4: diegoatj7 ($99.80 in chips) 
+Seat 5: DL1B ($110.44 in chips) 
+coeeeelho: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: folds 
+elcutez is disconnected 
+DL1B: folds 
+coeeeelho: folds 
+Uncalled bet ($0.50) returned to Manifestorr
+Manifestorr collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: i.corbu
+Seat 6: elcutez
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: Manifestorr (big blind) collected ($1)
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582172995:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:35:15 WET [2025/01/27 13:35:15 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 3: i.corbu ($228.80 in chips) is sitting out
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: Manifestorr ($107.40 in chips) 
+Seat 4: diegoatj7 ($99.80 in chips) 
+Seat 5: DL1B ($110.44 in chips) 
+Manifestorr: posts small blind $0.50
+diegoatj7: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+coeeeelho: folds 
+Manifestorr: folds 
+Uncalled bet ($0.50) returned to diegoatj7
+diegoatj7 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: i.corbu
+Seat 6: elcutez
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 2: Manifestorr (small blind) folded before Flop
+Seat 4: diegoatj7 (big blind) collected ($1)
+Seat 5: DL1B folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582178242:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:35:33 WET [2025/01/27 13:35:33 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 3: i.corbu ($228.80 in chips) is sitting out
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: Manifestorr ($106.90 in chips) 
+Seat 4: diegoatj7 ($100.30 in chips) 
+Seat 5: DL1B ($110.44 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Manifestorr: raises $1.20 to $2.20
+diegoatj7: calls $1.70
+DL1B: folds 
+*** FLOP *** [2s 6s 9c]
+diegoatj7: checks 
+Manifestorr: checks 
+*** TURN *** [2s 6s 9c] [3s]
+diegoatj7: checks 
+Manifestorr: checks 
+*** RIVER *** [2s 6s 9c 3s] [Tc]
+diegoatj7: checks 
+Manifestorr: checks 
+*** SHOW DOWN ***
+diegoatj7: shows [Qd 8d] (high card Queen)
+Manifestorr: shows [Ad 3c] (a pair of Threes)
+Manifestorr collected $5.13 from pot
+*** SUMMARY ***
+Total pot $5.40 | Rake $0.27 
+Board [2s 6s 9c 3s Tc]
+Seat 3: i.corbu
+Seat 6: elcutez
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr (button) showed [Ad 3c] and won ($5.13) with a pair of Threes
+Seat 4: diegoatj7 (small blind) showed [Qd 8d] and lost with high card Queen
+Seat 5: DL1B (big blind) folded before Flop
+
+
+
+PokerStars Hand #254582189702:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:36:13 WET [2025/01/27 13:36:13 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: Manifestorr ($109.83 in chips) 
+Seat 3: i.corbu ($228.80 in chips) 
+Seat 4: diegoatj7 ($98.10 in chips) 
+Seat 5: DL1B ($109.44 in chips) 
+DL1B: posts small blind $0.50
+coeeeelho: posts big blind $1
+i.corbu: posts small & big blinds $1.50
+*** HOLE CARDS ***
+Manifestorr: folds 
+i.corbu: checks 
+diegoatj7: calls $1
+DL1B: folds 
+coeeeelho: raises $5 to $6
+i.corbu: folds 
+diegoatj7: calls $5
+*** FLOP *** [4d Jd 2h]
+coeeeelho: bets $3.33
+diegoatj7: calls $3.33
+*** TURN *** [4d Jd 2h] [As]
+coeeeelho: bets $10
+diegoatj7: raises $19.82 to $29.82
+coeeeelho: folds 
+Uncalled bet ($19.82) returned to diegoatj7
+diegoatj7 collected $38.63 from pot
+*** SUMMARY ***
+Total pot $40.66 | Rake $2.03 
+Board [4d Jd 2h As]
+Seat 6: elcutez
+Seat 1: coeeeelho (big blind) folded on the Turn
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 (button) collected ($38.63)
+Seat 5: DL1B (small blind) folded before Flop
+
+
+
+PokerStars Hand #254582201255:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:36:53 WET [2025/01/27 13:36:53 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: Manifestorr ($109.83 in chips) 
+Seat 3: i.corbu ($227.30 in chips) 
+Seat 4: diegoatj7 ($117.40 in chips) 
+Seat 5: DL1B ($108.94 in chips) 
+coeeeelho: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+i.corbu: calls $1
+diegoatj7: calls $1
+DL1B: folds 
+coeeeelho: folds 
+Manifestorr: checks 
+*** FLOP *** [6c Tc Jh]
+Manifestorr: checks 
+i.corbu: checks 
+diegoatj7: checks 
+*** TURN *** [6c Tc Jh] [3h]
+Manifestorr: checks 
+i.corbu: checks 
+diegoatj7: bets $3.32
+Manifestorr: folds 
+i.corbu: folds 
+Uncalled bet ($3.32) returned to diegoatj7
+diegoatj7 collected $3.32 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [6c Tc Jh 3h]
+Seat 6: elcutez
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: Manifestorr (big blind) folded on the Turn
+Seat 3: i.corbu folded on the Turn
+Seat 4: diegoatj7 collected ($3.32)
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582210964:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:37:27 WET [2025/01/27 13:37:27 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: Manifestorr ($108.83 in chips) 
+Seat 3: i.corbu ($226.30 in chips) 
+Seat 4: diegoatj7 ($119.72 in chips) 
+Seat 5: DL1B ($108.94 in chips) 
+Manifestorr: posts small blind $0.50
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: folds 
+DL1B: folds 
+coeeeelho: raises $1.20 to $2.20
+Manifestorr: folds 
+i.corbu: folds 
+Uncalled bet ($1.20) returned to coeeeelho
+coeeeelho collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: elcutez
+Seat 1: coeeeelho (button) collected ($2.50)
+Seat 2: Manifestorr (small blind) folded before Flop
+Seat 3: i.corbu (big blind) folded before Flop
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582217770:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:37:50 WET [2025/01/27 13:37:50 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($101.50 in chips) 
+Seat 2: Manifestorr ($108.33 in chips) 
+Seat 3: i.corbu ($225.30 in chips) 
+Seat 4: diegoatj7 ($119.72 in chips) 
+Seat 5: DL1B ($108.94 in chips) 
+i.corbu: posts small blind $0.50
+diegoatj7: posts big blind $1
+*** HOLE CARDS ***
+DL1B: raises $1 to $2
+coeeeelho: folds 
+Manifestorr: calls $2
+i.corbu: folds 
+diegoatj7: folds 
+*** FLOP *** [4d Kd 3c]
+DL1B: checks 
+Manifestorr: bets $1.72
+DL1B: raises $5.47 to $7.19
+Manifestorr: folds 
+Uncalled bet ($5.47) returned to DL1B
+DL1B collected $8.49 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [4d Kd 3c]
+Seat 6: elcutez
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr (button) folded on the Flop
+Seat 3: i.corbu (small blind) folded before Flop
+Seat 4: diegoatj7 (big blind) folded before Flop
+Seat 5: DL1B collected ($8.49)
+
+
+
+PokerStars Hand #254582231376:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:38:38 WET [2025/01/27 13:38:38 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($101.50 in chips) 
+Seat 2: Manifestorr ($104.61 in chips) 
+Seat 3: i.corbu ($224.80 in chips) 
+Seat 4: diegoatj7 ($118.72 in chips) 
+Seat 5: DL1B ($113.71 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Manifestorr: folds 
+i.corbu: folds 
+diegoatj7: raises $2 to $3
+DL1B: folds 
+Uncalled bet ($2) returned to diegoatj7
+diegoatj7 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: elcutez
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu (button) folded before Flop (didn't bet)
+Seat 4: diegoatj7 (small blind) collected ($2)
+Seat 5: DL1B (big blind) folded before Flop
+
+
+
+PokerStars Hand #254582236710:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:38:57 WET [2025/01/27 13:38:57 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($101.50 in chips) 
+Seat 2: Manifestorr ($104.61 in chips) 
+Seat 3: i.corbu ($224.80 in chips) 
+Seat 4: diegoatj7 ($119.72 in chips) 
+Seat 5: DL1B ($112.71 in chips) 
+DL1B: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+i.corbu: raises $2 to $3
+diegoatj7: calls $3
+DL1B: folds 
+coeeeelho: calls $2
+*** FLOP *** [2h 7s 8c]
+coeeeelho: checks 
+i.corbu: checks 
+diegoatj7: checks 
+*** TURN *** [2h 7s 8c] [2c]
+coeeeelho: checks 
+i.corbu: bets $4
+diegoatj7: raises $8.51 to $12.51
+coeeeelho: folds 
+i.corbu: folds 
+Uncalled bet ($8.51) returned to diegoatj7
+diegoatj7 collected $16.62 from pot
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.88 
+Board [2h 7s 8c 2c]
+Seat 6: elcutez
+Seat 1: coeeeelho (big blind) folded on the Turn
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu folded on the Turn
+Seat 4: diegoatj7 (button) collected ($16.62)
+Seat 5: DL1B (small blind) folded before Flop
+
+
+
+PokerStars Hand #254582255520:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:40:03 WET [2025/01/27 13:40:03 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: Manifestorr ($104.61 in chips) 
+Seat 3: i.corbu ($217.80 in chips) 
+Seat 4: diegoatj7 ($129.34 in chips) 
+Seat 5: DL1B ($112.21 in chips) 
+coeeeelho: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+i.corbu: calls $1
+diegoatj7: raises $2 to $3
+DL1B: folds 
+coeeeelho: folds 
+Manifestorr: folds 
+i.corbu: calls $2
+*** FLOP *** [2h 8s Th]
+i.corbu: checks 
+diegoatj7: bets $3.56
+i.corbu: raises $4.56 to $8.12
+diegoatj7: calls $4.56
+*** TURN *** [2h 8s Th] [Kc]
+i.corbu: checks 
+diegoatj7: bets $11.28
+i.corbu: calls $11.28
+*** RIVER *** [2h 8s Th Kc] [9s]
+i.corbu: checks 
+diegoatj7: checks 
+*** SHOW DOWN ***
+i.corbu: shows [3h 3d] (a pair of Threes)
+diegoatj7: shows [Qh 9h] (a pair of Nines)
+diegoatj7 collected $43.98 from pot
+*** SUMMARY ***
+Total pot $46.30 | Rake $2.32 
+Board [2h 8s Th Kc 9s]
+Seat 6: elcutez
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: Manifestorr (big blind) folded before Flop
+Seat 3: i.corbu showed [3h 3d] and lost with a pair of Threes
+Seat 4: diegoatj7 showed [Qh 9h] and won ($43.98) with a pair of Nines
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582265908:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:40:39 WET [2025/01/27 13:40:39 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: Manifestorr ($103.61 in chips) 
+Seat 3: i.corbu ($195.40 in chips) 
+Seat 4: diegoatj7 ($150.92 in chips) 
+Seat 5: DL1B ($112.21 in chips) 
+Manifestorr: posts small blind $0.50
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: folds 
+DL1B: folds 
+coeeeelho: raises $1.50 to $2.50
+Manifestorr: folds 
+i.corbu: folds 
+Uncalled bet ($1.50) returned to coeeeelho
+coeeeelho collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: elcutez
+Seat 1: coeeeelho (button) collected ($2.50)
+Seat 2: Manifestorr (small blind) folded before Flop
+Seat 3: i.corbu (big blind) folded before Flop
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582271287:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:40:57 WET [2025/01/27 13:40:57 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($101.50 in chips) 
+Seat 2: Manifestorr ($103.11 in chips) 
+Seat 3: i.corbu ($194.40 in chips) 
+Seat 4: diegoatj7 ($150.92 in chips) 
+Seat 5: DL1B ($112.21 in chips) 
+i.corbu: posts small blind $0.50
+diegoatj7: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+coeeeelho: raises $1.20 to $2.20
+Manifestorr: calls $2.20
+i.corbu: calls $1.70
+diegoatj7: folds 
+*** FLOP *** [2h Jd 9c]
+i.corbu: checks 
+coeeeelho: checks 
+Manifestorr: checks 
+*** TURN *** [2h Jd 9c] [Qs]
+i.corbu: checks 
+coeeeelho: bets $5.42
+Manifestorr: folds 
+i.corbu: folds 
+Uncalled bet ($5.42) returned to coeeeelho
+coeeeelho collected $7.22 from pot
+*** SUMMARY ***
+Total pot $7.60 | Rake $0.38 
+Board [2h Jd 9c Qs]
+Seat 6: elcutez
+Seat 1: coeeeelho collected ($7.22)
+Seat 2: Manifestorr (button) folded on the Turn
+Seat 3: i.corbu (small blind) folded on the Turn
+Seat 4: diegoatj7 (big blind) folded before Flop
+Seat 5: DL1B folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582289321:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:42:00 WET [2025/01/27 13:42:00 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($106.52 in chips) 
+Seat 2: Manifestorr ($100.91 in chips) 
+Seat 3: i.corbu ($192.20 in chips) 
+Seat 4: diegoatj7 ($149.92 in chips) 
+Seat 5: DL1B ($112.21 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: raises $1.20 to $2.20
+Manifestorr: folds 
+i.corbu: folds 
+diegoatj7: calls $1.70
+DL1B: folds 
+*** FLOP *** [9s Ac 2d]
+diegoatj7: checks 
+coeeeelho: checks 
+*** TURN *** [9s Ac 2d] [3c]
+diegoatj7: checks 
+coeeeelho: checks 
+*** RIVER *** [9s Ac 2d 3c] [Ah]
+diegoatj7: checks 
+coeeeelho: bets $3.85
+diegoatj7: folds 
+Uncalled bet ($3.85) returned to coeeeelho
+coeeeelho collected $5.13 from pot
+*** SUMMARY ***
+Total pot $5.40 | Rake $0.27 
+Board [9s Ac 2d 3c Ah]
+Seat 6: elcutez
+Seat 1: coeeeelho collected ($5.13)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu (button) folded before Flop (didn't bet)
+Seat 4: diegoatj7 (small blind) folded on the River
+Seat 5: DL1B (big blind) folded before Flop
+
+
+
+PokerStars Hand #254582310760:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:43:13 WET [2025/01/27 13:43:13 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 6: elcutez ($101.14 in chips) is sitting out
+Seat 1: coeeeelho ($109.45 in chips) 
+Seat 2: Manifestorr ($100.91 in chips) 
+Seat 3: i.corbu ($192.20 in chips) 
+Seat 4: diegoatj7 ($147.72 in chips) 
+Seat 5: DL1B ($111.21 in chips) 
+DL1B: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+i.corbu: folds 
+diegoatj7: folds 
+DL1B: raises $2 to $3
+coeeeelho: calls $2
+*** FLOP *** [8s 3h 4d]
+DL1B: checks 
+coeeeelho: bets $1.88
+DL1B: folds 
+Uncalled bet ($1.88) returned to coeeeelho
+coeeeelho collected $5.70 from pot
+elcutez leaves the table
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [8s 3h 4d]
+Seat 6: elcutez
+Seat 1: coeeeelho (big blind) collected ($5.70)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 (button) folded before Flop (didn't bet)
+Seat 5: DL1B (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254582320835:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:43:49 WET [2025/01/27 13:43:49 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 1: coeeeelho ($112.15 in chips) 
+Seat 2: Manifestorr ($100.91 in chips) 
+Seat 3: i.corbu ($192.20 in chips) 
+Seat 4: diegoatj7 ($147.72 in chips) 
+Seat 5: DL1B ($108.21 in chips) 
+coeeeelho: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+i.corbu: calls $1
+diegoatj7: folds 
+DL1B: folds 
+coeeeelho: folds 
+Manifestorr: raises $4 to $5
+i.corbu: folds 
+Uncalled bet ($4) returned to Manifestorr
+Rdalonso joins the table at seat #6 
+Manifestorr collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: Manifestorr (big blind) collected ($2.50)
+Seat 3: i.corbu folded before Flop
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582329528:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:44:19 WET [2025/01/27 13:44:19 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 6: Rdalonso ($100 in chips) is sitting out
+Seat 1: coeeeelho ($111.65 in chips) 
+Seat 2: Manifestorr ($102.41 in chips) 
+Seat 3: i.corbu ($191.20 in chips) 
+Seat 4: diegoatj7 ($147.72 in chips) 
+Seat 5: DL1B ($108.21 in chips) 
+Manifestorr: posts small blind $0.50
+i.corbu: posts big blind $1
+Rdalonso: sits out 
+*** HOLE CARDS ***
+diegoatj7: folds 
+DL1B: folds 
+coeeeelho: folds 
+Manifestorr: raises $2 to $3
+i.corbu: folds 
+Uncalled bet ($2) returned to Manifestorr
+Manifestorr collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: Rdalonso
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 2: Manifestorr (small blind) collected ($2)
+Seat 3: i.corbu (big blind) folded before Flop
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582338424:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:44:50 WET [2025/01/27 13:44:50 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 6: Rdalonso ($100 in chips) is sitting out
+Seat 1: coeeeelho ($111.65 in chips) 
+Seat 2: Manifestorr ($103.41 in chips) 
+Seat 3: i.corbu ($190.20 in chips) 
+Seat 4: diegoatj7 ($147.72 in chips) 
+Seat 5: DL1B ($108.21 in chips) 
+i.corbu: posts small blind $0.50
+diegoatj7: posts big blind $1
+Rdalonso: sits out 
+*** HOLE CARDS ***
+DL1B: folds 
+coeeeelho: raises $1.30 to $2.30
+Manifestorr: folds 
+i.corbu has timed out
+i.corbu: folds 
+diegoatj7: calls $1.30
+*** FLOP *** [7c As Qd]
+diegoatj7: checks 
+coeeeelho: checks 
+*** TURN *** [7c As Qd] [Tc]
+diegoatj7: bets $4.84
+coeeeelho: calls $4.84
+*** RIVER *** [7c As Qd Tc] [7d]
+diegoatj7: bets $14.04
+coeeeelho: folds 
+Uncalled bet ($14.04) returned to diegoatj7
+diegoatj7 collected $14.04 from pot
+*** SUMMARY ***
+Total pot $14.78 | Rake $0.74 
+Board [7c As Qd Tc 7d]
+Seat 6: Rdalonso
+Seat 1: coeeeelho folded on the River
+Seat 2: Manifestorr (button) folded before Flop (didn't bet)
+Seat 3: i.corbu (small blind) folded before Flop
+Seat 4: diegoatj7 (big blind) collected ($14.04)
+Seat 5: DL1B folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582362094:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:46:12 WET [2025/01/27 13:46:12 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 6: Rdalonso ($100 in chips) is sitting out
+Seat 1: coeeeelho ($104.51 in chips) 
+Seat 2: Manifestorr ($103.41 in chips) 
+Seat 3: i.corbu ($189.70 in chips) 
+Seat 4: diegoatj7 ($154.62 in chips) 
+Seat 5: DL1B ($108.21 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+Rdalonso: sits out 
+*** HOLE CARDS ***
+coeeeelho: folds 
+Manifestorr: folds 
+i.corbu: raises $3.50 to $4.50
+diegoatj7: folds 
+DL1B: raises $9.50 to $14
+i.corbu: calls $9.50
+*** FLOP *** [As Ts Jh]
+DL1B: checks 
+i.corbu: bets $27.08
+DL1B: folds 
+Uncalled bet ($27.08) returned to i.corbu
+i.corbu collected $27.08 from pot
+*** SUMMARY ***
+Total pot $28.50 | Rake $1.42 
+Board [As Ts Jh]
+Seat 6: Rdalonso
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu (button) collected ($27.08)
+Seat 4: diegoatj7 (small blind) folded before Flop
+Seat 5: DL1B (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254582375308:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:46:57 WET [2025/01/27 13:46:57 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 1: coeeeelho ($104.51 in chips) 
+Seat 2: Manifestorr ($103.41 in chips) 
+Seat 3: i.corbu ($202.78 in chips) 
+Seat 4: diegoatj7 ($154.12 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: Rdalonso ($100 in chips) 
+DL1B: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Manifestorr: folds 
+i.corbu: folds 
+diegoatj7: folds 
+DL1B: raises $2 to $3
+Rdalonso: calls $2
+*** FLOP *** [9d 9s 6d]
+DL1B: checks 
+Rdalonso: checks 
+*** TURN *** [9d 9s 6d] [Js]
+DL1B: bets $4.33
+Rdalonso: calls $4.33
+*** RIVER *** [9d 9s 6d Js] [4h]
+DL1B: bets $10.59
+Rdalonso: calls $10.59
+*** SHOW DOWN ***
+DL1B: shows [7s Ks] (a pair of Nines)
+Rdalonso: shows [Th Ad] (a pair of Nines - Ace kicker)
+Rdalonso collected $34.05 from pot
+*** SUMMARY ***
+Total pot $35.84 | Rake $1.79 
+Board [9d 9s 6d Js 4h]
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 (button) folded before Flop (didn't bet)
+Seat 5: DL1B (small blind) showed [7s Ks] and lost with a pair of Nines
+Seat 6: Rdalonso (big blind) showed [Th Ad] and won ($34.05) with a pair of Nines
+
+
+
+PokerStars Hand #254582399161:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:48:19 WET [2025/01/27 13:48:19 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 1: coeeeelho ($104.51 in chips) 
+Seat 2: Manifestorr ($103.41 in chips) 
+Seat 3: i.corbu ($202.78 in chips) 
+Seat 4: diegoatj7 ($154.12 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: Rdalonso ($116.13 in chips) 
+Rdalonso: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+i.corbu: folds 
+diegoatj7: folds 
+DL1B: folds 
+Rdalonso: folds 
+Uncalled bet ($0.50) returned to coeeeelho
+coeeeelho collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: coeeeelho (big blind) collected ($1)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254582406073:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:48:44 WET [2025/01/27 13:48:44 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 1: coeeeelho ($105.01 in chips) 
+Seat 2: Manifestorr ($103.41 in chips) 
+Seat 3: i.corbu ($202.78 in chips) 
+Seat 4: diegoatj7 ($154.12 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: Rdalonso ($115.63 in chips) 
+coeeeelho: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+i.corbu: calls $1
+diegoatj7: folds 
+DL1B: raises $2.50 to $3.50
+Rdalonso: folds 
+coeeeelho: calls $3
+Manifestorr: folds 
+i.corbu: folds 
+*** FLOP *** [Qd 5s Ad]
+coeeeelho: checks 
+DL1B: bets $2.82
+coeeeelho: raises $7.18 to $10
+DL1B: folds 
+Uncalled bet ($7.18) returned to coeeeelho
+coeeeelho collected $13.91 from pot
+*** SUMMARY ***
+Total pot $14.64 | Rake $0.73 
+Board [Qd 5s Ad]
+Seat 1: coeeeelho (small blind) collected ($13.91)
+Seat 2: Manifestorr (big blind) folded before Flop
+Seat 3: i.corbu folded before Flop
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B folded on the Flop
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582426632:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:49:56 WET [2025/01/27 13:49:56 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 1: coeeeelho ($112.60 in chips) 
+Seat 2: Manifestorr ($102.41 in chips) 
+Seat 3: i.corbu ($201.78 in chips) 
+Seat 4: diegoatj7 ($154.12 in chips) 
+Seat 5: DL1B ($93.81 in chips) 
+Seat 6: Rdalonso ($115.63 in chips) 
+Manifestorr: posts small blind $0.50
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: folds 
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: raises $1.20 to $2.20
+Manifestorr: folds 
+i.corbu: folds 
+Uncalled bet ($1.20) returned to coeeeelho
+coeeeelho collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: coeeeelho (button) collected ($2.50)
+Seat 2: Manifestorr (small blind) folded before Flop
+Seat 3: i.corbu (big blind) folded before Flop
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582434556:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:50:24 WET [2025/01/27 13:50:24 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 1: coeeeelho ($114.10 in chips) 
+Seat 2: Manifestorr ($101.91 in chips) 
+Seat 3: i.corbu ($200.78 in chips) 
+Seat 4: diegoatj7 ($154.12 in chips) 
+Seat 5: DL1B ($93.81 in chips) 
+Seat 6: Rdalonso ($115.63 in chips) 
+i.corbu: posts small blind $0.50
+diegoatj7: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: raises $1.20 to $2.20
+i.corbu has timed out
+i.corbu: folds 
+diegoatj7: calls $1.20
+*** FLOP *** [4h Qh As]
+diegoatj7: checks 
+Manifestorr: checks 
+*** TURN *** [4h Qh As] [Td]
+diegoatj7: checks 
+i.corbu is disconnected 
+Manifestorr: checks 
+*** RIVER *** [4h Qh As Td] [7d]
+diegoatj7: checks 
+Manifestorr: bets $1.54
+diegoatj7: folds 
+Uncalled bet ($1.54) returned to Manifestorr
+Manifestorr collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [4h Qh As Td 7d]
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr (button) collected ($4.66)
+Seat 3: i.corbu (small blind) folded before Flop
+Seat 4: diegoatj7 (big blind) folded on the River
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582543783:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:57:28 WET [2025/01/27 13:57:28 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 1: coeeeelho ($107.42 in chips) 
+Seat 2: Manifestorr ($109.26 in chips) 
+Seat 3: i.corbu ($188.56 in chips) 
+Seat 4: diegoatj7 ($163.25 in chips) 
+Seat 5: DL1B ($105.30 in chips) 
+Seat 6: Rdalonso ($112.63 in chips) 
+DL1B: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: raises $1.20 to $2.20
+Manifestorr: raises $4.80 to $7
+i.corbu: folds 
+diegoatj7: folds 
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Uncalled bet ($4.80) returned to Manifestorr
+Manifestorr collected $5.90 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: coeeeelho folded before Flop
+Seat 2: Manifestorr collected ($5.90)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 (button) folded before Flop (didn't bet)
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254582550003:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:57:58 WET [2025/01/27 13:57:58 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 1: coeeeelho ($105.22 in chips) 
+Seat 2: Manifestorr ($112.96 in chips) 
+Seat 3: i.corbu ($188.56 in chips) 
+Seat 4: diegoatj7 ($163.25 in chips) 
+Seat 5: DL1B ($104.80 in chips) 
+Seat 6: Rdalonso ($111.63 in chips) 
+Rdalonso: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+i.corbu: folds 
+diegoatj7: folds 
+DL1B: folds 
+Rdalonso: raises $2 to $3
+coeeeelho: calls $2
+*** FLOP *** [9h 8c 5d]
+Rdalonso: checks 
+coeeeelho: checks 
+*** TURN *** [9h 8c 5d] [9s]
+Rdalonso: checks 
+coeeeelho: checks 
+*** RIVER *** [9h 8c 5d 9s] [Th]
+Rdalonso: bets $2.85
+coeeeelho: folds 
+Uncalled bet ($2.85) returned to Rdalonso
+Rdalonso collected $5.70 from pot
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [9h 8c 5d 9s Th]
+Seat 1: coeeeelho (big blind) folded on the River
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: Rdalonso (small blind) collected ($5.70)
+
+
+
+PokerStars Hand #254582565174:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:59:12 WET [2025/01/27 13:59:12 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 1: coeeeelho ($102.22 in chips) 
+Seat 2: Manifestorr ($112.96 in chips) 
+Seat 3: i.corbu ($188.56 in chips) 
+Seat 4: diegoatj7 ($163.25 in chips) 
+Seat 5: DL1B ($104.80 in chips) 
+Seat 6: Rdalonso ($114.33 in chips) 
+coeeeelho: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+i.corbu: folds 
+diegoatj7: raises $2 to $3
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: calls $2
+*** FLOP *** [3h 6c Jh]
+Manifestorr: bets $2.04
+diegoatj7: calls $2.04
+*** TURN *** [3h 6c Jh] [5s]
+Manifestorr: bets $12.56
+diegoatj7: raises $35.17 to $47.73
+Manifestorr: folds 
+Uncalled bet ($35.17) returned to diegoatj7
+diegoatj7 collected $33.92 from pot
+*** SUMMARY ***
+Total pot $35.70 | Rake $1.78 
+Board [3h 6c Jh 5s]
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: Manifestorr (big blind) folded on the Turn
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 collected ($33.92)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582573656:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:59:53 WET [2025/01/27 13:59:53 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 1: coeeeelho ($101.72 in chips) 
+Seat 2: Manifestorr ($100 in chips) 
+Seat 3: i.corbu ($188.56 in chips) 
+Seat 4: diegoatj7 ($179.57 in chips) 
+Seat 5: DL1B ($104.80 in chips) 
+Seat 6: Rdalonso ($114.33 in chips) 
+Manifestorr: posts small blind $0.50
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: folds 
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: folds 
+Uncalled bet ($0.50) returned to i.corbu
+i.corbu collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 2: Manifestorr (small blind) folded before Flop
+Seat 3: i.corbu (big blind) collected ($1)
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582576139:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:00:05 WET [2025/01/27 14:00:05 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 1: coeeeelho ($101.72 in chips) 
+Seat 2: Manifestorr ($100 in chips) 
+Seat 3: i.corbu ($189.06 in chips) 
+Seat 4: diegoatj7 ($179.57 in chips) 
+Seat 5: DL1B ($104.80 in chips) 
+Seat 6: Rdalonso ($114.33 in chips) 
+i.corbu: posts small blind $0.50
+diegoatj7: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: raises $1.20 to $2.20
+Manifestorr: folds 
+i.corbu: calls $1.70
+diegoatj7: calls $1.20
+*** FLOP *** [9s As Kc]
+i.corbu: checks 
+diegoatj7: checks 
+coeeeelho: bets $2
+i.corbu: calls $2
+diegoatj7: folds 
+*** TURN *** [9s As Kc] [Jc]
+i.corbu: checks 
+coeeeelho: bets $7.55
+i.corbu: folds 
+Uncalled bet ($7.55) returned to coeeeelho
+coeeeelho collected $10.07 from pot
+*** SUMMARY ***
+Total pot $10.60 | Rake $0.53 
+Board [9s As Kc Jc]
+Seat 1: coeeeelho collected ($10.07)
+Seat 2: Manifestorr (button) folded before Flop (didn't bet)
+Seat 3: i.corbu (small blind) folded on the Turn
+Seat 4: diegoatj7 (big blind) folded on the Flop
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582590143:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:01:09 WET [2025/01/27 14:01:09 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 1: coeeeelho ($107.59 in chips) 
+Seat 2: Manifestorr ($100 in chips) 
+Seat 3: i.corbu ($184.86 in chips) 
+Seat 4: diegoatj7 ($177.37 in chips) 
+Seat 5: DL1B ($104.80 in chips) 
+Seat 6: Rdalonso ($114.33 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: folds 
+i.corbu: folds 
+diegoatj7: raises $2 to $3
+DL1B: folds 
+Uncalled bet ($2) returned to diegoatj7
+diegoatj7 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu (button) folded before Flop (didn't bet)
+Seat 4: diegoatj7 (small blind) collected ($2)
+Seat 5: DL1B (big blind) folded before Flop
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582594558:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:01:27 WET [2025/01/27 14:01:27 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 1: coeeeelho ($107.59 in chips) 
+Seat 2: Manifestorr ($100 in chips) 
+Seat 3: i.corbu ($184.86 in chips) 
+Seat 4: diegoatj7 ($178.37 in chips) 
+Seat 5: DL1B ($103.80 in chips) 
+Seat 6: Rdalonso ($114.33 in chips) 
+DL1B: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Manifestorr: raises $1.20 to $2.20
+i.corbu: calls $2.20
+diegoatj7: calls $2.20
+DL1B: folds 
+Rdalonso: folds 
+*** FLOP *** [2c Kh 4d]
+Manifestorr: bets $3.85
+i.corbu: folds 
+diegoatj7: folds 
+Uncalled bet ($3.85) returned to Manifestorr
+Manifestorr collected $7.70 from pot
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.40 
+Board [2c Kh 4d]
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr collected ($7.70)
+Seat 3: i.corbu folded on the Flop
+Seat 4: diegoatj7 (button) folded on the Flop
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254582601728:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:01:55 WET [2025/01/27 14:01:55 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 1: coeeeelho ($107.59 in chips) 
+Seat 2: Manifestorr ($105.50 in chips) 
+Seat 3: i.corbu ($182.66 in chips) 
+Seat 4: diegoatj7 ($176.17 in chips) 
+Seat 5: DL1B ($103.30 in chips) 
+Seat 6: Rdalonso ($113.33 in chips) 
+Rdalonso: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: raises $1.20 to $2.20
+i.corbu: calls $2.20
+diegoatj7: folds 
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+*** FLOP *** [7c 7h Kc]
+Manifestorr: checks 
+i.corbu: checks 
+*** TURN *** [7c 7h Kc] [5h]
+Manifestorr: bets $7.56
+i.corbu: folds 
+Uncalled bet ($7.56) returned to Manifestorr
+Manifestorr collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [7c 7h Kc 5h]
+Seat 1: coeeeelho (big blind) folded before Flop
+Seat 2: Manifestorr collected ($5.60)
+Seat 3: i.corbu folded on the Turn
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254582611335:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:02:28 WET [2025/01/27 14:02:28 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 1: coeeeelho ($106.59 in chips) 
+Seat 2: Manifestorr ($108.90 in chips) 
+Seat 3: i.corbu ($180.46 in chips) 
+Seat 4: diegoatj7 ($176.17 in chips) 
+Seat 5: DL1B ($103.30 in chips) 
+Seat 6: Rdalonso ($112.83 in chips) 
+coeeeelho: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+i.corbu: calls $1
+diegoatj7: folds 
+DL1B: raises $2.50 to $3.50
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: folds 
+i.corbu: calls $2.50
+*** FLOP *** [9d 9c 8h]
+i.corbu: checks 
+DL1B: checks 
+*** TURN *** [9d 9c 8h] [5c]
+i.corbu: bets $3
+DL1B: folds 
+Uncalled bet ($3) returned to i.corbu
+i.corbu collected $8.08 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [9d 9c 8h 5c]
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: Manifestorr (big blind) folded before Flop
+Seat 3: i.corbu collected ($8.08)
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B folded on the Turn
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582621687:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:03:05 WET [2025/01/27 14:03:05 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 1: coeeeelho ($106.09 in chips) 
+Seat 2: Manifestorr ($107.90 in chips) 
+Seat 3: i.corbu ($185.04 in chips) 
+Seat 4: diegoatj7 ($176.17 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: Rdalonso ($112.83 in chips) 
+Manifestorr: posts small blind $0.50
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: folds 
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: raises $1.50 to $2.50
+Manifestorr: folds 
+i.corbu: calls $1.50
+*** FLOP *** [6d 8s 7s]
+i.corbu: checks 
+coeeeelho: checks 
+*** TURN *** [6d 8s 7s] [Kh]
+i.corbu: checks 
+coeeeelho: bets $3.92
+i.corbu: folds 
+Uncalled bet ($3.92) returned to coeeeelho
+coeeeelho collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [6d 8s 7s Kh]
+Seat 1: coeeeelho (button) collected ($5.22)
+Seat 2: Manifestorr (small blind) folded before Flop
+Seat 3: i.corbu (big blind) folded on the Turn
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582629465:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:03:32 WET [2025/01/27 14:03:32 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 1: coeeeelho ($108.81 in chips) 
+Seat 2: Manifestorr ($107.40 in chips) 
+Seat 3: i.corbu ($182.54 in chips) 
+Seat 4: diegoatj7 ($176.17 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: Rdalonso ($112.83 in chips) 
+i.corbu: posts small blind $0.50
+diegoatj7: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: folds 
+i.corbu: calls $0.50
+diegoatj7: checks 
+*** FLOP *** [8d Qs Ad]
+i.corbu: checks 
+diegoatj7: checks 
+*** TURN *** [8d Qs Ad] [Kc]
+i.corbu: checks 
+diegoatj7: checks 
+*** RIVER *** [8d Qs Ad Kc] [8s]
+i.corbu: checks 
+diegoatj7: checks 
+*** SHOW DOWN ***
+i.corbu: shows [5d 3h] (a pair of Eights)
+diegoatj7: shows [6c Jd] (a pair of Eights)
+i.corbu collected $0.95 from pot
+diegoatj7 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [8d Qs Ad Kc 8s]
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr (button) folded before Flop (didn't bet)
+Seat 3: i.corbu (small blind) showed [5d 3h] and won ($0.95) with a pair of Eights
+Seat 4: diegoatj7 (big blind) showed [6c Jd] and won ($0.95) with a pair of Eights
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582642140:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:04:17 WET [2025/01/27 14:04:17 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 1: coeeeelho ($108.81 in chips) 
+Seat 2: Manifestorr ($107.40 in chips) 
+Seat 3: i.corbu ($182.49 in chips) 
+Seat 4: diegoatj7 ($176.12 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: Rdalonso ($112.83 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: raises $1.20 to $2.20
+i.corbu: calls $2.20
+diegoatj7: folds 
+DL1B: folds 
+*** FLOP *** [Qc 6h 7c]
+Manifestorr: bets $4.20
+i.corbu: folds 
+Uncalled bet ($4.20) returned to Manifestorr
+Manifestorr collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [Qc 6h 7c]
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr collected ($5.60)
+Seat 3: i.corbu (button) folded on the Flop
+Seat 4: diegoatj7 (small blind) folded before Flop
+Seat 5: DL1B (big blind) folded before Flop
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582652150:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:04:51 WET [2025/01/27 14:04:51 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 1: coeeeelho ($108.81 in chips) 
+Seat 2: Manifestorr ($110.80 in chips) 
+Seat 3: i.corbu ($180.29 in chips) 
+Seat 4: diegoatj7 ($175.62 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: Rdalonso ($112.83 in chips) 
+DL1B: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Manifestorr: folds 
+i.corbu: folds 
+diegoatj7: raises $2 to $3
+DL1B: folds 
+Rdalonso: calls $2
+*** FLOP *** [Td 6d 8d]
+Rdalonso: checks 
+diegoatj7: bets $6.18
+Rdalonso: calls $6.18
+*** TURN *** [Td 6d 8d] [As]
+Rdalonso: checks 
+diegoatj7: checks 
+*** RIVER *** [Td 6d 8d As] [Qs]
+Rdalonso: checks 
+diegoatj7: bets $8.96
+Rdalonso: folds 
+Uncalled bet ($8.96) returned to diegoatj7
+diegoatj7 collected $17.92 from pot
+*** SUMMARY ***
+Total pot $18.86 | Rake $0.94 
+Board [Td 6d 8d As Qs]
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 (button) collected ($17.92)
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded on the River
+
+
+
+PokerStars Hand #254582672192:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:06:01 WET [2025/01/27 14:06:01 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 1: coeeeelho ($108.81 in chips) 
+Seat 2: Manifestorr ($110.80 in chips) 
+Seat 3: i.corbu ($180.29 in chips) 
+Seat 4: diegoatj7 ($184.36 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: Rdalonso ($103.65 in chips) 
+Rdalonso: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+i.corbu: folds 
+diegoatj7: raises $2 to $3
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: calls $2
+*** FLOP *** [3s 6c Kd]
+coeeeelho: checks 
+diegoatj7: bets $3.09
+coeeeelho: raises $4.91 to $8
+diegoatj7: calls $4.91
+*** TURN *** [3s 6c Kd] [Jh]
+coeeeelho: checks 
+diegoatj7: bets $7.69
+coeeeelho: folds 
+Uncalled bet ($7.69) returned to diegoatj7
+diegoatj7 collected $21.38 from pot
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.12 
+Board [3s 6c Kd Jh]
+Seat 1: coeeeelho (big blind) folded on the Turn
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 collected ($21.38)
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254582688193:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:06:56 WET [2025/01/27 14:06:56 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: Manifestorr ($110.80 in chips) 
+Seat 3: i.corbu ($180.29 in chips) 
+Seat 4: diegoatj7 ($194.74 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: Rdalonso ($103.15 in chips) 
+coeeeelho: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+i.corbu: folds 
+diegoatj7: calls $1
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: checks 
+*** FLOP *** [3c 6h Qs]
+Manifestorr: checks 
+diegoatj7: bets $1.19
+Manifestorr: folds 
+Uncalled bet ($1.19) returned to diegoatj7
+diegoatj7 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [3c 6h Qs]
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: Manifestorr (big blind) folded on the Flop
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 collected ($2.38)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582694958:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:07:20 WET [2025/01/27 14:07:20 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: Manifestorr ($109.80 in chips) 
+Seat 3: i.corbu ($180.29 in chips) 
+Seat 4: diegoatj7 ($196.12 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: Rdalonso ($103.15 in chips) 
+Manifestorr: posts small blind $0.50
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: folds 
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: raises $2 to $3
+i.corbu: calls $2
+*** FLOP *** [Ts 8d Kc]
+Manifestorr: bets $4.28
+i.corbu: calls $4.28
+*** TURN *** [Ts 8d Kc] [9c]
+Manifestorr: bets $10.37
+i.corbu: calls $10.37
+*** RIVER *** [Ts 8d Kc 9c] [8c]
+Manifestorr: checks 
+i.corbu: checks 
+*** SHOW DOWN ***
+Manifestorr: shows [Ks Jc] (two pair, Kings and Eights)
+i.corbu: mucks hand 
+Manifestorr collected $33.54 from pot
+*** SUMMARY ***
+Total pot $35.30 | Rake $1.76 
+Board [Ts 8d Kc 9c 8c]
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 2: Manifestorr (small blind) showed [Ks Jc] and won ($33.54) with two pair, Kings and Eights
+Seat 3: i.corbu (big blind) mucked
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582717149:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:08:37 WET [2025/01/27 14:08:37 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 1: coeeeelho ($100 in chips) 
+Seat 2: Manifestorr ($125.69 in chips) 
+Seat 3: i.corbu ($162.64 in chips) 
+Seat 4: diegoatj7 ($196.12 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: Rdalonso ($103.15 in chips) 
+i.corbu: posts small blind $0.50
+diegoatj7: posts big blind $1
+*** HOLE CARDS ***
+DL1B: raises $1 to $2
+Rdalonso: folds 
+coeeeelho: calls $2
+Manifestorr: folds 
+i.corbu: calls $1.50
+diegoatj7: calls $1
+*** FLOP *** [Ts 5d 6c]
+i.corbu: bets $7.60
+diegoatj7: folds 
+DL1B: folds 
+coeeeelho: calls $7.60
+*** TURN *** [Ts 5d 6c] [8c]
+i.corbu: bets $11.02
+coeeeelho: raises $16.98 to $28
+i.corbu: calls $16.98
+*** RIVER *** [Ts 5d 6c 8c] [Jd]
+i.corbu: bets $1
+coeeeelho: raises $61.40 to $62.40 and is all-in
+i.corbu: calls $61.40
+*** SHOW DOWN ***
+coeeeelho: shows [Ad Jc] (a pair of Jacks)
+i.corbu: shows [As Tc] (a pair of Tens)
+coeeeelho collected $201.50 from pot
+*** SUMMARY ***
+Total pot $204 | Rake $2.50 
+Board [Ts 5d 6c 8c Jd]
+Seat 1: coeeeelho showed [Ad Jc] and won ($201.50) with a pair of Jacks
+Seat 2: Manifestorr (button) folded before Flop (didn't bet)
+Seat 3: i.corbu (small blind) showed [As Tc] and lost with a pair of Tens
+Seat 4: diegoatj7 (big blind) folded on the Flop
+Seat 5: DL1B folded on the Flop
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582747902:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:10:23 WET [2025/01/27 14:10:23 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 1: coeeeelho ($201.50 in chips) 
+Seat 2: Manifestorr ($125.69 in chips) 
+Seat 3: i.corbu ($62.64 in chips) 
+Seat 4: diegoatj7 ($194.12 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: Rdalonso ($103.15 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: folds 
+i.corbu: folds 
+diegoatj7: calls $0.50
+DL1B: checks 
+*** FLOP *** [Ts Td Qh]
+diegoatj7: checks 
+DL1B: bets $1
+diegoatj7: folds 
+Uncalled bet ($1) returned to DL1B
+DL1B collected $1.90 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Ts Td Qh]
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu (button) folded before Flop (didn't bet)
+Seat 4: diegoatj7 (small blind) folded on the Flop
+Seat 5: DL1B (big blind) collected ($1.90)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582758548:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:10:59 WET [2025/01/27 14:10:59 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 1: coeeeelho ($201.50 in chips) 
+Seat 2: Manifestorr ($125.69 in chips) 
+Seat 3: i.corbu ($62.64 in chips) 
+Seat 4: diegoatj7 ($193.12 in chips) 
+Seat 5: DL1B ($100.90 in chips) 
+Seat 6: Rdalonso ($103.15 in chips) 
+DL1B: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Manifestorr: folds 
+i.corbu: raises $2 to $3
+diegoatj7: calls $3
+DL1B: folds 
+Rdalonso: folds 
+*** FLOP *** [Ks 7h 8c]
+i.corbu: bets $3
+diegoatj7: calls $3
+*** TURN *** [Ks 7h 8c] [Jh]
+i.corbu: bets $12.82
+diegoatj7: calls $12.82
+*** RIVER *** [Ks 7h 8c Jh] [Ac]
+i.corbu: bets $31.59
+diegoatj7: folds 
+Uncalled bet ($31.59) returned to i.corbu
+i.corbu collected $37.18 from pot
+*** SUMMARY ***
+Total pot $39.14 | Rake $1.96 
+Board [Ks 7h 8c Jh Ac]
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu collected ($37.18)
+Seat 4: diegoatj7 (button) folded on the River
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254582455192:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:51:36 WET [2025/01/27 13:51:36 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 3: i.corbu ($200.28 in chips) is sitting out
+Seat 1: coeeeelho ($114.10 in chips) 
+Seat 2: Manifestorr ($104.37 in chips) 
+Seat 4: diegoatj7 ($151.92 in chips) 
+Seat 5: DL1B ($93.81 in chips) 
+Seat 6: Rdalonso ($115.63 in chips) 
+DL1B: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho has timed out
+coeeeelho: folds 
+Manifestorr: folds 
+diegoatj7: raises $2.50 to $3.50
+DL1B: folds 
+Rdalonso: folds 
+Uncalled bet ($2.50) returned to diegoatj7
+diegoatj7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: i.corbu
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 4: diegoatj7 (button) collected ($2.50)
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254582462570:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:52:02 WET [2025/01/27 13:52:02 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 3: i.corbu ($200.28 in chips) is sitting out
+Seat 1: coeeeelho ($114.10 in chips) 
+Seat 2: Manifestorr ($104.37 in chips) 
+Seat 4: diegoatj7 ($153.42 in chips) 
+Seat 5: DL1B ($93.31 in chips) 
+Seat 6: Rdalonso ($114.63 in chips) 
+Rdalonso: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+diegoatj7: raises $2.50 to $3.50
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: calls $2.50
+*** FLOP *** [Th Qh Ac]
+coeeeelho: checks 
+diegoatj7: checks 
+*** TURN *** [Th Qh Ac] [9h]
+coeeeelho: checks 
+diegoatj7: bets $3.56
+coeeeelho: calls $3.56
+*** RIVER *** [Th Qh Ac 9h] [Kh]
+coeeeelho: checks 
+diegoatj7: checks 
+*** SHOW DOWN ***
+coeeeelho: shows [As 2s] (a pair of Aces)
+diegoatj7: shows [Kd Qd] (two pair, Kings and Queens)
+diegoatj7 collected $13.89 from pot
+*** SUMMARY ***
+Total pot $14.62 | Rake $0.73 
+Board [Th Qh Ac 9h Kh]
+Seat 3: i.corbu
+Seat 1: coeeeelho (big blind) showed [As 2s] and lost with a pair of Aces
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 4: diegoatj7 showed [Kd Qd] and won ($13.89) with two pair, Kings and Queens
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254582478691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:52:58 WET [2025/01/27 13:52:58 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 3: i.corbu ($200.28 in chips) is sitting out
+Seat 1: coeeeelho ($107.04 in chips) 
+Seat 2: Manifestorr ($104.37 in chips) 
+Seat 4: diegoatj7 ($160.25 in chips) 
+Seat 5: DL1B ($93.31 in chips) 
+Seat 6: Rdalonso ($114.13 in chips) 
+coeeeelho: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: raises $2 to $3
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: folds 
+Uncalled bet ($2) returned to diegoatj7
+diegoatj7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: i.corbu
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: Manifestorr (big blind) folded before Flop
+Seat 4: diegoatj7 collected ($2.50)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582482138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:53:10 WET [2025/01/27 13:53:10 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 3: i.corbu ($200.28 in chips) is sitting out
+Seat 1: coeeeelho ($106.54 in chips) 
+Seat 2: Manifestorr ($103.37 in chips) 
+Seat 4: diegoatj7 ($161.75 in chips) 
+Seat 5: DL1B ($93.31 in chips) 
+Seat 6: Rdalonso ($114.13 in chips) 
+Manifestorr: posts small blind $0.50
+diegoatj7: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: raises $2 to $3
+diegoatj7: folds 
+Uncalled bet ($2) returned to Manifestorr
+Manifestorr collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: i.corbu
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 2: Manifestorr (small blind) collected ($2)
+Seat 4: diegoatj7 (big blind) folded before Flop
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582488353:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:53:32 WET [2025/01/27 13:53:32 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 3: i.corbu ($200.28 in chips) is sitting out
+Seat 1: coeeeelho ($106.54 in chips) 
+Seat 2: Manifestorr ($104.37 in chips) 
+Seat 4: diegoatj7 ($160.75 in chips) 
+Seat 5: DL1B ($93.31 in chips) 
+Seat 6: Rdalonso ($114.13 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: folds 
+diegoatj7: raises $2 to $3
+DL1B: folds 
+Uncalled bet ($2) returned to diegoatj7
+diegoatj7 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: i.corbu
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr (button) folded before Flop (didn't bet)
+Seat 4: diegoatj7 (small blind) collected ($2)
+Seat 5: DL1B (big blind) folded before Flop
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582495935:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:53:59 WET [2025/01/27 13:53:59 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 1: coeeeelho ($106.54 in chips) 
+Seat 2: Manifestorr ($104.37 in chips) 
+Seat 3: i.corbu ($200.28 in chips) 
+Seat 4: diegoatj7 ($161.75 in chips) 
+Seat 5: DL1B ($92.31 in chips) 
+Seat 6: Rdalonso ($114.13 in chips) 
+DL1B: posts small blind $0.50
+Rdalonso: posts big blind $1
+i.corbu: posts small & big blinds $1.50
+*** HOLE CARDS ***
+coeeeelho: folds 
+Manifestorr: folds 
+i.corbu: checks 
+diegoatj7: raises $2 to $3
+DL1B: folds 
+Rdalonso: folds 
+i.corbu: folds 
+Uncalled bet ($2) returned to diegoatj7
+diegoatj7 collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 (button) collected ($4)
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254582502341:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:54:22 WET [2025/01/27 13:54:22 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 1: coeeeelho ($106.54 in chips) 
+Seat 2: Manifestorr ($104.37 in chips) 
+Seat 3: i.corbu ($198.78 in chips) 
+Seat 4: diegoatj7 ($164.75 in chips) 
+Seat 5: DL1B ($91.81 in chips) 
+Seat 6: Rdalonso ($113.13 in chips) 
+Rdalonso: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+i.corbu: folds 
+diegoatj7: calls $1
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: checks 
+*** FLOP *** [Kd Ac 4d]
+coeeeelho: checks 
+diegoatj7: checks 
+*** TURN *** [Kd Ac 4d] [3h]
+coeeeelho: checks 
+diegoatj7: checks 
+*** RIVER *** [Kd Ac 4d 3h] [Jh]
+coeeeelho: bets $1.78
+diegoatj7: folds 
+Uncalled bet ($1.78) returned to coeeeelho
+coeeeelho collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Kd Ac 4d 3h Jh]
+Seat 1: coeeeelho (big blind) collected ($2.38)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 folded on the River
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254582514371:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:55:05 WET [2025/01/27 13:55:05 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 1: coeeeelho ($107.92 in chips) 
+Seat 2: Manifestorr ($104.37 in chips) 
+Seat 3: i.corbu ($198.78 in chips) 
+Seat 4: diegoatj7 ($163.75 in chips) 
+Seat 5: DL1B ($100 in chips) 
+Seat 6: Rdalonso ($112.63 in chips) 
+coeeeelho: posts small blind $0.50
+Manifestorr: posts big blind $1
+*** HOLE CARDS ***
+i.corbu is disconnected 
+i.corbu has timed out while disconnected
+i.corbu: folds 
+diegoatj7: folds 
+DL1B: raises $1.50 to $2.50
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: folds 
+Uncalled bet ($1.50) returned to DL1B
+DL1B collected $2.50 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: Manifestorr (big blind) folded before Flop
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B collected ($2.50)
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582519519:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:55:29 WET [2025/01/27 13:55:29 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 1: coeeeelho ($107.42 in chips) 
+Seat 2: Manifestorr ($103.37 in chips) 
+Seat 3: i.corbu ($198.78 in chips) 
+Seat 4: diegoatj7 ($163.75 in chips) 
+Seat 5: DL1B ($101.50 in chips) 
+Seat 6: Rdalonso ($112.63 in chips) 
+Manifestorr: posts small blind $0.50
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: raises $2 to $3
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: folds 
+i.corbu: folds 
+Uncalled bet ($2) returned to diegoatj7
+diegoatj7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 2: Manifestorr (small blind) folded before Flop
+Seat 3: i.corbu (big blind) folded before Flop
+Seat 4: diegoatj7 collected ($2.50)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582522841:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:55:45 WET [2025/01/27 13:55:45 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 1: coeeeelho ($107.42 in chips) 
+Seat 2: Manifestorr ($102.87 in chips) 
+Seat 3: i.corbu ($197.78 in chips) 
+Seat 4: diegoatj7 ($165.25 in chips) 
+Seat 5: DL1B ($101.50 in chips) 
+Seat 6: Rdalonso ($112.63 in chips) 
+i.corbu: posts small blind $0.50
+diegoatj7: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: raises $1.20 to $2.20
+i.corbu: calls $1.70
+diegoatj7: folds 
+*** FLOP *** [Jc Qh 7d]
+i.corbu: checks 
+Manifestorr: bets $3.85
+i.corbu: calls $3.85
+*** TURN *** [Jc Qh 7d] [4s]
+i.corbu: checks 
+Manifestorr: checks 
+*** RIVER *** [Jc Qh 7d 4s] [6c]
+i.corbu: checks 
+Manifestorr: checks 
+*** SHOW DOWN ***
+i.corbu: shows [9c 8s] (high card Queen)
+Manifestorr: shows [5s 5c] (a pair of Fives)
+Manifestorr collected $12.44 from pot
+*** SUMMARY ***
+Total pot $13.10 | Rake $0.66 
+Board [Jc Qh 7d 4s 6c]
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr (button) showed [5s 5c] and won ($12.44) with a pair of Fives
+Seat 3: i.corbu (small blind) showed [9c 8s] and lost with high card Queen
+Seat 4: diegoatj7 (big blind) folded before Flop
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582533313:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 18:56:36 WET [2025/01/27 13:56:36 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 1: coeeeelho ($107.42 in chips) 
+Seat 2: Manifestorr ($109.26 in chips) 
+Seat 3: i.corbu ($191.73 in chips) 
+Seat 4: diegoatj7 ($164.25 in chips) 
+Seat 5: DL1B ($101.50 in chips) 
+Seat 6: Rdalonso ($112.63 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+coeeeelho: folds 
+Manifestorr: folds 
+i.corbu: calls $1
+diegoatj7: calls $0.50
+DL1B: checks 
+*** FLOP *** [2h 3h Ad]
+diegoatj7: checks 
+DL1B: checks 
+i.corbu: checks 
+*** TURN *** [2h 3h Ad] [3c]
+diegoatj7: checks 
+DL1B: bets $2.17
+i.corbu: calls $2.17
+diegoatj7: folds 
+*** RIVER *** [2h 3h Ad 3c] [Td]
+DL1B: bets $5.30
+i.corbu: folds 
+Uncalled bet ($5.30) returned to DL1B
+DL1B collected $6.97 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.34 | Rake $0.37 
+Board [2h 3h Ad 3c Td]
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu (button) folded on the River
+Seat 4: diegoatj7 (small blind) folded on the Turn
+Seat 5: DL1B (big blind) collected ($6.97)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582782862:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:12:23 WET [2025/01/27 14:12:23 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 1: coeeeelho ($201.50 in chips) 
+Seat 2: Manifestorr ($125.69 in chips) 
+Seat 3: i.corbu ($81 in chips) 
+Seat 4: diegoatj7 ($174.30 in chips) 
+Seat 5: DL1B ($100.40 in chips) 
+Seat 6: Rdalonso ($102.15 in chips) 
+Rdalonso: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Manifestorr: folds 
+i.corbu: calls $1
+diegoatj7: calls $1
+DL1B: raises $3.50 to $4.50
+Rdalonso: folds 
+coeeeelho: folds 
+i.corbu has timed out
+i.corbu: folds 
+diegoatj7: calls $3.50
+*** FLOP *** [Kc 3d 2c]
+diegoatj7: checks 
+DL1B: bets $3.60
+diegoatj7: calls $3.60
+*** TURN *** [Kc 3d 2c] [Tc]
+diegoatj7: bets $8.88
+DL1B: calls $8.88
+*** RIVER *** [Kc 3d 2c Tc] [Qs]
+diegoatj7: bets $34.64
+DL1B: calls $34.64
+*** SHOW DOWN ***
+diegoatj7: shows [4d 5s] (high card King)
+DL1B: shows [Kd Jd] (a pair of Kings)
+DL1B collected $103.24 from pot
+*** SUMMARY ***
+Total pot $105.74 | Rake $2.50 
+Board [Kc 3d 2c Tc Qs]
+Seat 1: coeeeelho (big blind) folded before Flop
+Seat 2: Manifestorr folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop
+Seat 4: diegoatj7 showed [4d 5s] and lost with high card King
+Seat 5: DL1B (button) showed [Kd Jd] and won ($103.24) with a pair of Kings
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254582804983:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:13:39 WET [2025/01/27 14:13:39 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 2: Manifestorr ($125.69 in chips) is sitting out
+Seat 1: coeeeelho ($200.50 in chips) 
+Seat 3: i.corbu ($80 in chips) 
+Seat 4: diegoatj7 ($122.68 in chips) 
+Seat 5: DL1B ($152.02 in chips) 
+Seat 6: Rdalonso ($101.65 in chips) 
+coeeeelho: posts small blind $0.50
+Manifestorr: is sitting out 
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: folds 
+DL1B: folds 
+Manifestorr leaves the table
+Rdalonso: raises $1.50 to $2.50
+coeeeelho: folds 
+i.corbu: folds 
+Uncalled bet ($1.50) returned to Rdalonso
+Rdalonso collected $2.50 from pot
+Rdalonso: doesn't show hand 
+Unipoker11 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Manifestorr
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 3: i.corbu (big blind) folded before Flop
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) collected ($2.50)
+
+
+
+PokerStars Hand #254582811236:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:14:01 WET [2025/01/27 14:14:01 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 2: Unipoker11 ($100 in chips) is sitting out
+Seat 1: coeeeelho ($200 in chips) 
+Seat 3: i.corbu ($79 in chips) 
+Seat 4: diegoatj7 ($122.68 in chips) 
+Seat 5: DL1B ($152.02 in chips) 
+Seat 6: Rdalonso ($103.15 in chips) 
+i.corbu: posts small blind $0.50
+diegoatj7: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+i.corbu: folds 
+Uncalled bet ($0.50) returned to diegoatj7
+diegoatj7 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Unipoker11
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 3: i.corbu (small blind) folded before Flop
+Seat 4: diegoatj7 (big blind) collected ($1)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582815226:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:14:15 WET [2025/01/27 14:14:15 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 2: Unipoker11 ($100 in chips) is sitting out
+Seat 1: coeeeelho ($200 in chips) 
+Seat 3: i.corbu ($78.50 in chips) 
+Seat 4: diegoatj7 ($123.18 in chips) 
+Seat 5: DL1B ($152.02 in chips) 
+Seat 6: Rdalonso ($103.15 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+Unipoker11: sits out 
+*** HOLE CARDS ***
+Rdalonso: folds 
+coeeeelho: folds 
+i.corbu: folds 
+diegoatj7: calls $0.50
+DL1B: checks 
+*** FLOP *** [Td Kd Js]
+diegoatj7: checks 
+DL1B: bets $1
+diegoatj7: calls $1
+*** TURN *** [Td Kd Js] [Th]
+diegoatj7: checks 
+DL1B: checks 
+*** RIVER *** [Td Kd Js Th] [9d]
+diegoatj7: checks 
+DL1B: checks 
+*** SHOW DOWN ***
+diegoatj7: shows [Ks 6h] (two pair, Kings and Tens)
+DL1B: shows [3c Kc] (two pair, Kings and Tens)
+diegoatj7 collected $1.90 from pot
+DL1B collected $1.90 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Td Kd Js Th 9d]
+Seat 2: Unipoker11
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 3: i.corbu (button) folded before Flop (didn't bet)
+Seat 4: diegoatj7 (small blind) showed [Ks 6h] and won ($1.90) with two pair, Kings and Tens
+Seat 5: DL1B (big blind) showed [3c Kc] and won ($1.90) with two pair, Kings and Tens
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582821784:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:14:37 WET [2025/01/27 14:14:37 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 2: Unipoker11 ($100 in chips) is sitting out
+Seat 1: coeeeelho ($200 in chips) 
+Seat 3: i.corbu ($78.50 in chips) 
+Seat 4: diegoatj7 ($123.08 in chips) 
+Seat 5: DL1B ($151.92 in chips) 
+Seat 6: Rdalonso ($103.15 in chips) 
+DL1B: posts small blind $0.50
+Rdalonso: posts big blind $1
+Unipoker11: sits out 
+*** HOLE CARDS ***
+coeeeelho: raises $1.20 to $2.20
+i.corbu: folds 
+diegoatj7: raises $5.90 to $8.10
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: calls $5.90
+*** FLOP *** [4h 4s Qh]
+coeeeelho: checks 
+diegoatj7: bets $8.41
+coeeeelho: folds 
+Uncalled bet ($8.41) returned to diegoatj7
+diegoatj7 collected $16.82 from pot
+*** SUMMARY ***
+Total pot $17.70 | Rake $0.88 
+Board [4h 4s Qh]
+Seat 2: Unipoker11
+Seat 1: coeeeelho folded on the Flop
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 (button) collected ($16.82)
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254582829808:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:15:04 WET [2025/01/27 14:15:04 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 2: Unipoker11 ($100 in chips) is sitting out
+Seat 1: coeeeelho ($191.90 in chips) 
+Seat 3: i.corbu ($78.50 in chips) 
+Seat 4: diegoatj7 ($131.80 in chips) 
+Seat 5: DL1B ($151.42 in chips) 
+Seat 6: Rdalonso ($102.15 in chips) 
+Rdalonso: posts small blind $0.50
+coeeeelho: posts big blind $1
+Unipoker11: sits out 
+*** HOLE CARDS ***
+i.corbu has timed out
+i.corbu: folds 
+diegoatj7: folds 
+DL1B: folds 
+Rdalonso: raises $2 to $3
+coeeeelho: folds 
+Uncalled bet ($2) returned to Rdalonso
+Rdalonso collected $2 from pot
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: Unipoker11
+Seat 1: coeeeelho (big blind) folded before Flop
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: Rdalonso (small blind) collected ($2)
+
+
+
+PokerStars Hand #254582837435:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:15:31 WET [2025/01/27 14:15:31 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 1: coeeeelho ($190.90 in chips) 
+Seat 2: Unipoker11 ($100 in chips) 
+Seat 3: i.corbu ($78.50 in chips) 
+Seat 4: diegoatj7 ($131.80 in chips) 
+Seat 5: DL1B ($151.42 in chips) 
+Seat 6: Rdalonso ($103.15 in chips) 
+coeeeelho: posts small blind $0.50
+Unipoker11: posts big blind $1
+*** HOLE CARDS ***
+i.corbu: raises $1 to $2
+diegoatj7: raises $5.50 to $7.50
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Unipoker11: folds 
+i.corbu: raises $19.50 to $27
+diegoatj7: calls $19.50
+*** FLOP *** [Ts 8h 8d]
+i.corbu: bets $51.50 and is all-in
+diegoatj7: folds 
+Uncalled bet ($51.50) returned to i.corbu
+i.corbu collected $53 from pot
+*** SUMMARY ***
+Total pot $55.50 | Rake $2.50 
+Board [Ts 8h 8d]
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: Unipoker11 (big blind) folded before Flop
+Seat 3: i.corbu collected ($53)
+Seat 4: diegoatj7 folded on the Flop
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582847465:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:16:05 WET [2025/01/27 14:16:05 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 1: coeeeelho ($190.40 in chips) 
+Seat 2: Unipoker11 ($100 in chips) 
+Seat 3: i.corbu ($104.50 in chips) 
+Seat 4: diegoatj7 ($104.80 in chips) 
+Seat 5: DL1B ($151.42 in chips) 
+Seat 6: Rdalonso ($103.15 in chips) 
+Unipoker11: posts small blind $0.50
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: raises $2.50 to $3.50
+DL1B: folds 
+Rdalonso: raises $5.50 to $9
+coeeeelho: folds 
+Unipoker11: folds 
+i.corbu: folds 
+diegoatj7: calls $5.50
+*** FLOP *** [Kh 3s 2d]
+diegoatj7: checks 
+Rdalonso: bets $6.11
+diegoatj7: calls $6.11
+*** TURN *** [Kh 3s 2d] [4h]
+diegoatj7: checks 
+Rdalonso: bets $19.89
+diegoatj7: calls $19.89
+*** RIVER *** [Kh 3s 2d 4h] [7h]
+diegoatj7: checks 
+Rdalonso: bets $68.15 and is all-in
+diegoatj7: folds 
+Uncalled bet ($68.15) returned to Rdalonso
+Rdalonso collected $69 from pot
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $71.50 | Rake $2.50 
+Board [Kh 3s 2d 4h 7h]
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 2: Unipoker11 (small blind) folded before Flop
+Seat 3: i.corbu (big blind) folded before Flop
+Seat 4: diegoatj7 folded on the River
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso collected ($69)
+
+
+
+PokerStars Hand #254582868632:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:17:17 WET [2025/01/27 14:17:17 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 1: coeeeelho ($190.40 in chips) 
+Seat 2: Unipoker11 ($100 in chips) 
+Seat 3: i.corbu ($103.50 in chips) 
+Seat 4: diegoatj7 ($69.80 in chips) 
+Seat 5: DL1B ($151.42 in chips) 
+Seat 6: Rdalonso ($137.15 in chips) 
+i.corbu: posts small blind $0.50
+diegoatj7: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Unipoker11: folds 
+i.corbu: folds 
+Uncalled bet ($0.50) returned to diegoatj7
+diegoatj7 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Unipoker11 (button) folded before Flop (didn't bet)
+Seat 3: i.corbu (small blind) folded before Flop
+Seat 4: diegoatj7 (big blind) collected ($1)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582874820:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:17:38 WET [2025/01/27 14:17:38 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 1: coeeeelho ($190.40 in chips) 
+Seat 2: Unipoker11 ($100 in chips) 
+Seat 3: i.corbu ($103 in chips) 
+Seat 4: diegoatj7 ($70.30 in chips) 
+Seat 5: DL1B ($151.42 in chips) 
+Seat 6: Rdalonso ($137.15 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: raises $1.50 to $2.50
+coeeeelho: folds 
+Unipoker11: folds 
+i.corbu: calls $2.50
+diegoatj7: folds 
+DL1B: folds 
+*** FLOP *** [3h 5d 2h]
+Rdalonso: checks 
+i.corbu: bets $3.09
+Rdalonso: folds 
+Uncalled bet ($3.09) returned to i.corbu
+i.corbu collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [3h 5d 2h]
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Unipoker11 folded before Flop (didn't bet)
+Seat 3: i.corbu (button) collected ($6.18)
+Seat 4: diegoatj7 (small blind) folded before Flop
+Seat 5: DL1B (big blind) folded before Flop
+Seat 6: Rdalonso folded on the Flop
+
+
+
+PokerStars Hand #254582888462:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:18:24 WET [2025/01/27 14:18:24 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 1: coeeeelho ($190.40 in chips) 
+Seat 2: Unipoker11 ($100 in chips) 
+Seat 3: i.corbu ($106.68 in chips) 
+Seat 4: diegoatj7 ($69.80 in chips) 
+Seat 5: DL1B ($150.42 in chips) 
+Seat 6: Rdalonso ($134.65 in chips) 
+DL1B: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Unipoker11: folds 
+i.corbu has timed out
+i.corbu: folds 
+diegoatj7: raises $2.50 to $3.50
+DL1B: folds 
+Rdalonso: calls $2.50
+*** FLOP *** [Qd 8d As]
+Rdalonso: checks 
+diegoatj7: checks 
+*** TURN *** [Qd 8d As] [9d]
+Rdalonso: checks 
+diegoatj7: checks 
+*** RIVER *** [Qd 8d As 9d] [3d]
+Rdalonso: checks 
+diegoatj7: checks 
+*** SHOW DOWN ***
+Rdalonso: shows [Ac Th] (a pair of Aces)
+diegoatj7: mucks hand 
+Rdalonso collected $7.12 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [Qd 8d As 9d 3d]
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Unipoker11 folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 (button) mucked
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) showed [Ac Th] and won ($7.12) with a pair of Aces
+
+
+
+PokerStars Hand #254582910883:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:19:39 WET [2025/01/27 14:19:39 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 3: i.corbu ($106.68 in chips) is sitting out
+Seat 1: coeeeelho ($190.40 in chips) 
+Seat 2: Unipoker11 ($100 in chips) 
+Seat 4: diegoatj7 ($66.30 in chips) 
+Seat 5: DL1B ($149.92 in chips) 
+Seat 6: Rdalonso ($138.27 in chips) 
+Rdalonso: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Unipoker11: folds 
+diegoatj7: calls $1
+DL1B: raises $2.50 to $3.50
+Rdalonso: folds 
+coeeeelho: raises $11.50 to $15
+diegoatj7: folds 
+DL1B: folds 
+Uncalled bet ($11.50) returned to coeeeelho
+coeeeelho collected $8.50 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0 
+Seat 3: i.corbu
+Seat 1: coeeeelho (big blind) collected ($8.50)
+Seat 2: Unipoker11 folded before Flop (didn't bet)
+Seat 4: diegoatj7 folded before Flop
+Seat 5: DL1B (button) folded before Flop
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254582916661:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:19:58 WET [2025/01/27 14:19:58 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 3: i.corbu ($106.68 in chips) is sitting out
+Seat 1: coeeeelho ($195.40 in chips) 
+Seat 2: Unipoker11 ($100 in chips) 
+Seat 4: diegoatj7 ($65.30 in chips) 
+Seat 5: DL1B ($146.42 in chips) 
+Seat 6: Rdalonso ($137.77 in chips) 
+i.corbu is disconnected 
+coeeeelho: posts small blind $0.50
+Unipoker11: posts big blind $1
+*** HOLE CARDS ***
+diegoatj7: folds 
+DL1B: folds 
+Rdalonso: raises $1.50 to $2.50
+coeeeelho: folds 
+Unipoker11: folds 
+Uncalled bet ($1.50) returned to Rdalonso
+Rdalonso collected $2.50 from pot
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: i.corbu
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: Unipoker11 (big blind) folded before Flop
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) collected ($2.50)
+
+
+
+PokerStars Hand #254582922586:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:20:18 WET [2025/01/27 14:20:18 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 3: i.corbu ($106.68 in chips) is sitting out
+Seat 1: coeeeelho ($194.90 in chips) 
+Seat 2: Unipoker11 ($100 in chips) 
+Seat 4: diegoatj7 ($65.30 in chips) 
+Seat 5: DL1B ($146.42 in chips) 
+Seat 6: Rdalonso ($139.27 in chips) 
+Unipoker11: posts small blind $0.50
+diegoatj7: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+Unipoker11: raises $2 to $3
+diegoatj7: calls $2
+*** FLOP *** [2c 5s Kc]
+Unipoker11: bets $1.43
+diegoatj7: folds 
+Uncalled bet ($1.43) returned to Unipoker11
+Unipoker11 collected $5.70 from pot
+Unipoker11: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [2c 5s Kc]
+Seat 3: i.corbu
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 2: Unipoker11 (small blind) collected ($5.70)
+Seat 4: diegoatj7 (big blind) folded on the Flop
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582935524:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:21:02 WET [2025/01/27 14:21:02 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 3: i.corbu ($106.68 in chips) is sitting out
+Seat 1: coeeeelho ($194.90 in chips) 
+Seat 2: Unipoker11 ($102.70 in chips) 
+Seat 4: diegoatj7 ($62.30 in chips) 
+Seat 5: DL1B ($146.42 in chips) 
+Seat 6: Rdalonso ($139.27 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+coeeeelho: raises $1.20 to $2.20
+Unipoker11: folds 
+diegoatj7: calls $1.70
+DL1B: calls $1.20
+*** FLOP *** [Qh 8d Kc]
+diegoatj7: checks 
+DL1B: checks 
+coeeeelho: bets $1.57
+diegoatj7: folds 
+DL1B: calls $1.57
+*** TURN *** [Qh 8d Kc] [7h]
+DL1B: checks 
+coeeeelho: checks 
+*** RIVER *** [Qh 8d Kc 7h] [Kh]
+DL1B: bets $7.03
+coeeeelho: folds 
+Uncalled bet ($7.03) returned to DL1B
+DL1B collected $9.25 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.74 | Rake $0.49 
+Board [Qh 8d Kc 7h Kh]
+Seat 3: i.corbu
+Seat 1: coeeeelho folded on the River
+Seat 2: Unipoker11 (button) folded before Flop (didn't bet)
+Seat 4: diegoatj7 (small blind) folded on the Flop
+Seat 5: DL1B (big blind) collected ($9.25)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582959840:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:22:24 WET [2025/01/27 14:22:24 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 1: coeeeelho ($191.13 in chips) 
+Seat 2: Unipoker11 ($102.70 in chips) 
+Seat 3: i.corbu ($106.68 in chips) 
+Seat 4: diegoatj7 ($60.10 in chips) 
+Seat 5: DL1B ($151.90 in chips) 
+Seat 6: Rdalonso ($139.27 in chips) 
+DL1B: posts small blind $0.50
+i.corbu is disconnected 
+Rdalonso: posts big blind $1
+i.corbu is connected 
+i.corbu: posts small & big blinds $1.50
+*** HOLE CARDS ***
+coeeeelho: folds 
+Unipoker11: folds 
+i.corbu: checks 
+diegoatj7: raises $4 to $5
+DL1B: folds 
+Rdalonso: folds 
+i.corbu is disconnected 
+i.corbu has timed out while being disconnected
+i.corbu: folds 
+Uncalled bet ($4) returned to diegoatj7
+diegoatj7 collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 2: Unipoker11 folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 (button) collected ($4)
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254582977262:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:23:23 WET [2025/01/27 14:23:23 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 3: i.corbu ($105.18 in chips) is sitting out
+Seat 1: coeeeelho ($191.13 in chips) 
+Seat 2: Unipoker11 ($102.70 in chips) 
+Seat 4: diegoatj7 ($63.10 in chips) 
+Seat 5: DL1B ($151.40 in chips) 
+Seat 6: Rdalonso ($138.27 in chips) 
+Rdalonso: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+Unipoker11: raises $1 to $2
+diegoatj7: folds 
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: calls $1
+*** FLOP *** [Ah 4s 2s]
+coeeeelho: checks 
+Unipoker11: bets $1.07
+coeeeelho: folds 
+Uncalled bet ($1.07) returned to Unipoker11
+Unipoker11 collected $4.28 from pot
+Unipoker11: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ah 4s 2s]
+Seat 3: i.corbu
+Seat 1: coeeeelho (big blind) folded on the Flop
+Seat 2: Unipoker11 collected ($4.28)
+Seat 4: diegoatj7 folded before Flop (didn't bet)
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254582993847:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:24:19 WET [2025/01/27 14:24:19 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 2: Unipoker11 ($104.98 in chips) is sitting out
+Seat 1: coeeeelho ($189.13 in chips) 
+Seat 3: i.corbu ($105.18 in chips) 
+Seat 4: diegoatj7 ($63.10 in chips) 
+Seat 5: DL1B ($151.40 in chips) 
+Seat 6: Rdalonso ($137.77 in chips) 
+coeeeelho: posts small blind $0.50
+Unipoker11: is sitting out 
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+Unipoker11 leaves the table
+diegoatj7: raises $2.50 to $3.50
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+i.corbu: folds 
+Uncalled bet ($2.50) returned to diegoatj7
+BoyLoc0 joins the table at seat #2 
+diegoatj7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: Unipoker11
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 3: i.corbu (big blind) folded before Flop
+Seat 4: diegoatj7 collected ($2.50)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254582999350:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:24:38 WET [2025/01/27 14:24:38 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 2: BoyLoc0 ($100 in chips) is sitting out
+Seat 1: coeeeelho ($188.63 in chips) 
+Seat 3: i.corbu ($104.18 in chips) 
+Seat 4: diegoatj7 ($64.60 in chips) 
+Seat 5: DL1B ($151.40 in chips) 
+Seat 6: Rdalonso ($137.77 in chips) 
+i.corbu: posts small blind $0.50
+diegoatj7: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: folds 
+i.corbu: calls $0.50
+diegoatj7: checks 
+*** FLOP *** [Ts 9s 6h]
+i.corbu: checks 
+diegoatj7: bets $1.90
+i.corbu: folds 
+Uncalled bet ($1.90) returned to diegoatj7
+diegoatj7 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Ts 9s 6h]
+Seat 2: BoyLoc0
+Seat 1: coeeeelho (button) folded before Flop (didn't bet)
+Seat 3: i.corbu (small blind) folded on the Flop
+Seat 4: diegoatj7 (big blind) collected ($1.90)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583006115:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:25:01 WET [2025/01/27 14:25:01 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 2: BoyLoc0 ($100 in chips) is sitting out
+Seat 1: coeeeelho ($188.63 in chips) 
+Seat 3: i.corbu ($103.18 in chips) 
+Seat 4: diegoatj7 ($65.50 in chips) 
+Seat 5: DL1B ($151.40 in chips) 
+Seat 6: Rdalonso ($137.77 in chips) 
+diegoatj7: posts small blind $0.50
+DL1B: posts big blind $1
+BoyLoc0: sits out 
+*** HOLE CARDS ***
+Rdalonso: folds 
+coeeeelho: folds 
+i.corbu: folds 
+diegoatj7: raises $2 to $3
+DL1B: folds 
+Uncalled bet ($2) returned to diegoatj7
+diegoatj7 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: BoyLoc0
+Seat 1: coeeeelho folded before Flop (didn't bet)
+Seat 3: i.corbu (button) folded before Flop (didn't bet)
+Seat 4: diegoatj7 (small blind) collected ($2)
+Seat 5: DL1B (big blind) folded before Flop
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583011823:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:25:20 WET [2025/01/27 14:25:20 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 2: BoyLoc0 ($100 in chips) is sitting out
+Seat 1: coeeeelho ($188.63 in chips) 
+Seat 3: i.corbu ($103.18 in chips) 
+Seat 4: diegoatj7 ($66.50 in chips) 
+Seat 5: DL1B ($150.40 in chips) 
+Seat 6: Rdalonso ($137.77 in chips) 
+DL1B: posts small blind $0.50
+Rdalonso: posts big blind $1
+BoyLoc0: sits out 
+*** HOLE CARDS ***
+coeeeelho: raises $1.20 to $2.20
+i.corbu: folds 
+diegoatj7: folds 
+DL1B: folds 
+Rdalonso: folds 
+Uncalled bet ($1.20) returned to coeeeelho
+coeeeelho collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: BoyLoc0
+Seat 1: coeeeelho collected ($2.50)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 (button) folded before Flop (didn't bet)
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254583016739:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:25:37 WET [2025/01/27 14:25:37 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 2: BoyLoc0 ($100 in chips) is sitting out
+Seat 1: coeeeelho ($190.13 in chips) 
+Seat 3: i.corbu ($103.18 in chips) 
+Seat 4: diegoatj7 ($66.50 in chips) 
+Seat 5: DL1B ($149.90 in chips) 
+Seat 6: Rdalonso ($136.77 in chips) 
+Rdalonso: posts small blind $0.50
+coeeeelho: posts big blind $1
+BoyLoc0: sits out 
+*** HOLE CARDS ***
+i.corbu has timed out
+i.corbu: folds 
+diegoatj7: calls $1
+DL1B: folds 
+Rdalonso: folds 
+coeeeelho: raises $4 to $5
+diegoatj7: calls $4
+*** FLOP *** [5c Td 2s]
+coeeeelho: bets $4.99
+diegoatj7: calls $4.99
+*** TURN *** [5c Td 2s] [Ts]
+coeeeelho: checks 
+diegoatj7: bets $12.73
+coeeeelho: calls $12.73
+*** RIVER *** [5c Td 2s Ts] [5d]
+coeeeelho: checks 
+diegoatj7: bets $43.78 and is all-in
+coeeeelho: calls $43.78
+*** SHOW DOWN ***
+diegoatj7: shows [Jd 6d] (two pair, Tens and Fives)
+coeeeelho: shows [Ks Kc] (two pair, Kings and Tens)
+coeeeelho collected $131 from pot
+*** SUMMARY ***
+Total pot $133.50 | Rake $2.50 
+Board [5c Td 2s Ts 5d]
+Seat 2: BoyLoc0
+Seat 1: coeeeelho (big blind) showed [Ks Kc] and won ($131) with two pair, Kings and Tens
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: diegoatj7 showed [Jd 6d] and lost with two pair, Tens and Fives
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583039799:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:26:54 WET [2025/01/27 14:26:54 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 4: diegoatj7 ($0 in chips) is sitting out
+Seat 1: coeeeelho ($254.63 in chips) 
+Seat 2: BoyLoc0 ($100 in chips) 
+Seat 3: i.corbu ($103.18 in chips) 
+Seat 5: DL1B ($149.90 in chips) 
+Seat 6: Rdalonso ($136.27 in chips) 
+coeeeelho: posts small blind $0.50
+BoyLoc0: posts big blind $1
+*** HOLE CARDS ***
+i.corbu: folds 
+DL1B: folds 
+Rdalonso: folds 
+diegoatj7 leaves the table
+coeeeelho: folds 
+Uncalled bet ($0.50) returned to BoyLoc0
+BoyLoc0 collected $1 from pot
+BoyLoc0: doesn't show hand 
+coeeeelho leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: diegoatj7
+Seat 1: coeeeelho (small blind) folded before Flop
+Seat 2: BoyLoc0 (big blind) collected ($1)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583044719:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:27:11 WET [2025/01/27 14:27:11 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 2: BoyLoc0 ($100.50 in chips) 
+Seat 3: i.corbu ($103.18 in chips) 
+Seat 5: DL1B ($149.90 in chips) 
+Seat 6: Rdalonso ($136.27 in chips) 
+i.corbu: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+BoyLoc0: raises $1.50 to $2.50
+i.corbu: folds 
+z00mba joins the table at seat #4 
+DL1B: calls $1.50
+*** FLOP *** [Js Jd 7c]
+santiagoGpradal joins the table at seat #1 
+DL1B: checks 
+santiagoGpradal is disconnected 
+BoyLoc0: bets $1.72
+DL1B: calls $1.72
+*** TURN *** [Js Jd 7c] [8h]
+DL1B: checks 
+BoyLoc0: bets $6.37
+DL1B: folds 
+Uncalled bet ($6.37) returned to BoyLoc0
+BoyLoc0 collected $8.49 from pot
+BoyLoc0: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [Js Jd 7c 8h]
+Seat 2: BoyLoc0 (button) collected ($8.49)
+Seat 3: i.corbu (small blind) folded before Flop
+Seat 5: DL1B (big blind) folded on the Turn
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583056001:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:27:50 WET [2025/01/27 14:27:50 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 1: santiagoGpradal ($100 in chips) is sitting out
+Seat 4: z00mba ($100 in chips) is sitting out
+Seat 2: BoyLoc0 ($104.77 in chips) 
+Seat 3: i.corbu ($102.68 in chips) 
+Seat 5: DL1B ($145.68 in chips) 
+Seat 6: Rdalonso ($136.27 in chips) 
+DL1B: posts small blind $0.50
+Rdalonso: posts big blind $1
+santiagoGpradal: sits out 
+*** HOLE CARDS ***
+BoyLoc0: raises $1.50 to $2.50
+i.corbu: calls $2.50
+DL1B: folds 
+Rdalonso: folds 
+*** FLOP *** [Th 5c 3h]
+BoyLoc0: bets $2.04
+i.corbu: raises $10.26 to $12.30
+BoyLoc0: calls $10.26
+*** TURN *** [Th 5c 3h] [Ac]
+BoyLoc0: checks 
+i.corbu: checks 
+*** RIVER *** [Th 5c 3h Ac] [4c]
+BoyLoc0: checks 
+i.corbu: checks 
+*** SHOW DOWN ***
+BoyLoc0: shows [Tc Kh] (a pair of Tens)
+i.corbu: mucks hand 
+BoyLoc0 collected $30.10 from pot
+*** SUMMARY ***
+Total pot $31.10 | Rake $1 
+Board [Th 5c 3h Ac 4c]
+Seat 1: santiagoGpradal
+Seat 4: z00mba
+Seat 2: BoyLoc0 showed [Tc Kh] and won ($30.10) with a pair of Tens
+Seat 3: i.corbu (button) mucked
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254583068601:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:28:33 WET [2025/01/27 14:28:33 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 4: z00mba ($100 in chips) is sitting out
+Seat 1: santiagoGpradal ($100 in chips) 
+Seat 2: BoyLoc0 ($120.07 in chips) 
+Seat 3: i.corbu ($87.88 in chips) 
+Seat 5: DL1B ($145.18 in chips) 
+Seat 6: Rdalonso ($135.27 in chips) 
+Rdalonso: posts small blind $0.50
+santiagoGpradal: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+BoyLoc0: folds 
+i.corbu: folds 
+DL1B: raises $1.50 to $2.50
+Rdalonso: folds 
+santiagoGpradal: folds 
+Uncalled bet ($1.50) returned to DL1B
+DL1B collected $2.50 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: z00mba
+Seat 1: santiagoGpradal (big blind) folded before Flop
+Seat 2: BoyLoc0 folded before Flop (didn't bet)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 5: DL1B (button) collected ($2.50)
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583072389:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:28:45 WET [2025/01/27 14:28:45 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 2: BoyLoc0 ($120.07 in chips) is sitting out
+Seat 4: z00mba ($100 in chips) is sitting out
+Seat 1: santiagoGpradal ($99 in chips) 
+Seat 3: i.corbu ($87.88 in chips) 
+Seat 5: DL1B ($146.68 in chips) 
+Seat 6: Rdalonso ($134.77 in chips) 
+santiagoGpradal: posts small blind $0.50
+BoyLoc0: is sitting out 
+i.corbu: posts big blind $1
+z00mba: sits out 
+*** HOLE CARDS ***
+DL1B: folds 
+Rdalonso: folds 
+santiagoGpradal: folds 
+Uncalled bet ($0.50) returned to i.corbu
+i.corbu collected $1 from pot
+BoyLoc0 leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: BoyLoc0
+Seat 4: z00mba
+Seat 1: santiagoGpradal (small blind) folded before Flop
+Seat 3: i.corbu (big blind) collected ($1)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583074737:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:28:54 WET [2025/01/27 14:28:54 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 1: santiagoGpradal ($98.50 in chips) 
+Seat 3: i.corbu ($88.38 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: DL1B ($146.68 in chips) 
+Seat 6: Rdalonso ($134.77 in chips) 
+i.corbu: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Rdalonso: folds 
+santiagoGpradal: folds 
+i.corbu: folds 
+Uncalled bet ($0.50) returned to z00mba
+z00mba collected $1 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: santiagoGpradal (button) folded before Flop (didn't bet)
+Seat 3: i.corbu (small blind) folded before Flop
+Seat 4: z00mba (big blind) collected ($1)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583077507:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:29:03 WET [2025/01/27 14:29:03 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 1: santiagoGpradal ($98.50 in chips) 
+Seat 3: i.corbu ($87.88 in chips) 
+Seat 4: z00mba ($100.50 in chips) 
+Seat 5: DL1B ($146.68 in chips) 
+Seat 6: Rdalonso ($134.77 in chips) 
+z00mba: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+santiagoGpradal: folds 
+i.corbu: folds 
+z00mba: folds 
+Uncalled bet ($0.50) returned to DL1B
+DL1B collected $1 from pot
+DL1B: doesn't show hand 
+BumHuntKing joins the table at seat #2 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: santiagoGpradal folded before Flop (didn't bet)
+Seat 3: i.corbu (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 5: DL1B (big blind) collected ($1)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583079835:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:29:11 WET [2025/01/27 14:29:11 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 2: BumHuntKing ($100 in chips) is sitting out
+Seat 1: santiagoGpradal ($98.50 in chips) 
+Seat 3: i.corbu ($87.88 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: DL1B ($147.18 in chips) 
+Seat 6: Rdalonso ($134.77 in chips) 
+DL1B: posts small blind $0.50
+Rdalonso: posts big blind $1
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+santiagoGpradal: raises $1 to $2
+i.corbu: folds 
+z00mba: folds 
+DL1B: folds 
+Rdalonso: folds 
+Uncalled bet ($1) returned to santiagoGpradal
+santiagoGpradal collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: BumHuntKing
+Seat 1: santiagoGpradal collected ($2.50)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254583086685:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:29:34 WET [2025/01/27 14:29:34 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 2: BumHuntKing ($100 in chips) is sitting out
+Seat 1: santiagoGpradal ($100 in chips) 
+Seat 3: i.corbu ($87.88 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: DL1B ($146.68 in chips) 
+Seat 6: Rdalonso ($133.77 in chips) 
+Rdalonso: posts small blind $0.50
+santiagoGpradal: posts big blind $1
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+i.corbu: folds 
+z00mba: folds 
+DL1B: folds 
+Rdalonso: raises $2 to $3
+santiagoGpradal: folds 
+Uncalled bet ($2) returned to Rdalonso
+Rdalonso collected $2 from pot
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: BumHuntKing
+Seat 1: santiagoGpradal (big blind) folded before Flop
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: Rdalonso (small blind) collected ($2)
+
+
+
+PokerStars Hand #254583090278:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:29:46 WET [2025/01/27 14:29:46 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 1: santiagoGpradal ($99 in chips) 
+Seat 2: BumHuntKing ($100 in chips) 
+Seat 3: i.corbu ($87.88 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: DL1B ($146.68 in chips) 
+Seat 6: Rdalonso ($134.77 in chips) 
+santiagoGpradal: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+i.corbu: raises $2.50 to $3.50
+z00mba: folds 
+DL1B: folds 
+Rdalonso: folds 
+santiagoGpradal: folds 
+BumHuntKing: calls $2.50
+*** FLOP *** [4d Ad 8s]
+BumHuntKing: checks 
+i.corbu: bets $3.56
+BumHuntKing: calls $3.56
+*** TURN *** [4d Ad 8s] [Js]
+BumHuntKing: checks 
+i.corbu: bets $6.95
+BumHuntKing: folds 
+Uncalled bet ($6.95) returned to i.corbu
+i.corbu collected $13.89 from pot
+*** SUMMARY ***
+Total pot $14.62 | Rake $0.73 
+Board [4d Ad 8s Js]
+Seat 1: santiagoGpradal (small blind) folded before Flop
+Seat 2: BumHuntKing (big blind) folded on the Turn
+Seat 3: i.corbu collected ($13.89)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583224745:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:37:12 WET [2025/01/27 14:37:12 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 1: santiagoGpradal ($106.88 in chips) 
+Seat 2: BumHuntKing ($143.08 in chips) 
+Seat 3: i.corbu ($44.44 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: DL1B ($146.68 in chips) 
+Seat 6: Rdalonso ($133.27 in chips) 
+i.corbu: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Rdalonso: folds 
+santiagoGpradal: folds 
+BumHuntKing: raises $1.50 to $2.50
+i.corbu: raises $6 to $8.50
+z00mba: folds 
+BumHuntKing: folds 
+Uncalled bet ($6) returned to i.corbu
+i.corbu collected $6 from pot
+i.corbu: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: santiagoGpradal folded before Flop (didn't bet)
+Seat 2: BumHuntKing (button) folded before Flop
+Seat 3: i.corbu (small blind) collected ($6)
+Seat 4: z00mba (big blind) folded before Flop
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583230680:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:37:32 WET [2025/01/27 14:37:32 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 1: santiagoGpradal ($106.88 in chips) 
+Seat 2: BumHuntKing ($140.58 in chips) 
+Seat 3: i.corbu ($47.94 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: DL1B ($146.68 in chips) 
+Seat 6: Rdalonso ($133.27 in chips) 
+z00mba: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+santiagoGpradal: folds 
+BumHuntKing: raises $1.20 to $2.20
+i.corbu: folds 
+z00mba: folds 
+DL1B: folds 
+Uncalled bet ($1.20) returned to BumHuntKing
+BumHuntKing collected $2.50 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: santiagoGpradal folded before Flop (didn't bet)
+Seat 2: BumHuntKing collected ($2.50)
+Seat 3: i.corbu (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 5: DL1B (big blind) folded before Flop
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583237635:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:37:55 WET [2025/01/27 14:37:55 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 1: santiagoGpradal ($106.88 in chips) 
+Seat 2: BumHuntKing ($142.08 in chips) 
+Seat 3: i.corbu ($47.94 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: DL1B ($145.68 in chips) 
+Seat 6: Rdalonso ($133.27 in chips) 
+DL1B: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+santiagoGpradal: folds 
+BumHuntKing: raises $1.20 to $2.20
+i.corbu: raises $5.90 to $8.10
+z00mba: folds 
+DL1B: folds 
+Rdalonso: folds 
+BumHuntKing: folds 
+Uncalled bet ($5.90) returned to i.corbu
+i.corbu collected $5.90 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 1: santiagoGpradal folded before Flop (didn't bet)
+Seat 2: BumHuntKing folded before Flop
+Seat 3: i.corbu collected ($5.90)
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 5: DL1B (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254583243162:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:38:13 WET [2025/01/27 14:38:13 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 1: santiagoGpradal ($106.88 in chips) 
+Seat 2: BumHuntKing ($139.88 in chips) 
+Seat 3: i.corbu ($51.64 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: DL1B ($145.18 in chips) 
+Seat 6: Rdalonso ($132.27 in chips) 
+Rdalonso: posts small blind $0.50
+santiagoGpradal: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: raises $1.20 to $2.20
+i.corbu: folds 
+z00mba: folds 
+DL1B: folds 
+Rdalonso: folds 
+santiagoGpradal: folds 
+Uncalled bet ($1.20) returned to BumHuntKing
+BumHuntKing collected $2.50 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: santiagoGpradal (big blind) folded before Flop
+Seat 2: BumHuntKing collected ($2.50)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: DL1B (button) folded before Flop (didn't bet)
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583247296:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:38:26 WET [2025/01/27 14:38:26 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 1: santiagoGpradal ($105.88 in chips) 
+Seat 2: BumHuntKing ($141.38 in chips) 
+Seat 3: i.corbu ($51.64 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: DL1B ($145.18 in chips) 
+Seat 6: Rdalonso ($131.77 in chips) 
+santiagoGpradal: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+i.corbu: folds 
+z00mba: raises $1.50 to $2.50
+DL1B: folds 
+Rdalonso: folds 
+santiagoGpradal: folds 
+BumHuntKing: calls $1.50
+*** FLOP *** [Jh 9h 7h]
+BumHuntKing: checks 
+z00mba: bets $3
+BumHuntKing: folds 
+Uncalled bet ($3) returned to z00mba
+z00mba collected $5.22 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Jh 9h 7h]
+Seat 1: santiagoGpradal (small blind) folded before Flop
+Seat 2: BumHuntKing (big blind) folded on the Flop
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: z00mba collected ($5.22)
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583257283:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:38:59 WET [2025/01/27 14:38:59 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 1: santiagoGpradal ($105.38 in chips) 
+Seat 2: BumHuntKing ($138.88 in chips) 
+Seat 3: i.corbu ($51.64 in chips) 
+Seat 4: z00mba ($102.72 in chips) 
+Seat 5: DL1B ($145.18 in chips) 
+Seat 6: Rdalonso ($131.77 in chips) 
+BumHuntKing: posts small blind $0.50
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+DL1B: raises $1 to $2
+Rdalonso: folds 
+santiagoGpradal: folds 
+BumHuntKing: folds 
+i.corbu: folds 
+Uncalled bet ($1) returned to DL1B
+DL1B collected $2.50 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: santiagoGpradal (button) folded before Flop (didn't bet)
+Seat 2: BumHuntKing (small blind) folded before Flop
+Seat 3: i.corbu (big blind) folded before Flop
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: DL1B collected ($2.50)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583263308:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:39:19 WET [2025/01/27 14:39:19 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 1: santiagoGpradal ($105.38 in chips) 
+Seat 2: BumHuntKing ($138.38 in chips) 
+Seat 3: i.corbu ($50.64 in chips) 
+Seat 4: z00mba ($102.72 in chips) 
+Seat 5: DL1B ($146.68 in chips) 
+Seat 6: Rdalonso ($131.77 in chips) 
+i.corbu: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Rdalonso: folds 
+santiagoGpradal: raises $1 to $2
+BumHuntKing: folds 
+DL1B leaves the table
+i.corbu: raises $5 to $7
+Nikarta34 joins the table at seat #5 
+z00mba: folds 
+santiagoGpradal: folds 
+Uncalled bet ($5) returned to i.corbu
+i.corbu collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: santiagoGpradal folded before Flop
+Seat 2: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 3: i.corbu (small blind) collected ($5)
+Seat 4: z00mba (big blind) folded before Flop
+Seat 5: DL1B folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583273528:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:39:53 WET [2025/01/27 14:39:53 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 1: santiagoGpradal ($103.38 in chips) 
+Seat 2: BumHuntKing ($138.38 in chips) 
+Seat 3: i.corbu ($53.64 in chips) 
+Seat 4: z00mba ($101.72 in chips) 
+Seat 5: Nikarta34 ($100 in chips) 
+Seat 6: Rdalonso ($131.77 in chips) 
+z00mba: posts small blind $0.50
+Nikarta34: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+santiagoGpradal: folds 
+BumHuntKing: folds 
+i.corbu: raises $3 to $4
+z00mba: folds 
+Nikarta34: folds 
+Uncalled bet ($3) returned to i.corbu
+i.corbu collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: santiagoGpradal folded before Flop (didn't bet)
+Seat 2: BumHuntKing folded before Flop (didn't bet)
+Seat 3: i.corbu (button) collected ($2.50)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 5: Nikarta34 (big blind) folded before Flop
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583279584:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:40:13 WET [2025/01/27 14:40:13 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 1: santiagoGpradal ($103.38 in chips) 
+Seat 2: BumHuntKing ($138.38 in chips) 
+Seat 3: i.corbu ($55.14 in chips) 
+Seat 4: z00mba ($101.22 in chips) 
+Seat 5: Nikarta34 ($100 in chips) 
+Seat 6: Rdalonso ($131.77 in chips) 
+Nikarta34: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+santiagoGpradal: folds 
+BumHuntKing: raises $1.20 to $2.20
+i.corbu: folds 
+z00mba: folds 
+Nikarta34: folds 
+Rdalonso: calls $1.20
+*** FLOP *** [Kd 7h Th]
+Rdalonso: checks 
+BumHuntKing: bets $1.54
+Rdalonso: calls $1.54
+*** TURN *** [Kd 7h Th] [3s]
+Rdalonso: checks 
+BumHuntKing: bets $9.48
+Rdalonso: folds 
+Uncalled bet ($9.48) returned to BumHuntKing
+BumHuntKing collected $7.58 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.98 | Rake $0.40 
+Board [Kd 7h Th 3s]
+Seat 1: santiagoGpradal folded before Flop (didn't bet)
+Seat 2: BumHuntKing collected ($7.58)
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 5: Nikarta34 (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254583300040:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:41:20 WET [2025/01/27 14:41:20 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 1: santiagoGpradal ($103.38 in chips) 
+Seat 2: BumHuntKing ($142.22 in chips) 
+Seat 3: i.corbu ($55.14 in chips) 
+Seat 4: z00mba ($101.22 in chips) 
+Seat 5: Nikarta34 ($100 in chips) 
+Seat 6: Rdalonso ($128.03 in chips) 
+Rdalonso: posts small blind $0.50
+santiagoGpradal: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+i.corbu: raises $2 to $3
+z00mba: folds 
+Nikarta34: raises $5.50 to $8.50
+Rdalonso: folds 
+santiagoGpradal: folds 
+i.corbu: calls $5.50
+*** FLOP *** [Ah 8c 4d]
+i.corbu: bets $10.79
+Nikarta34: folds 
+Uncalled bet ($10.79) returned to i.corbu
+i.corbu collected $17.58 from pot
+*** SUMMARY ***
+Total pot $18.50 | Rake $0.92 
+Board [Ah 8c 4d]
+Seat 1: santiagoGpradal (big blind) folded before Flop
+Seat 2: BumHuntKing folded before Flop (didn't bet)
+Seat 3: i.corbu collected ($17.58)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: Nikarta34 (button) folded on the Flop
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583314422:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:42:07 WET [2025/01/27 14:42:07 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 1: santiagoGpradal ($102.38 in chips) 
+Seat 2: BumHuntKing ($142.22 in chips) 
+Seat 3: i.corbu ($64.22 in chips) 
+Seat 4: z00mba ($101.22 in chips) 
+Seat 5: Nikarta34 ($100 in chips) 
+Seat 6: Rdalonso ($127.53 in chips) 
+santiagoGpradal: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+i.corbu: folds 
+z00mba: folds 
+Nikarta34: raises $1.25 to $2.25
+Rdalonso: folds 
+santiagoGpradal: folds 
+BumHuntKing: folds 
+Uncalled bet ($1.25) returned to Nikarta34
+Nikarta34 collected $2.50 from pot
+Nikarta34: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: santiagoGpradal (small blind) folded before Flop
+Seat 2: BumHuntKing (big blind) folded before Flop
+Seat 3: i.corbu folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: Nikarta34 collected ($2.50)
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583318797:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:42:22 WET [2025/01/27 14:42:22 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 1: santiagoGpradal ($101.88 in chips) 
+Seat 2: BumHuntKing ($141.22 in chips) 
+Seat 3: i.corbu ($64.22 in chips) 
+Seat 4: z00mba ($101.22 in chips) 
+Seat 5: Nikarta34 ($101.50 in chips) 
+Seat 6: Rdalonso ($127.53 in chips) 
+BumHuntKing: posts small blind $0.50
+i.corbu: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+Nikarta34: raises $1.25 to $2.25
+Rdalonso: folds 
+santiagoGpradal: calls $2.25
+BumHuntKing: folds 
+i.corbu: folds 
+*** FLOP *** [Th 8s Kd]
+Nikarta34: checks 
+santiagoGpradal: checks 
+*** TURN *** [Th 8s Kd] [Jd]
+Nikarta34: bets $1.88
+santiagoGpradal: calls $1.88
+*** RIVER *** [Th 8s Kd Jd] [5d]
+Nikarta34: bets $13.81
+santiagoGpradal: folds 
+Uncalled bet ($13.81) returned to Nikarta34
+Nikarta34 collected $9.27 from pot
+Nikarta34: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [Th 8s Kd Jd 5d]
+Seat 1: santiagoGpradal (button) folded on the River
+Seat 2: BumHuntKing (small blind) folded before Flop
+Seat 3: i.corbu (big blind) folded before Flop
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: Nikarta34 collected ($9.27)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583333138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:43:09 WET [2025/01/27 14:43:09 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 1: santiagoGpradal ($97.75 in chips) 
+Seat 2: BumHuntKing ($140.72 in chips) 
+Seat 3: i.corbu ($63.22 in chips) 
+Seat 4: z00mba ($101.22 in chips) 
+Seat 5: Nikarta34 ($106.64 in chips) 
+Seat 6: Rdalonso ($127.53 in chips) 
+i.corbu: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+Nikarta34: folds 
+Rdalonso: raises $1.50 to $2.50
+santiagoGpradal: folds 
+BumHuntKing: folds 
+i.corbu: calls $2
+z00mba: folds 
+*** FLOP *** [7s Qs 5d]
+i.corbu: checks 
+Rdalonso: bets $1.88
+i.corbu: folds 
+Uncalled bet ($1.88) returned to Rdalonso
+Rdalonso collected $5.70 from pot
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [7s Qs 5d]
+Seat 1: santiagoGpradal folded before Flop (didn't bet)
+Seat 2: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 3: i.corbu (small blind) folded on the Flop
+Seat 4: z00mba (big blind) folded before Flop
+Seat 5: Nikarta34 folded before Flop (didn't bet)
+Seat 6: Rdalonso collected ($5.70)
+
+
+
+PokerStars Hand #254583344705:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:43:47 WET [2025/01/27 14:43:47 ET]
+Table 'Una V' 6-max Seat #3 is the button
+Seat 1: santiagoGpradal ($97.75 in chips) 
+Seat 2: BumHuntKing ($140.72 in chips) 
+Seat 3: i.corbu ($60.72 in chips) 
+Seat 4: z00mba ($100.22 in chips) 
+Seat 5: Nikarta34 ($106.64 in chips) 
+Seat 6: Rdalonso ($130.73 in chips) 
+z00mba: posts small blind $0.50
+Nikarta34: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+santiagoGpradal: folds 
+BumHuntKing: folds 
+i.corbu: calls $1
+z00mba: folds 
+Nikarta34: checks 
+*** FLOP *** [Ad 6c 4h]
+Nikarta34: checks 
+i.corbu: checks 
+*** TURN *** [Ad 6c 4h] [Qd]
+Nikarta34: checks 
+i.corbu: checks 
+*** RIVER *** [Ad 6c 4h Qd] [7d]
+Nikarta34: bets $1
+i.corbu: folds 
+Uncalled bet ($1) returned to Nikarta34
+Nikarta34 collected $2.38 from pot
+Nikarta34: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Ad 6c 4h Qd 7d]
+Seat 1: santiagoGpradal folded before Flop (didn't bet)
+Seat 2: BumHuntKing folded before Flop (didn't bet)
+Seat 3: i.corbu (button) folded on the River
+Seat 4: z00mba (small blind) folded before Flop
+Seat 5: Nikarta34 (big blind) collected ($2.38)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583360997:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:44:41 WET [2025/01/27 14:44:41 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 1: santiagoGpradal ($97.75 in chips) 
+Seat 2: BumHuntKing ($140.72 in chips) 
+Seat 3: i.corbu ($59.72 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: Nikarta34 ($108.02 in chips) 
+Seat 6: Rdalonso ($130.73 in chips) 
+Nikarta34: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+santiagoGpradal: raises $1 to $2
+BumHuntKing: raises $4.50 to $6.50
+i.corbu: raises $16.50 to $23
+z00mba: folds 
+Nikarta34: folds 
+Rdalonso: folds 
+santiagoGpradal: raises $74.75 to $97.75 and is all-in
+BumHuntKing: folds 
+i.corbu: calls $36.72 and is all-in
+Uncalled bet ($38.03) returned to santiagoGpradal
+*** FLOP *** [Kc 4c 5c]
+*** TURN *** [Kc 4c 5c] [4s]
+*** RIVER *** [Kc 4c 5c 4s] [6d]
+*** SHOW DOWN ***
+santiagoGpradal: shows [Kh Ad] (two pair, Kings and Fours)
+i.corbu: shows [7h 7s] (two pair, Sevens and Fours)
+santiagoGpradal collected $124.94 from pot
+*** SUMMARY ***
+Total pot $127.44 | Rake $2.50 
+Board [Kc 4c 5c 4s 6d]
+Seat 1: santiagoGpradal showed [Kh Ad] and won ($124.94) with two pair, Kings and Fours
+Seat 2: BumHuntKing folded before Flop
+Seat 3: i.corbu showed [7h 7s] and lost with two pair, Sevens and Fours
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 5: Nikarta34 (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254583376744:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:45:31 WET [2025/01/27 14:45:31 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 1: santiagoGpradal ($162.97 in chips) 
+Seat 2: BumHuntKing ($134.22 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: Nikarta34 ($107.52 in chips) 
+Seat 6: Rdalonso ($129.73 in chips) 
+Rdalonso: posts small blind $0.50
+santiagoGpradal: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+z00mba: folds 
+Nikarta34: raises $1.50 to $2.50
+Rdalonso: raises $8.50 to $11
+santiagoGpradal: folds 
+Nikarta34: calls $8.50
+*** FLOP *** [5d 6h Th]
+Rdalonso: checks 
+Nikarta34: checks 
+*** TURN *** [5d 6h Th] [3h]
+Rdalonso: bets $7.21
+Nikarta34: calls $7.21
+*** RIVER *** [5d 6h Th 3h] [3d]
+Rdalonso: checks 
+Nikarta34: checks 
+*** SHOW DOWN ***
+Rdalonso: shows [9d 9h] (two pair, Nines and Threes)
+Nikarta34: mucks hand 
+Rdalonso collected $35.55 from pot
+*** SUMMARY ***
+Total pot $37.42 | Rake $1.87 
+Board [5d 6h Th 3h 3d]
+Seat 3: i.corbu
+Seat 1: santiagoGpradal (big blind) folded before Flop
+Seat 2: BumHuntKing folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: Nikarta34 (button) mucked
+Seat 6: Rdalonso (small blind) showed [9d 9h] and won ($35.55) with two pair, Nines and Threes
+
+
+
+PokerStars Hand #254583396198:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:46:35 WET [2025/01/27 14:46:35 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 1: santiagoGpradal ($161.97 in chips) 
+Seat 2: BumHuntKing ($134.22 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: Nikarta34 ($100 in chips) 
+Seat 6: Rdalonso ($147.07 in chips) 
+santiagoGpradal: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+Nikarta34: folds 
+Rdalonso: raises $1.50 to $2.50
+santiagoGpradal: folds 
+BumHuntKing: folds 
+Uncalled bet ($1.50) returned to Rdalonso
+Rdalonso collected $2.50 from pot
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: i.corbu
+Seat 1: santiagoGpradal (small blind) folded before Flop
+Seat 2: BumHuntKing (big blind) folded before Flop
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: Nikarta34 folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) collected ($2.50)
+
+
+
+PokerStars Hand #254583400031:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:46:47 WET [2025/01/27 14:46:47 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 1: santiagoGpradal ($161.47 in chips) 
+Seat 2: BumHuntKing ($133.22 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: Nikarta34 ($100 in chips) 
+Seat 6: Rdalonso ($148.57 in chips) 
+BumHuntKing: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+Nikarta34: folds 
+Rdalonso: folds 
+santiagoGpradal: folds 
+BumHuntKing: raises $2 to $3
+z00mba: folds 
+Uncalled bet ($2) returned to BumHuntKing
+BumHuntKing collected $2 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: i.corbu
+Seat 1: santiagoGpradal (button) folded before Flop (didn't bet)
+Seat 2: BumHuntKing (small blind) collected ($2)
+Seat 4: z00mba (big blind) folded before Flop
+Seat 5: Nikarta34 folded before Flop (didn't bet)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583404781:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:47:03 WET [2025/01/27 14:47:03 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 1: santiagoGpradal ($161.47 in chips) 
+Seat 2: BumHuntKing ($134.22 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: Nikarta34 ($100 in chips) 
+Seat 6: Rdalonso ($148.57 in chips) 
+z00mba: posts small blind $0.50
+Nikarta34: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+santiagoGpradal: folds 
+BumHuntKing: raises $1.50 to $2.50
+z00mba: folds 
+Nikarta34: calls $1.50
+*** FLOP *** [4s Jh Qd]
+Nikarta34: checks 
+BumHuntKing: bets $1.72
+Nikarta34: folds 
+Uncalled bet ($1.72) returned to BumHuntKing
+BumHuntKing collected $5.22 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [4s Jh Qd]
+Seat 3: i.corbu
+Seat 1: santiagoGpradal folded before Flop (didn't bet)
+Seat 2: BumHuntKing (button) collected ($5.22)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 5: Nikarta34 (big blind) folded on the Flop
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583416079:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:47:40 WET [2025/01/27 14:47:40 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 1: santiagoGpradal ($161.47 in chips) 
+Seat 2: BumHuntKing ($136.94 in chips) 
+Seat 4: z00mba ($100 in chips) 
+Seat 5: Nikarta34 ($100 in chips) 
+Seat 6: Rdalonso ($148.57 in chips) 
+Nikarta34: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+santiagoGpradal has timed out
+santiagoGpradal: folds 
+BumHuntKing: folds 
+z00mba: raises $1.50 to $2.50
+Nikarta34: folds 
+Rdalonso: folds 
+Uncalled bet ($1.50) returned to z00mba
+z00mba collected $2.50 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: i.corbu
+Seat 1: santiagoGpradal folded before Flop (didn't bet)
+Seat 2: BumHuntKing folded before Flop (didn't bet)
+Seat 4: z00mba (button) collected ($2.50)
+Seat 5: Nikarta34 (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254583436335:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:48:45 WET [2025/01/27 14:48:45 ET]
+Table 'Una V' 6-max Seat #5 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 1: santiagoGpradal ($161.47 in chips) 
+Seat 2: BumHuntKing ($136.94 in chips) 
+Seat 4: z00mba ($101.50 in chips) 
+Seat 5: Nikarta34 ($100 in chips) 
+Seat 6: Rdalonso ($147.57 in chips) 
+Rdalonso: posts small blind $0.50
+santiagoGpradal: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+z00mba: folds 
+Nikarta34: folds 
+Rdalonso: folds 
+Uncalled bet ($0.50) returned to santiagoGpradal
+santiagoGpradal collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: i.corbu
+Seat 1: santiagoGpradal (big blind) collected ($1)
+Seat 2: BumHuntKing folded before Flop (didn't bet)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 5: Nikarta34 (button) folded before Flop (didn't bet)
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583440975:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:49:00 WET [2025/01/27 14:49:00 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 1: santiagoGpradal ($161.97 in chips) 
+Seat 2: BumHuntKing ($136.94 in chips) 
+Seat 4: z00mba ($101.50 in chips) 
+Seat 5: Nikarta34 ($100 in chips) 
+Seat 6: Rdalonso ($147.07 in chips) 
+santiagoGpradal: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+z00mba: raises $1.50 to $2.50
+Nikarta34: folds 
+Rdalonso: folds 
+santiagoGpradal: calls $2
+BumHuntKing: folds 
+*** FLOP *** [3d 6s 2s]
+santiagoGpradal: checks 
+z00mba: checks 
+*** TURN *** [3d 6s 2s] [3s]
+santiagoGpradal: checks 
+z00mba: checks 
+*** RIVER *** [3d 6s 2s 3s] [7s]
+santiagoGpradal: checks 
+z00mba: checks 
+*** SHOW DOWN ***
+santiagoGpradal: shows [Tc Kh] (a pair of Threes)
+z00mba: shows [7d Ad] (two pair, Sevens and Threes)
+z00mba collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [3d 6s 2s 3s 7s]
+Seat 3: i.corbu
+Seat 1: santiagoGpradal (small blind) showed [Tc Kh] and lost with a pair of Threes
+Seat 2: BumHuntKing (big blind) folded before Flop
+Seat 4: z00mba showed [7d Ad] and won ($5.70) with two pair, Sevens and Threes
+Seat 5: Nikarta34 folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583456018:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:49:48 WET [2025/01/27 14:49:48 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 5: Nikarta34 ($100 in chips) is sitting out
+Seat 1: santiagoGpradal ($159.47 in chips) 
+Seat 2: BumHuntKing ($135.94 in chips) 
+Seat 4: z00mba ($104.70 in chips) 
+Seat 6: Rdalonso ($147.07 in chips) 
+BumHuntKing: posts small blind $0.50
+z00mba: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: folds 
+santiagoGpradal: folds 
+BumHuntKing: folds 
+Uncalled bet ($0.50) returned to z00mba
+z00mba collected $1 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: i.corbu
+Seat 5: Nikarta34
+Seat 1: santiagoGpradal (button) folded before Flop (didn't bet)
+Seat 2: BumHuntKing (small blind) folded before Flop
+Seat 4: z00mba (big blind) collected ($1)
+Seat 6: Rdalonso folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583459563:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:50:00 WET [2025/01/27 14:50:00 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 5: Nikarta34 ($100 in chips) is sitting out
+Seat 1: santiagoGpradal ($159.47 in chips) 
+Seat 2: BumHuntKing ($135.44 in chips) 
+Seat 4: z00mba ($105.20 in chips) 
+Seat 6: Rdalonso ($147.07 in chips) 
+z00mba: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+santiagoGpradal: folds 
+BumHuntKing: folds 
+z00mba: raises $2 to $3
+Rdalonso: calls $2
+*** FLOP *** [As 8s 6d]
+z00mba: checks 
+Rdalonso: checks 
+*** TURN *** [As 8s 6d] [Jd]
+z00mba: checks 
+Rdalonso: bets $3.76
+z00mba: calls $3.76
+*** RIVER *** [As 8s 6d Jd] [5c]
+z00mba: checks 
+Rdalonso: checks 
+*** SHOW DOWN ***
+z00mba: shows [4h Ac] (a pair of Aces)
+Rdalonso: mucks hand 
+z00mba collected $12.84 from pot
+*** SUMMARY ***
+Total pot $13.52 | Rake $0.68 
+Board [As 8s 6d Jd 5c]
+Seat 3: i.corbu
+Seat 5: Nikarta34
+Seat 1: santiagoGpradal folded before Flop (didn't bet)
+Seat 2: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 4: z00mba (small blind) showed [4h Ac] and won ($12.84) with a pair of Aces
+Seat 6: Rdalonso (big blind) mucked
+
+
+
+PokerStars Hand #254583481527:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:51:11 WET [2025/01/27 14:51:11 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 5: Nikarta34 ($100 in chips) is sitting out
+Seat 1: santiagoGpradal ($159.47 in chips) 
+Seat 2: BumHuntKing ($135.44 in chips) 
+Seat 4: z00mba ($111.28 in chips) 
+Seat 6: Rdalonso ($140.31 in chips) 
+Rdalonso: posts small blind $0.50
+santiagoGpradal: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: raises $1.20 to $2.20
+z00mba: folds 
+Rdalonso: folds 
+santiagoGpradal: folds 
+Uncalled bet ($1.20) returned to BumHuntKing
+BumHuntKing collected $2.50 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: i.corbu
+Seat 5: Nikarta34
+Seat 1: santiagoGpradal (big blind) folded before Flop
+Seat 2: BumHuntKing collected ($2.50)
+Seat 4: z00mba (button) folded before Flop (didn't bet)
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583487053:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:51:29 WET [2025/01/27 14:51:29 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 5: Nikarta34 ($100 in chips) is sitting out
+Seat 1: santiagoGpradal ($158.47 in chips) 
+Seat 2: BumHuntKing ($136.94 in chips) 
+Seat 4: z00mba ($111.28 in chips) 
+Seat 6: Rdalonso ($139.81 in chips) 
+santiagoGpradal: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+z00mba: folds 
+Rdalonso: folds 
+santiagoGpradal: folds 
+Uncalled bet ($0.50) returned to BumHuntKing
+BumHuntKing collected $1 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: i.corbu
+Seat 5: Nikarta34
+Seat 1: santiagoGpradal (small blind) folded before Flop
+Seat 2: BumHuntKing (big blind) collected ($1)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254583490007:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:51:38 WET [2025/01/27 14:51:38 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 5: Nikarta34 ($100 in chips) is sitting out
+Seat 1: santiagoGpradal ($157.97 in chips) 
+Seat 4: z00mba ($111.28 in chips) 
+Seat 6: Rdalonso ($139.81 in chips) 
+z00mba: posts small blind $0.50
+Rdalonso: posts big blind $1
+*** HOLE CARDS ***
+michasia joins the table at seat #2 
+santiagoGpradal: raises $1 to $2
+z00mba: folds 
+Rdalonso: folds 
+Uncalled bet ($1) returned to santiagoGpradal
+santiagoGpradal collected $2.50 from pot
+santiagoGpradal: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: i.corbu
+Seat 5: Nikarta34
+Seat 1: santiagoGpradal (button) collected ($2.50)
+Seat 4: z00mba (small blind) folded before Flop
+Seat 6: Rdalonso (big blind) folded before Flop
+
+
+
+PokerStars Hand #254583495958:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:51:57 WET [2025/01/27 14:51:57 ET]
+Table 'Una V' 6-max Seat #4 is the button
+Seat 2: michasia ($100 in chips) is sitting out
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 5: Nikarta34 ($100 in chips) is sitting out
+Seat 1: santiagoGpradal ($159.47 in chips) 
+Seat 4: z00mba ($110.78 in chips) 
+Seat 6: Rdalonso ($138.81 in chips) 
+Rdalonso: posts small blind $0.50
+santiagoGpradal: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+z00mba: raises $1.50 to $2.50
+Rdalonso: folds 
+santiagoGpradal: calls $1.50
+*** FLOP *** [9d 6d Kh]
+santiagoGpradal: checks 
+z00mba: bets $3
+santiagoGpradal: calls $3
+*** TURN *** [9d 6d Kh] [3h]
+santiagoGpradal: checks 
+z00mba: checks 
+*** RIVER *** [9d 6d Kh 3h] [4h]
+santiagoGpradal: checks 
+z00mba: bets $8.30
+santiagoGpradal: folds 
+Uncalled bet ($8.30) returned to z00mba
+z00mba collected $10.92 from pot
+z00mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.58 
+Board [9d 6d Kh 3h 4h]
+Seat 2: michasia
+Seat 3: i.corbu
+Seat 5: Nikarta34
+Seat 1: santiagoGpradal (big blind) folded on the River
+Seat 4: z00mba (button) collected ($10.92)
+Seat 6: Rdalonso (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583513028:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:52:52 WET [2025/01/27 14:52:52 ET]
+Table 'Una V' 6-max Seat #6 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 5: Nikarta34 ($100 in chips) is sitting out
+Seat 1: santiagoGpradal ($153.97 in chips) 
+Seat 2: michasia ($100 in chips) 
+Seat 4: z00mba ($116.20 in chips) 
+Seat 6: Rdalonso ($138.31 in chips) 
+santiagoGpradal: posts small blind $0.50
+michasia: posts big blind $1
+Nikarta34: sits out 
+*** HOLE CARDS ***
+z00mba: folds 
+i.corbu is disconnected 
+Rdalonso: raises $1.50 to $2.50
+santiagoGpradal: folds 
+michasia: raises $9.50 to $12
+Rdalonso: folds 
+Uncalled bet ($9.50) returned to michasia
+michasia collected $5.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 3: i.corbu
+Seat 5: Nikarta34
+Seat 1: santiagoGpradal (small blind) folded before Flop
+Seat 2: michasia (big blind) collected ($5.50)
+Seat 4: z00mba folded before Flop (didn't bet)
+Seat 6: Rdalonso (button) folded before Flop
+
+
+
+PokerStars Hand #254583520404:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:53:16 WET [2025/01/27 14:53:16 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 3: i.corbu ($0 in chips) is sitting out
+Seat 4: z00mba ($116.20 in chips) is sitting out
+Seat 1: santiagoGpradal ($153.47 in chips) 
+Seat 2: michasia ($103 in chips) 
+Seat 5: Nikarta34 ($100 in chips) 
+Seat 6: Rdalonso ($135.81 in chips) 
+michasia: posts small blind $0.50
+z00mba: is sitting out 
+Nikarta34: posts big blind $1
+*** HOLE CARDS ***
+Rdalonso: raises $1.50 to $2.50
+santiagoGpradal: folds 
+michasia: folds 
+Nikarta34: folds 
+Uncalled bet ($1.50) returned to Rdalonso
+Rdalonso collected $2.50 from pot
+i.corbu leaves the table
+Rdalonso: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: i.corbu
+Seat 4: z00mba
+Seat 1: santiagoGpradal (button) folded before Flop (didn't bet)
+Seat 2: michasia (small blind) folded before Flop
+Seat 5: Nikarta34 (big blind) folded before Flop
+Seat 6: Rdalonso collected ($2.50)
+
+
+
+PokerStars Hand #254583525214:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:53:31 WET [2025/01/27 14:53:31 ET]
+Table 'Una V' 6-max Seat #2 is the button
+Seat 4: z00mba ($116.20 in chips) is sitting out
+Seat 6: Rdalonso ($137.31 in chips) is sitting out
+Seat 1: santiagoGpradal ($153.47 in chips) 
+Seat 2: michasia ($102.50 in chips) 
+Seat 5: Nikarta34 ($100 in chips) 
+Nikarta34: posts small blind $0.50
+Rdalonso: is sitting out 
+santiagoGpradal: posts big blind $1
+*** HOLE CARDS ***
+michasia: raises $1.80 to $2.80
+Rdalonso leaves the table
+z00mba leaves the table
+Nikarta34: folds 
+santiagoGpradal: folds 
+Uncalled bet ($1.80) returned to michasia
+michasia collected $2.50 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: z00mba
+Seat 6: Rdalonso
+Seat 1: santiagoGpradal (big blind) folded before Flop
+Seat 2: michasia (button) collected ($2.50)
+Seat 5: Nikarta34 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254583530708:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:53:49 WET [2025/01/27 14:53:49 ET]
+Table 'Una V' 6-max Seat #1 is the button
+Seat 2: michasia ($104 in chips) is sitting out
+Seat 1: santiagoGpradal ($152.47 in chips) 
+Seat 5: Nikarta34 ($100 in chips) 
+santiagoGpradal: posts small blind $0.50
+michasia: is sitting out 
+Nikarta34: posts big blind $1
+*** HOLE CARDS ***
+santiagoGpradal: folds 
+Uncalled bet ($0.50) returned to Nikarta34
+michasia leaves the table
+Nikarta34 collected $1 from pot
+Nikarta34: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: michasia
+Seat 1: santiagoGpradal (button) (small blind) folded before Flop
+Seat 5: Nikarta34 (big blind) collected ($1)
+
+
+

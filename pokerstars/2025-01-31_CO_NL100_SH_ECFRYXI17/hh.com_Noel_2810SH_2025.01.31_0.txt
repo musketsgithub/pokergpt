@@ -1,0 +1,2311 @@
+﻿PokerStars Hand #254646037474:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:45:55 WET [2025/01/31 19:45:55 ET]
+Table 'Noel' 6-max Seat #3 is the button
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 3: nastja336 ($100 in chips) 
+Seat 4: Rysiff ($100 in chips) 
+Seat 5: rifi1030 ($94.09 in chips) 
+Seat 6: equilibrium_tv ($60 in chips) 
+Rysiff: posts small blind $0.50
+rifi1030: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: raises $1.50 to $2.50
+Nicedaymybro: folds 
+nastja336: folds 
+Rysiff: folds 
+rifi1030: calls $1.50
+*** FLOP *** [Kc 6c 7d]
+rifi1030: checks 
+equilibrium_tv: bets $1.72
+rifi1030: raises $1.72 to $3.44
+sutata joins the table at seat #2 
+equilibrium_tv: raises $10.06 to $13.50
+rifi1030: folds 
+Uncalled bet ($10.06) returned to equilibrium_tv
+equilibrium_tv collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12.38 | Rake $0.62 
+Board [Kc 6c 7d]
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 3: nastja336 (button) folded before Flop (didn't bet)
+Seat 4: Rysiff (small blind) folded before Flop
+Seat 5: rifi1030 (big blind) folded on the Flop
+Seat 6: equilibrium_tv collected ($11.76)
+
+
+
+PokerStars Hand #254646050287:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:46:56 WET [2025/01/31 19:46:56 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 2: sutata ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 3: nastja336 ($100 in chips) 
+Seat 4: Rysiff ($100 in chips) 
+Seat 5: rifi1030 ($88.15 in chips) 
+Seat 6: equilibrium_tv ($65.82 in chips) 
+rifi1030: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+sutata: sits out 
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+nastja336: folds 
+Rysiff: raises $1.50 to $2.50
+rifi1030: folds 
+equilibrium_tv: calls $1.50
+*** FLOP *** [3d Js 4d]
+equilibrium_tv: checks 
+Rysiff: bets $1.72
+equilibrium_tv: folds 
+Uncalled bet ($1.72) returned to Rysiff
+Rysiff collected $5.22 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3d Js 4d]
+Seat 2: sutata
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 3: nastja336 folded before Flop (didn't bet)
+Seat 4: Rysiff (button) collected ($5.22)
+Seat 5: rifi1030 (small blind) folded before Flop
+Seat 6: equilibrium_tv (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254646057603:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:47:32 WET [2025/01/31 19:47:32 ET]
+Table 'Noel' 6-max Seat #5 is the button
+Seat 2: sutata ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 3: nastja336 ($100 in chips) 
+Seat 4: Rysiff ($102.72 in chips) 
+Seat 5: rifi1030 ($87.65 in chips) 
+Seat 6: equilibrium_tv ($63.32 in chips) 
+equilibrium_tv: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+sutata: sits out 
+*** HOLE CARDS ***
+nastja336: folds 
+Rysiff: folds 
+rifi1030: calls $1
+equilibrium_tv: folds 
+Nicedaymybro: checks 
+*** FLOP *** [Th 8s Ts]
+Nicedaymybro: checks 
+rifi1030: checks 
+*** TURN *** [Th 8s Ts] [Jh]
+Nicedaymybro: bets $1.79
+rifi1030: calls $1.79
+*** RIVER *** [Th 8s Ts Jh] [7c]
+Nicedaymybro: bets $1.91
+rifi1030: calls $1.91
+*** SHOW DOWN ***
+Nicedaymybro: shows [Js Tc] (a full house, Tens full of Jacks)
+rifi1030: mucks hand 
+Nicedaymybro collected $9.40 from pot
+*** SUMMARY ***
+Total pot $9.90 | Rake $0.50 
+Board [Th 8s Ts Jh 7c]
+Seat 2: sutata
+Seat 1: Nicedaymybro (big blind) showed [Js Tc] and won ($9.40) with a full house, Tens full of Jacks
+Seat 3: nastja336 folded before Flop (didn't bet)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 (button) mucked
+Seat 6: equilibrium_tv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254646064681:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:48:05 WET [2025/01/31 19:48:05 ET]
+Table 'Noel' 6-max Seat #6 is the button
+Seat 1: Nicedaymybro ($104.70 in chips) 
+Seat 2: sutata ($100 in chips) 
+Seat 3: nastja336 ($100 in chips) 
+Seat 4: Rysiff ($102.72 in chips) 
+Seat 5: rifi1030 ($82.95 in chips) 
+Seat 6: equilibrium_tv ($79.82 in chips) 
+Nicedaymybro: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+Rysiff: folds 
+rifi1030: calls $1
+equilibrium_tv: raises $3 to $4
+Nicedaymybro: folds 
+sutata: folds 
+rifi1030: calls $3
+*** FLOP *** [5s 9c 9s]
+rifi1030: checks 
+equilibrium_tv: bets $2.98
+rifi1030: calls $2.98
+*** TURN *** [5s 9c 9s] [6s]
+rifi1030: checks 
+equilibrium_tv: bets $11.02
+rifi1030: folds 
+Uncalled bet ($11.02) returned to equilibrium_tv
+equilibrium_tv collected $14.69 from pot
+*** SUMMARY ***
+Total pot $15.46 | Rake $0.77 
+Board [5s 9c 9s 6s]
+Seat 1: Nicedaymybro (small blind) folded before Flop
+Seat 2: sutata (big blind) folded before Flop
+Seat 3: nastja336 folded before Flop (didn't bet)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 folded on the Turn
+Seat 6: equilibrium_tv (button) collected ($14.69)
+
+
+
+PokerStars Hand #254646075766:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:48:59 WET [2025/01/31 19:48:59 ET]
+Table 'Noel' 6-max Seat #1 is the button
+Seat 1: Nicedaymybro ($104.20 in chips) 
+Seat 2: sutata ($100 in chips) 
+Seat 3: nastja336 ($100 in chips) 
+Seat 4: Rysiff ($102.72 in chips) 
+Seat 5: rifi1030 ($75.97 in chips) 
+Seat 6: equilibrium_tv ($87.53 in chips) 
+sutata: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+rifi1030: folds 
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+sutata: folds 
+Uncalled bet ($0.50) returned to nastja336
+nastja336 collected $1 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Nicedaymybro (button) folded before Flop (didn't bet)
+Seat 2: sutata (small blind) folded before Flop
+Seat 3: nastja336 (big blind) collected ($1)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646077999:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:49:09 WET [2025/01/31 19:49:09 ET]
+Table 'Noel' 6-max Seat #2 is the button
+Seat 1: Nicedaymybro ($104.20 in chips) 
+Seat 2: sutata ($100 in chips) 
+Seat 3: nastja336 ($100.50 in chips) 
+Seat 4: Rysiff ($102.72 in chips) 
+Seat 5: rifi1030 ($75.97 in chips) 
+Seat 6: equilibrium_tv ($87.53 in chips) 
+nastja336: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+rifi1030: folds 
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+sutata: folds 
+nastja336: raises $2 to $3
+Rysiff: folds 
+Uncalled bet ($2) returned to nastja336
+nastja336 collected $2 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 2: sutata (button) folded before Flop (didn't bet)
+Seat 3: nastja336 (small blind) collected ($2)
+Seat 4: Rysiff (big blind) folded before Flop
+Seat 5: rifi1030 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646080950:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:49:24 WET [2025/01/31 19:49:24 ET]
+Table 'Noel' 6-max Seat #3 is the button
+Seat 1: Nicedaymybro ($104.20 in chips) 
+Seat 2: sutata ($100 in chips) 
+Seat 3: nastja336 ($101.50 in chips) 
+Seat 4: Rysiff ($101.72 in chips) 
+Seat 5: rifi1030 ($75.97 in chips) 
+Seat 6: equilibrium_tv ($87.53 in chips) 
+Rysiff: posts small blind $0.50
+rifi1030: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: raises $1.50 to $2.50
+Nicedaymybro: raises $5 to $7.50
+sutata: folds 
+nastja336: folds 
+Rysiff: folds 
+rifi1030: calls $6.50
+equilibrium_tv: folds 
+*** FLOP *** [9d 3d Qc]
+rifi1030: checks 
+Nicedaymybro: checks 
+*** TURN *** [9d 3d Qc] [Kh]
+rifi1030: checks 
+Nicedaymybro: checks 
+*** RIVER *** [9d 3d Qc Kh] [6d]
+rifi1030: checks 
+Nicedaymybro: checks 
+*** SHOW DOWN ***
+rifi1030: shows [Jc As] (high card Ace)
+Nicedaymybro: shows [Th Tc] (a pair of Tens)
+Nicedaymybro collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [9d 3d Qc Kh 6d]
+Seat 1: Nicedaymybro showed [Th Tc] and won ($17.10) with a pair of Tens
+Seat 2: sutata folded before Flop (didn't bet)
+Seat 3: nastja336 (button) folded before Flop (didn't bet)
+Seat 4: Rysiff (small blind) folded before Flop
+Seat 5: rifi1030 (big blind) showed [Jc As] and lost with high card Ace
+Seat 6: equilibrium_tv folded before Flop
+
+
+
+PokerStars Hand #254646090452:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:50:10 WET [2025/01/31 19:50:10 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 1: Nicedaymybro ($113.80 in chips) 
+Seat 2: sutata ($100 in chips) 
+Seat 3: nastja336 ($101.50 in chips) 
+Seat 4: Rysiff ($101.22 in chips) 
+Seat 5: rifi1030 ($68.47 in chips) 
+Seat 6: equilibrium_tv ($85.03 in chips) 
+rifi1030: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+sutata: raises $1.50 to $2.50
+nastja336: folds 
+Rysiff: folds 
+rifi1030: calls $2
+equilibrium_tv: calls $1.50
+*** FLOP *** [Jd 8c Qh]
+rifi1030: checks 
+equilibrium_tv: checks 
+sutata: checks 
+*** TURN *** [Jd 8c Qh] [9h]
+rifi1030: checks 
+equilibrium_tv: bets $3.56
+sutata: folds 
+rifi1030: calls $3.56
+*** RIVER *** [Jd 8c Qh 9h] [6h]
+rifi1030: checks 
+equilibrium_tv: bets $13.89
+rifi1030: folds 
+Uncalled bet ($13.89) returned to equilibrium_tv
+equilibrium_tv collected $13.89 from pot
+*** SUMMARY ***
+Total pot $14.62 | Rake $0.73 
+Board [Jd 8c Qh 9h 6h]
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 2: sutata folded on the Turn
+Seat 3: nastja336 folded before Flop (didn't bet)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: rifi1030 (small blind) folded on the River
+Seat 6: equilibrium_tv (big blind) collected ($13.89)
+
+
+
+PokerStars Hand #254646104622:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:51:19 WET [2025/01/31 19:51:19 ET]
+Table 'Noel' 6-max Seat #5 is the button
+Seat 1: Nicedaymybro ($113.80 in chips) 
+Seat 2: sutata ($100 in chips) 
+Seat 3: nastja336 ($101.50 in chips) 
+Seat 4: Rysiff ($101.22 in chips) 
+Seat 5: rifi1030 ($62.41 in chips) 
+Seat 6: equilibrium_tv ($92.86 in chips) 
+equilibrium_tv: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+sutata: raises $1.50 to $2.50
+nastja336: folds 
+Rysiff: folds 
+rifi1030: calls $2.50
+equilibrium_tv: folds 
+Nicedaymybro: calls $1.50
+*** FLOP *** [2h Kc 9c]
+Nicedaymybro: checks 
+sutata: bets $4
+rifi1030: calls $4
+Nicedaymybro: raises $14.70 to $18.70
+sutata: calls $14.70
+rifi1030: calls $14.70
+*** TURN *** [2h Kc 9c] [Ac]
+Nicedaymybro: bets $15
+sutata: calls $15
+rifi1030: folds 
+*** RIVER *** [2h Kc 9c Ac] [2s]
+Nicedaymybro: checks 
+sutata: bets $63.80 and is all-in
+Nicedaymybro: folds 
+Uncalled bet ($63.80) returned to sutata
+sutata collected $91.60 from pot
+sutata: doesn't show hand 
+*** SUMMARY ***
+Total pot $94.10 | Rake $2.50 
+Board [2h Kc 9c Ac 2s]
+Seat 1: Nicedaymybro (big blind) folded on the River
+Seat 2: sutata collected ($91.60)
+Seat 3: nastja336 folded before Flop (didn't bet)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 (button) folded on the Turn
+Seat 6: equilibrium_tv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254646121837:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:52:43 WET [2025/01/31 19:52:43 ET]
+Table 'Noel' 6-max Seat #6 is the button
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 2: sutata ($155.40 in chips) 
+Seat 3: nastja336 ($101.50 in chips) 
+Seat 4: Rysiff ($101.22 in chips) 
+Seat 5: rifi1030 ($41.21 in chips) 
+Seat 6: equilibrium_tv ($92.36 in chips) 
+Nicedaymybro: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+Rysiff: raises $1.50 to $2.50
+rifi1030: folds 
+nastja336 leaves the table
+equilibrium_tv: raises $5 to $7.50
+Nicedaymybro: folds 
+sutata: folds 
+Rysiff: raises $13.50 to $21
+equilibrium_tv: folds 
+Uncalled bet ($13.50) returned to Rysiff
+Rysiff collected $16.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0 
+Seat 1: Nicedaymybro (small blind) folded before Flop
+Seat 2: sutata (big blind) folded before Flop
+Seat 3: nastja336 folded before Flop (didn't bet)
+Seat 4: Rysiff collected ($16.50)
+Seat 5: rifi1030 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (button) folded before Flop
+
+
+
+PokerStars Hand #254646133622:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:53:41 WET [2025/01/31 19:53:41 ET]
+Table 'Noel' 6-max Seat #1 is the button
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 2: sutata ($154.40 in chips) 
+Seat 4: Rysiff ($110.22 in chips) 
+Seat 5: rifi1030 ($41.21 in chips) 
+Seat 6: equilibrium_tv ($84.86 in chips) 
+sutata: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+rifi1030: folds 
+equilibrium_tv: folds 
+Nicedaymybro: raises $1 to $2
+sutata: folds 
+Rysiff: raises $8 to $10
+Nicedaymybro: folds 
+Uncalled bet ($8) returned to Rysiff
+Rysiff collected $4.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 1: Nicedaymybro (button) folded before Flop
+Seat 2: sutata (small blind) folded before Flop
+Seat 4: Rysiff (big blind) collected ($4.50)
+Seat 5: rifi1030 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646140708:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:54:16 WET [2025/01/31 19:54:16 ET]
+Table 'Noel' 6-max Seat #2 is the button
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 2: sutata ($153.90 in chips) 
+Seat 4: Rysiff ($112.72 in chips) 
+Seat 5: rifi1030 ($41.21 in chips) 
+Seat 6: equilibrium_tv ($84.86 in chips) 
+Rysiff: posts small blind $0.50
+rifi1030: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+Nicedaymybro: raises $1.50 to $2.50
+sutata: calls $2.50
+Rysiff: raises $11.50 to $14
+rifi1030: folds 
+Nicedaymybro: folds 
+sutata: calls $11.50
+*** FLOP *** [Ts 4c Kd]
+Rysiff: bets $9.87
+sutata: calls $9.87
+*** TURN *** [Ts 4c Kd] [Td]
+mariofcd joins the table at seat #3 
+Rysiff: bets $24.37
+sutata: folds 
+Uncalled bet ($24.37) returned to Rysiff
+Rysiff collected $48.74 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $51.24 | Rake $2.50 
+Board [Ts 4c Kd Td]
+Seat 1: Nicedaymybro folded before Flop
+Seat 2: sutata (button) folded on the Turn
+Seat 4: Rysiff (small blind) collected ($48.74)
+Seat 5: rifi1030 (big blind) folded before Flop
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646157640:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:55:46 WET [2025/01/31 19:55:46 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 3: mariofcd ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 2: sutata ($130.03 in chips) 
+Seat 4: Rysiff ($137.59 in chips) 
+Seat 5: rifi1030 ($40.21 in chips) 
+Seat 6: equilibrium_tv ($84.86 in chips) 
+rifi1030: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+mariofcd: sits out 
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+sutata: folds 
+Rysiff: folds 
+rifi1030: folds 
+Uncalled bet ($0.50) returned to equilibrium_tv
+equilibrium_tv collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: mariofcd
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 2: sutata folded before Flop (didn't bet)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: rifi1030 (small blind) folded before Flop
+Seat 6: equilibrium_tv (big blind) collected ($1)
+
+
+
+PokerStars Hand #254646160775:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:56:06 WET [2025/01/31 19:56:06 ET]
+Table 'Noel' 6-max Seat #5 is the button
+Seat 3: mariofcd ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 2: sutata ($130.03 in chips) 
+Seat 4: Rysiff ($137.59 in chips) 
+Seat 5: rifi1030 ($39.71 in chips) 
+Seat 6: equilibrium_tv ($85.36 in chips) 
+equilibrium_tv: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+mariofcd: sits out 
+*** HOLE CARDS ***
+sutata: raises $1.50 to $2.50
+Rysiff: folds 
+rifi1030: folds 
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+Uncalled bet ($1.50) returned to sutata
+sutata collected $2.50 from pot
+sutata: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: mariofcd
+Seat 1: Nicedaymybro (big blind) folded before Flop
+Seat 2: sutata collected ($2.50)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 (button) folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254646162455:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:56:16 WET [2025/01/31 19:56:16 ET]
+Table 'Noel' 6-max Seat #6 is the button
+Seat 2: sutata ($131.53 in chips) is sitting out
+Seat 3: mariofcd ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 4: Rysiff ($137.59 in chips) 
+Seat 5: rifi1030 ($39.71 in chips) 
+Seat 6: equilibrium_tv ($84.86 in chips) 
+Nicedaymybro: posts small blind $0.50
+sutata: is sitting out 
+mariofcd: is sitting out 
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+sutata leaves the table
+mariofcd leaves the table
+rifi1030: raises $2.50 to $3.50
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+Rysiff: calls $2.50
+*** FLOP *** [Qh 9s 7c]
+Rysiff: checks 
+rifi1030: bets $3.56
+Rysiff: calls $3.56
+*** TURN *** [Qh 9s 7c] [Qc]
+Rysiff: checks 
+rifi1030: checks 
+*** RIVER *** [Qh 9s 7c Qc] [4c]
+Rysiff: checks 
+rifi1030: checks 
+*** SHOW DOWN ***
+Rysiff: shows [8c 8h] (two pair, Queens and Eights)
+rifi1030: mucks hand 
+Rysiff collected $13.89 from pot
+*** SUMMARY ***
+Total pot $14.62 | Rake $0.73 
+Board [Qh 9s 7c Qc 4c]
+Seat 2: sutata
+Seat 3: mariofcd
+Seat 1: Nicedaymybro (small blind) folded before Flop
+Seat 4: Rysiff (big blind) showed [8c 8h] and won ($13.89) with two pair, Queens and Eights
+Seat 5: rifi1030 mucked
+Seat 6: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646171933:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:57:15 WET [2025/01/31 19:57:15 ET]
+Table 'Noel' 6-max Seat #1 is the button
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 4: Rysiff ($144.42 in chips) 
+Seat 5: rifi1030 ($32.65 in chips) 
+Seat 6: equilibrium_tv ($84.86 in chips) 
+Rysiff: posts small blind $0.50
+rifi1030: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+Rysiff: folds 
+Uncalled bet ($0.50) returned to rifi1030
+rifi1030 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Nicedaymybro (button) folded before Flop (didn't bet)
+Seat 4: Rysiff (small blind) folded before Flop
+Seat 5: rifi1030 (big blind) collected ($1)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646173385:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:57:24 WET [2025/01/31 19:57:24 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 4: Rysiff ($143.92 in chips) 
+Seat 5: rifi1030 ($33.15 in chips) 
+Seat 6: equilibrium_tv ($84.86 in chips) 
+rifi1030: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+rao999 joins the table at seat #2 
+Nicedaymybro: folds 
+Rysiff: folds 
+rifi1030 has timed out
+rifi1030: folds 
+Uncalled bet ($0.50) returned to equilibrium_tv
+equilibrium_tv collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: rifi1030 (small blind) folded before Flop
+Seat 6: equilibrium_tv (big blind) collected ($1)
+
+
+
+PokerStars Hand #254646178104:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:57:53 WET [2025/01/31 19:57:53 ET]
+Table 'Noel' 6-max Seat #6 is the button
+Seat 5: rifi1030 ($32.65 in chips) is sitting out
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 2: rao999 ($100 in chips) 
+Seat 4: Rysiff ($143.92 in chips) 
+Seat 6: equilibrium_tv ($85.36 in chips) 
+Nicedaymybro: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+equilibrium_tv: raises $1.50 to $2.50
+Nicedaymybro: raises $8.50 to $11
+rao999: folds 
+equilibrium_tv: folds 
+Uncalled bet ($8.50) returned to Nicedaymybro
+Nicedaymybro collected $6 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 5: rifi1030
+Seat 1: Nicedaymybro (small blind) collected ($6)
+Seat 2: rao999 (big blind) folded before Flop
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (button) folded before Flop
+
+
+
+PokerStars Hand #254646181652:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:58:14 WET [2025/01/31 19:58:14 ET]
+Table 'Noel' 6-max Seat #1 is the button
+Seat 1: Nicedaymybro ($103.50 in chips) 
+Seat 2: rao999 ($100 in chips) 
+Seat 4: Rysiff ($143.92 in chips) 
+Seat 5: rifi1030 ($32.65 in chips) 
+Seat 6: equilibrium_tv ($82.86 in chips) 
+rao999: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+rifi1030: raises $2.50 to $3.50
+equilibrium_tv: raises $5.50 to $9
+Nicedaymybro: folds 
+rao999: folds 
+Rysiff: folds 
+rifi1030: raises $23.65 to $32.65 and is all-in
+equilibrium_tv: calls $23.65
+*** FLOP *** [8d Qh 6s]
+*** TURN *** [8d Qh 6s] [Tc]
+*** RIVER *** [8d Qh 6s Tc] [9c]
+*** SHOW DOWN ***
+rifi1030: shows [Jd As] (a straight, Eight to Queen)
+equilibrium_tv: shows [Ah Qs] (a pair of Queens)
+rifi1030 collected $64.30 from pot
+*** SUMMARY ***
+Total pot $66.80 | Rake $2.50 
+Board [8d Qh 6s Tc 9c]
+Seat 1: Nicedaymybro (button) folded before Flop (didn't bet)
+Seat 2: rao999 (small blind) folded before Flop
+Seat 4: Rysiff (big blind) folded before Flop
+Seat 5: rifi1030 showed [Jd As] and won ($64.30) with a straight, Eight to Queen
+Seat 6: equilibrium_tv showed [Ah Qs] and lost with a pair of Queens
+
+
+
+PokerStars Hand #254646188980:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:58:59 WET [2025/01/31 19:58:59 ET]
+Table 'Noel' 6-max Seat #2 is the button
+Seat 1: Nicedaymybro ($103.50 in chips) 
+Seat 2: rao999 ($100 in chips) 
+Seat 4: Rysiff ($142.92 in chips) 
+Seat 5: rifi1030 ($64.30 in chips) 
+Seat 6: equilibrium_tv ($50.21 in chips) 
+Rysiff: posts small blind $0.50
+rifi1030: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+Nicedaymybro: raises $1.50 to $2.50
+rao999: raises $5.50 to $8
+Rysiff: folds 
+rifi1030 has timed out
+rifi1030: folds 
+Nicedaymybro: folds 
+Uncalled bet ($5.50) returned to rao999
+rao999 collected $6.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: Nicedaymybro folded before Flop
+Seat 2: rao999 (button) collected ($6.50)
+Seat 4: Rysiff (small blind) folded before Flop
+Seat 5: rifi1030 (big blind) folded before Flop
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646194706:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 0:59:35 WET [2025/01/31 19:59:35 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 1: Nicedaymybro ($101 in chips) 
+Seat 2: rao999 ($104 in chips) 
+Seat 4: Rysiff ($142.42 in chips) 
+Seat 5: rifi1030 ($63.30 in chips) 
+Seat 6: equilibrium_tv ($50.21 in chips) 
+rifi1030: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+rao999: folds 
+Rysiff: folds 
+rifi1030: calls $0.50
+equilibrium_tv: checks 
+*** FLOP *** [4s Ah 3c]
+rifi1030: checks 
+equilibrium_tv: bets $1
+rifi1030: calls $1
+*** TURN *** [4s Ah 3c] [Jd]
+rifi1030: checks 
+equilibrium_tv: bets $2
+rifi1030: folds 
+Uncalled bet ($2) returned to equilibrium_tv
+equilibrium_tv collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [4s Ah 3c Jd]
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: rifi1030 (small blind) folded on the Turn
+Seat 6: equilibrium_tv (big blind) collected ($3.80)
+
+
+
+PokerStars Hand #254646203742:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:00:30 WET [2025/01/31 20:00:30 ET]
+Table 'Noel' 6-max Seat #5 is the button
+Seat 1: Nicedaymybro ($101 in chips) 
+Seat 2: rao999 ($104 in chips) 
+Seat 4: Rysiff ($142.42 in chips) 
+Seat 5: rifi1030 ($61.30 in chips) 
+Seat 6: equilibrium_tv ($66.01 in chips) 
+equilibrium_tv: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+rao999: raises $1.50 to $2.50
+Rysiff: folds 
+rifi1030: folds 
+equilibrium_tv: folds 
+Nicedaymybro: raises $8.50 to $11
+rao999: folds 
+Uncalled bet ($8.50) returned to Nicedaymybro
+Nicedaymybro collected $5.50 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: Nicedaymybro (big blind) collected ($5.50)
+Seat 2: rao999 folded before Flop
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 (button) folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254646207364:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:00:51 WET [2025/01/31 20:00:51 ET]
+Table 'Noel' 6-max Seat #6 is the button
+Seat 2: rao999 ($101.50 in chips) is sitting out
+Seat 1: Nicedaymybro ($104 in chips) 
+Seat 4: Rysiff ($142.42 in chips) 
+Seat 5: rifi1030 ($61.30 in chips) 
+Seat 6: equilibrium_tv ($65.51 in chips) 
+Nicedaymybro: posts small blind $0.50
+rao999: is sitting out 
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+rifi1030: raises $1 to $2
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+Rysiff: folds 
+Uncalled bet ($1) returned to rifi1030
+rifi1030 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: rao999
+Seat 1: Nicedaymybro (small blind) folded before Flop
+Seat 4: Rysiff (big blind) folded before Flop
+Seat 5: rifi1030 collected ($2.50)
+Seat 6: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646209703:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:01:03 WET [2025/01/31 20:01:03 ET]
+Table 'Noel' 6-max Seat #1 is the button
+Seat 2: rao999 ($101.50 in chips) is sitting out
+Seat 1: Nicedaymybro ($103.50 in chips) 
+Seat 4: Rysiff ($141.42 in chips) 
+Seat 5: rifi1030 ($62.80 in chips) 
+Seat 6: equilibrium_tv ($65.51 in chips) 
+Rysiff: posts small blind $0.50
+rifi1030: posts big blind $1
+*** HOLE CARDS ***
+ffac joins the table at seat #3 
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+Rysiff: raises $2 to $3
+rifi1030: raises $6 to $9
+Rysiff: calls $6
+*** FLOP *** [Jd 6c 4d]
+Rysiff: checks 
+rifi1030: checks 
+*** TURN *** [Jd 6c 4d] [7c]
+Rysiff: bets $13.68
+rifi1030: folds 
+Uncalled bet ($13.68) returned to Rysiff
+Rysiff collected $17.10 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Jd 6c 4d 7c]
+Seat 2: rao999
+Seat 1: Nicedaymybro (button) folded before Flop (didn't bet)
+Seat 4: Rysiff (small blind) collected ($17.10)
+Seat 5: rifi1030 (big blind) folded on the Turn
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646218208:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:01:48 WET [2025/01/31 20:01:48 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 2: rao999 ($101.50 in chips) is sitting out
+Seat 3: ffac ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($103.50 in chips) 
+Seat 4: Rysiff ($149.52 in chips) 
+Seat 5: rifi1030 ($53.80 in chips) 
+Seat 6: equilibrium_tv ($65.51 in chips) 
+rifi1030: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+rao999: sits out 
+ffac: sits out 
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+Rysiff: raises $1.50 to $2.50
+rifi1030: folds 
+equilibrium_tv: calls $1.50
+*** FLOP *** [7d 9h Kd]
+equilibrium_tv: checks 
+Rysiff: bets $1.72
+equilibrium_tv: calls $1.72
+*** TURN *** [7d 9h Kd] [9d]
+equilibrium_tv: checks 
+Rysiff: checks 
+*** RIVER *** [7d 9h Kd 9d] [6d]
+equilibrium_tv: checks 
+Rysiff: bets $4.25
+equilibrium_tv: folds 
+Uncalled bet ($4.25) returned to Rysiff
+Rysiff collected $8.49 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [7d 9h Kd 9d 6d]
+Seat 2: rao999
+Seat 3: ffac
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 4: Rysiff (button) collected ($8.49)
+Seat 5: rifi1030 (small blind) folded before Flop
+Seat 6: equilibrium_tv (big blind) folded on the River
+
+
+
+PokerStars Hand #254646232386:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:03:01 WET [2025/01/31 20:03:01 ET]
+Table 'Noel' 6-max Seat #5 is the button
+Seat 2: rao999 ($101.50 in chips) is sitting out
+Seat 3: ffac ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($103.50 in chips) 
+Seat 4: Rysiff ($153.79 in chips) 
+Seat 5: rifi1030 ($53.30 in chips) 
+Seat 6: equilibrium_tv ($61.29 in chips) 
+equilibrium_tv: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+rao999: sits out 
+ffac: sits out 
+*** HOLE CARDS ***
+Rysiff: folds 
+rifi1030: raises $1 to $2
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+Uncalled bet ($1) returned to rifi1030
+rifi1030 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: rao999
+Seat 3: ffac
+Seat 1: Nicedaymybro (big blind) folded before Flop
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 (button) collected ($2.50)
+Seat 6: equilibrium_tv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254646235901:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:03:19 WET [2025/01/31 20:03:19 ET]
+Table 'Noel' 6-max Seat #6 is the button
+Seat 3: ffac ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($102.50 in chips) 
+Seat 2: rao999 ($101.50 in chips) 
+Seat 4: Rysiff ($153.79 in chips) 
+Seat 5: rifi1030 ($54.80 in chips) 
+Seat 6: equilibrium_tv ($60.79 in chips) 
+Nicedaymybro: posts small blind $0.50
+rao999: posts big blind $1
+ffac: sits out 
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+rifi1030: folds 
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+rao999: calls $1.50
+*** FLOP *** [6s Ac 9c]
+rao999: checks 
+Rysiff: bets $1.72
+rao999: calls $1.72
+*** TURN *** [6s Ac 9c] [Td]
+rao999: checks 
+Rysiff: checks 
+*** RIVER *** [6s Ac 9c Td] [5d]
+rao999: checks 
+Rysiff: bets $6.79
+rao999 has timed out
+rao999: folds 
+Uncalled bet ($6.79) returned to Rysiff
+Rysiff collected $8.49 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [6s Ac 9c Td 5d]
+Seat 3: ffac
+Seat 1: Nicedaymybro (small blind) folded before Flop
+Seat 2: rao999 (big blind) folded on the River
+Seat 4: Rysiff collected ($8.49)
+Seat 5: rifi1030 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646258993:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:05:18 WET [2025/01/31 20:05:18 ET]
+Table 'Noel' 6-max Seat #1 is the button
+Seat 1: Nicedaymybro ($102 in chips) 
+Seat 2: rao999 ($100 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($158.06 in chips) 
+Seat 5: rifi1030 ($54.80 in chips) 
+Seat 6: equilibrium_tv ($60.79 in chips) 
+rao999: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+rifi1030: folds 
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+rao999: raises $9.50 to $12
+ffac: folds 
+Rysiff: folds 
+Uncalled bet ($9.50) returned to rao999
+rao999 collected $6 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nicedaymybro (button) folded before Flop (didn't bet)
+Seat 2: rao999 (small blind) collected ($6)
+Seat 3: ffac (big blind) folded before Flop
+Seat 4: Rysiff folded before Flop
+Seat 5: rifi1030 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646264359:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:05:45 WET [2025/01/31 20:05:45 ET]
+Table 'Noel' 6-max Seat #2 is the button
+Seat 1: Nicedaymybro ($102 in chips) 
+Seat 2: rao999 ($103.50 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($155.56 in chips) 
+Seat 5: rifi1030 ($54.80 in chips) 
+Seat 6: equilibrium_tv ($60.79 in chips) 
+ffac: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+rifi1030: raises $1 to $2
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+rao999: folds 
+ffac: folds 
+Rysiff: folds 
+Uncalled bet ($1) returned to rifi1030
+rifi1030 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 2: rao999 (button) folded before Flop (didn't bet)
+Seat 3: ffac (small blind) folded before Flop
+Seat 4: Rysiff (big blind) folded before Flop
+Seat 5: rifi1030 collected ($2.50)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646269615:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:06:12 WET [2025/01/31 20:06:12 ET]
+Table 'Noel' 6-max Seat #3 is the button
+Seat 1: Nicedaymybro ($102 in chips) 
+Seat 2: rao999 ($103.50 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($154.56 in chips) 
+Seat 5: rifi1030 ($56.30 in chips) 
+Seat 6: equilibrium_tv ($60.79 in chips) 
+Rysiff: posts small blind $0.50
+rifi1030: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+rao999: folds 
+ffac: folds 
+Rysiff: raises $2 to $3
+rifi1030: calls $2
+*** FLOP *** [9c 6d 4c]
+Rysiff: bets $5
+rifi1030: calls $5
+*** TURN *** [9c 6d 4c] [7h]
+Rysiff: checks 
+rifi1030: bets $7.60
+Rysiff: raises $138.96 to $146.56 and is all-in
+rifi1030: folds 
+Uncalled bet ($138.96) returned to Rysiff
+Rysiff collected $29.64 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $31.20 | Rake $1.56 
+Board [9c 6d 4c 7h]
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: ffac (button) folded before Flop (didn't bet)
+Seat 4: Rysiff (small blind) collected ($29.64)
+Seat 5: rifi1030 (big blind) folded on the Turn
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646282670:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:07:19 WET [2025/01/31 20:07:19 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 1: Nicedaymybro ($102 in chips) 
+Seat 2: rao999 ($103.50 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($168.60 in chips) 
+Seat 5: rifi1030 ($40.70 in chips) 
+Seat 6: equilibrium_tv ($60.79 in chips) 
+rifi1030: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+rao999: raises $1.50 to $2.50
+ffac: folds 
+Rysiff: folds 
+rifi1030: calls $2
+equilibrium_tv: folds 
+*** FLOP *** [4s 9h 6h]
+rifi1030: checks 
+rao999: checks 
+*** TURN *** [4s 9h 6h] [7d]
+rifi1030: bets $2.85
+rao999: raises $8.15 to $11
+rifi1030: calls $8.15
+*** RIVER *** [4s 9h 6h 7d] [6c]
+rifi1030: checks 
+rao999: bets $28
+rifi1030: calls $27.20 and is all-in
+Uncalled bet ($0.80) returned to rao999
+*** SHOW DOWN ***
+rao999: shows [5s 3s] (a straight, Three to Seven)
+rifi1030: shows [Th 7h] (two pair, Sevens and Sixes)
+rao999 collected $79.90 from pot
+*** SUMMARY ***
+Total pot $82.40 | Rake $2.50 
+Board [4s 9h 6h 7d 6c]
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 2: rao999 showed [5s 3s] and won ($79.90) with a straight, Three to Seven
+Seat 3: ffac folded before Flop (didn't bet)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: rifi1030 (small blind) showed [Th 7h] and lost with two pair, Sevens and Sixes
+Seat 6: equilibrium_tv (big blind) folded before Flop
+
+
+
+PokerStars Hand #254646321669:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:10:43 WET [2025/01/31 20:10:43 ET]
+Table 'Noel' 6-max Seat #3 is the button
+Seat 1: Nicedaymybro ($101.50 in chips) 
+Seat 2: rao999 ($144.48 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($170.40 in chips) 
+Seat 5: rifi1030 ($100 in chips) 
+Seat 6: equilibrium_tv ($59.29 in chips) 
+Rysiff: posts small blind $0.50
+rifi1030: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+rao999: raises $1.50 to $2.50
+ffac: folds 
+Rysiff: folds 
+rifi1030: folds 
+Uncalled bet ($1.50) returned to rao999
+rao999 collected $2.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 2: rao999 collected ($2.50)
+Seat 3: ffac (button) folded before Flop (didn't bet)
+Seat 4: Rysiff (small blind) folded before Flop
+Seat 5: rifi1030 (big blind) folded before Flop
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646326563:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:11:09 WET [2025/01/31 20:11:09 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 6: equilibrium_tv ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($101.50 in chips) 
+Seat 2: rao999 ($145.98 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($169.90 in chips) 
+Seat 5: rifi1030 ($99 in chips) 
+rifi1030: posts small blind $0.50
+equilibrium_tv: is sitting out 
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+ffac: folds 
+Rysiff: folds 
+rifi1030: raises $2 to $3
+Nicedaymybro: calls $2
+*** FLOP *** [4d Ks As]
+rifi1030: checks 
+Nicedaymybro: checks 
+*** TURN *** [4d Ks As] [Qc]
+rifi1030: checks 
+Nicedaymybro: checks 
+*** RIVER *** [4d Ks As Qc] [2s]
+rifi1030: checks 
+Nicedaymybro: checks 
+*** SHOW DOWN ***
+rifi1030: shows [Jd Jc] (a pair of Jacks)
+Nicedaymybro: mucks hand 
+rifi1030 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4d Ks As Qc 2s]
+Seat 6: equilibrium_tv
+Seat 1: Nicedaymybro (big blind) mucked
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: ffac folded before Flop (didn't bet)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: rifi1030 (small blind) showed [Jd Jc] and won ($5.70) with a pair of Jacks
+
+
+
+PokerStars Hand #254646333811:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:11:47 WET [2025/01/31 20:11:47 ET]
+Table 'Noel' 6-max Seat #5 is the button
+Seat 6: equilibrium_tv ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 2: rao999 ($145.98 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($169.90 in chips) 
+Seat 5: rifi1030 ($101.70 in chips) 
+Nicedaymybro: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+ffac: folds 
+Rysiff: folds 
+rifi1030: folds 
+Nicedaymybro: raises $2 to $3
+rao999: folds 
+Uncalled bet ($2) returned to Nicedaymybro
+Nicedaymybro collected $2 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: equilibrium_tv
+Seat 1: Nicedaymybro (small blind) collected ($2)
+Seat 2: rao999 (big blind) folded before Flop
+Seat 3: ffac folded before Flop (didn't bet)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646338745:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:12:13 WET [2025/01/31 20:12:13 ET]
+Table 'Noel' 6-max Seat #1 is the button
+Seat 6: equilibrium_tv ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($101 in chips) 
+Seat 2: rao999 ($144.98 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($169.90 in chips) 
+Seat 5: rifi1030 ($101.70 in chips) 
+rao999: posts small blind $0.50
+ffac: posts big blind $1
+equilibrium_tv: sits out 
+*** HOLE CARDS ***
+Rysiff: folds 
+rifi1030: raises $2 to $3
+Nicedaymybro: folds 
+rao999: folds 
+ffac: folds 
+Uncalled bet ($2) returned to rifi1030
+rifi1030 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: equilibrium_tv
+Seat 1: Nicedaymybro (button) folded before Flop (didn't bet)
+Seat 2: rao999 (small blind) folded before Flop
+Seat 3: ffac (big blind) folded before Flop
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 collected ($2.50)
+
+
+
+PokerStars Hand #254646341351:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:12:27 WET [2025/01/31 20:12:27 ET]
+Table 'Noel' 6-max Seat #2 is the button
+Seat 6: equilibrium_tv ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($101 in chips) 
+Seat 2: rao999 ($144.48 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($169.90 in chips) 
+Seat 5: rifi1030 ($103.20 in chips) 
+ffac: posts small blind $0.50
+Rysiff: posts big blind $1
+equilibrium_tv: sits out 
+*** HOLE CARDS ***
+rifi1030: folds 
+Nicedaymybro: raises $1.50 to $2.50
+rao999: calls $2.50
+ffac: folds 
+Rysiff: folds 
+*** FLOP *** [Tc 8c Ts]
+Nicedaymybro: bets $2.47
+rao999: calls $2.47
+*** TURN *** [Tc 8c Ts] [5c]
+Nicedaymybro: checks 
+rao999: bets $7.17
+Nicedaymybro: folds 
+Uncalled bet ($7.17) returned to rao999
+rao999 collected $10.87 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.44 | Rake $0.57 
+Board [Tc 8c Ts 5c]
+Seat 6: equilibrium_tv
+Seat 1: Nicedaymybro folded on the Turn
+Seat 2: rao999 (button) collected ($10.87)
+Seat 3: ffac (small blind) folded before Flop
+Seat 4: Rysiff (big blind) folded before Flop
+Seat 5: rifi1030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646348829:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:13:07 WET [2025/01/31 20:13:07 ET]
+Table 'Noel' 6-max Seat #3 is the button
+Seat 6: equilibrium_tv ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 2: rao999 ($150.38 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($168.90 in chips) 
+Seat 5: rifi1030 ($103.20 in chips) 
+Rysiff: posts small blind $0.50
+rifi1030: posts big blind $1
+equilibrium_tv: sits out 
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+rao999: folds 
+ffac: raises $1.50 to $2.50
+Rysiff: folds 
+rifi1030: calls $1.50
+*** FLOP *** [7h 2d Qc]
+rifi1030: checks 
+ffac: bets $1.72
+rifi1030: folds 
+Uncalled bet ($1.72) returned to ffac
+ffac collected $5.22 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [7h 2d Qc]
+Seat 6: equilibrium_tv
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: ffac (button) collected ($5.22)
+Seat 4: Rysiff (small blind) folded before Flop
+Seat 5: rifi1030 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254646353794:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:13:33 WET [2025/01/31 20:13:33 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 2: rao999 ($150.38 in chips) 
+Seat 3: ffac ($102.72 in chips) 
+Seat 4: Rysiff ($168.40 in chips) 
+Seat 5: rifi1030 ($100.70 in chips) 
+Seat 6: equilibrium_tv ($100 in chips) 
+rifi1030: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+rao999: raises $1.50 to $2.50
+ffac: folds 
+Rysiff: folds 
+rifi1030: calls $2
+equilibrium_tv: folds 
+*** FLOP *** [Qd Ts 8s]
+rifi1030: bets $2.85
+rao999: calls $2.85
+*** TURN *** [Qd Ts 8s] [Tc]
+rifi1030: checks 
+rao999: bets $2.78
+rifi1030: calls $2.78
+*** RIVER *** [Qd Ts 8s Tc] [9s]
+rifi1030: checks 
+rao999: bets $10.82
+rifi1030: folds 
+Uncalled bet ($10.82) returned to rao999
+rao999 collected $16.40 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.26 | Rake $0.86 
+Board [Qd Ts 8s Tc 9s]
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 2: rao999 collected ($16.40)
+Seat 3: ffac folded before Flop (didn't bet)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: rifi1030 (small blind) folded on the River
+Seat 6: equilibrium_tv (big blind) folded before Flop
+
+
+
+PokerStars Hand #254646361055:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:14:12 WET [2025/01/31 20:14:12 ET]
+Table 'Noel' 6-max Seat #5 is the button
+Seat 1: Nicedaymybro ($100 in chips) 
+Seat 2: rao999 ($158.65 in chips) 
+Seat 3: ffac ($102.72 in chips) 
+Seat 4: Rysiff ($168.40 in chips) 
+Seat 5: rifi1030 ($92.57 in chips) 
+Seat 6: equilibrium_tv ($99 in chips) 
+equilibrium_tv: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+ffac: folds 
+Rysiff: folds 
+rifi1030: calls $1
+equilibrium_tv: folds 
+Nicedaymybro: checks 
+*** FLOP *** [5c Qh 9d]
+Nicedaymybro: checks 
+rifi1030: checks 
+*** TURN *** [5c Qh 9d] [Ah]
+Nicedaymybro: checks 
+rifi1030: checks 
+*** RIVER *** [5c Qh 9d Ah] [Qc]
+Nicedaymybro: bets $1
+rifi1030: folds 
+Uncalled bet ($1) returned to Nicedaymybro
+Nicedaymybro collected $2.38 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [5c Qh 9d Ah Qc]
+Seat 1: Nicedaymybro (big blind) collected ($2.38)
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: ffac folded before Flop (didn't bet)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 (button) folded on the River
+Seat 6: equilibrium_tv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254646366757:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:14:42 WET [2025/01/31 20:14:42 ET]
+Table 'Noel' 6-max Seat #6 is the button
+Seat 1: Nicedaymybro ($101.38 in chips) 
+Seat 2: rao999 ($158.65 in chips) 
+Seat 3: ffac ($102.72 in chips) 
+Seat 4: Rysiff ($168.40 in chips) 
+Seat 5: rifi1030 ($91.57 in chips) 
+Seat 6: equilibrium_tv ($98.50 in chips) 
+Nicedaymybro: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+ffac: folds 
+Rysiff: folds 
+rifi1030: raises $2.50 to $3.50
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+rao999: calls $2.50
+*** FLOP *** [3c 8h 6h]
+rao999: checks 
+rifi1030: bets $7.12
+rao999: folds 
+Uncalled bet ($7.12) returned to rifi1030
+rifi1030 collected $7.12 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [3c 8h 6h]
+Seat 1: Nicedaymybro (small blind) folded before Flop
+Seat 2: rao999 (big blind) folded on the Flop
+Seat 3: ffac folded before Flop (didn't bet)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 collected ($7.12)
+Seat 6: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646371139:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:15:05 WET [2025/01/31 20:15:05 ET]
+Table 'Noel' 6-max Seat #1 is the button
+Seat 1: Nicedaymybro ($100.88 in chips) 
+Seat 2: rao999 ($155.15 in chips) 
+Seat 3: ffac ($102.72 in chips) 
+Seat 4: Rysiff ($168.40 in chips) 
+Seat 5: rifi1030 ($95.19 in chips) 
+Seat 6: equilibrium_tv ($98.50 in chips) 
+rao999: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+rifi1030: folds 
+equilibrium_tv: raises $1.50 to $2.50
+Nicedaymybro: raises $5 to $7.50
+rao999: folds 
+ffac: folds 
+equilibrium_tv: raises $13.50 to $21
+Nicedaymybro: raises $79.88 to $100.88 and is all-in
+equilibrium_tv: folds 
+Uncalled bet ($79.88) returned to Nicedaymybro
+Nicedaymybro collected $43.50 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $43.50 | Rake $0 
+Seat 1: Nicedaymybro (button) collected ($43.50)
+Seat 2: rao999 (small blind) folded before Flop
+Seat 3: ffac (big blind) folded before Flop
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv folded before Flop
+
+
+
+PokerStars Hand #254646377550:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:15:39 WET [2025/01/31 20:15:39 ET]
+Table 'Noel' 6-max Seat #2 is the button
+Seat 1: Nicedaymybro ($123.38 in chips) 
+Seat 2: rao999 ($154.65 in chips) 
+Seat 3: ffac ($101.72 in chips) 
+Seat 4: Rysiff ($168.40 in chips) 
+Seat 5: rifi1030 ($95.19 in chips) 
+Seat 6: equilibrium_tv ($77.50 in chips) 
+ffac: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+rifi1030: raises $2.50 to $3.50
+equilibrium_tv: folds 
+Nicedaymybro: raises $7 to $10.50
+rao999: folds 
+ffac: folds 
+Rysiff: folds 
+rifi1030: calls $7
+*** FLOP *** [Ah As Kh]
+rifi1030: checks 
+Nicedaymybro: checks 
+*** TURN *** [Ah As Kh] [2c]
+rifi1030: checks 
+Nicedaymybro: checks 
+*** RIVER *** [Ah As Kh 2c] [Qs]
+rifi1030: checks 
+Nicedaymybro: bets $21.40
+rifi1030: folds 
+Uncalled bet ($21.40) returned to Nicedaymybro
+Nicedaymybro collected $21.38 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.12 
+Board [Ah As Kh 2c Qs]
+Seat 1: Nicedaymybro collected ($21.38)
+Seat 2: rao999 (button) folded before Flop (didn't bet)
+Seat 3: ffac (small blind) folded before Flop
+Seat 4: Rysiff (big blind) folded before Flop
+Seat 5: rifi1030 folded on the River
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646387589:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:16:32 WET [2025/01/31 20:16:32 ET]
+Table 'Noel' 6-max Seat #3 is the button
+Seat 1: Nicedaymybro ($134.26 in chips) 
+Seat 2: rao999 ($154.65 in chips) 
+Seat 3: ffac ($101.22 in chips) 
+Seat 4: Rysiff ($167.40 in chips) 
+Seat 5: rifi1030 ($84.69 in chips) 
+Seat 6: equilibrium_tv ($100 in chips) 
+Rysiff: posts small blind $0.50
+rifi1030: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: raises $2 to $3
+Nicedaymybro: folds 
+rao999: folds 
+ffac: folds 
+Rysiff: folds 
+rifi1030: calls $2
+*** FLOP *** [6s 4d 5c]
+rifi1030: checks 
+equilibrium_tv: bets $2.04
+rifi1030: calls $2.04
+*** TURN *** [6s 4d 5c] [3s]
+rifi1030: checks 
+equilibrium_tv: checks 
+*** RIVER *** [6s 4d 5c 3s] [Ac]
+rifi1030: checks 
+equilibrium_tv: checks 
+*** SHOW DOWN ***
+rifi1030: shows [Ts 9h] (high card Ace)
+equilibrium_tv: shows [Qh Jc] (high card Ace - Queen kicker)
+equilibrium_tv collected $10.05 from pot
+*** SUMMARY ***
+Total pot $10.58 | Rake $0.53 
+Board [6s 4d 5c 3s Ac]
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: ffac (button) folded before Flop (didn't bet)
+Seat 4: Rysiff (small blind) folded before Flop
+Seat 5: rifi1030 (big blind) showed [Ts 9h] and lost with high card Ace
+Seat 6: equilibrium_tv showed [Qh Jc] and won ($10.05) with high card Ace
+
+
+
+PokerStars Hand #254646397048:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:17:22 WET [2025/01/31 20:17:22 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 1: Nicedaymybro ($134.26 in chips) 
+Seat 2: rao999 ($154.65 in chips) 
+Seat 3: ffac ($101.22 in chips) 
+Seat 4: Rysiff ($166.90 in chips) 
+Seat 5: rifi1030 ($79.65 in chips) 
+Seat 6: equilibrium_tv ($105.01 in chips) 
+rifi1030: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+rao999: folds 
+ffac: raises $1.19 to $2.19
+Rysiff: folds 
+rifi1030: calls $1.69
+equilibrium_tv: folds 
+*** FLOP *** [3c 3s 5h]
+rifi1030: checks 
+ffac: checks 
+*** TURN *** [3c 3s 5h] [5s]
+rifi1030: bets $2.56
+ffac: raises $5.12 to $7.68
+rifi1030: folds 
+Uncalled bet ($5.12) returned to ffac
+ffac collected $9.98 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [3c 3s 5h 5s]
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: ffac collected ($9.98)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: rifi1030 (small blind) folded on the Turn
+Seat 6: equilibrium_tv (big blind) folded before Flop
+
+
+
+PokerStars Hand #254646409663:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:18:30 WET [2025/01/31 20:18:30 ET]
+Table 'Noel' 6-max Seat #5 is the button
+Seat 1: Nicedaymybro ($134.26 in chips) 
+Seat 2: rao999 ($154.65 in chips) 
+Seat 3: ffac ($106.45 in chips) 
+Seat 4: Rysiff ($166.90 in chips) 
+Seat 5: rifi1030 ($74.90 in chips) 
+Seat 6: equilibrium_tv ($104.01 in chips) 
+equilibrium_tv: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+ffac: raises $1.04 to $2.04
+Rysiff: folds 
+rifi1030: calls $2.04
+equilibrium_tv: folds 
+Nicedaymybro: raises $10.96 to $13
+ffac: folds 
+rifi1030: calls $10.96
+*** FLOP *** [8c 5h 3h]
+Nicedaymybro: bets $10.84
+rifi1030: folds 
+Uncalled bet ($10.84) returned to Nicedaymybro
+Nicedaymybro collected $27.11 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $28.54 | Rake $1.43 
+Board [8c 5h 3h]
+Seat 1: Nicedaymybro (big blind) collected ($27.11)
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: ffac folded before Flop
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 (button) folded on the Flop
+Seat 6: equilibrium_tv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254646416031:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:19:04 WET [2025/01/31 20:19:04 ET]
+Table 'Noel' 6-max Seat #6 is the button
+Seat 1: Nicedaymybro ($148.37 in chips) 
+Seat 2: rao999 ($154.65 in chips) 
+Seat 3: ffac ($104.41 in chips) 
+Seat 4: Rysiff ($166.90 in chips) 
+Seat 5: rifi1030 ($61.90 in chips) 
+Seat 6: equilibrium_tv ($103.51 in chips) 
+Nicedaymybro: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+ffac: raises $1.04 to $2.04
+Rysiff: folds 
+rifi1030: calls $2.04
+equilibrium_tv: folds 
+Nicedaymybro: folds 
+rao999: calls $1.04
+*** FLOP *** [5h 4c 7d]
+rao999: checks 
+ffac: checks 
+rifi1030: checks 
+*** TURN *** [5h 4c 7d] [4s]
+rao999: checks 
+ffac: checks 
+rifi1030: bets $3.15
+rao999: folds 
+ffac: folds 
+Uncalled bet ($3.15) returned to rifi1030
+rifi1030 collected $6.29 from pot
+*** SUMMARY ***
+Total pot $6.62 | Rake $0.33 
+Board [5h 4c 7d 4s]
+Seat 1: Nicedaymybro (small blind) folded before Flop
+Seat 2: rao999 (big blind) folded on the Turn
+Seat 3: ffac folded on the Turn
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 collected ($6.29)
+Seat 6: equilibrium_tv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646427492:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:20:06 WET [2025/01/31 20:20:06 ET]
+Table 'Noel' 6-max Seat #2 is the button
+Seat 1: Nicedaymybro ($147.87 in chips) is sitting out
+Seat 2: rao999 ($152.61 in chips) 
+Seat 3: ffac ($102.37 in chips) 
+Seat 4: Rysiff ($166.90 in chips) 
+Seat 5: rifi1030 ($66.15 in chips) 
+Seat 6: equilibrium_tv ($103.51 in chips) 
+ffac: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+rifi1030: folds 
+equilibrium_tv: folds 
+rao999: folds 
+ffac: raises $2 to $3
+Rysiff: raises $6 to $9
+ffac: folds 
+Uncalled bet ($6) returned to Rysiff
+Rysiff collected $6 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nicedaymybro
+Seat 2: rao999 (button) folded before Flop (didn't bet)
+Seat 3: ffac (small blind) folded before Flop
+Seat 4: Rysiff (big blind) collected ($6)
+Seat 5: rifi1030 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646434897:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:20:47 WET [2025/01/31 20:20:47 ET]
+Table 'Noel' 6-max Seat #3 is the button
+Seat 1: Nicedaymybro ($147.87 in chips) is sitting out
+Seat 2: rao999 ($152.61 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($169.90 in chips) 
+Seat 5: rifi1030 ($66.15 in chips) 
+Seat 6: equilibrium_tv ($103.51 in chips) 
+Rysiff: posts small blind $0.50
+rifi1030: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+rao999: folds 
+ffac: raises $1.50 to $2.50
+Rysiff: folds 
+rifi1030: folds 
+Uncalled bet ($1.50) returned to ffac
+ffac collected $2.50 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Nicedaymybro
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: ffac (button) collected ($2.50)
+Seat 4: Rysiff (small blind) folded before Flop
+Seat 5: rifi1030 (big blind) folded before Flop
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646437419:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:21:00 WET [2025/01/31 20:21:00 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 1: Nicedaymybro ($147.87 in chips) is sitting out
+Seat 2: rao999 ($152.61 in chips) 
+Seat 3: ffac ($101.50 in chips) 
+Seat 4: Rysiff ($169.40 in chips) 
+Seat 5: rifi1030 ($65.15 in chips) 
+Seat 6: equilibrium_tv ($103.51 in chips) 
+rifi1030: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+*** HOLE CARDS ***
+rao999 has timed out
+rao999: folds 
+ffac: raises $1.19 to $2.19
+Rysiff: folds 
+rifi1030: calls $1.69
+equilibrium_tv: folds 
+*** FLOP *** [3c Jd 4c]
+rifi1030: checks 
+ffac: bets $1.69
+rifi1030: calls $1.69
+*** TURN *** [3c Jd 4c] [Ac]
+rifi1030: checks 
+ffac: checks 
+*** RIVER *** [3c Jd 4c Ac] [4s]
+rifi1030: bets $4.16
+ffac: folds 
+Uncalled bet ($4.16) returned to rifi1030
+rifi1030 collected $8.32 from pot
+*** SUMMARY ***
+Total pot $8.76 | Rake $0.44 
+Board [3c Jd 4c Ac 4s]
+Seat 1: Nicedaymybro
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: ffac folded on the River
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: rifi1030 (small blind) collected ($8.32)
+Seat 6: equilibrium_tv (big blind) folded before Flop
+
+
+
+PokerStars Hand #254646452596:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:22:22 WET [2025/01/31 20:22:22 ET]
+Table 'Noel' 6-max Seat #5 is the button
+Seat 1: Nicedaymybro ($147.87 in chips) is sitting out
+Seat 2: rao999 ($152.61 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($169.40 in chips) 
+Seat 5: rifi1030 ($69.59 in chips) 
+Seat 6: equilibrium_tv ($102.51 in chips) 
+equilibrium_tv: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+ffac: folds 
+Rysiff: folds 
+rifi1030: folds 
+equilibrium_tv: folds 
+Uncalled bet ($0.50) returned to rao999
+rao999 collected $1 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Nicedaymybro
+Seat 2: rao999 (big blind) collected ($1)
+Seat 3: ffac folded before Flop (didn't bet)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 (button) folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254646454073:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:22:30 WET [2025/01/31 20:22:30 ET]
+Table 'Noel' 6-max Seat #6 is the button
+Seat 1: Nicedaymybro ($147.87 in chips) is sitting out
+Seat 2: rao999 ($153.11 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($169.40 in chips) 
+Seat 5: rifi1030 ($69.59 in chips) 
+Seat 6: equilibrium_tv ($102.01 in chips) 
+rao999: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+rifi1030: folds 
+equilibrium_tv: raises $1.50 to $2.50
+rao999: folds 
+ffac: folds 
+Uncalled bet ($1.50) returned to equilibrium_tv
+equilibrium_tv collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Nicedaymybro
+Seat 2: rao999 (small blind) folded before Flop
+Seat 3: ffac (big blind) folded before Flop
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (button) collected ($2.50)
+
+
+
+PokerStars Hand #254646457505:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:22:49 WET [2025/01/31 20:22:49 ET]
+Table 'Noel' 6-max Seat #2 is the button
+Seat 1: Nicedaymybro ($147.87 in chips) is sitting out
+Seat 2: rao999 ($152.61 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($169.40 in chips) 
+Seat 5: rifi1030 ($69.59 in chips) 
+Seat 6: equilibrium_tv ($103.51 in chips) 
+ffac: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+rifi1030: raises $2.50 to $3.50
+equilibrium_tv: raises $5.50 to $9
+rao999 has timed out
+rao999: folds 
+ffac: folds 
+Rysiff: folds 
+rifi1030: calls $5.50
+*** FLOP *** [6h Ah 4h]
+rifi1030: checks 
+equilibrium_tv: checks 
+*** TURN *** [6h Ah 4h] [Kd]
+rifi1030: bets $9.26
+equilibrium_tv: calls $9.26
+*** RIVER *** [6h Ah 4h Kd] [Qd]
+rifi1030: bets $18.06
+equilibrium_tv: folds 
+Uncalled bet ($18.06) returned to rifi1030
+rifi1030 collected $36.12 from pot
+*** SUMMARY ***
+Total pot $38.02 | Rake $1.90 
+Board [6h Ah 4h Kd Qd]
+Seat 1: Nicedaymybro
+Seat 2: rao999 (button) folded before Flop (didn't bet)
+Seat 3: ffac (small blind) folded before Flop
+Seat 4: Rysiff (big blind) folded before Flop
+Seat 5: rifi1030 collected ($36.12)
+Seat 6: equilibrium_tv folded on the River
+
+
+
+PokerStars Hand #254646473328:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:24:14 WET [2025/01/31 20:24:14 ET]
+Table 'Noel' 6-max Seat #3 is the button
+Seat 1: Nicedaymybro ($147.87 in chips) is sitting out
+Seat 2: rao999 ($152.61 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($168.40 in chips) 
+Seat 5: rifi1030 ($87.45 in chips) 
+Seat 6: equilibrium_tv ($85.25 in chips) 
+Rysiff: posts small blind $0.50
+rifi1030: posts big blind $1
+Nicedaymybro: sits out 
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+rao999: raises $1.50 to $2.50
+ffac: folds 
+Rysiff: folds 
+rifi1030: calls $1.50
+*** FLOP *** [7h 6s 2h]
+rifi1030: checks 
+rao999: checks 
+*** TURN *** [7h 6s 2h] [2s]
+rifi1030: bets $2.61
+rao999: calls $2.61
+*** RIVER *** [7h 6s 2h 2s] [5d]
+rifi1030: checks 
+rao999: checks 
+*** SHOW DOWN ***
+rifi1030: shows [Tc 8c] (a pair of Deuces)
+rao999: shows [Ks Qs] (a pair of Deuces - King kicker)
+rao999 collected $10.18 from pot
+*** SUMMARY ***
+Total pot $10.72 | Rake $0.54 
+Board [7h 6s 2h 2s 5d]
+Seat 1: Nicedaymybro
+Seat 2: rao999 showed [Ks Qs] and won ($10.18) with a pair of Deuces
+Seat 3: ffac (button) folded before Flop (didn't bet)
+Seat 4: Rysiff (small blind) folded before Flop
+Seat 5: rifi1030 (big blind) showed [Tc 8c] and lost with a pair of Deuces
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646481965:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:25:01 WET [2025/01/31 20:25:01 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 1: Nicedaymybro ($147.87 in chips) is sitting out
+Seat 2: rao999 ($157.68 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($167.90 in chips) 
+Seat 5: rifi1030 ($82.34 in chips) 
+Seat 6: equilibrium_tv ($85.25 in chips) 
+rifi1030: posts small blind $0.50
+equilibrium_tv: posts big blind $1
+Nicedaymybro: sits out 
+*** HOLE CARDS ***
+rao999: raises $1.50 to $2.50
+ffac: folds 
+Rysiff: folds 
+rifi1030: folds 
+equilibrium_tv: folds 
+Uncalled bet ($1.50) returned to rao999
+rao999 collected $2.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Nicedaymybro
+Seat 2: rao999 collected ($2.50)
+Seat 3: ffac folded before Flop (didn't bet)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+Seat 5: rifi1030 (small blind) folded before Flop
+Seat 6: equilibrium_tv (big blind) folded before Flop
+
+
+
+PokerStars Hand #254646484924:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:25:16 WET [2025/01/31 20:25:16 ET]
+Table 'Noel' 6-max Seat #5 is the button
+Seat 1: Nicedaymybro ($147.87 in chips) 
+Seat 2: rao999 ($159.18 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($167.90 in chips) 
+Seat 5: rifi1030 ($81.84 in chips) 
+Seat 6: equilibrium_tv ($84.25 in chips) 
+equilibrium_tv: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+ffac: folds 
+Rysiff: folds 
+rifi1030: folds 
+equilibrium_tv: folds 
+Uncalled bet ($0.50) returned to Nicedaymybro
+Nicedaymybro collected $1 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Nicedaymybro (big blind) collected ($1)
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: ffac folded before Flop (didn't bet)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 (button) folded before Flop (didn't bet)
+Seat 6: equilibrium_tv (small blind) folded before Flop
+
+
+
+PokerStars Hand #254646488273:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:25:34 WET [2025/01/31 20:25:34 ET]
+Table 'Noel' 6-max Seat #6 is the button
+Seat 1: Nicedaymybro ($148.37 in chips) 
+Seat 2: rao999 ($159.18 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($167.90 in chips) 
+Seat 5: rifi1030 ($81.84 in chips) 
+Seat 6: equilibrium_tv ($83.75 in chips) 
+Nicedaymybro: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+ffac: folds 
+Rysiff: folds 
+rifi1030: calls $1
+equilibrium_tv: raises $3 to $4
+Nicedaymybro: folds 
+rao999: folds 
+rifi1030: calls $3
+*** FLOP *** [5h 2s 9h]
+rifi1030: bets $9.02
+equilibrium_tv: raises $14.48 to $23.50
+rifi1030: raises $54.34 to $77.84 and is all-in
+equilibrium_tv: calls $54.34
+*** TURN *** [5h 2s 9h] [4d]
+*** RIVER *** [5h 2s 9h 4d] [7h]
+*** SHOW DOWN ***
+rifi1030: shows [Jc 9c] (a pair of Nines)
+equilibrium_tv: shows [Jd Js] (a pair of Jacks)
+equilibrium_tv collected $162.68 from pot
+*** SUMMARY ***
+Total pot $165.18 | Rake $2.50 
+Board [5h 2s 9h 4d 7h]
+Seat 1: Nicedaymybro (small blind) folded before Flop
+Seat 2: rao999 (big blind) folded before Flop
+Seat 3: ffac folded before Flop (didn't bet)
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 5: rifi1030 showed [Jc 9c] and lost with a pair of Nines
+Seat 6: equilibrium_tv (button) showed [Jd Js] and won ($162.68) with a pair of Jacks
+
+
+
+PokerStars Hand #254646503028:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:26:53 WET [2025/01/31 20:26:53 ET]
+Table 'Noel' 6-max Seat #1 is the button
+Seat 5: rifi1030 ($0 in chips) is sitting out
+Seat 1: Nicedaymybro ($147.87 in chips) 
+Seat 2: rao999 ($158.18 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($167.90 in chips) 
+Seat 6: equilibrium_tv ($164.59 in chips) 
+rao999: posts small blind $0.50
+ffac: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+rifi1030 is disconnected 
+equilibrium_tv: raises $1.50 to $2.50
+Nicedaymybro: folds 
+rao999: folds 
+ffac: folds 
+Uncalled bet ($1.50) returned to equilibrium_tv
+equilibrium_tv collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: rifi1030
+Seat 1: Nicedaymybro (button) folded before Flop (didn't bet)
+Seat 2: rao999 (small blind) folded before Flop
+Seat 3: ffac (big blind) folded before Flop
+Seat 4: Rysiff folded before Flop (didn't bet)
+Seat 6: equilibrium_tv collected ($2.50)
+
+
+
+PokerStars Hand #254646507091:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:27:15 WET [2025/01/31 20:27:15 ET]
+Table 'Noel' 6-max Seat #2 is the button
+Seat 5: rifi1030 ($0 in chips) is sitting out
+Seat 1: Nicedaymybro ($147.87 in chips) 
+Seat 2: rao999 ($157.68 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($167.90 in chips) 
+Seat 6: equilibrium_tv ($166.09 in chips) 
+ffac: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+equilibrium_tv: folds 
+Nicedaymybro: raises $1.50 to $2.50
+rao999: folds 
+ffac: folds 
+Rysiff: calls $1.50
+*** FLOP *** [3s 9h 9d]
+Rysiff: checks 
+Nicedaymybro: bets $1.72
+Rysiff: calls $1.72
+*** TURN *** [3s 9h 9d] [Ks]
+Rysiff: checks 
+Nicedaymybro: checks 
+*** RIVER *** [3s 9h 9d Ks] [2d]
+Rysiff: bets $12
+Nicedaymybro: folds 
+Uncalled bet ($12) returned to Rysiff
+Rysiff collected $8.49 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [3s 9h 9d Ks 2d]
+Seat 5: rifi1030
+Seat 1: Nicedaymybro folded on the River
+Seat 2: rao999 (button) folded before Flop (didn't bet)
+Seat 3: ffac (small blind) folded before Flop
+Seat 4: Rysiff (big blind) collected ($8.49)
+Seat 6: equilibrium_tv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646518502:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:28:15 WET [2025/01/31 20:28:15 ET]
+Table 'Noel' 6-max Seat #3 is the button
+Seat 5: rifi1030 ($0 in chips) is sitting out
+Seat 6: equilibrium_tv ($166.09 in chips) is sitting out
+Seat 1: Nicedaymybro ($143.65 in chips) 
+Seat 2: rao999 ($157.68 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($172.17 in chips) 
+Rysiff: posts small blind $0.50
+equilibrium_tv: is sitting out 
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+rao999: folds 
+equilibrium_tv leaves the table
+kuca86 joins the table at seat #6 
+ffac: raises $1.50 to $2.50
+Rysiff: raises $8.50 to $11
+Nicedaymybro: folds 
+ffac: folds 
+Uncalled bet ($8.50) returned to Rysiff
+Rysiff collected $6 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 5: rifi1030
+Seat 6: equilibrium_tv
+Seat 1: Nicedaymybro (big blind) folded before Flop
+Seat 2: rao999 folded before Flop (didn't bet)
+Seat 3: ffac (button) folded before Flop
+Seat 4: Rysiff (small blind) collected ($6)
+
+
+
+PokerStars Hand #254646523650:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:28:42 WET [2025/01/31 20:28:42 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 5: rifi1030 ($0 in chips) is sitting out
+Seat 6: kuca86 ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($142.65 in chips) 
+Seat 2: rao999 ($157.68 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 4: Rysiff ($175.67 in chips) 
+Nicedaymybro: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+ffac: raises $1.19 to $2.19
+Rysiff: folds 
+Nicedaymybro: folds 
+rao999 has timed out
+rao999: folds 
+Uncalled bet ($1.19) returned to ffac
+ffac collected $2.50 from pot
+ffac: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: rifi1030
+Seat 6: kuca86
+Seat 1: Nicedaymybro (small blind) folded before Flop
+Seat 2: rao999 (big blind) folded before Flop
+Seat 3: ffac collected ($2.50)
+Seat 4: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646529531:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:29:14 WET [2025/01/31 20:29:14 ET]
+Table 'Noel' 6-max Seat #1 is the button
+Seat 5: rifi1030 ($0 in chips) is sitting out
+Seat 6: kuca86 ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($142.15 in chips) 
+Seat 2: rao999 ($156.68 in chips) 
+Seat 3: ffac ($101.50 in chips) 
+Seat 4: Rysiff ($175.67 in chips) 
+rao999: posts small blind $0.50
+ffac: posts big blind $1
+kuca86: sits out 
+*** HOLE CARDS ***
+Rysiff: folds 
+Nicedaymybro: folds 
+rao999: raises $2 to $3
+ffac: folds 
+Uncalled bet ($2) returned to rao999
+rao999 collected $2 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 5: rifi1030
+Seat 6: kuca86
+Seat 1: Nicedaymybro (button) folded before Flop (didn't bet)
+Seat 2: rao999 (small blind) collected ($2)
+Seat 3: ffac (big blind) folded before Flop
+Seat 4: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254646531558:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:29:25 WET [2025/01/31 20:29:25 ET]
+Table 'Noel' 6-max Seat #2 is the button
+Seat 4: Rysiff ($175.67 in chips) is sitting out
+Seat 5: rifi1030 ($0 in chips) is sitting out
+Seat 1: Nicedaymybro ($142.15 in chips) 
+Seat 2: rao999 ($157.68 in chips) 
+Seat 3: ffac ($100.50 in chips) 
+Seat 6: kuca86 ($100 in chips) 
+ffac: posts small blind $0.50
+Rysiff: is sitting out 
+kuca86: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+rao999: raises $1.50 to $2.50
+Rysiff leaves the table
+ffac: folds 
+sutata joins the table at seat #4 
+kuca86: folds 
+Uncalled bet ($1.50) returned to rao999
+rao999 collected $2.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: Rysiff
+Seat 5: rifi1030
+Seat 1: Nicedaymybro folded before Flop (didn't bet)
+Seat 2: rao999 (button) collected ($2.50)
+Seat 3: ffac (small blind) folded before Flop
+Seat 6: kuca86 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254646535599:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:29:46 WET [2025/01/31 20:29:46 ET]
+Table 'Noel' 6-max Seat #3 is the button
+Seat 4: sutata ($131.53 in chips) is sitting out
+Seat 5: rifi1030 ($0 in chips) is sitting out
+Seat 1: Nicedaymybro ($142.15 in chips) 
+Seat 2: rao999 ($159.18 in chips) 
+Seat 3: ffac ($100 in chips) 
+Seat 6: kuca86 ($100 in chips) 
+kuca86: posts small blind $0.50
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+rao999: raises $1.50 to $2.50
+ffac: raises $5.50 to $8
+kuca86: folds 
+Nicedaymybro: folds 
+rao999: raises $151.18 to $159.18 and is all-in
+ffac: folds 
+Uncalled bet ($151.18) returned to rao999
+rao999 collected $17.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.50 | Rake $0 
+Seat 4: sutata
+Seat 5: rifi1030
+Seat 1: Nicedaymybro (big blind) folded before Flop
+Seat 2: rao999 collected ($17.50)
+Seat 3: ffac (button) folded before Flop
+Seat 6: kuca86 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254646540331:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:30:12 WET [2025/01/31 20:30:12 ET]
+Table 'Noel' 6-max Seat #6 is the button
+Seat 2: rao999 ($168.68 in chips) is sitting out
+Seat 3: ffac ($100 in chips) is sitting out
+Seat 5: rifi1030 ($0 in chips) is sitting out
+Seat 1: Nicedaymybro ($141.15 in chips) 
+Seat 4: sutata ($131.53 in chips) 
+Seat 6: kuca86 ($100 in chips) 
+Nicedaymybro: posts small blind $0.50
+rao999: is sitting out 
+ffac: is sitting out 
+sutata: posts big blind $1
+*** HOLE CARDS ***
+ffac leaves the table
+kuca86: raises $1.50 to $2.50
+Nicedaymybro: raises $8.50 to $11
+sutata: folds 
+kuca86: calls $8.50
+*** FLOP *** [Th Kd 3c]
+Nicedaymybro: bets $7.26
+kuca86: calls $7.26
+*** TURN *** [Th Kd 3c] [4h]
+Nicedaymybro: bets $27.38
+kuca86: folds 
+Uncalled bet ($27.38) returned to Nicedaymybro
+Nicedaymybro collected $36.52 from pot
+Nicedaymybro: doesn't show hand 
+*** SUMMARY ***
+Total pot $37.52 | Rake $1 
+Board [Th Kd 3c 4h]
+Seat 2: rao999
+Seat 3: ffac
+Seat 5: rifi1030
+Seat 1: Nicedaymybro (small blind) collected ($36.52)
+Seat 4: sutata (big blind) folded before Flop
+Seat 6: kuca86 (button) folded on the Turn
+
+
+
+PokerStars Hand #254646552314:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:31:15 WET [2025/01/31 20:31:15 ET]
+Table 'Noel' 6-max Seat #4 is the button
+Seat 2: rao999 ($168.68 in chips) is sitting out
+Seat 5: rifi1030 ($0 in chips) is sitting out
+Seat 6: kuca86 ($100 in chips) is sitting out
+Seat 1: Nicedaymybro ($159.41 in chips) 
+Seat 4: sutata ($130.53 in chips) 
+sutata: posts small blind $0.50
+kuca86: is sitting out 
+Nicedaymybro: posts big blind $1
+*** HOLE CARDS ***
+sutata: folds 
+Uncalled bet ($0.50) returned to Nicedaymybro
+Nicedaymybro collected $1 from pot
+Nicedaymybro: doesn't show hand 
+kuca86 leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: rao999
+Seat 5: rifi1030
+Seat 6: kuca86
+Seat 1: Nicedaymybro (big blind) collected ($1)
+Seat 4: sutata (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254646553664:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/31 1:31:22 WET [2025/01/31 20:31:22 ET]
+Table 'Noel' 6-max Seat #1 is the button
+Seat 2: rao999 ($168.68 in chips) is sitting out
+Seat 5: rifi1030 ($0 in chips) is sitting out
+Seat 1: Nicedaymybro ($159.91 in chips) 
+Seat 4: sutata ($130.03 in chips) 
+Nicedaymybro: posts small blind $0.50
+sutata: posts big blind $1
+*** HOLE CARDS ***
+Nicedaymybro: folds 
+Uncalled bet ($0.50) returned to sutata
+Nicedaymybro leaves the table
+sutata collected $1 from pot
+sutata: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: rao999
+Seat 5: rifi1030
+Seat 1: Nicedaymybro (button) (small blind) folded before Flop
+Seat 4: sutata (big blind) collected ($1)
+
+
+

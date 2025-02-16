@@ -1,0 +1,3142 @@
+﻿PokerStars Hand #254330324863:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:43:01 WET [2025/01/12 8:43:01 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: jesperb1982 ($30.99 in chips) 
+Seat 2: ptolejmus ($11 in chips) 
+Seat 3: kars0n ($100 in chips) 
+Seat 4: socito ($153.95 in chips) 
+Seat 5: lukazs2 ($60.25 in chips) 
+Seat 6: Rysiff ($102.20 in chips) 
+socito: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+jesperb1982: folds 
+ptolejmus: folds 
+kars0n: raises $1.50 to $2.50
+socito: raises $9 to $11.50
+lukazs2: folds 
+kars0n: calls $9
+*** FLOP *** [6d 7h Td]
+socito: checks 
+kars0n: checks 
+*** TURN *** [6d 7h Td] [3s]
+socito: checks 
+kars0n: checks 
+*** RIVER *** [6d 7h Td 3s] [Jc]
+socito: checks 
+kars0n: checks 
+*** SHOW DOWN ***
+socito: shows [5c 6c] (a pair of Sixes)
+kars0n: mucks hand 
+socito collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [6d 7h Td 3s Jc]
+Seat 1: jesperb1982 folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: kars0n (button) mucked
+Seat 4: socito (small blind) showed [5c 6c] and won ($22.80) with a pair of Sixes
+Seat 5: lukazs2 (big blind) folded before Flop
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330339989:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:44:14 WET [2025/01/12 8:44:14 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: jesperb1982 ($30.99 in chips) 
+Seat 2: ptolejmus ($11 in chips) 
+Seat 3: kars0n ($100 in chips) 
+Seat 4: socito ($165.25 in chips) 
+Seat 5: lukazs2 ($59.25 in chips) 
+Seat 6: Rysiff ($102.20 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+jesperb1982: raises $2 to $3
+ptolejmus: folds 
+kars0n: folds 
+socito: folds 
+lukazs2: calls $2.50
+Rysiff: calls $2
+*** FLOP *** [Jd Ks 7s]
+lukazs2: checks 
+Rysiff: checks 
+jesperb1982: checks 
+*** TURN *** [Jd Ks 7s] [Kc]
+lukazs2: bets $4.28
+Rysiff: folds 
+jesperb1982: calls $4.28
+*** RIVER *** [Jd Ks 7s Kc] [Ah]
+lukazs2: checks 
+jesperb1982: checks 
+*** SHOW DOWN ***
+lukazs2: shows [Tc Js] (two pair, Kings and Jacks)
+jesperb1982: mucks hand 
+lukazs2 collected $16.68 from pot
+*** SUMMARY ***
+Total pot $17.56 | Rake $0.88 
+Board [Jd Ks 7s Kc Ah]
+Seat 1: jesperb1982 mucked
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) showed [Tc Js] and won ($16.68) with two pair, Kings and Jacks
+Seat 6: Rysiff (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254330349425:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:44:59 WET [2025/01/12 8:44:59 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: jesperb1982 ($23.71 in chips) 
+Seat 2: ptolejmus ($11 in chips) 
+Seat 3: kars0n ($100 in chips) 
+Seat 4: socito ($165.25 in chips) 
+Seat 5: lukazs2 ($68.65 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Rysiff: posts small blind $0.50
+jesperb1982: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: raises $1 to $2
+kars0n: folds 
+socito: folds 
+lukazs2: raises $3 to $5
+Rysiff: folds 
+jesperb1982: raises $18.71 to $23.71 and is all-in
+ptolejmus: calls $9 and is all-in
+lukazs2: folds 
+Uncalled bet ($12.71) returned to jesperb1982
+*** FLOP *** [8s 9c 6h]
+*** TURN *** [8s 9c 6h] [Kh]
+*** RIVER *** [8s 9c 6h Kh] [Ah]
+*** SHOW DOWN ***
+jesperb1982: shows [6c Qc] (a pair of Sixes)
+ptolejmus: shows [Ac Kc] (two pair, Aces and Kings)
+ptolejmus collected $26.12 from pot
+*** SUMMARY ***
+Total pot $27.50 | Rake $1.38 
+Board [8s 9c 6h Kh Ah]
+Seat 1: jesperb1982 (big blind) showed [6c Qc] and lost with a pair of Sixes
+Seat 2: ptolejmus showed [Ac Kc] and won ($26.12) with two pair, Aces and Kings
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded before Flop
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254330356204:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:45:32 WET [2025/01/12 8:45:32 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 2: ptolejmus ($26.12 in chips) is sitting out
+Seat 1: jesperb1982 ($12.71 in chips) 
+Seat 3: kars0n ($100 in chips) 
+Seat 4: socito ($165.25 in chips) 
+Seat 5: lukazs2 ($63.65 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+jesperb1982: posts small blind $0.50
+ptolejmus: is sitting out 
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+socito: raises $1.50 to $2.50
+lukazs2: folds 
+Rysiff: folds 
+jesperb1982: folds 
+kars0n: folds 
+Uncalled bet ($1.50) returned to socito
+socito collected $2.50 from pot
+socito: doesn't show hand 
+ptolejmus leaves the table
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: ptolejmus
+Seat 1: jesperb1982 (small blind) folded before Flop
+Seat 3: kars0n (big blind) folded before Flop
+Seat 4: socito collected ($2.50)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330358566:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:45:43 WET [2025/01/12 8:45:43 ET]
+Table 'Suleika III' 6-max Seat #1 is the button
+Seat 1: jesperb1982 ($12.21 in chips) 
+Seat 3: kars0n ($100 in chips) 
+Seat 4: socito ($166.75 in chips) 
+Seat 5: lukazs2 ($63.65 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+kars0n: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: folds 
+Rysiff: folds 
+jesperb1982: folds 
+mr.Jckpot joins the table at seat #2 
+kars0n: raises $2 to $3
+socito: raises $6 to $9
+kars0n: folds 
+Uncalled bet ($6) returned to socito
+socito collected $6 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: jesperb1982 (button) folded before Flop (didn't bet)
+Seat 3: kars0n (small blind) folded before Flop
+Seat 4: socito (big blind) collected ($6)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330364161:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:46:10 WET [2025/01/12 8:46:10 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 2: mr.Jckpot ($100 in chips) is sitting out
+Seat 1: jesperb1982 ($12.21 in chips) 
+Seat 3: kars0n ($100 in chips) 
+Seat 4: socito ($169.75 in chips) 
+Seat 5: lukazs2 ($63.65 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+socito: posts small blind $0.50
+lukazs2: posts big blind $1
+mr.Jckpot: sits out 
+*** HOLE CARDS ***
+Rysiff: folds 
+jesperb1982: raises $11.21 to $12.21 and is all-in
+kars0n: calls $12.21
+socito: folds 
+lukazs2: folds 
+*** FLOP *** [Ad 4d Qd]
+*** TURN *** [Ad 4d Qd] [9c]
+*** RIVER *** [Ad 4d Qd 9c] [9h]
+*** SHOW DOWN ***
+jesperb1982: shows [7c 7h] (two pair, Nines and Sevens)
+kars0n: shows [Ac Ah] (a full house, Aces full of Nines)
+kars0n collected $24.62 from pot
+*** SUMMARY ***
+Total pot $25.92 | Rake $1.30 
+Board [Ad 4d Qd 9c 9h]
+Seat 2: mr.Jckpot
+Seat 1: jesperb1982 showed [7c 7h] and lost with two pair, Nines and Sevens
+Seat 3: kars0n (button) showed [Ac Ah] and won ($24.62) with a full house, Aces full of Nines
+Seat 4: socito (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) folded before Flop
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330370091:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:46:38 WET [2025/01/12 8:46:38 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($100 in chips) is sitting out
+Seat 3: kars0n ($112.41 in chips) 
+Seat 4: socito ($169.25 in chips) 
+Seat 5: lukazs2 ($62.65 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+mr.Jckpot: sits out 
+*** HOLE CARDS ***
+kars0n: folds 
+socito: raises $1.50 to $2.50
+lukazs2: calls $2
+Rysiff: calls $1.50
+*** FLOP *** [8c 3s 5c]
+lukazs2: checks 
+Rysiff: bets $5.70
+socito: calls $5.70
+lukazs2: folds 
+*** TURN *** [8c 3s 5c] [8h]
+jesperb1982 is disconnected 
+Rysiff: bets $14.37
+socito: folds 
+Uncalled bet ($14.37) returned to Rysiff
+Rysiff collected $17.96 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.90 | Rake $0.94 
+Board [8c 3s 5c 8h]
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito (button) folded on the Turn
+Seat 5: lukazs2 (small blind) folded on the Flop
+Seat 6: Rysiff (big blind) collected ($17.96)
+
+
+
+PokerStars Hand #254330381724:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:47:34 WET [2025/01/12 8:47:34 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($100 in chips) 
+Seat 3: kars0n ($112.41 in chips) 
+Seat 4: socito ($161.05 in chips) 
+Seat 5: lukazs2 ($60.15 in chips) 
+Seat 6: Rysiff ($109.76 in chips) 
+Rysiff: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+kars0n: folds 
+socito: folds 
+lukazs2: calls $1
+Rysiff: raises $4 to $5
+mr.Jckpot: folds 
+lukazs2: calls $4
+*** FLOP *** [6s 8s Tc]
+Rysiff: checks 
+lukazs2: bets $5.23
+Rysiff: folds 
+Uncalled bet ($5.23) returned to lukazs2
+lukazs2 collected $10.45 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [6s 8s Tc]
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot (big blind) folded before Flop
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) collected ($10.45)
+Seat 6: Rysiff (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254330390624:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:48:17 WET [2025/01/12 8:48:17 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($100 in chips) 
+Seat 3: kars0n ($112.41 in chips) 
+Seat 4: socito ($161.05 in chips) 
+Seat 5: lukazs2 ($65.60 in chips) 
+Seat 6: Rysiff ($104.76 in chips) 
+mr.Jckpot: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+lukazs2: calls $1
+Rysiff: raises $4 to $5
+mr.Jckpot: folds 
+kars0n: raises $11.50 to $16.50
+lukazs2: folds 
+Rysiff: folds 
+Uncalled bet ($11.50) returned to kars0n
+kars0n collected $11.50 from pot
+kars0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.50 | Rake $0 
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: kars0n (big blind) collected ($11.50)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 folded before Flop
+Seat 6: Rysiff (button) folded before Flop
+
+
+
+PokerStars Hand #254330396439:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:48:45 WET [2025/01/12 8:48:45 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($100 in chips) 
+Seat 3: kars0n ($118.91 in chips) 
+Seat 4: socito ($161.05 in chips) 
+Seat 5: lukazs2 ($64.60 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+kars0n: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: calls $1
+Rysiff: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+socito: checks 
+*** FLOP *** [Kc 8d 6s]
+socito: checks 
+lukazs2: bets $1
+socito: calls $1
+*** TURN *** [Kc 8d 6s] [As]
+socito: checks 
+lukazs2: bets $3.14
+socito: folds 
+Uncalled bet ($3.14) returned to lukazs2
+lukazs2 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Kc 8d 6s As]
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: kars0n (small blind) folded before Flop
+Seat 4: socito (big blind) folded on the Turn
+Seat 5: lukazs2 collected ($4.28)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330410769:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:49:53 WET [2025/01/12 8:49:53 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($100 in chips) 
+Seat 3: kars0n ($118.41 in chips) 
+Seat 4: socito ($159.05 in chips) 
+Seat 5: lukazs2 ($66.88 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+socito: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+socito: folds 
+Uncalled bet ($0.50) returned to lukazs2
+lukazs2 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n (button) folded before Flop (didn't bet)
+Seat 4: socito (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) collected ($1)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330412613:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:50:02 WET [2025/01/12 8:50:02 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($100 in chips) 
+Seat 3: kars0n ($118.41 in chips) 
+Seat 4: socito ($158.55 in chips) 
+Seat 5: lukazs2 ($67.38 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: raises $1.50 to $2.50
+kars0n: folds 
+socito: folds 
+lukazs2: calls $2
+Rysiff: raises $11.50 to $14
+mr.Jckpot: raises $86 to $100 and is all-in
+lukazs2: folds 
+Rysiff: folds 
+Uncalled bet ($86) returned to mr.Jckpot
+mr.Jckpot collected $30.50 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.50 | Rake $0 
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot collected ($30.50)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) folded before Flop
+Seat 6: Rysiff (big blind) folded before Flop
+
+
+
+PokerStars Hand #254330420354:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:50:40 WET [2025/01/12 8:50:40 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($116.50 in chips) 
+Seat 3: kars0n ($118.41 in chips) 
+Seat 4: socito ($158.55 in chips) 
+Seat 5: lukazs2 ($64.88 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Rysiff: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+kars0n: folds 
+socito: folds 
+lukazs2: folds 
+Rysiff: folds 
+Uncalled bet ($0.50) returned to mr.Jckpot
+mr.Jckpot collected $1 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot (big blind) collected ($1)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded before Flop (didn't bet)
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254330423138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:50:53 WET [2025/01/12 8:50:53 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($117 in chips) 
+Seat 3: kars0n ($118.41 in chips) 
+Seat 4: socito ($158.55 in chips) 
+Seat 5: lukazs2 ($64.88 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+mr.Jckpot: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+lukazs2: folds 
+Rysiff: raises $1.50 to $2.50
+mr.Jckpot: folds 
+kars0n: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: kars0n (big blind) folded before Flop
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff (button) collected ($2.50)
+
+
+
+PokerStars Hand #254330425739:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:51:06 WET [2025/01/12 8:51:06 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($116.50 in chips) 
+Seat 3: kars0n ($117.41 in chips) 
+Seat 4: socito ($158.55 in chips) 
+Seat 5: lukazs2 ($64.88 in chips) 
+Seat 6: Rysiff ($101.50 in chips) 
+kars0n: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: calls $1
+Rysiff: raises $4 to $5
+mr.Jckpot: folds 
+kars0n: calls $4.50
+socito: folds 
+lukazs2: calls $4
+*** FLOP *** [7h Qs 4h]
+kars0n: checks 
+lukazs2: checks 
+Rysiff: bets $5.02
+kars0n: folds 
+lukazs2: raises $5.02 to $10.04
+Rysiff: calls $5.02
+*** TURN *** [7h Qs 4h] [6c]
+lukazs2: bets $49.84 and is all-in
+Rysiff: folds 
+Uncalled bet ($49.84) returned to lukazs2
+lukazs2 collected $34.28 from pot
+*** SUMMARY ***
+Total pot $36.08 | Rake $1.80 
+Board [7h Qs 4h 6c]
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: kars0n (small blind) folded on the Flop
+Seat 4: socito (big blind) folded before Flop
+Seat 5: lukazs2 collected ($34.28)
+Seat 6: Rysiff folded on the Turn
+
+
+
+PokerStars Hand #254330435380:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:51:53 WET [2025/01/12 8:51:53 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($116.50 in chips) 
+Seat 3: kars0n ($112.41 in chips) 
+Seat 4: socito ($157.55 in chips) 
+Seat 5: lukazs2 ($84.12 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+socito: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mr.Jckpot: folds 
+kars0n: raises $1.50 to $2.50
+socito: folds 
+lukazs2: raises $6.50 to $9
+kars0n: folds 
+Uncalled bet ($6.50) returned to lukazs2
+lukazs2 collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n (button) folded before Flop
+Seat 4: socito (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) collected ($5.50)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330439144:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:52:11 WET [2025/01/12 8:52:11 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($116.50 in chips) 
+Seat 3: kars0n ($109.91 in chips) 
+Seat 4: socito ($157.05 in chips) 
+Seat 5: lukazs2 ($87.12 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: raises $1.50 to $2.50
+kars0n: folds 
+socito: folds 
+lukazs2: calls $2
+Rysiff: calls $1.50
+*** FLOP *** [3h 9d Ts]
+lukazs2: checks 
+Rysiff: checks 
+mr.Jckpot: checks 
+*** TURN *** [3h 9d Ts] [As]
+lukazs2: bets $3.56
+Rysiff: calls $3.56
+mr.Jckpot: calls $3.56
+*** RIVER *** [3h 9d Ts As] [6s]
+lukazs2: checks 
+Rysiff: checks 
+mr.Jckpot: checks 
+*** SHOW DOWN ***
+lukazs2: shows [4d Qd] (high card Ace)
+Rysiff: mucks hand 
+mr.Jckpot: shows [Ad 5d] (a pair of Aces)
+mr.Jckpot collected $17.27 from pot
+*** SUMMARY ***
+Total pot $18.18 | Rake $0.91 
+Board [3h 9d Ts As 6s]
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot showed [Ad 5d] and won ($17.27) with a pair of Aces
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) showed [4d Qd] and lost with high card Ace
+Seat 6: Rysiff (big blind) mucked
+
+
+
+PokerStars Hand #254330453566:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:53:20 WET [2025/01/12 8:53:20 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($127.71 in chips) 
+Seat 3: kars0n ($109.91 in chips) 
+Seat 4: socito ($157.05 in chips) 
+Seat 5: lukazs2 ($81.06 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Rysiff: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+kars0n: folds 
+socito: raises $1.50 to $2.50
+lukazs2: calls $2.50
+Rysiff: folds 
+mr.Jckpot: folds 
+*** FLOP *** [9s Qh 7h]
+socito: checks 
+lukazs2: bets $3.09
+socito: folds 
+Uncalled bet ($3.09) returned to lukazs2
+lukazs2 collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [9s Qh 7h]
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot (big blind) folded before Flop
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito folded on the Flop
+Seat 5: lukazs2 (button) collected ($6.18)
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254330460271:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:53:52 WET [2025/01/12 8:53:52 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($126.71 in chips) 
+Seat 3: kars0n ($109.91 in chips) 
+Seat 4: socito ($154.55 in chips) 
+Seat 5: lukazs2 ($84.74 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+mr.Jckpot: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+lukazs2: folds 
+Rysiff: folds 
+mr.Jckpot: folds 
+Uncalled bet ($0.50) returned to kars0n
+kars0n collected $1 from pot
+kars0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: kars0n (big blind) collected ($1)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330462783:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:54:04 WET [2025/01/12 8:54:04 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($126.21 in chips) 
+Seat 3: kars0n ($110.41 in chips) 
+Seat 4: socito ($154.55 in chips) 
+Seat 5: lukazs2 ($84.74 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+kars0n: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: folds 
+Rysiff: raises $1.50 to $2.50
+mr.Jckpot: folds 
+kars0n: folds 
+socito: calls $1.50
+*** FLOP *** [4c Ac 8h]
+socito: checks 
+Rysiff: bets $1.72
+socito: calls $1.72
+*** TURN *** [4c Ac 8h] [6h]
+socito: checks 
+Rysiff: checks 
+*** RIVER *** [4c Ac 8h 6h] [Kc]
+socito: bets $6.37
+Rysiff: folds 
+Uncalled bet ($6.37) returned to socito
+socito collected $8.49 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [4c Ac 8h 6h Kc]
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: kars0n (small blind) folded before Flop
+Seat 4: socito (big blind) collected ($8.49)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff folded on the River
+
+
+
+PokerStars Hand #254330478313:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:55:24 WET [2025/01/12 8:55:24 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($126.21 in chips) 
+Seat 3: kars0n ($109.91 in chips) 
+Seat 4: socito ($158.82 in chips) 
+Seat 5: lukazs2 ($84.74 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+socito: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+mr.Jckpot: folds 
+kars0n: raises $1.50 to $2.50
+socito: raises $9 to $11.50
+lukazs2: folds 
+kars0n: folds 
+Uncalled bet ($9) returned to socito
+socito collected $6 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n (button) folded before Flop
+Seat 4: socito (small blind) collected ($6)
+Seat 5: lukazs2 (big blind) folded before Flop
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330482351:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:55:50 WET [2025/01/12 8:55:50 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($126.21 in chips) 
+Seat 3: kars0n ($107.41 in chips) 
+Seat 4: socito ($162.32 in chips) 
+Seat 5: lukazs2 ($83.74 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+kars0n: folds 
+socito: raises $1.50 to $2.50
+lukazs2: calls $2
+Rysiff: calls $1.50
+*** FLOP *** [Td 3d 7c]
+lukazs2: checks 
+Rysiff: bets $3.56
+socito: raises $10.68 to $14.24
+lukazs2: folds 
+Rysiff: folds 
+Uncalled bet ($10.68) returned to socito
+socito collected $13.89 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.62 | Rake $0.73 
+Board [Td 3d 7c]
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito (button) collected ($13.89)
+Seat 5: lukazs2 (small blind) folded on the Flop
+Seat 6: Rysiff (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254330488028:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:56:26 WET [2025/01/12 8:56:26 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: jesperb1982 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($126.21 in chips) 
+Seat 3: kars0n ($107.41 in chips) 
+Seat 4: socito ($170.15 in chips) 
+Seat 5: lukazs2 ($81.24 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Rysiff: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+kars0n: folds 
+socito: folds 
+lukazs2: folds 
+Rysiff: raises $2 to $3
+mr.Jckpot: folds 
+Uncalled bet ($2) returned to Rysiff
+Rysiff collected $2 from pot
+jesperb1982 leaves the table
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: jesperb1982
+Seat 2: mr.Jckpot (big blind) folded before Flop
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded before Flop (didn't bet)
+Seat 6: Rysiff (small blind) collected ($2)
+
+
+
+PokerStars Hand #254330491627:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:56:49 WET [2025/01/12 8:56:49 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 2: mr.Jckpot ($125.21 in chips) 
+Seat 3: kars0n ($107.41 in chips) 
+Seat 4: socito ($170.15 in chips) 
+Seat 5: lukazs2 ($81.24 in chips) 
+Seat 6: Rysiff ($101 in chips) 
+mr.Jckpot: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+lukazs2: folds 
+sinos878 joins the table at seat #1 
+Rysiff: folds 
+mr.Jckpot: folds 
+Uncalled bet ($0.50) returned to kars0n
+kars0n collected $1 from pot
+kars0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: kars0n (big blind) collected ($1)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330493699:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:57:02 WET [2025/01/12 8:57:02 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: sinos878 ($35 in chips) is sitting out
+Seat 2: mr.Jckpot ($124.71 in chips) 
+Seat 3: kars0n ($107.91 in chips) 
+Seat 4: socito ($170.15 in chips) 
+Seat 5: lukazs2 ($81.24 in chips) 
+Seat 6: Rysiff ($101 in chips) 
+kars0n: posts small blind $0.50
+socito: posts big blind $1
+sinos878: sits out 
+*** HOLE CARDS ***
+lukazs2: folds 
+Rysiff: raises $1.50 to $2.50
+mr.Jckpot: folds 
+kars0n: folds 
+socito: calls $1.50
+*** FLOP *** [As 2c Ad]
+socito: checks 
+Rysiff: bets $1.72
+socito: folds 
+Uncalled bet ($1.72) returned to Rysiff
+Rysiff collected $5.22 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [As 2c Ad]
+Seat 1: sinos878
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: kars0n (small blind) folded before Flop
+Seat 4: socito (big blind) folded on the Flop
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff collected ($5.22)
+
+
+
+PokerStars Hand #254330500428:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:57:45 WET [2025/01/12 8:57:45 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: sinos878 ($35 in chips) is sitting out
+Seat 2: mr.Jckpot ($124.71 in chips) 
+Seat 3: kars0n ($107.41 in chips) 
+Seat 4: socito ($167.65 in chips) 
+Seat 5: lukazs2 ($81.24 in chips) 
+Seat 6: Rysiff ($103.72 in chips) 
+socito: posts small blind $0.50
+lukazs2: posts big blind $1
+sinos878: sits out 
+*** HOLE CARDS ***
+Rysiff: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+socito: folds 
+Uncalled bet ($0.50) returned to lukazs2
+lukazs2 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: sinos878
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n (button) folded before Flop (didn't bet)
+Seat 4: socito (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) collected ($1)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330502596:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:57:58 WET [2025/01/12 8:57:58 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: sinos878 ($35 in chips) is sitting out
+Seat 2: mr.Jckpot ($124.71 in chips) 
+Seat 3: kars0n ($107.41 in chips) 
+Seat 4: socito ($167.15 in chips) 
+Seat 5: lukazs2 ($81.74 in chips) 
+Seat 6: Rysiff ($103.72 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+sinos878: sits out 
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+kars0n has timed out
+kars0n: folds 
+socito: raises $1.50 to $2.50
+lukazs2: folds 
+Rysiff: raises $9.50 to $12
+socito: folds 
+Uncalled bet ($9.50) returned to Rysiff
+Rysiff collected $5.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: sinos878
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito (button) folded before Flop
+Seat 5: lukazs2 (small blind) folded before Flop
+Seat 6: Rysiff (big blind) collected ($5.50)
+
+
+
+PokerStars Hand #254330509742:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:58:44 WET [2025/01/12 8:58:44 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: sinos878 ($35 in chips) 
+Seat 2: mr.Jckpot ($124.71 in chips) 
+Seat 3: kars0n ($107.41 in chips) 
+Seat 4: socito ($164.65 in chips) 
+Seat 5: lukazs2 ($81.24 in chips) 
+Seat 6: Rysiff ($106.72 in chips) 
+Rysiff: posts small blind $0.50
+sinos878: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+kars0n: raises $1 to $2
+socito: folds 
+lukazs2: calls $2
+Rysiff: calls $1.50
+sinos878: calls $1
+*** FLOP *** [Ks 2c 5d]
+Rysiff: checks 
+sinos878: checks 
+kars0n: bets $2.51
+lukazs2: calls $2.51
+Rysiff: calls $2.51
+sinos878: folds 
+*** TURN *** [Ks 2c 5d] [Qh]
+Rysiff: checks 
+kars0n: checks 
+lukazs2: checks 
+*** RIVER *** [Ks 2c 5d Qh] [8h]
+Rysiff: checks 
+kars0n: checks 
+lukazs2: checks 
+*** SHOW DOWN ***
+Rysiff: shows [Ah 4h] (high card Ace)
+kars0n: shows [9s 9c] (a pair of Nines)
+lukazs2: mucks hand 
+kars0n collected $14.75 from pot
+*** SUMMARY ***
+Total pot $15.53 | Rake $0.78 
+Board [Ks 2c 5d Qh 8h]
+Seat 1: sinos878 (big blind) folded on the Flop
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n showed [9s 9c] and won ($14.75) with a pair of Nines
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) mucked
+Seat 6: Rysiff (small blind) showed [Ah 4h] and lost with high card Ace
+
+
+
+PokerStars Hand #254330518545:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 13:59:40 WET [2025/01/12 8:59:40 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 1: sinos878 ($33 in chips) 
+Seat 2: mr.Jckpot ($124.71 in chips) 
+Seat 3: kars0n ($117.65 in chips) 
+Seat 4: socito ($164.65 in chips) 
+Seat 5: lukazs2 ($76.73 in chips) 
+Seat 6: Rysiff ($102.21 in chips) 
+sinos878: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+kars0n: raises $1 to $2
+socito: folds 
+lukazs2: raises $5 to $7
+Rysiff: folds 
+sinos878: calls $6.50
+mr.Jckpot: folds 
+kars0n: raises $17 to $24
+lukazs2: calls $17
+sinos878: raises $9 to $33 and is all-in
+kars0n: calls $9
+lukazs2: calls $9
+*** FLOP *** [6d Th 9d]
+kars0n: bets $73.13
+lukazs2: calls $43.73 and is all-in
+Uncalled bet ($29.40) returned to kars0n
+*** TURN *** [6d Th 9d] [Td]
+*** RIVER *** [6d Th 9d Td] [3s]
+*** SHOW DOWN ***
+kars0n: shows [Js Jh] (two pair, Jacks and Tens)
+lukazs2: shows [Ad Kc] (a pair of Tens)
+kars0n collected $87.46 from side pot
+sinos878: shows [7h Ah] (a pair of Tens)
+kars0n collected $97.50 from main pot
+*** SUMMARY ***
+Total pot $187.46 Main pot $97.50. Side pot $87.46. | Rake $2.50 
+Board [6d Th 9d Td 3s]
+Seat 1: sinos878 (small blind) showed [7h Ah] and lost with a pair of Tens
+Seat 2: mr.Jckpot (big blind) folded before Flop
+Seat 3: kars0n showed [Js Jh] and won ($184.96) with two pair, Jacks and Tens
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 showed [Ad Kc] and lost with a pair of Tens
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330529693:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:00:47 WET [2025/01/12 9:00:47 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: sinos878 ($0 in chips) is sitting out
+Seat 5: lukazs2 ($0 in chips) is sitting out
+Seat 2: mr.Jckpot ($123.71 in chips) 
+Seat 3: kars0n ($225.88 in chips) 
+Seat 4: socito ($164.65 in chips) 
+Seat 6: Rysiff ($102.21 in chips) 
+kars0n: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+sinos878 leaves the table
+mr.Jckpot: folds 
+kars0n: folds 
+Uncalled bet ($0.50) returned to socito
+socito collected $1 from pot
+TheBraveGirl joins the table at seat #1 
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: sinos878
+Seat 5: lukazs2
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: kars0n (small blind) folded before Flop
+Seat 4: socito (big blind) collected ($1)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330531893:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:00:59 WET [2025/01/12 9:00:59 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: TheBraveGirl ($100 in chips) is sitting out
+Seat 2: mr.Jckpot ($123.71 in chips) 
+Seat 3: kars0n ($225.38 in chips) 
+Seat 4: socito ($165.15 in chips) 
+Seat 5: lukazs2 ($92.16 in chips) 
+Seat 6: Rysiff ($102.21 in chips) 
+socito: posts small blind $0.50
+lukazs2: posts big blind $1
+TheBraveGirl: sits out 
+*** HOLE CARDS ***
+Rysiff: folds 
+mr.Jckpot: raises $1.50 to $2.50
+kars0n: folds 
+socito: folds 
+lukazs2: calls $1.50
+*** FLOP *** [Js 9d Tc]
+lukazs2: checks 
+mr.Jckpot: bets $3.45
+lukazs2: folds 
+Uncalled bet ($3.45) returned to mr.Jckpot
+mr.Jckpot collected $5.22 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Js 9d Tc]
+Seat 1: TheBraveGirl
+Seat 2: mr.Jckpot collected ($5.22)
+Seat 3: kars0n (button) folded before Flop (didn't bet)
+Seat 4: socito (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) folded on the Flop
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330535704:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:01:19 WET [2025/01/12 9:01:19 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: TheBraveGirl ($100 in chips) is sitting out
+Seat 2: mr.Jckpot ($126.43 in chips) 
+Seat 3: kars0n ($225.38 in chips) 
+Seat 4: socito ($164.65 in chips) 
+Seat 5: lukazs2 ($89.66 in chips) 
+Seat 6: Rysiff ($102.21 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+TheBraveGirl: sits out 
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+kars0n: folds 
+socito: raises $1.50 to $2.50
+lukazs2: calls $2
+Rysiff: calls $1.50
+*** FLOP *** [Qd 6c Th]
+lukazs2: checks 
+Rysiff: checks 
+socito: bets $2.35
+lukazs2: calls $2.35
+Rysiff: folds 
+*** TURN *** [Qd 6c Th] [2c]
+lukazs2: checks 
+socito: bets $7.65
+lukazs2: folds 
+Uncalled bet ($7.65) returned to socito
+socito collected $11.59 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.20 | Rake $0.61 
+Board [Qd 6c Th 2c]
+Seat 1: TheBraveGirl
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito (button) collected ($11.59)
+Seat 5: lukazs2 (small blind) folded on the Turn
+Seat 6: Rysiff (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254330549780:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:02:28 WET [2025/01/12 9:02:28 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: TheBraveGirl ($100 in chips) 
+Seat 2: mr.Jckpot ($126.43 in chips) 
+Seat 3: kars0n ($225.38 in chips) 
+Seat 4: socito ($171.39 in chips) 
+Seat 5: lukazs2 ($84.81 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Rysiff: posts small blind $0.50
+TheBraveGirl: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+kars0n: folds 
+socito: raises $1.50 to $2.50
+lukazs2: calls $2.50
+Rysiff: folds 
+TheBraveGirl: folds 
+*** FLOP *** [7s 5c 3c]
+socito: bets $2.04
+lukazs2: calls $2.04
+*** TURN *** [7s 5c 3c] [Qh]
+socito: bets $2.51
+lukazs2: folds 
+Uncalled bet ($2.51) returned to socito
+socito collected $10.05 from pot
+socito: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.58 | Rake $0.53 
+Board [7s 5c 3c Qh]
+Seat 1: TheBraveGirl (big blind) folded before Flop
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito collected ($10.05)
+Seat 5: lukazs2 (button) folded on the Turn
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254330557723:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:03:06 WET [2025/01/12 9:03:06 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 1: TheBraveGirl ($100 in chips) 
+Seat 2: mr.Jckpot ($126.43 in chips) 
+Seat 3: kars0n ($225.38 in chips) 
+Seat 4: socito ($176.90 in chips) 
+Seat 5: lukazs2 ($80.27 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+TheBraveGirl: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+kars0n: folds 
+socito: folds 
+lukazs2: calls $1
+Rysiff: raises $3 to $4
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+lukazs2: folds 
+Uncalled bet ($3) returned to Rysiff
+Rysiff collected $3.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: TheBraveGirl (small blind) folded before Flop
+Seat 2: mr.Jckpot (big blind) folded before Flop
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 folded before Flop
+Seat 6: Rysiff (button) collected ($3.50)
+
+
+
+PokerStars Hand #254330565300:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:03:42 WET [2025/01/12 9:03:42 ET]
+Table 'Suleika III' 6-max Seat #1 is the button
+Seat 1: TheBraveGirl ($100 in chips) 
+Seat 2: mr.Jckpot ($125.43 in chips) 
+Seat 3: kars0n ($225.38 in chips) 
+Seat 4: socito ($176.90 in chips) 
+Seat 5: lukazs2 ($79.27 in chips) 
+Seat 6: Rysiff ($102.50 in chips) 
+mr.Jckpot: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+lukazs2: folds 
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: raises $2 to $3
+kars0n: folds 
+Uncalled bet ($2) returned to mr.Jckpot
+mr.Jckpot collected $2 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: TheBraveGirl (button) folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (small blind) collected ($2)
+Seat 3: kars0n (big blind) folded before Flop
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330568138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:03:56 WET [2025/01/12 9:03:56 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: TheBraveGirl ($100 in chips) 
+Seat 2: mr.Jckpot ($126.43 in chips) 
+Seat 3: kars0n ($224.38 in chips) 
+Seat 4: socito ($176.90 in chips) 
+Seat 5: lukazs2 ($79.27 in chips) 
+Seat 6: Rysiff ($102.50 in chips) 
+kars0n: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: folds 
+Rysiff: raises $1.50 to $2.50
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+socito: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: kars0n (small blind) folded before Flop
+Seat 4: socito (big blind) folded before Flop
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff collected ($2.50)
+
+
+
+PokerStars Hand #254330574892:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:04:29 WET [2025/01/12 9:04:29 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: TheBraveGirl ($100 in chips) 
+Seat 2: mr.Jckpot ($126.43 in chips) 
+Seat 3: kars0n ($223.88 in chips) 
+Seat 4: socito ($175.90 in chips) 
+Seat 5: lukazs2 ($79.27 in chips) 
+Seat 6: Rysiff ($104 in chips) 
+socito: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+socito: folds 
+lukazs2: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n (button) folded before Flop (didn't bet)
+Seat 4: socito (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) folded before Flop
+Seat 6: Rysiff collected ($2.50)
+
+
+
+PokerStars Hand #254330579650:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:04:51 WET [2025/01/12 9:04:51 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: TheBraveGirl ($100 in chips) 
+Seat 2: mr.Jckpot ($126.43 in chips) 
+Seat 3: kars0n ($223.88 in chips) 
+Seat 4: socito ($175.40 in chips) 
+Seat 5: lukazs2 ($78.27 in chips) 
+Seat 6: Rysiff ($105.50 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+TheBraveGirl: raises $1 to $2
+mr.Jckpot: folds 
+kars0n: folds 
+socito: folds 
+lukazs2: calls $1.50
+Rysiff: raises $11 to $13
+TheBraveGirl: raises $15 to $28
+lukazs2: folds 
+Rysiff: calls $15
+*** FLOP *** [Ac 7c 4s]
+Rysiff: checks 
+TheBraveGirl: bets $15.54
+Rysiff: calls $15.54
+*** TURN *** [Ac 7c 4s] [6d]
+Rysiff: checks 
+TheBraveGirl: checks 
+*** RIVER *** [Ac 7c 4s 6d] [Tc]
+Rysiff: bets $61.96 and is all-in
+TheBraveGirl: calls $56.46 and is all-in
+Uncalled bet ($5.50) returned to Rysiff
+*** SHOW DOWN ***
+Rysiff: shows [Ad As] (three of a kind, Aces)
+TheBraveGirl: shows [Kd Ah] (a pair of Aces)
+Rysiff collected $199.50 from pot
+*** SUMMARY ***
+Total pot $202 | Rake $2.50 
+Board [Ac 7c 4s 6d Tc]
+Seat 1: TheBraveGirl showed [Kd Ah] and lost with a pair of Aces
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) folded before Flop
+Seat 6: Rysiff (big blind) showed [Ad As] and won ($199.50) with three of a kind, Aces
+
+
+
+PokerStars Hand #254330604040:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:06:46 WET [2025/01/12 9:06:46 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: TheBraveGirl ($100 in chips) 
+Seat 2: mr.Jckpot ($126.43 in chips) 
+Seat 3: kars0n ($223.88 in chips) 
+Seat 4: socito ($175.40 in chips) 
+Seat 5: lukazs2 ($76.27 in chips) 
+Seat 6: Rysiff ($205 in chips) 
+Rysiff: posts small blind $0.50
+TheBraveGirl: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+kars0n: folds 
+socito: folds 
+lukazs2: calls $1
+Rysiff: folds 
+TheBraveGirl: raises $4 to $5
+lukazs2: folds 
+Uncalled bet ($4) returned to TheBraveGirl
+TheBraveGirl collected $2.50 from pot
+TheBraveGirl: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: TheBraveGirl (big blind) collected ($2.50)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded before Flop
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254330608435:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:07:07 WET [2025/01/12 9:07:07 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 1: TheBraveGirl ($101.50 in chips) 
+Seat 2: mr.Jckpot ($126.43 in chips) 
+Seat 3: kars0n ($223.88 in chips) 
+Seat 4: socito ($175.40 in chips) 
+Seat 5: lukazs2 ($75.27 in chips) 
+Seat 6: Rysiff ($204.50 in chips) 
+TheBraveGirl: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+kars0n: folds 
+socito: folds 
+lukazs2: folds 
+Rysiff: folds 
+TheBraveGirl: folds 
+Uncalled bet ($0.50) returned to mr.Jckpot
+mr.Jckpot collected $1 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: TheBraveGirl (small blind) folded before Flop
+Seat 2: mr.Jckpot (big blind) collected ($1)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330612284:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:07:25 WET [2025/01/12 9:07:25 ET]
+Table 'Suleika III' 6-max Seat #1 is the button
+Seat 1: TheBraveGirl ($101 in chips) 
+Seat 2: mr.Jckpot ($126.93 in chips) 
+Seat 3: kars0n ($223.88 in chips) 
+Seat 4: socito ($175.40 in chips) 
+Seat 5: lukazs2 ($75.27 in chips) 
+Seat 6: Rysiff ($204.50 in chips) 
+mr.Jckpot: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+socito: folds 
+lukazs2: folds 
+Rysiff: raises $1.50 to $2.50
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: calls $1.50
+*** FLOP *** [Qs 7s 3c]
+kars0n: checks 
+Rysiff: bets $1.72
+kars0n: calls $1.72
+*** TURN *** [Qs 7s 3c] [5d]
+kars0n: checks 
+Rysiff: bets $14
+kars0n: folds 
+Uncalled bet ($14) returned to Rysiff
+Rysiff collected $8.49 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [Qs 7s 3c 5d]
+Seat 1: TheBraveGirl (button) folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: kars0n (big blind) folded on the Turn
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff collected ($8.49)
+
+
+
+PokerStars Hand #254330621867:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:08:11 WET [2025/01/12 9:08:11 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: TheBraveGirl ($101 in chips) 
+Seat 2: mr.Jckpot ($126.43 in chips) 
+Seat 3: kars0n ($219.66 in chips) 
+Seat 4: socito ($175.40 in chips) 
+Seat 5: lukazs2 ($75.27 in chips) 
+Seat 6: Rysiff ($208.77 in chips) 
+kars0n: posts small blind $0.50
+socito: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: calls $1
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: calls $0.50
+socito: checks 
+*** FLOP *** [6s 2h 4d]
+kars0n: checks 
+socito: checks 
+lukazs2: bets $2.85
+kars0n: folds 
+socito: calls $2.85
+*** TURN *** [6s 2h 4d] [5s]
+socito: bets $2.73
+lukazs2: calls $2.73
+*** RIVER *** [6s 2h 4d 5s] [6c]
+socito: checks 
+lukazs2: checks 
+*** SHOW DOWN ***
+socito: shows [5c 8d] (two pair, Sixes and Fives)
+lukazs2: shows [9h 9d] (two pair, Nines and Sixes)
+lukazs2 collected $13.45 from pot
+*** SUMMARY ***
+Total pot $14.16 | Rake $0.71 
+Board [6s 2h 4d 5s 6c]
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: kars0n (small blind) folded on the Flop
+Seat 4: socito (big blind) showed [5c 8d] and lost with two pair, Sixes and Fives
+Seat 5: lukazs2 showed [9h 9d] and won ($13.45) with two pair, Nines and Sixes
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330632034:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:09:00 WET [2025/01/12 9:09:00 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: TheBraveGirl ($101 in chips) 
+Seat 2: mr.Jckpot ($126.43 in chips) 
+Seat 3: kars0n ($218.66 in chips) 
+Seat 4: socito ($168.82 in chips) 
+Seat 5: lukazs2 ($82.14 in chips) 
+Seat 6: Rysiff ($208.77 in chips) 
+socito: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: raises $1.50 to $2.50
+socito: folds 
+lukazs2: calls $1.50
+*** FLOP *** [2d 6s Jc]
+lukazs2: checks 
+kars0n: bets $1.72
+lukazs2: raises $4.33 to $6.05
+kars0n: folds 
+Uncalled bet ($4.33) returned to lukazs2
+lukazs2 collected $8.49 from pot
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [2d 6s Jc]
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n (button) folded on the Flop
+Seat 4: socito (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) collected ($8.49)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330639325:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:09:34 WET [2025/01/12 9:09:34 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: TheBraveGirl ($101 in chips) 
+Seat 2: mr.Jckpot ($126.43 in chips) 
+Seat 3: kars0n ($214.44 in chips) 
+Seat 4: socito ($168.32 in chips) 
+Seat 5: lukazs2 ($86.41 in chips) 
+Seat 6: Rysiff ($208.77 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+socito: folds 
+lukazs2: raises $2 to $3
+Rysiff: calls $2
+*** FLOP *** [4c Th 3d]
+lukazs2: bets $5.70
+Rysiff: folds 
+Uncalled bet ($5.70) returned to lukazs2
+lukazs2 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4c Th 3d]
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) collected ($5.70)
+Seat 6: Rysiff (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254330644832:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:10:00 WET [2025/01/12 9:10:00 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: TheBraveGirl ($101 in chips) 
+Seat 2: mr.Jckpot ($126.43 in chips) 
+Seat 3: kars0n ($214.44 in chips) 
+Seat 4: socito ($168.32 in chips) 
+Seat 5: lukazs2 ($89.11 in chips) 
+Seat 6: Rysiff ($205.77 in chips) 
+Rysiff: posts small blind $0.50
+TheBraveGirl: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+kars0n: folds 
+socito: folds 
+lukazs2: folds 
+Rysiff: raises $2 to $3
+TheBraveGirl: calls $2
+*** FLOP *** [9d 8d Jd]
+Rysiff: checks 
+TheBraveGirl: checks 
+*** TURN *** [9d 8d Jd] [7c]
+Rysiff: checks 
+TheBraveGirl: checks 
+*** RIVER *** [9d 8d Jd 7c] [Jc]
+Rysiff: checks 
+TheBraveGirl: checks 
+*** SHOW DOWN ***
+Rysiff: shows [8h 8s] (a full house, Eights full of Jacks)
+TheBraveGirl: mucks hand 
+Rysiff collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [9d 8d Jd 7c Jc]
+Seat 1: TheBraveGirl (big blind) mucked
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded before Flop (didn't bet)
+Seat 6: Rysiff (small blind) showed [8h 8s] and won ($5.70) with a full house, Eights full of Jacks
+
+
+
+PokerStars Hand #254330658149:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:11:04 WET [2025/01/12 9:11:04 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 1: TheBraveGirl ($100 in chips) 
+Seat 2: mr.Jckpot ($126.43 in chips) 
+Seat 3: kars0n ($214.44 in chips) 
+Seat 4: socito ($168.32 in chips) 
+Seat 5: lukazs2 ($89.11 in chips) 
+Seat 6: Rysiff ($208.47 in chips) 
+TheBraveGirl: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+kars0n: folds 
+socito: folds 
+socito leaves the table
+Pippa83 joins the table at seat #4 
+lukazs2: calls $1
+Rysiff: raises $3 to $4
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+lukazs2: calls $3
+*** FLOP *** [2d 5h Kc]
+lukazs2: checks 
+Rysiff: bets $4.51
+lukazs2: raises $9.02 to $13.53
+Rysiff: folds 
+Uncalled bet ($9.02) returned to lukazs2
+lukazs2 collected $17.59 from pot
+*** SUMMARY ***
+Total pot $18.52 | Rake $0.93 
+Board [2d 5h Kc]
+Seat 1: TheBraveGirl (small blind) folded before Flop
+Seat 2: mr.Jckpot (big blind) folded before Flop
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: socito folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($17.59)
+Seat 6: Rysiff (button) folded on the Flop
+
+
+
+PokerStars Hand #254330667126:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:11:46 WET [2025/01/12 9:11:46 ET]
+Table 'Suleika III' 6-max Seat #1 is the button
+Seat 4: Pippa83 ($100 in chips) is sitting out
+Seat 1: TheBraveGirl ($100 in chips) 
+Seat 2: mr.Jckpot ($125.43 in chips) 
+Seat 3: kars0n ($214.44 in chips) 
+Seat 5: lukazs2 ($98.19 in chips) 
+Seat 6: Rysiff ($199.96 in chips) 
+mr.Jckpot: posts small blind $0.50
+kars0n: posts big blind $1
+Pippa83: sits out 
+*** HOLE CARDS ***
+lukazs2: calls $1
+Rysiff: folds 
+TheBraveGirl: raises $2.50 to $3.50
+mr.Jckpot: folds 
+kars0n: folds 
+lukazs2: calls $2.50
+*** FLOP *** [7d 7s 3d]
+lukazs2: bets $4.04
+TheBraveGirl: calls $4.04
+*** TURN *** [7d 7s 3d] [8h]
+lukazs2: bets $7.88
+TheBraveGirl: calls $7.88
+*** RIVER *** [7d 7s 3d 8h] [Jh]
+lukazs2: bets $30.72
+TheBraveGirl: folds 
+Uncalled bet ($30.72) returned to lukazs2
+lukazs2 collected $30.72 from pot
+*** SUMMARY ***
+Total pot $32.34 | Rake $1.62 
+Board [7d 7s 3d 8h Jh]
+Seat 4: Pippa83
+Seat 1: TheBraveGirl (button) folded on the River
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: kars0n (big blind) folded before Flop
+Seat 5: lukazs2 collected ($30.72)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330683509:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:13:04 WET [2025/01/12 9:13:04 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: TheBraveGirl ($100 in chips) 
+Seat 2: mr.Jckpot ($124.93 in chips) 
+Seat 3: kars0n ($213.44 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($113.49 in chips) 
+Seat 6: Rysiff ($199.96 in chips) 
+kars0n: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: calls $1
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+Pippa83: checks 
+*** FLOP *** [6h 3h Qh]
+Pippa83: checks 
+lukazs2: bets $1
+Pippa83: folds 
+Uncalled bet ($1) returned to lukazs2
+lukazs2 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [6h 3h Qh]
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: kars0n (small blind) folded before Flop
+Seat 4: Pippa83 (big blind) folded on the Flop
+Seat 5: lukazs2 collected ($2.38)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330690708:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:13:39 WET [2025/01/12 9:13:39 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: TheBraveGirl ($100 in chips) 
+Seat 2: mr.Jckpot ($124.93 in chips) 
+Seat 3: kars0n ($212.94 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($114.87 in chips) 
+Seat 6: Rysiff ($199.96 in chips) 
+Pippa83: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+TheBraveGirl: raises $1 to $2
+mr.Jckpot: folds 
+kars0n: folds 
+Pippa83: folds 
+lukazs2: calls $1
+*** FLOP *** [Jd 6d 4d]
+lukazs2: checks 
+TheBraveGirl: checks 
+*** TURN *** [Jd 6d 4d] [Ts]
+lukazs2: checks 
+TheBraveGirl: bets $1.20
+lukazs2: folds 
+Uncalled bet ($1.20) returned to TheBraveGirl
+TheBraveGirl collected $4.28 from pot
+TheBraveGirl: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Jd 6d 4d Ts]
+Seat 1: TheBraveGirl collected ($4.28)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n (button) folded before Flop (didn't bet)
+Seat 4: Pippa83 (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) folded on the Turn
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330701739:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:14:31 WET [2025/01/12 9:14:31 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: TheBraveGirl ($102.28 in chips) 
+Seat 2: mr.Jckpot ($124.93 in chips) 
+Seat 3: kars0n ($212.94 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($112.87 in chips) 
+Seat 6: Rysiff ($199.96 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+Pippa83: raises $1.50 to $2.50
+lukazs2: raises $4.50 to $7
+Rysiff: folds 
+Pippa83: calls $4.50
+*** FLOP *** [8d 9s 5d]
+lukazs2: bets $15.25
+Pippa83: calls $15.25
+*** TURN *** [8d 9s 5d] [7d]
+lukazs2: bets $43.22
+Pippa83: folds 
+Uncalled bet ($43.22) returned to lukazs2
+lukazs2 collected $43.22 from pot
+*** SUMMARY ***
+Total pot $45.50 | Rake $2.28 
+Board [8d 9s 5d 7d]
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: Pippa83 (button) folded on the Turn
+Seat 5: lukazs2 (small blind) collected ($43.22)
+Seat 6: Rysiff (big blind) folded before Flop
+
+
+
+PokerStars Hand #254330713669:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:15:28 WET [2025/01/12 9:15:28 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: TheBraveGirl ($102.28 in chips) 
+Seat 2: mr.Jckpot ($124.93 in chips) 
+Seat 3: kars0n ($212.94 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($133.84 in chips) 
+Seat 6: Rysiff ($198.96 in chips) 
+Rysiff: posts small blind $0.50
+TheBraveGirl: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+kars0n: folds 
+Pippa83: folds 
+lukazs2: folds 
+Rysiff: folds 
+Uncalled bet ($0.50) returned to TheBraveGirl
+TheBraveGirl collected $1 from pot
+TheBraveGirl: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: TheBraveGirl (big blind) collected ($1)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded before Flop (didn't bet)
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254330718544:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:15:51 WET [2025/01/12 9:15:51 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 1: TheBraveGirl ($102.78 in chips) 
+Seat 2: mr.Jckpot ($124.93 in chips) 
+Seat 3: kars0n ($212.94 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($133.84 in chips) 
+Seat 6: Rysiff ($198.46 in chips) 
+TheBraveGirl: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+kars0n: folds 
+Pippa83: folds 
+lukazs2: calls $1
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: raises $4 to $5
+lukazs2: calls $4
+*** FLOP *** [8c Kd Ac]
+mr.Jckpot: bets $3
+lukazs2: calls $3
+*** TURN *** [8c Kd Ac] [Jd]
+mr.Jckpot: bets $11.50
+lukazs2: folds 
+Uncalled bet ($11.50) returned to mr.Jckpot
+mr.Jckpot collected $15.68 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.82 
+Board [8c Kd Ac Jd]
+Seat 1: TheBraveGirl (small blind) folded before Flop
+Seat 2: mr.Jckpot (big blind) collected ($15.68)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 folded on the Turn
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330725295:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:16:23 WET [2025/01/12 9:16:23 ET]
+Table 'Suleika III' 6-max Seat #1 is the button
+Seat 1: TheBraveGirl ($102.28 in chips) 
+Seat 2: mr.Jckpot ($132.61 in chips) 
+Seat 3: kars0n ($212.94 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($125.84 in chips) 
+Seat 6: Rysiff ($198.46 in chips) 
+mr.Jckpot: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+lukazs2: raises $2 to $3
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+Uncalled bet ($2) returned to lukazs2
+lukazs2 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: TheBraveGirl (button) folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: kars0n (big blind) folded before Flop
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($2.50)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330730180:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:16:46 WET [2025/01/12 9:16:46 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: TheBraveGirl ($102.28 in chips) 
+Seat 2: mr.Jckpot ($132.11 in chips) 
+Seat 3: kars0n ($211.94 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($127.34 in chips) 
+Seat 6: Rysiff ($198.46 in chips) 
+kars0n: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: calls $1
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: calls $0.50
+Pippa83: checks 
+*** FLOP *** [7s Kc 9c]
+kars0n: checks 
+Pippa83: checks 
+lukazs2: bets $1.43
+kars0n: folds 
+Pippa83: folds 
+Uncalled bet ($1.43) returned to lukazs2
+lukazs2 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [7s Kc 9c]
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: kars0n (small blind) folded on the Flop
+Seat 4: Pippa83 (big blind) folded on the Flop
+Seat 5: lukazs2 collected ($2.85)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330737686:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:17:21 WET [2025/01/12 9:17:21 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: TheBraveGirl ($102.28 in chips) 
+Seat 2: mr.Jckpot ($132.11 in chips) 
+Seat 3: kars0n ($210.94 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($129.19 in chips) 
+Seat 6: Rysiff ($198.46 in chips) 
+Pippa83: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: raises $1.50 to $2.50
+kars0n: folds 
+Pippa83: folds 
+lukazs2: folds 
+Uncalled bet ($1.50) returned to mr.Jckpot
+mr.Jckpot collected $2.50 from pot
+mr.Jckpot: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot collected ($2.50)
+Seat 3: kars0n (button) folded before Flop (didn't bet)
+Seat 4: Pippa83 (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) folded before Flop
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330742566:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:17:44 WET [2025/01/12 9:17:44 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: TheBraveGirl ($102.28 in chips) 
+Seat 2: mr.Jckpot ($133.61 in chips) 
+Seat 3: kars0n ($210.94 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($128.19 in chips) 
+Seat 6: Rysiff ($198.46 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: raises $1.50 to $2.50
+Pippa83: folds 
+lukazs2: calls $2
+Rysiff: folds 
+*** FLOP *** [5d 7c Ks]
+lukazs2: checks 
+kars0n: bets $1.88
+lukazs2: calls $1.88
+*** TURN *** [5d 7c Ks] [5c]
+lukazs2: checks 
+kars0n: bets $13.90
+lukazs2: folds 
+Uncalled bet ($13.90) returned to kars0n
+kars0n collected $9.27 from pot
+kars0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [5d 7c Ks 5c]
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n collected ($9.27)
+Seat 4: Pippa83 (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) folded on the Turn
+Seat 6: Rysiff (big blind) folded before Flop
+
+
+
+PokerStars Hand #254330754164:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:18:39 WET [2025/01/12 9:18:39 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: TheBraveGirl ($102.28 in chips) 
+Seat 2: mr.Jckpot ($133.61 in chips) 
+Seat 3: kars0n ($215.83 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($123.81 in chips) 
+Seat 6: Rysiff ($197.46 in chips) 
+Rysiff: posts small blind $0.50
+TheBraveGirl: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: raises $1.50 to $2.50
+kars0n: folds 
+Pippa83: folds 
+lukazs2: calls $2.50
+Rysiff: folds 
+TheBraveGirl: calls $1.50
+*** FLOP *** [Ks 9h 6c]
+TheBraveGirl: checks 
+mr.Jckpot: checks 
+lukazs2: checks 
+*** TURN *** [Ks 9h 6c] [9c]
+TheBraveGirl: bets $9.50
+mr.Jckpot: folds 
+lukazs2: folds 
+Uncalled bet ($9.50) returned to TheBraveGirl
+TheBraveGirl collected $7.60 from pot
+TheBraveGirl: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Ks 9h 6c 9c]
+Seat 1: TheBraveGirl (big blind) collected ($7.60)
+Seat 2: mr.Jckpot folded on the Turn
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded on the Turn
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254330767139:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:19:40 WET [2025/01/12 9:19:40 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 1: TheBraveGirl ($107.38 in chips) 
+Seat 2: mr.Jckpot ($131.11 in chips) 
+Seat 3: kars0n ($215.83 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($121.31 in chips) 
+Seat 6: Rysiff ($196.96 in chips) 
+TheBraveGirl: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+kars0n: raises $1 to $2
+Pippa83: raises $4.50 to $6.50
+lukazs2: folds 
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: calls $4.50
+*** FLOP *** [5s 4h 4s]
+kars0n: checks 
+Pippa83: bets $7
+kars0n: calls $7
+*** TURN *** [5s 4h 4s] [Ts]
+kars0n: checks 
+Pippa83: checks 
+*** RIVER *** [5s 4h 4s Ts] [5d]
+kars0n: bets $5
+Pippa83: calls $5
+*** SHOW DOWN ***
+kars0n: shows [7h 7s] (two pair, Sevens and Fives)
+Pippa83: mucks hand 
+kars0n collected $36.58 from pot
+*** SUMMARY ***
+Total pot $38.50 | Rake $1.92 
+Board [5s 4h 4s Ts 5d]
+Seat 1: TheBraveGirl (small blind) folded before Flop
+Seat 2: mr.Jckpot (big blind) folded before Flop
+Seat 3: kars0n showed [7h 7s] and won ($36.58) with two pair, Sevens and Fives
+Seat 4: Pippa83 mucked
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330787021:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:21:13 WET [2025/01/12 9:21:13 ET]
+Table 'Suleika III' 6-max Seat #1 is the button
+Seat 1: TheBraveGirl ($106.88 in chips) 
+Seat 2: mr.Jckpot ($130.11 in chips) 
+Seat 3: kars0n ($233.91 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($121.31 in chips) 
+Seat 6: Rysiff ($196.96 in chips) 
+mr.Jckpot: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+lukazs2: calls $1
+Rysiff: raises $4 to $5
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+lukazs2: calls $4
+*** FLOP *** [4c 5s 2c]
+lukazs2: checks 
+Rysiff: bets $8.74
+lukazs2: folds 
+Uncalled bet ($8.74) returned to Rysiff
+Rysiff collected $10.92 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.58 
+Board [4c 5s 2c]
+Seat 1: TheBraveGirl (button) folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: kars0n (big blind) folded before Flop
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 folded on the Flop
+Seat 6: Rysiff collected ($10.92)
+
+
+
+PokerStars Hand #254330796174:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:21:56 WET [2025/01/12 9:21:56 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: TheBraveGirl ($106.88 in chips) 
+Seat 2: mr.Jckpot ($129.61 in chips) 
+Seat 3: kars0n ($232.91 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($116.31 in chips) 
+Seat 6: Rysiff ($202.88 in chips) 
+kars0n: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: folds 
+Rysiff: raises $1.50 to $2.50
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+Pippa83: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: kars0n (small blind) folded before Flop
+Seat 4: Pippa83 (big blind) folded before Flop
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff collected ($2.50)
+
+
+
+PokerStars Hand #254330800338:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:22:15 WET [2025/01/12 9:22:15 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: TheBraveGirl ($106.88 in chips) 
+Seat 2: mr.Jckpot ($129.61 in chips) 
+Seat 3: kars0n ($232.41 in chips) 
+Seat 4: Pippa83 ($100 in chips) 
+Seat 5: lukazs2 ($116.31 in chips) 
+Seat 6: Rysiff ($204.38 in chips) 
+Pippa83: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+Pippa83: raises $2 to $3
+lukazs2: calls $2
+*** FLOP *** [4s 8h 6c]
+Pippa83: checks 
+lukazs2: checks 
+*** TURN *** [4s 8h 6c] [Tc]
+Pippa83: checks 
+lukazs2: bets $2.85
+Pippa83: calls $2.85
+*** RIVER *** [4s 8h 6c Tc] [6h]
+Pippa83: checks 
+lukazs2: bets $5.56
+Pippa83: calls $5.56
+*** SHOW DOWN ***
+lukazs2: shows [Qd 2d] (a pair of Sixes)
+Pippa83: shows [7h 7d] (two pair, Sevens and Sixes)
+Pippa83 collected $21.68 from pot
+*** SUMMARY ***
+Total pot $22.82 | Rake $1.14 
+Board [4s 8h 6c Tc 6h]
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n (button) folded before Flop (didn't bet)
+Seat 4: Pippa83 (small blind) showed [7h 7d] and won ($21.68) with two pair, Sevens and Sixes
+Seat 5: lukazs2 (big blind) showed [Qd 2d] and lost with a pair of Sixes
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330812857:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:23:14 WET [2025/01/12 9:23:14 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: TheBraveGirl ($106.88 in chips) 
+Seat 2: mr.Jckpot ($129.61 in chips) 
+Seat 3: kars0n ($232.41 in chips) 
+Seat 4: Pippa83 ($110.27 in chips) 
+Seat 5: lukazs2 ($104.90 in chips) 
+Seat 6: Rysiff ($204.38 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+Pippa83: folds 
+lukazs2: raises $3 to $4
+Rysiff: folds 
+Uncalled bet ($3) returned to lukazs2
+lukazs2 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: Pippa83 (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) collected ($2)
+Seat 6: Rysiff (big blind) folded before Flop
+
+
+
+PokerStars Hand #254330816996:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:23:33 WET [2025/01/12 9:23:33 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: TheBraveGirl ($106.88 in chips) 
+Seat 2: mr.Jckpot ($129.61 in chips) 
+Seat 3: kars0n ($232.41 in chips) 
+Seat 4: Pippa83 ($110.27 in chips) 
+Seat 5: lukazs2 ($105.90 in chips) 
+Seat 6: Rysiff ($203.38 in chips) 
+Rysiff: posts small blind $0.50
+TheBraveGirl: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+kars0n: raises $1 to $2
+Pippa83: raises $5.50 to $7.50
+lukazs2: folds 
+Rysiff: folds 
+TheBraveGirl: folds 
+kars0n: raises $16.50 to $24
+Pippa83: folds 
+Uncalled bet ($16.50) returned to kars0n
+kars0n collected $16.50 from pot
+kars0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0 
+Seat 1: TheBraveGirl (big blind) folded before Flop
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: kars0n collected ($16.50)
+Seat 4: Pippa83 folded before Flop
+Seat 5: lukazs2 (button) folded before Flop (didn't bet)
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254330825977:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:24:15 WET [2025/01/12 9:24:15 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 1: TheBraveGirl ($105.88 in chips) 
+Seat 2: mr.Jckpot ($129.61 in chips) 
+Seat 3: kars0n ($241.41 in chips) 
+Seat 4: Pippa83 ($102.77 in chips) 
+Seat 5: lukazs2 ($105.90 in chips) 
+Seat 6: Rysiff ($202.88 in chips) 
+TheBraveGirl: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+kars0n: folds 
+Pippa83: raises $1.20 to $2.20
+lukazs2: folds 
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+Uncalled bet ($1.20) returned to Pippa83
+Pippa83 collected $2.50 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: TheBraveGirl (small blind) folded before Flop
+Seat 2: mr.Jckpot (big blind) folded before Flop
+Seat 3: kars0n folded before Flop (didn't bet)
+Seat 4: Pippa83 collected ($2.50)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330829718:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:24:32 WET [2025/01/12 9:24:32 ET]
+Table 'Suleika III' 6-max Seat #1 is the button
+Seat 1: TheBraveGirl ($105.38 in chips) 
+Seat 2: mr.Jckpot ($128.61 in chips) 
+Seat 3: kars0n ($241.41 in chips) 
+Seat 4: Pippa83 ($104.27 in chips) 
+Seat 5: lukazs2 ($105.90 in chips) 
+Seat 6: Rysiff ($202.88 in chips) 
+mr.Jckpot: posts small blind $0.50
+kars0n: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+lukazs2: calls $1
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: raises $3 to $4
+lukazs2: calls $3
+*** FLOP *** [Kc 4h 2s]
+kars0n: bets $2.67
+lukazs2: raises $6.71 to $9.38
+kars0n: folds 
+Uncalled bet ($6.71) returned to lukazs2
+lukazs2 collected $13.15 from pot
+*** SUMMARY ***
+Total pot $13.84 | Rake $0.69 
+Board [Kc 4h 2s]
+Seat 1: TheBraveGirl (button) folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: kars0n (big blind) folded on the Flop
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($13.15)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330839790:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:25:19 WET [2025/01/12 9:25:19 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: TheBraveGirl ($105.38 in chips) 
+Seat 2: mr.Jckpot ($128.11 in chips) 
+Seat 3: kars0n ($234.74 in chips) 
+Seat 4: Pippa83 ($104.27 in chips) 
+Seat 5: lukazs2 ($112.38 in chips) 
+Seat 6: Rysiff ($202.88 in chips) 
+kars0n: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: calls $1
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+kars0n: folds 
+Pippa83: raises $4.50 to $5.50
+lukazs2: calls $4.50
+*** FLOP *** [8c 8d 3c]
+Pippa83: bets $3.60
+lukazs2: calls $3.60
+*** TURN *** [8c 8d 3c] [Ts]
+Pippa83: checks 
+lukazs2: checks 
+*** RIVER *** [8c 8d 3c Ts] [7h]
+kars0n leaves the table
+Pippa83: checks 
+lukazs2: bets $17.76
+Pippa83: calls $17.76
+*** SHOW DOWN ***
+lukazs2: shows [Ac 2d] (a pair of Eights)
+Pippa83: shows [9d 9c] (two pair, Nines and Eights)
+Pippa83 collected $51.72 from pot
+*** SUMMARY ***
+Total pot $54.22 | Rake $2.50 
+Board [8c 8d 3c Ts 7h]
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: kars0n (small blind) folded before Flop
+Seat 4: Pippa83 (big blind) showed [9d 9c] and won ($51.72) with two pair, Nines and Eights
+Seat 5: lukazs2 showed [Ac 2d] and lost with a pair of Eights
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330855148:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:26:30 WET [2025/01/12 9:26:30 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: TheBraveGirl ($105.38 in chips) 
+Seat 2: mr.Jckpot ($128.11 in chips) 
+Seat 4: Pippa83 ($129.13 in chips) 
+Seat 5: lukazs2 ($85.52 in chips) 
+Seat 6: Rysiff ($202.88 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+TheBraveGirl: raises $1 to $2
+mr.Jckpot: folds 
+Pippa83: folds 
+lukazs2: folds 
+Rysiff: folds 
+Uncalled bet ($1) returned to TheBraveGirl
+TheBraveGirl collected $2.50 from pot
+TheBraveGirl: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: TheBraveGirl collected ($2.50)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: Pippa83 (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) folded before Flop
+Seat 6: Rysiff (big blind) folded before Flop
+
+
+
+PokerStars Hand #254330858949:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:26:48 WET [2025/01/12 9:26:48 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: TheBraveGirl ($106.88 in chips) 
+Seat 2: mr.Jckpot ($128.11 in chips) 
+Seat 4: Pippa83 ($129.13 in chips) 
+Seat 5: lukazs2 ($85.02 in chips) 
+Seat 6: Rysiff ($201.88 in chips) 
+Rysiff: posts small blind $0.50
+TheBraveGirl: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+Pippa83: folds 
+lukazs2: calls $1
+Rysiff: raises $4 to $5
+tintin641 joins the table at seat #3 
+TheBraveGirl: folds 
+lukazs2: folds 
+Uncalled bet ($4) returned to Rysiff
+Rysiff collected $3 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: TheBraveGirl (big blind) folded before Flop
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded before Flop
+Seat 6: Rysiff (small blind) collected ($3)
+
+
+
+PokerStars Hand #254330864657:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:27:14 WET [2025/01/12 9:27:14 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 3: tintin641 ($100 in chips) is sitting out
+Seat 1: TheBraveGirl ($105.88 in chips) 
+Seat 2: mr.Jckpot ($128.11 in chips) 
+Seat 4: Pippa83 ($129.13 in chips) 
+Seat 5: lukazs2 ($84.02 in chips) 
+Seat 6: Rysiff ($203.88 in chips) 
+TheBraveGirl: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+Pippa83: folds 
+lukazs2: calls $1
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: checks 
+*** FLOP *** [5c 6s Ks]
+mr.Jckpot: checks 
+lukazs2: checks 
+*** TURN *** [5c 6s Ks] [7s]
+mr.Jckpot: checks 
+lukazs2: bets $1.19
+mr.Jckpot: folds 
+Uncalled bet ($1.19) returned to lukazs2
+lukazs2 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [5c 6s Ks 7s]
+Seat 3: tintin641
+Seat 1: TheBraveGirl (small blind) folded before Flop
+Seat 2: mr.Jckpot (big blind) folded on the Turn
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($2.38)
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330874755:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:28:01 WET [2025/01/12 9:28:01 ET]
+Table 'Suleika III' 6-max Seat #1 is the button
+Seat 1: TheBraveGirl ($105.38 in chips) 
+Seat 2: mr.Jckpot ($127.11 in chips) 
+Seat 3: tintin641 ($100 in chips) 
+Seat 4: Pippa83 ($129.13 in chips) 
+Seat 5: lukazs2 ($85.40 in chips) 
+Seat 6: Rysiff ($203.88 in chips) 
+mr.Jckpot: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+lukazs2: calls $1
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+tintin641: raises $4 to $5
+lukazs2: calls $4
+*** FLOP *** [9d 2d 6d]
+tintin641: bets $7.49
+lukazs2: folds 
+Uncalled bet ($7.49) returned to tintin641
+tintin641 collected $9.98 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [9d 2d 6d]
+Seat 1: TheBraveGirl (button) folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: tintin641 (big blind) collected ($9.98)
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 folded on the Flop
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330887031:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:28:59 WET [2025/01/12 9:28:59 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: TheBraveGirl ($105.38 in chips) 
+Seat 2: mr.Jckpot ($126.61 in chips) 
+Seat 3: tintin641 ($104.98 in chips) 
+Seat 4: Pippa83 ($129.13 in chips) 
+Seat 5: lukazs2 ($80.40 in chips) 
+Seat 6: Rysiff ($203.88 in chips) 
+tintin641: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: folds 
+Rysiff: folds 
+TheBraveGirl: raises $1 to $2
+mr.Jckpot: folds 
+tintin641: folds 
+Pippa83: folds 
+Uncalled bet ($1) returned to TheBraveGirl
+TheBraveGirl collected $2.50 from pot
+TheBraveGirl: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: TheBraveGirl collected ($2.50)
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: tintin641 (small blind) folded before Flop
+Seat 4: Pippa83 (big blind) folded before Flop
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330891862:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:29:21 WET [2025/01/12 9:29:21 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: TheBraveGirl ($106.88 in chips) 
+Seat 2: mr.Jckpot ($126.61 in chips) 
+Seat 3: tintin641 ($104.48 in chips) 
+Seat 4: Pippa83 ($128.13 in chips) 
+Seat 5: lukazs2 ($80.40 in chips) 
+Seat 6: Rysiff ($203.88 in chips) 
+Pippa83: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+TheBraveGirl: folds 
+mr.Jckpot: folds 
+tintin641: raises $1.50 to $2.50
+Pippa83: folds 
+lukazs2: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: tintin641 (button) collected ($2.50)
+Seat 4: Pippa83 (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) folded before Flop
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330897289:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:29:46 WET [2025/01/12 9:29:46 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: TheBraveGirl ($106.88 in chips) 
+Seat 2: mr.Jckpot ($126.61 in chips) 
+Seat 3: tintin641 ($105.98 in chips) 
+Seat 4: Pippa83 ($127.63 in chips) 
+Seat 5: lukazs2 ($79.40 in chips) 
+Seat 6: Rysiff ($203.88 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+TheBraveGirl: folds 
+mr.Jckpot: raises $1.50 to $2.50
+tintin641: folds 
+Pippa83: folds 
+lukazs2: calls $2
+Rysiff: folds 
+*** FLOP *** [Th Kh 7c]
+lukazs2: checks 
+mr.Jckpot: checks 
+*** TURN *** [Th Kh 7c] [Ah]
+lukazs2: checks 
+mr.Jckpot: bets $3.14
+lukazs2: calls $3.14
+*** RIVER *** [Th Kh 7c Ah] [4s]
+lukazs2: checks 
+mr.Jckpot: checks 
+*** SHOW DOWN ***
+lukazs2: shows [Qc 4h] (a pair of Fours)
+mr.Jckpot: shows [3s As] (a pair of Aces)
+mr.Jckpot collected $11.67 from pot
+*** SUMMARY ***
+Total pot $12.28 | Rake $0.61 
+Board [Th Kh 7c Ah 4s]
+Seat 1: TheBraveGirl folded before Flop (didn't bet)
+Seat 2: mr.Jckpot showed [3s As] and won ($11.67) with a pair of Aces
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: Pippa83 (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) showed [Qc 4h] and lost with a pair of Fours
+Seat 6: Rysiff (big blind) folded before Flop
+
+
+
+PokerStars Hand #254330905714:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:30:24 WET [2025/01/12 9:30:24 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: TheBraveGirl ($106.88 in chips) is sitting out
+Seat 2: mr.Jckpot ($132.64 in chips) 
+Seat 3: tintin641 ($105.98 in chips) 
+Seat 4: Pippa83 ($127.63 in chips) 
+Seat 5: lukazs2 ($73.76 in chips) 
+Seat 6: Rysiff ($202.88 in chips) 
+Rysiff: posts small blind $0.50
+TheBraveGirl: is sitting out 
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+Pippa83: folds 
+TheBraveGirl leaves the table
+lukazs2: calls $1
+Rysiff: folds 
+mr.Jckpot: checks 
+*** FLOP *** [4c 9c Qh]
+IREQO joins the table at seat #1 
+mr.Jckpot: checks 
+lukazs2: checks 
+*** TURN *** [4c 9c Qh] [7c]
+mr.Jckpot: checks 
+lukazs2: checks 
+*** RIVER *** [4c 9c Qh 7c] [As]
+mr.Jckpot: checks 
+lukazs2: checks 
+*** SHOW DOWN ***
+mr.Jckpot: shows [Jh 9s] (a pair of Nines)
+lukazs2: mucks hand 
+mr.Jckpot collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [4c 9c Qh 7c As]
+Seat 1: TheBraveGirl
+Seat 2: mr.Jckpot (big blind) showed [Jh 9s] and won ($2.38) with a pair of Nines
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) mucked
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254330912082:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:30:53 WET [2025/01/12 9:30:53 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 1: IREQO ($49.65 in chips) is sitting out
+Seat 2: mr.Jckpot ($134.02 in chips) 
+Seat 3: tintin641 ($105.98 in chips) 
+Seat 4: Pippa83 ($127.63 in chips) 
+Seat 5: lukazs2 ($72.76 in chips) 
+Seat 6: Rysiff ($202.38 in chips) 
+mr.Jckpot: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+lukazs2: calls $1
+Rysiff: folds 
+mr.Jckpot: folds 
+tintin641: checks 
+*** FLOP *** [6d 3d Qd]
+tintin641: checks 
+lukazs2: checks 
+*** TURN *** [6d 3d Qd] [8s]
+tintin641: bets $1.79
+lukazs2: raises $2.98 to $4.77
+tintin641: folds 
+Uncalled bet ($2.98) returned to lukazs2
+lukazs2 collected $5.78 from pot
+*** SUMMARY ***
+Total pot $6.08 | Rake $0.30 
+Board [6d 3d Qd 8s]
+Seat 1: IREQO
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: tintin641 (big blind) folded on the Turn
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 collected ($5.78)
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330922428:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:31:39 WET [2025/01/12 9:31:39 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: IREQO ($100 in chips) is sitting out
+Seat 2: mr.Jckpot ($133.52 in chips) 
+Seat 3: tintin641 ($103.19 in chips) 
+Seat 4: Pippa83 ($127.63 in chips) 
+Seat 5: lukazs2 ($75.75 in chips) 
+Seat 6: Rysiff ($202.38 in chips) 
+tintin641: posts small blind $0.50
+Pippa83: posts big blind $1
+IREQO: sits out 
+*** HOLE CARDS ***
+lukazs2: folds 
+Rysiff: folds 
+mr.Jckpot: folds 
+tintin641: folds 
+Uncalled bet ($0.50) returned to Pippa83
+Pippa83 collected $1 from pot
+Pippa83: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: IREQO
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: tintin641 (small blind) folded before Flop
+Seat 4: Pippa83 (big blind) collected ($1)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330925243:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:31:52 WET [2025/01/12 9:31:52 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: IREQO ($100 in chips) is sitting out
+Seat 2: mr.Jckpot ($133.52 in chips) 
+Seat 3: tintin641 ($102.69 in chips) 
+Seat 4: Pippa83 ($128.13 in chips) 
+Seat 5: lukazs2 ($75.75 in chips) 
+Seat 6: Rysiff ($202.38 in chips) 
+Pippa83: posts small blind $0.50
+lukazs2: posts big blind $1
+IREQO: sits out 
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+mr.Jckpot: raises $5 to $7.50
+tintin641: folds 
+Pippa83: folds 
+lukazs2: calls $6.50
+Rysiff: calls $5
+*** FLOP *** [5d 4h Qc]
+lukazs2: checks 
+Rysiff: checks 
+mr.Jckpot: checks 
+*** TURN *** [5d 4h Qc] [Js]
+lukazs2: checks 
+Rysiff: bets $10.93
+mr.Jckpot: folds 
+lukazs2: folds 
+Uncalled bet ($10.93) returned to Rysiff
+Rysiff collected $21.85 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $1.15 
+Board [5d 4h Qc Js]
+Seat 1: IREQO
+Seat 2: mr.Jckpot folded on the Turn
+Seat 3: tintin641 (button) folded before Flop (didn't bet)
+Seat 4: Pippa83 (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) folded on the Turn
+Seat 6: Rysiff collected ($21.85)
+
+
+
+PokerStars Hand #254330939334:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:32:55 WET [2025/01/12 9:32:55 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: IREQO ($100 in chips) is sitting out
+Seat 2: mr.Jckpot ($126.02 in chips) 
+Seat 3: tintin641 ($102.69 in chips) 
+Seat 4: Pippa83 ($127.63 in chips) 
+Seat 5: lukazs2 ($68.25 in chips) 
+Seat 6: Rysiff ($216.73 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+IREQO: sits out 
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+tintin641: folds 
+Pippa83: raises $1.50 to $2.50
+lukazs2: calls $2
+Rysiff: folds 
+*** FLOP *** [Ac Ts Js]
+lukazs2: checks 
+Pippa83: bets $4.28
+lukazs2: calls $4.28
+*** TURN *** [Ac Ts Js] [3c]
+lukazs2: checks 
+Pippa83: bets $14
+lukazs2: calls $14
+*** RIVER *** [Ac Ts Js 3c] [Kd]
+lukazs2: checks 
+Pippa83: checks 
+*** SHOW DOWN ***
+lukazs2: shows [3s 6s] (a pair of Threes)
+Pippa83: shows [Jh Jc] (three of a kind, Jacks)
+Pippa83 collected $40.43 from pot
+*** SUMMARY ***
+Total pot $42.56 | Rake $2.13 
+Board [Ac Ts Js 3c Kd]
+Seat 1: IREQO
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: Pippa83 (button) showed [Jh Jc] and won ($40.43) with three of a kind, Jacks
+Seat 5: lukazs2 (small blind) showed [3s 6s] and lost with a pair of Threes
+Seat 6: Rysiff (big blind) folded before Flop
+
+
+
+PokerStars Hand #254330952692:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:33:54 WET [2025/01/12 9:33:54 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: IREQO ($100 in chips) 
+Seat 2: mr.Jckpot ($126.02 in chips) 
+Seat 3: tintin641 ($102.69 in chips) 
+Seat 4: Pippa83 ($147.28 in chips) 
+Seat 5: lukazs2 ($47.47 in chips) 
+Seat 6: Rysiff ($215.73 in chips) 
+Rysiff: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+tintin641: raises $1.50 to $2.50
+Pippa83: folds 
+lukazs2: calls $2.50
+Rysiff: calls $2
+IREQO: folds 
+*** FLOP *** [6h 9s 4d]
+Rysiff: checks 
+tintin641: checks 
+lukazs2: bets $4.04
+Rysiff: folds 
+tintin641: raises $12.12 to $16.16
+lukazs2: folds 
+Uncalled bet ($12.12) returned to tintin641
+tintin641 collected $15.75 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.58 | Rake $0.83 
+Board [6h 9s 4d]
+Seat 1: IREQO (big blind) folded before Flop
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: tintin641 collected ($15.75)
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded on the Flop
+Seat 6: Rysiff (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254330969659:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:35:10 WET [2025/01/12 9:35:10 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 1: IREQO ($99 in chips) 
+Seat 2: mr.Jckpot ($126.02 in chips) 
+Seat 3: tintin641 ($111.90 in chips) 
+Seat 4: Pippa83 ($147.28 in chips) 
+Seat 5: lukazs2 ($40.93 in chips) 
+Seat 6: Rysiff ($213.23 in chips) 
+IREQO: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+Pippa83: folds 
+lukazs2: calls $2.50
+Rysiff: folds 
+IREQO: folds 
+mr.Jckpot: folds 
+*** FLOP *** [2d Td Th]
+tintin641: checks 
+lukazs2: checks 
+*** TURN *** [2d Td Th] [Jh]
+tintin641: bets $4.64
+lukazs2: folds 
+Uncalled bet ($4.64) returned to tintin641
+tintin641 collected $6.18 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [2d Td Th Jh]
+Seat 1: IREQO (small blind) folded before Flop
+Seat 2: mr.Jckpot (big blind) folded before Flop
+Seat 3: tintin641 collected ($6.18)
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 folded on the Turn
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254330981969:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:36:05 WET [2025/01/12 9:36:05 ET]
+Table 'Suleika III' 6-max Seat #1 is the button
+Seat 1: IREQO ($98.50 in chips) 
+Seat 2: mr.Jckpot ($125.02 in chips) 
+Seat 3: tintin641 ($115.58 in chips) 
+Seat 4: Pippa83 ($147.28 in chips) 
+Seat 5: lukazs2 ($38.43 in chips) 
+Seat 6: Rysiff ($213.23 in chips) 
+mr.Jckpot: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+Pippa83: folds 
+lukazs2: folds 
+Rysiff: folds 
+IREQO: raises $1.50 to $2.50
+mr.Jckpot: folds 
+tintin641: calls $1.50
+*** FLOP *** [6h Kd Jd]
+tintin641: checks 
+IREQO: checks 
+*** TURN *** [6h Kd Jd] [Ts]
+tintin641: checks 
+IREQO: bets $7
+tintin641: calls $7
+*** RIVER *** [6h Kd Jd Ts] [5s]
+tintin641: checks 
+IREQO: checks 
+*** SHOW DOWN ***
+tintin641: shows [Ad 7d] (high card Ace)
+IREQO: shows [5h Jh] (two pair, Jacks and Fives)
+IREQO collected $18.52 from pot
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [6h Kd Jd Ts 5s]
+Seat 1: IREQO (button) showed [5h Jh] and won ($18.52) with two pair, Jacks and Fives
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 3: tintin641 (big blind) showed [Ad 7d] and lost with high card Ace
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 folded before Flop (didn't bet)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254331007742:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:37:59 WET [2025/01/12 9:37:59 ET]
+Table 'Suleika III' 6-max Seat #2 is the button
+Seat 1: IREQO ($107.52 in chips) 
+Seat 2: mr.Jckpot ($124.52 in chips) 
+Seat 3: tintin641 ($106.08 in chips) 
+Seat 4: Pippa83 ($147.28 in chips) 
+Seat 5: lukazs2 ($38.43 in chips) 
+Seat 6: Rysiff ($213.23 in chips) 
+tintin641: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+lukazs2: calls $1
+Rysiff: folds 
+IREQO: folds 
+mr.Jckpot: folds 
+tintin641: calls $0.50
+Pippa83: checks 
+*** FLOP *** [Ac Qs 7s]
+tintin641: checks 
+Pippa83: checks 
+lukazs2: checks 
+*** TURN *** [Ac Qs 7s] [7d]
+tintin641: checks 
+Pippa83: checks 
+lukazs2: checks 
+*** RIVER *** [Ac Qs 7s 7d] [As]
+tintin641: checks 
+Pippa83: checks 
+lukazs2: checks 
+*** SHOW DOWN ***
+tintin641: shows [Qh 8h] (two pair, Aces and Queens)
+Pippa83: mucks hand 
+lukazs2: mucks hand 
+tintin641 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Ac Qs 7s 7d As]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (button) folded before Flop (didn't bet)
+Seat 3: tintin641 (small blind) showed [Qh 8h] and won ($2.85) with two pair, Aces and Queens
+Seat 4: Pippa83 (big blind) mucked
+Seat 5: lukazs2 mucked
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254331022006:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:39:02 WET [2025/01/12 9:39:02 ET]
+Table 'Suleika III' 6-max Seat #3 is the button
+Seat 1: IREQO ($107.52 in chips) 
+Seat 2: mr.Jckpot ($124.52 in chips) 
+Seat 3: tintin641 ($107.93 in chips) 
+Seat 4: Pippa83 ($146.28 in chips) 
+Seat 5: lukazs2 ($37.43 in chips) 
+Seat 6: Rysiff ($213.23 in chips) 
+Pippa83: posts small blind $0.50
+lukazs2: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+IREQO: folds 
+mr.Jckpot: folds 
+tintin641: raises $1.50 to $2.50
+Pippa83: folds 
+lukazs2: calls $1.50
+*** FLOP *** [Jc 8d 7d]
+lukazs2: checks 
+tintin641: checks 
+*** TURN *** [Jc 8d 7d] [2s]
+lukazs2: bets $2.61
+tintin641: folds 
+Uncalled bet ($2.61) returned to lukazs2
+lukazs2 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Jc 8d 7d 2s]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: tintin641 (button) folded on the Turn
+Seat 4: Pippa83 (small blind) folded before Flop
+Seat 5: lukazs2 (big blind) collected ($5.22)
+Seat 6: Rysiff folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254331035350:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:40:01 WET [2025/01/12 9:40:01 ET]
+Table 'Suleika III' 6-max Seat #4 is the button
+Seat 1: IREQO ($107.52 in chips) 
+Seat 2: mr.Jckpot ($124.52 in chips) 
+Seat 3: tintin641 ($105.43 in chips) 
+Seat 4: Pippa83 ($145.78 in chips) 
+Seat 5: lukazs2 ($40.15 in chips) 
+Seat 6: Rysiff ($213.23 in chips) 
+lukazs2: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+IREQO: folds 
+mr.Jckpot: folds 
+tintin641: folds 
+Pippa83: folds 
+lukazs2: calls $0.50
+Rysiff: checks 
+*** FLOP *** [3s 4s Tc]
+lukazs2: bets $1
+Rysiff: calls $1
+*** TURN *** [3s 4s Tc] [Qd]
+lukazs2: bets $1
+Rysiff: raises $4 to $5
+lukazs2: calls $4
+*** RIVER *** [3s 4s Tc Qd] [Kd]
+lukazs2: checks 
+Rysiff: bets $10.64
+lukazs2: folds 
+Uncalled bet ($10.64) returned to Rysiff
+Rysiff collected $13.30 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [3s 4s Tc Qd Kd]
+Seat 1: IREQO folded before Flop (didn't bet)
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: Pippa83 (button) folded before Flop (didn't bet)
+Seat 5: lukazs2 (small blind) folded on the River
+Seat 6: Rysiff (big blind) collected ($13.30)
+
+
+
+PokerStars Hand #254331049080:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:41:00 WET [2025/01/12 9:41:00 ET]
+Table 'Suleika III' 6-max Seat #5 is the button
+Seat 1: IREQO ($107.52 in chips) 
+Seat 2: mr.Jckpot ($124.52 in chips) 
+Seat 3: tintin641 ($105.43 in chips) 
+Seat 4: Pippa83 ($145.78 in chips) 
+Seat 5: lukazs2 ($33.15 in chips) 
+Seat 6: Rysiff ($219.53 in chips) 
+Rysiff: posts small blind $0.50
+IREQO: posts big blind $1
+*** HOLE CARDS ***
+mr.Jckpot: folds 
+tintin641: raises $1.50 to $2.50
+Pippa83: folds 
+lukazs2: folds 
+lukazs2 leaves the table
+Rysiff: folds 
+IREQO: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: IREQO (big blind) folded before Flop
+Seat 2: mr.Jckpot folded before Flop (didn't bet)
+Seat 3: tintin641 collected ($2.50)
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 5: lukazs2 (button) folded before Flop (didn't bet)
+Seat 6: Rysiff (small blind) folded before Flop
+
+
+
+PokerStars Hand #254331052042:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:41:13 WET [2025/01/12 9:41:13 ET]
+Table 'Suleika III' 6-max Seat #6 is the button
+Seat 1: IREQO ($106.52 in chips) 
+Seat 2: mr.Jckpot ($124.52 in chips) 
+Seat 3: tintin641 ($106.93 in chips) 
+Seat 4: Pippa83 ($145.78 in chips) 
+Seat 6: Rysiff ($219.03 in chips) 
+IREQO: posts small blind $0.50
+mr.Jckpot: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+Pippa83: folds 
+Pippa83 leaves the table
+Rysiff: folds 
+IREQO: folds 
+mr.Jckpot: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: IREQO (small blind) folded before Flop
+Seat 2: mr.Jckpot (big blind) folded before Flop
+Seat 3: tintin641 collected ($2.50)
+Seat 4: Pippa83 folded before Flop (didn't bet)
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254331057001:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 14:41:35 WET [2025/01/12 9:41:35 ET]
+Table 'Suleika III' 6-max Seat #1 is the button
+Seat 3: tintin641 ($108.43 in chips) is sitting out
+Seat 1: IREQO ($106.02 in chips) 
+Seat 2: mr.Jckpot ($123.52 in chips) 
+Seat 6: Rysiff ($219.03 in chips) 
+mr.Jckpot: posts small blind $0.50
+tintin641: is sitting out 
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+tintin641 leaves the table
+IREQO: folds 
+mr.Jckpot: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: tintin641
+Seat 1: IREQO (button) folded before Flop (didn't bet)
+Seat 2: mr.Jckpot (small blind) folded before Flop
+Seat 6: Rysiff (big blind) collected ($1)
+
+
+

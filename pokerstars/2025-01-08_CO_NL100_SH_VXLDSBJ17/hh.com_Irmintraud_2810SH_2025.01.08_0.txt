@@ -1,0 +1,3936 @@
+﻿PokerStars Hand #254257938353:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:10:56 WET [2025/01/08 2:10:56 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($197.41 in chips) 
+Seat 2: lilman629 ($59.47 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($374.70 in chips) 
+Seat 5: JoeBlack_MS ($105.45 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+ru_ruu_ru: posts small blind $0.50
+lilman629: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: raises $2 to $3
+JoeBlack_MS: folds 
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: raises $2 to $5
+b2k-Snick: calls $2
+*** FLOP *** [Td 7c Jd]
+lilman629: bets $8
+b2k-Snick: raises $16 to $24
+lilman629: raises $30.47 to $54.47 and is all-in
+b2k-Snick: calls $30.47
+*** TURN *** [Td 7c Jd] [As]
+*** RIVER *** [Td 7c Jd As] [4d]
+*** SHOW DOWN ***
+lilman629: shows [Ts Js] (two pair, Jacks and Tens)
+b2k-Snick: shows [Jc Ks] (a pair of Jacks)
+lilman629 collected $116.94 from pot
+*** SUMMARY ***
+Total pot $119.44 | Rake $2.50 
+Board [Td 7c Jd As 4d]
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: lilman629 (big blind) showed [Ts Js] and won ($116.94) with two pair, Jacks and Tens
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick showed [Jc Ks] and lost with a pair of Jacks
+Seat 5: JoeBlack_MS folded before Flop (didn't bet)
+Seat 6: William_Gull (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257942753:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:11:56 WET [2025/01/08 2:11:56 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 1: ru_ruu_ru ($196.91 in chips) 
+Seat 2: lilman629 ($116.94 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($315.23 in chips) 
+Seat 5: JoeBlack_MS ($105.45 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+lilman629: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+JoeBlack_MS: folds 
+William_Gull: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+lilman629: raises $1.50 to $4
+blistein: folds 
+ru_ruu_ru: calls $1.50
+*** FLOP *** [2h 2d Ts]
+lilman629: bets $4
+ru_ruu_ru: calls $4
+*** TURN *** [2h 2d Ts] [2s]
+lilman629: bets $5
+ru_ruu_ru: calls $5
+*** RIVER *** [2h 2d Ts 2s] [7h]
+lilman629: bets $5
+ru_ruu_ru: calls $5
+*** SHOW DOWN ***
+lilman629: shows [Ks 4c] (three of a kind, Deuces)
+ru_ruu_ru: shows [6d 6s] (a full house, Deuces full of Sixes)
+ru_ruu_ru collected $35.15 from pot
+*** SUMMARY ***
+Total pot $37 | Rake $1.85 
+Board [2h 2d Ts 2s 7h]
+Seat 1: ru_ruu_ru (button) showed [6d 6s] and won ($35.15) with a full house, Deuces full of Sixes
+Seat 2: lilman629 (small blind) showed [Ks 4c] and lost with three of a kind, Deuces
+Seat 3: blistein (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: JoeBlack_MS folded before Flop (didn't bet)
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257947512:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:13:02 WET [2025/01/08 2:13:02 ET]
+Table 'Irmintraud II' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($214.06 in chips) 
+Seat 2: lilman629 ($98.94 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($315.23 in chips) 
+Seat 5: JoeBlack_MS ($105.45 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+JoeBlack_MS: folds 
+William_Gull: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+lilman629: calls $2.50
+blistein: raises $11.50 to $14
+b2k-Snick: folds 
+ru_ruu_ru: calls $11.50
+lilman629: calls $11.50
+*** FLOP *** [Ad 6h Th]
+blistein: bets $8.17
+ru_ruu_ru: calls $8.17
+lilman629: calls $8.17
+*** TURN *** [Ad 6h Th] [Kh]
+blistein: bets $16.25
+ru_ruu_ru: calls $16.25
+lilman629: raises $60.52 to $76.77 and is all-in
+blistein: raises $1.06 to $77.83 and is all-in
+ru_ruu_ru: folds 
+Uncalled bet ($1.06) returned to blistein
+*** RIVER *** [Ad 6h Th Kh] [Js]
+*** SHOW DOWN ***
+blistein: shows [As Ah] (three of a kind, Aces)
+lilman629: shows [5h Qh] (a flush, King high)
+lilman629 collected $234.80 from pot
+*** SUMMARY ***
+Total pot $237.30 | Rake $2.50 
+Board [Ad 6h Th Kh Js]
+Seat 1: ru_ruu_ru folded on the Turn
+Seat 2: lilman629 (button) showed [5h Qh] and won ($234.80) with a flush, King high
+Seat 3: blistein (small blind) showed [As Ah] and lost with three of a kind, Aces
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: JoeBlack_MS folded before Flop (didn't bet)
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257954442:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:14:39 WET [2025/01/08 2:14:39 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($175.64 in chips) 
+Seat 2: lilman629 ($234.80 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($314.23 in chips) 
+Seat 5: JoeBlack_MS ($105.45 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+JoeBlack_MS: posts big blind $1
+*** HOLE CARDS ***
+William_Gull has timed out
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: raises $1 to $2
+blistein: raises $5.50 to $7.50
+b2k-Snick: folds 
+JoeBlack_MS: folds 
+lilman629: calls $5.50
+*** FLOP *** [8s 8d As]
+lilman629: bets $5
+blistein: calls $5
+*** TURN *** [8s 8d As] [Ah]
+lilman629: checks 
+blistein: checks 
+*** RIVER *** [8s 8d As Ah] [6c]
+lilman629: checks 
+blistein: checks 
+*** SHOW DOWN ***
+lilman629: shows [Kc Tc] (two pair, Aces and Eights)
+blistein: shows [Kd Ks] (two pair, Aces and Kings)
+blistein collected $25.18 from pot
+*** SUMMARY ***
+Total pot $26.50 | Rake $1.32 
+Board [8s 8d As Ah 6c]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 showed [Kc Tc] and lost with two pair, Aces and Eights
+Seat 3: blistein (button) showed [Kd Ks] and won ($25.18) with two pair, Aces and Kings
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: JoeBlack_MS (big blind) folded before Flop
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257960458:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:16:02 WET [2025/01/08 2:16:02 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($175.64 in chips) 
+Seat 2: lilman629 ($222.30 in chips) 
+Seat 3: blistein ($112.68 in chips) 
+Seat 4: b2k-Snick ($313.73 in chips) 
+Seat 5: JoeBlack_MS ($104.45 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+JoeBlack_MS: posts small blind $0.50
+William_Gull: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru has timed out
+ru_ruu_ru: folds 
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: folds 
+JoeBlack_MS: folds 
+William_Gull: calls $1
+*** FLOP *** [Jh Td Ah]
+William_Gull: checks 
+lilman629: bets $4
+William_Gull: folds 
+Uncalled bet ($4) returned to lilman629
+lilman629 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Jh Td Ah]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 collected ($4.28)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: JoeBlack_MS (small blind) folded before Flop
+Seat 6: William_Gull (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254257963957:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:16:52 WET [2025/01/08 2:16:52 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($175.64 in chips) 
+Seat 2: lilman629 ($224.58 in chips) 
+Seat 3: blistein ($112.68 in chips) 
+Seat 4: b2k-Snick ($313.73 in chips) 
+Seat 5: JoeBlack_MS ($103.95 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+William_Gull: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: folds 
+JoeBlack_MS: folds 
+William_Gull: calls $1.50
+ru_ruu_ru: calls $1
+*** FLOP *** [6d Kc Qh]
+William_Gull: checks 
+ru_ruu_ru: checks 
+lilman629: checks 
+*** TURN *** [6d Kc Qh] [As]
+William_Gull: checks 
+ru_ruu_ru: bets $3.76
+lilman629: folds 
+William_Gull: folds 
+Uncalled bet ($3.76) returned to ru_ruu_ru
+ru_ruu_ru collected $5.70 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6d Kc Qh As]
+Seat 1: ru_ruu_ru (big blind) collected ($5.70)
+Seat 2: lilman629 folded on the Turn
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: JoeBlack_MS (button) folded before Flop (didn't bet)
+Seat 6: William_Gull (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254257967956:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:17:48 WET [2025/01/08 2:17:48 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($179.34 in chips) 
+Seat 2: lilman629 ($222.58 in chips) 
+Seat 3: blistein ($112.68 in chips) 
+Seat 4: b2k-Snick ($313.73 in chips) 
+Seat 5: JoeBlack_MS ($103.95 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+ru_ruu_ru: posts small blind $0.50
+lilman629: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: folds 
+JoeBlack_MS: raises $1.30 to $2.30
+William_Gull: raises $6.70 to $9
+ru_ruu_ru: folds 
+lilman629: calls $8
+JoeBlack_MS: folds 
+*** FLOP *** [6h Qh Jc]
+lilman629: checks 
+William_Gull: bets $6.52
+lilman629: calls $6.52
+*** TURN *** [6h Qh Jc] [6d]
+lilman629: bets $10
+William_Gull: folds 
+Uncalled bet ($10) returned to lilman629
+lilman629 collected $32.15 from pot
+*** SUMMARY ***
+Total pot $33.84 | Rake $1.69 
+Board [6h Qh Jc 6d]
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: lilman629 (big blind) collected ($32.15)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: JoeBlack_MS folded before Flop
+Seat 6: William_Gull (button) folded on the Turn
+
+
+
+PokerStars Hand #254257971372:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:18:36 WET [2025/01/08 2:18:36 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 1: ru_ruu_ru ($178.84 in chips) 
+Seat 2: lilman629 ($239.21 in chips) 
+Seat 3: blistein ($112.68 in chips) 
+Seat 4: b2k-Snick ($313.73 in chips) 
+Seat 5: JoeBlack_MS ($101.65 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+lilman629: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+JoeBlack_MS: raises $1 to $2
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: calls $1.50
+blistein: calls $1
+*** FLOP *** [Js 8h 2h]
+lilman629: checks 
+blistein: checks 
+JoeBlack_MS: bets $1.71
+lilman629: folds 
+blistein: folds 
+Uncalled bet ($1.71) returned to JoeBlack_MS
+JoeBlack_MS collected $5.70 from pot
+JoeBlack_MS: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Js 8h 2h]
+Seat 1: ru_ruu_ru (button) folded before Flop (didn't bet)
+Seat 2: lilman629 (small blind) folded on the Flop
+Seat 3: blistein (big blind) folded on the Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: JoeBlack_MS collected ($5.70)
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257974213:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:19:15 WET [2025/01/08 2:19:15 ET]
+Table 'Irmintraud II' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($178.84 in chips) 
+Seat 2: lilman629 ($237.21 in chips) 
+Seat 3: blistein ($110.68 in chips) 
+Seat 4: b2k-Snick ($313.73 in chips) 
+Seat 5: JoeBlack_MS ($105.35 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+JoeBlack_MS: folds 
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: raises $1 to $2
+blistein: raises $9 to $11
+b2k-Snick: folds 
+lilman629: calls $9
+*** FLOP *** [8h 2c Kc]
+blistein: bets $5.46
+lilman629: calls $5.46
+*** TURN *** [8h 2c Kc] [4c]
+blistein: checks 
+lilman629: bets $10
+blistein: folds 
+Uncalled bet ($10) returned to lilman629
+lilman629 collected $32.22 from pot
+*** SUMMARY ***
+Total pot $33.92 | Rake $1.70 
+Board [8h 2c Kc 4c]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 (button) collected ($32.22)
+Seat 3: blistein (small blind) folded on the Turn
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: JoeBlack_MS folded before Flop (didn't bet)
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257977877:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:20:07 WET [2025/01/08 2:20:07 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($178.84 in chips) 
+Seat 2: lilman629 ($252.97 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($312.73 in chips) 
+Seat 5: JoeBlack_MS ($105.35 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+JoeBlack_MS: posts big blind $1
+*** HOLE CARDS ***
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: raises $2 to $3
+blistein: folds 
+b2k-Snick: raises $8 to $11
+JoeBlack_MS: folds 
+lilman629: calls $8
+*** FLOP *** [Jh Qd Qs]
+b2k-Snick: checks 
+lilman629: bets $6
+b2k-Snick: raises $12 to $18
+lilman629: calls $12
+*** TURN *** [Jh Qd Qs] [7s]
+b2k-Snick: checks 
+lilman629: checks 
+*** RIVER *** [Jh Qd Qs 7s] [Td]
+b2k-Snick: checks 
+lilman629: checks 
+*** SHOW DOWN ***
+b2k-Snick: shows [Th Kh] (two pair, Queens and Tens)
+lilman629: shows [6s Jd] (two pair, Queens and Jacks)
+lilman629 collected $56.50 from pot
+*** SUMMARY ***
+Total pot $59 | Rake $2.50 
+Board [Jh Qd Qs 7s Td]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 showed [6s Jd] and won ($56.50) with two pair, Queens and Jacks
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) showed [Th Kh] and lost with two pair, Queens and Tens
+Seat 5: JoeBlack_MS (big blind) folded before Flop
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257982690:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:21:13 WET [2025/01/08 2:21:13 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($178.84 in chips) 
+Seat 2: lilman629 ($280.47 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($283.73 in chips) 
+Seat 5: JoeBlack_MS ($104.35 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+JoeBlack_MS: posts small blind $0.50
+William_Gull: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: raises $5 to $7
+JoeBlack_MS: folds 
+William_Gull: folds 
+lilman629: calls $5
+*** FLOP *** [7c Jh Qh]
+lilman629: checks 
+b2k-Snick: checks 
+*** TURN *** [7c Jh Qh] [5c]
+lilman629: checks 
+b2k-Snick: bets $8.10
+lilman629: folds 
+Uncalled bet ($8.10) returned to b2k-Snick
+b2k-Snick collected $14.72 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.78 
+Board [7c Jh Qh 5c]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 folded on the Turn
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) collected ($14.72)
+Seat 5: JoeBlack_MS (small blind) folded before Flop
+Seat 6: William_Gull (big blind) folded before Flop
+
+
+
+PokerStars Hand #254257986016:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:21:59 WET [2025/01/08 2:21:59 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($178.84 in chips) 
+Seat 2: lilman629 ($273.47 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($291.45 in chips) 
+Seat 5: JoeBlack_MS ($103.85 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+William_Gull: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: folds 
+JoeBlack_MS: folds 
+William_Gull: raises $5 to $7
+ru_ruu_ru: folds 
+lilman629: calls $5
+*** FLOP *** [8s 8d Kh]
+William_Gull is disconnected 
+William_Gull has timed out while disconnected
+William_Gull: checks 
+lilman629: bets $6
+William_Gull has timed out while disconnected
+William_Gull: folds 
+Uncalled bet ($6) returned to lilman629
+lilman629 collected $14.25 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [8s 8d Kh]
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 2: lilman629 collected ($14.25)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: JoeBlack_MS (button) folded before Flop (didn't bet)
+Seat 6: William_Gull (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254257998513:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:24:49 WET [2025/01/08 2:24:49 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 6: William_Gull ($93 in chips) is sitting out
+Seat 1: ru_ruu_ru ($177.84 in chips) 
+Seat 2: lilman629 ($280.72 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($291.45 in chips) 
+Seat 5: JoeBlack_MS ($103.85 in chips) 
+lilman629: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+JoeBlack_MS: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+lilman629: raises $1.50 to $4
+blistein: folds 
+ru_ruu_ru: calls $1.50
+*** FLOP *** [Jc 4d 2s]
+lilman629: bets $5
+ru_ruu_ru: calls $5
+*** TURN *** [Jc 4d 2s] [7h]
+lilman629: checks 
+ru_ruu_ru: bets $18.05
+lilman629: folds 
+Uncalled bet ($18.05) returned to ru_ruu_ru
+ru_ruu_ru collected $18.05 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [Jc 4d 2s 7h]
+Seat 6: William_Gull
+Seat 1: ru_ruu_ru (button) collected ($18.05)
+Seat 2: lilman629 (small blind) folded on the Turn
+Seat 3: blistein (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: JoeBlack_MS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254258001272:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:25:27 WET [2025/01/08 2:25:27 ET]
+Table 'Irmintraud II' 6-max Seat #2 is the button
+Seat 6: William_Gull ($93 in chips) is sitting out
+Seat 1: ru_ruu_ru ($186.89 in chips) 
+Seat 2: lilman629 ($271.72 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($291.45 in chips) 
+Seat 5: JoeBlack_MS ($103.85 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+JoeBlack_MS: raises $1 to $2
+ru_ruu_ru: folds 
+lilman629: calls $2
+blistein: folds 
+b2k-Snick: calls $1
+*** FLOP *** [7h Kc 5s]
+b2k-Snick: checks 
+JoeBlack_MS: checks 
+lilman629: checks 
+*** TURN *** [7h Kc 5s] [4c]
+b2k-Snick: bets $3.40
+JoeBlack_MS: calls $3.40
+lilman629: calls $3.40
+*** RIVER *** [7h Kc 5s 4c] [3s]
+b2k-Snick: checks 
+JoeBlack_MS: checks 
+lilman629: bets $2
+b2k-Snick: calls $2
+JoeBlack_MS: folds 
+*** SHOW DOWN ***
+lilman629: shows [2c 4s] (a pair of Fours)
+b2k-Snick: shows [7s 9d] (a pair of Sevens)
+b2k-Snick collected $19.66 from pot
+*** SUMMARY ***
+Total pot $20.70 | Rake $1.04 
+Board [7h Kc 5s 4c 3s]
+Seat 6: William_Gull
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 (button) showed [2c 4s] and lost with a pair of Fours
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) showed [7s 9d] and won ($19.66) with a pair of Sevens
+Seat 5: JoeBlack_MS folded on the River
+
+
+
+PokerStars Hand #254258007750:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:26:55 WET [2025/01/08 2:26:55 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 6: William_Gull ($93 in chips) is sitting out
+Seat 1: ru_ruu_ru ($186.89 in chips) 
+Seat 2: lilman629 ($264.32 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($303.71 in chips) 
+Seat 5: JoeBlack_MS ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+JoeBlack_MS: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+lilman629: calls $1
+blistein: folds 
+b2k-Snick: calls $0.50
+JoeBlack_MS: checks 
+*** FLOP *** [Kh Ks 6c]
+b2k-Snick: bets $1.57
+JoeBlack_MS: calls $1.57
+lilman629: folds 
+*** TURN *** [Kh Ks 6c] [5c]
+b2k-Snick: checks 
+JoeBlack_MS: checks 
+*** RIVER *** [Kh Ks 6c 5c] [9s]
+b2k-Snick: checks 
+JoeBlack_MS: checks 
+*** SHOW DOWN ***
+b2k-Snick: shows [Th 6d] (two pair, Kings and Sixes)
+JoeBlack_MS: mucks hand 
+b2k-Snick collected $5.83 from pot
+*** SUMMARY ***
+Total pot $6.14 | Rake $0.31 
+Board [Kh Ks 6c 5c 9s]
+Seat 6: William_Gull
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 folded on the Flop
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) showed [Th 6d] and won ($5.83) with two pair, Kings and Sixes
+Seat 5: JoeBlack_MS (big blind) mucked
+
+
+
+PokerStars Hand #254258012117:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:27:55 WET [2025/01/08 2:27:55 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 6: William_Gull ($93 in chips) is sitting out
+Seat 1: ru_ruu_ru ($186.89 in chips) 
+Seat 2: lilman629 ($263.32 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($306.97 in chips) 
+Seat 5: JoeBlack_MS ($100 in chips) 
+JoeBlack_MS: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: raises $6 to $8
+JoeBlack_MS: folds 
+ru_ruu_ru: folds 
+lilman629: calls $6
+*** FLOP *** [Qh Ac Ts]
+lilman629: checks 
+b2k-Snick: checks 
+*** TURN *** [Qh Ac Ts] [4h]
+lilman629: bets $5
+b2k-Snick: calls $5
+*** RIVER *** [Qh Ac Ts 4h] [5s]
+lilman629: bets $10
+b2k-Snick: folds 
+Uncalled bet ($10) returned to lilman629
+lilman629 collected $26.12 from pot
+*** SUMMARY ***
+Total pot $27.50 | Rake $1.38 
+Board [Qh Ac Ts 4h 5s]
+Seat 6: William_Gull
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 2: lilman629 collected ($26.12)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded on the River
+Seat 5: JoeBlack_MS (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257851301:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:49:45 WET [2025/01/08 1:49:45 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($163.56 in chips) 
+Seat 2: lilman629 ($32.11 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($311.35 in chips) 
+Seat 5: Cougars001 ($74.56 in chips) 
+Seat 6: William_Gull ($113.42 in chips) 
+Cougars001: posts small blind $0.50
+William_Gull: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: calls $1.50
+William_Gull: folds 
+*** FLOP *** [Kc Jc 4h]
+Cougars001: checks 
+lilman629: checks 
+*** TURN *** [Kc Jc 4h] [4c]
+Cougars001: checks 
+lilman629: checks 
+*** RIVER *** [Kc Jc 4h 4c] [6h]
+Cougars001: checks 
+lilman629: bets $2
+Cougars001: calls $2
+*** SHOW DOWN ***
+lilman629: shows [7c 7s] (two pair, Sevens and Fours)
+Cougars001: mucks hand 
+lilman629 collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Kc Jc 4h 4c 6h]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 showed [7c 7s] and won ($8.55) with two pair, Sevens and Fours
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: Cougars001 (small blind) mucked
+Seat 6: William_Gull (big blind) folded before Flop
+
+
+
+PokerStars Hand #254257853397:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:50:14 WET [2025/01/08 1:50:14 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($163.56 in chips) 
+Seat 2: lilman629 ($36.66 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($311.35 in chips) 
+Seat 5: Cougars001 ($70.56 in chips) 
+Seat 6: William_Gull ($112.42 in chips) 
+William_Gull: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: folds 
+William_Gull: folds 
+ru_ruu_ru: folds 
+Uncalled bet ($1) returned to lilman629
+lilman629 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 2: lilman629 collected ($2.50)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Cougars001 (button) folded before Flop (didn't bet)
+Seat 6: William_Gull (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257854839:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:50:35 WET [2025/01/08 1:50:35 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($162.56 in chips) 
+Seat 2: lilman629 ($38.16 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($311.35 in chips) 
+Seat 5: Cougars001 ($70.56 in chips) 
+Seat 6: William_Gull ($111.92 in chips) 
+ru_ruu_ru: posts small blind $0.50
+lilman629: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: raises $1.50 to $2.50
+Cougars001: folds 
+William_Gull: folds 
+ru_ruu_ru: calls $2
+lilman629: calls $1.50
+*** FLOP *** [4c 3d 7d]
+ru_ruu_ru: bets $3.56
+lilman629: folds 
+b2k-Snick: raises $10.44 to $14
+ru_ruu_ru: folds 
+Uncalled bet ($10.44) returned to b2k-Snick
+b2k-Snick collected $13.89 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.62 | Rake $0.73 
+Board [4c 3d 7d]
+Seat 1: ru_ruu_ru (small blind) folded on the Flop
+Seat 2: lilman629 (big blind) folded on the Flop
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick collected ($13.89)
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: William_Gull (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257857920:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:51:18 WET [2025/01/08 1:51:18 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 1: ru_ruu_ru ($156.50 in chips) 
+Seat 2: lilman629 ($35.66 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($319.18 in chips) 
+Seat 5: Cougars001 ($70.56 in chips) 
+Seat 6: William_Gull ($111.92 in chips) 
+lilman629: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Cougars001: folds 
+William_Gull: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+lilman629: calls $2
+blistein: folds 
+*** FLOP *** [3h 9c Tc]
+lilman629: checks 
+ru_ruu_ru: bets $2.85
+lilman629: raises $2.85 to $5.70
+ru_ruu_ru: calls $2.85
+*** TURN *** [3h 9c Tc] [Ah]
+lilman629: checks 
+ru_ruu_ru: checks 
+*** RIVER *** [3h 9c Tc Ah] [7s]
+lilman629: bets $10
+ru_ruu_ru: folds 
+Uncalled bet ($10) returned to lilman629
+lilman629 collected $16.53 from pot
+*** SUMMARY ***
+Total pot $17.40 | Rake $0.87 
+Board [3h 9c Tc Ah 7s]
+Seat 1: ru_ruu_ru (button) folded on the River
+Seat 2: lilman629 (small blind) collected ($16.53)
+Seat 3: blistein (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257861175:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:52:04 WET [2025/01/08 1:52:04 ET]
+Table 'Irmintraud II' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($148.30 in chips) 
+Seat 2: lilman629 ($43.99 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($319.18 in chips) 
+Seat 5: Cougars001 ($70.56 in chips) 
+Seat 6: William_Gull ($111.92 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Cougars001: folds 
+William_Gull: raises $1.50 to $2.50
+ru_ruu_ru: raises $5 to $7.50
+lilman629: folds 
+blistein: folds 
+b2k-Snick: folds 
+William_Gull: calls $5
+*** FLOP *** [2h 4h Kc]
+William_Gull: checks 
+ru_ruu_ru: bets $5.17
+William_Gull: calls $5.17
+*** TURN *** [2h 4h Kc] [Qd]
+William_Gull: checks 
+ru_ruu_ru: bets $16.83
+William_Gull: folds 
+Uncalled bet ($16.83) returned to ru_ruu_ru
+ru_ruu_ru collected $25.50 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.84 | Rake $1.34 
+Board [2h 4h Kc Qd]
+Seat 1: ru_ruu_ru collected ($25.50)
+Seat 2: lilman629 (button) folded before Flop (didn't bet)
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: William_Gull folded on the Turn
+
+
+
+PokerStars Hand #254257866696:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:53:21 WET [2025/01/08 1:53:21 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($161.13 in chips) 
+Seat 2: lilman629 ($43.99 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($318.18 in chips) 
+Seat 5: Cougars001 ($70.56 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+Cougars001: posts big blind $1
+*** HOLE CARDS ***
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: calls $1
+*** FLOP *** [Qc Jh 4c]
+Cougars001: checks 
+lilman629: checks 
+*** TURN *** [Qc Jh 4c] [Jd]
+Cougars001: checks 
+lilman629: bets $2
+Cougars001: folds 
+Uncalled bet ($2) returned to lilman629
+lilman629 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Qc Jh 4c Jd]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 collected ($4.28)
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: Cougars001 (big blind) folded on the Turn
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257869884:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:54:06 WET [2025/01/08 1:54:06 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($161.13 in chips) 
+Seat 2: lilman629 ($46.27 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($317.68 in chips) 
+Seat 5: Cougars001 ($68.56 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+Cougars001: posts small blind $0.50
+William_Gull: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: calls $1.50
+William_Gull: calls $1
+*** FLOP *** [9h Th 8s]
+Cougars001: checks 
+William_Gull: checks 
+lilman629: bets $2
+Cougars001 is disconnected 
+Cougars001 is connected 
+Cougars001: folds 
+William_Gull: calls $2
+*** TURN *** [9h Th 8s] [Ac]
+William_Gull: checks 
+lilman629: checks 
+*** RIVER *** [9h Th 8s Ac] [7s]
+William_Gull: checks 
+lilman629: checks 
+*** SHOW DOWN ***
+William_Gull: shows [2h 4h] (high card Ace)
+lilman629: shows [7c 5h] (a pair of Sevens)
+lilman629 collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [9h Th 8s Ac 7s]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 showed [7c 5h] and won ($9.50) with a pair of Sevens
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: Cougars001 (small blind) folded on the Flop
+Seat 6: William_Gull (big blind) showed [2h 4h] and lost with high card Ace
+
+
+
+PokerStars Hand #254257874665:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:55:13 WET [2025/01/08 1:55:13 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($161.13 in chips) 
+Seat 2: lilman629 ($51.77 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($317.68 in chips) 
+Seat 5: Cougars001 ($66.56 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+William_Gull: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: raises $5 to $7
+Cougars001: calls $7
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: calls $5
+*** FLOP *** [Kd 3c 8h]
+lilman629: checks 
+b2k-Snick: bets $4.70
+Cougars001: calls $4.70
+lilman629: folds 
+*** TURN *** [Kd 3c 8h] [6d]
+b2k-Snick: checks 
+Cougars001: bets $12.15
+b2k-Snick: folds 
+Uncalled bet ($12.15) returned to Cougars001
+Cougars001 collected $30.30 from pot
+*** SUMMARY ***
+Total pot $31.90 | Rake $1.60 
+Board [Kd 3c 8h 6d]
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 2: lilman629 folded on the Flop
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded on the Turn
+Seat 5: Cougars001 (button) collected ($30.30)
+Seat 6: William_Gull (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257878737:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:56:19 WET [2025/01/08 1:56:19 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($160.13 in chips) 
+Seat 2: lilman629 ($44.77 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($305.98 in chips) 
+Seat 5: Cougars001 ($85.16 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+ru_ruu_ru: posts small blind $0.50
+lilman629: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: folds 
+William_Gull: folds 
+ru_ruu_ru: folds 
+Uncalled bet ($0.50) returned to lilman629
+lilman629 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: lilman629 (big blind) collected ($1)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: William_Gull (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257880140:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:56:42 WET [2025/01/08 1:56:42 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 1: ru_ruu_ru ($159.63 in chips) 
+Seat 2: lilman629 ($45.27 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($305.98 in chips) 
+Seat 5: Cougars001 ($85.16 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+lilman629: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Cougars001: folds 
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: raises $1 to $2
+blistein: calls $1
+*** FLOP *** [Jh 9d Jc]
+lilman629: checks 
+blistein: checks 
+*** TURN *** [Jh 9d Jc] [4h]
+lilman629: bets $3
+blistein: folds 
+Uncalled bet ($3) returned to lilman629
+lilman629 collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Jh 9d Jc 4h]
+Seat 1: ru_ruu_ru (button) folded before Flop (didn't bet)
+Seat 2: lilman629 (small blind) collected ($3.80)
+Seat 3: blistein (big blind) folded on the Turn
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257882627:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:57:22 WET [2025/01/08 1:57:22 ET]
+Table 'Irmintraud II' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($159.63 in chips) 
+Seat 2: lilman629 ($47.07 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($305.98 in chips) 
+Seat 5: Cougars001 ($85.16 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Cougars001: folds 
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: folds 
+Uncalled bet ($1) returned to lilman629
+lilman629 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 (button) collected ($2.50)
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257883713:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:57:40 WET [2025/01/08 1:57:40 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($159.63 in chips) 
+Seat 2: lilman629 ($48.57 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($304.98 in chips) 
+Seat 5: Cougars001 ($85.16 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+Cougars001: posts big blind $1
+*** HOLE CARDS ***
+William_Gull: raises $1.80 to $2.80
+ru_ruu_ru: folds 
+lilman629: calls $2.80
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: folds 
+*** FLOP *** [5d 2h 9s]
+William_Gull: bets $3.37
+lilman629: folds 
+Uncalled bet ($3.37) returned to William_Gull
+William_Gull collected $6.74 from pot
+William_Gull: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.36 
+Board [5d 2h 9s]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 folded on the Flop
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: Cougars001 (big blind) folded before Flop
+Seat 6: William_Gull collected ($6.74)
+
+
+
+PokerStars Hand #254257885875:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:58:16 WET [2025/01/08 1:58:16 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($159.63 in chips) 
+Seat 2: lilman629 ($45.77 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($304.48 in chips) 
+Seat 5: Cougars001 ($84.16 in chips) 
+Seat 6: William_Gull ($103.94 in chips) 
+Cougars001: posts small blind $0.50
+William_Gull: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+lilman629: calls $1
+blistein: raises $2.50 to $3.50
+b2k-Snick: folds 
+Cougars001: folds 
+William_Gull: raises $8.50 to $12
+lilman629: folds 
+blistein: folds 
+Uncalled bet ($8.50) returned to William_Gull
+William_Gull collected $8.50 from pot
+William_Gull: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0 
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 folded before Flop
+Seat 3: blistein folded before Flop
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: Cougars001 (small blind) folded before Flop
+Seat 6: William_Gull (big blind) collected ($8.50)
+
+
+
+PokerStars Hand #254257887743:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:58:46 WET [2025/01/08 1:58:46 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($159.63 in chips) 
+Seat 2: lilman629 ($44.77 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($304.48 in chips) 
+Seat 5: Cougars001 ($83.66 in chips) 
+Seat 6: William_Gull ($108.94 in chips) 
+William_Gull: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+lilman629: raises $1 to $2
+blistein: raises $4.50 to $6.50
+b2k-Snick: folds 
+Cougars001: calls $6.50
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: calls $4.50
+*** FLOP *** [8h 3h 8c]
+lilman629: bets $5
+blistein: calls $5
+Cougars001: calls $5
+*** TURN *** [8h 3h 8c] [5d]
+lilman629: bets $10
+blistein: folds 
+Cougars001: folds 
+Uncalled bet ($10) returned to lilman629
+lilman629 collected $34.20 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [8h 3h 8c 5d]
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 2: lilman629 collected ($34.20)
+Seat 3: blistein folded on the Turn
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Cougars001 (button) folded on the Turn
+Seat 6: William_Gull (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257890224:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:59:26 WET [2025/01/08 1:59:26 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($158.63 in chips) 
+Seat 2: lilman629 ($67.47 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($304.48 in chips) 
+Seat 5: Cougars001 ($72.16 in chips) 
+Seat 6: William_Gull ($108.44 in chips) 
+ru_ruu_ru: posts small blind $0.50
+lilman629: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: folds 
+William_Gull: folds 
+ru_ruu_ru: folds 
+Uncalled bet ($0.50) returned to lilman629
+lilman629 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: lilman629 (big blind) collected ($1)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: William_Gull (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257891057:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:59:40 WET [2025/01/08 1:59:40 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 1: ru_ruu_ru ($158.13 in chips) 
+Seat 2: lilman629 ($67.97 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($304.48 in chips) 
+Seat 5: Cougars001 ($72.16 in chips) 
+Seat 6: William_Gull ($108.44 in chips) 
+lilman629: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Cougars001: folds 
+William_Gull: raises $1.50 to $2.50
+ru_ruu_ru: raises $5 to $7.50
+lilman629: calls $7
+blistein: folds 
+William_Gull: calls $5
+*** FLOP *** [9s 5h Tc]
+lilman629: bets $5
+William_Gull: calls $5
+ru_ruu_ru: calls $5
+*** TURN *** [9s 5h Tc] [3c]
+lilman629: checks 
+William_Gull: checks 
+ru_ruu_ru: checks 
+*** RIVER *** [9s 5h Tc 3c] [Ks]
+lilman629: bets $5
+William_Gull: folds 
+ru_ruu_ru: raises $15 to $20
+lilman629: calls $15
+*** SHOW DOWN ***
+ru_ruu_ru: shows [Qh Kd] (a pair of Kings)
+lilman629: mucks hand 
+ru_ruu_ru collected $76 from pot
+*** SUMMARY ***
+Total pot $78.50 | Rake $2.50 
+Board [9s 5h Tc 3c Ks]
+Seat 1: ru_ruu_ru (button) showed [Qh Kd] and won ($76) with a pair of Kings
+Seat 2: lilman629 (small blind) mucked
+Seat 3: blistein (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: William_Gull folded on the River
+
+
+
+PokerStars Hand #254257896838:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:01:07 WET [2025/01/08 2:01:07 ET]
+Table 'Irmintraud II' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($201.63 in chips) 
+Seat 2: lilman629 ($35.47 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($304.48 in chips) 
+Seat 5: Cougars001 ($72.16 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Cougars001 has timed out
+Cougars001: folds 
+William_Gull: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+lilman629: calls $2.50
+blistein: folds 
+b2k-Snick: folds 
+*** FLOP *** [Qc 8c 5d]
+ru_ruu_ru: checks 
+lilman629: checks 
+*** TURN *** [Qc 8c 5d] [Tc]
+ru_ruu_ru: checks 
+lilman629: checks 
+*** RIVER *** [Qc 8c 5d Tc] [Jd]
+ru_ruu_ru: checks 
+lilman629: checks 
+*** SHOW DOWN ***
+ru_ruu_ru: shows [6h 6d] (a pair of Sixes)
+lilman629: mucks hand 
+ru_ruu_ru collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Qc 8c 5d Tc Jd]
+Seat 1: ru_ruu_ru showed [6h 6d] and won ($6.18) with a pair of Sixes
+Seat 2: lilman629 (button) mucked
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257901002:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:02:05 WET [2025/01/08 2:02:05 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 5: Cougars001 ($72.16 in chips) is sitting out
+Seat 1: ru_ruu_ru ($205.31 in chips) 
+Seat 2: lilman629 ($32.97 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($303.48 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+William_Gull: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+lilman629: raises $1 to $2
+blistein: raises $4 to $6
+b2k-Snick: folds 
+William_Gull: folds 
+lilman629: calls $4
+*** FLOP *** [6s Tc 3h]
+lilman629: checks 
+blistein: bets $3.21
+lilman629: folds 
+Uncalled bet ($3.21) returned to blistein
+blistein collected $12.82 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.68 
+Board [6s Tc 3h]
+Seat 5: Cougars001
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 folded on the Flop
+Seat 3: blistein (button) collected ($12.82)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 6: William_Gull (big blind) folded before Flop
+
+
+
+PokerStars Hand #254257903006:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:02:33 WET [2025/01/08 2:02:33 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 5: Cougars001 ($72.16 in chips) is sitting out
+Seat 1: ru_ruu_ru ($205.31 in chips) 
+Seat 2: lilman629 ($26.97 in chips) 
+Seat 3: blistein ($106.82 in chips) 
+Seat 4: b2k-Snick ($302.98 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+William_Gull: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: folds 
+William_Gull: calls $1.50
+ru_ruu_ru: folds 
+*** FLOP *** [7h 7s Qd]
+William_Gull: checks 
+lilman629: bets $2
+William_Gull: calls $2
+*** TURN *** [7h 7s Qd] [7d]
+William_Gull: checks 
+lilman629: bets $5
+William_Gull: calls $5
+*** RIVER *** [7h 7s Qd 7d] [7c]
+William_Gull: checks 
+lilman629: checks 
+*** SHOW DOWN ***
+William_Gull: shows [9d 9h] (four of a kind, Sevens)
+lilman629: shows [3c Qc] (four of a kind, Sevens)
+William_Gull collected $9.03 from pot
+lilman629 collected $9.02 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [7h 7s Qd 7d 7c]
+Seat 5: Cougars001
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 2: lilman629 showed [3c Qc] and won ($9.02) with four of a kind, Sevens
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 6: William_Gull (small blind) showed [9d 9h] and won ($9.03) with four of a kind, Sevens
+
+
+
+PokerStars Hand #254257906642:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:03:25 WET [2025/01/08 2:03:25 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 5: Cougars001 ($72.16 in chips) is sitting out
+Seat 1: ru_ruu_ru ($204.31 in chips) 
+Seat 2: lilman629 ($26.99 in chips) 
+Seat 3: blistein ($106.82 in chips) 
+Seat 4: b2k-Snick ($302.98 in chips) 
+Seat 6: William_Gull ($100.03 in chips) 
+ru_ruu_ru: posts small blind $0.50
+lilman629: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: folds 
+William_Gull: folds 
+ru_ruu_ru: raises $2 to $3
+lilman629: calls $2
+*** FLOP *** [7s 5s 4s]
+ru_ruu_ru: bets $1.88
+lilman629: folds 
+Uncalled bet ($1.88) returned to ru_ruu_ru
+ru_ruu_ru collected $5.70 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [7s 5s 4s]
+Seat 5: Cougars001
+Seat 1: ru_ruu_ru (small blind) collected ($5.70)
+Seat 2: lilman629 (big blind) folded on the Flop
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 6: William_Gull (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257908304:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:03:48 WET [2025/01/08 2:03:48 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 5: Cougars001 ($72.16 in chips) is sitting out
+Seat 1: ru_ruu_ru ($207.01 in chips) 
+Seat 2: lilman629 ($23.99 in chips) 
+Seat 3: blistein ($106.82 in chips) 
+Seat 4: b2k-Snick ($302.98 in chips) 
+Seat 6: William_Gull ($100.03 in chips) 
+lilman629: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.10 to $2.10
+William_Gull: folds 
+ru_ruu_ru: calls $2.10
+lilman629: raises $21.89 to $23.99 and is all-in
+blistein: folds 
+b2k-Snick: folds 
+ru_ruu_ru: folds 
+Uncalled bet ($21.89) returned to lilman629
+lilman629 collected $7.30 from pot
+*** SUMMARY ***
+Total pot $7.30 | Rake $0 
+Seat 5: Cougars001
+Seat 1: ru_ruu_ru (button) folded before Flop
+Seat 2: lilman629 (small blind) collected ($7.30)
+Seat 3: blistein (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257910233:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:04:16 WET [2025/01/08 2:04:16 ET]
+Table 'Irmintraud II' 6-max Seat #2 is the button
+Seat 5: Cougars001 ($72.16 in chips) is sitting out
+Seat 1: ru_ruu_ru ($204.91 in chips) 
+Seat 2: lilman629 ($29.19 in chips) 
+Seat 3: blistein ($105.82 in chips) 
+Seat 4: b2k-Snick ($300.88 in chips) 
+Seat 6: William_Gull ($100.03 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+William_Gull: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+lilman629: calls $2.50
+blistein: folds 
+b2k-Snick: calls $1.50
+*** FLOP *** [9s 8c 6h]
+b2k-Snick: checks 
+ru_ruu_ru: checks 
+lilman629: bets $6
+b2k-Snick: raises $6 to $12
+ru_ruu_ru: folds 
+lilman629: calls $6
+*** TURN *** [9s 8c 6h] [Ks]
+b2k-Snick: bets $16.72
+lilman629: calls $14.69 and is all-in
+Uncalled bet ($2.03) returned to b2k-Snick
+*** RIVER *** [9s 8c 6h Ks] [3h]
+*** SHOW DOWN ***
+b2k-Snick: shows [9c Js] (a pair of Nines)
+lilman629: shows [9d Qs] (a pair of Nines - King+Queen kicker)
+lilman629 collected $58.88 from pot
+*** SUMMARY ***
+Total pot $61.38 | Rake $2.50 
+Board [9s 8c 6h Ks 3h]
+Seat 5: Cougars001
+Seat 1: ru_ruu_ru folded on the Flop
+Seat 2: lilman629 (button) showed [9d Qs] and won ($58.88) with a pair of Nines
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) showed [9c Js] and lost with a pair of Nines
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257914922:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:05:24 WET [2025/01/08 2:05:24 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 5: Cougars001 ($72.16 in chips) is sitting out
+Seat 1: ru_ruu_ru ($202.41 in chips) 
+Seat 2: lilman629 ($58.88 in chips) 
+Seat 3: blistein ($105.32 in chips) 
+Seat 4: b2k-Snick ($271.69 in chips) 
+Seat 6: William_Gull ($100.03 in chips) 
+b2k-Snick: posts small blind $0.50
+William_Gull: posts big blind $1
+*** HOLE CARDS ***
+Cougars001 is disconnected 
+ru_ruu_ru: folds 
+lilman629: raises $2 to $3
+blistein: calls $3
+b2k-Snick: raises $12 to $15
+William_Gull: folds 
+lilman629: raises $43.88 to $58.88 and is all-in
+blistein: folds 
+b2k-Snick: calls $43.88
+*** FLOP *** [6s Qd 5d]
+*** TURN *** [6s Qd 5d] [8h]
+*** RIVER *** [6s Qd 5d 8h] [Qh]
+*** SHOW DOWN ***
+b2k-Snick: shows [Js Ac] (a pair of Queens)
+lilman629: shows [Ah Th] (a pair of Queens - lower kicker)
+b2k-Snick collected $119.26 from pot
+*** SUMMARY ***
+Total pot $121.76 | Rake $2.50 
+Board [6s Qd 5d 8h Qh]
+Seat 5: Cougars001
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 showed [Ah Th] and lost with a pair of Queens
+Seat 3: blistein (button) folded before Flop
+Seat 4: b2k-Snick (small blind) showed [Js Ac] and won ($119.26) with a pair of Queens
+Seat 6: William_Gull (big blind) folded before Flop
+
+
+
+PokerStars Hand #254257918593:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:06:16 WET [2025/01/08 2:06:16 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 2: lilman629 ($0 in chips) is sitting out
+Seat 5: Cougars001 ($72.16 in chips) is sitting out
+Seat 1: ru_ruu_ru ($202.41 in chips) 
+Seat 3: blistein ($102.32 in chips) 
+Seat 4: b2k-Snick ($332.07 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+William_Gull: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: raises $1.50 to $2.50
+Cougars001 leaves the table
+William_Gull: raises $7.50 to $10
+ru_ruu_ru: folds 
+b2k-Snick: folds 
+Uncalled bet ($7.50) returned to William_Gull
+William_Gull collected $6 from pot
+William_Gull: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: lilman629
+Seat 5: Cougars001
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop
+Seat 6: William_Gull (small blind) collected ($6)
+
+
+
+PokerStars Hand #254257921905:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:07:01 WET [2025/01/08 2:07:01 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 2: lilman629 ($0 in chips) is sitting out
+Seat 1: ru_ruu_ru ($201.41 in chips) 
+Seat 3: blistein ($102.32 in chips) 
+Seat 4: b2k-Snick ($329.57 in chips) 
+Seat 6: William_Gull ($103.50 in chips) 
+ru_ruu_ru: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+William_Gull: calls $2.50
+JoeBlack_MS joins the table at seat #5 
+ru_ruu_ru: folds 
+blistein: raises $11.50 to $14
+b2k-Snick: calls $11.50
+William_Gull: calls $11.50
+*** FLOP *** [Jc 8c 5h]
+blistein: checks 
+lilman629 is disconnected 
+b2k-Snick: bets $9.13
+William_Gull: calls $9.13
+blistein: folds 
+*** TURN *** [Jc 8c 5h] [3d]
+b2k-Snick: checks 
+lilman629 is disconnected 
+William_Gull: checks 
+*** RIVER *** [Jc 8c 5h 3d] [Kh]
+b2k-Snick: bets $32.87
+William_Gull: folds 
+Uncalled bet ($32.87) returned to b2k-Snick
+b2k-Snick collected $59.76 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $60.76 | Rake $1 
+Board [Jc 8c 5h 3d Kh]
+Seat 2: lilman629
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 3: blistein (big blind) folded on the Flop
+Seat 4: b2k-Snick collected ($59.76)
+Seat 6: William_Gull (button) folded on the River
+
+
+
+PokerStars Hand #254257929958:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:08:56 WET [2025/01/08 2:08:56 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 2: lilman629 ($0 in chips) is sitting out
+Seat 5: JoeBlack_MS ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($200.91 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($366.20 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+JoeBlack_MS: sits out 
+*** HOLE CARDS ***
+William_Gull: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+blistein: folds 
+b2k-Snick: folds 
+Uncalled bet ($1.50) returned to ru_ruu_ru
+ru_ruu_ru collected $2.50 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: lilman629
+Seat 5: JoeBlack_MS
+Seat 1: ru_ruu_ru (button) collected ($2.50)
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257931116:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:09:13 WET [2025/01/08 2:09:13 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($202.41 in chips) 
+Seat 2: lilman629 ($67.59 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($365.20 in chips) 
+Seat 5: JoeBlack_MS ($100 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+JoeBlack_MS: posts big blind $1
+lilman629: posts small & big blinds $1.50
+*** HOLE CARDS ***
+William_Gull: folds 
+ru_ruu_ru: raises $3 to $4
+lilman629: calls $3
+blistein: folds 
+b2k-Snick: raises $16 to $20
+JoeBlack_MS: folds 
+ru_ruu_ru: folds 
+lilman629: folds 
+Uncalled bet ($16) returned to b2k-Snick
+b2k-Snick collected $13.50 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.50 | Rake $0 
+Seat 1: ru_ruu_ru folded before Flop
+Seat 2: lilman629 folded before Flop
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) collected ($13.50)
+Seat 5: JoeBlack_MS (big blind) folded before Flop
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257933638:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:09:49 WET [2025/01/08 2:09:49 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($198.41 in chips) 
+Seat 2: lilman629 ($63.09 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($374.70 in chips) 
+Seat 5: JoeBlack_MS ($100 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+JoeBlack_MS: posts small blind $0.50
+William_Gull: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+lilman629: calls $1
+blistein: folds 
+b2k-Snick: folds 
+JoeBlack_MS: raises $4 to $5
+William_Gull: folds 
+lilman629: calls $4
+*** FLOP *** [5c 9d 4h]
+JoeBlack_MS: bets $2.50
+lilman629: folds 
+Uncalled bet ($2.50) returned to JoeBlack_MS
+JoeBlack_MS collected $10.45 from pot
+JoeBlack_MS: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [5c 9d 4h]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 folded on the Flop
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: JoeBlack_MS (small blind) collected ($10.45)
+Seat 6: William_Gull (big blind) folded before Flop
+
+
+
+PokerStars Hand #254257935954:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:10:22 WET [2025/01/08 2:10:22 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($198.41 in chips) 
+Seat 2: lilman629 ($58.09 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($374.70 in chips) 
+Seat 5: JoeBlack_MS ($105.45 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+William_Gull: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+lilman629: calls $1
+blistein: folds 
+b2k-Snick: folds 
+JoeBlack_MS: folds 
+William_Gull: folds 
+ru_ruu_ru: checks 
+*** FLOP *** [8c 6c Td]
+ru_ruu_ru: checks 
+lilman629: bets $3
+ru_ruu_ru: folds 
+Uncalled bet ($3) returned to lilman629
+lilman629 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [8c 6c Td]
+Seat 1: ru_ruu_ru (big blind) folded on the Flop
+Seat 2: lilman629 collected ($2.38)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: JoeBlack_MS (button) folded before Flop (didn't bet)
+Seat 6: William_Gull (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257301016:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 4:53:32 WET [2025/01/07 23:53:32 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 4: b2k-Snick ($116.04 in chips) 
+Seat 5: Unicorneagle ($79.43 in chips) 
+Unicorneagle: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Unicorneagle: raises $2 to $3
+b2k-Snick: folds 
+Uncalled bet ($2) returned to Unicorneagle
+Unicorneagle collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: Unicorneagle (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254257302758:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 4:53:50 WET [2025/01/07 23:53:50 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 4: b2k-Snick ($115.04 in chips) 
+Seat 5: Unicorneagle ($80.43 in chips) 
+b2k-Snick: posts small blind $0.50
+Unicorneagle: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Uncalled bet ($0.50) returned to Unicorneagle
+Unicorneagle collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: b2k-Snick (button) (small blind) folded before Flop
+Seat 5: Unicorneagle (big blind) collected ($1)
+
+
+
+PokerStars Hand #254257303589:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 4:53:59 WET [2025/01/07 23:53:59 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 4: b2k-Snick ($114.54 in chips) 
+Seat 5: Unicorneagle ($80.93 in chips) 
+Unicorneagle: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Unicorneagle: raises $2 to $3
+b2k-Snick: folds 
+Uncalled bet ($2) returned to Unicorneagle
+Unicorneagle collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: Unicorneagle (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254257304594:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 4:54:09 WET [2025/01/07 23:54:09 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 4: b2k-Snick ($113.54 in chips) 
+Seat 5: Unicorneagle ($81.93 in chips) 
+b2k-Snick: posts small blind $0.50
+Unicorneagle: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Uncalled bet ($0.50) returned to Unicorneagle
+Unicorneagle collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: b2k-Snick (button) (small blind) folded before Flop
+Seat 5: Unicorneagle (big blind) collected ($1)
+
+
+
+PokerStars Hand #254257305456:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 4:54:19 WET [2025/01/07 23:54:19 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 4: b2k-Snick ($113.04 in chips) 
+Seat 5: Unicorneagle ($82.43 in chips) 
+Unicorneagle: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Unicorneagle: raises $2 to $3
+b2k-Snick: raises $7 to $10
+Unicorneagle: folds 
+Uncalled bet ($7) returned to b2k-Snick
+b2k-Snick collected $6 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: b2k-Snick (big blind) collected ($6)
+Seat 5: Unicorneagle (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257306747:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 4:54:33 WET [2025/01/07 23:54:33 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 4: b2k-Snick ($116.04 in chips) 
+Seat 5: Unicorneagle ($79.43 in chips) 
+b2k-Snick: posts small blind $0.50
+Unicorneagle: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Uncalled bet ($0.50) returned to Unicorneagle
+Unicorneagle collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: b2k-Snick (button) (small blind) folded before Flop
+Seat 5: Unicorneagle (big blind) collected ($1)
+
+
+
+PokerStars Hand #254257307482:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 4:54:41 WET [2025/01/07 23:54:41 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 4: b2k-Snick ($115.54 in chips) 
+Seat 5: Unicorneagle ($79.93 in chips) 
+Unicorneagle: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Unicorneagle: raises $2 to $3
+b2k-Snick: calls $2
+*** FLOP *** [Td 5d 8h]
+b2k-Snick: checks 
+Unicorneagle: bets $2.85
+b2k-Snick: folds 
+Uncalled bet ($2.85) returned to Unicorneagle
+Unicorneagle collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Td 5d 8h]
+Seat 4: b2k-Snick (big blind) folded on the Flop
+Seat 5: Unicorneagle (button) (small blind) collected ($5.70)
+
+
+
+PokerStars Hand #254257309300:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 4:55:00 WET [2025/01/07 23:55:00 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 4: b2k-Snick ($112.54 in chips) 
+Seat 5: Unicorneagle ($82.63 in chips) 
+b2k-Snick: posts small blind $0.50
+Unicorneagle: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+Unicorneagle: calls $1.50
+*** FLOP *** [5c Ks 8c]
+Unicorneagle: checks 
+b2k-Snick: checks 
+*** TURN *** [5c Ks 8c] [6d]
+Unicorneagle: checks 
+b2k-Snick: checks 
+*** RIVER *** [5c Ks 8c 6d] [As]
+Unicorneagle: checks 
+b2k-Snick: checks 
+*** SHOW DOWN ***
+Unicorneagle: shows [2d Jd] (high card Ace)
+b2k-Snick: shows [9d 5d] (a pair of Fives)
+b2k-Snick collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [5c Ks 8c 6d As]
+Seat 4: b2k-Snick (button) (small blind) showed [9d 5d] and won ($4.75) with a pair of Fives
+Seat 5: Unicorneagle (big blind) showed [2d Jd] and lost with high card Ace
+
+
+
+PokerStars Hand #254257311973:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 4:55:33 WET [2025/01/07 23:55:33 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 4: b2k-Snick ($114.79 in chips) 
+Seat 5: Unicorneagle ($80.13 in chips) 
+Unicorneagle: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Unicorneagle: raises $2 to $3
+b2k-Snick: folds 
+Uncalled bet ($2) returned to Unicorneagle
+Unicorneagle collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: Unicorneagle (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254257313916:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 4:55:59 WET [2025/01/07 23:55:59 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 4: b2k-Snick ($113.79 in chips) 
+Seat 5: Unicorneagle ($81.13 in chips) 
+b2k-Snick: posts small blind $0.50
+Unicorneagle: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+Unicorneagle: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: b2k-Snick (button) (small blind) collected ($2)
+Seat 5: Unicorneagle (big blind) folded before Flop
+
+
+
+PokerStars Hand #254257314585:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 4:56:08 WET [2025/01/07 23:56:08 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 4: b2k-Snick ($114.79 in chips) 
+Seat 5: Unicorneagle ($80.13 in chips) 
+Unicorneagle: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Unicorneagle: raises $2 to $3
+b2k-Snick: raises $7 to $10
+Unicorneagle: raises $15 to $25
+b2k-Snick: raises $89.79 to $114.79 and is all-in
+Unicorneagle: calls $55.13 and is all-in
+Uncalled bet ($34.66) returned to b2k-Snick
+*** FLOP *** [Jd 5c Qs]
+*** TURN *** [Jd 5c Qs] [4h]
+*** RIVER *** [Jd 5c Qs 4h] [7h]
+*** SHOW DOWN ***
+b2k-Snick: shows [Kh Ks] (a pair of Kings)
+Unicorneagle: shows [Ts As] (high card Ace)
+b2k-Snick collected $159.26 from pot
+*** SUMMARY ***
+Total pot $160.26 | Rake $1 
+Board [Jd 5c Qs 4h 7h]
+Seat 4: b2k-Snick (big blind) showed [Kh Ks] and won ($159.26) with a pair of Kings
+Seat 5: Unicorneagle (button) (small blind) showed [Ts As] and lost with high card Ace
+
+
+
+PokerStars Hand #254257341322:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 5:01:53 WET [2025/01/08 0:01:53 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 1: Felete1981 ($10 in chips) 
+Seat 4: b2k-Snick ($193.92 in chips) 
+Felete1981: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Felete1981: folds 
+Uncalled bet ($0.50) returned to b2k-Snick
+b2k-Snick collected $1 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Felete1981 (button) (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) collected ($1)
+
+
+
+PokerStars Hand #254257342005:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 5:02:00 WET [2025/01/08 0:02:00 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: Felete1981 ($9.50 in chips) 
+Seat 4: b2k-Snick ($194.42 in chips) 
+b2k-Snick: posts small blind $0.50
+Felete1981: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+Felete1981: calls $1.50
+*** FLOP *** [Tc 6s 8h]
+Felete1981: checks 
+b2k-Snick: checks 
+*** TURN *** [Tc 6s 8h] [4s]
+Felete1981: bets $2
+b2k-Snick: folds 
+Uncalled bet ($2) returned to Felete1981
+Felete1981 collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Tc 6s 8h 4s]
+Seat 1: Felete1981 (big blind) collected ($4.75)
+Seat 4: b2k-Snick (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254257344720:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 5:02:32 WET [2025/01/08 0:02:32 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 1: Felete1981 ($11.75 in chips) 
+Seat 4: b2k-Snick ($191.92 in chips) 
+Felete1981: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Felete1981: calls $0.50
+b2k-Snick: checks 
+*** FLOP *** [5h 4c 6h]
+b2k-Snick: checks 
+Felete1981: checks 
+*** TURN *** [5h 4c 6h] [7h]
+b2k-Snick: checks 
+Felete1981: bets $1
+b2k-Snick: calls $1
+*** RIVER *** [5h 4c 6h 7h] [5d]
+b2k-Snick: checks 
+Felete1981: checks 
+*** SHOW DOWN ***
+b2k-Snick: shows [Qc 7d] (two pair, Sevens and Fives)
+Felete1981: shows [Ts 3s] (a straight, Three to Seven)
+Felete1981 collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [5h 4c 6h 7h 5d]
+Seat 1: Felete1981 (button) (small blind) showed [Ts 3s] and won ($3.80) with a straight, Three to Seven
+Seat 4: b2k-Snick (big blind) showed [Qc 7d] and lost with two pair, Sevens and Fives
+
+
+
+PokerStars Hand #254257347956:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 5:03:09 WET [2025/01/08 0:03:09 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: Felete1981 ($13.55 in chips) 
+Seat 4: b2k-Snick ($189.92 in chips) 
+b2k-Snick: posts small blind $0.50
+Felete1981: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1 to $2
+Felete1981: raises $11.55 to $13.55 and is all-in
+b2k-Snick: folds 
+Uncalled bet ($11.55) returned to Felete1981
+Felete1981 collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: Felete1981 (big blind) collected ($4)
+Seat 4: b2k-Snick (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257349103:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 5:03:22 WET [2025/01/08 0:03:22 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 1: Felete1981 ($15.55 in chips) 
+Seat 4: b2k-Snick ($187.92 in chips) 
+Felete1981: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Felete1981: calls $0.50
+b2k-Snick: checks 
+*** FLOP *** [2d Th Qh]
+b2k-Snick: checks 
+Felete1981: bets $1
+b2k-Snick: folds 
+Uncalled bet ($1) returned to Felete1981
+Felete1981 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [2d Th Qh]
+Seat 1: Felete1981 (button) (small blind) collected ($1.90)
+Seat 4: b2k-Snick (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254257350869:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 5:03:42 WET [2025/01/08 0:03:42 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: Felete1981 ($16.45 in chips) 
+Seat 4: b2k-Snick ($186.92 in chips) 
+b2k-Snick: posts small blind $0.50
+Felete1981: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1 to $2
+Felete1981: folds 
+Uncalled bet ($1) returned to b2k-Snick
+Felete1981 leaves the table
+b2k-Snick collected $2 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Felete1981 (big blind) folded before Flop
+Seat 4: b2k-Snick (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254257719321:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:19:28 WET [2025/01/08 1:19:28 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($187.92 in chips) 
+Seat 6: snnoowflake ($100 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+snnoowflake: raises $1.50 to $2.50
+blistein: folds 
+b2k-Snick: folds 
+Uncalled bet ($1.50) returned to snnoowflake
+snnoowflake collected $2.50 from pot
+snnoowflake: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 6: snnoowflake (button) collected ($2.50)
+
+
+
+PokerStars Hand #254257720627:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:19:45 WET [2025/01/08 1:19:45 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($186.92 in chips) 
+Seat 6: snnoowflake ($101.50 in chips) 
+b2k-Snick: posts small blind $0.50
+snnoowflake: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.50 to $2.50
+b2k-Snick: folds 
+snnoowflake: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: blistein (button) collected ($2.50)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 6: snnoowflake (big blind) folded before Flop
+
+
+
+PokerStars Hand #254257722185:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:20:07 WET [2025/01/08 1:20:07 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: blistein ($101.50 in chips) 
+Seat 4: b2k-Snick ($186.42 in chips) 
+Seat 6: snnoowflake ($100.50 in chips) 
+snnoowflake: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+snnoowflake: raises $2 to $3
+blistein: folds 
+Uncalled bet ($2) returned to snnoowflake
+snnoowflake collected $2 from pot
+snnoowflake: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: blistein (big blind) folded before Flop
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 6: snnoowflake (small blind) collected ($2)
+
+
+
+PokerStars Hand #254257723183:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:20:20 WET [2025/01/08 1:20:20 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 1: blistein ($100.50 in chips) 
+Seat 4: b2k-Snick ($186.42 in chips) 
+Seat 6: snnoowflake ($101.50 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+snnoowflake: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to b2k-Snick
+b2k-Snick collected $1 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) collected ($1)
+Seat 6: snnoowflake (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257724114:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:20:32 WET [2025/01/08 1:20:32 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 1: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($186.92 in chips) 
+Seat 6: snnoowflake ($101.50 in chips) 
+b2k-Snick: posts small blind $0.50
+snnoowflake: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: folds 
+Uncalled bet ($0.50) returned to snnoowflake
+snnoowflake collected $1 from pot
+snnoowflake: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: blistein (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 6: snnoowflake (big blind) collected ($1)
+
+
+
+PokerStars Hand #254257724964:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:20:45 WET [2025/01/08 1:20:45 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 1: blistein ($100 in chips) is sitting out
+Seat 4: b2k-Snick ($186.42 in chips) 
+Seat 6: snnoowflake ($102 in chips) 
+snnoowflake: posts small blind $0.50
+blistein: is sitting out 
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+blistein leaves the table
+snnoowflake: folds 
+Uncalled bet ($0.50) returned to b2k-Snick
+b2k-Snick collected $1 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: blistein
+Seat 4: b2k-Snick (big blind) collected ($1)
+Seat 6: snnoowflake (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257725874:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:20:56 WET [2025/01/08 1:20:56 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 4: b2k-Snick ($186.92 in chips) 
+Seat 6: snnoowflake ($101.50 in chips) 
+b2k-Snick: posts small blind $0.50
+snnoowflake: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Uncalled bet ($0.50) returned to snnoowflake
+snnoowflake collected $1 from pot
+snnoowflake: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: b2k-Snick (button) (small blind) folded before Flop
+Seat 6: snnoowflake (big blind) collected ($1)
+
+
+
+PokerStars Hand #254257726421:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:21:04 WET [2025/01/08 1:21:04 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 4: b2k-Snick ($186.42 in chips) 
+Seat 6: snnoowflake ($102 in chips) 
+snnoowflake: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+snnoowflake: folds 
+Uncalled bet ($0.50) returned to b2k-Snick
+b2k-Snick collected $1 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: b2k-Snick (big blind) collected ($1)
+Seat 6: snnoowflake (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257727203:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:21:14 WET [2025/01/08 1:21:14 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 4: b2k-Snick ($186.92 in chips) 
+Seat 6: snnoowflake ($101.50 in chips) 
+b2k-Snick: posts small blind $0.50
+snnoowflake: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+snnoowflake: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: b2k-Snick (button) (small blind) collected ($2)
+Seat 6: snnoowflake (big blind) folded before Flop
+
+
+
+PokerStars Hand #254257728087:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:21:26 WET [2025/01/08 1:21:26 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 4: b2k-Snick ($187.92 in chips) 
+Seat 6: snnoowflake ($100.50 in chips) 
+snnoowflake: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+snnoowflake: raises $1.50 to $2.50
+b2k-Snick: folds 
+Uncalled bet ($1.50) returned to snnoowflake
+snnoowflake collected $2 from pot
+snnoowflake: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 6: snnoowflake (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254257729392:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:21:44 WET [2025/01/08 1:21:44 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 4: b2k-Snick ($186.92 in chips) 
+Seat 6: snnoowflake ($101.50 in chips) 
+b2k-Snick: posts small blind $0.50
+snnoowflake: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+snnoowflake: raises $7.50 to $10
+b2k-Snick: calls $7.50
+*** FLOP *** [5d Qd 2d]
+snnoowflake: bets $5.32
+b2k-Snick: calls $5.32
+*** TURN *** [5d Qd 2d] [2s]
+snnoowflake: checks 
+b2k-Snick: checks 
+*** RIVER *** [5d Qd 2d 2s] [5s]
+snnoowflake: checks 
+b2k-Snick: bets $24.50
+blistein joins the table at seat #3 
+lilman629 joins the table at seat #2 
+lilman629 is disconnected 
+snnoowflake: folds 
+Uncalled bet ($24.50) returned to b2k-Snick
+ptolejmus joins the table at seat #5 
+b2k-Snick collected $29.64 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.64 | Rake $1 
+Board [5d Qd 2d 2s 5s]
+Seat 4: b2k-Snick (button) (small blind) collected ($29.64)
+Seat 6: snnoowflake (big blind) folded on the River
+
+
+
+PokerStars Hand #254257734865:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:22:58 WET [2025/01/08 1:22:58 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 2: lilman629 ($33.84 in chips) is sitting out
+Seat 3: blistein ($100 in chips) is sitting out
+Seat 4: b2k-Snick ($201.24 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+Seat 6: snnoowflake ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+snnoowflake: folds 
+b2k-Snick: folds 
+Uncalled bet ($0.50) returned to ptolejmus
+ptolejmus collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: lilman629
+Seat 3: blistein
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: ptolejmus (big blind) collected ($1)
+Seat 6: snnoowflake (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257735519:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:23:07 WET [2025/01/08 1:23:07 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 2: lilman629 ($33.84 in chips) is sitting out
+Seat 3: blistein ($100 in chips) is sitting out
+Seat 4: b2k-Snick ($200.74 in chips) 
+Seat 5: ptolejmus ($10.50 in chips) 
+Seat 6: snnoowflake ($100 in chips) 
+ptolejmus: posts small blind $0.50
+snnoowflake: posts big blind $1
+lilman629: sits out 
+blistein: sits out 
+*** HOLE CARDS ***
+b2k-Snick: folds 
+ptolejmus: folds 
+Uncalled bet ($0.50) returned to snnoowflake
+snnoowflake collected $1 from pot
+snnoowflake: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: lilman629
+Seat 3: blistein
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: ptolejmus (small blind) folded before Flop
+Seat 6: snnoowflake (big blind) collected ($1)
+
+
+
+PokerStars Hand #254257736378:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:23:18 WET [2025/01/08 1:23:18 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 3: blistein ($100 in chips) is sitting out
+Seat 2: lilman629 ($33.84 in chips) 
+Seat 4: b2k-Snick ($200.74 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+Seat 6: snnoowflake ($100.50 in chips) 
+snnoowflake: posts small blind $0.50
+lilman629: posts big blind $1
+blistein: sits out 
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+ptolejmus: folds 
+snnoowflake: folds 
+lilman629: calls $1.50
+*** FLOP *** [Ad 6c Ah]
+ru_ruu_ru joins the table at seat #1 
+lilman629: checks 
+b2k-Snick: bets $1.15
+lilman629: raises $1.85 to $3
+b2k-Snick: folds 
+Uncalled bet ($1.85) returned to lilman629
+lilman629 collected $7.41 from pot
+*** SUMMARY ***
+Total pot $7.80 | Rake $0.39 
+Board [Ad 6c Ah]
+Seat 3: blistein
+Seat 2: lilman629 (big blind) collected ($7.41)
+Seat 4: b2k-Snick folded on the Flop
+Seat 5: ptolejmus (button) folded before Flop (didn't bet)
+Seat 6: snnoowflake (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257738766:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:23:50 WET [2025/01/08 1:23:50 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($100 in chips) is sitting out
+Seat 2: lilman629 ($37.60 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($197.09 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+Seat 6: snnoowflake ($100 in chips) 
+lilman629: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+ptolejmus: folds 
+snnoowflake: folds 
+lilman629: calls $0.50
+blistein: checks 
+*** FLOP *** [7d 6d Jd]
+lilman629: bets $1
+blistein: calls $1
+*** TURN *** [7d 6d Jd] [7h]
+lilman629: bets $2
+blistein: raises $5 to $7
+lilman629: folds 
+Uncalled bet ($5) returned to blistein
+blistein collected $7.60 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [7d 6d Jd 7h]
+Seat 1: ru_ruu_ru
+Seat 2: lilman629 (small blind) folded on the Turn
+Seat 3: blistein (big blind) collected ($7.60)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: ptolejmus folded before Flop (didn't bet)
+Seat 6: snnoowflake (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257742582:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:24:43 WET [2025/01/08 1:24:43 ET]
+Table 'Irmintraud II' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($100 in chips) is sitting out
+Seat 2: lilman629 ($33.60 in chips) 
+Seat 3: blistein ($103.60 in chips) 
+Seat 4: b2k-Snick ($197.09 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+Seat 6: snnoowflake ($100 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+ru_ruu_ru: sits out 
+*** HOLE CARDS ***
+ptolejmus: folds 
+snnoowflake: folds 
+lilman629: calls $1
+blistein: folds 
+b2k-Snick: checks 
+*** FLOP *** [6c Ac 3h]
+b2k-Snick: checks 
+snnoowflake leaves the table
+lilman629: checks 
+*** TURN *** [6c Ac 3h] [8c]
+b2k-Snick: checks 
+lilman629: checks 
+*** RIVER *** [6c Ac 3h 8c] [3s]
+b2k-Snick: checks 
+lilman629: checks 
+*** SHOW DOWN ***
+b2k-Snick: shows [2s 4h] (a pair of Threes)
+lilman629: shows [7c Jh] (a pair of Threes - Ace+Jack kicker)
+lilman629 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [6c Ac 3h 8c 3s]
+Seat 1: ru_ruu_ru
+Seat 2: lilman629 (button) showed [7c Jh] and won ($2.38) with a pair of Threes
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) showed [2s 4h] and lost with a pair of Threes
+Seat 5: ptolejmus folded before Flop (didn't bet)
+Seat 6: snnoowflake folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257744526:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:25:09 WET [2025/01/08 1:25:09 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($100 in chips) is sitting out
+Seat 2: lilman629 ($34.98 in chips) 
+Seat 3: blistein ($103.10 in chips) 
+Seat 4: b2k-Snick ($196.09 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+b2k-Snick: posts small blind $0.50
+ptolejmus: posts big blind $1
+ru_ruu_ru: sits out 
+*** HOLE CARDS ***
+lilman629: folds 
+blistein: folds 
+b2k-Snick: folds 
+Uncalled bet ($0.50) returned to ptolejmus
+ptolejmus collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ru_ruu_ru
+Seat 2: lilman629 folded before Flop (didn't bet)
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: ptolejmus (big blind) collected ($1)
+
+
+
+PokerStars Hand #254257745460:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:25:22 WET [2025/01/08 1:25:22 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: lilman629 ($34.98 in chips) 
+Seat 3: blistein ($103.10 in chips) 
+Seat 4: b2k-Snick ($195.59 in chips) 
+Seat 5: ptolejmus ($10.50 in chips) 
+ptolejmus: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: raises $5 to $7
+ptolejmus: folds 
+ru_ruu_ru: folds 
+lilman629: calls $5
+*** FLOP *** [7d Tc 5s]
+lilman629: checks 
+b2k-Snick: checks 
+*** TURN *** [7d Tc 5s] [3h]
+lilman629: checks 
+b2k-Snick: checks 
+*** RIVER *** [7d Tc 5s 3h] [Js]
+lilman629: bets $5
+b2k-Snick: folds 
+Uncalled bet ($5) returned to lilman629
+lilman629 collected $14.72 from pot
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.78 
+Board [7d Tc 5s 3h Js]
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 2: lilman629 collected ($14.72)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded on the River
+Seat 5: ptolejmus (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257749591:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:26:19 WET [2025/01/08 1:26:19 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: lilman629 ($42.70 in chips) 
+Seat 3: blistein ($103.10 in chips) 
+Seat 4: b2k-Snick ($188.59 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+ru_ruu_ru: posts small blind $0.50
+lilman629: posts big blind $1
+*** HOLE CARDS ***
+blistein: raises $1.20 to $2.20
+b2k-Snick: folds 
+ptolejmus: folds 
+ru_ruu_ru: folds 
+lilman629: calls $1.20
+*** FLOP *** [2s Ad 9h]
+lilman629: checks 
+blistein: checks 
+*** TURN *** [2s Ad 9h] [8d]
+lilman629: checks 
+blistein: bets $6.99
+lilman629: folds 
+Uncalled bet ($6.99) returned to blistein
+blistein collected $4.66 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [2s Ad 9h 8d]
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: lilman629 (big blind) folded on the Turn
+Seat 3: blistein collected ($4.66)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: ptolejmus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257752403:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:26:58 WET [2025/01/08 1:26:58 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: lilman629 ($40.50 in chips) 
+Seat 3: blistein ($105.56 in chips) 
+Seat 4: b2k-Snick ($188.59 in chips) 
+Seat 5: ptolejmus ($10 in chips) 
+lilman629: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+ptolejmus: raises $9 to $10 and is all-in
+ru_ruu_ru: folds 
+lilman629: folds 
+blistein: folds 
+Uncalled bet ($9) returned to ptolejmus
+ptolejmus collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru (button) folded before Flop (didn't bet)
+Seat 2: lilman629 (small blind) folded before Flop
+Seat 3: blistein (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: ptolejmus collected ($2.50)
+
+
+
+PokerStars Hand #254257753909:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:27:18 WET [2025/01/08 1:27:18 ET]
+Table 'Irmintraud II' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: lilman629 ($40 in chips) 
+Seat 3: blistein ($104.56 in chips) 
+Seat 4: b2k-Snick ($188.59 in chips) 
+Seat 5: ptolejmus ($11.50 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: raises $10.50 to $11.50 and is all-in
+ru_ruu_ru: folds 
+lilman629: calls $11.50
+blistein: folds 
+b2k-Snick: folds 
+*** FLOP *** [6h 8h 9h]
+*** TURN *** [6h 8h 9h] [5h]
+*** RIVER *** [6h 8h 9h 5h] [4h]
+*** SHOW DOWN ***
+ptolejmus: shows [7d 7h] (a straight flush, Five to Nine)
+lilman629: shows [Ts Th] (a flush, Ten high)
+ptolejmus collected $23.28 from pot
+*** SUMMARY ***
+Total pot $24.50 | Rake $1.22 
+Board [6h 8h 9h 5h 4h]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 (button) showed [Ts Th] and lost with a flush, Ten high
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: ptolejmus showed [7d 7h] and won ($23.28) with a straight flush, Five to Nine
+
+
+
+PokerStars Hand #254257755774:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:27:43 WET [2025/01/08 1:27:43 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: lilman629 ($28.50 in chips) 
+Seat 3: blistein ($104.06 in chips) 
+Seat 4: b2k-Snick ($187.59 in chips) 
+Seat 5: ptolejmus ($23.28 in chips) 
+b2k-Snick: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: folds 
+danuuutz joins the table at seat #6 
+ptolejmus: calls $1
+*** FLOP *** [7d 8s Th]
+ptolejmus: checks 
+lilman629: bets $3
+ptolejmus: folds 
+Uncalled bet ($3) returned to lilman629
+lilman629 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [7d 8s Th]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 collected ($4.28)
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: ptolejmus (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254257757433:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:28:07 WET [2025/01/08 1:28:07 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: lilman629 ($30.78 in chips) 
+Seat 3: blistein ($104.06 in chips) 
+Seat 4: b2k-Snick ($187.09 in chips) 
+Seat 5: ptolejmus ($21.28 in chips) 
+Seat 6: danuuutz ($100 in chips) 
+ptolejmus: posts small blind $0.50
+danuuutz: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: raises $1.20 to $2.20
+lilman629: calls $2.20
+blistein: folds 
+b2k-Snick: folds 
+ptolejmus: folds 
+danuuutz: folds 
+*** FLOP *** [9d 5h 5s]
+ru_ruu_ru: bets $3.70
+lilman629: calls $3.70
+*** TURN *** [9d 5h 5s] [6s]
+ru_ruu_ru: bets $9.48
+lilman629: calls $9.48
+*** RIVER *** [9d 5h 5s 6s] [Qs]
+ru_ruu_ru: bets $20.23
+lilman629: calls $15.40 and is all-in
+Uncalled bet ($4.83) returned to ru_ruu_ru
+*** SHOW DOWN ***
+ru_ruu_ru: shows [Jc Js] (two pair, Jacks and Fives)
+lilman629: shows [9h Ac] (two pair, Nines and Fives)
+ru_ruu_ru collected $60.56 from pot
+*** SUMMARY ***
+Total pot $63.06 | Rake $2.50 
+Board [9d 5h 5s 6s Qs]
+Seat 1: ru_ruu_ru showed [Jc Js] and won ($60.56) with two pair, Jacks and Fives
+Seat 2: lilman629 showed [9h Ac] and lost with two pair, Nines and Fives
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: ptolejmus (small blind) folded before Flop
+Seat 6: danuuutz (big blind) folded before Flop
+
+
+
+PokerStars Hand #254257760273:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:28:46 WET [2025/01/08 1:28:46 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 2: lilman629 ($0 in chips) is sitting out
+Seat 1: ru_ruu_ru ($129.78 in chips) 
+Seat 3: blistein ($104.06 in chips) 
+Seat 4: b2k-Snick ($187.09 in chips) 
+Seat 5: ptolejmus ($20.78 in chips) 
+Seat 6: danuuutz ($100 in chips) 
+danuuutz: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: folds 
+ptolejmus: folds 
+danuuutz: folds 
+Uncalled bet ($0.50) returned to ru_ruu_ru
+ru_ruu_ru collected $1 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: lilman629
+Seat 1: ru_ruu_ru (big blind) collected ($1)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: ptolejmus (button) folded before Flop (didn't bet)
+Seat 6: danuuutz (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257761108:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:28:59 WET [2025/01/08 1:28:59 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 2: lilman629 ($0 in chips) is sitting out
+Seat 1: ru_ruu_ru ($130.28 in chips) 
+Seat 3: blistein ($104.06 in chips) 
+Seat 4: b2k-Snick ($187.09 in chips) 
+Seat 5: ptolejmus ($20.78 in chips) 
+Seat 6: danuuutz ($100 in chips) 
+ru_ruu_ru: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.10 to $2.10
+ptolejmus: raises $18.68 to $20.78 and is all-in
+danuuutz: folds 
+ru_ruu_ru: folds 
+blistein: folds 
+b2k-Snick: folds 
+Uncalled bet ($18.68) returned to ptolejmus
+ptolejmus collected $5.70 from pot
+*** SUMMARY ***
+Total pot $5.70 | Rake $0 
+Seat 2: lilman629
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 3: blistein (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop
+Seat 5: ptolejmus collected ($5.70)
+Seat 6: danuuutz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257762791:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:29:22 WET [2025/01/08 1:29:22 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 2: lilman629 ($0 in chips) is sitting out
+Seat 1: ru_ruu_ru ($129.78 in chips) 
+Seat 3: blistein ($103.06 in chips) 
+Seat 4: b2k-Snick ($184.99 in chips) 
+Seat 5: ptolejmus ($24.38 in chips) 
+Seat 6: danuuutz ($100 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+danuuutz: folds 
+ru_ruu_ru: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to b2k-Snick
+ptolejmus leaves the table
+b2k-Snick collected $1 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: lilman629
+Seat 1: ru_ruu_ru (button) folded before Flop (didn't bet)
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) collected ($1)
+Seat 5: ptolejmus folded before Flop (didn't bet)
+Seat 6: danuuutz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257763498:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:29:32 WET [2025/01/08 1:29:32 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 2: lilman629 ($0 in chips) is sitting out
+Seat 6: danuuutz ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($129.78 in chips) 
+Seat 3: blistein ($102.56 in chips) 
+Seat 4: b2k-Snick ($185.49 in chips) 
+b2k-Snick: posts small blind $0.50
+danuuutz: is sitting out 
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: folds 
+Uncalled bet ($0.50) returned to ru_ruu_ru
+ru_ruu_ru collected $1 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: lilman629
+Seat 6: danuuutz
+Seat 1: ru_ruu_ru (big blind) collected ($1)
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257764018:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:29:39 WET [2025/01/08 1:29:39 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 2: lilman629 ($0 in chips) is sitting out
+Seat 6: danuuutz ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($130.28 in chips) 
+Seat 3: blistein ($102.56 in chips) 
+Seat 4: b2k-Snick ($184.99 in chips) 
+ru_ruu_ru: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.50 to $2.50
+Cougars001 joins the table at seat #5 
+danuuutz leaves the table
+Cougars001 is disconnected 
+ru_ruu_ru: raises $9.50 to $12
+blistein: folds 
+lilman629 is disconnected 
+reeqar joins the table at seat #6 
+b2k-Snick: raises $12 to $24
+ru_ruu_ru: calls $12
+*** FLOP *** [2d 4c 9s]
+ru_ruu_ru: checks 
+b2k-Snick: bets $11
+ru_ruu_ru: calls $11
+*** TURN *** [2d 4c 9s] [Ah]
+ru_ruu_ru: checks 
+b2k-Snick: checks 
+*** RIVER *** [2d 4c 9s Ah] [Ac]
+lilman629 is disconnected 
+ru_ruu_ru: bets $95.28 and is all-in
+b2k-Snick: calls $95.28
+*** SHOW DOWN ***
+ru_ruu_ru: shows [9d Kd] (two pair, Aces and Nines)
+b2k-Snick: shows [6s As] (three of a kind, Aces)
+b2k-Snick collected $260.56 from pot
+*** SUMMARY ***
+Total pot $261.56 | Rake $1 
+Board [2d 4c 9s Ah Ac]
+Seat 2: lilman629
+Seat 6: danuuutz
+Seat 1: ru_ruu_ru (small blind) showed [9d Kd] and lost with two pair, Aces and Nines
+Seat 3: blistein (big blind) folded before Flop
+Seat 4: b2k-Snick (button) showed [6s As] and won ($260.56) with three of a kind, Aces
+
+
+
+PokerStars Hand #254257773660:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:31:54 WET [2025/01/08 1:31:54 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 2: lilman629 ($0 in chips) is sitting out
+Seat 6: reeqar ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 3: blistein ($101.56 in chips) 
+Seat 4: b2k-Snick ($315.27 in chips) 
+Seat 5: Cougars001 ($80 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+Cougars001: posts big blind $1
+reeqar: sits out 
+*** HOLE CARDS ***
+Cougars001: checks 
+ru_ruu_ru: raises $3 to $4
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: folds 
+Uncalled bet ($3) returned to ru_ruu_ru
+ru_ruu_ru collected $3.50 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 2: lilman629
+Seat 6: reeqar
+Seat 1: ru_ruu_ru (button) collected ($3.50)
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: Cougars001 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257774812:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:32:10 WET [2025/01/08 1:32:10 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 2: lilman629 ($0 in chips) is sitting out
+Seat 6: reeqar ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($102.50 in chips) 
+Seat 3: blistein ($101.06 in chips) 
+Seat 4: b2k-Snick ($314.27 in chips) 
+Seat 5: Cougars001 ($79 in chips) 
+b2k-Snick: posts small blind $0.50
+Cougars001: posts big blind $1
+reeqar: sits out 
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+blistein: folds 
+b2k-Snick: folds 
+Uncalled bet ($0.50) returned to Cougars001
+Cougars001 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: lilman629
+Seat 6: reeqar
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: Cougars001 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254257776373:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:32:31 WET [2025/01/08 1:32:31 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 2: lilman629 ($0 in chips) is sitting out
+Seat 1: ru_ruu_ru ($102.50 in chips) 
+Seat 3: blistein ($101.06 in chips) 
+Seat 4: b2k-Snick ($313.77 in chips) 
+Seat 5: Cougars001 ($79.50 in chips) 
+Seat 6: reeqar ($100 in chips) 
+Cougars001: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: folds 
+blistein: folds 
+b2k-Snick: raises $1.50 to $2.50
+Cougars001: folds 
+reeqar: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2.50 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: lilman629
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) collected ($2.50)
+Seat 5: Cougars001 (small blind) folded before Flop
+Seat 6: reeqar (big blind) folded before Flop
+
+
+
+PokerStars Hand #254257778125:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:32:56 WET [2025/01/08 1:32:56 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 2: lilman629 ($0 in chips) is sitting out
+Seat 1: ru_ruu_ru ($102.50 in chips) 
+Seat 3: blistein ($101.06 in chips) 
+Seat 4: b2k-Snick ($315.27 in chips) 
+Seat 5: Cougars001 ($79 in chips) 
+Seat 6: reeqar ($100 in chips) 
+reeqar: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: raises $1.50 to $2.50
+Cougars001: folds 
+reeqar: folds 
+ru_ruu_ru: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2.50 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: lilman629
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick collected ($2.50)
+Seat 5: Cougars001 (button) folded before Flop (didn't bet)
+Seat 6: reeqar (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257779158:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:33:10 WET [2025/01/08 1:33:10 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 2: lilman629 ($0 in chips) is sitting out
+Seat 1: ru_ruu_ru ($101.50 in chips) 
+Seat 3: blistein ($101.06 in chips) 
+Seat 4: b2k-Snick ($316.77 in chips) 
+Seat 5: Cougars001 ($79 in chips) 
+Seat 6: reeqar ($100 in chips) 
+ru_ruu_ru: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Cougars001: folds 
+reeqar: raises $1.50 to $2.50
+ru_ruu_ru: folds 
+blistein: raises $10.50 to $13
+reeqar: raises $14 to $27
+Cougars001 is disconnected 
+blistein: calls $14
+*** FLOP *** [Jd Th 6d]
+blistein: checks 
+reeqar: bets $13
+blistein: calls $13
+*** TURN *** [Jd Th 6d] [5d]
+blistein: checks 
+reeqar: checks 
+*** RIVER *** [Jd Th 6d 5d] [7c]
+blistein: checks 
+reeqar: checks 
+*** SHOW DOWN ***
+blistein: shows [9c Tc] (a pair of Tens)
+reeqar: mucks hand 
+blistein collected $78 from pot
+*** SUMMARY ***
+Total pot $80.50 | Rake $2.50 
+Board [Jd Th 6d 5d 7c]
+Seat 2: lilman629
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 3: blistein (big blind) showed [9c Tc] and won ($78) with a pair of Tens
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: reeqar (button) mucked
+
+
+
+PokerStars Hand #254257789547:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:35:34 WET [2025/01/08 1:35:34 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 2: lilman629 ($33.82 in chips) is sitting out
+Seat 1: ru_ruu_ru ($101 in chips) 
+Seat 3: blistein ($139.06 in chips) 
+Seat 4: b2k-Snick ($316.77 in chips) 
+Seat 5: Cougars001 ($79 in chips) 
+Seat 6: reeqar ($100 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Cougars001: folds 
+reeqar: raises $1.50 to $2.50
+ru_ruu_ru: folds 
+blistein: folds 
+b2k-Snick: folds 
+Uncalled bet ($1.50) returned to reeqar
+reeqar collected $2.50 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: lilman629
+Seat 1: ru_ruu_ru (button) folded before Flop (didn't bet)
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: reeqar collected ($2.50)
+
+
+
+PokerStars Hand #254257790559:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:35:48 WET [2025/01/08 1:35:48 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 5: Cougars001 ($79 in chips) is sitting out
+Seat 6: reeqar ($101.50 in chips) is sitting out
+Seat 1: ru_ruu_ru ($101 in chips) 
+Seat 2: lilman629 ($33.82 in chips) 
+Seat 3: blistein ($138.56 in chips) 
+Seat 4: b2k-Snick ($315.77 in chips) 
+b2k-Snick: posts small blind $0.50
+Cougars001 has timed out
+Cougars001: is sitting out 
+reeqar: is sitting out 
+ru_ruu_ru: posts big blind $1
+lilman629: posts small & big blinds $1.50
+*** HOLE CARDS ***
+lilman629: checks 
+reeqar leaves the table
+Cougars001 is disconnected 
+blistein: raises $2.50 to $3.50
+b2k-Snick: folds 
+ru_ruu_ru: folds 
+lilman629: calls $2.50
+*** FLOP *** [2d 2c 8d]
+William_Gull joins the table at seat #6 
+lilman629: bets $3
+blistein: folds 
+Uncalled bet ($3) returned to lilman629
+lilman629 collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [2d 2c 8d]
+Seat 5: Cougars001
+Seat 6: reeqar
+Seat 1: ru_ruu_ru (big blind) folded before Flop
+Seat 2: lilman629 collected ($8.55)
+Seat 3: blistein (button) folded on the Flop
+Seat 4: b2k-Snick (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257793524:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:36:29 WET [2025/01/08 1:36:29 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 5: Cougars001 ($79 in chips) is sitting out
+Seat 6: William_Gull ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: lilman629 ($38.37 in chips) 
+Seat 3: blistein ($135.06 in chips) 
+Seat 4: b2k-Snick ($315.27 in chips) 
+ru_ruu_ru: posts small blind $0.50
+lilman629: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: raises $1.50 to $2.50
+ru_ruu_ru: folds 
+lilman629: calls $1.50
+*** FLOP *** [3c Td 3d]
+lilman629: bets $3
+b2k-Snick: folds 
+Uncalled bet ($3) returned to lilman629
+lilman629 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3c Td 3d]
+Seat 5: Cougars001
+Seat 6: William_Gull
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: lilman629 (big blind) collected ($5.22)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded on the Flop
+
+
+
+PokerStars Hand #254257795256:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:36:53 WET [2025/01/08 1:36:53 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 6: William_Gull ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($100 in chips) 
+Seat 2: lilman629 ($41.09 in chips) 
+Seat 3: blistein ($135.06 in chips) 
+Seat 4: b2k-Snick ($312.77 in chips) 
+Seat 5: Cougars001 ($79 in chips) 
+lilman629: posts small blind $0.50
+blistein: posts big blind $1
+Cougars001 is connected 
+Cougars001: posts small & big blinds $1.50
+William_Gull: sits out 
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Cougars001: checks 
+ru_ruu_ru: raises $3 to $4
+lilman629: calls $3.50
+blistein: raises $12 to $16
+Cougars001: folds 
+ru_ruu_ru: calls $12
+lilman629: calls $12
+*** FLOP *** [7d Kh 8d]
+lilman629: checks 
+blistein: checks 
+ru_ruu_ru: bets $23.51
+lilman629: folds 
+blistein: folds 
+Uncalled bet ($23.51) returned to ru_ruu_ru
+ru_ruu_ru collected $47.02 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $49.50 | Rake $2.48 
+Board [7d Kh 8d]
+Seat 6: William_Gull
+Seat 1: ru_ruu_ru (button) collected ($47.02)
+Seat 2: lilman629 (small blind) folded on the Flop
+Seat 3: blistein (big blind) folded on the Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Cougars001 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257799850:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:37:57 WET [2025/01/08 1:37:57 ET]
+Table 'Irmintraud II' 6-max Seat #2 is the button
+Seat 6: William_Gull ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($131.02 in chips) 
+Seat 2: lilman629 ($25.09 in chips) 
+Seat 3: blistein ($119.06 in chips) 
+Seat 4: b2k-Snick ($312.77 in chips) 
+Seat 5: Cougars001 ($77.50 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+William_Gull: sits out 
+*** HOLE CARDS ***
+Cougars001: calls $1
+ru_ruu_ru: raises $3 to $4
+lilman629: folds 
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: calls $3
+*** FLOP *** [5d Kc Jc]
+Cougars001: checks 
+ru_ruu_ru: checks 
+*** TURN *** [5d Kc Jc] [8s]
+Cougars001: bets $6
+ru_ruu_ru: calls $6
+*** RIVER *** [5d Kc Jc 8s] [Js]
+Cougars001: bets $10.21
+ru_ruu_ru: calls $10.21
+*** SHOW DOWN ***
+Cougars001: shows [9d Tc] (a pair of Jacks)
+ru_ruu_ru: shows [Ah 9s] (a pair of Jacks - Ace kicker)
+ru_ruu_ru collected $39.82 from pot
+*** SUMMARY ***
+Total pot $41.92 | Rake $2.10 
+Board [5d Kc Jc 8s Js]
+Seat 6: William_Gull
+Seat 1: ru_ruu_ru showed [Ah 9s] and won ($39.82) with a pair of Jacks
+Seat 2: lilman629 (button) folded before Flop (didn't bet)
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: Cougars001 showed [9d Tc] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254257803401:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:38:45 WET [2025/01/08 1:38:45 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 6: William_Gull ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($150.63 in chips) 
+Seat 2: lilman629 ($25.09 in chips) 
+Seat 3: blistein ($118.56 in chips) 
+Seat 4: b2k-Snick ($311.77 in chips) 
+Seat 5: Cougars001 ($57.29 in chips) 
+b2k-Snick: posts small blind $0.50
+Cougars001: posts big blind $1
+William_Gull: sits out 
+*** HOLE CARDS ***
+ru_ruu_ru: raises $1.20 to $2.20
+lilman629: folds 
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: folds 
+Uncalled bet ($1.20) returned to ru_ruu_ru
+ru_ruu_ru collected $2.50 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: William_Gull
+Seat 1: ru_ruu_ru collected ($2.50)
+Seat 2: lilman629 folded before Flop (didn't bet)
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: Cougars001 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254257804277:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:38:58 WET [2025/01/08 1:38:58 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($152.13 in chips) 
+Seat 2: lilman629 ($25.09 in chips) 
+Seat 3: blistein ($118.56 in chips) 
+Seat 4: b2k-Snick ($311.27 in chips) 
+Seat 5: Cougars001 ($56.29 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+Cougars001: posts small blind $0.50
+William_Gull: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: raises $1.20 to $2.20
+lilman629: folds 
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: folds 
+William_Gull: folds 
+Uncalled bet ($1.20) returned to ru_ruu_ru
+ru_ruu_ru collected $2.50 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ru_ruu_ru collected ($2.50)
+Seat 2: lilman629 folded before Flop (didn't bet)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: Cougars001 (small blind) folded before Flop
+Seat 6: William_Gull (big blind) folded before Flop
+
+
+
+PokerStars Hand #254257806044:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:39:22 WET [2025/01/08 1:39:22 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($153.63 in chips) 
+Seat 2: lilman629 ($25.09 in chips) 
+Seat 3: blistein ($118.56 in chips) 
+Seat 4: b2k-Snick ($311.27 in chips) 
+Seat 5: Cougars001 ($55.79 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+William_Gull: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+lilman629: calls $1
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: folds 
+William_Gull: folds 
+ru_ruu_ru: checks 
+*** FLOP *** [4s 2h Td]
+ru_ruu_ru: checks 
+lilman629: checks 
+*** TURN *** [4s 2h Td] [3d]
+ru_ruu_ru: checks 
+lilman629: checks 
+*** RIVER *** [4s 2h Td 3d] [4h]
+ru_ruu_ru: checks 
+lilman629: bets $1
+ru_ruu_ru: folds 
+Uncalled bet ($1) returned to lilman629
+lilman629 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [4s 2h Td 3d 4h]
+Seat 1: ru_ruu_ru (big blind) folded on the River
+Seat 2: lilman629 collected ($2.38)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Cougars001 (button) folded before Flop (didn't bet)
+Seat 6: William_Gull (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257808380:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:39:55 WET [2025/01/08 1:39:55 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($152.63 in chips) 
+Seat 2: lilman629 ($26.47 in chips) 
+Seat 3: blistein ($118.56 in chips) 
+Seat 4: b2k-Snick ($311.27 in chips) 
+Seat 5: Cougars001 ($55.79 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+ru_ruu_ru: posts small blind $0.50
+lilman629: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: raises $1.50 to $2.50
+Cougars001: calls $2.50
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: calls $1.50
+*** FLOP *** [3s 9d 2c]
+lilman629: checks 
+b2k-Snick: checks 
+Cougars001: checks 
+*** TURN *** [3s 9d 2c] [3c]
+lilman629: bets $3
+b2k-Snick: calls $3
+Cougars001: folds 
+*** RIVER *** [3s 9d 2c 3c] [6c]
+lilman629: checks 
+b2k-Snick: checks 
+*** SHOW DOWN ***
+lilman629: shows [6h 5s] (two pair, Sixes and Threes)
+b2k-Snick: mucks hand 
+lilman629 collected $13.30 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [3s 9d 2c 3c 6c]
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: lilman629 (big blind) showed [6h 5s] and won ($13.30) with two pair, Sixes and Threes
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick mucked
+Seat 5: Cougars001 folded on the Turn
+Seat 6: William_Gull (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257811789:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:40:43 WET [2025/01/08 1:40:43 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 1: ru_ruu_ru ($152.13 in chips) 
+Seat 2: lilman629 ($34.27 in chips) 
+Seat 3: blistein ($118.56 in chips) 
+Seat 4: b2k-Snick ($305.77 in chips) 
+Seat 5: Cougars001 ($53.29 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+lilman629: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+Cougars001: folds 
+William_Gull: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+lilman629: calls $2
+blistein: folds 
+*** FLOP *** [7h Qc 5d]
+lilman629: checks 
+ru_ruu_ru: bets $1.88
+lilman629: calls $1.88
+*** TURN *** [7h Qc 5d] [2s]
+lilman629: checks 
+ru_ruu_ru: bets $16.69
+lilman629: folds 
+Uncalled bet ($16.69) returned to ru_ruu_ru
+ru_ruu_ru collected $9.27 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [7h Qc 5d 2s]
+Seat 1: ru_ruu_ru (button) collected ($9.27)
+Seat 2: lilman629 (small blind) folded on the Turn
+Seat 3: blistein (big blind) folded before Flop
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257814142:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:41:15 WET [2025/01/08 1:41:15 ET]
+Table 'Irmintraud II' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($157.02 in chips) 
+Seat 2: lilman629 ($29.89 in chips) 
+Seat 3: blistein ($117.56 in chips) 
+Seat 4: b2k-Snick ($305.77 in chips) 
+Seat 5: Cougars001 ($53.29 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Cougars001: folds 
+William_Gull: folds 
+ru_ruu_ru: raises $1.50 to $2.50
+lilman629: calls $2.50
+blistein: folds 
+b2k-Snick: calls $1.50
+*** FLOP *** [8h 7h Ah]
+b2k-Snick: checks 
+ru_ruu_ru: checks 
+lilman629: bets $3
+b2k-Snick: calls $3
+ru_ruu_ru: calls $3
+*** TURN *** [8h 7h Ah] [Jc]
+b2k-Snick: checks 
+ru_ruu_ru: bets $10.66
+lilman629: folds 
+b2k-Snick: calls $10.66
+*** RIVER *** [8h 7h Ah Jc] [Kc]
+b2k-Snick: checks 
+ru_ruu_ru: bets $36.40
+b2k-Snick: folds 
+Uncalled bet ($36.40) returned to ru_ruu_ru
+ru_ruu_ru collected $36.40 from pot
+ru_ruu_ru: doesn't show hand 
+*** SUMMARY ***
+Total pot $38.32 | Rake $1.92 
+Board [8h 7h Ah Jc Kc]
+Seat 1: ru_ruu_ru collected ($36.40)
+Seat 2: lilman629 (button) folded on the Turn
+Seat 3: blistein (small blind) folded before Flop
+Seat 4: b2k-Snick (big blind) folded on the River
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257820113:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:42:37 WET [2025/01/08 1:42:37 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($177.26 in chips) 
+Seat 2: lilman629 ($24.39 in chips) 
+Seat 3: blistein ($117.06 in chips) 
+Seat 4: b2k-Snick ($289.61 in chips) 
+Seat 5: Cougars001 ($53.29 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+Cougars001: posts big blind $1
+*** HOLE CARDS ***
+William_Gull: raises $1.80 to $2.80
+ru_ruu_ru: folds 
+lilman629: calls $2.80
+blistein: folds 
+b2k-Snick: folds 
+Cougars001 has timed out
+Cougars001: folds 
+*** FLOP *** [6s Td 6d]
+William_Gull: bets $3.37
+lilman629: calls $3.37
+*** TURN *** [6s Td 6d] [2s]
+William_Gull: checks 
+lilman629: bets $2
+William_Gull: raises $91.83 to $93.83 and is all-in
+lilman629: calls $16.22 and is all-in
+Uncalled bet ($75.61) returned to William_Gull
+*** RIVER *** [6s Td 6d 2s] [Kc]
+*** SHOW DOWN ***
+William_Gull: shows [Jc Tc] (two pair, Tens and Sixes)
+lilman629: shows [6c Jd] (three of a kind, Sixes)
+lilman629 collected $47.78 from pot
+*** SUMMARY ***
+Total pot $50.28 | Rake $2.50 
+Board [6s Td 6d 2s Kc]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 showed [6c Jd] and won ($47.78) with three of a kind, Sixes
+Seat 3: blistein (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: Cougars001 (big blind) folded before Flop
+Seat 6: William_Gull showed [Jc Tc] and lost with two pair, Tens and Sixes
+
+
+
+PokerStars Hand #254257828116:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:44:26 WET [2025/01/08 1:44:26 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 1: ru_ruu_ru ($177.26 in chips) 
+Seat 2: lilman629 ($47.78 in chips) 
+Seat 3: blistein ($117.06 in chips) 
+Seat 4: b2k-Snick ($289.11 in chips) 
+Seat 5: Cougars001 ($52.29 in chips) 
+Seat 6: William_Gull ($100 in chips) 
+Cougars001: posts small blind $0.50
+William_Gull: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: raises $1.20 to $2.20
+lilman629: calls $2.20
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: calls $1.70
+William_Gull: calls $1.20
+*** FLOP *** [2d Td 2s]
+Cougars001: checks 
+William_Gull: checks 
+ru_ruu_ru: checks 
+lilman629: bets $3
+Cougars001: calls $3
+William_Gull: calls $3
+ru_ruu_ru: folds 
+*** TURN *** [2d Td 2s] [3c]
+Cougars001: checks 
+William_Gull: checks 
+lilman629: checks 
+*** RIVER *** [2d Td 2s 3c] [9d]
+Cougars001: bets $8.46
+William_Gull: raises $10.54 to $19
+lilman629: folds 
+Cougars001: folds 
+Uncalled bet ($10.54) returned to William_Gull
+William_Gull collected $32.98 from pot
+William_Gull: doesn't show hand 
+*** SUMMARY ***
+Total pot $34.72 | Rake $1.74 
+Board [2d Td 2s 3c 9d]
+Seat 1: ru_ruu_ru folded on the Flop
+Seat 2: lilman629 folded on the River
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: Cougars001 (small blind) folded on the River
+Seat 6: William_Gull (big blind) collected ($32.98)
+
+
+
+PokerStars Hand #254257833536:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:45:41 WET [2025/01/08 1:45:41 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($175.06 in chips) 
+Seat 2: lilman629 ($42.58 in chips) 
+Seat 3: blistein ($117.06 in chips) 
+Seat 4: b2k-Snick ($289.11 in chips) 
+Seat 5: Cougars001 ($38.63 in chips) 
+Seat 6: William_Gull ($119.32 in chips) 
+William_Gull: posts small blind $0.50
+ru_ruu_ru: posts big blind $1
+*** HOLE CARDS ***
+lilman629: raises $1 to $2
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: folds 
+William_Gull: folds 
+ru_ruu_ru: calls $1
+*** FLOP *** [2d 4d 3c]
+ru_ruu_ru: checks 
+lilman629: bets $2
+ru_ruu_ru: calls $2
+*** TURN *** [2d 4d 3c] [7c]
+ru_ruu_ru: checks 
+lilman629: bets $2
+ru_ruu_ru: calls $2
+*** RIVER *** [2d 4d 3c 7c] [8c]
+ru_ruu_ru: checks 
+lilman629: bets $5
+ru_ruu_ru: calls $5
+*** SHOW DOWN ***
+lilman629: shows [Qs Qd] (a pair of Queens)
+ru_ruu_ru: mucks hand 
+lilman629 collected $21.38 from pot
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.12 
+Board [2d 4d 3c 7c 8c]
+Seat 1: ru_ruu_ru (big blind) mucked
+Seat 2: lilman629 showed [Qs Qd] and won ($21.38) with a pair of Queens
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Cougars001 (button) folded before Flop (didn't bet)
+Seat 6: William_Gull (small blind) folded before Flop
+
+
+
+PokerStars Hand #254257837022:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:46:28 WET [2025/01/08 1:46:28 ET]
+Table 'Irmintraud II' 6-max Seat #6 is the button
+Seat 1: ru_ruu_ru ($164.06 in chips) 
+Seat 2: lilman629 ($52.96 in chips) 
+Seat 3: blistein ($117.06 in chips) 
+Seat 4: b2k-Snick ($289.11 in chips) 
+Seat 5: Cougars001 ($38.63 in chips) 
+Seat 6: William_Gull ($118.82 in chips) 
+ru_ruu_ru: posts small blind $0.50
+lilman629: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+b2k-Snick: folds 
+Cougars001: folds 
+William_Gull: raises $1.20 to $2.20
+ru_ruu_ru: folds 
+lilman629: raises $1.20 to $3.40
+William_Gull: calls $1.20
+*** FLOP *** [Qs Ah 7s]
+lilman629: checks 
+William_Gull: checks 
+*** TURN *** [Qs Ah 7s] [9s]
+lilman629: bets $2
+William_Gull: calls $2
+*** RIVER *** [Qs Ah 7s 9s] [Td]
+lilman629: bets $3
+William_Gull: folds 
+Uncalled bet ($3) returned to lilman629
+lilman629 collected $10.74 from pot
+*** SUMMARY ***
+Total pot $11.30 | Rake $0.56 
+Board [Qs Ah 7s 9s Td]
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: lilman629 (big blind) collected ($10.74)
+Seat 3: blistein folded before Flop (didn't bet)
+Seat 4: b2k-Snick folded before Flop (didn't bet)
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: William_Gull (button) folded on the River
+
+
+
+PokerStars Hand #254257840109:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:47:11 WET [2025/01/08 1:47:11 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 1: ru_ruu_ru ($163.56 in chips) 
+Seat 2: lilman629 ($58.30 in chips) 
+Seat 3: blistein ($117.06 in chips) 
+Seat 4: b2k-Snick ($289.11 in chips) 
+Seat 5: Cougars001 ($38.63 in chips) 
+Seat 6: William_Gull ($113.42 in chips) 
+lilman629: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: raises $1.10 to $2.10
+Cougars001: calls $2.10
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: calls $1.60
+blistein: folds 
+*** FLOP *** [9s Kd Qd]
+lilman629: bets $3
+b2k-Snick: calls $3
+Cougars001: folds 
+*** TURN *** [9s Kd Qd] [2d]
+lilman629: checks 
+b2k-Snick: checks 
+*** RIVER *** [9s Kd Qd 2d] [Jc]
+lilman629: bets $4
+b2k-Snick: raises $14 to $18
+lilman629: calls $14
+*** SHOW DOWN ***
+b2k-Snick: shows [Ac Ts] (a straight, Ten to Ace)
+lilman629: mucks hand 
+b2k-Snick collected $46.84 from pot
+*** SUMMARY ***
+Total pot $49.30 | Rake $2.46 
+Board [9s Kd Qd 2d Jc]
+Seat 1: ru_ruu_ru (button) folded before Flop (didn't bet)
+Seat 2: lilman629 (small blind) mucked
+Seat 3: blistein (big blind) folded before Flop
+Seat 4: b2k-Snick showed [Ac Ts] and won ($46.84) with a straight, Ten to Ace
+Seat 5: Cougars001 folded on the Flop
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257844296:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:48:09 WET [2025/01/08 1:48:09 ET]
+Table 'Irmintraud II' 6-max Seat #2 is the button
+Seat 1: ru_ruu_ru ($163.56 in chips) 
+Seat 2: lilman629 ($35.20 in chips) 
+Seat 3: blistein ($116.06 in chips) 
+Seat 4: b2k-Snick ($312.85 in chips) 
+Seat 5: Cougars001 ($36.53 in chips) 
+Seat 6: William_Gull ($113.42 in chips) 
+blistein: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Cougars001: folds 
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: calls $1
+blistein: raises $3 to $4
+b2k-Snick: folds 
+lilman629: calls $3
+*** FLOP *** [2c Tc 5d]
+blistein: checks 
+lilman629: bets $3
+blistein: calls $3
+*** TURN *** [2c Tc 5d] [6s]
+blistein: checks 
+lilman629: bets $10
+blistein: calls $10
+*** RIVER *** [2c Tc 5d 6s] [7s]
+blistein: checks 
+lilman629: bets $18.20 and is all-in
+blistein: folds 
+Uncalled bet ($18.20) returned to lilman629
+lilman629 collected $33.25 from pot
+*** SUMMARY ***
+Total pot $35 | Rake $1.75 
+Board [2c Tc 5d 6s 7s]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 (button) collected ($33.25)
+Seat 3: blistein (small blind) folded on the River
+Seat 4: b2k-Snick (big blind) folded before Flop
+Seat 5: Cougars001 folded before Flop (didn't bet)
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254257848144:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 6:49:01 WET [2025/01/08 1:49:01 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 1: ru_ruu_ru ($163.56 in chips) 
+Seat 2: lilman629 ($51.45 in chips) 
+Seat 3: blistein ($100 in chips) 
+Seat 4: b2k-Snick ($311.85 in chips) 
+Seat 5: Cougars001 ($36.53 in chips) 
+Seat 6: William_Gull ($113.42 in chips) 
+b2k-Snick: posts small blind $0.50
+Cougars001: posts big blind $1
+*** HOLE CARDS ***
+William_Gull: folds 
+ru_ruu_ru: folds 
+lilman629: calls $1
+blistein: raises $2.50 to $3.50
+b2k-Snick: folds 
+Cougars001: raises $33.03 to $36.53 and is all-in
+lilman629: calls $35.53
+blistein: folds 
+*** FLOP *** [3c 6c 4s]
+*** TURN *** [3c 6c 4s] [Ah]
+*** RIVER *** [3c 6c 4s Ah] [7s]
+*** SHOW DOWN ***
+Cougars001: shows [Jh Ac] (a pair of Aces)
+lilman629: shows [Jd 4h] (a pair of Fours)
+Cougars001 collected $74.56 from pot
+lilman629 cashed out the hand for $17.19 | Cash Out Fee $0.35
+*** SUMMARY ***
+Total pot $77.06 | Rake $2.50 
+Board [3c 6c 4s Ah 7s]
+Seat 1: ru_ruu_ru folded before Flop (didn't bet)
+Seat 2: lilman629 showed [Jd 4h] and lost with a pair of Fours (cashed out).
+Seat 3: blistein (button) folded before Flop
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: Cougars001 (big blind) showed [Jh Ac] and won ($74.56) with a pair of Aces
+Seat 6: William_Gull folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254258045700:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:35:37 WET [2025/01/08 2:35:37 ET]
+Table 'Irmintraud II' 6-max Seat #3 is the button
+Seat 6: danuuutz ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($198 in chips) 
+Seat 2: lilman629 ($266.02 in chips) 
+Seat 3: value_ftw ($100.40 in chips) 
+Seat 4: b2k-Snick ($302.87 in chips) 
+Seat 5: JoeBlack_MS ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+JoeBlack_MS: posts big blind $1
+danuuutz: sits out 
+*** HOLE CARDS ***
+ru_ruu_ru: raises $1.20 to $2.20
+lilman629: folds 
+lilman629 leaves the table
+value_ftw: folds 
+b2k-Snick: folds 
+DamjanD joins the table at seat #2 
+JoeBlack_MS: calls $1.20
+*** FLOP *** [5c Js 8c]
+JoeBlack_MS: checks 
+ru_ruu_ru: checks 
+*** TURN *** [5c Js 8c] [2s]
+JoeBlack_MS: bets $2.10
+ru_ruu_ru: folds 
+Uncalled bet ($2.10) returned to JoeBlack_MS
+JoeBlack_MS collected $4.66 from pot
+JoeBlack_MS: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [5c Js 8c 2s]
+Seat 6: danuuutz
+Seat 1: ru_ruu_ru folded on the Turn
+Seat 2: lilman629 folded before Flop (didn't bet)
+Seat 3: value_ftw (button) folded before Flop (didn't bet)
+Seat 4: b2k-Snick (small blind) folded before Flop
+Seat 5: JoeBlack_MS (big blind) collected ($4.66)
+
+
+
+PokerStars Hand #254258048253:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:36:12 WET [2025/01/08 2:36:12 ET]
+Table 'Irmintraud II' 6-max Seat #4 is the button
+Seat 2: DamjanD ($100 in chips) is sitting out
+Seat 1: ru_ruu_ru ($195.80 in chips) 
+Seat 3: value_ftw ($100.40 in chips) 
+Seat 4: b2k-Snick ($302.37 in chips) 
+Seat 5: JoeBlack_MS ($102.46 in chips) 
+Seat 6: danuuutz ($100 in chips) 
+JoeBlack_MS: posts small blind $0.50
+danuuutz: posts big blind $1
+DamjanD: sits out 
+*** HOLE CARDS ***
+ru_ruu_ru: raises $1.20 to $2.20
+value_ftw: raises $5.25 to $7.45
+b2k-Snick: folds 
+JoeBlack_MS: folds 
+danuuutz: folds 
+ru_ruu_ru: folds 
+Uncalled bet ($5.25) returned to value_ftw
+danuuutz leaves the table
+value_ftw collected $5.90 from pot
+value_ftw: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0 
+Seat 2: DamjanD
+Seat 1: ru_ruu_ru folded before Flop
+Seat 3: value_ftw collected ($5.90)
+Seat 4: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: JoeBlack_MS (small blind) folded before Flop
+Seat 6: danuuutz (big blind) folded before Flop
+
+
+
+PokerStars Hand #254258051754:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:37:01 WET [2025/01/08 2:37:01 ET]
+Table 'Irmintraud II' 6-max Seat #5 is the button
+Seat 1: ru_ruu_ru ($193.60 in chips) 
+Seat 2: DamjanD ($100 in chips) 
+Seat 3: value_ftw ($104.10 in chips) 
+Seat 4: b2k-Snick ($302.37 in chips) 
+Seat 5: JoeBlack_MS ($101.96 in chips) 
+ru_ruu_ru: posts small blind $0.50
+DamjanD: posts big blind $1
+*** HOLE CARDS ***
+value_ftw: folds 
+b2k-Snick: raises $1.10 to $2.10
+JoeBlack_MS: folds 
+ru_ruu_ru: folds 
+DamjanD: calls $1.10
+*** FLOP *** [9c 7c 9s]
+DamjanD: checks 
+b2k-Snick: bets $1.47
+DamjanD: calls $1.47
+*** TURN *** [9c 7c 9s] [8s]
+DamjanD: checks 
+b2k-Snick: bets $4.50
+DamjanD: folds 
+Uncalled bet ($4.50) returned to b2k-Snick
+b2k-Snick collected $7.26 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.64 | Rake $0.38 
+Board [9c 7c 9s 8s]
+Seat 1: ru_ruu_ru (small blind) folded before Flop
+Seat 2: DamjanD (big blind) folded on the Turn
+Seat 3: value_ftw folded before Flop (didn't bet)
+Seat 4: b2k-Snick collected ($7.26)
+Seat 5: JoeBlack_MS (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254258057237:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/08 7:38:17 WET [2025/01/08 2:38:17 ET]
+Table 'Irmintraud II' 6-max Seat #1 is the button
+Seat 3: value_ftw ($104.10 in chips) is sitting out
+Seat 4: b2k-Snick ($306.06 in chips) is sitting out
+Seat 1: ru_ruu_ru ($193.10 in chips) 
+Seat 2: DamjanD ($100 in chips) 
+Seat 5: JoeBlack_MS ($101.96 in chips) 
+DamjanD: posts small blind $0.50
+value_ftw: is sitting out 
+b2k-Snick: is sitting out 
+JoeBlack_MS: posts big blind $1
+*** HOLE CARDS ***
+ru_ruu_ru: raises $1.50 to $2.50
+value_ftw leaves the table
+b2k-Snick leaves the table
+DamjanD: folds 
+JoeBlack_MS: raises $10.50 to $13
+ru_ruu_ru: folds 
+Uncalled bet ($10.50) returned to JoeBlack_MS
+JoeBlack_MS collected $5.50 from pot
+JoeBlack_MS: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 3: value_ftw
+Seat 4: b2k-Snick
+Seat 1: ru_ruu_ru (button) folded before Flop
+Seat 2: DamjanD (small blind) folded before Flop
+Seat 5: JoeBlack_MS (big blind) collected ($5.50)
+
+
+

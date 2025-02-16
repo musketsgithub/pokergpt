@@ -1,0 +1,5622 @@
+﻿PokerStars Hand #254745502573:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:49:29 WET [2025/02/06 22:49:29 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: Supermegopro ($142.02 in chips) 
+Seat 2: Rysiff ($134.16 in chips) 
+Seat 3: goktepe1990 ($20.62 in chips) 
+Seat 4: derek5858 ($103.52 in chips) 
+Seat 5: B1GBankroll ($121.51 in chips) 
+Seat 6: XneferX ($100 in chips) 
+Supermegopro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+goktepe1990: calls $1
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: calls $0.50
+Rysiff: checks 
+*** FLOP *** [Jd 5d Tc]
+Supermegopro: checks 
+Rysiff: checks 
+goktepe1990: checks 
+*** TURN *** [Jd 5d Tc] [5s]
+Supermegopro: checks 
+Rysiff: bets $3
+goktepe1990: folds 
+Supermegopro: calls $3
+*** RIVER *** [Jd 5d Tc 5s] [8d]
+Supermegopro: bets $2.82
+Rysiff: raises $11.35 to $14.17
+Supermegopro: calls $11.35
+*** SHOW DOWN ***
+Rysiff: shows [6s 5h] (three of a kind, Fives)
+Supermegopro: shows [6d Kd] (a flush, King high)
+Supermegopro collected $35.47 from pot
+*** SUMMARY ***
+Total pot $37.34 | Rake $1.87 
+Board [Jd 5d Tc 5s 8d]
+Seat 1: Supermegopro (small blind) showed [6d Kd] and won ($35.47) with a flush, King high
+Seat 2: Rysiff (big blind) showed [6s 5h] and lost with three of a kind, Fives
+Seat 3: goktepe1990 folded on the Turn
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745511542:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:50:48 WET [2025/02/06 22:50:48 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: Supermegopro ($159.32 in chips) 
+Seat 2: Rysiff ($115.99 in chips) 
+Seat 3: goktepe1990 ($19.62 in chips) 
+Seat 4: derek5858 ($103.52 in chips) 
+Seat 5: B1GBankroll ($121.51 in chips) 
+Seat 6: XneferX ($100 in chips) 
+Rysiff: posts small blind $0.50
+goktepe1990: posts big blind $1
+*** HOLE CARDS ***
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: raises $1.50 to $2.50
+Rysiff: folds 
+goktepe1990: calls $1.50
+*** FLOP *** [Ts Qs Kc]
+goktepe1990: checks 
+Supermegopro: checks 
+*** TURN *** [Ts Qs Kc] [2d]
+goktepe1990: bets $2.61
+Supermegopro: calls $2.61
+*** RIVER *** [Ts Qs Kc 2d] [7s]
+goktepe1990: checks 
+Supermegopro: checks 
+*** SHOW DOWN ***
+goktepe1990: shows [3h 4d] (high card King)
+Supermegopro: shows [8h Qh] (a pair of Queens)
+Supermegopro collected $10.18 from pot
+*** SUMMARY ***
+Total pot $10.72 | Rake $0.54 
+Board [Ts Qs Kc 2d 7s]
+Seat 1: Supermegopro (button) showed [8h Qh] and won ($10.18) with a pair of Queens
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: goktepe1990 (big blind) showed [3h 4d] and lost with high card King
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745515334:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:51:21 WET [2025/02/06 22:51:21 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: Supermegopro ($164.39 in chips) 
+Seat 2: Rysiff ($115.49 in chips) 
+Seat 3: goktepe1990 ($14.51 in chips) 
+Seat 4: derek5858 ($103.52 in chips) 
+Seat 5: B1GBankroll ($121.51 in chips) 
+Seat 6: XneferX ($100 in chips) 
+goktepe1990: posts small blind $0.50
+derek5858: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+XneferX: raises $1.10 to $2.10
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: raises $12.41 to $14.51 and is all-in
+derek5858: folds 
+XneferX: calls $12.41
+*** FLOP *** [5h 8d 2c]
+*** TURN *** [5h 8d 2c] [Kh]
+*** RIVER *** [5h 8d 2c Kh] [6h]
+*** SHOW DOWN ***
+goktepe1990: shows [Jc 8c] (a pair of Eights)
+XneferX: shows [As Ks] (a pair of Kings)
+XneferX collected $28.52 from pot
+*** SUMMARY ***
+Total pot $30.02 | Rake $1.50 
+Board [5h 8d 2c Kh 6h]
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: goktepe1990 (small blind) showed [Jc 8c] and lost with a pair of Eights
+Seat 4: derek5858 (big blind) folded before Flop
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX showed [As Ks] and won ($28.52) with a pair of Kings
+
+
+
+PokerStars Hand #254745520034:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:52:02 WET [2025/02/06 22:52:02 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 3: goktepe1990 ($0 in chips) is sitting out
+Seat 1: Supermegopro ($164.39 in chips) 
+Seat 2: Rysiff ($115.49 in chips) 
+Seat 4: derek5858 ($102.52 in chips) 
+Seat 5: B1GBankroll ($121.51 in chips) 
+Seat 6: XneferX ($114.01 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+Rysiff: folds 
+derek5858: folds 
+B1GBankroll: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: goktepe1990
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 4: derek5858 (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) folded before Flop
+Seat 6: XneferX (big blind) collected ($1)
+
+
+
+PokerStars Hand #254745522894:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:52:28 WET [2025/02/06 22:52:28 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 3: goktepe1990 ($0 in chips) is sitting out
+Seat 1: Supermegopro ($164.39 in chips) 
+Seat 2: Rysiff ($115.49 in chips) 
+Seat 4: derek5858 ($102.52 in chips) 
+Seat 5: B1GBankroll ($121.01 in chips) 
+Seat 6: XneferX ($114.51 in chips) 
+XneferX: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: raises $2 to $3
+Supermegopro: folds 
+Uncalled bet ($2) returned to XneferX
+XneferX collected $2 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: goktepe1990
+Seat 1: Supermegopro (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) collected ($2)
+
+
+
+PokerStars Hand #254745524684:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:52:43 WET [2025/02/06 22:52:43 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 3: goktepe1990 ($0 in chips) is sitting out
+Seat 1: Supermegopro ($163.39 in chips) 
+Seat 2: Rysiff ($115.49 in chips) 
+Seat 4: derek5858 ($102.52 in chips) 
+Seat 5: B1GBankroll ($121.01 in chips) 
+Seat 6: XneferX ($115.51 in chips) 
+Supermegopro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: goktepe1990
+Seat 1: Supermegopro (small blind) folded before Flop
+Seat 2: Rysiff (big blind) collected ($1)
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745526281:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:52:57 WET [2025/02/06 22:52:57 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: Supermegopro ($162.89 in chips) 
+Seat 2: Rysiff ($115.99 in chips) 
+Seat 3: goktepe1990 ($51.91 in chips) 
+Seat 4: derek5858 ($102.52 in chips) 
+Seat 5: B1GBankroll ($121.01 in chips) 
+Seat 6: XneferX ($115.51 in chips) 
+Rysiff: posts small blind $0.50
+goktepe1990: posts big blind $1
+*** HOLE CARDS ***
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: raises $2 to $3
+goktepe1990: raises $2 to $5
+Rysiff: calls $2
+*** FLOP *** [Qd 4h Jh]
+Rysiff: checks 
+goktepe1990: checks 
+*** TURN *** [Qd 4h Jh] [4s]
+Rysiff: checks 
+goktepe1990: bets $4.75
+Rysiff: calls $4.75
+*** RIVER *** [Qd 4h Jh 4s] [Kc]
+Rysiff: checks 
+goktepe1990: bets $18.52
+Rysiff: folds 
+Uncalled bet ($18.52) returned to goktepe1990
+goktepe1990 collected $18.52 from pot
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.98 
+Board [Qd 4h Jh 4s Kc]
+Seat 1: Supermegopro (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded on the River
+Seat 3: goktepe1990 (big blind) collected ($18.52)
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745533851:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:54:05 WET [2025/02/06 22:54:05 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: Supermegopro ($162.89 in chips) 
+Seat 2: Rysiff ($106.24 in chips) 
+Seat 3: goktepe1990 ($60.68 in chips) 
+Seat 4: derek5858 ($102.52 in chips) 
+Seat 5: B1GBankroll ($121.01 in chips) 
+Seat 6: XneferX ($115.51 in chips) 
+goktepe1990: posts small blind $0.50
+derek5858: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: raises $1.50 to $2.50
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: calls $2
+derek5858: folds 
+*** FLOP *** [7s 8c 8h]
+goktepe1990: checks 
+B1GBankroll: bets $2.79
+goktepe1990: raises $2.79 to $5.58
+B1GBankroll: calls $2.79
+*** TURN *** [7s 8c 8h] [4s]
+goktepe1990: checks 
+B1GBankroll: checks 
+*** RIVER *** [7s 8c 8h 4s] [3h]
+goktepe1990: bets $16.30
+B1GBankroll: folds 
+Uncalled bet ($16.30) returned to goktepe1990
+goktepe1990 collected $16.30 from pot
+*** SUMMARY ***
+Total pot $17.16 | Rake $0.86 
+Board [7s 8c 8h 4s 3h]
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: goktepe1990 (small blind) collected ($16.30)
+Seat 4: derek5858 (big blind) folded before Flop
+Seat 5: B1GBankroll folded on the River
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745542580:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:55:29 WET [2025/02/06 22:55:29 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: Supermegopro ($162.89 in chips) 
+Seat 2: Rysiff ($106.24 in chips) 
+Seat 3: goktepe1990 ($68.90 in chips) 
+Seat 4: derek5858 ($101.52 in chips) 
+Seat 5: B1GBankroll ($112.93 in chips) 
+Seat 6: XneferX ($115.51 in chips) 
+derek5858: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: calls $1
+derek5858: calls $0.50
+B1GBankroll: raises $4.50 to $5.50
+goktepe1990: calls $4.50
+derek5858: calls $4.50
+*** FLOP *** [6s 7c 2c]
+derek5858: checks 
+B1GBankroll: checks 
+goktepe1990: checks 
+*** TURN *** [6s 7c 2c] [5d]
+derek5858: checks 
+B1GBankroll: checks 
+goktepe1990: checks 
+*** RIVER *** [6s 7c 2c 5d] [Th]
+derek5858: checks 
+B1GBankroll: checks 
+goktepe1990: checks 
+*** SHOW DOWN ***
+derek5858: shows [4h 4c] (a pair of Fours)
+B1GBankroll: mucks hand 
+goktepe1990: shows [Ts Qs] (a pair of Tens)
+goktepe1990 collected $15.68 from pot
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.82 
+Board [6s 7c 2c 5d Th]
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 (button) showed [Ts Qs] and won ($15.68) with a pair of Tens
+Seat 4: derek5858 (small blind) showed [4h 4c] and lost with a pair of Fours
+Seat 5: B1GBankroll (big blind) mucked
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745549262:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:56:44 WET [2025/02/06 22:56:44 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 6: XneferX ($115.51 in chips) is sitting out
+Seat 1: Supermegopro ($162.89 in chips) 
+Seat 2: Rysiff ($106.24 in chips) 
+Seat 3: goktepe1990 ($79.08 in chips) 
+Seat 4: derek5858 ($100 in chips) 
+Seat 5: B1GBankroll ($107.43 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: is sitting out 
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+goktepe1990: raises $1 to $2
+derek5858: raises $3.85 to $5.85
+B1GBankroll: folds 
+Supermegopro: folds 
+goktepe1990: calls $3.85
+*** FLOP *** [2h 7c Td]
+goktepe1990: checks 
+derek5858: bets $5.02
+goktepe1990: folds 
+Uncalled bet ($5.02) returned to derek5858
+derek5858 collected $12.54 from pot
+*** SUMMARY ***
+Total pot $13.20 | Rake $0.66 
+Board [2h 7c Td]
+Seat 6: XneferX
+Seat 1: Supermegopro (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 folded on the Flop
+Seat 4: derek5858 (button) collected ($12.54)
+Seat 5: B1GBankroll (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745553391:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:57:30 WET [2025/02/06 22:57:30 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 6: XneferX ($115.51 in chips) is sitting out
+Seat 1: Supermegopro ($161.89 in chips) 
+Seat 2: Rysiff ($106.24 in chips) 
+Seat 3: goktepe1990 ($73.23 in chips) 
+Seat 4: derek5858 ($106.69 in chips) 
+Seat 5: B1GBankroll ($106.93 in chips) 
+Supermegopro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+goktepe1990: calls $1
+derek5858: raises $2.45 to $3.45
+B1GBankroll: folds 
+Supermegopro: folds 
+Rysiff: calls $2.45
+goktepe1990: calls $2.45
+*** FLOP *** [Jc 7h 8s]
+Rysiff: checks 
+goktepe1990: checks 
+derek5858: checks 
+*** TURN *** [Jc 7h 8s] [5h]
+Rysiff: bets $8.25
+goktepe1990: raises $8.25 to $16.50
+derek5858: folds 
+Rysiff: calls $8.25
+*** RIVER *** [Jc 7h 8s 5h] [As]
+Rysiff: checks 
+goktepe1990: checks 
+*** SHOW DOWN ***
+Rysiff: shows [9s Ks] (high card Ace)
+goktepe1990: shows [9d Th] (a straight, Seven to Jack)
+goktepe1990 collected $41.66 from pot
+*** SUMMARY ***
+Total pot $43.85 | Rake $2.19 
+Board [Jc 7h 8s 5h As]
+Seat 6: XneferX
+Seat 1: Supermegopro (small blind) folded before Flop
+Seat 2: Rysiff (big blind) showed [9s Ks] and lost with high card Ace
+Seat 3: goktepe1990 showed [9d Th] and won ($41.66) with a straight, Seven to Jack
+Seat 4: derek5858 folded on the Turn
+Seat 5: B1GBankroll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745557907:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:58:18 WET [2025/02/06 22:58:18 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 6: XneferX ($115.51 in chips) is sitting out
+Seat 1: Supermegopro ($161.39 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($94.94 in chips) 
+Seat 4: derek5858 ($103.24 in chips) 
+Seat 5: B1GBankroll ($106.93 in chips) 
+Rysiff: posts small blind $0.50
+goktepe1990: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+derek5858: raises $1.25 to $2.25
+B1GBankroll: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: calls $1.25
+*** FLOP *** [8s Kd Jh]
+goktepe1990: checks 
+derek5858: bets $1
+goktepe1990: calls $1
+*** TURN *** [8s Kd Jh] [2c]
+goktepe1990: checks 
+derek5858: bets $2
+goktepe1990: calls $2
+*** RIVER *** [8s Kd Jh 2c] [9s]
+goktepe1990: checks 
+derek5858: checks 
+*** SHOW DOWN ***
+goktepe1990: shows [8h 7d] (a pair of Eights)
+derek5858: shows [Qd Qc] (a pair of Queens)
+derek5858 collected $10.45 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [8s Kd Jh 2c 9s]
+Seat 6: XneferX
+Seat 1: Supermegopro (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: goktepe1990 (big blind) showed [8h 7d] and lost with a pair of Eights
+Seat 4: derek5858 showed [Qd Qc] and won ($10.45) with a pair of Queens
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745561712:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:58:59 WET [2025/02/06 22:58:59 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 6: XneferX ($115.51 in chips) is sitting out
+Seat 1: Supermegopro ($161.39 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($89.69 in chips) 
+Seat 4: derek5858 ($108.44 in chips) 
+Seat 5: B1GBankroll ($106.93 in chips) 
+goktepe1990: posts small blind $0.50
+derek5858: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+B1GBankroll: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: calls $0.50
+derek5858: checks 
+*** FLOP *** [4c Ah 4h]
+goktepe1990: checks 
+derek5858: checks 
+*** TURN *** [4c Ah 4h] [9c]
+goktepe1990: bets $1
+derek5858: folds 
+Uncalled bet ($1) returned to goktepe1990
+goktepe1990 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [4c Ah 4h 9c]
+Seat 6: XneferX
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: goktepe1990 (small blind) collected ($1.90)
+Seat 4: derek5858 (big blind) folded on the Turn
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745564727:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:59:31 WET [2025/02/06 22:59:31 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 6: XneferX ($115.51 in chips) is sitting out
+Seat 1: Supermegopro ($161.39 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($90.59 in chips) 
+Seat 4: derek5858 ($107.44 in chips) 
+Seat 5: B1GBankroll ($106.93 in chips) 
+derek5858: posts small blind $0.50
+B1GBankroll: posts big blind $1
+XneferX: sits out 
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+Rysiff: folds 
+goktepe1990: calls $2.50
+derek5858: folds 
+B1GBankroll: folds 
+*** FLOP *** [5s 8s Qc]
+Supermegopro: bets $4.12
+goktepe1990: folds 
+Uncalled bet ($4.12) returned to Supermegopro
+Supermegopro collected $6.18 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [5s 8s Qc]
+Seat 6: XneferX
+Seat 1: Supermegopro collected ($6.18)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 (button) folded on the Flop
+Seat 4: derek5858 (small blind) folded before Flop
+Seat 5: B1GBankroll (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745566593:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 3:59:51 WET [2025/02/06 22:59:51 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: Supermegopro ($165.07 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($88.09 in chips) 
+Seat 4: derek5858 ($106.94 in chips) 
+Seat 5: B1GBankroll ($105.93 in chips) 
+Seat 6: XneferX ($115.51 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: calls $1
+derek5858: folds 
+B1GBankroll: raises $3.20 to $4.20
+XneferX: folds 
+goktepe1990: folds 
+Uncalled bet ($3.20) returned to B1GBankroll
+B1GBankroll collected $3 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 folded before Flop
+Seat 4: derek5858 (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) collected ($3)
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745568651:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:00:13 WET [2025/02/06 23:00:13 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: Supermegopro ($165.07 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($87.09 in chips) 
+Seat 4: derek5858 ($106.94 in chips) 
+Seat 5: B1GBankroll ($107.93 in chips) 
+Seat 6: XneferX ($114.51 in chips) 
+XneferX: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+goktepe1990: raises $1 to $2
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+Uncalled bet ($1) returned to goktepe1990
+goktepe1990 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Supermegopro (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 collected ($2.50)
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745570497:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:00:31 WET [2025/02/06 23:00:31 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: Supermegopro ($164.07 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($88.59 in chips) 
+Seat 4: derek5858 ($106.94 in chips) 
+Seat 5: B1GBankroll ($107.93 in chips) 
+Seat 6: XneferX ($114.01 in chips) 
+Supermegopro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+goktepe1990: calls $1
+derek5858: raises $2.45 to $3.45
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: raises $10.55 to $14
+Rysiff: folds 
+goktepe1990: folds 
+derek5858: folds 
+Uncalled bet ($10.55) returned to Supermegopro
+Supermegopro collected $8.90 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.90 | Rake $0 
+Seat 1: Supermegopro (small blind) collected ($8.90)
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: goktepe1990 folded before Flop
+Seat 4: derek5858 folded before Flop
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745573286:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:00:57 WET [2025/02/06 23:00:57 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: Supermegopro ($169.52 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($87.59 in chips) 
+Seat 4: derek5858 ($103.49 in chips) 
+Seat 5: B1GBankroll ($107.93 in chips) 
+Seat 6: XneferX ($114.01 in chips) 
+Rysiff: posts small blind $0.50
+goktepe1990: posts big blind $1
+*** HOLE CARDS ***
+derek5858: raises $1 to $2
+B1GBankroll: raises $5.40 to $7.40
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: folds 
+derek5858: folds 
+Uncalled bet ($5.40) returned to B1GBankroll
+B1GBankroll collected $5.50 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: Supermegopro (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: goktepe1990 (big blind) folded before Flop
+Seat 4: derek5858 folded before Flop
+Seat 5: B1GBankroll collected ($5.50)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745575639:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:01:19 WET [2025/02/06 23:01:19 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: Supermegopro ($169.52 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($86.59 in chips) 
+Seat 4: derek5858 ($101.49 in chips) 
+Seat 5: B1GBankroll ($111.43 in chips) 
+Seat 6: XneferX ($114.01 in chips) 
+goktepe1990: posts small blind $0.50
+derek5858: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+Rysiff has timed out
+Rysiff: folds 
+goktepe1990: calls $0.50
+derek5858: checks 
+*** FLOP *** [2d Ks 7c]
+goktepe1990: bets $1
+derek5858: calls $1
+*** TURN *** [2d Ks 7c] [2c]
+goktepe1990: bets $1
+derek5858: calls $1
+*** RIVER *** [2d Ks 7c 2c] [2s]
+goktepe1990: bets $1
+derek5858: raises $1.40 to $2.40
+goktepe1990: folds 
+Uncalled bet ($1.40) returned to derek5858
+derek5858 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [2d Ks 7c 2c 2s]
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: goktepe1990 (small blind) folded on the River
+Seat 4: derek5858 (big blind) collected ($7.60)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745581109:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:02:08 WET [2025/02/06 23:02:08 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: Supermegopro ($169.52 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($82.59 in chips) 
+Seat 4: derek5858 ($105.09 in chips) 
+Seat 5: B1GBankroll ($111.43 in chips) 
+Seat 6: XneferX ($114.01 in chips) 
+derek5858: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+XneferX: raises $1.10 to $2.10
+Supermegopro: calls $2.10
+Rysiff: folds 
+goktepe1990: calls $2.10
+derek5858: folds 
+B1GBankroll: calls $1.10
+*** FLOP *** [3h 9c 3s]
+B1GBankroll: checks 
+XneferX: checks 
+Supermegopro: checks 
+goktepe1990: checks 
+*** TURN *** [3h 9c 3s] [5d]
+B1GBankroll: checks 
+XneferX: checks 
+Supermegopro: bets $3.38
+goktepe1990: calls $3.38
+B1GBankroll: folds 
+XneferX: folds 
+*** RIVER *** [3h 9c 3s 5d] [Ks]
+Supermegopro: checks 
+goktepe1990: checks 
+*** SHOW DOWN ***
+Supermegopro: shows [Ah 5h] (two pair, Fives and Threes)
+goktepe1990: mucks hand 
+Supermegopro collected $14.88 from pot
+*** SUMMARY ***
+Total pot $15.66 | Rake $0.78 
+Board [3h 9c 3s 5d Ks]
+Seat 1: Supermegopro showed [Ah 5h] and won ($14.88) with two pair, Fives and Threes
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 (button) mucked
+Seat 4: derek5858 (small blind) folded before Flop
+Seat 5: B1GBankroll (big blind) folded on the Turn
+Seat 6: XneferX folded on the Turn
+
+
+
+PokerStars Hand #254745591309:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:03:40 WET [2025/02/06 23:03:40 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: Supermegopro ($178.92 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($77.11 in chips) 
+Seat 4: derek5858 ($104.59 in chips) 
+Seat 5: B1GBankroll ($109.33 in chips) 
+Seat 6: XneferX ($111.91 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: raises $1 to $2
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Uncalled bet ($1) returned to goktepe1990
+goktepe1990 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 collected ($2.50)
+Seat 4: derek5858 (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) folded before Flop
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745593699:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:04:03 WET [2025/02/06 23:04:03 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: Supermegopro ($178.92 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($78.61 in chips) 
+Seat 4: derek5858 ($104.59 in chips) 
+Seat 5: B1GBankroll ($108.83 in chips) 
+Seat 6: XneferX ($110.91 in chips) 
+XneferX: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+goktepe1990: raises $2 to $3
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+Uncalled bet ($2) returned to goktepe1990
+goktepe1990 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Supermegopro (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 collected ($2.50)
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745595432:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:04:18 WET [2025/02/06 23:04:18 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: Supermegopro ($177.92 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($80.11 in chips) 
+Seat 4: derek5858 ($104.59 in chips) 
+Seat 5: B1GBankroll ($108.83 in chips) 
+Seat 6: XneferX ($110.41 in chips) 
+Supermegopro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+goktepe1990: raises $3 to $4
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+Uncalled bet ($3) returned to goktepe1990
+goktepe1990 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Supermegopro (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: goktepe1990 collected ($2.50)
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745598190:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:04:44 WET [2025/02/06 23:04:44 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: Supermegopro ($177.42 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($81.61 in chips) 
+Seat 4: derek5858 ($104.59 in chips) 
+Seat 5: B1GBankroll ($108.83 in chips) 
+Seat 6: XneferX ($110.41 in chips) 
+Rysiff: posts small blind $0.50
+goktepe1990: posts big blind $1
+*** HOLE CARDS ***
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: raises $2 to $3
+goktepe1990: calls $2
+*** FLOP *** [Jc Js 9h]
+Rysiff: checks 
+goktepe1990: bets $5.70
+Rysiff: calls $5.70
+*** TURN *** [Jc Js 9h] [2h]
+Rysiff: checks 
+goktepe1990: bets $8.27
+Rysiff: calls $8.27
+*** RIVER *** [Jc Js 9h 2h] [2s]
+Rysiff: checks 
+goktepe1990: checks 
+*** SHOW DOWN ***
+Rysiff: shows [Qs Kh] (two pair, Jacks and Deuces)
+goktepe1990: shows [8c Jd] (a full house, Jacks full of Deuces)
+goktepe1990 collected $32.24 from pot
+*** SUMMARY ***
+Total pot $33.94 | Rake $1.70 
+Board [Jc Js 9h 2h 2s]
+Seat 1: Supermegopro (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) showed [Qs Kh] and lost with two pair, Jacks and Deuces
+Seat 3: goktepe1990 (big blind) showed [8c Jd] and won ($32.24) with a full house, Jacks full of Deuces
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745604514:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:05:42 WET [2025/02/06 23:05:42 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: Supermegopro ($177.42 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($96.88 in chips) 
+Seat 4: derek5858 ($104.59 in chips) 
+Seat 5: B1GBankroll ($108.83 in chips) 
+Seat 6: XneferX ($110.41 in chips) 
+goktepe1990: posts small blind $0.50
+derek5858: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: calls $0.50
+derek5858: raises $2.50 to $3.50
+goktepe1990: calls $2.50
+*** FLOP *** [Qd 4c Ac]
+goktepe1990: checks 
+derek5858: checks 
+*** TURN *** [Qd 4c Ac] [5h]
+goktepe1990: checks 
+derek5858: checks 
+*** RIVER *** [Qd 4c Ac 5h] [3s]
+goktepe1990: checks 
+derek5858: checks 
+*** SHOW DOWN ***
+goktepe1990: shows [Qs Jd] (a pair of Queens)
+derek5858: mucks hand 
+goktepe1990 collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Qd 4c Ac 5h 3s]
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: goktepe1990 (small blind) showed [Qs Jd] and won ($6.65) with a pair of Queens
+Seat 4: derek5858 (big blind) mucked
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745608711:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:06:21 WET [2025/02/06 23:06:21 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: Supermegopro ($177.42 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($100.03 in chips) 
+Seat 4: derek5858 ($101.09 in chips) 
+Seat 5: B1GBankroll ($108.83 in chips) 
+Seat 6: XneferX ($110.41 in chips) 
+derek5858: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: calls $1
+derek5858: folds 
+B1GBankroll: raises $6 to $7
+goktepe1990: folds 
+Uncalled bet ($6) returned to B1GBankroll
+B1GBankroll collected $2.50 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 (button) folded before Flop
+Seat 4: derek5858 (small blind) folded before Flop
+Seat 5: B1GBankroll (big blind) collected ($2.50)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745611885:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:06:50 WET [2025/02/06 23:06:50 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: Supermegopro ($177.42 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($99.03 in chips) 
+Seat 4: derek5858 ($100.59 in chips) 
+Seat 5: B1GBankroll ($110.33 in chips) 
+Seat 6: XneferX ($110.41 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: calls $1
+derek5858: folds 
+B1GBankroll: raises $5.50 to $6.50
+XneferX: folds 
+goktepe1990: folds 
+Uncalled bet ($5.50) returned to B1GBankroll
+B1GBankroll collected $3 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 folded before Flop
+Seat 4: derek5858 (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) collected ($3)
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745615537:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:07:23 WET [2025/02/06 23:07:23 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: Supermegopro ($177.42 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($98.03 in chips) 
+Seat 4: derek5858 ($100.59 in chips) 
+Seat 5: B1GBankroll ($112.33 in chips) 
+Seat 6: XneferX ($109.41 in chips) 
+XneferX: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+goktepe1990: calls $2.50
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+*** FLOP *** [2h 6d 2s]
+Rysiff: checks 
+goktepe1990: bets $3.09
+Rysiff: calls $3.09
+*** TURN *** [2h 6d 2s] [Tc]
+Rysiff: checks 
+goktepe1990: checks 
+*** RIVER *** [2h 6d 2s Tc] [Ks]
+Rysiff: bets $9.64
+goktepe1990: calls $9.64
+*** SHOW DOWN ***
+Rysiff: shows [Qh Jh] (a pair of Deuces)
+goktepe1990: shows [8h 8s] (two pair, Eights and Deuces)
+goktepe1990 collected $30.36 from pot
+*** SUMMARY ***
+Total pot $31.96 | Rake $1.60 
+Board [2h 6d 2s Tc Ks]
+Seat 1: Supermegopro (big blind) folded before Flop
+Seat 2: Rysiff showed [Qh Jh] and lost with a pair of Deuces
+Seat 3: goktepe1990 showed [8h 8s] and won ($30.36) with two pair, Eights and Deuces
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745633942:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:10:13 WET [2025/02/06 23:10:13 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: Supermegopro ($175.92 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($108.76 in chips) 
+Seat 4: derek5858 ($100 in chips) 
+Seat 5: B1GBankroll ($112.83 in chips) 
+Seat 6: XneferX ($116.41 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+Rysiff: raises $1.50 to $2.50
+goktepe1990: calls $2.50
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+*** FLOP *** [8h 7c Ks]
+Rysiff: checks 
+goktepe1990: checks 
+*** TURN *** [8h 7c Ks] [Ac]
+Rysiff: bets $6
+goktepe1990: folds 
+Uncalled bet ($6) returned to Rysiff
+Rysiff collected $6.18 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [8h 7c Ks Ac]
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff collected ($6.18)
+Seat 3: goktepe1990 folded on the Turn
+Seat 4: derek5858 (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) folded before Flop
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254746002379:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:14:32 WET [2025/02/07 0:14:32 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: nastja336 ($214.60 in chips) 
+Seat 2: reeqar ($102.57 in chips) 
+Seat 3: DL1B ($125.99 in chips) 
+Seat 4: Supermegopro ($138.10 in chips) 
+Seat 5: RORyX1MILLION ($57.80 in chips) 
+Seat 6: An1an1 ($101.50 in chips) 
+reeqar: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: folds 
+reeqar: raises $2 to $3
+DL1B: folds 
+Uncalled bet ($2) returned to reeqar
+reeqar collected $2 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: nastja336 (button) folded before Flop (didn't bet)
+Seat 2: reeqar (small blind) collected ($2)
+Seat 3: DL1B (big blind) folded before Flop
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254746003385:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:14:44 WET [2025/02/07 0:14:44 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: nastja336 ($214.60 in chips) 
+Seat 2: reeqar ($103.57 in chips) 
+Seat 3: DL1B ($124.99 in chips) 
+Seat 4: Supermegopro ($138.10 in chips) 
+Seat 5: RORyX1MILLION ($57.80 in chips) 
+Seat 6: An1an1 ($101.50 in chips) 
+DL1B: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: folds 
+reeqar: raises $1.50 to $2.50
+DL1B: folds 
+Supermegopro: calls $1.50
+*** FLOP *** [Jc 8d 4d]
+Supermegopro: checks 
+reeqar: checks 
+*** TURN *** [Jc 8d 4d] [Kh]
+Supermegopro: bets $6.53
+reeqar: calls $6.53
+*** RIVER *** [Jc 8d 4d Kh] [3d]
+Supermegopro: bets $14.99
+reeqar: folds 
+Uncalled bet ($14.99) returned to Supermegopro
+Supermegopro collected $17.63 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.56 | Rake $0.93 
+Board [Jc 8d 4d Kh 3d]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar (button) folded on the River
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) collected ($17.63)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254746008871:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:15:45 WET [2025/02/07 0:15:45 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: nastja336 ($214.60 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($124.49 in chips) 
+Seat 4: Supermegopro ($146.70 in chips) 
+Seat 5: RORyX1MILLION ($57.80 in chips) 
+Seat 6: An1an1 ($101.50 in chips) 
+Supermegopro: posts small blind $0.50
+RORyX1MILLION: posts big blind $1
+*** HOLE CARDS ***
+An1an1: folds 
+nastja336: raises $1.50 to $2.50
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+Uncalled bet ($1.50) returned to nastja336
+nastja336 collected $2.50 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 collected ($2.50)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: RORyX1MILLION (big blind) folded before Flop
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254746010567:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:16:04 WET [2025/02/07 0:16:04 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: nastja336 ($216.10 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($124.49 in chips) 
+Seat 4: Supermegopro ($146.20 in chips) 
+Seat 5: RORyX1MILLION ($56.80 in chips) 
+Seat 6: An1an1 ($101.50 in chips) 
+RORyX1MILLION: posts small blind $0.50
+An1an1: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+reeqar: folds 
+DL1B: raises $1.50 to $2.50
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+Uncalled bet ($1.50) returned to DL1B
+DL1B collected $2.50 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B collected ($2.50)
+Seat 4: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (small blind) folded before Flop
+Seat 6: An1an1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254746012514:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:16:26 WET [2025/02/07 0:16:26 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: nastja336 ($216.10 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($125.99 in chips) 
+Seat 4: Supermegopro ($146.20 in chips) 
+Seat 5: RORyX1MILLION ($56.30 in chips) 
+Seat 6: An1an1 ($100.50 in chips) 
+An1an1: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+reeqar: raises $1.50 to $2.50
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: calls $2.50
+An1an1: folds 
+nastja336: folds 
+*** FLOP *** [Ks Ad Kc]
+reeqar: checks 
+RORyX1MILLION: bets $2.12
+reeqar: calls $2.12
+*** TURN *** [Ks Ad Kc] [8d]
+reeqar: checks 
+RORyX1MILLION: bets $4.30
+reeqar: raises $9.92 to $14.22
+RORyX1MILLION: folds 
+Uncalled bet ($9.92) returned to reeqar
+reeqar collected $18.37 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.34 | Rake $0.97 
+Board [Ks Ad Kc 8d]
+Seat 1: nastja336 (big blind) folded before Flop
+Seat 2: reeqar collected ($18.37)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (button) folded on the Turn
+Seat 6: An1an1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254746019761:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:17:50 WET [2025/02/07 0:17:50 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: nastja336 ($215.10 in chips) 
+Seat 2: reeqar ($109.45 in chips) 
+Seat 3: DL1B ($125.99 in chips) 
+Seat 4: Supermegopro ($146.20 in chips) 
+Seat 5: RORyX1MILLION ($47.38 in chips) 
+Seat 6: An1an1 ($100 in chips) 
+nastja336: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: raises $2 to $3
+reeqar: calls $2
+*** FLOP *** [6s Th 2c]
+RORyX1MILLION leaves the table
+nastja336: bets $3.76
+reeqar: calls $3.76
+*** TURN *** [6s Th 2c] [4s]
+nastja336: checks 
+reeqar: bets $9.63
+nastja336: folds 
+Uncalled bet ($9.63) returned to reeqar
+reeqar collected $12.84 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.52 | Rake $0.68 
+Board [6s Th 2c 4s]
+Seat 1: nastja336 (small blind) folded on the Turn
+Seat 2: reeqar (big blind) collected ($12.84)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745951339:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:05:08 WET [2025/02/07 0:05:08 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: nastja336 ($204.60 in chips) 
+Seat 2: reeqar ($104.07 in chips) 
+Seat 3: DL1B ($116.77 in chips) 
+Seat 4: Supermegopro ($151.17 in chips) 
+Seat 5: RORyX1MILLION ($45.11 in chips) 
+Seat 6: An1an1 ($120.69 in chips) 
+reeqar: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+RORyX1MILLION: calls $1
+An1an1: folds 
+nastja336: folds 
+reeqar: raises $4 to $5
+DL1B: raises $9.25 to $14.25
+RORyX1MILLION: folds 
+reeqar: folds 
+Uncalled bet ($9.25) returned to DL1B
+DL1B collected $11 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0 
+Seat 1: nastja336 (button) folded before Flop (didn't bet)
+Seat 2: reeqar (small blind) folded before Flop
+Seat 3: DL1B (big blind) collected ($11)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745954938:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:05:48 WET [2025/02/07 0:05:48 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: nastja336 ($204.60 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($122.77 in chips) 
+Seat 4: Supermegopro ($151.17 in chips) 
+Seat 5: RORyX1MILLION ($44.11 in chips) 
+Seat 6: An1an1 ($120.69 in chips) 
+DL1B: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+RORyX1MILLION: raises $2 to $3
+An1an1: folds 
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Supermegopro: calls $2
+*** FLOP *** [Qd 7c Ad]
+Supermegopro: checks 
+RORyX1MILLION: checks 
+*** TURN *** [Qd 7c Ad] [Kh]
+Supermegopro: checks 
+RORyX1MILLION: bets $3
+Supermegopro: folds 
+Uncalled bet ($3) returned to RORyX1MILLION
+RORyX1MILLION collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Qd 7c Ad Kh]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar (button) folded before Flop (didn't bet)
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) folded on the Turn
+Seat 5: RORyX1MILLION collected ($6.18)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745958067:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:06:23 WET [2025/02/07 0:06:23 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: nastja336 ($204.60 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($122.27 in chips) 
+Seat 4: Supermegopro ($148.17 in chips) 
+Seat 5: RORyX1MILLION ($47.29 in chips) 
+Seat 6: An1an1 ($120.69 in chips) 
+Supermegopro: posts small blind $0.50
+RORyX1MILLION: posts big blind $1
+*** HOLE CARDS ***
+An1an1: folds 
+nastja336: folds 
+reeqar: folds 
+DL1B: raises $1.50 to $2.50
+Supermegopro: folds 
+RORyX1MILLION: folds 
+Uncalled bet ($1.50) returned to DL1B
+DL1B collected $2.50 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B (button) collected ($2.50)
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: RORyX1MILLION (big blind) folded before Flop
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745959968:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:06:43 WET [2025/02/07 0:06:43 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: nastja336 ($204.60 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($123.77 in chips) 
+Seat 4: Supermegopro ($147.67 in chips) 
+Seat 5: RORyX1MILLION ($46.29 in chips) 
+Seat 6: An1an1 ($120.69 in chips) 
+RORyX1MILLION: posts small blind $0.50
+An1an1: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+reeqar: folds 
+DL1B: raises $1.50 to $2.50
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: calls $1.50
+*** FLOP *** [8d 4h 2h]
+An1an1: checks 
+DL1B: bets $2.61
+An1an1: folds 
+Uncalled bet ($2.61) returned to DL1B
+DL1B collected $5.22 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [8d 4h 2h]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B collected ($5.22)
+Seat 4: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (small blind) folded before Flop
+Seat 6: An1an1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254745962240:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:07:09 WET [2025/02/07 0:07:09 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: nastja336 ($204.60 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($126.49 in chips) 
+Seat 4: Supermegopro ($147.67 in chips) 
+Seat 5: RORyX1MILLION ($45.79 in chips) 
+Seat 6: An1an1 ($118.19 in chips) 
+An1an1: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+Uncalled bet ($0.50) returned to nastja336
+nastja336 collected $1 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: nastja336 (big blind) collected ($1)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (button) folded before Flop (didn't bet)
+Seat 6: An1an1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745963600:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:07:24 WET [2025/02/07 0:07:24 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: nastja336 ($205.10 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($126.49 in chips) 
+Seat 4: Supermegopro ($147.67 in chips) 
+Seat 5: RORyX1MILLION ($45.79 in chips) 
+Seat 6: An1an1 ($117.69 in chips) 
+nastja336: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: folds 
+Uncalled bet ($0.50) returned to reeqar
+reeqar collected $1 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: nastja336 (small blind) folded before Flop
+Seat 2: reeqar (big blind) collected ($1)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745965005:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:07:40 WET [2025/02/07 0:07:40 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: nastja336 ($204.60 in chips) 
+Seat 2: reeqar ($100.50 in chips) 
+Seat 3: DL1B ($126.49 in chips) 
+Seat 4: Supermegopro ($147.67 in chips) 
+Seat 5: RORyX1MILLION ($45.79 in chips) 
+Seat 6: An1an1 ($117.69 in chips) 
+reeqar: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: folds 
+reeqar: folds 
+DL1B: raises $9.50 to $12
+Supermegopro: folds 
+Uncalled bet ($9.50) returned to DL1B
+DL1B collected $5.50 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: nastja336 (button) folded before Flop (didn't bet)
+Seat 2: reeqar (small blind) folded before Flop
+Seat 3: DL1B (big blind) collected ($5.50)
+Seat 4: Supermegopro folded before Flop
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745967137:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:08:04 WET [2025/02/07 0:08:04 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: nastja336 ($204.60 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($129.49 in chips) 
+Seat 4: Supermegopro ($145.17 in chips) 
+Seat 5: RORyX1MILLION ($45.79 in chips) 
+Seat 6: An1an1 ($117.69 in chips) 
+DL1B: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Uncalled bet ($0.50) returned to Supermegopro
+Supermegopro collected $1 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar (button) folded before Flop (didn't bet)
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) collected ($1)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745968715:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:08:20 WET [2025/02/07 0:08:20 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: nastja336 ($204.60 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($128.99 in chips) 
+Seat 4: Supermegopro ($145.67 in chips) 
+Seat 5: RORyX1MILLION ($45.79 in chips) 
+Seat 6: An1an1 ($117.69 in chips) 
+Supermegopro: posts small blind $0.50
+RORyX1MILLION: posts big blind $1
+*** HOLE CARDS ***
+An1an1: folds 
+nastja336: folds 
+reeqar: raises $1.50 to $2.50
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: calls $1.50
+*** FLOP *** [4c 9s Jc]
+RORyX1MILLION: checks 
+reeqar: bets $2.61
+RORyX1MILLION: folds 
+Uncalled bet ($2.61) returned to reeqar
+reeqar collected $5.22 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [4c 9s Jc]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar collected ($5.22)
+Seat 3: DL1B (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: RORyX1MILLION (big blind) folded on the Flop
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745971613:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:08:52 WET [2025/02/07 0:08:52 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: nastja336 ($204.60 in chips) 
+Seat 2: reeqar ($102.72 in chips) 
+Seat 3: DL1B ($128.99 in chips) 
+Seat 4: Supermegopro ($145.17 in chips) 
+Seat 5: RORyX1MILLION ($43.29 in chips) 
+Seat 6: An1an1 ($117.69 in chips) 
+RORyX1MILLION: posts small blind $0.50
+An1an1: posts big blind $1
+*** HOLE CARDS ***
+nastja336: raises $1.50 to $2.50
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+Uncalled bet ($1.50) returned to nastja336
+nastja336 collected $2.50 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 collected ($2.50)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (small blind) folded before Flop
+Seat 6: An1an1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745973555:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:09:13 WET [2025/02/07 0:09:13 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: nastja336 ($206.10 in chips) 
+Seat 2: reeqar ($102.72 in chips) 
+Seat 3: DL1B ($128.99 in chips) 
+Seat 4: Supermegopro ($145.17 in chips) 
+Seat 5: RORyX1MILLION ($42.79 in chips) 
+Seat 6: An1an1 ($116.69 in chips) 
+An1an1: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+DL1B: folds 
+Supermegopro: raises $1.50 to $2.50
+RORyX1MILLION: calls $2.50
+An1an1: folds 
+nastja336: folds 
+*** FLOP *** [8h Qd Ac]
+Supermegopro: bets $2.04
+RORyX1MILLION: calls $2.04
+*** TURN *** [8h Qd Ac] [Qc]
+Supermegopro: checks 
+RORyX1MILLION: bets $4.03
+Supermegopro: calls $4.03
+*** RIVER *** [8h Qd Ac Qc] [9s]
+Supermegopro: checks 
+RORyX1MILLION: bets $19.71
+Supermegopro: folds 
+Uncalled bet ($19.71) returned to RORyX1MILLION
+RORyX1MILLION collected $17.71 from pot
+*** SUMMARY ***
+Total pot $18.64 | Rake $0.93 
+Board [8h Qd Ac Qc 9s]
+Seat 1: nastja336 (big blind) folded before Flop
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded on the River
+Seat 5: RORyX1MILLION (button) collected ($17.71)
+Seat 6: An1an1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745977138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:09:53 WET [2025/02/07 0:09:53 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: nastja336 ($205.10 in chips) 
+Seat 2: reeqar ($102.72 in chips) 
+Seat 3: DL1B ($128.99 in chips) 
+Seat 4: Supermegopro ($136.60 in chips) 
+Seat 5: RORyX1MILLION ($51.93 in chips) 
+Seat 6: An1an1 ($116.19 in chips) 
+nastja336: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: raises $2 to $3
+An1an1: folds 
+nastja336: raises $6 to $9
+reeqar: folds 
+RORyX1MILLION: folds 
+Uncalled bet ($6) returned to nastja336
+nastja336 collected $7 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: nastja336 (small blind) collected ($7)
+Seat 2: reeqar (big blind) folded before Flop
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop
+Seat 6: An1an1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745979849:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:10:23 WET [2025/02/07 0:10:23 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: nastja336 ($209.10 in chips) 
+Seat 2: reeqar ($101.72 in chips) 
+Seat 3: DL1B ($128.99 in chips) 
+Seat 4: Supermegopro ($136.60 in chips) 
+Seat 5: RORyX1MILLION ($48.93 in chips) 
+Seat 6: An1an1 ($116.19 in chips) 
+reeqar: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+RORyX1MILLION: calls $1
+An1an1: folds 
+nastja336: folds 
+reeqar: calls $0.50
+DL1B: checks 
+*** FLOP *** [8s Tc 4d]
+reeqar: bets $1.43
+DL1B: folds 
+RORyX1MILLION: folds 
+Uncalled bet ($1.43) returned to reeqar
+reeqar collected $2.85 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [8s Tc 4d]
+Seat 1: nastja336 (button) folded before Flop (didn't bet)
+Seat 2: reeqar (small blind) collected ($2.85)
+Seat 3: DL1B (big blind) folded on the Flop
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded on the Flop
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745982028:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:10:46 WET [2025/02/07 0:10:46 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: nastja336 ($209.10 in chips) 
+Seat 2: reeqar ($103.57 in chips) 
+Seat 3: DL1B ($127.99 in chips) 
+Seat 4: Supermegopro ($136.60 in chips) 
+Seat 5: RORyX1MILLION ($47.93 in chips) 
+Seat 6: An1an1 ($116.19 in chips) 
+DL1B: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+RORyX1MILLION: raises $2 to $3
+An1an1: raises $5.50 to $8.50
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: calls $5.50
+*** FLOP *** [Ts 3s Ad]
+RORyX1MILLION: checks 
+An1an1: bets $4.22
+RORyX1MILLION: calls $4.22
+*** TURN *** [Ts 3s Ad] [6s]
+RORyX1MILLION: checks 
+An1an1: checks 
+*** RIVER *** [Ts 3s Ad 6s] [7h]
+RORyX1MILLION: checks 
+An1an1: checks 
+*** SHOW DOWN ***
+RORyX1MILLION: shows [Qh Qs] (a pair of Queens)
+An1an1: mucks hand 
+RORyX1MILLION collected $25.59 from pot
+*** SUMMARY ***
+Total pot $26.94 | Rake $1.35 
+Board [Ts 3s Ad 6s 7h]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar (button) folded before Flop (didn't bet)
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) folded before Flop
+Seat 5: RORyX1MILLION showed [Qh Qs] and won ($25.59) with a pair of Queens
+Seat 6: An1an1 mucked
+
+
+
+PokerStars Hand #254745987149:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:11:44 WET [2025/02/07 0:11:44 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: nastja336 ($209.10 in chips) 
+Seat 2: reeqar ($103.57 in chips) 
+Seat 3: DL1B ($127.49 in chips) 
+Seat 4: Supermegopro ($135.60 in chips) 
+Seat 5: RORyX1MILLION ($60.80 in chips) 
+Seat 6: An1an1 ($103.47 in chips) 
+Supermegopro: posts small blind $0.50
+RORyX1MILLION: posts big blind $1
+*** HOLE CARDS ***
+An1an1: folds 
+nastja336: folds 
+reeqar: raises $1.50 to $2.50
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+Uncalled bet ($1.50) returned to reeqar
+reeqar collected $2.50 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar collected ($2.50)
+Seat 3: DL1B (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: RORyX1MILLION (big blind) folded before Flop
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745988691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:12:01 WET [2025/02/07 0:12:01 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: nastja336 ($209.10 in chips) 
+Seat 2: reeqar ($105.07 in chips) 
+Seat 3: DL1B ($127.49 in chips) 
+Seat 4: Supermegopro ($135.10 in chips) 
+Seat 5: RORyX1MILLION ($59.80 in chips) 
+Seat 6: An1an1 ($103.47 in chips) 
+RORyX1MILLION: posts small blind $0.50
+An1an1: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Supermegopro: raises $2 to $3
+RORyX1MILLION: folds 
+An1an1: folds 
+Uncalled bet ($2) returned to Supermegopro
+Supermegopro collected $2.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro (button) collected ($2.50)
+Seat 5: RORyX1MILLION (small blind) folded before Flop
+Seat 6: An1an1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745990339:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:12:19 WET [2025/02/07 0:12:19 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: nastja336 ($209.10 in chips) 
+Seat 2: reeqar ($105.07 in chips) 
+Seat 3: DL1B ($127.49 in chips) 
+Seat 4: Supermegopro ($136.60 in chips) 
+Seat 5: RORyX1MILLION ($59.30 in chips) 
+Seat 6: An1an1 ($102.47 in chips) 
+An1an1: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+Uncalled bet ($0.50) returned to nastja336
+nastja336 collected $1 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: nastja336 (big blind) collected ($1)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (button) folded before Flop (didn't bet)
+Seat 6: An1an1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745991571:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:12:33 WET [2025/02/07 0:12:33 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: nastja336 ($209.60 in chips) 
+Seat 2: reeqar ($105.07 in chips) 
+Seat 3: DL1B ($127.49 in chips) 
+Seat 4: Supermegopro ($136.60 in chips) 
+Seat 5: RORyX1MILLION ($59.30 in chips) 
+Seat 6: An1an1 ($101.97 in chips) 
+nastja336: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: raises $1.50 to $2.50
+nastja336: raises $9.50 to $12
+reeqar: folds 
+An1an1: folds 
+Uncalled bet ($9.50) returned to nastja336
+nastja336 collected $6 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: nastja336 (small blind) collected ($6)
+Seat 2: reeqar (big blind) folded before Flop
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 (button) folded before Flop
+
+
+
+PokerStars Hand #254745992949:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:12:48 WET [2025/02/07 0:12:48 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: nastja336 ($213.10 in chips) 
+Seat 2: reeqar ($104.07 in chips) 
+Seat 3: DL1B ($127.49 in chips) 
+Seat 4: Supermegopro ($136.60 in chips) 
+Seat 5: RORyX1MILLION ($59.30 in chips) 
+Seat 6: An1an1 ($100 in chips) 
+reeqar: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: raises $1.50 to $2.50
+reeqar: folds 
+DL1B: folds 
+Uncalled bet ($1.50) returned to nastja336
+nastja336 collected $2.50 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 (button) collected ($2.50)
+Seat 2: reeqar (small blind) folded before Flop
+Seat 3: DL1B (big blind) folded before Flop
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745994082:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:13:01 WET [2025/02/07 0:13:01 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: nastja336 ($214.60 in chips) 
+Seat 2: reeqar ($103.57 in chips) 
+Seat 3: DL1B ($126.49 in chips) 
+Seat 4: Supermegopro ($136.60 in chips) 
+Seat 5: RORyX1MILLION ($59.30 in chips) 
+Seat 6: An1an1 ($100 in chips) 
+DL1B: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Uncalled bet ($0.50) returned to Supermegopro
+Supermegopro collected $1 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar (button) folded before Flop (didn't bet)
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) collected ($1)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745995945:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:13:21 WET [2025/02/07 0:13:21 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: nastja336 ($214.60 in chips) 
+Seat 2: reeqar ($103.57 in chips) 
+Seat 3: DL1B ($125.99 in chips) 
+Seat 4: Supermegopro ($137.10 in chips) 
+Seat 5: RORyX1MILLION ($59.30 in chips) 
+Seat 6: An1an1 ($100 in chips) 
+Supermegopro: posts small blind $0.50
+RORyX1MILLION: posts big blind $1
+*** HOLE CARDS ***
+An1an1: calls $1
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: checks 
+*** FLOP *** [Th 2s 4s]
+RORyX1MILLION: checks 
+An1an1: bets $3
+RORyX1MILLION: folds 
+Uncalled bet ($3) returned to An1an1
+An1an1 collected $2.38 from pot
+An1an1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Th 2s 4s]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: RORyX1MILLION (big blind) folded on the Flop
+Seat 6: An1an1 collected ($2.38)
+
+
+
+PokerStars Hand #254745997925:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:13:43 WET [2025/02/07 0:13:43 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: nastja336 ($214.60 in chips) 
+Seat 2: reeqar ($103.57 in chips) 
+Seat 3: DL1B ($125.99 in chips) 
+Seat 4: Supermegopro ($136.60 in chips) 
+Seat 5: RORyX1MILLION ($58.30 in chips) 
+Seat 6: An1an1 ($101.38 in chips) 
+RORyX1MILLION: posts small blind $0.50
+An1an1: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Supermegopro: raises $1.50 to $2.50
+RORyX1MILLION: folds 
+An1an1: folds 
+Uncalled bet ($1.50) returned to Supermegopro
+Supermegopro collected $2.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro (button) collected ($2.50)
+Seat 5: RORyX1MILLION (small blind) folded before Flop
+Seat 6: An1an1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745998856:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:13:54 WET [2025/02/07 0:13:54 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: nastja336 ($214.60 in chips) 
+Seat 2: reeqar ($103.57 in chips) 
+Seat 3: DL1B ($125.99 in chips) 
+Seat 4: Supermegopro ($138.10 in chips) 
+Seat 5: RORyX1MILLION ($57.80 in chips) 
+Seat 6: An1an1 ($100.38 in chips) 
+An1an1: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+Uncalled bet ($0.50) returned to nastja336
+nastja336 collected $1 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: nastja336 (big blind) collected ($1)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (button) folded before Flop (didn't bet)
+Seat 6: An1an1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254746000553:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:14:12 WET [2025/02/07 0:14:12 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: nastja336 ($215.10 in chips) 
+Seat 2: reeqar ($103.57 in chips) 
+Seat 3: DL1B ($125.99 in chips) 
+Seat 4: Supermegopro ($138.10 in chips) 
+Seat 5: RORyX1MILLION ($57.80 in chips) 
+Seat 6: An1an1 ($100 in chips) 
+nastja336: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: raises $1.50 to $2.50
+nastja336: folds 
+reeqar: folds 
+Uncalled bet ($1.50) returned to An1an1
+An1an1 collected $2.50 from pot
+An1an1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 (small blind) folded before Flop
+Seat 2: reeqar (big blind) folded before Flop
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 (button) collected ($2.50)
+
+
+
+PokerStars Hand #254745903464:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:55:24 WET [2025/02/06 23:55:24 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($113.43 in chips) 
+Seat 4: Supermegopro ($155.17 in chips) 
+Seat 5: RORyX1MILLION ($72.50 in chips) 
+Seat 6: An1an1 ($139.06 in chips) 
+DL1B: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: folds 
+reeqar: raises $1.50 to $2.50
+DL1B: folds 
+Supermegopro: calls $1.50
+*** FLOP *** [5d 2h 8c]
+Supermegopro: checks 
+reeqar: bets $1.72
+Supermegopro: folds 
+Uncalled bet ($1.72) returned to reeqar
+reeqar collected $5.22 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [5d 2h 8c]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar (button) collected ($5.22)
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) folded on the Flop
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745905853:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:55:55 WET [2025/02/06 23:55:55 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 5: RORyX1MILLION ($72.50 in chips) is sitting out
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: reeqar ($102.72 in chips) 
+Seat 3: DL1B ($112.93 in chips) 
+Seat 4: Supermegopro ($152.67 in chips) 
+Seat 6: An1an1 ($139.06 in chips) 
+Supermegopro: posts small blind $0.50
+RORyX1MILLION has timed out
+RORyX1MILLION: is sitting out 
+An1an1: posts big blind $1
+*** HOLE CARDS ***
+RORyX1MILLION is disconnected 
+nastja336: folds 
+reeqar: folds 
+DL1B: raises $1.50 to $2.50
+Supermegopro: folds 
+An1an1: folds 
+Uncalled bet ($1.50) returned to DL1B
+DL1B collected $2.50 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: RORyX1MILLION
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B (button) collected ($2.50)
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 6: An1an1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745908232:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:56:27 WET [2025/02/06 23:56:27 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 5: RORyX1MILLION ($72.50 in chips) is sitting out
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: reeqar ($102.72 in chips) 
+Seat 3: DL1B ($114.43 in chips) 
+Seat 4: Supermegopro ($152.17 in chips) 
+Seat 6: An1an1 ($138.06 in chips) 
+An1an1: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+An1an1: folds 
+Uncalled bet ($0.50) returned to nastja336
+nastja336 collected $1 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: RORyX1MILLION
+Seat 1: nastja336 (big blind) collected ($1)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro (button) folded before Flop (didn't bet)
+Seat 6: An1an1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745909150:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:56:39 WET [2025/02/06 23:56:39 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: nastja336 ($100.50 in chips) 
+Seat 2: reeqar ($102.72 in chips) 
+Seat 3: DL1B ($114.43 in chips) 
+Seat 4: Supermegopro ($152.17 in chips) 
+Seat 5: RORyX1MILLION ($72.50 in chips) 
+Seat 6: An1an1 ($137.56 in chips) 
+nastja336: posts small blind $0.50
+reeqar: posts big blind $1
+RORyX1MILLION: posts small & big blinds $1.50
+*** HOLE CARDS ***
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: checks 
+An1an1: raises $3.50 to $4.50
+nastja336: folds 
+reeqar: folds 
+RORyX1MILLION: folds 
+Uncalled bet ($3.50) returned to An1an1
+An1an1 collected $4 from pot
+An1an1: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: nastja336 (small blind) folded before Flop
+Seat 2: reeqar (big blind) folded before Flop
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 (button) collected ($4)
+
+
+
+PokerStars Hand #254745912079:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:57:18 WET [2025/02/06 23:57:18 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: reeqar ($101.72 in chips) 
+Seat 3: DL1B ($114.43 in chips) 
+Seat 4: Supermegopro ($152.17 in chips) 
+Seat 5: RORyX1MILLION ($71 in chips) 
+Seat 6: An1an1 ($140.56 in chips) 
+reeqar: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+RORyX1MILLION: raises $1.55 to $2.55
+An1an1: folds 
+nastja336: raises $4.95 to $7.50
+reeqar: folds 
+DL1B: folds 
+RORyX1MILLION: folds 
+Uncalled bet ($4.95) returned to nastja336
+nastja336 collected $6.60 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.60 | Rake $0 
+Seat 1: nastja336 (button) collected ($6.60)
+Seat 2: reeqar (small blind) folded before Flop
+Seat 3: DL1B (big blind) folded before Flop
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745915122:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:57:58 WET [2025/02/06 23:57:58 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: nastja336 ($104.05 in chips) 
+Seat 2: reeqar ($101.22 in chips) 
+Seat 3: DL1B ($113.43 in chips) 
+Seat 4: Supermegopro ($152.17 in chips) 
+Seat 5: RORyX1MILLION ($68.45 in chips) 
+Seat 6: An1an1 ($140.56 in chips) 
+DL1B: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: folds 
+reeqar: raises $1.50 to $2.50
+DL1B: folds 
+Supermegopro: raises $9.50 to $12
+reeqar: folds 
+Uncalled bet ($9.50) returned to Supermegopro
+Supermegopro collected $5.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar (button) folded before Flop
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) collected ($5.50)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745916789:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:58:19 WET [2025/02/06 23:58:19 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: nastja336 ($104.05 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($112.93 in chips) 
+Seat 4: Supermegopro ($155.17 in chips) 
+Seat 5: RORyX1MILLION ($68.45 in chips) 
+Seat 6: An1an1 ($140.56 in chips) 
+Supermegopro: posts small blind $0.50
+RORyX1MILLION: posts big blind $1
+*** HOLE CARDS ***
+An1an1: folds 
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+Uncalled bet ($0.50) returned to RORyX1MILLION
+RORyX1MILLION collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: RORyX1MILLION (big blind) collected ($1)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745917798:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:58:33 WET [2025/02/06 23:58:33 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: nastja336 ($104.05 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($112.93 in chips) 
+Seat 4: Supermegopro ($154.67 in chips) 
+Seat 5: RORyX1MILLION ($68.95 in chips) 
+Seat 6: An1an1 ($140.56 in chips) 
+RORyX1MILLION: posts small blind $0.50
+An1an1: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+reeqar: raises $1.50 to $2.50
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+Uncalled bet ($1.50) returned to reeqar
+reeqar collected $2.50 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar collected ($2.50)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (small blind) folded before Flop
+Seat 6: An1an1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745919126:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:58:50 WET [2025/02/06 23:58:50 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: nastja336 ($104.05 in chips) 
+Seat 2: reeqar ($101.50 in chips) 
+Seat 3: DL1B ($112.93 in chips) 
+Seat 4: Supermegopro ($154.67 in chips) 
+Seat 5: RORyX1MILLION ($68.45 in chips) 
+Seat 6: An1an1 ($139.56 in chips) 
+An1an1: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: calls $1
+An1an1: raises $5 to $6
+nastja336: raises $12 to $18
+RORyX1MILLION: folds 
+An1an1: raises $121.56 to $139.56 and is all-in
+nastja336: calls $86.05 and is all-in
+Uncalled bet ($35.51) returned to An1an1
+*** FLOP *** [2c Td Jc]
+*** TURN *** [2c Td Jc] [Qc]
+*** RIVER *** [2c Td Jc Qc] [7d]
+*** SHOW DOWN ***
+An1an1: shows [Ks Kd] (a pair of Kings)
+nastja336: shows [Ac As] (a pair of Aces)
+nastja336 collected $206.60 from pot
+An1an1 cashed out the hand for $36.55 | Cash Out Fee $0.75
+*** SUMMARY ***
+Total pot $209.10 | Rake $2.50 
+Board [2c Td Jc Qc 7d]
+Seat 1: nastja336 (big blind) showed [Ac As] and won ($206.60) with a pair of Aces
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (button) folded before Flop
+Seat 6: An1an1 (small blind) showed [Ks Kd] and lost with a pair of Kings (cashed out).
+
+
+
+PokerStars Hand #254745923632:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:59:51 WET [2025/02/06 23:59:51 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: nastja336 ($206.60 in chips) 
+Seat 2: reeqar ($101.50 in chips) 
+Seat 3: DL1B ($112.93 in chips) 
+Seat 4: Supermegopro ($154.67 in chips) 
+Seat 5: RORyX1MILLION ($67.45 in chips) 
+Seat 6: An1an1 ($100 in chips) 
+nastja336: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: raises $1.50 to $2.50
+nastja336: folds 
+reeqar: calls $1.50
+*** FLOP *** [8h 2d Ks]
+reeqar: checks 
+An1an1: bets $2.61
+reeqar: folds 
+Uncalled bet ($2.61) returned to An1an1
+An1an1 collected $5.22 from pot
+An1an1: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [8h 2d Ks]
+Seat 1: nastja336 (small blind) folded before Flop
+Seat 2: reeqar (big blind) folded on the Flop
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 (button) collected ($5.22)
+
+
+
+PokerStars Hand #254745927345:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:00:38 WET [2025/02/07 0:00:38 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: nastja336 ($206.10 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($112.93 in chips) 
+Seat 4: Supermegopro ($154.67 in chips) 
+Seat 5: RORyX1MILLION ($67.45 in chips) 
+Seat 6: An1an1 ($102.72 in chips) 
+reeqar: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+RORyX1MILLION: raises $2 to $3
+An1an1: folds 
+nastja336: folds 
+reeqar: folds 
+DL1B: calls $2
+*** FLOP *** [9h 8h 5c]
+DL1B: checks 
+RORyX1MILLION: bets $2.09
+DL1B: folds 
+Uncalled bet ($2.09) returned to RORyX1MILLION
+RORyX1MILLION collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [9h 8h 5c]
+Seat 1: nastja336 (button) folded before Flop (didn't bet)
+Seat 2: reeqar (small blind) folded before Flop
+Seat 3: DL1B (big blind) folded on the Flop
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION collected ($6.18)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745929982:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:01:07 WET [2025/02/07 0:01:07 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: nastja336 ($206.10 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($109.93 in chips) 
+Seat 4: Supermegopro ($154.67 in chips) 
+Seat 5: RORyX1MILLION ($70.63 in chips) 
+Seat 6: An1an1 ($102.72 in chips) 
+DL1B: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: folds 
+reeqar: folds 
+DL1B: raises $2 to $3
+Supermegopro: calls $2
+*** FLOP *** [2s 2c 2d]
+DL1B: bets $1.88
+Supermegopro: folds 
+Uncalled bet ($1.88) returned to DL1B
+DL1B collected $5.70 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [2s 2c 2d]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar (button) folded before Flop (didn't bet)
+Seat 3: DL1B (small blind) collected ($5.70)
+Seat 4: Supermegopro (big blind) folded on the Flop
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745932691:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:01:39 WET [2025/02/07 0:01:39 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: nastja336 ($206.10 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($112.63 in chips) 
+Seat 4: Supermegopro ($151.67 in chips) 
+Seat 5: RORyX1MILLION ($70.63 in chips) 
+Seat 6: An1an1 ($102.72 in chips) 
+Supermegopro: posts small blind $0.50
+RORyX1MILLION: posts big blind $1
+*** HOLE CARDS ***
+An1an1: folds 
+nastja336: folds 
+reeqar: raises $1.50 to $2.50
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: calls $1.50
+*** FLOP *** [Kd 3s 2d]
+RORyX1MILLION: checks 
+reeqar: bets $2.61
+RORyX1MILLION: calls $2.61
+*** TURN *** [Kd 3s 2d] [7s]
+RORyX1MILLION: checks 
+reeqar: bets $8.91
+RORyX1MILLION: folds 
+Uncalled bet ($8.91) returned to reeqar
+reeqar collected $10.18 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.72 | Rake $0.54 
+Board [Kd 3s 2d 7s]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar collected ($10.18)
+Seat 3: DL1B (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: RORyX1MILLION (big blind) folded on the Turn
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745938558:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:02:44 WET [2025/02/07 0:02:44 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: nastja336 ($206.10 in chips) 
+Seat 2: reeqar ($105.07 in chips) 
+Seat 3: DL1B ($112.63 in chips) 
+Seat 4: Supermegopro ($151.17 in chips) 
+Seat 5: RORyX1MILLION ($65.52 in chips) 
+Seat 6: An1an1 ($102.72 in chips) 
+RORyX1MILLION: posts small blind $0.50
+An1an1: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+reeqar: folds 
+DL1B: raises $1.50 to $2.50
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: calls $1.50
+*** FLOP *** [6s 7s Js]
+An1an1: checks 
+DL1B: checks 
+*** TURN *** [6s 7s Js] [8d]
+An1an1: bets $1.57
+DL1B: calls $1.57
+*** RIVER *** [6s 7s Js 8d] [Jc]
+An1an1: checks 
+DL1B: checks 
+*** SHOW DOWN ***
+An1an1: shows [Ah 9c] (a pair of Jacks)
+DL1B: shows [8h Kh] (two pair, Jacks and Eights)
+DL1B collected $8.21 from pot
+*** SUMMARY ***
+Total pot $8.64 | Rake $0.43 
+Board [6s 7s Js 8d Jc]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B showed [8h Kh] and won ($8.21) with two pair, Jacks and Eights
+Seat 4: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (small blind) folded before Flop
+Seat 6: An1an1 (big blind) showed [Ah 9c] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254745943162:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:03:36 WET [2025/02/07 0:03:36 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: nastja336 ($206.10 in chips) 
+Seat 2: reeqar ($105.07 in chips) 
+Seat 3: DL1B ($116.77 in chips) 
+Seat 4: Supermegopro ($151.17 in chips) 
+Seat 5: RORyX1MILLION ($65.02 in chips) 
+Seat 6: An1an1 ($100 in chips) 
+An1an1: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: raises $2 to $3
+An1an1: folds 
+nastja336: folds 
+Uncalled bet ($2) returned to RORyX1MILLION
+RORyX1MILLION collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 (big blind) folded before Flop
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (button) collected ($2.50)
+Seat 6: An1an1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745945121:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 5:03:59 WET [2025/02/07 0:03:59 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: nastja336 ($205.10 in chips) 
+Seat 2: reeqar ($105.07 in chips) 
+Seat 3: DL1B ($116.77 in chips) 
+Seat 4: Supermegopro ($151.17 in chips) 
+Seat 5: RORyX1MILLION ($66.52 in chips) 
+Seat 6: An1an1 ($100 in chips) 
+nastja336: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: calls $1
+An1an1: raises $5 to $6
+nastja336: folds 
+reeqar: folds 
+RORyX1MILLION: calls $5
+*** FLOP *** [Kc 7s 5d]
+RORyX1MILLION: checks 
+An1an1: checks 
+*** TURN *** [Kc 7s 5d] [8c]
+RORyX1MILLION: bets $4.41
+An1an1: calls $4.41
+*** RIVER *** [Kc 7s 5d 8c] [Kh]
+RORyX1MILLION: bets $11
+An1an1: calls $11
+*** SHOW DOWN ***
+RORyX1MILLION: shows [Qc Th] (a pair of Kings)
+An1an1: shows [Jd Ad] (a pair of Kings - Ace kicker)
+An1an1 collected $42.10 from pot
+*** SUMMARY ***
+Total pot $44.32 | Rake $2.22 
+Board [Kc 7s 5d 8c Kh]
+Seat 1: nastja336 (small blind) folded before Flop
+Seat 2: reeqar (big blind) folded before Flop
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION showed [Qc Th] and lost with a pair of Kings
+Seat 6: An1an1 (button) showed [Jd Ad] and won ($42.10) with a pair of Kings
+
+
+
+PokerStars Hand #254745639660:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:11:07 WET [2025/02/06 23:11:07 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: Supermegopro ($175.92 in chips) 
+Seat 2: Rysiff ($103.68 in chips) 
+Seat 3: goktepe1990 ($106.26 in chips) 
+Seat 4: derek5858 ($100 in chips) 
+Seat 5: B1GBankroll ($112.33 in chips) 
+Seat 6: XneferX ($115.41 in chips) 
+XneferX: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+goktepe1990: calls $1
+derek5858: raises $2.50 to $3.50
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+goktepe1990: calls $2.50
+*** FLOP *** [Qh 2s 4d]
+goktepe1990: checks 
+derek5858: bets $2.42
+goktepe1990: calls $2.42
+*** TURN *** [Qh 2s 4d] [Kc]
+goktepe1990: checks 
+derek5858: checks 
+*** RIVER *** [Qh 2s 4d Kc] [Qc]
+goktepe1990: bets $6.34
+derek5858: folds 
+Uncalled bet ($6.34) returned to goktepe1990
+goktepe1990 collected $12.67 from pot
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [Qh 2s 4d Kc Qc]
+Seat 1: Supermegopro (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 collected ($12.67)
+Seat 4: derek5858 folded on the River
+Seat 5: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745645128:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:11:58 WET [2025/02/06 23:11:58 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: Supermegopro ($174.92 in chips) 
+Seat 2: Rysiff ($103.68 in chips) 
+Seat 3: goktepe1990 ($113.01 in chips) 
+Seat 4: derek5858 ($100 in chips) 
+Seat 5: B1GBankroll ($112.33 in chips) 
+Seat 6: XneferX ($114.91 in chips) 
+Supermegopro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+goktepe1990: calls $1
+derek5858: raises $2.50 to $3.50
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: calls $2.50
+*** FLOP *** [9c Tc Qs]
+goktepe1990: checks 
+derek5858: checks 
+*** TURN *** [9c Tc Qs] [6d]
+goktepe1990: bets $4.04
+derek5858: calls $4.04
+*** RIVER *** [9c Tc Qs 6d] [Ts]
+goktepe1990: checks 
+derek5858: bets $11.03
+goktepe1990: folds 
+Uncalled bet ($11.03) returned to derek5858
+derek5858 collected $15.75 from pot
+*** SUMMARY ***
+Total pot $16.58 | Rake $0.83 
+Board [9c Tc Qs 6d Ts]
+Seat 1: Supermegopro (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: goktepe1990 folded on the River
+Seat 4: derek5858 collected ($15.75)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745650569:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:12:49 WET [2025/02/06 23:12:49 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: Supermegopro ($174.42 in chips) 
+Seat 2: Rysiff ($102.68 in chips) 
+Seat 3: goktepe1990 ($105.47 in chips) 
+Seat 4: derek5858 ($108.21 in chips) 
+Seat 5: B1GBankroll ($112.33 in chips) 
+Seat 6: XneferX ($114.91 in chips) 
+Rysiff: posts small blind $0.50
+goktepe1990: posts big blind $1
+*** HOLE CARDS ***
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: raises $1.30 to $2.30
+Supermegopro: folds 
+Rysiff: calls $1.80
+goktepe1990: calls $1.30
+*** FLOP *** [2s Ts 9h]
+Rysiff: checks 
+goktepe1990: bets $1
+XneferX: folds 
+Rysiff: raises $6.85 to $7.85
+goktepe1990: calls $6.85
+*** TURN *** [2s Ts 9h] [4h]
+Rysiff: checks 
+goktepe1990: bets $10.74
+Rysiff: calls $10.74
+*** RIVER *** [2s Ts 9h 4h] [7s]
+Rysiff: checks 
+goktepe1990: checks 
+*** SHOW DOWN ***
+Rysiff: shows [Kd Js] (high card King)
+goktepe1990: shows [4d Tc] (two pair, Tens and Fours)
+goktepe1990 collected $41.88 from pot
+*** SUMMARY ***
+Total pot $44.08 | Rake $2.20 
+Board [2s Ts 9h 4h 7s]
+Seat 1: Supermegopro (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) showed [Kd Js] and lost with high card King
+Seat 3: goktepe1990 (big blind) showed [4d Tc] and won ($41.88) with two pair, Tens and Fours
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded on the Flop
+
+
+
+PokerStars Hand #254745657429:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:13:55 WET [2025/02/06 23:13:55 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: Supermegopro ($174.42 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($126.46 in chips) 
+Seat 4: derek5858 ($108.21 in chips) 
+Seat 5: B1GBankroll ($112.33 in chips) 
+Seat 6: XneferX ($112.61 in chips) 
+goktepe1990: posts small blind $0.50
+derek5858: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: calls $0.50
+derek5858: checks 
+*** FLOP *** [6d 4d 4h]
+goktepe1990: bets $1
+derek5858: calls $1
+*** TURN *** [6d 4d 4h] [5h]
+goktepe1990: bets $1
+derek5858: folds 
+Uncalled bet ($1) returned to goktepe1990
+goktepe1990 collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [6d 4d 4h 5h]
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: goktepe1990 (small blind) collected ($3.80)
+Seat 4: derek5858 (big blind) folded on the Turn
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745661871:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:14:38 WET [2025/02/06 23:14:38 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: Supermegopro ($174.42 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($128.26 in chips) 
+Seat 4: derek5858 ($106.21 in chips) 
+Seat 5: B1GBankroll ($112.33 in chips) 
+Seat 6: XneferX ($112.61 in chips) 
+derek5858: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: calls $1
+derek5858: folds 
+B1GBankroll: checks 
+*** FLOP *** [Kc 7h 6d]
+B1GBankroll: checks 
+goktepe1990: checks 
+*** TURN *** [Kc 7h 6d] [Js]
+B1GBankroll: bets $1.17
+goktepe1990: raises $1.17 to $2.34
+B1GBankroll: folds 
+Uncalled bet ($1.17) returned to goktepe1990
+goktepe1990 collected $4.60 from pot
+*** SUMMARY ***
+Total pot $4.84 | Rake $0.24 
+Board [Kc 7h 6d Js]
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 (button) collected ($4.60)
+Seat 4: derek5858 (small blind) folded before Flop
+Seat 5: B1GBankroll (big blind) folded on the Turn
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745665143:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:15:09 WET [2025/02/06 23:15:09 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: Supermegopro ($174.42 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($130.69 in chips) 
+Seat 4: derek5858 ($105.71 in chips) 
+Seat 5: B1GBankroll ($110.16 in chips) 
+Seat 6: XneferX ($112.61 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+Rysiff: folds 
+goktepe1990: calls $2.50
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: calls $1.50
+*** FLOP *** [Td Kh 4c]
+XneferX: checks 
+Supermegopro: checks 
+goktepe1990: checks 
+*** TURN *** [Td Kh 4c] [4d]
+XneferX: checks 
+Supermegopro: bets $4.07
+goktepe1990: folds 
+XneferX: folds 
+Uncalled bet ($4.07) returned to Supermegopro
+Supermegopro collected $7.60 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Td Kh 4c 4d]
+Seat 1: Supermegopro collected ($7.60)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 folded on the Turn
+Seat 4: derek5858 (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) folded before Flop
+Seat 6: XneferX (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254745668884:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:15:46 WET [2025/02/06 23:15:46 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: Supermegopro ($179.52 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($128.19 in chips) 
+Seat 4: derek5858 ($105.71 in chips) 
+Seat 5: B1GBankroll ($109.66 in chips) 
+Seat 6: XneferX ($110.11 in chips) 
+XneferX: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+goktepe1990: raises $1 to $2
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: raises $9 to $11
+Supermegopro: folds 
+goktepe1990: calls $9
+*** FLOP *** [2s Td 6c]
+XneferX: bets $11.14
+goktepe1990: calls $11.14
+*** TURN *** [2s Td 6c] [6s]
+XneferX: bets $21.94
+goktepe1990: calls $21.94
+*** RIVER *** [2s Td 6c 6s] [4h]
+XneferX: bets $66.03 and is all-in
+goktepe1990: folds 
+Uncalled bet ($66.03) returned to XneferX
+XneferX collected $86.66 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $89.16 | Rake $2.50 
+Board [2s Td 6c 6s 4h]
+Seat 1: Supermegopro (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 folded on the River
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) collected ($86.66)
+
+
+
+PokerStars Hand #254745676581:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:16:59 WET [2025/02/06 23:16:59 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: Supermegopro ($178.52 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($84.11 in chips) 
+Seat 4: derek5858 ($105.71 in chips) 
+Seat 5: B1GBankroll ($109.66 in chips) 
+Seat 6: XneferX ($152.69 in chips) 
+Supermegopro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+goktepe1990: folds 
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: raises $1.77 to $2.77
+Supermegopro: folds 
+Rysiff: folds 
+Uncalled bet ($1.77) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Supermegopro (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: goktepe1990 folded before Flop (didn't bet)
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX (button) collected ($2.50)
+
+
+
+PokerStars Hand #254745679242:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:17:24 WET [2025/02/06 23:17:24 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: Supermegopro ($178.02 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($84.11 in chips) 
+Seat 4: derek5858 ($105.71 in chips) 
+Seat 5: B1GBankroll ($109.66 in chips) 
+Seat 6: XneferX ($154.19 in chips) 
+Rysiff: posts small blind $0.50
+goktepe1990: posts big blind $1
+*** HOLE CARDS ***
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+Uncalled bet ($0.50) returned to goktepe1990
+goktepe1990 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Supermegopro (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: goktepe1990 (big blind) collected ($1)
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745680887:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:17:40 WET [2025/02/06 23:17:40 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: Supermegopro ($178.02 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($84.61 in chips) 
+Seat 4: derek5858 ($105.71 in chips) 
+Seat 5: B1GBankroll ($109.66 in chips) 
+Seat 6: XneferX ($154.19 in chips) 
+goktepe1990: posts small blind $0.50
+derek5858: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+XneferX: raises $1.10 to $2.10
+Supermegopro: calls $2.10
+Rysiff: folds 
+goktepe1990: raises $1.10 to $3.20
+derek5858: folds 
+XneferX: calls $1.10
+Supermegopro: calls $1.10
+*** FLOP *** [5s Kc 9d]
+goktepe1990: checks 
+XneferX: bets $3.42
+Supermegopro: raises $6.84 to $10.26
+goktepe1990: folds 
+XneferX: folds 
+Uncalled bet ($6.84) returned to Supermegopro
+Supermegopro collected $16.57 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.44 | Rake $0.87 
+Board [5s Kc 9d]
+Seat 1: Supermegopro collected ($16.57)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: goktepe1990 (small blind) folded on the Flop
+Seat 4: derek5858 (big blind) folded before Flop
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded on the Flop
+
+
+
+PokerStars Hand #254745688506:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:18:53 WET [2025/02/06 23:18:53 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: Supermegopro ($187.97 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($81.41 in chips) 
+Seat 4: derek5858 ($104.71 in chips) 
+Seat 5: B1GBankroll ($109.66 in chips) 
+Seat 6: XneferX ($147.57 in chips) 
+derek5858: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: raises $1 to $2
+derek5858: folds 
+B1GBankroll: calls $1
+*** FLOP *** [5s 2d 3c]
+B1GBankroll: checks 
+goktepe1990: checks 
+*** TURN *** [5s 2d 3c] [3h]
+B1GBankroll: bets $2.10
+goktepe1990: raises $2.10 to $4.20
+B1GBankroll: folds 
+Uncalled bet ($2.10) returned to goktepe1990
+goktepe1990 collected $8.26 from pot
+*** SUMMARY ***
+Total pot $8.70 | Rake $0.44 
+Board [5s 2d 3c 3h]
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 (button) collected ($8.26)
+Seat 4: derek5858 (small blind) folded before Flop
+Seat 5: B1GBankroll (big blind) folded on the Turn
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745692099:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:19:28 WET [2025/02/06 23:19:28 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: Supermegopro ($187.97 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($85.57 in chips) 
+Seat 4: derek5858 ($104.21 in chips) 
+Seat 5: B1GBankroll ($105.56 in chips) 
+Seat 6: XneferX ($147.57 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+Rysiff: raises $1.50 to $2.50
+goktepe1990: raises $1.50 to $4
+derek5858: folds 
+B1GBankroll: raises $11 to $15
+XneferX: folds 
+Rysiff: folds 
+goktepe1990: folds 
+Uncalled bet ($11) returned to B1GBankroll
+B1GBankroll collected $11.50 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.50 | Rake $0 
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop
+Seat 3: goktepe1990 folded before Flop
+Seat 4: derek5858 (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) collected ($11.50)
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745695408:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:20:00 WET [2025/02/06 23:20:00 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: Supermegopro ($187.97 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($81.57 in chips) 
+Seat 4: derek5858 ($104.21 in chips) 
+Seat 5: B1GBankroll ($113.06 in chips) 
+Seat 6: XneferX ($146.57 in chips) 
+XneferX: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+goktepe1990: calls $1
+derek5858: folds 
+B1GBankroll: raises $3 to $4
+XneferX: folds 
+Supermegopro: folds 
+goktepe1990: calls $3
+*** FLOP *** [2c 7s 5s]
+goktepe1990: checks 
+B1GBankroll: bets $4.42
+goktepe1990: calls $4.42
+*** TURN *** [2c 7s 5s] [6s]
+goktepe1990: bets $8.71
+B1GBankroll: calls $8.71
+*** RIVER *** [2c 7s 5s 6s] [Ad]
+goktepe1990: checks 
+B1GBankroll: bets $95.93 and is all-in
+goktepe1990: calls $64.44 and is all-in
+Uncalled bet ($31.49) returned to B1GBankroll
+*** SHOW DOWN ***
+B1GBankroll: shows [Th Qs] (high card Ace)
+goktepe1990: shows [3s Ac] (a pair of Aces)
+goktepe1990 collected $162.14 from pot
+*** SUMMARY ***
+Total pot $164.64 | Rake $2.50 
+Board [2c 7s 5s 6s Ad]
+Seat 1: Supermegopro (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 showed [3s Ac] and won ($162.14) with a pair of Aces
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll (button) showed [Th Qs] and lost with high card Ace
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745706105:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:21:41 WET [2025/02/06 23:21:41 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: Supermegopro ($186.97 in chips) 
+Seat 2: Rysiff ($100 in chips) 
+Seat 3: goktepe1990 ($162.14 in chips) 
+Seat 4: derek5858 ($104.21 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: XneferX ($146.07 in chips) 
+Supermegopro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+goktepe1990: calls $1
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: calls $0.50
+Rysiff: checks 
+*** FLOP *** [Tc 8d 2d]
+Supermegopro: checks 
+Rysiff: checks 
+goktepe1990: bets $2.85
+Supermegopro: folds 
+Rysiff: raises $9.15 to $12
+goktepe1990: folds 
+Uncalled bet ($9.15) returned to Rysiff
+Rysiff collected $8.26 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.70 | Rake $0.44 
+Board [Tc 8d 2d]
+Seat 1: Supermegopro (small blind) folded on the Flop
+Seat 2: Rysiff (big blind) collected ($8.26)
+Seat 3: goktepe1990 folded on the Flop
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745710803:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:22:26 WET [2025/02/06 23:22:26 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: Supermegopro ($185.97 in chips) 
+Seat 2: Rysiff ($104.41 in chips) 
+Seat 3: goktepe1990 ($158.29 in chips) 
+Seat 4: derek5858 ($104.21 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: XneferX ($146.07 in chips) 
+Rysiff: posts small blind $0.50
+goktepe1990: posts big blind $1
+*** HOLE CARDS ***
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: raises $2 to $3
+goktepe1990: calls $2
+*** FLOP *** [5h 4s 2c]
+Rysiff: bets $4.56
+goktepe1990: folds 
+Uncalled bet ($4.56) returned to Rysiff
+Rysiff collected $5.70 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [5h 4s 2c]
+Seat 1: Supermegopro (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) collected ($5.70)
+Seat 3: goktepe1990 (big blind) folded on the Flop
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745713613:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:22:53 WET [2025/02/06 23:22:53 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: Supermegopro ($185.97 in chips) 
+Seat 2: Rysiff ($107.11 in chips) 
+Seat 3: goktepe1990 ($155.29 in chips) 
+Seat 4: derek5858 ($104.21 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: XneferX ($146.07 in chips) 
+goktepe1990: posts small blind $0.50
+derek5858: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: raises $1.50 to $2.50
+Rysiff: folds 
+goktepe1990: calls $2
+derek5858: folds 
+*** FLOP *** [3c 3h 7c]
+goktepe1990: bets $2.85
+Supermegopro: calls $2.85
+*** TURN *** [3c 3h 7c] [3d]
+goktepe1990: bets $5.56
+Supermegopro: calls $5.56
+*** RIVER *** [3c 3h 7c 3d] [2d]
+goktepe1990: bets $21.68
+Supermegopro: folds 
+Uncalled bet ($21.68) returned to goktepe1990
+goktepe1990 collected $21.68 from pot
+goktepe1990: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.82 | Rake $1.14 
+Board [3c 3h 7c 3d 2d]
+Seat 1: Supermegopro folded on the River
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: goktepe1990 (small blind) collected ($21.68)
+Seat 4: derek5858 (big blind) folded before Flop
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745717015:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:23:25 WET [2025/02/06 23:23:25 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: Supermegopro ($175.06 in chips) 
+Seat 2: Rysiff ($107.11 in chips) 
+Seat 3: goktepe1990 ($166.06 in chips) 
+Seat 4: derek5858 ($103.21 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: XneferX ($146.07 in chips) 
+derek5858: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: raises $1 to $2
+derek5858: folds 
+B1GBankroll: calls $1
+*** FLOP *** [Th 4s 3h]
+B1GBankroll: checks 
+goktepe1990: bets $1
+B1GBankroll: calls $1
+*** TURN *** [Th 4s 3h] [Td]
+B1GBankroll: checks 
+goktepe1990: bets $6.18
+B1GBankroll: folds 
+Uncalled bet ($6.18) returned to goktepe1990
+goktepe1990 collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Th 4s 3h Td]
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 (button) collected ($6.18)
+Seat 4: derek5858 (small blind) folded before Flop
+Seat 5: B1GBankroll (big blind) folded on the Turn
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745720507:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:23:59 WET [2025/02/06 23:23:59 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: Supermegopro ($175.06 in chips) 
+Seat 2: Rysiff ($107.11 in chips) 
+Seat 3: goktepe1990 ($169.24 in chips) 
+Seat 4: derek5858 ($102.71 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: XneferX ($146.07 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: raises $1 to $2
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: calls $1
+*** FLOP *** [5d 7h Ad]
+XneferX: checks 
+goktepe1990: checks 
+*** TURN *** [5d 7h Ad] [4d]
+XneferX: bets $3.30
+goktepe1990: calls $3.30
+*** RIVER *** [5d 7h Ad 4d] [Jc]
+XneferX: bets $16.02
+goktepe1990: folds 
+Uncalled bet ($16.02) returned to XneferX
+XneferX collected $10.54 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.10 | Rake $0.56 
+Board [5d 7h Ad 4d Jc]
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 folded on the River
+Seat 4: derek5858 (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) folded before Flop
+Seat 6: XneferX (big blind) collected ($10.54)
+
+
+
+PokerStars Hand #254745725260:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:24:45 WET [2025/02/06 23:24:45 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: Supermegopro ($175.06 in chips) 
+Seat 2: Rysiff ($107.11 in chips) 
+Seat 3: goktepe1990 ($163.94 in chips) 
+Seat 4: derek5858 ($102.71 in chips) 
+Seat 5: B1GBankroll ($100 in chips) 
+Seat 6: XneferX ($151.31 in chips) 
+XneferX: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+goktepe1990: calls $1
+derek5858: folds 
+B1GBankroll: raises $5.50 to $6.50
+XneferX: folds 
+Supermegopro: folds 
+goktepe1990: folds 
+Uncalled bet ($5.50) returned to B1GBankroll
+B1GBankroll collected $3.50 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: Supermegopro (big blind) folded before Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 folded before Flop
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll (button) collected ($3.50)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745727969:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:25:12 WET [2025/02/06 23:25:12 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: Supermegopro ($174.06 in chips) 
+Seat 2: Rysiff ($107.11 in chips) 
+Seat 3: goktepe1990 ($162.94 in chips) 
+Seat 4: derek5858 ($102.71 in chips) 
+Seat 5: B1GBankroll ($102.50 in chips) 
+Seat 6: XneferX ($150.81 in chips) 
+Supermegopro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+goktepe1990: folds 
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: raises $1.77 to $2.77
+Supermegopro: folds 
+Rysiff: folds 
+Uncalled bet ($1.77) returned to XneferX
+XneferX collected $2.50 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Supermegopro (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: goktepe1990 folded before Flop (didn't bet)
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX (button) collected ($2.50)
+
+
+
+PokerStars Hand #254745729508:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:25:27 WET [2025/02/06 23:25:27 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: Supermegopro ($173.56 in chips) 
+Seat 2: Rysiff ($106.11 in chips) 
+Seat 3: goktepe1990 ($162.94 in chips) 
+Seat 4: derek5858 ($102.71 in chips) 
+Seat 5: B1GBankroll ($102.50 in chips) 
+Seat 6: XneferX ($152.31 in chips) 
+Rysiff: posts small blind $0.50
+goktepe1990: posts big blind $1
+*** HOLE CARDS ***
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: raises $1.30 to $2.30
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: calls $1.30
+*** FLOP *** [Ac 4d 5s]
+goktepe1990: checks 
+XneferX: bets $1.65
+goktepe1990: folds 
+Uncalled bet ($1.65) returned to XneferX
+XneferX collected $4.84 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.26 
+Board [Ac 4d 5s]
+Seat 1: Supermegopro (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) folded before Flop
+Seat 3: goktepe1990 (big blind) folded on the Flop
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX collected ($4.84)
+
+
+
+PokerStars Hand #254745732616:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:25:58 WET [2025/02/06 23:25:58 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: Supermegopro ($173.56 in chips) 
+Seat 2: Rysiff ($105.61 in chips) 
+Seat 3: goktepe1990 ($160.64 in chips) 
+Seat 4: derek5858 ($102.71 in chips) 
+Seat 5: B1GBankroll ($102.50 in chips) 
+Seat 6: XneferX ($154.85 in chips) 
+goktepe1990: posts small blind $0.50
+derek5858: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: raises $1.50 to $2.50
+Rysiff: folds 
+goktepe1990: calls $2
+derek5858: raises $11.50 to $14
+Supermegopro: folds 
+goktepe1990: folds 
+Uncalled bet ($11.50) returned to derek5858
+derek5858 collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: Supermegopro folded before Flop
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: goktepe1990 (small blind) folded before Flop
+Seat 4: derek5858 (big blind) collected ($7.50)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745735279:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:26:24 WET [2025/02/06 23:26:24 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: Supermegopro ($171.06 in chips) 
+Seat 2: Rysiff ($105.61 in chips) 
+Seat 3: goktepe1990 ($158.14 in chips) 
+Seat 4: derek5858 ($107.71 in chips) 
+Seat 5: B1GBankroll ($102.50 in chips) 
+Seat 6: XneferX ($154.85 in chips) 
+derek5858: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Supermegopro: raises $1.50 to $2.50
+Rysiff: folds 
+goktepe1990: calls $2.50
+derek5858: folds 
+B1GBankroll: calls $1.50
+*** FLOP *** [Ks 8c 4d]
+B1GBankroll: bets $3.72
+Supermegopro: folds 
+goktepe1990: calls $3.72
+*** TURN *** [Ks 8c 4d] [8h]
+B1GBankroll: checks 
+goktepe1990: checks 
+*** RIVER *** [Ks 8c 4d 8h] [8d]
+B1GBankroll: bets $13.06
+goktepe1990: calls $13.06
+*** SHOW DOWN ***
+B1GBankroll: shows [Kh Qc] (a full house, Eights full of Kings)
+goktepe1990: mucks hand 
+B1GBankroll collected $39.48 from pot
+*** SUMMARY ***
+Total pot $41.56 | Rake $2.08 
+Board [Ks 8c 4d 8h 8d]
+Seat 1: Supermegopro folded on the Flop
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 (button) mucked
+Seat 4: derek5858 (small blind) folded before Flop
+Seat 5: B1GBankroll (big blind) showed [Kh Qc] and won ($39.48) with a full house, Eights full of Kings
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745740981:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:27:21 WET [2025/02/06 23:27:21 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: Supermegopro ($168.56 in chips) 
+Seat 2: Rysiff ($105.61 in chips) 
+Seat 3: goktepe1990 ($138.86 in chips) 
+Seat 4: derek5858 ($107.21 in chips) 
+Seat 5: B1GBankroll ($122.70 in chips) 
+Seat 6: XneferX ($154.85 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+Rysiff: folds 
+goktepe1990: calls $2.50
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: calls $1.50
+*** FLOP *** [8h 4h Ah]
+XneferX: checks 
+Supermegopro: checks 
+goktepe1990: checks 
+*** TURN *** [8h 4h Ah] [2h]
+XneferX: checks 
+Supermegopro: checks 
+goktepe1990: checks 
+*** RIVER *** [8h 4h Ah 2h] [6d]
+XneferX: checks 
+Supermegopro: checks 
+goktepe1990: checks 
+*** SHOW DOWN ***
+XneferX: shows [5s As] (a pair of Aces)
+Supermegopro: shows [Jd Ad] (a pair of Aces - Jack kicker)
+goktepe1990: mucks hand 
+Supermegopro collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [8h 4h Ah 2h 6d]
+Seat 1: Supermegopro showed [Jd Ad] and won ($7.60) with a pair of Aces
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 mucked
+Seat 4: derek5858 (button) folded before Flop (didn't bet)
+Seat 5: B1GBankroll (small blind) folded before Flop
+Seat 6: XneferX (big blind) showed [5s As] and lost with a pair of Aces
+
+
+
+PokerStars Hand #254745745685:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:28:06 WET [2025/02/06 23:28:06 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: Supermegopro ($173.66 in chips) 
+Seat 2: Rysiff ($105.61 in chips) 
+Seat 3: goktepe1990 ($136.36 in chips) 
+Seat 4: derek5858 ($107.21 in chips) 
+Seat 5: B1GBankroll ($122.20 in chips) 
+Seat 6: XneferX ($152.35 in chips) 
+XneferX: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+goktepe1990: calls $1
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Supermegopro: raises $4 to $5
+goktepe1990: calls $4
+*** FLOP *** [Ah 5s 2h]
+Supermegopro: bets $3.99
+goktepe1990: calls $3.99
+*** TURN *** [Ah 5s 2h] [5c]
+Supermegopro: checks 
+goktepe1990: bets $8.78
+Supermegopro: folds 
+Uncalled bet ($8.78) returned to goktepe1990
+goktepe1990 collected $17.56 from pot
+*** SUMMARY ***
+Total pot $18.48 | Rake $0.92 
+Board [Ah 5s 2h 5c]
+Seat 1: Supermegopro (big blind) folded on the Turn
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 3: goktepe1990 collected ($17.56)
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745749486:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:28:44 WET [2025/02/06 23:28:44 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: Supermegopro ($164.67 in chips) 
+Seat 2: Rysiff ($105.61 in chips) 
+Seat 3: goktepe1990 ($144.93 in chips) 
+Seat 4: derek5858 ($107.21 in chips) 
+Seat 5: B1GBankroll ($122.20 in chips) 
+Seat 6: XneferX ($151.85 in chips) 
+Supermegopro: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+goktepe1990: calls $1
+derek5858: folds 
+B1GBankroll: raises $5.50 to $6.50
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: calls $5.50
+*** FLOP *** [Ts 7s 7c]
+goktepe1990: checks 
+B1GBankroll: checks 
+*** TURN *** [Ts 7s 7c] [Ks]
+goktepe1990: checks 
+B1GBankroll: checks 
+*** RIVER *** [Ts 7s 7c Ks] [4s]
+goktepe1990: checks 
+B1GBankroll: checks 
+*** SHOW DOWN ***
+goktepe1990: shows [2s 2c] (a flush, King high)
+B1GBankroll: mucks hand 
+goktepe1990 collected $13.78 from pot
+*** SUMMARY ***
+Total pot $14.50 | Rake $0.72 
+Board [Ts 7s 7c Ks 4s]
+Seat 1: Supermegopro (small blind) folded before Flop
+Seat 2: Rysiff (big blind) folded before Flop
+Seat 3: goktepe1990 showed [2s 2c] and won ($13.78) with a flush, King high
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll mucked
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745754373:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:29:33 WET [2025/02/06 23:29:33 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: Supermegopro ($164.17 in chips) 
+Seat 2: Rysiff ($104.61 in chips) 
+Seat 3: goktepe1990 ($152.21 in chips) 
+Seat 4: derek5858 ($107.21 in chips) 
+Seat 5: B1GBankroll ($115.70 in chips) 
+Seat 6: XneferX ($151.85 in chips) 
+Rysiff: posts small blind $0.50
+goktepe1990: posts big blind $1
+*** HOLE CARDS ***
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: raises $1.30 to $2.30
+Supermegopro: folds 
+Rysiff: raises $8.70 to $11
+goktepe1990: calls $10
+XneferX: folds 
+*** FLOP *** [4d 6d Qs]
+Rysiff: bets $11.54
+goktepe1990: folds 
+Uncalled bet ($11.54) returned to Rysiff
+Rysiff collected $23.08 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.30 | Rake $1.22 
+Board [4d 6d Qs]
+Seat 1: Supermegopro (button) folded before Flop (didn't bet)
+Seat 2: Rysiff (small blind) collected ($23.08)
+Seat 3: goktepe1990 (big blind) folded on the Flop
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop
+
+
+
+PokerStars Hand #254745758023:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:30:09 WET [2025/02/06 23:30:09 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: Supermegopro ($164.17 in chips) 
+Seat 2: Rysiff ($116.69 in chips) 
+Seat 3: goktepe1990 ($141.21 in chips) 
+Seat 4: derek5858 ($107.21 in chips) 
+Seat 5: B1GBankroll ($115.70 in chips) 
+Seat 6: XneferX ($149.55 in chips) 
+goktepe1990: posts small blind $0.50
+derek5858: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: raises $1.50 to $2.50
+XneferX: folds 
+Supermegopro: folds 
+Rysiff: folds 
+goktepe1990: folds 
+derek5858: folds 
+Uncalled bet ($1.50) returned to B1GBankroll
+goktepe1990 leaves the table
+B1GBankroll collected $2.50 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff (button) folded before Flop (didn't bet)
+Seat 3: goktepe1990 (small blind) folded before Flop
+Seat 4: derek5858 (big blind) folded before Flop
+Seat 5: B1GBankroll collected ($2.50)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745760022:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:30:29 WET [2025/02/06 23:30:29 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: Supermegopro ($164.17 in chips) 
+Seat 2: Rysiff ($116.69 in chips) 
+Seat 4: derek5858 ($106.21 in chips) 
+Seat 5: B1GBankroll ($117.20 in chips) 
+Seat 6: XneferX ($149.55 in chips) 
+B1GBankroll: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+Rysiff: folds 
+Supermegopro leaves the table
+derek5858: raises $1.50 to $2.50
+B1GBankroll: folds 
+XneferX: folds 
+Uncalled bet ($1.50) returned to derek5858
+derek5858 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Supermegopro folded before Flop (didn't bet)
+Seat 2: Rysiff folded before Flop (didn't bet)
+Seat 4: derek5858 (button) collected ($2.50)
+Seat 5: B1GBankroll (small blind) folded before Flop
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745763009:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:30:59 WET [2025/02/06 23:30:59 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 2: Rysiff ($116.69 in chips) 
+Seat 4: derek5858 ($107.71 in chips) 
+Seat 5: B1GBankroll ($116.70 in chips) 
+Seat 6: XneferX ($148.55 in chips) 
+XneferX: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+derek5858: folds 
+B1GBankroll: folds 
+XneferX: folds 
+Uncalled bet ($0.50) returned to Rysiff
+Rysiff collected $1 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Rysiff (big blind) collected ($1)
+Seat 4: derek5858 folded before Flop (didn't bet)
+Seat 5: B1GBankroll (button) folded before Flop (didn't bet)
+Seat 6: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745764760:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:31:16 WET [2025/02/06 23:31:16 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 4: derek5858 ($107.71 in chips) is sitting out
+Seat 2: Rysiff ($117.19 in chips) 
+Seat 5: B1GBankroll ($116.70 in chips) 
+Seat 6: XneferX ($148.05 in chips) 
+Rysiff: posts small blind $0.50
+derek5858: is sitting out 
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+derek5858 leaves the table
+XneferX: folds 
+Rysiff: raises $2 to $3
+B1GBankroll: calls $2
+*** FLOP *** [6d Jh 5s]
+Rysiff: bets $1.88
+B1GBankroll: calls $1.88
+*** TURN *** [6d Jh 5s] [Ts]
+XneferX leaves the table
+Rysiff: bets $14
+B1GBankroll: folds 
+Uncalled bet ($14) returned to Rysiff
+Rysiff collected $9.27 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [6d Jh 5s Ts]
+Seat 4: derek5858
+Seat 2: Rysiff (small blind) collected ($9.27)
+Seat 5: B1GBankroll (big blind) folded on the Turn
+Seat 6: XneferX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745824091:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:41:18 WET [2025/02/06 23:41:18 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: Supermegopro ($164.17 in chips) 
+Seat 5: RORyX1MILLION ($61.38 in chips) 
+Seat 6: An1an1 ($127.34 in chips) 
+reeqar: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: raises $1.50 to $2.50
+reeqar: folds 
+DL1B: calls $1.50
+*** FLOP *** [5d 6h Ac]
+DL1B: checks 
+nastja336: bets $2.61
+DL1B: folds 
+Uncalled bet ($2.61) returned to nastja336
+nastja336 collected $5.22 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [5d 6h Ac]
+Seat 1: nastja336 (button) collected ($5.22)
+Seat 2: reeqar (small blind) folded before Flop
+Seat 3: DL1B (big blind) folded on the Flop
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745825923:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:41:37 WET [2025/02/06 23:41:37 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: nastja336 ($102.72 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: Supermegopro ($164.17 in chips) 
+Seat 5: RORyX1MILLION ($61.38 in chips) 
+Seat 6: An1an1 ($127.34 in chips) 
+DL1B: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+RORyX1MILLION: raises $1 to $2
+An1an1: folds 
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+Uncalled bet ($1) returned to RORyX1MILLION
+RORyX1MILLION collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar (button) folded before Flop (didn't bet)
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) folded before Flop
+Seat 5: RORyX1MILLION collected ($2.50)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745828195:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:42:00 WET [2025/02/06 23:42:00 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: nastja336 ($102.72 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: Supermegopro ($163.17 in chips) 
+Seat 5: RORyX1MILLION ($62.88 in chips) 
+Seat 6: An1an1 ($127.34 in chips) 
+Supermegopro: posts small blind $0.50
+RORyX1MILLION: posts big blind $1
+*** HOLE CARDS ***
+An1an1: folds 
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Supermegopro: raises $2 to $3
+RORyX1MILLION: folds 
+Uncalled bet ($2) returned to Supermegopro
+Supermegopro collected $2 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) collected ($2)
+Seat 5: RORyX1MILLION (big blind) folded before Flop
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745829701:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:42:16 WET [2025/02/06 23:42:16 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: nastja336 ($102.72 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($100 in chips) 
+Seat 4: Supermegopro ($164.17 in chips) 
+Seat 5: RORyX1MILLION ($61.88 in chips) 
+Seat 6: An1an1 ($127.34 in chips) 
+RORyX1MILLION: posts small blind $0.50
+An1an1: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+reeqar: folds 
+DL1B: raises $1.50 to $2.50
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+Uncalled bet ($1.50) returned to DL1B
+DL1B collected $2.50 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B collected ($2.50)
+Seat 4: Supermegopro (button) folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (small blind) folded before Flop
+Seat 6: An1an1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745830992:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:42:29 WET [2025/02/06 23:42:29 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: nastja336 ($102.72 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($101.50 in chips) 
+Seat 4: Supermegopro ($164.17 in chips) 
+Seat 5: RORyX1MILLION ($61.38 in chips) 
+Seat 6: An1an1 ($126.34 in chips) 
+An1an1: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+DL1B: folds 
+Supermegopro: raises $1.50 to $2.50
+RORyX1MILLION: raises $6.50 to $9
+An1an1: folds 
+nastja336: folds 
+Supermegopro: folds 
+Uncalled bet ($6.50) returned to RORyX1MILLION
+RORyX1MILLION collected $6.50 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: nastja336 (big blind) folded before Flop
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop
+Seat 5: RORyX1MILLION (button) collected ($6.50)
+Seat 6: An1an1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745833865:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:42:59 WET [2025/02/06 23:42:59 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: nastja336 ($101.72 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($101.50 in chips) 
+Seat 4: Supermegopro ($161.67 in chips) 
+Seat 5: RORyX1MILLION ($65.38 in chips) 
+Seat 6: An1an1 ($125.84 in chips) 
+nastja336: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: raises $1.50 to $2.50
+nastja336: folds 
+reeqar: raises $8.50 to $11
+An1an1: raises $13.20 to $24.20
+reeqar: folds 
+Uncalled bet ($13.20) returned to An1an1
+An1an1 collected $22.50 from pot
+An1an1: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.50 | Rake $0 
+Seat 1: nastja336 (small blind) folded before Flop
+Seat 2: reeqar (big blind) folded before Flop
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 (button) collected ($22.50)
+
+
+
+PokerStars Hand #254745837106:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:43:33 WET [2025/02/06 23:43:33 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: nastja336 ($101.22 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($101.50 in chips) 
+Seat 4: Supermegopro ($161.67 in chips) 
+Seat 5: RORyX1MILLION ($65.38 in chips) 
+Seat 6: An1an1 ($137.34 in chips) 
+reeqar: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $1.50 to $2.50
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: folds 
+reeqar: folds 
+DL1B: raises $9.50 to $12
+Supermegopro: calls $9.50
+*** FLOP *** [5c 2d Ac]
+DL1B: bets $7.68
+Supermegopro: folds 
+Uncalled bet ($7.68) returned to DL1B
+DL1B collected $23.28 from pot
+DL1B: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.50 | Rake $1.22 
+Board [5c 2d Ac]
+Seat 1: nastja336 (button) folded before Flop (didn't bet)
+Seat 2: reeqar (small blind) folded before Flop
+Seat 3: DL1B (big blind) collected ($23.28)
+Seat 4: Supermegopro folded on the Flop
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745841426:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:44:17 WET [2025/02/06 23:44:17 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: nastja336 ($101.22 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($112.78 in chips) 
+Seat 4: Supermegopro ($149.67 in chips) 
+Seat 5: RORyX1MILLION ($65.38 in chips) 
+Seat 6: An1an1 ($137.34 in chips) 
+DL1B: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+RORyX1MILLION: folds 
+An1an1: raises $1 to $2
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+Uncalled bet ($1) returned to An1an1
+An1an1 collected $2.50 from pot
+An1an1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar (button) folded before Flop (didn't bet)
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) folded before Flop
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 collected ($2.50)
+
+
+
+PokerStars Hand #254745843032:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:44:34 WET [2025/02/06 23:44:34 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: nastja336 ($101.22 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($112.28 in chips) 
+Seat 4: Supermegopro ($148.67 in chips) 
+Seat 5: RORyX1MILLION ($65.38 in chips) 
+Seat 6: An1an1 ($138.84 in chips) 
+Supermegopro: posts small blind $0.50
+RORyX1MILLION: posts big blind $1
+*** HOLE CARDS ***
+An1an1: raises $1 to $2
+nastja336: folds 
+reeqar: folds 
+DL1B: calls $2
+Supermegopro: folds 
+RORyX1MILLION: folds 
+*** FLOP *** [Ah 3d Kh]
+An1an1: checks 
+DL1B: checks 
+*** TURN *** [Ah 3d Kh] [5s]
+An1an1: bets $1.57
+DL1B: folds 
+Uncalled bet ($1.57) returned to An1an1
+An1an1 collected $5.22 from pot
+An1an1: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Ah 3d Kh 5s]
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B (button) folded on the Turn
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: RORyX1MILLION (big blind) folded before Flop
+Seat 6: An1an1 collected ($5.22)
+
+
+
+PokerStars Hand #254745849352:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:45:40 WET [2025/02/06 23:45:40 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: nastja336 ($101.22 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($110.28 in chips) 
+Seat 4: Supermegopro ($148.17 in chips) 
+Seat 5: RORyX1MILLION ($64.38 in chips) 
+Seat 6: An1an1 ($142.06 in chips) 
+RORyX1MILLION: posts small blind $0.50
+An1an1: posts big blind $1
+*** HOLE CARDS ***
+nastja336 has timed out
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Supermegopro: raises $2 to $3
+RORyX1MILLION: folds 
+An1an1: folds 
+Uncalled bet ($2) returned to Supermegopro
+Supermegopro collected $2.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro (button) collected ($2.50)
+Seat 5: RORyX1MILLION (small blind) folded before Flop
+Seat 6: An1an1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745851653:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:46:04 WET [2025/02/06 23:46:04 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: nastja336 ($101.22 in chips) 
+Seat 2: reeqar ($100 in chips) 
+Seat 3: DL1B ($110.28 in chips) 
+Seat 4: Supermegopro ($149.67 in chips) 
+Seat 5: RORyX1MILLION ($63.88 in chips) 
+Seat 6: An1an1 ($141.06 in chips) 
+An1an1: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+reeqar: raises $1.50 to $2.50
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION is disconnected 
+RORyX1MILLION has timed out while disconnected
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: calls $1.50
+*** FLOP *** [Kd Jd 6d]
+nastja336: checks 
+reeqar: bets $1.30
+nastja336: folds 
+Uncalled bet ($1.30) returned to reeqar
+reeqar collected $5.22 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Kd Jd 6d]
+Seat 1: nastja336 (big blind) folded on the Flop
+Seat 2: reeqar collected ($5.22)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (button) folded before Flop (didn't bet)
+Seat 6: An1an1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745858809:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:47:19 WET [2025/02/06 23:47:19 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: reeqar ($102.72 in chips) 
+Seat 3: DL1B ($110.28 in chips) 
+Seat 4: Supermegopro ($149.67 in chips) 
+Seat 5: RORyX1MILLION ($63.88 in chips) 
+Seat 6: An1an1 ($140.56 in chips) 
+nastja336: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: raises $2 to $3
+An1an1: folds 
+nastja336: calls $2.50
+reeqar: folds 
+*** FLOP *** [5c Js 4c]
+nastja336: checks 
+RORyX1MILLION: bets $2.33
+nastja336: calls $2.33
+*** TURN *** [5c Js 4c] [3d]
+nastja336: checks 
+RORyX1MILLION: bets $3.54
+nastja336: calls $3.54
+*** RIVER *** [5c Js 4c 3d] [5d]
+nastja336: checks 
+RORyX1MILLION: bets $21.80
+nastja336: folds 
+Uncalled bet ($21.80) returned to RORyX1MILLION
+RORyX1MILLION collected $17.80 from pot
+RORyX1MILLION: shows [3h 3c] (a full house, Threes full of Fives)
+*** SUMMARY ***
+Total pot $18.74 | Rake $0.94 
+Board [5c Js 4c 3d 5d]
+Seat 1: nastja336 (small blind) folded on the River
+Seat 2: reeqar (big blind) folded before Flop
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION collected ($17.80)
+Seat 6: An1an1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745866315:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:48:40 WET [2025/02/06 23:48:40 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: reeqar ($101.72 in chips) 
+Seat 3: DL1B ($110.28 in chips) 
+Seat 4: Supermegopro ($149.67 in chips) 
+Seat 5: RORyX1MILLION ($72.81 in chips) 
+Seat 6: An1an1 ($140.56 in chips) 
+reeqar: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: raises $1 to $2
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Uncalled bet ($1) returned to An1an1
+An1an1 collected $2.50 from pot
+An1an1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 (button) folded before Flop (didn't bet)
+Seat 2: reeqar (small blind) folded before Flop
+Seat 3: DL1B (big blind) folded before Flop
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 collected ($2.50)
+
+
+
+PokerStars Hand #254745867821:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:48:55 WET [2025/02/06 23:48:55 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: nastja336 ($100 in chips) 
+Seat 2: reeqar ($101.22 in chips) 
+Seat 3: DL1B ($109.28 in chips) 
+Seat 4: Supermegopro ($149.67 in chips) 
+Seat 5: RORyX1MILLION ($72.81 in chips) 
+Seat 6: An1an1 ($142.06 in chips) 
+DL1B: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+RORyX1MILLION: raises $1.25 to $2.25
+An1an1: raises $5.25 to $7.50
+nastja336: raises $14.50 to $22
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+Uncalled bet ($14.50) returned to nastja336
+nastja336 collected $18.75 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.75 | Rake $0 
+Seat 1: nastja336 collected ($18.75)
+Seat 2: reeqar (button) folded before Flop (didn't bet)
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) folded before Flop
+Seat 5: RORyX1MILLION folded before Flop
+Seat 6: An1an1 folded before Flop
+
+
+
+PokerStars Hand #254745870139:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:49:20 WET [2025/02/06 23:49:20 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: nastja336 ($111.25 in chips) 
+Seat 2: reeqar ($101.22 in chips) 
+Seat 3: DL1B ($108.78 in chips) 
+Seat 4: Supermegopro ($148.67 in chips) 
+Seat 5: RORyX1MILLION ($70.56 in chips) 
+Seat 6: An1an1 ($134.56 in chips) 
+Supermegopro: posts small blind $0.50
+RORyX1MILLION: posts big blind $1
+*** HOLE CARDS ***
+An1an1: calls $1
+nastja336: calls $1
+reeqar: folds 
+DL1B: calls $1
+Supermegopro: folds 
+RORyX1MILLION: raises $3 to $4
+An1an1: raises $10.50 to $14.50
+nastja336: folds 
+DL1B: folds 
+RORyX1MILLION has timed out
+RORyX1MILLION: folds 
+Uncalled bet ($10.50) returned to An1an1
+An1an1 collected $10.50 from pot
+An1an1: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.50 | Rake $0 
+Seat 1: nastja336 folded before Flop
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B (button) folded before Flop
+Seat 4: Supermegopro (small blind) folded before Flop
+Seat 5: RORyX1MILLION (big blind) folded before Flop
+Seat 6: An1an1 collected ($10.50)
+
+
+
+PokerStars Hand #254745874980:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:50:12 WET [2025/02/06 23:50:12 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 5: RORyX1MILLION ($66.56 in chips) is sitting out
+Seat 1: nastja336 ($110.25 in chips) 
+Seat 2: reeqar ($101.22 in chips) 
+Seat 3: DL1B ($107.78 in chips) 
+Seat 4: Supermegopro ($148.17 in chips) 
+Seat 6: An1an1 ($141.06 in chips) 
+An1an1: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+DL1B: raises $1.50 to $2.50
+Supermegopro: raises $5 to $7.50
+An1an1: folds 
+nastja336: folds 
+DL1B: folds 
+Uncalled bet ($5) returned to Supermegopro
+Supermegopro collected $6.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 5: RORyX1MILLION
+Seat 1: nastja336 (big blind) folded before Flop
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop
+Seat 4: Supermegopro (button) collected ($6.50)
+Seat 6: An1an1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254745876572:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:50:30 WET [2025/02/06 23:50:30 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: nastja336 ($109.25 in chips) 
+Seat 2: reeqar ($101.22 in chips) 
+Seat 3: DL1B ($105.28 in chips) 
+Seat 4: Supermegopro ($152.17 in chips) 
+Seat 5: RORyX1MILLION ($66.56 in chips) 
+Seat 6: An1an1 ($140.56 in chips) 
+nastja336: posts small blind $0.50
+reeqar: posts big blind $1
+RORyX1MILLION: posts small blind $0.50
+*** HOLE CARDS ***
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: folds 
+Uncalled bet ($0.50) returned to reeqar
+reeqar collected $1.50 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: nastja336 (small blind) folded before Flop
+Seat 2: reeqar (big blind) collected ($1.50)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745878096:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:50:46 WET [2025/02/06 23:50:46 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: nastja336 ($108.75 in chips) 
+Seat 2: reeqar ($102.22 in chips) 
+Seat 3: DL1B ($105.28 in chips) 
+Seat 4: Supermegopro ($152.17 in chips) 
+Seat 5: RORyX1MILLION ($66.06 in chips) 
+Seat 6: An1an1 ($140.56 in chips) 
+reeqar: posts small blind $0.50
+DL1B: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: folds 
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: folds 
+reeqar: raises $2 to $3
+DL1B: folds 
+Uncalled bet ($2) returned to reeqar
+reeqar collected $2 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: nastja336 (button) folded before Flop (didn't bet)
+Seat 2: reeqar (small blind) collected ($2)
+Seat 3: DL1B (big blind) folded before Flop
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745879727:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:51:04 WET [2025/02/06 23:51:04 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: nastja336 ($108.75 in chips) 
+Seat 2: reeqar ($103.22 in chips) 
+Seat 3: DL1B ($104.28 in chips) 
+Seat 4: Supermegopro ($152.17 in chips) 
+Seat 5: RORyX1MILLION ($66.06 in chips) 
+Seat 6: An1an1 ($140.56 in chips) 
+DL1B: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+RORyX1MILLION: folds 
+An1an1: folds 
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Uncalled bet ($0.50) returned to Supermegopro
+Supermegopro collected $1 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar (button) folded before Flop (didn't bet)
+Seat 3: DL1B (small blind) folded before Flop
+Seat 4: Supermegopro (big blind) collected ($1)
+Seat 5: RORyX1MILLION folded before Flop (didn't bet)
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745880776:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:51:15 WET [2025/02/06 23:51:15 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: nastja336 ($108.75 in chips) 
+Seat 2: reeqar ($103.22 in chips) 
+Seat 3: DL1B ($103.78 in chips) 
+Seat 4: Supermegopro ($152.67 in chips) 
+Seat 5: RORyX1MILLION ($66.06 in chips) 
+Seat 6: An1an1 ($140.56 in chips) 
+Supermegopro: posts small blind $0.50
+RORyX1MILLION: posts big blind $1
+*** HOLE CARDS ***
+An1an1: folds 
+nastja336: folds 
+reeqar: raises $1.50 to $2.50
+DL1B: folds 
+Supermegopro: raises $9.50 to $12
+RORyX1MILLION: folds 
+reeqar: folds 
+Uncalled bet ($9.50) returned to Supermegopro
+Supermegopro collected $6 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop
+Seat 3: DL1B (button) folded before Flop (didn't bet)
+Seat 4: Supermegopro (small blind) collected ($6)
+Seat 5: RORyX1MILLION (big blind) folded before Flop
+Seat 6: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254745884241:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:51:53 WET [2025/02/06 23:51:53 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: nastja336 ($108.75 in chips) 
+Seat 2: reeqar ($100.72 in chips) 
+Seat 3: DL1B ($103.78 in chips) 
+Seat 4: Supermegopro ($156.17 in chips) 
+Seat 5: RORyX1MILLION ($65.06 in chips) 
+Seat 6: An1an1 ($140.56 in chips) 
+RORyX1MILLION: posts small blind $0.50
+An1an1: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+reeqar: folds 
+DL1B: folds 
+Supermegopro: raises $1.50 to $2.50
+RORyX1MILLION: folds 
+An1an1: folds 
+Uncalled bet ($1.50) returned to Supermegopro
+Supermegopro collected $2.50 from pot
+Supermegopro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: nastja336 folded before Flop (didn't bet)
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro (button) collected ($2.50)
+Seat 5: RORyX1MILLION (small blind) folded before Flop
+Seat 6: An1an1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254745885558:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 4:52:07 WET [2025/02/06 23:52:07 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: nastja336 ($108.75 in chips) 
+Seat 2: reeqar ($100.72 in chips) 
+Seat 3: DL1B ($103.78 in chips) 
+Seat 4: Supermegopro ($157.67 in chips) 
+Seat 5: RORyX1MILLION ($64.56 in chips) 
+Seat 6: An1an1 ($139.56 in chips) 
+An1an1: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+DL1B: folds 
+Supermegopro: folds 
+RORyX1MILLION: calls $1
+An1an1: folds 
+nastja336: raises $4 to $5
+RORyX1MILLION: calls $4
+*** FLOP *** [Kc 3c 8s]
+nastja336: bets $3.29
+RORyX1MILLION: calls $3.29
+*** TURN *** [Kc 3c 8s] [8d]
+nastja336: checks 
+RORyX1MILLION: bets $6.12
+nastja336: folds 
+Uncalled bet ($6.12) returned to RORyX1MILLION
+RORyX1MILLION collected $16.23 from pot
+*** SUMMARY ***
+Total pot $17.08 | Rake $0.85 
+Board [Kc 3c 8s 8d]
+Seat 1: nastja336 (big blind) folded on the Turn
+Seat 2: reeqar folded before Flop (didn't bet)
+Seat 3: DL1B folded before Flop (didn't bet)
+Seat 4: Supermegopro folded before Flop (didn't bet)
+Seat 5: RORyX1MILLION (button) collected ($16.23)
+Seat 6: An1an1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254753549800:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:10:08 WET [2025/02/07 14:10:08 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 6: michasia ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: henri789 ($100.50 in chips) 
+Seat 3: Gjeneral66 ($44.97 in chips) 
+Seat 5: blackclan7 ($107.39 in chips) 
+henri789: posts small blind $0.50
+Gjeneral66: posts big blind $1
+michasia: sits out 
+*** HOLE CARDS ***
+blackclan7: folds 
+ImaPeppaPig: raises $1.50 to $2.50
+henri789: folds 
+Gjeneral66: calls $1.50
+*** FLOP *** [7h 5c Jc]
+Gjeneral66: checks 
+blackclan7 leaves the table
+ImaPeppaPig: checks 
+*** TURN *** [7h 5c Jc] [Ac]
+Gjeneral66: bets $2.45
+ImaPeppaPig: folds 
+Uncalled bet ($2.45) returned to Gjeneral66
+Gjeneral66 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [7h 5c Jc Ac]
+Seat 6: michasia
+Seat 1: ImaPeppaPig (button) folded on the Turn
+Seat 2: henri789 (small blind) folded before Flop
+Seat 3: Gjeneral66 (big blind) collected ($5.22)
+Seat 5: blackclan7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753562192:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:10:51 WET [2025/02/07 14:10:51 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: henri789 ($100 in chips) 
+Seat 3: Gjeneral66 ($47.69 in chips) 
+Seat 6: michasia ($100 in chips) 
+Gjeneral66: posts small blind $0.50
+michasia: posts big blind $1
+*** HOLE CARDS ***
+ImaPeppaPig: folds 
+henri789: folds 
+Gjeneral66: calls $0.50
+michasia: checks 
+*** FLOP *** [Kc 6s 2s]
+Gjeneral66: bets $1
+michasia: calls $1
+*** TURN *** [Kc 6s 2s] [Qh]
+Gjeneral66: bets $1.90
+michasia: calls $1.90
+*** RIVER *** [Kc 6s 2s Qh] [4s]
+Gjeneral66: bets $3.71
+michasia: calls $3.71
+*** SHOW DOWN ***
+Gjeneral66: shows [8s Qs] (a flush, Queen high)
+michasia: mucks hand 
+Gjeneral66 collected $14.46 from pot
+*** SUMMARY ***
+Total pot $15.22 | Rake $0.76 
+Board [Kc 6s 2s Qh 4s]
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: henri789 (button) folded before Flop (didn't bet)
+Seat 3: Gjeneral66 (small blind) showed [8s Qs] and won ($14.46) with a flush, Queen high
+Seat 6: michasia (big blind) mucked
+
+
+
+PokerStars Hand #254753571940:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:11:26 WET [2025/02/07 14:11:26 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: henri789 ($100 in chips) 
+Seat 3: Gjeneral66 ($54.54 in chips) 
+Seat 6: michasia ($100 in chips) 
+michasia: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+henri789: folds 
+Gjeneral66: folds 
+michasia: raises $2 to $3
+ImaPeppaPig: folds 
+Uncalled bet ($2) returned to michasia
+michasia collected $2 from pot
+michasia: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: ImaPeppaPig (big blind) folded before Flop
+Seat 2: henri789 folded before Flop (didn't bet)
+Seat 3: Gjeneral66 (button) folded before Flop (didn't bet)
+Seat 6: michasia (small blind) collected ($2)
+
+
+
+PokerStars Hand #254753575182:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:11:37 WET [2025/02/07 14:11:37 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: henri789 ($100 in chips) 
+Seat 3: Gjeneral66 ($54.54 in chips) 
+Seat 6: michasia ($101 in chips) 
+ImaPeppaPig: posts small blind $0.50
+henri789: posts big blind $1
+*** HOLE CARDS ***
+Gjeneral66: folds 
+michasia: folds 
+ImaPeppaPig: folds 
+Uncalled bet ($0.50) returned to henri789
+MoRsCeReBruM joins the table at seat #5 
+henri789 collected $1 from pot
+henri789: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ImaPeppaPig (small blind) folded before Flop
+Seat 2: henri789 (big blind) collected ($1)
+Seat 3: Gjeneral66 folded before Flop (didn't bet)
+Seat 6: michasia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753580201:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:11:55 WET [2025/02/07 14:11:55 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 5: MoRsCeReBruM ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: henri789 ($100.50 in chips) 
+Seat 3: Gjeneral66 ($54.54 in chips) 
+Seat 6: michasia ($101 in chips) 
+henri789: posts small blind $0.50
+Gjeneral66: posts big blind $1
+MoRsCeReBruM: sits out 
+*** HOLE CARDS ***
+michasia: folds 
+ImaPeppaPig: raises $1.50 to $2.50
+henri789: folds 
+Gjeneral66: folds 
+Uncalled bet ($1.50) returned to ImaPeppaPig
+ImaPeppaPig collected $2.50 from pot
+ImaPeppaPig: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: MoRsCeReBruM
+Seat 1: ImaPeppaPig (button) collected ($2.50)
+Seat 2: henri789 (small blind) folded before Flop
+Seat 3: Gjeneral66 (big blind) folded before Flop
+Seat 6: michasia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753584646:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:12:11 WET [2025/02/07 14:12:11 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: ImaPeppaPig ($101.50 in chips) 
+Seat 2: henri789 ($100 in chips) 
+Seat 3: Gjeneral66 ($53.54 in chips) 
+Seat 5: MoRsCeReBruM ($100 in chips) 
+Seat 6: michasia ($101 in chips) 
+Gjeneral66: posts small blind $0.50
+MoRsCeReBruM: posts big blind $1
+*** HOLE CARDS ***
+michasia: folds 
+ImaPeppaPig: raises $1.50 to $2.50
+henri789: raises $5 to $7.50
+Gjeneral66: folds 
+MoRsCeReBruM: folds 
+ImaPeppaPig: raises $13.50 to $21
+Lucastitos joins the table at seat #4 
+henri789: folds 
+Uncalled bet ($13.50) returned to ImaPeppaPig
+ImaPeppaPig collected $16.50 from pot
+ImaPeppaPig: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0 
+Seat 1: ImaPeppaPig collected ($16.50)
+Seat 2: henri789 (button) folded before Flop
+Seat 3: Gjeneral66 (small blind) folded before Flop
+Seat 5: MoRsCeReBruM (big blind) folded before Flop
+Seat 6: michasia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753595518:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:12:50 WET [2025/02/07 14:12:50 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 4: Lucastitos ($100 in chips) is sitting out
+Seat 6: michasia ($101 in chips) is sitting out
+Seat 1: ImaPeppaPig ($110.50 in chips) 
+Seat 2: henri789 ($100 in chips) 
+Seat 3: Gjeneral66 ($53.04 in chips) 
+Seat 5: MoRsCeReBruM ($100 in chips) 
+MoRsCeReBruM: posts small blind $0.50
+michasia: is sitting out 
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+henri789: folds 
+michasia leaves the table
+Gjeneral66: raises $1.50 to $2.50
+MoRsCeReBruM: folds 
+straight77777 joins the table at seat #6 
+ImaPeppaPig: calls $1.50
+*** FLOP *** [6d 7c Qh]
+straight77777 is disconnected 
+ImaPeppaPig: checks 
+Gjeneral66: bets $2.61
+ImaPeppaPig: raises $4.39 to $7
+Gjeneral66: folds 
+Uncalled bet ($4.39) returned to ImaPeppaPig
+ImaPeppaPig collected $10.18 from pot
+ImaPeppaPig: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.72 | Rake $0.54 
+Board [6d 7c Qh]
+Seat 4: Lucastitos
+Seat 6: michasia
+Seat 1: ImaPeppaPig (big blind) collected ($10.18)
+Seat 2: henri789 folded before Flop (didn't bet)
+Seat 3: Gjeneral66 (button) folded on the Flop
+Seat 5: MoRsCeReBruM (small blind) folded before Flop
+
+
+
+PokerStars Hand #254753603827:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:13:19 WET [2025/02/07 14:13:19 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 4: Lucastitos ($100 in chips) is sitting out
+Seat 6: straight77777 ($10 in chips) is sitting out
+Seat 1: ImaPeppaPig ($115.57 in chips) 
+Seat 2: henri789 ($100 in chips) 
+Seat 3: Gjeneral66 ($47.93 in chips) 
+Seat 5: MoRsCeReBruM ($100 in chips) 
+ImaPeppaPig: posts small blind $0.50
+henri789: posts big blind $1
+Lucastitos: sits out 
+*** HOLE CARDS ***
+Gjeneral66: folds 
+MoRsCeReBruM: raises $1.50 to $2.50
+ImaPeppaPig: folds 
+henri789: folds 
+Uncalled bet ($1.50) returned to MoRsCeReBruM
+MoRsCeReBruM collected $2.50 from pot
+MoRsCeReBruM: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: Lucastitos
+Seat 6: straight77777
+Seat 1: ImaPeppaPig (small blind) folded before Flop
+Seat 2: henri789 (big blind) folded before Flop
+Seat 3: Gjeneral66 folded before Flop (didn't bet)
+Seat 5: MoRsCeReBruM (button) collected ($2.50)
+
+
+
+PokerStars Hand #254753608054:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:13:34 WET [2025/02/07 14:13:34 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 4: Lucastitos ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($115.07 in chips) 
+Seat 2: henri789 ($100 in chips) 
+Seat 3: Gjeneral66 ($47.93 in chips) 
+Seat 5: MoRsCeReBruM ($101.50 in chips) 
+Seat 6: straight77777 ($10 in chips) 
+henri789: posts small blind $0.50
+Gjeneral66: posts big blind $1
+Lucastitos: sits out 
+straight77777: posts big blind $1
+*** HOLE CARDS ***
+MoRsCeReBruM: raises $2 to $3
+straight77777: folds 
+ImaPeppaPig: folds 
+henri789: folds 
+Gjeneral66: raises $9 to $12
+MoRsCeReBruM: folds 
+Uncalled bet ($9) returned to Gjeneral66
+Gjeneral66 collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 4: Lucastitos
+Seat 1: ImaPeppaPig (button) folded before Flop (didn't bet)
+Seat 2: henri789 (small blind) folded before Flop
+Seat 3: Gjeneral66 (big blind) collected ($7.50)
+Seat 5: MoRsCeReBruM folded before Flop
+Seat 6: straight77777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753619360:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:14:14 WET [2025/02/07 14:14:14 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: ImaPeppaPig ($115.07 in chips) 
+Seat 2: henri789 ($100 in chips) 
+Seat 3: Gjeneral66 ($52.43 in chips) 
+Seat 4: Lucastitos ($100 in chips) 
+Seat 5: MoRsCeReBruM ($100 in chips) 
+Seat 6: straight77777 ($9 in chips) 
+Gjeneral66: posts small blind $0.50
+Lucastitos: posts big blind $1
+*** HOLE CARDS ***
+MoRsCeReBruM: folds 
+straight77777: folds 
+ImaPeppaPig: folds 
+henri789: folds 
+Gjeneral66: folds 
+Uncalled bet ($0.50) returned to Lucastitos
+Lucastitos collected $1 from pot
+Lucastitos: doesn't show hand 
+MoRsCeReBruM leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: henri789 (button) folded before Flop (didn't bet)
+Seat 3: Gjeneral66 (small blind) folded before Flop
+Seat 4: Lucastitos (big blind) collected ($1)
+Seat 5: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 6: straight77777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753623853:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:14:30 WET [2025/02/07 14:14:30 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: ImaPeppaPig ($115.07 in chips) 
+Seat 2: henri789 ($100 in chips) 
+Seat 3: Gjeneral66 ($51.93 in chips) 
+Seat 4: Lucastitos ($100.50 in chips) 
+Seat 6: straight77777 ($9 in chips) 
+Lucastitos: posts small blind $0.50
+straight77777: posts big blind $1
+*** HOLE CARDS ***
+ImaPeppaPig: folds 
+henri789: raises $1.50 to $2.50
+Gjeneral66: folds 
+Lucastitos: folds 
+reiyser joins the table at seat #5 
+straight77777: calls $1.50
+*** FLOP *** [5h 4d Ts]
+straight77777: checks 
+henri789: bets $1.72
+straight77777: calls $1.72
+*** TURN *** [5h 4d Ts] [8d]
+straight77777: checks 
+henri789: checks 
+*** RIVER *** [5h 4d Ts 8d] [8h]
+straight77777: bets $4.78 and is all-in
+henri789: calls $4.78
+*** SHOW DOWN ***
+straight77777: shows [5s Qc] (two pair, Eights and Fives)
+henri789: shows [As 9c] (a pair of Eights)
+straight77777 collected $17.58 from pot
+*** SUMMARY ***
+Total pot $18.50 | Rake $0.92 
+Board [5h 4d Ts 8d 8h]
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: henri789 showed [As 9c] and lost with a pair of Eights
+Seat 3: Gjeneral66 (button) folded before Flop (didn't bet)
+Seat 4: Lucastitos (small blind) folded before Flop
+Seat 6: straight77777 (big blind) showed [5s Qc] and won ($17.58) with two pair, Eights and Fives
+
+
+
+PokerStars Hand #254753646222:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:15:48 WET [2025/02/07 14:15:48 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 5: reiyser ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($115.07 in chips) 
+Seat 2: henri789 ($100 in chips) 
+Seat 3: Gjeneral66 ($51.93 in chips) 
+Seat 4: Lucastitos ($100 in chips) 
+Seat 6: straight77777 ($17.58 in chips) 
+straight77777: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+henri789: folds 
+Gjeneral66: raises $1.50 to $2.50
+Lucastitos: folds 
+straight77777: folds 
+ImaPeppaPig: raises $10.50 to $13
+Gjeneral66: folds 
+Uncalled bet ($10.50) returned to ImaPeppaPig
+ImaPeppaPig collected $5.50 from pot
+ImaPeppaPig: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 5: reiyser
+Seat 1: ImaPeppaPig (big blind) collected ($5.50)
+Seat 2: henri789 folded before Flop (didn't bet)
+Seat 3: Gjeneral66 folded before Flop
+Seat 4: Lucastitos (button) folded before Flop (didn't bet)
+Seat 6: straight77777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254753652451:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:16:10 WET [2025/02/07 14:16:10 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 5: reiyser ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($118.07 in chips) 
+Seat 2: henri789 ($100 in chips) 
+Seat 3: Gjeneral66 ($49.43 in chips) 
+Seat 4: Lucastitos ($100 in chips) 
+Seat 6: straight77777 ($17.08 in chips) 
+ImaPeppaPig: posts small blind $0.50
+henri789: posts big blind $1
+reiyser: sits out 
+*** HOLE CARDS ***
+Gjeneral66: raises $1.50 to $2.50
+Lucastitos: folds 
+straight77777: folds 
+ImaPeppaPig: folds 
+henri789: folds 
+Uncalled bet ($1.50) returned to Gjeneral66
+henri789 leaves the table
+Gjeneral66 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: reiyser
+Seat 1: ImaPeppaPig (small blind) folded before Flop
+Seat 2: henri789 (big blind) folded before Flop
+Seat 3: Gjeneral66 collected ($2.50)
+Seat 4: Lucastitos folded before Flop (didn't bet)
+Seat 6: straight77777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753657141:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:16:26 WET [2025/02/07 14:16:26 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 5: reiyser ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($117.57 in chips) 
+Seat 3: Gjeneral66 ($50.93 in chips) 
+Seat 4: Lucastitos ($100 in chips) 
+Seat 6: straight77777 ($17.08 in chips) 
+Gjeneral66: posts small blind $0.50
+Lucastitos: posts big blind $1
+reiyser: sits out 
+*** HOLE CARDS ***
+straight77777: folds 
+ImaPeppaPig: folds 
+Gjeneral66: folds 
+Uncalled bet ($0.50) returned to Lucastitos
+Lucastitos collected $1 from pot
+Lucastitos: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: reiyser
+Seat 1: ImaPeppaPig (button) folded before Flop (didn't bet)
+Seat 3: Gjeneral66 (small blind) folded before Flop
+Seat 4: Lucastitos (big blind) collected ($1)
+Seat 6: straight77777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753659422:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:16:34 WET [2025/02/07 14:16:34 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: ImaPeppaPig ($117.57 in chips) 
+Seat 3: Gjeneral66 ($50.43 in chips) 
+Seat 4: Lucastitos ($100.50 in chips) 
+Seat 5: reiyser ($100 in chips) 
+Seat 6: straight77777 ($17.08 in chips) 
+coeeeelho joins the table at seat #2 
+Lucastitos: posts small blind $0.50
+reiyser: posts big blind $1
+*** HOLE CARDS ***
+straight77777: folds 
+ImaPeppaPig: folds 
+Gjeneral66: raises $1.50 to $2.50
+Lucastitos: folds 
+reiyser: calls $1.50
+*** FLOP *** [Kh 7d 6d]
+reiyser: checks 
+Gjeneral66: bets $2.61
+reiyser: calls $2.61
+*** TURN *** [Kh 7d 6d] [Qh]
+reiyser: checks 
+Gjeneral66: bets $7.95
+reiyser: calls $7.95
+*** RIVER *** [Kh 7d 6d Qh] [Tc]
+reiyser: checks 
+Gjeneral66: bets $13.45
+reiyser: calls $13.45
+*** SHOW DOWN ***
+Gjeneral66: shows [Ac Ad] (a pair of Aces)
+reiyser: shows [Ks Th] (two pair, Kings and Tens)
+reiyser collected $51.02 from pot
+*** SUMMARY ***
+Total pot $53.52 | Rake $2.50 
+Board [Kh 7d 6d Qh Tc]
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 3: Gjeneral66 (button) showed [Ac Ad] and lost with a pair of Aces
+Seat 4: Lucastitos (small blind) folded before Flop
+Seat 5: reiyser (big blind) showed [Ks Th] and won ($51.02) with two pair, Kings and Tens
+Seat 6: straight77777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753676988:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:17:35 WET [2025/02/07 14:17:35 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 2: coeeeelho ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($117.57 in chips) 
+Seat 3: Gjeneral66 ($23.92 in chips) 
+Seat 4: Lucastitos ($100 in chips) 
+Seat 5: reiyser ($124.51 in chips) 
+Seat 6: straight77777 ($17.08 in chips) 
+reiyser: posts small blind $0.50
+straight77777: posts big blind $1
+coeeeelho: sits out 
+*** HOLE CARDS ***
+ImaPeppaPig: folds 
+Gjeneral66: folds 
+Gjeneral66 leaves the table
+Lucastitos: folds 
+EBoshered joins the table at seat #3 
+reiyser: folds 
+Uncalled bet ($0.50) returned to straight77777
+straight77777 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: coeeeelho
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 3: Gjeneral66 folded before Flop (didn't bet)
+Seat 4: Lucastitos (button) folded before Flop (didn't bet)
+Seat 5: reiyser (small blind) folded before Flop
+Seat 6: straight77777 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254753682498:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:17:55 WET [2025/02/07 14:17:55 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 2: coeeeelho ($100 in chips) is sitting out
+Seat 3: EBoshered ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($117.57 in chips) 
+Seat 4: Lucastitos ($100 in chips) 
+Seat 5: reiyser ($124.01 in chips) 
+Seat 6: straight77777 ($17.58 in chips) 
+straight77777: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+coeeeelho: sits out 
+EBoshered: sits out 
+*** HOLE CARDS ***
+Lucastitos: raises $1.30 to $2.30
+reiyser: folds 
+straight77777: folds 
+ImaPeppaPig: folds 
+Uncalled bet ($1.30) returned to Lucastitos
+Lucastitos collected $2.50 from pot
+Lucastitos: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: coeeeelho
+Seat 3: EBoshered
+Seat 1: ImaPeppaPig (big blind) folded before Flop
+Seat 4: Lucastitos collected ($2.50)
+Seat 5: reiyser (button) folded before Flop (didn't bet)
+Seat 6: straight77777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254753685406:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:18:05 WET [2025/02/07 14:18:05 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 3: EBoshered ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($116.57 in chips) 
+Seat 2: coeeeelho ($100 in chips) 
+Seat 4: Lucastitos ($101.50 in chips) 
+Seat 5: reiyser ($124.01 in chips) 
+Seat 6: straight77777 ($17.08 in chips) 
+ImaPeppaPig: posts small blind $0.50
+coeeeelho: posts big blind $1
+EBoshered: sits out 
+*** HOLE CARDS ***
+Lucastitos: folds 
+reiyser: folds 
+straight77777: folds 
+ImaPeppaPig: raises $2 to $3
+coeeeelho: calls $2
+*** FLOP *** [Qs Jd Kh]
+ImaPeppaPig: checks 
+coeeeelho: checks 
+*** TURN *** [Qs Jd Kh] [Qd]
+ImaPeppaPig: checks 
+coeeeelho: checks 
+*** RIVER *** [Qs Jd Kh Qd] [Kc]
+ImaPeppaPig: bets $1
+coeeeelho: folds 
+Uncalled bet ($1) returned to ImaPeppaPig
+ImaPeppaPig collected $5.70 from pot
+ImaPeppaPig: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Qs Jd Kh Qd Kc]
+Seat 3: EBoshered
+Seat 1: ImaPeppaPig (small blind) collected ($5.70)
+Seat 2: coeeeelho (big blind) folded on the River
+Seat 4: Lucastitos folded before Flop (didn't bet)
+Seat 5: reiyser folded before Flop (didn't bet)
+Seat 6: straight77777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753696247:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:18:43 WET [2025/02/07 14:18:43 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: ImaPeppaPig ($119.27 in chips) 
+Seat 2: coeeeelho ($100 in chips) 
+Seat 3: EBoshered ($100 in chips) 
+Seat 4: Lucastitos ($101.50 in chips) 
+Seat 5: reiyser ($124.01 in chips) 
+Seat 6: straight77777 ($17.08 in chips) 
+coeeeelho: posts small blind $0.50
+EBoshered: posts big blind $1
+*** HOLE CARDS ***
+Lucastitos: folds 
+reiyser: raises $1.23 to $2.23
+straight77777: calls $2.23
+ImaPeppaPig: folds 
+coeeeelho: folds 
+EBoshered: folds 
+*** FLOP *** [Ah Ts Qs]
+reiyser: checks 
+straight77777: checks 
+*** TURN *** [Ah Ts Qs] [Qc]
+reiyser: checks 
+straight77777: bets $1.83
+reiyser: folds 
+Uncalled bet ($1.83) returned to straight77777
+straight77777 collected $5.66 from pot
+*** SUMMARY ***
+Total pot $5.96 | Rake $0.30 
+Board [Ah Ts Qs Qc]
+Seat 1: ImaPeppaPig (button) folded before Flop (didn't bet)
+Seat 2: coeeeelho (small blind) folded before Flop
+Seat 3: EBoshered (big blind) folded before Flop
+Seat 4: Lucastitos folded before Flop (didn't bet)
+Seat 5: reiyser folded on the Turn
+Seat 6: straight77777 collected ($5.66)
+
+
+
+PokerStars Hand #254753713480:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:19:43 WET [2025/02/07 14:19:43 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: ImaPeppaPig ($119.27 in chips) 
+Seat 2: coeeeelho ($100 in chips) 
+Seat 3: EBoshered ($100 in chips) 
+Seat 4: Lucastitos ($101.50 in chips) 
+Seat 5: reiyser ($121.78 in chips) 
+Seat 6: straight77777 ($20.51 in chips) 
+EBoshered: posts small blind $0.50
+Lucastitos: posts big blind $1
+*** HOLE CARDS ***
+reiyser: folds 
+straight77777: folds 
+ImaPeppaPig: raises $1.50 to $2.50
+coeeeelho: folds 
+EBoshered: folds 
+Lucastitos: folds 
+Uncalled bet ($1.50) returned to ImaPeppaPig
+ImaPeppaPig collected $2.50 from pot
+ImaPeppaPig: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ImaPeppaPig collected ($2.50)
+Seat 2: coeeeelho (button) folded before Flop (didn't bet)
+Seat 3: EBoshered (small blind) folded before Flop
+Seat 4: Lucastitos (big blind) folded before Flop
+Seat 5: reiyser folded before Flop (didn't bet)
+Seat 6: straight77777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753717450:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:19:57 WET [2025/02/07 14:19:57 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: ImaPeppaPig ($120.77 in chips) 
+Seat 2: coeeeelho ($100 in chips) 
+Seat 3: EBoshered ($100 in chips) 
+Seat 4: Lucastitos ($100.50 in chips) 
+Seat 5: reiyser ($121.78 in chips) 
+Seat 6: straight77777 ($20.51 in chips) 
+Lucastitos: posts small blind $0.50
+reiyser: posts big blind $1
+*** HOLE CARDS ***
+straight77777: folds 
+ImaPeppaPig: folds 
+coeeeelho: folds 
+EBoshered: folds 
+Lucastitos: raises $1.90 to $2.90
+reiyser: folds 
+Uncalled bet ($1.90) returned to Lucastitos
+Lucastitos collected $2 from pot
+Lucastitos: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: coeeeelho folded before Flop (didn't bet)
+Seat 3: EBoshered (button) folded before Flop (didn't bet)
+Seat 4: Lucastitos (small blind) collected ($2)
+Seat 5: reiyser (big blind) folded before Flop
+Seat 6: straight77777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753722840:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:20:16 WET [2025/02/07 14:20:16 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: ImaPeppaPig ($120.77 in chips) 
+Seat 2: coeeeelho ($100 in chips) 
+Seat 3: EBoshered ($100 in chips) 
+Seat 4: Lucastitos ($101.50 in chips) 
+Seat 5: reiyser ($120.78 in chips) 
+Seat 6: straight77777 ($20.51 in chips) 
+reiyser: posts small blind $0.50
+straight77777: posts big blind $1
+*** HOLE CARDS ***
+ImaPeppaPig: raises $1 to $2
+coeeeelho: folds 
+EBoshered: folds 
+Lucastitos: raises $4 to $6
+reiyser: folds 
+straight77777: folds 
+ImaPeppaPig: calls $4
+*** FLOP *** [Jh 8h 6h]
+ImaPeppaPig: checks 
+Lucastitos: bets $3.46
+ImaPeppaPig: calls $3.46
+*** TURN *** [Jh 8h 6h] [5h]
+ImaPeppaPig: checks 
+Lucastitos: bets $14.55
+ImaPeppaPig: calls $14.55
+*** RIVER *** [Jh 8h 6h 5h] [Qc]
+ImaPeppaPig: checks 
+Lucastitos: bets $23.52
+ImaPeppaPig: folds 
+Uncalled bet ($23.52) returned to Lucastitos
+Lucastitos collected $47.04 from pot
+Lucastitos: doesn't show hand 
+*** SUMMARY ***
+Total pot $49.52 | Rake $2.48 
+Board [Jh 8h 6h 5h Qc]
+Seat 1: ImaPeppaPig folded on the River
+Seat 2: coeeeelho folded before Flop (didn't bet)
+Seat 3: EBoshered folded before Flop (didn't bet)
+Seat 4: Lucastitos (button) collected ($47.04)
+Seat 5: reiyser (small blind) folded before Flop
+Seat 6: straight77777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254753740700:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:21:18 WET [2025/02/07 14:21:18 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: coeeeelho ($100 in chips) 
+Seat 3: EBoshered ($100 in chips) 
+Seat 4: Lucastitos ($124.53 in chips) 
+Seat 5: reiyser ($120.28 in chips) 
+Seat 6: straight77777 ($19.51 in chips) 
+straight77777: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+EBoshered: folds 
+Lucastitos: folds 
+reiyser: folds 
+straight77777: calls $0.50
+ImaPeppaPig: checks 
+*** FLOP *** [Qc Kc 2h]
+straight77777: checks 
+ImaPeppaPig: checks 
+*** TURN *** [Qc Kc 2h] [3h]
+straight77777: bets $1
+ImaPeppaPig: calls $1
+*** RIVER *** [Qc Kc 2h 3h] [Ks]
+straight77777: bets $3
+ImaPeppaPig: folds 
+Uncalled bet ($3) returned to straight77777
+straight77777 collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Qc Kc 2h 3h Ks]
+Seat 1: ImaPeppaPig (big blind) folded on the River
+Seat 2: coeeeelho folded before Flop (didn't bet)
+Seat 3: EBoshered folded before Flop (didn't bet)
+Seat 4: Lucastitos folded before Flop (didn't bet)
+Seat 5: reiyser (button) folded before Flop (didn't bet)
+Seat 6: straight77777 (small blind) collected ($3.80)
+
+
+
+PokerStars Hand #254753749407:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:21:48 WET [2025/02/07 14:21:48 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: coeeeelho ($100 in chips) 
+Seat 3: EBoshered ($100 in chips) 
+Seat 4: Lucastitos ($124.53 in chips) 
+Seat 5: reiyser ($120.28 in chips) 
+Seat 6: straight77777 ($21.31 in chips) 
+ImaPeppaPig: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+EBoshered: folds 
+Lucastitos: folds 
+reiyser: raises $1.23 to $2.23
+straight77777: folds 
+ImaPeppaPig: folds 
+coeeeelho: raises $9.77 to $12
+reiyser: folds 
+Uncalled bet ($9.77) returned to coeeeelho
+coeeeelho collected $4.96 from pot
+*** SUMMARY ***
+Total pot $4.96 | Rake $0 
+Seat 1: ImaPeppaPig (small blind) folded before Flop
+Seat 2: coeeeelho (big blind) collected ($4.96)
+Seat 3: EBoshered folded before Flop (didn't bet)
+Seat 4: Lucastitos folded before Flop (didn't bet)
+Seat 5: reiyser folded before Flop
+Seat 6: straight77777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753755980:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:22:11 WET [2025/02/07 14:22:11 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: coeeeelho ($102.73 in chips) 
+Seat 3: EBoshered ($100 in chips) 
+Seat 4: Lucastitos ($124.53 in chips) 
+Seat 5: reiyser ($118.05 in chips) 
+Seat 6: straight77777 ($21.31 in chips) 
+coeeeelho: posts small blind $0.50
+EBoshered: posts big blind $1
+*** HOLE CARDS ***
+Lucastitos: folds 
+reiyser: folds 
+straight77777: calls $1
+ImaPeppaPig: folds 
+coeeeelho: raises $3.20 to $4.20
+EBoshered: folds 
+straight77777: folds 
+Uncalled bet ($3.20) returned to coeeeelho
+coeeeelho collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: ImaPeppaPig (button) folded before Flop (didn't bet)
+Seat 2: coeeeelho (small blind) collected ($3)
+Seat 3: EBoshered (big blind) folded before Flop
+Seat 4: Lucastitos folded before Flop (didn't bet)
+Seat 5: reiyser folded before Flop (didn't bet)
+Seat 6: straight77777 folded before Flop
+
+
+
+PokerStars Hand #254753760678:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:22:27 WET [2025/02/07 14:22:27 ET]
+Table 'Rosa' 6-max Seat #2 is the button
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: coeeeelho ($104.73 in chips) 
+Seat 3: EBoshered ($100 in chips) 
+Seat 4: Lucastitos ($124.53 in chips) 
+Seat 5: reiyser ($118.05 in chips) 
+Seat 6: straight77777 ($20.31 in chips) 
+EBoshered: posts small blind $0.50
+Lucastitos: posts big blind $1
+*** HOLE CARDS ***
+reiyser: raises $1.23 to $2.23
+straight77777: calls $2.23
+ImaPeppaPig: folds 
+coeeeelho: raises $7.77 to $10
+EBoshered: folds 
+Lucastitos: raises $15 to $25
+reiyser: folds 
+straight77777: calls $18.08 and is all-in
+coeeeelho: raises $79.73 to $104.73 and is all-in
+Lucastitos: calls $79.73
+*** FLOP *** [6s 2d 5h]
+*** TURN *** [6s 2d 5h] [7c]
+*** RIVER *** [6s 2d 5h 7c] [6c]
+*** SHOW DOWN ***
+Lucastitos: shows [Ad Kc] (a pair of Sixes)
+coeeeelho: shows [Qs Qd] (two pair, Queens and Sixes)
+coeeeelho collected $168.84 from side pot
+straight77777: shows [5s 5d] (a full house, Fives full of Sixes)
+straight77777 collected $61.16 from main pot
+*** SUMMARY ***
+Total pot $232.50 Main pot $61.16. Side pot $168.84. | Rake $2.50 
+Board [6s 2d 5h 7c 6c]
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: coeeeelho (button) showed [Qs Qd] and won ($168.84) with two pair, Queens and Sixes
+Seat 3: EBoshered (small blind) folded before Flop
+Seat 4: Lucastitos (big blind) showed [Ad Kc] and lost with a pair of Sixes
+Seat 5: reiyser folded before Flop
+Seat 6: straight77777 showed [5s 5d] and won ($61.16) with a full house, Fives full of Sixes
+
+
+
+PokerStars Hand #254753777687:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:23:27 WET [2025/02/07 14:23:27 ET]
+Table 'Rosa' 6-max Seat #3 is the button
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: coeeeelho ($168.84 in chips) 
+Seat 3: EBoshered ($100 in chips) 
+Seat 4: Lucastitos ($100 in chips) 
+Seat 5: reiyser ($115.82 in chips) 
+Seat 6: straight77777 ($61.16 in chips) 
+Lucastitos: posts small blind $0.50
+reiyser: posts big blind $1
+*** HOLE CARDS ***
+straight77777: folds 
+ImaPeppaPig: folds 
+coeeeelho: folds 
+EBoshered: folds 
+Lucastitos: raises $1.90 to $2.90
+reiyser: calls $1.90
+*** FLOP *** [Td 9s 2c]
+Lucastitos: checks 
+reiyser: checks 
+*** TURN *** [Td 9s 2c] [6d]
+Lucastitos: checks 
+reiyser: checks 
+*** RIVER *** [Td 9s 2c 6d] [Qs]
+Lucastitos: checks 
+reiyser: checks 
+*** SHOW DOWN ***
+Lucastitos: shows [3h 6h] (a pair of Sixes)
+reiyser: mucks hand 
+Lucastitos collected $5.51 from pot
+*** SUMMARY ***
+Total pot $5.80 | Rake $0.29 
+Board [Td 9s 2c 6d Qs]
+Seat 1: ImaPeppaPig folded before Flop (didn't bet)
+Seat 2: coeeeelho folded before Flop (didn't bet)
+Seat 3: EBoshered (button) folded before Flop (didn't bet)
+Seat 4: Lucastitos (small blind) showed [3h 6h] and won ($5.51) with a pair of Sixes
+Seat 5: reiyser (big blind) mucked
+Seat 6: straight77777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753790556:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:24:13 WET [2025/02/07 14:24:13 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 2: coeeeelho ($168.84 in chips) 
+Seat 3: EBoshered ($100 in chips) 
+Seat 4: Lucastitos ($102.61 in chips) 
+Seat 5: reiyser ($112.92 in chips) 
+Seat 6: straight77777 ($61.16 in chips) 
+reiyser: posts small blind $0.50
+straight77777: posts big blind $1
+*** HOLE CARDS ***
+ImaPeppaPig: raises $1.50 to $2.50
+coeeeelho: folds 
+EBoshered: folds 
+Lucastitos: folds 
+reiyser: folds 
+straight77777: calls $1.50
+*** FLOP *** [9s Js 6d]
+straight77777: checks 
+ImaPeppaPig: checks 
+*** TURN *** [9s Js 6d] [5c]
+straight77777: bets $2
+ImaPeppaPig: raises $6 to $8
+straight77777: folds 
+Uncalled bet ($6) returned to ImaPeppaPig
+ImaPeppaPig collected $9.02 from pot
+ImaPeppaPig: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [9s Js 6d 5c]
+Seat 1: ImaPeppaPig collected ($9.02)
+Seat 2: coeeeelho folded before Flop (didn't bet)
+Seat 3: EBoshered folded before Flop (didn't bet)
+Seat 4: Lucastitos (button) folded before Flop (didn't bet)
+Seat 5: reiyser (small blind) folded before Flop
+Seat 6: straight77777 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254753799938:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:24:46 WET [2025/02/07 14:24:46 ET]
+Table 'Rosa' 6-max Seat #5 is the button
+Seat 1: ImaPeppaPig ($104.52 in chips) 
+Seat 2: coeeeelho ($168.84 in chips) 
+Seat 3: EBoshered ($100 in chips) 
+Seat 4: Lucastitos ($102.61 in chips) 
+Seat 5: reiyser ($112.42 in chips) 
+Seat 6: straight77777 ($56.66 in chips) 
+straight77777: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: raises $1.20 to $2.20
+EBoshered: folds 
+Lucastitos: folds 
+reiyser: folds 
+straight77777: calls $1.70
+ImaPeppaPig: folds 
+*** FLOP *** [Ks 5h 7h]
+straight77777: checks 
+coeeeelho: bets $3.85
+straight77777: calls $3.85
+*** TURN *** [Ks 5h 7h] [3c]
+straight77777: checks 
+coeeeelho: bets $12.44
+straight77777: folds 
+Uncalled bet ($12.44) returned to coeeeelho
+coeeeelho collected $12.44 from pot
+*** SUMMARY ***
+Total pot $13.10 | Rake $0.66 
+Board [Ks 5h 7h 3c]
+Seat 1: ImaPeppaPig (big blind) folded before Flop
+Seat 2: coeeeelho collected ($12.44)
+Seat 3: EBoshered folded before Flop (didn't bet)
+Seat 4: Lucastitos folded before Flop (didn't bet)
+Seat 5: reiyser (button) folded before Flop (didn't bet)
+Seat 6: straight77777 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254753810471:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:25:24 WET [2025/02/07 14:25:24 ET]
+Table 'Rosa' 6-max Seat #6 is the button
+Seat 1: ImaPeppaPig ($103.52 in chips) 
+Seat 2: coeeeelho ($175.23 in chips) 
+Seat 3: EBoshered ($100 in chips) 
+Seat 4: Lucastitos ($102.61 in chips) 
+Seat 5: reiyser ($112.42 in chips) 
+Seat 6: straight77777 ($50.61 in chips) 
+ImaPeppaPig: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+EBoshered: raises $1.20 to $2.20
+Lucastitos: folds 
+reiyser: folds 
+straight77777: folds 
+straight77777 leaves the table
+ImaPeppaPig: folds 
+coeeeelho: folds 
+Uncalled bet ($1.20) returned to EBoshered
+EBoshered collected $2.50 from pot
+EBoshered: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: ImaPeppaPig (small blind) folded before Flop
+Seat 2: coeeeelho (big blind) folded before Flop
+Seat 3: EBoshered collected ($2.50)
+Seat 4: Lucastitos folded before Flop (didn't bet)
+Seat 5: reiyser folded before Flop (didn't bet)
+Seat 6: straight77777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753814888:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:25:39 WET [2025/02/07 14:25:39 ET]
+Table 'Rosa' 6-max Seat #1 is the button
+Seat 3: EBoshered ($101.50 in chips) is sitting out
+Seat 1: ImaPeppaPig ($103.02 in chips) 
+Seat 2: coeeeelho ($174.23 in chips) 
+Seat 4: Lucastitos ($102.61 in chips) 
+Seat 5: reiyser ($112.42 in chips) 
+coeeeelho: posts small blind $0.50
+EBoshered: is sitting out 
+Lucastitos: posts big blind $1
+*** HOLE CARDS ***
+reiyser: folds 
+EBoshered leaves the table
+ImaPeppaPig: raises $1.50 to $2.50
+coeeeelho: folds 
+Lucastitos: raises $9.50 to $12
+ImaPeppaPig: folds 
+Uncalled bet ($9.50) returned to Lucastitos
+coeeeelho leaves the table
+Lucastitos collected $5.50 from pot
+Lucastitos: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 3: EBoshered
+Seat 1: ImaPeppaPig (button) folded before Flop
+Seat 2: coeeeelho (small blind) folded before Flop
+Seat 4: Lucastitos (big blind) collected ($5.50)
+Seat 5: reiyser folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254753820663:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/07 19:26:00 WET [2025/02/07 14:26:00 ET]
+Table 'Rosa' 6-max Seat #4 is the button
+Seat 1: ImaPeppaPig ($100.52 in chips) 
+Seat 4: Lucastitos ($105.61 in chips) 
+Seat 5: reiyser ($112.42 in chips) 
+reiyser: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+Lucastitos: folds 
+reiyser: raises $1.80 to $2.80
+ImaPeppaPig: folds 
+Uncalled bet ($1.80) returned to reiyser
+reiyser collected $2 from pot
+reiyser: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: ImaPeppaPig (big blind) folded before Flop
+Seat 4: Lucastitos (button) folded before Flop (didn't bet)
+Seat 5: reiyser (small blind) collected ($2)
+
+
+

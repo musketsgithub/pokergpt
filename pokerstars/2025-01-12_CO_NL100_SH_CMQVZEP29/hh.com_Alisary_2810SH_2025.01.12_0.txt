@@ -1,0 +1,55 @@
+﻿PokerStars Hand #254344465651:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 3:07:19 WET [2025/01/12 22:07:19 ET]
+Table 'Alisary II' 6-max Seat #6 is the button
+Seat 4: Fepolen ($5.90 in chips) 
+Seat 5: m0nTTu ($10 in chips) 
+Seat 6: An1an1 ($100 in chips) 
+Fepolen: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+An1an1: folds 
+Fepolen: calls $0.50
+m0nTTu: raises $9 to $10 and is all-in
+Fepolen: calls $4.90 and is all-in
+Uncalled bet ($4.10) returned to m0nTTu
+*** FLOP *** [3d Ac Qc]
+*** TURN *** [3d Ac Qc] [6c]
+*** RIVER *** [3d Ac Qc 6c] [Td]
+*** SHOW DOWN ***
+Fepolen: shows [4h 3h] (a pair of Threes)
+m0nTTu: shows [Qs 8h] (a pair of Queens)
+m0nTTu collected $11.21 from pot
+*** SUMMARY ***
+Total pot $11.80 | Rake $0.59 
+Board [3d Ac Qc 6c Td]
+Seat 4: Fepolen (small blind) showed [4h 3h] and lost with a pair of Threes
+Seat 5: m0nTTu (big blind) showed [Qs 8h] and won ($11.21) with a pair of Queens
+Seat 6: An1an1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254344478979:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/12 3:09:02 WET [2025/01/12 22:09:02 ET]
+Table 'Alisary II' 6-max Seat #4 is the button
+Seat 4: Fepolen ($10.20 in chips) 
+Seat 5: m0nTTu ($15.31 in chips) 
+Fepolen: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+Fepolen: calls $0.50
+m0nTTu: raises $14.31 to $15.31 and is all-in
+Fepolen: calls $9.20 and is all-in
+Uncalled bet ($5.11) returned to m0nTTu
+*** FLOP *** [Qd 4c 2s]
+*** TURN *** [Qd 4c 2s] [Kd]
+*** RIVER *** [Qd 4c 2s Kd] [Ks]
+*** SHOW DOWN ***
+m0nTTu: shows [Kc 9h] (three of a kind, Kings)
+Fepolen: shows [Jd Jc] (two pair, Kings and Jacks)
+m0nTTu collected $19.40 from pot
+*** SUMMARY ***
+Total pot $20.40 | Rake $1 
+Board [Qd 4c 2s Kd Ks]
+Seat 4: Fepolen (button) (small blind) showed [Jd Jc] and lost with two pair, Kings and Jacks
+Seat 5: m0nTTu (big blind) showed [Kc 9h] and won ($19.40) with three of a kind, Kings
+
+
+

@@ -1,0 +1,387 @@
+﻿PokerStars Hand #254285331569:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 22:01:20 WET [2025/01/09 17:01:20 ET]
+Table 'Tyndareus III' 6-max Seat #4 is the button
+Seat 1: MarcoReus115 ($91.25 in chips) 
+Seat 2: An1an1 ($101.17 in chips) 
+Seat 3: Maximysss85 ($177.50 in chips) 
+Seat 4: LuckyShikari ($100 in chips) 
+Seat 5: easy_sarcasm ($102.65 in chips) 
+Seat 6: Rezzonner ($103.68 in chips) 
+easy_sarcasm: posts small blind $0.50
+Rezzonner: posts big blind $1
+*** HOLE CARDS ***
+MarcoReus115: calls $1
+An1an1: folds 
+Maximysss85: folds 
+LuckyShikari: folds 
+easy_sarcasm: folds 
+Rezzonner: checks 
+*** FLOP *** [Ah 9s Ts]
+Rezzonner: checks 
+MarcoReus115: checks 
+*** TURN *** [Ah 9s Ts] [8c]
+Rezzonner: checks 
+MarcoReus115: bets $4
+Rezzonner: folds 
+Uncalled bet ($4) returned to MarcoReus115
+MarcoReus115 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Ah 9s Ts 8c]
+Seat 1: MarcoReus115 collected ($2.38)
+Seat 2: An1an1 folded before Flop (didn't bet)
+Seat 3: Maximysss85 folded before Flop (didn't bet)
+Seat 4: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 5: easy_sarcasm (small blind) folded before Flop
+Seat 6: Rezzonner (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254285341448:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 22:01:52 WET [2025/01/09 17:01:52 ET]
+Table 'Tyndareus III' 6-max Seat #5 is the button
+Seat 1: MarcoReus115 ($92.63 in chips) 
+Seat 2: An1an1 ($101.17 in chips) 
+Seat 3: Maximysss85 ($177.50 in chips) 
+Seat 4: LuckyShikari ($100 in chips) 
+Seat 5: easy_sarcasm ($102.15 in chips) 
+Seat 6: Rezzonner ($102.68 in chips) 
+Rezzonner: posts small blind $0.50
+MarcoReus115: posts big blind $1
+*** HOLE CARDS ***
+An1an1: folds 
+Maximysss85: raises $1.50 to $2.50
+LuckyShikari: raises $6.50 to $9
+easy_sarcasm: calls $9
+Rezzonner: folds 
+MarcoReus115: folds 
+Maximysss85: folds 
+*** FLOP *** [5s Td Jd]
+LuckyShikari: checks 
+easy_sarcasm: checks 
+*** TURN *** [5s Td Jd] [4d]
+LuckyShikari: checks 
+easy_sarcasm: checks 
+*** RIVER *** [5s Td Jd 4d] [7s]
+LuckyShikari: bets $7
+easy_sarcasm: folds 
+Uncalled bet ($7) returned to LuckyShikari
+LuckyShikari collected $20.90 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [5s Td Jd 4d 7s]
+Seat 1: MarcoReus115 (big blind) folded before Flop
+Seat 2: An1an1 folded before Flop (didn't bet)
+Seat 3: Maximysss85 folded before Flop
+Seat 4: LuckyShikari collected ($20.90)
+Seat 5: easy_sarcasm (button) folded on the River
+Seat 6: Rezzonner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254285360182:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 22:02:48 WET [2025/01/09 17:02:48 ET]
+Table 'Tyndareus III' 6-max Seat #6 is the button
+Seat 1: MarcoReus115 ($91.63 in chips) 
+Seat 2: An1an1 ($101.17 in chips) 
+Seat 3: Maximysss85 ($175 in chips) 
+Seat 4: LuckyShikari ($111.90 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: Rezzonner ($102.18 in chips) 
+MarcoReus115: posts small blind $0.50
+An1an1: posts big blind $1
+*** HOLE CARDS ***
+Maximysss85: folds 
+LuckyShikari: folds 
+easy_sarcasm: folds 
+Rezzonner: raises $1.50 to $2.50
+MarcoReus115: calls $2
+An1an1: folds 
+*** FLOP *** [Th Kc 9s]
+MarcoReus115: checks 
+Rezzonner: bets $1.88
+MarcoReus115: calls $1.88
+*** TURN *** [Th Kc 9s] [5h]
+MarcoReus115: checks 
+Rezzonner: checks 
+*** RIVER *** [Th Kc 9s 5h] [6h]
+MarcoReus115: bets $5
+Rezzonner: raises $17.34 to $22.34
+MarcoReus115: calls $17.34
+*** SHOW DOWN ***
+Rezzonner: shows [Qh 8h] (a flush, Queen high)
+MarcoReus115: mucks hand 
+Rezzonner collected $51.94 from pot
+*** SUMMARY ***
+Total pot $54.44 | Rake $2.50 
+Board [Th Kc 9s 5h 6h]
+Seat 1: MarcoReus115 (small blind) mucked
+Seat 2: An1an1 (big blind) folded before Flop
+Seat 3: Maximysss85 folded before Flop (didn't bet)
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: Rezzonner (button) showed [Qh 8h] and won ($51.94) with a flush, Queen high
+
+
+
+PokerStars Hand #254285377370:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 22:03:40 WET [2025/01/09 17:03:40 ET]
+Table 'Tyndareus III' 6-max Seat #1 is the button
+Seat 1: MarcoReus115 ($64.91 in chips) 
+Seat 2: An1an1 ($100.17 in chips) 
+Seat 3: Maximysss85 ($175 in chips) 
+Seat 4: LuckyShikari ($111.90 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: Rezzonner ($127.40 in chips) 
+An1an1: posts small blind $0.50
+Maximysss85: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+easy_sarcasm: folds 
+Rezzonner: folds 
+MarcoReus115: calls $1
+An1an1: folds 
+Maximysss85: checks 
+*** FLOP *** [Ad 8s 4h]
+Maximysss85: checks 
+MarcoReus115: checks 
+*** TURN *** [Ad 8s 4h] [Kh]
+Maximysss85: checks 
+MarcoReus115: checks 
+*** RIVER *** [Ad 8s 4h Kh] [6s]
+Maximysss85: checks 
+MarcoReus115: checks 
+*** SHOW DOWN ***
+Maximysss85: shows [Tc 9h] (high card Ace)
+MarcoReus115: shows [8c Jd] (a pair of Eights)
+MarcoReus115 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Ad 8s 4h Kh 6s]
+Seat 1: MarcoReus115 (button) showed [8c Jd] and won ($2.38) with a pair of Eights
+Seat 2: An1an1 (small blind) folded before Flop
+Seat 3: Maximysss85 (big blind) showed [Tc 9h] and lost with high card Ace
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254285386800:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 22:04:08 WET [2025/01/09 17:04:08 ET]
+Table 'Tyndareus III' 6-max Seat #2 is the button
+Seat 1: MarcoReus115 ($66.29 in chips) 
+Seat 2: An1an1 ($100 in chips) 
+Seat 3: Maximysss85 ($174 in chips) 
+Seat 4: LuckyShikari ($111.90 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: Rezzonner ($127.40 in chips) 
+Maximysss85: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+Rezzonner: folds 
+MarcoReus115: calls $1
+An1an1: raises $3 to $4
+Maximysss85: raises $11 to $15
+LuckyShikari: folds 
+MarcoReus115: calls $14
+An1an1: folds 
+*** FLOP *** [Tc 4c 5d]
+Maximysss85: bets $13.30
+MarcoReus115: raises $13.30 to $26.60
+Maximysss85: raises $108.06 to $134.66
+MarcoReus115: calls $24.69 and is all-in
+Uncalled bet ($83.37) returned to Maximysss85
+*** TURN *** [Tc 4c 5d] [8h]
+*** RIVER *** [Tc 4c 5d 8h] [Ah]
+*** SHOW DOWN ***
+Maximysss85: shows [Ad Td] (two pair, Aces and Tens)
+MarcoReus115: shows [7h Jh] (high card Ace)
+Maximysss85 collected $135.08 from pot
+*** SUMMARY ***
+Total pot $137.58 | Rake $2.50 
+Board [Tc 4c 5d 8h Ah]
+Seat 1: MarcoReus115 showed [7h Jh] and lost with high card Ace
+Seat 2: An1an1 (button) folded before Flop
+Seat 3: Maximysss85 (small blind) showed [Ad Td] and won ($135.08) with two pair, Aces and Tens
+Seat 4: LuckyShikari (big blind) folded before Flop
+Seat 5: easy_sarcasm folded before Flop (didn't bet)
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254285402688:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 22:04:54 WET [2025/01/09 17:04:54 ET]
+Table 'Tyndareus III' 6-max Seat #3 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 2: An1an1 ($100 in chips) 
+Seat 3: Maximysss85 ($242.79 in chips) 
+Seat 4: LuckyShikari ($110.90 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Seat 6: Rezzonner ($127.40 in chips) 
+LuckyShikari: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner: folds 
+An1an1: folds 
+Maximysss85: raises $1.50 to $2.50
+LuckyShikari: folds 
+easy_sarcasm: folds 
+Uncalled bet ($1.50) returned to Maximysss85
+Maximysss85 collected $2.50 from pot
+Maximysss85: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MarcoReus115
+Seat 2: An1an1 folded before Flop (didn't bet)
+Seat 3: Maximysss85 (button) collected ($2.50)
+Seat 4: LuckyShikari (small blind) folded before Flop
+Seat 5: easy_sarcasm (big blind) folded before Flop
+Seat 6: Rezzonner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254285407057:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 22:05:07 WET [2025/01/09 17:05:07 ET]
+Table 'Tyndareus III' 6-max Seat #4 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 2: An1an1 ($100 in chips) is sitting out
+Seat 6: Rezzonner ($127.40 in chips) is sitting out
+Seat 3: Maximysss85 ($244.29 in chips) 
+Seat 4: LuckyShikari ($110.40 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+easy_sarcasm: posts small blind $0.50
+Rezzonner: is sitting out 
+An1an1: is sitting out 
+Maximysss85: posts big blind $1
+*** HOLE CARDS ***
+Rezzonner leaves the table
+LuckyShikari: raises $1.25 to $2.25
+easy_sarcasm: folds 
+Maximysss85: folds 
+Uncalled bet ($1.25) returned to LuckyShikari
+LuckyShikari collected $2.50 from pot
+An1an1 leaves the table
+LuckyShikari: doesn't show hand 
+MarcoReus115 is disconnected 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MarcoReus115
+Seat 2: An1an1
+Seat 6: Rezzonner
+Seat 3: Maximysss85 (big blind) folded before Flop
+Seat 4: LuckyShikari (button) collected ($2.50)
+Seat 5: easy_sarcasm (small blind) folded before Flop
+
+
+
+PokerStars Hand #254285411489:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 22:05:20 WET [2025/01/09 17:05:20 ET]
+Table 'Tyndareus III' 6-max Seat #5 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 3: Maximysss85 ($243.29 in chips) 
+Seat 4: LuckyShikari ($111.90 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+Maximysss85: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+Maximysss85: raises $2 to $3
+LuckyShikari: folds 
+Uncalled bet ($2) returned to Maximysss85
+Maximysss85 collected $2 from pot
+Maximysss85: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: MarcoReus115
+Seat 3: Maximysss85 (small blind) collected ($2)
+Seat 4: LuckyShikari (big blind) folded before Flop
+Seat 5: easy_sarcasm (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254285416628:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 22:05:35 WET [2025/01/09 17:05:35 ET]
+Table 'Tyndareus III' 6-max Seat #3 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 3: Maximysss85 ($244.29 in chips) 
+Seat 4: LuckyShikari ($110.90 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+Maximysss85: raises $1.50 to $2.50
+LuckyShikari: raises $7.50 to $10
+easy_sarcasm: folds 
+Maximysss85: calls $7.50
+*** FLOP *** [7h Qc As]
+LuckyShikari: bets $6.60
+Maximysss85: calls $6.60
+*** TURN *** [7h Qc As] [Js]
+LuckyShikari: checks 
+Maximysss85: bets $13.28
+LuckyShikari: raises $29.88 to $43.16
+Maximysss85: folds 
+Uncalled bet ($29.88) returned to LuckyShikari
+LuckyShikari collected $59.76 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $60.76 | Rake $1 
+Board [7h Qc As Js]
+Seat 1: MarcoReus115
+Seat 3: Maximysss85 (button) folded on the Turn
+Seat 4: LuckyShikari (small blind) collected ($59.76)
+Seat 5: easy_sarcasm (big blind) folded before Flop
+
+
+
+PokerStars Hand #254285438910:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 22:06:41 WET [2025/01/09 17:06:41 ET]
+Table 'Tyndareus III' 6-max Seat #5 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 3: Maximysss85 ($214.41 in chips) is sitting out
+Seat 4: LuckyShikari ($140.78 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+easy_sarcasm: posts small blind $0.50
+Maximysss85: is sitting out 
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+easy_sarcasm: folds 
+Uncalled bet ($0.50) returned to LuckyShikari
+Maximysss85 leaves the table
+LuckyShikari collected $1 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: MarcoReus115
+Seat 3: Maximysss85
+Seat 4: LuckyShikari (big blind) collected ($1)
+Seat 5: easy_sarcasm (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254285440641:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 22:06:46 WET [2025/01/09 17:06:46 ET]
+Table 'Tyndareus III' 6-max Seat #4 is the button
+Seat 1: MarcoReus115 ($0 in chips) is sitting out
+Seat 4: LuckyShikari ($141.28 in chips) 
+Seat 5: easy_sarcasm ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+easy_sarcasm: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: raises $1.25 to $2.25
+easy_sarcasm: calls $1.25
+*** FLOP *** [3s Td Jh]
+easy_sarcasm: checks 
+LuckyShikari: bets $1.03
+easy_sarcasm: calls $1.03
+*** TURN *** [3s Td Jh] [4s]
+easy_sarcasm: checks 
+LuckyShikari: checks 
+*** RIVER *** [3s Td Jh 4s] [Ks]
+easy_sarcasm: checks 
+LuckyShikari: checks 
+*** SHOW DOWN ***
+easy_sarcasm: shows [9d Ah] (high card Ace)
+LuckyShikari: shows [5s 5c] (a pair of Fives)
+LuckyShikari collected $6.23 from pot
+*** SUMMARY ***
+Total pot $6.56 | Rake $0.33 
+Board [3s Td Jh 4s Ks]
+Seat 1: MarcoReus115
+Seat 4: LuckyShikari (button) (small blind) showed [5s 5c] and won ($6.23) with a pair of Fives
+Seat 5: easy_sarcasm (big blind) showed [9d Ah] and lost with high card Ace
+
+
+

@@ -1,0 +1,100 @@
+﻿PokerStars Hand #254731197562:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 9:00:52 WET [2025/02/06 4:00:52 ET]
+Table 'Euterpe II' 6-max Seat #4 is the button
+Seat 1: SeEevg ($100 in chips) 
+Seat 3: ka100pka527 ($80 in chips) 
+Seat 4: vitalik_sw ($80 in chips) 
+SeEevg: posts small blind $0.50
+ka100pka527: posts big blind $1
+*** HOLE CARDS ***
+vitalik_sw: folds 
+SeEevg: raises $2 to $3
+ka100pka527: folds 
+Uncalled bet ($2) returned to SeEevg
+SeEevg collected $2 from pot
+SeEevg: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: SeEevg (small blind) collected ($2)
+Seat 3: ka100pka527 (big blind) folded before Flop
+Seat 4: vitalik_sw (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254731200082:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 9:01:21 WET [2025/02/06 4:01:21 ET]
+Table 'Euterpe II' 6-max Seat #1 is the button
+Seat 1: SeEevg ($101 in chips) 
+Seat 3: ka100pka527 ($100 in chips) 
+Seat 4: vitalik_sw ($100 in chips) 
+ka100pka527: posts small blind $0.50
+vitalik_sw: posts big blind $1
+*** HOLE CARDS ***
+SeEevg: folds 
+ka100pka527: raises $1.50 to $2.50
+vitalik_sw: folds 
+Uncalled bet ($1.50) returned to ka100pka527
+ka100pka527 collected $2 from pot
+ka100pka527: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: SeEevg (button) folded before Flop (didn't bet)
+Seat 3: ka100pka527 (small blind) collected ($2)
+Seat 4: vitalik_sw (big blind) folded before Flop
+
+
+
+PokerStars Hand #254731201129:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 9:01:34 WET [2025/02/06 4:01:34 ET]
+Table 'Euterpe II' 6-max Seat #3 is the button
+Seat 1: SeEevg ($101 in chips) 
+Seat 3: ka100pka527 ($101 in chips) 
+Seat 4: vitalik_sw ($100 in chips) 
+vitalik_sw: posts small blind $0.50
+SeEevg: posts big blind $1
+*** HOLE CARDS ***
+ka100pka527: raises $1.50 to $2.50
+vitalik_sw: folds 
+SeEevg: folds 
+Uncalled bet ($1.50) returned to ka100pka527
+ka100pka527 collected $2.50 from pot
+ka100pka527: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: SeEevg (big blind) folded before Flop
+Seat 3: ka100pka527 (button) collected ($2.50)
+Seat 4: vitalik_sw (small blind) folded before Flop
+
+
+
+PokerStars Hand #254731202790:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 9:01:53 WET [2025/02/06 4:01:53 ET]
+Table 'Euterpe II' 6-max Seat #1 is the button
+Seat 3: ka100pka527 ($102.50 in chips) is sitting out
+Seat 1: SeEevg ($100 in chips) 
+Seat 4: vitalik_sw ($100 in chips) 
+SeEevg: posts small blind $0.50
+ka100pka527: is sitting out 
+ka100pka527 leaves the table
+vitalik_sw: posts big blind $1
+*** HOLE CARDS ***
+SeEevg: raises $1.50 to $2.50
+vitalik_sw: calls $1.50
+*** FLOP *** [Qc 5d 7s]
+vitalik_sw: checks 
+SeEevg: checks 
+*** TURN *** [Qc 5d 7s] [6h]
+vitalik_sw: checks 
+SeEevg: checks 
+*** RIVER *** [Qc 5d 7s 6h] [5c]
+vitalik_sw: checks 
+SeEevg: checks 
+*** SHOW DOWN ***
+vitalik_sw: shows [Ac Th] (a pair of Fives)
+SeEevg: mucks hand 
+vitalik_sw collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Qc 5d 7s 6h 5c]
+Seat 3: ka100pka527
+Seat 1: SeEevg (button) (small blind) mucked
+Seat 4: vitalik_sw (big blind) showed [Ac Th] and won ($4.75) with a pair of Fives
+
+
+

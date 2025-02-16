@@ -1,0 +1,517 @@
+﻿PokerStars Hand #254426255087:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:51:37 WET [2025/01/17 22:51:37 ET]
+Table 'Hibbs III' 6-max Seat #2 is the button
+Seat 3: reeqar ($100 in chips) is sitting out
+Seat 1: Rysiff ($138.43 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 4: MuppetOnCrak ($51.43 in chips) 
+Seat 5: steelNike ($40 in chips) 
+Seat 6: steepfell ($100 in chips) 
+MuppetOnCrak: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+steepfell: raises $1.50 to $2.50
+Rysiff: folds 
+ptolejmus: folds 
+MuppetOnCrak: calls $2
+steelNike: folds 
+*** FLOP *** [4d Qh 5c]
+MuppetOnCrak: bets $1
+steepfell: raises $3.50 to $4.50
+MuppetOnCrak: calls $3.50
+*** TURN *** [4d Qh 5c] [Js]
+MuppetOnCrak: bets $1
+steepfell: raises $8.50 to $9.50
+MuppetOnCrak: calls $8.50
+*** RIVER *** [4d Qh 5c Js] [As]
+MuppetOnCrak: bets $1
+steepfell: calls $1
+*** SHOW DOWN ***
+MuppetOnCrak: shows [3d 2s] (a straight, Ace to Five)
+steepfell: mucks hand 
+MuppetOnCrak collected $34.20 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [4d Qh 5c Js As]
+Seat 3: reeqar
+Seat 1: Rysiff folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 4: MuppetOnCrak (small blind) showed [3d 2s] and won ($34.20) with a straight, Ace to Five
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: steepfell mucked
+
+
+
+PokerStars Hand #254426260520:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:52:19 WET [2025/01/17 22:52:19 ET]
+Table 'Hibbs III' 6-max Seat #4 is the button
+Seat 3: reeqar ($100 in chips) is sitting out
+Seat 1: Rysiff ($138.43 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 4: MuppetOnCrak ($68.13 in chips) 
+Seat 5: steelNike ($39 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steelNike: posts small blind $0.50
+steepfell: posts big blind $1
+reeqar: sits out 
+*** HOLE CARDS ***
+Rysiff: folds 
+ptolejmus: raises $9 to $10 and is all-in
+MuppetOnCrak: calls $10
+steelNike: folds 
+steepfell: folds 
+*** FLOP *** [6d 6c 4c]
+*** TURN *** [6d 6c 4c] [9s]
+*** RIVER *** [6d 6c 4c 9s] [8d]
+*** SHOW DOWN ***
+ptolejmus: shows [Td Jd] (a pair of Sixes)
+MuppetOnCrak: shows [Ac Ah] (two pair, Aces and Sixes)
+MuppetOnCrak collected $20.42 from pot
+*** SUMMARY ***
+Total pot $21.50 | Rake $1.08 
+Board [6d 6c 4c 9s 8d]
+Seat 3: reeqar
+Seat 1: Rysiff folded before Flop (didn't bet)
+Seat 2: ptolejmus showed [Td Jd] and lost with a pair of Sixes
+Seat 4: MuppetOnCrak (button) showed [Ac Ah] and won ($20.42) with two pair, Aces and Sixes
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254426263484:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:52:41 WET [2025/01/17 22:52:41 ET]
+Table 'Hibbs III' 6-max Seat #5 is the button
+Seat 3: reeqar ($100 in chips) is sitting out
+Seat 1: Rysiff ($138.43 in chips) 
+Seat 2: ptolejmus ($10 in chips) 
+Seat 4: MuppetOnCrak ($78.55 in chips) 
+Seat 5: steelNike ($38.50 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steepfell: posts small blind $0.50
+Rysiff: posts big blind $1
+reeqar: sits out 
+*** HOLE CARDS ***
+ptolejmus: raises $9 to $10 and is all-in
+MuppetOnCrak: calls $10
+steelNike: folds 
+steepfell: folds 
+Rysiff: folds 
+*** FLOP *** [Jc 6h Qs]
+*** TURN *** [Jc 6h Qs] [8d]
+*** RIVER *** [Jc 6h Qs 8d] [5h]
+*** SHOW DOWN ***
+ptolejmus: shows [Kd Qc] (a pair of Queens)
+MuppetOnCrak: shows [As Th] (high card Ace)
+ptolejmus collected $20.42 from pot
+*** SUMMARY ***
+Total pot $21.50 | Rake $1.08 
+Board [Jc 6h Qs 8d 5h]
+Seat 3: reeqar
+Seat 1: Rysiff (big blind) folded before Flop
+Seat 2: ptolejmus showed [Kd Qc] and won ($20.42) with a pair of Queens
+Seat 4: MuppetOnCrak showed [As Th] and lost with high card Ace
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254426267382:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:53:12 WET [2025/01/17 22:53:12 ET]
+Table 'Hibbs III' 6-max Seat #6 is the button
+Seat 3: reeqar ($100 in chips) is sitting out
+Seat 1: Rysiff ($137.43 in chips) 
+Seat 2: ptolejmus ($20.42 in chips) 
+Seat 4: MuppetOnCrak ($68.55 in chips) 
+Seat 5: steelNike ($38.50 in chips) 
+Seat 6: steepfell ($100 in chips) 
+Rysiff: posts small blind $0.50
+ptolejmus: posts big blind $1
+reeqar: sits out 
+*** HOLE CARDS ***
+MuppetOnCrak: folds 
+steelNike: folds 
+steepfell: raises $1.50 to $2.50
+Rysiff: folds 
+ptolejmus: raises $17.92 to $20.42 and is all-in
+steepfell: folds 
+Uncalled bet ($17.92) returned to ptolejmus
+ptolejmus collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 3: reeqar
+Seat 1: Rysiff (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) collected ($5.50)
+Seat 4: MuppetOnCrak folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: steepfell (button) folded before Flop
+
+
+
+PokerStars Hand #254426270836:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:53:39 WET [2025/01/17 22:53:39 ET]
+Table 'Hibbs III' 6-max Seat #1 is the button
+Seat 1: Rysiff ($136.93 in chips) 
+Seat 2: ptolejmus ($23.42 in chips) 
+Seat 3: reeqar ($100 in chips) 
+Seat 4: MuppetOnCrak ($68.55 in chips) 
+Seat 5: steelNike ($68.50 in chips) 
+Seat 6: steepfell ($100 in chips) 
+ptolejmus: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+MuppetOnCrak: folds 
+steelNike: folds 
+steepfell: folds 
+Rysiff: folds 
+ptolejmus: folds 
+Uncalled bet ($0.50) returned to reeqar
+reeqar collected $1 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Rysiff (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) folded before Flop
+Seat 3: reeqar (big blind) collected ($1)
+Seat 4: MuppetOnCrak folded before Flop (didn't bet)
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254426272000:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:53:48 WET [2025/01/17 22:53:48 ET]
+Table 'Hibbs III' 6-max Seat #2 is the button
+Seat 1: Rysiff ($136.93 in chips) 
+Seat 2: ptolejmus ($22.92 in chips) 
+Seat 3: reeqar ($100.50 in chips) 
+Seat 4: MuppetOnCrak ($68.55 in chips) 
+Seat 5: steelNike ($68.50 in chips) 
+Seat 6: steepfell ($100 in chips) 
+reeqar: posts small blind $0.50
+MuppetOnCrak: posts big blind $1
+*** HOLE CARDS ***
+steelNike: raises $1 to $2
+steepfell: folds 
+Rysiff: folds 
+ptolejmus: folds 
+reeqar: folds 
+MuppetOnCrak: calls $1
+*** FLOP *** [9s Qc Tc]
+MuppetOnCrak: checks 
+steelNike: bets $3.21
+MuppetOnCrak: calls $3.21
+*** TURN *** [9s Qc Tc] [4c]
+MuppetOnCrak: checks 
+steelNike: bets $8.30
+MuppetOnCrak: calls $8.30
+*** RIVER *** [9s Qc Tc 4c] [7c]
+MuppetOnCrak: checks 
+steelNike: checks 
+*** SHOW DOWN ***
+MuppetOnCrak: shows [3h As] (high card Ace)
+steelNike: shows [Qh Ad] (a pair of Queens)
+steelNike collected $26.14 from pot
+*** SUMMARY ***
+Total pot $27.52 | Rake $1.38 
+Board [9s Qc Tc 4c 7c]
+Seat 1: Rysiff folded before Flop (didn't bet)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 3: reeqar (small blind) folded before Flop
+Seat 4: MuppetOnCrak (big blind) showed [3h As] and lost with high card Ace
+Seat 5: steelNike showed [Qh Ad] and won ($26.14) with a pair of Queens
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254426276243:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:54:20 WET [2025/01/17 22:54:20 ET]
+Table 'Hibbs III' 6-max Seat #3 is the button
+Seat 1: Rysiff ($136.93 in chips) 
+Seat 2: ptolejmus ($22.92 in chips) 
+Seat 3: reeqar ($100 in chips) 
+Seat 4: MuppetOnCrak ($55.04 in chips) 
+Seat 5: steelNike ($81.13 in chips) 
+Seat 6: steepfell ($100 in chips) 
+MuppetOnCrak: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+Rysiff: folds 
+ptolejmus: folds 
+reeqar: folds 
+MuppetOnCrak: raises $1 to $2
+steelNike: calls $1
+*** FLOP *** [7s 9c As]
+MuppetOnCrak: bets $1
+steelNike: raises $6.50 to $7.50
+MuppetOnCrak: calls $6.50
+*** TURN *** [7s 9c As] [3d]
+MuppetOnCrak: bets $1
+steelNike: raises $15.04 to $16.04
+MuppetOnCrak: calls $15.04
+*** RIVER *** [7s 9c As 3d] [9h]
+MuppetOnCrak: bets $29.50 and is all-in
+steelNike: calls $29.50
+*** SHOW DOWN ***
+MuppetOnCrak: shows [5h 8c] (a pair of Nines)
+steelNike: shows [Ac 7d] (two pair, Aces and Nines)
+steelNike collected $107.58 from pot
+*** SUMMARY ***
+Total pot $110.08 | Rake $2.50 
+Board [7s 9c As 3d 9h]
+Seat 1: Rysiff folded before Flop (didn't bet)
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 3: reeqar (button) folded before Flop (didn't bet)
+Seat 4: MuppetOnCrak (small blind) showed [5h 8c] and lost with a pair of Nines
+Seat 5: steelNike (big blind) showed [Ac 7d] and won ($107.58) with two pair, Aces and Nines
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254426282040:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:55:05 WET [2025/01/17 22:55:05 ET]
+Table 'Hibbs III' 6-max Seat #5 is the button
+Seat 4: MuppetOnCrak ($0 in chips) is sitting out
+Seat 1: Rysiff ($136.93 in chips) 
+Seat 2: ptolejmus ($22.92 in chips) 
+Seat 3: reeqar ($100 in chips) 
+Seat 5: steelNike ($133.67 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steepfell: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: raises $1 to $2
+reeqar: folds 
+steelNike: folds 
+steepfell: folds 
+Rysiff: raises $134.93 to $136.93 and is all-in
+ptolejmus: folds 
+Uncalled bet ($134.93) returned to Rysiff
+Rysiff collected $4.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 4: MuppetOnCrak
+Seat 1: Rysiff (big blind) collected ($4.50)
+Seat 2: ptolejmus folded before Flop
+Seat 3: reeqar folded before Flop (didn't bet)
+Seat 5: steelNike (button) folded before Flop (didn't bet)
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254426285994:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:55:41 WET [2025/01/17 22:55:41 ET]
+Table 'Hibbs III' 6-max Seat #6 is the button
+Seat 1: Rysiff ($139.43 in chips) 
+Seat 2: ptolejmus ($20.92 in chips) 
+Seat 3: reeqar ($100 in chips) 
+Seat 4: MuppetOnCrak ($59.13 in chips) 
+Seat 5: steelNike ($133.67 in chips) 
+Seat 6: steepfell ($100 in chips) 
+Rysiff: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+reeqar: folds 
+MuppetOnCrak: raises $1 to $2
+steelNike: raises $5.50 to $7.50
+steepfell: folds 
+Rysiff: folds 
+ptolejmus: folds 
+MuppetOnCrak: calls $5.50
+*** FLOP *** [4s 3c Ad]
+MuppetOnCrak: checks 
+steelNike: checks 
+*** TURN *** [4s 3c Ad] [8s]
+MuppetOnCrak: checks 
+steelNike: checks 
+*** RIVER *** [4s 3c Ad 8s] [5s]
+MuppetOnCrak: bets $5
+steelNike: folds 
+Uncalled bet ($5) returned to MuppetOnCrak
+MuppetOnCrak collected $15.68 from pot
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.82 
+Board [4s 3c Ad 8s 5s]
+Seat 1: Rysiff (small blind) folded before Flop
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 3: reeqar folded before Flop (didn't bet)
+Seat 4: MuppetOnCrak collected ($15.68)
+Seat 5: steelNike folded on the River
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254426291244:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:56:30 WET [2025/01/17 22:56:30 ET]
+Table 'Hibbs III' 6-max Seat #1 is the button
+Seat 3: reeqar ($100 in chips) is sitting out
+Seat 1: Rysiff ($138.93 in chips) 
+Seat 2: ptolejmus ($19.92 in chips) 
+Seat 4: MuppetOnCrak ($67.31 in chips) 
+Seat 5: steelNike ($126.17 in chips) 
+Seat 6: steepfell ($100 in chips) 
+ptolejmus: posts small blind $0.50
+reeqar: is sitting out 
+MuppetOnCrak: posts big blind $1
+*** HOLE CARDS ***
+steelNike: raises $1 to $2
+steepfell: folds 
+Rysiff: folds 
+ptolejmus: raises $17.92 to $19.92 and is all-in
+MuppetOnCrak: folds 
+steelNike: folds 
+Uncalled bet ($17.92) returned to ptolejmus
+ptolejmus collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 3: reeqar
+Seat 1: Rysiff (button) folded before Flop (didn't bet)
+Seat 2: ptolejmus (small blind) collected ($5)
+Seat 4: MuppetOnCrak (big blind) folded before Flop
+Seat 5: steelNike folded before Flop
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254426293698:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:56:53 WET [2025/01/17 22:56:53 ET]
+Table 'Hibbs III' 6-max Seat #2 is the button
+Seat 3: reeqar ($100 in chips) is sitting out
+Seat 1: Rysiff ($138.93 in chips) 
+Seat 2: ptolejmus ($22.92 in chips) 
+Seat 4: MuppetOnCrak ($66.31 in chips) 
+Seat 5: steelNike ($124.17 in chips) 
+Seat 6: steepfell ($100 in chips) 
+MuppetOnCrak: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+Rysiff: raises $1.50 to $2.50
+ptolejmus: folds 
+MuppetOnCrak: folds 
+steelNike: folds 
+Uncalled bet ($1.50) returned to Rysiff
+Rysiff collected $2.50 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: reeqar
+Seat 1: Rysiff collected ($2.50)
+Seat 2: ptolejmus (button) folded before Flop (didn't bet)
+Seat 4: MuppetOnCrak (small blind) folded before Flop
+Seat 5: steelNike (big blind) folded before Flop
+Seat 6: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254426295732:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:57:12 WET [2025/01/17 22:57:12 ET]
+Table 'Hibbs III' 6-max Seat #4 is the button
+Seat 3: reeqar ($100 in chips) is sitting out
+Seat 1: Rysiff ($140.43 in chips) 
+Seat 2: ptolejmus ($22.92 in chips) 
+Seat 4: MuppetOnCrak ($65.81 in chips) 
+Seat 5: steelNike ($123.17 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steelNike: posts small blind $0.50
+steepfell: posts big blind $1
+reeqar: sits out 
+*** HOLE CARDS ***
+Rysiff: raises $1.50 to $2.50
+ptolejmus: folds 
+MuppetOnCrak: calls $2.50
+steelNike: folds 
+steepfell: folds 
+*** FLOP *** [5h 3c Ah]
+Rysiff: checks 
+MuppetOnCrak: bets $1
+Rysiff: calls $1
+*** TURN *** [5h 3c Ah] [Qs]
+Rysiff: checks 
+MuppetOnCrak: bets $1
+Rysiff: calls $1
+*** RIVER *** [5h 3c Ah Qs] [Jc]
+Rysiff: checks 
+MuppetOnCrak: bets $4
+Rysiff: folds 
+Uncalled bet ($4) returned to MuppetOnCrak
+MuppetOnCrak collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [5h 3c Ah Qs Jc]
+Seat 3: reeqar
+Seat 1: Rysiff folded on the River
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 4: MuppetOnCrak (button) collected ($9.98)
+Seat 5: steelNike (small blind) folded before Flop
+Seat 6: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254426300535:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:57:57 WET [2025/01/17 22:57:57 ET]
+Table 'Hibbs III' 6-max Seat #5 is the button
+Seat 3: reeqar ($100 in chips) is sitting out
+Seat 1: Rysiff ($135.93 in chips) 
+Seat 2: ptolejmus ($22.92 in chips) 
+Seat 4: MuppetOnCrak ($71.29 in chips) 
+Seat 5: steelNike ($122.67 in chips) 
+Seat 6: steepfell ($100 in chips) 
+steepfell: posts small blind $0.50
+Rysiff: posts big blind $1
+reeqar: sits out 
+*** HOLE CARDS ***
+ptolejmus: folds 
+MuppetOnCrak: raises $1 to $2
+steelNike: raises $5.50 to $7.50
+steepfell: folds 
+Rysiff: folds 
+MuppetOnCrak: calls $5.50
+*** FLOP *** [Qc Kc 6h]
+MuppetOnCrak: bets $2
+steelNike: calls $2
+*** TURN *** [Qc Kc 6h] [Th]
+MuppetOnCrak: bets $2
+steelNike: calls $2
+*** RIVER *** [Qc Kc 6h Th] [4c]
+MuppetOnCrak: bets $2
+steelNike: raises $67 to $69
+MuppetOnCrak: calls $57.79 and is all-in
+Uncalled bet ($9.21) returned to steelNike
+*** SHOW DOWN ***
+steelNike: shows [8c Ac] (a flush, Ace high)
+MuppetOnCrak: shows [8s Kh] (a pair of Kings)
+steelNike collected $141.58 from pot
+*** SUMMARY ***
+Total pot $144.08 | Rake $2.50 
+Board [Qc Kc 6h Th 4c]
+Seat 3: reeqar
+Seat 1: Rysiff (big blind) folded before Flop
+Seat 2: ptolejmus folded before Flop (didn't bet)
+Seat 4: MuppetOnCrak showed [8s Kh] and lost with a pair of Kings
+Seat 5: steelNike (button) showed [8c Ac] and won ($141.58) with a flush, Ace high
+Seat 6: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254426306280:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/18 3:58:52 WET [2025/01/17 22:58:52 ET]
+Table 'Hibbs III' 6-max Seat #6 is the button
+Seat 3: reeqar ($100 in chips) is sitting out
+Seat 4: MuppetOnCrak ($0 in chips) is sitting out
+Seat 1: Rysiff ($134.93 in chips) 
+Seat 2: ptolejmus ($22.92 in chips) 
+Seat 5: steelNike ($192.96 in chips) 
+Seat 6: steepfell ($100 in chips) 
+Rysiff: posts small blind $0.50
+ptolejmus: posts big blind $1
+reeqar: sits out 
+*** HOLE CARDS ***
+steelNike: folds 
+steepfell: folds 
+MuppetOnCrak leaves the table
+Rysiff: raises $2 to $3
+reeqar leaves the table
+ptolejmus: folds 
+Uncalled bet ($2) returned to Rysiff
+Rysiff collected $2 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: reeqar
+Seat 4: MuppetOnCrak
+Seat 1: Rysiff (small blind) collected ($2)
+Seat 2: ptolejmus (big blind) folded before Flop
+Seat 5: steelNike folded before Flop (didn't bet)
+Seat 6: steepfell (button) folded before Flop (didn't bet)
+
+
+

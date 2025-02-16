@@ -1,0 +1,311 @@
+﻿PokerStars Hand #254709782471:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/04 22:05:59 WET [2025/02/04 17:05:59 ET]
+Table 'Euterpe II' 6-max Seat #4 is the button
+Seat 1: Nazareno1999 ($100 in chips) 
+Seat 2: andutu34 ($100 in chips) 
+Seat 4: olorin01 ($32.50 in chips) 
+Seat 6: Alinyr ($122.30 in chips) 
+Alinyr: posts small blind $0.50
+Nazareno1999: posts big blind $1
+*** HOLE CARDS ***
+G.Andrei95 joins the table at seat #5 
+andutu34: raises $1.30 to $2.30
+ReVeu710 joins the table at seat #3 
+olorin01: folds 
+Alinyr: raises $9.70 to $12
+Nazareno1999: folds 
+andutu34: calls $9.70
+*** FLOP *** [Kh 6s 9s]
+Alinyr: bets $7.92
+andutu34: calls $7.92
+*** TURN *** [Kh 6s 9s] [2c]
+Alinyr: checks 
+andutu34: bets $19.92
+Alinyr: raises $82.46 to $102.38 and is all-in
+andutu34: calls $60.16 and is all-in
+Uncalled bet ($22.30) returned to Alinyr
+*** FIRST RIVER *** [Kh 6s 9s 2c] [Js]
+*** SECOND RIVER *** [Kh 6s 9s 2c] [Qc]
+*** FIRST SHOW DOWN ***
+Alinyr: shows [Ts Ks] (a flush, King high)
+andutu34: shows [Ac Kc] (a pair of Kings)
+Alinyr collected $100 from pot
+*** SECOND SHOW DOWN ***
+Alinyr: shows [Ts Ks] (a pair of Kings)
+andutu34: shows [Ac Kc] (a pair of Kings - Ace kicker)
+andutu34 collected $100 from pot
+*** SUMMARY ***
+Total pot $201 | Rake $1 
+Hand was run twice
+FIRST Board [Kh 6s 9s 2c Js]
+SECOND Board [Kh 6s 9s 2c Qc]
+Seat 1: Nazareno1999 (big blind) folded before Flop
+Seat 2: andutu34 showed [Ac Kc] and lost with a pair of Kings, and won ($100) with a pair of Kings
+Seat 4: olorin01 (button) folded before Flop (didn't bet)
+Seat 6: Alinyr (small blind) showed [Ts Ks] and won ($100) with a flush, King high, and lost with a pair of Kings
+
+
+
+PokerStars Hand #254709818161:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/04 22:07:55 WET [2025/02/04 17:07:55 ET]
+Table 'Euterpe II' 6-max Seat #6 is the button
+Seat 3: ReVeu710 ($111.50 in chips) is sitting out
+Seat 5: G.Andrei95 ($100 in chips) is sitting out
+Seat 1: Nazareno1999 ($100 in chips) 
+Seat 2: andutu34 ($100 in chips) 
+Seat 4: olorin01 ($32.50 in chips) 
+Seat 6: Alinyr ($122.30 in chips) 
+Nazareno1999: posts small blind $0.50
+andutu34: posts big blind $1
+ReVeu710: sits out 
+G.Andrei95: sits out 
+*** HOLE CARDS ***
+olorin01: folds 
+Alinyr: raises $1.50 to $2.50
+Nazareno1999: folds 
+andutu34: folds 
+Uncalled bet ($1.50) returned to Alinyr
+Alinyr collected $2.50 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: ReVeu710
+Seat 5: G.Andrei95
+Seat 1: Nazareno1999 (small blind) folded before Flop
+Seat 2: andutu34 (big blind) folded before Flop
+Seat 4: olorin01 folded before Flop (didn't bet)
+Seat 6: Alinyr (button) collected ($2.50)
+
+
+
+PokerStars Hand #254709823119:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/04 22:08:12 WET [2025/02/04 17:08:12 ET]
+Table 'Euterpe II' 6-max Seat #1 is the button
+Seat 5: G.Andrei95 ($100 in chips) is sitting out
+Seat 1: Nazareno1999 ($100 in chips) 
+Seat 2: andutu34 ($100 in chips) 
+Seat 3: ReVeu710 ($111.50 in chips) 
+Seat 4: olorin01 ($32.50 in chips) 
+Seat 6: Alinyr ($123.80 in chips) 
+andutu34: posts small blind $0.50
+ReVeu710: posts big blind $1
+G.Andrei95: sits out 
+*** HOLE CARDS ***
+olorin01: folds 
+Alinyr: folds 
+Nazareno1999: raises $1.20 to $2.20
+andutu34: folds 
+ReVeu710: calls $1.20
+*** FLOP *** [7h 6c 2c]
+ReVeu710: checks 
+Nazareno1999: checks 
+*** TURN *** [7h 6c 2c] [8s]
+ReVeu710: checks 
+Nazareno1999: checks 
+*** RIVER *** [7h 6c 2c 8s] [7d]
+ReVeu710: checks 
+Nazareno1999: checks 
+*** SHOW DOWN ***
+ReVeu710: shows [As Tc] (a pair of Sevens)
+Nazareno1999: shows [Ac Jh] (a pair of Sevens - Ace+Jack kicker)
+Nazareno1999 collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [7h 6c 2c 8s 7d]
+Seat 5: G.Andrei95
+Seat 1: Nazareno1999 (button) showed [Ac Jh] and won ($4.66) with a pair of Sevens
+Seat 2: andutu34 (small blind) folded before Flop
+Seat 3: ReVeu710 (big blind) showed [As Tc] and lost with a pair of Sevens
+Seat 4: olorin01 folded before Flop (didn't bet)
+Seat 6: Alinyr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254709841922:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/04 22:09:15 WET [2025/02/04 17:09:15 ET]
+Table 'Euterpe II' 6-max Seat #2 is the button
+Seat 5: G.Andrei95 ($100 in chips) is sitting out
+Seat 1: Nazareno1999 ($102.46 in chips) 
+Seat 2: andutu34 ($100 in chips) 
+Seat 3: ReVeu710 ($109.30 in chips) 
+Seat 4: olorin01 ($32.50 in chips) 
+Seat 6: Alinyr ($123.80 in chips) 
+ReVeu710: posts small blind $0.50
+olorin01: posts big blind $1
+G.Andrei95: sits out 
+*** HOLE CARDS ***
+Alinyr: raises $1.05 to $2.05
+Nazareno1999: folds 
+andutu34: folds 
+ReVeu710: calls $1.55
+olorin01: folds 
+*** FLOP *** [8s 7d Qh]
+ReVeu710: checks 
+Alinyr: checks 
+*** TURN *** [8s 7d Qh] [2d]
+ReVeu710: bets $2.61
+Alinyr: calls $2.61
+*** RIVER *** [8s 7d Qh 2d] [Jh]
+ReVeu710: bets $13.43
+Alinyr: folds 
+Uncalled bet ($13.43) returned to ReVeu710
+ReVeu710 collected $9.80 from pot
+ReVeu710: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.32 | Rake $0.52 
+Board [8s 7d Qh 2d Jh]
+Seat 5: G.Andrei95
+Seat 1: Nazareno1999 folded before Flop (didn't bet)
+Seat 2: andutu34 (button) folded before Flop (didn't bet)
+Seat 3: ReVeu710 (small blind) collected ($9.80)
+Seat 4: olorin01 (big blind) folded before Flop
+Seat 6: Alinyr folded on the River
+
+
+
+PokerStars Hand #254709864283:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/04 22:10:29 WET [2025/02/04 17:10:29 ET]
+Table 'Euterpe II' 6-max Seat #3 is the button
+Seat 1: Nazareno1999 ($102.46 in chips) 
+Seat 2: andutu34 ($100 in chips) 
+Seat 3: ReVeu710 ($114.44 in chips) 
+Seat 4: olorin01 ($31.50 in chips) 
+Seat 5: G.Andrei95 ($100 in chips) 
+Seat 6: Alinyr ($119.14 in chips) 
+olorin01: posts small blind $0.50
+G.Andrei95: posts big blind $1
+*** HOLE CARDS ***
+Alinyr: folds 
+Nazareno1999: raises $1.20 to $2.20
+andutu34: folds 
+ReVeu710: folds 
+olorin01: folds 
+G.Andrei95: folds 
+Uncalled bet ($1.20) returned to Nazareno1999
+Nazareno1999 collected $2.50 from pot
+Nazareno1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Nazareno1999 collected ($2.50)
+Seat 2: andutu34 folded before Flop (didn't bet)
+Seat 3: ReVeu710 (button) folded before Flop (didn't bet)
+Seat 4: olorin01 (small blind) folded before Flop
+Seat 5: G.Andrei95 (big blind) folded before Flop
+Seat 6: Alinyr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254709874456:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/04 22:11:03 WET [2025/02/04 17:11:03 ET]
+Table 'Euterpe II' 6-max Seat #4 is the button
+Seat 1: Nazareno1999 ($103.96 in chips) 
+Seat 2: andutu34 ($100 in chips) 
+Seat 3: ReVeu710 ($114.44 in chips) 
+Seat 4: olorin01 ($31 in chips) 
+Seat 5: G.Andrei95 ($100 in chips) 
+Seat 6: Alinyr ($119.14 in chips) 
+G.Andrei95: posts small blind $0.50
+Alinyr: posts big blind $1
+*** HOLE CARDS ***
+Nazareno1999: raises $1.20 to $2.20
+andutu34: folds 
+ReVeu710: folds 
+olorin01: calls $2.20
+G.Andrei95: folds 
+Alinyr: folds 
+*** FLOP *** [Ah 2c Jd]
+Nazareno1999: bets $1.85
+olorin01: folds 
+Uncalled bet ($1.85) returned to Nazareno1999
+Nazareno1999 collected $5.60 from pot
+Nazareno1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [Ah 2c Jd]
+Seat 1: Nazareno1999 collected ($5.60)
+Seat 2: andutu34 folded before Flop (didn't bet)
+Seat 3: ReVeu710 folded before Flop (didn't bet)
+Seat 4: olorin01 (button) folded on the Flop
+Seat 5: G.Andrei95 (small blind) folded before Flop
+Seat 6: Alinyr (big blind) folded before Flop
+
+
+
+PokerStars Hand #254709885772:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/04 22:11:41 WET [2025/02/04 17:11:41 ET]
+Table 'Euterpe II' 6-max Seat #5 is the button
+Seat 1: Nazareno1999 ($107.36 in chips) 
+Seat 2: andutu34 ($100 in chips) 
+Seat 3: ReVeu710 ($114.44 in chips) 
+Seat 4: olorin01 ($28.80 in chips) 
+Seat 5: G.Andrei95 ($100 in chips) 
+Seat 6: Alinyr ($118.14 in chips) 
+Alinyr: posts small blind $0.50
+Nazareno1999: posts big blind $1
+*** HOLE CARDS ***
+andutu34: folds 
+ReVeu710: folds 
+olorin01: calls $1
+G.Andrei95: folds 
+Alinyr: folds 
+Nazareno1999: checks 
+*** FLOP *** [Kd Th As]
+Nazareno1999: checks 
+olorin01: bets $2
+Nazareno1999: calls $2
+*** TURN *** [Kd Th As] [6s]
+Nazareno1999: checks 
+olorin01: checks 
+*** RIVER *** [Kd Th As 6s] [8c]
+Nazareno1999: checks 
+olorin01: checks 
+andutu34 leaves the table
+*** SHOW DOWN ***
+Nazareno1999: shows [Qh 2h] (high card Ace)
+olorin01: mucks hand 
+Nazareno1999 collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Kd Th As 6s 8c]
+Seat 1: Nazareno1999 (big blind) showed [Qh 2h] and won ($6.18) with high card Ace
+Seat 2: andutu34 folded before Flop (didn't bet)
+Seat 3: ReVeu710 folded before Flop (didn't bet)
+Seat 4: olorin01 mucked
+Seat 5: G.Andrei95 (button) folded before Flop (didn't bet)
+Seat 6: Alinyr (small blind) folded before Flop
+
+
+
+PokerStars Hand #254709901437:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/04 22:12:33 WET [2025/02/04 17:12:33 ET]
+Table 'Euterpe II' 6-max Seat #6 is the button
+Seat 3: ReVeu710 ($114.44 in chips) is sitting out
+Seat 1: Nazareno1999 ($110.54 in chips) 
+Seat 4: olorin01 ($25.80 in chips) 
+Seat 5: G.Andrei95 ($100 in chips) 
+Seat 6: Alinyr ($117.64 in chips) 
+Nazareno1999: posts small blind $0.50
+ReVeu710: is sitting out 
+olorin01: posts big blind $1
+*** HOLE CARDS ***
+G.Andrei95: folds 
+Alinyr: folds 
+Nazareno1999: raises $1.50 to $2.50
+olorin01: calls $1.50
+*** FLOP *** [8c 6h 8d]
+Nazareno1999: bets $1.50
+olorin01: calls $1.50
+*** TURN *** [8c 6h 8d] [4c]
+ReVeu710 leaves the table
+G.Andrei95 leaves the table
+Nazareno1999: checks 
+olorin01: checks 
+*** RIVER *** [8c 6h 8d 4c] [Qd]
+Nazareno1999: bets $6.20
+olorin01: folds 
+Uncalled bet ($6.20) returned to Nazareno1999
+Nazareno1999 collected $7.60 from pot
+Nazareno1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [8c 6h 8d 4c Qd]
+Seat 3: ReVeu710
+Seat 1: Nazareno1999 (small blind) collected ($7.60)
+Seat 4: olorin01 (big blind) folded on the River
+Seat 5: G.Andrei95 folded before Flop (didn't bet)
+Seat 6: Alinyr (button) folded before Flop (didn't bet)
+
+
+

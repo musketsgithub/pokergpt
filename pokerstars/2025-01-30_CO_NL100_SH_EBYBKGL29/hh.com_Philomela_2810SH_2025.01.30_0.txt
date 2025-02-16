@@ -1,0 +1,1811 @@
+﻿PokerStars Hand #254626230702:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:35:22 WET [2025/01/30 14:35:22 ET]
+Table 'Philomela II' 6-max Seat #4 is the button
+Seat 1: $LuckerMax1$ ($45 in chips) 
+Seat 2: TCK2 ($6.07 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: LuckyShikari ($108.25 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($100 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+$LuckerMax1$ has timed out
+$LuckerMax1$: folds 
+TCK2: folds 
+MoRsCeReBruM: folds 
+LuckyShikari: raises $1 to $2
+S3MPR3IGUAL: folds 
+avstero: raises $8 to $10
+LuckyShikari: folds 
+Uncalled bet ($8) returned to avstero
+avstero collected $4.50 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 1: $LuckerMax1$ folded before Flop (didn't bet)
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: LuckyShikari (button) folded before Flop
+Seat 5: S3MPR3IGUAL (small blind) folded before Flop
+Seat 6: avstero (big blind) collected ($4.50)
+
+
+
+PokerStars Hand #254626241680:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:36:01 WET [2025/01/30 14:36:01 ET]
+Table 'Philomela II' 6-max Seat #5 is the button
+Seat 1: $LuckerMax1$ ($45 in chips) 
+Seat 2: TCK2 ($6.07 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: LuckyShikari ($106.25 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($102.50 in chips) 
+avstero: posts small blind $0.50
+$LuckerMax1$: posts big blind $1
+*** HOLE CARDS ***
+TCK2: raises $5.07 to $6.07 and is all-in
+MoRsCeReBruM: folds 
+LuckyShikari: folds 
+S3MPR3IGUAL: folds 
+avstero: raises $96.43 to $102.50 and is all-in
+$LuckerMax1$: calls $44 and is all-in
+Uncalled bet ($57.50) returned to avstero
+*** FLOP *** [Qh Ad 4c]
+*** TURN *** [Qh Ad 4c] [Ah]
+*** RIVER *** [Qh Ad 4c Ah] [2c]
+*** SHOW DOWN ***
+avstero: shows [Qs Ks] (two pair, Aces and Queens)
+$LuckerMax1$: shows [As Ac] (four of a kind, Aces)
+$LuckerMax1$ collected $76.27 from side pot
+TCK2: shows [Kh Jc] (a pair of Aces)
+$LuckerMax1$ collected $17.30 from main pot
+TCK2 cashed out the hand for $1.52 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $96.07 Main pot $17.30. Side pot $76.27. | Rake $2.50 
+Board [Qh Ad 4c Ah 2c]
+Seat 1: $LuckerMax1$ (big blind) showed [As Ac] and won ($93.57) with four of a kind, Aces
+Seat 2: TCK2 showed [Kh Jc] and lost with a pair of Aces (cashed out).
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL (button) folded before Flop (didn't bet)
+Seat 6: avstero (small blind) showed [Qs Ks] and lost with two pair, Aces and Queens
+
+
+
+PokerStars Hand #254626252757:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:36:40 WET [2025/01/30 14:36:40 ET]
+Table 'Philomela II' 6-max Seat #6 is the button
+Seat 1: $LuckerMax1$ ($93.57 in chips) 
+Seat 2: TCK2 ($1.52 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: LuckyShikari ($106.25 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($100 in chips) 
+$LuckerMax1$: posts small blind $0.50
+TCK2: posts big blind $1
+*** HOLE CARDS ***
+MoRsCeReBruM: raises $1 to $2
+LuckyShikari: folds 
+S3MPR3IGUAL: folds 
+avstero: folds 
+$LuckerMax1$: calls $1.50
+TCK2: calls $0.52 and is all-in
+*** FLOP *** [9c 2d Ad]
+$LuckerMax1$: checks 
+MoRsCeReBruM: bets $1.73
+$LuckerMax1$: calls $1.73
+*** TURN *** [9c 2d Ad] [6s]
+$LuckerMax1$: checks 
+MoRsCeReBruM: checks 
+*** RIVER *** [9c 2d Ad 6s] [7s]
+$LuckerMax1$: bets $2.99
+MoRsCeReBruM: folds 
+Uncalled bet ($2.99) returned to $LuckerMax1$
+*** SHOW DOWN ***
+$LuckerMax1$: shows [Ac Ks] (a pair of Aces)
+$LuckerMax1$ collected $4.20 from side pot
+TCK2: shows [Qs 7c] (a pair of Sevens)
+$LuckerMax1$ collected $4.33 from main pot
+*** SUMMARY ***
+Total pot $8.98 Main pot $4.33. Side pot $4.20. | Rake $0.45 
+Board [9c 2d Ad 6s 7s]
+Seat 1: $LuckerMax1$ (small blind) showed [Ac Ks] and won ($8.53) with a pair of Aces
+Seat 2: TCK2 (big blind) showed [Qs 7c] and lost with a pair of Sevens
+Seat 3: MoRsCeReBruM folded on the River
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626272026:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:37:48 WET [2025/01/30 14:37:48 ET]
+Table 'Philomela II' 6-max Seat #1 is the button
+Seat 2: TCK2 ($0 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($98.37 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: LuckyShikari ($106.25 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($100 in chips) 
+MoRsCeReBruM: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: raises $1.20 to $2.20
+avstero: folds 
+$LuckerMax1$: folds 
+MoRsCeReBruM: folds 
+LuckyShikari: raises $9.80 to $12
+S3MPR3IGUAL: folds 
+Uncalled bet ($9.80) returned to LuckyShikari
+LuckyShikari collected $4.90 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0 
+Seat 2: TCK2
+Seat 1: $LuckerMax1$ (button) folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (small blind) folded before Flop
+Seat 4: LuckyShikari (big blind) collected ($4.90)
+Seat 5: S3MPR3IGUAL folded before Flop
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626320284:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:40:37 WET [2025/01/30 14:40:37 ET]
+Table 'Philomela II' 6-max Seat #2 is the button
+Seat 1: $LuckerMax1$ ($107.28 in chips) 
+Seat 2: TCK2 ($8.50 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: LuckyShikari ($113.63 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($100 in chips) 
+MoRsCeReBruM: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+avstero: folds 
+$LuckerMax1$: raises $2 to $3
+TCK2: folds 
+MoRsCeReBruM: folds 
+LuckyShikari: folds 
+Uncalled bet ($2) returned to $LuckerMax1$
+$LuckerMax1$ collected $2.50 from pot
+$LuckerMax1$: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: $LuckerMax1$ collected ($2.50)
+Seat 2: TCK2 (button) folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (small blind) folded before Flop
+Seat 4: LuckyShikari (big blind) folded before Flop
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626327410:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:41:01 WET [2025/01/30 14:41:01 ET]
+Table 'Philomela II' 6-max Seat #3 is the button
+Seat 1: $LuckerMax1$ ($108.78 in chips) 
+Seat 2: TCK2 ($8.50 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: LuckyShikari ($112.63 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+$LuckerMax1$: folds 
+TCK2: folds 
+MoRsCeReBruM: folds 
+LuckyShikari: calls $0.50
+S3MPR3IGUAL: checks 
+*** FLOP *** [Kd 6s 3d]
+LuckyShikari: bets $1
+S3MPR3IGUAL: folds 
+Uncalled bet ($1) returned to LuckyShikari
+LuckyShikari collected $1.90 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Kd 6s 3d]
+Seat 1: $LuckerMax1$ folded before Flop (didn't bet)
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM (button) folded before Flop (didn't bet)
+Seat 4: LuckyShikari (small blind) collected ($1.90)
+Seat 5: S3MPR3IGUAL (big blind) folded on the Flop
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626335267:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:41:29 WET [2025/01/30 14:41:29 ET]
+Table 'Philomela II' 6-max Seat #4 is the button
+Seat 1: $LuckerMax1$ ($108.78 in chips) 
+Seat 2: TCK2 ($8.50 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: LuckyShikari ($113.53 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($100 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+$LuckerMax1$: folds 
+TCK2: folds 
+MoRsCeReBruM: raises $1.20 to $2.20
+LuckyShikari: folds 
+S3MPR3IGUAL: raises $8.80 to $11
+avstero: folds 
+MoRsCeReBruM: calls $8.80
+*** FLOP *** [5h 6s 9c]
+S3MPR3IGUAL: bets $10.95
+MoRsCeReBruM: folds 
+Uncalled bet ($10.95) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $21.85 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $1.15 
+Board [5h 6s 9c]
+Seat 1: $LuckerMax1$ folded before Flop (didn't bet)
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM folded on the Flop
+Seat 4: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL (small blind) collected ($21.85)
+Seat 6: avstero (big blind) folded before Flop
+
+
+
+PokerStars Hand #254626357326:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:42:46 WET [2025/01/30 14:42:46 ET]
+Table 'Philomela II' 6-max Seat #5 is the button
+Seat 1: $LuckerMax1$ ($108.78 in chips) 
+Seat 2: TCK2 ($8.50 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: LuckyShikari ($113.53 in chips) 
+Seat 5: S3MPR3IGUAL ($110.85 in chips) 
+Seat 6: avstero ($99 in chips) 
+avstero: posts small blind $0.50
+$LuckerMax1$: posts big blind $1
+*** HOLE CARDS ***
+TCK2: folds 
+MoRsCeReBruM: folds 
+LuckyShikari: folds 
+S3MPR3IGUAL: raises $1.20 to $2.20
+avstero: calls $1.70
+$LuckerMax1$: calls $1.20
+*** FLOP *** [4c Ah 3h]
+avstero: checks 
+$LuckerMax1$: checks 
+S3MPR3IGUAL: checks 
+*** TURN *** [4c Ah 3h] [Qd]
+avstero: checks 
+$LuckerMax1$: checks 
+S3MPR3IGUAL: bets $1.76
+avstero: calls $1.76
+$LuckerMax1$: calls $1.76
+*** RIVER *** [4c Ah 3h Qd] [Qc]
+avstero: checks 
+$LuckerMax1$: checks 
+S3MPR3IGUAL: checks 
+*** SHOW DOWN ***
+avstero: shows [5h 5s] (two pair, Queens and Fives)
+$LuckerMax1$: shows [Qh Kd] (three of a kind, Queens)
+S3MPR3IGUAL: mucks hand 
+$LuckerMax1$ collected $11.29 from pot
+*** SUMMARY ***
+Total pot $11.88 | Rake $0.59 
+Board [4c Ah 3h Qd Qc]
+Seat 1: $LuckerMax1$ (big blind) showed [Qh Kd] and won ($11.29) with three of a kind, Queens
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 3: MoRsCeReBruM folded before Flop (didn't bet)
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL (button) mucked
+Seat 6: avstero (small blind) showed [5h 5s] and lost with two pair, Queens and Fives
+
+
+
+PokerStars Hand #254626377998:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:43:59 WET [2025/01/30 14:43:59 ET]
+Table 'Philomela II' 6-max Seat #6 is the button
+Seat 1: $LuckerMax1$ ($116.11 in chips) 
+Seat 2: TCK2 ($8.50 in chips) 
+Seat 3: MoRsCeReBruM ($100 in chips) 
+Seat 4: LuckyShikari ($113.53 in chips) 
+Seat 5: S3MPR3IGUAL ($106.89 in chips) 
+Seat 6: avstero ($100 in chips) 
+$LuckerMax1$: posts small blind $0.50
+TCK2: posts big blind $1
+*** HOLE CARDS ***
+MoRsCeReBruM: raises $1 to $2
+LuckyShikari: folds 
+S3MPR3IGUAL: folds 
+avstero: folds 
+$LuckerMax1$: folds 
+TCK2: raises $6.50 to $8.50 and is all-in
+MoRsCeReBruM: folds 
+Uncalled bet ($6.50) returned to TCK2
+TCK2 collected $4.50 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 1: $LuckerMax1$ (small blind) folded before Flop
+Seat 2: TCK2 (big blind) collected ($4.50)
+Seat 3: MoRsCeReBruM folded before Flop
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626387171:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:44:32 WET [2025/01/30 14:44:32 ET]
+Table 'Philomela II' 6-max Seat #1 is the button
+Seat 3: MoRsCeReBruM ($100 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($115.61 in chips) 
+Seat 2: TCK2 ($11 in chips) 
+Seat 4: LuckyShikari ($113.53 in chips) 
+Seat 5: S3MPR3IGUAL ($106.89 in chips) 
+Seat 6: avstero ($100 in chips) 
+TCK2: posts small blind $0.50
+MoRsCeReBruM: is sitting out 
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+avstero: folds 
+$LuckerMax1$: folds 
+MoRsCeReBruM leaves the table
+TCK2: calls $0.50
+LuckyShikari: checks 
+*** FLOP *** [5c 3d 2d]
+TCK2: checks 
+LuckyShikari: bets $1
+tintin641 joins the table at seat #3 
+TCK2: folds 
+Uncalled bet ($1) returned to LuckyShikari
+LuckyShikari collected $1.90 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [5c 3d 2d]
+Seat 3: MoRsCeReBruM
+Seat 1: $LuckerMax1$ (button) folded before Flop (didn't bet)
+Seat 2: TCK2 (small blind) folded on the Flop
+Seat 4: LuckyShikari (big blind) collected ($1.90)
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626399428:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:45:16 WET [2025/01/30 14:45:16 ET]
+Table 'Philomela II' 6-max Seat #2 is the button
+Seat 3: tintin641 ($100 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($115.61 in chips) 
+Seat 2: TCK2 ($10 in chips) 
+Seat 4: LuckyShikari ($114.43 in chips) 
+Seat 5: S3MPR3IGUAL ($106.89 in chips) 
+Seat 6: avstero ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+avstero: raises $1.20 to $2.20
+$LuckerMax1$: folds 
+TCK2: folds 
+LuckyShikari: folds 
+S3MPR3IGUAL: calls $1.20
+*** FLOP *** [Jh 7d Tc]
+S3MPR3IGUAL: checks 
+avstero: checks 
+*** TURN *** [Jh 7d Tc] [Kc]
+S3MPR3IGUAL: checks 
+avstero: bets $3.44
+S3MPR3IGUAL: folds 
+Uncalled bet ($3.44) returned to avstero
+avstero collected $4.66 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [Jh 7d Tc Kc]
+Seat 3: tintin641
+Seat 1: $LuckerMax1$ folded before Flop (didn't bet)
+Seat 2: TCK2 (button) folded before Flop (didn't bet)
+Seat 4: LuckyShikari (small blind) folded before Flop
+Seat 5: S3MPR3IGUAL (big blind) folded on the Turn
+Seat 6: avstero collected ($4.66)
+
+
+
+PokerStars Hand #254626411633:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:45:59 WET [2025/01/30 14:45:59 ET]
+Table 'Philomela II' 6-max Seat #4 is the button
+Seat 3: tintin641 ($100 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($115.61 in chips) 
+Seat 2: TCK2 ($10 in chips) 
+Seat 4: LuckyShikari ($113.93 in chips) 
+Seat 5: S3MPR3IGUAL ($104.69 in chips) 
+Seat 6: avstero ($102.46 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+avstero: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+$LuckerMax1$: raises $1 to $2
+TCK2: folds 
+LuckyShikari: folds 
+S3MPR3IGUAL: folds 
+avstero: raises $7 to $9
+$LuckerMax1$: folds 
+Uncalled bet ($7) returned to avstero
+avstero collected $4.50 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 3: tintin641
+Seat 1: $LuckerMax1$ folded before Flop
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 4: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL (small blind) folded before Flop
+Seat 6: avstero (big blind) collected ($4.50)
+
+
+
+PokerStars Hand #254626420062:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:46:29 WET [2025/01/30 14:46:29 ET]
+Table 'Philomela II' 6-max Seat #5 is the button
+Seat 3: tintin641 ($100 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($113.61 in chips) 
+Seat 2: TCK2 ($10 in chips) 
+Seat 4: LuckyShikari ($113.93 in chips) 
+Seat 5: S3MPR3IGUAL ($104.19 in chips) 
+Seat 6: avstero ($104.96 in chips) 
+avstero: posts small blind $0.50
+$LuckerMax1$: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+TCK2: folds 
+LuckyShikari: raises $1.25 to $2.25
+S3MPR3IGUAL: raises $4.75 to $7
+avstero: folds 
+$LuckerMax1$: folds 
+LuckyShikari: raises $18 to $25
+S3MPR3IGUAL: folds 
+Uncalled bet ($18) returned to LuckyShikari
+LuckyShikari collected $15.50 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.50 | Rake $0 
+Seat 3: tintin641
+Seat 1: $LuckerMax1$ (big blind) folded before Flop
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 4: LuckyShikari collected ($15.50)
+Seat 5: S3MPR3IGUAL (button) folded before Flop
+Seat 6: avstero (small blind) folded before Flop
+
+
+
+PokerStars Hand #254626430478:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:47:06 WET [2025/01/30 14:47:06 ET]
+Table 'Philomela II' 6-max Seat #6 is the button
+Seat 3: tintin641 ($100 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($112.61 in chips) 
+Seat 2: TCK2 ($10 in chips) 
+Seat 4: LuckyShikari ($122.43 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($104.46 in chips) 
+$LuckerMax1$: posts small blind $0.50
+TCK2: posts big blind $1
+tintin641: sits out 
+*** HOLE CARDS ***
+LuckyShikari: folds 
+S3MPR3IGUAL: folds 
+avstero: folds 
+$LuckerMax1$: calls $0.50
+TCK2: raises $9 to $10 and is all-in
+$LuckerMax1$: folds 
+Uncalled bet ($9) returned to TCK2
+TCK2 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: tintin641
+Seat 1: $LuckerMax1$ (small blind) folded before Flop
+Seat 2: TCK2 (big blind) collected ($2)
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626437210:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:47:29 WET [2025/01/30 14:47:29 ET]
+Table 'Philomela II' 6-max Seat #1 is the button
+Seat 1: $LuckerMax1$ ($111.61 in chips) 
+Seat 2: TCK2 ($11 in chips) 
+Seat 3: tintin641 ($100 in chips) 
+Seat 4: LuckyShikari ($122.43 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($104.46 in chips) 
+TCK2: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+S3MPR3IGUAL: folds 
+avstero: folds 
+$LuckerMax1$: folds 
+TCK2: calls $0.50
+tintin641: raises $99 to $100 and is all-in
+TCK2: folds 
+Uncalled bet ($99) returned to tintin641
+tintin641 collected $2 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: $LuckerMax1$ (button) folded before Flop (didn't bet)
+Seat 2: TCK2 (small blind) folded before Flop
+Seat 3: tintin641 (big blind) collected ($2)
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626443416:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:47:51 WET [2025/01/30 14:47:51 ET]
+Table 'Philomela II' 6-max Seat #2 is the button
+Seat 1: $LuckerMax1$ ($111.61 in chips) 
+Seat 2: TCK2 ($10 in chips) 
+Seat 3: tintin641 ($101 in chips) 
+Seat 4: LuckyShikari ($122.43 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($104.46 in chips) 
+tintin641: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: raises $1.20 to $2.20
+avstero: folds 
+$LuckerMax1$: folds 
+TCK2: folds 
+tintin641: folds 
+LuckyShikari: raises $6.80 to $9
+S3MPR3IGUAL: raises $15 to $24
+LuckyShikari: calls $15
+*** FLOP *** [Kc 7d Qc]
+LuckyShikari: checks 
+S3MPR3IGUAL: bets $11.53
+LuckyShikari: calls $11.53
+*** TURN *** [Kc 7d Qc] [7c]
+LuckyShikari: bets $3
+S3MPR3IGUAL: calls $3
+*** RIVER *** [Kc 7d Qc 7c] [4h]
+LuckyShikari: checks 
+S3MPR3IGUAL: checks 
+*** SHOW DOWN ***
+LuckyShikari: shows [Jd Ad] (a pair of Sevens)
+S3MPR3IGUAL: shows [As 5s] (a pair of Sevens)
+LuckyShikari collected $37.53 from pot
+S3MPR3IGUAL collected $37.53 from pot
+*** SUMMARY ***
+Total pot $77.56 | Rake $2.50 
+Board [Kc 7d Qc 7c 4h]
+Seat 1: $LuckerMax1$ folded before Flop (didn't bet)
+Seat 2: TCK2 (button) folded before Flop (didn't bet)
+Seat 3: tintin641 (small blind) folded before Flop
+Seat 4: LuckyShikari (big blind) showed [Jd Ad] and won ($37.53) with a pair of Sevens
+Seat 5: S3MPR3IGUAL showed [As 5s] and won ($37.53) with a pair of Sevens
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626464180:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:49:03 WET [2025/01/30 14:49:03 ET]
+Table 'Philomela II' 6-max Seat #3 is the button
+Seat 1: $LuckerMax1$ ($111.61 in chips) 
+Seat 2: TCK2 ($10 in chips) 
+Seat 3: tintin641 ($100.50 in chips) 
+Seat 4: LuckyShikari ($121.43 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($104.46 in chips) 
+LuckyShikari: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+$LuckerMax1$: folds 
+TCK2: folds 
+tintin641: folds 
+LuckyShikari: folds 
+Uncalled bet ($0.50) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $1 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: $LuckerMax1$ folded before Flop (didn't bet)
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 3: tintin641 (button) folded before Flop (didn't bet)
+Seat 4: LuckyShikari (small blind) folded before Flop
+Seat 5: S3MPR3IGUAL (big blind) collected ($1)
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626470258:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:49:24 WET [2025/01/30 14:49:24 ET]
+Table 'Philomela II' 6-max Seat #4 is the button
+Seat 1: $LuckerMax1$ ($111.61 in chips) 
+Seat 2: TCK2 ($10 in chips) 
+Seat 3: tintin641 ($100.50 in chips) 
+Seat 4: LuckyShikari ($120.93 in chips) 
+Seat 5: S3MPR3IGUAL ($100.50 in chips) 
+Seat 6: avstero ($104.46 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+$LuckerMax1$: raises $1 to $2
+TCK2: folds 
+tintin641: folds 
+LuckyShikari: folds 
+S3MPR3IGUAL: folds 
+avstero: folds 
+Uncalled bet ($1) returned to $LuckerMax1$
+$LuckerMax1$ collected $2.50 from pot
+$LuckerMax1$: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: $LuckerMax1$ collected ($2.50)
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL (small blind) folded before Flop
+Seat 6: avstero (big blind) folded before Flop
+
+
+
+PokerStars Hand #254626476069:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:49:45 WET [2025/01/30 14:49:45 ET]
+Table 'Philomela II' 6-max Seat #5 is the button
+Seat 1: $LuckerMax1$ ($113.11 in chips) 
+Seat 2: TCK2 ($10 in chips) 
+Seat 3: tintin641 ($100.50 in chips) 
+Seat 4: LuckyShikari ($120.93 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($103.46 in chips) 
+avstero: posts small blind $0.50
+$LuckerMax1$: posts big blind $1
+*** HOLE CARDS ***
+TCK2: folds 
+tintin641: folds 
+LuckyShikari: folds 
+S3MPR3IGUAL: folds 
+avstero: folds 
+Uncalled bet ($0.50) returned to $LuckerMax1$
+$LuckerMax1$ collected $1 from pot
+$LuckerMax1$: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: $LuckerMax1$ (big blind) collected ($1)
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL (button) folded before Flop (didn't bet)
+Seat 6: avstero (small blind) folded before Flop
+
+
+
+PokerStars Hand #254626480923:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:50:01 WET [2025/01/30 14:50:01 ET]
+Table 'Philomela II' 6-max Seat #6 is the button
+Seat 1: $LuckerMax1$ ($113.61 in chips) 
+Seat 2: TCK2 ($10 in chips) 
+Seat 3: tintin641 ($100.50 in chips) 
+Seat 4: LuckyShikari ($120.93 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($102.96 in chips) 
+$LuckerMax1$: posts small blind $0.50
+TCK2: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+LuckyShikari: folds 
+S3MPR3IGUAL: folds 
+avstero: folds 
+$LuckerMax1$: folds 
+TCK2: raises $7.50 to $10 and is all-in
+tintin641: calls $7.50
+*** FLOP *** [Js 2c 5c]
+*** TURN *** [Js 2c 5c] [8h]
+*** RIVER *** [Js 2c 5c 8h] [7h]
+*** SHOW DOWN ***
+TCK2: shows [Ad Kc] (high card Ace)
+tintin641: shows [As Jh] (a pair of Jacks)
+LuckyShikari leaves the table
+tintin641 collected $19.48 from pot
+*** SUMMARY ***
+Total pot $20.50 | Rake $1.02 
+Board [Js 2c 5c 8h 7h]
+Seat 1: $LuckerMax1$ (small blind) folded before Flop
+Seat 2: TCK2 (big blind) showed [Ad Kc] and lost with high card Ace
+Seat 3: tintin641 showed [As Jh] and won ($19.48) with a pair of Jacks
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626489458:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:50:31 WET [2025/01/30 14:50:31 ET]
+Table 'Philomela II' 6-max Seat #1 is the button
+Seat 2: TCK2 ($0 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($113.11 in chips) 
+Seat 3: tintin641 ($109.98 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($102.96 in chips) 
+tintin641: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+$LuckerMax1$: folds 
+tintin641: folds 
+Uncalled bet ($0.50) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $1 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: TCK2
+Seat 1: $LuckerMax1$ (button) folded before Flop (didn't bet)
+Seat 3: tintin641 (small blind) folded before Flop
+Seat 5: S3MPR3IGUAL (big blind) collected ($1)
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626496010:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:50:54 WET [2025/01/30 14:50:54 ET]
+Table 'Philomela II' 6-max Seat #3 is the button
+Seat 1: $LuckerMax1$ ($113.11 in chips) 
+Seat 2: TCK2 ($10 in chips) 
+Seat 3: tintin641 ($109.48 in chips) 
+Seat 5: S3MPR3IGUAL ($100.50 in chips) 
+Seat 6: avstero ($102.96 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+avstero: posts big blind $1
+TCK2: posts small blind $0.50
+*** HOLE CARDS ***
+$LuckerMax1$: raises $2 to $3
+TCK2: raises $6.50 to $9.50 and is all-in
+tintin641: folds 
+S3MPR3IGUAL: folds 
+peak joker33 joins the table at seat #4 
+avstero: folds 
+$LuckerMax1$: calls $6.50
+*** FLOP *** [Tc Td 9d]
+*** TURN *** [Tc Td 9d] [7c]
+*** RIVER *** [Tc Td 9d 7c] [5s]
+*** SHOW DOWN ***
+$LuckerMax1$: shows [Th Qd] (three of a kind, Tens)
+TCK2: shows [5d 5c] (a full house, Fives full of Tens)
+TCK2 cashed out the hand for $9.99 | Cash Out Fee $0.20
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [Tc Td 9d 7c 5s]
+Seat 1: $LuckerMax1$ showed [Th Qd] and lost with three of a kind, Tens
+Seat 2: TCK2 showed [5d 5c] and won ($19.95) with a full house, Fives full of Tens (pot not awarded as player cashed out)
+Seat 3: tintin641 (button) folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL (small blind) folded before Flop
+Seat 6: avstero (big blind) folded before Flop
+
+
+
+PokerStars Hand #254626505132:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:51:26 WET [2025/01/30 14:51:26 ET]
+Table 'Philomela II' 6-max Seat #5 is the button
+Seat 4: peak joker33 ($100 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($103.61 in chips) 
+Seat 2: TCK2 ($9.99 in chips) 
+Seat 3: tintin641 ($109.48 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($101.96 in chips) 
+avstero: posts small blind $0.50
+$LuckerMax1$: posts big blind $1
+peak joker33: sits out 
+*** HOLE CARDS ***
+TCK2: folds 
+tintin641: folds 
+S3MPR3IGUAL: folds 
+avstero: raises $1.20 to $2.20
+$LuckerMax1$: calls $1.20
+*** FLOP *** [Qd 8h As]
+avstero: checks 
+$LuckerMax1$: checks 
+*** TURN *** [Qd 8h As] [2c]
+avstero: bets $5
+$LuckerMax1$: folds 
+Uncalled bet ($5) returned to avstero
+avstero collected $4.18 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.40 | Rake $0.22 
+Board [Qd 8h As 2c]
+Seat 4: peak joker33
+Seat 1: $LuckerMax1$ (big blind) folded on the Turn
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL (button) folded before Flop (didn't bet)
+Seat 6: avstero (small blind) collected ($4.18)
+
+
+
+PokerStars Hand #254626520064:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:52:18 WET [2025/01/30 14:52:18 ET]
+Table 'Philomela II' 6-max Seat #6 is the button
+Seat 4: peak joker33 ($100 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($101.41 in chips) 
+Seat 2: TCK2 ($9.99 in chips) 
+Seat 3: tintin641 ($109.48 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($103.94 in chips) 
+$LuckerMax1$: posts small blind $0.50
+TCK2: posts big blind $1
+peak joker33: sits out 
+*** HOLE CARDS ***
+tintin641: folds 
+S3MPR3IGUAL: folds 
+avstero: folds 
+$LuckerMax1$: folds 
+Uncalled bet ($0.50) returned to TCK2
+TCK2 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: peak joker33
+Seat 1: $LuckerMax1$ (small blind) folded before Flop
+Seat 2: TCK2 (big blind) collected ($1)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626522755:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:52:27 WET [2025/01/30 14:52:27 ET]
+Table 'Philomela II' 6-max Seat #1 is the button
+Seat 4: peak joker33 ($100 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($100.91 in chips) 
+Seat 2: TCK2 ($10.49 in chips) 
+Seat 3: tintin641 ($109.48 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($103.94 in chips) 
+TCK2: posts small blind $0.50
+tintin641: posts big blind $1
+peak joker33: sits out 
+*** HOLE CARDS ***
+S3MPR3IGUAL: raises $1.20 to $2.20
+avstero: folds 
+$LuckerMax1$: folds 
+TCK2: folds 
+tintin641: folds 
+Uncalled bet ($1.20) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $2.50 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: peak joker33
+Seat 1: $LuckerMax1$ (button) folded before Flop (didn't bet)
+Seat 2: TCK2 (small blind) folded before Flop
+Seat 3: tintin641 (big blind) folded before Flop
+Seat 5: S3MPR3IGUAL collected ($2.50)
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626528442:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:52:47 WET [2025/01/30 14:52:47 ET]
+Table 'Philomela II' 6-max Seat #2 is the button
+Seat 1: $LuckerMax1$ ($100.91 in chips) 
+Seat 2: TCK2 ($9.99 in chips) 
+Seat 3: tintin641 ($108.48 in chips) 
+Seat 4: peak joker33 ($100 in chips) 
+Seat 5: S3MPR3IGUAL ($101.50 in chips) 
+Seat 6: avstero ($103.94 in chips) 
+tintin641: posts small blind $0.50
+peak joker33: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+avstero: folds 
+$LuckerMax1$: folds 
+TCK2: raises $8.99 to $9.99 and is all-in
+tintin641: folds 
+peak joker33: calls $8.99
+*** FLOP *** [3d 6d 8h]
+*** TURN *** [3d 6d 8h] [5h]
+*** RIVER *** [3d 6d 8h 5h] [Jd]
+*** SHOW DOWN ***
+peak joker33: shows [Qh Kd] (high card King)
+TCK2: shows [5c 5s] (three of a kind, Fives)
+TCK2 cashed out the hand for $10.19 | Cash Out Fee $0.21
+*** SUMMARY ***
+Total pot $20.48 | Rake $1.02 
+Board [3d 6d 8h 5h Jd]
+Seat 1: $LuckerMax1$ folded before Flop (didn't bet)
+Seat 2: TCK2 (button) showed [5c 5s] and won ($19.46) with three of a kind, Fives (pot not awarded as player cashed out)
+Seat 3: tintin641 (small blind) folded before Flop
+Seat 4: peak joker33 (big blind) showed [Qh Kd] and lost with high card King
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626537570:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:53:19 WET [2025/01/30 14:53:19 ET]
+Table 'Philomela II' 6-max Seat #3 is the button
+Seat 1: $LuckerMax1$ ($100.91 in chips) 
+Seat 2: TCK2 ($10.19 in chips) 
+Seat 3: tintin641 ($107.98 in chips) 
+Seat 4: peak joker33 ($100 in chips) 
+Seat 5: S3MPR3IGUAL ($101.50 in chips) 
+Seat 6: avstero ($103.94 in chips) 
+peak joker33: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+$LuckerMax1$: folds 
+TCK2: folds 
+tintin641: folds 
+peak joker33: folds 
+Uncalled bet ($0.50) returned to S3MPR3IGUAL
+S3MPR3IGUAL collected $1 from pot
+S3MPR3IGUAL: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: $LuckerMax1$ folded before Flop (didn't bet)
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 3: tintin641 (button) folded before Flop (didn't bet)
+Seat 4: peak joker33 (small blind) folded before Flop
+Seat 5: S3MPR3IGUAL (big blind) collected ($1)
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626541024:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:53:31 WET [2025/01/30 14:53:31 ET]
+Table 'Philomela II' 6-max Seat #4 is the button
+Seat 1: $LuckerMax1$ ($100.91 in chips) 
+Seat 2: TCK2 ($10.19 in chips) 
+Seat 3: tintin641 ($107.98 in chips) 
+Seat 4: peak joker33 ($100 in chips) 
+Seat 5: S3MPR3IGUAL ($102 in chips) 
+Seat 6: avstero ($103.94 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+$LuckerMax1$: folds 
+TCK2: folds 
+tintin641: folds 
+peak joker33: folds 
+S3MPR3IGUAL: folds 
+Uncalled bet ($0.50) returned to avstero
+avstero collected $1 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: $LuckerMax1$ folded before Flop (didn't bet)
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: peak joker33 (button) folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL (small blind) folded before Flop
+Seat 6: avstero (big blind) collected ($1)
+
+
+
+PokerStars Hand #254626543448:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:53:39 WET [2025/01/30 14:53:39 ET]
+Table 'Philomela II' 6-max Seat #5 is the button
+Seat 1: $LuckerMax1$ ($100.91 in chips) 
+Seat 2: TCK2 ($10.19 in chips) 
+Seat 3: tintin641 ($107.98 in chips) 
+Seat 4: peak joker33 ($100 in chips) 
+Seat 5: S3MPR3IGUAL ($101.50 in chips) 
+Seat 6: avstero ($104.44 in chips) 
+avstero: posts small blind $0.50
+$LuckerMax1$: posts big blind $1
+*** HOLE CARDS ***
+TCK2: folds 
+tintin641: folds 
+peak joker33: raises $1.50 to $2.50
+S3MPR3IGUAL: folds 
+avstero: folds 
+$LuckerMax1$: raises $4.50 to $7
+peak joker33: folds 
+Uncalled bet ($4.50) returned to $LuckerMax1$
+$LuckerMax1$ collected $5.50 from pot
+$LuckerMax1$: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: $LuckerMax1$ (big blind) collected ($5.50)
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: peak joker33 folded before Flop
+Seat 5: S3MPR3IGUAL (button) folded before Flop (didn't bet)
+Seat 6: avstero (small blind) folded before Flop
+
+
+
+PokerStars Hand #254626553501:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:54:15 WET [2025/01/30 14:54:15 ET]
+Table 'Philomela II' 6-max Seat #6 is the button
+Seat 1: $LuckerMax1$ ($103.91 in chips) 
+Seat 2: TCK2 ($10.19 in chips) 
+Seat 3: tintin641 ($107.98 in chips) 
+Seat 4: peak joker33 ($100 in chips) 
+Seat 5: S3MPR3IGUAL ($101.50 in chips) 
+Seat 6: avstero ($103.94 in chips) 
+$LuckerMax1$: posts small blind $0.50
+TCK2: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+peak joker33: folds 
+S3MPR3IGUAL: folds 
+avstero: raises $1.20 to $2.20
+$LuckerMax1$: folds 
+TCK2: folds 
+Uncalled bet ($1.20) returned to avstero
+avstero collected $2.50 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: $LuckerMax1$ (small blind) folded before Flop
+Seat 2: TCK2 (big blind) folded before Flop
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: peak joker33 folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero (button) collected ($2.50)
+
+
+
+PokerStars Hand #254626558267:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:54:32 WET [2025/01/30 14:54:32 ET]
+Table 'Philomela II' 6-max Seat #1 is the button
+Seat 1: $LuckerMax1$ ($103.41 in chips) 
+Seat 2: TCK2 ($9.19 in chips) 
+Seat 3: tintin641 ($107.98 in chips) 
+Seat 4: peak joker33 ($100 in chips) 
+Seat 5: S3MPR3IGUAL ($101.50 in chips) 
+Seat 6: avstero ($105.44 in chips) 
+TCK2: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+peak joker33: folds 
+S3MPR3IGUAL: folds 
+avstero: folds 
+$LuckerMax1$: raises $2 to $3
+TCK2: raises $6.19 to $9.19 and is all-in
+tintin641: folds 
+$LuckerMax1$: calls $6.19
+*** FLOP *** [6s Jc Kh]
+*** TURN *** [6s Jc Kh] [6d]
+*** RIVER *** [6s Jc Kh 6d] [Jh]
+*** SHOW DOWN ***
+TCK2: shows [Ad 9c] (two pair, Jacks and Sixes)
+$LuckerMax1$: shows [Kc 8s] (two pair, Kings and Jacks)
+$LuckerMax1$ collected $18.41 from pot
+TCK2 cashed out the hand for $11.50 | Cash Out Fee $0.23
+*** SUMMARY ***
+Total pot $19.38 | Rake $0.97 
+Board [6s Jc Kh 6d Jh]
+Seat 1: $LuckerMax1$ (button) showed [Kc 8s] and won ($18.41) with two pair, Kings and Jacks
+Seat 2: TCK2 (small blind) showed [Ad 9c] and lost with two pair, Jacks and Sixes (cashed out).
+Seat 3: tintin641 (big blind) folded before Flop
+Seat 4: peak joker33 folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626565710:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:54:58 WET [2025/01/30 14:54:58 ET]
+Table 'Philomela II' 6-max Seat #2 is the button
+Seat 1: $LuckerMax1$ ($112.63 in chips) 
+Seat 2: TCK2 ($11.50 in chips) 
+Seat 3: tintin641 ($106.98 in chips) 
+Seat 4: peak joker33 ($100 in chips) 
+Seat 5: S3MPR3IGUAL ($101.50 in chips) 
+Seat 6: avstero ($105.44 in chips) 
+tintin641: posts small blind $0.50
+peak joker33: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+avstero: folds 
+$LuckerMax1$: folds 
+TCK2: folds 
+tintin641: folds 
+Uncalled bet ($0.50) returned to peak joker33
+peak joker33 collected $1 from pot
+peak joker33: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: $LuckerMax1$ folded before Flop (didn't bet)
+Seat 2: TCK2 (button) folded before Flop (didn't bet)
+Seat 3: tintin641 (small blind) folded before Flop
+Seat 4: peak joker33 (big blind) collected ($1)
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626568980:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:55:10 WET [2025/01/30 14:55:10 ET]
+Table 'Philomela II' 6-max Seat #3 is the button
+Seat 5: S3MPR3IGUAL ($101.50 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($112.63 in chips) 
+Seat 2: TCK2 ($11.50 in chips) 
+Seat 3: tintin641 ($106.48 in chips) 
+Seat 4: peak joker33 ($100.50 in chips) 
+Seat 6: avstero ($105.44 in chips) 
+peak joker33: posts small blind $0.50
+S3MPR3IGUAL: is sitting out 
+avstero: posts big blind $1
+*** HOLE CARDS ***
+$LuckerMax1$: calls $1
+TCK2: folds 
+tintin641: folds 
+peak joker33: calls $0.50
+avstero: checks 
+*** FLOP *** [9d 9s 2h]
+peak joker33: checks 
+avstero: checks 
+$LuckerMax1$: checks 
+*** TURN *** [9d 9s 2h] [3s]
+peak joker33: checks 
+avstero: checks 
+$LuckerMax1$: checks 
+*** RIVER *** [9d 9s 2h 3s] [Tc]
+peak joker33: checks 
+avstero: checks 
+$LuckerMax1$: bets $1.43
+peak joker33: folds 
+avstero: folds 
+Uncalled bet ($1.43) returned to $LuckerMax1$
+$LuckerMax1$ collected $2.85 from pot
+$LuckerMax1$: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [9d 9s 2h 3s Tc]
+Seat 5: S3MPR3IGUAL
+Seat 1: $LuckerMax1$ collected ($2.85)
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 3: tintin641 (button) folded before Flop (didn't bet)
+Seat 4: peak joker33 (small blind) folded on the River
+Seat 6: avstero (big blind) folded on the River
+
+
+
+PokerStars Hand #254626585752:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:56:31 WET [2025/01/30 14:56:31 ET]
+Table 'Philomela II' 6-max Seat #4 is the button
+Seat 5: S3MPR3IGUAL ($101.50 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($114.48 in chips) 
+Seat 2: TCK2 ($11.50 in chips) 
+Seat 3: tintin641 ($106.48 in chips) 
+Seat 4: peak joker33 ($100 in chips) 
+Seat 6: avstero ($104.44 in chips) 
+avstero: posts small blind $0.50
+$LuckerMax1$: posts big blind $1
+*** HOLE CARDS ***
+TCK2: folds 
+tintin641: folds 
+peak joker33: folds 
+avstero: raises $1.20 to $2.20
+$LuckerMax1$: calls $1.20
+*** FLOP *** [8h 7d 8c]
+avstero: checks 
+$LuckerMax1$: checks 
+*** TURN *** [8h 7d 8c] [9s]
+avstero: checks 
+$LuckerMax1$: bets $3
+avstero: calls $3
+*** RIVER *** [8h 7d 8c 9s] [6c]
+avstero: bets $8.62
+$LuckerMax1$: folds 
+Uncalled bet ($8.62) returned to avstero
+avstero collected $9.88 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.40 | Rake $0.52 
+Board [8h 7d 8c 9s 6c]
+Seat 5: S3MPR3IGUAL
+Seat 1: $LuckerMax1$ (big blind) folded on the River
+Seat 2: TCK2 folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: peak joker33 (button) folded before Flop (didn't bet)
+Seat 6: avstero (small blind) collected ($9.88)
+
+
+
+PokerStars Hand #254626592979:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:57:07 WET [2025/01/30 14:57:07 ET]
+Table 'Philomela II' 6-max Seat #6 is the button
+Seat 2: TCK2 ($11.50 in chips) is sitting out
+Seat 5: S3MPR3IGUAL ($101.50 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($109.28 in chips) 
+Seat 3: tintin641 ($106.48 in chips) 
+Seat 4: peak joker33 ($100 in chips) 
+Seat 6: avstero ($109.12 in chips) 
+$LuckerMax1$: posts small blind $0.50
+TCK2: is sitting out 
+tintin641: posts big blind $1
+S3MPR3IGUAL: sits out 
+*** HOLE CARDS ***
+peak joker33: folds 
+avstero: folds 
+$LuckerMax1$: folds 
+Uncalled bet ($0.50) returned to tintin641
+tintin641 collected $1 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: TCK2
+Seat 5: S3MPR3IGUAL
+Seat 1: $LuckerMax1$ (small blind) folded before Flop
+Seat 3: tintin641 (big blind) collected ($1)
+Seat 4: peak joker33 folded before Flop (didn't bet)
+Seat 6: avstero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626594658:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:57:16 WET [2025/01/30 14:57:16 ET]
+Table 'Philomela II' 6-max Seat #1 is the button
+Seat 2: TCK2 ($11.50 in chips) is sitting out
+Seat 5: S3MPR3IGUAL ($101.50 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($108.78 in chips) 
+Seat 3: tintin641 ($106.98 in chips) 
+Seat 4: peak joker33 ($100 in chips) 
+Seat 6: avstero ($109.12 in chips) 
+tintin641: posts small blind $0.50
+peak joker33: posts big blind $1
+S3MPR3IGUAL: sits out 
+*** HOLE CARDS ***
+avstero: folds 
+$LuckerMax1$: folds 
+tintin641: folds 
+Uncalled bet ($0.50) returned to peak joker33
+peak joker33 collected $1 from pot
+peak joker33: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: TCK2
+Seat 5: S3MPR3IGUAL
+Seat 1: $LuckerMax1$ (button) folded before Flop (didn't bet)
+Seat 3: tintin641 (small blind) folded before Flop
+Seat 4: peak joker33 (big blind) collected ($1)
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626596751:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:57:26 WET [2025/01/30 14:57:26 ET]
+Table 'Philomela II' 6-max Seat #3 is the button
+Seat 2: TCK2 ($11.50 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($108.78 in chips) 
+Seat 3: tintin641 ($106.48 in chips) 
+Seat 4: peak joker33 ($100.50 in chips) 
+Seat 5: S3MPR3IGUAL ($101.50 in chips) 
+Seat 6: avstero ($109.12 in chips) 
+peak joker33: posts small blind $0.50
+S3MPR3IGUAL: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+$LuckerMax1$: raises $2 to $3
+tintin641: folds 
+peak joker33: folds 
+S3MPR3IGUAL: folds 
+Uncalled bet ($2) returned to $LuckerMax1$
+TCK2 leaves the table
+$LuckerMax1$ collected $2.50 from pot
+$LuckerMax1$: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: TCK2
+Seat 1: $LuckerMax1$ collected ($2.50)
+Seat 3: tintin641 (button) folded before Flop (didn't bet)
+Seat 4: peak joker33 (small blind) folded before Flop
+Seat 5: S3MPR3IGUAL (big blind) folded before Flop
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626600042:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:57:42 WET [2025/01/30 14:57:42 ET]
+Table 'Philomela II' 6-max Seat #4 is the button
+Seat 1: $LuckerMax1$ ($110.28 in chips) 
+Seat 3: tintin641 ($106.48 in chips) 
+Seat 4: peak joker33 ($100 in chips) 
+Seat 5: S3MPR3IGUAL ($100.50 in chips) 
+Seat 6: avstero ($109.12 in chips) 
+S3MPR3IGUAL: posts small blind $0.50
+avstero: posts big blind $1
+*** HOLE CARDS ***
+$LuckerMax1$: folds 
+tintin641: raises $1.50 to $2.50
+peak joker33: raises $5 to $7.50
+Pippa83 joins the table at seat #2 
+S3MPR3IGUAL: folds 
+avstero: folds 
+tintin641: folds 
+Uncalled bet ($5) returned to peak joker33
+peak joker33 collected $6.50 from pot
+peak joker33: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: $LuckerMax1$ folded before Flop (didn't bet)
+Seat 3: tintin641 folded before Flop
+Seat 4: peak joker33 (button) collected ($6.50)
+Seat 5: S3MPR3IGUAL (small blind) folded before Flop
+Seat 6: avstero (big blind) folded before Flop
+
+
+
+PokerStars Hand #254626604233:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:58:02 WET [2025/01/30 14:58:02 ET]
+Table 'Philomela II' 6-max Seat #5 is the button
+Seat 2: Pippa83 ($100 in chips) is sitting out
+Seat 1: $LuckerMax1$ ($110.28 in chips) 
+Seat 3: tintin641 ($103.98 in chips) 
+Seat 4: peak joker33 ($104 in chips) 
+Seat 5: S3MPR3IGUAL ($100 in chips) 
+Seat 6: avstero ($108.12 in chips) 
+avstero: posts small blind $0.50
+$LuckerMax1$: posts big blind $1
+Pippa83: sits out 
+*** HOLE CARDS ***
+tintin641: folds 
+peak joker33: folds 
+S3MPR3IGUAL: raises $1.20 to $2.20
+avstero: folds 
+$LuckerMax1$: calls $1.20
+*** FLOP *** [6c Ah 9d]
+$LuckerMax1$: checks 
+S3MPR3IGUAL: bets $1.30
+$LuckerMax1$: calls $1.30
+*** TURN *** [6c Ah 9d] [2s]
+$LuckerMax1$: checks 
+S3MPR3IGUAL: checks 
+*** RIVER *** [6c Ah 9d 2s] [5c]
+$LuckerMax1$: checks 
+S3MPR3IGUAL: checks 
+*** SHOW DOWN ***
+$LuckerMax1$: shows [8s Th] (high card Ace)
+S3MPR3IGUAL: shows [9s 8d] (a pair of Nines)
+S3MPR3IGUAL collected $7.12 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [6c Ah 9d 2s 5c]
+Seat 2: Pippa83
+Seat 1: $LuckerMax1$ (big blind) showed [8s Th] and lost with high card Ace
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: peak joker33 folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL (button) showed [9s 8d] and won ($7.12) with a pair of Nines
+Seat 6: avstero (small blind) folded before Flop
+
+
+
+PokerStars Hand #254626613088:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:58:47 WET [2025/01/30 14:58:47 ET]
+Table 'Philomela II' 6-max Seat #6 is the button
+Seat 1: $LuckerMax1$ ($106.78 in chips) 
+Seat 2: Pippa83 ($100 in chips) 
+Seat 3: tintin641 ($103.98 in chips) 
+Seat 4: peak joker33 ($104 in chips) 
+Seat 5: S3MPR3IGUAL ($103.62 in chips) 
+Seat 6: avstero ($107.62 in chips) 
+$LuckerMax1$: posts small blind $0.50
+Pippa83: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+peak joker33: folds 
+S3MPR3IGUAL: folds 
+avstero: raises $1.20 to $2.20
+$LuckerMax1$: calls $1.70
+Pippa83: folds 
+*** FLOP *** [Tc 2s Ts]
+$LuckerMax1$: checks 
+avstero: bets $2.98
+$LuckerMax1$: calls $2.98
+*** TURN *** [Tc 2s Ts] [Kh]
+$LuckerMax1$: checks 
+avstero: bets $6.23
+$LuckerMax1$: folds 
+Uncalled bet ($6.23) returned to avstero
+avstero collected $10.79 from pot
+avstero: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.36 | Rake $0.57 
+Board [Tc 2s Ts Kh]
+Seat 1: $LuckerMax1$ (small blind) folded on the Turn
+Seat 2: Pippa83 (big blind) folded before Flop
+Seat 3: tintin641 folded before Flop (didn't bet)
+Seat 4: peak joker33 folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero (button) collected ($10.79)
+
+
+
+PokerStars Hand #254626623738:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:59:40 WET [2025/01/30 14:59:40 ET]
+Table 'Philomela II' 6-max Seat #1 is the button
+Seat 1: $LuckerMax1$ ($101.60 in chips) 
+Seat 2: Pippa83 ($100 in chips) 
+Seat 3: tintin641 ($103.98 in chips) 
+Seat 4: peak joker33 ($104 in chips) 
+Seat 5: S3MPR3IGUAL ($103.62 in chips) 
+Seat 6: avstero ($113.23 in chips) 
+Pippa83: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+peak joker33: folds 
+S3MPR3IGUAL: folds 
+avstero: folds 
+$LuckerMax1$: folds 
+Pippa83: folds 
+Uncalled bet ($0.50) returned to tintin641
+tintin641 collected $1 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: $LuckerMax1$ (button) folded before Flop (didn't bet)
+Seat 2: Pippa83 (small blind) folded before Flop
+Seat 3: tintin641 (big blind) collected ($1)
+Seat 4: peak joker33 folded before Flop (didn't bet)
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626626542:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 19:59:54 WET [2025/01/30 14:59:54 ET]
+Table 'Philomela II' 6-max Seat #2 is the button
+Seat 1: $LuckerMax1$ ($101.60 in chips) 
+Seat 2: Pippa83 ($100 in chips) 
+Seat 3: tintin641 ($104.48 in chips) 
+Seat 4: peak joker33 ($104 in chips) 
+Seat 5: S3MPR3IGUAL ($103.62 in chips) 
+Seat 6: avstero ($113.23 in chips) 
+tintin641: posts small blind $0.50
+peak joker33: posts big blind $1
+*** HOLE CARDS ***
+S3MPR3IGUAL: folds 
+avstero: raises $1.20 to $2.20
+$LuckerMax1$: raises $4.80 to $7
+Pippa83: folds 
+tintin641: folds 
+peak joker33: folds 
+avstero: calls $4.80
+*** FLOP *** [6h 8d 2h]
+S3MPR3IGUAL leaves the table
+avstero: checks 
+$LuckerMax1$: bets $5.15
+Nazareno1999 joins the table at seat #5 
+avstero: raises $8.75 to $13.90
+$LuckerMax1$: calls $8.75
+*** TURN *** [6h 8d 2h] [Qd]
+avstero: bets $27.56
+$LuckerMax1$: calls $27.56
+*** RIVER *** [6h 8d 2h Qd] [Tc]
+avstero: bets $64.77 and is all-in
+$LuckerMax1$: calls $53.14 and is all-in
+Uncalled bet ($11.63) returned to avstero
+*** SHOW DOWN ***
+avstero: shows [8s 8h] (three of a kind, Eights)
+$LuckerMax1$: shows [Ah Qc] (a pair of Queens)
+avstero collected $202.20 from pot
+*** SUMMARY ***
+Total pot $204.70 | Rake $2.50 
+Board [6h 8d 2h Qd Tc]
+Seat 1: $LuckerMax1$ showed [Ah Qc] and lost with a pair of Queens
+Seat 2: Pippa83 (button) folded before Flop (didn't bet)
+Seat 3: tintin641 (small blind) folded before Flop
+Seat 4: peak joker33 (big blind) folded before Flop
+Seat 5: S3MPR3IGUAL folded before Flop (didn't bet)
+Seat 6: avstero showed [8s 8h] and won ($202.20) with three of a kind, Eights
+
+
+
+PokerStars Hand #254626653604:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:01:53 WET [2025/01/30 15:01:53 ET]
+Table 'Philomela II' 6-max Seat #3 is the button
+Seat 1: $LuckerMax1$ ($0 in chips) is sitting out
+Seat 2: Pippa83 ($100 in chips) 
+Seat 3: tintin641 ($103.98 in chips) 
+Seat 4: peak joker33 ($103 in chips) 
+Seat 5: Nazareno1999 ($100 in chips) 
+Seat 6: avstero ($213.83 in chips) 
+peak joker33: posts small blind $0.50
+Nazareno1999: posts big blind $1
+*** HOLE CARDS ***
+avstero: folds 
+Pippa83: folds 
+$LuckerMax1$ leaves the table
+tintin641: raises $1.50 to $2.50
+peak joker33: folds 
+avstero leaves the table
+Nazareno1999: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+Pippa83 leaves the table
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: $LuckerMax1$
+Seat 2: Pippa83 folded before Flop (didn't bet)
+Seat 3: tintin641 (button) collected ($2.50)
+Seat 4: peak joker33 (small blind) folded before Flop
+Seat 5: Nazareno1999 (big blind) folded before Flop
+Seat 6: avstero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254626658333:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:02:11 WET [2025/01/30 15:02:11 ET]
+Table 'Philomela II' 6-max Seat #5 is the button
+Seat 3: tintin641 ($105.48 in chips) is sitting out
+Seat 4: peak joker33 ($102.50 in chips) 
+Seat 5: Nazareno1999 ($100 in chips) 
+Nazareno1999: posts small blind $0.50
+tintin641: is sitting out 
+peak joker33: posts big blind $1
+*** HOLE CARDS ***
+tintin641 leaves the table
+Nazareno1999: raises $1.50 to $2.50
+peak joker33: raises $8.50 to $11
+Nazareno1999: raises $12.50 to $23.50
+peak joker33: raises $79 to $102.50 and is all-in
+Nazareno1999: calls $76.50 and is all-in
+Uncalled bet ($2.50) returned to peak joker33
+*** FLOP *** [Tc 8h 3s]
+*** TURN *** [Tc 8h 3s] [8d]
+*** RIVER *** [Tc 8h 3s 8d] [As]
+*** SHOW DOWN ***
+peak joker33: shows [9s 9c] (two pair, Nines and Eights)
+Nazareno1999: shows [Js Jd] (two pair, Jacks and Eights)
+Nazareno1999 collected $199 from pot
+*** SUMMARY ***
+Total pot $200 | Rake $1 
+Board [Tc 8h 3s 8d As]
+Seat 3: tintin641
+Seat 4: peak joker33 (big blind) showed [9s 9c] and lost with two pair, Nines and Eights
+Seat 5: Nazareno1999 (button) (small blind) showed [Js Jd] and won ($199) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #254626979586:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:20:22 WET [2025/01/30 15:20:22 ET]
+Table 'Philomela II' 6-max Seat #6 is the button
+Seat 2: OrgazmPoint ($10 in chips) 
+Seat 3: Poker9803 ($100 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: Nazareno1999 ($199 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+OrgazmPoint: posts small blind $0.50
+Poker9803: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+Nazareno1999: folds 
+Manifestorr: raises $1.20 to $2.20
+OrgazmPoint: folds 
+Poker9803: folds 
+Uncalled bet ($1.20) returned to Manifestorr
+Manifestorr collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: OrgazmPoint (small blind) folded before Flop
+Seat 3: Poker9803 (big blind) folded before Flop
+Seat 4: XneferX folded before Flop (didn't bet)
+Seat 5: Nazareno1999 folded before Flop (didn't bet)
+Seat 6: Manifestorr (button) collected ($2.50)
+
+
+
+PokerStars Hand #254626992246:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:21:03 WET [2025/01/30 15:21:03 ET]
+Table 'Philomela II' 6-max Seat #2 is the button
+Seat 2: OrgazmPoint ($9.50 in chips) 
+Seat 3: Poker9803 ($100 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: Nazareno1999 ($199 in chips) 
+Seat 6: Manifestorr ($101.50 in chips) 
+Poker9803: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Nazareno1999: folds 
+Manifestorr: folds 
+OrgazmPoint: folds 
+Poker9803: raises $2 to $3
+JUANS2 joins the table at seat #1 
+XneferX: calls $2
+*** FLOP *** [Kc 5s 7c]
+Poker9803: checks 
+XneferX: checks 
+*** TURN *** [Kc 5s 7c] [3h]
+Poker9803: bets $4.28
+XneferX: folds 
+Uncalled bet ($4.28) returned to Poker9803
+Poker9803 collected $5.70 from pot
+Poker9803: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Kc 5s 7c 3h]
+Seat 2: OrgazmPoint (button) folded before Flop (didn't bet)
+Seat 3: Poker9803 (small blind) collected ($5.70)
+Seat 4: XneferX (big blind) folded on the Turn
+Seat 5: Nazareno1999 folded before Flop (didn't bet)
+Seat 6: Manifestorr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627010223:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:22:03 WET [2025/01/30 15:22:03 ET]
+Table 'Philomela II' 6-max Seat #3 is the button
+Seat 1: JUANS2 ($100 in chips) is sitting out
+Seat 2: OrgazmPoint ($9.50 in chips) 
+Seat 3: Poker9803 ($102.70 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: Nazareno1999 ($199 in chips) 
+Seat 6: Manifestorr ($101.50 in chips) 
+XneferX: posts small blind $0.50
+Nazareno1999: posts big blind $1
+JUANS2: sits out 
+*** HOLE CARDS ***
+Manifestorr: folds 
+OrgazmPoint: folds 
+Poker9803: folds 
+XneferX: folds 
+Uncalled bet ($0.50) returned to Nazareno1999
+Nazareno1999 collected $1 from pot
+Nazareno1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: JUANS2
+Seat 2: OrgazmPoint folded before Flop (didn't bet)
+Seat 3: Poker9803 (button) folded before Flop (didn't bet)
+Seat 4: XneferX (small blind) folded before Flop
+Seat 5: Nazareno1999 (big blind) collected ($1)
+Seat 6: Manifestorr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627017299:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:22:26 WET [2025/01/30 15:22:26 ET]
+Table 'Philomela II' 6-max Seat #4 is the button
+Seat 1: JUANS2 ($100 in chips) is sitting out
+Seat 2: OrgazmPoint ($9.50 in chips) 
+Seat 3: Poker9803 ($102.70 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: Nazareno1999 ($199.50 in chips) 
+Seat 6: Manifestorr ($101.50 in chips) 
+Nazareno1999: posts small blind $0.50
+Manifestorr: posts big blind $1
+JUANS2: sits out 
+*** HOLE CARDS ***
+OrgazmPoint: folds 
+Poker9803: folds 
+XneferX: folds 
+Nazareno1999: raises $1.50 to $2.50
+Manifestorr: folds 
+Uncalled bet ($1.50) returned to Nazareno1999
+Nazareno1999 collected $2 from pot
+Nazareno1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: JUANS2
+Seat 2: OrgazmPoint folded before Flop (didn't bet)
+Seat 3: Poker9803 folded before Flop (didn't bet)
+Seat 4: XneferX (button) folded before Flop (didn't bet)
+Seat 5: Nazareno1999 (small blind) collected ($2)
+Seat 6: Manifestorr (big blind) folded before Flop
+
+
+
+PokerStars Hand #254627021396:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:22:40 WET [2025/01/30 15:22:40 ET]
+Table 'Philomela II' 6-max Seat #5 is the button
+Seat 1: JUANS2 ($100 in chips) 
+Seat 2: OrgazmPoint ($9.50 in chips) 
+Seat 3: Poker9803 ($102.70 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: Nazareno1999 ($200.50 in chips) 
+Seat 6: Manifestorr ($100.50 in chips) 
+Manifestorr: posts small blind $0.50
+JUANS2: posts big blind $1
+*** HOLE CARDS ***
+OrgazmPoint: folds 
+Poker9803: folds 
+XneferX: raises $1.30 to $2.30
+OrgazmPoint leaves the table
+Nazareno1999: folds 
+Manifestorr: folds 
+JUANS2: calls $1.30
+*** FLOP *** [3h Jc 4s]
+JUANS2: checks 
+XneferX: bets $1.65
+TCK2 joins the table at seat #2 
+JUANS2: raises $4.85 to $6.50
+XneferX: folds 
+Uncalled bet ($4.85) returned to JUANS2
+JUANS2 collected $7.98 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.40 | Rake $0.42 
+Board [3h Jc 4s]
+Seat 1: JUANS2 (big blind) collected ($7.98)
+Seat 2: OrgazmPoint folded before Flop (didn't bet)
+Seat 3: Poker9803 folded before Flop (didn't bet)
+Seat 4: XneferX folded on the Flop
+Seat 5: Nazareno1999 (button) folded before Flop (didn't bet)
+Seat 6: Manifestorr (small blind) folded before Flop
+
+
+
+PokerStars Hand #254627039086:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:23:39 WET [2025/01/30 15:23:39 ET]
+Table 'Philomela II' 6-max Seat #6 is the button
+Seat 1: JUANS2 ($104.03 in chips) 
+Seat 2: TCK2 ($11.50 in chips) 
+Seat 3: Poker9803 ($102.70 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: Nazareno1999 ($200.50 in chips) 
+Seat 6: Manifestorr ($100 in chips) 
+JUANS2: posts small blind $0.50
+TCK2: posts big blind $1
+*** HOLE CARDS ***
+Poker9803: folds 
+XneferX: folds 
+Poker9803 leaves the table
+Nazareno1999: folds 
+Manifestorr: raises $1.20 to $2.20
+JUANS2: folds 
+TCK2: folds 
+Uncalled bet ($1.20) returned to Manifestorr
+Manifestorr collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: JUANS2 (small blind) folded before Flop
+Seat 2: TCK2 (big blind) folded before Flop
+Seat 3: Poker9803 folded before Flop (didn't bet)
+Seat 4: XneferX folded before Flop (didn't bet)
+Seat 5: Nazareno1999 folded before Flop (didn't bet)
+Seat 6: Manifestorr (button) collected ($2.50)
+
+
+
+PokerStars Hand #254627048696:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:24:11 WET [2025/01/30 15:24:11 ET]
+Table 'Philomela II' 6-max Seat #1 is the button
+Seat 1: JUANS2 ($103.53 in chips) 
+Seat 2: TCK2 ($10.50 in chips) 
+Seat 4: XneferX ($100 in chips) 
+Seat 5: Nazareno1999 ($200.50 in chips) 
+Seat 6: Manifestorr ($101.50 in chips) 
+TCK2: posts small blind $0.50
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+Nazareno1999: folds 
+Manifestorr: folds 
+JUANS2: folds 
+TCK2: folds 
+Uncalled bet ($0.50) returned to XneferX
+XneferX collected $1 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: JUANS2 (button) folded before Flop (didn't bet)
+Seat 2: TCK2 (small blind) folded before Flop
+Seat 4: XneferX (big blind) collected ($1)
+Seat 5: Nazareno1999 folded before Flop (didn't bet)
+Seat 6: Manifestorr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254627052345:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:24:22 WET [2025/01/30 15:24:22 ET]
+Table 'Philomela II' 6-max Seat #2 is the button
+Seat 5: Nazareno1999 ($200.50 in chips) is sitting out
+Seat 6: Manifestorr ($101.50 in chips) is sitting out
+Seat 1: JUANS2 ($103.53 in chips) 
+Seat 2: TCK2 ($10 in chips) 
+Seat 4: XneferX ($100.50 in chips) 
+XneferX: posts small blind $0.50
+Nazareno1999: is sitting out 
+Manifestorr: is sitting out 
+JUANS2: posts big blind $1
+*** HOLE CARDS ***
+TCK2: raises $9 to $10 and is all-in
+Manifestorr leaves the table
+XneferX: folds 
+Nazareno1999 leaves the table
+JUANS2: folds 
+Uncalled bet ($9) returned to TCK2
+TCK2 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: Nazareno1999
+Seat 6: Manifestorr
+Seat 1: JUANS2 (big blind) folded before Flop
+Seat 2: TCK2 (button) collected ($2.50)
+Seat 4: XneferX (small blind) folded before Flop
+
+
+
+PokerStars Hand #254627058057:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 20:24:42 WET [2025/01/30 15:24:42 ET]
+Table 'Philomela II' 6-max Seat #1 is the button
+Seat 2: TCK2 ($11.50 in chips) is sitting out
+Seat 1: JUANS2 ($102.53 in chips) 
+Seat 4: XneferX ($100 in chips) 
+JUANS2: posts small blind $0.50
+TCK2: is sitting out 
+XneferX: posts big blind $1
+*** HOLE CARDS ***
+TCK2 leaves the table
+JUANS2: raises $1.50 to $2.50
+XneferX: calls $1.50
+*** FLOP *** [Jh Ts Kd]
+XneferX: checks 
+JUANS2: bets $2.38
+XneferX: calls $2.38
+*** TURN *** [Jh Ts Kd] [2s]
+XneferX: checks 
+JUANS2: bets $9.27
+XneferX: folds 
+Uncalled bet ($9.27) returned to JUANS2
+JUANS2 collected $9.27 from pot
+JUANS2: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [Jh Ts Kd 2s]
+Seat 2: TCK2
+Seat 1: JUANS2 (button) (small blind) collected ($9.27)
+Seat 4: XneferX (big blind) folded on the Turn
+
+
+

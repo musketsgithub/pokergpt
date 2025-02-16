@@ -1,0 +1,2169 @@
+﻿PokerStars Hand #254729771519:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:02:14 WET [2025/02/05 23:02:14 ET]
+Table 'Sitarski' 6-max Seat #6 is the button
+Seat 1: steelNike ($276.86 in chips) 
+Seat 2: Seavus10 ($242.96 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($136.96 in chips) 
+Seat 5: shootingGRID ($185.56 in chips) 
+Seat 6: pepy_2233 ($82.76 in chips) 
+steelNike: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $1
+steelNike: calls $0.50
+Seavus10: checks 
+*** FLOP *** [Ah 8c 9s]
+steelNike: checks 
+Seavus10: bets $1
+pepy_2233: raises $1 to $2
+steelNike: folds 
+Seavus10: calls $1
+*** TURN *** [Ah 8c 9s] [5c]
+Seavus10: checks 
+pepy_2233: bets $3.33
+Seavus10: folds 
+Uncalled bet ($3.33) returned to pepy_2233
+pepy_2233 collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Ah 8c 9s 5c]
+Seat 1: steelNike (small blind) folded on the Flop
+Seat 2: Seavus10 (big blind) folded on the Turn
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 (button) collected ($6.65)
+
+
+
+PokerStars Hand #254729775253:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:02:49 WET [2025/02/05 23:02:49 ET]
+Table 'Sitarski' 6-max Seat #1 is the button
+Seat 1: steelNike ($275.86 in chips) 
+Seat 2: Seavus10 ($239.96 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($136.96 in chips) 
+Seat 5: shootingGRID ($185.56 in chips) 
+Seat 6: pepy_2233 ($86.41 in chips) 
+Seavus10: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $1
+steelNike: calls $1
+Seavus10: folds 
+7bekon7: checks 
+*** FLOP *** [6c 5s 8d]
+7bekon7: bets $1.66
+pepy_2233: calls $1.66
+steelNike: folds 
+*** TURN *** [6c 5s 8d] [Qh]
+7bekon7: bets $3.24
+pepy_2233: raises $3.24 to $6.48
+7bekon7: calls $3.24
+*** RIVER *** [6c 5s 8d Qh] [5h]
+7bekon7: checks 
+pepy_2233: bets $18.79
+7bekon7: folds 
+Uncalled bet ($18.79) returned to pepy_2233
+pepy_2233 collected $18.79 from pot
+*** SUMMARY ***
+Total pot $19.78 | Rake $0.99 
+Board [6c 5s 8d Qh 5h]
+Seat 1: steelNike (button) folded on the Flop
+Seat 2: Seavus10 (small blind) folded before Flop
+Seat 3: 7bekon7 (big blind) folded on the River
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 collected ($18.79)
+
+
+
+PokerStars Hand #254729779780:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:03:32 WET [2025/02/05 23:03:32 ET]
+Table 'Sitarski' 6-max Seat #2 is the button
+Seat 1: steelNike ($274.86 in chips) 
+Seat 2: Seavus10 ($239.46 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($136.96 in chips) 
+Seat 5: shootingGRID ($185.56 in chips) 
+Seat 6: pepy_2233 ($96.06 in chips) 
+7bekon7: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+pepy_2233: calls $1
+steelNike: folds 
+Seavus10: raises $3.50 to $4.50
+7bekon7: folds 
+Tibibacsi: folds 
+pepy_2233: calls $3.50
+*** FLOP *** [5c Ts 8s]
+pepy_2233: checks 
+Seavus10: bets $6.49
+pepy_2233: raises $6.49 to $12.98
+Seavus10: raises $16.47 to $29.45
+pepy_2233: raises $16.47 to $45.92
+Seavus10: raises $189.04 to $234.96 and is all-in
+pepy_2233: calls $45.64 and is all-in
+Uncalled bet ($143.40) returned to Seavus10
+*** TURN *** [5c Ts 8s] [Tc]
+*** RIVER *** [5c Ts 8s Tc] [Kc]
+*** SHOW DOWN ***
+pepy_2233: shows [Td 5h] (a full house, Tens full of Fives)
+Seavus10: shows [Jh Jc] (two pair, Jacks and Tens)
+pepy_2233 collected $191.12 from pot
+*** SUMMARY ***
+Total pot $193.62 | Rake $2.50 
+Board [5c Ts 8s Tc Kc]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 (button) showed [Jh Jc] and lost with two pair, Jacks and Tens
+Seat 3: 7bekon7 (small blind) folded before Flop
+Seat 4: Tibibacsi (big blind) folded before Flop
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 showed [Td 5h] and won ($191.12) with a full house, Tens full of Fives
+
+
+
+PokerStars Hand #254729791008:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:05:17 WET [2025/02/05 23:05:17 ET]
+Table 'Sitarski' 6-max Seat #3 is the button
+Seat 1: steelNike ($274.86 in chips) 
+Seat 2: Seavus10 ($143.40 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($135.96 in chips) 
+Seat 5: shootingGRID ($185.56 in chips) 
+Seat 6: pepy_2233 ($191.12 in chips) 
+Tibibacsi: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+pepy_2233: calls $1
+steelNike: folds 
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: checks 
+*** FLOP *** [4d 9h 3s]
+shootingGRID: checks 
+pepy_2233: checks 
+*** TURN *** [4d 9h 3s] [Ac]
+shootingGRID: bets $1.79
+pepy_2233: calls $1.79
+*** RIVER *** [4d 9h 3s Ac] [Qs]
+shootingGRID: checks 
+pepy_2233: bets $2.89
+shootingGRID: calls $2.89
+*** SHOW DOWN ***
+pepy_2233: shows [Qd Jc] (a pair of Queens)
+shootingGRID: shows [7s Ah] (a pair of Aces)
+shootingGRID collected $11.27 from pot
+*** SUMMARY ***
+Total pot $11.86 | Rake $0.59 
+Board [4d 9h 3s Ac Qs]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 4: Tibibacsi (small blind) folded before Flop
+Seat 5: shootingGRID (big blind) showed [7s Ah] and won ($11.27) with a pair of Aces
+Seat 6: pepy_2233 showed [Qd Jc] and lost with a pair of Queens
+
+
+
+PokerStars Hand #254729795284:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:05:57 WET [2025/02/05 23:05:57 ET]
+Table 'Sitarski' 6-max Seat #4 is the button
+Seat 1: steelNike ($274.86 in chips) 
+Seat 2: Seavus10 ($143.40 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($135.46 in chips) 
+Seat 5: shootingGRID ($191.15 in chips) 
+Seat 6: pepy_2233 ($185.44 in chips) 
+shootingGRID: posts small blind $0.50
+pepy_2233: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Seavus10: raises $1.20 to $2.20
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $1.20
+*** FLOP *** [7d Jh Ts]
+pepy_2233: checks 
+Seavus10: bets $1.55
+pepy_2233: raises $1.55 to $3.10
+Seavus10: calls $1.55
+*** TURN *** [7d Jh Ts] [Th]
+pepy_2233: bets $5.27
+Seavus10: folds 
+Uncalled bet ($5.27) returned to pepy_2233
+pepy_2233 collected $10.54 from pot
+*** SUMMARY ***
+Total pot $11.10 | Rake $0.56 
+Board [7d Jh Ts Th]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 folded on the Turn
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 5: shootingGRID (small blind) folded before Flop
+Seat 6: pepy_2233 (big blind) collected ($10.54)
+
+
+
+PokerStars Hand #254729798726:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:06:30 WET [2025/02/05 23:06:30 ET]
+Table 'Sitarski' 6-max Seat #5 is the button
+Seat 1: steelNike ($274.86 in chips) 
+Seat 2: Seavus10 ($138.10 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($135.46 in chips) 
+Seat 5: shootingGRID ($190.65 in chips) 
+Seat 6: pepy_2233 ($190.68 in chips) 
+pepy_2233: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: raises $1 to $2
+7bekon7: raises $5.50 to $7.50
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: folds 
+steelNike: folds 
+Seavus10: raises $13.50 to $21
+7bekon7: folds 
+Uncalled bet ($13.50) returned to Seavus10
+Seavus10 collected $16.50 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0 
+Seat 1: steelNike (big blind) folded before Flop
+Seat 2: Seavus10 collected ($16.50)
+Seat 3: 7bekon7 folded before Flop
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID (button) folded before Flop (didn't bet)
+Seat 6: pepy_2233 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254729802097:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:07:01 WET [2025/02/05 23:07:01 ET]
+Table 'Sitarski' 6-max Seat #6 is the button
+Seat 1: steelNike ($273.86 in chips) 
+Seat 2: Seavus10 ($147.10 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($135.46 in chips) 
+Seat 5: shootingGRID ($190.65 in chips) 
+Seat 6: pepy_2233 ($190.18 in chips) 
+steelNike: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: folds 
+steelNike: raises $2 to $3
+Seavus10: calls $2
+*** FLOP *** [7s 2d Ac]
+steelNike: checks 
+Seavus10: checks 
+*** TURN *** [7s 2d Ac] [9d]
+steelNike: checks 
+Seavus10: checks 
+*** RIVER *** [7s 2d Ac 9d] [9s]
+steelNike: bets $2.85
+Seavus10: folds 
+Uncalled bet ($2.85) returned to steelNike
+steelNike collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [7s 2d Ac 9d 9s]
+Seat 1: steelNike (small blind) collected ($5.70)
+Seat 2: Seavus10 (big blind) folded on the River
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254729808116:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:07:59 WET [2025/02/05 23:07:59 ET]
+Table 'Sitarski' 6-max Seat #1 is the button
+Seat 3: 7bekon7 ($100 in chips) is sitting out
+Seat 1: steelNike ($276.56 in chips) 
+Seat 2: Seavus10 ($144.10 in chips) 
+Seat 4: Tibibacsi ($135.46 in chips) 
+Seat 5: shootingGRID ($190.65 in chips) 
+Seat 6: pepy_2233 ($190.18 in chips) 
+Seavus10: posts small blind $0.50
+7bekon7: is sitting out 
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+pepy_2233: folds 
+steelNike: folds 
+Seavus10: raises $2 to $3
+Tibibacsi: folds 
+Uncalled bet ($2) returned to Seavus10
+Seavus10 collected $2 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: 7bekon7
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Seavus10 (small blind) collected ($2)
+Seat 4: Tibibacsi (big blind) folded before Flop
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254729809304:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:08:10 WET [2025/02/05 23:08:10 ET]
+Table 'Sitarski' 6-max Seat #2 is the button
+Seat 3: 7bekon7 ($100 in chips) is sitting out
+Seat 1: steelNike ($276.56 in chips) 
+Seat 2: Seavus10 ($145.10 in chips) 
+Seat 4: Tibibacsi ($134.46 in chips) 
+Seat 5: shootingGRID ($190.65 in chips) 
+Seat 6: pepy_2233 ($190.18 in chips) 
+Tibibacsi: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+pepy_2233: calls $1
+steelNike: calls $1
+Seavus10: calls $1
+Tibibacsi: calls $0.50
+shootingGRID: checks 
+*** FLOP *** [8h Ks Jc]
+Tibibacsi: checks 
+shootingGRID: checks 
+pepy_2233: checks 
+steelNike: checks 
+Seavus10: bets $1.58
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $1.58
+steelNike: folds 
+*** TURN *** [8h Ks Jc] [5c]
+pepy_2233: checks 
+Seavus10: checks 
+*** RIVER *** [8h Ks Jc 5c] [Qc]
+pepy_2233: bets $7.75
+Seavus10: calls $7.75
+*** SHOW DOWN ***
+pepy_2233: shows [7c 9c] (a flush, Queen high)
+Seavus10: mucks hand 
+pepy_2233 collected $22.48 from pot
+*** SUMMARY ***
+Total pot $23.66 | Rake $1.18 
+Board [8h Ks Jc 5c Qc]
+Seat 3: 7bekon7
+Seat 1: steelNike folded on the Flop
+Seat 2: Seavus10 (button) mucked
+Seat 4: Tibibacsi (small blind) folded on the Flop
+Seat 5: shootingGRID (big blind) folded on the Flop
+Seat 6: pepy_2233 showed [7c 9c] and won ($22.48) with a flush, Queen high
+
+
+
+PokerStars Hand #254729816249:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:09:16 WET [2025/02/05 23:09:16 ET]
+Table 'Sitarski' 6-max Seat #4 is the button
+Seat 3: 7bekon7 ($100 in chips) is sitting out
+Seat 1: steelNike ($275.56 in chips) 
+Seat 2: Seavus10 ($134.77 in chips) 
+Seat 4: Tibibacsi ($133.46 in chips) 
+Seat 5: shootingGRID ($189.65 in chips) 
+Seat 6: pepy_2233 ($202.33 in chips) 
+shootingGRID: posts small blind $0.50
+pepy_2233: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Seavus10: raises $1.20 to $2.20
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: raises $1.20 to $3.40
+Seavus10: calls $1.20
+*** FLOP *** [Qc 5c 2c]
+pepy_2233: checks 
+Seavus10: checks 
+*** TURN *** [Qc 5c 2c] [Tc]
+pepy_2233: bets $6.94
+Seavus10: folds 
+Uncalled bet ($6.94) returned to pepy_2233
+pepy_2233 collected $6.94 from pot
+*** SUMMARY ***
+Total pot $7.30 | Rake $0.36 
+Board [Qc 5c 2c Tc]
+Seat 3: 7bekon7
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 folded on the Turn
+Seat 4: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 5: shootingGRID (small blind) folded before Flop
+Seat 6: pepy_2233 (big blind) collected ($6.94)
+
+
+
+PokerStars Hand #254729818947:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:09:43 WET [2025/02/05 23:09:43 ET]
+Table 'Sitarski' 6-max Seat #5 is the button
+Seat 3: 7bekon7 ($100 in chips) is sitting out
+Seat 1: steelNike ($275.56 in chips) 
+Seat 2: Seavus10 ($131.37 in chips) 
+Seat 4: Tibibacsi ($133.46 in chips) 
+Seat 5: shootingGRID ($189.15 in chips) 
+Seat 6: pepy_2233 ($205.87 in chips) 
+pepy_2233: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: raises $1.20 to $2.20
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: raises $1.20 to $3.40
+steelNike: calls $2.40
+Seavus10: calls $1.20
+*** FLOP *** [As 8s 4s]
+pepy_2233: checks 
+steelNike: checks 
+Seavus10: checks 
+*** TURN *** [As 8s 4s] [3c]
+pepy_2233: checks 
+steelNike: checks 
+Seavus10: bets $2.42
+pepy_2233: raises $2.42 to $4.84
+steelNike: calls $4.84
+Seavus10: raises $16.95 to $21.79
+pepy_2233: calls $16.95
+steelNike: folds 
+*** RIVER *** [As 8s 4s 3c] [Qd]
+pepy_2233: checks 
+Seavus10: bets $42.09
+pepy_2233: calls $42.09
+*** SHOW DOWN ***
+Seavus10: shows [5s Ks] (a flush, Ace high)
+pepy_2233: mucks hand 
+Seavus10 collected $140.30 from pot
+*** SUMMARY ***
+Total pot $142.80 | Rake $2.50 
+Board [As 8s 4s 3c Qd]
+Seat 3: 7bekon7
+Seat 1: steelNike (big blind) folded on the Turn
+Seat 2: Seavus10 showed [5s Ks] and won ($140.30) with a flush, Ace high
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID (button) folded before Flop (didn't bet)
+Seat 6: pepy_2233 (small blind) mucked
+
+
+
+PokerStars Hand #254729827824:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:11:09 WET [2025/02/05 23:11:09 ET]
+Table 'Sitarski' 6-max Seat #6 is the button
+Seat 3: 7bekon7 ($100 in chips) is sitting out
+Seat 1: steelNike ($267.32 in chips) 
+Seat 2: Seavus10 ($204.39 in chips) 
+Seat 4: Tibibacsi ($133.46 in chips) 
+Seat 5: shootingGRID ($189.15 in chips) 
+Seat 6: pepy_2233 ($138.59 in chips) 
+steelNike: posts small blind $0.50
+Seavus10: posts big blind $1
+7bekon7: sits out 
+*** HOLE CARDS ***
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: folds 
+steelNike: raises $2 to $3
+Seavus10: calls $2
+*** FLOP *** [Kc Jd 3c]
+steelNike: bets $1.43
+Seavus10: calls $1.43
+*** TURN *** [Kc Jd 3c] [7h]
+steelNike: checks 
+Seavus10: checks 
+*** RIVER *** [Kc Jd 3c 7h] [Td]
+steelNike: bets $4.21
+Seavus10: folds 
+Uncalled bet ($4.21) returned to steelNike
+steelNike collected $8.42 from pot
+*** SUMMARY ***
+Total pot $8.86 | Rake $0.44 
+Board [Kc Jd 3c 7h Td]
+Seat 3: 7bekon7
+Seat 1: steelNike (small blind) collected ($8.42)
+Seat 2: Seavus10 (big blind) folded on the River
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254729833922:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:12:08 WET [2025/02/05 23:12:08 ET]
+Table 'Sitarski' 6-max Seat #1 is the button
+Seat 1: steelNike ($271.31 in chips) 
+Seat 2: Seavus10 ($199.96 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($133.46 in chips) 
+Seat 5: shootingGRID ($189.15 in chips) 
+Seat 6: pepy_2233 ($138.59 in chips) 
+Seavus10: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: raises $1.50 to $2.50
+shootingGRID: folds 
+pepy_2233: calls $2.50
+steelNike: raises $10 to $12.50
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: calls $10
+pepy_2233: calls $10
+*** FLOP *** [Ad 5d Kh]
+Tibibacsi: checks 
+pepy_2233: checks 
+steelNike: checks 
+*** TURN *** [Ad 5d Kh] [Qd]
+Tibibacsi: checks 
+pepy_2233: bets $18.53
+steelNike: calls $18.53
+Tibibacsi: folds 
+*** RIVER *** [Ad 5d Kh Qd] [Jd]
+pepy_2233: bets $36.78
+steelNike: calls $36.78
+*** SHOW DOWN ***
+pepy_2233: shows [2h 7h] (high card Ace)
+steelNike: shows [Ts Qs] (a straight, Ten to Ace)
+steelNike collected $147.12 from pot
+*** SUMMARY ***
+Total pot $149.62 | Rake $2.50 
+Board [Ad 5d Kh Qd Jd]
+Seat 1: steelNike (button) showed [Ts Qs] and won ($147.12) with a straight, Ten to Ace
+Seat 2: Seavus10 (small blind) folded before Flop
+Seat 3: 7bekon7 (big blind) folded before Flop
+Seat 4: Tibibacsi folded on the Turn
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 showed [2h 7h] and lost with high card Ace
+
+
+
+PokerStars Hand #254729841069:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:13:16 WET [2025/02/05 23:13:16 ET]
+Table 'Sitarski' 6-max Seat #2 is the button
+Seat 1: steelNike ($350.62 in chips) 
+Seat 2: Seavus10 ($199.46 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($120.96 in chips) 
+Seat 5: shootingGRID ($189.15 in chips) 
+Seat 6: pepy_2233 ($70.78 in chips) 
+7bekon7: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+pepy_2233: folds 
+steelNike: raises $1.30 to $2.30
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+Uncalled bet ($1.30) returned to steelNike
+steelNike collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: steelNike collected ($2.50)
+Seat 2: Seavus10 (button) folded before Flop (didn't bet)
+Seat 3: 7bekon7 (small blind) folded before Flop
+Seat 4: Tibibacsi (big blind) folded before Flop
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254729843390:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:13:39 WET [2025/02/05 23:13:39 ET]
+Table 'Sitarski' 6-max Seat #3 is the button
+Seat 1: steelNike ($352.12 in chips) 
+Seat 2: Seavus10 ($199.46 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($119.96 in chips) 
+Seat 5: shootingGRID ($189.15 in chips) 
+Seat 6: pepy_2233 ($70.78 in chips) 
+Tibibacsi: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+pepy_2233: folds 
+steelNike: folds 
+Seavus10: raises $1.20 to $2.20
+7bekon7: folds 
+Tibibacsi: raises $9.30 to $11.50
+shootingGRID: folds 
+Seavus10: folds 
+Uncalled bet ($9.30) returned to Tibibacsi
+Tibibacsi collected $5.40 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 folded before Flop
+Seat 3: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 4: Tibibacsi (small blind) collected ($5.40)
+Seat 5: shootingGRID (big blind) folded before Flop
+Seat 6: pepy_2233 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254729846500:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:14:08 WET [2025/02/05 23:14:08 ET]
+Table 'Sitarski' 6-max Seat #4 is the button
+Seat 1: steelNike ($352.12 in chips) 
+Seat 2: Seavus10 ($197.26 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($123.16 in chips) 
+Seat 5: shootingGRID ($188.15 in chips) 
+Seat 6: pepy_2233 ($70.78 in chips) 
+shootingGRID: posts small blind $0.50
+pepy_2233: posts big blind $1
+*** HOLE CARDS ***
+steelNike: raises $1 to $2
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $1
+*** FLOP *** [9s 3d 2h]
+pepy_2233: checks 
+steelNike: checks 
+*** TURN *** [9s 3d 2h] [8c]
+pepy_2233: bets $2.14
+steelNike: calls $2.14
+*** RIVER *** [9s 3d 2h 8c] [Jc]
+pepy_2233: bets $8.34
+steelNike: raises $61.16 to $69.50
+pepy_2233: calls $58.30 and is all-in
+Uncalled bet ($2.86) returned to steelNike
+*** SHOW DOWN ***
+steelNike: shows [Tc Qd] (a straight, Eight to Queen)
+pepy_2233: shows [7s Ts] (a straight, Seven to Jack)
+steelNike collected $139.56 from pot
+*** SUMMARY ***
+Total pot $142.06 | Rake $2.50 
+Board [9s 3d 2h 8c Jc]
+Seat 1: steelNike showed [Tc Qd] and won ($139.56) with a straight, Eight to Queen
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 5: shootingGRID (small blind) folded before Flop
+Seat 6: pepy_2233 (big blind) showed [7s Ts] and lost with a straight, Seven to Jack
+
+
+
+PokerStars Hand #254729851328:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:14:55 WET [2025/02/05 23:14:55 ET]
+Table 'Sitarski' 6-max Seat #5 is the button
+Seat 6: pepy_2233 ($0 in chips) is sitting out
+Seat 1: steelNike ($420.90 in chips) 
+Seat 2: Seavus10 ($197.26 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($123.16 in chips) 
+Seat 5: shootingGRID ($187.65 in chips) 
+steelNike: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: raises $1.25 to $2.25
+Tibibacsi: folds 
+shootingGRID: folds 
+steelNike: folds 
+pepy_2233 leaves the table
+Seavus10: folds 
+Uncalled bet ($1.25) returned to 7bekon7
+7bekon7 collected $2.50 from pot
+7bekon7: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: pepy_2233
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Seavus10 (big blind) folded before Flop
+Seat 3: 7bekon7 collected ($2.50)
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254729852908:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:15:10 WET [2025/02/05 23:15:10 ET]
+Table 'Sitarski' 6-max Seat #1 is the button
+Seat 3: 7bekon7 ($101.50 in chips) is sitting out
+Seat 4: Tibibacsi ($123.16 in chips) is sitting out
+Seat 1: steelNike ($420.40 in chips) 
+Seat 2: Seavus10 ($196.26 in chips) 
+Seat 5: shootingGRID ($187.65 in chips) 
+Seavus10: posts small blind $0.50
+7bekon7: is sitting out 
+Tibibacsi: is sitting out 
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+7bekon7 leaves the table
+steelNike: raises $1.50 to $2.50
+Tibibacsi leaves the table
+Seavus10: folds 
+shootingGRID: calls $1.50
+*** FLOP *** [Tc 3d 5s]
+shootingGRID: checks 
+steelNike: bets $1.31
+shootingGRID: calls $1.31
+*** TURN *** [Tc 3d 5s] [3h]
+shootingGRID: checks 
+steelNike: checks 
+*** RIVER *** [Tc 3d 5s 3h] [8h]
+shootingGRID: checks 
+steelNike: bets $5.78
+shootingGRID: calls $5.78
+*** SHOW DOWN ***
+steelNike: shows [7h 7c] (two pair, Sevens and Threes)
+shootingGRID: shows [8d Jd] (two pair, Eights and Threes)
+shootingGRID collected $18.70 from pot
+*** SUMMARY ***
+Total pot $19.68 | Rake $0.98 
+Board [Tc 3d 5s 3h 8h]
+Seat 3: 7bekon7
+Seat 4: Tibibacsi
+Seat 1: steelNike (button) showed [7h 7c] and lost with two pair, Sevens and Threes
+Seat 2: Seavus10 (small blind) folded before Flop
+Seat 5: shootingGRID (big blind) showed [8d Jd] and won ($18.70) with two pair, Eights and Threes
+
+
+
+PokerStars Hand #254729476980:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:20:03 WET [2025/02/05 22:20:03 ET]
+Table 'Sitarski' 6-max Seat #4 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Seavus10 ($281.35 in chips) 
+Seat 3: 7bekon7 ($119.02 in chips) 
+Seat 4: Tibibacsi ($100 in chips) 
+Seat 5: shootingGRID ($185.25 in chips) 
+Seat 6: pepy_2233 ($213.70 in chips) 
+shootingGRID: posts small blind $0.50
+pepy_2233: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: raises $2 to $3
+pepy_2233: calls $2
+*** FLOP *** [9h 7s 2c]
+shootingGRID: checks 
+pepy_2233: checks 
+*** TURN *** [9h 7s 2c] [2s]
+shootingGRID: checks 
+pepy_2233: bets $1
+shootingGRID: calls $1
+*** RIVER *** [9h 7s 2c 2s] [Js]
+shootingGRID: checks 
+pepy_2233: bets $7.60
+shootingGRID: folds 
+Uncalled bet ($7.60) returned to pepy_2233
+pepy_2233 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [9h 7s 2c 2s Js]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 5: shootingGRID (small blind) folded on the River
+Seat 6: pepy_2233 (big blind) collected ($7.60)
+
+
+
+PokerStars Hand #254729483775:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:20:56 WET [2025/02/05 22:20:56 ET]
+Table 'Sitarski' 6-max Seat #5 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Seavus10 ($281.35 in chips) 
+Seat 3: 7bekon7 ($119.02 in chips) 
+Seat 4: Tibibacsi ($100 in chips) 
+Seat 5: shootingGRID ($181.25 in chips) 
+Seat 6: pepy_2233 ($217.30 in chips) 
+pepy_2233: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+7bekon7: raises $1.50 to $2.50
+Tibibacsi: folds 
+shootingGRID: calls $2.50
+pepy_2233: calls $2
+steelNike: calls $1.50
+*** FLOP *** [3d 5s Td]
+pepy_2233: checks 
+steelNike: checks 
+7bekon7: bets $4.75
+shootingGRID: folds 
+pepy_2233: folds 
+steelNike: folds 
+Uncalled bet ($4.75) returned to 7bekon7
+7bekon7 collected $9.50 from pot
+7bekon7: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [3d 5s Td]
+Seat 1: steelNike (big blind) folded on the Flop
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 collected ($9.50)
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID (button) folded on the Flop
+Seat 6: pepy_2233 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254729492735:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:22:07 WET [2025/02/05 22:22:07 ET]
+Table 'Sitarski' 6-max Seat #6 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Seavus10 ($281.35 in chips) 
+Seat 3: 7bekon7 ($126.02 in chips) 
+Seat 4: Tibibacsi ($100 in chips) 
+Seat 5: shootingGRID ($178.75 in chips) 
+Seat 6: pepy_2233 ($214.80 in chips) 
+steelNike: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: raises $1.25 to $2.25
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $2.25
+steelNike: raises $12.75 to $15
+Seavus10: folds 
+7bekon7: calls $12.75
+pepy_2233: folds 
+*** FLOP *** [4d Qc 7c]
+steelNike: bets $10.42
+7bekon7: calls $10.42
+*** TURN *** [4d Qc 7c] [Tc]
+steelNike: checks 
+7bekon7: checks 
+*** RIVER *** [4d Qc 7c Tc] [Qh]
+steelNike: checks 
+7bekon7: checks 
+*** SHOW DOWN ***
+steelNike: shows [9c 9h] (two pair, Queens and Nines)
+7bekon7: shows [Js Jh] (two pair, Queens and Jacks)
+7bekon7 collected $51.59 from pot
+*** SUMMARY ***
+Total pot $54.09 | Rake $2.50 
+Board [4d Qc 7c Tc Qh]
+Seat 1: steelNike (small blind) showed [9c 9h] and lost with two pair, Queens and Nines
+Seat 2: Seavus10 (big blind) folded before Flop
+Seat 3: 7bekon7 showed [Js Jh] and won ($51.59) with two pair, Queens and Jacks
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 (button) folded before Flop
+
+
+
+PokerStars Hand #254729506673:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:23:56 WET [2025/02/05 22:23:56 ET]
+Table 'Sitarski' 6-max Seat #1 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Seavus10 ($280.35 in chips) 
+Seat 3: 7bekon7 ($152.19 in chips) 
+Seat 4: Tibibacsi ($100 in chips) 
+Seat 5: shootingGRID ($178.75 in chips) 
+Seat 6: pepy_2233 ($212.55 in chips) 
+Seavus10: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+shootingGRID: raises $1.25 to $2.25
+pepy_2233: folds 
+steelNike: folds 
+Seavus10: raises $8.75 to $11
+7bekon7: folds 
+shootingGRID: raises $12 to $23
+Seavus10: calls $12
+*** FLOP *** [Qc 2c As]
+Seavus10: checks 
+shootingGRID: bets $11.16
+Seavus10: folds 
+Uncalled bet ($11.16) returned to shootingGRID
+shootingGRID collected $44.65 from pot
+*** SUMMARY ***
+Total pot $47 | Rake $2.35 
+Board [Qc 2c As]
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Seavus10 (small blind) folded on the Flop
+Seat 3: 7bekon7 (big blind) folded before Flop
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID collected ($44.65)
+Seat 6: pepy_2233 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254729516835:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:25:16 WET [2025/02/05 22:25:16 ET]
+Table 'Sitarski' 6-max Seat #2 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Seavus10 ($257.35 in chips) 
+Seat 3: 7bekon7 ($151.19 in chips) 
+Seat 4: Tibibacsi ($100 in chips) 
+Seat 5: shootingGRID ($200.40 in chips) 
+Seat 6: pepy_2233 ($212.55 in chips) 
+7bekon7: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+pepy_2233: calls $1
+steelNike: raises $6 to $7
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+pepy_2233: calls $6
+*** FLOP *** [6h Ks 8c]
+pepy_2233: checks 
+steelNike: checks 
+*** TURN *** [6h Ks 8c] [2d]
+pepy_2233: bets $7.36
+steelNike: calls $7.36
+*** RIVER *** [6h Ks 8c 2d] [Qc]
+pepy_2233: bets $7
+steelNike: folds 
+Uncalled bet ($7) returned to pepy_2233
+pepy_2233 collected $28.71 from pot
+*** SUMMARY ***
+Total pot $30.22 | Rake $1.51 
+Board [6h Ks 8c 2d Qc]
+Seat 1: steelNike folded on the River
+Seat 2: Seavus10 (button) folded before Flop (didn't bet)
+Seat 3: 7bekon7 (small blind) folded before Flop
+Seat 4: Tibibacsi (big blind) folded before Flop
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 collected ($28.71)
+
+
+
+PokerStars Hand #254729523594:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:26:10 WET [2025/02/05 22:26:10 ET]
+Table 'Sitarski' 6-max Seat #3 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Seavus10 ($257.35 in chips) 
+Seat 3: 7bekon7 ($150.69 in chips) 
+Seat 4: Tibibacsi ($100 in chips) 
+Seat 5: shootingGRID ($200.40 in chips) 
+Seat 6: pepy_2233 ($226.90 in chips) 
+Tibibacsi: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+pepy_2233: calls $1
+steelNike: folds 
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: raises $5 to $6
+pepy_2233: calls $5
+*** FLOP *** [8h Js Jh]
+shootingGRID: checks 
+pepy_2233: checks 
+*** TURN *** [8h Js Jh] [4d]
+shootingGRID: checks 
+pepy_2233: bets $5.94
+shootingGRID: folds 
+Uncalled bet ($5.94) returned to pepy_2233
+pepy_2233 collected $11.88 from pot
+*** SUMMARY ***
+Total pot $12.50 | Rake $0.62 
+Board [8h Js Jh 4d]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 4: Tibibacsi (small blind) folded before Flop
+Seat 5: shootingGRID (big blind) folded on the Turn
+Seat 6: pepy_2233 collected ($11.88)
+
+
+
+PokerStars Hand #254729531855:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:27:17 WET [2025/02/05 22:27:17 ET]
+Table 'Sitarski' 6-max Seat #4 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Seavus10 ($257.35 in chips) 
+Seat 3: 7bekon7 ($150.69 in chips) 
+Seat 4: Tibibacsi ($100 in chips) 
+Seat 5: shootingGRID ($194.40 in chips) 
+Seat 6: pepy_2233 ($232.78 in chips) 
+shootingGRID: posts small blind $0.50
+pepy_2233: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: raises $2 to $3
+pepy_2233: calls $2
+*** FLOP *** [4d 2c 5h]
+shootingGRID: checks 
+pepy_2233: checks 
+*** TURN *** [4d 2c 5h] [8c]
+shootingGRID: checks 
+pepy_2233: bets $2.85
+shootingGRID: calls $2.85
+*** RIVER *** [4d 2c 5h 8c] [6s]
+shootingGRID: checks 
+pepy_2233: bets $5.56
+shootingGRID: folds 
+Uncalled bet ($5.56) returned to pepy_2233
+pepy_2233 collected $11.12 from pot
+*** SUMMARY ***
+Total pot $11.70 | Rake $0.58 
+Board [4d 2c 5h 8c 6s]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 5: shootingGRID (small blind) folded on the River
+Seat 6: pepy_2233 (big blind) collected ($11.12)
+
+
+
+PokerStars Hand #254729540329:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:28:26 WET [2025/02/05 22:28:26 ET]
+Table 'Sitarski' 6-max Seat #5 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Seavus10 ($257.35 in chips) 
+Seat 3: 7bekon7 ($150.69 in chips) 
+Seat 4: Tibibacsi ($100 in chips) 
+Seat 5: shootingGRID ($188.55 in chips) 
+Seat 6: pepy_2233 ($238.05 in chips) 
+pepy_2233: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+7bekon7: raises $1.50 to $2.50
+Tibibacsi: raises $5 to $7.50
+shootingGRID: folds 
+pepy_2233: folds 
+steelNike: folds 
+7bekon7: folds 
+Uncalled bet ($5) returned to Tibibacsi
+Tibibacsi collected $6.50 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: steelNike (big blind) folded before Flop
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 folded before Flop
+Seat 4: Tibibacsi collected ($6.50)
+Seat 5: shootingGRID (button) folded before Flop (didn't bet)
+Seat 6: pepy_2233 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254729545688:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:29:09 WET [2025/02/05 22:29:09 ET]
+Table 'Sitarski' 6-max Seat #6 is the button
+Seat 1: steelNike ($99 in chips) 
+Seat 2: Seavus10 ($257.35 in chips) 
+Seat 3: 7bekon7 ($148.19 in chips) 
+Seat 4: Tibibacsi ($104 in chips) 
+Seat 5: shootingGRID ($188.55 in chips) 
+Seat 6: pepy_2233 ($237.55 in chips) 
+steelNike: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: raises $1.25 to $2.25
+pepy_2233: calls $2.25
+steelNike: folds 
+Seavus10: folds 
+*** FLOP *** [4c Kd Ac]
+shootingGRID: bets $1.88
+pepy_2233: folds 
+Uncalled bet ($1.88) returned to shootingGRID
+shootingGRID collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4c Kd Ac]
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Seavus10 (big blind) folded before Flop
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID collected ($5.70)
+Seat 6: pepy_2233 (button) folded on the Flop
+
+
+
+PokerStars Hand #254729550115:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:29:45 WET [2025/02/05 22:29:45 ET]
+Table 'Sitarski' 6-max Seat #1 is the button
+Seat 1: steelNike ($100 in chips) 
+Seat 2: Seavus10 ($256.35 in chips) 
+Seat 3: 7bekon7 ($148.19 in chips) 
+Seat 4: Tibibacsi ($104 in chips) 
+Seat 5: shootingGRID ($192 in chips) 
+Seat 6: pepy_2233 ($235.30 in chips) 
+Seavus10: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+shootingGRID: raises $1.25 to $2.25
+pepy_2233: calls $2.25
+steelNike: raises $8.75 to $11
+Seavus10: folds 
+7bekon7: folds 
+shootingGRID: raises $16.50 to $27.50
+pepy_2233: calls $25.25
+steelNike: raises $72.50 to $100 and is all-in
+shootingGRID: folds 
+pepy_2233: calls $72.50
+*** FLOP *** [Qh 8s Td]
+*** TURN *** [Qh 8s Td] [Jc]
+*** RIVER *** [Qh 8s Td Jc] [8c]
+*** SHOW DOWN ***
+pepy_2233: shows [Th Kh] (two pair, Tens and Eights)
+steelNike: shows [Ks Kc] (two pair, Kings and Eights)
+steelNike collected $226.50 from pot
+*** SUMMARY ***
+Total pot $229 | Rake $2.50 
+Board [Qh 8s Td Jc 8c]
+Seat 1: steelNike (button) showed [Ks Kc] and won ($226.50) with two pair, Kings and Eights
+Seat 2: Seavus10 (small blind) folded before Flop
+Seat 3: 7bekon7 (big blind) folded before Flop
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID folded before Flop
+Seat 6: pepy_2233 showed [Th Kh] and lost with two pair, Tens and Eights
+
+
+
+PokerStars Hand #254729559345:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:30:59 WET [2025/02/05 22:30:59 ET]
+Table 'Sitarski' 6-max Seat #2 is the button
+Seat 1: steelNike ($226.50 in chips) 
+Seat 2: Seavus10 ($255.85 in chips) 
+Seat 3: 7bekon7 ($147.19 in chips) 
+Seat 4: Tibibacsi ($104 in chips) 
+Seat 5: shootingGRID ($164.50 in chips) 
+Seat 6: pepy_2233 ($135.30 in chips) 
+7bekon7: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: raises $1.25 to $2.25
+pepy_2233: calls $2.25
+steelNike: folds 
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: calls $1.25
+*** FLOP *** [5d 4d 5s]
+Tibibacsi: checks 
+shootingGRID: bets $1
+pepy_2233: calls $1
+Tibibacsi: folds 
+*** TURN *** [5d 4d 5s] [8d]
+shootingGRID: checks 
+pepy_2233: checks 
+*** RIVER *** [5d 4d 5s 8d] [Th]
+shootingGRID: checks 
+pepy_2233: checks 
+*** SHOW DOWN ***
+shootingGRID: shows [Ah Qh] (a pair of Fives)
+pepy_2233: mucks hand 
+shootingGRID collected $8.79 from pot
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.46 
+Board [5d 4d 5s 8d Th]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 (button) folded before Flop (didn't bet)
+Seat 3: 7bekon7 (small blind) folded before Flop
+Seat 4: Tibibacsi (big blind) folded on the Flop
+Seat 5: shootingGRID showed [Ah Qh] and won ($8.79) with a pair of Fives
+Seat 6: pepy_2233 mucked
+
+
+
+PokerStars Hand #254729566606:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:31:58 WET [2025/02/05 22:31:58 ET]
+Table 'Sitarski' 6-max Seat #3 is the button
+Seat 1: steelNike ($226.50 in chips) 
+Seat 2: Seavus10 ($255.85 in chips) 
+Seat 3: 7bekon7 ($146.69 in chips) 
+Seat 4: Tibibacsi ($101.75 in chips) 
+Seat 5: shootingGRID ($170.04 in chips) 
+Seat 6: pepy_2233 ($132.05 in chips) 
+Tibibacsi: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+pepy_2233: calls $1
+steelNike: raises $6 to $7
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: calls $6
+pepy_2233: calls $6
+*** FLOP *** [5c Jd 7d]
+shootingGRID: checks 
+pepy_2233: checks 
+steelNike: checks 
+*** TURN *** [5c Jd 7d] [4c]
+shootingGRID: checks 
+pepy_2233: checks 
+steelNike: checks 
+*** RIVER *** [5c Jd 7d 4c] [8h]
+shootingGRID: checks 
+pepy_2233: bets $10.21
+steelNike: folds 
+shootingGRID: folds 
+Uncalled bet ($10.21) returned to pepy_2233
+pepy_2233 collected $20.42 from pot
+*** SUMMARY ***
+Total pot $21.50 | Rake $1.08 
+Board [5c Jd 7d 4c 8h]
+Seat 1: steelNike folded on the River
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 4: Tibibacsi (small blind) folded before Flop
+Seat 5: shootingGRID (big blind) folded on the River
+Seat 6: pepy_2233 collected ($20.42)
+
+
+
+PokerStars Hand #254729572255:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:32:44 WET [2025/02/05 22:32:44 ET]
+Table 'Sitarski' 6-max Seat #4 is the button
+Seat 1: steelNike ($219.50 in chips) 
+Seat 2: Seavus10 ($255.85 in chips) 
+Seat 3: 7bekon7 ($146.69 in chips) 
+Seat 4: Tibibacsi ($101.25 in chips) 
+Seat 5: shootingGRID ($163.04 in chips) 
+Seat 6: pepy_2233 ($145.47 in chips) 
+shootingGRID: posts small blind $0.50
+pepy_2233: posts big blind $1
+*** HOLE CARDS ***
+steelNike: raises $1 to $2
+Seavus10: folds 
+7bekon7: raises $5 to $7
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $6
+steelNike: calls $5
+*** FLOP *** [Kd 6s 3d]
+pepy_2233: checks 
+steelNike: checks 
+7bekon7: bets $5.11
+pepy_2233: raises $5.11 to $10.22
+steelNike: raises $16.78 to $27
+7bekon7: folds 
+pepy_2233: folds 
+Uncalled bet ($16.78) returned to steelNike
+steelNike collected $44.70 from pot
+*** SUMMARY ***
+Total pot $47.05 | Rake $2.35 
+Board [Kd 6s 3d]
+Seat 1: steelNike collected ($44.70)
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 folded on the Flop
+Seat 4: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 5: shootingGRID (small blind) folded before Flop
+Seat 6: pepy_2233 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254729583413:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:34:15 WET [2025/02/05 22:34:15 ET]
+Table 'Sitarski' 6-max Seat #5 is the button
+Seat 1: steelNike ($246.98 in chips) 
+Seat 2: Seavus10 ($255.85 in chips) 
+Seat 3: 7bekon7 ($134.58 in chips) 
+Seat 4: Tibibacsi ($101.25 in chips) 
+Seat 5: shootingGRID ($162.54 in chips) 
+Seat 6: pepy_2233 ($128.25 in chips) 
+pepy_2233: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: raises $1.50 to $2.50
+pepy_2233: calls $2
+steelNike: calls $1.50
+*** FLOP *** [Jh 9c 9s]
+pepy_2233: checks 
+steelNike: checks 
+shootingGRID: checks 
+*** TURN *** [Jh 9c 9s] [8d]
+pepy_2233: checks 
+steelNike: checks 
+shootingGRID: checks 
+*** RIVER *** [Jh 9c 9s 8d] [4h]
+pepy_2233: bets $3.56
+steelNike: calls $3.56
+shootingGRID: calls $3.56
+*** SHOW DOWN ***
+pepy_2233: shows [3s 7h] (a pair of Nines)
+steelNike: shows [6c 4d] (two pair, Nines and Fours)
+shootingGRID: shows [Ad 8c] (two pair, Nines and Eights)
+shootingGRID collected $17.27 from pot
+*** SUMMARY ***
+Total pot $18.18 | Rake $0.91 
+Board [Jh 9c 9s 8d 4h]
+Seat 1: steelNike (big blind) showed [6c 4d] and lost with two pair, Nines and Fours
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID (button) showed [Ad 8c] and won ($17.27) with two pair, Nines and Eights
+Seat 6: pepy_2233 (small blind) showed [3s 7h] and lost with a pair of Nines
+
+
+
+PokerStars Hand #254729590324:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:35:12 WET [2025/02/05 22:35:12 ET]
+Table 'Sitarski' 6-max Seat #6 is the button
+Seat 1: steelNike ($240.92 in chips) 
+Seat 2: Seavus10 ($255.85 in chips) 
+Seat 3: 7bekon7 ($134.58 in chips) 
+Seat 4: Tibibacsi ($101.25 in chips) 
+Seat 5: shootingGRID ($173.75 in chips) 
+Seat 6: pepy_2233 ($122.19 in chips) 
+steelNike: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+Tibibacsi: raises $1.50 to $2.50
+shootingGRID: folds 
+pepy_2233: calls $2.50
+steelNike: folds 
+Seavus10: calls $1.50
+*** FLOP *** [6d 9d 6c]
+Seavus10: checks 
+Tibibacsi: checks 
+pepy_2233: checks 
+*** TURN *** [6d 9d 6c] [9s]
+Seavus10: checks 
+Tibibacsi: checks 
+pepy_2233: bets $3.80
+Seavus10: folds 
+Tibibacsi: folds 
+Uncalled bet ($3.80) returned to pepy_2233
+pepy_2233 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [6d 9d 6c 9s]
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Seavus10 (big blind) folded on the Turn
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi folded on the Turn
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 (button) collected ($7.60)
+
+
+
+PokerStars Hand #254729599967:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:36:31 WET [2025/02/05 22:36:31 ET]
+Table 'Sitarski' 6-max Seat #1 is the button
+Seat 1: steelNike ($240.42 in chips) 
+Seat 2: Seavus10 ($253.35 in chips) 
+Seat 3: 7bekon7 ($134.58 in chips) 
+Seat 4: Tibibacsi ($100 in chips) 
+Seat 5: shootingGRID ($173.75 in chips) 
+Seat 6: pepy_2233 ($127.29 in chips) 
+Seavus10: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: raises $1 to $2
+shootingGRID: folds 
+pepy_2233: calls $2
+steelNike: folds 
+Seavus10: folds 
+7bekon7: folds 
+*** FLOP *** [8s 6h Qs]
+Tibibacsi: bets $2.61
+pepy_2233: calls $2.61
+*** TURN *** [8s 6h Qs] [Kh]
+Tibibacsi: checks 
+pepy_2233: bets $5.09
+Tibibacsi: calls $5.09
+*** RIVER *** [8s 6h Qs Kh] [7c]
+Tibibacsi: checks 
+pepy_2233: checks 
+*** SHOW DOWN ***
+Tibibacsi: shows [Qh Ac] (a pair of Queens)
+pepy_2233: mucks hand 
+Tibibacsi collected $19.86 from pot
+*** SUMMARY ***
+Total pot $20.90 | Rake $1.04 
+Board [8s 6h Qs Kh 7c]
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Seavus10 (small blind) folded before Flop
+Seat 3: 7bekon7 (big blind) folded before Flop
+Seat 4: Tibibacsi showed [Qh Ac] and won ($19.86) with a pair of Queens
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 mucked
+
+
+
+PokerStars Hand #254729607517:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:37:32 WET [2025/02/05 22:37:32 ET]
+Table 'Sitarski' 6-max Seat #2 is the button
+Seat 1: steelNike ($240.42 in chips) 
+Seat 2: Seavus10 ($252.85 in chips) 
+Seat 3: 7bekon7 ($133.58 in chips) 
+Seat 4: Tibibacsi ($110.16 in chips) 
+Seat 5: shootingGRID ($173.75 in chips) 
+Seat 6: pepy_2233 ($117.59 in chips) 
+7bekon7: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+pepy_2233: calls $1
+steelNike: raises $6 to $7
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+pepy_2233: calls $6
+*** FLOP *** [Jc 5c Qd]
+pepy_2233: checks 
+steelNike: checks 
+*** TURN *** [Jc 5c Qd] [Kh]
+pepy_2233: bets $7.36
+steelNike: calls $7.36
+*** RIVER *** [Jc 5c Qd Kh] [7c]
+pepy_2233: bets $14.36
+steelNike: calls $14.36
+*** SHOW DOWN ***
+pepy_2233: shows [Jd 8c] (a pair of Jacks)
+steelNike: shows [Js As] (a pair of Jacks - Ace kicker)
+steelNike collected $56.44 from pot
+*** SUMMARY ***
+Total pot $58.94 | Rake $2.50 
+Board [Jc 5c Qd Kh 7c]
+Seat 1: steelNike showed [Js As] and won ($56.44) with a pair of Jacks
+Seat 2: Seavus10 (button) folded before Flop (didn't bet)
+Seat 3: 7bekon7 (small blind) folded before Flop
+Seat 4: Tibibacsi (big blind) folded before Flop
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 showed [Jd 8c] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254729641882:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:42:15 WET [2025/02/05 22:42:15 ET]
+Table 'Sitarski' 6-max Seat #6 is the button
+Seat 1: steelNike ($265.14 in chips) 
+Seat 2: Seavus10 ($252.85 in chips) 
+Seat 3: 7bekon7 ($124.08 in chips) 
+Seat 4: Tibibacsi ($106.66 in chips) 
+Seat 5: shootingGRID ($178.85 in chips) 
+Seat 6: pepy_2233 ($94.68 in chips) 
+steelNike: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+Tibibacsi: raises $1.50 to $2.50
+shootingGRID: folds 
+pepy_2233: calls $2.50
+steelNike: folds 
+Seavus10: folds 
+*** FLOP *** [5s 7c 8s]
+Tibibacsi: bets $3.09
+pepy_2233: calls $3.09
+*** TURN *** [5s 7c 8s] [Ks]
+Tibibacsi: bets $3.98
+pepy_2233: raises $3.98 to $7.96
+Tibibacsi: calls $3.98
+*** RIVER *** [5s 7c 8s Ks] [Jc]
+Tibibacsi: checks 
+pepy_2233: bets $13.59
+Tibibacsi: calls $13.59
+*** SHOW DOWN ***
+pepy_2233: shows [6d 8h] (a pair of Eights)
+Tibibacsi: shows [Ah As] (a pair of Aces)
+Tibibacsi collected $53.28 from pot
+*** SUMMARY ***
+Total pot $55.78 | Rake $2.50 
+Board [5s 7c 8s Ks Jc]
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Seavus10 (big blind) folded before Flop
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi showed [Ah As] and won ($53.28) with a pair of Aces
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 (button) showed [6d 8h] and lost with a pair of Eights
+
+
+
+PokerStars Hand #254729649445:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:43:19 WET [2025/02/05 22:43:19 ET]
+Table 'Sitarski' 6-max Seat #1 is the button
+Seat 1: steelNike ($264.64 in chips) 
+Seat 2: Seavus10 ($251.85 in chips) 
+Seat 3: 7bekon7 ($124.08 in chips) 
+Seat 4: Tibibacsi ($132.80 in chips) 
+Seat 5: shootingGRID ($178.85 in chips) 
+Seat 6: pepy_2233 ($67.54 in chips) 
+Seavus10: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: raises $1.50 to $2.50
+shootingGRID: folds 
+pepy_2233: calls $2.50
+steelNike: folds 
+Seavus10: folds 
+7bekon7: folds 
+*** FLOP *** [Ah Jh Kh]
+Tibibacsi: bets $2.04
+pepy_2233: calls $2.04
+*** TURN *** [Ah Jh Kh] [6c]
+Tibibacsi: bets $5.03
+pepy_2233: calls $5.03
+*** RIVER *** [Ah Jh Kh 6c] [8h]
+Tibibacsi: checks 
+pepy_2233: bets $19.61
+Tibibacsi: calls $19.61
+*** SHOW DOWN ***
+pepy_2233: shows [5s Qh] (a flush, Ace high)
+Tibibacsi: mucks hand 
+pepy_2233 collected $57.36 from pot
+*** SUMMARY ***
+Total pot $59.86 | Rake $2.50 
+Board [Ah Jh Kh 6c 8h]
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Seavus10 (small blind) folded before Flop
+Seat 3: 7bekon7 (big blind) folded before Flop
+Seat 4: Tibibacsi mucked
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 showed [5s Qh] and won ($57.36) with a flush, Ace high
+
+
+
+PokerStars Hand #254729659032:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:44:40 WET [2025/02/05 22:44:40 ET]
+Table 'Sitarski' 6-max Seat #2 is the button
+Seat 1: steelNike ($264.64 in chips) 
+Seat 2: Seavus10 ($251.35 in chips) 
+Seat 3: 7bekon7 ($123.08 in chips) 
+Seat 4: Tibibacsi ($103.62 in chips) 
+Seat 5: shootingGRID ($178.85 in chips) 
+Seat 6: pepy_2233 ($95.72 in chips) 
+7bekon7: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+pepy_2233: calls $1
+steelNike: raises $6 to $7
+Seavus10: folds 
+7bekon7: raises $10 to $17
+Tibibacsi: raises $20.50 to $37.50
+pepy_2233: folds 
+steelNike: folds 
+7bekon7: folds 
+Uncalled bet ($20.50) returned to Tibibacsi
+Tibibacsi collected $42 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $0 
+Seat 1: steelNike folded before Flop
+Seat 2: Seavus10 (button) folded before Flop (didn't bet)
+Seat 3: 7bekon7 (small blind) folded before Flop
+Seat 4: Tibibacsi (big blind) collected ($42)
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 folded before Flop
+
+
+
+PokerStars Hand #254729668535:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:46:02 WET [2025/02/05 22:46:02 ET]
+Table 'Sitarski' 6-max Seat #3 is the button
+Seat 1: steelNike ($257.64 in chips) 
+Seat 2: Seavus10 ($251.35 in chips) 
+Seat 3: 7bekon7 ($106.08 in chips) 
+Seat 4: Tibibacsi ($128.62 in chips) 
+Seat 5: shootingGRID ($178.85 in chips) 
+Seat 6: pepy_2233 ($94.72 in chips) 
+Tibibacsi: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+pepy_2233: calls $1
+steelNike: folds 
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: raises $6 to $7
+shootingGRID: folds 
+pepy_2233: calls $6
+*** FLOP *** [Kh 2c 3d]
+Tibibacsi: bets $3.56
+pepy_2233: raises $3.56 to $7.12
+Tibibacsi: calls $3.56
+*** TURN *** [Kh 2c 3d] [6h]
+Tibibacsi: checks 
+pepy_2233: checks 
+*** RIVER *** [Kh 2c 3d 6h] [Ah]
+Tibibacsi: checks 
+pepy_2233: bets $27.78
+Tibibacsi: calls $27.78
+*** SHOW DOWN ***
+pepy_2233: shows [8h Qh] (a flush, Ace high)
+Tibibacsi: mucks hand 
+pepy_2233 collected $82.30 from pot
+*** SUMMARY ***
+Total pot $84.80 | Rake $2.50 
+Board [Kh 2c 3d 6h Ah]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 4: Tibibacsi (small blind) mucked
+Seat 5: shootingGRID (big blind) folded before Flop
+Seat 6: pepy_2233 showed [8h Qh] and won ($82.30) with a flush, Ace high
+
+
+
+PokerStars Hand #254729675949:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:47:06 WET [2025/02/05 22:47:06 ET]
+Table 'Sitarski' 6-max Seat #4 is the button
+Seat 1: steelNike ($257.64 in chips) 
+Seat 2: Seavus10 ($251.35 in chips) 
+Seat 3: 7bekon7 ($106.08 in chips) 
+Seat 4: Tibibacsi ($100 in chips) 
+Seat 5: shootingGRID ($177.85 in chips) 
+Seat 6: pepy_2233 ($135.12 in chips) 
+shootingGRID: posts small blind $0.50
+pepy_2233: posts big blind $1
+*** HOLE CARDS ***
+steelNike: raises $1 to $2
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $1
+*** FLOP *** [3d Qd 9s]
+pepy_2233: checks 
+steelNike: checks 
+*** TURN *** [3d Qd 9s] [7d]
+pepy_2233: bets $1
+steelNike: calls $1
+*** RIVER *** [3d Qd 9s 7d] [Jh]
+pepy_2233: checks 
+steelNike: checks 
+*** SHOW DOWN ***
+pepy_2233: shows [5c 9c] (a pair of Nines)
+steelNike: mucks hand 
+pepy_2233 collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [3d Qd 9s 7d Jh]
+Seat 1: steelNike mucked
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 5: shootingGRID (small blind) folded before Flop
+Seat 6: pepy_2233 (big blind) showed [5c 9c] and won ($6.18) with a pair of Nines
+
+
+
+PokerStars Hand #254729680281:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:47:44 WET [2025/02/05 22:47:44 ET]
+Table 'Sitarski' 6-max Seat #5 is the button
+Seat 1: steelNike ($254.64 in chips) 
+Seat 2: Seavus10 ($251.35 in chips) 
+Seat 3: 7bekon7 ($106.08 in chips) 
+Seat 4: Tibibacsi ($100 in chips) 
+Seat 5: shootingGRID ($177.35 in chips) 
+Seat 6: pepy_2233 ($138.30 in chips) 
+pepy_2233: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: raises $1.50 to $2.50
+shootingGRID: folds 
+pepy_2233: calls $2
+steelNike: folds 
+*** FLOP *** [2h Td 3c]
+pepy_2233: checks 
+Tibibacsi: bets $4.28
+pepy_2233: folds 
+Uncalled bet ($4.28) returned to Tibibacsi
+Tibibacsi collected $5.70 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [2h Td 3c]
+Seat 1: steelNike (big blind) folded before Flop
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi collected ($5.70)
+Seat 5: shootingGRID (button) folded before Flop (didn't bet)
+Seat 6: pepy_2233 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254729684210:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:48:18 WET [2025/02/05 22:48:18 ET]
+Table 'Sitarski' 6-max Seat #6 is the button
+Seat 1: steelNike ($253.64 in chips) 
+Seat 2: Seavus10 ($251.35 in chips) 
+Seat 3: 7bekon7 ($106.08 in chips) 
+Seat 4: Tibibacsi ($103.20 in chips) 
+Seat 5: shootingGRID ($177.35 in chips) 
+Seat 6: pepy_2233 ($135.80 in chips) 
+steelNike: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $1
+steelNike: calls $0.50
+Seavus10: checks 
+*** FLOP *** [3h 3c 2h]
+steelNike: checks 
+Seavus10: checks 
+pepy_2233: checks 
+*** TURN *** [3h 3c 2h] [2s]
+steelNike: checks 
+Seavus10: checks 
+pepy_2233: bets $1
+steelNike: folds 
+Seavus10: calls $1
+*** RIVER *** [3h 3c 2h 2s] [2c]
+Seavus10: checks 
+pepy_2233: bets $4.75
+Seavus10: calls $4.75
+*** SHOW DOWN ***
+pepy_2233: shows [Qd Jd] (a full house, Deuces full of Threes)
+Seavus10: shows [Ad 5s] (a full house, Deuces full of Threes)
+Seavus10 collected $6.89 from pot
+pepy_2233 collected $6.89 from pot
+*** SUMMARY ***
+Total pot $14.50 | Rake $0.72 
+Board [3h 3c 2h 2s 2c]
+Seat 1: steelNike (small blind) folded on the Turn
+Seat 2: Seavus10 (big blind) showed [Ad 5s] and won ($6.89) with a full house, Deuces full of Threes
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 (button) showed [Qd Jd] and won ($6.89) with a full house, Deuces full of Threes
+
+
+
+PokerStars Hand #254729695292:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:49:54 WET [2025/02/05 22:49:54 ET]
+Table 'Sitarski' 6-max Seat #1 is the button
+Seat 1: steelNike ($252.64 in chips) 
+Seat 2: Seavus10 ($251.49 in chips) 
+Seat 3: 7bekon7 ($106.08 in chips) 
+Seat 4: Tibibacsi ($103.20 in chips) 
+Seat 5: shootingGRID ($177.35 in chips) 
+Seat 6: pepy_2233 ($135.94 in chips) 
+Seavus10: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $1
+steelNike: calls $1
+Seavus10: calls $0.50
+7bekon7: checks 
+*** FLOP *** [Ac Th 7h]
+Seavus10: checks 
+7bekon7: checks 
+pepy_2233: bets $1
+steelNike: folds 
+Seavus10: folds 
+7bekon7: calls $1
+*** TURN *** [Ac Th 7h] [9c]
+7bekon7: checks 
+pepy_2233: checks 
+*** RIVER *** [Ac Th 7h 9c] [6d]
+7bekon7: checks 
+pepy_2233: bets $5.70
+7bekon7: calls $5.70
+*** SHOW DOWN ***
+pepy_2233: shows [Ah 7c] (two pair, Aces and Sevens)
+7bekon7: mucks hand 
+pepy_2233 collected $16.53 from pot
+*** SUMMARY ***
+Total pot $17.40 | Rake $0.87 
+Board [Ac Th 7h 9c 6d]
+Seat 1: steelNike (button) folded on the Flop
+Seat 2: Seavus10 (small blind) folded on the Flop
+Seat 3: 7bekon7 (big blind) mucked
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 showed [Ah 7c] and won ($16.53) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #254729701813:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:50:52 WET [2025/02/05 22:50:52 ET]
+Table 'Sitarski' 6-max Seat #2 is the button
+Seat 1: steelNike ($251.64 in chips) 
+Seat 2: Seavus10 ($250.49 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($103.20 in chips) 
+Seat 5: shootingGRID ($177.35 in chips) 
+Seat 6: pepy_2233 ($144.77 in chips) 
+7bekon7: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+pepy_2233: calls $1
+steelNike: folds 
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: checks 
+*** FLOP *** [Jc Ad 4h]
+Tibibacsi: checks 
+pepy_2233: checks 
+*** TURN *** [Jc Ad 4h] [Ks]
+Tibibacsi: checks 
+pepy_2233: checks 
+*** RIVER *** [Jc Ad 4h Ks] [5d]
+Tibibacsi: checks 
+pepy_2233: bets $1
+Tibibacsi: calls $1
+*** SHOW DOWN ***
+pepy_2233: shows [8d Td] (high card Ace)
+Tibibacsi: shows [5s 7d] (a pair of Fives)
+Tibibacsi collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Jc Ad 4h Ks 5d]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 (button) folded before Flop (didn't bet)
+Seat 3: 7bekon7 (small blind) folded before Flop
+Seat 4: Tibibacsi (big blind) showed [5s 7d] and won ($4.28) with a pair of Fives
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 showed [8d Td] and lost with high card Ace
+
+
+
+PokerStars Hand #254729708889:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:51:53 WET [2025/02/05 22:51:53 ET]
+Table 'Sitarski' 6-max Seat #3 is the button
+Seat 1: steelNike ($251.64 in chips) 
+Seat 2: Seavus10 ($250.49 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($105.48 in chips) 
+Seat 5: shootingGRID ($177.35 in chips) 
+Seat 6: pepy_2233 ($142.77 in chips) 
+Tibibacsi: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+pepy_2233: calls $1
+steelNike: raises $6 to $7
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $6
+*** FLOP *** [7d 6h Td]
+pepy_2233: checks 
+steelNike: checks 
+*** TURN *** [7d 6h Td] [9h]
+pepy_2233: bets $7.36
+steelNike: calls $7.36
+*** RIVER *** [7d 6h Td 9h] [7h]
+pepy_2233: bets $14.36
+steelNike: raises $38.48 to $52.84
+pepy_2233: folds 
+Uncalled bet ($38.48) returned to steelNike
+steelNike collected $56.44 from pot
+steelNike: shows [Qh Jd] (a pair of Sevens)
+*** SUMMARY ***
+Total pot $58.94 | Rake $2.50 
+Board [7d 6h Td 9h 7h]
+Seat 1: steelNike collected ($56.44)
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 4: Tibibacsi (small blind) folded before Flop
+Seat 5: shootingGRID (big blind) folded before Flop
+Seat 6: pepy_2233 folded on the River
+
+
+
+PokerStars Hand #254729717506:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:53:09 WET [2025/02/05 22:53:09 ET]
+Table 'Sitarski' 6-max Seat #4 is the button
+Seat 1: steelNike ($279.36 in chips) 
+Seat 2: Seavus10 ($250.49 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($104.98 in chips) 
+Seat 5: shootingGRID ($176.35 in chips) 
+Seat 6: pepy_2233 ($114.05 in chips) 
+shootingGRID: posts small blind $0.50
+pepy_2233: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Seavus10: folds 
+7bekon7: raises $2 to $3
+Tibibacsi: folds 
+shootingGRID: calls $2.50
+pepy_2233: calls $2
+*** FLOP *** [Ad 6h 3d]
+shootingGRID: checks 
+pepy_2233: checks 
+7bekon7: checks 
+*** TURN *** [Ad 6h 3d] [5h]
+shootingGRID: checks 
+pepy_2233: bets $4.28
+7bekon7: folds 
+shootingGRID: calls $4.28
+*** RIVER *** [Ad 6h 3d 5h] [5c]
+shootingGRID: checks 
+pepy_2233: bets $8
+shootingGRID: folds 
+Uncalled bet ($8) returned to pepy_2233
+pepy_2233 collected $16.68 from pot
+*** SUMMARY ***
+Total pot $17.56 | Rake $0.88 
+Board [Ad 6h 3d 5h 5c]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 folded on the Turn
+Seat 4: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 5: shootingGRID (small blind) folded on the River
+Seat 6: pepy_2233 (big blind) collected ($16.68)
+
+
+
+PokerStars Hand #254729729986:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:55:00 WET [2025/02/05 22:55:00 ET]
+Table 'Sitarski' 6-max Seat #5 is the button
+Seat 1: steelNike ($279.36 in chips) 
+Seat 2: Seavus10 ($250.49 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($104.98 in chips) 
+Seat 5: shootingGRID ($169.07 in chips) 
+Seat 6: pepy_2233 ($123.45 in chips) 
+pepy_2233: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $0.50
+steelNike: checks 
+*** FLOP *** [Jc 8d Qs]
+pepy_2233: checks 
+steelNike: checks 
+*** TURN *** [Jc 8d Qs] [Js]
+pepy_2233: checks 
+steelNike: checks 
+*** RIVER *** [Jc 8d Qs Js] [Kd]
+pepy_2233: bets $1
+steelNike: folds 
+Uncalled bet ($1) returned to pepy_2233
+pepy_2233 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Jc 8d Qs Js Kd]
+Seat 1: steelNike (big blind) folded on the River
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID (button) folded before Flop (didn't bet)
+Seat 6: pepy_2233 (small blind) collected ($1.90)
+
+
+
+PokerStars Hand #254729732856:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:55:30 WET [2025/02/05 22:55:30 ET]
+Table 'Sitarski' 6-max Seat #6 is the button
+Seat 1: steelNike ($278.36 in chips) 
+Seat 2: Seavus10 ($250.49 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($104.98 in chips) 
+Seat 5: shootingGRID ($169.07 in chips) 
+Seat 6: pepy_2233 ($124.35 in chips) 
+steelNike: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+7bekon7: folds 
+Tibibacsi: raises $1.50 to $2.50
+shootingGRID: folds 
+pepy_2233: raises $1.50 to $4
+steelNike: folds 
+Seavus10: folds 
+Tibibacsi: calls $1.50
+*** FLOP *** [5h Kc 6c]
+Tibibacsi: checks 
+pepy_2233: checks 
+*** TURN *** [5h Kc 6c] [Jc]
+Tibibacsi: checks 
+pepy_2233: bets $4.51
+Tibibacsi: calls $4.51
+*** RIVER *** [5h Kc 6c Jc] [Kd]
+Tibibacsi: checks 
+pepy_2233: bets $8.80
+Tibibacsi: raises $37.20 to $46
+pepy_2233: folds 
+Uncalled bet ($37.20) returned to Tibibacsi
+Tibibacsi collected $34.31 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $36.12 | Rake $1.81 
+Board [5h Kc 6c Jc Kd]
+Seat 1: steelNike (small blind) folded before Flop
+Seat 2: Seavus10 (big blind) folded before Flop
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi collected ($34.31)
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 (button) folded on the River
+
+
+
+PokerStars Hand #254729740792:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:56:55 WET [2025/02/05 22:56:55 ET]
+Table 'Sitarski' 6-max Seat #1 is the button
+Seat 1: steelNike ($277.86 in chips) 
+Seat 2: Seavus10 ($249.49 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($121.98 in chips) 
+Seat 5: shootingGRID ($169.07 in chips) 
+Seat 6: pepy_2233 ($107.04 in chips) 
+Seavus10: posts small blind $0.50
+7bekon7: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $1
+steelNike: folds 
+Seavus10: calls $0.50
+7bekon7: checks 
+*** FLOP *** [Th 6s 9h]
+Seavus10: checks 
+7bekon7: checks 
+pepy_2233: bets $1
+Seavus10: calls $1
+7bekon7: folds 
+*** TURN *** [Th 6s 9h] [4c]
+Seavus10: checks 
+pepy_2233: bets $2.38
+Seavus10: folds 
+Uncalled bet ($2.38) returned to pepy_2233
+pepy_2233 collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Th 6s 9h 4c]
+Seat 1: steelNike (button) folded before Flop (didn't bet)
+Seat 2: Seavus10 (small blind) folded on the Turn
+Seat 3: 7bekon7 (big blind) folded on the Flop
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 collected ($4.75)
+
+
+
+PokerStars Hand #254729746841:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:58:01 WET [2025/02/05 22:58:01 ET]
+Table 'Sitarski' 6-max Seat #2 is the button
+Seat 1: steelNike ($277.86 in chips) 
+Seat 2: Seavus10 ($247.49 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($121.98 in chips) 
+Seat 5: shootingGRID ($169.07 in chips) 
+Seat 6: pepy_2233 ($109.79 in chips) 
+7bekon7: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+shootingGRID: folds 
+pepy_2233: calls $1
+steelNike: folds 
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: raises $3 to $4
+pepy_2233: calls $3
+*** FLOP *** [8d 9s Td]
+Tibibacsi: bets $2.67
+pepy_2233: calls $2.67
+*** TURN *** [8d 9s Td] [4c]
+Tibibacsi: checks 
+pepy_2233: checks 
+*** RIVER *** [8d 9s Td 4c] [Ts]
+Tibibacsi: bets $10
+pepy_2233: calls $10
+*** SHOW DOWN ***
+Tibibacsi: shows [Qd Jd] (a straight, Eight to Queen)
+pepy_2233: mucks hand 
+Tibibacsi collected $32.15 from pot
+*** SUMMARY ***
+Total pot $33.84 | Rake $1.69 
+Board [8d 9s Td 4c Ts]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 (button) folded before Flop (didn't bet)
+Seat 3: 7bekon7 (small blind) folded before Flop
+Seat 4: Tibibacsi (big blind) showed [Qd Jd] and won ($32.15) with a straight, Eight to Queen
+Seat 5: shootingGRID folded before Flop (didn't bet)
+Seat 6: pepy_2233 mucked
+
+
+
+PokerStars Hand #254729752404:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:59:03 WET [2025/02/05 22:59:03 ET]
+Table 'Sitarski' 6-max Seat #3 is the button
+Seat 1: steelNike ($277.86 in chips) 
+Seat 2: Seavus10 ($247.49 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($137.46 in chips) 
+Seat 5: shootingGRID ($169.07 in chips) 
+Seat 6: pepy_2233 ($93.12 in chips) 
+Tibibacsi: posts small blind $0.50
+shootingGRID: posts big blind $1
+*** HOLE CARDS ***
+pepy_2233: calls $1
+steelNike: folds 
+Seavus10: folds 
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: checks 
+*** FLOP *** [9s Kd Jc]
+shootingGRID: checks 
+pepy_2233: checks 
+*** TURN *** [9s Kd Jc] [8h]
+shootingGRID: checks 
+pepy_2233: checks 
+*** RIVER *** [9s Kd Jc 8h] [5c]
+shootingGRID: checks 
+pepy_2233: bets $1
+shootingGRID: folds 
+Uncalled bet ($1) returned to pepy_2233
+pepy_2233 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [9s Kd Jc 8h 5c]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 (button) folded before Flop (didn't bet)
+Seat 4: Tibibacsi (small blind) folded before Flop
+Seat 5: shootingGRID (big blind) folded on the River
+Seat 6: pepy_2233 collected ($2.38)
+
+
+
+PokerStars Hand #254729757101:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 3:59:54 WET [2025/02/05 22:59:54 ET]
+Table 'Sitarski' 6-max Seat #4 is the button
+Seat 1: steelNike ($277.86 in chips) 
+Seat 2: Seavus10 ($247.49 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($136.96 in chips) 
+Seat 5: shootingGRID ($168.07 in chips) 
+Seat 6: pepy_2233 ($94.50 in chips) 
+shootingGRID: posts small blind $0.50
+pepy_2233: posts big blind $1
+*** HOLE CARDS ***
+steelNike: folds 
+Seavus10: raises $1.20 to $2.20
+7bekon7: folds 
+Tibibacsi: folds 
+shootingGRID: folds 
+pepy_2233: calls $1.20
+*** FLOP *** [Tc 8s 6c]
+pepy_2233: checks 
+Seavus10: checks 
+*** TURN *** [Tc 8s 6c] [9d]
+pepy_2233: bets $2.33
+Seavus10: calls $2.33
+*** RIVER *** [Tc 8s 6c 9d] [5h]
+pepy_2233: bets $4.54
+Seavus10: folds 
+Uncalled bet ($4.54) returned to pepy_2233
+pepy_2233 collected $9.08 from pot
+*** SUMMARY ***
+Total pot $9.56 | Rake $0.48 
+Board [Tc 8s 6c 9d 5h]
+Seat 1: steelNike folded before Flop (didn't bet)
+Seat 2: Seavus10 folded on the River
+Seat 3: 7bekon7 folded before Flop (didn't bet)
+Seat 4: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 5: shootingGRID (small blind) folded before Flop
+Seat 6: pepy_2233 (big blind) collected ($9.08)
+
+
+
+PokerStars Hand #254729763196:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/06 4:00:56 WET [2025/02/05 23:00:56 ET]
+Table 'Sitarski' 6-max Seat #5 is the button
+Seat 1: steelNike ($277.86 in chips) 
+Seat 2: Seavus10 ($242.96 in chips) 
+Seat 3: 7bekon7 ($100 in chips) 
+Seat 4: Tibibacsi ($136.96 in chips) 
+Seat 5: shootingGRID ($167.57 in chips) 
+Seat 6: pepy_2233 ($99.05 in chips) 
+pepy_2233: posts small blind $0.50
+steelNike: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+7bekon7: raises $1.50 to $2.50
+Tibibacsi: folds 
+shootingGRID: raises $5 to $7.50
+pepy_2233: calls $7
+steelNike: folds 
+7bekon7: folds 
+*** FLOP *** [5d Kc Qc]
+pepy_2233: checks 
+shootingGRID: bets $8.79
+pepy_2233: calls $8.79
+*** TURN *** [5d Kc Qc] [Kh]
+pepy_2233: checks 
+shootingGRID: bets $24.71
+pepy_2233: folds 
+Uncalled bet ($24.71) returned to shootingGRID
+shootingGRID collected $34.28 from pot
+*** SUMMARY ***
+Total pot $36.08 | Rake $1.80 
+Board [5d Kc Qc Kh]
+Seat 1: steelNike (big blind) folded before Flop
+Seat 2: Seavus10 folded before Flop (didn't bet)
+Seat 3: 7bekon7 folded before Flop
+Seat 4: Tibibacsi folded before Flop (didn't bet)
+Seat 5: shootingGRID (button) collected ($34.28)
+Seat 6: pepy_2233 (small blind) folded on the Turn
+
+
+

@@ -1,0 +1,998 @@
+﻿PokerStars Hand #254283971671:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 20:52:20 WET [2025/01/09 15:52:20 ET]
+Table 'Skuld III' 6-max Seat #1 is the button
+Seat 1: m0nTTu ($10 in chips) 
+Seat 4: LuckyShikari ($100 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+LuckyShikari: folds 
+Uncalled bet ($0.50) returned to nikalas22
+nikalas22 collected $1 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m0nTTu (button) folded before Flop (didn't bet)
+Seat 4: LuckyShikari (small blind) folded before Flop
+Seat 6: nikalas22 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254283977096:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 20:52:37 WET [2025/01/09 15:52:37 ET]
+Table 'Skuld III' 6-max Seat #4 is the button
+Seat 1: m0nTTu ($10 in chips) 
+Seat 4: LuckyShikari ($100 in chips) 
+Seat 6: nikalas22 ($100.50 in chips) 
+nikalas22: posts small blind $0.50
+m0nTTu: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: raises $1 to $2
+nikalas22: folds 
+m0nTTu: raises $8 to $10 and is all-in
+LuckyShikari: calls $8
+*** FIRST FLOP *** [6h 4h 2s]
+*** FIRST TURN *** [6h 4h 2s] [7h]
+*** FIRST RIVER *** [6h 4h 2s 7h] [6c]
+*** SECOND FLOP *** [9s Qs 8d]
+*** SECOND TURN *** [9s Qs 8d] [2h]
+*** SECOND RIVER *** [9s Qs 8d 2h] [6d]
+*** FIRST SHOW DOWN ***
+m0nTTu: shows [3d 3s] (two pair, Sixes and Threes)
+LuckyShikari: shows [Qh Ks] (a pair of Sixes)
+m0nTTu collected $9.75 from pot
+*** SECOND SHOW DOWN ***
+m0nTTu: shows [3d 3s] (a pair of Threes)
+LuckyShikari: shows [Qh Ks] (a pair of Queens)
+LuckyShikari collected $9.75 from pot
+*** SUMMARY ***
+Total pot $20.50 | Rake $1 
+Hand was run twice
+FIRST Board [6h 4h 2s 7h 6c]
+SECOND Board [9s Qs 8d 2h 6d]
+Seat 1: m0nTTu (big blind) showed [3d 3s] and won ($9.75) with two pair, Sixes and Threes, and lost with a pair of Threes
+Seat 4: LuckyShikari (button) showed [Qh Ks] and lost with a pair of Sixes, and won ($9.75) with a pair of Queens
+Seat 6: nikalas22 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254283990144:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 20:53:16 WET [2025/01/09 15:53:16 ET]
+Table 'Skuld III' 6-max Seat #6 is the button
+Seat 1: m0nTTu ($10 in chips) 
+Seat 4: LuckyShikari ($100 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+m0nTTu: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: raises $1.50 to $2.50
+m0nTTu: raises $7.50 to $10 and is all-in
+LuckyShikari: raises $8 to $18
+nikalas22: folds 
+Uncalled bet ($8) returned to LuckyShikari
+*** FLOP *** [Kc Kd 7d]
+*** TURN *** [Kc Kd 7d] [2s]
+*** RIVER *** [Kc Kd 7d 2s] [5h]
+*** SHOW DOWN ***
+m0nTTu: shows [Kh Th] (three of a kind, Kings)
+LuckyShikari: shows [Ac Jd] (a pair of Kings)
+m0nTTu collected $21.50 from pot
+LuckyShikari cashed out the hand for $12.36 | Cash Out Fee $0.25
+*** SUMMARY ***
+Total pot $22.50 | Rake $1 
+Board [Kc Kd 7d 2s 5h]
+Seat 1: m0nTTu (small blind) showed [Kh Th] and won ($21.50) with three of a kind, Kings
+Seat 4: LuckyShikari (big blind) showed [Ac Jd] and lost with a pair of Kings (cashed out).
+Seat 6: nikalas22 (button) folded before Flop
+
+
+
+PokerStars Hand #254284007794:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 20:54:09 WET [2025/01/09 15:54:09 ET]
+Table 'Skuld III' 6-max Seat #1 is the button
+Seat 1: m0nTTu ($21.50 in chips) 
+Seat 4: LuckyShikari ($102.36 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+m0nTTu: folds 
+LuckyShikari: raises $1.50 to $2.50
+nikalas22: calls $1.50
+*** FLOP *** [Ac 9h 4s]
+PayTaxOrDie joins the table at seat #3 
+LuckyShikari: bets $1.57
+nikalas22: calls $1.57
+*** TURN *** [Ac 9h 4s] [Kd]
+LuckyShikari: checks 
+nikalas22: checks 
+*** RIVER *** [Ac 9h 4s Kd] [Ts]
+LuckyShikari: bets $3.87
+blistein joins the table at seat #2 
+nikalas22: folds 
+Uncalled bet ($3.87) returned to LuckyShikari
+LuckyShikari collected $7.73 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.14 | Rake $0.41 
+Board [Ac 9h 4s Kd Ts]
+Seat 1: m0nTTu (button) folded before Flop (didn't bet)
+Seat 4: LuckyShikari (small blind) collected ($7.73)
+Seat 6: nikalas22 (big blind) folded on the River
+
+
+
+PokerStars Hand #254284027544:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 20:55:09 WET [2025/01/09 15:55:09 ET]
+Table 'Skuld III' 6-max Seat #4 is the button
+Seat 1: m0nTTu ($21.50 in chips) is sitting out
+Seat 3: PayTaxOrDie ($100 in chips) is sitting out
+Seat 2: blistein ($100 in chips) 
+Seat 4: LuckyShikari ($106.02 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+nikalas22: posts small blind $0.50
+m0nTTu: is sitting out 
+blistein: posts big blind $1
+PayTaxOrDie: sits out 
+*** HOLE CARDS ***
+LuckyShikari: folds 
+nikalas22: folds 
+Uncalled bet ($0.50) returned to blistein
+blistein collected $1 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: m0nTTu
+Seat 3: PayTaxOrDie
+Seat 2: blistein (big blind) collected ($1)
+Seat 4: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 6: nikalas22 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254284031737:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 20:55:27 WET [2025/01/09 15:55:27 ET]
+Table 'Skuld III' 6-max Seat #6 is the button
+Seat 1: m0nTTu ($21.50 in chips) is sitting out
+Seat 2: blistein ($100.50 in chips) 
+Seat 3: PayTaxOrDie ($100 in chips) 
+Seat 4: LuckyShikari ($106.02 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+blistein: posts small blind $0.50
+PayTaxOrDie: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+nikalas22: folds 
+blistein: raises $2 to $3
+chrisycfc1 joins the table at seat #5 
+chrisycfc1 is disconnected 
+PayTaxOrDie: calls $2
+*** FLOP *** [Ac 5s 9d]
+m0nTTu leaves the table
+blistein: checks 
+PayTaxOrDie: checks 
+*** TURN *** [Ac 5s 9d] [Ks]
+illarins joins the table at seat #1 
+blistein: bets $1.94
+PayTaxOrDie: calls $1.94
+*** RIVER *** [Ac 5s 9d Ks] [2d]
+blistein: bets $1
+PayTaxOrDie: raises $10.04 to $11.04
+blistein: calls $10.04
+*** SHOW DOWN ***
+PayTaxOrDie: shows [Jd Tc] (high card Ace)
+blistein: shows [Qs Kc] (a pair of Kings)
+blistein collected $30.96 from pot
+*** SUMMARY ***
+Total pot $31.96 | Rake $1 
+Board [Ac 5s 9d Ks 2d]
+Seat 1: m0nTTu
+Seat 2: blistein (small blind) showed [Qs Kc] and won ($30.96) with a pair of Kings
+Seat 3: PayTaxOrDie (big blind) showed [Jd Tc] and lost with high card Ace
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 6: nikalas22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254284055910:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 20:57:12 WET [2025/01/09 15:57:12 ET]
+Table 'Skuld III' 6-max Seat #2 is the button
+Seat 1: illarins ($100 in chips) is sitting out
+Seat 4: LuckyShikari ($106.02 in chips) is sitting out
+Seat 2: blistein ($115.48 in chips) 
+Seat 3: PayTaxOrDie ($100 in chips) 
+Seat 5: chrisycfc1 ($19.97 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+PayTaxOrDie: posts small blind $0.50
+LuckyShikari: is sitting out 
+chrisycfc1: posts big blind $1
+illarins: sits out 
+*** HOLE CARDS ***
+nikalas22: folds 
+blistein: folds 
+PayTaxOrDie: folds 
+Uncalled bet ($0.50) returned to chrisycfc1
+chrisycfc1 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: illarins
+Seat 4: LuckyShikari
+Seat 2: blistein (button) folded before Flop (didn't bet)
+Seat 3: PayTaxOrDie (small blind) folded before Flop
+Seat 5: chrisycfc1 (big blind) collected ($1)
+Seat 6: nikalas22 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254284057801:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 20:57:20 WET [2025/01/09 15:57:20 ET]
+Table 'Skuld III' 6-max Seat #3 is the button
+Seat 1: illarins ($100 in chips) is sitting out
+Seat 4: LuckyShikari ($106.02 in chips) is sitting out
+Seat 2: blistein ($115.48 in chips) 
+Seat 3: PayTaxOrDie ($100 in chips) 
+Seat 5: chrisycfc1 ($20.47 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+chrisycfc1: posts small blind $0.50
+nikalas22: posts big blind $1
+illarins: sits out 
+*** HOLE CARDS ***
+blistein: raises $1.30 to $2.30
+PayTaxOrDie: folds 
+chrisycfc1: calls $1.80
+nikalas22: folds 
+*** FLOP *** [Kc Ad 5d]
+chrisycfc1: checks 
+blistein: bets $1.81
+chrisycfc1: calls $1.81
+*** TURN *** [Kc Ad 5d] [5h]
+chrisycfc1: checks 
+blistein: bets $3.50
+chrisycfc1: calls $3.50
+*** RIVER *** [Kc Ad 5d 5h] [Ks]
+chrisycfc1: bets $12.86 and is all-in
+blistein: calls $12.86
+*** SHOW DOWN ***
+chrisycfc1: shows [Tc Jd] (two pair, Kings and Fives)
+blistein: shows [Ac Jh] (two pair, Aces and Kings)
+blistein collected $40.94 from pot
+*** SUMMARY ***
+Total pot $41.94 | Rake $1 
+Board [Kc Ad 5d 5h Ks]
+Seat 1: illarins
+Seat 4: LuckyShikari
+Seat 2: blistein showed [Ac Jh] and won ($40.94) with two pair, Aces and Kings
+Seat 3: PayTaxOrDie (button) folded before Flop (didn't bet)
+Seat 5: chrisycfc1 (small blind) showed [Tc Jd] and lost with two pair, Kings and Fives
+Seat 6: nikalas22 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254284069888:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 20:58:12 WET [2025/01/09 15:58:12 ET]
+Table 'Skuld III' 6-max Seat #2 is the button
+Seat 1: illarins ($100 in chips) is sitting out
+Seat 3: PayTaxOrDie ($100 in chips) is sitting out
+Seat 4: LuckyShikari ($106.02 in chips) is sitting out
+Seat 5: chrisycfc1 ($0 in chips) is sitting out
+Seat 2: blistein ($135.95 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+blistein: posts small blind $0.50
+PayTaxOrDie: is sitting out 
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+Uncalled bet ($0.50) returned to nikalas22
+PayTaxOrDie leaves the table
+nikalas22 collected $1 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: illarins
+Seat 3: PayTaxOrDie
+Seat 4: LuckyShikari
+Seat 5: chrisycfc1
+Seat 2: blistein (button) (small blind) folded before Flop
+Seat 6: nikalas22 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254284071212:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 20:58:17 WET [2025/01/09 15:58:17 ET]
+Table 'Skuld III' 6-max Seat #2 is the button
+Seat 4: LuckyShikari ($106.02 in chips) is sitting out
+Seat 5: chrisycfc1 ($0 in chips) is sitting out
+Seat 6: nikalas22 ($100.50 in chips) is sitting out
+Seat 1: illarins ($100 in chips) 
+Seat 2: blistein ($135.45 in chips) 
+blistein: posts small blind $0.50
+illarins: posts big blind $1
+*** HOLE CARDS ***
+chrisycfc1 leaves the table
+blistein: raises $1.50 to $2.50
+nikalas22 leaves the table
+illarins: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $2 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: LuckyShikari
+Seat 5: chrisycfc1
+Seat 6: nikalas22
+Seat 1: illarins (big blind) folded before Flop
+Seat 2: blistein (button) (small blind) collected ($2)
+
+
+
+PokerStars Hand #254284111602:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:01:00 WET [2025/01/09 16:01:00 ET]
+Table 'Skuld III' 6-max Seat #3 is the button
+Seat 4: LuckyShikari ($106.02 in chips) is sitting out
+Seat 2: chrisycfc1 ($40.03 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 5: ReVeu710 ($100 in chips) 
+Seat 6: nikalas22 ($100.50 in chips) 
+ReVeu710: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+MAO_DZEDYN_S joins the table at seat #1 
+chrisycfc1 has timed out
+chrisycfc1: folds 
+rao999: raises $1.50 to $2.50
+ReVeu710: folds 
+nikalas22: folds 
+Uncalled bet ($1.50) returned to rao999
+rao999 collected $2.50 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: LuckyShikari
+Seat 2: chrisycfc1 folded before Flop (didn't bet)
+Seat 3: rao999 (button) collected ($2.50)
+Seat 5: ReVeu710 (small blind) folded before Flop
+Seat 6: nikalas22 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254284118856:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:01:25 WET [2025/01/09 16:01:25 ET]
+Table 'Skuld III' 6-max Seat #5 is the button
+Seat 4: LuckyShikari ($106.02 in chips) is sitting out
+Seat 1: MAO_DZEDYN_S ($100 in chips) 
+Seat 2: chrisycfc1 ($40.03 in chips) 
+Seat 3: rao999 ($101.50 in chips) 
+Seat 5: ReVeu710 ($100 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+nikalas22: posts small blind $0.50
+MAO_DZEDYN_S: posts big blind $1
+LuckyShikari: sits out 
+*** HOLE CARDS ***
+chrisycfc1: calls $1
+rao999: folds 
+ReVeu710: folds 
+nikalas22: folds 
+MAO_DZEDYN_S: checks 
+*** FLOP *** [Ac 5c 5s]
+MAO_DZEDYN_S: checks 
+chrisycfc1: checks 
+*** TURN *** [Ac 5c 5s] [As]
+MAO_DZEDYN_S: checks 
+chrisycfc1: checks 
+*** RIVER *** [Ac 5c 5s As] [Td]
+MAO_DZEDYN_S: checks 
+chrisycfc1: checks 
+*** SHOW DOWN ***
+MAO_DZEDYN_S: shows [2c 8h] (two pair, Aces and Fives)
+chrisycfc1: shows [Ks Qd] (two pair, Aces and Fives - King kicker)
+chrisycfc1 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Ac 5c 5s As Td]
+Seat 4: LuckyShikari
+Seat 1: MAO_DZEDYN_S (big blind) showed [2c 8h] and lost with two pair, Aces and Fives
+Seat 2: chrisycfc1 showed [Ks Qd] and won ($2.38) with two pair, Aces and Fives
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 5: ReVeu710 (button) folded before Flop (didn't bet)
+Seat 6: nikalas22 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254284134015:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:02:14 WET [2025/01/09 16:02:14 ET]
+Table 'Skuld III' 6-max Seat #6 is the button
+Seat 4: LuckyShikari ($106.02 in chips) is sitting out
+Seat 1: MAO_DZEDYN_S ($100 in chips) 
+Seat 2: chrisycfc1 ($41.41 in chips) 
+Seat 3: rao999 ($101.50 in chips) 
+Seat 5: ReVeu710 ($100 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+MAO_DZEDYN_S: posts small blind $0.50
+chrisycfc1: posts big blind $1
+LuckyShikari: sits out 
+*** HOLE CARDS ***
+rao999: folds 
+ReVeu710: folds 
+nikalas22: raises $1.50 to $2.50
+MAO_DZEDYN_S: folds 
+chrisycfc1: calls $1.50
+*** FLOP *** [2d Kd Qc]
+chrisycfc1: checks 
+nikalas22: bets $3.92
+chrisycfc1: calls $3.92
+*** TURN *** [2d Kd Qc] [9d]
+chrisycfc1: checks 
+nikalas22: checks 
+*** RIVER *** [2d Kd Qc 9d] [2s]
+chrisycfc1: checks 
+nikalas22: checks 
+*** SHOW DOWN ***
+chrisycfc1: shows [Kh 3c] (two pair, Kings and Deuces)
+nikalas22: mucks hand 
+chrisycfc1 collected $12.67 from pot
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [2d Kd Qc 9d 2s]
+Seat 4: LuckyShikari
+Seat 1: MAO_DZEDYN_S (small blind) folded before Flop
+Seat 2: chrisycfc1 (big blind) showed [Kh 3c] and won ($12.67) with two pair, Kings and Deuces
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 5: ReVeu710 folded before Flop (didn't bet)
+Seat 6: nikalas22 (button) mucked
+
+
+
+PokerStars Hand #254284148383:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:02:58 WET [2025/01/09 16:02:58 ET]
+Table 'Skuld III' 6-max Seat #1 is the button
+Seat 4: LuckyShikari ($106.02 in chips) is sitting out
+Seat 1: MAO_DZEDYN_S ($100 in chips) 
+Seat 2: chrisycfc1 ($47.66 in chips) 
+Seat 3: rao999 ($101.50 in chips) 
+Seat 5: ReVeu710 ($100 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+chrisycfc1: posts small blind $0.50
+rao999: posts big blind $1
+LuckyShikari: sits out 
+*** HOLE CARDS ***
+ReVeu710: folds 
+nikalas22: folds 
+MAO_DZEDYN_S: folds 
+chrisycfc1: calls $0.50
+rao999: raises $3 to $4
+chrisycfc1: folds 
+Uncalled bet ($3) returned to rao999
+rao999 collected $2 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: LuckyShikari
+Seat 1: MAO_DZEDYN_S (button) folded before Flop (didn't bet)
+Seat 2: chrisycfc1 (small blind) folded before Flop
+Seat 3: rao999 (big blind) collected ($2)
+Seat 5: ReVeu710 folded before Flop (didn't bet)
+Seat 6: nikalas22 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254284155222:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:03:17 WET [2025/01/09 16:03:17 ET]
+Table 'Skuld III' 6-max Seat #2 is the button
+Seat 1: MAO_DZEDYN_S ($100 in chips) 
+Seat 2: chrisycfc1 ($46.66 in chips) 
+Seat 3: rao999 ($102.50 in chips) 
+Seat 4: LuckyShikari ($106.02 in chips) 
+Seat 5: ReVeu710 ($100 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+rao999: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+ReVeu710: folds 
+nikalas22: folds 
+MAO_DZEDYN_S: raises $1.25 to $2.25
+chrisycfc1: folds 
+rao999: folds 
+LuckyShikari: folds 
+Uncalled bet ($1.25) returned to MAO_DZEDYN_S
+MAO_DZEDYN_S collected $2.50 from pot
+MAO_DZEDYN_S: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MAO_DZEDYN_S collected ($2.50)
+Seat 2: chrisycfc1 (button) folded before Flop (didn't bet)
+Seat 3: rao999 (small blind) folded before Flop
+Seat 4: LuckyShikari (big blind) folded before Flop
+Seat 5: ReVeu710 folded before Flop (didn't bet)
+Seat 6: nikalas22 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254284167257:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:03:53 WET [2025/01/09 16:03:53 ET]
+Table 'Skuld III' 6-max Seat #3 is the button
+Seat 1: MAO_DZEDYN_S ($101.50 in chips) 
+Seat 2: chrisycfc1 ($46.66 in chips) 
+Seat 3: rao999 ($102 in chips) 
+Seat 4: LuckyShikari ($105.02 in chips) 
+Seat 5: ReVeu710 ($100 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+ReVeu710: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+MAO_DZEDYN_S: folds 
+chrisycfc1: calls $1
+rao999: folds 
+LuckyShikari: folds 
+ReVeu710: checks 
+*** FLOP *** [6h Qd 6c]
+ReVeu710: checks 
+chrisycfc1: checks 
+*** TURN *** [6h Qd 6c] [Jc]
+ReVeu710: checks 
+chrisycfc1: checks 
+*** RIVER *** [6h Qd 6c Jc] [3c]
+ReVeu710: checks 
+chrisycfc1: checks 
+*** SHOW DOWN ***
+ReVeu710: shows [7d 2h] (a pair of Sixes)
+chrisycfc1: shows [Td 8d] (a pair of Sixes - Queen+Jack+Ten kicker)
+chrisycfc1 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [6h Qd 6c Jc 3c]
+Seat 1: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 2: chrisycfc1 showed [Td 8d] and won ($2.38) with a pair of Sixes
+Seat 3: rao999 (button) folded before Flop (didn't bet)
+Seat 4: LuckyShikari (small blind) folded before Flop
+Seat 5: ReVeu710 (big blind) showed [7d 2h] and lost with a pair of Sixes
+Seat 6: nikalas22 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254284178234:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:04:25 WET [2025/01/09 16:04:25 ET]
+Table 'Skuld III' 6-max Seat #4 is the button
+Seat 1: MAO_DZEDYN_S ($101.50 in chips) 
+Seat 2: chrisycfc1 ($48.04 in chips) 
+Seat 3: rao999 ($102 in chips) 
+Seat 4: LuckyShikari ($104.52 in chips) 
+Seat 5: ReVeu710 ($100 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+ReVeu710: posts small blind $0.50
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+MAO_DZEDYN_S: folds 
+MAO_DZEDYN_S leaves the table
+chrisycfc1: folds 
+rao999: folds 
+LuckyShikari: raises $1.25 to $2.25
+ReVeu710: raises $9.75 to $12
+nikalas22: folds 
+LuckyShikari: raises $14 to $26
+Nazareno1999 joins the table at seat #1 
+ReVeu710: raises $14 to $40
+LuckyShikari: calls $14
+*** FLOP *** [8h 6h 5c]
+ReVeu710: bets $19.63
+LuckyShikari: folds 
+Uncalled bet ($19.63) returned to ReVeu710
+ReVeu710 collected $78.50 from pot
+ReVeu710: doesn't show hand 
+*** SUMMARY ***
+Total pot $81 | Rake $2.50 
+Board [8h 6h 5c]
+Seat 1: MAO_DZEDYN_S folded before Flop (didn't bet)
+Seat 2: chrisycfc1 folded before Flop (didn't bet)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: LuckyShikari (button) folded on the Flop
+Seat 5: ReVeu710 (small blind) collected ($78.50)
+Seat 6: nikalas22 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254284200315:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:05:29 WET [2025/01/09 16:05:29 ET]
+Table 'Skuld III' 6-max Seat #5 is the button
+Seat 1: Nazareno1999 ($100 in chips) 
+Seat 2: chrisycfc1 ($48.04 in chips) 
+Seat 3: rao999 ($102 in chips) 
+Seat 4: LuckyShikari ($100 in chips) 
+Seat 5: ReVeu710 ($138.50 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+nikalas22: posts small blind $0.50
+Nazareno1999: posts big blind $1
+*** HOLE CARDS ***
+chrisycfc1: folds 
+rao999: folds 
+LuckyShikari: raises $1.25 to $2.25
+ReVeu710: folds 
+nikalas22: folds 
+Nazareno1999: folds 
+Uncalled bet ($1.25) returned to LuckyShikari
+LuckyShikari collected $2.50 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Nazareno1999 (big blind) folded before Flop
+Seat 2: chrisycfc1 folded before Flop (didn't bet)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: LuckyShikari collected ($2.50)
+Seat 5: ReVeu710 (button) folded before Flop (didn't bet)
+Seat 6: nikalas22 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254284208142:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:05:52 WET [2025/01/09 16:05:52 ET]
+Table 'Skuld III' 6-max Seat #6 is the button
+Seat 1: Nazareno1999 ($100 in chips) 
+Seat 2: chrisycfc1 ($48.04 in chips) 
+Seat 3: rao999 ($102 in chips) 
+Seat 4: LuckyShikari ($101.50 in chips) 
+Seat 5: ReVeu710 ($138.50 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+Nazareno1999: posts small blind $0.50
+chrisycfc1: posts big blind $1
+*** HOLE CARDS ***
+rao999: raises $1.50 to $2.50
+LuckyShikari: raises $6.50 to $9
+ReVeu710: folds 
+nikalas22: folds 
+Nazareno1999: folds 
+chrisycfc1: folds 
+rao999: folds 
+Uncalled bet ($6.50) returned to LuckyShikari
+LuckyShikari collected $6.50 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: Nazareno1999 (small blind) folded before Flop
+Seat 2: chrisycfc1 (big blind) folded before Flop
+Seat 3: rao999 folded before Flop
+Seat 4: LuckyShikari collected ($6.50)
+Seat 5: ReVeu710 folded before Flop (didn't bet)
+Seat 6: nikalas22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254284225224:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:06:41 WET [2025/01/09 16:06:41 ET]
+Table 'Skuld III' 6-max Seat #1 is the button
+Seat 1: Nazareno1999 ($100 in chips) 
+Seat 2: chrisycfc1 ($47.04 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: LuckyShikari ($105.50 in chips) 
+Seat 5: ReVeu710 ($138.50 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+chrisycfc1: posts small blind $0.50
+rao999: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+ReVeu710: folds 
+nikalas22: folds 
+Nazareno1999: folds 
+chrisycfc1: folds 
+Uncalled bet ($0.50) returned to rao999
+rao999 collected $1 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Nazareno1999 (button) folded before Flop (didn't bet)
+Seat 2: chrisycfc1 (small blind) folded before Flop
+Seat 3: rao999 (big blind) collected ($1)
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 5: ReVeu710 folded before Flop (didn't bet)
+Seat 6: nikalas22 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254284231511:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:06:59 WET [2025/01/09 16:06:59 ET]
+Table 'Skuld III' 6-max Seat #2 is the button
+Seat 1: Nazareno1999 ($100 in chips) 
+Seat 2: chrisycfc1 ($46.54 in chips) 
+Seat 3: rao999 ($100.50 in chips) 
+Seat 4: LuckyShikari ($105.50 in chips) 
+Seat 5: ReVeu710 ($138.50 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+rao999: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+ReVeu710: folds 
+nikalas22: folds 
+Nazareno1999: folds 
+chrisycfc1: folds 
+rao999: folds 
+Uncalled bet ($0.50) returned to LuckyShikari
+LuckyShikari collected $1 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Nazareno1999 folded before Flop (didn't bet)
+Seat 2: chrisycfc1 (button) folded before Flop (didn't bet)
+Seat 3: rao999 (small blind) folded before Flop
+Seat 4: LuckyShikari (big blind) collected ($1)
+Seat 5: ReVeu710 folded before Flop (didn't bet)
+Seat 6: nikalas22 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254284238303:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:07:18 WET [2025/01/09 16:07:18 ET]
+Table 'Skuld III' 6-max Seat #3 is the button
+Seat 5: ReVeu710 ($138.50 in chips) is sitting out
+Seat 1: Nazareno1999 ($100 in chips) 
+Seat 2: chrisycfc1 ($46.54 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: LuckyShikari ($106 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+ReVeu710: is sitting out 
+nikalas22: posts big blind $1
+*** HOLE CARDS ***
+Nazareno1999: folds 
+ReVeu710 leaves the table
+chrisycfc1: calls $1
+rao999: folds 
+LuckyShikari: folds 
+nikalas22: checks 
+*** FLOP *** [8s 2h Th]
+nikalas22: checks 
+chrisycfc1: checks 
+*** TURN *** [8s 2h Th] [Kc]
+vadjkeee joins the table at seat #5 
+nikalas22: checks 
+chrisycfc1: checks 
+*** RIVER *** [8s 2h Th Kc] [As]
+nikalas22: checks 
+chrisycfc1: bets $4.38
+nikalas22: folds 
+Uncalled bet ($4.38) returned to chrisycfc1
+chrisycfc1 collected $2.38 from pot
+chrisycfc1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [8s 2h Th Kc As]
+Seat 5: ReVeu710
+Seat 1: Nazareno1999 folded before Flop (didn't bet)
+Seat 2: chrisycfc1 collected ($2.38)
+Seat 3: rao999 (button) folded before Flop (didn't bet)
+Seat 4: LuckyShikari (small blind) folded before Flop
+Seat 6: nikalas22 (big blind) folded on the River
+
+
+
+PokerStars Hand #254284256477:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:08:10 WET [2025/01/09 16:08:10 ET]
+Table 'Skuld III' 6-max Seat #4 is the button
+Seat 5: vadjkeee ($100 in chips) is sitting out
+Seat 1: Nazareno1999 ($100 in chips) 
+Seat 2: chrisycfc1 ($47.92 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: LuckyShikari ($105.50 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+nikalas22: posts small blind $0.50
+Nazareno1999: posts big blind $1
+*** HOLE CARDS ***
+chrisycfc1: calls $1
+rao999: folds 
+LuckyShikari: folds 
+nikalas22: folds 
+Nazareno1999: checks 
+*** FLOP *** [6d Qh 2c]
+Nazareno1999: checks 
+chrisycfc1: checks 
+*** TURN *** [6d Qh 2c] [2h]
+Nazareno1999: checks 
+chrisycfc1: bets $1
+Nazareno1999: folds 
+Uncalled bet ($1) returned to chrisycfc1
+chrisycfc1 collected $2.38 from pot
+chrisycfc1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [6d Qh 2c 2h]
+Seat 5: vadjkeee
+Seat 1: Nazareno1999 (big blind) folded on the Turn
+Seat 2: chrisycfc1 collected ($2.38)
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 6: nikalas22 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254284269993:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:08:49 WET [2025/01/09 16:08:49 ET]
+Table 'Skuld III' 6-max Seat #6 is the button
+Seat 5: vadjkeee ($100 in chips) is sitting out
+Seat 1: Nazareno1999 ($100 in chips) 
+Seat 2: chrisycfc1 ($49.30 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: LuckyShikari ($105.50 in chips) 
+Seat 6: nikalas22 ($100 in chips) 
+Nazareno1999: posts small blind $0.50
+chrisycfc1: posts big blind $1
+vadjkeee: sits out 
+*** HOLE CARDS ***
+rao999: folds 
+LuckyShikari: folds 
+nikalas22: raises $1.50 to $2.50
+Nazareno1999: folds 
+chrisycfc1: calls $1.50
+*** FLOP *** [Tc Ad 5h]
+chrisycfc1: checks 
+nikalas22: checks 
+*** TURN *** [Tc Ad 5h] [8d]
+chrisycfc1: checks 
+nikalas22: checks 
+*** RIVER *** [Tc Ad 5h 8d] [As]
+chrisycfc1: checks 
+nikalas22: bets $1.57
+chrisycfc1: folds 
+Uncalled bet ($1.57) returned to nikalas22
+nikalas22 collected $5.22 from pot
+nikalas22: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Tc Ad 5h 8d As]
+Seat 5: vadjkeee
+Seat 1: Nazareno1999 (small blind) folded before Flop
+Seat 2: chrisycfc1 (big blind) folded on the River
+Seat 3: rao999 folded before Flop (didn't bet)
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 6: nikalas22 (button) collected ($5.22)
+
+
+
+PokerStars Hand #254284287526:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:09:39 WET [2025/01/09 16:09:39 ET]
+Table 'Skuld III' 6-max Seat #1 is the button
+Seat 5: vadjkeee ($100 in chips) is sitting out
+Seat 1: Nazareno1999 ($100 in chips) 
+Seat 2: chrisycfc1 ($46.80 in chips) 
+Seat 3: rao999 ($100 in chips) 
+Seat 4: LuckyShikari ($105.50 in chips) 
+Seat 6: nikalas22 ($102.72 in chips) 
+chrisycfc1: posts small blind $0.50
+rao999: posts big blind $1
+vadjkeee: sits out 
+*** HOLE CARDS ***
+LuckyShikari: folds 
+nikalas22: folds 
+Nazareno1999: folds 
+chrisycfc1: calls $0.50
+rao999: checks 
+*** FLOP *** [Kd 7c Jh]
+chrisycfc1: checks 
+rao999: checks 
+*** TURN *** [Kd 7c Jh] [Jc]
+chrisycfc1: checks 
+rao999: bets $1.25
+chrisycfc1: folds 
+Uncalled bet ($1.25) returned to rao999
+rao999 collected $1.90 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Kd 7c Jh Jc]
+Seat 5: vadjkeee
+Seat 1: Nazareno1999 (button) folded before Flop (didn't bet)
+Seat 2: chrisycfc1 (small blind) folded on the Turn
+Seat 3: rao999 (big blind) collected ($1.90)
+Seat 4: LuckyShikari folded before Flop (didn't bet)
+Seat 6: nikalas22 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254284305653:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:10:30 WET [2025/01/09 16:10:30 ET]
+Table 'Skuld III' 6-max Seat #2 is the button
+Seat 5: vadjkeee ($100 in chips) is sitting out
+Seat 1: Nazareno1999 ($100 in chips) 
+Seat 2: chrisycfc1 ($45.80 in chips) 
+Seat 3: rao999 ($100.90 in chips) 
+Seat 4: LuckyShikari ($105.50 in chips) 
+Seat 6: nikalas22 ($102.72 in chips) 
+rao999: posts small blind $0.50
+LuckyShikari: posts big blind $1
+vadjkeee: sits out 
+*** HOLE CARDS ***
+nikalas22: raises $1.50 to $2.50
+Nazareno1999: folds 
+chrisycfc1: calls $2.50
+rao999: folds 
+LuckyShikari: folds 
+*** FLOP *** [Ks As Jc]
+nikalas22: checks 
+chrisycfc1: checks 
+*** TURN *** [Ks As Jc] [Th]
+nikalas22: checks 
+chrisycfc1: checks 
+*** RIVER *** [Ks As Jc Th] [Ah]
+nikalas22: bets $4.64
+chrisycfc1: raises $15.46 to $20.10
+nikalas22: raises $69.57 to $89.67
+chrisycfc1: calls $23.20 and is all-in
+Uncalled bet ($46.37) returned to nikalas22
+*** SHOW DOWN ***
+nikalas22: shows [Tc Ac] (a full house, Aces full of Tens)
+chrisycfc1: shows [Jd Jh] (a full house, Jacks full of Aces)
+nikalas22 collected $90.60 from pot
+*** SUMMARY ***
+Total pot $93.10 | Rake $2.50 
+Board [Ks As Jc Th Ah]
+Seat 5: vadjkeee
+Seat 1: Nazareno1999 folded before Flop (didn't bet)
+Seat 2: chrisycfc1 (button) showed [Jd Jh] and lost with a full house, Jacks full of Aces
+Seat 3: rao999 (small blind) folded before Flop
+Seat 4: LuckyShikari (big blind) folded before Flop
+Seat 6: nikalas22 showed [Tc Ac] and won ($90.60) with a full house, Aces full of Tens
+
+
+
+PokerStars Hand #254284330034:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:11:39 WET [2025/01/09 16:11:39 ET]
+Table 'Skuld III' 6-max Seat #3 is the button
+Seat 2: chrisycfc1 ($0 in chips) is sitting out
+Seat 1: Nazareno1999 ($100 in chips) 
+Seat 3: rao999 ($100.40 in chips) 
+Seat 4: LuckyShikari ($104.50 in chips) 
+Seat 5: vadjkeee ($100 in chips) 
+Seat 6: nikalas22 ($147.52 in chips) 
+LuckyShikari: posts small blind $0.50
+vadjkeee: posts big blind $1
+*** HOLE CARDS ***
+nikalas22: folds 
+chrisycfc1 leaves the table
+Nazareno1999: folds 
+rao999: folds 
+nikalas22 leaves the table
+LuckyShikari: folds 
+Uncalled bet ($0.50) returned to vadjkeee
+vadjkeee collected $1 from pot
+vadjkeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: chrisycfc1
+Seat 1: Nazareno1999 folded before Flop (didn't bet)
+Seat 3: rao999 (button) folded before Flop (didn't bet)
+Seat 4: LuckyShikari (small blind) folded before Flop
+Seat 5: vadjkeee (big blind) collected ($1)
+Seat 6: nikalas22 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254284342939:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:12:16 WET [2025/01/09 16:12:16 ET]
+Table 'Skuld III' 6-max Seat #4 is the button
+Seat 1: Nazareno1999 ($100 in chips) is sitting out
+Seat 3: rao999 ($100.40 in chips) 
+Seat 4: LuckyShikari ($104 in chips) 
+Seat 5: vadjkeee ($100.50 in chips) 
+vadjkeee: posts small blind $0.50
+Nazareno1999: is sitting out 
+rao999: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: raises $1.25 to $2.25
+vadjkeee: folds 
+rao999: folds 
+Uncalled bet ($1.25) returned to LuckyShikari
+LuckyShikari collected $2.50 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Nazareno1999
+Seat 3: rao999 (big blind) folded before Flop
+Seat 4: LuckyShikari (button) collected ($2.50)
+Seat 5: vadjkeee (small blind) folded before Flop
+
+
+
+PokerStars Hand #254284346388:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 21:12:25 WET [2025/01/09 16:12:25 ET]
+Table 'Skuld III' 6-max Seat #5 is the button
+Seat 1: Nazareno1999 ($100 in chips) is sitting out
+Seat 3: rao999 ($100 in chips) 
+Seat 4: LuckyShikari ($105.50 in chips) 
+Seat 5: vadjkeee ($100 in chips) 
+rao999: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+vadjkeee: folds 
+vadjkeee leaves the table
+rao999: raises $2 to $3
+Nazareno1999 leaves the table
+LuckyShikari: calls $2
+*** FLOP *** [5d Kd Jc]
+rao999: bets $1.88
+LuckyShikari: calls $1.88
+*** TURN *** [5d Kd Jc] [Kh]
+rao999: bets $6.12
+LuckyShikari: folds 
+Uncalled bet ($6.12) returned to rao999
+rao999 collected $9.27 from pot
+rao999: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [5d Kd Jc Kh]
+Seat 1: Nazareno1999
+Seat 3: rao999 (small blind) collected ($9.27)
+Seat 4: LuckyShikari (big blind) folded on the Turn
+Seat 5: vadjkeee (button) folded before Flop (didn't bet)
+
+
+

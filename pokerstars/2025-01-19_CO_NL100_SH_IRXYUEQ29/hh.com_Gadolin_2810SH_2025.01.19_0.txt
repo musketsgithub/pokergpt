@@ -1,0 +1,1205 @@
+﻿PokerStars Hand #254442972876:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:16:11 WET [2025/01/18 23:16:11 ET]
+Table 'Gadolin III' 6-max Seat #4 is the button
+Seat 1: ANCTIL111 ($15.50 in chips) 
+Seat 2: jspr79602 ($40.81 in chips) 
+Seat 3: Münchner der 1. ($26.62 in chips) 
+Seat 4: rostickkin ($180.04 in chips) 
+Seat 5: Sadyhov V.V. ($107.64 in chips) 
+Seat 6: reeqar ($118.53 in chips) 
+Sadyhov V.V.: posts small blind $0.50
+reeqar: posts big blind $1
+*** HOLE CARDS ***
+ANCTIL111: folds 
+jspr79602: calls $1
+Münchner der 1.: calls $1
+rostickkin: raises $4 to $5
+Sadyhov V.V.: folds 
+reeqar: folds 
+jspr79602: calls $4
+Münchner der 1.: folds 
+*** FLOP *** [9c Ac 7d]
+jspr79602: checks 
+rostickkin: bets $4.04
+jspr79602: calls $4.04
+*** TURN *** [9c Ac 7d] [Th]
+jspr79602: checks 
+rostickkin: bets $14.86
+jspr79602: calls $14.86
+*** RIVER *** [9c Ac 7d Th] [8s]
+jspr79602: checks 
+rostickkin: checks 
+*** SHOW DOWN ***
+jspr79602: shows [8d Td] (two pair, Tens and Eights)
+rostickkin: mucks hand 
+jspr79602 collected $47.80 from pot
+*** SUMMARY ***
+Total pot $50.30 | Rake $2.50 
+Board [9c Ac 7d Th 8s]
+Seat 1: ANCTIL111 folded before Flop (didn't bet)
+Seat 2: jspr79602 showed [8d Td] and won ($47.80) with two pair, Tens and Eights
+Seat 3: Münchner der 1. folded before Flop
+Seat 4: rostickkin (button) mucked
+Seat 5: Sadyhov V.V. (small blind) folded before Flop
+Seat 6: reeqar (big blind) folded before Flop
+
+
+
+PokerStars Hand #254442979359:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:17:09 WET [2025/01/18 23:17:09 ET]
+Table 'Gadolin III' 6-max Seat #5 is the button
+Seat 1: ANCTIL111 ($15.50 in chips) 
+Seat 2: jspr79602 ($64.71 in chips) 
+Seat 3: Münchner der 1. ($25.62 in chips) 
+Seat 4: rostickkin ($156.14 in chips) 
+Seat 5: Sadyhov V.V. ($107.14 in chips) 
+Seat 6: reeqar ($117.53 in chips) 
+reeqar: posts small blind $0.50
+ANCTIL111: posts big blind $1
+*** HOLE CARDS ***
+jspr79602: calls $1
+Münchner der 1.: calls $1
+rostickkin: raises $7 to $8
+Sadyhov V.V.: folds 
+reeqar: folds 
+ANCTIL111: calls $7
+jspr79602: calls $7
+Münchner der 1.: folds 
+*** FLOP *** [2d 9c Kh]
+ANCTIL111: checks 
+jspr79602: checks 
+rostickkin: bets $8.23
+ANCTIL111: folds 
+jspr79602: folds 
+Uncalled bet ($8.23) returned to rostickkin
+rostickkin collected $24.22 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $25.50 | Rake $1.28 
+Board [2d 9c Kh]
+Seat 1: ANCTIL111 (big blind) folded on the Flop
+Seat 2: jspr79602 folded on the Flop
+Seat 3: Münchner der 1. folded before Flop
+Seat 4: rostickkin collected ($24.22)
+Seat 5: Sadyhov V.V. (button) folded before Flop (didn't bet)
+Seat 6: reeqar (small blind) folded before Flop
+
+
+
+PokerStars Hand #254442982967:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:17:43 WET [2025/01/18 23:17:43 ET]
+Table 'Gadolin III' 6-max Seat #6 is the button
+Seat 1: ANCTIL111 ($7.50 in chips) 
+Seat 2: jspr79602 ($56.71 in chips) 
+Seat 3: Münchner der 1. ($24.62 in chips) 
+Seat 4: rostickkin ($172.36 in chips) 
+Seat 5: Sadyhov V.V. ($107.14 in chips) 
+Seat 6: reeqar ($117.03 in chips) 
+ANCTIL111: posts small blind $0.50
+jspr79602: posts big blind $1
+*** HOLE CARDS ***
+Münchner der 1.: folds 
+rostickkin: folds 
+Sadyhov V.V.: raises $1.50 to $2.50
+reeqar: folds 
+ANCTIL111: raises $5 to $7.50 and is all-in
+jspr79602: calls $6.50
+Sadyhov V.V.: calls $5
+*** FLOP *** [Qh 6s 7d]
+jspr79602: bets $49.21 and is all-in
+Sadyhov V.V.: folds 
+Uncalled bet ($49.21) returned to jspr79602
+*** TURN *** [Qh 6s 7d] [5s]
+*** RIVER *** [Qh 6s 7d 5s] [Kh]
+*** SHOW DOWN ***
+ANCTIL111: shows [Ad 2c] (high card Ace)
+jspr79602: shows [Qd 9d] (a pair of Queens)
+jspr79602 collected $21.38 from pot
+ANCTIL111 cashed out the hand for $2.48 | Cash Out Fee $0.05
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.12 
+Board [Qh 6s 7d 5s Kh]
+Seat 1: ANCTIL111 (small blind) showed [Ad 2c] and lost with high card Ace (cashed out).
+Seat 2: jspr79602 (big blind) showed [Qd 9d] and won ($21.38) with a pair of Queens
+Seat 3: Münchner der 1. folded before Flop (didn't bet)
+Seat 4: rostickkin folded before Flop (didn't bet)
+Seat 5: Sadyhov V.V. folded on the Flop
+Seat 6: reeqar (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254442988184:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:18:30 WET [2025/01/18 23:18:30 ET]
+Table 'Gadolin III' 6-max Seat #1 is the button
+Seat 1: ANCTIL111 ($2.48 in chips) 
+Seat 2: jspr79602 ($70.59 in chips) 
+Seat 3: Münchner der 1. ($24.62 in chips) 
+Seat 4: rostickkin ($172.36 in chips) 
+Seat 5: Sadyhov V.V. ($100 in chips) 
+Seat 6: reeqar ($117.03 in chips) 
+jspr79602: posts small blind $0.50
+Münchner der 1.: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: folds 
+Sadyhov V.V.: folds 
+reeqar: raises $2 to $3
+ANCTIL111: calls $2.48 and is all-in
+jspr79602: folds 
+Münchner der 1.: calls $2
+*** FLOP *** [2d 7s Jc]
+Münchner der 1.: checks 
+jspr79602 leaves the table
+reeqar: checks 
+*** TURN *** [2d 7s Jc] [Td]
+joaquin612 joins the table at seat #2 
+Münchner der 1.: checks 
+reeqar: checks 
+*** RIVER *** [2d 7s Jc Td] [9s]
+Münchner der 1.: checks 
+reeqar: checks 
+*** SHOW DOWN ***
+Münchner der 1.: shows [5d 6h] (high card Jack)
+reeqar: shows [Kc Ad] (high card Ace)
+reeqar collected $0.99 from side pot
+ANCTIL111: mucks hand 
+reeqar collected $7.54 from main pot
+*** SUMMARY ***
+Total pot $8.98 Main pot $7.54. Side pot $0.99. | Rake $0.45 
+Board [2d 7s Jc Td 9s]
+Seat 1: ANCTIL111 (button) mucked
+Seat 2: jspr79602 (small blind) folded before Flop
+Seat 3: Münchner der 1. (big blind) showed [5d 6h] and lost with high card Jack
+Seat 4: rostickkin folded before Flop (didn't bet)
+Seat 5: Sadyhov V.V. folded before Flop (didn't bet)
+Seat 6: reeqar showed [Kc Ad] and won ($8.53) with high card Ace
+
+
+
+PokerStars Hand #254442993858:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:19:22 WET [2025/01/18 23:19:22 ET]
+Table 'Gadolin III' 6-max Seat #3 is the button
+Seat 1: ANCTIL111 ($0 in chips) is sitting out
+Seat 2: joaquin612 ($10 in chips) is sitting out
+Seat 3: Münchner der 1. ($21.62 in chips) 
+Seat 4: rostickkin ($172.36 in chips) 
+Seat 5: Sadyhov V.V. ($100 in chips) 
+Seat 6: reeqar ($122.56 in chips) 
+rostickkin: posts small blind $0.50
+Sadyhov V.V.: posts big blind $1
+joaquin612: sits out 
+*** HOLE CARDS ***
+ANCTIL111 leaves the table
+reeqar: folds 
+Münchner der 1.: folds 
+rostickkin: folds 
+Uncalled bet ($0.50) returned to Sadyhov V.V.
+reeqar leaves the table
+Sadyhov V.V. collected $1 from pot
+Sadyhov V.V.: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: ANCTIL111
+Seat 2: joaquin612
+Seat 3: Münchner der 1. (button) folded before Flop (didn't bet)
+Seat 4: rostickkin (small blind) folded before Flop
+Seat 5: Sadyhov V.V. (big blind) collected ($1)
+Seat 6: reeqar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254442995512:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:19:37 WET [2025/01/18 23:19:37 ET]
+Table 'Gadolin III' 6-max Seat #4 is the button
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Münchner der 1. ($21.62 in chips) 
+Seat 4: rostickkin ($171.86 in chips) 
+Seat 5: Sadyhov V.V. ($100.50 in chips) 
+Sadyhov V.V.: posts small blind $0.50
+joaquin612: posts big blind $1
+*** HOLE CARDS ***
+Münchner der 1.: folds 
+rostickkin: raises $1.50 to $2.50
+Sadyhov V.V.: raises $7.50 to $10
+joaquin612: folds 
+rostickkin: folds 
+Uncalled bet ($7.50) returned to Sadyhov V.V.
+Sadyhov V.V. collected $6 from pot
+Sadyhov V.V.: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: joaquin612 (big blind) folded before Flop
+Seat 3: Münchner der 1. folded before Flop (didn't bet)
+Seat 4: rostickkin (button) folded before Flop
+Seat 5: Sadyhov V.V. (small blind) collected ($6)
+
+
+
+PokerStars Hand #254442998520:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:20:05 WET [2025/01/18 23:20:05 ET]
+Table 'Gadolin III' 6-max Seat #5 is the button
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Münchner der 1. ($21.62 in chips) 
+Seat 4: rostickkin ($169.36 in chips) 
+Seat 5: Sadyhov V.V. ($104 in chips) 
+joaquin612: posts small blind $0.50
+Münchner der 1.: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: folds 
+Sadyhov V.V.: folds 
+joaquin612: folds 
+Uncalled bet ($0.50) returned to Münchner der 1.
+Felipe$Andre joins the table at seat #6 
+Münchner der 1. collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: joaquin612 (small blind) folded before Flop
+Seat 3: Münchner der 1. (big blind) collected ($1)
+Seat 4: rostickkin folded before Flop (didn't bet)
+Seat 5: Sadyhov V.V. (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254442999907:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:20:18 WET [2025/01/18 23:20:18 ET]
+Table 'Gadolin III' 6-max Seat #2 is the button
+Seat 6: Felipe$Andre ($100 in chips) is sitting out
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Münchner der 1. ($22.12 in chips) 
+Seat 4: rostickkin ($169.36 in chips) 
+Seat 5: Sadyhov V.V. ($104 in chips) 
+Münchner der 1.: posts small blind $0.50
+rostickkin: posts big blind $1
+Felipe$Andre: sits out 
+*** HOLE CARDS ***
+Sadyhov V.V.: folds 
+joaquin612: folds 
+Münchner der 1.: calls $0.50
+rostickkin: checks 
+*** FLOP *** [3s 5c Kd]
+Münchner der 1.: bets $1.90
+rostickkin: folds 
+Uncalled bet ($1.90) returned to Münchner der 1.
+Münchner der 1. collected $1.88 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.12 
+Board [3s 5c Kd]
+Seat 6: Felipe$Andre
+Seat 2: joaquin612 (button) folded before Flop (didn't bet)
+Seat 3: Münchner der 1. (small blind) collected ($1.88)
+Seat 4: rostickkin (big blind) folded on the Flop
+Seat 5: Sadyhov V.V. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254443002931:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:20:46 WET [2025/01/18 23:20:46 ET]
+Table 'Gadolin III' 6-max Seat #3 is the button
+Seat 6: Felipe$Andre ($100 in chips) is sitting out
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Münchner der 1. ($23 in chips) 
+Seat 4: rostickkin ($168.36 in chips) 
+Seat 5: Sadyhov V.V. ($104 in chips) 
+rostickkin: posts small blind $0.50
+Sadyhov V.V.: posts big blind $1
+Felipe$Andre: sits out 
+*** HOLE CARDS ***
+joaquin612: folds 
+Münchner der 1.: folds 
+rostickkin: raises $2 to $3
+Sadyhov V.V.: folds 
+Uncalled bet ($2) returned to rostickkin
+rostickkin collected $2 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 6: Felipe$Andre
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Münchner der 1. (button) folded before Flop (didn't bet)
+Seat 4: rostickkin (small blind) collected ($2)
+Seat 5: Sadyhov V.V. (big blind) folded before Flop
+
+
+
+PokerStars Hand #254443004062:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:20:56 WET [2025/01/18 23:20:56 ET]
+Table 'Gadolin III' 6-max Seat #4 is the button
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Münchner der 1. ($23 in chips) 
+Seat 4: rostickkin ($169.36 in chips) 
+Seat 5: Sadyhov V.V. ($103 in chips) 
+Seat 6: Felipe$Andre ($100 in chips) 
+Sadyhov V.V.: posts small blind $0.50
+Felipe$Andre: posts big blind $1
+*** HOLE CARDS ***
+joaquin612: folds 
+Münchner der 1.: folds 
+rostickkin: folds 
+Sadyhov V.V.: folds 
+Uncalled bet ($0.50) returned to Felipe$Andre
+Felipe$Andre collected $1 from pot
+Felipe$Andre: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Münchner der 1. folded before Flop (didn't bet)
+Seat 4: rostickkin (button) folded before Flop (didn't bet)
+Seat 5: Sadyhov V.V. (small blind) folded before Flop
+Seat 6: Felipe$Andre (big blind) collected ($1)
+
+
+
+PokerStars Hand #254443005751:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:21:11 WET [2025/01/18 23:21:11 ET]
+Table 'Gadolin III' 6-max Seat #5 is the button
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Münchner der 1. ($23 in chips) 
+Seat 4: rostickkin ($169.36 in chips) 
+Seat 5: Sadyhov V.V. ($102.50 in chips) 
+Seat 6: Felipe$Andre ($100.50 in chips) 
+Felipe$Andre: posts small blind $0.50
+joaquin612: posts big blind $1
+*** HOLE CARDS ***
+Münchner der 1.: calls $1
+rostickkin: folds 
+Sadyhov V.V.: folds 
+Felipe$Andre: folds 
+joaquin612: checks 
+*** FLOP *** [Qd 6s 4c]
+joaquin612: checks 
+Münchner der 1.: bets $2.38
+joaquin612: folds 
+Uncalled bet ($2.38) returned to Münchner der 1.
+Münchner der 1. collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [Qd 6s 4c]
+Seat 2: joaquin612 (big blind) folded on the Flop
+Seat 3: Münchner der 1. collected ($2.35)
+Seat 4: rostickkin folded before Flop (didn't bet)
+Seat 5: Sadyhov V.V. (button) folded before Flop (didn't bet)
+Seat 6: Felipe$Andre (small blind) folded before Flop
+
+
+
+PokerStars Hand #254443008394:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:21:36 WET [2025/01/18 23:21:36 ET]
+Table 'Gadolin III' 6-max Seat #6 is the button
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Münchner der 1. ($24.35 in chips) 
+Seat 4: rostickkin ($169.36 in chips) 
+Seat 5: Sadyhov V.V. ($102.50 in chips) 
+Seat 6: Felipe$Andre ($100 in chips) 
+joaquin612: posts small blind $0.50
+Münchner der 1.: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: folds 
+Sadyhov V.V.: folds 
+Felipe$Andre: folds 
+joaquin612: raises $2 to $3
+Münchner der 1.: calls $2
+*** FLOP *** [7c 5c 6h]
+joaquin612: checks 
+b2k-Snick joins the table at seat #1 
+Münchner der 1.: bets $3
+joaquin612: folds 
+Uncalled bet ($3) returned to Münchner der 1.
+Münchner der 1. collected $5.62 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.38 
+Board [7c 5c 6h]
+Seat 2: joaquin612 (small blind) folded on the Flop
+Seat 3: Münchner der 1. (big blind) collected ($5.62)
+Seat 4: rostickkin folded before Flop (didn't bet)
+Seat 5: Sadyhov V.V. folded before Flop (didn't bet)
+Seat 6: Felipe$Andre (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254443011808:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:22:08 WET [2025/01/18 23:22:08 ET]
+Table 'Gadolin III' 6-max Seat #2 is the button
+Seat 1: b2k-Snick ($100 in chips) is sitting out
+Seat 2: joaquin612 ($100 in chips) 
+Seat 3: Münchner der 1. ($26.97 in chips) 
+Seat 4: rostickkin ($169.36 in chips) 
+Seat 5: Sadyhov V.V. ($102.50 in chips) 
+Seat 6: Felipe$Andre ($100 in chips) 
+Münchner der 1.: posts small blind $0.50
+rostickkin: posts big blind $1
+b2k-Snick: sits out 
+*** HOLE CARDS ***
+Sadyhov V.V.: folds 
+Felipe$Andre: folds 
+joaquin612: raises $1.50 to $2.50
+Münchner der 1.: calls $2
+rostickkin: folds 
+*** FLOP *** [4s Jh 2d]
+Münchner der 1.: checks 
+joaquin612: bets $3.14
+Münchner der 1.: folds 
+Uncalled bet ($3.14) returned to joaquin612
+joaquin612 collected $5.70 from pot
+joaquin612: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4s Jh 2d]
+Seat 1: b2k-Snick
+Seat 2: joaquin612 (button) collected ($5.70)
+Seat 3: Münchner der 1. (small blind) folded on the Flop
+Seat 4: rostickkin (big blind) folded before Flop
+Seat 5: Sadyhov V.V. folded before Flop (didn't bet)
+Seat 6: Felipe$Andre folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254443014301:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:22:31 WET [2025/01/18 23:22:31 ET]
+Table 'Gadolin III' 6-max Seat #3 is the button
+Seat 1: b2k-Snick ($100 in chips) is sitting out
+Seat 2: joaquin612 ($103.20 in chips) 
+Seat 3: Münchner der 1. ($24.47 in chips) 
+Seat 4: rostickkin ($168.36 in chips) 
+Seat 5: Sadyhov V.V. ($102.50 in chips) 
+Seat 6: Felipe$Andre ($100 in chips) 
+rostickkin: posts small blind $0.50
+Sadyhov V.V.: posts big blind $1
+b2k-Snick: sits out 
+*** HOLE CARDS ***
+Felipe$Andre: raises $1.50 to $2.50
+joaquin612: folds 
+Münchner der 1.: folds 
+rostickkin: folds 
+Sadyhov V.V.: folds 
+Uncalled bet ($1.50) returned to Felipe$Andre
+Felipe$Andre collected $2.50 from pot
+Felipe$Andre: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: b2k-Snick
+Seat 2: joaquin612 folded before Flop (didn't bet)
+Seat 3: Münchner der 1. (button) folded before Flop (didn't bet)
+Seat 4: rostickkin (small blind) folded before Flop
+Seat 5: Sadyhov V.V. (big blind) folded before Flop
+Seat 6: Felipe$Andre collected ($2.50)
+
+
+
+PokerStars Hand #254443015771:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:22:44 WET [2025/01/18 23:22:44 ET]
+Table 'Gadolin III' 6-max Seat #4 is the button
+Seat 1: b2k-Snick ($100 in chips) is sitting out
+Seat 2: joaquin612 ($103.20 in chips) 
+Seat 3: Münchner der 1. ($24.47 in chips) 
+Seat 4: rostickkin ($167.86 in chips) 
+Seat 5: Sadyhov V.V. ($101.50 in chips) 
+Seat 6: Felipe$Andre ($101.50 in chips) 
+Sadyhov V.V.: posts small blind $0.50
+Felipe$Andre: posts big blind $1
+b2k-Snick: sits out 
+*** HOLE CARDS ***
+joaquin612: raises $1.50 to $2.50
+Münchner der 1.: calls $2.50
+rostickkin: folds 
+Sadyhov V.V.: folds 
+Felipe$Andre: folds 
+*** FLOP *** [2h 8d 3s]
+joaquin612: bets $4.64
+Münchner der 1.: raises $6.36 to $11
+joaquin612: raises $22 to $33
+Münchner der 1.: calls $10.97 and is all-in
+Uncalled bet ($11.03) returned to joaquin612
+joaquin612 has timed out
+*** TURN *** [2h 8d 3s] [2d]
+*** RIVER *** [2h 8d 3s 2d] [Kh]
+*** SHOW DOWN ***
+joaquin612: shows [Jh Js] (two pair, Jacks and Deuces)
+Münchner der 1.: shows [6s 6c] (two pair, Sixes and Deuces)
+joaquin612 collected $47.94 from pot
+*** SUMMARY ***
+Total pot $50.44 | Rake $2.50 
+Board [2h 8d 3s 2d Kh]
+Seat 1: b2k-Snick
+Seat 2: joaquin612 showed [Jh Js] and won ($47.94) with two pair, Jacks and Deuces
+Seat 3: Münchner der 1. showed [6s 6c] and lost with two pair, Sixes and Deuces
+Seat 4: rostickkin (button) folded before Flop (didn't bet)
+Seat 5: Sadyhov V.V. (small blind) folded before Flop
+Seat 6: Felipe$Andre (big blind) folded before Flop
+
+
+
+PokerStars Hand #254443020204:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:23:25 WET [2025/01/18 23:23:25 ET]
+Table 'Gadolin III' 6-max Seat #5 is the button
+Seat 3: Münchner der 1. ($0 in chips) is sitting out
+Seat 1: b2k-Snick ($100 in chips) 
+Seat 2: joaquin612 ($126.67 in chips) 
+Seat 4: rostickkin ($167.86 in chips) 
+Seat 5: Sadyhov V.V. ($101 in chips) 
+Seat 6: Felipe$Andre ($100.50 in chips) 
+Felipe$Andre: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+Münchner der 1. leaves the table
+joaquin612: raises $1.50 to $2.50
+rostickkin: folds 
+Sadyhov V.V.: folds 
+Felipe$Andre: folds 
+b2k-Snick: calls $1.50
+*** FLOP *** [8s 6d 9h]
+b2k-Snick: checks 
+joaquin612: checks 
+*** TURN *** [8s 6d 9h] [9c]
+b2k-Snick: bets $7.50
+joaquin612: folds 
+Uncalled bet ($7.50) returned to b2k-Snick
+b2k-Snick collected $5.22 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [8s 6d 9h 9c]
+Seat 3: Münchner der 1.
+Seat 1: b2k-Snick (big blind) collected ($5.22)
+Seat 2: joaquin612 folded on the Turn
+Seat 4: rostickkin folded before Flop (didn't bet)
+Seat 5: Sadyhov V.V. (button) folded before Flop (didn't bet)
+Seat 6: Felipe$Andre (small blind) folded before Flop
+
+
+
+PokerStars Hand #254443026093:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:24:19 WET [2025/01/18 23:24:19 ET]
+Table 'Gadolin III' 6-max Seat #1 is the button
+Seat 2: joaquin612 ($124.17 in chips) is sitting out
+Seat 4: rostickkin ($167.86 in chips) is sitting out
+Seat 5: Sadyhov V.V. ($101 in chips) is sitting out
+Seat 1: b2k-Snick ($102.72 in chips) 
+Seat 6: Felipe$Andre ($100 in chips) 
+b2k-Snick: posts small blind $0.50
+joaquin612: is sitting out 
+rostickkin: is sitting out 
+Sadyhov V.V.: is sitting out 
+Felipe$Andre: posts big blind $1
+*** HOLE CARDS ***
+rostickkin leaves the table
+b2k-Snick: raises $1.50 to $2.50
+joaquin612 leaves the table
+Felipe$Andre: folds 
+Uncalled bet ($1.50) returned to b2k-Snick
+b2k-Snick collected $2 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: joaquin612
+Seat 4: rostickkin
+Seat 5: Sadyhov V.V.
+Seat 1: b2k-Snick (button) (small blind) collected ($2)
+Seat 6: Felipe$Andre (big blind) folded before Flop
+
+
+
+PokerStars Hand #254442885377:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:03:28 WET [2025/01/18 23:03:28 ET]
+Table 'Gadolin III' 6-max Seat #6 is the button
+Seat 3: Münchner der 1. ($19.24 in chips) 
+Seat 4: rostickkin ($140.99 in chips) 
+Seat 6: B1GBankroll ($193.82 in chips) 
+Münchner der 1.: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+Münchner der 1.: raises $2 to $3
+rostickkin: folds 
+Uncalled bet ($2) returned to Münchner der 1.
+Münchner der 1. collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: Münchner der 1. (small blind) collected ($2)
+Seat 4: rostickkin (big blind) folded before Flop
+Seat 6: B1GBankroll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254442887291:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:03:45 WET [2025/01/18 23:03:45 ET]
+Table 'Gadolin III' 6-max Seat #3 is the button
+Seat 3: Münchner der 1. ($20.24 in chips) 
+Seat 4: rostickkin ($139.99 in chips) 
+Seat 6: B1GBankroll ($193.82 in chips) 
+rostickkin: posts small blind $0.50
+B1GBankroll: posts big blind $1
+*** HOLE CARDS ***
+Münchner der 1.: folds 
+rostickkin: raises $2 to $3
+B1GBankroll: folds 
+Uncalled bet ($2) returned to rostickkin
+rostickkin collected $2 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: Münchner der 1. (button) folded before Flop (didn't bet)
+Seat 4: rostickkin (small blind) collected ($2)
+Seat 6: B1GBankroll (big blind) folded before Flop
+
+
+
+PokerStars Hand #254442888951:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:03:59 WET [2025/01/18 23:03:59 ET]
+Table 'Gadolin III' 6-max Seat #4 is the button
+Seat 3: Münchner der 1. ($20.24 in chips) 
+Seat 4: rostickkin ($140.99 in chips) 
+Seat 6: B1GBankroll ($192.82 in chips) 
+B1GBankroll: posts small blind $0.50
+Münchner der 1.: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: folds 
+B1GBankroll: raises $24.50 to $25.50
+Münchner der 1.: folds 
+Uncalled bet ($24.50) returned to B1GBankroll
+B1GBankroll collected $2 from pot
+B1GBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: Münchner der 1. (big blind) folded before Flop
+Seat 4: rostickkin (button) folded before Flop (didn't bet)
+Seat 6: B1GBankroll (small blind) collected ($2)
+
+
+
+PokerStars Hand #254442890731:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:04:13 WET [2025/01/18 23:04:13 ET]
+Table 'Gadolin III' 6-max Seat #6 is the button
+Seat 3: Münchner der 1. ($19.24 in chips) 
+Seat 4: rostickkin ($140.99 in chips) 
+Seat 6: B1GBankroll ($193.82 in chips) 
+Münchner der 1.: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+Münchner der 1.: calls $0.50
+rostickkin: checks 
+*** FLOP *** [Ad Ts 7d]
+Münchner der 1.: checks 
+rostickkin: checks 
+*** TURN *** [Ad Ts 7d] [4c]
+Münchner der 1.: bets $1
+rostickkin: folds 
+Uncalled bet ($1) returned to Münchner der 1.
+Münchner der 1. collected $1.88 from pot
+Sadyhov V.V. joins the table at seat #5 
+*** SUMMARY ***
+Total pot $2 | Rake $0.12 
+Board [Ad Ts 7d 4c]
+Seat 3: Münchner der 1. (small blind) collected ($1.88)
+Seat 4: rostickkin (big blind) folded on the Turn
+Seat 6: B1GBankroll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254442893025:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:04:33 WET [2025/01/18 23:04:33 ET]
+Table 'Gadolin III' 6-max Seat #3 is the button
+Seat 3: Münchner der 1. ($20.12 in chips) 
+Seat 4: rostickkin ($139.99 in chips) 
+Seat 5: Sadyhov V.V. ($102.50 in chips) 
+Seat 6: B1GBankroll ($193.82 in chips) 
+rostickkin: posts small blind $0.50
+Sadyhov V.V.: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll: folds 
+Münchner der 1.: calls $1
+rostickkin: folds 
+Sadyhov V.V.: checks 
+*** FLOP *** [Ad Kc 9d]
+Sadyhov V.V.: checks 
+Münchner der 1.: bets $2.38
+Sadyhov V.V.: folds 
+Uncalled bet ($2.38) returned to Münchner der 1.
+Münchner der 1. collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [Ad Kc 9d]
+Seat 3: Münchner der 1. (button) collected ($2.35)
+Seat 4: rostickkin (small blind) folded before Flop
+Seat 5: Sadyhov V.V. (big blind) folded on the Flop
+Seat 6: B1GBankroll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254442895228:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:04:51 WET [2025/01/18 23:04:51 ET]
+Table 'Gadolin III' 6-max Seat #4 is the button
+Seat 6: B1GBankroll ($193.82 in chips) is sitting out
+Seat 3: Münchner der 1. ($21.47 in chips) 
+Seat 4: rostickkin ($139.49 in chips) 
+Seat 5: Sadyhov V.V. ($101.50 in chips) 
+Sadyhov V.V.: posts small blind $0.50
+B1GBankroll: is sitting out 
+Münchner der 1.: posts big blind $1
+*** HOLE CARDS ***
+B1GBankroll leaves the table
+rostickkin: raises $1.50 to $2.50
+Sadyhov V.V.: raises $7.50 to $10
+Münchner der 1.: folds 
+rostickkin: folds 
+Uncalled bet ($7.50) returned to Sadyhov V.V.
+Sadyhov V.V. collected $6 from pot
+Sadyhov V.V.: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 6: B1GBankroll
+Seat 3: Münchner der 1. (big blind) folded before Flop
+Seat 4: rostickkin (button) folded before Flop
+Seat 5: Sadyhov V.V. (small blind) collected ($6)
+
+
+
+PokerStars Hand #254442897278:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:05:08 WET [2025/01/18 23:05:08 ET]
+Table 'Gadolin III' 6-max Seat #5 is the button
+Seat 3: Münchner der 1. ($20.47 in chips) 
+Seat 4: rostickkin ($136.99 in chips) 
+Seat 5: Sadyhov V.V. ($105 in chips) 
+Münchner der 1.: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+Sadyhov V.V.: folds 
+Münchner der 1.: calls $0.50
+rostickkin: checks 
+*** FLOP *** [6s Ad Th]
+Münchner der 1.: bets $1
+rostickkin: calls $1
+*** TURN *** [6s Ad Th] [4c]
+Münchner der 1.: bets $2
+rostickkin: folds 
+Uncalled bet ($2) returned to Münchner der 1.
+Münchner der 1. collected $3.75 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.25 
+Board [6s Ad Th 4c]
+Seat 3: Münchner der 1. (small blind) collected ($3.75)
+Seat 4: rostickkin (big blind) folded on the Turn
+Seat 5: Sadyhov V.V. (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254442900002:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:05:31 WET [2025/01/18 23:05:31 ET]
+Table 'Gadolin III' 6-max Seat #3 is the button
+Seat 3: Münchner der 1. ($22.22 in chips) 
+Seat 4: rostickkin ($134.99 in chips) 
+Seat 5: Sadyhov V.V. ($105 in chips) 
+rostickkin: posts small blind $0.50
+Sadyhov V.V.: posts big blind $1
+*** HOLE CARDS ***
+Münchner der 1.: raises $2 to $3
+rostickkin: folds 
+Sadyhov V.V.: calls $2
+*** FLOP *** [9d 4s Jc]
+Sadyhov V.V.: checks 
+Münchner der 1.: checks 
+*** TURN *** [9d 4s Jc] [3c]
+Sadyhov V.V.: checks 
+Münchner der 1.: checks 
+*** RIVER *** [9d 4s Jc 3c] [6d]
+Sadyhov V.V.: checks 
+Münchner der 1.: checks 
+*** SHOW DOWN ***
+Sadyhov V.V.: shows [Qc Kh] (high card King)
+Münchner der 1.: shows [As Th] (high card Ace)
+Münchner der 1. collected $6.10 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.40 
+Board [9d 4s Jc 3c 6d]
+Seat 3: Münchner der 1. (button) showed [As Th] and won ($6.10) with high card Ace
+Seat 4: rostickkin (small blind) folded before Flop
+Seat 5: Sadyhov V.V. (big blind) showed [Qc Kh] and lost with high card King
+
+
+
+PokerStars Hand #254442905113:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:06:14 WET [2025/01/18 23:06:14 ET]
+Table 'Gadolin III' 6-max Seat #4 is the button
+Seat 3: Münchner der 1. ($25.32 in chips) 
+Seat 4: rostickkin ($134.49 in chips) 
+Seat 5: Sadyhov V.V. ($102 in chips) 
+Sadyhov V.V.: posts small blind $0.50
+Münchner der 1.: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: folds 
+Sadyhov V.V.: folds 
+Uncalled bet ($0.50) returned to Münchner der 1.
+Münchner der 1. collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Münchner der 1. (big blind) collected ($1)
+Seat 4: rostickkin (button) folded before Flop (didn't bet)
+Seat 5: Sadyhov V.V. (small blind) folded before Flop
+
+
+
+PokerStars Hand #254442905923:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:06:22 WET [2025/01/18 23:06:22 ET]
+Table 'Gadolin III' 6-max Seat #5 is the button
+Seat 3: Münchner der 1. ($25.82 in chips) 
+Seat 4: rostickkin ($134.49 in chips) 
+Seat 5: Sadyhov V.V. ($101.50 in chips) 
+Münchner der 1.: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+Sadyhov V.V.: raises $1.50 to $2.50
+Münchner der 1.: calls $2
+rostickkin: folds 
+*** FLOP *** [Qh 6d 2d]
+Münchner der 1.: bets $1.85
+Sadyhov V.V.: folds 
+Uncalled bet ($1.85) returned to Münchner der 1.
+Münchner der 1. collected $5.62 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.38 
+Board [Qh 6d 2d]
+Seat 3: Münchner der 1. (small blind) collected ($5.62)
+Seat 4: rostickkin (big blind) folded before Flop
+Seat 5: Sadyhov V.V. (button) folded on the Flop
+
+
+
+PokerStars Hand #254442909621:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:06:53 WET [2025/01/18 23:06:53 ET]
+Table 'Gadolin III' 6-max Seat #3 is the button
+Seat 3: Münchner der 1. ($28.94 in chips) 
+Seat 4: rostickkin ($133.49 in chips) 
+Seat 5: Sadyhov V.V. ($100 in chips) 
+rostickkin: posts small blind $0.50
+Sadyhov V.V.: posts big blind $1
+*** HOLE CARDS ***
+Münchner der 1.: calls $1
+rostickkin: folds 
+Sadyhov V.V.: checks 
+*** FLOP *** [2c 7c Td]
+Sadyhov V.V.: checks 
+Münchner der 1.: checks 
+*** TURN *** [2c 7c Td] [9s]
+Sadyhov V.V.: checks 
+Münchner der 1.: bets $1
+Sadyhov V.V.: calls $1
+*** RIVER *** [2c 7c Td 9s] [8s]
+Sadyhov V.V.: checks 
+Münchner der 1.: bets $4.28
+Sadyhov V.V.: calls $4.28
+*** SHOW DOWN ***
+Münchner der 1.: shows [8h Jh] (a straight, Seven to Jack)
+Sadyhov V.V.: mucks hand 
+Münchner der 1. collected $12.25 from pot
+*** SUMMARY ***
+Total pot $13.06 | Rake $0.81 
+Board [2c 7c Td 9s 8s]
+Seat 3: Münchner der 1. (button) showed [8h Jh] and won ($12.25) with a straight, Seven to Jack
+Seat 4: rostickkin (small blind) folded before Flop
+Seat 5: Sadyhov V.V. (big blind) mucked
+
+
+
+PokerStars Hand #254442913442:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:07:25 WET [2025/01/18 23:07:25 ET]
+Table 'Gadolin III' 6-max Seat #4 is the button
+Seat 3: Münchner der 1. ($34.91 in chips) 
+Seat 4: rostickkin ($132.99 in chips) 
+Seat 5: Sadyhov V.V. ($100 in chips) 
+Sadyhov V.V.: posts small blind $0.50
+Münchner der 1.: posts big blind $1
+*** HOLE CARDS ***
+rostickkin: folds 
+Sadyhov V.V.: calls $0.50
+Münchner der 1.: checks 
+*** FLOP *** [2d 5c Tc]
+Sadyhov V.V.: checks 
+Münchner der 1.: bets $1.90
+Sadyhov V.V.: folds 
+Uncalled bet ($1.90) returned to Münchner der 1.
+Münchner der 1. collected $1.88 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.12 
+Board [2d 5c Tc]
+Seat 3: Münchner der 1. (big blind) collected ($1.88)
+Seat 4: rostickkin (button) folded before Flop (didn't bet)
+Seat 5: Sadyhov V.V. (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254442915995:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:07:47 WET [2025/01/18 23:07:47 ET]
+Table 'Gadolin III' 6-max Seat #5 is the button
+Seat 3: Münchner der 1. ($35.79 in chips) 
+Seat 4: rostickkin ($132.99 in chips) 
+Seat 5: Sadyhov V.V. ($100 in chips) 
+Münchner der 1.: posts small blind $0.50
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+Sadyhov V.V.: raises $1.50 to $2.50
+Münchner der 1.: calls $2
+rostickkin: folds 
+*** FLOP *** [2s 5d Js]
+Münchner der 1.: checks 
+Sadyhov V.V.: checks 
+*** TURN *** [2s 5d Js] [Kd]
+Münchner der 1.: bets $1
+Sadyhov V.V.: raises $2.54 to $3.54
+jspr79602 joins the table at seat #2 
+Münchner der 1.: calls $2.54
+*** RIVER *** [2s 5d Js Kd] [Qc]
+Münchner der 1.: checks 
+reeqar joins the table at seat #6 
+Sadyhov V.V.: bets $9.57
+Münchner der 1.: folds 
+Uncalled bet ($9.57) returned to Sadyhov V.V.
+Sadyhov V.V. collected $12.43 from pot
+Sadyhov V.V.: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.08 | Rake $0.65 
+Board [2s 5d Js Kd Qc]
+Seat 3: Münchner der 1. (small blind) folded on the River
+Seat 4: rostickkin (big blind) folded before Flop
+Seat 5: Sadyhov V.V. (button) collected ($12.43)
+
+
+
+PokerStars Hand #254442919403:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:08:16 WET [2025/01/18 23:08:16 ET]
+Table 'Gadolin III' 6-max Seat #3 is the button
+Seat 6: reeqar ($120.33 in chips) is sitting out
+Seat 2: jspr79602 ($47 in chips) 
+Seat 3: Münchner der 1. ($29.75 in chips) 
+Seat 4: rostickkin ($131.99 in chips) 
+Seat 5: Sadyhov V.V. ($106.39 in chips) 
+rostickkin: posts small blind $0.50
+Sadyhov V.V.: posts big blind $1
+reeqar: sits out 
+jspr79602: posts big blind $1
+*** HOLE CARDS ***
+jspr79602: checks 
+Münchner der 1.: folds 
+rostickkin: folds 
+Sadyhov V.V.: checks 
+*** FLOP *** [4d 6s 7d]
+Sadyhov V.V.: checks 
+jspr79602: checks 
+*** TURN *** [4d 6s 7d] [9h]
+Sadyhov V.V.: bets $1.31
+jspr79602: calls $1.31
+*** RIVER *** [4d 6s 7d 9h] [Ac]
+ANCTIL111 joins the table at seat #1 
+Sadyhov V.V.: checks 
+jspr79602: bets $4.86
+Sadyhov V.V.: folds 
+Uncalled bet ($4.86) returned to jspr79602
+jspr79602 collected $4.86 from pot
+jspr79602: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.12 | Rake $0.26 
+Board [4d 6s 7d 9h Ac]
+Seat 6: reeqar
+Seat 2: jspr79602 collected ($4.86)
+Seat 3: Münchner der 1. (button) folded before Flop (didn't bet)
+Seat 4: rostickkin (small blind) folded before Flop
+Seat 5: Sadyhov V.V. (big blind) folded on the River
+
+
+
+PokerStars Hand #254442924852:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:09:04 WET [2025/01/18 23:09:04 ET]
+Table 'Gadolin III' 6-max Seat #4 is the button
+Seat 1: ANCTIL111 ($35 in chips) 
+Seat 2: jspr79602 ($49.55 in chips) 
+Seat 3: Münchner der 1. ($29.75 in chips) 
+Seat 4: rostickkin ($131.49 in chips) 
+Seat 5: Sadyhov V.V. ($104.08 in chips) 
+Seat 6: reeqar ($120.33 in chips) 
+Sadyhov V.V.: posts small blind $0.50
+reeqar: posts big blind $1
+ANCTIL111: posts big blind $1
+*** HOLE CARDS ***
+ANCTIL111: checks 
+jspr79602: folds 
+Münchner der 1.: calls $1
+rostickkin: raises $4 to $5
+Sadyhov V.V.: folds 
+reeqar: folds 
+ANCTIL111: calls $4
+Münchner der 1.: folds 
+*** FLOP *** [Tc 8c Ac]
+ANCTIL111: checks 
+rostickkin: checks 
+*** TURN *** [Tc 8c Ac] [Th]
+ANCTIL111: bets $5
+rostickkin: raises $7.83 to $12.83
+ANCTIL111: raises $17.17 to $30 and is all-in
+rostickkin: calls $17.17
+*** RIVER *** [Tc 8c Ac Th] [Jh]
+*** SHOW DOWN ***
+ANCTIL111: shows [2c Qc] (a flush, Ace high)
+rostickkin: shows [Ts Js] (a full house, Tens full of Jacks)
+rostickkin collected $70 from pot
+*** SUMMARY ***
+Total pot $72.50 | Rake $2.50 
+Board [Tc 8c Ac Th Jh]
+Seat 1: ANCTIL111 showed [2c Qc] and lost with a flush, Ace high
+Seat 2: jspr79602 folded before Flop (didn't bet)
+Seat 3: Münchner der 1. folded before Flop
+Seat 4: rostickkin (button) showed [Ts Js] and won ($70) with a full house, Tens full of Jacks
+Seat 5: Sadyhov V.V. (small blind) folded before Flop
+Seat 6: reeqar (big blind) folded before Flop
+
+
+
+PokerStars Hand #254442934393:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:10:27 WET [2025/01/18 23:10:27 ET]
+Table 'Gadolin III' 6-max Seat #5 is the button
+Seat 1: ANCTIL111 ($0 in chips) is sitting out
+Seat 2: jspr79602 ($49.55 in chips) 
+Seat 3: Münchner der 1. ($28.75 in chips) 
+Seat 4: rostickkin ($166.49 in chips) 
+Seat 5: Sadyhov V.V. ($103.58 in chips) 
+Seat 6: reeqar ($119.33 in chips) 
+reeqar: posts small blind $0.50
+jspr79602: posts big blind $1
+*** HOLE CARDS ***
+Münchner der 1.: folds 
+rostickkin has timed out
+rostickkin: folds 
+Sadyhov V.V.: raises $1.50 to $2.50
+reeqar: folds 
+jspr79602: calls $1.50
+*** FLOP *** [Qd Ah 6d]
+jspr79602: checks 
+Sadyhov V.V.: bets $2.87
+jspr79602: folds 
+Uncalled bet ($2.87) returned to Sadyhov V.V.
+Sadyhov V.V. collected $5.22 from pot
+Sadyhov V.V.: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Qd Ah 6d]
+Seat 1: ANCTIL111
+Seat 2: jspr79602 (big blind) folded on the Flop
+Seat 3: Münchner der 1. folded before Flop (didn't bet)
+Seat 4: rostickkin folded before Flop (didn't bet)
+Seat 5: Sadyhov V.V. (button) collected ($5.22)
+Seat 6: reeqar (small blind) folded before Flop
+
+
+
+PokerStars Hand #254442940955:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:11:24 WET [2025/01/18 23:11:24 ET]
+Table 'Gadolin III' 6-max Seat #6 is the button
+Seat 1: ANCTIL111 ($26 in chips) is sitting out
+Seat 3: Münchner der 1. ($28.75 in chips) is sitting out
+Seat 2: jspr79602 ($47.05 in chips) 
+Seat 4: rostickkin ($166.49 in chips) 
+Seat 5: Sadyhov V.V. ($106.30 in chips) 
+Seat 6: reeqar ($118.83 in chips) 
+jspr79602: posts small blind $0.50
+Münchner der 1. has timed out
+Münchner der 1.: is sitting out 
+rostickkin: posts big blind $1
+*** HOLE CARDS ***
+Sadyhov V.V.: raises $1.50 to $2.50
+reeqar: folds 
+jspr79602: calls $2
+rostickkin: raises $10 to $12.50
+Sadyhov V.V.: folds 
+jspr79602: folds 
+Uncalled bet ($10) returned to rostickkin
+rostickkin collected $7.50 from pot
+rostickkin: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: ANCTIL111
+Seat 3: Münchner der 1.
+Seat 2: jspr79602 (small blind) folded before Flop
+Seat 4: rostickkin (big blind) collected ($7.50)
+Seat 5: Sadyhov V.V. folded before Flop
+Seat 6: reeqar (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254442944693:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:11:57 WET [2025/01/18 23:11:57 ET]
+Table 'Gadolin III' 6-max Seat #2 is the button
+Seat 3: Münchner der 1. ($28.75 in chips) is sitting out
+Seat 1: ANCTIL111 ($26 in chips) 
+Seat 2: jspr79602 ($44.55 in chips) 
+Seat 4: rostickkin ($171.49 in chips) 
+Seat 5: Sadyhov V.V. ($103.80 in chips) 
+Seat 6: reeqar ($118.83 in chips) 
+rostickkin: posts small blind $0.50
+Sadyhov V.V.: posts big blind $1
+ANCTIL111: posts small & big blinds $1.50
+*** HOLE CARDS ***
+reeqar: raises $1 to $2
+ANCTIL111: calls $1
+jspr79602: calls $2
+rostickkin: folds 
+Sadyhov V.V.: folds 
+*** FLOP *** [4d Th Qc]
+reeqar: checks 
+ANCTIL111: bets $1
+jspr79602: calls $1
+reeqar: folds 
+*** TURN *** [4d Th Qc] [6d]
+ANCTIL111: bets $3
+jspr79602: folds 
+Uncalled bet ($3) returned to ANCTIL111
+ANCTIL111 collected $9.50 from pot
+ANCTIL111: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [4d Th Qc 6d]
+Seat 3: Münchner der 1.
+Seat 1: ANCTIL111 collected ($9.50)
+Seat 2: jspr79602 (button) folded on the Turn
+Seat 4: rostickkin (small blind) folded before Flop
+Seat 5: Sadyhov V.V. (big blind) folded before Flop
+Seat 6: reeqar folded on the Flop
+
+
+
+PokerStars Hand #254442948841:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:12:34 WET [2025/01/18 23:12:34 ET]
+Table 'Gadolin III' 6-max Seat #4 is the button
+Seat 1: ANCTIL111 ($32 in chips) 
+Seat 2: jspr79602 ($41.55 in chips) 
+Seat 3: Münchner der 1. ($28.75 in chips) 
+Seat 4: rostickkin ($170.99 in chips) 
+Seat 5: Sadyhov V.V. ($102.80 in chips) 
+Seat 6: reeqar ($116.83 in chips) 
+Sadyhov V.V.: posts small blind $0.50
+reeqar: posts big blind $1
+Münchner der 1.: posts small & big blinds $1.50
+*** HOLE CARDS ***
+ANCTIL111: raises $3 to $4
+jspr79602: calls $4
+Münchner der 1.: folds 
+rostickkin: folds 
+Sadyhov V.V.: folds 
+reeqar: folds 
+*** FLOP *** [2h 2d Ts]
+ANCTIL111: bets $5
+jspr79602: raises $32.55 to $37.55 and is all-in
+ANCTIL111: folds 
+Uncalled bet ($32.55) returned to jspr79602
+jspr79602 collected $19.95 from pot
+jspr79602: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [2h 2d Ts]
+Seat 1: ANCTIL111 folded on the Flop
+Seat 2: jspr79602 collected ($19.95)
+Seat 3: Münchner der 1. folded before Flop (didn't bet)
+Seat 4: rostickkin (button) folded before Flop (didn't bet)
+Seat 5: Sadyhov V.V. (small blind) folded before Flop
+Seat 6: reeqar (big blind) folded before Flop
+
+
+
+PokerStars Hand #254442952659:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/19 4:13:07 WET [2025/01/18 23:13:07 ET]
+Table 'Gadolin III' 6-max Seat #5 is the button
+Seat 1: ANCTIL111 ($23 in chips) 
+Seat 2: jspr79602 ($52.50 in chips) 
+Seat 3: Münchner der 1. ($27.25 in chips) 
+Seat 4: rostickkin ($170.99 in chips) 
+Seat 5: Sadyhov V.V. ($102.30 in chips) 
+Seat 6: reeqar ($115.83 in chips) 
+reeqar: posts small blind $0.50
+ANCTIL111: posts big blind $1
+*** HOLE CARDS ***
+jspr79602: folds 
+Münchner der 1.: folds 
+rostickkin: folds 
+Sadyhov V.V.: folds 
+reeqar: raises $1 to $2
+ANCTIL111: calls $1
+*** FLOP *** [Ac 7d 9c]
+reeqar: bets $1
+ANCTIL111: calls $1
+*** TURN *** [Ac 7d 9c] [4h]
+reeqar: bets $4.28
+ANCTIL111: folds 
+Uncalled bet ($4.28) returned to reeqar
+reeqar collected $5.70 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ac 7d 9c 4h]
+Seat 1: ANCTIL111 (big blind) folded on the Turn
+Seat 2: jspr79602 folded before Flop (didn't bet)
+Seat 3: Münchner der 1. folded before Flop (didn't bet)
+Seat 4: rostickkin folded before Flop (didn't bet)
+Seat 5: Sadyhov V.V. (button) folded before Flop (didn't bet)
+Seat 6: reeqar (small blind) collected ($5.70)
+
+
+

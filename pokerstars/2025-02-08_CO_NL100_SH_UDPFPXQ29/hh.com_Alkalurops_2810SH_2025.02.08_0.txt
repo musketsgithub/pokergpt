@@ -1,0 +1,3962 @@
+﻿PokerStars Hand #254774695440:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:28:23 WET [2025/02/08 18:28:23 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: LuckyShikari ($10 in chips) 
+Seat 3: Paramede1338 ($10 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Paramede1338: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: raises $1 to $2
+Paramede1338: folds 
+Seavus10: calls $1
+*** FLOP *** [2d 7d Ks]
+Seavus10: checks 
+LuckyShikari: bets $3
+Seavus10: folds 
+Uncalled bet ($3) returned to LuckyShikari
+LuckyShikari collected $4.28 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [2d 7d Ks]
+Seat 1: LuckyShikari (button) collected ($4.28)
+Seat 3: Paramede1338 (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254774705326:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:29:00 WET [2025/02/08 18:29:00 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: LuckyShikari ($100 in chips) 
+Seat 3: Paramede1338 ($9.50 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seavus10: posts small blind $0.50
+LuckyShikari: posts big blind $1
+*** HOLE CARDS ***
+Paramede1338: raises $8.50 to $9.50 and is all-in
+Seavus10: calls $9
+LuckyShikari: folds 
+*** FLOP *** [6c 6d 7s]
+*** TURN *** [6c 6d 7s] [6s]
+*** RIVER *** [6c 6d 7s 6s] [7d]
+*** SHOW DOWN ***
+Seavus10: shows [9d Ad] (a full house, Sixes full of Sevens)
+Paramede1338: shows [9s 9h] (a full house, Sixes full of Nines)
+Paramede1338 collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [6c 6d 7s 6s 7d]
+Seat 1: LuckyShikari (big blind) folded before Flop
+Seat 3: Paramede1338 (button) showed [9s 9h] and won ($19) with a full house, Sixes full of Nines
+Seat 4: Seavus10 (small blind) showed [9d Ad] and lost with a full house, Sixes full of Sevens
+
+
+
+PokerStars Hand #254774711346:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:29:23 WET [2025/02/08 18:29:23 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: LuckyShikari ($100 in chips) 
+Seat 3: Paramede1338 ($19 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+LuckyShikari: posts small blind $0.50
+Paramede1338: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+LuckyShikari: raises $1.50 to $2.50
+Paramede1338: calls $1.50
+*** FLOP *** [2d 6d 8c]
+steepfell joins the table at seat #5 
+LuckyShikari: bets $4.50
+Paramede1338: raises $12 to $16.50 and is all-in
+LuckyShikari: calls $12
+kvcsszblcs joins the table at seat #2 
+*** TURN *** [2d 6d 8c] [5h]
+*** RIVER *** [2d 6d 8c 5h] [5d]
+XneferX joins the table at seat #6 
+*** SHOW DOWN ***
+LuckyShikari: shows [8d Jc] (two pair, Eights and Fives)
+Paramede1338: shows [Ac 8h] (two pair, Eights and Fives - Ace kicker)
+Paramede1338 collected $37 from pot
+*** SUMMARY ***
+Total pot $38 | Rake $1 
+Board [2d 6d 8c 5h 5d]
+Seat 1: LuckyShikari (small blind) showed [8d Jc] and lost with two pair, Eights and Fives
+Seat 3: Paramede1338 (big blind) showed [Ac 8h] and won ($37) with two pair, Eights and Fives
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774718747:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:29:51 WET [2025/02/08 18:29:51 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 2: kvcsszblcs ($100 in chips) is sitting out
+Seat 5: steepfell ($100 in chips) is sitting out
+Seat 6: XneferX ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($100 in chips) 
+Seat 3: Paramede1338 ($37 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Paramede1338: posts small blind $0.50
+Seavus10: posts big blind $1
+steepfell: sits out 
+XneferX: sits out 
+*** HOLE CARDS ***
+LuckyShikari: raises $2 to $3
+Paramede1338: calls $2.50
+Seavus10: folds 
+*** FLOP *** [3c Th 5c]
+Paramede1338: bets $34 and is all-in
+LuckyShikari: folds 
+Uncalled bet ($34) returned to Paramede1338
+Paramede1338 collected $6.65 from pot
+Paramede1338: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [3c Th 5c]
+Seat 2: kvcsszblcs
+Seat 5: steepfell
+Seat 6: XneferX
+Seat 1: LuckyShikari (button) folded on the Flop
+Seat 3: Paramede1338 (small blind) collected ($6.65)
+Seat 4: Seavus10 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254774724570:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:30:13 WET [2025/02/08 18:30:13 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 2: kvcsszblcs ($100 in chips) is sitting out
+Seat 6: XneferX ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($100 in chips) 
+Seat 3: Paramede1338 ($40.65 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+XneferX: sits out 
+kvcsszblcs: sits out 
+*** HOLE CARDS ***
+LuckyShikari: raises $2 to $3
+Paramede1338: folds 
+Seavus10: folds 
+steepfell: folds 
+Uncalled bet ($2) returned to LuckyShikari
+LuckyShikari collected $2.50 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: kvcsszblcs
+Seat 6: XneferX
+Seat 1: LuckyShikari collected ($2.50)
+Seat 3: Paramede1338 (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254774728342:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:30:27 WET [2025/02/08 18:30:27 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 2: kvcsszblcs ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($101.50 in chips) 
+Seat 3: Paramede1338 ($40.65 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: XneferX ($100 in chips) 
+steepfell: posts small blind $0.50
+XneferX: posts big blind $1
+kvcsszblcs: sits out 
+*** HOLE CARDS ***
+LuckyShikari: raises $1 to $2
+Paramede1338: folds 
+Seavus10: folds 
+steepfell: raises $9 to $11
+XneferX: folds 
+LuckyShikari: folds 
+Uncalled bet ($9) returned to steepfell
+steepfell collected $5 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 2: kvcsszblcs
+Seat 1: LuckyShikari folded before Flop
+Seat 3: Paramede1338 folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) collected ($5)
+Seat 6: XneferX (big blind) folded before Flop
+
+
+
+PokerStars Hand #254774738367:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:31:05 WET [2025/02/08 18:31:05 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 2: kvcsszblcs ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($100 in chips) 
+Seat 3: Paramede1338 ($40.65 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($103 in chips) 
+Seat 6: XneferX ($100 in chips) 
+XneferX: posts small blind $0.50
+LuckyShikari: posts big blind $1
+kvcsszblcs: sits out 
+*** HOLE CARDS ***
+Paramede1338: folds 
+Seavus10: folds 
+Paramede1338 leaves the table
+steepfell: raises $1.50 to $2.50
+XneferX: raises $9.50 to $12
+LuckyShikari: folds 
+steepfell: folds 
+Uncalled bet ($9.50) returned to XneferX
+XneferX collected $6 from pot
+XneferX: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: kvcsszblcs
+Seat 1: LuckyShikari (big blind) folded before Flop
+Seat 3: Paramede1338 folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop
+Seat 6: XneferX (small blind) collected ($6)
+
+
+
+PokerStars Hand #254774743879:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:31:26 WET [2025/02/08 18:31:26 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 1: LuckyShikari ($100 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($100.50 in chips) 
+Seat 6: XneferX ($103.50 in chips) 
+LuckyShikari: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: folds 
+XneferX: raises $1.77 to $2.77
+LuckyShikari: raises $8.23 to $11
+kvcsszblcs: folds 
+XneferX: folds 
+Uncalled bet ($8.23) returned to LuckyShikari
+LuckyShikari collected $6.54 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.54 | Rake $0 
+Seat 1: LuckyShikari (small blind) collected ($6.54)
+Seat 2: kvcsszblcs (big blind) folded before Flop
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: XneferX (button) folded before Flop
+
+
+
+PokerStars Hand #254774750626:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:31:52 WET [2025/02/08 18:31:52 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: LuckyShikari ($103.77 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($100.50 in chips) 
+Seat 6: XneferX ($100.73 in chips) 
+kvcsszblcs: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+XneferX: folds 
+LuckyShikari: folds 
+kvcsszblcs: raises $1.85 to $2.85
+TheFazermint joins the table at seat #3 
+Seavus10: calls $1.85
+*** FLOP *** [5c Qh Kh]
+kvcsszblcs: bets $4.07
+Seavus10: folds 
+Uncalled bet ($4.07) returned to kvcsszblcs
+kvcsszblcs collected $5.42 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.70 | Rake $0.28 
+Board [5c Qh Kh]
+Seat 1: LuckyShikari (button) folded before Flop (didn't bet)
+Seat 2: kvcsszblcs (small blind) collected ($5.42)
+Seat 4: Seavus10 (big blind) folded on the Flop
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774759352:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:32:26 WET [2025/02/08 18:32:26 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 3: TheFazermint ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($103.77 in chips) 
+Seat 2: kvcsszblcs ($102.57 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($100.50 in chips) 
+Seat 6: XneferX ($100.73 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+XneferX: folds 
+LuckyShikari: folds 
+kvcsszblcs: raises $1.25 to $2.25
+Seavus10: raises $9.25 to $11.50
+steepfell: raises $14.50 to $26
+kvcsszblcs: folds 
+Seavus10: folds 
+Uncalled bet ($14.50) returned to steepfell
+steepfell collected $25.25 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $25.25 | Rake $0 
+Seat 3: TheFazermint
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: kvcsszblcs (button) folded before Flop
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) collected ($25.25)
+Seat 6: XneferX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774771065:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:33:11 WET [2025/02/08 18:33:11 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 3: TheFazermint ($100 in chips) is sitting out
+Seat 6: XneferX ($100.73 in chips) is sitting out
+Seat 1: LuckyShikari ($103.77 in chips) 
+Seat 2: kvcsszblcs ($100.32 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($114.25 in chips) 
+steepfell: posts small blind $0.50
+XneferX: is sitting out 
+LuckyShikari: posts big blind $1
+TheFazermint: sits out 
+*** HOLE CARDS ***
+kvcsszblcs: raises $1 to $2
+XneferX leaves the table
+Seavus10: folds 
+steepfell: folds 
+LuckyShikari: calls $1
+*** FLOP *** [4d Qs 9s]
+LuckyShikari: checks 
+J0SHB0SH joins the table at seat #6 
+kvcsszblcs: checks 
+*** TURN *** [4d Qs 9s] [Jd]
+LuckyShikari: checks 
+kvcsszblcs: checks 
+*** RIVER *** [4d Qs 9s Jd] [8d]
+LuckyShikari: bets $5.50
+kvcsszblcs: folds 
+Uncalled bet ($5.50) returned to LuckyShikari
+LuckyShikari collected $4.28 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [4d Qs 9s Jd 8d]
+Seat 3: TheFazermint
+Seat 6: XneferX
+Seat 1: LuckyShikari (big blind) collected ($4.28)
+Seat 2: kvcsszblcs folded on the River
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) folded before Flop
+
+
+
+PokerStars Hand #254774779900:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:33:45 WET [2025/02/08 18:33:45 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 3: TheFazermint ($100 in chips) is sitting out
+Seat 6: J0SHB0SH ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($106.05 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($113.75 in chips) 
+LuckyShikari: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+TheFazermint: sits out 
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: raises $1.50 to $2.50
+LuckyShikari: folds 
+kvcsszblcs: folds 
+Uncalled bet ($1.50) returned to steepfell
+steepfell collected $2.50 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: TheFazermint
+Seat 6: J0SHB0SH
+Seat 1: LuckyShikari (small blind) folded before Flop
+Seat 2: kvcsszblcs (big blind) folded before Flop
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) collected ($2.50)
+
+
+
+PokerStars Hand #254774782517:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:33:55 WET [2025/02/08 18:33:55 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 6: J0SHB0SH ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($105.55 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($100 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($115.25 in chips) 
+kvcsszblcs: posts small blind $0.50
+TheFazermint: posts big blind $1
+J0SHB0SH: sits out 
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: folds 
+LuckyShikari: raises $1.20 to $2.20
+kvcsszblcs: folds 
+TheFazermint: folds 
+Uncalled bet ($1.20) returned to LuckyShikari
+LuckyShikari collected $2.50 from pot
+LuckyShikari: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: J0SHB0SH
+Seat 1: LuckyShikari (button) collected ($2.50)
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 3: TheFazermint (big blind) folded before Flop
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774789199:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:34:21 WET [2025/02/08 18:34:21 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 6: J0SHB0SH ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($107.05 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($99 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($115.25 in chips) 
+TheFazermint: posts small blind $0.50
+Seavus10: posts big blind $1
+J0SHB0SH: sits out 
+*** HOLE CARDS ***
+steepfell: folds 
+LuckyShikari: folds 
+kvcsszblcs: folds 
+TheFazermint: raises $2 to $3
+Seavus10: calls $2
+*** FLOP *** [Kd 8s 3c]
+TheFazermint: bets $4
+Seavus10: folds 
+Uncalled bet ($4) returned to TheFazermint
+TheFazermint collected $5.70 from pot
+TheFazermint: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Kd 8s 3c]
+Seat 6: J0SHB0SH
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 3: TheFazermint (small blind) collected ($5.70)
+Seat 4: Seavus10 (big blind) folded on the Flop
+Seat 5: steepfell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774798936:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:34:59 WET [2025/02/08 18:34:59 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 6: J0SHB0SH ($100 in chips) is sitting out
+Seat 1: LuckyShikari ($107.05 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($101.70 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($115.25 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+J0SHB0SH: sits out 
+*** HOLE CARDS ***
+LuckyShikari: folds 
+kvcsszblcs: folds 
+TheFazermint: raises $2 to $3
+Seavus10: folds 
+steepfell: folds 
+Uncalled bet ($2) returned to TheFazermint
+TheFazermint collected $2.50 from pot
+TheFazermint: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: J0SHB0SH
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: TheFazermint (button) collected ($2.50)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) folded before Flop
+
+
+
+PokerStars Hand #254774802341:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:35:12 WET [2025/02/08 18:35:12 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: LuckyShikari ($107.05 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($103.20 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($114.25 in chips) 
+Seat 6: J0SHB0SH ($100 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+LuckyShikari: folds 
+kvcsszblcs: folds 
+TheFazermint: folds 
+LuckyShikari leaves the table
+Seavus10: folds 
+steepfell: raises $2 to $3
+J0SHB0SH: folds 
+Uncalled bet ($2) returned to steepfell
+steepfell collected $2 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: LuckyShikari folded before Flop (didn't bet)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: TheFazermint folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) collected ($2)
+Seat 6: J0SHB0SH (big blind) folded before Flop
+
+
+
+PokerStars Hand #254774811753:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:35:49 WET [2025/02/08 18:35:49 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($103.20 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($115.25 in chips) 
+Seat 6: J0SHB0SH ($100 in chips) 
+J0SHB0SH: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+TheFazermint: raises $2 to $3
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+Uncalled bet ($2) returned to TheFazermint
+TheFazermint collected $2.50 from pot
+TheFazermint: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: kvcsszblcs (big blind) folded before Flop
+Seat 3: TheFazermint collected ($2.50)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded before Flop
+
+
+
+PokerStars Hand #254774817239:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:36:10 WET [2025/02/08 18:36:10 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($104.70 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($115.25 in chips) 
+Seat 6: J0SHB0SH ($100 in chips) 
+kvcsszblcs: posts small blind $0.50
+TheFazermint: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: raises $1.50 to $2.50
+kvcsszblcs: folds 
+TheFazermint: folds 
+Uncalled bet ($1.50) returned to J0SHB0SH
+J0SHB0SH collected $2.50 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 3: TheFazermint (big blind) folded before Flop
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (button) collected ($2.50)
+
+
+
+PokerStars Hand #254774822259:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:36:30 WET [2025/02/08 18:36:30 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($103.70 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($115.25 in chips) 
+Seat 6: J0SHB0SH ($101.50 in chips) 
+TheFazermint: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+TheFazermint: raises $2 to $3
+Seavus10: calls $2
+*** FLOP *** [9d 8c Jh]
+TheFazermint: checks 
+Seavus10: checks 
+*** TURN *** [9d 8c Jh] [Th]
+TheFazermint: checks 
+Mihai96970 joins the table at seat #1 
+Mihai96970 is disconnected 
+Seavus10: bets $4.28
+TheFazermint: folds 
+Uncalled bet ($4.28) returned to Seavus10
+Seavus10 collected $5.70 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [9d 8c Jh Th]
+Seat 2: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 3: TheFazermint (small blind) folded on the Turn
+Seat 4: Seavus10 (big blind) collected ($5.70)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774833863:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:37:15 WET [2025/02/08 18:37:15 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: Mihai96970 ($18.05 in chips) is sitting out
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($100.70 in chips) 
+Seat 4: Seavus10 ($102.70 in chips) 
+Seat 5: steepfell ($115.25 in chips) 
+Seat 6: J0SHB0SH ($101.50 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+Mihai96970: sits out 
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+TheFazermint: folds 
+Seavus10: folds 
+Uncalled bet ($0.50) returned to steepfell
+steepfell collected $1 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Mihai96970
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: TheFazermint (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) collected ($1)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774836846:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:37:27 WET [2025/02/08 18:37:27 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: Mihai96970 ($18.05 in chips) is sitting out
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($100.70 in chips) 
+Seat 4: Seavus10 ($102.20 in chips) 
+Seat 5: steepfell ($115.75 in chips) 
+Seat 6: J0SHB0SH ($101.50 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+Mihai96970: sits out 
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+TheFazermint: folds 
+Seavus10: raises $1.50 to $2.50
+steepfell: folds 
+J0SHB0SH: calls $1.50
+*** FLOP *** [8c 6d 7s]
+J0SHB0SH: checks 
+Seavus10: checks 
+*** TURN *** [8c 6d 7s] [Ah]
+J0SHB0SH: checks 
+Seavus10: bets $3.31
+J0SHB0SH: calls $3.31
+*** RIVER *** [8c 6d 7s Ah] [Td]
+J0SHB0SH: bets $3.80
+Seavus10: folds 
+Uncalled bet ($3.80) returned to J0SHB0SH
+J0SHB0SH collected $11.51 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.12 | Rake $0.61 
+Board [8c 6d 7s Ah Td]
+Seat 1: Mihai96970
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: TheFazermint folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) folded on the River
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) collected ($11.51)
+
+
+
+PokerStars Hand #254774857956:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:38:50 WET [2025/02/08 18:38:50 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 1: Mihai96970 ($18.05 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($100.70 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($115.25 in chips) 
+Seat 6: J0SHB0SH ($107.20 in chips) 
+J0SHB0SH: posts small blind $0.50
+Mihai96970: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+TheFazermint: raises $2 to $3
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+Mihai96970: calls $2
+*** FLOP *** [2d Jh 4d]
+Mihai96970: checks 
+TheFazermint: bets $3.09
+Mihai96970: calls $3.09
+*** TURN *** [2d Jh 4d] [Ad]
+Mihai96970: checks 
+TheFazermint: checks 
+*** RIVER *** [2d Jh 4d Ad] [Jd]
+Mihai96970: checks 
+TheFazermint: checks 
+*** SHOW DOWN ***
+Mihai96970: shows [5c Ah] (two pair, Aces and Jacks)
+TheFazermint: mucks hand 
+Mihai96970 collected $12.05 from pot
+*** SUMMARY ***
+Total pot $12.68 | Rake $0.63 
+Board [2d Jh 4d Ad Jd]
+Seat 1: Mihai96970 (big blind) showed [5c Ah] and won ($12.05) with two pair, Aces and Jacks
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: TheFazermint mucked
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded before Flop
+
+
+
+PokerStars Hand #254774871236:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:39:43 WET [2025/02/08 18:39:43 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 1: Mihai96970 ($24.01 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($94.61 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($115.25 in chips) 
+Seat 6: J0SHB0SH ($106.70 in chips) 
+Mihai96970: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+TheFazermint: folds 
+Seavus10: raises $1.20 to $2.20
+steepfell: folds 
+J0SHB0SH: folds 
+Mihai96970: calls $1.70
+kvcsszblcs: folds 
+*** FLOP *** [Tc Js 5d]
+Mihai96970: checks 
+Seavus10: bets $1.71
+Mihai96970: folds 
+Uncalled bet ($1.71) returned to Seavus10
+Seavus10 collected $5.13 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0.27 
+Board [Tc Js 5d]
+Seat 1: Mihai96970 (small blind) folded on the Flop
+Seat 2: kvcsszblcs (big blind) folded before Flop
+Seat 3: TheFazermint folded before Flop (didn't bet)
+Seat 4: Seavus10 collected ($5.13)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774879142:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:40:14 WET [2025/02/08 18:40:14 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: Mihai96970 ($21.81 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($94.61 in chips) 
+Seat 4: Seavus10 ($102.93 in chips) 
+Seat 5: steepfell ($115.25 in chips) 
+Seat 6: J0SHB0SH ($106.70 in chips) 
+kvcsszblcs: posts small blind $0.50
+TheFazermint: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: raises $1.20 to $2.20
+steepfell: folds 
+J0SHB0SH: folds 
+Mihai96970: calls $2.20
+kvcsszblcs: folds 
+TheFazermint: calls $1.20
+*** FLOP *** [Th 6s 6c]
+TheFazermint: checks 
+Seavus10: checks 
+Mihai96970: checks 
+*** TURN *** [Th 6s 6c] [4s]
+TheFazermint: checks 
+Seavus10: bets $2.22
+Mihai96970: calls $2.22
+TheFazermint: folds 
+*** RIVER *** [Th 6s 6c 4s] [Td]
+Seavus10: checks 
+Mihai96970: bets $4
+Seavus10: calls $4
+*** SHOW DOWN ***
+Mihai96970: shows [As Tc] (a full house, Tens full of Sixes)
+Seavus10: mucks hand 
+Mihai96970 collected $18.56 from pot
+*** SUMMARY ***
+Total pot $19.54 | Rake $0.98 
+Board [Th 6s 6c 4s Td]
+Seat 1: Mihai96970 (button) showed [As Tc] and won ($18.56) with a full house, Tens full of Sixes
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 3: TheFazermint (big blind) folded on the Turn
+Seat 4: Seavus10 mucked
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774896580:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:41:23 WET [2025/02/08 18:41:23 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: Mihai96970 ($31.95 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($92.41 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($115.25 in chips) 
+Seat 6: J0SHB0SH ($106.70 in chips) 
+TheFazermint: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+J0SHB0SH: folds 
+Mihai96970: calls $1
+kvcsszblcs: raises $2.50 to $3.50
+TheFazermint: raises $6.50 to $10
+Seavus10: folds 
+Mihai96970: folds 
+kvcsszblcs: folds 
+Uncalled bet ($6.50) returned to TheFazermint
+TheFazermint collected $9 from pot
+TheFazermint: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: Mihai96970 folded before Flop
+Seat 2: kvcsszblcs (button) folded before Flop
+Seat 3: TheFazermint (small blind) collected ($9)
+Seat 4: Seavus10 (big blind) folded before Flop
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774905637:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:42:00 WET [2025/02/08 18:42:00 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: Mihai96970 ($30.95 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: TheFazermint ($97.91 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($115.25 in chips) 
+Seat 6: J0SHB0SH ($106.70 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Mihai96970: calls $1
+kvcsszblcs: raises $2.50 to $3.50
+TheFazermint: folds 
+Seavus10: folds 
+steepfell: folds 
+Mihai96970: calls $2.50
+*** FLOP *** [8c 5h 8d]
+Mihai96970: checks 
+kvcsszblcs: bets $4.04
+Mihai96970: folds 
+Uncalled bet ($4.04) returned to kvcsszblcs
+kvcsszblcs collected $8.08 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [8c 5h 8d]
+Seat 1: Mihai96970 folded on the Flop
+Seat 2: kvcsszblcs collected ($8.08)
+Seat 3: TheFazermint (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) folded before Flop
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774914385:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:42:35 WET [2025/02/08 18:42:35 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: Mihai96970 ($27.45 in chips) 
+Seat 2: kvcsszblcs ($104.58 in chips) 
+Seat 3: TheFazermint ($97.91 in chips) 
+Seat 4: Seavus10 ($100 in chips) 
+Seat 5: steepfell ($114.25 in chips) 
+Seat 6: J0SHB0SH ($106.70 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Mihai96970: raises $1 to $2
+kvcsszblcs: folds 
+TheFazermint: folds 
+Seavus10: raises $3.50 to $5.50
+steepfell: folds 
+J0SHB0SH: folds 
+Mihai96970: raises $3.50 to $9
+Seavus10: raises $19.50 to $28.50
+Mihai96970: calls $18.45 and is all-in
+Uncalled bet ($1.05) returned to Seavus10
+*** FLOP *** [3c Tc Qd]
+*** TURN *** [3c Tc Qd] [2s]
+*** RIVER *** [3c Tc Qd 2s] [3s]
+*** SHOW DOWN ***
+Mihai96970: shows [7c 7d] (two pair, Sevens and Threes)
+Seavus10: shows [Kc Ks] (two pair, Kings and Threes)
+Seavus10 collected $53.90 from pot
+*** SUMMARY ***
+Total pot $56.40 | Rake $2.50 
+Board [3c Tc Qd 2s 3s]
+Seat 1: Mihai96970 showed [7c 7d] and lost with two pair, Sevens and Threes
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: TheFazermint folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) showed [Kc Ks] and won ($53.90) with two pair, Kings and Threes
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) folded before Flop
+
+
+
+PokerStars Hand #254774928193:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:43:31 WET [2025/02/08 18:43:31 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 1: Mihai96970 ($0 in chips) is sitting out
+Seat 2: kvcsszblcs ($104.58 in chips) 
+Seat 3: TheFazermint ($97.91 in chips) 
+Seat 4: Seavus10 ($126.45 in chips) 
+Seat 5: steepfell ($113.75 in chips) 
+Seat 6: J0SHB0SH ($105.70 in chips) 
+J0SHB0SH: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+TheFazermint: folds 
+Seavus10: raises $1.20 to $2.20
+steepfell: folds 
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+Uncalled bet ($1.20) returned to Seavus10
+Seavus10 collected $2.50 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Mihai96970
+Seat 2: kvcsszblcs (big blind) folded before Flop
+Seat 3: TheFazermint folded before Flop (didn't bet)
+Seat 4: Seavus10 collected ($2.50)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded before Flop
+
+
+
+PokerStars Hand #254774932952:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:43:50 WET [2025/02/08 18:43:50 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 1: Mihai96970 ($0 in chips) is sitting out
+Seat 2: kvcsszblcs ($103.58 in chips) 
+Seat 3: TheFazermint ($97.91 in chips) 
+Seat 4: Seavus10 ($127.95 in chips) 
+Seat 5: steepfell ($113.75 in chips) 
+Seat 6: J0SHB0SH ($105.20 in chips) 
+kvcsszblcs: posts small blind $0.50
+TheFazermint: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: raises $1.50 to $2.50
+kvcsszblcs: raises $8.50 to $11
+TheFazermint: folds 
+J0SHB0SH: folds 
+Uncalled bet ($8.50) returned to kvcsszblcs
+kvcsszblcs collected $6 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Mihai96970
+Seat 2: kvcsszblcs (small blind) collected ($6)
+Seat 3: TheFazermint (big blind) folded before Flop
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (button) folded before Flop
+
+
+
+PokerStars Hand #254774938337:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:44:12 WET [2025/02/08 18:44:12 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: Mihai96970 ($0 in chips) is sitting out
+Seat 2: kvcsszblcs ($107.08 in chips) 
+Seat 3: TheFazermint ($96.91 in chips) 
+Seat 4: Seavus10 ($127.95 in chips) 
+Seat 5: steepfell ($113.75 in chips) 
+Seat 6: J0SHB0SH ($102.70 in chips) 
+TheFazermint: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+TheFazermint: raises $2 to $3
+Seavus10: folds 
+Uncalled bet ($2) returned to TheFazermint
+TheFazermint collected $2 from pot
+TheFazermint: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Mihai96970
+Seat 2: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 3: TheFazermint (small blind) collected ($2)
+Seat 4: Seavus10 (big blind) folded before Flop
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774943910:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:44:34 WET [2025/02/08 18:44:34 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: Mihai96970 ($0 in chips) is sitting out
+Seat 2: kvcsszblcs ($107.08 in chips) 
+Seat 3: TheFazermint ($97.91 in chips) 
+Seat 4: Seavus10 ($126.95 in chips) 
+Seat 5: steepfell ($113.75 in chips) 
+Seat 6: J0SHB0SH ($102.70 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+TheFazermint: folds 
+Seavus10: raises $2 to $3
+steepfell: folds 
+Uncalled bet ($2) returned to Seavus10
+Seavus10 collected $2 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Mihai96970
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: TheFazermint (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) collected ($2)
+Seat 5: steepfell (big blind) folded before Flop
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774947138:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:44:47 WET [2025/02/08 18:44:47 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: Mihai96970 ($24.06 in chips) 
+Seat 2: kvcsszblcs ($107.08 in chips) 
+Seat 3: TheFazermint ($97.91 in chips) 
+Seat 4: Seavus10 ($127.95 in chips) 
+Seat 5: steepfell ($112.75 in chips) 
+Seat 6: J0SHB0SH ($102.70 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+Mihai96970: posts small & big blinds $1.50
+*** HOLE CARDS ***
+Mihai96970: checks 
+kvcsszblcs: folds 
+TheFazermint: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: checks 
+*** FLOP *** [Ks Th 6s]
+J0SHB0SH: checks 
+Mihai96970: bets $1
+J0SHB0SH: calls $1
+*** TURN *** [Ks Th 6s] [4d]
+J0SHB0SH: checks 
+Mihai96970: bets $1
+J0SHB0SH: raises $9 to $10
+Mihai96970: folds 
+Uncalled bet ($9) returned to J0SHB0SH
+J0SHB0SH collected $6.65 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Ks Th 6s 4d]
+Seat 1: Mihai96970 folded on the Turn
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: TheFazermint folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) collected ($6.65)
+
+
+
+PokerStars Hand #254774959221:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:45:35 WET [2025/02/08 18:45:35 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 1: Mihai96970 ($20.56 in chips) 
+Seat 2: kvcsszblcs ($107.08 in chips) 
+Seat 3: TheFazermint ($97.91 in chips) 
+Seat 4: Seavus10 ($127.95 in chips) 
+Seat 5: steepfell ($112.25 in chips) 
+Seat 6: J0SHB0SH ($106.35 in chips) 
+J0SHB0SH: posts small blind $0.50
+Mihai96970: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: raises $1 to $2
+TheFazermint: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+Mihai96970: raises $1 to $3
+kvcsszblcs: calls $1
+*** FLOP *** [5h 5s Ad]
+Mihai96970: bets $1
+kvcsszblcs: folds 
+Uncalled bet ($1) returned to Mihai96970
+Mihai96970 collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [5h 5s Ad]
+Seat 1: Mihai96970 (big blind) collected ($6.18)
+Seat 2: kvcsszblcs folded on the Flop
+Seat 3: TheFazermint folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded before Flop
+
+
+
+PokerStars Hand #254774968801:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:46:15 WET [2025/02/08 18:46:15 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 1: Mihai96970 ($23.74 in chips) 
+Seat 2: kvcsszblcs ($104.08 in chips) 
+Seat 3: TheFazermint ($97.91 in chips) 
+Seat 4: Seavus10 ($127.95 in chips) 
+Seat 5: steepfell ($112.25 in chips) 
+Seat 6: J0SHB0SH ($105.85 in chips) 
+Mihai96970: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+TheFazermint: folds 
+Seavus10: folds 
+steepfell: raises $1.50 to $2.50
+J0SHB0SH: folds 
+Mihai96970: calls $2
+kvcsszblcs: folds 
+*** FLOP *** [5h Ks 2d]
+Mihai96970: checks 
+steepfell: bets $2.85
+Mihai96970: calls $2.85
+*** TURN *** [5h Ks 2d] [4c]
+Mihai96970: checks 
+steepfell: bets $8.34
+Mihai96970: folds 
+Uncalled bet ($8.34) returned to steepfell
+steepfell collected $11.12 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.70 | Rake $0.58 
+Board [5h Ks 2d 4c]
+Seat 1: Mihai96970 (small blind) folded on the Turn
+Seat 2: kvcsszblcs (big blind) folded before Flop
+Seat 3: TheFazermint folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell collected ($11.12)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774980347:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:47:02 WET [2025/02/08 18:47:02 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: Mihai96970 ($18.39 in chips) 
+Seat 2: kvcsszblcs ($103.08 in chips) 
+Seat 3: TheFazermint ($97.91 in chips) 
+Seat 4: Seavus10 ($127.95 in chips) 
+Seat 5: steepfell ($118.02 in chips) 
+Seat 6: J0SHB0SH ($105.85 in chips) 
+kvcsszblcs: posts small blind $0.50
+TheFazermint: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: raises $1 to $2
+steepfell: folds 
+J0SHB0SH: folds 
+Mihai96970: calls $2
+kvcsszblcs: folds 
+TheFazermint: calls $1
+*** FLOP *** [Qs Ad Qc]
+TheFazermint: checks 
+Seavus10: bets $2.06
+Mihai96970: folds 
+TheFazermint: folds 
+Uncalled bet ($2.06) returned to Seavus10
+Seavus10 collected $6.18 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Qs Ad Qc]
+Seat 1: Mihai96970 (button) folded on the Flop
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 3: TheFazermint (big blind) folded on the Flop
+Seat 4: Seavus10 collected ($6.18)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774991765:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:47:48 WET [2025/02/08 18:47:48 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: Mihai96970 ($16.39 in chips) 
+Seat 2: kvcsszblcs ($102.58 in chips) 
+Seat 3: TheFazermint ($95.91 in chips) 
+Seat 4: Seavus10 ($132.13 in chips) 
+Seat 5: steepfell ($118.02 in chips) 
+Seat 6: J0SHB0SH ($105.85 in chips) 
+TheFazermint: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+J0SHB0SH: folds 
+Mihai96970: raises $1 to $2
+kvcsszblcs: folds 
+TheFazermint: folds 
+Seavus10: calls $1
+*** FLOP *** [Td Jd 4s]
+Seavus10: checks 
+Mihai96970: bets $1
+Seavus10: folds 
+Uncalled bet ($1) returned to Mihai96970
+Mihai96970 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Td Jd 4s]
+Seat 1: Mihai96970 collected ($4.28)
+Seat 2: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 3: TheFazermint (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) folded on the Flop
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254774999460:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:48:19 WET [2025/02/08 18:48:19 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: Mihai96970 ($18.67 in chips) 
+Seat 2: kvcsszblcs ($102.58 in chips) 
+Seat 3: TheFazermint ($95.41 in chips) 
+Seat 4: Seavus10 ($130.13 in chips) 
+Seat 5: steepfell ($118.02 in chips) 
+Seat 6: J0SHB0SH ($105.85 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Mihai96970: raises $1 to $2
+kvcsszblcs: folds 
+TheFazermint: folds 
+Seavus10: folds 
+steepfell: folds 
+Uncalled bet ($1) returned to Mihai96970
+Mihai96970 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Mihai96970 collected ($2.50)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: TheFazermint (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) folded before Flop
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775004087:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:48:38 WET [2025/02/08 18:48:38 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: Mihai96970 ($20.17 in chips) 
+Seat 2: kvcsszblcs ($102.58 in chips) 
+Seat 3: TheFazermint ($95.41 in chips) 
+Seat 4: Seavus10 ($129.63 in chips) 
+Seat 5: steepfell ($117.02 in chips) 
+Seat 6: J0SHB0SH ($105.85 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Mihai96970: raises $1 to $2
+kvcsszblcs: folds 
+TheFazermint: raises $4 to $6
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+Mihai96970: raises $4 to $10
+TheFazermint: raises $85.41 to $95.41 and is all-in
+Mihai96970: calls $10.17 and is all-in
+Uncalled bet ($75.24) returned to TheFazermint
+TheFazermint has timed out
+*** FLOP *** [4h 8h 5d]
+*** TURN *** [4h 8h 5d] [8c]
+*** RIVER *** [4h 8h 5d 8c] [2d]
+*** SHOW DOWN ***
+Mihai96970: shows [Jh Ts] (a pair of Eights)
+TheFazermint: shows [Kc Kd] (two pair, Kings and Eights)
+TheFazermint collected $39.75 from pot
+*** SUMMARY ***
+Total pot $41.84 | Rake $2.09 
+Board [4h 8h 5d 8c 2d]
+Seat 1: Mihai96970 showed [Jh Ts] and lost with a pair of Eights
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: TheFazermint showed [Kc Kd] and won ($39.75) with two pair, Kings and Eights
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) folded before Flop
+
+
+
+PokerStars Hand #254775019728:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:49:43 WET [2025/02/08 18:49:43 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 1: Mihai96970 ($0 in chips) is sitting out
+Seat 2: kvcsszblcs ($102.58 in chips) 
+Seat 3: TheFazermint ($114.99 in chips) 
+Seat 4: Seavus10 ($129.63 in chips) 
+Seat 5: steepfell ($116.52 in chips) 
+Seat 6: J0SHB0SH ($104.85 in chips) 
+J0SHB0SH: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+TheFazermint: folds 
+Seavus10: folds 
+steepfell: folds 
+Mihai96970 is disconnected 
+J0SHB0SH: raises $2 to $3
+kvcsszblcs: calls $2
+*** FLOP *** [4h Kc 5h]
+J0SHB0SH: checks 
+kvcsszblcs: checks 
+*** TURN *** [4h Kc 5h] [7s]
+J0SHB0SH: checks 
+kvcsszblcs: bets $4.28
+J0SHB0SH: folds 
+Uncalled bet ($4.28) returned to kvcsszblcs
+kvcsszblcs collected $5.70 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4h Kc 5h 7s]
+Seat 1: Mihai96970
+Seat 2: kvcsszblcs (big blind) collected ($5.70)
+Seat 3: TheFazermint folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254775033118:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:50:38 WET [2025/02/08 18:50:38 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 1: Mihai96970 ($0 in chips) is sitting out
+Seat 2: kvcsszblcs ($105.28 in chips) 
+Seat 3: TheFazermint ($114.99 in chips) 
+Seat 4: Seavus10 ($129.63 in chips) 
+Seat 5: steepfell ($116.52 in chips) 
+Seat 6: J0SHB0SH ($101.85 in chips) 
+kvcsszblcs: posts small blind $0.50
+TheFazermint: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+Uncalled bet ($0.50) returned to TheFazermint
+TheFazermint collected $1 from pot
+TheFazermint: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Mihai96970
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 3: TheFazermint (big blind) collected ($1)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775036167:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:50:51 WET [2025/02/08 18:50:51 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: Mihai96970 ($0 in chips) is sitting out
+Seat 2: kvcsszblcs ($104.78 in chips) 
+Seat 3: TheFazermint ($115.49 in chips) 
+Seat 4: Seavus10 ($129.63 in chips) 
+Seat 5: steepfell ($116.52 in chips) 
+Seat 6: J0SHB0SH ($101.85 in chips) 
+TheFazermint: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+J0SHB0SH: folds 
+kvcsszblcs: raises $1.25 to $2.25
+TheFazermint: folds 
+Seavus10: calls $1.25
+*** FLOP *** [Jh 9h Td]
+Seavus10: checks 
+kvcsszblcs: checks 
+*** TURN *** [Jh 9h Td] [Th]
+Seavus10: checks 
+kvcsszblcs: checks 
+*** RIVER *** [Jh 9h Td Th] [Ah]
+Seavus10: bets $3.56
+kvcsszblcs: raises $8.90 to $12.46
+Seavus10: folds 
+Uncalled bet ($8.90) returned to kvcsszblcs
+kvcsszblcs collected $11.51 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.12 | Rake $0.61 
+Board [Jh 9h Td Th Ah]
+Seat 1: Mihai96970
+Seat 2: kvcsszblcs (button) collected ($11.51)
+Seat 3: TheFazermint (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) folded on the River
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775056951:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:52:16 WET [2025/02/08 18:52:16 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: Mihai96970 ($0 in chips) is sitting out
+Seat 2: kvcsszblcs ($110.48 in chips) 
+Seat 3: TheFazermint ($114.99 in chips) 
+Seat 4: Seavus10 ($123.82 in chips) 
+Seat 5: steepfell ($116.52 in chips) 
+Seat 6: J0SHB0SH ($101.85 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+TheFazermint: folds 
+Seavus10: raises $2 to $3
+steepfell: folds 
+Uncalled bet ($2) returned to Seavus10
+Seavus10 collected $2 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Mihai96970
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: TheFazermint (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) collected ($2)
+Seat 5: steepfell (big blind) folded before Flop
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775062908:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:52:41 WET [2025/02/08 18:52:41 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: Mihai96970 ($0 in chips) is sitting out
+Seat 2: kvcsszblcs ($110.48 in chips) 
+Seat 3: TheFazermint ($114.99 in chips) 
+Seat 4: Seavus10 ($124.82 in chips) 
+Seat 5: steepfell ($115.52 in chips) 
+Seat 6: J0SHB0SH ($101.85 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+TheFazermint: folds 
+Seavus10: folds 
+steepfell: raises $2 to $3
+J0SHB0SH: raises $6 to $9
+steepfell: raises $13 to $22
+J0SHB0SH: raises $79.85 to $101.85 and is all-in
+steepfell: calls $79.85
+*** FIRST FLOP *** [Jc Ts Ad]
+*** FIRST TURN *** [Jc Ts Ad] [8c]
+*** FIRST RIVER *** [Jc Ts Ad 8c] [Jd]
+*** SECOND FLOP *** [Kc 8h 5d]
+*** SECOND TURN *** [Kc 8h 5d] [3s]
+*** SECOND RIVER *** [Kc 8h 5d 3s] [Kh]
+*** FIRST SHOW DOWN ***
+steepfell: shows [Qs As] (two pair, Aces and Jacks)
+J0SHB0SH: shows [Ks Ac] (two pair, Aces and Jacks - King kicker)
+J0SHB0SH collected $100.60 from pot
+*** SECOND SHOW DOWN ***
+steepfell: shows [Qs As] (a pair of Kings)
+J0SHB0SH: shows [Ks Ac] (three of a kind, Kings)
+J0SHB0SH collected $100.60 from pot
+*** SUMMARY ***
+Total pot $203.70 | Rake $2.50 
+Hand was run twice
+FIRST Board [Jc Ts Ad 8c Jd]
+SECOND Board [Kc 8h 5d 3s Kh]
+Seat 1: Mihai96970
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: TheFazermint folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) showed [Qs As] and lost with two pair, Aces and Jacks, and lost with a pair of Kings
+Seat 6: J0SHB0SH (big blind) showed [Ks Ac] and won ($100.60) with two pair, Aces and Jacks, and won ($100.60) with three of a kind, Kings
+
+
+
+PokerStars Hand #254775128829:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:57:58 WET [2025/02/08 18:57:58 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 1: Mihai96970 ($0 in chips) is sitting out
+Seat 2: kvcsszblcs ($121.35 in chips) 
+Seat 3: TheFazermint ($120.01 in chips) 
+Seat 4: Seavus10 ($124.08 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($187.54 in chips) 
+J0SHB0SH: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+TheFazermint: folds 
+Seavus10: folds 
+steepfell: raises $1.50 to $2.50
+J0SHB0SH: folds 
+kvcsszblcs: raises $9.50 to $12
+steepfell: calls $9.50
+*** FLOP *** [Jc 6s 3s]
+kvcsszblcs: bets $11.65
+steepfell: calls $11.65
+*** TURN *** [Jc 6s 3s] [Tc]
+kvcsszblcs: checks 
+steepfell: checks 
+*** RIVER *** [Jc 6s 3s Tc] [Ac]
+kvcsszblcs: bets $97.70 and is all-in
+steepfell: folds 
+Uncalled bet ($97.70) returned to kvcsszblcs
+kvcsszblcs collected $45.41 from pot
+Mihai96970 leaves the table
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $47.80 | Rake $2.39 
+Board [Jc 6s 3s Tc Ac]
+Seat 1: Mihai96970
+Seat 2: kvcsszblcs (big blind) collected ($45.41)
+Seat 3: TheFazermint folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded on the River
+Seat 6: J0SHB0SH (small blind) folded before Flop
+
+
+
+PokerStars Hand #254775143584:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:59:19 WET [2025/02/08 18:59:19 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 2: kvcsszblcs ($143.11 in chips) 
+Seat 3: TheFazermint ($120.01 in chips) 
+Seat 4: Seavus10 ($124.08 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($187.04 in chips) 
+kvcsszblcs: posts small blind $0.50
+TheFazermint: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+kvcsszblcs: raises $1.85 to $2.85
+TheFazermint: folds 
+Uncalled bet ($1.85) returned to kvcsszblcs
+kvcsszblcs collected $2 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: kvcsszblcs (small blind) collected ($2)
+Seat 3: TheFazermint (big blind) folded before Flop
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775147481:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 23:59:40 WET [2025/02/08 18:59:40 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 2: kvcsszblcs ($144.11 in chips) 
+Seat 3: TheFazermint ($119.01 in chips) 
+Seat 4: Seavus10 ($124.08 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($187.04 in chips) 
+TheFazermint: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+J0SHB0SH: folds 
+kvcsszblcs: raises $1.25 to $2.25
+TheFazermint: folds 
+Seavus10: folds 
+Uncalled bet ($1.25) returned to kvcsszblcs
+kvcsszblcs collected $2.50 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: kvcsszblcs (button) collected ($2.50)
+Seat 3: TheFazermint (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) folded before Flop
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775151756:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:00:03 WET [2025/02/08 19:00:03 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 2: kvcsszblcs ($145.61 in chips) 
+Seat 3: TheFazermint ($118.51 in chips) 
+Seat 4: Seavus10 ($123.08 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($187.04 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+kvcsszblcs: raises $1 to $2
+TheFazermint: folds 
+Seavus10: folds 
+steepfell: calls $1
+*** FLOP *** [Jd Ad 2s]
+steepfell: checks 
+kvcsszblcs: bets $6.42
+steepfell: calls $6.42
+*** TURN *** [Jd Ad 2s] [Jc]
+steepfell: checks 
+kvcsszblcs: checks 
+*** RIVER *** [Jd Ad 2s Jc] [2d]
+steepfell: bets $5.44
+kvcsszblcs: raises $131.75 to $137.19 and is all-in
+steepfell: folds 
+Uncalled bet ($131.75) returned to kvcsszblcs
+kvcsszblcs collected $26.81 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $28.22 | Rake $1.41 
+Board [Jd Ad 2s Jc 2d]
+Seat 2: kvcsszblcs collected ($26.81)
+Seat 3: TheFazermint (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) folded on the River
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775170990:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:01:34 WET [2025/02/08 19:01:34 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 2: kvcsszblcs ($158.56 in chips) 
+Seat 3: TheFazermint ($118.51 in chips) 
+Seat 4: Seavus10 ($122.58 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($187.04 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+TheFazermint: raises $2 to $3
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+Uncalled bet ($2) returned to TheFazermint
+TheFazermint collected $2.50 from pot
+TheFazermint: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: TheFazermint collected ($2.50)
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) folded before Flop
+
+
+
+PokerStars Hand #254775176178:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:01:55 WET [2025/02/08 19:01:55 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 2: kvcsszblcs ($158.56 in chips) 
+Seat 3: TheFazermint ($120.01 in chips) 
+Seat 4: Seavus10 ($122.58 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($186.04 in chips) 
+J0SHB0SH: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+TheFazermint: raises $2 to $3
+Seavus10: raises $6 to $9
+steepfell: folds 
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+TheFazermint: calls $6
+*** FLOP *** [Qs Jc Js]
+TheFazermint: checks 
+Seavus10: bets $6.17
+TheFazermint: calls $6.17
+*** TURN *** [Qs Jc Js] [6s]
+TheFazermint: checks 
+francescosal00 joins the table at seat #1 
+francescosal00 is disconnected 
+Seavus10: bets $15.13
+TheFazermint: calls $15.13
+*** RIVER *** [Qs Jc Js 6s] [Kh]
+TheFazermint: checks 
+Seavus10: bets $92.28 and is all-in
+TheFazermint: calls $89.71 and is all-in
+Uncalled bet ($2.57) returned to Seavus10
+*** SHOW DOWN ***
+Seavus10: shows [Jh Qh] (a full house, Jacks full of Queens)
+TheFazermint: shows [Td Jd] (three of a kind, Jacks)
+Seavus10 collected $239.02 from pot
+*** SUMMARY ***
+Total pot $241.52 | Rake $2.50 
+Board [Qs Jc Js 6s Kh]
+Seat 2: kvcsszblcs (big blind) folded before Flop
+Seat 3: TheFazermint showed [Td Jd] and lost with three of a kind, Jacks
+Seat 4: Seavus10 showed [Jh Qh] and won ($239.02) with a full house, Jacks full of Queens
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded before Flop
+
+
+
+PokerStars Hand #254775198054:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:03:30 WET [2025/02/08 19:03:30 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 1: francescosal00 ($24.97 in chips) is sitting out
+Seat 3: TheFazermint ($0 in chips) is sitting out
+Seat 2: kvcsszblcs ($157.56 in chips) 
+Seat 4: Seavus10 ($241.59 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($185.54 in chips) 
+kvcsszblcs: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: raises $1.50 to $2.50
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+TheFazermint leaves the table
+Seavus10: folds 
+Uncalled bet ($1.50) returned to steepfell
+steepfell collected $2.50 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: francescosal00
+Seat 3: TheFazermint
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) folded before Flop
+Seat 5: steepfell collected ($2.50)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775200573:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:03:40 WET [2025/02/08 19:03:40 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: francescosal00 ($24.97 in chips) is sitting out
+Seat 2: kvcsszblcs ($157.06 in chips) 
+Seat 4: Seavus10 ($240.59 in chips) 
+Seat 5: steepfell ($101.50 in chips) 
+Seat 6: J0SHB0SH ($185.54 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+francescosal00: sits out 
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+iTrustU21 joins the table at seat #3 
+kvcsszblcs: folds 
+Seavus10: raises $2 to $3
+steepfell: raises $6 to $9
+Seavus10: folds 
+Uncalled bet ($6) returned to steepfell
+steepfell collected $6 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: francescosal00
+Seat 2: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) collected ($6)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775207503:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:04:10 WET [2025/02/08 19:04:10 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: francescosal00 ($24.97 in chips) is sitting out
+Seat 3: iTrustU21 ($10 in chips) is sitting out
+Seat 2: kvcsszblcs ($157.06 in chips) 
+Seat 4: Seavus10 ($237.59 in chips) 
+Seat 5: steepfell ($104.50 in chips) 
+Seat 6: J0SHB0SH ($185.54 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+francescosal00: sits out 
+iTrustU21: sits out 
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+Seavus10: raises $1.50 to $2.50
+steepfell: folds 
+J0SHB0SH: calls $1.50
+*** FLOP *** [4h Ks 3s]
+J0SHB0SH: checks 
+Seavus10: bets $1.74
+J0SHB0SH: folds 
+Uncalled bet ($1.74) returned to Seavus10
+Seavus10 collected $5.22 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [4h Ks 3s]
+Seat 1: francescosal00
+Seat 3: iTrustU21
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) collected ($5.22)
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254775214166:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:04:39 WET [2025/02/08 19:04:39 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 3: iTrustU21 ($100 in chips) is sitting out
+Seat 1: francescosal00 ($24.97 in chips) 
+Seat 2: kvcsszblcs ($157.06 in chips) 
+Seat 4: Seavus10 ($240.31 in chips) 
+Seat 5: steepfell ($104 in chips) 
+Seat 6: J0SHB0SH ($183.04 in chips) 
+J0SHB0SH: posts small blind $0.50
+francescosal00: posts big blind $1
+iTrustU21: sits out 
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+Uncalled bet ($0.50) returned to francescosal00
+francescosal00 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: iTrustU21
+Seat 1: francescosal00 (big blind) collected ($1)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded before Flop
+
+
+
+PokerStars Hand #254775217329:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:04:52 WET [2025/02/08 19:04:52 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 3: iTrustU21 ($100 in chips) is sitting out
+Seat 1: francescosal00 ($25.47 in chips) 
+Seat 2: kvcsszblcs ($157.06 in chips) 
+Seat 4: Seavus10 ($240.31 in chips) 
+Seat 5: steepfell ($104 in chips) 
+Seat 6: J0SHB0SH ($182.54 in chips) 
+francescosal00: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+iTrustU21: sits out 
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $0.50
+kvcsszblcs: raises $2.50 to $3.50
+francescosal00: folds 
+Uncalled bet ($2.50) returned to kvcsszblcs
+kvcsszblcs collected $2 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: iTrustU21
+Seat 1: francescosal00 (small blind) folded before Flop
+Seat 2: kvcsszblcs (big blind) collected ($2)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775224681:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:05:23 WET [2025/02/08 19:05:23 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: francescosal00 ($24.47 in chips) 
+Seat 2: kvcsszblcs ($158.06 in chips) 
+Seat 3: iTrustU21 ($100 in chips) 
+Seat 4: Seavus10 ($240.31 in chips) 
+Seat 5: steepfell ($104 in chips) 
+Seat 6: J0SHB0SH ($182.54 in chips) 
+kvcsszblcs: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: raises $1.50 to $2.50
+J0SHB0SH: folds 
+francescosal00: calls $2.50
+kvcsszblcs: folds 
+iTrustU21: raises $9.50 to $12
+steepfell: folds 
+francescosal00: folds 
+Uncalled bet ($9.50) returned to iTrustU21
+iTrustU21 collected $8 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: francescosal00 (button) folded before Flop
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 3: iTrustU21 (big blind) collected ($8)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775232288:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:05:56 WET [2025/02/08 19:05:56 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: francescosal00 ($21.97 in chips) 
+Seat 2: kvcsszblcs ($157.56 in chips) 
+Seat 3: iTrustU21 ($105.50 in chips) 
+Seat 4: Seavus10 ($240.31 in chips) 
+Seat 5: steepfell ($101.50 in chips) 
+Seat 6: J0SHB0SH ($182.54 in chips) 
+iTrustU21: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+J0SHB0SH: raises $1 to $2
+francescosal00: folds 
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: calls $1
+*** FLOP *** [Jh 6c As]
+Seavus10: checks 
+J0SHB0SH: bets $1.41
+Seavus10: folds 
+Uncalled bet ($1.41) returned to J0SHB0SH
+J0SHB0SH collected $4.28 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Jh 6c As]
+Seat 1: francescosal00 folded before Flop (didn't bet)
+Seat 2: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 3: iTrustU21 (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) folded on the Flop
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH collected ($4.28)
+
+
+
+PokerStars Hand #254775244653:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:06:49 WET [2025/02/08 19:06:49 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: francescosal00 ($21.97 in chips) 
+Seat 2: kvcsszblcs ($157.56 in chips) 
+Seat 3: iTrustU21 ($105 in chips) 
+Seat 4: Seavus10 ($238.31 in chips) 
+Seat 5: steepfell ($101.50 in chips) 
+Seat 6: J0SHB0SH ($184.82 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+francescosal00: calls $1
+kvcsszblcs: folds 
+iTrustU21: raises $2 to $3
+Seavus10: folds 
+steepfell: folds 
+francescosal00: calls $2
+*** FLOP *** [6s 9c 4c]
+francescosal00: checks 
+iTrustU21: bets $6.50
+francescosal00: calls $6.50
+*** TURN *** [6s 9c 4c] [2c]
+francescosal00: checks 
+iTrustU21: bets $14.61
+francescosal00: calls $12.47 and is all-in
+Uncalled bet ($2.14) returned to iTrustU21
+*** RIVER *** [6s 9c 4c 2c] [Jh]
+*** SHOW DOWN ***
+francescosal00: shows [Jc 8c] (a flush, Jack high)
+iTrustU21: shows [Qs 9h] (a pair of Nines)
+francescosal00 collected $42.60 from pot
+*** SUMMARY ***
+Total pot $45.44 | Rake $2.84 
+Board [6s 9c 4c 2c Jh]
+Seat 1: francescosal00 showed [Jc 8c] and won ($42.60) with a flush, Jack high
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 (button) showed [Qs 9h] and lost with a pair of Nines
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) folded before Flop
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775256339:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:07:39 WET [2025/02/08 19:07:39 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: francescosal00 ($42.60 in chips) 
+Seat 2: kvcsszblcs ($157.56 in chips) 
+Seat 3: iTrustU21 ($83.03 in chips) 
+Seat 4: Seavus10 ($237.81 in chips) 
+Seat 5: steepfell ($100.50 in chips) 
+Seat 6: J0SHB0SH ($184.82 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+francescosal00: folds 
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: raises $1.50 to $2.50
+steepfell: folds 
+J0SHB0SH: folds 
+Uncalled bet ($1.50) returned to Seavus10
+Seavus10 collected $2.50 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: francescosal00 folded before Flop (didn't bet)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) collected ($2.50)
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) folded before Flop
+
+
+
+PokerStars Hand #254775375191:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:16:28 WET [2025/02/08 19:16:28 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: francescosal00 ($43.28 in chips) 
+Seat 2: kvcsszblcs ($154.56 in chips) 
+Seat 3: iTrustU21 ($100.98 in chips) 
+Seat 4: Seavus10 ($239.88 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($185.02 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+francescosal00: folds 
+kvcsszblcs: raises $1 to $2
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: raises $9 to $11
+kvcsszblcs: folds 
+Uncalled bet ($9) returned to steepfell
+steepfell collected $4.50 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 1: francescosal00 folded before Flop (didn't bet)
+Seat 2: kvcsszblcs folded before Flop
+Seat 3: iTrustU21 (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) collected ($4.50)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775379956:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:16:49 WET [2025/02/08 19:16:49 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: francescosal00 ($43.28 in chips) 
+Seat 2: kvcsszblcs ($152.56 in chips) 
+Seat 3: iTrustU21 ($100.98 in chips) 
+Seat 4: Seavus10 ($239.38 in chips) 
+Seat 5: steepfell ($102.50 in chips) 
+Seat 6: J0SHB0SH ($185.02 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+francescosal00: calls $1
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: checks 
+*** FLOP *** [Kh 9c Qc]
+J0SHB0SH: checks 
+francescosal00: checks 
+*** TURN *** [Kh 9c Qc] [9h]
+J0SHB0SH: checks 
+francescosal00: checks 
+*** RIVER *** [Kh 9c Qc 9h] [3d]
+J0SHB0SH: checks 
+francescosal00: checks 
+*** SHOW DOWN ***
+J0SHB0SH: shows [Ah 6c] (a pair of Nines)
+francescosal00: mucks hand 
+J0SHB0SH collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Kh 9c Qc 9h 3d]
+Seat 1: francescosal00 mucked
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) showed [Ah 6c] and won ($2.38) with a pair of Nines
+
+
+
+PokerStars Hand #254775390910:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:17:39 WET [2025/02/08 19:17:39 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 1: francescosal00 ($42.28 in chips) 
+Seat 2: kvcsszblcs ($152.56 in chips) 
+Seat 3: iTrustU21 ($100.98 in chips) 
+Seat 4: Seavus10 ($239.38 in chips) 
+Seat 5: steepfell ($102 in chips) 
+Seat 6: J0SHB0SH ($186.40 in chips) 
+J0SHB0SH: posts small blind $0.50
+francescosal00: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: raises $1 to $2
+francescosal00: calls $1
+*** FLOP *** [Ac Kc Ks]
+J0SHB0SH: bets $1.25
+francescosal00: calls $1.25
+*** TURN *** [Ac Kc Ks] [7s]
+J0SHB0SH: checks 
+francescosal00: bets $10
+J0SHB0SH: folds 
+Uncalled bet ($10) returned to francescosal00
+francescosal00 collected $6.10 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.40 
+Board [Ac Kc Ks 7s]
+Seat 1: francescosal00 (big blind) collected ($6.10)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254775401747:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:18:29 WET [2025/02/08 19:18:29 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 1: francescosal00 ($45.13 in chips) 
+Seat 2: kvcsszblcs ($152.56 in chips) 
+Seat 3: iTrustU21 ($100.98 in chips) 
+Seat 4: Seavus10 ($239.38 in chips) 
+Seat 5: steepfell ($102 in chips) 
+Seat 6: J0SHB0SH ($183.15 in chips) 
+francescosal00: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+Seavus10: raises $1.20 to $2.20
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $1.70
+kvcsszblcs: folds 
+*** FLOP *** [2h 5c 4s]
+francescosal00: checks 
+Seavus10: checks 
+*** TURN *** [2h 5c 4s] [Th]
+francescosal00: checks 
+Seavus10: checks 
+*** RIVER *** [2h 5c 4s Th] [Kc]
+francescosal00: checks 
+Seavus10: bets $7.70
+francescosal00: folds 
+Uncalled bet ($7.70) returned to Seavus10
+Seavus10 collected $5.13 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0.27 
+Board [2h 5c 4s Th Kc]
+Seat 1: francescosal00 (small blind) folded on the River
+Seat 2: kvcsszblcs (big blind) folded before Flop
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 collected ($5.13)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775416459:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:19:35 WET [2025/02/08 19:19:35 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: francescosal00 ($42.93 in chips) 
+Seat 2: kvcsszblcs ($151.56 in chips) 
+Seat 3: iTrustU21 ($100.98 in chips) 
+Seat 4: Seavus10 ($242.31 in chips) 
+Seat 5: steepfell ($102 in chips) 
+Seat 6: J0SHB0SH ($183.15 in chips) 
+kvcsszblcs: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $1
+kvcsszblcs: folds 
+iTrustU21: checks 
+*** FLOP *** [Kh Ah Js]
+iTrustU21: checks 
+francescosal00: checks 
+*** TURN *** [Kh Ah Js] [Kc]
+iTrustU21: checks 
+francescosal00: checks 
+*** RIVER *** [Kh Ah Js Kc] [8s]
+iTrustU21: bets $1
+francescosal00: calls $1
+*** SHOW DOWN ***
+iTrustU21: shows [8c Th] (two pair, Kings and Eights)
+francescosal00: shows [9h 8h] (two pair, Kings and Eights)
+iTrustU21 collected $2.14 from pot
+francescosal00 collected $2.11 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.25 
+Board [Kh Ah Js Kc 8s]
+Seat 1: francescosal00 (button) showed [9h 8h] and won ($2.11) with two pair, Kings and Eights
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 3: iTrustU21 (big blind) showed [8c Th] and won ($2.14) with two pair, Kings and Eights
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775423690:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:20:08 WET [2025/02/08 19:20:08 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: francescosal00 ($43.04 in chips) 
+Seat 2: kvcsszblcs ($151.06 in chips) 
+Seat 3: iTrustU21 ($101.12 in chips) 
+Seat 4: Seavus10 ($242.31 in chips) 
+Seat 5: steepfell ($102 in chips) 
+Seat 6: J0SHB0SH ($183.15 in chips) 
+iTrustU21: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: folds 
+kvcsszblcs: folds 
+iTrustU21: folds 
+Uncalled bet ($0.50) returned to Seavus10
+Seavus10 collected $1 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: francescosal00 folded before Flop (didn't bet)
+Seat 2: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 3: iTrustU21 (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) collected ($1)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775427313:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:20:25 WET [2025/02/08 19:20:25 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: francescosal00 ($43.04 in chips) 
+Seat 2: kvcsszblcs ($151.06 in chips) 
+Seat 3: iTrustU21 ($100.62 in chips) 
+Seat 4: Seavus10 ($242.81 in chips) 
+Seat 5: steepfell ($102 in chips) 
+Seat 6: J0SHB0SH ($183.15 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+francescosal00: calls $1
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: checks 
+*** FLOP *** [7c 9c Qd]
+steepfell: checks 
+francescosal00: checks 
+*** TURN *** [7c 9c Qd] [3h]
+steepfell: checks 
+francescosal00: checks 
+*** RIVER *** [7c 9c Qd 3h] [Kd]
+steepfell: checks 
+francescosal00: bets $10
+steepfell: folds 
+Uncalled bet ($10) returned to francescosal00
+francescosal00 collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.15 
+Board [7c 9c Qd 3h Kd]
+Seat 1: francescosal00 collected ($2.35)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) folded on the River
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775435013:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:21:00 WET [2025/02/08 19:21:00 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: francescosal00 ($44.39 in chips) 
+Seat 2: kvcsszblcs ($151.06 in chips) 
+Seat 3: iTrustU21 ($100.62 in chips) 
+Seat 4: Seavus10 ($242.31 in chips) 
+Seat 5: steepfell ($101 in chips) 
+Seat 6: J0SHB0SH ($183.15 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+francescosal00: folds 
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: raises $1.50 to $2.50
+steepfell: folds 
+J0SHB0SH: folds 
+Uncalled bet ($1.50) returned to Seavus10
+Seavus10 collected $2.50 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: francescosal00 folded before Flop (didn't bet)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) collected ($2.50)
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) folded before Flop
+
+
+
+PokerStars Hand #254775439110:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:21:19 WET [2025/02/08 19:21:19 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 1: francescosal00 ($44.39 in chips) 
+Seat 2: kvcsszblcs ($151.06 in chips) 
+Seat 3: iTrustU21 ($100.62 in chips) 
+Seat 4: Seavus10 ($243.81 in chips) 
+Seat 5: steepfell ($100.50 in chips) 
+Seat 6: J0SHB0SH ($182.15 in chips) 
+J0SHB0SH: posts small blind $0.50
+francescosal00: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: raises $2 to $3
+francescosal00: calls $2
+*** FLOP *** [8d 4s 8c]
+J0SHB0SH: checks 
+francescosal00: checks 
+*** TURN *** [8d 4s 8c] [8h]
+J0SHB0SH: checks 
+francescosal00: checks 
+*** RIVER *** [8d 4s 8c 8h] [Th]
+J0SHB0SH: bets $1.88
+francescosal00: calls $1.88
+*** SHOW DOWN ***
+J0SHB0SH: shows [Ts 9h] (a full house, Eights full of Tens)
+francescosal00: mucks hand 
+J0SHB0SH collected $9.27 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [8d 4s 8c 8h Th]
+Seat 1: francescosal00 (big blind) mucked
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) showed [Ts 9h] and won ($9.27) with a full house, Eights full of Tens
+
+
+
+PokerStars Hand #254775447302:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:21:57 WET [2025/02/08 19:21:57 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 1: francescosal00 ($39.51 in chips) 
+Seat 2: kvcsszblcs ($151.06 in chips) 
+Seat 3: iTrustU21 ($100.62 in chips) 
+Seat 4: Seavus10 ($243.81 in chips) 
+Seat 5: steepfell ($100.50 in chips) 
+Seat 6: J0SHB0SH ($186.54 in chips) 
+francescosal00: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $0.50
+kvcsszblcs: raises $3 to $4
+francescosal00: calls $3
+*** FLOP *** [Jd 7d 7c]
+francescosal00: checks 
+kvcsszblcs: bets $3.80
+francescosal00: calls $3.80
+*** TURN *** [Jd 7d 7c] [6d]
+francescosal00: bets $9
+kvcsszblcs: folds 
+Uncalled bet ($9) returned to francescosal00
+francescosal00 collected $14.62 from pot
+*** SUMMARY ***
+Total pot $15.60 | Rake $0.98 
+Board [Jd 7d 7c 6d]
+Seat 1: francescosal00 (small blind) collected ($14.62)
+Seat 2: kvcsszblcs (big blind) folded on the Turn
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775461286:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:23:01 WET [2025/02/08 19:23:01 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: francescosal00 ($46.33 in chips) 
+Seat 2: kvcsszblcs ($143.26 in chips) 
+Seat 3: iTrustU21 ($100.62 in chips) 
+Seat 4: Seavus10 ($243.81 in chips) 
+Seat 5: steepfell ($100.50 in chips) 
+Seat 6: J0SHB0SH ($186.54 in chips) 
+kvcsszblcs: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: raises $1.50 to $2.50
+francescosal00: folds 
+kvcsszblcs: folds 
+iTrustU21: folds 
+Uncalled bet ($1.50) returned to J0SHB0SH
+J0SHB0SH collected $2.50 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: francescosal00 (button) folded before Flop (didn't bet)
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 3: iTrustU21 (big blind) folded before Flop
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH collected ($2.50)
+
+
+
+PokerStars Hand #254775464612:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:23:17 WET [2025/02/08 19:23:17 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: francescosal00 ($46.33 in chips) 
+Seat 2: kvcsszblcs ($142.76 in chips) 
+Seat 3: iTrustU21 ($99.62 in chips) 
+Seat 4: Seavus10 ($243.81 in chips) 
+Seat 5: steepfell ($100.50 in chips) 
+Seat 6: J0SHB0SH ($188.04 in chips) 
+iTrustU21: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: raises $1.50 to $2.50
+J0SHB0SH: folds 
+francescosal00: calls $2.50
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+*** FLOP *** [9d Jc 7c]
+steepfell: checks 
+francescosal00: checks 
+*** TURN *** [9d Jc 7c] [6d]
+steepfell: bets $3.09
+francescosal00: calls $3.09
+*** RIVER *** [9d Jc 7c 6d] [9c]
+steepfell: bets $9.04
+francescosal00: calls $9.04
+*** SHOW DOWN ***
+steepfell: shows [As 9s] (three of a kind, Nines)
+francescosal00: shows [9h Ad] (three of a kind, Nines)
+steepfell collected $14.61 from pot
+francescosal00 collected $14.42 from pot
+*** SUMMARY ***
+Total pot $30.76 | Rake $1.73 
+Board [9d Jc 7c 6d 9c]
+Seat 1: francescosal00 showed [9h Ad] and won ($14.42) with three of a kind, Nines
+Seat 2: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 3: iTrustU21 (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) folded before Flop
+Seat 5: steepfell showed [As 9s] and won ($14.61) with three of a kind, Nines
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775473767:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:23:58 WET [2025/02/08 19:23:58 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: francescosal00 ($46.12 in chips) 
+Seat 2: kvcsszblcs ($142.76 in chips) 
+Seat 3: iTrustU21 ($99.12 in chips) 
+Seat 4: Seavus10 ($242.81 in chips) 
+Seat 5: steepfell ($100.48 in chips) 
+Seat 6: J0SHB0SH ($188.04 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+francescosal00: calls $1
+kvcsszblcs: folds 
+iTrustU21: raises $2.50 to $3.50
+Seavus10: raises $8.50 to $12
+steepfell: folds 
+francescosal00: folds 
+iTrustU21: folds 
+Uncalled bet ($8.50) returned to Seavus10
+Seavus10 collected $9 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: francescosal00 folded before Flop
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 (button) folded before Flop
+Seat 4: Seavus10 (small blind) collected ($9)
+Seat 5: steepfell (big blind) folded before Flop
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775486207:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:24:55 WET [2025/02/08 19:24:55 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: francescosal00 ($45.12 in chips) 
+Seat 2: kvcsszblcs ($142.76 in chips) 
+Seat 3: iTrustU21 ($95.62 in chips) 
+Seat 4: Seavus10 ($248.31 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($188.04 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+francescosal00: raises $1 to $2
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+Uncalled bet ($1) returned to francescosal00
+francescosal00 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: francescosal00 collected ($2.50)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) folded before Flop
+
+
+
+PokerStars Hand #254775491109:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:25:18 WET [2025/02/08 19:25:18 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 1: francescosal00 ($46.62 in chips) 
+Seat 2: kvcsszblcs ($142.76 in chips) 
+Seat 3: iTrustU21 ($95.62 in chips) 
+Seat 4: Seavus10 ($248.31 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($187.04 in chips) 
+J0SHB0SH: posts small blind $0.50
+francescosal00: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: raises $1 to $2
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $1
+*** FLOP *** [Ad Qd 3d]
+francescosal00: checks 
+kvcsszblcs: checks 
+*** TURN *** [Ad Qd 3d] [6d]
+francescosal00: bets $2
+kvcsszblcs: calls $2
+*** RIVER *** [Ad Qd 3d 6d] [3h]
+francescosal00: checks 
+kvcsszblcs: checks 
+*** SHOW DOWN ***
+francescosal00: shows [7c 8h] (a pair of Threes)
+kvcsszblcs: shows [Ks Qh] (two pair, Queens and Threes)
+kvcsszblcs collected $8.08 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [Ad Qd 3d 6d 3h]
+Seat 1: francescosal00 (big blind) showed [7c 8h] and lost with a pair of Threes
+Seat 2: kvcsszblcs showed [Ks Qh] and won ($8.08) with two pair, Queens and Threes
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded before Flop
+
+
+
+PokerStars Hand #254775500220:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:25:59 WET [2025/02/08 19:25:59 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 1: francescosal00 ($42.62 in chips) 
+Seat 2: kvcsszblcs ($146.84 in chips) 
+Seat 3: iTrustU21 ($95.62 in chips) 
+Seat 4: Seavus10 ($248.31 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($186.54 in chips) 
+francescosal00: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: raises $1.50 to $2.50
+francescosal00: calls $2
+kvcsszblcs: folds 
+*** FLOP *** [Qh Jd Th]
+francescosal00: checks 
+J0SHB0SH: checks 
+*** TURN *** [Qh Jd Th] [Js]
+francescosal00: checks 
+J0SHB0SH: checks 
+*** RIVER *** [Qh Jd Th Js] [5d]
+francescosal00: checks 
+J0SHB0SH: checks 
+*** SHOW DOWN ***
+francescosal00: shows [3d 6d] (a pair of Jacks)
+J0SHB0SH: shows [8s Ac] (a pair of Jacks - Ace kicker)
+J0SHB0SH collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Qh Jd Th Js 5d]
+Seat 1: francescosal00 (small blind) showed [3d 6d] and lost with a pair of Jacks
+Seat 2: kvcsszblcs (big blind) folded before Flop
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (button) showed [8s Ac] and won ($5.70) with a pair of Jacks
+
+
+
+PokerStars Hand #254775506949:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:26:31 WET [2025/02/08 19:26:31 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: francescosal00 ($40.12 in chips) 
+Seat 2: kvcsszblcs ($145.84 in chips) 
+Seat 3: iTrustU21 ($95.62 in chips) 
+Seat 4: Seavus10 ($248.31 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($189.74 in chips) 
+kvcsszblcs: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: raises $1.50 to $2.50
+J0SHB0SH: folds 
+francescosal00: calls $2.50
+kvcsszblcs: folds 
+iTrustU21: folds 
+*** FLOP *** [Ks Td 8c]
+steepfell: checks 
+francescosal00: bets $10
+steepfell: folds 
+Uncalled bet ($10) returned to francescosal00
+francescosal00 collected $6.10 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.40 
+Board [Ks Td 8c]
+Seat 1: francescosal00 (button) collected ($6.10)
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 3: iTrustU21 (big blind) folded before Flop
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded on the Flop
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775513267:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:27:00 WET [2025/02/08 19:27:00 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: francescosal00 ($43.72 in chips) 
+Seat 2: kvcsszblcs ($145.34 in chips) 
+Seat 3: iTrustU21 ($100 in chips) 
+Seat 4: Seavus10 ($248.31 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($189.74 in chips) 
+iTrustU21: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $1
+kvcsszblcs: raises $3 to $4
+iTrustU21: folds 
+Seavus10: raises $8 to $12
+francescosal00: calls $11
+kvcsszblcs: folds 
+*** FLOP *** [7c 3d 3s]
+Seavus10: checks 
+francescosal00: bets $31.72 and is all-in
+Seavus10: calls $31.72
+*** TURN *** [7c 3d 3s] [Tc]
+*** RIVER *** [7c 3d 3s Tc] [8d]
+*** SHOW DOWN ***
+Seavus10: shows [Qh As] (a pair of Threes)
+francescosal00: shows [Kh Qc] (a pair of Threes - lower kicker)
+Seavus10 collected $89.44 from pot
+*** SUMMARY ***
+Total pot $91.94 | Rake $2.50 
+Board [7c 3d 3s Tc 8d]
+Seat 1: francescosal00 showed [Kh Qc] and lost with a pair of Threes
+Seat 2: kvcsszblcs (button) folded before Flop
+Seat 3: iTrustU21 (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) showed [Qh As] and won ($89.44) with a pair of Threes
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775527609:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:28:08 WET [2025/02/08 19:28:08 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: francescosal00 ($0 in chips) is sitting out
+Seat 2: kvcsszblcs ($141.34 in chips) 
+Seat 3: iTrustU21 ($99.50 in chips) 
+Seat 4: Seavus10 ($294.03 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($189.74 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+Uncalled bet ($0.50) returned to steepfell
+steepfell collected $1 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: francescosal00
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) collected ($1)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775531136:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:28:24 WET [2025/02/08 19:28:24 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: francescosal00 ($34.06 in chips) 
+Seat 2: kvcsszblcs ($141.34 in chips) 
+Seat 3: iTrustU21 ($99.50 in chips) 
+Seat 4: Seavus10 ($293.53 in chips) 
+Seat 5: steepfell ($100.50 in chips) 
+Seat 6: J0SHB0SH ($189.74 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+francescosal00: calls $1
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: checks 
+*** FLOP *** [7c As Qh]
+J0SHB0SH: checks 
+francescosal00: checks 
+*** TURN *** [7c As Qh] [Jc]
+J0SHB0SH: checks 
+francescosal00: checks 
+*** RIVER *** [7c As Qh Jc] [2h]
+J0SHB0SH: bets $1.57
+francescosal00: raises $1.57 to $3.14
+J0SHB0SH: folds 
+Uncalled bet ($1.57) returned to francescosal00
+francescosal00 collected $5.29 from pot
+*** SUMMARY ***
+Total pot $5.64 | Rake $0.35 
+Board [7c As Qh Jc 2h]
+Seat 1: francescosal00 collected ($5.29)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) folded on the River
+
+
+
+PokerStars Hand #254775543738:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:29:25 WET [2025/02/08 19:29:25 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 1: francescosal00 ($36.78 in chips) 
+Seat 2: kvcsszblcs ($141.34 in chips) 
+Seat 3: iTrustU21 ($99.50 in chips) 
+Seat 4: Seavus10 ($293.53 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($187.17 in chips) 
+J0SHB0SH: posts small blind $0.50
+francescosal00: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+iTrustU21: raises $1.50 to $2.50
+Seavus10: raises $5 to $7.50
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: folds 
+iTrustU21: raises $12 to $19.50
+Seavus10: folds 
+Uncalled bet ($12) returned to iTrustU21
+iTrustU21 collected $16.50 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0 
+Seat 1: francescosal00 (big blind) folded before Flop
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 collected ($16.50)
+Seat 4: Seavus10 folded before Flop
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded before Flop
+
+
+
+PokerStars Hand #254775549417:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:29:51 WET [2025/02/08 19:29:51 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 1: francescosal00 ($35.78 in chips) 
+Seat 2: kvcsszblcs ($141.34 in chips) 
+Seat 3: iTrustU21 ($108.50 in chips) 
+Seat 4: Seavus10 ($286.03 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($186.67 in chips) 
+francescosal00: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: raises $1.50 to $2.50
+J0SHB0SH: folds 
+francescosal00: folds 
+kvcsszblcs: raises $9.50 to $12
+steepfell: calls $9.50
+*** FLOP *** [Td Ks 6s]
+kvcsszblcs: bets $11.65
+steepfell: calls $11.65
+*** TURN *** [Td Ks 6s] [2d]
+kvcsszblcs: checks 
+steepfell: checks 
+*** RIVER *** [Td Ks 6s 2d] [Jc]
+kvcsszblcs: bets $34.06
+steepfell: raises $42.29 to $76.35 and is all-in
+kvcsszblcs: calls $42.29
+*** SHOW DOWN ***
+steepfell: shows [Ad Qh] (a straight, Ten to Ace)
+kvcsszblcs: shows [Qs As] (a straight, Ten to Ace)
+kvcsszblcs collected $99 from pot
+steepfell collected $99 from pot
+*** SUMMARY ***
+Total pot $200.50 | Rake $2.50 
+Board [Td Ks 6s 2d Jc]
+Seat 1: francescosal00 (small blind) folded before Flop
+Seat 2: kvcsszblcs (big blind) showed [Qs As] and won ($99) with a straight, Ten to Ace
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell showed [Ad Qh] and won ($99) with a straight, Ten to Ace
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775569081:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:31:24 WET [2025/02/08 19:31:24 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: francescosal00 ($35.28 in chips) 
+Seat 2: kvcsszblcs ($140.34 in chips) 
+Seat 3: iTrustU21 ($108.50 in chips) 
+Seat 4: Seavus10 ($286.03 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($186.67 in chips) 
+kvcsszblcs: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $1
+kvcsszblcs: folds 
+iTrustU21: checks 
+*** FLOP *** [7s Qc 8c]
+iTrustU21: checks 
+francescosal00: checks 
+*** TURN *** [7s Qc 8c] [Ad]
+iTrustU21: checks 
+francescosal00: checks 
+*** RIVER *** [7s Qc 8c Ad] [4s]
+iTrustU21: bets $1.20
+francescosal00: raises $1.20 to $2.40
+iTrustU21: folds 
+Uncalled bet ($1.20) returned to francescosal00
+francescosal00 collected $4.60 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.30 
+Board [7s Qc 8c Ad 4s]
+Seat 1: francescosal00 (button) collected ($4.60)
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 3: iTrustU21 (big blind) folded on the River
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775577289:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:32:04 WET [2025/02/08 19:32:04 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: francescosal00 ($37.68 in chips) 
+Seat 2: kvcsszblcs ($139.84 in chips) 
+Seat 3: iTrustU21 ($106.30 in chips) 
+Seat 4: Seavus10 ($286.03 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($186.67 in chips) 
+iTrustU21: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+J0SHB0SH: raises $1 to $2
+francescosal00: folds 
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: calls $1
+*** FLOP *** [Ks Ts 2h]
+Seavus10: checks 
+J0SHB0SH: checks 
+*** TURN *** [Ks Ts 2h] [6h]
+Seavus10: checks 
+J0SHB0SH: checks 
+*** RIVER *** [Ks Ts 2h 6h] [Qh]
+Seavus10: bets $10.91
+J0SHB0SH: folds 
+Uncalled bet ($10.91) returned to Seavus10
+Seavus10 collected $4.28 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ks Ts 2h 6h Qh]
+Seat 1: francescosal00 folded before Flop (didn't bet)
+Seat 2: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 3: iTrustU21 (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) collected ($4.28)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded on the River
+
+
+
+PokerStars Hand #254775590596:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:33:06 WET [2025/02/08 19:33:06 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: francescosal00 ($37.68 in chips) 
+Seat 2: kvcsszblcs ($139.84 in chips) 
+Seat 3: iTrustU21 ($105.80 in chips) 
+Seat 4: Seavus10 ($288.31 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($184.67 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+francescosal00: calls $1
+kvcsszblcs: folds 
+iTrustU21: raises $3 to $4
+Seavus10: folds 
+steepfell: folds 
+francescosal00: calls $3
+*** FLOP *** [2s Qd 6h]
+francescosal00: checks 
+iTrustU21: bets $3
+francescosal00: calls $3
+*** TURN *** [2s Qd 6h] [6s]
+francescosal00: checks 
+iTrustU21: checks 
+*** RIVER *** [2s Qd 6h 6s] [Tc]
+francescosal00: bets $10
+iTrustU21: folds 
+Uncalled bet ($10) returned to francescosal00
+francescosal00 collected $14.52 from pot
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.98 
+Board [2s Qd 6h 6s Tc]
+Seat 1: francescosal00 collected ($14.52)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 (button) folded on the River
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) folded before Flop
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775600737:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:33:55 WET [2025/02/08 19:33:55 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: francescosal00 ($45.20 in chips) 
+Seat 2: kvcsszblcs ($139.84 in chips) 
+Seat 3: iTrustU21 ($98.80 in chips) 
+Seat 4: Seavus10 ($287.81 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($184.67 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+francescosal00: calls $1
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: raises $2.50 to $3.50
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $2.50
+*** FLOP *** [4s Jh Kd]
+francescosal00: checks 
+Seavus10: bets $2.69
+francescosal00: folds 
+Uncalled bet ($2.69) returned to Seavus10
+Seavus10 collected $8.08 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [4s Jh Kd]
+Seat 1: francescosal00 folded on the Flop
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) collected ($8.08)
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) folded before Flop
+
+
+
+PokerStars Hand #254775610711:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:34:42 WET [2025/02/08 19:34:42 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 1: francescosal00 ($41.70 in chips) 
+Seat 2: kvcsszblcs ($139.84 in chips) 
+Seat 3: iTrustU21 ($98.80 in chips) 
+Seat 4: Seavus10 ($292.39 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($183.67 in chips) 
+J0SHB0SH: posts small blind $0.50
+francescosal00: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: raises $1 to $2
+iTrustU21: calls $2
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: raises $10 to $12
+francescosal00: folds 
+kvcsszblcs: raises $16 to $28
+iTrustU21: folds 
+J0SHB0SH: raises $155.67 to $183.67 and is all-in
+kvcsszblcs: folds 
+Uncalled bet ($155.67) returned to J0SHB0SH
+J0SHB0SH collected $59 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $59 | Rake $0 
+Seat 1: francescosal00 (big blind) folded before Flop
+Seat 2: kvcsszblcs folded before Flop
+Seat 3: iTrustU21 folded before Flop
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) collected ($59)
+
+
+
+PokerStars Hand #254775621961:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:35:35 WET [2025/02/08 19:35:35 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 1: francescosal00 ($40.70 in chips) 
+Seat 2: kvcsszblcs ($111.84 in chips) 
+Seat 3: iTrustU21 ($100 in chips) 
+Seat 4: Seavus10 ($292.39 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($214.67 in chips) 
+francescosal00: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+Seavus10: raises $1.20 to $2.20
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: folds 
+kvcsszblcs: folds 
+Uncalled bet ($1.20) returned to Seavus10
+Seavus10 collected $2.50 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: francescosal00 (small blind) folded before Flop
+Seat 2: kvcsszblcs (big blind) folded before Flop
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 collected ($2.50)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775626713:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:35:58 WET [2025/02/08 19:35:58 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: francescosal00 ($40.20 in chips) 
+Seat 2: kvcsszblcs ($110.84 in chips) 
+Seat 3: iTrustU21 ($100 in chips) 
+Seat 4: Seavus10 ($293.89 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($214.67 in chips) 
+kvcsszblcs: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $1
+kvcsszblcs: folds 
+iTrustU21: checks 
+*** FLOP *** [9c 5d Kd]
+iTrustU21: checks 
+francescosal00: checks 
+*** TURN *** [9c 5d Kd] [7c]
+iTrustU21: bets $1.20
+francescosal00: folds 
+Uncalled bet ($1.20) returned to iTrustU21
+iTrustU21 collected $2.38 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [9c 5d Kd 7c]
+Seat 1: francescosal00 (button) folded on the Turn
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 3: iTrustU21 (big blind) collected ($2.38)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775633132:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:36:28 WET [2025/02/08 19:36:28 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: francescosal00 ($39.20 in chips) 
+Seat 2: kvcsszblcs ($110.34 in chips) 
+Seat 3: iTrustU21 ($101.38 in chips) 
+Seat 4: Seavus10 ($293.89 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($214.67 in chips) 
+iTrustU21: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: raises $1.50 to $2.50
+J0SHB0SH: folds 
+francescosal00: raises $1.50 to $4
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: raises $14 to $18
+francescosal00: raises $14 to $32
+steepfell: raises $14 to $46
+francescosal00: calls $7.20 and is all-in
+Uncalled bet ($6.80) returned to steepfell
+*** FLOP *** [Ts 5c 6c]
+*** TURN *** [Ts 5c 6c] [Qs]
+*** RIVER *** [Ts 5c 6c Qs] [7s]
+*** SHOW DOWN ***
+steepfell: shows [Ah Kh] (high card Ace)
+francescosal00: shows [Jd Jc] (a pair of Jacks)
+francescosal00 collected $76.78 from pot
+*** SUMMARY ***
+Total pot $79.90 | Rake $3.12 
+Board [Ts 5c 6c Qs 7s]
+Seat 1: francescosal00 showed [Jd Jc] and won ($76.78) with a pair of Jacks
+Seat 2: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 3: iTrustU21 (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) folded before Flop
+Seat 5: steepfell showed [Ah Kh] and lost with high card Ace
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254775641150:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:37:07 WET [2025/02/08 19:37:07 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: francescosal00 ($76.78 in chips) 
+Seat 2: kvcsszblcs ($110.34 in chips) 
+Seat 3: iTrustU21 ($100.88 in chips) 
+Seat 4: Seavus10 ($292.89 in chips) 
+Seat 5: steepfell ($100 in chips) 
+Seat 6: J0SHB0SH ($214.67 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+francescosal00: calls $1
+kvcsszblcs: folds 
+iTrustU21: raises $2 to $3
+Seavus10: folds 
+steepfell: folds 
+francescosal00: calls $2
+*** FLOP *** [3s Kc 7d]
+francescosal00: checks 
+iTrustU21: bets $2.35
+francescosal00: raises $10.65 to $13
+iTrustU21: folds 
+Uncalled bet ($10.65) returned to francescosal00
+francescosal00 collected $11.44 from pot
+*** SUMMARY ***
+Total pot $12.20 | Rake $0.76 
+Board [3s Kc 7d]
+Seat 1: francescosal00 collected ($11.44)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 (button) folded on the Flop
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) folded before Flop
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254776247241:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:45:52 WET [2025/02/08 19:45:52 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: francescosal00 ($70.27 in chips) 
+Seat 2: kvcsszblcs ($103.04 in chips) 
+Seat 3: iTrustU21 ($95.50 in chips) 
+Seat 4: Seavus10 ($285.89 in chips) 
+Seat 5: steepfell ($130.28 in chips) 
+Seat 6: J0SHB0SH ($216.67 in chips) 
+iTrustU21: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: raises $1.50 to $2.50
+J0SHB0SH: folds 
+francescosal00: folds 
+kvcsszblcs: calls $2.50
+iTrustU21: folds 
+Seavus10: folds 
+*** FLOP *** [2c 8c Ah]
+steepfell: bets $3.09
+kvcsszblcs: calls $3.09
+*** TURN *** [2c 8c Ah] [6h]
+steepfell: bets $9.04
+kvcsszblcs: calls $9.04
+*** RIVER *** [2c 8c Ah 6h] [5h]
+steepfell: bets $21.92
+kvcsszblcs: folds 
+Uncalled bet ($21.92) returned to steepfell
+steepfell collected $29.22 from pot
+steepfell: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.76 | Rake $1.54 
+Board [2c 8c Ah 6h 5h]
+Seat 1: francescosal00 folded before Flop (didn't bet)
+Seat 2: kvcsszblcs (button) folded on the River
+Seat 3: iTrustU21 (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) folded before Flop
+Seat 5: steepfell collected ($29.22)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254776261323:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:47:05 WET [2025/02/08 19:47:05 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: francescosal00 ($70.27 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: iTrustU21 ($99.50 in chips) 
+Seat 4: Seavus10 ($284.89 in chips) 
+Seat 5: steepfell ($144.87 in chips) 
+Seat 6: J0SHB0SH ($216.67 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: raises $1 to $2
+francescosal00: folds 
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: calls $1
+*** FLOP *** [Ac 7h 6h]
+steepfell: checks 
+J0SHB0SH: bets $3.21
+steepfell: raises $8.79 to $12
+J0SHB0SH: calls $8.79
+*** TURN *** [Ac 7h 6h] [Jh]
+steepfell: bets $8.94
+J0SHB0SH: calls $8.94
+*** RIVER *** [Ac 7h 6h Jh] [Qc]
+steepfell: bets $22.03
+J0SHB0SH: calls $22.03
+*** SHOW DOWN ***
+steepfell: shows [7c 7s] (three of a kind, Sevens)
+J0SHB0SH: mucks hand 
+steepfell collected $87.94 from pot
+*** SUMMARY ***
+Total pot $90.44 | Rake $2.50 
+Board [Ac 7h 6h Jh Qc]
+Seat 1: francescosal00 folded before Flop (didn't bet)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) showed [7c 7s] and won ($87.94) with three of a kind, Sevens
+Seat 6: J0SHB0SH mucked
+
+
+
+PokerStars Hand #254776276497:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:48:21 WET [2025/02/08 19:48:21 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: francescosal00 ($70.27 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: iTrustU21 ($99.50 in chips) 
+Seat 4: Seavus10 ($284.39 in chips) 
+Seat 5: steepfell ($187.84 in chips) 
+Seat 6: J0SHB0SH ($171.70 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+francescosal00: raises $1 to $2
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: calls $1
+*** FLOP *** [8s Ah 9s]
+J0SHB0SH: checks 
+francescosal00: bets $1
+J0SHB0SH: calls $1
+*** TURN *** [8s Ah 9s] [Kd]
+J0SHB0SH: checks 
+francescosal00: bets $1
+J0SHB0SH: calls $1
+*** RIVER *** [8s Ah 9s Kd] [Tc]
+J0SHB0SH: checks 
+francescosal00: bets $5
+J0SHB0SH: folds 
+Uncalled bet ($5) returned to francescosal00
+francescosal00 collected $7.98 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.52 
+Board [8s Ah 9s Kd Tc]
+Seat 1: francescosal00 collected ($7.98)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) folded on the River
+
+
+
+PokerStars Hand #254776284642:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:49:03 WET [2025/02/08 19:49:03 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 1: francescosal00 ($74.25 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: iTrustU21 ($99.50 in chips) 
+Seat 4: Seavus10 ($284.39 in chips) 
+Seat 5: steepfell ($187.34 in chips) 
+Seat 6: J0SHB0SH ($167.70 in chips) 
+J0SHB0SH: posts small blind $0.50
+francescosal00: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: raises $1.20 to $2.20
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $1.20
+*** FLOP *** [4h 4s 8h]
+francescosal00: checks 
+Seavus10: bets $1.55
+francescosal00: calls $1.55
+*** TURN *** [4h 4s 8h] [8c]
+francescosal00: bets $10
+Seavus10: calls $10
+*** RIVER *** [4h 4s 8h 8c] [Ah]
+francescosal00: bets $10
+Seavus10: calls $10
+*** SHOW DOWN ***
+francescosal00: shows [6c 7s] (two pair, Eights and Fours)
+Seavus10: shows [5d 4d] (a full house, Fours full of Eights)
+Seavus10 collected $45.60 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $2.40 
+Board [4h 4s 8h 8c Ah]
+Seat 1: francescosal00 (big blind) showed [6c 7s] and lost with two pair, Eights and Fours
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 showed [5d 4d] and won ($45.60) with a full house, Fours full of Eights
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded before Flop
+
+
+
+PokerStars Hand #254776294847:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:49:55 WET [2025/02/08 19:49:55 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 1: francescosal00 ($50.50 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: iTrustU21 ($99.50 in chips) 
+Seat 4: Seavus10 ($306.24 in chips) 
+Seat 5: steepfell ($187.34 in chips) 
+Seat 6: J0SHB0SH ($167.20 in chips) 
+francescosal00: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: raises $1 to $2
+kvcsszblcs: calls $1
+*** FLOP *** [9s 5d 4h]
+francescosal00: checks 
+kvcsszblcs: bets $1.52
+francescosal00: calls $1.52
+*** TURN *** [9s 5d 4h] [3d]
+francescosal00: checks 
+kvcsszblcs: bets $4.42
+francescosal00: calls $4.42
+*** RIVER *** [9s 5d 4h 3d] [Ad]
+francescosal00: checks 
+kvcsszblcs: bets $7.55
+francescosal00: calls $7.55
+*** SHOW DOWN ***
+kvcsszblcs: shows [8h Th] (high card Ace)
+francescosal00: shows [7h Ah] (a pair of Aces)
+francescosal00 collected $29.04 from pot
+*** SUMMARY ***
+Total pot $30.98 | Rake $1.94 
+Board [9s 5d 4h 3d Ad]
+Seat 1: francescosal00 (small blind) showed [7h Ah] and won ($29.04) with a pair of Aces
+Seat 2: kvcsszblcs (big blind) showed [8h Th] and lost with high card Ace
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254776309567:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:51:11 WET [2025/02/08 19:51:11 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: francescosal00 ($64.05 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: iTrustU21 ($99.50 in chips) 
+Seat 4: Seavus10 ($306.24 in chips) 
+Seat 5: steepfell ($187.34 in chips) 
+Seat 6: J0SHB0SH ($167.20 in chips) 
+kvcsszblcs: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: raises $1 to $2
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: folds 
+kvcsszblcs: folds 
+iTrustU21: folds 
+Uncalled bet ($1) returned to Seavus10
+Seavus10 collected $2.50 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: francescosal00 (button) folded before Flop (didn't bet)
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 3: iTrustU21 (big blind) folded before Flop
+Seat 4: Seavus10 collected ($2.50)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254776312195:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:51:24 WET [2025/02/08 19:51:24 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: francescosal00 ($64.05 in chips) 
+Seat 2: kvcsszblcs ($100 in chips) 
+Seat 3: iTrustU21 ($98.50 in chips) 
+Seat 4: Seavus10 ($307.74 in chips) 
+Seat 5: steepfell ($187.34 in chips) 
+Seat 6: J0SHB0SH ($167.20 in chips) 
+iTrustU21: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: folds 
+kvcsszblcs: raises $1.25 to $2.25
+iTrustU21: folds 
+Seavus10: calls $1.25
+*** FLOP *** [4h 6c 8s]
+Seavus10: checks 
+kvcsszblcs: checks 
+*** TURN *** [4h 6c 8s] [Kc]
+Seavus10: checks 
+kvcsszblcs: bets $7.13
+Seavus10: folds 
+Uncalled bet ($7.13) returned to kvcsszblcs
+kvcsszblcs collected $4.75 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [4h 6c 8s Kc]
+Seat 1: francescosal00 folded before Flop (didn't bet)
+Seat 2: kvcsszblcs (button) collected ($4.75)
+Seat 3: iTrustU21 (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) folded on the Turn
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254776322780:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:52:19 WET [2025/02/08 19:52:19 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: francescosal00 ($64.05 in chips) 
+Seat 2: kvcsszblcs ($102.50 in chips) 
+Seat 3: iTrustU21 ($98 in chips) 
+Seat 4: Seavus10 ($305.49 in chips) 
+Seat 5: steepfell ($187.34 in chips) 
+Seat 6: J0SHB0SH ($167.20 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+francescosal00: raises $1 to $2
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+Uncalled bet ($1) returned to francescosal00
+francescosal00 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: francescosal00 collected ($2.50)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) folded before Flop
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254776326484:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:52:38 WET [2025/02/08 19:52:38 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: francescosal00 ($65.55 in chips) 
+Seat 2: kvcsszblcs ($102.50 in chips) 
+Seat 3: iTrustU21 ($100 in chips) 
+Seat 4: Seavus10 ($304.99 in chips) 
+Seat 5: steepfell ($186.34 in chips) 
+Seat 6: J0SHB0SH ($167.20 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+francescosal00: folds 
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+Uncalled bet ($0.50) returned to J0SHB0SH
+J0SHB0SH collected $1 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: francescosal00 folded before Flop (didn't bet)
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) collected ($1)
+
+
+
+PokerStars Hand #254776331003:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:53:01 WET [2025/02/08 19:53:01 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 1: francescosal00 ($65.55 in chips) 
+Seat 2: kvcsszblcs ($102.50 in chips) 
+Seat 3: iTrustU21 ($100 in chips) 
+Seat 4: Seavus10 ($304.99 in chips) 
+Seat 5: steepfell ($185.84 in chips) 
+Seat 6: J0SHB0SH ($167.70 in chips) 
+J0SHB0SH: posts small blind $0.50
+francescosal00: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: folds 
+iTrustU21: raises $1.50 to $2.50
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $1.50
+*** FLOP *** [Tc Jc 3c]
+francescosal00: checks 
+iTrustU21: bets $2.51
+francescosal00: calls $2.51
+*** TURN *** [Tc Jc 3c] [7c]
+francescosal00: checks 
+iTrustU21: bets $2.70
+francescosal00: calls $2.70
+*** RIVER *** [Tc Jc 3c 7c] [Jd]
+francescosal00: checks 
+iTrustU21: checks 
+*** SHOW DOWN ***
+francescosal00: shows [2c 2d] (a flush, Jack high)
+iTrustU21: mucks hand 
+francescosal00 collected $14.92 from pot
+*** SUMMARY ***
+Total pot $15.92 | Rake $1 
+Board [Tc Jc 3c 7c Jd]
+Seat 1: francescosal00 (big blind) showed [2c 2d] and won ($14.92) with a flush, Jack high
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 mucked
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded before Flop
+
+
+
+PokerStars Hand #254776338118:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:53:39 WET [2025/02/08 19:53:39 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 1: francescosal00 ($72.76 in chips) 
+Seat 2: kvcsszblcs ($102.50 in chips) 
+Seat 3: iTrustU21 ($92.29 in chips) 
+Seat 4: Seavus10 ($304.99 in chips) 
+Seat 5: steepfell ($185.84 in chips) 
+Seat 6: J0SHB0SH ($167.20 in chips) 
+francescosal00: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: raises $1.20 to $2.20
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $1.70
+kvcsszblcs: folds 
+*** FLOP *** [9h Kc 3c]
+francescosal00: checks 
+iTrustU21: checks 
+*** TURN *** [9h Kc 3c] [3s]
+francescosal00: checks 
+iTrustU21: bets $2.46
+francescosal00: folds 
+Uncalled bet ($2.46) returned to iTrustU21
+iTrustU21 collected $5.13 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.40 | Rake $0.27 
+Board [9h Kc 3c 3s]
+Seat 1: francescosal00 (small blind) folded on the Turn
+Seat 2: kvcsszblcs (big blind) folded before Flop
+Seat 3: iTrustU21 collected ($5.13)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254776345570:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:54:19 WET [2025/02/08 19:54:19 ET]
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: francescosal00 ($70.56 in chips) 
+Seat 2: kvcsszblcs ($101.50 in chips) 
+Seat 3: iTrustU21 ($100 in chips) 
+Seat 4: Seavus10 ($304.99 in chips) 
+Seat 5: steepfell ($185.84 in chips) 
+Seat 6: J0SHB0SH ($167.20 in chips) 
+kvcsszblcs: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: raises $1.50 to $2.50
+francescosal00: folds 
+kvcsszblcs: folds 
+iTrustU21: raises $8.50 to $11
+J0SHB0SH: folds 
+Uncalled bet ($8.50) returned to iTrustU21
+iTrustU21 collected $5.50 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: francescosal00 (button) folded before Flop (didn't bet)
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 3: iTrustU21 (big blind) collected ($5.50)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop
+
+
+
+PokerStars Hand #254776349775:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:54:41 WET [2025/02/08 19:54:41 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 1: francescosal00 ($70.56 in chips) 
+Seat 2: kvcsszblcs ($101 in chips) 
+Seat 3: iTrustU21 ($103 in chips) 
+Seat 4: Seavus10 ($304.99 in chips) 
+Seat 5: steepfell ($185.84 in chips) 
+Seat 6: J0SHB0SH ($164.70 in chips) 
+iTrustU21: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $1
+kvcsszblcs: raises $3 to $4
+iTrustU21: folds 
+Seavus10: folds 
+francescosal00: calls $3
+*** FLOP *** [8s 4h 2c]
+francescosal00: checks 
+kvcsszblcs: bets $3.61
+francescosal00: calls $3.61
+*** TURN *** [8s 4h 2c] [9h]
+francescosal00: bets $10
+kvcsszblcs: calls $10
+*** RIVER *** [8s 4h 2c 9h] [Ts]
+francescosal00: bets $20
+kvcsszblcs: calls $20
+*** SHOW DOWN ***
+francescosal00: shows [Ah 5c] (high card Ace)
+kvcsszblcs: shows [Td 6d] (a pair of Tens)
+kvcsszblcs collected $74.22 from pot
+*** SUMMARY ***
+Total pot $76.72 | Rake $2.50 
+Board [8s 4h 2c 9h Ts]
+Seat 1: francescosal00 showed [Ah 5c] and lost with high card Ace
+Seat 2: kvcsszblcs (button) showed [Td 6d] and won ($74.22) with a pair of Tens
+Seat 3: iTrustU21 (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) folded before Flop
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254776359159:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:55:38 WET [2025/02/08 19:55:38 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: francescosal00 ($32.95 in chips) 
+Seat 2: kvcsszblcs ($137.61 in chips) 
+Seat 3: iTrustU21 ($102.50 in chips) 
+Seat 4: Seavus10 ($303.99 in chips) 
+Seat 5: steepfell ($185.84 in chips) 
+Seat 6: J0SHB0SH ($164.70 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: raises $1 to $2
+francescosal00: calls $2
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+*** FLOP *** [4s Js 4d]
+J0SHB0SH: checks 
+francescosal00: checks 
+*** TURN *** [4s Js 4d] [Td]
+J0SHB0SH: bets $7.83
+francescosal00: folds 
+Uncalled bet ($7.83) returned to J0SHB0SH
+J0SHB0SH collected $5.22 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [4s Js 4d Td]
+Seat 1: francescosal00 folded on the Turn
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 5: steepfell (big blind) folded before Flop
+Seat 6: J0SHB0SH collected ($5.22)
+
+
+
+PokerStars Hand #254776363709:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:56:08 WET [2025/02/08 19:56:08 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 1: francescosal00 ($30.95 in chips) 
+Seat 2: kvcsszblcs ($137.61 in chips) 
+Seat 3: iTrustU21 ($102.50 in chips) 
+Seat 4: Seavus10 ($303.49 in chips) 
+Seat 5: steepfell ($184.84 in chips) 
+Seat 6: J0SHB0SH ($167.92 in chips) 
+steepfell: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+francescosal00: raises $4 to $5
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: raises $7.50 to $12.50
+steepfell: folds 
+J0SHB0SH: folds 
+francescosal00: calls $7.50
+*** FLOP *** [Kh 3c 8d]
+francescosal00: checks 
+Seavus10: bets $6.29
+francescosal00: calls $6.29
+*** TURN *** [Kh 3c 8d] [4d]
+francescosal00: bets $12.16 and is all-in
+Seavus10: calls $12.16
+*** RIVER *** [Kh 3c 8d 4d] [5d]
+*** SHOW DOWN ***
+francescosal00: shows [Jd 6h] (high card King)
+Seavus10: shows [Kd Ac] (a pair of Kings)
+Seavus10 collected $60.90 from pot
+*** SUMMARY ***
+Total pot $63.40 | Rake $2.50 
+Board [Kh 3c 8d 4d 5d]
+Seat 1: francescosal00 showed [Jd 6h] and lost with high card King
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 (button) showed [Kd Ac] and won ($60.90) with a pair of Kings
+Seat 5: steepfell (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) folded before Flop
+
+
+
+PokerStars Hand #254776372896:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:57:08 WET [2025/02/08 19:57:08 ET]
+Table 'Alkalurops' 6-max Seat #5 is the button
+Seat 1: francescosal00 ($0 in chips) is sitting out
+Seat 2: kvcsszblcs ($137.61 in chips) 
+Seat 3: iTrustU21 ($102.50 in chips) 
+Seat 4: Seavus10 ($333.44 in chips) 
+Seat 5: steepfell ($184.34 in chips) 
+Seat 6: J0SHB0SH ($166.92 in chips) 
+J0SHB0SH: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: folds 
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+Uncalled bet ($0.50) returned to kvcsszblcs
+kvcsszblcs collected $1 from pot
+kvcsszblcs: doesn't show hand 
+francescosal00 leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: francescosal00
+Seat 2: kvcsszblcs (big blind) collected ($1)
+Seat 3: iTrustU21 folded before Flop (didn't bet)
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded before Flop
+
+
+
+PokerStars Hand #254776374584:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:57:19 WET [2025/02/08 19:57:19 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 2: kvcsszblcs ($138.11 in chips) 
+Seat 3: iTrustU21 ($102.50 in chips) 
+Seat 4: Seavus10 ($333.44 in chips) 
+Seat 5: steepfell ($184.34 in chips) 
+Seat 6: J0SHB0SH ($166.42 in chips) 
+kvcsszblcs: posts small blind $0.50
+iTrustU21: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+steepfell: folds 
+J0SHB0SH: folds 
+kvcsszblcs: raises $1.85 to $2.85
+iTrustU21: raises $6.65 to $9.50
+kvcsszblcs: raises $15.50 to $25
+iTrustU21: folds 
+Uncalled bet ($15.50) returned to kvcsszblcs
+kvcsszblcs collected $19 from pot
+kvcsszblcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $19 | Rake $0 
+Seat 2: kvcsszblcs (small blind) collected ($19)
+Seat 3: iTrustU21 (big blind) folded before Flop
+Seat 4: Seavus10 folded before Flop (didn't bet)
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254776380669:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:57:59 WET [2025/02/08 19:57:59 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 2: kvcsszblcs ($147.61 in chips) 
+Seat 3: iTrustU21 ($93 in chips) 
+Seat 4: Seavus10 ($333.44 in chips) 
+Seat 5: steepfell ($184.34 in chips) 
+Seat 6: J0SHB0SH ($166.42 in chips) 
+iTrustU21: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+steepfell: folds 
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+iTrustU21: raises $1.70 to $2.70
+Seavus10: raises $5.40 to $8.10
+iTrustU21: raises $15.40 to $23.50
+Seavus10: folds 
+Uncalled bet ($15.40) returned to iTrustU21
+iTrustU21 collected $16.20 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.20 | Rake $0 
+Seat 2: kvcsszblcs (button) folded before Flop (didn't bet)
+Seat 3: iTrustU21 (small blind) collected ($16.20)
+Seat 4: Seavus10 (big blind) folded before Flop
+Seat 5: steepfell folded before Flop (didn't bet)
+Seat 6: J0SHB0SH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254776386838:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:58:39 WET [2025/02/08 19:58:39 ET]
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 5: steepfell ($184.34 in chips) is sitting out
+Seat 2: kvcsszblcs ($147.61 in chips) 
+Seat 3: iTrustU21 ($101.10 in chips) 
+Seat 4: Seavus10 ($325.34 in chips) 
+Seat 6: J0SHB0SH ($166.42 in chips) 
+Seavus10: posts small blind $0.50
+steepfell: is sitting out 
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+steepfell leaves the table
+kvcsszblcs: folds 
+iTrustU21: folds 
+Seavus10: folds 
+Uncalled bet ($0.50) returned to J0SHB0SH
+J0SHB0SH collected $1 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: steepfell
+Seat 2: kvcsszblcs folded before Flop (didn't bet)
+Seat 3: iTrustU21 (button) folded before Flop (didn't bet)
+Seat 4: Seavus10 (small blind) folded before Flop
+Seat 6: J0SHB0SH (big blind) collected ($1)
+
+
+
+PokerStars Hand #254776388609:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:58:51 WET [2025/02/08 19:58:51 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 2: kvcsszblcs ($147.61 in chips) 
+Seat 3: iTrustU21 ($101.10 in chips) 
+Seat 4: Seavus10 ($324.84 in chips) 
+Seat 6: J0SHB0SH ($166.92 in chips) 
+J0SHB0SH: posts small blind $0.50
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21: raises $1.20 to $2.20
+Seavus10: folds 
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+Uncalled bet ($1.20) returned to iTrustU21
+iTrustU21 collected $2.50 from pot
+iTrustU21: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: kvcsszblcs (big blind) folded before Flop
+Seat 3: iTrustU21 collected ($2.50)
+Seat 4: Seavus10 (button) folded before Flop (didn't bet)
+Seat 6: J0SHB0SH (small blind) folded before Flop
+
+
+
+PokerStars Hand #254776390323:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:59:02 WET [2025/02/08 19:59:02 ET]
+Table 'Alkalurops' 6-max Seat #6 is the button
+Seat 3: iTrustU21 ($102.60 in chips) is sitting out
+Seat 2: kvcsszblcs ($146.61 in chips) 
+Seat 4: Seavus10 ($324.84 in chips) 
+Seat 6: J0SHB0SH ($166.42 in chips) 
+kvcsszblcs: posts small blind $0.50
+iTrustU21: is sitting out 
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+iTrustU21 leaves the table
+J0SHB0SH: folds 
+kvcsszblcs: folds 
+Uncalled bet ($0.50) returned to Seavus10
+Seavus10 collected $1 from pot
+Seavus10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: iTrustU21
+Seat 2: kvcsszblcs (small blind) folded before Flop
+Seat 4: Seavus10 (big blind) collected ($1)
+Seat 6: J0SHB0SH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254776391686:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:59:11 WET [2025/02/08 19:59:11 ET]
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 6: J0SHB0SH ($166.42 in chips) is sitting out
+Seat 2: kvcsszblcs ($146.11 in chips) 
+Seat 4: Seavus10 ($325.34 in chips) 
+Seavus10: posts small blind $0.50
+J0SHB0SH: is sitting out 
+kvcsszblcs: posts big blind $1
+*** HOLE CARDS ***
+Seavus10: folds 
+Uncalled bet ($0.50) returned to kvcsszblcs
+kvcsszblcs collected $1 from pot
+kvcsszblcs: doesn't show hand 
+J0SHB0SH leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: J0SHB0SH
+Seat 2: kvcsszblcs (big blind) collected ($1)
+Seat 4: Seavus10 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254776392524:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/08 0:59:17 WET [2025/02/08 19:59:17 ET]
+Table 'Alkalurops' 6-max Seat #2 is the button
+Seat 2: kvcsszblcs ($146.61 in chips) 
+Seat 4: Seavus10 ($324.84 in chips) 
+kvcsszblcs: posts small blind $0.50
+Seavus10: posts big blind $1
+*** HOLE CARDS ***
+kvcsszblcs: raises $1.25 to $2.25
+Seavus10: calls $1.25
+*** FLOP *** [5c 5h 5s]
+Seavus10: checks 
+kvcsszblcs: bets $1.07
+Seavus10: folds 
+Uncalled bet ($1.07) returned to kvcsszblcs
+kvcsszblcs collected $4.28 from pot
+kvcsszblcs: doesn't show hand 
+Seavus10 leaves the table
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [5c 5h 5s]
+Seat 2: kvcsszblcs (button) (small blind) collected ($4.28)
+Seat 4: Seavus10 (big blind) folded on the Flop
+
+
+

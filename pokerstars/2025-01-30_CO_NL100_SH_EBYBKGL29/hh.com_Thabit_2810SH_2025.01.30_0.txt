@@ -1,0 +1,2564 @@
+﻿PokerStars Hand #254623808129:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:33:07 WET [2025/01/30 12:33:07 ET]
+Table 'Thabit' 6-max Seat #1 is the button
+Seat 2: BGS013 ($100 in chips) is sitting out
+Seat 3: KarP93 ($100 in chips) is sitting out
+Seat 1: adri2469 ($50.38 in chips) 
+Seat 4: Xenicide ($101.78 in chips) 
+Seat 5: tintin641 ($101 in chips) 
+Seat 6: Thanos2018 ($98.50 in chips) 
+Xenicide: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+Thanos2018: raises $1 to $2
+adri2469: folds 
+Xenicide: raises $7.50 to $9.50
+tintin641: folds 
+Thanos2018: folds 
+Uncalled bet ($7.50) returned to Xenicide
+Xenicide collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 2: BGS013
+Seat 3: KarP93
+Seat 1: adri2469 (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) collected ($5)
+Seat 5: tintin641 (big blind) folded before Flop
+Seat 6: Thanos2018 folded before Flop
+
+
+
+PokerStars Hand #254623816198:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:33:39 WET [2025/01/30 12:33:39 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 2: BGS013 ($100 in chips) is sitting out
+Seat 3: KarP93 ($100 in chips) is sitting out
+Seat 1: adri2469 ($50.38 in chips) 
+Seat 4: Xenicide ($104.78 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: Thanos2018 ($96.50 in chips) 
+tintin641: posts small blind $0.50
+Thanos2018: posts big blind $1
+BGS013: sits out 
+*** HOLE CARDS ***
+KarP93 leaves the table
+adri2469: raises $2 to $3
+Xenicide: folds 
+tintin641: folds 
+Thanos2018: calls $2
+*** FLOP *** [3s 5s Jh]
+Thanos2018: bets $3.09
+Joe_Li7 joins the table at seat #3 
+adri2469: folds 
+Uncalled bet ($3.09) returned to Thanos2018
+Thanos2018 collected $6.10 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.40 
+Board [3s 5s Jh]
+Seat 2: BGS013
+Seat 3: KarP93
+Seat 1: adri2469 folded on the Flop
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: tintin641 (small blind) folded before Flop
+Seat 6: Thanos2018 (big blind) collected ($6.10)
+
+
+
+PokerStars Hand #254623828033:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:34:25 WET [2025/01/30 12:34:25 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 2: BGS013 ($100 in chips) is sitting out
+Seat 3: Joe_Li7 ($100 in chips) is sitting out
+Seat 1: adri2469 ($47.38 in chips) 
+Seat 4: Xenicide ($104.78 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: Thanos2018 ($99.60 in chips) 
+Thanos2018: posts small blind $0.50
+adri2469: posts big blind $1
+BGS013: sits out 
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+Xenicide: raises $1 to $2
+tintin641: folds 
+Thanos2018: calls $1.50
+adri2469: calls $1
+*** FLOP *** [Qs Th Jc]
+Thanos2018: bets $5.70
+adri2469: folds 
+Xenicide: calls $5.70
+*** TURN *** [Qs Th Jc] [Kh]
+Thanos2018: checks 
+Xenicide: bets $9.09
+Thanos2018: folds 
+Uncalled bet ($9.09) returned to Xenicide
+Xenicide collected $16.53 from pot
+*** SUMMARY ***
+Total pot $17.40 | Rake $0.87 
+Board [Qs Th Jc Kh]
+Seat 2: BGS013
+Seat 3: Joe_Li7
+Seat 1: adri2469 (big blind) folded on the Flop
+Seat 4: Xenicide collected ($16.53)
+Seat 5: tintin641 (button) folded before Flop (didn't bet)
+Seat 6: Thanos2018 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254623847425:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:35:40 WET [2025/01/30 12:35:40 ET]
+Table 'Thabit' 6-max Seat #6 is the button
+Seat 3: Joe_Li7 ($100 in chips) is sitting out
+Seat 1: adri2469 ($45.38 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 4: Xenicide ($113.61 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: Thanos2018 ($91.90 in chips) 
+adri2469: posts small blind $0.50
+BGS013: posts big blind $1
+Joe_Li7: sits out 
+*** HOLE CARDS ***
+Xenicide: folds 
+tintin641: raises $1.50 to $2.50
+Thanos2018: folds 
+adri2469: folds 
+BGS013: calls $1.50
+*** FLOP *** [Kd 8c Th]
+BGS013: checks 
+tintin641: bets $1.72
+BGS013: calls $1.72
+*** TURN *** [Kd 8c Th] [Qc]
+BGS013: checks 
+tintin641: checks 
+*** RIVER *** [Kd 8c Th Qc] [5h]
+BGS013: bets $6.62
+tintin641: folds 
+Uncalled bet ($6.62) returned to BGS013
+BGS013 collected $8.49 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [Kd 8c Th Qc 5h]
+Seat 3: Joe_Li7
+Seat 1: adri2469 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) collected ($8.49)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 folded on the River
+Seat 6: Thanos2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254623936912:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:41:33 WET [2025/01/30 12:41:33 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 1: adri2469 ($54.36 in chips) 
+Seat 2: BGS013 ($102.72 in chips) 
+Seat 3: Joe_Li7 ($103.53 in chips) 
+Seat 4: Xenicide ($110.61 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: Thanos2018 ($91.90 in chips) 
+tintin641: posts small blind $0.50
+Thanos2018: posts big blind $1
+*** HOLE CARDS ***
+adri2469: calls $1
+BGS013: raises $3.50 to $4.50
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: folds 
+Thanos2018: folds 
+adri2469: folds 
+Uncalled bet ($3.50) returned to BGS013
+BGS013 collected $3.50 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: adri2469 folded before Flop
+Seat 2: BGS013 collected ($3.50)
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: tintin641 (small blind) folded before Flop
+Seat 6: Thanos2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254623949620:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:42:23 WET [2025/01/30 12:42:23 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 1: adri2469 ($53.36 in chips) 
+Seat 2: BGS013 ($105.22 in chips) 
+Seat 3: Joe_Li7 ($103.53 in chips) 
+Seat 4: Xenicide ($110.61 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: Thanos2018 ($90.90 in chips) 
+Thanos2018: posts small blind $0.50
+adri2469: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: raises $1.50 to $2.50
+Thanos2018: folds 
+adri2469: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: adri2469 (big blind) folded before Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 (button) collected ($2.50)
+Seat 6: Thanos2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254623958231:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:42:57 WET [2025/01/30 12:42:57 ET]
+Table 'Thabit' 6-max Seat #6 is the button
+Seat 1: adri2469 ($52.36 in chips) 
+Seat 2: BGS013 ($105.22 in chips) 
+Seat 3: Joe_Li7 ($103.53 in chips) 
+Seat 4: Xenicide ($110.61 in chips) 
+Seat 5: tintin641 ($101.50 in chips) 
+Seat 6: Thanos2018 ($90.40 in chips) 
+adri2469: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: raises $1.20 to $2.20
+Xenicide: folds 
+tintin641: folds 
+Thanos2018: folds 
+adri2469: folds 
+BGS013: folds 
+Uncalled bet ($1.20) returned to Joe_Li7
+Joe_Li7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: adri2469 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: Joe_Li7 collected ($2.50)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 folded before Flop (didn't bet)
+Seat 6: Thanos2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254623963321:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:43:17 WET [2025/01/30 12:43:17 ET]
+Table 'Thabit' 6-max Seat #1 is the button
+Seat 1: adri2469 ($51.86 in chips) 
+Seat 2: BGS013 ($104.22 in chips) 
+Seat 3: Joe_Li7 ($105.03 in chips) 
+Seat 4: Xenicide ($110.61 in chips) 
+Seat 5: tintin641 ($101.50 in chips) 
+Seat 6: Thanos2018 ($90.40 in chips) 
+BGS013: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+tintin641: folds 
+Thanos2018: raises $1 to $2
+adri2469: calls $2
+BGS013: folds 
+Joe_Li7: folds 
+*** FLOP *** [7h 3s 4d]
+Thanos2018: checks 
+adri2469: checks 
+*** TURN *** [7h 3s 4d] [Td]
+Thanos2018: bets $3.61
+adri2469: folds 
+Uncalled bet ($3.61) returned to Thanos2018
+Thanos2018 collected $5.15 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.35 
+Board [7h 3s 4d Td]
+Seat 1: adri2469 (button) folded on the Turn
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: Joe_Li7 (big blind) folded before Flop
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 folded before Flop (didn't bet)
+Seat 6: Thanos2018 collected ($5.15)
+
+
+
+PokerStars Hand #254623976176:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:44:07 WET [2025/01/30 12:44:07 ET]
+Table 'Thabit' 6-max Seat #2 is the button
+Seat 1: adri2469 ($49.86 in chips) 
+Seat 2: BGS013 ($103.72 in chips) 
+Seat 3: Joe_Li7 ($104.03 in chips) 
+Seat 4: Xenicide ($110.61 in chips) 
+Seat 5: tintin641 ($101.50 in chips) 
+Seat 6: Thanos2018 ($93.55 in chips) 
+Joe_Li7: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+Thanos2018: folds 
+adri2469: folds 
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: raises $7.50 to $10
+tintin641: folds 
+Uncalled bet ($7.50) returned to Xenicide
+Xenicide collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: adri2469 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: Joe_Li7 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) collected ($5.50)
+Seat 5: tintin641 folded before Flop
+Seat 6: Thanos2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254623985568:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:44:44 WET [2025/01/30 12:44:44 ET]
+Table 'Thabit' 6-max Seat #3 is the button
+Seat 1: adri2469 ($49.86 in chips) 
+Seat 2: BGS013 ($103.72 in chips) 
+Seat 3: Joe_Li7 ($103.53 in chips) 
+Seat 4: Xenicide ($113.61 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: Thanos2018 ($93.55 in chips) 
+Xenicide: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+Thanos2018: folds 
+adri2469: folds 
+BGS013: folds 
+Joe_Li7: raises $1.20 to $2.20
+Xenicide: folds 
+tintin641: folds 
+Uncalled bet ($1.20) returned to Joe_Li7
+Joe_Li7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: adri2469 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 (button) collected ($2.50)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: tintin641 (big blind) folded before Flop
+Seat 6: Thanos2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254623994562:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:45:20 WET [2025/01/30 12:45:20 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 1: adri2469 ($49.86 in chips) 
+Seat 2: BGS013 ($103.72 in chips) 
+Seat 3: Joe_Li7 ($105.03 in chips) 
+Seat 4: Xenicide ($113.11 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: Thanos2018 ($93.55 in chips) 
+tintin641: posts small blind $0.50
+Thanos2018: posts big blind $1
+*** HOLE CARDS ***
+adri2469: calls $1
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: raises $4 to $5
+Thanos2018: folds 
+adri2469: folds 
+Uncalled bet ($4) returned to tintin641
+tintin641 collected $3 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: adri2469 folded before Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: tintin641 (small blind) collected ($3)
+Seat 6: Thanos2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254624005151:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:46:01 WET [2025/01/30 12:46:01 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 1: adri2469 ($48.86 in chips) 
+Seat 2: BGS013 ($103.72 in chips) 
+Seat 3: Joe_Li7 ($105.03 in chips) 
+Seat 4: Xenicide ($113.11 in chips) 
+Seat 5: tintin641 ($102 in chips) 
+Seat 6: Thanos2018 ($92.55 in chips) 
+Thanos2018: posts small blind $0.50
+adri2469: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: folds 
+Thanos2018: folds 
+Uncalled bet ($0.50) returned to adri2469
+adri2469 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: adri2469 (big blind) collected ($1)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 (button) folded before Flop (didn't bet)
+Seat 6: Thanos2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254624010760:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:46:22 WET [2025/01/30 12:46:22 ET]
+Table 'Thabit' 6-max Seat #6 is the button
+Seat 1: adri2469 ($49.36 in chips) 
+Seat 2: BGS013 ($103.72 in chips) 
+Seat 3: Joe_Li7 ($105.03 in chips) 
+Seat 4: Xenicide ($113.11 in chips) 
+Seat 5: tintin641 ($102 in chips) 
+Seat 6: Thanos2018 ($92.05 in chips) 
+adri2469: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: folds 
+Thanos2018: folds 
+adri2469: calls $0.50
+BGS013: checks 
+*** FLOP *** [8h 7c 7s]
+adri2469: checks 
+BGS013: checks 
+*** TURN *** [8h 7c 7s] [Qh]
+adri2469: checks 
+BGS013: bets $1.05
+adri2469: folds 
+Uncalled bet ($1.05) returned to BGS013
+BGS013 collected $1.90 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [8h 7c 7s Qh]
+Seat 1: adri2469 (small blind) folded on the Turn
+Seat 2: BGS013 (big blind) collected ($1.90)
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 folded before Flop (didn't bet)
+Seat 6: Thanos2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624022837:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:47:09 WET [2025/01/30 12:47:09 ET]
+Table 'Thabit' 6-max Seat #1 is the button
+Seat 1: adri2469 ($48.36 in chips) 
+Seat 2: BGS013 ($104.62 in chips) 
+Seat 3: Joe_Li7 ($105.03 in chips) 
+Seat 4: Xenicide ($113.11 in chips) 
+Seat 5: tintin641 ($102 in chips) 
+Seat 6: Thanos2018 ($92.05 in chips) 
+BGS013: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+tintin641: folds 
+Thanos2018: raises $1 to $2
+adri2469: folds 
+BGS013: calls $1.50
+Joe_Li7: folds 
+*** FLOP *** [2s Ac 3s]
+BGS013: checks 
+Thanos2018: bets $3.75
+BGS013: folds 
+Uncalled bet ($3.75) returned to Thanos2018
+Thanos2018 collected $4.69 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.31 
+Board [2s Ac 3s]
+Seat 1: adri2469 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) folded on the Flop
+Seat 3: Joe_Li7 (big blind) folded before Flop
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 folded before Flop (didn't bet)
+Seat 6: Thanos2018 collected ($4.69)
+
+
+
+PokerStars Hand #254624038649:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:48:11 WET [2025/01/30 12:48:11 ET]
+Table 'Thabit' 6-max Seat #2 is the button
+Seat 1: adri2469 ($48.36 in chips) 
+Seat 2: BGS013 ($102.62 in chips) 
+Seat 3: Joe_Li7 ($104.03 in chips) 
+Seat 4: Xenicide ($113.11 in chips) 
+Seat 5: tintin641 ($102 in chips) 
+Seat 6: Thanos2018 ($94.74 in chips) 
+Joe_Li7: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+Thanos2018: raises $1 to $2
+adri2469: folds 
+BGS013: folds 
+Joe_Li7: calls $1.50
+Xenicide: folds 
+*** FLOP *** [4s 9d 2s]
+Joe_Li7: checks 
+Thanos2018: checks 
+*** TURN *** [4s 9d 2s] [6c]
+Joe_Li7: bets $3.18
+Thanos2018: calls $3.18
+*** RIVER *** [4s 9d 2s 6c] [Ac]
+Joe_Li7: checks 
+Thanos2018: bets $5.40
+Joe_Li7: folds 
+Uncalled bet ($5.40) returned to Thanos2018
+Thanos2018 collected $10.65 from pot
+*** SUMMARY ***
+Total pot $11.36 | Rake $0.71 
+Board [4s 9d 2s 6c Ac]
+Seat 1: adri2469 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: Joe_Li7 (small blind) folded on the River
+Seat 4: Xenicide (big blind) folded before Flop
+Seat 5: tintin641 folded before Flop (didn't bet)
+Seat 6: Thanos2018 collected ($10.65)
+
+
+
+PokerStars Hand #254624063534:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:49:49 WET [2025/01/30 12:49:49 ET]
+Table 'Thabit' 6-max Seat #3 is the button
+Seat 1: adri2469 ($48.36 in chips) 
+Seat 2: BGS013 ($102.62 in chips) 
+Seat 3: Joe_Li7 ($100 in chips) 
+Seat 4: Xenicide ($112.11 in chips) 
+Seat 5: tintin641 ($102 in chips) 
+Seat 6: Thanos2018 ($100.21 in chips) 
+Xenicide: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+Thanos2018: folds 
+adri2469 has timed out
+adri2469: folds 
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: folds 
+Uncalled bet ($0.50) returned to tintin641
+tintin641 collected $1 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: adri2469 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: tintin641 (big blind) collected ($1)
+Seat 6: Thanos2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624069025:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:50:11 WET [2025/01/30 12:50:11 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 1: adri2469 ($48.36 in chips) is sitting out
+Seat 2: BGS013 ($102.62 in chips) 
+Seat 3: Joe_Li7 ($100 in chips) 
+Seat 4: Xenicide ($111.61 in chips) 
+Seat 5: tintin641 ($102.50 in chips) 
+Seat 6: Thanos2018 ($100.21 in chips) 
+tintin641: posts small blind $0.50
+Thanos2018: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: raises $2 to $3
+Thanos2018: folds 
+Uncalled bet ($2) returned to tintin641
+tintin641 collected $2 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: adri2469
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: tintin641 (small blind) collected ($2)
+Seat 6: Thanos2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254624074325:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:50:32 WET [2025/01/30 12:50:32 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 1: adri2469 ($48.36 in chips) is sitting out
+Seat 2: BGS013 ($102.62 in chips) 
+Seat 3: Joe_Li7 ($100 in chips) 
+Seat 4: Xenicide ($111.61 in chips) 
+Seat 5: tintin641 ($103.50 in chips) 
+Seat 6: Thanos2018 ($99.21 in chips) 
+Thanos2018: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+Xenicide: raises $1 to $2
+tintin641: folds 
+Thanos2018: folds 
+BGS013: folds 
+Uncalled bet ($1) returned to Xenicide
+Xenicide collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: adri2469
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide collected ($2.50)
+Seat 5: tintin641 (button) folded before Flop (didn't bet)
+Seat 6: Thanos2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254624079861:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:50:53 WET [2025/01/30 12:50:53 ET]
+Table 'Thabit' 6-max Seat #6 is the button
+Seat 1: adri2469 ($48.36 in chips) is sitting out
+Seat 2: BGS013 ($101.62 in chips) 
+Seat 3: Joe_Li7 ($100 in chips) 
+Seat 4: Xenicide ($113.11 in chips) 
+Seat 5: tintin641 ($103.50 in chips) 
+Seat 6: Thanos2018 ($98.71 in chips) 
+BGS013: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: raises $1 to $2
+tintin641: folds 
+Thanos2018: calls $2
+BGS013: folds 
+Joe_Li7: folds 
+*** FLOP *** [7h 5c 9h]
+Xenicide: checks 
+Thanos2018: bets $3.61
+Xenicide: folds 
+Uncalled bet ($3.61) returned to Thanos2018
+Thanos2018 collected $5.15 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.35 
+Board [7h 5c 9h]
+Seat 1: adri2469
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: Joe_Li7 (big blind) folded before Flop
+Seat 4: Xenicide folded on the Flop
+Seat 5: tintin641 folded before Flop (didn't bet)
+Seat 6: Thanos2018 (button) collected ($5.15)
+
+
+
+PokerStars Hand #254624095307:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:51:55 WET [2025/01/30 12:51:55 ET]
+Table 'Thabit' 6-max Seat #2 is the button
+Seat 1: adri2469 ($48.36 in chips) is sitting out
+Seat 2: BGS013 ($101.12 in chips) 
+Seat 3: Joe_Li7 ($100 in chips) 
+Seat 4: Xenicide ($111.11 in chips) 
+Seat 5: tintin641 ($103.50 in chips) 
+Seat 6: Thanos2018 ($101.86 in chips) 
+Joe_Li7: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+Thanos2018: folds 
+BGS013: folds 
+Joe_Li7: folds 
+Uncalled bet ($0.50) returned to Xenicide
+Xenicide collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: adri2469
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: Joe_Li7 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) collected ($1)
+Seat 5: tintin641 folded before Flop (didn't bet)
+Seat 6: Thanos2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624097833:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:52:05 WET [2025/01/30 12:52:05 ET]
+Table 'Thabit' 6-max Seat #3 is the button
+Seat 1: adri2469 ($48.36 in chips) is sitting out
+Seat 2: BGS013 ($101.12 in chips) 
+Seat 3: Joe_Li7 ($100 in chips) 
+Seat 4: Xenicide ($111.61 in chips) 
+Seat 5: tintin641 ($103.50 in chips) 
+Seat 6: Thanos2018 ($101.86 in chips) 
+Xenicide: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+Thanos2018: raises $1 to $2
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: folds 
+Uncalled bet ($1) returned to Thanos2018
+Thanos2018 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: adri2469
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: tintin641 (big blind) folded before Flop
+Seat 6: Thanos2018 collected ($2.50)
+
+
+
+PokerStars Hand #254624101918:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:52:21 WET [2025/01/30 12:52:21 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 1: adri2469 ($48.36 in chips) is sitting out
+Seat 2: BGS013 ($101.12 in chips) 
+Seat 3: Joe_Li7 ($100 in chips) 
+Seat 4: Xenicide ($111.11 in chips) 
+Seat 5: tintin641 ($102.50 in chips) 
+Seat 6: Thanos2018 ($103.36 in chips) 
+tintin641: posts small blind $0.50
+Thanos2018: posts big blind $1
+*** HOLE CARDS ***
+BGS013: raises $1 to $2
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: folds 
+Thanos2018: calls $1
+*** FLOP *** [7c Tc 6s]
+Thanos2018: checks 
+BGS013: bets $3.34
+Thanos2018: folds 
+Uncalled bet ($3.34) returned to BGS013
+BGS013 collected $4.28 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [7c Tc 6s]
+Seat 1: adri2469
+Seat 2: BGS013 collected ($4.28)
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: tintin641 (small blind) folded before Flop
+Seat 6: Thanos2018 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254624114023:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:53:09 WET [2025/01/30 12:53:09 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 1: adri2469 ($48.36 in chips) is sitting out
+Seat 2: BGS013 ($103.40 in chips) 
+Seat 3: Joe_Li7 ($100 in chips) 
+Seat 4: Xenicide ($111.11 in chips) 
+Seat 5: tintin641 ($102 in chips) 
+Seat 6: Thanos2018 ($101.36 in chips) 
+Thanos2018: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+Xenicide: raises $1 to $2
+tintin641: folds 
+Thanos2018: folds 
+BGS013: folds 
+Uncalled bet ($1) returned to Xenicide
+Xenicide collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: adri2469
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide collected ($2.50)
+Seat 5: tintin641 (button) folded before Flop (didn't bet)
+Seat 6: Thanos2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254624119721:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:53:31 WET [2025/01/30 12:53:31 ET]
+Table 'Thabit' 6-max Seat #6 is the button
+Seat 1: adri2469 ($48.36 in chips) is sitting out
+Seat 2: BGS013 ($102.40 in chips) 
+Seat 3: Joe_Li7 ($100 in chips) 
+Seat 4: Xenicide ($112.61 in chips) 
+Seat 5: tintin641 ($102 in chips) 
+Seat 6: Thanos2018 ($100.86 in chips) 
+BGS013: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+tintin641: raises $1.50 to $2.50
+Thanos2018: calls $2.50
+BGS013: folds 
+Joe_Li7: folds 
+*** FLOP *** [8h 7h 2c]
+tintin641: checks 
+Thanos2018: checks 
+*** TURN *** [8h 7h 2c] [As]
+tintin641: checks 
+Thanos2018: bets $3.09
+tintin641: calls $3.09
+*** RIVER *** [8h 7h 2c As] [Qs]
+tintin641: checks 
+Thanos2018: checks 
+*** SHOW DOWN ***
+tintin641: shows [Ad 9d] (a pair of Aces)
+Thanos2018: shows [Ac Js] (a pair of Aces - Queen+Jack kicker)
+Thanos2018 collected $11.89 from pot
+*** SUMMARY ***
+Total pot $12.68 | Rake $0.79 
+Board [8h 7h 2c As Qs]
+Seat 1: adri2469
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: Joe_Li7 (big blind) folded before Flop
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 showed [Ad 9d] and lost with a pair of Aces
+Seat 6: Thanos2018 (button) showed [Ac Js] and won ($11.89) with a pair of Aces
+
+
+
+PokerStars Hand #254624139190:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:54:47 WET [2025/01/30 12:54:47 ET]
+Table 'Thabit' 6-max Seat #2 is the button
+Seat 1: adri2469 ($48.36 in chips) is sitting out
+Seat 2: BGS013 ($101.90 in chips) 
+Seat 3: Joe_Li7 ($100 in chips) 
+Seat 4: Xenicide ($112.61 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: Thanos2018 ($107.16 in chips) 
+Joe_Li7: posts small blind $0.50
+Xenicide: posts big blind $1
+adri2469: sits out 
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+Thanos2018: folds 
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: folds 
+Uncalled bet ($1.50) returned to tintin641
+tintin641 collected $2.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: adri2469
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: Joe_Li7 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) folded before Flop
+Seat 5: tintin641 collected ($2.50)
+Seat 6: Thanos2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624145577:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:55:12 WET [2025/01/30 12:55:12 ET]
+Table 'Thabit' 6-max Seat #3 is the button
+Seat 1: adri2469 ($48.36 in chips) is sitting out
+Seat 2: BGS013 ($101.90 in chips) 
+Seat 3: Joe_Li7 ($100 in chips) 
+Seat 4: Xenicide ($111.61 in chips) 
+Seat 5: tintin641 ($101.50 in chips) 
+Seat 6: Thanos2018 ($107.16 in chips) 
+Xenicide: posts small blind $0.50
+tintin641: posts big blind $1
+adri2469: sits out 
+*** HOLE CARDS ***
+Thanos2018: folds 
+BGS013: folds 
+Joe_Li7: raises $1.20 to $2.20
+Xenicide: folds 
+tintin641: folds 
+Uncalled bet ($1.20) returned to Joe_Li7
+Joe_Li7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: adri2469
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 (button) collected ($2.50)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: tintin641 (big blind) folded before Flop
+Seat 6: Thanos2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624148596:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:55:26 WET [2025/01/30 12:55:26 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 1: adri2469 ($48.36 in chips) is sitting out
+Seat 2: BGS013 ($101.90 in chips) 
+Seat 3: Joe_Li7 ($101.50 in chips) 
+Seat 4: Xenicide ($111.11 in chips) 
+Seat 5: tintin641 ($100.50 in chips) 
+Seat 6: Thanos2018 ($107.16 in chips) 
+tintin641: posts small blind $0.50
+Thanos2018: posts big blind $1
+adri2469: sits out 
+*** HOLE CARDS ***
+BGS013: folds 
+Joe_Li7: raises $1.20 to $2.20
+Xenicide: folds 
+tintin641: raises $8.80 to $11
+Thanos2018: folds 
+Joe_Li7: calls $8.80
+*** FLOP *** [7c Tc 8c]
+tintin641: bets $2.19
+Joe_Li7: calls $2.19
+*** TURN *** [7c Tc 8c] [9s]
+tintin641: checks 
+Joe_Li7: bets $17.42
+tintin641: folds 
+Uncalled bet ($17.42) returned to Joe_Li7
+Joe_Li7 collected $26.01 from pot
+*** SUMMARY ***
+Total pot $27.38 | Rake $1.37 
+Board [7c Tc 8c 9s]
+Seat 1: adri2469
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 collected ($26.01)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: tintin641 (small blind) folded on the Turn
+Seat 6: Thanos2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254624169859:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:57:18 WET [2025/01/30 12:57:18 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 1: adri2469 ($48.36 in chips) 
+Seat 2: BGS013 ($101.90 in chips) 
+Seat 3: Joe_Li7 ($114.32 in chips) 
+Seat 4: Xenicide ($111.11 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: Thanos2018 ($106.16 in chips) 
+Thanos2018: posts small blind $0.50
+adri2469: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+Joe_Li7: raises $1.20 to $2.20
+Xenicide: folds 
+tintin641: folds 
+Thanos2018: calls $1.70
+adri2469: calls $1.20
+*** FLOP *** [Kc As Qc]
+Thanos2018: checks 
+adri2469: checks 
+Joe_Li7: checks 
+*** TURN *** [Kc As Qc] [7d]
+Thanos2018: checks 
+adri2469: checks 
+Joe_Li7: checks 
+*** RIVER *** [Kc As Qc 7d] [8d]
+Thanos2018: checks 
+adri2469: checks 
+Joe_Li7: checks 
+*** SHOW DOWN ***
+Thanos2018: shows [9d Jd] (high card Ace)
+adri2469: shows [Qs 9h] (a pair of Queens)
+Joe_Li7: shows [Ks 9s] (a pair of Kings)
+Joe_Li7 collected $6.27 from pot
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.33 
+Board [Kc As Qc 7d 8d]
+Seat 1: adri2469 (big blind) showed [Qs 9h] and lost with a pair of Queens
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 showed [Ks 9s] and won ($6.27) with a pair of Kings
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 (button) folded before Flop (didn't bet)
+Seat 6: Thanos2018 (small blind) showed [9d Jd] and lost with high card Ace
+
+
+
+PokerStars Hand #254624186762:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:58:44 WET [2025/01/30 12:58:44 ET]
+Table 'Thabit' 6-max Seat #6 is the button
+Seat 1: adri2469 ($46.16 in chips) 
+Seat 2: BGS013 ($101.90 in chips) 
+Seat 3: Joe_Li7 ($118.39 in chips) 
+Seat 4: Xenicide ($111.11 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: Thanos2018 ($103.96 in chips) 
+adri2469: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: folds 
+Thanos2018: folds 
+adri2469: folds 
+Uncalled bet ($0.50) returned to BGS013
+BGS013 collected $1 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: adri2469 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) collected ($1)
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 folded before Flop (didn't bet)
+Seat 6: Thanos2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624188675:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 17:58:54 WET [2025/01/30 12:58:54 ET]
+Table 'Thabit' 6-max Seat #1 is the button
+Seat 1: adri2469 ($45.66 in chips) 
+Seat 2: BGS013 ($102.40 in chips) 
+Seat 3: Joe_Li7 ($118.39 in chips) 
+Seat 4: Xenicide ($111.11 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: Thanos2018 ($103.96 in chips) 
+BGS013: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+tintin641: folds 
+Thanos2018: raises $1 to $2
+adri2469: folds 
+BGS013: folds 
+Joe_Li7: calls $1
+*** FLOP *** [8c 7c 4c]
+Joe_Li7: checks 
+Thanos2018: checks 
+*** TURN *** [8c 7c 4c] [8s]
+Joe_Li7: checks 
+Thanos2018: checks 
+*** RIVER *** [8c 7c 4c 8s] [8h]
+Joe_Li7: checks 
+Thanos2018: checks 
+*** SHOW DOWN ***
+Joe_Li7: shows [Qs Kc] (three of a kind, Eights)
+Thanos2018: shows [3c 3s] (a full house, Eights full of Threes)
+Thanos2018 collected $4.22 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.28 
+Board [8c 7c 4c 8s 8h]
+Seat 1: adri2469 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: Joe_Li7 (big blind) showed [Qs Kc] and lost with three of a kind, Eights
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 folded before Flop (didn't bet)
+Seat 6: Thanos2018 showed [3c 3s] and won ($4.22) with a full house, Eights full of Threes
+
+
+
+PokerStars Hand #254624202184:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:00:02 WET [2025/01/30 13:00:02 ET]
+Table 'Thabit' 6-max Seat #2 is the button
+Seat 1: adri2469 ($45.66 in chips) 
+Seat 2: BGS013 ($101.90 in chips) 
+Seat 3: Joe_Li7 ($116.39 in chips) 
+Seat 4: Xenicide ($111.11 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: Thanos2018 ($106.18 in chips) 
+Joe_Li7: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+tintin641: folds 
+Thanos2018: raises $1 to $2
+adri2469: calls $2
+BGS013: folds 
+Joe_Li7: raises $10.50 to $12.50
+Xenicide: folds 
+Thanos2018: folds 
+adri2469: folds 
+Uncalled bet ($10.50) returned to Joe_Li7
+Joe_Li7 collected $7 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: adri2469 folded before Flop
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: Joe_Li7 (small blind) collected ($7)
+Seat 4: Xenicide (big blind) folded before Flop
+Seat 5: tintin641 folded before Flop (didn't bet)
+Seat 6: Thanos2018 folded before Flop
+
+
+
+PokerStars Hand #254624208840:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:00:36 WET [2025/01/30 13:00:36 ET]
+Table 'Thabit' 6-max Seat #3 is the button
+Seat 1: adri2469 ($43.66 in chips) 
+Seat 2: BGS013 ($101.90 in chips) 
+Seat 3: Joe_Li7 ($121.39 in chips) 
+Seat 4: Xenicide ($110.11 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: Thanos2018 ($104.18 in chips) 
+Xenicide: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+Thanos2018: folds 
+adri2469: folds 
+BGS013: raises $1.50 to $2.50
+Joe_Li7: folds 
+Xenicide: raises $7 to $9.50
+tintin641: raises $11.50 to $21
+BGS013: folds 
+Xenicide: folds 
+Uncalled bet ($11.50) returned to tintin641
+tintin641 collected $21.50 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.50 | Rake $0 
+Seat 1: adri2469 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop
+Seat 3: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: tintin641 (big blind) collected ($21.50)
+Seat 6: Thanos2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624218224:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:01:20 WET [2025/01/30 13:01:20 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 1: adri2469 ($43.66 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: Joe_Li7 ($121.39 in chips) 
+Seat 4: Xenicide ($100.61 in chips) 
+Seat 5: tintin641 ($112 in chips) 
+Seat 6: Thanos2018 ($104.18 in chips) 
+tintin641: posts small blind $0.50
+Thanos2018: posts big blind $1
+*** HOLE CARDS ***
+adri2469: folds 
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: folds 
+Uncalled bet ($0.50) returned to Thanos2018
+Thanos2018 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: adri2469 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: tintin641 (small blind) folded before Flop
+Seat 6: Thanos2018 (big blind) collected ($1)
+
+
+
+PokerStars Hand #254624220564:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:01:30 WET [2025/01/30 13:01:30 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 1: adri2469 ($43.66 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: Joe_Li7 ($121.39 in chips) 
+Seat 4: Xenicide ($100.61 in chips) 
+Seat 5: tintin641 ($111.50 in chips) 
+Seat 6: Thanos2018 ($104.68 in chips) 
+Thanos2018: posts small blind $0.50
+adri2469: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+Joe_Li7: raises $1.20 to $2.20
+Xenicide: folds 
+tintin641: folds 
+Thanos2018: folds 
+adri2469: folds 
+Uncalled bet ($1.20) returned to Joe_Li7
+Joe_Li7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: adri2469 (big blind) folded before Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 collected ($2.50)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 (button) folded before Flop (didn't bet)
+Seat 6: Thanos2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254624225987:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:01:52 WET [2025/01/30 13:01:52 ET]
+Table 'Thabit' 6-max Seat #6 is the button
+Seat 1: adri2469 ($42.66 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: Joe_Li7 ($122.89 in chips) 
+Seat 4: Xenicide ($100.61 in chips) 
+Seat 5: tintin641 ($111.50 in chips) 
+Seat 6: Thanos2018 ($104.18 in chips) 
+adri2469: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: raises $1.50 to $2.50
+Thanos2018: folds 
+adri2469: calls $2
+BGS013: folds 
+*** FLOP *** [4h Qh 8d]
+adri2469: checks 
+tintin641: checks 
+*** TURN *** [4h Qh 8d] [Kh]
+adri2469: bets $4
+tintin641: folds 
+Uncalled bet ($4) returned to adri2469
+adri2469 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4h Qh 8d Kh]
+Seat 1: adri2469 (small blind) collected ($5.70)
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 folded on the Turn
+Seat 6: Thanos2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624238340:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:02:42 WET [2025/01/30 13:02:42 ET]
+Table 'Thabit' 6-max Seat #1 is the button
+Seat 1: adri2469 ($45.86 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: Joe_Li7 ($122.89 in chips) 
+Seat 4: Xenicide ($100.61 in chips) 
+Seat 5: tintin641 ($109 in chips) 
+Seat 6: Thanos2018 ($104.18 in chips) 
+BGS013: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+tintin641: folds 
+Thanos2018: folds 
+adri2469: folds 
+BGS013: raises $2 to $3
+Joe_Li7: folds 
+Uncalled bet ($2) returned to BGS013
+BGS013 collected $2 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: adri2469 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) collected ($2)
+Seat 3: Joe_Li7 (big blind) folded before Flop
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 folded before Flop (didn't bet)
+Seat 6: Thanos2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624241863:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:02:56 WET [2025/01/30 13:02:56 ET]
+Table 'Thabit' 6-max Seat #2 is the button
+Seat 1: adri2469 ($45.86 in chips) 
+Seat 2: BGS013 ($101 in chips) 
+Seat 3: Joe_Li7 ($121.89 in chips) 
+Seat 4: Xenicide ($100.61 in chips) 
+Seat 5: tintin641 ($109 in chips) 
+Seat 6: Thanos2018 ($104.18 in chips) 
+Joe_Li7: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+tintin641: raises $1.50 to $2.50
+Thanos2018: raises $9.50 to $12
+adri2469: folds 
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: folds 
+Uncalled bet ($9.50) returned to Thanos2018
+Thanos2018 collected $6.50 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0 
+Seat 1: adri2469 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: Joe_Li7 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) folded before Flop
+Seat 5: tintin641 folded before Flop
+Seat 6: Thanos2018 collected ($6.50)
+
+
+
+PokerStars Hand #254624249008:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:03:23 WET [2025/01/30 13:03:23 ET]
+Table 'Thabit' 6-max Seat #3 is the button
+Seat 1: adri2469 ($45.86 in chips) 
+Seat 2: BGS013 ($101 in chips) 
+Seat 3: Joe_Li7 ($121.39 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: tintin641 ($106.50 in chips) 
+Seat 6: Thanos2018 ($108.18 in chips) 
+Xenicide: posts small blind $0.50
+tintin641: posts big blind $1
+*** HOLE CARDS ***
+Thanos2018: folds 
+adri2469: calls $1
+BGS013: raises $3 to $4
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: folds 
+adri2469: calls $3
+*** FLOP *** [4h 3h 6c]
+adri2469: checks 
+BGS013: bets $7.04
+adri2469: calls $7.04
+*** TURN *** [4h 3h 6c] [6s]
+adri2469: checks 
+BGS013: bets $12.32
+adri2469: folds 
+Uncalled bet ($12.32) returned to BGS013
+BGS013 collected $22.40 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.58 | Rake $1.18 
+Board [4h 3h 6c 6s]
+Seat 1: adri2469 folded on the Turn
+Seat 2: BGS013 collected ($22.40)
+Seat 3: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: tintin641 (big blind) folded before Flop
+Seat 6: Thanos2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624267624:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:04:35 WET [2025/01/30 13:04:35 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 1: adri2469 ($34.82 in chips) 
+Seat 2: BGS013 ($112.36 in chips) 
+Seat 3: Joe_Li7 ($121.39 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: tintin641 ($105.50 in chips) 
+Seat 6: Thanos2018 ($108.18 in chips) 
+tintin641: posts small blind $0.50
+Thanos2018: posts big blind $1
+*** HOLE CARDS ***
+adri2469: folds 
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: raises $2 to $3
+Thanos2018: calls $2
+*** FLOP *** [6c Qh 6s]
+tintin641: bets $1.88
+Thanos2018: folds 
+Uncalled bet ($1.88) returned to tintin641
+tintin641 collected $5.70 from pot
+tintin641: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6c Qh 6s]
+Seat 1: adri2469 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: tintin641 (small blind) collected ($5.70)
+Seat 6: Thanos2018 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254624281102:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:05:27 WET [2025/01/30 13:05:27 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 6: Thanos2018 ($105.18 in chips) is sitting out
+Seat 1: adri2469 ($34.82 in chips) 
+Seat 2: BGS013 ($112.36 in chips) 
+Seat 3: Joe_Li7 ($121.39 in chips) 
+Seat 4: Xenicide ($100 in chips) 
+Seat 5: tintin641 ($108.20 in chips) 
+adri2469: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+Xenicide: raises $1 to $2
+tintin641: folds 
+adri2469: folds 
+BGS013: folds 
+Uncalled bet ($1) returned to Xenicide
+Xenicide collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 6: Thanos2018
+Seat 1: adri2469 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide collected ($2.50)
+Seat 5: tintin641 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624285270:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:05:43 WET [2025/01/30 13:05:43 ET]
+Table 'Thabit' 6-max Seat #1 is the button
+Seat 6: Thanos2018 ($105.18 in chips) is sitting out
+Seat 1: adri2469 ($34.32 in chips) 
+Seat 2: BGS013 ($111.36 in chips) 
+Seat 3: Joe_Li7 ($121.39 in chips) 
+Seat 4: Xenicide ($101.50 in chips) 
+Seat 5: tintin641 ($108.20 in chips) 
+BGS013: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+Thanos2018 leaves the table
+Xenicide: folds 
+tintin641: folds 
+coeeeelho joins the table at seat #6 
+adri2469: calls $1
+BGS013: folds 
+Joe_Li7: checks 
+*** FLOP *** [8d 9d Ts]
+Joe_Li7: checks 
+adri2469: bets $2
+Joe_Li7: folds 
+Uncalled bet ($2) returned to adri2469
+adri2469 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [8d 9d Ts]
+Seat 6: Thanos2018
+Seat 1: adri2469 (button) collected ($2.38)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: Joe_Li7 (big blind) folded on the Flop
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624296344:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:06:25 WET [2025/01/30 13:06:25 ET]
+Table 'Thabit' 6-max Seat #2 is the button
+Seat 6: coeeeelho ($100 in chips) is sitting out
+Seat 1: adri2469 ($35.70 in chips) 
+Seat 2: BGS013 ($110.86 in chips) 
+Seat 3: Joe_Li7 ($120.39 in chips) 
+Seat 4: Xenicide ($101.50 in chips) 
+Seat 5: tintin641 ($108.20 in chips) 
+Joe_Li7: posts small blind $0.50
+Xenicide: posts big blind $1
+coeeeelho: sits out 
+*** HOLE CARDS ***
+tintin641: folds 
+adri2469: raises $1 to $2
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: calls $1
+*** FLOP *** [8h 7d Ac]
+Xenicide: checks 
+adri2469: checks 
+*** TURN *** [8h 7d Ac] [Ks]
+Xenicide: checks 
+adri2469: bets $3
+Xenicide: raises $9.80 to $12.80
+adri2469: folds 
+Uncalled bet ($9.80) returned to Xenicide
+Xenicide collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [8h 7d Ac Ks]
+Seat 6: coeeeelho
+Seat 1: adri2469 folded on the Turn
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: Joe_Li7 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) collected ($9.98)
+Seat 5: tintin641 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624322213:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:08:03 WET [2025/01/30 13:08:03 ET]
+Table 'Thabit' 6-max Seat #3 is the button
+Seat 6: coeeeelho ($100 in chips) is sitting out
+Seat 1: adri2469 ($30.70 in chips) 
+Seat 2: BGS013 ($110.86 in chips) 
+Seat 3: Joe_Li7 ($119.89 in chips) 
+Seat 4: Xenicide ($106.48 in chips) 
+Seat 5: tintin641 ($108.20 in chips) 
+Xenicide: posts small blind $0.50
+tintin641: posts big blind $1
+coeeeelho: sits out 
+*** HOLE CARDS ***
+adri2469: folds 
+BGS013: folds 
+Joe_Li7: raises $1.20 to $2.20
+Xenicide: folds 
+tintin641: calls $1.20
+*** FLOP *** [6c Ts Qc]
+tintin641: checks 
+Joe_Li7: checks 
+*** TURN *** [6c Ts Qc] [8s]
+tintin641: checks 
+Joe_Li7: checks 
+*** RIVER *** [6c Ts Qc 8s] [Qs]
+tintin641: checks 
+Joe_Li7: checks 
+*** SHOW DOWN ***
+tintin641: shows [2h 5h] (a pair of Queens)
+Joe_Li7: shows [6h Kh] (two pair, Queens and Sixes)
+Joe_Li7 collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [6c Ts Qc 8s Qs]
+Seat 6: coeeeelho
+Seat 1: adri2469 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 (button) showed [6h Kh] and won ($4.66) with two pair, Queens and Sixes
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: tintin641 (big blind) showed [2h 5h] and lost with a pair of Queens
+
+
+
+PokerStars Hand #254624337693:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:09:01 WET [2025/01/30 13:09:01 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 1: adri2469 ($30.70 in chips) 
+Seat 2: BGS013 ($110.86 in chips) 
+Seat 3: Joe_Li7 ($122.35 in chips) 
+Seat 4: Xenicide ($105.98 in chips) 
+Seat 5: tintin641 ($106 in chips) 
+Seat 6: coeeeelho ($100 in chips) 
+tintin641: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+adri2469: calls $1
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: raises $4 to $5
+coeeeelho: raises $4 to $9
+adri2469: folds 
+tintin641: raises $97 to $106 and is all-in
+coeeeelho: calls $91 and is all-in
+Uncalled bet ($6) returned to tintin641
+*** FLOP *** [Qs 6c Td]
+*** TURN *** [Qs 6c Td] [8h]
+*** RIVER *** [Qs 6c Td 8h] [Jc]
+*** SHOW DOWN ***
+tintin641: shows [Kc Kd] (a pair of Kings)
+coeeeelho: shows [Qd Qh] (three of a kind, Queens)
+coeeeelho collected $198.50 from pot
+*** SUMMARY ***
+Total pot $201 | Rake $2.50 
+Board [Qs 6c Td 8h Jc]
+Seat 1: adri2469 folded before Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: tintin641 (small blind) showed [Kc Kd] and lost with a pair of Kings
+Seat 6: coeeeelho (big blind) showed [Qd Qh] and won ($198.50) with three of a kind, Queens
+
+
+
+PokerStars Hand #254624357556:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:10:17 WET [2025/01/30 13:10:17 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 1: adri2469 ($29.70 in chips) 
+Seat 2: BGS013 ($110.86 in chips) 
+Seat 3: Joe_Li7 ($122.35 in chips) 
+Seat 4: Xenicide ($105.98 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: coeeeelho ($198.50 in chips) 
+coeeeelho: posts small blind $0.50
+adri2469: posts big blind $1
+*** HOLE CARDS ***
+BGS013: raises $1 to $2
+Joe_Li7: folds 
+Xenicide: folds 
+tintin641: folds 
+coeeeelho: folds 
+adri2469: calls $1
+*** FLOP *** [9s 6s Ac]
+adri2469: checks 
+BGS013: bets $1.11
+adri2469: calls $1.11
+*** TURN *** [9s 6s Ac] [Tc]
+adri2469: checks 
+BGS013: checks 
+*** RIVER *** [9s 6s Ac Tc] [3h]
+adri2469: checks 
+BGS013: bets $4.98
+adri2469: calls $4.98
+*** SHOW DOWN ***
+BGS013: shows [4d Ad] (a pair of Aces)
+adri2469: mucks hand 
+BGS013 collected $15.85 from pot
+*** SUMMARY ***
+Total pot $16.68 | Rake $0.83 
+Board [9s 6s Ac Tc 3h]
+Seat 1: adri2469 (big blind) mucked
+Seat 2: BGS013 showed [4d Ad] and won ($15.85) with a pair of Aces
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 (button) folded before Flop (didn't bet)
+Seat 6: coeeeelho (small blind) folded before Flop
+
+
+
+PokerStars Hand #254624367260:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:10:54 WET [2025/01/30 13:10:54 ET]
+Table 'Thabit' 6-max Seat #6 is the button
+Seat 1: adri2469 ($21.61 in chips) 
+Seat 2: BGS013 ($118.62 in chips) 
+Seat 3: Joe_Li7 ($122.35 in chips) 
+Seat 4: Xenicide ($105.98 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: coeeeelho ($198 in chips) 
+adri2469: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7: folds 
+Xenicide: raises $1 to $2
+tintin641: folds 
+coeeeelho: folds 
+adri2469: folds 
+BGS013: folds 
+Uncalled bet ($1) returned to Xenicide
+Xenicide collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: adri2469 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide collected ($2.50)
+Seat 5: tintin641 folded before Flop (didn't bet)
+Seat 6: coeeeelho (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624375143:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:11:24 WET [2025/01/30 13:11:24 ET]
+Table 'Thabit' 6-max Seat #1 is the button
+Seat 1: adri2469 ($21.11 in chips) 
+Seat 2: BGS013 ($117.62 in chips) 
+Seat 3: Joe_Li7 ($122.35 in chips) 
+Seat 4: Xenicide ($107.48 in chips) 
+Seat 5: tintin641 ($100 in chips) 
+Seat 6: coeeeelho ($198 in chips) 
+BGS013: posts small blind $0.50
+Joe_Li7: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+tintin641: folds 
+coeeeelho: folds 
+tintin641 leaves the table
+adri2469 is disconnected 
+adri2469 has timed out while being disconnected
+adri2469: folds 
+BGS013: folds 
+Uncalled bet ($0.50) returned to Joe_Li7
+Joe_Li7 collected $1 from pot
+jeffy27dt1 joins the table at seat #5 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: adri2469 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 3: Joe_Li7 (big blind) collected ($1)
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: tintin641 folded before Flop (didn't bet)
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624387711:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:12:11 WET [2025/01/30 13:12:11 ET]
+Table 'Thabit' 6-max Seat #2 is the button
+Seat 1: adri2469 ($21.11 in chips) is sitting out
+Seat 5: jeffy27dt1 ($100 in chips) is sitting out
+Seat 2: BGS013 ($117.12 in chips) 
+Seat 3: Joe_Li7 ($122.85 in chips) 
+Seat 4: Xenicide ($107.48 in chips) 
+Seat 6: coeeeelho ($198 in chips) 
+Joe_Li7: posts small blind $0.50
+Xenicide: posts big blind $1
+jeffy27dt1: sits out 
+*** HOLE CARDS ***
+coeeeelho: folds 
+BGS013: raises $1.50 to $2.50
+Joe_Li7: folds 
+Xenicide: folds 
+Uncalled bet ($1.50) returned to BGS013
+BGS013 collected $2.50 from pot
+BGS013: doesn't show hand 
+jeffy27dt1 leaves the table
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: adri2469
+Seat 5: jeffy27dt1
+Seat 2: BGS013 (button) collected ($2.50)
+Seat 3: Joe_Li7 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) folded before Flop
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624391494:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:12:25 WET [2025/01/30 13:12:25 ET]
+Table 'Thabit' 6-max Seat #3 is the button
+Seat 1: adri2469 ($21.11 in chips) 
+Seat 2: BGS013 ($118.62 in chips) 
+Seat 3: Joe_Li7 ($122.35 in chips) 
+Seat 4: Xenicide ($106.48 in chips) 
+Seat 6: coeeeelho ($198 in chips) 
+Xenicide: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+adri2469: folds 
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: folds 
+Uncalled bet ($0.50) returned to coeeeelho
+coeeeelho collected $1 from pot
+BumHuntKing joins the table at seat #5 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: adri2469 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 6: coeeeelho (big blind) collected ($1)
+
+
+
+PokerStars Hand #254624394458:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:12:36 WET [2025/01/30 13:12:36 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 5: BumHuntKing ($100 in chips) is sitting out
+Seat 1: adri2469 ($21.11 in chips) 
+Seat 2: BGS013 ($118.62 in chips) 
+Seat 3: Joe_Li7 ($122.35 in chips) 
+Seat 4: Xenicide ($105.98 in chips) 
+Seat 6: coeeeelho ($198.50 in chips) 
+coeeeelho: posts small blind $0.50
+adri2469: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+Joe_Li7: folds 
+Xenicide: raises $1.25 to $2.25
+coeeeelho: folds 
+adri2469: folds 
+Uncalled bet ($1.25) returned to Xenicide
+Xenicide collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: BumHuntKing
+Seat 1: adri2469 (big blind) folded before Flop
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) collected ($2.50)
+Seat 6: coeeeelho (small blind) folded before Flop
+
+
+
+PokerStars Hand #254624399845:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:12:57 WET [2025/01/30 13:12:57 ET]
+Table 'Thabit' 6-max Seat #6 is the button
+Seat 5: BumHuntKing ($100 in chips) is sitting out
+Seat 1: adri2469 ($20.11 in chips) 
+Seat 2: BGS013 ($118.62 in chips) 
+Seat 3: Joe_Li7 ($122.35 in chips) 
+Seat 4: Xenicide ($107.48 in chips) 
+Seat 6: coeeeelho ($198 in chips) 
+adri2469: posts small blind $0.50
+BGS013: posts big blind $1
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+Joe_Li7: folds 
+Xenicide: raises $1 to $2
+coeeeelho: folds 
+adri2469: folds 
+BGS013: folds 
+Uncalled bet ($1) returned to Xenicide
+Xenicide collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 5: BumHuntKing
+Seat 1: adri2469 (small blind) folded before Flop
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: Joe_Li7 folded before Flop (didn't bet)
+Seat 4: Xenicide collected ($2.50)
+Seat 6: coeeeelho (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624405689:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:13:19 WET [2025/01/30 13:13:19 ET]
+Table 'Thabit' 6-max Seat #1 is the button
+Seat 3: Joe_Li7 ($122.35 in chips) is sitting out
+Seat 5: BumHuntKing ($100 in chips) is sitting out
+Seat 1: adri2469 ($19.61 in chips) 
+Seat 2: BGS013 ($117.62 in chips) 
+Seat 4: Xenicide ($108.98 in chips) 
+Seat 6: coeeeelho ($198 in chips) 
+BGS013: posts small blind $0.50
+Joe_Li7: is sitting out 
+Xenicide: posts big blind $1
+BumHuntKing: sits out 
+*** HOLE CARDS ***
+coeeeelho: folds 
+adri2469: folds 
+BGS013: folds 
+Uncalled bet ($0.50) returned to Xenicide
+Xenicide collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Joe_Li7
+Seat 5: BumHuntKing
+Seat 1: adri2469 (button) folded before Flop (didn't bet)
+Seat 2: BGS013 (small blind) folded before Flop
+Seat 4: Xenicide (big blind) collected ($1)
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624408353:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:13:29 WET [2025/01/30 13:13:29 ET]
+Table 'Thabit' 6-max Seat #2 is the button
+Seat 3: Joe_Li7 ($122.35 in chips) is sitting out
+Seat 1: adri2469 ($19.61 in chips) 
+Seat 2: BGS013 ($117.12 in chips) 
+Seat 4: Xenicide ($109.48 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: coeeeelho ($198 in chips) 
+Xenicide: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+Joe_Li7 leaves the table
+coeeeelho: raises $1.10 to $2.10
+adri2469: folds 
+BGS013: folds 
+J0SHB0SH joins the table at seat #3 
+Xenicide: raises $7.90 to $10
+BumHuntKing: folds 
+coeeeelho: folds 
+Uncalled bet ($7.90) returned to Xenicide
+Xenicide collected $5.20 from pot
+*** SUMMARY ***
+Total pot $5.20 | Rake $0 
+Seat 3: Joe_Li7
+Seat 1: adri2469 folded before Flop (didn't bet)
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) collected ($5.20)
+Seat 5: BumHuntKing (big blind) folded before Flop
+Seat 6: coeeeelho folded before Flop
+
+
+
+PokerStars Hand #254624419236:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:14:11 WET [2025/01/30 13:14:11 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 3: J0SHB0SH ($100 in chips) is sitting out
+Seat 1: adri2469 ($19.61 in chips) 
+Seat 2: BGS013 ($117.12 in chips) 
+Seat 4: Xenicide ($112.58 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: coeeeelho ($195.90 in chips) 
+BumHuntKing: posts small blind $0.50
+coeeeelho: posts big blind $1
+J0SHB0SH: sits out 
+*** HOLE CARDS ***
+adri2469: folds 
+BGS013: folds 
+Xenicide: folds 
+BumHuntKing: folds 
+Uncalled bet ($0.50) returned to coeeeelho
+coeeeelho collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: J0SHB0SH
+Seat 1: adri2469 folded before Flop (didn't bet)
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) folded before Flop
+Seat 6: coeeeelho (big blind) collected ($1)
+
+
+
+PokerStars Hand #254624424630:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:14:31 WET [2025/01/30 13:14:31 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 3: J0SHB0SH ($100 in chips) is sitting out
+Seat 1: adri2469 ($19.61 in chips) 
+Seat 2: BGS013 ($117.12 in chips) 
+Seat 4: Xenicide ($112.58 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: coeeeelho ($196.40 in chips) 
+coeeeelho: posts small blind $0.50
+adri2469: posts big blind $1
+J0SHB0SH: sits out 
+*** HOLE CARDS ***
+BGS013: raises $1 to $2
+Xenicide: folds 
+BumHuntKing: folds 
+coeeeelho: folds 
+adri2469: raises $17.61 to $19.61 and is all-in
+BGS013: calls $17.61
+*** FLOP *** [3s Ts 2d]
+*** TURN *** [3s Ts 2d] [Kd]
+*** RIVER *** [3s Ts 2d Kd] [Ah]
+*** SHOW DOWN ***
+adri2469: shows [Qc As] (a pair of Aces)
+BGS013: shows [8h 8d] (a pair of Eights)
+adri2469 collected $37.73 from pot
+*** SUMMARY ***
+Total pot $39.72 | Rake $1.99 
+Board [3s Ts 2d Kd Ah]
+Seat 3: J0SHB0SH
+Seat 1: adri2469 (big blind) showed [Qc As] and won ($37.73) with a pair of Aces
+Seat 2: BGS013 showed [8h 8d] and lost with a pair of Eights
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 6: coeeeelho (small blind) folded before Flop
+
+
+
+PokerStars Hand #254624432719:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:15:01 WET [2025/01/30 13:15:01 ET]
+Table 'Thabit' 6-max Seat #6 is the button
+Seat 3: J0SHB0SH ($100 in chips) is sitting out
+Seat 1: adri2469 ($37.73 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 4: Xenicide ($112.58 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: coeeeelho ($195.90 in chips) 
+adri2469: posts small blind $0.50
+BGS013: posts big blind $1
+J0SHB0SH: sits out 
+*** HOLE CARDS ***
+Xenicide: folds 
+BumHuntKing: folds 
+coeeeelho: raises $1.50 to $2.50
+adri2469: calls $2
+BGS013: folds 
+*** FLOP *** [7d 6d Th]
+adri2469: checks 
+coeeeelho: bets $4.28
+adri2469: calls $4.28
+*** TURN *** [7d 6d Th] [Qs]
+adri2469: checks 
+coeeeelho: bets $10.37
+adri2469: folds 
+Uncalled bet ($10.37) returned to coeeeelho
+coeeeelho collected $13.83 from pot
+*** SUMMARY ***
+Total pot $14.56 | Rake $0.73 
+Board [7d 6d Th Qs]
+Seat 3: J0SHB0SH
+Seat 1: adri2469 (small blind) folded on the Turn
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: coeeeelho (button) collected ($13.83)
+
+
+
+PokerStars Hand #254624448567:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:16:03 WET [2025/01/30 13:16:03 ET]
+Table 'Thabit' 6-max Seat #1 is the button
+Seat 1: adri2469 ($30.95 in chips) 
+Seat 2: BGS013 ($100 in chips) 
+Seat 3: J0SHB0SH ($100 in chips) 
+Seat 4: Xenicide ($112.58 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: coeeeelho ($202.95 in chips) 
+BGS013: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: raises $1 to $2
+BumHuntKing: folds 
+coeeeelho: folds 
+adri2469: calls $2
+BGS013: calls $1.50
+J0SHB0SH: calls $1
+*** FLOP *** [Td 5c 7h]
+BGS013: checks 
+J0SHB0SH: checks 
+Xenicide: checks 
+adri2469: bets $3
+BGS013: raises $7.48 to $10.48
+J0SHB0SH: folds 
+Xenicide: folds 
+adri2469: folds 
+Uncalled bet ($7.48) returned to BGS013
+BGS013 collected $13.30 from pot
+BGS013: doesn't show hand 
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Td 5c 7h]
+Seat 1: adri2469 (button) folded on the Flop
+Seat 2: BGS013 (small blind) collected ($13.30)
+Seat 3: J0SHB0SH (big blind) folded on the Flop
+Seat 4: Xenicide folded on the Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624474777:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:17:41 WET [2025/01/30 13:17:41 ET]
+Table 'Thabit' 6-max Seat #2 is the button
+Seat 1: adri2469 ($25.95 in chips) 
+Seat 2: BGS013 ($108.30 in chips) 
+Seat 3: J0SHB0SH ($100 in chips) 
+Seat 4: Xenicide ($110.58 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: coeeeelho ($202.95 in chips) 
+J0SHB0SH: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+coeeeelho: folds 
+adri2469: calls $1
+BGS013: raises $3.50 to $4.50
+J0SHB0SH: folds 
+Xenicide: folds 
+adri2469: raises $21.45 to $25.95 and is all-in
+BGS013: calls $21.45
+*** FLOP *** [Ac 3c Jc]
+*** TURN *** [Ac 3c Jc] [4d]
+*** RIVER *** [Ac 3c Jc 4d] [Ah]
+*** SHOW DOWN ***
+adri2469: shows [2c 2h] (two pair, Aces and Deuces)
+BGS013: shows [Ks As] (three of a kind, Aces)
+BGS013 collected $50.90 from pot
+*** SUMMARY ***
+Total pot $53.40 | Rake $2.50 
+Board [Ac 3c Jc 4d Ah]
+Seat 1: adri2469 showed [2c 2h] and lost with two pair, Aces and Deuces
+Seat 2: BGS013 (button) showed [Ks As] and won ($50.90) with three of a kind, Aces
+Seat 3: J0SHB0SH (small blind) folded before Flop
+Seat 4: Xenicide (big blind) folded before Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624484624:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:18:19 WET [2025/01/30 13:18:19 ET]
+Table 'Thabit' 6-max Seat #3 is the button
+Seat 1: adri2469 ($0 in chips) is sitting out
+Seat 2: BGS013 ($133.25 in chips) 
+Seat 3: J0SHB0SH ($100 in chips) 
+Seat 4: Xenicide ($109.58 in chips) 
+Seat 5: BumHuntKing ($100 in chips) 
+Seat 6: coeeeelho ($202.95 in chips) 
+Xenicide: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+adri2469 is disconnected 
+coeeeelho: folds 
+BGS013: folds 
+J0SHB0SH: folds 
+Xenicide: folds 
+Uncalled bet ($0.50) returned to BumHuntKing
+BumHuntKing collected $1 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: adri2469
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) collected ($1)
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624487382:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:18:29 WET [2025/01/30 13:18:29 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 1: adri2469 ($0 in chips) is sitting out
+Seat 2: BGS013 ($133.25 in chips) 
+Seat 3: J0SHB0SH ($100 in chips) 
+Seat 4: Xenicide ($109.08 in chips) 
+Seat 5: BumHuntKing ($100.50 in chips) 
+Seat 6: coeeeelho ($202.95 in chips) 
+BumHuntKing: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+J0SHB0SH: raises $1.50 to $2.50
+Xenicide: folds 
+BumHuntKing: raises $9 to $11.50
+coeeeelho: folds 
+J0SHB0SH: folds 
+Uncalled bet ($9) returned to BumHuntKing
+BumHuntKing collected $6 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: adri2469
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: J0SHB0SH folded before Flop
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) collected ($6)
+Seat 6: coeeeelho (big blind) folded before Flop
+
+
+
+PokerStars Hand #254624493228:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:18:51 WET [2025/01/30 13:18:51 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 1: adri2469 ($0 in chips) is sitting out
+Seat 2: BGS013 ($133.25 in chips) 
+Seat 3: J0SHB0SH ($100 in chips) 
+Seat 4: Xenicide ($109.08 in chips) 
+Seat 5: BumHuntKing ($104 in chips) 
+Seat 6: coeeeelho ($201.95 in chips) 
+coeeeelho: posts small blind $0.50
+BGS013: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+Xenicide: raises $1 to $2
+BumHuntKing: folds 
+coeeeelho: folds 
+BGS013: folds 
+Uncalled bet ($1) returned to Xenicide
+Xenicide collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: adri2469
+Seat 2: BGS013 (big blind) folded before Flop
+Seat 3: J0SHB0SH folded before Flop (didn't bet)
+Seat 4: Xenicide collected ($2.50)
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 6: coeeeelho (small blind) folded before Flop
+
+
+
+PokerStars Hand #254624498884:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:19:12 WET [2025/01/30 13:19:12 ET]
+Table 'Thabit' 6-max Seat #6 is the button
+Seat 1: adri2469 ($0 in chips) is sitting out
+Seat 2: BGS013 ($132.25 in chips) 
+Seat 3: J0SHB0SH ($100 in chips) 
+Seat 4: Xenicide ($110.58 in chips) 
+Seat 5: BumHuntKing ($104 in chips) 
+Seat 6: coeeeelho ($201.45 in chips) 
+BGS013: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+BumHuntKing: folds 
+coeeeelho: folds 
+BGS013: raises $2 to $3
+J0SHB0SH: calls $2
+*** FLOP *** [Qs Kd 5c]
+BGS013: bets $1.48
+J0SHB0SH: calls $1.48
+*** TURN *** [Qs Kd 5c] [8c]
+BGS013: checks 
+J0SHB0SH: checks 
+*** RIVER *** [Qs Kd 5c 8c] [Ks]
+BGS013: checks 
+J0SHB0SH: checks 
+*** SHOW DOWN ***
+BGS013: shows [Ah Th] (a pair of Kings)
+J0SHB0SH: shows [7c 7d] (two pair, Kings and Sevens)
+J0SHB0SH collected $8.51 from pot
+*** SUMMARY ***
+Total pot $8.96 | Rake $0.45 
+Board [Qs Kd 5c 8c Ks]
+Seat 1: adri2469
+Seat 2: BGS013 (small blind) showed [Ah Th] and lost with a pair of Kings
+Seat 3: J0SHB0SH (big blind) showed [7c 7d] and won ($8.51) with two pair, Kings and Sevens
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: coeeeelho (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624513581:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:20:07 WET [2025/01/30 13:20:07 ET]
+Table 'Thabit' 6-max Seat #2 is the button
+Seat 1: adri2469 ($0 in chips) is sitting out
+Seat 2: BGS013 ($127.77 in chips) 
+Seat 3: J0SHB0SH ($104.03 in chips) 
+Seat 4: Xenicide ($110.58 in chips) 
+Seat 5: BumHuntKing ($104 in chips) 
+Seat 6: coeeeelho ($201.45 in chips) 
+J0SHB0SH: posts small blind $0.50
+Xenicide: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+coeeeelho: folds 
+BGS013: folds 
+J0SHB0SH: folds 
+Uncalled bet ($0.50) returned to Xenicide
+Xenicide collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: adri2469
+Seat 2: BGS013 (button) folded before Flop (didn't bet)
+Seat 3: J0SHB0SH (small blind) folded before Flop
+Seat 4: Xenicide (big blind) collected ($1)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: coeeeelho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624518430:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:20:25 WET [2025/01/30 13:20:25 ET]
+Table 'Thabit' 6-max Seat #3 is the button
+Seat 1: adri2469 ($0 in chips) is sitting out
+Seat 2: BGS013 ($127.77 in chips) 
+Seat 3: J0SHB0SH ($103.53 in chips) 
+Seat 4: Xenicide ($111.08 in chips) 
+Seat 5: BumHuntKing ($104 in chips) 
+Seat 6: coeeeelho ($201.45 in chips) 
+Xenicide: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: raises $1.20 to $2.20
+BGS013: folds 
+J0SHB0SH: folds 
+Xenicide: folds 
+BumHuntKing: calls $1.20
+*** FLOP *** [7c Qs Tc]
+BumHuntKing: checks 
+coeeeelho: checks 
+*** TURN *** [7c Qs Tc] [Jc]
+BumHuntKing: checks 
+coeeeelho: checks 
+*** RIVER *** [7c Qs Tc Jc] [Qh]
+BumHuntKing: checks 
+coeeeelho: checks 
+*** SHOW DOWN ***
+BumHuntKing: shows [Js Ac] (two pair, Queens and Jacks)
+coeeeelho: mucks hand 
+BumHuntKing collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.24 
+Board [7c Qs Tc Jc Qh]
+Seat 1: adri2469
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 4: Xenicide (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) showed [Js Ac] and won ($4.66) with two pair, Queens and Jacks
+Seat 6: coeeeelho mucked
+
+
+
+PokerStars Hand #254624533150:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:21:20 WET [2025/01/30 13:21:20 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 1: adri2469 ($0 in chips) is sitting out
+Seat 2: BGS013 ($127.77 in chips) 
+Seat 3: J0SHB0SH ($103.53 in chips) 
+Seat 4: Xenicide ($110.58 in chips) 
+Seat 5: BumHuntKing ($106.46 in chips) 
+Seat 6: coeeeelho ($199.25 in chips) 
+BumHuntKing: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+BGS013: folds 
+J0SHB0SH: raises $1.50 to $2.50
+Xenicide: folds 
+BGS013 leaves the table
+BumHuntKing: folds 
+coeeeelho: calls $1.50
+*** FLOP *** [7h 9h 3s]
+coeeeelho: checks 
+J0SHB0SH: checks 
+*** TURN *** [7h 9h 3s] [6d]
+coeeeelho: bets $3.92
+J0SHB0SH: calls $3.92
+*** RIVER *** [7h 9h 3s 6d] [3c]
+coeeeelho: checks 
+J0SHB0SH: checks 
+*** SHOW DOWN ***
+coeeeelho: shows [8h Ad] (a pair of Threes)
+J0SHB0SH: shows [Ac Ks] (a pair of Threes - Ace+King kicker)
+J0SHB0SH collected $12.67 from pot
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [7h 9h 3s 6d 3c]
+Seat 1: adri2469
+Seat 2: BGS013 folded before Flop (didn't bet)
+Seat 3: J0SHB0SH showed [Ac Ks] and won ($12.67) with a pair of Threes
+Seat 4: Xenicide (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) folded before Flop
+Seat 6: coeeeelho (big blind) showed [8h Ad] and lost with a pair of Threes
+
+
+
+PokerStars Hand #254624548082:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:22:16 WET [2025/01/30 13:22:16 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 1: adri2469 ($0 in chips) is sitting out
+Seat 3: J0SHB0SH ($109.78 in chips) 
+Seat 4: Xenicide ($110.58 in chips) 
+Seat 5: BumHuntKing ($105.96 in chips) 
+Seat 6: coeeeelho ($192.83 in chips) 
+coeeeelho: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+Xenicide: folds 
+BumHuntKing: folds 
+coeeeelho: raises $2 to $3
+J0SHB0SH: folds 
+Uncalled bet ($2) returned to coeeeelho
+coeeeelho collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: adri2469
+Seat 3: J0SHB0SH (big blind) folded before Flop
+Seat 4: Xenicide folded before Flop (didn't bet)
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 6: coeeeelho (small blind) collected ($2)
+
+
+
+PokerStars Hand #254624551032:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:22:27 WET [2025/01/30 13:22:27 ET]
+Table 'Thabit' 6-max Seat #6 is the button
+Seat 1: adri2469 ($0 in chips) is sitting out
+Seat 4: Xenicide ($110.58 in chips) is sitting out
+Seat 3: J0SHB0SH ($108.78 in chips) 
+Seat 5: BumHuntKing ($105.96 in chips) 
+Seat 6: coeeeelho ($193.83 in chips) 
+J0SHB0SH: posts small blind $0.50
+Xenicide: is sitting out 
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+Xenicide leaves the table
+J0SHB0SH: folds 
+Uncalled bet ($0.50) returned to BumHuntKing
+BumHuntKing collected $1 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: adri2469
+Seat 4: Xenicide
+Seat 3: J0SHB0SH (small blind) folded before Flop
+Seat 5: BumHuntKing (big blind) collected ($1)
+Seat 6: coeeeelho (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624553299:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:22:36 WET [2025/01/30 13:22:36 ET]
+Table 'Thabit' 6-max Seat #3 is the button
+Seat 1: adri2469 ($0 in chips) is sitting out
+Seat 3: J0SHB0SH ($108.28 in chips) 
+Seat 5: BumHuntKing ($106.46 in chips) 
+Seat 6: coeeeelho ($193.83 in chips) 
+BumHuntKing: posts small blind $0.50
+coeeeelho: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+BumHuntKing: raises $2 to $3
+coeeeelho: folds 
+Uncalled bet ($2) returned to BumHuntKing
+BumHuntKing collected $2 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: adri2469
+Seat 3: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 5: BumHuntKing (small blind) collected ($2)
+Seat 6: coeeeelho (big blind) folded before Flop
+
+
+
+PokerStars Hand #254624556595:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:22:48 WET [2025/01/30 13:22:48 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 1: adri2469 ($0 in chips) is sitting out
+Seat 3: J0SHB0SH ($108.28 in chips) 
+Seat 5: BumHuntKing ($107.46 in chips) 
+Seat 6: coeeeelho ($192.83 in chips) 
+coeeeelho: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+coeeeelho: folds 
+Uncalled bet ($0.50) returned to J0SHB0SH
+J0SHB0SH collected $1 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: adri2469
+Seat 3: J0SHB0SH (big blind) collected ($1)
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+Seat 6: coeeeelho (small blind) folded before Flop
+
+
+
+PokerStars Hand #254624559215:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:22:58 WET [2025/01/30 13:22:58 ET]
+Table 'Thabit' 6-max Seat #6 is the button
+Seat 1: adri2469 ($0 in chips) is sitting out
+Seat 3: J0SHB0SH ($108.78 in chips) 
+Seat 5: BumHuntKing ($107.46 in chips) 
+Seat 6: coeeeelho ($192.33 in chips) 
+J0SHB0SH: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+coeeeelho: folds 
+coeeeelho leaves the table
+J0SHB0SH: raises $2 to $3
+BumHuntKing: folds 
+Uncalled bet ($2) returned to J0SHB0SH
+J0SHB0SH collected $2 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: adri2469
+Seat 3: J0SHB0SH (small blind) collected ($2)
+Seat 5: BumHuntKing (big blind) folded before Flop
+Seat 6: coeeeelho (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254624562879:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:23:11 WET [2025/01/30 13:23:11 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 1: adri2469 ($0 in chips) is sitting out
+Seat 3: J0SHB0SH ($109.78 in chips) 
+Seat 5: BumHuntKing ($106.46 in chips) 
+BumHuntKing: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: raises $1.50 to $2.50
+J0SHB0SH: calls $1.50
+*** FLOP *** [Tc Ks 7s]
+EAroca joins the table at seat #2 
+J0SHB0SH: checks 
+BumHuntKing: bets $1.19
+J0SHB0SH: folds 
+Uncalled bet ($1.19) returned to BumHuntKing
+BumHuntKing collected $4.75 from pot
+adri2469 leaves the table
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Tc Ks 7s]
+Seat 1: adri2469
+Seat 3: J0SHB0SH (big blind) folded on the Flop
+Seat 5: BumHuntKing (button) (small blind) collected ($4.75)
+
+
+
+PokerStars Hand #254625187320:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:30:54 WET [2025/01/30 13:30:54 ET]
+Table 'Thabit' 6-max Seat #1 is the button
+Seat 1: K.Antagonist ($100 in chips) 
+Seat 2: EAroca ($104.90 in chips) 
+Seat 3: J0SHB0SH ($119.85 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: BumHuntKing ($130.04 in chips) 
+Seat 6: skylos2180 ($96.50 in chips) 
+EAroca: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: folds 
+BumHuntKing: folds 
+skylos2180: folds 
+K.Antagonist: folds 
+EAroca: raises $2 to $3
+J0SHB0SH: calls $2
+*** FLOP *** [9s 6s Kd]
+EAroca: bets $1.43
+J0SHB0SH: calls $1.43
+*** TURN *** [9s 6s Kd] [2c]
+EAroca: bets $14.74
+J0SHB0SH: folds 
+Uncalled bet ($14.74) returned to EAroca
+EAroca collected $8.42 from pot
+EAroca: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.86 | Rake $0.44 
+Board [9s 6s Kd 2c]
+Seat 1: K.Antagonist (button) folded before Flop (didn't bet)
+Seat 2: EAroca (small blind) collected ($8.42)
+Seat 3: J0SHB0SH (big blind) folded on the Turn
+Seat 4: ptolejmus folded before Flop (didn't bet)
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: skylos2180 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254625205938:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:32:03 WET [2025/01/30 13:32:03 ET]
+Table 'Thabit' 6-max Seat #2 is the button
+Seat 1: K.Antagonist ($100 in chips) 
+Seat 2: EAroca ($108.89 in chips) 
+Seat 3: J0SHB0SH ($115.42 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: BumHuntKing ($130.04 in chips) 
+Seat 6: skylos2180 ($96.50 in chips) 
+J0SHB0SH: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+skylos2180: folds 
+K.Antagonist: folds 
+EAroca: folds 
+J0SHB0SH: calls $0.50
+ptolejmus: checks 
+*** FLOP *** [7d Jc Js]
+J0SHB0SH: checks 
+ptolejmus: bets $1
+J0SHB0SH: raises $113.42 to $114.42 and is all-in
+ptolejmus: folds 
+Uncalled bet ($113.42) returned to J0SHB0SH
+J0SHB0SH collected $3.80 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [7d Jc Js]
+Seat 1: K.Antagonist folded before Flop (didn't bet)
+Seat 2: EAroca (button) folded before Flop (didn't bet)
+Seat 3: J0SHB0SH (small blind) collected ($3.80)
+Seat 4: ptolejmus (big blind) folded on the Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+Seat 6: skylos2180 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254625214525:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:32:34 WET [2025/01/30 13:32:34 ET]
+Table 'Thabit' 6-max Seat #3 is the button
+Seat 1: K.Antagonist ($100 in chips) 
+Seat 2: EAroca ($108.89 in chips) 
+Seat 3: J0SHB0SH ($117.22 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: BumHuntKing ($130.04 in chips) 
+Seat 6: skylos2180 ($96.50 in chips) 
+ptolejmus: posts small blind $0.50
+BumHuntKing: posts big blind $1
+*** HOLE CARDS ***
+skylos2180: folds 
+K.Antagonist: folds 
+EAroca: folds 
+J0SHB0SH: folds 
+skylos2180 leaves the table
+ptolejmus: raises $1.75 to $2.75
+BumHuntKing: calls $1.75
+*** FLOP *** [7d 8d 6h]
+ptolejmus: checks 
+BumHuntKing: checks 
+*** TURN *** [7d 8d 6h] [5c]
+ptolejmus: checks 
+BumHuntKing: bets $7.50
+ptolejmus: folds 
+Uncalled bet ($7.50) returned to BumHuntKing
+BumHuntKing collected $5.22 from pot
+BumHuntKing: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [7d 8d 6h 5c]
+Seat 1: K.Antagonist folded before Flop (didn't bet)
+Seat 2: EAroca folded before Flop (didn't bet)
+Seat 3: J0SHB0SH (button) folded before Flop (didn't bet)
+Seat 4: ptolejmus (small blind) folded on the Turn
+Seat 5: BumHuntKing (big blind) collected ($5.22)
+Seat 6: skylos2180 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254625232730:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:33:41 WET [2025/01/30 13:33:41 ET]
+Table 'Thabit' 6-max Seat #4 is the button
+Seat 1: K.Antagonist ($100 in chips) is sitting out
+Seat 2: EAroca ($108.89 in chips) 
+Seat 3: J0SHB0SH ($117.22 in chips) 
+Seat 4: ptolejmus ($10 in chips) 
+Seat 5: BumHuntKing ($132.51 in chips) 
+BumHuntKing: posts small blind $0.50
+K.Antagonist: is sitting out 
+EAroca: posts big blind $1
+*** HOLE CARDS ***
+J0SHB0SH: folds 
+ptolejmus: raises $1 to $2
+K.Antagonist leaves the table
+BumHuntKing: folds 
+EAroca: calls $1
+*** FLOP *** [Ks 8c Ts]
+EAroca: checks 
+ptolejmus: bets $1.16
+EAroca: folds 
+Uncalled bet ($1.16) returned to ptolejmus
+ptolejmus collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ks 8c Ts]
+Seat 1: K.Antagonist
+Seat 2: EAroca (big blind) folded on the Flop
+Seat 3: J0SHB0SH folded before Flop (didn't bet)
+Seat 4: ptolejmus (button) collected ($4.28)
+Seat 5: BumHuntKing (small blind) folded before Flop
+
+
+
+PokerStars Hand #254625254212:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:34:58 WET [2025/01/30 13:34:58 ET]
+Table 'Thabit' 6-max Seat #5 is the button
+Seat 2: EAroca ($106.89 in chips) 
+Seat 3: J0SHB0SH ($117.22 in chips) 
+Seat 4: ptolejmus ($12.28 in chips) 
+Seat 5: BumHuntKing ($132.01 in chips) 
+EAroca: posts small blind $0.50
+J0SHB0SH: posts big blind $1
+*** HOLE CARDS ***
+ptolejmus: raises $1 to $2
+BumHuntKing: folds 
+EAroca: folds 
+J0SHB0SH: folds 
+Uncalled bet ($1) returned to ptolejmus
+ptolejmus collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: EAroca (small blind) folded before Flop
+Seat 3: J0SHB0SH (big blind) folded before Flop
+Seat 4: ptolejmus collected ($2.50)
+Seat 5: BumHuntKing (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254625262015:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/30 18:35:27 WET [2025/01/30 13:35:27 ET]
+Table 'Thabit' 6-max Seat #2 is the button
+Seat 2: EAroca ($106.39 in chips) 
+Seat 3: J0SHB0SH ($116.22 in chips) 
+Seat 4: ptolejmus ($13.78 in chips) 
+Seat 5: BumHuntKing ($132.01 in chips) 
+J0SHB0SH: posts small blind $0.50
+ptolejmus: posts big blind $1
+*** HOLE CARDS ***
+BumHuntKing: folds 
+EAroca: folds 
+BumHuntKing leaves the table
+J0SHB0SH: raises $2 to $3
+ptolejmus: folds 
+Uncalled bet ($2) returned to J0SHB0SH
+J0SHB0SH collected $2 from pot
+J0SHB0SH: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: EAroca (button) folded before Flop (didn't bet)
+Seat 3: J0SHB0SH (small blind) collected ($2)
+Seat 4: ptolejmus (big blind) folded before Flop
+Seat 5: BumHuntKing folded before Flop (didn't bet)
+
+
+

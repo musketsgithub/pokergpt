@@ -1,0 +1,430 @@
+﻿PokerStars Hand #254482977850:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:51:22 WET [2025/01/21 7:51:22 ET]
+Table 'Erna IV' 6-max Seat #3 is the button
+Seat 6: Rysiff ($100 in chips) is sitting out
+Seat 1: Gersi1987 ($17.84 in chips) 
+Seat 2: M1k_DP ($100 in chips) 
+Seat 3: Twistenko ($106.15 in chips) 
+Seat 4: Evelexy1 ($100 in chips) 
+Seat 5: trueYes.3970 ($12.01 in chips) 
+Evelexy1: posts small blind $0.50
+trueYes.3970: posts big blind $1
+Rysiff: sits out 
+*** HOLE CARDS ***
+Gersi1987: folds 
+M1k_DP: folds 
+Twistenko: raises $1.50 to $2.50
+Evelexy1: calls $2
+trueYes.3970: calls $1.50
+*** FLOP *** [Th Qd Jh]
+Evelexy1: checks 
+trueYes.3970: checks 
+Twistenko: bets $2.35
+Evelexy1: calls $2.35
+trueYes.3970: raises $7.16 to $9.51 and is all-in
+Twistenko: raises $15.49 to $25
+Evelexy1: calls $22.65
+*** TURN *** [Th Qd Jh] [4c]
+Evelexy1: checks 
+Twistenko: bets $22.50
+Evelexy1: calls $22.50
+*** RIVER *** [Th Qd Jh 4c] [3d]
+Evelexy1: checks 
+Twistenko: bets $56.15 and is all-in
+Evelexy1: calls $50 and is all-in
+Uncalled bet ($6.15) returned to Twistenko
+*** SHOW DOWN ***
+Twistenko: shows [Kc As] (a straight, Ten to Ace)
+Evelexy1: shows [Jc Qc] (two pair, Queens and Jacks)
+Twistenko collected $175.28 from side pot
+trueYes.3970: shows [Kh 9s] (a straight, Nine to King)
+Twistenko collected $34.23 from main pot
+*** SUMMARY ***
+Total pot $212.01 Main pot $34.23. Side pot $175.28. | Rake $2.50 
+Board [Th Qd Jh 4c 3d]
+Seat 6: Rysiff
+Seat 1: Gersi1987 folded before Flop (didn't bet)
+Seat 2: M1k_DP folded before Flop (didn't bet)
+Seat 3: Twistenko (button) showed [Kc As] and won ($209.51) with a straight, Ten to Ace
+Seat 4: Evelexy1 (small blind) showed [Jc Qc] and lost with two pair, Queens and Jacks
+Seat 5: trueYes.3970 (big blind) showed [Kh 9s] and lost with a straight, Nine to King
+
+
+
+PokerStars Hand #254482988241:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:52:33 WET [2025/01/21 7:52:33 ET]
+Table 'Erna IV' 6-max Seat #1 is the button
+Seat 2: M1k_DP ($100 in chips) is sitting out
+Seat 3: Twistenko ($215.66 in chips) is sitting out
+Seat 5: trueYes.3970 ($0 in chips) is sitting out
+Seat 6: Rysiff ($100 in chips) is sitting out
+Seat 1: Gersi1987 ($17.84 in chips) 
+Seat 4: Evelexy1 ($100 in chips) 
+Gersi1987: posts small blind $0.50
+M1k_DP: is sitting out 
+Twistenko: is sitting out 
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+trueYes.3970 leaves the table
+Twistenko leaves the table
+Gersi1987: calls $0.50
+Evelexy1: raises $2.50 to $3.50
+M1k_DP leaves the table
+Gersi1987: calls $2.50
+*** FLOP *** [3c 4s 7s]
+Evelexy1: checks 
+Gersi1987: bets $4
+Evelexy1: calls $4
+*** TURN *** [3c 4s 7s] [4h]
+Evelexy1: checks 
+Gersi1987: checks 
+*** RIVER *** [3c 4s 7s 4h] [8c]
+Evelexy1: checks 
+Gersi1987: checks 
+*** SHOW DOWN ***
+Evelexy1: shows [Ah Qd] (a pair of Fours)
+Gersi1987: mucks hand 
+Evelexy1 collected $14.25 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [3c 4s 7s 4h 8c]
+Seat 2: M1k_DP
+Seat 3: Twistenko
+Seat 5: trueYes.3970
+Seat 6: Rysiff
+Seat 1: Gersi1987 (button) (small blind) mucked
+Seat 4: Evelexy1 (big blind) showed [Ah Qd] and won ($14.25) with a pair of Fours
+
+
+
+PokerStars Hand #254482992497:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:53:02 WET [2025/01/21 7:53:02 ET]
+Table 'Erna IV' 6-max Seat #1 is the button
+Seat 1: Gersi1987 ($10.34 in chips) 
+Seat 4: Evelexy1 ($106.75 in chips) 
+Seat 6: Rysiff ($100 in chips) 
+Evelexy1: posts small blind $0.50
+Rysiff: posts big blind $1
+*** HOLE CARDS ***
+Gersi1987: calls $1
+Evelexy1: folds 
+Rysiff: checks 
+*** FLOP *** [5d 6s 2c]
+Rysiff: checks 
+Gersi1987: checks 
+*** TURN *** [5d 6s 2c] [7h]
+Rysiff: bets $2
+Gersi1987: folds 
+Uncalled bet ($2) returned to Rysiff
+Rysiff collected $2.38 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [5d 6s 2c 7h]
+Seat 1: Gersi1987 (button) folded on the Turn
+Seat 4: Evelexy1 (small blind) folded before Flop
+Seat 6: Rysiff (big blind) collected ($2.38)
+
+
+
+PokerStars Hand #254482995261:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:53:20 WET [2025/01/21 7:53:20 ET]
+Table 'Erna IV' 6-max Seat #4 is the button
+Seat 1: Gersi1987 ($9.34 in chips) 
+Seat 4: Evelexy1 ($106.25 in chips) 
+Seat 6: Rysiff ($101.38 in chips) 
+Rysiff: posts small blind $0.50
+Gersi1987: posts big blind $1
+*** HOLE CARDS ***
+Evelexy1: folds 
+Rysiff: raises $10 to $11
+Gersi1987: folds 
+Uncalled bet ($10) returned to Rysiff
+Rysiff collected $2 from pot
+Rysiff: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Gersi1987 (big blind) folded before Flop
+Seat 4: Evelexy1 (button) folded before Flop (didn't bet)
+Seat 6: Rysiff (small blind) collected ($2)
+
+
+
+PokerStars Hand #254482997287:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:53:34 WET [2025/01/21 7:53:34 ET]
+Table 'Erna IV' 6-max Seat #6 is the button
+Seat 1: Gersi1987 ($8.34 in chips) 
+Seat 4: Evelexy1 ($106.25 in chips) 
+Seat 6: Rysiff ($102.38 in chips) 
+Gersi1987: posts small blind $0.50
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+Rysiff: folds 
+Gersi1987: calls $0.50
+Evelexy1: checks 
+*** FLOP *** [7c 7s Kh]
+Rysiff leaves the table
+Gersi1987: checks 
+Evelexy1: bets $1.25
+Gersi1987: calls $1.25
+*** TURN *** [7c 7s Kh] [2s]
+Gersi1987: checks 
+Evelexy1: checks 
+*** RIVER *** [7c 7s Kh 2s] [6d]
+Gersi1987: bets $4
+Evelexy1: folds 
+Uncalled bet ($4) returned to Gersi1987
+Gersi1987 collected $4.22 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.28 
+Board [7c 7s Kh 2s 6d]
+Seat 1: Gersi1987 (small blind) collected ($4.22)
+Seat 4: Evelexy1 (big blind) folded on the River
+Seat 6: Rysiff (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254483001144:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:54:00 WET [2025/01/21 7:54:00 ET]
+Table 'Erna IV' 6-max Seat #4 is the button
+Seat 1: Gersi1987 ($10.31 in chips) 
+Seat 4: Evelexy1 ($104 in chips) 
+Evelexy1: posts small blind $0.50
+Gersi1987: posts big blind $1
+*** HOLE CARDS ***
+Evelexy1: calls $0.50
+Gersi1987: checks 
+*** FLOP *** [2h 3d Jd]
+Gersi1987: bets $2
+Evelexy1: folds 
+Uncalled bet ($2) returned to Gersi1987
+Gersi1987 collected $1.88 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.12 
+Board [2h 3d Jd]
+Seat 1: Gersi1987 (big blind) collected ($1.88)
+Seat 4: Evelexy1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254483003562:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:54:17 WET [2025/01/21 7:54:17 ET]
+Table 'Erna IV' 6-max Seat #1 is the button
+Seat 1: Gersi1987 ($11.19 in chips) 
+Seat 4: Evelexy1 ($103 in chips) 
+Gersi1987: posts small blind $0.50
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+Gersi1987: calls $0.50
+Evelexy1: raises $102 to $103 and is all-in
+Gersi1987: folds 
+Uncalled bet ($102) returned to Evelexy1
+Evelexy1 collected $2 from pot
+Evelexy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Gersi1987 (button) (small blind) folded before Flop
+Seat 4: Evelexy1 (big blind) collected ($2)
+
+
+
+PokerStars Hand #254483008875:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:54:53 WET [2025/01/21 7:54:53 ET]
+Table 'Erna IV' 6-max Seat #4 is the button
+Seat 1: PhoenixAssassin ($100 in chips) 
+Seat 4: Evelexy1 ($104 in chips) 
+Seat 5: Gersi1987 ($10.19 in chips) 
+Seat 6: nastja336 ($100 in chips) 
+Gersi1987: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+PhoenixAssassin: folds 
+Evelexy1: folds 
+Gersi1987: calls $0.50
+nastja336: raises $64 to $65
+Gersi1987: folds 
+Uncalled bet ($64) returned to nastja336
+nastja336 collected $2 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: PhoenixAssassin folded before Flop (didn't bet)
+Seat 4: Evelexy1 (button) folded before Flop (didn't bet)
+Seat 5: Gersi1987 (small blind) folded before Flop
+Seat 6: nastja336 (big blind) collected ($2)
+
+
+
+PokerStars Hand #254483010837:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:55:07 WET [2025/01/21 7:55:07 ET]
+Table 'Erna IV' 6-max Seat #5 is the button
+Seat 1: PhoenixAssassin ($100 in chips) 
+Seat 4: Evelexy1 ($104 in chips) 
+Seat 5: Gersi1987 ($9.19 in chips) 
+Seat 6: nastja336 ($101 in chips) 
+nastja336: posts small blind $0.50
+PhoenixAssassin: posts big blind $1
+*** HOLE CARDS ***
+Evelexy1: raises $1.50 to $2.50
+Gersi1987: folds 
+nastja336: folds 
+PhoenixAssassin: folds 
+Uncalled bet ($1.50) returned to Evelexy1
+Evelexy1 collected $2.50 from pot
+Evelexy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: PhoenixAssassin (big blind) folded before Flop
+Seat 4: Evelexy1 collected ($2.50)
+Seat 5: Gersi1987 (button) folded before Flop (didn't bet)
+Seat 6: nastja336 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254483011844:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:55:16 WET [2025/01/21 7:55:16 ET]
+Table 'Erna IV' 6-max Seat #6 is the button
+Seat 1: PhoenixAssassin ($100 in chips) 
+Seat 4: Evelexy1 ($105.50 in chips) 
+Seat 5: Gersi1987 ($9.19 in chips) 
+Seat 6: nastja336 ($100.50 in chips) 
+PhoenixAssassin: posts small blind $0.50
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+Gersi1987: folds 
+nastja336: folds 
+PhoenixAssassin: raises $2 to $3
+Evelexy1: folds 
+Uncalled bet ($2) returned to PhoenixAssassin
+PhoenixAssassin collected $2 from pot
+PhoenixAssassin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: PhoenixAssassin (small blind) collected ($2)
+Seat 4: Evelexy1 (big blind) folded before Flop
+Seat 5: Gersi1987 folded before Flop (didn't bet)
+Seat 6: nastja336 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254483012893:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:55:25 WET [2025/01/21 7:55:25 ET]
+Table 'Erna IV' 6-max Seat #1 is the button
+Seat 1: PhoenixAssassin ($101 in chips) 
+Seat 4: Evelexy1 ($104.50 in chips) 
+Seat 5: Gersi1987 ($9.19 in chips) 
+Seat 6: nastja336 ($100.50 in chips) 
+Evelexy1: posts small blind $0.50
+Gersi1987: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+PhoenixAssassin: folds 
+Evelexy1: raises $103.50 to $104.50 and is all-in
+Gersi1987: folds 
+Uncalled bet ($103.50) returned to Evelexy1
+Evelexy1 collected $2 from pot
+Evelexy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: PhoenixAssassin (button) folded before Flop (didn't bet)
+Seat 4: Evelexy1 (small blind) collected ($2)
+Seat 5: Gersi1987 (big blind) folded before Flop
+Seat 6: nastja336 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254483014584:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:55:40 WET [2025/01/21 7:55:40 ET]
+Table 'Erna IV' 6-max Seat #4 is the button
+Seat 6: nastja336 ($100.50 in chips) is sitting out
+Seat 1: PhoenixAssassin ($101 in chips) 
+Seat 4: Evelexy1 ($105.50 in chips) 
+Seat 5: Gersi1987 ($8.19 in chips) 
+Gersi1987: posts small blind $0.50
+nastja336: is sitting out 
+PhoenixAssassin: posts big blind $1
+*** HOLE CARDS ***
+nastja336 leaves the table
+Evelexy1: folds 
+Gersi1987: calls $0.50
+PhoenixAssassin: raises $2 to $3
+Gersi1987: calls $2
+*** FLOP *** [Kd 3h 2c]
+Gersi1987: checks 
+PhoenixAssassin: bets $1.88
+Gersi1987: calls $1.88
+*** TURN *** [Kd 3h 2c] [4s]
+Gersi1987: bets $3.31 and is all-in
+PhoenixAssassin: calls $3.31
+*** RIVER *** [Kd 3h 2c 4s] [Qh]
+*** SHOW DOWN ***
+Gersi1987: shows [5d 3d] (a pair of Threes)
+PhoenixAssassin: shows [Td Ts] (a pair of Tens)
+PhoenixAssassin collected $15.56 from pot
+Gersi1987 cashed out the hand for $4.51 | Cash Out Fee $0.09
+*** SUMMARY ***
+Total pot $16.38 | Rake $0.82 
+Board [Kd 3h 2c 4s Qh]
+Seat 6: nastja336
+Seat 1: PhoenixAssassin (big blind) showed [Td Ts] and won ($15.56) with a pair of Tens
+Seat 4: Evelexy1 (button) folded before Flop (didn't bet)
+Seat 5: Gersi1987 (small blind) showed [5d 3d] and lost with a pair of Threes (cashed out).
+
+
+
+PokerStars Hand #254483017787:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:56:08 WET [2025/01/21 7:56:08 ET]
+Table 'Erna IV' 6-max Seat #5 is the button
+Seat 1: PhoenixAssassin ($108.37 in chips) 
+Seat 4: Evelexy1 ($105.50 in chips) 
+Seat 5: Gersi1987 ($4.51 in chips) 
+PhoenixAssassin: posts small blind $0.50
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+Gersi1987: raises $1 to $2
+PhoenixAssassin: raises $4 to $6
+Evelexy1: folds 
+Gersi1987: calls $2.51 and is all-in
+Uncalled bet ($1.49) returned to PhoenixAssassin
+*** FLOP *** [Qc 7d Jc]
+*** TURN *** [Qc 7d Jc] [9d]
+*** RIVER *** [Qc 7d Jc 9d] [7h]
+*** SHOW DOWN ***
+PhoenixAssassin: shows [2d 2h] (two pair, Sevens and Deuces)
+Gersi1987: shows [8s Ad] (a pair of Sevens)
+PhoenixAssassin collected $9.52 from pot
+*** SUMMARY ***
+Total pot $10.02 | Rake $0.50 
+Board [Qc 7d Jc 9d 7h]
+Seat 1: PhoenixAssassin (small blind) showed [2d 2h] and won ($9.52) with two pair, Sevens and Deuces
+Seat 4: Evelexy1 (big blind) folded before Flop
+Seat 5: Gersi1987 (button) showed [8s Ad] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #254483020477:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:56:31 WET [2025/01/21 7:56:31 ET]
+Table 'Erna IV' 6-max Seat #4 is the button
+Seat 5: Gersi1987 ($0 in chips) is sitting out
+Seat 1: PhoenixAssassin ($113.38 in chips) 
+Seat 4: Evelexy1 ($104.50 in chips) 
+Evelexy1: posts small blind $0.50
+PhoenixAssassin: posts big blind $1
+*** HOLE CARDS ***
+Evelexy1: folds 
+Uncalled bet ($0.50) returned to PhoenixAssassin
+PhoenixAssassin collected $1 from pot
+PhoenixAssassin: doesn't show hand 
+Gersi1987 leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: Gersi1987
+Seat 1: PhoenixAssassin (big blind) collected ($1)
+Seat 4: Evelexy1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254483021376:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/21 12:56:39 WET [2025/01/21 7:56:39 ET]
+Table 'Erna IV' 6-max Seat #1 is the button
+Seat 1: PhoenixAssassin ($113.88 in chips) 
+Seat 4: Evelexy1 ($104 in chips) 
+PhoenixAssassin: posts small blind $0.50
+Evelexy1: posts big blind $1
+*** HOLE CARDS ***
+PhoenixAssassin: folds 
+Uncalled bet ($0.50) returned to Evelexy1
+Evelexy1 collected $1 from pot
+Evelexy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: PhoenixAssassin (button) (small blind) folded before Flop
+Seat 4: Evelexy1 (big blind) collected ($1)
+
+
+

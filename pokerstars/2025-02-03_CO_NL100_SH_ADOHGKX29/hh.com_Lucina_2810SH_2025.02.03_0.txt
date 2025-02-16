@@ -1,0 +1,827 @@
+﻿PokerStars Hand #254697901021:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:21:58 WET [2025/02/03 21:21:58 ET]
+Table 'Lucina II' 6-max Seat #5 is the button
+Seat 2: y13txd ($55.38 in chips) 
+Seat 3: nastja336 ($100 in chips) 
+Seat 4: andutu34 ($100 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+y13txd: posts small blind $0.50
+nastja336: posts big blind $1
+*** HOLE CARDS ***
+andutu34: raises $1.30 to $2.30
+Tibibacsi: folds 
+y13txd: calls $1.80
+nastja336: calls $1.30
+*** FLOP *** [7s 6d Kd]
+fish my nuts joins the table at seat #6 
+y13txd: checks 
+nastja336: checks 
+andutu34: bets $2.16
+y13txd: folds 
+nastja336: calls $2.16
+*** TURN *** [7s 6d Kd] [Qh]
+nastja336: checks 
+andutu34: checks 
+*** RIVER *** [7s 6d Kd Qh] [Th]
+nastja336: checks 
+andutu34: checks 
+*** SHOW DOWN ***
+nastja336: shows [Kh 3h] (a pair of Kings)
+andutu34: mucks hand 
+nastja336 collected $10.66 from pot
+*** SUMMARY ***
+Total pot $11.22 | Rake $0.56 
+Board [7s 6d Kd Qh Th]
+Seat 2: y13txd (small blind) folded on the Flop
+Seat 3: nastja336 (big blind) showed [Kh 3h] and won ($10.66) with a pair of Kings
+Seat 4: andutu34 mucked
+Seat 5: Tibibacsi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254697908498:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:22:50 WET [2025/02/03 21:22:50 ET]
+Table 'Lucina II' 6-max Seat #2 is the button
+Seat 6: fish my nuts ($100 in chips) is sitting out
+Seat 2: y13txd ($53.08 in chips) 
+Seat 3: nastja336 ($106.20 in chips) 
+Seat 4: andutu34 ($100 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+nastja336: posts small blind $0.50
+andutu34: posts big blind $1
+fish my nuts: sits out 
+*** HOLE CARDS ***
+Tibibacsi: raises $1 to $2
+y13txd: calls $2
+nastja336: raises $12 to $14
+andutu34: folds 
+Tibibacsi: folds 
+y13txd: folds 
+Uncalled bet ($12) returned to nastja336
+nastja336 collected $7 from pot
+nastja336: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 6: fish my nuts
+Seat 2: y13txd (button) folded before Flop
+Seat 3: nastja336 (small blind) collected ($7)
+Seat 4: andutu34 (big blind) folded before Flop
+Seat 5: Tibibacsi folded before Flop
+
+
+
+PokerStars Hand #254697910910:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:23:07 WET [2025/02/03 21:23:07 ET]
+Table 'Lucina II' 6-max Seat #3 is the button
+Seat 6: fish my nuts ($100 in chips) is sitting out
+Seat 2: y13txd ($51.08 in chips) 
+Seat 3: nastja336 ($111.20 in chips) 
+Seat 4: andutu34 ($100 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+andutu34: posts small blind $0.50
+Tibibacsi: posts big blind $1
+fish my nuts: sits out 
+*** HOLE CARDS ***
+y13txd: folds 
+nastja336: folds 
+andutu34: folds 
+Uncalled bet ($0.50) returned to Tibibacsi
+Tibibacsi collected $1 from pot
+Tibibacsi: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: fish my nuts
+Seat 2: y13txd folded before Flop (didn't bet)
+Seat 3: nastja336 (button) folded before Flop (didn't bet)
+Seat 4: andutu34 (small blind) folded before Flop
+Seat 5: Tibibacsi (big blind) collected ($1)
+
+
+
+PokerStars Hand #254697912076:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:23:14 WET [2025/02/03 21:23:14 ET]
+Table 'Lucina II' 6-max Seat #4 is the button
+Seat 2: y13txd ($51.08 in chips) 
+Seat 3: nastja336 ($111.20 in chips) 
+Seat 4: andutu34 ($100 in chips) 
+Seat 5: Tibibacsi ($100.50 in chips) 
+Seat 6: fish my nuts ($100 in chips) 
+Tibibacsi: posts small blind $0.50
+fish my nuts: posts big blind $1
+*** HOLE CARDS ***
+y13txd: calls $1
+nastja336: folds 
+andutu34: folds 
+Tibibacsi: calls $0.50
+fish my nuts: checks 
+*** FLOP *** [7h 2c Jc]
+Tibibacsi: checks 
+fish my nuts: bets $3.22
+y13txd: calls $3.22
+Tibibacsi: folds 
+*** TURN *** [7h 2c Jc] [5d]
+fish my nuts: bets $13.90
+MaRKiToScoK joins the table at seat #1 
+y13txd: raises $32.96 to $46.86 and is all-in
+fish my nuts: calls $32.96
+*** RIVER *** [7h 2c Jc 5d] [8s]
+*** SHOW DOWN ***
+fish my nuts: shows [Jd Qh] (a pair of Jacks)
+y13txd: shows [Kh Kd] (a pair of Kings)
+y13txd collected $100.66 from pot
+*** SUMMARY ***
+Total pot $103.16 | Rake $2.50 
+Board [7h 2c Jc 5d 8s]
+Seat 2: y13txd showed [Kh Kd] and won ($100.66) with a pair of Kings
+Seat 3: nastja336 folded before Flop (didn't bet)
+Seat 4: andutu34 (button) folded before Flop (didn't bet)
+Seat 5: Tibibacsi (small blind) folded on the Flop
+Seat 6: fish my nuts (big blind) showed [Jd Qh] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254697920872:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:24:15 WET [2025/02/03 21:24:15 ET]
+Table 'Lucina II' 6-max Seat #5 is the button
+Seat 1: MaRKiToScoK ($100 in chips) 
+Seat 2: y13txd ($100.66 in chips) 
+Seat 3: nastja336 ($111.20 in chips) 
+Seat 4: andutu34 ($100 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($100 in chips) 
+fish my nuts: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+y13txd: raises $1 to $2
+nastja336: folds 
+andutu34: folds 
+Tibibacsi: folds 
+fish my nuts: raises $7 to $9
+MaRKiToScoK: folds 
+y13txd: folds 
+Uncalled bet ($7) returned to fish my nuts
+fish my nuts collected $5 from pot
+fish my nuts: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: MaRKiToScoK (big blind) folded before Flop
+Seat 2: y13txd folded before Flop
+Seat 3: nastja336 folded before Flop (didn't bet)
+Seat 4: andutu34 folded before Flop (didn't bet)
+Seat 5: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 6: fish my nuts (small blind) collected ($5)
+
+
+
+PokerStars Hand #254697923608:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:24:34 WET [2025/02/03 21:24:34 ET]
+Table 'Lucina II' 6-max Seat #6 is the button
+Seat 1: MaRKiToScoK ($100 in chips) 
+Seat 2: y13txd ($98.66 in chips) 
+Seat 3: nastja336 ($111.20 in chips) 
+Seat 4: andutu34 ($100 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($103 in chips) 
+MaRKiToScoK: posts small blind $0.50
+y13txd: posts big blind $1
+*** HOLE CARDS ***
+nastja336: folds 
+andutu34: folds 
+Tibibacsi: raises $1 to $2
+fish my nuts: raises $5.50 to $7.50
+MaRKiToScoK: folds 
+y13txd: folds 
+Tibibacsi: folds 
+Uncalled bet ($5.50) returned to fish my nuts
+fish my nuts collected $5.50 from pot
+fish my nuts: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: MaRKiToScoK (small blind) folded before Flop
+Seat 2: y13txd (big blind) folded before Flop
+Seat 3: nastja336 folded before Flop (didn't bet)
+Seat 4: andutu34 folded before Flop (didn't bet)
+Seat 5: Tibibacsi folded before Flop
+Seat 6: fish my nuts (button) collected ($5.50)
+
+
+
+PokerStars Hand #254697927218:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:24:58 WET [2025/02/03 21:24:58 ET]
+Table 'Lucina II' 6-max Seat #1 is the button
+Seat 3: nastja336 ($111.20 in chips) is sitting out
+Seat 4: andutu34 ($100 in chips) is sitting out
+Seat 1: MaRKiToScoK ($100 in chips) 
+Seat 2: y13txd ($97.66 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($106.50 in chips) 
+y13txd: posts small blind $0.50
+nastja336: is sitting out 
+andutu34: is sitting out 
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+nastja336 leaves the table
+fish my nuts: raises $1.30 to $2.30
+andutu34 leaves the table
+MaRKiToScoK: folds 
+y13txd: calls $1.80
+Tibibacsi: folds 
+*** FLOP *** [Kd 9s 5c]
+y13txd: checks 
+Melenya joins the table at seat #3 
+fish my nuts: bets $3.78
+y13txd: folds 
+Uncalled bet ($3.78) returned to fish my nuts
+fish my nuts collected $5.32 from pot
+fish my nuts: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.28 
+Board [Kd 9s 5c]
+Seat 3: nastja336
+Seat 4: andutu34
+Seat 1: MaRKiToScoK (button) folded before Flop (didn't bet)
+Seat 2: y13txd (small blind) folded on the Flop
+Seat 5: Tibibacsi (big blind) folded before Flop
+Seat 6: fish my nuts collected ($5.32)
+
+
+
+PokerStars Hand #254697930201:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:25:18 WET [2025/02/03 21:25:18 ET]
+Table 'Lucina II' 6-max Seat #2 is the button
+Seat 3: Melenya ($100 in chips) is sitting out
+Seat 1: MaRKiToScoK ($100 in chips) 
+Seat 2: y13txd ($95.36 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($109.52 in chips) 
+Tibibacsi: posts small blind $0.50
+fish my nuts: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: raises $1.20 to $2.20
+y13txd: calls $2.20
+Tibibacsi: folds 
+fish my nuts: folds 
+*** FLOP *** [6s 4c As]
+MaRKiToScoK: bets $1.85
+y13txd: folds 
+Uncalled bet ($1.85) returned to MaRKiToScoK
+MaRKiToScoK collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [6s 4c As]
+Seat 3: Melenya
+Seat 1: MaRKiToScoK collected ($5.60)
+Seat 2: y13txd (button) folded on the Flop
+Seat 5: Tibibacsi (small blind) folded before Flop
+Seat 6: fish my nuts (big blind) folded before Flop
+
+
+
+PokerStars Hand #254697932483:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:25:34 WET [2025/02/03 21:25:34 ET]
+Table 'Lucina II' 6-max Seat #5 is the button
+Seat 3: Melenya ($100 in chips) is sitting out
+Seat 1: MaRKiToScoK ($103.40 in chips) 
+Seat 2: y13txd ($93.16 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($108.52 in chips) 
+fish my nuts: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+Melenya: sits out 
+*** HOLE CARDS ***
+y13txd: folds 
+Tibibacsi: folds 
+fish my nuts: folds 
+Uncalled bet ($0.50) returned to MaRKiToScoK
+MaRKiToScoK collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Melenya
+Seat 1: MaRKiToScoK (big blind) collected ($1)
+Seat 2: y13txd folded before Flop (didn't bet)
+Seat 5: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 6: fish my nuts (small blind) folded before Flop
+
+
+
+PokerStars Hand #254697934065:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:25:45 WET [2025/02/03 21:25:45 ET]
+Table 'Lucina II' 6-max Seat #6 is the button
+Seat 3: Melenya ($100 in chips) is sitting out
+Seat 1: MaRKiToScoK ($103.90 in chips) 
+Seat 2: y13txd ($93.16 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($108.02 in chips) 
+MaRKiToScoK: posts small blind $0.50
+y13txd: posts big blind $1
+Melenya: sits out 
+*** HOLE CARDS ***
+Tibibacsi: raises $1.50 to $2.50
+fish my nuts: calls $2.50
+MaRKiToScoK: folds 
+y13txd: calls $1.50
+*** FLOP *** [8c 5h Jd]
+y13txd: checks 
+Tibibacsi: checks 
+fish my nuts: checks 
+*** TURN *** [8c 5h Jd] [3c]
+y13txd: bets $3.80
+Tibibacsi: folds 
+fish my nuts: folds 
+Uncalled bet ($3.80) returned to y13txd
+y13txd collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [8c 5h Jd 3c]
+Seat 3: Melenya
+Seat 1: MaRKiToScoK (small blind) folded before Flop
+Seat 2: y13txd (big blind) collected ($7.60)
+Seat 5: Tibibacsi folded on the Turn
+Seat 6: fish my nuts (button) folded on the Turn
+
+
+
+PokerStars Hand #254697938634:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:26:16 WET [2025/02/03 21:26:16 ET]
+Table 'Lucina II' 6-max Seat #1 is the button
+Seat 1: MaRKiToScoK ($103.40 in chips) 
+Seat 2: y13txd ($98.26 in chips) 
+Seat 3: Melenya ($100 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($105.52 in chips) 
+y13txd: posts small blind $0.50
+Melenya: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+fish my nuts: raises $1.30 to $2.30
+MaRKiToScoK: calls $2.30
+y13txd: calls $1.80
+skars07 joins the table at seat #4 
+Melenya: calls $1.30
+*** FLOP *** [Td Kc 4s]
+y13txd: checks 
+Melenya: checks 
+fish my nuts: checks 
+MaRKiToScoK: bets $2.88
+y13txd: folds 
+Melenya: folds 
+fish my nuts: folds 
+Uncalled bet ($2.88) returned to MaRKiToScoK
+MaRKiToScoK collected $8.74 from pot
+*** SUMMARY ***
+Total pot $9.20 | Rake $0.46 
+Board [Td Kc 4s]
+Seat 1: MaRKiToScoK (button) collected ($8.74)
+Seat 2: y13txd (small blind) folded on the Flop
+Seat 3: Melenya (big blind) folded on the Flop
+Seat 5: Tibibacsi folded before Flop (didn't bet)
+Seat 6: fish my nuts folded on the Flop
+
+
+
+PokerStars Hand #254697945840:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:27:06 WET [2025/02/03 21:27:06 ET]
+Table 'Lucina II' 6-max Seat #2 is the button
+Seat 1: MaRKiToScoK ($109.84 in chips) 
+Seat 2: y13txd ($95.96 in chips) 
+Seat 3: Melenya ($100 in chips) 
+Seat 4: skars07 ($100 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($103.22 in chips) 
+Melenya: posts small blind $0.50
+skars07: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+fish my nuts: folds 
+MaRKiToScoK: raises $1 to $2
+y13txd: folds 
+Melenya: folds 
+skars07: folds 
+Uncalled bet ($1) returned to MaRKiToScoK
+MaRKiToScoK collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MaRKiToScoK collected ($2.50)
+Seat 2: y13txd (button) folded before Flop (didn't bet)
+Seat 3: Melenya (small blind) folded before Flop
+Seat 4: skars07 (big blind) folded before Flop
+Seat 5: Tibibacsi folded before Flop (didn't bet)
+Seat 6: fish my nuts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254697949614:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:27:32 WET [2025/02/03 21:27:32 ET]
+Table 'Lucina II' 6-max Seat #3 is the button
+Seat 1: MaRKiToScoK ($111.34 in chips) 
+Seat 2: y13txd ($95.96 in chips) 
+Seat 3: Melenya ($100 in chips) 
+Seat 4: skars07 ($100 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($103.22 in chips) 
+skars07: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+fish my nuts: folds 
+MaRKiToScoK: raises $1 to $2
+y13txd: calls $2
+Melenya: raises $8 to $10
+skars07: folds 
+Tibibacsi: folds 
+MaRKiToScoK: folds 
+y13txd: folds 
+Uncalled bet ($8) returned to Melenya
+Melenya collected $7.50 from pot
+Melenya: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: MaRKiToScoK folded before Flop
+Seat 2: y13txd folded before Flop
+Seat 3: Melenya (button) collected ($7.50)
+Seat 4: skars07 (small blind) folded before Flop
+Seat 5: Tibibacsi (big blind) folded before Flop
+Seat 6: fish my nuts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254697953049:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:27:56 WET [2025/02/03 21:27:56 ET]
+Table 'Lucina II' 6-max Seat #4 is the button
+Seat 1: MaRKiToScoK ($109.34 in chips) 
+Seat 2: y13txd ($93.96 in chips) 
+Seat 3: Melenya ($105.50 in chips) 
+Seat 4: skars07 ($100 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($103.22 in chips) 
+Tibibacsi: posts small blind $0.50
+fish my nuts: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: raises $1 to $2
+y13txd: folds 
+Melenya: folds 
+skars07: folds 
+Tibibacsi: folds 
+fish my nuts: folds 
+Uncalled bet ($1) returned to MaRKiToScoK
+MaRKiToScoK collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MaRKiToScoK collected ($2.50)
+Seat 2: y13txd folded before Flop (didn't bet)
+Seat 3: Melenya folded before Flop (didn't bet)
+Seat 4: skars07 (button) folded before Flop (didn't bet)
+Seat 5: Tibibacsi (small blind) folded before Flop
+Seat 6: fish my nuts (big blind) folded before Flop
+
+
+
+PokerStars Hand #254697956507:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:28:20 WET [2025/02/03 21:28:20 ET]
+Table 'Lucina II' 6-max Seat #5 is the button
+Seat 1: MaRKiToScoK ($110.84 in chips) 
+Seat 2: y13txd ($93.96 in chips) 
+Seat 3: Melenya ($105.50 in chips) 
+Seat 4: skars07 ($100 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($102.22 in chips) 
+fish my nuts: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+y13txd: folds 
+Melenya: folds 
+skars07: raises $1.50 to $2.50
+Tibibacsi: folds 
+fish my nuts: folds 
+MaRKiToScoK: folds 
+Uncalled bet ($1.50) returned to skars07
+skars07 collected $2.50 from pot
+skars07: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MaRKiToScoK (big blind) folded before Flop
+Seat 2: y13txd folded before Flop (didn't bet)
+Seat 3: Melenya folded before Flop (didn't bet)
+Seat 4: skars07 collected ($2.50)
+Seat 5: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 6: fish my nuts (small blind) folded before Flop
+
+
+
+PokerStars Hand #254697959556:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:28:42 WET [2025/02/03 21:28:42 ET]
+Table 'Lucina II' 6-max Seat #6 is the button
+Seat 1: MaRKiToScoK ($109.84 in chips) 
+Seat 2: y13txd ($93.96 in chips) 
+Seat 3: Melenya ($105.50 in chips) 
+Seat 4: skars07 ($101.50 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($101.72 in chips) 
+MaRKiToScoK: posts small blind $0.50
+y13txd: posts big blind $1
+*** HOLE CARDS ***
+Melenya: folds 
+skars07: folds 
+Tibibacsi: folds 
+fish my nuts: raises $1.30 to $2.30
+MaRKiToScoK: calls $1.80
+y13txd: calls $1.30
+*** FLOP *** [Qd As Tc]
+MaRKiToScoK: checks 
+y13txd: checks 
+fish my nuts: checks 
+*** TURN *** [Qd As Tc] [7h]
+MaRKiToScoK: checks 
+y13txd: bets $3
+fish my nuts: folds 
+MaRKiToScoK: folds 
+Uncalled bet ($3) returned to y13txd
+y13txd collected $6.56 from pot
+*** SUMMARY ***
+Total pot $6.90 | Rake $0.34 
+Board [Qd As Tc 7h]
+Seat 1: MaRKiToScoK (small blind) folded on the Turn
+Seat 2: y13txd (big blind) collected ($6.56)
+Seat 3: Melenya folded before Flop (didn't bet)
+Seat 4: skars07 folded before Flop (didn't bet)
+Seat 5: Tibibacsi folded before Flop (didn't bet)
+Seat 6: fish my nuts (button) folded on the Turn
+
+
+
+PokerStars Hand #254697964330:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:29:15 WET [2025/02/03 21:29:15 ET]
+Table 'Lucina II' 6-max Seat #1 is the button
+Seat 1: MaRKiToScoK ($107.54 in chips) 
+Seat 2: y13txd ($98.22 in chips) 
+Seat 3: Melenya ($105.50 in chips) 
+Seat 4: skars07 ($101.50 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($100 in chips) 
+y13txd: posts small blind $0.50
+Melenya: posts big blind $1
+*** HOLE CARDS ***
+skars07: folds 
+Tibibacsi: folds 
+fish my nuts: raises $1.30 to $2.30
+MaRKiToScoK: folds 
+y13txd: calls $1.80
+Melenya: folds 
+*** FLOP *** [6h Ks Jh]
+y13txd: checks 
+fish my nuts: bets $3.78
+y13txd: folds 
+Uncalled bet ($3.78) returned to fish my nuts
+fish my nuts collected $5.32 from pot
+fish my nuts: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.28 
+Board [6h Ks Jh]
+Seat 1: MaRKiToScoK (button) folded before Flop (didn't bet)
+Seat 2: y13txd (small blind) folded on the Flop
+Seat 3: Melenya (big blind) folded before Flop
+Seat 4: skars07 folded before Flop (didn't bet)
+Seat 5: Tibibacsi folded before Flop (didn't bet)
+Seat 6: fish my nuts collected ($5.32)
+
+
+
+PokerStars Hand #254697967947:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:29:41 WET [2025/02/03 21:29:41 ET]
+Table 'Lucina II' 6-max Seat #2 is the button
+Seat 1: MaRKiToScoK ($107.54 in chips) 
+Seat 2: y13txd ($95.92 in chips) 
+Seat 3: Melenya ($104.50 in chips) 
+Seat 4: skars07 ($101.50 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($103.02 in chips) 
+Melenya: posts small blind $0.50
+skars07: posts big blind $1
+*** HOLE CARDS ***
+Tibibacsi: folds 
+fish my nuts: raises $1.30 to $2.30
+MaRKiToScoK: calls $2.30
+y13txd: folds 
+Melenya: folds 
+skars07: folds 
+*** FLOP *** [8h 3c 7d]
+fish my nuts: checks 
+MaRKiToScoK: bets $1.50
+fish my nuts: calls $1.50
+*** TURN *** [8h 3c 7d] [5d]
+fish my nuts: checks 
+MaRKiToScoK: bets $6.48
+fish my nuts: calls $6.48
+*** RIVER *** [8h 3c 7d 5d] [Th]
+fish my nuts: checks 
+MaRKiToScoK: checks 
+*** SHOW DOWN ***
+fish my nuts: shows [Kd Kc] (a pair of Kings)
+MaRKiToScoK: mucks hand 
+fish my nuts collected $20.96 from pot
+*** SUMMARY ***
+Total pot $22.06 | Rake $1.10 
+Board [8h 3c 7d 5d Th]
+Seat 1: MaRKiToScoK mucked
+Seat 2: y13txd (button) folded before Flop (didn't bet)
+Seat 3: Melenya (small blind) folded before Flop
+Seat 4: skars07 (big blind) folded before Flop
+Seat 5: Tibibacsi folded before Flop (didn't bet)
+Seat 6: fish my nuts showed [Kd Kc] and won ($20.96) with a pair of Kings
+
+
+
+PokerStars Hand #254697976901:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:30:44 WET [2025/02/03 21:30:44 ET]
+Table 'Lucina II' 6-max Seat #3 is the button
+Seat 1: MaRKiToScoK ($100 in chips) 
+Seat 2: y13txd ($95.92 in chips) 
+Seat 3: Melenya ($104 in chips) 
+Seat 4: skars07 ($100.50 in chips) 
+Seat 5: Tibibacsi ($100 in chips) 
+Seat 6: fish my nuts ($113.70 in chips) 
+skars07: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+fish my nuts: folds 
+MaRKiToScoK: folds 
+y13txd: folds 
+Melenya: folds 
+skars07: raises $2 to $3
+Tibibacsi: raises $6 to $9
+skars07: calls $6
+*** FLOP *** [3h Kd Qs]
+skars07: checks 
+Tibibacsi: bets $5.64
+skars07: calls $5.64
+*** TURN *** [3h Kd Qs] [Qh]
+skars07: checks 
+Tibibacsi: checks 
+*** RIVER *** [3h Kd Qs Qh] [Td]
+skars07: bets $20.87
+Tibibacsi: calls $20.87
+*** SHOW DOWN ***
+skars07: shows [Qd Ac] (three of a kind, Queens)
+Tibibacsi: shows [9s Jh] (a straight, Nine to King)
+Tibibacsi collected $68.52 from pot
+*** SUMMARY ***
+Total pot $71.02 | Rake $2.50 
+Board [3h Kd Qs Qh Td]
+Seat 1: MaRKiToScoK folded before Flop (didn't bet)
+Seat 2: y13txd folded before Flop (didn't bet)
+Seat 3: Melenya (button) folded before Flop (didn't bet)
+Seat 4: skars07 (small blind) showed [Qd Ac] and lost with three of a kind, Queens
+Seat 5: Tibibacsi (big blind) showed [9s Jh] and won ($68.52) with a straight, Nine to King
+Seat 6: fish my nuts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254697998101:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:33:13 WET [2025/02/03 21:33:13 ET]
+Table 'Lucina II' 6-max Seat #4 is the button
+Seat 1: MaRKiToScoK ($100 in chips) 
+Seat 2: y13txd ($95.92 in chips) 
+Seat 3: Melenya ($104 in chips) 
+Seat 4: skars07 ($100 in chips) 
+Seat 5: Tibibacsi ($133.01 in chips) 
+Seat 6: fish my nuts ($113.70 in chips) 
+Tibibacsi: posts small blind $0.50
+fish my nuts: posts big blind $1
+*** HOLE CARDS ***
+MaRKiToScoK: folds 
+y13txd: raises $2 to $3
+Melenya: folds 
+skars07: raises $6 to $9
+Tibibacsi: folds 
+fish my nuts: folds 
+y13txd: folds 
+Uncalled bet ($6) returned to skars07
+skars07 collected $7.50 from pot
+skars07: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: MaRKiToScoK folded before Flop (didn't bet)
+Seat 2: y13txd folded before Flop
+Seat 3: Melenya folded before Flop (didn't bet)
+Seat 4: skars07 (button) collected ($7.50)
+Seat 5: Tibibacsi (small blind) folded before Flop
+Seat 6: fish my nuts (big blind) folded before Flop
+
+
+
+PokerStars Hand #254698003516:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:33:50 WET [2025/02/03 21:33:50 ET]
+Table 'Lucina II' 6-max Seat #5 is the button
+Seat 1: MaRKiToScoK ($100 in chips) 
+Seat 2: y13txd ($92.92 in chips) 
+Seat 3: Melenya ($104 in chips) 
+Seat 4: skars07 ($104.50 in chips) 
+Seat 5: Tibibacsi ($132.51 in chips) 
+Seat 6: fish my nuts ($112.70 in chips) 
+fish my nuts: posts small blind $0.50
+MaRKiToScoK: posts big blind $1
+*** HOLE CARDS ***
+y13txd: folds 
+Melenya: raises $1 to $2
+skars07: folds 
+Tibibacsi: folds 
+fish my nuts: folds 
+MaRKiToScoK: calls $1
+*** FLOP *** [4d Ts Qc]
+MaRKiToScoK: checks 
+Melenya: checks 
+*** TURN *** [4d Ts Qc] [Jh]
+MaRKiToScoK: checks 
+Melenya: checks 
+*** RIVER *** [4d Ts Qc Jh] [Qd]
+MaRKiToScoK: bets $8.56
+Melenya: folds 
+Uncalled bet ($8.56) returned to MaRKiToScoK
+MaRKiToScoK collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [4d Ts Qc Jh Qd]
+Seat 1: MaRKiToScoK (big blind) collected ($4.28)
+Seat 2: y13txd folded before Flop (didn't bet)
+Seat 3: Melenya folded on the River
+Seat 4: skars07 folded before Flop (didn't bet)
+Seat 5: Tibibacsi (button) folded before Flop (didn't bet)
+Seat 6: fish my nuts (small blind) folded before Flop
+
+
+
+PokerStars Hand #254698011575:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:34:47 WET [2025/02/03 21:34:47 ET]
+Table 'Lucina II' 6-max Seat #6 is the button
+Seat 1: MaRKiToScoK ($102.28 in chips) 
+Seat 2: y13txd ($92.92 in chips) 
+Seat 3: Melenya ($102 in chips) 
+Seat 4: skars07 ($104.50 in chips) 
+Seat 5: Tibibacsi ($132.51 in chips) 
+Seat 6: fish my nuts ($112.20 in chips) 
+MaRKiToScoK: posts small blind $0.50
+y13txd: posts big blind $1
+*** HOLE CARDS ***
+Melenya: folds 
+skars07: folds 
+Tibibacsi: folds 
+fish my nuts: folds 
+MaRKiToScoK: raises $2 to $3
+y13txd: calls $2
+*** FLOP *** [8c 9h 3h]
+MaRKiToScoK: bets $1.88
+y13txd: raises $3.88 to $5.76
+MaRKiToScoK: raises $19.95 to $25.71
+y13txd: folds 
+Uncalled bet ($19.95) returned to MaRKiToScoK
+MaRKiToScoK collected $16.64 from pot
+*** SUMMARY ***
+Total pot $17.52 | Rake $0.88 
+Board [8c 9h 3h]
+Seat 1: MaRKiToScoK (small blind) collected ($16.64)
+Seat 2: y13txd (big blind) folded on the Flop
+Seat 3: Melenya folded before Flop (didn't bet)
+Seat 4: skars07 folded before Flop (didn't bet)
+Seat 5: Tibibacsi folded before Flop (didn't bet)
+Seat 6: fish my nuts (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254698017558:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:35:28 WET [2025/02/03 21:35:28 ET]
+Table 'Lucina II' 6-max Seat #1 is the button
+Seat 1: MaRKiToScoK ($110.16 in chips) 
+Seat 2: y13txd ($84.16 in chips) 
+Seat 3: Melenya ($102 in chips) 
+Seat 4: skars07 ($104.50 in chips) 
+Seat 5: Tibibacsi ($132.51 in chips) 
+Seat 6: fish my nuts ($112.20 in chips) 
+y13txd: posts small blind $0.50
+Melenya: posts big blind $1
+*** HOLE CARDS ***
+skars07: folds 
+Tibibacsi: folds 
+fish my nuts: folds 
+MaRKiToScoK: raises $1.50 to $2.50
+y13txd: folds 
+Melenya: raises $10.50 to $13
+MaRKiToScoK: folds 
+Uncalled bet ($10.50) returned to Melenya
+y13txd leaves the table
+Melenya collected $5.50 from pot
+Melenya: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0 
+Seat 1: MaRKiToScoK (button) folded before Flop
+Seat 2: y13txd (small blind) folded before Flop
+Seat 3: Melenya (big blind) collected ($5.50)
+Seat 4: skars07 folded before Flop (didn't bet)
+Seat 5: Tibibacsi folded before Flop (didn't bet)
+Seat 6: fish my nuts folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254698021099:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/02/03 2:35:52 WET [2025/02/03 21:35:52 ET]
+Table 'Lucina II' 6-max Seat #3 is the button
+Seat 1: MaRKiToScoK ($107.66 in chips) 
+Seat 3: Melenya ($105 in chips) 
+Seat 4: skars07 ($104.50 in chips) 
+Seat 5: Tibibacsi ($132.51 in chips) 
+Seat 6: fish my nuts ($112.20 in chips) 
+skars07: posts small blind $0.50
+Tibibacsi: posts big blind $1
+*** HOLE CARDS ***
+fish my nuts: folds 
+fish my nuts leaves the table
+MaRKiToScoK: raises $1.20 to $2.20
+Melenya: folds 
+skars07: folds 
+Tibibacsi: folds 
+Uncalled bet ($1.20) returned to MaRKiToScoK
+MaRKiToScoK collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: MaRKiToScoK collected ($2.50)
+Seat 3: Melenya (button) folded before Flop (didn't bet)
+Seat 4: skars07 (small blind) folded before Flop
+Seat 5: Tibibacsi (big blind) folded before Flop
+Seat 6: fish my nuts folded before Flop (didn't bet)
+
+
+

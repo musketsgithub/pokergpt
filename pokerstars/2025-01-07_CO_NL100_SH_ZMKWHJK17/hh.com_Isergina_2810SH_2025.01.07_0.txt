@@ -1,0 +1,46 @@
+﻿PokerStars Hand #254242067244:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 8:45:15 WET [2025/01/07 3:45:15 ET]
+Table 'Isergina II' 6-max Seat #4 is the button
+Seat 1: fullboatQA ($10 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+Pon4uk.ua: posts small blind $0.50
+fullboatQA: posts big blind $1
+*** HOLE CARDS ***
+Pon4uk.ua: raises $1 to $2
+fullboatQA: raises $8 to $10 and is all-in
+Pon4uk.ua: folds 
+Uncalled bet ($8) returned to fullboatQA
+fullboatQA collected $4 from pot
+fullboatQA: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: fullboatQA (big blind) collected ($4)
+Seat 4: Pon4uk.ua (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254242068544:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/07 8:45:30 WET [2025/01/07 3:45:30 ET]
+Table 'Isergina II' 6-max Seat #1 is the button
+Seat 1: fullboatQA ($12 in chips) 
+Seat 4: Pon4uk.ua ($100 in chips) 
+fullboatQA: posts small blind $0.50
+Pon4uk.ua: posts big blind $1
+*** HOLE CARDS ***
+fullboatQA: calls $0.50
+Pon4uk.ua: raises $10.50 to $11.50
+fullboatQA: raises $0.50 to $12 and is all-in
+Pon4uk.ua: calls $0.50
+*** FLOP *** [Js 3c 5c]
+*** TURN *** [Js 3c 5c] [9h]
+*** RIVER *** [Js 3c 5c 9h] [Kh]
+*** SHOW DOWN ***
+Pon4uk.ua: shows [Ks 6s] (a pair of Kings)
+fullboatQA: shows [8d Ac] (high card Ace)
+Pon4uk.ua collected $23 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1 
+Board [Js 3c 5c 9h Kh]
+Seat 1: fullboatQA (button) (small blind) showed [8d Ac] and lost with high card Ace
+Seat 4: Pon4uk.ua (big blind) showed [Ks 6s] and won ($23) with a pair of Kings
+
+
+

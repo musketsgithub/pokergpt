@@ -1,0 +1,719 @@
+﻿PokerStars Hand #254276681027:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:20:46 WET [2025/01/09 7:20:46 ET]
+Table 'Galvarino II' 6-max Seat #3 is the button
+Seat 3: mironchikvld ($100 in chips) 
+Seat 4: srsteck ($10 in chips) 
+Seat 5: blistein ($100 in chips) 
+srsteck is disconnected 
+srsteck is connected 
+srsteck: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty joins the table at seat #6 
+mironchikvld: raises $1.50 to $2.50
+srsteck: calls $2
+blistein: folds 
+*** FLOP *** [9d Ah 7c]
+srsteck: bets $2
+mironchikvld: calls $2
+*** TURN *** [9d Ah 7c] [8h]
+srsteck: bets $5.50 and is all-in
+mironchikvld: calls $5.50
+*** RIVER *** [9d Ah 7c 8h] [Ks]
+*** SHOW DOWN ***
+srsteck: shows [As 7h] (two pair, Aces and Sevens)
+mironchikvld: shows [9s Th] (a pair of Nines)
+srsteck collected $20 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1 
+Board [9d Ah 7c 8h Ks]
+Seat 3: mironchikvld (button) showed [9s Th] and lost with a pair of Nines
+Seat 4: srsteck (small blind) showed [As 7h] and won ($20) with two pair, Aces and Sevens
+Seat 5: blistein (big blind) folded before Flop
+
+
+
+PokerStars Hand #254276687340:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:21:31 WET [2025/01/09 7:21:31 ET]
+Table 'Galvarino II' 6-max Seat #4 is the button
+Seat 3: mironchikvld ($100 in chips) 
+Seat 4: srsteck ($20 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($100 in chips) 
+blistein: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: folds 
+srsteck: calls $1
+blistein: calls $0.50
+gig.gyty: checks 
+*** FLOP *** [4d 3c 6c]
+blistein: checks 
+gig.gyty: bets $2.19
+srsteck: folds 
+blistein: folds 
+Uncalled bet ($2.19) returned to gig.gyty
+gig.gyty collected $2.85 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [4d 3c 6c]
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: srsteck (button) folded on the Flop
+Seat 5: blistein (small blind) folded on the Flop
+Seat 6: gig.gyty (big blind) collected ($2.85)
+
+
+
+PokerStars Hand #254276692521:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:22:08 WET [2025/01/09 7:22:08 ET]
+Table 'Galvarino II' 6-max Seat #5 is the button
+Seat 3: mironchikvld ($100 in chips) 
+Seat 4: srsteck ($19 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($101.85 in chips) 
+gig.gyty: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+srsteck: calls $1
+blistein: folds 
+gig.gyty: folds 
+mironchikvld: checks 
+*** FLOP *** [2h 4h 7h]
+mironchikvld: checks 
+srsteck: checks 
+*** TURN *** [2h 4h 7h] [6h]
+mironchikvld: bets $1
+srsteck: raises $1 to $2
+mironchikvld: calls $1
+*** RIVER *** [2h 4h 7h 6h] [Td]
+mironchikvld: checks 
+srsteck: bets $6.18
+mironchikvld: calls $6.18
+*** SHOW DOWN ***
+srsteck: shows [8s Ks] (high card King)
+mironchikvld: shows [7c 9h] (a flush, Nine high)
+mironchikvld collected $17.92 from pot
+*** SUMMARY ***
+Total pot $18.86 | Rake $0.94 
+Board [2h 4h 7h 6h Td]
+Seat 3: mironchikvld (big blind) showed [7c 9h] and won ($17.92) with a flush, Nine high
+Seat 4: srsteck showed [8s Ks] and lost with high card King
+Seat 5: blistein (button) folded before Flop (didn't bet)
+Seat 6: gig.gyty (small blind) folded before Flop
+
+
+
+PokerStars Hand #254276702337:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:23:18 WET [2025/01/09 7:23:18 ET]
+Table 'Galvarino II' 6-max Seat #6 is the button
+Seat 3: mironchikvld ($108.74 in chips) 
+Seat 4: srsteck ($9.82 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($101.35 in chips) 
+mironchikvld: posts small blind $0.50
+srsteck: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gig.gyty: folds 
+mironchikvld: folds 
+Uncalled bet ($0.50) returned to srsteck
+srsteck collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: mironchikvld (small blind) folded before Flop
+Seat 4: srsteck (big blind) collected ($1)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: gig.gyty (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254276704425:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:23:32 WET [2025/01/09 7:23:32 ET]
+Table 'Galvarino II' 6-max Seat #3 is the button
+Seat 3: mironchikvld ($108.24 in chips) 
+Seat 4: srsteck ($10.32 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($101.35 in chips) 
+srsteck: posts small blind $0.50
+blistein: posts big blind $1
+*** HOLE CARDS ***
+gig.gyty: folds 
+mironchikvld: raises $1.50 to $2.50
+srsteck: calls $2
+blistein: folds 
+*** FLOP *** [8d 2s 4d]
+srsteck: bets $7.82 and is all-in
+mironchikvld: folds 
+Uncalled bet ($7.82) returned to srsteck
+srsteck collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [8d 2s 4d]
+Seat 3: mironchikvld (button) folded on the Flop
+Seat 4: srsteck (small blind) collected ($5.70)
+Seat 5: blistein (big blind) folded before Flop
+Seat 6: gig.gyty folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254276710558:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:24:16 WET [2025/01/09 7:24:16 ET]
+Table 'Galvarino II' 6-max Seat #4 is the button
+Seat 3: mironchikvld ($105.74 in chips) 
+Seat 4: srsteck ($13.52 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($101.35 in chips) 
+blistein: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld: folds 
+srsteck: raises $1 to $2
+blistein: folds 
+gig.gyty: raises $13 to $15
+srsteck: calls $11.52 and is all-in
+Uncalled bet ($1.48) returned to gig.gyty
+*** FLOP *** [Jc Ts 4h]
+*** TURN *** [Jc Ts 4h] [5h]
+*** RIVER *** [Jc Ts 4h 5h] [Tc]
+*** SHOW DOWN ***
+gig.gyty: shows [Kh 9h] (a pair of Tens)
+srsteck: shows [Qs Js] (two pair, Jacks and Tens)
+srsteck collected $26.54 from pot
+*** SUMMARY ***
+Total pot $27.54 | Rake $1 
+Board [Jc Ts 4h 5h Tc]
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: srsteck (button) showed [Qs Js] and won ($26.54) with two pair, Jacks and Tens
+Seat 5: blistein (small blind) folded before Flop
+Seat 6: gig.gyty (big blind) showed [Kh 9h] and lost with a pair of Tens
+
+
+
+PokerStars Hand #254276715512:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:24:50 WET [2025/01/09 7:24:50 ET]
+Table 'Galvarino II' 6-max Seat #5 is the button
+Seat 3: mironchikvld ($105.74 in chips) 
+Seat 4: srsteck ($26.54 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($100 in chips) 
+gig.gyty: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick joins the table at seat #2 
+NOTfishON joins the table at seat #1 
+srsteck: folds 
+blistein: folds 
+gig.gyty: folds 
+Uncalled bet ($0.50) returned to mironchikvld
+mironchikvld collected $1 from pot
+mironchikvld: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: mironchikvld (big blind) collected ($1)
+Seat 4: srsteck folded before Flop (didn't bet)
+Seat 5: blistein (button) folded before Flop (didn't bet)
+Seat 6: gig.gyty (small blind) folded before Flop
+
+
+
+PokerStars Hand #254276716861:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:25:00 WET [2025/01/09 7:25:00 ET]
+Table 'Galvarino II' 6-max Seat #6 is the button
+Seat 1: NOTfishON ($100 in chips) is sitting out
+Seat 2: b2k-Snick ($100 in chips) is sitting out
+Seat 3: mironchikvld ($106.24 in chips) 
+Seat 4: srsteck ($26.54 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($100 in chips) 
+mironchikvld: posts small blind $0.50
+srsteck: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gig.gyty: raises $1.50 to $2.50
+mironchikvld: raises $9.50 to $12
+srsteck: folds 
+gig.gyty: folds 
+Uncalled bet ($9.50) returned to mironchikvld
+mironchikvld collected $6 from pot
+mironchikvld: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: NOTfishON
+Seat 2: b2k-Snick
+Seat 3: mironchikvld (small blind) collected ($6)
+Seat 4: srsteck (big blind) folded before Flop
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: gig.gyty (button) folded before Flop
+
+
+
+PokerStars Hand #254276719268:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:25:17 WET [2025/01/09 7:25:17 ET]
+Table 'Galvarino II' 6-max Seat #3 is the button
+Seat 1: NOTfishON ($100 in chips) is sitting out
+Seat 2: b2k-Snick ($100 in chips) is sitting out
+Seat 3: mironchikvld ($109.74 in chips) 
+Seat 4: srsteck ($25.54 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($100 in chips) 
+srsteck: posts small blind $0.50
+blistein: posts big blind $1
+NOTfishON: sits out 
+b2k-Snick: sits out 
+*** HOLE CARDS ***
+gig.gyty: folds 
+mironchikvld: raises $2 to $3
+srsteck: calls $2.50
+blistein: folds 
+*** FLOP *** [6s 8h 3s]
+srsteck: checks 
+mironchikvld: bets $2.19
+srsteck: calls $2.19
+*** TURN *** [6s 8h 3s] [2c]
+srsteck: checks 
+mironchikvld: checks 
+*** RIVER *** [6s 8h 3s 2c] [5c]
+srsteck: bets $5
+mironchikvld: folds 
+Uncalled bet ($5) returned to srsteck
+srsteck collected $10.81 from pot
+*** SUMMARY ***
+Total pot $11.38 | Rake $0.57 
+Board [6s 8h 3s 2c 5c]
+Seat 1: NOTfishON
+Seat 2: b2k-Snick
+Seat 3: mironchikvld (button) folded on the River
+Seat 4: srsteck (small blind) collected ($10.81)
+Seat 5: blistein (big blind) folded before Flop
+Seat 6: gig.gyty folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254276731029:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:26:38 WET [2025/01/09 7:26:38 ET]
+Table 'Galvarino II' 6-max Seat #4 is the button
+Seat 1: NOTfishON ($100 in chips) is sitting out
+Seat 2: b2k-Snick ($100 in chips) is sitting out
+Seat 3: mironchikvld ($104.55 in chips) 
+Seat 4: srsteck ($31.16 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($100 in chips) 
+blistein: posts small blind $0.50
+gig.gyty: posts big blind $1
+NOTfishON: sits out 
+b2k-Snick: sits out 
+*** HOLE CARDS ***
+mironchikvld: folds 
+srsteck: calls $1
+blistein: raises $3 to $4
+gig.gyty: calls $3
+srsteck: calls $3
+*** FLOP *** [4c Kh Qh]
+blistein: checks 
+gig.gyty: checks 
+srsteck: bets $2
+blistein: calls $2
+gig.gyty: raises $10 to $12
+srsteck: folds 
+blistein: folds 
+Uncalled bet ($10) returned to gig.gyty
+gig.gyty collected $17.10 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [4c Kh Qh]
+Seat 1: NOTfishON
+Seat 2: b2k-Snick
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: srsteck (button) folded on the Flop
+Seat 5: blistein (small blind) folded on the Flop
+Seat 6: gig.gyty (big blind) collected ($17.10)
+
+
+
+PokerStars Hand #254276741510:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:27:50 WET [2025/01/09 7:27:50 ET]
+Table 'Galvarino II' 6-max Seat #5 is the button
+Seat 2: b2k-Snick ($100 in chips) is sitting out
+Seat 1: NOTfishON ($100 in chips) 
+Seat 3: mironchikvld ($104.55 in chips) 
+Seat 4: srsteck ($25.16 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($111.10 in chips) 
+gig.gyty: posts small blind $0.50
+NOTfishON: posts big blind $1
+b2k-Snick: sits out 
+*** HOLE CARDS ***
+mironchikvld has timed out
+mironchikvld: folds 
+srsteck: calls $1
+blistein: folds 
+gig.gyty: raises $3 to $4
+NOTfishON: folds 
+srsteck: calls $3
+*** FLOP *** [2s 5s Qh]
+gig.gyty: bets $2.14
+srsteck: calls $2.14
+*** TURN *** [2s 5s Qh] [6s]
+gig.gyty: checks 
+srsteck: bets $3
+gig.gyty: calls $3
+*** RIVER *** [2s 5s Qh 6s] [2c]
+gig.gyty: checks 
+srsteck: bets $6
+gig.gyty: calls $6
+*** SHOW DOWN ***
+srsteck: shows [5h Kc] (two pair, Fives and Deuces)
+gig.gyty: shows [As 5d] (two pair, Fives and Deuces - Ace kicker)
+gig.gyty collected $29.72 from pot
+*** SUMMARY ***
+Total pot $31.28 | Rake $1.56 
+Board [2s 5s Qh 6s 2c]
+Seat 2: b2k-Snick
+Seat 1: NOTfishON (big blind) folded before Flop
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: srsteck showed [5h Kc] and lost with two pair, Fives and Deuces
+Seat 5: blistein (button) folded before Flop (didn't bet)
+Seat 6: gig.gyty (small blind) showed [As 5d] and won ($29.72) with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #254276751817:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:29:01 WET [2025/01/09 7:29:01 ET]
+Table 'Galvarino II' 6-max Seat #6 is the button
+Seat 1: NOTfishON ($100 in chips) 
+Seat 2: b2k-Snick ($100 in chips) 
+Seat 3: mironchikvld ($104.55 in chips) 
+Seat 4: srsteck ($10.02 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($125.68 in chips) 
+NOTfishON: posts small blind $0.50
+b2k-Snick: posts big blind $1
+*** HOLE CARDS ***
+mironchikvld has timed out
+mironchikvld: folds 
+srsteck: folds 
+blistein: folds 
+gig.gyty: raises $1.50 to $2.50
+NOTfishON: raises $8.50 to $11
+b2k-Snick: folds 
+gig.gyty: raises $13 to $24
+NOTfishON: raises $76 to $100 and is all-in
+gig.gyty: calls $76
+*** FIRST FLOP *** [2d Jd Jc]
+*** FIRST TURN *** [2d Jd Jc] [9d]
+*** FIRST RIVER *** [2d Jd Jc 9d] [6s]
+*** SECOND FLOP *** [8c 6c 2c]
+*** SECOND TURN *** [8c 6c 2c] [Ts]
+*** SECOND RIVER *** [8c 6c 2c Ts] [Tc]
+*** FIRST SHOW DOWN ***
+NOTfishON: shows [Kc Ah] (a pair of Jacks)
+gig.gyty: shows [Kd Ac] (a pair of Jacks)
+NOTfishON collected $49.63 from pot
+gig.gyty collected $49.62 from pot
+*** SECOND SHOW DOWN ***
+NOTfishON: shows [Kc Ah] (a flush, King high)
+gig.gyty: shows [Kd Ac] (a flush, Ace high)
+gig.gyty collected $99.25 from pot
+*** SUMMARY ***
+Total pot $201 | Rake $2.50 
+Hand was run twice
+FIRST Board [2d Jd Jc 9d 6s]
+SECOND Board [8c 6c 2c Ts Tc]
+Seat 1: NOTfishON (small blind) showed [Kc Ah] and won ($49.63) with a pair of Jacks, and lost with a flush, King high
+Seat 2: b2k-Snick (big blind) folded before Flop
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 4: srsteck folded before Flop (didn't bet)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: gig.gyty (button) showed [Kd Ac] and won ($49.62) with a pair of Jacks, and won ($99.25) with a flush, Ace high
+
+
+
+PokerStars Hand #254276760030:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:29:58 WET [2025/01/09 7:29:58 ET]
+Table 'Galvarino II' 6-max Seat #1 is the button
+Seat 1: NOTfishON ($100 in chips) 
+Seat 2: b2k-Snick ($100 in chips) 
+Seat 3: mironchikvld ($104.55 in chips) 
+Seat 4: srsteck ($10.02 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($174.55 in chips) 
+b2k-Snick: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+srsteck: calls $1
+blistein: folds 
+gig.gyty: folds 
+NOTfishON: folds 
+b2k-Snick: folds 
+mironchikvld: checks 
+*** FLOP *** [Qc Tc 5s]
+mironchikvld: checks 
+srsteck: bets $2
+mironchikvld: folds 
+Uncalled bet ($2) returned to srsteck
+srsteck collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Qc Tc 5s]
+Seat 1: NOTfishON (button) folded before Flop (didn't bet)
+Seat 2: b2k-Snick (small blind) folded before Flop
+Seat 3: mironchikvld (big blind) folded on the Flop
+Seat 4: srsteck collected ($2.38)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: gig.gyty folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254276765436:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:30:35 WET [2025/01/09 7:30:35 ET]
+Table 'Galvarino II' 6-max Seat #2 is the button
+Seat 1: NOTfishON ($100 in chips) 
+Seat 2: b2k-Snick ($100 in chips) 
+Seat 3: mironchikvld ($103.55 in chips) 
+Seat 4: srsteck ($11.40 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($174.55 in chips) 
+mironchikvld: posts small blind $0.50
+srsteck: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gig.gyty: folds 
+NOTfishON: folds 
+b2k-Snick: raises $1.50 to $2.50
+mironchikvld: folds 
+srsteck: raises $1.50 to $4
+b2k-Snick: raises $96 to $100 and is all-in
+srsteck: calls $7.40 and is all-in
+Uncalled bet ($88.60) returned to b2k-Snick
+*** FLOP *** [Jh 3s Ah]
+*** TURN *** [Jh 3s Ah] [Kd]
+*** RIVER *** [Jh 3s Ah Kd] [5s]
+*** SHOW DOWN ***
+srsteck: shows [2c 2s] (a pair of Deuces)
+b2k-Snick: shows [3c Ac] (two pair, Aces and Threes)
+b2k-Snick collected $22.14 from pot
+*** SUMMARY ***
+Total pot $23.30 | Rake $1.16 
+Board [Jh 3s Ah Kd 5s]
+Seat 1: NOTfishON folded before Flop (didn't bet)
+Seat 2: b2k-Snick (button) showed [3c Ac] and won ($22.14) with two pair, Aces and Threes
+Seat 3: mironchikvld (small blind) folded before Flop
+Seat 4: srsteck (big blind) showed [2c 2s] and lost with a pair of Deuces
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: gig.gyty folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254276773081:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:31:27 WET [2025/01/09 7:31:27 ET]
+Table 'Galvarino II' 6-max Seat #3 is the button
+Seat 4: srsteck ($0 in chips) is sitting out
+Seat 1: NOTfishON ($100 in chips) 
+Seat 2: b2k-Snick ($110.74 in chips) 
+Seat 3: mironchikvld ($103.05 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($174.55 in chips) 
+blistein: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+NOTfishON: folds 
+b2k-Snick: folds 
+srsteck leaves the table
+mironchikvld: raises $2 to $3
+blistein: folds 
+gig.gyty: folds 
+Uncalled bet ($2) returned to mironchikvld
+mironchikvld collected $2.50 from pot
+mironchikvld: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 4: srsteck
+Seat 1: NOTfishON folded before Flop (didn't bet)
+Seat 2: b2k-Snick folded before Flop (didn't bet)
+Seat 3: mironchikvld (button) collected ($2.50)
+Seat 5: blistein (small blind) folded before Flop
+Seat 6: gig.gyty (big blind) folded before Flop
+
+
+
+PokerStars Hand #254276776341:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:31:49 WET [2025/01/09 7:31:49 ET]
+Table 'Galvarino II' 6-max Seat #5 is the button
+Seat 1: NOTfishON ($100 in chips) 
+Seat 2: b2k-Snick ($110.74 in chips) 
+Seat 3: mironchikvld ($104.55 in chips) 
+Seat 5: blistein ($100 in chips) 
+Seat 6: gig.gyty ($173.55 in chips) 
+gig.gyty: posts small blind $0.50
+NOTfishON: posts big blind $1
+*** HOLE CARDS ***
+b2k-Snick: folds 
+mironchikvld: folds 
+blistein: raises $1.50 to $2.50
+gig.gyty: folds 
+NOTfishON: calls $1.50
+*** FLOP *** [Ks 6h Qd]
+NOTfishON: checks 
+blistein: bets $3.92
+NOTfishON: calls $3.92
+*** TURN *** [Ks 6h Qd] [Ah]
+NOTfishON: checks 
+Sistiricka joins the table at seat #4 
+Sistiricka is disconnected 
+blistein: bets $9.50
+NOTfishON: folds 
+Uncalled bet ($9.50) returned to blistein
+blistein collected $12.67 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.67 
+Board [Ks 6h Qd Ah]
+Seat 1: NOTfishON (big blind) folded on the Turn
+Seat 2: b2k-Snick folded before Flop (didn't bet)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 5: blistein (button) collected ($12.67)
+Seat 6: gig.gyty (small blind) folded before Flop
+
+
+
+PokerStars Hand #254276792716:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:33:42 WET [2025/01/09 7:33:42 ET]
+Table 'Galvarino II' 6-max Seat #6 is the button
+Seat 4: Sistiricka ($19.37 in chips) is sitting out
+Seat 1: NOTfishON ($100 in chips) 
+Seat 2: b2k-Snick ($110.74 in chips) 
+Seat 3: mironchikvld ($104.55 in chips) 
+Seat 5: blistein ($106.25 in chips) 
+Seat 6: gig.gyty ($173.05 in chips) 
+NOTfishON: posts small blind $0.50
+b2k-Snick: posts big blind $1
+Sistiricka: sits out 
+*** HOLE CARDS ***
+mironchikvld: folds 
+blistein: folds 
+gig.gyty: folds 
+NOTfishON: folds 
+Uncalled bet ($0.50) returned to b2k-Snick
+b2k-Snick collected $1 from pot
+b2k-Snick: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: Sistiricka
+Seat 1: NOTfishON (small blind) folded before Flop
+Seat 2: b2k-Snick (big blind) collected ($1)
+Seat 3: mironchikvld folded before Flop (didn't bet)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: gig.gyty (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254276795339:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:33:59 WET [2025/01/09 7:33:59 ET]
+Table 'Galvarino II' 6-max Seat #1 is the button
+Seat 3: mironchikvld ($104.55 in chips) is sitting out
+Seat 1: NOTfishON ($100 in chips) 
+Seat 2: b2k-Snick ($111.24 in chips) 
+Seat 4: Sistiricka ($19.37 in chips) 
+Seat 5: blistein ($106.25 in chips) 
+Seat 6: gig.gyty ($173.05 in chips) 
+b2k-Snick: posts small blind $0.50
+mironchikvld: is sitting out 
+Sistiricka: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gig.gyty: folds 
+NOTfishON: raises $1 to $2
+b2k-Snick: folds 
+Sistiricka: calls $1
+*** FLOP *** [8d Js Qd]
+Sistiricka: checks 
+NOTfishON: checks 
+*** TURN *** [8d Js Qd] [8c]
+Sistiricka: bets $4.28
+NOTfishON: calls $4.28
+*** RIVER *** [8d Js Qd 8c] [3c]
+Sistiricka: bets $13.09 and is all-in
+NOTfishON: calls $13.09
+*** SHOW DOWN ***
+Sistiricka: shows [2h Kc] (a pair of Eights)
+NOTfishON: shows [Ac 8s] (three of a kind, Eights)
+NOTfishON collected $37.28 from pot
+*** SUMMARY ***
+Total pot $39.24 | Rake $1.96 
+Board [8d Js Qd 8c 3c]
+Seat 3: mironchikvld
+Seat 1: NOTfishON (button) showed [Ac 8s] and won ($37.28) with three of a kind, Eights
+Seat 2: b2k-Snick (small blind) folded before Flop
+Seat 4: Sistiricka (big blind) showed [2h Kc] and lost with a pair of Eights
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: gig.gyty folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254276803228:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:34:51 WET [2025/01/09 7:34:51 ET]
+Table 'Galvarino II' 6-max Seat #2 is the button
+Seat 3: mironchikvld ($104.55 in chips) is sitting out
+Seat 4: Sistiricka ($0 in chips) is sitting out
+Seat 1: NOTfishON ($117.91 in chips) 
+Seat 2: b2k-Snick ($110.74 in chips) 
+Seat 5: blistein ($106.25 in chips) 
+Seat 6: gig.gyty ($173.05 in chips) 
+blistein: posts small blind $0.50
+gig.gyty: posts big blind $1
+*** HOLE CARDS ***
+NOTfishON: folds 
+b2k-Snick: folds 
+blistein: folds 
+Uncalled bet ($0.50) returned to gig.gyty
+gig.gyty collected $1 from pot
+gig.gyty: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: mironchikvld
+Seat 4: Sistiricka
+Seat 1: NOTfishON folded before Flop (didn't bet)
+Seat 2: b2k-Snick (button) folded before Flop (didn't bet)
+Seat 5: blistein (small blind) folded before Flop
+Seat 6: gig.gyty (big blind) collected ($1)
+
+
+
+PokerStars Hand #254276804319:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:34:59 WET [2025/01/09 7:34:59 ET]
+Table 'Galvarino II' 6-max Seat #5 is the button
+Seat 3: mironchikvld ($104.55 in chips) is sitting out
+Seat 1: NOTfishON ($117.91 in chips) 
+Seat 2: b2k-Snick ($110.74 in chips) 
+Seat 5: blistein ($105.75 in chips) 
+Seat 6: gig.gyty ($173.55 in chips) 
+Sistiricka leaves the table
+gig.gyty: posts small blind $0.50
+NOTfishON: posts big blind $1
+mironchikvld: sits out 
+*** HOLE CARDS ***
+b2k-Snick: folds 
+b2k-Snick leaves the table
+blistein: raises $1.50 to $2.50
+gig.gyty: folds 
+NOTfishON: folds 
+Uncalled bet ($1.50) returned to blistein
+blistein collected $2.50 from pot
+blistein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 3: mironchikvld
+Seat 1: NOTfishON (big blind) folded before Flop
+Seat 2: b2k-Snick folded before Flop (didn't bet)
+Seat 5: blistein (button) collected ($2.50)
+Seat 6: gig.gyty (small blind) folded before Flop
+
+
+
+PokerStars Hand #254276807355:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/09 12:35:19 WET [2025/01/09 7:35:19 ET]
+Table 'Galvarino II' 6-max Seat #6 is the button
+Seat 1: NOTfishON ($116.91 in chips) 
+Seat 3: mironchikvld ($104.55 in chips) 
+Seat 5: blistein ($107.25 in chips) 
+Seat 6: gig.gyty ($173.05 in chips) 
+NOTfishON: posts small blind $0.50
+mironchikvld: posts big blind $1
+*** HOLE CARDS ***
+blistein: folds 
+gig.gyty: folds 
+NOTfishON: folds 
+Uncalled bet ($0.50) returned to mironchikvld
+blistein leaves the table
+mironchikvld collected $1 from pot
+mironchikvld: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: NOTfishON (small blind) folded before Flop
+Seat 3: mironchikvld (big blind) collected ($1)
+Seat 5: blistein folded before Flop (didn't bet)
+Seat 6: gig.gyty (button) folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,61 @@
+﻿PokerStars Hand #254582922754:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:20:19 WET [2025/01/27 14:20:19 ET]
+Table 'Mathilde V' 6-max Seat #3 is the button
+Seat 4: laloo246 ($100 in chips) is sitting out
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 3: Supermegopro ($100 in chips) 
+Supermegopro: posts small blind $0.50
+ImaPeppaPig: posts big blind $1
+*** HOLE CARDS ***
+Supermegopro: raises $2 to $3
+ImaPeppaPig: calls $2
+*** FLOP *** [Qd As 7d]
+ImaPeppaPig: checks 
+laloo246 leaves the table
+Supermegopro: checks 
+*** TURN *** [Qd As 7d] [6h]
+ImaPeppaPig: checks 
+Supermegopro: checks 
+*** RIVER *** [Qd As 7d 6h] [Ad]
+ImaPeppaPig: bets $1
+Supermegopro: raises $5.78 to $6.78
+ImaPeppaPig: calls $5.78
+*** SHOW DOWN ***
+Supermegopro: shows [Qh Ks] (two pair, Aces and Queens)
+ImaPeppaPig: mucks hand 
+Supermegopro collected $18.58 from pot
+*** SUMMARY ***
+Total pot $19.56 | Rake $0.98 
+Board [Qd As 7d 6h Ad]
+Seat 4: laloo246
+Seat 1: ImaPeppaPig (big blind) mucked
+Seat 3: Supermegopro (button) (small blind) showed [Qh Ks] and won ($18.58) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #254582932921:  Hold'em No Limit ($0.50/$1.00 USD) - 2025/01/27 19:20:53 WET [2025/01/27 14:20:53 ET]
+Table 'Mathilde V' 6-max Seat #1 is the button
+Seat 1: ImaPeppaPig ($100 in chips) 
+Seat 3: Supermegopro ($108.80 in chips) 
+ImaPeppaPig: posts small blind $0.50
+Supermegopro: posts big blind $1
+*** HOLE CARDS ***
+ImaPeppaPig: raises $1.50 to $2.50
+Supermegopro: calls $1.50
+*** FLOP *** [Jh 7d Ad]
+Supermegopro: checks 
+ImaPeppaPig: checks 
+*** TURN *** [Jh 7d Ad] [8c]
+Supermegopro: checks 
+ImaPeppaPig: bets $3.61
+Supermegopro: folds 
+Uncalled bet ($3.61) returned to ImaPeppaPig
+ImaPeppaPig collected $4.75 from pot
+ImaPeppaPig: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Jh 7d Ad 8c]
+Seat 1: ImaPeppaPig (button) (small blind) collected ($4.75)
+Seat 3: Supermegopro (big blind) folded on the Turn
+
+
+
